@@ -7,7 +7,7 @@ filepath_paperCategories = 'data/paperClassification/paperCategories.yaml'
 
 keywords_to_classes = {
     'taxonomy': ['taxonomy'],
-    'survey': ['survey'],
+    'survey': ['survey', 'state of', 'state-of'],
     'review': ['review'],
     'text and documents': [' text'],
     'graph': ['graph', 'network', 'tree', 'edge', 'matrix', 'set'],
