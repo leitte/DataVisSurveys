@@ -1,0 +1,187 @@
+{
+  "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+  "externalIds": {
+    "DBLP": "journals/tochi/ApperleyL94",
+    "MAG": "2166828145",
+    "DOI": "10.1145/180171.180173",
+    "CorpusId": 261044237
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2ef57952a80189d14a3d697d77a13b080917dbe0",
+  "title": "A review and taxonomy of distortion-oriented presentation techniques",
+  "abstract": "One of the common problems associated with large computer-based information systems is the relatively small window through which an information space can be viewed. Increasing interest in recent years has been focused on the development of distortion-oriented presentation techniques to address this problem. However, the growing number of new terminologies and techniques developed have caused considerable confusion to the graphical user interface designer, consequently making the comparison of these presentation techniques and generalization of empirical results of experiments with them very difficult, if not impossible. This article provides a taxonomy of distortion-oriented techniques which demonstrates clearly their underlying relationships. A unified theory is presented to reveal their roots and origins. Issues relating to the implementation and performance of these techniques are also discussed.",
+  "venue": "TCHI",
+  "year": 1994,
+  "referenceCount": 33,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "1994-06-01",
+  "journal": {
+    "name": "ACM Trans. Comput. Hum. Interact.",
+    "pages": "126-160",
+    "volume": "1"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Leung1994ARA,\n author = {Y. Leung and M. Apperley},\n booktitle = {TCHI},\n journal = {ACM Trans. Comput. Hum. Interact.},\n pages = {126-160},\n title = {A review and taxonomy of distortion-oriented presentation techniques},\n volume = {1},\n year = {1994}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "31690438",
+      "name": "Y. Leung"
+    },
+    {
+      "authorId": "2844320",
+      "name": "M. Apperley"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ed34097c10c7b7dea1e4301e4485bbb9e3f0d99d",
+      "title": "Fractal views: a fractal-based method for controlling information display"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "0172edaafde0a1c8790790cfc318a3c47deb3b9a",
+      "title": "The document lens"
+    },
+    {
+      "paperId": "2c262decde5a24107b465b94f7fc19fbb2503691",
+      "title": "Stretching the rubber sheet: a metaphor for viewing large layouts on small screens"
+    },
+    {
+      "paperId": "ba2e217829c2f2892bae304bed83ea25295cfb79",
+      "title": "E3: Towards the Metrication of Graphical Presentation Techniques for Large Data Sets"
+    },
+    {
+      "paperId": "2bce3652255bbd533973626bd7cfde23a57bd6c0",
+      "title": "Graphical fisheye views of graphs"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "a5855a61ec0ff51df9844866398a67268b514e00",
+      "title": "The perspective wall: detail and context smoothly integrated"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "3538739741d7dd27788ef35d9f0900adb070d6f8",
+      "title": "The information visualizer, an information workspace"
+    },
+    {
+      "paperId": "588dc869e9527724000a9c9d20547ecee40b389d",
+      "title": "Navigational techniques to improve the display of large two-dimensional spaces"
+    },
+    {
+      "paperId": "9702d37fbb31d3a816a9a4db06d92bb16f126a3b",
+      "title": "Reading computer-displayed moving text with and without self-control over the display rate"
+    },
+    {
+      "paperId": "515547033383ff95a76916693cce5927cdc17494",
+      "title": "A fisheye presentation strategy: Aircraft maintenance data"
+    },
+    {
+      "paperId": "e62917a41191de461546bc9c6706387179d6bfed",
+      "title": "Human-computer interface techniques for map based diagrams"
+    },
+    {
+      "paperId": "c47d2d491d4526b86f769f667cc798229d7be7d7",
+      "title": "Presenting a graphical network: a comparison of performance using fisheye and scrolling views"
+    },
+    {
+      "paperId": "7bce91ebcf6d29539b2335d8da52b5648a9816f2",
+      "title": "Reading dynamically displayed text"
+    },
+    {
+      "paperId": "d93f6d280fd6cb3e229fbec2db275c34486271f3",
+      "title": "A Comparison of Hypertext, Scrolling and Folding as Mechanisms for Program Browsing"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "ada12c08a0ee5564e1e3b90406ef75763ce15064",
+      "title": "A prototype Spatial Data Management System"
+    },
+    {
+      "paperId": "304ef3ef31ec0b3219c0ced6c7c3b7a63b033078",
+      "title": "Spatial management of information"
+    },
+    {
+      "paperId": "0a564b6328d8039c271497e36a36e327dcf05d2a",
+      "title": "A Polyfocal Projection for Statistical Surfaces"
+    },
+    {
+      "paperId": "9c844f65b598cecbfc25fb60c33d51a33bb23d3a",
+      "title": "A CONTINUOUS TRANSFORMATION USEFUL FOR DISTRICTING"
+    },
+    {
+      "paperId": null,
+      "title": "Extending the Perspective Wall"
+    },
+    {
+      "paperId": null,
+      "title": "A multi-dimensional approach to interface evaluation"
+    },
+    {
+      "paperId": null,
+      "title": "Multi-viewpoint perspective display methods: Formulation and application to compound graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Human-computer interaction techniques for map-based diagrams. Unde- signing and Using Human -Computer Interfaces and Knowledge Based Systems"
+    },
+    {
+      "paperId": "34b11f89d09b6132286d481bfd704d9bcd5b51ee",
+      "title": "Data base navigation: an office environment for the professional"
+    },
+    {
+      "paperId": "5a2b6f6cfb96d83e730f6012f67a67c28d9253e2",
+      "title": "A Bifocal Display Technique for Data Presentation"
+    },
+    {
+      "paperId": null,
+      "title": "Information display in interactive design"
+    },
+    {
+      "paperId": null,
+      "title": "ACM Trans. Infi Syst. To be published"
+    },
+    {
+      "paperId": null,
+      "title": "Cos ()).x + (k -Cos 0)"
+    },
+    {
+      "paperId": null,
+      "title": "Visualisation Conference"
+    }
+  ]
+}

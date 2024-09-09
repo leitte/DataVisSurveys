@@ -1,0 +1,1064 @@
+{
+  "paperId": "ebaf6fafb4adb7f3657fdbb869249c727ffccf7e",
+  "externalIds": {
+    "DBLP": "journals/cgf/BeyerTBHKP22",
+    "DOI": "10.1111/cgf.14574",
+    "CorpusId": 248912992
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/ebaf6fafb4adb7f3657fdbb869249c727ffccf7e",
+  "title": "A Survey of Visualization and Analysis in High\u2010Resolution Connectomics",
+  "abstract": "The field of connectomics aims to reconstruct the wiring diagram of Neurons and synapses to enable new insights into the workings of the brain. Reconstructing and analyzing the Neuronal connectivity, however, relies on many individual steps, starting from high\u2010resolution data acquisition to automated segmentation, proofreading, interactive data exploration, and circuit analysis. All of these steps have to handle large and complex datasets and rely on or benefit from integrated visualization methods. In this state\u2010of\u2010the\u2010art report, we describe visualization methods that can be applied throughout the connectomics pipeline, from data acquisition to circuit analysis. We first define the different steps of the pipeline and focus on how visualization is currently integrated into these steps. We also survey open science initiatives in connectomics, including usable open\u2010source tools and publicly available datasets. Finally, we discuss open challenges and possible future directions of this exciting research field.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 247,
+  "openAccessPdf": {
+    "url": "https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14574",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Beyer2022ASO,\n author = {Johanna Beyer and J. Troidl and S. Boorboor and Markus Hadwiger and A. Kaufman and Hanspeter Pfister},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Visualization and Analysis in High\u2010Resolution Connectomics},\n volume = {41},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47273741",
+      "name": "Johanna Beyer"
+    },
+    {
+      "authorId": "1995573509",
+      "name": "J. Troidl"
+    },
+    {
+      "authorId": "51218383",
+      "name": "S. Boorboor"
+    },
+    {
+      "authorId": "1761518",
+      "name": "Markus Hadwiger"
+    },
+    {
+      "authorId": "2257157534",
+      "name": "A. Kaufman"
+    },
+    {
+      "authorId": "2062947008",
+      "name": "Hanspeter Pfister"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "901f638b857181bc4d0b04aa0d4c9682ea4a6eee",
+      "title": "Barrio: Customizable Spatial Neighborhood Analysis and Comparison for Nanoscale Brain Structures"
+    },
+    {
+      "paperId": "bd59bf49d921e3e21b33d4f1433dc18f11509b32",
+      "title": "Saturated reconstruction of living brain tissue"
+    },
+    {
+      "paperId": "21ab25072969988a27a8ce2cf1a891d3b5f0fad9",
+      "title": "Public Volume Electron Microscopy Data: An Essential Resource to Study the Brain Microvasculature"
+    },
+    {
+      "paperId": "73906620874b76b8ab2b8b58feae242babe49196",
+      "title": "The Brain Observatory Storage Service and Database (BossDB): A Cloud-Native Approach for Petascale Neuroscience Discovery"
+    },
+    {
+      "paperId": "c4621be5001b69ea9057f026bea8e64b73e5c078",
+      "title": "PyTorch Connectomics: A Scalable and Flexible Segmentation Framework for EM Connectomics"
+    },
+    {
+      "paperId": "1bc60fac51beb1ca6ae2c04e288559b9d2662fb8",
+      "title": "NeuRegenerate: A Framework for Visualizing Neurodegeneration"
+    },
+    {
+      "paperId": "faf1ea5e936cba2efc79e2295edaac463c30bc1d",
+      "title": "3D reconstruction of cell nuclei in a full Drosophila brain"
+    },
+    {
+      "paperId": "6906b575739fa45a19d6ac5c1bedde329015c4e8",
+      "title": "NeuroConstruct: 3D Reconstruction and Visualization of Neurites in Optical Microscopy Brain Images"
+    },
+    {
+      "paperId": "4451c9978124112ae22ddcb4ba4449347a478928",
+      "title": "AxonEM Dataset: 3D Axon Instance Segmentation of Brain Cortical Regions"
+    },
+    {
+      "paperId": "db2ef6663337acd922350c2f2145d4e1039c4199",
+      "title": "Automatic detection of synaptic partners in a whole-brain Drosophila\u2009electron microscopy data set"
+    },
+    {
+      "paperId": "d9fd508512c3315cd96a01230bb42a330c61b6d4",
+      "title": "A connectomic study of a petascale fragment of human cerebral cortex"
+    },
+    {
+      "paperId": "e177b306dbeb80eaed454b3bece588a633aa6ca6",
+      "title": "Denoising-based Image Compression for Connectomics"
+    },
+    {
+      "paperId": "3755be77133f0a4ccefb97acc9a2609f09e3b174",
+      "title": "A Unified Framework for Neuroscience Morphological Data Visualization"
+    },
+    {
+      "paperId": "9e87091fddaab35355ca7f7e50f5cc61782e1ffb",
+      "title": "VICE: Visual Identification and Correction of Neural Circuit Errors"
+    },
+    {
+      "paperId": "b0aa01efa7a22aab54fcca24ce3e73e0d1fcee2f",
+      "title": "InShaDe: Invariant Shape Descriptors for visual 2D and 3D cellular and nuclear shape analysis and classification"
+    },
+    {
+      "paperId": "f45601e8408ea7ac7b03272d46d5e72870982a03",
+      "title": "Open-source deep-learning software for bioimage segmentation"
+    },
+    {
+      "paperId": "35431775f22fa9410c9f3541b9588394d646e5a4",
+      "title": "Visualizing anatomically registered data with brainrender"
+    },
+    {
+      "paperId": "cb48a330c6a17d3c8bb4be79a0f4006f453cab2b",
+      "title": "Chunkflow: hybrid cloud processing of large 3D images by convolutional nets"
+    },
+    {
+      "paperId": "7f58f9a582b719a80499f29562090091bf230ac9",
+      "title": "Local shape descriptors for neuron segmentation"
+    },
+    {
+      "paperId": "f28e387d4229c5f690ce4570a391c0f47e7155c7",
+      "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation"
+    },
+    {
+      "paperId": "a11be33ce1be2fee47854fcf46c162958184fa69",
+      "title": "Spatial connectivity matches direction selectivity in visual cortex"
+    },
+    {
+      "paperId": "b754c658755e674b5069fe12d061bba83d1566d4",
+      "title": "BrainGlobe Atlas API: a common interface for neuroanatomical atlases"
+    },
+    {
+      "paperId": "d09e2c26426c9731e7ea0d089a33a5018367becd",
+      "title": "Virtual reality framework for editing and exploring medial axis representations of nanometric scale neural structures\u202f"
+    },
+    {
+      "paperId": "572703bc1b5bcd58e92f05232410a928e4c7cadd",
+      "title": "Modern Scientific Visualizations on the Web"
+    },
+    {
+      "paperId": "f100baae0d5e09785ff114af47b6c430aa7426b2",
+      "title": "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?"
+    },
+    {
+      "paperId": "6990ed2a64f35d2f8c27ff6a9c50c5f1304f0ad7",
+      "title": "Improving the Usability of Virtual Reality Neuron Tracing with Topological Elements"
+    },
+    {
+      "paperId": "a5fd28aa9240835a14b1c285096d62e3a3ba5722",
+      "title": "The Mind of a Mouse"
+    },
+    {
+      "paperId": "3149671f907078eac6835a05a99da756c493a15b",
+      "title": "FlyWire: Online community for whole-brain connectomics"
+    },
+    {
+      "paperId": "c6e90791978522e9614914d43429420465da3c87",
+      "title": "Motif discovery in networks: A survey"
+    },
+    {
+      "paperId": "586944efa549e7e0fde5b8545f8b082b4d096794",
+      "title": "Two Stream Active Query Suggestion for Active Learning in Connectomics"
+    },
+    {
+      "paperId": "f3dab810297ca66792a6d5c5355fa71643c8cede",
+      "title": "SNT: a unifying toolbox for quantification of neuronal anatomy"
+    },
+    {
+      "paperId": "341b290c41f0c5290ce9ed52848df385867a9158",
+      "title": "DotMotif: an open-source tool for connectome subgraph isomorphism search and graph queries"
+    },
+    {
+      "paperId": "19d477b20a5a43af02c6c5c5e3a94ec3bb866d54",
+      "title": "Semi-automatic stitching of filamentous structures in image stacks from serial-section electron tomography"
+    },
+    {
+      "paperId": "4489babe5a698a0257b3f256776b3a302ba3fa25",
+      "title": "The natverse, a versatile toolbox for combining and analysing neuroanatomical data"
+    },
+    {
+      "paperId": "485fe26cdf8b1ad829b8601986fe4295ac360a52",
+      "title": "A connectome and analysis of the adult Drosophila central brain"
+    },
+    {
+      "paperId": "d8431fe2ba00b0f2e48b3fb044a84b0d8d7bdb2f",
+      "title": "Chandelier cell anatomy and function reveal a variably distributed but common signal"
+    },
+    {
+      "paperId": "3420c6577363d1b8fe2cb100767cc02e8905ab0f",
+      "title": "Light microscopy based approach for mapping connectivity with molecular specificity"
+    },
+    {
+      "paperId": "135c13c542c4358a05caa5eccf4fdf23dcafcc77",
+      "title": "A Connectome of the Adult Drosophila Central Brain"
+    },
+    {
+      "paperId": "33864c2a754f3db4a09e06d93ed02fc57ac54625",
+      "title": "Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy"
+    },
+    {
+      "paperId": "f363c5dfd87e06c553d7b70068f0e1f692559efb",
+      "title": "Binary and analog variation of synapses between cortical pyramidal neurons"
+    },
+    {
+      "paperId": "91ee7fa610c29c755bd15253b0c04cbc5e116900",
+      "title": "Gas cluster ion beam SEM for imaging of large tissue samples with 10\u2009nm isotropic resolution"
+    },
+    {
+      "paperId": "f755126b06d843e8ce6ec24c805f3071178ae204",
+      "title": "Mapping mesoscale axonal projections in the mouse brain using a 3D convolutional network"
+    },
+    {
+      "paperId": "6877a7c38178a1737a765e1878bd04d296cb7b23",
+      "title": "A petascale automated imaging pipeline for mapping neuronal circuits with high-throughput transmission electron microscopy"
+    },
+    {
+      "paperId": "5d433da6d0f143f20936379910104d2bb139d4ae",
+      "title": "ilastik: interactive machine learning for (bio)image analysis"
+    },
+    {
+      "paperId": "ba78291c7bffbfed0c9e2560971fb33c4e9ce0ce",
+      "title": "Learning and Segmenting Dense Voxel Embeddings for 3D Neuron Reconstruction"
+    },
+    {
+      "paperId": "47c06a50c7ec1321b2da920660561b106c9453de",
+      "title": "BrainTrawler: A visual analytics framework for iterative exploration of heterogeneous big brain data"
+    },
+    {
+      "paperId": "6c2947d9695825e8668f8ae7836b027195c079e3",
+      "title": "A Cellular-Resolution Atlas of the Larval Zebrafish Brain"
+    },
+    {
+      "paperId": "95cbc49a655bae11aa7b37557fb85522b0c00cd2",
+      "title": "Exploiting Multi-Level Parallelism for Stitching Very Large Microscopy Images"
+    },
+    {
+      "paperId": "7742e0a42f68a6aaddd98cefea4e9242e0443e21",
+      "title": "Interactive Volumetric Visual Analysis of Glycogen\u2010derived Energy Absorption in Nanometric Brain Structures"
+    },
+    {
+      "paperId": "3ed21606032143f94f3a8da13d757a9288bc67ed",
+      "title": "Biologically-Constrained Graphs for Global Connectomics Reconstruction"
+    },
+    {
+      "paperId": "48cc41c7b2fac21d7bbd2988c5c6a2c5f9744852",
+      "title": "Deep learning for cellular image analysis"
+    },
+    {
+      "paperId": "2117811fcfe886131528ae34d822d1feec932b40",
+      "title": "UNI-EM: An Environment for Deep Neural Network-Based Automated Segmentation of Neuronal Electron Microscopic Images"
+    },
+    {
+      "paperId": "84a308c8261de1bf69fcb4060571d15a2f5b64b8",
+      "title": "Optimization of Traced Neuron Skeleton Using Lasso-Based Model"
+    },
+    {
+      "paperId": "566bb72c4fd6d47d32ac8736ad45412a0df52818",
+      "title": "DVID: Distributed Versioned Image-Oriented Dataservice"
+    },
+    {
+      "paperId": "0f644f606f582133bcd654bb93b8ccd3a2c69d45",
+      "title": "Reconstruction of 1,000 Projection Neurons Reveals New Cell Types and Organization of Long-Range Connectivity in the Mouse Brain"
+    },
+    {
+      "paperId": "75e2538bd52a47ba7cfe011260f67570b3c4cb20",
+      "title": "Visualization of Neuronal Structures in Wide-Field Microscopy Brain Images"
+    },
+    {
+      "paperId": "b9ddf9a6dd2e219009668022ea44a633e2c43a82",
+      "title": "Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach"
+    },
+    {
+      "paperId": "acb8546133cbd487fd491c5b99c357271716791b",
+      "title": "Expansion microscopy: principles and uses in biological research"
+    },
+    {
+      "paperId": "f7ef9bed47c900e4874fa632d3c3b404c3d43a92",
+      "title": "Multi-Beam Scanning Electron Microscopy for High-Throughput Imaging in Connectomics Research"
+    },
+    {
+      "paperId": "ab7498e6e64168533b33dd377065ff084835c720",
+      "title": "Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics"
+    },
+    {
+      "paperId": "cebe026377b10313bebedc2ee18f8fa045ceebf7",
+      "title": "NeuTu: Software for Collaborative, Large-Scale, Segmentation-Based Connectome Reconstruction"
+    },
+    {
+      "paperId": "fbf309595262bdadfebab64a5b868811716814b2",
+      "title": "VAST (Volume Annotation and Segmentation Tool): Efficient Manual and Semi-Automatic Labeling of Large 3D Image Stacks"
+    },
+    {
+      "paperId": "0670765cbbb1a7d4119b50d8bfdcac60fe5e2d13",
+      "title": "A Survey of Macroscopic Brain Network Visualization Technology"
+    },
+    {
+      "paperId": "41e1894a24caf8a7d68f8ae22976c5fabad76738",
+      "title": "FMST: an Automatic Neuron Tracing Method Based on Fast Marching and Minimum Spanning Tree"
+    },
+    {
+      "paperId": "c92003fc8e47a1e984df2df89ac0412dce93d4c9",
+      "title": "NeuroMorph: A Software Toolset for 3D Analysis of Neurite Morphology and Connectivity"
+    },
+    {
+      "paperId": "209d4fbe8588dcf2d3eb9a6db13000f780817884",
+      "title": "Learning cellular morphology with neural networks"
+    },
+    {
+      "paperId": "fd0d267c7ca64dcb7622ca667e9c1dd12575f142",
+      "title": "NeuroMorphoVis: a collaborative framework for analysis and visualization of neuronal morphology skeletons reconstructed from microscopy stacks"
+    },
+    {
+      "paperId": "1eab84d51b484d0f79e611979916fa97086e869d",
+      "title": "CDeep3M\u2014Plug-and-Play cloud-based deep learning for image segmentation"
+    },
+    {
+      "paperId": "f6d41c0ee3be95f5769e1dc3f5fc380dc56cfc16",
+      "title": "A Data Structure for Real-Time Aggregation Queries of Big Brain Networks"
+    },
+    {
+      "paperId": "1997b7e06612d0213dd150eff70e98216e83edab",
+      "title": "BigStitcher: reconstructing high-resolution image datasets of cleared and expanded samples"
+    },
+    {
+      "paperId": "7c70459d56214a7a3202732670f5ce726508eff6",
+      "title": "Cypher: An Evolving Query Language for Property Graphs"
+    },
+    {
+      "paperId": "cd2b95d913b376ff1aad96dc39d07f36843d8da5",
+      "title": "GLAM: Glycogen-derived Lactate Absorption Map for visual analysis of dense and sparse surface reconstructions of rodent brain structures on desktop systems and virtual environments"
+    },
+    {
+      "paperId": "0c9256eb9cfbb31a2a25fc736ce217ef6ae733a1",
+      "title": "DeepNeuron: an open deep learning toolbox for neuron tracing"
+    },
+    {
+      "paperId": "cab75a3583fb37617bfa99ead39a119fd9776ed9",
+      "title": "A community-developed open-source computational ecosystem for big neuro data"
+    },
+    {
+      "paperId": "54c433873ea208550862a42c80f45c964d1b5e06",
+      "title": "RemBrain: Exploring Dynamic Biospatial Networks with Mosaic Matrices and Mirror Glyphs"
+    },
+    {
+      "paperId": "7cfc1e85392d4007a90ecd05b7a0318252041c3c",
+      "title": "High-precision automated reconstruction of neurons with flood-filling networks"
+    },
+    {
+      "paperId": "05d168166b7a683e935ce369594cb04ec41053f0",
+      "title": "Compresso: Efficient Compression of Segmentation Data for Connectomics"
+    },
+    {
+      "paperId": "592f78aa68781fcfe883de2e92fd8cdb3abb41a9",
+      "title": "Scalable Interactive Visualization for Connectomics"
+    },
+    {
+      "paperId": "b33b5455d00d85fdb7198528df56099a1e3522b9",
+      "title": "DeepEM3D: approaching human\u2010level performance on 3D anisotropic EM image segmentation"
+    },
+    {
+      "paperId": "615cbf08f2afb696a8bd1f442e8121bc163b2d8f",
+      "title": "An Error Detection and Correction Framework for Connectomics"
+    },
+    {
+      "paperId": "f6c05bf2ba2e791987668610bdb5e3bb15486798",
+      "title": "An investigation of player motivations in Eyewire, a gamified citizen science project"
+    },
+    {
+      "paperId": "685d11d7cd32cc6ee2ae885987b0e9d9edc074e3",
+      "title": "ssEMnet: Serial-Section Electron Microscopy Image Registration Using a Spatial Transformer Network with Learned Features"
+    },
+    {
+      "paperId": "72b81d703cd2f65ac422a6da33d82af9e98b3788",
+      "title": "MIST: Accurate and Scalable Microscopy Image Stitching Tool with Stage Modeling and Error Minimization"
+    },
+    {
+      "paperId": "1bfb81614344104aa6bb5aa98e63140c6c0c4266",
+      "title": "Adversarial Image Alignment and Interpolation"
+    },
+    {
+      "paperId": "b030abf96a3672fb3597508276a8ac76e2bfb78a",
+      "title": "NeuroTessMesh: A Tool for the Generation and Visualization of Neuron Meshes and Adaptive On-the-Fly Refinement"
+    },
+    {
+      "paperId": "11473c935b2e09f8c209a9c95b227bdb81e59ccd",
+      "title": "webKnossos: efficient online 3D data annotation for connectomics"
+    },
+    {
+      "paperId": "b907537c602b95948da809f7d4aff4bc959d8ba1",
+      "title": "Superhuman Accuracy on the SNEMI3D Connectomics Challenge"
+    },
+    {
+      "paperId": "fd560852242413ba6999213f1f87b6057c021510",
+      "title": "A Manual Segmentation Tool for Three-Dimensional Neuron Datasets"
+    },
+    {
+      "paperId": "a2479a1223fd44077e0685460b650c60086318cd",
+      "title": "Morphological Error Detection in 3D Segmentations"
+    },
+    {
+      "paperId": "47f8d5b455350dedaa6cd7728f46e12c661daef5",
+      "title": "FluoRender: joint freehand segmentation and visualization for many-channel fluorescence data analysis"
+    },
+    {
+      "paperId": "229cf8ddb9b5dbdf3b8bb60c9fbcf83759347810",
+      "title": "A Complete Electron Microscopy Volume of the Brain of Adult Drosophila melanogaster"
+    },
+    {
+      "paperId": "1c074e80f80a16bd6fddf0e299fac36404731efb",
+      "title": "Guided Proofreading of Automatic Segmentations for Connectomics"
+    },
+    {
+      "paperId": "7cf541ec0692b55c24dc81e111ba693b74e7beaa",
+      "title": "Deep Learning Segmentation of Optical Microscopy Images Improves 3-D Neuron Reconstruction"
+    },
+    {
+      "paperId": "dafd411280926dcdfb0a6a362a5559158bd10177",
+      "title": "Automated synaptic connectivity inference for volume electron microscopy"
+    },
+    {
+      "paperId": "b6ae80939d5d5a710272c04031dd725b8a77f6dc",
+      "title": "Weighing the Evidence in Peters\u2019 Rule: Does Neuronal Morphology Predict Connectivity?"
+    },
+    {
+      "paperId": "c2baaa41b4402014edc7851d0181bd2a6fe430d8",
+      "title": "Visualization and Quantification for Interactive Analysis of Neural Connectivity in Drosophila"
+    },
+    {
+      "paperId": "4e4d0246c2c40ac62d2f1f28a39cd2be2cdecee5",
+      "title": "Fast assembling of neuron fragments in serial 3D sections"
+    },
+    {
+      "paperId": "62138449a50b40e0c72070052a1da06ade7fa0b9",
+      "title": "FusionNet: A Deep Fully Residual Convolutional Neural Network for Image Segmentation in Connectomics"
+    },
+    {
+      "paperId": "802a05798e5a6a7d203dad15363ab30e4c25dfb3",
+      "title": "To the Cloud! A Grassroots Proposal to Accelerate Brain Science Discovery"
+    },
+    {
+      "paperId": "375ec08c5a5b180cfeb698543dc517edea4c4496",
+      "title": "A survey of medical image registration - under review"
+    },
+    {
+      "paperId": "15fe5ef22f9264a29a6b22063b990435edc17b6a",
+      "title": "From Cajal to Connectome and Beyond."
+    },
+    {
+      "paperId": "f8f1f34509412edc8e50aa071f52f20431759d33",
+      "title": "State\u2010of\u2010the\u2010Art Report in Web\u2010based Visualization"
+    },
+    {
+      "paperId": "b850476ec09aaad28bbd9a8c7ba81bee716d594d",
+      "title": "Fully-Automatic Synapse Prediction and Validation on a Large Data Set"
+    },
+    {
+      "paperId": "8ae6afdecfb9b6f0f94c954b3b6502f1d3662b0d",
+      "title": "Structured Dendritic Inhibition Supports Branch-Selective Integration in CA1 Pyramidal Cells"
+    },
+    {
+      "paperId": "b7833b47437ca91d4507269ff4fbf59c02902315",
+      "title": "NBLAST: Rapid, Sensitive Comparison of Neuronal Structure and Construction of Neuron Family Databases"
+    },
+    {
+      "paperId": "39b3c5c844b885be38984f4542ee2349e34082ed",
+      "title": "NeuroBlocks \u2013 Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects"
+    },
+    {
+      "paperId": "f7bb1b845d3709da37730fa91b26196553e74942",
+      "title": "PyramidalExplorer: A New Interactive Tool to Explore Morpho-Functional Relations of Human Pyramidal Neurons"
+    },
+    {
+      "paperId": "522b6db6806f0798e238d84ad8f6cd3ba854b41c",
+      "title": "SwordPlots: Exploring Neuron Behavior within Dynamic Communities of Brain Networks"
+    },
+    {
+      "paperId": "1e6c294f46955ae2600e816853cb5218c0257cb2",
+      "title": "State\u2010of\u2010the\u2010Art in GPU\u2010Based Large\u2010Scale Volume Visualization"
+    },
+    {
+      "paperId": "8dc4d84ce585c903ed3220ab40f63c0a672400b1",
+      "title": "NeuroGPS-Tree: automatic reconstruction of large-scale neuronal populations with dense neurites"
+    },
+    {
+      "paperId": "a7a61de8381e7ce36964a6c1c26da7a4273a9c09",
+      "title": "SegEM: Efficient Image Analysis for High-Resolution Connectomics"
+    },
+    {
+      "paperId": "37288fe76a864233214b6a5e4cee29923e9c36b9",
+      "title": "Saturated Reconstruction of a Volume of Neocortex"
+    },
+    {
+      "paperId": "2810a87df311e829e02d3b55bb4fbf31220de695",
+      "title": "Single-cell\u2013initiated monosynaptic tracing reveals layer-specific cortical network modules"
+    },
+    {
+      "paperId": "311c552420240866dc48df7587b8e13e6932bc28",
+      "title": "Monosynaptic Circuit Tracing with Glycoprotein-Deleted Rabies Viruses"
+    },
+    {
+      "paperId": "cf59ae3ccc16090672d31b65ec71a893e0fc0a6d",
+      "title": "Open source tools for large-scale neuroscience"
+    },
+    {
+      "paperId": "89ddf618281a0502121646d2c77f51f9f7a7dec1",
+      "title": "An open-source VAA3D plugin for real-time 3D visualization of terabyte-sized volumetric images"
+    },
+    {
+      "paperId": "a6d6951198336f1a191bc2d81d5485cf6cdb06d5",
+      "title": "Anatomical landmarks for registration of experimental image data to volumetric rodent brain atlasing templates"
+    },
+    {
+      "paperId": "e3a04565f01c8e18d4a1fbf7cdbe18bf5323442a",
+      "title": "Expansion microscopy"
+    },
+    {
+      "paperId": "9d30f95e9db046d88eea72e6ec9b646137cb6577",
+      "title": "Ultrastructurally-smooth thick partitioning and volume stitching for larger-scale connectomics"
+    },
+    {
+      "paperId": "dd8622231b97aa0fbf78a116618bebad57b0d10d",
+      "title": "High-resolution, high-throughput imaging with a multibeam scanning electron microscope"
+    },
+    {
+      "paperId": "7dbb7bfc0ce35216d2a2a4d4ad702027d42a65ae",
+      "title": "Synaptic molecular imaging in spared and deprived columns of mouse barrel cortex with array tomography"
+    },
+    {
+      "paperId": "8863fc0aa86d21bd2f54e22874ec00a2b261374c",
+      "title": "Design and Evaluation of Interactive Proofreading Tools for Connectomics"
+    },
+    {
+      "paperId": "6b1d293c3b6f823c497b7513350cd853434a0237",
+      "title": "An automated images-to-graphs framework for high resolution connectomics"
+    },
+    {
+      "paperId": "f344b565ded741210a5c3b3097dc08e9c66c4125",
+      "title": "NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity"
+    },
+    {
+      "paperId": "79ad4d7131de365b71d1bc35ad4f0459129c9d75",
+      "title": "Reconstructing neuronal morphology from microscopy stacks using fast marching"
+    },
+    {
+      "paperId": "ff6a3ae098ff288a2926d87899bab258ed1a2abb",
+      "title": "The big data challenges of connectomics"
+    },
+    {
+      "paperId": "c6d008200b6510a9cff88d6ba158b6b3dc1a545d",
+      "title": "NeuroMorph: A Toolset for the Morphometric Analysis and Visualization of 3D Models Derived from Electron Microscopy Image Stacks"
+    },
+    {
+      "paperId": "a6e08d9a818395c8901c607fd5cfdb6829aaa428",
+      "title": "Imaging ATUM ultrathin section libraries with WaferMapper: a multi-scale approach to EM reconstruction of neural circuits"
+    },
+    {
+      "paperId": "051f9983cdef83dd9c77d09da4d19ff580fa4bbb",
+      "title": "VESICLE: Volumetric Evaluation of Synaptic Inferfaces using Computer Vision at Large Scale"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "fa72748b82c6d68c15b8c6bb4a14649a8458cb02",
+      "title": "Connectome: How the Brain\u2019s Wiring Makes Us Who We Are"
+    },
+    {
+      "paperId": "ca74e026cd6b830651dd47414ee6a4587195713f",
+      "title": "neuroMAP \u2014 Interactive graph-visualization of the fruit fly's neural circuit"
+    },
+    {
+      "paperId": "d31e49826f582868b52aa1c8b35785f2deb22871",
+      "title": "Exploring the Connectome: Petascale Volume Visualization of Microscopy Data Streams"
+    },
+    {
+      "paperId": "f4203b8036eab078fae9890b27af9a8f3df36cb7",
+      "title": "The open connectome project data cluster: scalable analysis and vision for high-throughput neuroscience"
+    },
+    {
+      "paperId": "01fb4e77850f0c82167143ae98f428dd0bf29e28",
+      "title": "APP2: automatic tracing of 3D neuron morphology based on hierarchical pruning of a gray-weighted image distance-tree"
+    },
+    {
+      "paperId": "306a8641da7f8130453d04b4a8316b0315e8e72d",
+      "title": "Structure Propagation for Image Registration"
+    },
+    {
+      "paperId": "890d4725fa6e63806e76e89b93c6d0d6429a0d6b",
+      "title": "Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images"
+    },
+    {
+      "paperId": "ef4f4cadea21b4d6d7a4c82c251d879db34d35a5",
+      "title": "Machine Learning of Hierarchical Clustering to Segment 2D and 3D Images"
+    },
+    {
+      "paperId": "09193e19b59fc8f05bee9d6efbfb1607ca5b6501",
+      "title": "Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images"
+    },
+    {
+      "paperId": "01eaea75849646e34b05b44440420142c0e4b196",
+      "title": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach"
+    },
+    {
+      "paperId": "597c9dbe0f25063bfa75eb3bef644b20b4fe4f0c",
+      "title": "TeraStitcher - A tool for fast automatic 3D-stitching of teravoxel-sized microscopy images"
+    },
+    {
+      "paperId": "04e51b1ad22708c3e60bc58e97b20a22f9a4e03c",
+      "title": "Mean Curvature Skeletons"
+    },
+    {
+      "paperId": "327b33d038e3422d89e6ee64e841a6bc70308ca9",
+      "title": "TrakEM2 Software for Neural Circuit Reconstruction"
+    },
+    {
+      "paperId": "76ccb42d7b6c5bda30e818d2e1d307754e60be79",
+      "title": "Elastic volume reconstruction from series of ultra-thin microscopy sections"
+    },
+    {
+      "paperId": "26da2f0eaf6a66dab66d7b27d174cc0a2e3fd984",
+      "title": "Visualization in Connectomics"
+    },
+    {
+      "paperId": "46d698794e3570c26281df82a5917f2bfb17059e",
+      "title": "FluoRender: An application of 2D image space methods for 3D and 4D confocal microscopy data visualization in neurobiology research"
+    },
+    {
+      "paperId": "989ede2d7923c453cb77ecae30fb56d6b53ba16b",
+      "title": "Volume electron microscopy for neuronal circuit reconstruction"
+    },
+    {
+      "paperId": "d1c39f2da164d381eb07117adc5f617d049769d9",
+      "title": "High-contrast en bloc staining of neuronal tissue for field emission scanning electron microscopy"
+    },
+    {
+      "paperId": "fcd083503570fe7a3af3bf956d286cf62818c9cc",
+      "title": "Serial two-photon tomography: an automated method for ex-vivo mouse brain imaging"
+    },
+    {
+      "paperId": "6453adf73e02bccf16e6478936f42a76c418ab02",
+      "title": "The Big and the Small: Challenges of Imaging the Brain\u2019s Circuits"
+    },
+    {
+      "paperId": "e91a01a2a2b6d316065fadf0163cd4980fc2f797",
+      "title": "Neural Process Reconstruction from Sparse User Scribbles"
+    },
+    {
+      "paperId": "289863ee9d53972da96b313f222e2cfc8045ea1e",
+      "title": "Graph Classification Using Signal-Subgraphs: Applications in Statistical Connectomics"
+    },
+    {
+      "paperId": "f8442bd8e7f64e31a1130157a2d74eadd98f2912",
+      "title": "Robust, globally consistent and fully automatic multi\u2010image registration and montage synthesis for 3\u2010D multi\u2010channel images"
+    },
+    {
+      "paperId": "8ccd5a3c2eabf0db93b16c615561e846dea503ff",
+      "title": "Automatic 3D neuron tracing using all-path pruning"
+    },
+    {
+      "paperId": "3584135624ccf09ec4f1cb132c2b8007f90a5266",
+      "title": "Trace driven registration of neuron confocal microscopy stacks"
+    },
+    {
+      "paperId": "9d6afb3efa0909de989dc8df4935055703401652",
+      "title": "Automated high speed stitching of large 3D microscopic images"
+    },
+    {
+      "paperId": "5c5be36e3111e42247d78a6d529e4b1d7d2ced12",
+      "title": "Ilastik: Interactive learning and segmentation toolkit"
+    },
+    {
+      "paperId": "be37f70a6dde9e359e84e2188411ce004585b07b",
+      "title": "Combining Confocal Laser Scanning Microscopy with Serial Section Reconstruction in the Study of Adult Neurogenesis"
+    },
+    {
+      "paperId": "99c8ada76d6891259d1b73dbc2cd9021e00d3ca4",
+      "title": "BrainAligner: 3D Registration Atlases of Drosophila Brains"
+    },
+    {
+      "paperId": "c2c775faa34a6bbd0aeea186df80adc64c52a97d",
+      "title": "A Broadly Applicable 3-D Neuron Tracing Method Based on Open-Curve Snake"
+    },
+    {
+      "paperId": "124dabf0da002ec1aa44eabd3885cd80873d304c",
+      "title": "Network anatomy and in vivo physiology of visual cortical neurons"
+    },
+    {
+      "paperId": "88f9a4a16362238a8ec7f8b88b647e1e20d771da",
+      "title": "The DIADEM Data Sets: Representative Light Microscopy Images of Neuronal Morphology to Advance Automation of Digital Reconstructions"
+    },
+    {
+      "paperId": "3d2fac62d0b09c79d8bc092b7c0909a605fd2fd3",
+      "title": "The Viking viewer for connectomics: scalable multi-user annotation and summarization of large volume data sets"
+    },
+    {
+      "paperId": "2b4e41345d103a622f383bc48f580ada60e1ab6f",
+      "title": "Automatic mosaicking and volume assembly for high-throughput serial-section transmission electron microscopy"
+    },
+    {
+      "paperId": "56a649d31d2a14a460926120a8dea8c4adffe94e",
+      "title": "One Rule to Grow Them All: A General Theory of Neuronal Branching and Its Practical Application"
+    },
+    {
+      "paperId": "f2cc3767b8192ebce924d6a89e2852a70e59781e",
+      "title": "As-rigid-as-possible mosaicking and serial section registration of large ssTEM datasets"
+    },
+    {
+      "paperId": "af638dd56efd4a07e34cb53e45b93b5b16ab2028",
+      "title": "Ssecrett and NeuroTrace: Interactive Visualization and Analysis Tools for Large-Scale Neuroscience Data Sets"
+    },
+    {
+      "paperId": "be7f7288313cde6123c462b6db02ef0863c63a82",
+      "title": "V3D enables real-time 3D visualization and quantitative analysis of large-scale biological image data sets"
+    },
+    {
+      "paperId": "3f6e94751255c31b675910a8621ad88f49d0cd27",
+      "title": "BrainGazer - Visual Queries for Neurobiology Research"
+    },
+    {
+      "paperId": "9419f0325276e35df940df45b2a25d087a85dd06",
+      "title": "Automatic alignment of stacks of filament data"
+    },
+    {
+      "paperId": "c3aab481fcb1c84acafeb34215b7af09078cae3a",
+      "title": "Human brain networks in health and disease"
+    },
+    {
+      "paperId": "8e234971df646e9734df303a10b54c2475947619",
+      "title": "Multiphase geometric couplings for the segmentation of neural processes"
+    },
+    {
+      "paperId": "b4f9fe7365d106c82f6333cc4c4f37722642f977",
+      "title": "CATMAID: collaborative annotation toolkit for massive amounts of image data"
+    },
+    {
+      "paperId": "2111a242a6c1c8979b91667177a41b5789c208d4",
+      "title": "Volume reconstruction of large tissue specimens from serial physical sections using confocal microscopy and correction of cutting deformations by elastic registration"
+    },
+    {
+      "paperId": "768a037240aa4e9e49c2de596a504a7b5d21cad5",
+      "title": "XuvTools: free, fast and reliable stitching of large 3D datasets"
+    },
+    {
+      "paperId": "3b73d2de9f55eb455526c61f5559e5b3598d4d29",
+      "title": "A Practical Approach to Morse-Smale Complex Computation: Scalability and Generality"
+    },
+    {
+      "paperId": "a20cd217b0d23dca911945cbfca1a67d4c09ec66",
+      "title": "A technicolour approach to the connectome"
+    },
+    {
+      "paperId": "108e5382cc0614005db2ee668356ab35b545362f",
+      "title": "Trajectory fusion for three-dimensional volume reconstruction"
+    },
+    {
+      "paperId": "f2a98fd312f3618d87cea4efb234301658e5c43a",
+      "title": "Serial Section Scanning Electron Microscopy of Adult Brain Tissue Using Focused Ion Beam Milling"
+    },
+    {
+      "paperId": "00d093b1afa65b5f5b47ab6a44b9da5b2b0aefc8",
+      "title": "Registration of Challenging Image Pairs: Initialization, Estimation, and Decision"
+    },
+    {
+      "paperId": "3974a8b12f60b797816bd3e22e2f49da83d13d85",
+      "title": "Transgenic strategies for combinatorial expression of fluorescent proteins in the nervous system"
+    },
+    {
+      "paperId": "50d8443905ec20675788f3043079268aa18236d2",
+      "title": "Ultramicroscopy: three-dimensional visualization of neuronal networks in the whole mouse brain"
+    },
+    {
+      "paperId": "2adec5c2cccd2b41d497c5e2a4cd7477e6f313b4",
+      "title": "3D volume reconstruction of a mouse brain from histological sections using warp filtering"
+    },
+    {
+      "paperId": "29715e6cf861052039555a7d3014ee296c79e586",
+      "title": "Automated microscopy system for mosaic acquisition and processing"
+    },
+    {
+      "paperId": "d3b1ddd554cd322b0410f0a1fce7efb92153d5e6",
+      "title": "Three\u2010dimensional volume reconstruction of extracellular matrix proteins in uveal melanoma from fluorescent confocal laser scanning microscope images"
+    },
+    {
+      "paperId": "203d7329be92494f795038f7c43a0442e8a76f3a",
+      "title": "The Human Connectome: A Structural Description of the Human Brain"
+    },
+    {
+      "paperId": "3d7173583b5e5bbcd06dc70dd66464f9f95604f4",
+      "title": "Reconstruct: a free editor for serial section microscopy"
+    },
+    {
+      "paperId": "06ce532c19fe0f591d4bda6e1d12bc513d4cac7c",
+      "title": "Tissue arrays as fiducial markers for section alignment in 3\u2010D reconstruction technology"
+    },
+    {
+      "paperId": "052e29b2511f2fef2a86c99b800ebd3bdf27e959",
+      "title": "Highly Nonrandom Features of Synaptic Connectivity in Local Cortical Circuits"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38",
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints"
+    },
+    {
+      "paperId": "60a3f1875699fba060c126e88df9ad30e599a0b8",
+      "title": "Serial Block-Face Scanning Electron Microscopy to Reconstruct Three-Dimensional Tissue Nanostructure"
+    },
+    {
+      "paperId": "e5dd6d1c8df4f39feb5bad7b5161e6e2fbd5f191",
+      "title": "Use of truncated pyramid representation methodology in three\u2010dimensional reconstruction: an example"
+    },
+    {
+      "paperId": "f9b2397048430aa36fe5b0b2399c6a89f8d0ffcf",
+      "title": "Algorithms for accurate 3D registration of neuronal images acquired by confocal scanning laser microscopy"
+    },
+    {
+      "paperId": "c7a7c94279a58a2c44e664aaf40ebbb5dda51c96",
+      "title": "A Feature-Based Technique for Joint Linear Estimation of High-Order Image-to-Mosaic Transformations: Mosaicing the Curved Human Retina"
+    },
+    {
+      "paperId": "7befff0de529f1e8b8a0c1a85538e51b5ba7229e",
+      "title": "TEASAR: tree-structure extraction algorithm for accurate and robust skeletons"
+    },
+    {
+      "paperId": "1bd31c6636ef9483f05dedb60a07216eb99b4300",
+      "title": "Principles and practices of laser scanning confocal microscopy"
+    },
+    {
+      "paperId": "71c7de654fe12bc0efabb2b3fd6dbb933ea61a78",
+      "title": "An efficient watershed algorithm based on connected components"
+    },
+    {
+      "paperId": "f9f836d28f52ad260213d32224a6d227f8e8849a",
+      "title": "Object recognition from local scale-invariant features"
+    },
+    {
+      "paperId": "beb8b793230e22c0e3fbd3e5943dd1b08b9aeb57",
+      "title": "Automated 3-D montage synthesis from laser-scanning confocal images: application to quantitative tissue-level cytological analysis."
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86",
+      "title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    },
+    {
+      "paperId": "2d81491b10b2b1b4990796d9d9915fdf677d4fed",
+      "title": "Breaking the diffraction resolution limit by stimulated emission: stimulated-emission-depletion fluorescence microscopy."
+    },
+    {
+      "paperId": "123ceb178e5d212ff7cff159497222b200d2f086",
+      "title": "The pyramidal neuron of the cerebral cortex: Morphological and chemical characteristics of the synaptic inputs"
+    },
+    {
+      "paperId": "253cf6b8a5da2b1d175db0bb9bf1e06019a97a67",
+      "title": "Neuron imaging with Neurolucida--a PC-based system for image combining microscopy."
+    },
+    {
+      "paperId": "427e2415d0d8f846cdabba34842162f7bab6af02",
+      "title": "Principal Warps: Thin-Plate Splines and the Decomposition of Deformations"
+    },
+    {
+      "paperId": null,
+      "title": "SHIH A"
+    },
+    {
+      "paperId": null,
+      "title": "NeuroMorpho.org. last accessed: 2/1/2022"
+    },
+    {
+      "paperId": null,
+      "title": "LI P"
+    },
+    {
+      "paperId": "72f0a162cb87e3af1de1a37be7f9203eade620ff",
+      "title": "ZeVis: A Visual Analytics System for Exploration of a Larval Zebrafish Brain in Serial-Section Electron Microscopy Images"
+    },
+    {
+      "paperId": "bf500eb68078cb18789030ca0341d964bffd3dd9",
+      "title": "RLCorrector: Reinforced Proofreading for Connectomics Image Segmentation"
+    },
+    {
+      "paperId": null,
+      "title": "navis-org/navis: Version 1.1.0"
+    },
+    {
+      "paperId": null,
+      "title": "SHANGMU"
+    },
+    {
+      "paperId": null,
+      "title": "LICHTMAN J"
+    },
+    {
+      "paperId": "85cafc3150f396027560c2db015cd8c3bf9acae6",
+      "title": "Immersive Environment for Creating, Proofreading, and Exploring Skeletons of Nanometric Scale Neural Structures"
+    },
+    {
+      "paperId": "9df2042ed7073370f8cd8a8d0d07fe35c8705752",
+      "title": "A Virtual Reality Visualization Tool for Neuron Tracing"
+    },
+    {
+      "paperId": "fe8c6145775318be8eff0bdf84afbcf60d5c6565",
+      "title": "SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering"
+    },
+    {
+      "paperId": "c80600a5dae24a428aeea8d658f96ae9ec4201fd",
+      "title": "Abstractocyte: A Visual Tool for Exploring Nanoscale Astroglial Cells"
+    },
+    {
+      "paperId": "2bae512132d410511e49df4f9f6a76c4b2177ef4",
+      "title": "Efficient Correction for EM Connectomics with Skeletal Representation"
+    },
+    {
+      "paperId": null,
+      "title": "A Survey of Visualization and Analysis in High-Resolution Connectomics with flood-filling networks"
+    },
+    {
+      "paperId": null,
+      "title": "PLAZA S"
+    },
+    {
+      "paperId": "a55f5434724bc5ff3d9b4d37f52e9b8a6fb05d4f",
+      "title": "Medical Image Computing and Computer-Assisted Intervention \u2212 MICCAI 2017: 20th International Conference, Quebec City, QC, Canada, September 11-13, 2017, Proceedings, Part II"
+    },
+    {
+      "paperId": "81dd5e3a6f416f3888939b5127f3e7c613648e99",
+      "title": "Structured Illumination Microscopy"
+    },
+    {
+      "paperId": null,
+      "title": "PLUIM J"
+    },
+    {
+      "paperId": "2e4b7a9f60bcd61b710f48906224dc8d49a8a904",
+      "title": "NeuroScheme: Efficient Multiscale Representations for the Visual Exploration of Morphological Data in the Human Brain Neocortex"
+    },
+    {
+      "paperId": "1432b768e018ea40b865f559ef4320578798307b",
+      "title": "The Reality Deck--an Immersive Gigapixel Display"
+    },
+    {
+      "paperId": null,
+      "title": "DICKSON B"
+    },
+    {
+      "paperId": "b275db533212bf70c56294d71dff83b8aa7df582",
+      "title": "Graph Abstraction for Simplified Proofreading of Slice-based Volume Segmentation"
+    },
+    {
+      "paperId": "c2d1ae5a651537b709cba2b0f53d82c2abbbeacb",
+      "title": "Mojo 2.0: Connectome Annotation Tool"
+    },
+    {
+      "paperId": "edf52f84ed8fc02062edb26b88805fa32857a617",
+      "title": "V 3 D enables real-time 3 D visualization and quantitative analysis of large-scale biological image data sets"
+    },
+    {
+      "paperId": "b6197a58d9246aca7c5df217968c710889e70823",
+      "title": "BMC Bioinformatics BioMed Central Methodology article Kavosh: a new algorithm for finding network motifs"
+    },
+    {
+      "paperId": "4ed737359bef21a14adfb539606f8342ce0cfff2",
+      "title": "3D Slicer"
+    },
+    {
+      "paperId": "f184c3cab6183ec694f2295df183206c97edc816",
+      "title": "Reconstruct : a Free Editor for Serial Section Microscopy"
+    },
+    {
+      "paperId": "5a66c2dbf2285c7e8acebdc85aba364f46d22e05",
+      "title": "Multiresolution Mesh Representation: Models and Data Structures"
+    },
+    {
+      "paperId": "c912ec2164b705bc594dffbc11b1ea37ceb960d6",
+      "title": "Cortex: Statistics and Geometry of Neuronal Connectivity"
+    },
+    {
+      "paperId": null,
+      "title": "VAN LOAN C"
+    },
+    {
+      "paperId": "052a1eb3720849fdc3908d84903d5b01df0a35a1",
+      "title": "The spatial accuracy of cellular dose estimates obtained from 3D reconstructed serial tissue autoradiographs."
+    },
+    {
+      "paperId": "51a842c5f8e9baf711da36a7c12995dc9861ec37",
+      "title": "The Golgi Method. A Tool for Comparative Structural Analyses"
+    },
+    {
+      "paperId": "1959abff14bfa28b79172813642dc685c20f114c",
+      "title": "\u00dcber die stetige Abbildung einer Linie auf ein Fl\u00e4chenst\u00fcck"
+    },
+    {
+      "paperId": null,
+      "title": "MYERS E"
+    },
+    {
+      "paperId": "d532a0c4b959ddd9b292e8dbb345c24346a110f9",
+      "title": "Konrad-zuse-zentrum F \u00a8 Ur Informationstechnik Berlin the Filament Editor: an Interactive Software Environment for Visualization, Proof-editing and Analysis of 3d Neuron Morphology the Filament Editor: an Interactive Software Environment for Visualization, Proof-editing and Analysis of 3d Neuron Mor"
+    },
+    {
+      "paperId": "d75ec8768c39935e3161b7955a4ab1a834db42e2",
+      "title": "Bioinformatics Applications Note Systems Biology Simple Neurite Tracer: Open Source Software for Reconstruction, Visualization and Analysis of Neuronal Processes"
+    },
+    {
+      "paperId": null,
+      "title": "Ultrastructural analysis of glycogen in hippocampal astrocytic processes using 3D virtual reality"
+    },
+    {
+      "paperId": null,
+      "title": "Introduction to Widefield Microscopy"
+    },
+    {
+      "paperId": null,
+      "title": "MARGRIE T"
+    },
+    {
+      "paperId": null,
+      "title": "BOYDEN E"
+    },
+    {
+      "paperId": null,
+      "title": "PRIEBE C"
+    },
+    {
+      "paperId": null,
+      "title": "seung-lab/kimimaro: Zenodo Release v1"
+    },
+    {
+      "paperId": null,
+      "title": "Google/draco: a library for compressing and decompressing 3d geometric meshes and point clouds, 2022. Last accessed: 2/1/2022"
+    }
+  ]
+}

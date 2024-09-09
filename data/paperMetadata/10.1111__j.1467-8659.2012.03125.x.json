@@ -1,0 +1,225 @@
+{
+  "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+  "externalIds": {
+    "DBLP": "journals/cgf/SedlmairTMT12",
+    "MAG": "2163965546",
+    "DOI": "10.1111/j.1467-8659.2012.03125.x",
+    "CorpusId": 8546565
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+  "title": "A Taxonomy of Visual Cluster Separation Factors",
+  "abstract": "We provide two contributions, a taxonomy of visual cluster separation factors in scatterplots, and an in\u2010depth qualitative evaluation of two recently proposed and validated separation measures. We initially intended to use these measures to provide guidance for the use of dimension reduction (DR) techniques and visual encoding (VE) choices, but found that they failed to produce reliable results. To understand why, we conducted a systematic qualitative data study covering a broad collection of 75 real and synthetic high\u2010dimensional datasets, four DR techniques, and three scatterplot\u2010based visual encodings. Two authors visually inspected over 800 plots to determine whether or not the measures created plausible results. We found that they failed in over half the cases overall, and in over two\u2010thirds of the cases involving real datasets. Using open and axial coding of failure reasons and separability characteristics, we generated a taxonomy of visual cluster separability factors. We iteratively refined its explanatory clarity and power by mapping the studied datasets and success and failure ranges of the measures onto the factor axes. Our taxonomy has four categories, ordered by their ability to influence successors: Scale, Point Distance, Shape, and Position. Each category is split into Within\u2010Cluster factors such as density, curvature, isotropy, and clumpiness, and Between\u2010Cluster factors that arise from the variance of these properties, culminating in the overarching factor of class separation. The resulting taxonomy can be used to guide the design and the evaluation of cluster separation measures.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2012,
+  "referenceCount": 40,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2012-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "31"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sedlmair2012ATO,\n author = {M. Sedlmair and A. Tatu and T. Munzner and Melanie Tory},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Taxonomy of Visual Cluster Separation Factors},\n volume = {31},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "2018560",
+      "name": "A. Tatu"
+    },
+    {
+      "authorId": "1732016",
+      "name": "T. Munzner"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1d933886f81a277318c143ea7abde9e3258e032b",
+      "title": "Untersuchungen zur Lehre von der Gestalt"
+    },
+    {
+      "paperId": "f840c119af9153780f9b5971415b9ed2a631bf36",
+      "title": "Constructing Grounded Theory"
+    },
+    {
+      "paperId": "7866e5c2701ab7b05f8a4457e84bec8d1b328179",
+      "title": "Perception-based visual quality measures"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "1550c985a82fdf5170110630f1d139f5a4649767",
+      "title": "Evaluating Benchmarks of Population Status for Pacific Salmon"
+    },
+    {
+      "paperId": "04c671b9fec766f898dca2bca0e0da342bdd82af",
+      "title": "Confessions from a grounded theory PhD: experiences and lessons learnt"
+    },
+    {
+      "paperId": "4749ce6066116d577f14466681d46148c07a1ec4",
+      "title": "Seven Guiding Scenarios for Information Visualization Evaluation"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "fec8c8c69f53b4a5222666062c1b59c992c1353f",
+      "title": "An exploratory study of co-located collaborative visual analytics around a tabletop display"
+    },
+    {
+      "paperId": "f6bf712808e8a2b9d6cd2728febcf7943fd99150",
+      "title": "A Guide to Visual Multi-Level Interface Design From Synthesis of Empirical Study Evidence"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "a075d0d0ce767e27bd84ba56f1c79722f637fdea",
+      "title": "Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets"
+    },
+    {
+      "paperId": "0a0eaff3b398067e7addf149b1656ff1b0831e29",
+      "title": "Visual quality metrics and human perception: an initial study on 2D projections of large multidimensional data"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "54b4241b021594cdb20091c95f121f75653ffc36",
+      "title": "An Object-Oriented Framework for Robust Multivariate Analysis"
+    },
+    {
+      "paperId": "c5000b0d1f5a675cc086fbb52f8d4e7539d9771c",
+      "title": "What Does the User Want to See? What do the Data Want to Be?"
+    },
+    {
+      "paperId": "c0aaf4735fca8b60ff755aacb64c8c437b674578",
+      "title": "Glimmer: Multilevel MDS on the GPU"
+    },
+    {
+      "paperId": "f67233d3098201bbbf03ab4cfc47727097272a3e",
+      "title": "Constructing Grounded Theory: A practical guide through qualitative analysis Kathy Charmaz Constructing Grounded Theory: A practical guide through qualitative analysis Sage 224 \u00a319.99 0761973532 0761973532 [Formula: see text]."
+    },
+    {
+      "paperId": "76f58b0c51a42b77c7f0d619abdc54abc4b4a39c",
+      "title": "VizRank: Data Visualization Guided by Machine Learning"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "e11b2403a0b8ad3b4a747ce6fc915a8aee04eb6b",
+      "title": "Principal Component Analysis"
+    },
+    {
+      "paperId": "414e617decaaa8ce519e5616d38935d11b0b7e0e",
+      "title": "Principal Component Analysis"
+    },
+    {
+      "paperId": "75eb06c5d342975d6ec7b8c652653cf38bf1d6b6",
+      "title": "On Data Clustering Analysis: Scalability, Constraints, and Validation"
+    },
+    {
+      "paperId": "e854885e41b6754177d0892129a8215b7e467c23",
+      "title": "Modern Multidimensional Scaling: Theory and Applications"
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86",
+      "title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    },
+    {
+      "paperId": "939baddf5ce209d2b4abda3d253d9864343d4315",
+      "title": "Extraction of early perceptual structure in dot patterns: Integrating region, boundary, and component gestalt"
+    },
+    {
+      "paperId": null,
+      "title": "T ECHNOLOGIES I"
+    },
+    {
+      "paperId": null,
+      "title": "U NIVERSITY OF M"
+    },
+    {
+      "paperId": null,
+      "title": "Xmdv data repository"
+    },
+    {
+      "paperId": null,
+      "title": "University of California Irvine (UCI) Machine Learning Repository"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization (Chapter 27)"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "Scagnostics Distribution"
+    },
+    {
+      "paperId": "1c1f2e0dda8172a1ae59c49303c8a36f4ae8be1e",
+      "title": "Visualizing Class Structure of Multidimensional Data"
+    },
+    {
+      "paperId": "ac8ab51a86f1a9ae74dd0e4576d1a019f5e654ed",
+      "title": "Some methods for classification and analysis of multivariate observations"
+    },
+    {
+      "paperId": "777010281e4ad7feef46bcbd8c1e3fcdf467ec57",
+      "title": "Some methods for classi cation and analysis of multivariate observations"
+    },
+    {
+      "paperId": "caea865ab08c8defb93a4559cbcf47d424814635",
+      "title": "Untersuchungen zur Lehre von der Gestalt. II"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": null,
+      "title": "The Eurographics Association and"
+    }
+  ]
+}

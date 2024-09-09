@@ -1,0 +1,260 @@
+{
+  "paperId": "0d5d9c7bff298475cc2e0d0c9d06465ecd7b3d13",
+  "externalIds": {
+    "MAG": "1979253984",
+    "DBLP": "conf/chi/Myers86",
+    "DOI": "10.1145/22627.22349",
+    "CorpusId": 12628167
+  },
+  "publicationVenue": {
+    "id": "b55b50b1-aae7-47a7-b042-8aecc930073d",
+    "name": "International Conference on Human Factors in Computing Systems",
+    "type": "conference",
+    "alternate_names": [
+      "CHI",
+      "Int Conf Hum Factor Comput Syst",
+      "Human Factors in Computing Systems",
+      "Conference on Human Interface",
+      "Conf Hum Interface",
+      "Hum Factor Comput Syst"
+    ],
+    "url": "http://www.acm.org/sigchi/"
+  },
+  "url": "https://www.semanticscholar.org/paper/0d5d9c7bff298475cc2e0d0c9d06465ecd7b3d13",
+  "title": "Visual programming, programming by example, and program visualization: a taxonomy",
+  "abstract": "There has been a great interest recently in systems that use graphics to aid in the programming, debugging, and understanding of computer programs. The terms \u201cVisual Programming\u201d and \u201cProgram Visualization\u201d have been applied to these systems. Also, there has been a renewed interest in using examples to help alleviate the complexity of programming. This technique is called \u201cProgramming by Example.\u201d This paper attempts to provide more meaning to these terms by giving precise definitions, and then uses these definitions to classify existing systems into a taxonomy. A number of common unsolved problems with most of these systems are also listed.",
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "year": 1986,
+  "referenceCount": 49,
+  "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/22339.22349",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "1986-04-01",
+  "journal": {
+    "pages": "59-66"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Myers1986VisualPP,\n author = {B. Myers},\n booktitle = {International Conference on Human Factors in Computing Systems},\n pages = {59-66},\n title = {Visual programming, programming by example, and program visualization: a taxonomy},\n year = {1986}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1707801",
+      "name": "B. Myers"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "29af60be13d4b54801e8979a5539439426e76666",
+      "title": "Designing the STAR User Interface"
+    },
+    {
+      "paperId": "1b13c0e13d1101551c09e2a4b7e75594a2b4fdf3",
+      "title": "Defining constraints graphically"
+    },
+    {
+      "paperId": "609eba3ea206b1a1d26b51aebb04b714b63ca3ff",
+      "title": "Design principles for the enhanced presentation of computer program source text"
+    },
+    {
+      "paperId": "3c8680d499247971a269157be3e5cedefe088804",
+      "title": "Visualizing Program Designs Through PegaSys"
+    },
+    {
+      "paperId": "9a27d072a0ccde6e9f2908be9d7c1f66c214771c",
+      "title": "Prograph: A Preliminary Report"
+    },
+    {
+      "paperId": "5363aa5d950d51906bf2e8c8ae3b921ba051929c",
+      "title": "A Survey of Current Graphical Programming Techniques"
+    },
+    {
+      "paperId": "0597b2d56f2d2b264a8115f1767dde8f31545fbd",
+      "title": "A State Transition Diagram Language for Visual Programming"
+    },
+    {
+      "paperId": "094b2bad47cc88afde16000d7d494fb5f693711b",
+      "title": "Formal: A Forms-Oriented, Visual-Directed Application Development System"
+    },
+    {
+      "paperId": "9608f7f0237aaa9fd365f6a89a1155cdabc35bcb",
+      "title": "Animating Programs Using Smalltalk"
+    },
+    {
+      "paperId": "d081799c4a9fddf42b7c2004f083b268efafe88f",
+      "title": "Pict: An Interactive Graphical Programming Environment"
+    },
+    {
+      "paperId": "00371f786a4ba508de74c2cf74e464a132a899a7",
+      "title": "GRASE: a graphical syntax-directed editor for structured programming"
+    },
+    {
+      "paperId": "54466d0d62929cf3d9c780c4b2f477820669f073",
+      "title": "A system for algorithm animation"
+    },
+    {
+      "paperId": "7fd1637aed5dc1c27513c8ef6ae759c8ef1f4f16",
+      "title": "PIGS\u2014A system for programming with interactive graphical support"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "37719b75c90f838b7c9c119727b9e79464bcec77",
+      "title": "INCENSE: A system for displaying data structures"
+    },
+    {
+      "paperId": "bd66fcffe25bf794422b708f95f48837d1aa9d7b",
+      "title": "Program Visualization: Graphics Support for Software Development"
+    },
+    {
+      "paperId": "2d3017d66d4c7363c3a43f04a42d458eaca21122",
+      "title": "Extending the power of programming by examples"
+    },
+    {
+      "paperId": "9c84960ab26c03944e46fee1a8da21b0f22b640d",
+      "title": "The Programming Language Aspects of ThingLab, a Constraint-Oriented Simulation Laboratory"
+    },
+    {
+      "paperId": "3865bd52c580294c23e8f655cfe9ddc349ecfd34",
+      "title": "QBE/OBE: A Language for Office and Business Automation"
+    },
+    {
+      "paperId": "95e9877d59fc18bd4bfde4e282256e91294d84d4",
+      "title": "Constructing Programs from Example Computations"
+    },
+    {
+      "paperId": "b6a52320e0bc3514b1171c338e12b58c98858b81",
+      "title": "The System for Business Automation (SBA): Programming language"
+    },
+    {
+      "paperId": "e6d8af09e433d93cc17548d6cab4a6afcc7090b4",
+      "title": "Inferring LISP Programs From Examples"
+    },
+    {
+      "paperId": "fb3e7a0d14a62d7abe6be1cb395852699394efc6",
+      "title": "Flowchart techniques for structured programming"
+    },
+    {
+      "paperId": "6c2e0625353b2cbbd8444e9e8e4d36401bed5207",
+      "title": "An introduction to AMBIT/L, a diagrammatic language for list processing"
+    },
+    {
+      "paperId": "072b220af628dc62bfbaf17a05f99d694dcbf63f",
+      "title": "THE GRAIL PROJECT: AN EXPERIMENT IN MAN-MACHINE COMMUNICATIONS"
+    },
+    {
+      "paperId": "348a7054e507aaba5822d35ccd1095250e177ec4",
+      "title": "On the Implementation of AMBIT/G: A Graphical Programming Language"
+    },
+    {
+      "paperId": "0c47123cd773a6f96c53eabd0083c7a4f1d4ae23",
+      "title": "An example of the manipulation of directed graphs in the AMBIT/G programming language"
+    },
+    {
+      "paperId": "dce03d61f3838b173c24bf96bf123a2fdd7c8fef",
+      "title": "Sketchpad a Man-Machine Graphical Communication System"
+    },
+    {
+      "paperId": null,
+      "title": "CtH'86 Proceedings"
+    },
+    {
+      "paperId": null,
+      "title": "Special Issue on Visual Programming"
+    },
+    {
+      "paperId": "e566ff82f2e92d26142e0074439df29aea651d4f",
+      "title": "Programming by example"
+    },
+    {
+      "paperId": null,
+      "title": "Programming by Rehearsal. Xerox Palo Alto Research Center Technical Report SCL-84-l. May, 1984. 133 pages."
+    },
+    {
+      "paperId": null,
+      "title": "The Apple Macintosh Computer Byte Magazine"
+    },
+    {
+      "paperId": null,
+      "title": "831 Dictionary of Compu ting"
+    },
+    {
+      "paperId": null,
+      "title": "Stanislaw Matwin, and Tomasz Muldner The Programming Language PRO- GRAPH: Yet Another Application of Graphics"
+    },
+    {
+      "paperId": "dc3efff8f3928bd544daaa2e89eaa62d1a8e5c96",
+      "title": "Sorting out sorting"
+    },
+    {
+      "paperId": null,
+      "title": "Constructing Graphical User Interfaces by Example Graphics Interface'g2"
+    },
+    {
+      "paperId": null,
+      "title": "An Example of Programming by Example. Masters of Science Thesis"
+    },
+    {
+      "paperId": "6f44e7d9bf6f8c298448e1746ba32c5bad30e9ad",
+      "title": "Displaying data structures for interactive debugging"
+    },
+    {
+      "paperId": "8607c0f26afef4de30e14996245dd6649baacf49",
+      "title": "ThingLab: a constraint-oriented simulation laboratory"
+    },
+    {
+      "paperId": "222d66ca87df143683b762efc284f9ce5cb3623b",
+      "title": "A basis for the acquisition of procedures."
+    },
+    {
+      "paperId": null,
+      "title": "Approaches to Automatic Programming Aduances in Computers"
+    },
+    {
+      "paperId": "97d43ca3829f8ada921330592a43181b752a761e",
+      "title": "Pygmalion: A COMPUTER PROGRAM TO Model and Stimulate Creative Thought"
+    },
+    {
+      "paperId": "744f1f7106d4dc948a8809c1fc5b5b0a355960da",
+      "title": "Two systems which produce animated representations of the execution of computer programs"
+    },
+    {
+      "paperId": null,
+      "title": "RAND Report RM-5999-Arpa"
+    },
+    {
+      "paperId": "02d2187dc272e7622263695155ae4ad4ac5fa901",
+      "title": "The on-line graphical specification of computer procedures"
+    },
+    {
+      "paperId": null,
+      "title": "Also: Xerox Office Systems Division"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cExperiments in On-Line Graphical Debugging: The Interrogation of Complex Data Structures"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA Program to Draw Multi-Level Flow Charts"
+    }
+  ]
+}

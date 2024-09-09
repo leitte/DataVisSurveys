@@ -1,0 +1,612 @@
+{
+  "paperId": "76dc15232628e3b5e3ddd5dc8a1b5ad1ef2bf4f6",
+  "externalIds": {
+    "DBLP": "journals/cgf/SperrleEGBCEK21",
+    "DOI": "10.1111/cgf.14329",
+    "CorpusId": 235676689
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/76dc15232628e3b5e3ddd5dc8a1b5ad1ef2bf4f6",
+  "title": "A Survey of Human\u2010Centered Evaluations in Human\u2010Centered Machine Learning",
+  "abstract": "Visual analytics systems integrate interactive visualizations and machine learning to enable expert users to solve complex analysis tasks. Applications combine techniques from various fields of research and are consequently not trivial to evaluate. The result is a lack of structure and comparability between evaluations. In this survey, we provide a comprehensive overview of evaluations in the field of human\u2010centered machine learning. We particularly focus on human\u2010related factors that influence trust, interpretability, and explainability. We analyze the evaluations presented in papers from top conferences and journals in information visualization and human\u2010computer interaction to provide a systematic review of their setup and findings. From this survey, we distill design dimensions for structured evaluations, identify evaluation gaps, and derive future research opportunities.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 134,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14329",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "40"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sperrle2021ASO,\n author = {F. Sperrle and Mennatallah El-Assady and G. Guo and R. Borgo and Duen Horng Chau and A. Endert and D. Keim},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Human\u2010Centered Evaluations in Human\u2010Centered Machine Learning},\n volume = {40},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "30476081",
+      "name": "F. Sperrle"
+    },
+    {
+      "authorId": "1401917601",
+      "name": "Mennatallah El-Assady"
+    },
+    {
+      "authorId": "2067614437",
+      "name": "G. Guo"
+    },
+    {
+      "authorId": "2093523",
+      "name": "R. Borgo"
+    },
+    {
+      "authorId": "1793506",
+      "name": "Duen Horng Chau"
+    },
+    {
+      "authorId": "3200296",
+      "name": "A. Endert"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "93d49e3d465cf7559001ee17a1eeb9f5813c41d4",
+      "title": "Research Methods and Statistics in Psychology"
+    },
+    {
+      "paperId": "e1d2f2a717aa03280126f87c8e5fad695f52bf7c",
+      "title": "Explainable Artificial Intelligence (XAI)"
+    },
+    {
+      "paperId": "bc89a6fbf43cf911f71e5428d0b4a70fa5a40be9",
+      "title": "A Human-Centered Agenda for Intelligible Machine Learning"
+    },
+    {
+      "paperId": "0eb7622e04313625d289a837bdd86aa9eb853554",
+      "title": "Umbra: A Visual Analysis Approach for Defense Construction Against Inference Attacks on Sensitive Information"
+    },
+    {
+      "paperId": "e55360f0cf3932c90dfa8e0897ff46c14ab1c4dd",
+      "title": "A Comparative Analysis of Industry Human-AI Interaction Guidelines"
+    },
+    {
+      "paperId": "192ec3225aa9c4e827e5aef50e716e33f4da4e14",
+      "title": "VATLD: A Visual Analytics System to Assess, Understand and Improve Traffic Light Detection"
+    },
+    {
+      "paperId": "82b02463f9b835cc2edcaf9daf9a03ba2167fff3",
+      "title": "Auditing the Sensitivity of Graph-based Ranking with Visual Analytics"
+    },
+    {
+      "paperId": "4693cd7a3f6b0af6878e08c46a7e69b2763f99b4",
+      "title": "HyperTendril: Visual Analytics for User-Driven Hyperparameter Optimization of Deep Neural Networks"
+    },
+    {
+      "paperId": "deeb1258396d281bdcdaded26f1f1a19973f2ad2",
+      "title": "A survey of visual analytics techniques for machine learning"
+    },
+    {
+      "paperId": "855ead416697e84a586631b63b8c2a86a2bcb780",
+      "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "paperId": "733510cb2070a69f28dbcb51ae9fd76de16fda7c",
+      "title": "NEVA: Visual Analytics to Identify Fraudulent Networks"
+    },
+    {
+      "paperId": "9176255ae3e246dafc6744731e827e3e465af621",
+      "title": "SeqDynamics: Visual Analytics for Evaluating Online Problem\u2010solving Dynamics"
+    },
+    {
+      "paperId": "9bd52f3cd7e1643fb4410c370d4d83276c255279",
+      "title": "Warehouse Vis: A Visual Analytics Approach to Facilitating Warehouse Location Selection for Business Districts"
+    },
+    {
+      "paperId": "48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+      "title": "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
+    },
+    {
+      "paperId": "4109b20d89dea067fd3fde57942aa9326aae449a",
+      "title": "QUESTO: Interactive Construction of Objective Functions for Classification Tasks"
+    },
+    {
+      "paperId": "a2f648e0d05f038db0c3d647312b760a062540a1",
+      "title": "Silva: Interactively Assessing Machine Learning Fairness Using Causality"
+    },
+    {
+      "paperId": "6a33b3ffc4fe66a4aae3eba0e70b667c39b2e08b",
+      "title": "No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML"
+    },
+    {
+      "paperId": "88ba86992502ebe4c1fba97062781b692d71f226",
+      "title": "FDHelper: Assist Unsupervised Fraud Detection Experts with Interactive Feature Selection and Evaluation"
+    },
+    {
+      "paperId": "e49f67fa5c946ad24afcf59699a9cacf1ca53924",
+      "title": "Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy"
+    },
+    {
+      "paperId": "768c556939fff53bbb5279068150001d1eac9f20",
+      "title": "OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples"
+    },
+    {
+      "paperId": "91cfedb038f2671ce5862c8a5bcd8190b4fc426f",
+      "title": "Analyzing the Noise Robustness of Deep Neural Networks"
+    },
+    {
+      "paperId": "a96f474155870f101a39b37521e83950ef7eb913",
+      "title": "CheXplain: Enabling Physicians to Explore and Understand Data-Driven, AI-Enabled Medical Imaging Analysis"
+    },
+    {
+      "paperId": "f6dcb40cd150b8fa95873bf2ac82c67d3bed3ee4",
+      "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "paperId": "7c3bda990b7220ae892d891ee9af30c132d91c50",
+      "title": "GUIRO: User-Guided Matrix Reordering"
+    },
+    {
+      "paperId": "0f5145439878f7b0c055964321868f9da48a8f21",
+      "title": "Geono-Cluster: Interactive Visual Cluster Analysis for Biologists"
+    },
+    {
+      "paperId": "ce913b7920b59f7020c8d3dcac3175abf82e9310",
+      "title": "Interactive Curation of Datasets for Training and Refining Generative Models"
+    },
+    {
+      "paperId": "78a0c951706c88901c45fa1ee5709160beb7032b",
+      "title": "DRLViz: Understanding Decisions and Memory in Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "0ad5ceee138208462e8a3e7afc77de62692c49fd",
+      "title": "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data"
+    },
+    {
+      "paperId": "9c009390ef45542925940e12629b62b084f41251",
+      "title": "Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "13ee6d92db3d842fabaa4e43d3385d454f7f2a0b",
+      "title": "explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning"
+    },
+    {
+      "paperId": "97a373d510620087377dad8e9802a82cb96c761c",
+      "title": "VIANA: Visual Interactive Annotation of Argumentation"
+    },
+    {
+      "paperId": "46c266b3d1274dacd7fce27ee8cb4d587f087a58",
+      "title": "Machine Learning Interpretability: A Survey on Methods and Metrics"
+    },
+    {
+      "paperId": "03c8320ab91d575e578a299cb12d2051430e5d99",
+      "title": "Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics"
+    },
+    {
+      "paperId": "1f6b9766374d14d81c225c2ced5bb02fe0bccd43",
+      "title": "The What-If Tool: Interactive Probing of Machine Learning Models"
+    },
+    {
+      "paperId": "0fdd9badb2cfd1b3af4c094f234f630339dcf62a",
+      "title": "A more human approach to artificial intelligence"
+    },
+    {
+      "paperId": "51a30be48add8b9bf8f8d2e3f69ee1d4e06e2db0",
+      "title": "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+    },
+    {
+      "paperId": "85f1bb32bd611d83e289548a692f4734bf5d2241",
+      "title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective"
+    },
+    {
+      "paperId": "99550cbf48c0eab75cb66594d2feff56b5f5510e",
+      "title": "DeepVID: Deep Visual Interpretation and Diagnosis for Image Classifiers via Knowledge Distillation"
+    },
+    {
+      "paperId": "42305dfdda2aab2e2bd884e80180827996010cc0",
+      "title": "Visual Exploration of Neural Document Embedding in Information Retrieval: Semantics and Feature Selection"
+    },
+    {
+      "paperId": "7eab0436332e7bc6159775aea2bf1d272b49135c",
+      "title": "Evaluation Metrics for Unsupervised Learning Algorithms"
+    },
+    {
+      "paperId": "b2b16b3ae577e71b0a7a5c0f2b6fa2a2db8c98f0",
+      "title": "Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders"
+    },
+    {
+      "paperId": "d1e258daee94b87ab9ab2173eebdd30fc231cef4",
+      "title": "Toward Algorithmic Accountability in Public Services: A Qualitative Study of Affected Community Perspectives on Algorithmic Decision-making in Child Welfare Services"
+    },
+    {
+      "paperId": "84a58ff9e0b1ad8bd094aff3ab25a571eb56c6ed",
+      "title": "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
+    },
+    {
+      "paperId": "ad3cf68bae32d21f25ac142287d4a556155619d2",
+      "title": "Guidelines for Human-AI Interaction"
+    },
+    {
+      "paperId": "192e7880535131f28b76a4bb6936105c45c6f485",
+      "title": "Can Children Understand Machine Learning Concepts?: The Effect of Uncovering Black Boxes"
+    },
+    {
+      "paperId": "1a2f2d997876ea2e34f6630bd506c3503df7935c",
+      "title": "DPVis: Visual Analytics With Hidden Markov Models for Disease Progression Pathways"
+    },
+    {
+      "paperId": "ea455dc7ef4dfde608bf2055b911b695d77360c6",
+      "title": "Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning"
+    },
+    {
+      "paperId": "5b8a01e224443eccdac36768fb8ad63e1c6a4ae2",
+      "title": "V\u2010Awake: A Visual Analytics Approach for Correcting Sleep Predictions from Deep Learning Models"
+    },
+    {
+      "paperId": "3dc0f10f117bdfb6d5c15ad738929daf3f862585",
+      "title": "ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning"
+    },
+    {
+      "paperId": "f5df873e0d4ef0081f7f92aa3ee56144d4e0c7d6",
+      "title": "Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making"
+    },
+    {
+      "paperId": "157592a892ee44dd5b3b6a06f9191ac5ec8407ac",
+      "title": "Friend, Collaborator, Student, Manager: How Design of an AI-Driven Game Level Editor Affects Creators"
+    },
+    {
+      "paperId": "ba49989ed6a8934933513d9f608a21f4c7a07aa2",
+      "title": "MyEvents: A Personal Visual Analytics Approach for Mining Key Events and Knowledge Discovery in Support of Personal Reminiscence"
+    },
+    {
+      "paperId": "2bc964de46c4a2068ea5b11591c390f242672a5a",
+      "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks"
+    },
+    {
+      "paperId": "b01a871cff4d2e35719d8639392fbf6c55858057",
+      "title": "NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models"
+    },
+    {
+      "paperId": "1b9f0ba07f714245a2525cc31a55e26645b05447",
+      "title": "RegressionExplorer: Interactive Exploration of Logistic Regression Models with Subgroup Analysis"
+    },
+    {
+      "paperId": "b4738c09b3162135eaccae2aa0d071116b65a879",
+      "title": "EnsembleLens: Ensemble-based Visual Exploration of Anomaly Detection Algorithms with Multidimensional Data"
+    },
+    {
+      "paperId": "566c27b85669268a4d4a2e5fa899a8099adeceac",
+      "title": "Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution"
+    },
+    {
+      "paperId": "9eabb111aa1a4045c11c408bbd82753abc56ef8a",
+      "title": "iForest: Interpreting Random Forests via Visual Analytics"
+    },
+    {
+      "paperId": "1543ffcac50ee837494c077f88d8db92fa330be6",
+      "title": "Doccurate: A Curation-Based Approach for Clinical Text Visualization"
+    },
+    {
+      "paperId": "1fccba11583dc9e1030713d61bd65e9e9990e39f",
+      "title": "Human-Centered Artificial Intelligence and Machine Learning"
+    },
+    {
+      "paperId": "509f84a0c11be7081ae14cdca88cee811a7b1c26",
+      "title": "Integrating Data and Model Space in Ensemble Learning by Visual Analytics"
+    },
+    {
+      "paperId": "2038d8fac67e69e8fb0b097ef1328aa87de63d46",
+      "title": "Speculative Execution for Guided Visual Analytics"
+    },
+    {
+      "paperId": "7365f887c938ca21a6adbef08b5a520ebbd4638f",
+      "title": "Model Cards for Model Reporting"
+    },
+    {
+      "paperId": "130f966fafa7408b3175afeb37757ffadd9cda3b",
+      "title": "A User\u2010based Visual Analytics Workflow for Exploratory Model Analysis"
+    },
+    {
+      "paperId": "98689eb943f20e58296cb4f4c15f702ce7041121",
+      "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation"
+    },
+    {
+      "paperId": "a9b57247bfb912fa8919e8d87b68e09ad81d418a",
+      "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules"
+    },
+    {
+      "paperId": "41b35180723bf466c6b7da550fb91803bf390a74",
+      "title": "Introduction to the Special Issue on Human-Centered Machine Learning"
+    },
+    {
+      "paperId": "3634e7e779aeb761c67920f43a03040e35625df0",
+      "title": "GANViz: A Visual Analytics Approach to Understand the Adversarial Game"
+    },
+    {
+      "paperId": "5a0d4f928bb3192d724f160769d6bc5023b9dd7f",
+      "title": "ThreadReconstructor: Modeling Reply\u2010Chains to Untangle Conversational Text through Visual Analytics"
+    },
+    {
+      "paperId": "012e9c43d1b32bd6cb75b15f49b2db0bb16f3376",
+      "title": "Towards User\u2010Centered Active Learning Algorithms"
+    },
+    {
+      "paperId": "cd32fc2c1fb609e6159d32e641a085fce727ffcb",
+      "title": "Information Visualization Evaluation Using Crowdsourcing"
+    },
+    {
+      "paperId": "5fe18d35bad4238b80a99ec8c4b98aca99a7e389",
+      "title": "Communicating Algorithmic Process in Online Behavioral Advertising"
+    },
+    {
+      "paperId": "2a0e4eeea84f6352a6ac012f10581e5a228b6a92",
+      "title": "Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda"
+    },
+    {
+      "paperId": "4c5a032f5c0ce3a9a609c94e9e5d290a8ba83d2e",
+      "title": "Intellingo: An Intelligible Translation Environment"
+    },
+    {
+      "paperId": "c9407a53b3deca88c6f8031f68d6224a32258598",
+      "title": "Towards Algorithmic Experience: Initial Efforts for Social Media Contexts"
+    },
+    {
+      "paperId": "10c058f8c928996fe5b2b31811c0ae7ecb4c01d5",
+      "title": "Clustrophile 2: Guided Visual Clustering Analysis"
+    },
+    {
+      "paperId": "0df347f5e3118fac7c351917e3a497899b071d1e",
+      "title": "Datasheets for datasets"
+    },
+    {
+      "paperId": "82adaf8804222437af2ab6d54d23f77a56631395",
+      "title": "The challenge of crafting intelligible intelligence"
+    },
+    {
+      "paperId": "2f4e42ab1368b83e38e3011fcec4edb57267b5d2",
+      "title": "Manipulating and Measuring Model Interpretability"
+    },
+    {
+      "paperId": "74c6e439908943c6029d9bafcaf1cc092966e636",
+      "title": "Evaluation of Interactive Machine Learning Systems"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "b71fe09f4077acdeae25681e8f0cc4483d56e4ec",
+      "title": "Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow"
+    },
+    {
+      "paperId": "e99d83db1c37f7393a3fc83a10d63a5f57ed24c9",
+      "title": "What you see is what you can change: Human-centered machine learning by interactive visualization"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences"
+    },
+    {
+      "paperId": "01c2c083906aa9deedbf213c548750d4405e39cf",
+      "title": "ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "af1322580b13907d690f5d371d880a4e39b6edfd",
+      "title": "Constructive Visual Analytics for Text Similarity Detection"
+    },
+    {
+      "paperId": "d516daff247f7157fccde6649ace91d969cd1973",
+      "title": "The mythos of model interpretability"
+    },
+    {
+      "paperId": "09982d5e2c5f0109c23d0b3416a3765cad758161",
+      "title": "Human-Centred Machine Learning"
+    },
+    {
+      "paperId": "4db4ba1c0bebb91f95c59d0aa22dfab6ca6eddf6",
+      "title": "Interacting with Predictions: Visual Inspection of Black-box Machine Learning Models"
+    },
+    {
+      "paperId": "16ba145f032f51d2e1162cb2ad82f9f3c58830d5",
+      "title": "Setwise Comparison: Consistent, Scalable, Continuum Labels for Computer Vision"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "4c8a4f659e827a3189e14f0efd00987dc4c7785f",
+      "title": "FeatureInsight: Visual support for error-driven feature ideation in text classification"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "825ca26af5a2a510dbc1a7b97587212bc98ae968",
+      "title": "Power to the People: The Role of Humans in Interactive Machine Learning"
+    },
+    {
+      "paperId": "0d5911fa0218e44dc1246f5f43d174b9e5589c0b",
+      "title": "Field experiment methodology for pair analytics"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "361f6799198c4a258c5dbb4c9863a521f290ff4c",
+      "title": "Visual Classifier Training for Text Document Retrieval"
+    },
+    {
+      "paperId": "b7e3840baec19c7909c91d14cd3ea656df38bb1d",
+      "title": "iLAMP: Exploring high-dimensional spacing through backward multidimensional projection"
+    },
+    {
+      "paperId": "7175d174b186c81b3b03cb47d8f60bc88efe21f0",
+      "title": "\"Yours is better!\": participant response bias in HCI"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "fbaad669899c053d1eed18b518f576b569695da2",
+      "title": "Robots in the wild: Understanding long-term use"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "e82fc079b24cde50bc34552847ae82cba0d14f4f",
+      "title": "Direct manipulation for comprehensible, predictable and controllable user interfaces"
+    },
+    {
+      "paperId": "353fa131872a5835da173ca756ecaebe0fb91265",
+      "title": "Learning and Teaching in Co-Adaptive Guidance for Mixed-Initiative Visual Analytics"
+    },
+    {
+      "paperId": "7a6836f778855597d1c6605bbbaafdb50a4fec66",
+      "title": "Evaluating the Efect of Feedback from Diferent Computer Vision Processing Stages A Comparative Lab Study"
+    },
+    {
+      "paperId": "547711207f25deda86f5a079167c0916e6809ad5",
+      "title": "Analyzing the Training Processes of Deep Generative Models"
+    },
+    {
+      "paperId": "5b20ab877b21d3d83251dd4d1fffbd848ffd1557",
+      "title": "Visual Diagnosis of Tree Boosting Methods"
+    },
+    {
+      "paperId": "dc2d67959fa2aa1c6cb076b96011996c498e9bf7",
+      "title": "Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification"
+    },
+    {
+      "paperId": "8b4b027d79378c7c93290c739f4aec398fecdccb",
+      "title": "Comparing Visual-Interactive Labeling with Active Learning: An Experimental Study"
+    },
+    {
+      "paperId": "5cdc573036eac9c370e16291744b4595d4cf5e3f",
+      "title": "Clustervision: Visual Supervision of Unsupervised Clustering"
+    },
+    {
+      "paperId": "e8d93fcf8cc475b8e0bd8daa47b084e14316098b",
+      "title": "Understanding the Relationship Between Interactive Optimisation and Visual Analytics in the Context of Prostate Brachytherapy"
+    },
+    {
+      "paperId": "5c7cad7fa6ca45a9f8248b5c383fecd7ce6b6c14",
+      "title": "Progressive Learning of Topic Modeling Parameters: A Visual Analytics Framework"
+    },
+    {
+      "paperId": "b544e7f4c580fd30e66c2fae8e94c87912d35e27",
+      "title": "SOMFlow: Guided Exploratory Cluster Analysis with Self-Organizing Maps and Analytic Provenance"
+    },
+    {
+      "paperId": "d9deeff32c13b355a3cd7db484c348faecc05b67",
+      "title": "TreePOD: Sensitivity-Aware Selection of Pareto-Optimal Decision Trees"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "388e8591cb089392f2677f0353d716cf0f9e7b27",
+      "title": "Familiarity Vs Trust: A Comparative Study of Domain Scientists' Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "paperId": "1554134e34366adcd69cd021a0b930a003ae789e",
+      "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "f4f3234cb6bd146872453d00e26a4741e216dc95",
+      "title": "Interaction Taxonomy for Tracking of User Actions in Visual Analytics Applications"
+    },
+    {
+      "paperId": "3a28f1051b83b10a811fd7387a9354f7a6db49a6",
+      "title": "Grounding grounded theory : guidelines for qualitative inquiry"
+    },
+    {
+      "paperId": "413244dea0ace1b977fd4711de214c7c009d4ca4",
+      "title": "Research methods and statistics in psychology, 2nd ed."
+    },
+    {
+      "paperId": null,
+      "title": "If applicable, represent a study's phases as a figure, such as provided by"
+    },
+    {
+      "paperId": null,
+      "title": "Consider providing statistics about participants, e.g., age and gender. They are relevant to scope potential replication studies"
+    },
+    {
+      "paperId": null,
+      "title": "Provide definitions for abstract concepts like trustworthiness or intelligibility"
+    },
+    {
+      "paperId": null,
+      "title": "Structure the evaluation section to support readability"
+    },
+    {
+      "paperId": null,
+      "title": "Identify and report what properties or aspects are being evaluated, and how, e.g., usability, learning, knowledge generation, user satisfaction"
+    },
+    {
+      "paperId": null,
+      "title": "Designing human-centered AI products"
+    }
+  ]
+}

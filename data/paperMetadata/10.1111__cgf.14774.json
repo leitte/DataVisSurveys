@@ -1,0 +1,1545 @@
+{
+  "paperId": "f0e7f8f7be13b3d0a2043aea15c616ff3079a780",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2210-15664",
+    "ArXiv": "2210.15664",
+    "DOI": "10.1111/cgf.14774",
+    "CorpusId": 253157462
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/f0e7f8f7be13b3d0a2043aea15c616ff3079a780",
+  "title": "State of the Art in Dense Monocular Non\u2010Rigid 3D Reconstruction",
+  "abstract": "3D reconstruction of deformable (or non\u2010rigid) scenes from a set of monocular 2D image observations is a long\u2010standing and actively researched area of computer vision and graphics. It is an ill\u2010posed inverse problem, since\u2014without additional prior assumptions\u2014it permits infinitely many solutions leading to accurate projection to the input 2D images. Non\u2010rigid reconstruction is a foundational building block for downstream applications like robotics, AR/VR, or visual content creation. The key advantage of using monocular cameras is their omnipresence and availability to the end users as well as their ease of use compared to more sophisticated camera set\u2010ups such as stereo or multi\u2010view systems. This survey focuses on state\u2010of\u2010the\u2010art methods for dense non\u2010rigid 3D reconstruction of various deformable objects and composite scenes from monocular videos or sets of monocular views. It reviews the fundamentals of 3D reconstruction and deformation modeling from 2D image observations. We then start from general methods\u2014that handle arbitrary scenes and make only a few prior assumptions\u2014and proceed towards techniques making stronger assumptions about the observed objects and types of deformations (e.g. human faces, bodies, hands, and animals). A significant part of this STAR is also devoted to classification and a high\u2010level comparison of the methods, as well as an overview of the datasets for training and evaluation of the discussed techniques. We conclude by discussing open challenges in the field and the social aspects associated with the usage of the reviewed methods.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 364,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14774",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-10-27",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tretschk2022StateOT,\n author = {Edith Tretschk and Navami Kairanda and R. MallikarjunB. and Rishabh Dabral and A. Kortylewski and B. Egger and Marc Habermann and P. Fua and C. Theobalt and Vladislav Golyanik},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art in Dense Monocular Non\u2010Rigid 3D Reconstruction},\n volume = {42},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2159555960",
+      "name": "Edith Tretschk"
+    },
+    {
+      "authorId": "2159556917",
+      "name": "Navami Kairanda"
+    },
+    {
+      "authorId": "1413283221",
+      "name": "R. MallikarjunB."
+    },
+    {
+      "authorId": "30091296",
+      "name": "Rishabh Dabral"
+    },
+    {
+      "authorId": "2265994888",
+      "name": "A. Kortylewski"
+    },
+    {
+      "authorId": "2053695764",
+      "name": "B. Egger"
+    },
+    {
+      "authorId": "14210288",
+      "name": "Marc Habermann"
+    },
+    {
+      "authorId": "153918727",
+      "name": "P. Fua"
+    },
+    {
+      "authorId": "1680185",
+      "name": "C. Theobalt"
+    },
+    {
+      "authorId": "3407706",
+      "name": "Vladislav Golyanik"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "32d3048a4fe4becc7c4638afd05f2354b631cfca",
+      "title": "SMPL: A Skinned Multi-Person Linear Model"
+    },
+    {
+      "paperId": "10afac32f90faf66227788e80c62ca9a10213d19",
+      "title": "CASA: Category-agnostic Skeletal Animal Reconstruction"
+    },
+    {
+      "paperId": "1fbe23a0d6e45b0bd7861ea33b7e51c27b1a8ef4",
+      "title": "NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields"
+    },
+    {
+      "paperId": "09179234dec5fc6dea4a8b02a9d98eef712d45e9",
+      "title": "Monocular Dynamic View Synthesis: A Reality Check"
+    },
+    {
+      "paperId": "03e4d4911ce914d6a4e12b025a75e5719890bf39",
+      "title": "NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos"
+    },
+    {
+      "paperId": "e31370cc8bae28a5ff39366b87ed30073ba3fae6",
+      "title": "HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances"
+    },
+    {
+      "paperId": "93346028049e9e7c3f98f62883ec8de1f7da8abc",
+      "title": "HandFlow: Quantifying View-Dependent 3D Ambiguity in Two-Hand Reconstruction with Normalizing Flow"
+    },
+    {
+      "paperId": "c9145415e2857a4297909fe8b4677166968bcc3e",
+      "title": "Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping"
+    },
+    {
+      "paperId": "babdb5a2d6df1437a70443e641eff5cff960bc64",
+      "title": "gCoRF: Generative Compositional Radiance Fields"
+    },
+    {
+      "paperId": "7e849cc7376f9460fc6792207c7e9e55c44bae99",
+      "title": "MoRF: Morphable Radiance Fields for Multiview Neural Head Modeling"
+    },
+    {
+      "paperId": "6c6c996ba34fc02d00bc945b8d5c49807a3a552c",
+      "title": "CelebV-HQ: A Large-Scale Video Facial Attributes Dataset"
+    },
+    {
+      "paperId": "5303af7a8d00883fa09552c4df672970bc1ec366",
+      "title": "Multiface: A Dataset for Neural Face Rendering"
+    },
+    {
+      "paperId": "22ace3cba7cf7aaaac193ff4d3be1d05d2960b6d",
+      "title": "Learning-based Monocular 3D Reconstruction of Birds: A Contemporary Survey"
+    },
+    {
+      "paperId": "50578c1e4777d6ec61bbff2d79605ea4659e2e44",
+      "title": "LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery"
+    },
+    {
+      "paperId": "89a856845a3640f414eea896e088c9bf92466c75",
+      "title": "EpiGRAF: Rethinking training of 3D GANs"
+    },
+    {
+      "paperId": "41ff790ff81eab621fc82bc1f27d0ea1625ea353",
+      "title": "GAN2X: Non-Lambertian Inverse Rendering of Image GANs"
+    },
+    {
+      "paperId": "6c48bc2d18f6dc0ad75c8c60380694d0171ac077",
+      "title": "Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model"
+    },
+    {
+      "paperId": "fc63cea3f06ab40bb1218fda8829194eb8e46869",
+      "title": "GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds"
+    },
+    {
+      "paperId": "05f31f8d11629bec66e99b72862da48bbcb03ff7",
+      "title": "VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids"
+    },
+    {
+      "paperId": "8d3dedf83d1ff61c5ae4e1836596d1ff4410cf41",
+      "title": "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
+    },
+    {
+      "paperId": "898efd8b3d5bf76d4fbd0dcec342358214d6c812",
+      "title": "Physics informed neural fields for smoke reconstruction with sparse data"
+    },
+    {
+      "paperId": "5c64982da303fe1b5cda05536fcf49c9301f53af",
+      "title": "Neural Prior for Trajectory Estimation"
+    },
+    {
+      "paperId": "5ece3f82b71e613d0f933daec983cbeb8a47dc72",
+      "title": "High-Fidelity Human Avatars from a Single RGB Camera"
+    },
+    {
+      "paperId": "42faf2cd6e6c86d7c18b726ad6dc897202b97be6",
+      "title": "RigNeRF: Fully Controllable Neural 3D Portraits"
+    },
+    {
+      "paperId": "8f01dff0485488c02b567dac44cdfe9f708cfe70",
+      "title": "Fast Dynamic Radiance Fields with Time-Aware Neural Voxels"
+    },
+    {
+      "paperId": "348d7d15f05a689825c925007f8265379f35f7c7",
+      "title": "ReLU Fields: The Little Non-linearity That Could"
+    },
+    {
+      "paperId": "a4a4d44bbe0068e4dac309ca8e6c62eaa189f175",
+      "title": "Topologically-Aware Deformation Fields for Single-View 3D Reconstruction"
+    },
+    {
+      "paperId": "e735a4aad6979c937f5694a2c61231c9b99254d5",
+      "title": "NeRF-Editing: Geometry Editing of Neural Radiance Fields"
+    },
+    {
+      "paperId": "950c2f099ac229bcc238279683f1caa6462e2f10",
+      "title": "Towards Racially Unbiased Skin Tone Estimation via Scene Disambiguation"
+    },
+    {
+      "paperId": "0c34f2072b59858cf03c4fd8edbe93916c5ffa36",
+      "title": "HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling"
+    },
+    {
+      "paperId": "dc6f9a04c4b33f36dc5fb61026ff06f72a985dc3",
+      "title": "Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing"
+    },
+    {
+      "paperId": "ef3b913e6509077c67e678674e2ba33d99a201a5",
+      "title": "Detecting Deepfakes with Self-Blended Images"
+    },
+    {
+      "paperId": "004d4b85bc2a3a619df15f0f5ed54164c497413e",
+      "title": "What's in your hands? 3D Reconstruction of Generic Objects in Hands"
+    },
+    {
+      "paperId": "9a714179010e6f636ec507f92fb0d5d6ab930539",
+      "title": "Towards Metrical Reconstruction of Human Faces"
+    },
+    {
+      "paperId": "165fb28d59d29e589bdc9f42ab39c178469a64cd",
+      "title": "SNUG: Self-Supervised Neural Dynamic Garments"
+    },
+    {
+      "paperId": "96b935f8579caa31cd8bb785e1c0b740c85b0da2",
+      "title": "LISA: Learning Implicit Shape and Appearance of Hands"
+    },
+    {
+      "paperId": "27b8ef5dba27a2a286776422b314d315f9fd87a3",
+      "title": "Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images"
+    },
+    {
+      "paperId": "28f57dcbb4a5eab7f249e6297c706d678cf8a533",
+      "title": "BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information"
+    },
+    {
+      "paperId": "2bc66ba6c9dd97275684b1ed7c32000e8e154abb",
+      "title": "HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network"
+    },
+    {
+      "paperId": "02ee1fb93a5713f7cab50c19905567c3f84cac24",
+      "title": "ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations"
+    },
+    {
+      "paperId": "17df7e87a5d25e6e83d773e6f686eb0a85f6827e",
+      "title": "NeuMan: Neural Human Radiance Field from a Single Video"
+    },
+    {
+      "paperId": "782a0ecc76059378a68e01a8ed4896df18eb87bf",
+      "title": "$\\phi$-SfT: Shape-from-Template with a Physics-Based Deformation Model"
+    },
+    {
+      "paperId": "4efd074a4153aab6aa685ade00748c1e756072db",
+      "title": "Interacting Attention Graph for Single Image Two-Hand Reconstruction"
+    },
+    {
+      "paperId": "b4a9437302411abde0c9de784a14bfc6a5d950cf",
+      "title": "TensoRF: Tensorial Radiance Fields"
+    },
+    {
+      "paperId": "8e508845331bbbe11c2de26196d930fd82d335cc",
+      "title": "Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors"
+    },
+    {
+      "paperId": "03e252c8219a130d542bda8f3348e8b4d156d682",
+      "title": "OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction"
+    },
+    {
+      "paperId": "f3b1b7f230a9d8f8a50cd88734aaabd1eb8e6e44",
+      "title": "Recovering 3D Human Mesh From Monocular Images: A Survey"
+    },
+    {
+      "paperId": "78194075df46c7653b17cb47ba52d25c44ea774f",
+      "title": "Playable Environments: Video Manipulation in Space and Time"
+    },
+    {
+      "paperId": "60e69982ef2920596c6f31d6fd3ca5e9591f3db6",
+      "title": "Instant neural graphics primitives with a multiresolution hash encoding"
+    },
+    {
+      "paperId": "f763a59644e27a2215095943224f2564e670a504",
+      "title": "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"
+    },
+    {
+      "paperId": "6e10aaf734eb533fc00f5e0f73ddc5b6dbb3b80f",
+      "title": "Tensor-Based Non-Rigid Structure from Motion"
+    },
+    {
+      "paperId": "e230950f1a784982df3bff6b4f753e50f9fbfb69",
+      "title": "BANMo: Building Animatable 3D Neural Models from Many Casual Videos"
+    },
+    {
+      "paperId": "18ba8f0efb362e08903e8e35b062e2c69126e371",
+      "title": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM"
+    },
+    {
+      "paperId": "bbfebb10f41254ff88937feafcc653df1cfacb5d",
+      "title": "StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation"
+    },
+    {
+      "paperId": "117b816ebd036b2fa008b4f1371dd607f881c150",
+      "title": "3D-aware Image Synthesis via Learning Structural and Textural Representations"
+    },
+    {
+      "paperId": "c3ec9c6f4e82e90c0a3fea0802cc5b33f66e1b9b",
+      "title": "GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation"
+    },
+    {
+      "paperId": "4ffd87551ab02eca22bd6d5ad945c8d036e80b1d",
+      "title": "ICON: Implicit Clothed humans Obtained from Normals"
+    },
+    {
+      "paperId": "3007b30891714b5b0cc0a41eb06f8a194d74993a",
+      "title": "Efficient Geometry-aware 3D Generative Adversarial Networks"
+    },
+    {
+      "paperId": "792d86d09c2fe992d4ebfb5b80d6dd7ff76e1b3c",
+      "title": "I M Avatar: Implicit Morphable Head Avatars from Videos"
+    },
+    {
+      "paperId": "c63c28feb43fdfd938e17e707bba06823fb9b7ed",
+      "title": "HeadNeRF: A Realtime NeRF-based Parametric Head Model"
+    },
+    {
+      "paperId": "22fac560acbc5caf9127bffd5dfb3e5db95337a7",
+      "title": "NeRF for Outdoor Scene Relighting"
+    },
+    {
+      "paperId": "e91f73aaef155391b5b07e6612f5346dea888f64",
+      "title": "Plenoxels: Radiance Fields without Neural Networks"
+    },
+    {
+      "paperId": "3244483e9906d69533728bc44db4705c0eb61b31",
+      "title": "MoFaNeRF: Morphable Facial Neural Radiance Field"
+    },
+    {
+      "paperId": "13e0adcf727e75f95f7e49243f059b2960037db8",
+      "title": "Neural Head Avatars from Monocular RGB Videos"
+    },
+    {
+      "paperId": "521026c6097b0c0b44cb97b8a3952261527bea41",
+      "title": "Neural Fields in Visual Computing and Beyond"
+    },
+    {
+      "paperId": "4f7eb65f8d3c1eeb97e30f7ac68977ff16e1e942",
+      "title": "Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction"
+    },
+    {
+      "paperId": "2fef692b57e036e84c0f3a561743da5a14e3994d",
+      "title": "LOLNeRF: Learn from One Look"
+    },
+    {
+      "paperId": "9a4e6dc13a723d6e268dfcb36f31b26ead520d81",
+      "title": "Coarse-to-fine Animal Pose and Shape Estimation"
+    },
+    {
+      "paperId": "8e970913466a81207230a09f6516bab944563cc0",
+      "title": "Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis"
+    },
+    {
+      "paperId": "e67b57dec4da780b5cb4bcb33498a1a329afe53d",
+      "title": "H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion"
+    },
+    {
+      "paperId": "3fdda879abf2462b09139fb1fd1c2c147c9a0ef0",
+      "title": "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
+    },
+    {
+      "paperId": "2d69c35939e95c7588c98e87c3b77d27e87d8181",
+      "title": "Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image"
+    },
+    {
+      "paperId": "ba714e693bb18ab84807d2cb4fce935a04b23d1b",
+      "title": "DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension"
+    },
+    {
+      "paperId": "05f907e437a14d0db9b7479662d0cd587cd54634",
+      "title": "imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose"
+    },
+    {
+      "paperId": "08fb7f22835d54aba33c461c9aa6722632530bd0",
+      "title": "PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion"
+    },
+    {
+      "paperId": "6d45ea67e124a4d4e09677812305274e596023c6",
+      "title": "ARCH++: Animation-Ready Clothed Human Reconstruction Revisited"
+    },
+    {
+      "paperId": "a84ca51c66d7b6649ff93cada6a389c1c17fbd2b",
+      "title": "EventHPE: Event-based 3D Human Pose and Shape Estimation"
+    },
+    {
+      "paperId": "b95b3d49086ec84df6d81075fbaf502292046132",
+      "title": "FrankMocap: A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration"
+    },
+    {
+      "paperId": "f39085b139b7c1476ca7c6ed9946d4454adb7d90",
+      "title": "H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction"
+    },
+    {
+      "paperId": "fb877c091d87a75aeb28a01002c34761b473ab64",
+      "title": "DOVE: Learning Deformable 3D Objects by Watching Videos"
+    },
+    {
+      "paperId": "0b5b6598e3e108147842f35ff66a95d989f9ec89",
+      "title": "Advances in Neural Rendering"
+    },
+    {
+      "paperId": "cf5647cb2613f5f697729eab567383006dcd4913",
+      "title": "NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction"
+    },
+    {
+      "paperId": "fa0fa2c4dc2c464729299b3f14503f09bcf8c8be",
+      "title": "To The Point: Correspondence-driven monocular 3D category reconstruction"
+    },
+    {
+      "paperId": "2df1d01140ee24cd109a0157c9b6a871c7cc26ff",
+      "title": "DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact"
+    },
+    {
+      "paperId": "46d7aa01541acda0a6705ae27875523947c57c7d",
+      "title": "NeRFactor"
+    },
+    {
+      "paperId": "bf6a09d04961967b1a3bd4e515a4db34b2589c41",
+      "title": "Colonoscopic 3D reconstruction by tubular non-rigid structure-from-motion"
+    },
+    {
+      "paperId": "34504edc566825571eefaf070e598822d3600b8f",
+      "title": "Birds of a Feather: Capturing Avian Shape Models from Images"
+    },
+    {
+      "paperId": "6b0a81d050e0bc0e49010c49f51ec3fcbaab6b28",
+      "title": "Dynamic View Synthesis from Dynamic Monocular Video"
+    },
+    {
+      "paperId": "07572776b5b1864ced8eae42a615a2a9bbda0c12",
+      "title": "The Isowarp: The Template-Based Visual Geometry of Isometric Surfaces"
+    },
+    {
+      "paperId": "b0d8650d08e6041c8851bfbba70097536fc4fbcb",
+      "title": "LASR: Learning Articulated Shape Reconstruction from a Monocular Video"
+    },
+    {
+      "paperId": "5fbd89355f19598d068318c1b2af33ccf4441dc9",
+      "title": "Neural monocular 3D human motion capture with physical awareness"
+    },
+    {
+      "paperId": "377549ac548d8bb458d4297325f983c85b6aec8f",
+      "title": "Differentiable Event Stream Simulator for Non-Rigid 3D Tracking"
+    },
+    {
+      "paperId": "c366c0ae0a057f68f1cedbf24e5ea24f9bf80487",
+      "title": "Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation"
+    },
+    {
+      "paperId": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+      "title": "Emerging Properties in Self-Supervised Vision Transformers"
+    },
+    {
+      "paperId": "3cb0a29bc4414d5979a9d3a94ec30dcab3ae43f7",
+      "title": "H2O: Two Hands Manipulating Objects for First Person Interaction Recognition"
+    },
+    {
+      "paperId": "bd0cf7c85cdb91d52596d8b9cfd80ca34bdb19d9",
+      "title": "Global Transport for Fluid Reconstruction with Learned Self-Supervision"
+    },
+    {
+      "paperId": "1c620dbb3a9e2e1cf24df9cdd3d0b199b27a70b0",
+      "title": "DexYCB: A Benchmark for Capturing Hand Grasping of Objects"
+    },
+    {
+      "paperId": "586feddfa72cc263a17207a0cb73b992e1ee3a71",
+      "title": "SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes"
+    },
+    {
+      "paperId": "92c89db048fb825d2c81b086d7bd82ed230f685b",
+      "title": "gradSim: Differentiable simulation for system identification and visuomotor control"
+    },
+    {
+      "paperId": "6cda0deac2ed54fe7605cf345c3cd362cc54f14d",
+      "title": "PAUL: Procrustean Autoencoder for Unsupervised Lifting"
+    },
+    {
+      "paperId": "f7d1f69c1f599fb5a4840e3eb696a0645210d392",
+      "title": "Learning monocular 3D reconstruction of articulated categories from motion"
+    },
+    {
+      "paperId": "6f28fb45a7c14ea3cdc222d4480ab4682f2a858c",
+      "title": "Undeformable Bodies that are Not Rigid Bodies: A Philosophical Journey Through Some (Unexpected) Supertasks"
+    },
+    {
+      "paperId": "ac4d4414f7555346dfad7c6a441e8d0e675a30a4",
+      "title": "SMPLicit: Topology-aware Generative Model for Clothed People"
+    },
+    {
+      "paperId": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+      "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    {
+      "paperId": "af8faec7c0b8f4b2a28d42a86e0e7d499016c560",
+      "title": "Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans"
+    },
+    {
+      "paperId": "eaee62ae051a9cd8065db7f5a444a3209d31e989",
+      "title": "Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video"
+    },
+    {
+      "paperId": "d67720b062f5dde1de3298d3140b7bbd332003cd",
+      "title": "Neural Radiance Flow for 4D View Synthesis and Video Processing"
+    },
+    {
+      "paperId": "a23095c15d47c652cfe773bcee6ab7b35b6b006f",
+      "title": "EventHands: Real-Time Neural 3D Hand Pose Estimation from an Event Stream"
+    },
+    {
+      "paperId": "1934a5cbcb057cc031cb39d0816e768a65e123f2",
+      "title": "Online Adaptation for Consistent Mesh Reconstruction in the Wild"
+    },
+    {
+      "paperId": "890398bb6364141f8b4a798fbc1c1605a871bd1d",
+      "title": "Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction"
+    },
+    {
+      "paperId": "8d17d62952f141fe5c4948eeafb8be5a8db9d054",
+      "title": "pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis"
+    },
+    {
+      "paperId": "a42f74b79596271fe8a1e0cac36bf60061bee5d4",
+      "title": "Local Deformable 3D Reconstruction with Cartan's Connections"
+    },
+    {
+      "paperId": "694bdf6e5906992dad2987a3cc8d1a176de691c9",
+      "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes"
+    },
+    {
+      "paperId": "13034a395d5c6728c9b11e777828d9998018cbf6",
+      "title": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes"
+    },
+    {
+      "paperId": "461309e67ac6685863ccace0f3c3a19a02342c22",
+      "title": "RGB2Hands"
+    },
+    {
+      "paperId": "a22e336df8de2cbf6fc5af91f1fa8b77585b5d1b",
+      "title": "Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture"
+    },
+    {
+      "paperId": "414da5e0716eb4707e033b7967d7671dfe71ab71",
+      "title": "Space-time Neural Irradiance Fields for Free-Viewpoint Video"
+    },
+    {
+      "paperId": "0f1af3f94f4699cd70a554f68f8f9e2c8e3d53dd",
+      "title": "Nerfies: Deformable Neural Radiance Fields"
+    },
+    {
+      "paperId": "46ed0c8fe7951d4dcb4f01fa026448de45f463b8",
+      "title": "Continuous Surface Embeddings"
+    },
+    {
+      "paperId": "92d0ddd4143a3a20389af6d6cb8e1cf9d2b9f0ad",
+      "title": "NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets"
+    },
+    {
+      "paperId": "fb8a1dd5d3bc0395b8ceb7ee73475a10e39b52fe",
+      "title": "Neural Scene Graphs for Dynamic Scenes"
+    },
+    {
+      "paperId": "fa6da5e61ea0f187b2d08eb42c7dc4e6ea25a5b8",
+      "title": "Intrinsic Dynamic Shape Prior for Dense Non-Rigid Structure from Motion"
+    },
+    {
+      "paperId": "4c15996a629fae9a99531313649f16c930f13c14",
+      "title": "PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction"
+    },
+    {
+      "paperId": "5b0ea2c92ee16fa2f5a3dbc9315cd5c1e4ec1d88",
+      "title": "NeRF++: Analyzing and Improving Neural Radiance Fields"
+    },
+    {
+      "paperId": "ac4c07984041a7c63d04bcf0a210d0dca29115f5",
+      "title": "Learning Complete 3D Morphable Face Models from Images and Videos"
+    },
+    {
+      "paperId": "1f4b531755a057707301825fb22520a228c55cc7",
+      "title": "MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video"
+    },
+    {
+      "paperId": "d93df7ff9453d8ccd3d7d609d0e90b00ec74ae77",
+      "title": "InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image"
+    },
+    {
+      "paperId": "04d00e90eb614214b54d40ca77fb9b6d65d39d33",
+      "title": "PhysCap"
+    },
+    {
+      "paperId": "9aa8eab0446d9c8153a904f1dc632f2d7290d4a2",
+      "title": "DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling"
+    },
+    {
+      "paperId": "20f20989219343b59ea357e29c1ea8a7b9ed9eba",
+      "title": "3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View"
+    },
+    {
+      "paperId": "59acf688592a892d7517285bc9fb13729db34174",
+      "title": "Grasping Field: Learning Implicit Representations for Human Grasps"
+    },
+    {
+      "paperId": "77d7e439b3368875199a1327515a3ba212f0a359",
+      "title": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual\u2013Inertial, and Multimap SLAM"
+    },
+    {
+      "paperId": "108368adfbbfeb5f09c8044925e025e7ebcd5dd7",
+      "title": "Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop"
+    },
+    {
+      "paperId": "2d6910da6b3b8072751ec69b2e66f119b0357621",
+      "title": "Procrustean Regression Networks: Learning 3D Structure of Non-Rigid Objects from 2D Annotations"
+    },
+    {
+      "paperId": "3044b002ccfa7fdadf32cfcd4855d54df4ee5f2c",
+      "title": "Implicit Mesh Reconstruction from Unannotated Image Collections"
+    },
+    {
+      "paperId": "6521a48553dbef8d6c9caef0584c70da0127488d",
+      "title": "SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation"
+    },
+    {
+      "paperId": "5ab1c70f9cc0d692dea6b392bdb8f3100d7ca5a7",
+      "title": "PaMIR: Parametric Model-Conditioned Implicit Representation for Image-Based Human Reconstruction"
+    },
+    {
+      "paperId": "62d337dbaead376ca042f23d62c0d4b65ec98546",
+      "title": "GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis"
+    },
+    {
+      "paperId": "942dac57251ec1b8af129096a5cd417c06362a8a",
+      "title": "Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction"
+    },
+    {
+      "paperId": "aaec96d6e9a0a4877dde4382dc7889d47c074524",
+      "title": "GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models"
+    },
+    {
+      "paperId": "39cc401cb5dfe983c3e967f3d7e549c656e3da52",
+      "title": "Local Non-Rigid Structure-From-Motion From Diffeomorphic Mappings"
+    },
+    {
+      "paperId": "f23b96465b41f4d1540405bbb91880688860555f",
+      "title": "MeshSDF: Differentiable Iso-Surface Extraction"
+    },
+    {
+      "paperId": "c15f91cf72ec324b687c47ae6035835a47f6c6d6",
+      "title": "A Closed-Form Uncertainty Propagation in Non-Rigid Structure From Motion"
+    },
+    {
+      "paperId": "c09bc9f1fff9cb4731dc4f83924727fb3cc96e7e",
+      "title": "Consistent video depth estimation"
+    },
+    {
+      "paperId": "37a08dee82a7360179abc81bd2b011ce83eec486",
+      "title": "Leveraging Photometric Consistency Over Time for Sparsely Supervised Hand-Object Reconstruction"
+    },
+    {
+      "paperId": "6a4ede9151926fe5b2ac86bace4b7cf4b3f47f63",
+      "title": "MulayCap: Multi-Layer Human Performance Capture Using a Monocular Video Camera"
+    },
+    {
+      "paperId": "e3d5ee10d0489c768e943546038e3f53e7697349",
+      "title": "State of the Art on Neural Rendering"
+    },
+    {
+      "paperId": "0ff2c939d136df8988f845ae5cdfb725939a82ab",
+      "title": "ARCH: Animatable Reconstruction of Clothed Humans"
+    },
+    {
+      "paperId": "13e6c21c5d9c156400869a84e12192eb452d7483",
+      "title": "Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera"
+    },
+    {
+      "paperId": "0e292cfda500d41a1a6ab98606abba10a0977ed9",
+      "title": "Articulation-Aware Canonical Surface Mapping"
+    },
+    {
+      "paperId": "3d0148ea1425d87d3b812139599dff61bb09df9a",
+      "title": "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization"
+    },
+    {
+      "paperId": "0eefdb597c1bb28ec06bcd66fd4e10e19c5c2fa2",
+      "title": "FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction"
+    },
+    {
+      "paperId": "57942df22b253ebe052adeb82a9b92c764e61521",
+      "title": "Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images"
+    },
+    {
+      "paperId": "3230e2d6b4671cc03974af2219c6d3270e6fac70",
+      "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"
+    },
+    {
+      "paperId": "0bed6adf30d8a74125d223319a5afc0bff24a279",
+      "title": "Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data"
+    },
+    {
+      "paperId": "428b663772dba998f5dc6a24488fff1858a0899f",
+      "title": "NeRF"
+    },
+    {
+      "paperId": "57cf4fa6ab46f705e42671b23eace2495214b53c",
+      "title": "DeepCap: Monocular Human Performance Capture Using Weak Supervision"
+    },
+    {
+      "paperId": "afa16e53b549b05c6ce3d57fcc3ca96452a04c49",
+      "title": "Self-supervised Single-view 3D Reconstruction via Semantic Consistency"
+    },
+    {
+      "paperId": "f3e09e6a6ac5ec06506042a7c7dc5ca1eae58434",
+      "title": "Combining Visual Cues with Interactions for 3D\u20132D Registration in Liver Laparoscopy"
+    },
+    {
+      "paperId": "dfc66041b88ccdfc21ae816e0ecee9e8d1ef4731",
+      "title": "Differentiable Volumetric Rendering: Learning Implicit 3D Representations Without 3D Supervision"
+    },
+    {
+      "paperId": "14fdc18d9c164e5b0d6d946b3238c04e81921358",
+      "title": "Analyzing and Improving the Image Quality of StyleGAN"
+    },
+    {
+      "paperId": "73fc37d751279286856bfb3b110c5e6ee7968e00",
+      "title": "Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild"
+    },
+    {
+      "paperId": "2d6d4f946d2ae05c12b32c31d4281c1f9bf4fe0a",
+      "title": "Towards a Complete 3D Morphable Model of the Human Head"
+    },
+    {
+      "paperId": "8d0095f69e1d18f10f3abe628ebdcab18a350c80",
+      "title": "Dynamic hair modeling from monocular videos using deep neural networks"
+    },
+    {
+      "paperId": "f8ce841d58abd3af185fed31a76f758f0a8a6cd2",
+      "title": "Self-Correction for Human Parsing"
+    },
+    {
+      "paperId": "c4cda2c8f4428d65f311304ebe82bdc651ea8e7b",
+      "title": "Patch-Based Reconstruction of a Textureless Deformable 3D Surface from a Single RGB Image"
+    },
+    {
+      "paperId": "1ea4575839ed2dc80ea8d0ce7ec862f13eb549ba",
+      "title": "Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics"
+    },
+    {
+      "paperId": "28e1db22e72be9d4fbfa830f31c471a69eab2d86",
+      "title": "FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape From Single RGB Images"
+    },
+    {
+      "paperId": "368d22796f0c1fcfb45e2c7a61ad703337c634d8",
+      "title": "C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion"
+    },
+    {
+      "paperId": "12007439235419aba4d1bbf9b2760e03f0a7a4df",
+      "title": "Shape-From-Template with Curves"
+    },
+    {
+      "paperId": "c7d3f544e83ce26ae67ad98ca2d5c5ec76d8e812",
+      "title": "3D Morphable Face Models\u2014Past, Present, and Future"
+    },
+    {
+      "paperId": "61e11202a70eafdf88e8354f69782bafc85e18d7",
+      "title": "EventCap: Monocular 3D Capture of High-Speed Human Motions Using an Event Camera"
+    },
+    {
+      "paperId": "70d85a9e3b2e93834fe5d85542baa2ac1212bd7b",
+      "title": "Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture From Images \u201cIn the Wild\u201d"
+    },
+    {
+      "paperId": "aa08a7b0d2fa0877bc13793f113a7c8dbc31da66",
+      "title": "Multi-Garment Net: Learning to Dress 3D People From Images"
+    },
+    {
+      "paperId": "29fb23a0094a95625fdcc63ede99f5e8411377b6",
+      "title": "Moulding Humans: Non-Parametric 3D Human Shape Estimation From Single Images"
+    },
+    {
+      "paperId": "16fe5186db05f8d4a2ddab382f9342cfe92b1dbd",
+      "title": "Canonical Surface Mapping via Geometric Cycle Consistency"
+    },
+    {
+      "paperId": "b9d4a1ac5e41570082828b405b289aa6959252a4",
+      "title": "Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations"
+    },
+    {
+      "paperId": "623824d42c226e4024e97fc62a6030a2bf45b2c7",
+      "title": "Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video"
+    },
+    {
+      "paperId": "3aec8bf379c19c3cc9e67345ab8a86966c5c512b",
+      "title": "Consolidating Segmentwise Non-Rigid Structure from Motion"
+    },
+    {
+      "paperId": "c1455b004e374993df97661c154b5556891dd558",
+      "title": "DEMEA: Deep Mesh Autoencoders for Non-Rigidly Deforming Objects"
+    },
+    {
+      "paperId": "692dc8750e08f16137a5e9445827f0ba921fa8e0",
+      "title": "Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision"
+    },
+    {
+      "paperId": "343da6d4cff7ce8c04270487a1f7a037ea0572d6",
+      "title": "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
+    },
+    {
+      "paperId": "1795a62eb1bfd952c73acb18ca81f174b0042cae",
+      "title": "Deferred neural rendering"
+    },
+    {
+      "paperId": "a88e2508599342a886648ab2e858e8f3a87d1620",
+      "title": "IsMo-GAN: Adversarial Learning for Monocular Non-Rigid 3D Reconstruction"
+    },
+    {
+      "paperId": "a2264b13076bba404f725dcb85c3f5290b03b42d",
+      "title": "Tex2Shape: Detailed Full Human Body Geometry From a Single Image"
+    },
+    {
+      "paperId": "dd971c07879e1ce12b06991319528c06280eeb9b",
+      "title": "Event-Based Vision: A Survey"
+    },
+    {
+      "paperId": "d9106b04f96969e26078220f205247cfd88216b7",
+      "title": "Learning Joint Reconstruction of Hands and Manipulated Objects"
+    },
+    {
+      "paperId": "4be4707aba8d622a0553aa159dc92ae7f9af9c5e",
+      "title": "Expressive Body Capture: 3D Hands, Face, and Body From a Single Image"
+    },
+    {
+      "paperId": "cc9935bb4c7e20ca8565b1eac8969171aa894fd9",
+      "title": "Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering"
+    },
+    {
+      "paperId": "8b751405526c28245eea5e925a6ede034c287bdb",
+      "title": "Soft Rasterizer: A Differentiable Renderer for Image-Based 3D Reasoning"
+    },
+    {
+      "paperId": "1a092cb522fa822960708584b181fd9cc4ed579c",
+      "title": "DeepHuman: 3D Human Reconstruction From a Single Image"
+    },
+    {
+      "paperId": "e4840bb6d97bb2464288a483e4374ef2a06b1822",
+      "title": "Learning to Reconstruct People in Clothing From a Single RGB Camera"
+    },
+    {
+      "paperId": "e3fc7fe51eae0ddb2435809740496fdaca86cd3c",
+      "title": "3D Hand Shape and Pose Estimation From a Single RGB Image"
+    },
+    {
+      "paperId": "5ca2fe16f48a295221db133a090f05ff660fe791",
+      "title": "Non-Rigid Structure from Motion: Prior-Free Factorization Method Revisited"
+    },
+    {
+      "paperId": "4114054d98cdc345346d0491f6cd56e796dcef5e",
+      "title": "End-to-End Hand Mesh Recovery From a Monocular RGB Image"
+    },
+    {
+      "paperId": "f9f420484ea9ec40f0eb4e2048798d3b0cbcb272",
+      "title": "3D Hand Shape and Pose From Images in the Wild"
+    },
+    {
+      "paperId": "fcc609ea9b4491406977dabf17ff52f89f103805",
+      "title": "Jumping Manifolds: Geometry Aware Dense Non-Rigid Structure From Motion"
+    },
+    {
+      "paperId": "d86084808994ac54ef4840ae65295f3c0ec4decd",
+      "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+    },
+    {
+      "paperId": "b4f8c1353aa2d88cacfaef1b3afba74dbf427d89",
+      "title": "FaceForensics++: Learning to Detect Manipulated Facial Images"
+    },
+    {
+      "paperId": "1501cbcdd5c0815ca776e7559f41c9ebd6b46cfa",
+      "title": "Deep Level Sets: Implicit Surface Representations for 3D Shape Inference"
+    },
+    {
+      "paperId": "dd81523b9accdf1c13cd37f76b22ab27d84b7a42",
+      "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+    },
+    {
+      "paperId": "f09070b62123f6662bc77f4b670d54cc7156bcc5",
+      "title": "FML: Face Model Learning From Videos"
+    },
+    {
+      "paperId": "6fc0e648ef6002fe3507107f4f3637c76d54477f",
+      "title": "On the Continuity of Rotation Representations in Neural Networks"
+    },
+    {
+      "paperId": "ceb2ebef0b41e31c1a21b28c2734123900c005e2",
+      "title": "A Style-Based Generator Architecture for Generative Adversarial Networks"
+    },
+    {
+      "paperId": "2e689bdce24cf3644432505ce2783f03a1445ed2",
+      "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space"
+    },
+    {
+      "paperId": "c3294425af6e2c059835ec7f0dca7290b48a8faf",
+      "title": "Learning Implicit Fields for Generative Shape Modeling"
+    },
+    {
+      "paperId": "a2b7432a661aae82b90672d742b74730ac199526",
+      "title": "3D hair synthesis using volumetric variational autoencoders"
+    },
+    {
+      "paperId": "e2d3abc7008a269880918ee7d903a55d06acdd55",
+      "title": "DeepVoxels: Learning Persistent 3D Feature Embeddings"
+    },
+    {
+      "paperId": "146e698fb4a47ec6f9d4fbd34d9a213de3a30d5a",
+      "title": "Equiareal Shape-from-Template"
+    },
+    {
+      "paperId": "20348c23aaba42c43de69a2eec9d6bd089b0c1f2",
+      "title": "Deep Shape-from-Template: Wide-Baseline, Dense and Fast Registration and Deformable Reconstruction from a Single Image"
+    },
+    {
+      "paperId": "4fd30692ec72dbaa5ca451d52de5565a3e1b657d",
+      "title": "Physics-Inspired Garment Recovery from a Single-View Image"
+    },
+    {
+      "paperId": "13d6585962fd165f6e6bf5f9fda0f0d73d7128f5",
+      "title": "Creatures great and SMAL: Recovering the shape and motion of animals from video"
+    },
+    {
+      "paperId": "970b1db8899a9d60ed3b12e0348caef894d14262",
+      "title": "NRST: Non-rigid Surface Tracking from Monocular Video"
+    },
+    {
+      "paperId": "e3fd4026fcc0f167f1eb0fb3d3359c30f606d424",
+      "title": "LiveCap"
+    },
+    {
+      "paperId": "ab0e9c43af9f8ba3dcf77e1a21b9ed21abd82288",
+      "title": "ReTiCaM: Real-time Human Performance Capture from Monocular Video"
+    },
+    {
+      "paperId": "a1bd9930115d21aab1e0219c44e90058201fbc64",
+      "title": "Video to fully automatic 3D hair model"
+    },
+    {
+      "paperId": "449310e3538b08b43227d660227dfd2875c3c3c1",
+      "title": "Neural Ordinary Differential Equations"
+    },
+    {
+      "paperId": "d42f3aaa39da2dc47e361f1878c817bc7114e2b3",
+      "title": "Lions and Tigers and Bears: Capturing Non-rigid, 3D, Articulated Shape from Images"
+    },
+    {
+      "paperId": "2e92be75cc8a6ab82b2c2ec244b47645b9c6df3b",
+      "title": "Geometry-Aware Network for Non-rigid Shape Prediction from a Single View"
+    },
+    {
+      "paperId": "7b183c11f1ba13f05db2050ab1abb1fa9f52c9a8",
+      "title": "Deep Marching Cubes: Learning Explicit Surface Representations"
+    },
+    {
+      "paperId": "efb0a4574736a976b6dc3c23be45e5fc0ac6fe41",
+      "title": "Deep video portraits"
+    },
+    {
+      "paperId": "fda48e021f7c1445406fa7db32a443726e0ef8d3",
+      "title": "State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications"
+    },
+    {
+      "paperId": "5034757f972b68fb164c9996ec2e222d5a1d095a",
+      "title": "A Data-Augmented 3D Morphable Model of the Ear"
+    },
+    {
+      "paperId": "484024a91c1cb97b358c2cabd9fa427fcc6d52e3",
+      "title": "State of the Art on 3D Reconstruction with RGB\u2010D Cameras"
+    },
+    {
+      "paperId": "bbb4e98488d65cee2e0acc2ca27b12235e1dbef1",
+      "title": "BodyNet: Volumetric Inference of 3D Human Body Shapes"
+    },
+    {
+      "paperId": "e670b9d234f03582c3c4a62be1e25ee303ba493d",
+      "title": "HDM-Net: Monocular Non-Rigid 3D Reconstruction with Learned Deformation Model"
+    },
+    {
+      "paperId": "cdf9179d2e3eeb8b787c1378c3fd73f22a7e5ec1",
+      "title": "Learning to Reconstruct Texture-Less Deformable Surfaces from a Single View"
+    },
+    {
+      "paperId": "1dbe6021ddb511b70cfc30373ed9cd699af06bdd",
+      "title": "Learning Category-Specific Mesh Reconstruction from Image Collections"
+    },
+    {
+      "paperId": "223185c0dea34ed7e72df12df264674d24e824ed",
+      "title": "Video Based Reconstruction of 3D People Models"
+    },
+    {
+      "paperId": "514b44a90e9317f532ffecb047ae34d792af9420",
+      "title": "Scalable Dense Non-rigid Structure-from-Motion: A Grassmannian Perspective"
+    },
+    {
+      "paperId": "840e804bb5ed1944e494959c2980a90bea0675c4",
+      "title": "A Papier-Mache Approach to Learning 3D Surface Generation"
+    },
+    {
+      "paperId": "8c94385d45f5896e748e43171eeaaa259009faab",
+      "title": "DensePose: Dense Human Pose Estimation in the Wild"
+    },
+    {
+      "paperId": "a35c2b83482485f08b94ed9fbd242d6dfd31a6d7",
+      "title": "A scalable, efficient, and accurate solution to non-rigid structure from motion"
+    },
+    {
+      "paperId": "cb19ceddac67896e317bf1fef3cae514f9891f2b",
+      "title": "A Benchmark and Evaluation of Non-Rigid Structure from Motion"
+    },
+    {
+      "paperId": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+      "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric"
+    },
+    {
+      "paperId": "d74a576cc311841c3ff8070262e928c090e41f59",
+      "title": "Shape from Shading Through Shape Evolution"
+    },
+    {
+      "paperId": "3f7a18a33eecf82630fdebe4c62899eccb359f42",
+      "title": "Self-Supervised Multi-level Face Model Learning for Monocular Reconstruction at Over 250 Hz"
+    },
+    {
+      "paperId": "7eb89cbdfdde8cb6071a48fb44173a757f51bfd5",
+      "title": "Neural 3D Mesh Renderer"
+    },
+    {
+      "paperId": "d6ae7941dcec920d5726d50d1b1cdfe4dde34d35",
+      "title": "Avatar digitization from a single image for real-time rendering"
+    },
+    {
+      "paperId": "aaa976bfb3b06984863236c21e2aa6d020ce3c97",
+      "title": "Scalable Dense Monocular Surface Reconstruction"
+    },
+    {
+      "paperId": "175aaff98e4eee5fe41d309e64668c8117ec71e0",
+      "title": "Dense Non-rigid Structure-from-Motion and Shading with Unknown Albedos"
+    },
+    {
+      "paperId": "6f3f375f94d226192962b30376237bc74269c821",
+      "title": "Deformable Registration of a Preoperative 3D Liver Volume to a Laparoscopy Image Using Contour and Shading Cues"
+    },
+    {
+      "paperId": "46882d15fb3f6449b0021ac5980676d858590f02",
+      "title": "MonoPerfCap"
+    },
+    {
+      "paperId": "756fa1de5b8213d9923d2ab5392b4930b3209bde",
+      "title": "Better Together: Joint Reasoning for Non-rigid 3D Reconstruction with Specularities and Shading"
+    },
+    {
+      "paperId": "f12a1af8255a0366fd39e56085710ea56cdd6ee2",
+      "title": "Elastic Shape-from-Template with Spatially Sparse Deforming Forces"
+    },
+    {
+      "paperId": "045edc8147fae6dcde41789c8717ffd681e881c4",
+      "title": "Template-Based Monocular 3D Recovery of Elastic Shapes Using Lagrangian Multipliers"
+    },
+    {
+      "paperId": "4ad93b63b93bb4448c1af243de48ce6b7c01b785",
+      "title": "Particle-SfT: A Provably-Convergent, Fast Shape-from-Template Algorithm"
+    },
+    {
+      "paperId": "73ade4f79e4845f68f1fe9a8afd0516eca19d13d",
+      "title": "A Stable Analytical Framework for Isometric Shape-from-Template by Surface Integration"
+    },
+    {
+      "paperId": "2aaa2de300a29becd569fce826677e491ea0ea70",
+      "title": "Learning Category-Specific Deformable 3D Models for Object Reconstruction"
+    },
+    {
+      "paperId": "8a79ceca9606b20ce3c31f6552f7abd793696e94",
+      "title": "MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction"
+    },
+    {
+      "paperId": "37e795858312b69248409ca55bd62f50d59a8292",
+      "title": "Accurate 3D Reconstruction of Dynamic Scenes from Monocular Image Sequences with Severe Occlusions"
+    },
+    {
+      "paperId": "870a7d08978d39cd43973a1100abf7e30fd94cbd",
+      "title": "3D Menagerie: Modeling the 3D Shape and Pose of Animals"
+    },
+    {
+      "paperId": "c0fcd985489a96a3e596277095d781c35cb527c6",
+      "title": "Robust, Real-Time, Dense and Deformable 3D Organ Tracking in Laparoscopic Videos"
+    },
+    {
+      "paperId": "1b3b68c15df9a1a378629c23f9359d1475c61c54",
+      "title": "A 3D Morphable Eye Region Model for Gaze Estimation"
+    },
+    {
+      "paperId": "8d041047b557d7f2094f462d67ea87f28c490226",
+      "title": "GlaRe, a GIS tool to reconstruct the 3D surface of palaeoglaciers"
+    },
+    {
+      "paperId": "9f01e4059d5cbfc1226180832122b5cb4299974c",
+      "title": "Multi-Body Non-Rigid Structure-from-Motion"
+    },
+    {
+      "paperId": "2bc8b1c38d180cdf11277001d3b3f2f9822a800f",
+      "title": "Lightweight eye capture using a parametric model"
+    },
+    {
+      "paperId": "fe3da6949a0eac6ddacad7c1b946741352109100",
+      "title": "AutoHair"
+    },
+    {
+      "paperId": "3c167c82eb394eba33e86cc69c8f4abc74456ec1",
+      "title": "Prior-Less Compressible Structure from Motion"
+    },
+    {
+      "paperId": "052b01ba3c128a8965b8943c7973e1a9b6b66c24",
+      "title": "Reconstruction of Personalized 3D Face Rigs from Monocular Video"
+    },
+    {
+      "paperId": "e44cc626456cdf4114a3b392876148d93ac97f8f",
+      "title": "Sequential Non-Rigid Structure from Motion Using Physical Priors"
+    },
+    {
+      "paperId": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+      "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
+    },
+    {
+      "paperId": "8fdcca816a638c28268735623119d5acc7a106d8",
+      "title": "Generating a morphable model of ears"
+    },
+    {
+      "paperId": "4d3beb32fa0efdd10280bad003ef37e5f62f6cbd",
+      "title": "Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue"
+    },
+    {
+      "paperId": "d06f8031a353b9fb5133e5b2f63edb5e4d17e1a4",
+      "title": "Occlusion-aware video registration for highly non-rigid objects"
+    },
+    {
+      "paperId": "9b686d76914befea66377ec79c1f9258d70ea7e3",
+      "title": "ShapeNet: An Information-Rich 3D Model Repository"
+    },
+    {
+      "paperId": "da90321c01ce5dff5204883c2d57bc1b6461ff9f",
+      "title": "Direct, Dense, and Deformable: Template-Based Non-rigid 3D Reconstruction from RGB Video"
+    },
+    {
+      "paperId": "96f7de24e093510049cf763b3d08eba31dba89a2",
+      "title": "As-Rigid-as-Possible Volumetric Shape-from-Template"
+    },
+    {
+      "paperId": "3fc64aa107154fbe6477fc6b017ebe236a805a27",
+      "title": "Shape-from-Template"
+    },
+    {
+      "paperId": "e37f2fb8d6e675abbcda3bd09d586b9aaec26486",
+      "title": "DynamicFusion: Reconstruction and tracking of non-rigid scenes in real-time"
+    },
+    {
+      "paperId": "e3eabbbde33f0ac4e7ece65245871eb33ac38144",
+      "title": "Simultaneous pose and non-rigid shape with particle dynamics"
+    },
+    {
+      "paperId": "e9d60f6b74a92c2f2bad2efc67e5c041a6346781",
+      "title": "A linear least-squares solution to elastic Shape-from-Template"
+    },
+    {
+      "paperId": "03d197b88c68272681d2ae8c157ba85e70201fe6",
+      "title": "Dense Image Registration and Deformable Surface Reconstruction in Presence of Occlusions and Minimal Texture"
+    },
+    {
+      "paperId": "6933c70c747e6a8103f68f1a1db80185401d537b",
+      "title": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System"
+    },
+    {
+      "paperId": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+      "title": "Adam: A Method for Stochastic Optimization"
+    },
+    {
+      "paperId": "6424b69f3ff4d35249c0bb7ef912fbc2c86f4ff4",
+      "title": "Deep Learning Face Attributes in the Wild"
+    },
+    {
+      "paperId": "acb2697311c288ac139dbc5538cc2f3bdda3d59d",
+      "title": "OpenDR: An Approximate Differentiable Renderer"
+    },
+    {
+      "paperId": "8fc763c83091e79ffe6aaf6bd5a87d49ad8a4ed3",
+      "title": "Monocular template-based 3D surface reconstruction: Convex inextensible and nonconvex isometric methods"
+    },
+    {
+      "paperId": "0964d364aa25acd1bdfe3ed338e79a37f2548d0b",
+      "title": "Complex Non-rigid Motion 3D Reconstruction by Union of Subspaces"
+    },
+    {
+      "paperId": "976208323fd68f403e3d7c66f66d39f8788fe24c",
+      "title": "Reconstructing detailed dynamic face geometry from monocular video"
+    },
+    {
+      "paperId": "1238e53c42ae5e355abbf25606b1e081da1a3e32",
+      "title": "Balloon Shapes: Reconstructing and Deforming Objects with Volume from Images"
+    },
+    {
+      "paperId": "600ae3860cb163510fc918b351219d1786e64031",
+      "title": "Dense Variational Reconstruction of Non-rigid Surfaces from Monocular Video"
+    },
+    {
+      "paperId": "75a3bb729f8d7bb1ca7bafae91abc9d252440d8f",
+      "title": "Monocular Template-Based 3D Reconstruction of Extensible Surfaces with Local Linear Elasticity"
+    },
+    {
+      "paperId": "4f8d647ddc09473e9310c461e0a5f5adf908a169",
+      "title": "Lightweight binocular facial performance capture under uncontrolled lighting"
+    },
+    {
+      "paperId": "a4fe6026da94855b24f9151cfdf5253b1f577ba1",
+      "title": "Dense Non-rigid Structure from Motion"
+    },
+    {
+      "paperId": "0d3085263408df52883508e8075cd7e686a5c4ad",
+      "title": "Stereoscopic Scene Flow for Robotic Assisted Minimally Invasive Surgery"
+    },
+    {
+      "paperId": "72a9418fa75e6b6b8ea6e247cf631202e5c282a2",
+      "title": "FEM simulation of 3D deformable solids: a practitioner's guide to theory, discretization and model reduction"
+    },
+    {
+      "paperId": "74d3e177876b62aeb592a2108ce432c21ac7910a",
+      "title": "A Simple Prior-Free Method for Non-rigid Structure-from-Motion Factorization"
+    },
+    {
+      "paperId": "478b06a9aa6e24c3c50f917def05edeb26d0f2cf",
+      "title": "A constrained latent variable model"
+    },
+    {
+      "paperId": "3ac608023e641fd2f3bc282c636d21f95b1f223c",
+      "title": "Monocular 3D Reconstruction of Locally Textured Surfaces"
+    },
+    {
+      "paperId": "4ff378576ab7c90622a0f996996b62bf4db415ce",
+      "title": "Kernel non-rigid structure from motion"
+    },
+    {
+      "paperId": "975c43b005d07af58a675591c093b5e81136fbca",
+      "title": "Automated articulated structure and 3D shape recovery from point correspondences"
+    },
+    {
+      "paperId": "e48437eddcacfbeff01c3edd409369c9637a3357",
+      "title": "High-quality passive facial performance capture using anchor frames"
+    },
+    {
+      "paperId": "94dacb5cfc84d61c5ea6aba15112ea2b59d85055",
+      "title": "Data-driven elastic models for cloth: modeling and measurement"
+    },
+    {
+      "paperId": "9885ff6936fdc6e088650ba23a77508085d82cba",
+      "title": "Energy based multiple model fitting for non-rigid structure from motion"
+    },
+    {
+      "paperId": "38ad1e2d6e85d2e68901fe20c45769fa343726d1",
+      "title": "Neuromorphic Silicon Neuron Circuits"
+    },
+    {
+      "paperId": "c74cfabd263c6d0d22f4fff7d7dbc9bd57375695",
+      "title": "Exploring Ambiguities for Monocular Non-rigid Shape Estimation"
+    },
+    {
+      "paperId": "7f663b9069cc07faf854cd20e902cd2a1116c750",
+      "title": "Three-Dimensional Tissue Deformation Recovery and Tracking"
+    },
+    {
+      "paperId": "4a4c1c7d80086cafd334e2066389288b637713b9",
+      "title": "Differential Geometry of Curves and Surfaces"
+    },
+    {
+      "paperId": "9922e9f7c87b859df2e8af355f03744d33023f0e",
+      "title": "Building Rome in a day"
+    },
+    {
+      "paperId": "503d5ab14f023f142561a641c72874d47e112ca8",
+      "title": "Capturing 3D stretchable surfaces from single images in closed form"
+    },
+    {
+      "paperId": "800683edc4b24f61c985c025bab02e34ebff293b",
+      "title": "Nonrigid Structure from Motion in Trajectory Space"
+    },
+    {
+      "paperId": "8e9ed7719cb6c1e63b85979e78846ba1c0d63297",
+      "title": "Nonrigid Structure-from-Motion: Estimating Shape and Motion with Hierarchical Priors"
+    },
+    {
+      "paperId": "e8144b58886d35b70f0696731d5a9c1d95d8e10a",
+      "title": "Capturing and animating occluded cloth"
+    },
+    {
+      "paperId": "8f6d018b669a95bc5762699b322b19145c24821b",
+      "title": "Embedded deformation for shape manipulation"
+    },
+    {
+      "paperId": "5e9f41ebb3a5c5ca0905734f3698ab18d9988bea",
+      "title": "As-rigid-as-possible surface modeling"
+    },
+    {
+      "paperId": "b71ae691c1d21d5a85f30fc30b4bed22e77be1b2",
+      "title": "Deformable Surface Tracking Ambiguities"
+    },
+    {
+      "paperId": "cc589c499dcf323fe4a143bbef0074c3e31f9b60",
+      "title": "A 3D facial expression database for facial behavior research"
+    },
+    {
+      "paperId": "d629c58df8a6f6cac2510b9ba69620e0f8f007ed",
+      "title": "Soft-Tissue Motion Tracking and Structure Estimation for Robotic Assisted MIS Procedures"
+    },
+    {
+      "paperId": "cbb9c832e590d3d1247298d7eb41e42c800a532c",
+      "title": "Realistic materials in computer graphics"
+    },
+    {
+      "paperId": "a2290765ce72ea84af8ac7535d4159f223eefdd3",
+      "title": "Face transfer with multilinear models"
+    },
+    {
+      "paperId": "a91ce986ff8d8ece03fe4a0ecbb658e721d0b238",
+      "title": "A direct method for 3D factorization of nonrigid motion observed in 2D"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38",
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints"
+    },
+    {
+      "paperId": "67352fb88bd904efeacba5205792913923e094db",
+      "title": "Laplacian surface editing"
+    },
+    {
+      "paperId": "4044dcc3c85c916b8caa5fc95b2d26b6324ab3d7",
+      "title": "Mechanics of Solids and Shells: Theories and Approximations"
+    },
+    {
+      "paperId": "e8186c1a130dd40daeb15538cf0f53b9060dd0ce",
+      "title": "Recovering non-rigid 3D shape from image streams"
+    },
+    {
+      "paperId": "03406ec0118137ca1ab734a8b6b3678a35a43415",
+      "title": "A morphable model for the synthesis of 3D faces"
+    },
+    {
+      "paperId": "76b532e2cb573fdf29f3ae68dc1372f3319c93c2",
+      "title": "Active Appearance Models"
+    },
+    {
+      "paperId": "47ec1fcca3c22f9c3a98d1c1aa8259a1993618be",
+      "title": "The role of vision and spatial orientation in the maintenance of posture."
+    },
+    {
+      "paperId": "ee07d502c11c8ef8a152b6feef22695249d0764a",
+      "title": "Shape and motion from image streams under orthography: a factorization method"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "f3d2c717e2b04e87f6c4ea32f16d8b8e45c86a09",
+      "title": "Elastically deformable models"
+    },
+    {
+      "paperId": "2a62d0cca2fabf1d6f6ee15e4c14cef415b657d1",
+      "title": "Low-dimensional procedure for the characterization of human faces."
+    },
+    {
+      "paperId": "55c4c5e0d26629d9f9e558e3886122b39156708f",
+      "title": "The central visual system"
+    },
+    {
+      "paperId": null,
+      "title": "A \u00a9 2023 The Authors. Computer Graphics Forum published by Eurographics and"
+    },
+    {
+      "paperId": "3ce0a1ae648d6727ca8b336c15a1378e1cfd0969",
+      "title": "Plotting Behind the Scenes: Towards Learnable Game Engines"
+    },
+    {
+      "paperId": "2856a55f23a1a39ba26d196b1fc80b2e098b05e9",
+      "title": "A Survey on 3D-aware Image Synthesis"
+    },
+    {
+      "paperId": "504e6c69363b1e60cad9622b15e1e9017ae6a4a7",
+      "title": "Texture-Generic Deep Shape-From-Template"
+    },
+    {
+      "paperId": "51cc6df9587f6d57d6b894e8acbb4685b6df2869",
+      "title": "ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction"
+    },
+    {
+      "paperId": "d6841d0d9cf21fe86ceec0028e5794e520a685e3",
+      "title": "To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision"
+    },
+    {
+      "paperId": "08596fd3f1633864a50cb96e1e6f3a0eaa4b2589",
+      "title": "Measuring the state and temporal evolution of glaciers in Alaska and Yukon using synthetic-aperture-radar-derived (SAR-derived) 3D time series of glacier surface flow"
+    },
+    {
+      "paperId": "b190b1a4bc5274dc2a2dc36b1f6eaef28814bcff",
+      "title": "Supplemental: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images"
+    },
+    {
+      "paperId": "c5785302ef39618c87dd63345228df42ea77d33a",
+      "title": "Optical flow and scene flow estimation: A survey"
+    },
+    {
+      "paperId": null,
+      "title": "synthetic-aperture-radar-derived (sar-derived) 3d time series of glacier surface \ufb02ow"
+    },
+    {
+      "paperId": null,
+      "title": "Hypernerf: a higher-dimensional representation for topologically varying neural radiance fields"
+    },
+    {
+      "paperId": "aec4cb440d9fc84b0c8d138f508561dca4a9fbe8",
+      "title": "HTML: A Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization"
+    },
+    {
+      "paperId": "16bca170e3f7bf3205156e0ef3829b0517781d2e",
+      "title": "Neural Dense Non-Rigid Structure from Motion with Latent Space Constraints"
+    },
+    {
+      "paperId": "6cae208269b02e117f5dd809dca21fad7d9ccb9c",
+      "title": "Non-Rigid Structure-from-Motion and Shading"
+    },
+    {
+      "paperId": null,
+      "title": "Shape and viewpoints without keypoints"
+    },
+    {
+      "paperId": "b21a896715017a614ac12e16ce1e4559faaebcb1",
+      "title": "Differentiable Cloth Simulation for Inverse Problems"
+    },
+    {
+      "paperId": null,
+      "title": "Neural volumes: Learning dynamic renderable volumes from images"
+    },
+    {
+      "paperId": null,
+      "title": "Hairnet: Single-view hair reconstruction using convolutional neural networks"
+    },
+    {
+      "paperId": "ac6abf2b3b8f15a280245cbbc846bebad97240a7",
+      "title": "Introduction to Coherent Depth Fields for Dense Monocular Surface Recovery"
+    },
+    {
+      "paperId": "cee03715ae16ca0539f4e7659b3e16da5f17a18f",
+      "title": "A Survey on Position Based Dynamics"
+    },
+    {
+      "paperId": "cc5a1cf7ad9d644f21a5df799ffbcb8d1e24abe1",
+      "title": "MonoPerfCap : Human Performance Capture from Monocular Video WEIPENGXU , AVISHEKCHATTERJEE , MICHAELZOLLH\u00d6FER , HELGERHODIN , DUSHYANTMEHTA"
+    },
+    {
+      "paperId": "80e105a5a90622d71ada8353fbb971b5a69e6536",
+      "title": "Embodied Hands : Modeling and Capturing Hands and Bodies Together * * Supplementary Material * *"
+    },
+    {
+      "paperId": "81f8aba18d4cbf2cb2091d6ec79139eeccdad633",
+      "title": "NRSfM-Flow: Recovering Non-Rigid Scene Flow from Monocular Image Sequences"
+    },
+    {
+      "paperId": "ad889a83c7e695e14c530cc3854d186e2c49696a",
+      "title": "Using Shading and a 3D Template to Reconstruct Complex Surface Deformations"
+    },
+    {
+      "paperId": "459d0724afbcd591edde2dcc83e5e2750d878c0e",
+      "title": "Computer Graphics - Principles and Practice, 3rd Edition"
+    },
+    {
+      "paperId": "300878104eef00273c2e831edf32655318c607ae",
+      "title": "The finite element method in solid mechanics"
+    },
+    {
+      "paperId": null,
+      "title": "Caltech-UCSD Birds-200-2011 (CUB-200-2011)"
+    },
+    {
+      "paperId": "03aea5a00abde4d29ef148d25c30e0f86ccd19bf",
+      "title": "Deformable Surface 3D Reconstruction from Monocular Images"
+    },
+    {
+      "paperId": "bc308136b4f82cb141ac8bad183ea5e2cf96fa13",
+      "title": "Shape From Shading"
+    },
+    {
+      "paperId": "152aae699c1f8de93e631b6c41263ef70c6c79c2",
+      "title": "The Plenoptic Function and the Elements of Early Vision"
+    },
+    {
+      "paperId": "a6f1dfcc44277d4cfd8507284d994c9283dc3a2f",
+      "title": "Eigenfaces for Recognition"
+    },
+    {
+      "paperId": "d7730295185f1e98ef087525e2dc1518114a9306",
+      "title": "A computer algorithm for reconstructing a scene from two projections"
+    },
+    {
+      "paperId": "d4bd8b2ac8604d3bd2657463110acab2270368e4",
+      "title": "The Levenberg-Marquardt algo-rithm: Implementation and theory"
+    },
+    {
+      "paperId": "a894c065169adbd0f295120d6f071963a92018ae",
+      "title": "THE LINEARIZED THEORY OF ELASTICITY"
+    },
+    {
+      "paperId": "2ef001c656378a1c5cf80488b35684742220d3f9",
+      "title": "Decentering distortion of lenses"
+    },
+    {
+      "paperId": "3dcf27bc2b2bbe20990709c2510170036d87d33a",
+      "title": "Template-Based Monocular 3D Shape Recovery Using Laplacian Meshes"
+    },
+    {
+      "paperId": "3ff187bb1ea2508ec199a7af7661bdaef8b86232",
+      "title": "Ieee Transactions on Pattern Analysis and Machine Intelligence 1 What Shape Are Dolphins? Building 3d Morphable Models from 2d Images"
+    },
+    {
+      "paperId": "1b3e6e33fb83234c2eee2c192ee62aa677b236cb",
+      "title": "Noname manuscript No. (will be inserted by the editor) Optimal Metric Projections for Deformable and Articulated Structure-From-Motion"
+    },
+    {
+      "paperId": "92535dce47eaed92da64b761d5a507e551a437e3",
+      "title": "Noname manuscript No. (will be inserted by the editor) A Variational Approach to Video Registration with Subspace Constraints"
+    },
+    {
+      "paperId": null,
+      "title": "3d reconstruction from a single rgb image using deep learning: A review"
+    }
+  ]
+}

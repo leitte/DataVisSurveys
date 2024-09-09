@@ -1,0 +1,202 @@
+{
+  "paperId": "ff09571cef18f930838990454d765c2956f44332",
+  "externalIds": {
+    "MAG": "2530584451",
+    "DBLP": "conf/mindtrek/MattilaIKLNV16",
+    "DOI": "10.1145/2994310.2994327",
+    "CorpusId": 17864425
+  },
+  "publicationVenue": {
+    "id": "9fce586b-4914-4318-9aa8-9177513ec112",
+    "name": "International Conference on Entertainment and Media in the Ubiquitous Era",
+    "type": "conference",
+    "alternate_names": [
+      "Int Conf Entertain Media Ubiquitous Era",
+      "Mindtrek",
+      "International MindTrek Conference",
+      "MindTrek",
+      "Int Mindtrek Conf"
+    ],
+    "url": "http://mindtrek.org/"
+  },
+  "url": "https://www.semanticscholar.org/paper/ff09571cef18f930838990454d765c2956f44332",
+  "title": "Software visualization today: systematic literature review",
+  "abstract": "Software visualization means visualizing various aspects and artifacts related to software. By this definition a wide range of different software engineering aspects from program comprehension to understanding software process and usage are covered. This paper presents the results of systematic literature review spanning six years of software visualization literature. The main result shows that the most studied topics in the past six years are related to software structure, behavior and evolution. Software process and usage are addressed only in few studies. In the future studying the adoption of software visualization tools in industry context would be beneficial.",
+  "venue": "International Conference on Entertainment and Media in the Ubiquitous Era",
+  "year": 2016,
+  "referenceCount": 30,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Review"
+  ],
+  "publicationDate": "2016-10-17",
+  "journal": {
+    "name": "Proceedings of the 20th International Academic Mindtrek Conference"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Mattila2016SoftwareVT,\n author = {A. Mattila and Petri Ihantola and Terhi Kilamo and Antti Luoto and M. Nurminen and H. V\u00e4\u00e4t\u00e4j\u00e4},\n booktitle = {International Conference on Entertainment and Media in the Ubiquitous Era},\n journal = {Proceedings of the 20th International Academic Mindtrek Conference},\n title = {Software visualization today: systematic literature review},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47207629",
+      "name": "A. Mattila"
+    },
+    {
+      "authorId": "2257950",
+      "name": "Petri Ihantola"
+    },
+    {
+      "authorId": "3149205",
+      "name": "Terhi Kilamo"
+    },
+    {
+      "authorId": "2735741",
+      "name": "Antti Luoto"
+    },
+    {
+      "authorId": "10245200",
+      "name": "M. Nurminen"
+    },
+    {
+      "authorId": "2790506",
+      "name": "H. V\u00e4\u00e4t\u00e4j\u00e4"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0e051d099049577e65c1d191ef2356f0df9b0953",
+      "title": "A survey on goal-oriented visualization of clone data"
+    },
+    {
+      "paperId": "423b59b027448f1f1278c7a842598979d0e2dbdf",
+      "title": "Information Visualization for Agile Software Development"
+    },
+    {
+      "paperId": "17b728df2bcb30df432d07d18e6d5bfe73bc7063",
+      "title": "Validation of Software Visualization Tools: A Systematic Mapping Study"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "5a5ba2f233e4d66d290525a53018c1594b486cea",
+      "title": "Software evolution visualization: A systematic mapping study"
+    },
+    {
+      "paperId": "84faae95bc3daee7fa62c2ae9aa0c9da3818c0cb",
+      "title": "Visualizing software dynamicities with heat maps"
+    },
+    {
+      "paperId": "c53f333b4dec17ab84d753e118b463d2c6f91f8c",
+      "title": "Leveraging the Crowd: How 48,000 Users Helped Improve Lync Performance"
+    },
+    {
+      "paperId": "80d4276b1f0081da03ff06710de549d69a134bd8",
+      "title": "Searching under the Streetlight for Useful Software Analytics"
+    },
+    {
+      "paperId": "57c09b892be7fb643bd667572d60f06896cd1fc1",
+      "title": "Software Analytics: So What?"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "4610f73a31700f1e0c204cec92aa5000b090b3eb",
+      "title": "Visualization of the Static Aspects of Software: A Survey"
+    },
+    {
+      "paperId": "c2d83741ad3b7a85348be4ff2e26050201b53a23",
+      "title": "Visual querying and analysis of large software repositories"
+    },
+    {
+      "paperId": "484d265c7989904906ea17b082cd7408f53d4f5e",
+      "title": "The Potential for Synergy between Information Visualization and Software Engineering Visualization"
+    },
+    {
+      "paperId": "064a53675b617aa7d7fccd9248c1eb17fc16b43f",
+      "title": "A Survey Paper on Software Architecture Visualization"
+    },
+    {
+      "paperId": "186e57ffadbe45a30de067b0259357cded8db968",
+      "title": "A Design Science Research Methodology for Information Systems Research"
+    },
+    {
+      "paperId": "83f774166ca7a07c5ca0690abe3c450fe18ce3fa",
+      "title": "Software Visualization - Visualizing the Structure, Behaviour, and Evolution of Software"
+    },
+    {
+      "paperId": "bfee588886929b4f872af2a4f62d3177a856a656",
+      "title": "On the use of visualization to support awareness of human activities in software development: a survey and a framework"
+    },
+    {
+      "paperId": "6ef7dacdde57ba7a00f040933d9db3598a81dbe0",
+      "title": "A survey of trace exploration tools and techniques"
+    },
+    {
+      "paperId": "75df83790e313c14f6f2954175070ea6b5ebfe75",
+      "title": "An Agile Customer-Centered Method: Rapid Contextual Design"
+    },
+    {
+      "paperId": "79837a841f1d4b6cedf09b9c287fec0844a85036",
+      "title": "Software visualization in software maintenance, reverse engineering, and re-engineering: a research survey"
+    },
+    {
+      "paperId": "4f6a3faf3648df03850def7a3bd24023d4b0a27b",
+      "title": "Software visualization tools: survey and analysis"
+    },
+    {
+      "paperId": "e20e2f768f27dc35a14895b83ebaa3725f7f75ab",
+      "title": "Visualization Techniques for Mining Large Databases: A Comparison"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "e434eb4e0874e48d0be7322955882e48b84a1dd6",
+      "title": "Research survey"
+    },
+    {
+      "paperId": "9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+      "title": "State of the Art of Performance Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA quasi-systematic review on software visualization approaches for software reuse,\u201d"
+    },
+    {
+      "paperId": "6b60dd4cac27ac7b0f28012322146967c2a388ca",
+      "title": "An Overview of 3D Software Visualization"
+    },
+    {
+      "paperId": "29890a936639862f45cb9a987dd599dce9759bf5",
+      "title": "Procedures for Performing Systematic Reviews"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "cbce35eedcde3ef152bde75950fbc7ef4c6717b2",
+      "title": "HOW DO COMMITTEES INVENT"
+    }
+  ]
+}

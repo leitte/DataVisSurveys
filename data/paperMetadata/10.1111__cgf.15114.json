@@ -1,0 +1,893 @@
+{
+  "paperId": "9bb8365bca74d7b75bc8260ba8c036a82d9c0c0b",
+  "externalIds": {
+    "ArXiv": "2402.16558",
+    "DBLP": "journals/cgf/EngeECRRILLHA24",
+    "DOI": "10.1111/cgf.15114",
+    "CorpusId": 268031925
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/9bb8365bca74d7b75bc8260ba8c036a82d9c0c0b",
+  "title": "Open Your Ears and Take a Look: A State\u2010of\u2010the\u2010Art Report on the Integration of Sonification and Visualization",
+  "abstract": "The research communities studying visualization and sonification for data display and analysis share exceptionally similar goals, essentially making data of any kind interpretable to humans. One community does so by using visual representations of data, and the other community employs auditory (non\u2010speech) representations of data. While the two communities have a lot in common, they developed mostly in parallel over the course of the last few decades. With this STAR, we discuss a collection of work that bridges the borders of the two communities, hence a collection of work that aims to integrate the two techniques into one form of audiovisual display, which we argue to be \u201cmore than the sum of the two.\u201d We introduce and motivate a classification system applicable to such audiovisual displays and categorize a corpus of 57 academic publications that appeared between 2011 and 2023 in categories such as reading level, dataset type, or evaluation system, to mention a few. The corpus also enables a meta\u2010analysis of the field, including regularly occurring design patterns such as type of visualization and sonification techniques, or the use of visual and auditory channels, showing an overall diverse field with different designs. An analysis of a co\u2010author network of the field shows individual teams without many interconnections. The body of work covered in this STAR also relates to three adjacent topics: audiovisual monitoring, accessibility, and audiovisual data art. These three topics are discussed individually in addition to the systematically conducted part of this research. The findings of this report may be used by researchers from both fields to understand the potentials and challenges of such integrated designs while hopefully inspiring them to collaborate with experts from the respective other field.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2024,
+  "referenceCount": 200,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.15114",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2024-02-26",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "43"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Enge2024OpenYE,\n author = {Kajetan Enge and Elias Elmquist and Valentina Caiola and N. R\u00f6nnberg and A. Rind and Michael Iber and Sara Lenzi and Fangfei Lan and Robert H\u00f6ldrich and W. Aigner},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Open Your Ears and Take a Look: A State\u2010of\u2010the\u2010Art Report on the Integration of Sonification and Visualization},\n volume = {43},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2132915611",
+      "name": "Kajetan Enge"
+    },
+    {
+      "authorId": "2121282643",
+      "name": "Elias Elmquist"
+    },
+    {
+      "authorId": "2287829212",
+      "name": "Valentina Caiola"
+    },
+    {
+      "authorId": "3361300",
+      "name": "N. R\u00f6nnberg"
+    },
+    {
+      "authorId": "2941639",
+      "name": "A. Rind"
+    },
+    {
+      "authorId": "145003277",
+      "name": "Michael Iber"
+    },
+    {
+      "authorId": "2265163999",
+      "name": "Sara Lenzi"
+    },
+    {
+      "authorId": "2287834611",
+      "name": "Fangfei Lan"
+    },
+    {
+      "authorId": "1779788",
+      "name": "Robert H\u00f6ldrich"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "692ab660950cb43cb1ed805b0beea5dae3daf839",
+      "title": "Design Actions for the Design of Visualization Onboarding Methods"
+    },
+    {
+      "paperId": "55e83db969395084a794704a9cb7ca3fa19debb8",
+      "title": "Sensory translation between audition and vision."
+    },
+    {
+      "paperId": "aefa76b85c44f8745a65de2ba0f01450aa2e36c0",
+      "title": "Effects of data distribution and granularity on color semantics for colormap data visualizations"
+    },
+    {
+      "paperId": "dfbed683496d312d31d257dc6b4273f55c9ac26b",
+      "title": "Reflecting on qualitative and quantitative data to frame criteria for effective sonification design"
+    },
+    {
+      "paperId": "79f758f21333f7a0a552329d1b8ad8cf8bfd0154",
+      "title": "Towards a unified terminology for sonification and visualization"
+    },
+    {
+      "paperId": "b20e5a0dc99994b87ff4017d681e23a85f258c3f",
+      "title": "Line Harp: Importance-Driven Sonification for Dense Line Charts"
+    },
+    {
+      "paperId": "55757f145af26644f34668b314647ed3f050067d",
+      "title": "SonAir: the design of a sonification of radar data for air traffic control"
+    },
+    {
+      "paperId": "610b74e27d284713ca93691d7974940a5101c330",
+      "title": "Siren: Creative and Extensible Sonification on the Web"
+    },
+    {
+      "paperId": "a0744c7b95015b0850061784ca14c49b3181de86",
+      "title": "VA + Embeddings STAR: A State\u2010of\u2010the\u2010Art Report on the Use of Embeddings in Visual Analytics"
+    },
+    {
+      "paperId": "a1b56b1f0b375f56d88eb2989f3b7da63204b929",
+      "title": "Harmonices Solaris - Sonification of the Planets"
+    },
+    {
+      "paperId": "0583779d3241a9b901b98eaaaa6fe9b1c490c980",
+      "title": "Sonecules: A Python Sonification Architecture"
+    },
+    {
+      "paperId": "b2cb9daa01643929b28b1c0eff45ca81eefcc9f7",
+      "title": "Three-Dimensional Sonification for Image-Guided Surgery"
+    },
+    {
+      "paperId": "7b73d47ab423a61546307419f609d3ddfa787b55",
+      "title": "The Sonified Hertzsprung-Russell Diagram"
+    },
+    {
+      "paperId": "b65304450051b923065805391200dc5eb4679cf4",
+      "title": "Accessible Data Representation with Natural Sound"
+    },
+    {
+      "paperId": "3d2f02322ae134a6308a8eb6506e11e991894138",
+      "title": "Exploring Effective Relationships Between Visual-Audio Channels in Data Visualization"
+    },
+    {
+      "paperId": "327e8a17e45d2a4faf0d816408e258970caa46ae",
+      "title": "SonoUno Web: An Innovative User Centred Web Interface"
+    },
+    {
+      "paperId": "44139b9ce605bec3d1f5236627ec073fa4608c32",
+      "title": "Climate data sonification and visualization: An analysis of topics, aesthetics, and characteristics in 32 recent projects"
+    },
+    {
+      "paperId": "3294bba37b1cdaaaa2ea8b28408ef617180228bd",
+      "title": "The Accessibility of Data Visualizations on the Web for Screen Reader Users: Practices and Experiences During COVID-19"
+    },
+    {
+      "paperId": "dddbe9c59e1151fb99dbd86df8574fcab6135220",
+      "title": "Between Fact and Fabrication: How Visual Art Might Nurture Environmental Consciousness"
+    },
+    {
+      "paperId": "f72bf7ee9c8b4c8ccd5f13b095596b0dea668040",
+      "title": "Audiovisual sonifications: A design map for multisensory integration in data representation"
+    },
+    {
+      "paperId": "ddcab90cd98671b3c5d695f52be7b386109eda2c",
+      "title": "Anesthesia personnel\u2019s visual attention regarding patient monitoring in simulated non-critical and critical situations, an eye-tracking study"
+    },
+    {
+      "paperId": "f9ee34fc275b4d92f4da8e633786cc4af1cf59da",
+      "title": "Infosonics: Accessible Infographics for People who are Blind using Sonification and Voice"
+    },
+    {
+      "paperId": "4f93e410529d94bd627f47f55a322701c1e49c64",
+      "title": "The Future is Red: Visualizing Wildfire Predictions using Contactless Interaction"
+    },
+    {
+      "paperId": "59276e2fc56e887c147fc959f1748313e2d7d6bb",
+      "title": "Visualization Onboarding Grounded in Educational Theories"
+    },
+    {
+      "paperId": "91de2bcbe84ca700fd046561badc331edd3480bf",
+      "title": "Audio universe: tour of the solar system"
+    },
+    {
+      "paperId": "e60d9464935582cda41becd7c1455c09392a2a93",
+      "title": "The Science of Visual Data Communication: What Works"
+    },
+    {
+      "paperId": "cb0306ffd58813e02e07275d4a19f1537037f834",
+      "title": "Mobile Data Visualization"
+    },
+    {
+      "paperId": "c9278a06c2f6962eb3fe2158736cdcceae2f2cec",
+      "title": "Effectiveness of Multimodal Display in Navigation Situation"
+    },
+    {
+      "paperId": "bc56a57dd246d4761b3e1d45275050e893a0fe67",
+      "title": "AIive: Interactive Visualization and Sonification of Neural Networks in Virtual Reality"
+    },
+    {
+      "paperId": "df105aff39e929c5ac335f68c6b4383f001b5543",
+      "title": "Sonification for Conveying Data and Emotion"
+    },
+    {
+      "paperId": "5bed7e89ceb2646580810f886d2dd51bd4090705",
+      "title": "sc3nb: a Python-SuperCollider Interface for Auditory Data Science"
+    },
+    {
+      "paperId": "31ac4cf8ba269304093ef00bc330c1052de2a883",
+      "title": "Combining audio and visual displays to highlight temporal and spatial seismic patterns"
+    },
+    {
+      "paperId": "fa0418802b5db2d991b698832f7ad9b417a6ca19",
+      "title": "Sound of Databases: Sonification of a Semantic Web Database Engine"
+    },
+    {
+      "paperId": "b5117cbfef0d94d18568ea93533a075f1cc0698c",
+      "title": "Openspace Sonification: Complementing Visualization of the Solar System with Sound"
+    },
+    {
+      "paperId": "5e79c6f9bc188dc3163fd7bf470fa7e7afea82ab",
+      "title": "Sonification for Everyone Everywhere - Evaluating the WebAudioXML Sonification Toolkit for Browsers"
+    },
+    {
+      "paperId": "20d22ead89447b7aa5e5579b0539de063c2374e2",
+      "title": "Perceptually-Motivated Sonification of Spatiotemporally-Dynamic CFD Data"
+    },
+    {
+      "paperId": "7b106a132b9abb14bae414923337864f7661db5d",
+      "title": "Highcharts Sonification Studio: An Online, Open-Source, Extensible, and Accessible Data Sonification Tool"
+    },
+    {
+      "paperId": "980eb76ca358db7922d863312b38da19adb22f20",
+      "title": "Accessible Visualization: Design Space, Opportunities, and Challenges"
+    },
+    {
+      "paperId": "a0533306462d4b86d888d792a783829be478dc71",
+      "title": "Sonification First: The Role of ICAD in the Advancement of Sonification-Related Research"
+    },
+    {
+      "paperId": "e846038cde6c117c1154087d72536908e89ba782",
+      "title": "Augmenting Critical Care Patient Monitoring Using Wearable Technology: Review of Usability and Human Factors"
+    },
+    {
+      "paperId": "9a34894b3dbe1ee0bb13cee54e162a61bd0b7d80",
+      "title": "Sonification to Support the Monitoring Tasks of Security Operations Centres"
+    },
+    {
+      "paperId": "d697e6db2a628c7860c5b0fb91a62b0943c71ae6",
+      "title": "Head-worn displays for healthcare and industry workers: A review of applications and design"
+    },
+    {
+      "paperId": "9fd066c46d699c119cc04656287af0c4e6a0236c",
+      "title": "Sonification of a 3-D Spider Web and Reconstitution for Musical Composition Using Granular Synthesis"
+    },
+    {
+      "paperId": "b2049d995a687d641c537a0b18cd77c4f1e49516",
+      "title": "Sonification approaches in sports in the past decade: a literature review"
+    },
+    {
+      "paperId": "17cfe2eb6a709142dba01ac05c4605742b2c5374",
+      "title": "Sonifying Data from the Human Microbiota: Biota Beats"
+    },
+    {
+      "paperId": "377e5f5e213c32abfae63b345656f379f12997a9",
+      "title": "Sonification supports perception of brightness contrast"
+    },
+    {
+      "paperId": "5af1cb38af4a891fd18a41fad521c53a47e3204b",
+      "title": "Sonification \u2013 an Alternative Presentation of the Electrocardiogram: A Systematic Literature Review"
+    },
+    {
+      "paperId": "22f477ae34113950183ecb272d114ad1c7defb71",
+      "title": "Musical sonification supports visual discrimination of color intensity"
+    },
+    {
+      "paperId": "f4212d0cfaa4d663a025e7d1c7d76b66e8553f9b",
+      "title": "Auditory Display in Workplace Environments"
+    },
+    {
+      "paperId": "4f990ef9bc8987f3ac663590f6577597209f0ba4",
+      "title": "Sonification Workstation"
+    },
+    {
+      "paperId": "121e4ab18370010acc09a28f7f69c77f0636b2bf",
+      "title": "Sonifigrapher. Sonified Light Curve Synthesizer"
+    },
+    {
+      "paperId": "b1a63b204d01a39760fd8850f651f45bf305758a",
+      "title": "Is Sonification Doomed to Fail?"
+    },
+    {
+      "paperId": "5e41b7e4f9a1804f3369a8815558f7989daff1df",
+      "title": "Eight Components of a Design Theory of Sonification"
+    },
+    {
+      "paperId": "083490e225b575b82c2ee5fdc1e6937a43511d4f",
+      "title": "Congruent Audio-visual Alarms for Supervision Tasks"
+    },
+    {
+      "paperId": "a89063041f5ab03351ad39453b02e3b708dae413",
+      "title": "Visual-auditory Volume Rendering of Scalar Fields"
+    },
+    {
+      "paperId": "85f1bb32bd611d83e289548a692f4734bf5d2241",
+      "title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective"
+    },
+    {
+      "paperId": "d54da8424c7ac56265f64cd252c0ad1f085cad2b",
+      "title": "Combining VR Visualization and Sonification for Immersive Exploration of Urban Noise Standards"
+    },
+    {
+      "paperId": "9e0dd3facb697da0a11a62892a4bc1ef9879a975",
+      "title": "A Review on the Relationship Between Sound and Movement in Sports and Rehabilitation"
+    },
+    {
+      "paperId": "3cdb3f5664b0bbdcbf326162117a6959a62a6b29",
+      "title": "Dermoscopy diagnosis of cancerous lesions utilizing dual deep learning algorithms via visual and audio (sonification) outputs: Laboratory and prospective observational studies"
+    },
+    {
+      "paperId": "67d3ca22dd6261c572c4cf414ec22d19b8274424",
+      "title": "Mapping Color to Meaning in Colormap Data Visualizations"
+    },
+    {
+      "paperId": "bf718ba73d0f6057ed1925b0386c42323728e993",
+      "title": "Immersive sonification of protein surface"
+    },
+    {
+      "paperId": "347373ef36dc491eeb760857dc43ba62952320a0",
+      "title": "Klima|Anlage\u2014Performing Climate Data"
+    },
+    {
+      "paperId": "ceb3e1197e1c475c503c3f42a6feb41c0fd32844",
+      "title": "Consumption as a Rhythm: A Multimodal Experiment on the Representation of Time-Series"
+    },
+    {
+      "paperId": "7e09ea28ead3784c7dbb0d0af654b4067d311cd5",
+      "title": "Graphically Hearing: Enhancing Understanding of Geospatial Data through an Integrated Auditory and Visual Experience"
+    },
+    {
+      "paperId": "351d69982e1ba6c8d534a6153ee53a0d9f869f93",
+      "title": "Planethesizer: Approaching Exoplanet Sonification"
+    },
+    {
+      "paperId": "e13eda7f7cbf7d369c18f5d8896f457b9ac998d0",
+      "title": "Data-Driven Sonification of CFD Aneurysm Models"
+    },
+    {
+      "paperId": "3e6701b9b158f333041072fc9c18860e93cbef6a",
+      "title": "Investigating Perceptual Congruence between Data and Display Dimensions in Sonification"
+    },
+    {
+      "paperId": "01e1978da2ce0c4b387e6c2715d0430c6f3b1f7a",
+      "title": "Exploring the Role of Sound in Augmenting Visualization to Enhance User Engagement"
+    },
+    {
+      "paperId": "7578bd1bf9f6a8dff8c0ee6d432e507c61d9631e",
+      "title": "Sonifying stochastic walks on biomolecular energy landscapes"
+    },
+    {
+      "paperId": "1c4078bf467a9ee0b5ade228375c0c54f19298b9",
+      "title": "Visualization and Sonification of Long-Term Epilepsy Electroencephalogram Monitoring"
+    },
+    {
+      "paperId": "b849fd2a747e44f7a08b7024a5189deedcce1c5d",
+      "title": "Mode Explorer: Using Model-based Sonification to Investigate Basins of Attraction"
+    },
+    {
+      "paperId": "6b27831d1e670ba7eaaacec619a984e06a008857",
+      "title": "Web Sonification Sandbox - an Easy-to-Use Web Application for Sonifying Data and Equations"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "a820e953dc0b387528e6df05a02f1739fd505a55",
+      "title": "An Immersive Virtual Environment for Congruent Audio-Visual Spatialized Data Sonifications"
+    },
+    {
+      "paperId": "6665dd934a94456f2ad19647a5cbf15a2df1adf6",
+      "title": "Reflections on the Representation of Women in the International Conferences on Auditory Displays (ICAD)"
+    },
+    {
+      "paperId": "567abfef553f71590c0d79f0ea22ff0e5a212a45",
+      "title": "Interactive wearable systems for upper body rehabilitation: a systematic review"
+    },
+    {
+      "paperId": "9d45fb0622b0f8998f63a30e254d4d7e8cecf6e5",
+      "title": "Interactive Sonification for Structural Biology and Structure-based Drug Design"
+    },
+    {
+      "paperId": "1233a77f6d2aeb42db12acffa234da20b5e7506e",
+      "title": "Understanding Git history: a multi-sense view"
+    },
+    {
+      "paperId": "0d05ce41ade6eccbf1cd00bb54e17696fa202949",
+      "title": "Continuous sonification enhances adequacy of interactions in peripheral process monitoring"
+    },
+    {
+      "paperId": "55c058b83ffc4137534f2a38780b0c7e2085bf50",
+      "title": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing"
+    },
+    {
+      "paperId": "393c7a6642874a4ee7cef8617f1a4b478e71b179",
+      "title": "An investigation of the effect of immersive visual and auditory feedback on rhythmic walking interaction"
+    },
+    {
+      "paperId": "379fc882401cf2439cfbdd6cc815145015852bb3",
+      "title": "Sonification and Music, Music and Sonification"
+    },
+    {
+      "paperId": "e9712013639a309e0f1179e0bedd2992e9cdf2f9",
+      "title": "Combining Sonification and Visualization for the Analysis of Process Execution Data"
+    },
+    {
+      "paperId": "cf46e90eb6b3c795a843265d6e894edee3a22040",
+      "title": "The Triple Tone Sonification Method to Enhance the Diagnosis of Alzheimer\u2019s Dementia"
+    },
+    {
+      "paperId": "2fcfdfda7365090fbf0e7e8bde30f5e270411f54",
+      "title": "Sonification of reference markers for auditory graphs: effects on non-visual point estimation tasks"
+    },
+    {
+      "paperId": "0ab18ea461c1e1dbb579c3c54e45f0ec1b642f35",
+      "title": "Server sounds and network noises"
+    },
+    {
+      "paperId": "8c83a920c161585eeb0a6b3514c75ef4a4c1e380",
+      "title": "Sonification of in-vehicle interface reduces gaze movements under dual-task condition."
+    },
+    {
+      "paperId": "34f638a8ca795c72efc624a52da9b379e5267b61",
+      "title": "Sonification of the Tohoku Earthquake: Music, Popularization & the Auditory Sublime"
+    },
+    {
+      "paperId": "f0e2b85554c1f859ec5fa56406c6d7458f43a7f0",
+      "title": "Two examples of sonification for viewer engagement: Hurricanes and squirrel hibernation cycles"
+    },
+    {
+      "paperId": "830abd15b2420653419dbf3f7273f581fa678c27",
+      "title": "A comparative study of visual and auditory reaction times on the basis of gender and physical activity levels of medical first year students"
+    },
+    {
+      "paperId": "38d82b3c78cc9118c639d04b498e1ce4e711dcfe",
+      "title": "Enhancing visualization of molecular simulations using sonification"
+    },
+    {
+      "paperId": "2bae05d62498721d5733bf492663ce01e043d7d7",
+      "title": "Augmenting the navigation of complex data sets using sonification: a case study with BrainX3"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "0b0886355fd1de178d00b0a5414cf1c234b97bd0",
+      "title": "Prototype auditory displays for a fuel efficiency driver interface"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "f5b76870338ce29ee59e32da70ec38543bc616ad",
+      "title": "Sonification of Large Datasets in a 3D Immersive Environment: A Neuroscience Case Study"
+    },
+    {
+      "paperId": "28235697629e6486bbf40c64b28e152976fecd22",
+      "title": "A Systematic Review of Mapping Strategies for the Sonification of Physical Quantities"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "1c2c3008b353e86d2851e712c51a31a97fc45bdf",
+      "title": "Seismic Sound Lab: Sights, Sounds and Perception of the Earth as an Acoustic Space"
+    },
+    {
+      "paperId": "e622065d11bee386e2f6ff7bb7314a015ae6cfed",
+      "title": "Measuring comprehension in sonification tasks that have multiple data streams"
+    },
+    {
+      "paperId": "4095f4946cc43118bdc4d67fe5845da25f49f9ef",
+      "title": "EXPLORING SONIFICATION FOR AUGMENTING BRAIN SCAN DATA"
+    },
+    {
+      "paperId": "27afbf1b241f884a7965e94499149add6eaae646",
+      "title": "SPATIALIZED ANONYMOUS AUDIO FOR BROWSING SENSOR NETWORKS VIA VIRTUAL WORLDS"
+    },
+    {
+      "paperId": "80fb260053264435abb7a0fc0ce40a93f1455b17",
+      "title": "Supporting Interruption Management and Multimodal Interface Design"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "1f36ad876f8c502b2caa966c56ad76a19793a5d2",
+      "title": "Curve shape and curvature perception through interactive sonification"
+    },
+    {
+      "paperId": "72f58e1d33535550a9da286475d98b6a119cb8d4",
+      "title": "Using sound to represent spatial data in ArcGIS"
+    },
+    {
+      "paperId": "58ed71422b0b41d3ea568d9ab0070ece6e2079f5",
+      "title": "Auditory Support for Situation Awareness in Video Surveillance"
+    },
+    {
+      "paperId": "eb64d6b69240855014953955b4b96413972a4a2f",
+      "title": "Who's sonifying data and how are they doing it? A comparison of ICAD and other venues since 2009"
+    },
+    {
+      "paperId": "423b17c2fc331fb2109d63b0fb3b6e55adb434af",
+      "title": "Navigation of interactive sonifications and visualisations of time-series data using multi-touch computing"
+    },
+    {
+      "paperId": "025c5966fdbe73a844eb5fe86bf06435409d569e",
+      "title": "The aesthetic turn in sonification towards a social and cultural medium"
+    },
+    {
+      "paperId": "1806117feb8e131b3f8fc381a4db8d3564b97d71",
+      "title": "Benefitting InfoVis with Visual Difficulties"
+    },
+    {
+      "paperId": "82642fd3aa45616c512b49d60aa45c7953759e58",
+      "title": "Sonophenology"
+    },
+    {
+      "paperId": "bd825fe94c71adddf9cf4fdec0b75c7efc32aef8",
+      "title": "USING SOUND TO REPRESENT UNCERTAINTY IN FUTURE CLIMATE PROJECTIONS FOR THE UNITED KINGDOM"
+    },
+    {
+      "paperId": "458bfb319411a8df8be77c6e8687ab2c07496c51",
+      "title": "The Sonified Urban Masterplan (Sum) Tool: Sonification for Urban Planning and Design"
+    },
+    {
+      "paperId": "852030e73b8f71ab19ad29ef71dce4f011649d37",
+      "title": "A DATA SONIFICATION APPROACH TO COGNITIVE STATE IDENTIFICATION"
+    },
+    {
+      "paperId": "5581ec228506dd93c06858a3bc838df129a379be",
+      "title": "The Sonification Handbook"
+    },
+    {
+      "paperId": "66576e3f0bfc5dd38cad65b376bce4ce04bccba1",
+      "title": "Crossmodal correspondences: A tutorial review"
+    },
+    {
+      "paperId": "c1c0a89df67998b4ff6d7c9dda0ad55ede919095",
+      "title": "From Data to Knowledge - Visualizations as Transformation Processes within the Data-Information-Knowledge Continuum"
+    },
+    {
+      "paperId": "f43039b59570fc593ed1b68ad2bd0f675d0dc76d",
+      "title": "Universal Design of Auditory Graphs: A Comparison of Sonification Mappings for Visually Impaired and Sighted Listeners"
+    },
+    {
+      "paperId": "c9c4ea9e65982c8b91fc85f266e724c3064ebc88",
+      "title": "TAXONOMY AND DEFINITIONS FOR SONIFICATION AND AUDITORY DISPLAY"
+    },
+    {
+      "paperId": "c401437c3ca4225c7a58a69f2fbed4a8ebe5a784",
+      "title": "ENCODING AND REPRESENTATION OF INFORMATION IN AUDITORY GRAPHS: DESCRIPTIVE REPORTS OF LISTENER STRATEGIES FOR UNDERSTANDING DATA"
+    },
+    {
+      "paperId": "025c17d5b19eb1b5c57bbefd326b0c23e5215545",
+      "title": "The Cambridge handbook of multimedia learning"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "734b78c06fe151715a23b2f8ea8796b18f3b8d28",
+      "title": "Toward a data sonification design space map"
+    },
+    {
+      "paperId": "412a0bb5a3baa91b62053d82c562bc172df0439f",
+      "title": "Matplotlib: A 2D Graphics Environment"
+    },
+    {
+      "paperId": "cd2d526e39760e81ce3bf5c5774c071cb2a2d170",
+      "title": "Designing for Attention With Sound: Challenges and Extensions to Ecological Interface Design"
+    },
+    {
+      "paperId": "7b8d86fcc8fcde959becdf698778d88d7cb28ddf",
+      "title": "Information Visualization: Design for Interaction (2nd Edition)"
+    },
+    {
+      "paperId": "8db2f237b311f29dd5526e5d58bb917d2d969409",
+      "title": "Sound-Colour Synaesthesia: to What Extent Does it Use Cross-Modal Mechanisms Common to us All?"
+    },
+    {
+      "paperId": "21686a3c30e2fdcbadab16f33cb1242d0b713f86",
+      "title": "Sound Facilitates Visual Learning"
+    },
+    {
+      "paperId": "76f6dbe3e25f4326d458862abc87f46a8278a364",
+      "title": "Sonification Abstraite/Sonification Concr\u00e8te: An 'Aesthetic Perspective Space' for Classifying Auditory Displays in the Ars Musica Domain"
+    },
+    {
+      "paperId": "d11025bf737fc61ae1542e463a004a9c52399b88",
+      "title": "Proceedings of the 2006 AVI Workshop on BEyond time and errors: novel evaluation methods for information visualization, BELIV 2006, Venice, Italy, May 23, 2006"
+    },
+    {
+      "paperId": "b2b89729e716e565b6f1ccc7ac25823a51a3a493",
+      "title": "AUDITORY GRAPHS: A SUMMARY OF CURRENT EXPERIENCE AND TOWARD S A RESEARCH AGENDA"
+    },
+    {
+      "paperId": "e8c10975446ea56db579f1b29e93f07ab44879eb",
+      "title": "A Brief History of Auditory Data Representation to the 1980s"
+    },
+    {
+      "paperId": "381af2117eda17fa9fa929669dc3ab33b882e3ad",
+      "title": "Hearing What the Eyes See"
+    },
+    {
+      "paperId": "88ae299138bd53ac817a712f596e0c175b986cd2",
+      "title": "Auditory displays in human-machine interfaces"
+    },
+    {
+      "paperId": "13b685ec16479af8a11a046754e8c8f68b530bad",
+      "title": "Musical Scales and Brightness Evaluations: Effects of Pitch, Direction, and Scale Mode"
+    },
+    {
+      "paperId": "2a07c24e4b2bcd7c77521d53380dc447a3274a44",
+      "title": "Ecological Psychoacoustics"
+    },
+    {
+      "paperId": "2f2e6fd1606bc596ac00bacc0b773b2d234256a7",
+      "title": "SONIFICATION MAPPINGS DATABASE ON THE WEB"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "183ff81f86441e7a4960e2598ec8c13d40a2777a",
+      "title": "Exploring geo-scientific data in virtual environments"
+    },
+    {
+      "paperId": "436711a630739dfd41fe7e369fe9f2a7eaedb291",
+      "title": "Mach bands as empirically derived associations."
+    },
+    {
+      "paperId": "792a3361cae567b8680bbc815d8239e41b9d3a6a",
+      "title": "Data mountain: using spatial memory for document management"
+    },
+    {
+      "paperId": "f96f8605f713393259a5ce5eafc429d32ca181ee",
+      "title": "Auralization of streamline vorticity in computational fluid dynamics data"
+    },
+    {
+      "paperId": "10674229cfd7494220937ba2fee4855fe8313c33",
+      "title": "Cross-Modal Equivalence of Visual and Auditory Scatterplots for Exploring Bivariate Data Samples"
+    },
+    {
+      "paperId": "0c473ac13cf188009079d7df2bdcacf69093005e",
+      "title": "A system for the complementary visualization of 3D volume images using 2D and 3D binaurally processed sonification representations"
+    },
+    {
+      "paperId": "fd857cc655c0a14b0b7f720d7b5270099e6529e5",
+      "title": "LISTEN: sounding uncertainty visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "7fc83220640efcfa1af8545e2018786c039cb12c",
+      "title": "An illustrated analysis of sonification for scientific visualisation"
+    },
+    {
+      "paperId": "cd8931e3d167ef7fabe70f2f7d933ce6c4b8dff4",
+      "title": "Reducing cognitive load by mixing auditory and visual presentation modes"
+    },
+    {
+      "paperId": "87ac35658bd0edc5b340dd978af834d5f05e9265",
+      "title": "Auditory Display: Sonification, Audification, And Auditory Interfaces"
+    },
+    {
+      "paperId": "f486470ccfd095ca8bbc8da0031f2a6fa6618b14",
+      "title": "Perceptualization of scientific data"
+    },
+    {
+      "paperId": "dd50f7ad858922a68bdd38974066e858f16ed1bd",
+      "title": "Stereophonic and surface sound generation for exploratory data analysis"
+    },
+    {
+      "paperId": "3e25da0675dc622df0af7ff5373cf4a14116f014",
+      "title": "A Survey of Approaches"
+    },
+    {
+      "paperId": "f418f1a9bc789efcfb91e0f6ebde6f064344cf54",
+      "title": "Intramodal and crossmodal sensory transfer of visual and auditory temporal patterns"
+    },
+    {
+      "paperId": "430311ab05931383d896f88690d231e701991661",
+      "title": "EXOPLANETS : LISTEN TO THE SOUNDS OF DISCOVERY"
+    },
+    {
+      "paperId": "3774eb5ae2a629bcb5fc5de36c794ded7471a20a",
+      "title": "Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation"
+    },
+    {
+      "paperId": "5364f206fd1437d2eed7651a99dd4a8f1eeaa4a4",
+      "title": "The Design of an Auditory Alarm Concept for a Paper Mill Control Room"
+    },
+    {
+      "paperId": "16f5940cbd9d86c59ceddfa8d1d026fbf2f22fa8",
+      "title": "Auralization of Three-Dimensional Cellular Automata"
+    },
+    {
+      "paperId": null,
+      "title": "The Design of Data Sonification. Design Processes, Protocols and Tools Grounded in Anomaly Detection . PhD thesis"
+    },
+    {
+      "paperId": null,
+      "title": "Digital violence"
+    },
+    {
+      "paperId": "e4e7acacdd4ab9410aa06ae748c6f1dd0085210e",
+      "title": "Polymedia Design for Network Metadata Monitoring"
+    },
+    {
+      "paperId": "5b215e6e242096f98a4430adeb8a2bb722557407",
+      "title": "Visual-auditory Representation and Analysis of Molecular Scalar Fields"
+    },
+    {
+      "paperId": "ae216522f1641e6249a5bb8526868e7fa21419de",
+      "title": "Sonification Design: From Data to Intelligible Soundfields"
+    },
+    {
+      "paperId": "0c670907292c39f9bf505ca13bbc5a2702d8f6a7",
+      "title": "Visualizing and sonifying how an artificial ear hears music"
+    },
+    {
+      "paperId": "6be86b45d43acce68a9381095e94c7e40fdb4731",
+      "title": "Supplementary Materials for \"Interactive Mode Explorer Sonification enhances Exploratory Cluster Analysis\""
+    },
+    {
+      "paperId": "225f205b7c6e15c02cdd96558e56befd98f613cb",
+      "title": "Stream Segregation: Utilizing Harmonic Variance in Auditory Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Aqua_forensic"
+    },
+    {
+      "paperId": null,
+      "title": "Systematic Procedure to Develop Sonifications"
+    },
+    {
+      "paperId": "7f0b9b85f49a08bc363f752e93d2757c3cd151e8",
+      "title": "Interactive Sonification for Visual Dense Data Displays"
+    },
+    {
+      "paperId": "201309667349dfa3bbcb749231877539c64ec3b9",
+      "title": "OF INTERACTIVE SEISMIC ARRAY SONIFICATION FOR DATA EXPLORATION AND PUBLIC OUTREACH ACTIVITIES"
+    },
+    {
+      "paperId": "8486237f67a6b2beff6b89e894516e2d5c592fce",
+      "title": "A user study of auditory, head-up and multi-modal displays in vehicles."
+    },
+    {
+      "paperId": null,
+      "title": "Cultural Differences in Preference of Auditory Emoticons: USA and South Korea"
+    },
+    {
+      "paperId": null,
+      "title": "of 30 K. Enge et al. / A State-of-the-Art Report data representation"
+    },
+    {
+      "paperId": "07d762464af31caaf702a720049363b41ed0483b",
+      "title": "Lobbying for the ear : the public fascination with and academic legitimacy of the sonification of scientific data"
+    },
+    {
+      "paperId": "211ff10e937e0849f85464a763566df7363b4950",
+      "title": "Exploring auditory graphs with a vowel based sonification"
+    },
+    {
+      "paperId": "1853145560a044809924b1c22a67c4816b157a03",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "a4691d000be35da7f315e6582df33be4278248fc",
+      "title": "Using All Our Senses : the need for a Unified Theoretical Approach to Multi-sensory Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Auditory Encoding of Visual Temporal Sequences"
+    },
+    {
+      "paperId": "7f5eaf018578aa5f6ca829b42cc2a8fcc103e763",
+      "title": "A Brief History of Data Visualization"
+    },
+    {
+      "paperId": "9944ef2d79b4c098e02f6b4817f921d2a8d20edd",
+      "title": "Augmentation of Visualisation Using Sonification: A Case Study in Computational Fluid Dynamics"
+    },
+    {
+      "paperId": null,
+      "title": "Heat and the Heartbeat of the City: Sonifying Data Describing Climate Change"
+    },
+    {
+      "paperId": "290a31de1b27942ba2a850231d7a13f44d5aca91",
+      "title": "The Grammar of Graphics, Second Edition"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "a5748c6fdc3ce6998c60d65d8be67315811518ca",
+      "title": "Sonification Report: Status of the Field and Research Agenda"
+    },
+    {
+      "paperId": "a1dd5c338b1b2f723b1b0fc1ae42c41cbe582680",
+      "title": "Sonification for Exploratory Data Analysis"
+    },
+    {
+      "paperId": "24333245903dbd2908782e162b696b8f3af7c50b",
+      "title": "EVALUATION OF A MULTIMODAL SONIFICATION AND VISUALISATION OF DEPTH OF MARKET STOCK DATA"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "f6c5dacd44d5bf61f21e9399ada0dff385edf875",
+      "title": "Sound and computer information presentation"
+    },
+    {
+      "paperId": null,
+      "title": "The importance of interaction in sonifi-cation"
+    },
+    {
+      "paperId": null,
+      "title": "Deep sync"
+    },
+    {
+      "paperId": null,
+      "title": "Auditory Information Design . PhD thesis, Australian"
+    },
+    {
+      "paperId": null,
+      "title": "Integration of Sonification and Visualization ComputerGraphicsForumpublishedbyEurographicsandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "Interacting with sonifications: The mesonic framework for interactive auditory data science"
+    },
+    {
+      "paperId": null,
+      "title": "An exploratory use of audiovisual displays on oceanographic data"
+    },
+    {
+      "paperId": null,
+      "title": "Gestalt principles in multimodal"
+    },
+    {
+      "paperId": null,
+      "title": "Questionnaires assessing usability of audio-visual representations"
+    },
+    {
+      "paperId": null,
+      "title": "Orbuculum, 2023"
+    },
+    {
+      "paperId": null,
+      "title": "Mapping in the emergency: Designing a hyperlocal and socially conscious sonified map of Covid-19 in Suffolk County, New York"
+    }
+  ]
+}

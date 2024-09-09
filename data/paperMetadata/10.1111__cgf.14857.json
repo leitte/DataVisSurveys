@@ -1,0 +1,596 @@
+{
+  "paperId": "1a692c24eae4896672f9f91182e0e134f58c773a",
+  "externalIds": {
+    "DBLP": "journals/cgf/SartonZDGALDWW23",
+    "DOI": "10.1111/cgf.14857",
+    "CorpusId": 259263856
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/1a692c24eae4896672f9f91182e0e134f58c773a",
+  "title": "State\u2010of\u2010the\u2010art in Large\u2010Scale Volume Visualization Beyond Structured Data",
+  "abstract": "Volume data these days is usually massive in terms of its topology, multiple fields, or temporal component. With the gap between compute and memory performance widening, the memory subsystem becomes the primary bottleneck for scientific volume visualization. Simple, structured, regular representations are often infeasible because the buses and interconnects involved need to accommodate the data required for interactive rendering. In this state\u2010of\u2010the\u2010art report, we review works focusing on large\u2010scale volume rendering beyond those typical structured and regular grid representations. We focus primarily on hierarchical and adaptive mesh refinement representations, unstructured meshes, and compressed representations that gained recent popularity. We review works that approach this kind of data using strategies such as out\u2010of\u2010core rendering, massive parallelism, and other strategies to cope with the sheer size of the ever\u2010increasing volume of data produced by today's supercomputers and acquisition devices. We emphasize the data management side of large\u2010scale volume rendering systems and also include a review of tools that support the various volume data types discussed.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2023,
+  "referenceCount": 128,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14857",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sarton2023StateoftheartIL,\n author = {J. Sarton and Stefan Zellmann and S. Demirci and U. G\u00fcd\u00fckbay and W. Alexandre\u2010Barff and L. Lucas and J. Dischler and S. Wesner and I. Wald},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State\u2010of\u2010the\u2010art in Large\u2010Scale Volume Visualization Beyond Structured Data},\n volume = {42},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145438810",
+      "name": "J. Sarton"
+    },
+    {
+      "authorId": "2771674",
+      "name": "Stefan Zellmann"
+    },
+    {
+      "authorId": "2058954942",
+      "name": "S. Demirci"
+    },
+    {
+      "authorId": "1746035",
+      "name": "U. G\u00fcd\u00fckbay"
+    },
+    {
+      "authorId": "2176584974",
+      "name": "W. Alexandre\u2010Barff"
+    },
+    {
+      "authorId": "145254995",
+      "name": "L. Lucas"
+    },
+    {
+      "authorId": "1753136",
+      "name": "J. Dischler"
+    },
+    {
+      "authorId": "1803724",
+      "name": "S. Wesner"
+    },
+    {
+      "authorId": "145357585",
+      "name": "I. Wald"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca51c752d3da19b43c807deed4a3f8ddf24eaf90",
+      "title": "The VTK-m Users' Guide, version 2.0"
+    },
+    {
+      "paperId": "171760edc4e08483e5d6ab080a30d90bd8d2c24d",
+      "title": "Beyond ExaBricks: GPU Volume Path Tracing of AMR Data"
+    },
+    {
+      "paperId": "d38949c4a3caeffc7177b23b08298363637debd2",
+      "title": "Interactive, in-browser cinematic volume rendering of medical images"
+    },
+    {
+      "paperId": "be00c0b00dcba298c848fbcbc609a9d791d29a8d",
+      "title": "Hybrid Image-/Data-Parallel Rendering Using Island Parallelism"
+    },
+    {
+      "paperId": "42e349db3936383cad356f3640a6196be108f5fc",
+      "title": "GPU-based Data-parallel Rendering of Large, Unstructured, and Non-convexly Partitioned Data"
+    },
+    {
+      "paperId": "4aa42827000072ed42c8501760a259b505c91f8e",
+      "title": "Quick Clusters: A GPU-Parallel Partitioning for Efficient Path Tracing of Unstructured Volumetric Grids"
+    },
+    {
+      "paperId": "579a5b044c054667ae7e9d7b1af7bcd792ff5d3b",
+      "title": "DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization"
+    },
+    {
+      "paperId": "e421b306103d5059f51c74470d332f45048e55c6",
+      "title": "ANARI: A 3-D Rendering API Standard"
+    },
+    {
+      "paperId": "813e52eb3378e8e077ef2666b443a3af2dfb5c3c",
+      "title": "Point Containment Queries on Ray-Tracing Cores for AMR Flow Visualization"
+    },
+    {
+      "paperId": "20050250721d00f8deec5ab33dc54c5656d386b4",
+      "title": "Sparse Volume Rendering using Hardware Ray Tracing and Block Walking"
+    },
+    {
+      "paperId": "b8e420f9cf5ac53e9d8e8bb86cfb898170ecc4dc",
+      "title": "Fast Neural Representations for Direct Volume Rendering"
+    },
+    {
+      "paperId": "7e1898a1bb89b50068d0d2328e8847580b4f77b5",
+      "title": "Ray-traced Shell Traversal of Tetrahedral Meshes for Direct Volume Visualization"
+    },
+    {
+      "paperId": "5408a0571dafee184610baf09d39d61a5679207f",
+      "title": "A Memory Efficient Encoding for Ray Tracing Large Unstructured Data"
+    },
+    {
+      "paperId": "cb6ab325e091bf095ed93969084ba086acfaa844",
+      "title": "Deep Direct Volume Rendering: Learning Visual Feature Mappings From Exemplary Images"
+    },
+    {
+      "paperId": "d7e3e91fd3d2c04dfb032794e8c6e69d0c036010",
+      "title": "A Survey on Bounding Volume Hierarchies for Ray Tracing"
+    },
+    {
+      "paperId": "299fd0cc0f2ae09d0e50f64c9c43a936c37623e5",
+      "title": "Compressive Neural Representations of Volumetric Scalar Fields"
+    },
+    {
+      "paperId": "c041aaed581616e122e790dd2769337216df3d8d",
+      "title": "KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs"
+    },
+    {
+      "paperId": "91e955dddd62c5d1e511a9216460de998040cefe",
+      "title": "Accelerating Unstructured Mesh Point Location With RT Cores"
+    },
+    {
+      "paperId": "95ba59ee7df496635750c2cca350832c2a5e4ffa",
+      "title": "Real-Time Denoising of Volumetric Path Tracing for Direct Volume Rendering"
+    },
+    {
+      "paperId": "67df6f979df46ae91a9603cf2e36b404a0044fb7",
+      "title": "Efficient and Flexible Hierarchical Data Layouts for a Unified Encoding of Scalar Field Precision and Resolution"
+    },
+    {
+      "paperId": "4dd7fec656970e848fa07edb02342fc8f9c8157f",
+      "title": "Interactive Visualization and On-Demand Processing of Large Volume Data: A Fully GPU-Based Out-of-Core Approach"
+    },
+    {
+      "paperId": "e554f559495b3da93f48839911aa97ae353ca989",
+      "title": "Ray Tracing Structured AMR Data Using ExaBricks"
+    },
+    {
+      "paperId": "b215e0192f67a3e4265f23baba65e2e96dcb321f",
+      "title": "Neural Denoising for Path Tracing of Medical Volumetric Data"
+    },
+    {
+      "paperId": "483528d9a48626e71885f5b88d3810c2ff34548f",
+      "title": "AMM: Adaptive Multilinear Meshes"
+    },
+    {
+      "paperId": "43b1e34451f783fed053c1d539d7560dc4ec16a9",
+      "title": "Implicit Neural Representations with Periodic Activation Functions"
+    },
+    {
+      "paperId": "4db8eed97ab3a012871377d26564ccadd34e6512",
+      "title": "Tetrahedral Trees"
+    },
+    {
+      "paperId": "69fb347badc6be787ab79d2006c7ad8d6e364ee8",
+      "title": "CPU Ray Tracing of Tree\u2010Based Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "79ae03ead395fca4a19843ba8fbc1369e1add6d1",
+      "title": "A Simple, General, and GPU Friendly Method for Computing Dual Mesh and Iso-Surfaces of Adaptive Mesh Refinement (AMR) Data"
+    },
+    {
+      "paperId": "428b663772dba998f5dc6a24488fff1858a0899f",
+      "title": "NeRF"
+    },
+    {
+      "paperId": "24dccb9cb0c169e349361d5a3d836ee971997702",
+      "title": "Adaptive Deep Learning based Time-Varying Volume Compression"
+    },
+    {
+      "paperId": "da9bbd1ee1f053fba82ccfc79194f15322cca76b",
+      "title": "Integral formulations of volumetric transmittance"
+    },
+    {
+      "paperId": "9dd762a7c67b812b0c8c847928b99f499381275c",
+      "title": "An Analysis of Region Clustered BVH Volume Rendering on GPU"
+    },
+    {
+      "paperId": "ef0f0c6db8d9fcd16f06eedce7fdf32df88071e7",
+      "title": "Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs"
+    },
+    {
+      "paperId": "a80e3223853fd490b06e6047964eeb6332429e37",
+      "title": "Hybrid Grids for Sparse Volume Rendering"
+    },
+    {
+      "paperId": "16eee85cacc376ff2fd29d0b04c53823b7446736",
+      "title": "Binned k-d Tree Construction for Sparse Volume Data on Multi-Core and GPU Systems"
+    },
+    {
+      "paperId": "860ef28bdce47806daa66701fef60ac87306f8d1",
+      "title": "Efficient Space Skipping and Adaptive Sampling of Unstructured Volumes Using Hardware Accelerated Ray Tracing"
+    },
+    {
+      "paperId": "24c7ef9c8d277c7a98413cf3cacf287987164736",
+      "title": "OpenVDB"
+    },
+    {
+      "paperId": "3243a949713725d6edf50233f0f38118dfc6bd09",
+      "title": "VAPOR: A Visualization Package Tailored to Analyze Simulation Data in Earth System Science"
+    },
+    {
+      "paperId": "fba2ba35b84e7d893ea3742ed2f32e4fc639210d",
+      "title": "RTX beyond ray tracing: exploring the use of hardware ray tracing cores for tet-mesh point location"
+    },
+    {
+      "paperId": "5843532a764ced83a61e14b0f7918079c92bfed8",
+      "title": "Adaptive Temporal Sampling for Volumetric Path Tracing of Medical Data"
+    },
+    {
+      "paperId": "9955b094457e272dae9313897261969940c138b7",
+      "title": "A Scalable Hybrid Scheme for Ray-Casting of Unstructured Volume Data"
+    },
+    {
+      "paperId": "bb58a20e019784ffa3c8ac174291f1cc32932fda",
+      "title": "Distributed Out-of-Core Approach for In-Situ Volume Rendering of Massive Dataset"
+    },
+    {
+      "paperId": "34f9178ef203a66ec75c07188568a9f86c4c7efe",
+      "title": "A Linear Time BVH Construction Algorithm for Sparse Volumes"
+    },
+    {
+      "paperId": "5ef2fc166cfb198fd5d4c15b1876a17e864469c4",
+      "title": "HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models"
+    },
+    {
+      "paperId": "dd81523b9accdf1c13cd37f76b22ab27d84b7a42",
+      "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+    },
+    {
+      "paperId": "36ba7cbc251f8510023142070b75f3d679fcc47f",
+      "title": "CPU Isosurface Ray Tracing of Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "b9ddf9a6dd2e219009668022ea44a633e2c43a82",
+      "title": "Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach"
+    },
+    {
+      "paperId": "2e689bdce24cf3644432505ce2783f03a1445ed2",
+      "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space"
+    },
+    {
+      "paperId": "9ace1bf42d797977e6c5a78d1bb3630eb91fba7d",
+      "title": "Compressed-leaf bounding volume hierarchies"
+    },
+    {
+      "paperId": "0d561d8b0a11cba249e40b8d42a1d671aca7b372",
+      "title": "TTHRESH: Tensor Compression for Multidimensional Visual Data"
+    },
+    {
+      "paperId": "93cca23e066b932809ec62252f8f7ddcd6b16796",
+      "title": "CPU volume rendering of adaptive mesh refinement data"
+    },
+    {
+      "paperId": "6c9a9e10af80c20fafae06fe50a34781c3070ea0",
+      "title": "Parallel multi-layer ghost cell generation for distributed unstructured grids"
+    },
+    {
+      "paperId": "7d4816055b1a9aecb75f36e5e6ab5948b1354ed1",
+      "title": "Efficient incoherent ray traversal on GPUs through compressed wide BVHs"
+    },
+    {
+      "paperId": "f23ca03c93129392dd83bbbe0eb3f615bd81d8cd",
+      "title": "The Stellar decomposition: A compact representation for simplicial complexes and beyond"
+    },
+    {
+      "paperId": "4370744924f3bd3915a0baa8b4d1d217d4dc4649",
+      "title": "Significantly Improving Lossy Compression for Scientific Data Sets Based on Multidimensional Prediction and Error-Controlled Quantization"
+    },
+    {
+      "paperId": "becc6f8b9873fb062959618f02bdd3af927ab790",
+      "title": "Fluid Engine Development"
+    },
+    {
+      "paperId": "61f2648528d12d544230557b5f909317aee866ac",
+      "title": "Computational framework for Launch, Ascent, and Vehicle Aerodynamics (LAVA)"
+    },
+    {
+      "paperId": "0d5d22100615ad59410bd81e5ab1b288b32cea11",
+      "title": "VTK-m: Accelerating the Visualization Toolkit for Massively Threaded Architectures"
+    },
+    {
+      "paperId": "e1342677400b32199c135aa9dff3de5272bf13b8",
+      "title": "Output\u2010Sensitive Filtering of Streaming Volume Data"
+    },
+    {
+      "paperId": "770826552f255796e4a30ce3d554287914bb457c",
+      "title": "Adaptive Multilinear Tensor Product Wavelets"
+    },
+    {
+      "paperId": "1e6c294f46955ae2600e816853cb5218c0257cb2",
+      "title": "State\u2010of\u2010the\u2010Art in GPU\u2010Based Large\u2010Scale Volume Visualization"
+    },
+    {
+      "paperId": "dfccc00a46a35bbf5ccc306cf58cf0e007abbc84",
+      "title": "SIMD Parallel Ray Tracing of Homogeneous Polyhedral Grids"
+    },
+    {
+      "paperId": "7777d299e7b4217fc4b80234994b5a68b3031199",
+      "title": "Fixed-Rate Compressed Floating-Point Arrays"
+    },
+    {
+      "paperId": "806dc0fafbd268681cf3dd1090699711c644697d",
+      "title": "Embree"
+    },
+    {
+      "paperId": "d400e0859619b80a716a2363c992a7da80fca641",
+      "title": "Evolution of FLASH, a multi-physics scientific simulation code for high-performance computing"
+    },
+    {
+      "paperId": "342ff7ab2a33a10768e852f7afc2e280f0d30474",
+      "title": "JPEG2000 - image compression fundamentals, standards and practice"
+    },
+    {
+      "paperId": "170796bb060d6d9c899b4db1e20f77f8e8548ada",
+      "title": "Octree Rasterization: Accelerating High-Quality Out-of-Core GPU Volume Rendering"
+    },
+    {
+      "paperId": "3b4bb5a4516f1b194031b9d1c7946683859d8a20",
+      "title": "Efficient parallel extraction of crack-free isosurfaces from adaptive mesh refinement (AMR) data"
+    },
+    {
+      "paperId": "01eaea75849646e34b05b44440420142c0e4b196",
+      "title": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach"
+    },
+    {
+      "paperId": "c77b6ae49479745a3d38bf4a5c49a47163bc4a1a",
+      "title": "ElVis: A System for the Accurate and Interactive Visualization of High-Order Finite Element Solutions"
+    },
+    {
+      "paperId": "8ff3a667d91e5c22e28e4936805aa2bd2904ee31",
+      "title": "Visualization of Octree Adaptive Mesh Refinement (AMR) in Astrophysical Simulations"
+    },
+    {
+      "paperId": "14ce200a859cd48b849540220163c1bc1e021ec4",
+      "title": "Exposure Render: An Interactive Photo-Realistic Volume Rendering Framework"
+    },
+    {
+      "paperId": "f32abf59892bc3521f1523faab6d10f86b718b2e",
+      "title": "ispc: A SPMD compiler for high-performance CPU programming"
+    },
+    {
+      "paperId": "590ca1b595a6dad3e6b3c0374e5c1d6bce5b9f8d",
+      "title": "Interactive Volume Visualization of General Polyhedral Grids"
+    },
+    {
+      "paperId": "c712eb2c9508e3b5c59e000083acf8ed367d62e1",
+      "title": "Visualization of AMR Data With Multi-Level Dual-Mesh Interpolation"
+    },
+    {
+      "paperId": "53efa805f683a5dcbf4932524e7e5a0452e5978c",
+      "title": "CERA-TVR: A framework for interactive high-quality teravoxel volume visualization on standard PCs"
+    },
+    {
+      "paperId": "ae4f50951b18bee15d15005a3cd6eb6a0870908b",
+      "title": "An image compositing solution at scale"
+    },
+    {
+      "paperId": "af9b9c7707e30d86f0572406057c32c2f92ec7d3",
+      "title": "p4est: Scalable Algorithms for Parallel Adaptive Mesh Refinement on Forests of Octrees"
+    },
+    {
+      "paperId": "ae569603eb1e6d17f7242b78f9d6658ba6637696",
+      "title": "Free Path Sampling in High Resolution Inhomogeneous Participating Media"
+    },
+    {
+      "paperId": "caa3cff434808af54777c1f66300cd587f3875cf",
+      "title": "Unbiased, adaptive stochastic sampling for rendering inhomogeneous participating media"
+    },
+    {
+      "paperId": "aa88eb88dbe1a24e92b85e66c4e8059192aa2aee",
+      "title": "OptiX: a general purpose ray tracing engine"
+    },
+    {
+      "paperId": "9178cf91d97b1c57da23d05419c33bed50b2dd76",
+      "title": "Real\u2010Time Concurrent Linked List Construction on the GPU"
+    },
+    {
+      "paperId": "b5f8b3ac2feceea5a4d746f5d9d10a26a1c88384",
+      "title": "A GPU-Supported Lossless Compression Scheme for Rendering Time-Varying Volume Data"
+    },
+    {
+      "paperId": "5d667d01fc4efe6406ed49822c23fc270bc2d5df",
+      "title": "An Improved Algorithm Finding Nearest Neighbor Using Kd-trees"
+    },
+    {
+      "paperId": "9a5747d3a879736f06dc855e53435624c0ddedb2",
+      "title": "Simple Empty-Space Removal for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "43e263d4ab94d766b298930cfde463ee1ec03fc9",
+      "title": "Scalable Hybrid Unstructured and Structured Grid Raycasting"
+    },
+    {
+      "paperId": "005e2c1988e9c92d3f7fda01a08d49cd348768cf",
+      "title": "On fast Construction of SAH-based Bounding Volume Hierarchies"
+    },
+    {
+      "paperId": "0e780d608081ec56cf6472e5b7a730428d7a9851",
+      "title": "Interactive Isosurface Ray Tracing of Large Octree Volumes"
+    },
+    {
+      "paperId": "2ba01de1410e2a71c608ea8031f0eefd7beb7f56",
+      "title": "A scalable, hybrid scheme for volume rendering massive data sets"
+    },
+    {
+      "paperId": "d3c3cee5e60d5bb70f25b33f35a0907e1214f3e8",
+      "title": "GPU-Based Tiled Ray Casting Using Depth Peeling"
+    },
+    {
+      "paperId": "d167d218f29acece374a473fef89d9f3dd5d12fb",
+      "title": "A second order algorithm for orthogonal projection onto curves and surfaces"
+    },
+    {
+      "paperId": "fa9e2d7051842e59a80b99d4ab0024a40a7d976b",
+      "title": "Hardware-based ray casting for tetrahedral meshes"
+    },
+    {
+      "paperId": "f65f137f652788151df0f66f62cdd910d330258a",
+      "title": "Interactive Volume Rendering of Large Sparse Data Sets Using Adaptive Mesh Refinement Hierarchies"
+    },
+    {
+      "paperId": "c16f03480935ca2eb4cb55df1a06b071f32959f8",
+      "title": "Mean value coordinates"
+    },
+    {
+      "paperId": "0984008f6f480c386acfc511943c9ff62aa8fb48",
+      "title": "High-quality Volume Rendering of Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "543218991359d7cf57d2508783c8e5e9833f1f8e",
+      "title": "Simple, Fast, and Robust Ray Casting of Irregular Grids"
+    },
+    {
+      "paperId": "ca7a7b1c8f0d6f34fb10db422fb5203bc2a13cfb",
+      "title": "Optical Models for Direct Volume Rendering"
+    },
+    {
+      "paperId": "93e4f6d143a4df2bbd780f68123dbfc51b6ae5ed",
+      "title": "Segmented ray casting for data parallel volume rendering"
+    },
+    {
+      "paperId": "47dbc82a9c6a42d9eed9900ed0495044880a03b9",
+      "title": "A polygonal approximation to direct scalar volume rendering"
+    },
+    {
+      "paperId": "a04b32db44b18e07466d8b7a275035859b4c97b5",
+      "title": "Raytracing irregular volume data"
+    },
+    {
+      "paperId": "88a32f0546fccb673225fd2fcc4d9918e7a42298",
+      "title": "Local adaptive mesh refinement for shock hydrodynamics"
+    },
+    {
+      "paperId": "c722bb2fd74f654eef0b5f42aefbb8c6fa6f6de4",
+      "title": "A parallel algorithm for polygon rasterization"
+    },
+    {
+      "paperId": "69a28cf71d454b06eed2aed3c7a48114ea969455",
+      "title": "Compositing digital images"
+    },
+    {
+      "paperId": "a9c915f7cb0351b58c9ba733f988cdedadee61d1",
+      "title": "Smooth interpolation of large sets of scattered data"
+    },
+    {
+      "paperId": "f5454ca1ec079e1fb27040d3ee874521add64426",
+      "title": "Design and Evaluation of a GPU Streaming Framework for Visualizing Time-Varying AMR Data"
+    },
+    {
+      "paperId": "a359426718c1556ad30883b7df7a4215c12d73cb",
+      "title": "Instant Neural Representation for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "cdb5af53e655cb47e76cb00f468929ca3732f574",
+      "title": "Faster RTX-Accelerated Empty Space Skipping using Triangulated Active Region Boundary Geometry"
+    },
+    {
+      "paperId": "ca6427e8071c20561cbe682aa2e34e4f2b5599ba",
+      "title": "VisIt-OSPRay: Toward an Exascale Volume Visualization System"
+    },
+    {
+      "paperId": "fe8c6145775318be8eff0bdf84afbcf60d5c6565",
+      "title": "SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering"
+    },
+    {
+      "paperId": "77ed7ac6227629c6a4187f8e7bce9ea09d10fed0",
+      "title": "Rapid k-d Tree Construction for Sparse Volume Data"
+    },
+    {
+      "paperId": "1581525542a14acf5bc913453cd5d630254e8740",
+      "title": "An Intelligent System Approach for Probabilistic Volume Rendering Using Hierarchical 3D Convolutional Sparse Coding"
+    },
+    {
+      "paperId": "e8a84aac18b76ab2fab1ec733eda4caaed58c9a6",
+      "title": "Compressed Volume Rendering using Deep Learning"
+    },
+    {
+      "paperId": "18fe0dc9e8d112b000f045411fffec32acafc839",
+      "title": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "paperId": "53fdc63adf9c6d0a3f7458a106021c23ace90e1a",
+      "title": "VisIt: An End-User Tool for Visualizing and Analyzing Very Large Data"
+    },
+    {
+      "paperId": "01667556786492e555be9e0981821b3d5a908331",
+      "title": "GPU-Assisted Raycasting for Cosmological Adaptive Mesh Refinement Simulations"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Toolkit: An Object-Oriented Approach to 3D Graphics, 4 ed"
+    },
+    {
+      "paperId": "c655c96ad78dddfced75d693f0bbc37e3e540eeb",
+      "title": "Octree Textures on the GPU"
+    },
+    {
+      "paperId": "f90936c85b56816024617485f6e376612ce31cf4",
+      "title": "A Survey of GPU-Based Volume Rendering of Unstructured Grids"
+    },
+    {
+      "paperId": "604149d32752f8074951bedc40c74aeb2cc1c822",
+      "title": "ParaView: An End-User Tool for Large-Data Visualization"
+    },
+    {
+      "paperId": "9fb56e03fa40adecb948bdb41490a49e146add64",
+      "title": "Adaptive mesh refinement for hyperbolic partial differential equations"
+    },
+    {
+      "paperId": null,
+      "title": "Techniques used in the GEM code for Monte Carlo neutronics calculation in reactors and other systems of complex geometry"
+    },
+    {
+      "paperId": null,
+      "title": "IndeX\u00ae3D Volumetric Visualization Framework"
+    },
+    {
+      "paperId": null,
+      "title": "Vulkan\u00ae ray tracing extension support in our latest AMD Radeon\u2122"
+    },
+    {
+      "paperId": null,
+      "title": "Fun3D Retropropulsion Data Portal-Simulations of retropropulsion to decelerate a space vehicle entering a planetary atmosphere"
+    },
+    {
+      "paperId": null,
+      "title": "Available at https:// github.com/NVIDIA/VisRTX"
+    },
+    {
+      "paperId": null,
+      "title": "GigaVoxels: A Voxel-Based Rendering Pipeline For Efficient Exploration Of Large And Detailed Scenes. PhD thesis"
+    },
+    {
+      "paperId": null,
+      "title": "Intel's Open-Source Vulkan Driver for Ray-Tracing Gets \"Like A 100x Improvement"
+    },
+    {
+      "paperId": null,
+      "title": "Vulkan ray tracing final specification release"
+    }
+  ]
+}

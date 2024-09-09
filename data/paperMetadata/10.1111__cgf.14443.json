@@ -1,0 +1,416 @@
+{
+  "paperId": "a86af9502c69042a5a3cf014959f1db704799b13",
+  "externalIds": {
+    "DBLP": "journals/cgf/HallLJDCK22",
+    "DOI": "10.1111/cgf.14443",
+    "CorpusId": 246615055
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a86af9502c69042a5a3cf014959f1db704799b13",
+  "title": "A Survey of Tasks and Visualizations in Multiverse Analysis Reports",
+  "abstract": "Analysing data from experiments is a complex, multi\u2010step process, often with multiple defensible choices available at each step. While analysts often report a single analysis without documenting how it was chosen, this can cause serious transparency and methodological issues. To make the sensitivity of analysis results to analytical choices transparent, some statisticians and methodologists advocate the use of \u2018multiverse analysis\u2019: reporting the full range of outcomes that result from all combinations of defensible analytic choices. Summarizing this combinatorial explosion of statistical results presents unique challenges; several approaches to visualizing the output of multiverse analyses have been proposed across a variety of fields (e.g. psychology, statistics, economics, neuroscience). In this article, we (1) introduce a consistent conceptual framework and terminology for multiverse analyses that can be applied across fields; (2) identify the tasks researchers try to accomplish when visualizing multiverse analyses and (3) classify multiverse visualizations into \u2018archetypes\u2019, assessing how well each archetype supports each task. Our work sets a foundation for subsequent research on developing visualization tools and techniques to support multiverse analysis and its reporting.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 85,
+  "openAccessPdf": {
+    "url": "http://deepblue.lib.umich.edu/bitstream/2027.42/172086/1/cgf14443-sup-0002-SuppMat.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hall2022ASO,\n author = {Brian D. Hall and Yang Liu and Yvonne Jansen and Pierre Dragicevic and Fanny Chevalier and M. Kay},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Tasks and Visualizations in Multiverse Analysis Reports},\n volume = {41},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "153822904",
+      "name": "Brian D. Hall"
+    },
+    {
+      "authorId": "37948271",
+      "name": "Yang Liu"
+    },
+    {
+      "authorId": "145952920",
+      "name": "Yvonne Jansen"
+    },
+    {
+      "authorId": "3297322",
+      "name": "Pierre Dragicevic"
+    },
+    {
+      "authorId": "2840251",
+      "name": "Fanny Chevalier"
+    },
+    {
+      "authorId": "1563872227",
+      "name": "M. Kay"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "32ebf8e01a045141903f5b1f7f8a4ac128c42e72",
+      "title": "A Traveler\u2019s Guide to the Multiverse: Promises, Pitfalls, and a Framework for the Evaluation of Analytic Decisions"
+    },
+    {
+      "paperId": "0a6f39bad41608b86673b6226f2893912b27a72c",
+      "title": "Specification curve analysis"
+    },
+    {
+      "paperId": "3be2bd86c399e5fdc2dd64662c52ee46443ca758",
+      "title": "Boba: Authoring and Visualizing Multiverse Analyses"
+    },
+    {
+      "paperId": "fa914c0ba7574ebbe3e499954582576da04ea1cd",
+      "title": "Assessing 2D and 3D Heatmaps for Comparative Analysis: An Empirical Study"
+    },
+    {
+      "paperId": "53c7f9dbfbcb2ecb297e51fce2d1a4bbb246a70e",
+      "title": "Misinformation During a Pandemic"
+    },
+    {
+      "paperId": "25b5ca87f7961742c4f1a646aa26e503ec5c9614",
+      "title": "Navigating the garden of forking paths for data exclusions in fear conditioning research"
+    },
+    {
+      "paperId": "5fe2e9ce1267547d40a3b98fedde4775a59c1eee",
+      "title": "Variability in the analysis of a single neuroimaging dataset by many teams"
+    },
+    {
+      "paperId": "37c3728d48ae85247a31137714236ec3c8e69012",
+      "title": "Paths Explored, Paths Omitted, Paths Obscured: Decision Points & Selective Reporting in End-to-End Data Analysis"
+    },
+    {
+      "paperId": "b2d85ca8a24ee8d0aaba07ba7a92c477777833c5",
+      "title": "BEAMES: Interactive Multimodel Steering, Selection, and Inspection for Regression Tasks"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "dfc1eca39d165ebf8e9a82fd18da2419f5a2b5c9",
+      "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures"
+    },
+    {
+      "paperId": "25c4e5259c7959cd37e2459810edaf81875fe4e1",
+      "title": "Replicator degrees of freedom allow publication of misleading failures to replicate"
+    },
+    {
+      "paperId": "8d995b187db74c066d9b9bc322985af12ec9f1c7",
+      "title": "Social media\u2019s enduring effect on adolescent life satisfaction"
+    },
+    {
+      "paperId": "badd5ed7bf6d6f0491a7b7ee612c1ce2a19c78ac",
+      "title": "Increasing the Transparency of Research Papers with Explorable Multiverse Analyses"
+    },
+    {
+      "paperId": "e6c7e53870fd75f05f1ede3d931744c6a9ac58c9",
+      "title": "Screens, Teens, and Psychological Well-Being: Evidence From Three Time-Use-Diary Studies"
+    },
+    {
+      "paperId": "a9a81b5697cf423e61d033e95e05b69fd0418e26",
+      "title": "The effect of bidialectalism on executive function"
+    },
+    {
+      "paperId": "afa9f58da52f4f243ef2afc2c8128bf9c482e7bf",
+      "title": "Time to get personal? The impact of researchers choices on the selection of treatment targets using the experience sampling methodology"
+    },
+    {
+      "paperId": "74a7623350f0749b825c5c50b43a7765f16654e2",
+      "title": "Is there a bilingual advantage on interference-control tasks? A multiverse meta-analysis of global reaction time and interference cost"
+    },
+    {
+      "paperId": "75e0601958dea426eeff0111ce879a4019dfbe83",
+      "title": "The association between adolescent well-being and digital technology use"
+    },
+    {
+      "paperId": "f3ce9a5391659437685276be2cae0e491fa3d675",
+      "title": "Poor emotion regulation ability mediates the link between depressive symptoms and affective bipolarity"
+    },
+    {
+      "paperId": "df49d85b88dfe2fe038ea8b1ddc27e676307650c",
+      "title": "Which Data to Meta-Analyze, and How?: A Specification-Curve and Multiverse-Analysis Approach to Meta-Analysis"
+    },
+    {
+      "paperId": "aad3d387284bc023fae8fdc09c70979591567d20",
+      "title": "Using 26,000 diary entries to show ovulatory changes in sexual desire and behavior."
+    },
+    {
+      "paperId": "9dcc8921fb80e2321c20153c1154bab647cf3640",
+      "title": "Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results"
+    },
+    {
+      "paperId": "5582c6c338397c7ab78449ef0bb6c144a24906cb",
+      "title": "We Ran 9 Billion Regressions: Eliminating False Positives through Computational Model Robustness"
+    },
+    {
+      "paperId": "c2a08e1d97e4f59d5af17a0b41c6f3cb1997cd40",
+      "title": "Resting-State Functional Brain Connectivity Best Predicts the Personality Dimension of Openness to Experience"
+    },
+    {
+      "paperId": "c99179ca3784e3465fd9ed049d7f34b50d39393e",
+      "title": "Ensemble learning: A survey"
+    },
+    {
+      "paperId": "e5656cb73289baa9458ae8d1dd414e33b77f79fc",
+      "title": "Is There Evidence of Racial Disparity in Police Use of Deadly Force? Analyses of Officer-Involved Fatal Shootings in 2015\u20132016"
+    },
+    {
+      "paperId": "355afe32bddf7a14b44f2134b4652dff10f0a663",
+      "title": "Model Uncertainty and the Crisis in Science"
+    },
+    {
+      "paperId": "38c8dbbbf52599a47a437e36d3614f78866605bb",
+      "title": "HARK No More: On the Preregistration of CHI Experiments"
+    },
+    {
+      "paperId": "a3c023aa2330be47bb522d4b6950fce727f663c3",
+      "title": "The Bipolarity of Affect and Depressive Symptoms"
+    },
+    {
+      "paperId": "907203f1716e703350023be963f298837e438d18",
+      "title": "Probing Birth-Order Effects on Narrow Traits Using Specification-Curve Analysis"
+    },
+    {
+      "paperId": "95e0c468a19afc6173053234c7fe660033363ffb",
+      "title": "Text Preprocessing For Unsupervised Learning: Why It Matters, When It Misleads, And What To Do About It"
+    },
+    {
+      "paperId": "142364846fd9ce4b58f1f3a9de3c696737bb83be",
+      "title": "The New Statistics"
+    },
+    {
+      "paperId": "df36e8c5c0523e0b9b297b351bfacffe4f81f260",
+      "title": "The perceptual saliency of fearful eyes and smiles: A signal detection study"
+    },
+    {
+      "paperId": "84498a2515390b18e0585b9a171a8a4be5b5413f",
+      "title": "When Saving is Gambling"
+    },
+    {
+      "paperId": "4c35de0e3f1082e089f6a6adc2c92c49b2c633f4",
+      "title": "Model Uncertainty and Robustness"
+    },
+    {
+      "paperId": "a68ce412e92d87ca0116519651bbc484d98c76ae",
+      "title": "A manifesto for reproducible science"
+    },
+    {
+      "paperId": "5e8902d504c03c7513f29ade98931189165a8a62",
+      "title": "Degrees of Freedom in Planning, Running, Analyzing, and Reporting Psychological Studies: A Checklist to Avoid p-Hacking"
+    },
+    {
+      "paperId": "926763d7946bdf19b0422f35df0b1e4145b324d0",
+      "title": "Increasing Transparency Through a Multiverse Analysis"
+    },
+    {
+      "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": "67c2f46d18e625b306980dc76cc8f7c5d90a652c",
+      "title": "p-Curve and p-Hacking in Observational Research"
+    },
+    {
+      "paperId": "63bde6023d16d8d816fb2cbe9461b7b45e27fe84",
+      "title": "Specification Curve: Descriptive and Inferential Statistics on All Reasonable Specifications"
+    },
+    {
+      "paperId": "d4d87481498f5e5f02f3f54107d14abd5838572a",
+      "title": "Political Language in Economics"
+    },
+    {
+      "paperId": "b7d489dbf7ffe1d97a083823717934bfe84278a9",
+      "title": "Assessment of vibration of effects due to model specification can demonstrate the instability of observational associations."
+    },
+    {
+      "paperId": "4a69c1b8d36f4574f1b0b3ac985f0b3c3c15284d",
+      "title": "Global hydrology 2015: State, trends, and directions"
+    },
+    {
+      "paperId": "927a32a1b1c69a6041a586b71f52be1b957e5030",
+      "title": "Promoting an open research culture"
+    },
+    {
+      "paperId": "d81b564eb3c6b52e365cdbbf2f9b9bf867d6578b",
+      "title": "On the Statistical Properties and Tail Risk of Violent Conflicts"
+    },
+    {
+      "paperId": "59320e4b76f3ac03b07ae6e06781a485f8bbfb77",
+      "title": "Comparison of Bayesian predictive methods for model selection"
+    },
+    {
+      "paperId": "e5c2b35639c9f6f6fdcbff20e8e84e0f62e510be",
+      "title": "Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "051208290ada06dd9e6cba55cb7a7c6c61df9c99",
+      "title": "Statistics show no evidence of gender bias in the public's hurricane preparedness"
+    },
+    {
+      "paperId": "50e2fb50e318768d384980777426165739e4f29c",
+      "title": "Are female hurricanes really deadlier than male hurricanes?"
+    },
+    {
+      "paperId": "99f5edbed7b7eac94a5e5d6481e4ceb90b07da29",
+      "title": "Female hurricanes are not deadlier than male hurricanes"
+    },
+    {
+      "paperId": "b8c743d284add59d022dab9fde1929b745724306",
+      "title": "Do women's mate preferences change across the ovulatory cycle? A meta-analytic review."
+    },
+    {
+      "paperId": "8a523973e08d08fb6b1c01971b0ab881d09553b3",
+      "title": "Data from Paper \u201cFalse-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant\u201d"
+    },
+    {
+      "paperId": "32754b4a9fe329c0b4ce65a693662434ac0e1cb3",
+      "title": "Shifts in Methodology and Theory in Menstrual Cycle Research on Attraction"
+    },
+    {
+      "paperId": "1b0011c33548e74edb236b6386cc7fb4a261bebb",
+      "title": "On the Plurality of (Methodological) Worlds: Estimating the Analytic Flexibility of fMRI Experiments"
+    },
+    {
+      "paperId": "bc66275ee39d75b193500363ea57e57d323eeb9f",
+      "title": "GOSH \u2013 a graphical display of study heterogeneity"
+    },
+    {
+      "paperId": "86c3b1fdee4ef2a3bf5c42a18f9130e5cab6646c",
+      "title": "Multiplicities in cancer research: ubiquitous and necessary evils."
+    },
+    {
+      "paperId": "826bd16196f349cecbe5817915b1b7136e0311d4",
+      "title": "Points of view: Heat maps"
+    },
+    {
+      "paperId": "49bda01e28f3f9fffa4fa14bd909c0a2340aa066",
+      "title": "False-Positive Psychology"
+    },
+    {
+      "paperId": "55c2aebc1d71fa26e3a498ed0e3878499cdbd360",
+      "title": "Verified Computation with Probabilities"
+    },
+    {
+      "paperId": "6a77f2ba3c8099c2ef6574a04ac1b9e5f24cb6df",
+      "title": "A Combined Monte Carlo and Possibilistic Approach to Uncertainty Propagation in Event Tree Analysis"
+    },
+    {
+      "paperId": "2435a02d3afb16ba00ebfa9c8f7df10b52cce80c",
+      "title": "Sensitivity Analysis of Empirical Results on Civil War Onset"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "4ba0c35cf29a03352f7fd3f10bf624da8a73fa40",
+      "title": "Female hurricanes are deadlier than male hurricanes"
+    },
+    {
+      "paperId": "78a9605e0ba540047363c2b0988f5d362136f9a8",
+      "title": "Bayesian \"Confidence Intervals\" for the Cross-validated Smoothing Spline"
+    },
+    {
+      "paperId": "26f9cf29abebe12a4fed9b92a97d3b0152772864",
+      "title": "Publish or perish"
+    },
+    {
+      "paperId": "8e9a855cc0d5f55b3bfc4c22abe9cc7f097e5f2b",
+      "title": "Theory of Definition"
+    },
+    {
+      "paperId": "1fe71c38973f6fd76cac9731a388201de3f83bc4",
+      "title": "Study"
+    },
+    {
+      "paperId": "9b51c1bdf02ad7207a5bd26c48fffb2be5099c17",
+      "title": "Crowdsourcing Hypothesis Tests: Making Transparent How Design Choices Shape Research Results"
+    },
+    {
+      "paperId": "b63e25900013605c16f4ad74c636cfbd8e9a3e8e",
+      "title": "The garden of forking paths : Why multiple comparisons can be a problem , even when there is no \u201c fishing expedition \u201d or \u201c p-hacking \u201d and the research hypothesis was posited ahead of time \u2217"
+    },
+    {
+      "paperId": "d9deeff32c13b355a3cd7db484c348faecc05b67",
+      "title": "TreePOD: Sensitivity-Aware Selection of Pareto-Optimal Decision Trees"
+    },
+    {
+      "paperId": null,
+      "title": "HOLSTEEN K.: Model uncertainty and robustness: A computational framework for multimodel analysis"
+    },
+    {
+      "paperId": null,
+      "title": "HIRTY"
+    },
+    {
+      "paperId": null,
+      "title": "FiveThirtyEight [Fiv15] : Hack your way to scientific glory"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "4fcb2d8f7fb13d3f350b7e3e25d22f94b38c0f15",
+      "title": "The New Statistics Why and How"
+    },
+    {
+      "paperId": "a4b3617afcf96c9b97f57bcea9496b521c8c2886",
+      "title": "POSSIBLE AUTOMATA"
+    },
+    {
+      "paperId": null,
+      "title": "Explorable explanations"
+    },
+    {
+      "paperId": "257137369bf07fd710f077a271b90ccbeeedc8cc",
+      "title": "The Theory of Definition"
+    },
+    {
+      "paperId": null,
+      "title": "Supporting Information Additional supporting information"
+    },
+    {
+      "paperId": null,
+      "title": "As-sessing 2d and 3d heatmaps for comparative analysis: An empirical c (cid:13) 2022TheAuthor(s) ComputerGraphicsForum c (cid:13) 2022TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "Many An-alysts"
+    }
+  ]
+}

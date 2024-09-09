@@ -1,0 +1,572 @@
+{
+  "paperId": "3438bf68d2e4428c292fc12b193d46872a941bb3",
+  "externalIds": {
+    "DBLP": "journals/cgf/KrausFSKEKS22",
+    "DOI": "10.1111/cgf.14430",
+    "CorpusId": 245077167
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/3438bf68d2e4428c292fc12b193d46872a941bb3",
+  "title": "Immersive Analytics with Abstract 3D Visualizations: A Survey",
+  "abstract": "After a long period of scepticism, more and more publications describe basic research but also practical approaches to how abstract data can be presented in immersive environments for effective and efficient data understanding. Central aspects of this important research question in immersive analytics research are concerned with the use of 3D for visualization, the embedding in the immersive space, the combination with spatial data, suitable interaction paradigms and the evaluation of use cases. We provide a characterization that facilitates the comparison and categorization of published works and present a survey of publications that gives an overview of the state of the art, current trends, and gaps and challenges in current research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 124,
+  "openAccessPdf": {
+    "url": "https://kops.uni-konstanz.de/bitstreams/90aa41ef-20ba-4a4f-ba50-a885d5bb7bcb/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-12-09",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kraus2021ImmersiveAW,\n author = {Matthias Kraus and Johannes Fuchs and B. Sommer and Karsten Klein and U. Engelke and D. Keim and F. Schreiber},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Immersive Analytics with Abstract 3D Visualizations: A Survey},\n volume = {41},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1665220350",
+      "name": "Matthias Kraus"
+    },
+    {
+      "authorId": "46691823",
+      "name": "Johannes Fuchs"
+    },
+    {
+      "authorId": "2987621",
+      "name": "B. Sommer"
+    },
+    {
+      "authorId": "2056819537",
+      "name": "Karsten Klein"
+    },
+    {
+      "authorId": "1766832",
+      "name": "U. Engelke"
+    },
+    {
+      "authorId": "2063099978",
+      "name": "D. Keim"
+    },
+    {
+      "authorId": "1695033",
+      "name": "F. Schreiber"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3985df5d3be8c96e7e6ea83ab20cada776a54915",
+      "title": "Surround-Screen Projection-Based Virtual Reality: The Design and Implementation of the CAVE"
+    },
+    {
+      "paperId": "d74a1b508c627097df2135f4f446f2df949aa66f",
+      "title": "The Value of Immersive Visualization"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "d472624d1ab5298e0d7bc5151cf416bb55dc3440",
+      "title": "DataHop: Spatial Data Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "26f5a52ebddea5ccc70ed2492e3211202c2318d3",
+      "title": "Personal Augmented Reality for Information Visualization on Large Interactive Displays"
+    },
+    {
+      "paperId": "07f71ccaa71288f9789b70d16189ea6d99808d6a",
+      "title": "Shared Surfaces and Spaces: Collaborative Data Visualisation in a Co-located Immersive Environment"
+    },
+    {
+      "paperId": "0fe084750817fcaca42ec6daabfe73a2e963b666",
+      "title": "Embodied Navigation in Immersive Abstract Data Visualization: Is Overview+Detail or Zooming Better for 3D Scatterplots?"
+    },
+    {
+      "paperId": "fa914c0ba7574ebbe3e499954582576da04ea1cd",
+      "title": "Assessing 2D and 3D Heatmaps for Comparative Analysis: An Empirical Study"
+    },
+    {
+      "paperId": "97ecf6b2e2679875452c146c90d738cc819317e9",
+      "title": "Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces"
+    },
+    {
+      "paperId": "af95004e60c9f54ffef34a634b1d80b8d60c4b30",
+      "title": "MRAT: The Mixed Reality Analytics Toolkit"
+    },
+    {
+      "paperId": "637ee0ab6300accfd8c3f614d2ae796042a8e9b6",
+      "title": "Acoustic Transparency and the Changing Soundscape of Auditory Mixed Reality"
+    },
+    {
+      "paperId": "485229b4cf6026296fe7f1b32c6694e5597d1610",
+      "title": "Evaluation of a Financial Portfolio Visualization using Computer Displays and Mixed Reality Devices with Domain Experts"
+    },
+    {
+      "paperId": "c9b2d4236b56ba7ad37b078e1c894b0e79b711c4",
+      "title": "Trigeminal-based Temperature Illusions"
+    },
+    {
+      "paperId": "2d78e785ba536e559fc144ffa511cef09a5766c5",
+      "title": "Graphical Perception for Immersive Analytics"
+    },
+    {
+      "paperId": "e36d8e259a6b7ed573716f71edac33073723b1fe",
+      "title": "ReViVD: Exploration and Filtering of Trajectories in an Immersive Environment using 3D Shapes"
+    },
+    {
+      "paperId": "65d1e0ff17366f9466c1ce919b1b1920c16633fe",
+      "title": "Design and Evaluation of Interactive Small Multiples Data Visualisation in Immersive Spaces"
+    },
+    {
+      "paperId": "55bd8c0a8d9c3c1132c4c27091f57f3e637865d7",
+      "title": "Immersive Process Model Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "166bc6dc8d7202cda0096eab824aac976fa77317",
+      "title": "VRIA: A Web-Based Framework for Creating Immersive Analytics Experiences"
+    },
+    {
+      "paperId": "54b5350bfcfb09ee2b50b110795e483f4a95ead8",
+      "title": "The Impact of Immersion on Cluster Identification Tasks"
+    },
+    {
+      "paperId": "422920b3636b31a1bbad27341f47bf0f8e09564e",
+      "title": "A review of immersive virtual reality serious games to enhance learning and training"
+    },
+    {
+      "paperId": "cf5a16dbcc6111bbc38bef01b1196524272f2068",
+      "title": "Immersive Analytics: Theory and Research Agenda"
+    },
+    {
+      "paperId": "2827828e88e8125dfc3087cb293c3bffe7e96a20",
+      "title": "Evaluating an Immersive Space-Time Cube Geovisualization for Intuitive Trajectory Data Exploration"
+    },
+    {
+      "paperId": "1bedf3ea354416d6129734bdbe82b437943de7a1",
+      "title": "Deadeye Visualization Revisited: Investigation of Preattentiveness and Applicability in Virtual Environments"
+    },
+    {
+      "paperId": "db7ef3dd8ff0f04518ceac2b82acb520f73d2188",
+      "title": "scenery - Flexible Virtual Reality Visualisation on the Java VM"
+    },
+    {
+      "paperId": "c60b87f44b6e2ad84e30ce1c7b774c1b80887b61",
+      "title": "Immersive analytics"
+    },
+    {
+      "paperId": "28a16621e87d0b4aed03e3f068180d1a6542f3cb",
+      "title": "IATK: An Immersive Analytics Toolkit"
+    },
+    {
+      "paperId": "1809c8d21f72568e5373b32bbd2c4af7927169a6",
+      "title": "DXR: A Toolkit for Building Immersive Data Visualizations"
+    },
+    {
+      "paperId": "8d6290cdec8c8318dba8e6a9278282e6b5349ec8",
+      "title": "Information Olfactation: Harnessing Scent to Convey Data"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "6ac9bfe30b52a994e360ed4d69e34f7f4d8c999b",
+      "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights"
+    },
+    {
+      "paperId": "8acdc3e9b3de4fbbc4f771c166abfd9ce982f228",
+      "title": "Resisting English Hegemony"
+    },
+    {
+      "paperId": "38c06c5ccc92e62c2f5f5e4a9586bca06a6ec04d",
+      "title": "Immersive Analytics Applications in Life and Health Sciences"
+    },
+    {
+      "paperId": "913ac270cab8444e71f9736ecf3d9c61ea20af44",
+      "title": "Immersive Analytics: An Introduction"
+    },
+    {
+      "paperId": "b089adf30a6ccc0da62c784185c29dcedba7a3c8",
+      "title": "VRGE: An Immersive Visualization Application for the Geosciences"
+    },
+    {
+      "paperId": "3a3d7125ca6100899042411dcd2334ef4eacb2b4",
+      "title": "Axes and Coordinate Systems Representations for Immersive Analytics of Multi-Dimensional Data"
+    },
+    {
+      "paperId": "50e860d7febfe431c844ebea41e00193083d11ce",
+      "title": "3De Interactive Lenses for Visualization in Virtual Environments"
+    },
+    {
+      "paperId": "815e30117b9b2634e1d2c01fd9db2fbdacdac951",
+      "title": "Evaluating Navigation Techniques for 3D Graph Visualizations in Virtual Reality"
+    },
+    {
+      "paperId": "a217ed887271bbb34ae339da90414bc54af1baf5",
+      "title": "MinOmics, an Integrative and Immersive Tool for Multi-Omics Analysis"
+    },
+    {
+      "paperId": "d0ae2fa05d6f04bd402418f29442e14079639b4d",
+      "title": "Maps and Globes in Virtual Reality"
+    },
+    {
+      "paperId": "f7855a3e7532c7ce9fab87e6298e470cfa2d6a6b",
+      "title": "Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data"
+    },
+    {
+      "paperId": "aa4d3180e285bf66f5fd947f6a585cf725dfabb7",
+      "title": "Virtual Reality for Sensor Data Visualization and Analysis"
+    },
+    {
+      "paperId": "d67a50aea692bf3720865d292abb96c1ca408603",
+      "title": "ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation"
+    },
+    {
+      "paperId": "9c4f4b8c3e5450e8cdefc88ed491f8d5871e746b",
+      "title": "3D-Stereoscopic Immersive Analytics Projects at Monash University and University of Konstanz"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "608e06a66a1b07922505399aecb36d9e6a65ed80",
+      "title": "On Spatial Perception Issues In Augmented Reality Based Immersive Analytics"
+    },
+    {
+      "paperId": "22751e7eedc695b50e2f9ac404301b74aad5a075",
+      "title": "A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization"
+    },
+    {
+      "paperId": "baeb3bc7c8ead971b0b7cf103931d713ed9ba213",
+      "title": "Perspectives for using virtual reality to extend visual data mining in information visualization"
+    },
+    {
+      "paperId": "943878601f32449b47febf9b6e6e780449666ba1",
+      "title": "Hybrid-Dimensional Visualization and Interaction - Integrating 2D and 3D Visualization with Semi-Immersive Navigation Techniques"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "9f8b576e38fcff3d80d34b8d8f4515e7773d8298",
+      "title": "Beyond the classical monoscopic 3D in graph analytics: An experimental study of the impact of stereoscopy"
+    },
+    {
+      "paperId": "e9541371d10bea7f63d9dcb43d15a56981c58a11",
+      "title": "The (possible) utility of stereoscopic 3D displays for information visualization: The good, the bad, and the ugly"
+    },
+    {
+      "paperId": "761d800c2c4f4d442156685d9023e1dd5bdd89ed",
+      "title": "3D InfoVis is here to stay: Deal with it"
+    },
+    {
+      "paperId": "6979c7226b09b6083ece0a0c0bbca83192541e57",
+      "title": "Immersive and collaborative data visualization using virtual reality platforms"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "a71994163bc3906daf3d59d8193eb56227402b48",
+      "title": "Concept and workflow for 3D visualization of atmospheric data in a virtual reality environment for analytical approaches"
+    },
+    {
+      "paperId": "5296399e319396234c397acc27fdac6c8f499fdb",
+      "title": "ArtifactVis2: Managing real-time archaeological data in immersive 3D environments"
+    },
+    {
+      "paperId": "0641bb251e8ece81c6f94b6f8fc3236d2625d90a",
+      "title": "The Effect of Stereoscopic Immersive Environments on Projection-Based Multi-dimensional Data Visualization"
+    },
+    {
+      "paperId": "48cb5f637ed93ef96f2de4146bb3e23a3c283b8d",
+      "title": "Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments"
+    },
+    {
+      "paperId": "d21c882d16092ec5e0e88654856ebb77a4ffbaf5",
+      "title": "CAVE-SOM: Immersive visual data mining using 3D Self-Organizing Maps"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "8044778df90680ede3c54b5cc768ad2511f76d35",
+      "title": "The Power of Geographical Visualizations"
+    },
+    {
+      "paperId": "5d48872dadb70e53dea2e353618ffa5b0c72bbee",
+      "title": "Immersive Visual Data Mining: The 3DVDM Approach"
+    },
+    {
+      "paperId": "f80af747681058ee5fe300709d80eeed13e891bf",
+      "title": "Managing Visual Clutter: A Generalized Technique for Label Segregation using Stereoscopic Disparity"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "53c98e5f92542bc8048f21602b6f8a93641ff398",
+      "title": "VR-based visual analytics of LIDAR data for cliff erosion assessment"
+    },
+    {
+      "paperId": "c934a4a96ea709169c04e3903656d25ecc016704",
+      "title": "An evaluation of depth perception on volumetric displays"
+    },
+    {
+      "paperId": "b33f9cb016fa4ac6e155da7b1fbbc68ee4119931",
+      "title": "VRMiner: A Tool for Multimedia Database Mining with Virtual Reality"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "81354720ddba10fd5431878b85f5898ebc07548b",
+      "title": "Visual data mining of genomic databases by immersive graph-based exploration"
+    },
+    {
+      "paperId": "a3291ebb5b609f7c7623e841b189961fa7ef7abb",
+      "title": "Pictorial depth cues for outdoor augmented reality"
+    },
+    {
+      "paperId": "6e8ec7ee91a262545117a4866e90bd79376b18f7",
+      "title": "Using augmented reality for visualizing complex graphs in three dimensions"
+    },
+    {
+      "paperId": "93ae34af130488aa426ca5877e31aff5ee66fa54",
+      "title": "Evaluating label placement for augmented reality view management"
+    },
+    {
+      "paperId": "8ce38f79eb8089ee9a0c41fa7521e0a23a2154b6",
+      "title": "Mining the human genome using virtual reality"
+    },
+    {
+      "paperId": "fabea5dd128997b7629fc617e993cd1738a67c1b",
+      "title": "Interaction Modes for Augmented Reality Visualization"
+    },
+    {
+      "paperId": "67d1a31012c8bb24e82c464e3723599151e5a132",
+      "title": "Immersive VR for Scientific Visualization: A Progress Report"
+    },
+    {
+      "paperId": "324d5ec7cc2c6626a9217468af40f6f168e7369d",
+      "title": "Abstract data visualisation in the built environment"
+    },
+    {
+      "paperId": "e84e5f28bb403a4fad217a2aab443f60d6e65c57",
+      "title": "Visualization of Vector Field by Virtual Reality"
+    },
+    {
+      "paperId": "4454a663a918893ac87a4381007fa223f7d2fe0c",
+      "title": "XGobi vs the C2: Results of an experiment comparing data visualization in a 3-D immersive virtual reality environment with a 2-D workstation display"
+    },
+    {
+      "paperId": "977c05cf269f876a2ae691206bab0a0072d592c1",
+      "title": "The benefits of statistical visualization in an immersive environment"
+    },
+    {
+      "paperId": "7e3964d62f5657b35522df3f431857208213a5b3",
+      "title": "What's Real About Virtual Reality?"
+    },
+    {
+      "paperId": "3c62e25f7f6a035ef59eefd7ff13ca42c59a716f",
+      "title": "A Framework for Immersive Virtual Environments (FIVE): Speculations on the Role of Presence in Virtual Environments"
+    },
+    {
+      "paperId": "9a0540f272dba8834dc81f2da22e3e31169f4f7a",
+      "title": "Evaluating stereo and motion cues for visualizing information nets in three dimensions"
+    },
+    {
+      "paperId": "96ac874ea8938ad6aa4911774dc93ba4a5c845b0",
+      "title": "Augmented reality: a class of displays on the reality-virtuality continuum"
+    },
+    {
+      "paperId": "f78a31be8874eda176a5244c645289be9f1d4317",
+      "title": "A Taxonomy of Mixed Reality Visual Displays"
+    },
+    {
+      "paperId": "33f6147164c50979acd4cefaab931e9762205808",
+      "title": "Engineering Perceptually Effective Visualizations for Abstract Data"
+    },
+    {
+      "paperId": "5d1b549bbaa603125b3de788f11253a3fe4cf4a2",
+      "title": "Virtual reality in scientific visualization"
+    },
+    {
+      "paperId": "4f7a0ab878930183b2d17b0512be4f72cb10b4f6",
+      "title": "Surround-screen projection-based virtual reality: the design and implementation of the CAVE"
+    },
+    {
+      "paperId": "d7198bd94ddfe4fc53ec2e71915be1b777843717",
+      "title": "The CAVE: audio visual experience automatic virtual environment"
+    },
+    {
+      "paperId": null,
+      "title": "virtualspeech: virtualspeech blog entry"
+    },
+    {
+      "paperId": null,
+      "title": "Unity: Unity 3D developer website"
+    },
+    {
+      "paperId": "2e81538ded0d718e7da4f674cc62102e1cf54b46",
+      "title": "How to Deal with Motion Sickness in Virtual Reality"
+    },
+    {
+      "paperId": "f510d1c2e1cda348a145e090b4af3a97037750a9",
+      "title": "Comparative Analysis with Heightmaps in Virtual Reality Environments"
+    },
+    {
+      "paperId": "4f619e50323d269577bc5c59f757c1a286477af7",
+      "title": "Introduction: Why Do We Visualize Data and What Is This Book About?"
+    },
+    {
+      "paperId": "cf94ed19729c66278417580a07f2d496deb67f9e",
+      "title": "Reexamining the cognitive utility of 3D visualizations using augmented reality holograms"
+    },
+    {
+      "paperId": "3431c22dab5316e9eff5a86c06dd66a2ebf196ff",
+      "title": "Immersive Analytics of Dimensionally-Reduced Data Scatterplots"
+    },
+    {
+      "paperId": "16b18d51dfcaff2e028825d8419ed739faf466b5",
+      "title": "Exploring the Use of Heuristics for Evaluation of an Immersive Analytic System"
+    },
+    {
+      "paperId": "dcff7979d96a8bdaed128440349247571fe5173b",
+      "title": "Gistualizer: An Immersive Glyph for Multidimensional Datapoints"
+    },
+    {
+      "paperId": "e16b4067eed3d2bd7c28518ded0177593eafc425",
+      "title": "Embedded Data Representations"
+    },
+    {
+      "paperId": "81e0ae733b7e076ab7c6c6cef8e68f99550c4575",
+      "title": "Proceedings of the 30th Annual ACM Symposium on Applied Computing, Salamanca, Spain, April 13-17, 2015"
+    },
+    {
+      "paperId": "24c0313c88de6f44964ecd5712b5856e334dc918",
+      "title": "Stereoscopic cell visualization: from mesoscopic to molecular scale"
+    },
+    {
+      "paperId": "318943f1865bad0e25f6a7746ce657ac9bb2ee06",
+      "title": "Identifying the Benefits of Immersion in Virtual Reality for Volume Data Visualization"
+    },
+    {
+      "paperId": "0e9cccecf223af5249084caecfb6fc885a73ec9e",
+      "title": "Telearch - Integrated visual simulation environment for collaborative virtual archaeology."
+    },
+    {
+      "paperId": "02ce27ba5d945105719b7f592df2433d3598b63b",
+      "title": "Interactive data visualization"
+    },
+    {
+      "paperId": "587620865a3e8a471b9e74f40fbad7e0e5a5ea56",
+      "title": "Geographic visualization : concepts, tools and applications"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": "1a42caa5d4d564874ee7460f3065ff68cafd07e5",
+      "title": "Benefits of Immersion for Viewing 3 D Data"
+    },
+    {
+      "paperId": "025a144b39aebe2382e0c6695cf145e8b3541355",
+      "title": "Exploring the Benefits of Immersion in Abstract Information Visualization"
+    },
+    {
+      "paperId": "d5e5e2b1516337c0eeb4fcd84058ed0d95de5066",
+      "title": "SonART: A framework for data sonification, visualization and networked multimedia applications"
+    },
+    {
+      "paperId": "eb7d83b726a746b1a9b2a33ac34263b3047b1a48",
+      "title": "About the authors"
+    },
+    {
+      "paperId": "c2b41be6d8bb88181d1f94641e585b0fad7c2f96",
+      "title": "Methods for visual mining of data in Virtual Reality"
+    },
+    {
+      "paperId": null,
+      "title": "Road to VR"
+    },
+    {
+      "paperId": "e6fe24a399ba9a43787d219a28505ef6c3c6eddb",
+      "title": "The Tele-Immersive Data Explorer: A Distributed Architecture for Collaborative Interactive Visualization of Large Data-sets"
+    },
+    {
+      "paperId": null,
+      "title": "Re-viewing Readings in Information Visualization: Using Vision to Think , vol. 6"
+    },
+    {
+      "paperId": "fa06666923f5fc2d262d5379f1ecb89a9ef82948",
+      "title": "Benchmarks."
+    },
+    {
+      "paperId": "4888f96daf9b542771b2795c7ba2e7ae2f282226",
+      "title": "Virtual Data Visualizer"
+    },
+    {
+      "paperId": "9ec72fbba218aefbf31b671819004e93f650ce05",
+      "title": "Dynamic Statistical Graphics in the CAVE Virtual Reality Environment"
+    },
+    {
+      "paperId": "0a9bd40d459141b21aec2f14af82d9408a879e4e",
+      "title": "A conceptual virtual reality model"
+    },
+    {
+      "paperId": null,
+      "title": "Gistualizer: An immersive glyph for multidimensional data-points. New York, U.S.: Bellgardt, Martin and Gebhardt, Sascha and Hentschel, Bernd and Kuhlen, Torsten W"
+    },
+    {
+      "paperId": null,
+      "title": "Anomaly detection : Finding anomalies, such as outliers"
+    },
+    {
+      "paperId": null,
+      "title": "Pattern analysis : Finding trends, repetitions and visual patterns in datasets"
+    },
+    {
+      "paperId": null,
+      "title": "Visual search : Often used in exploratory studies to visually identify and track an object or data point"
+    },
+    {
+      "paperId": null,
+      "title": "Viewing a graph in a virtual reality display is three times as good as a 2D diagram"
+    },
+    {
+      "paperId": null,
+      "title": "Scatterplots : Multiple data entries, represented as points in 2D/3D coordinate systems"
+    }
+  ]
+}

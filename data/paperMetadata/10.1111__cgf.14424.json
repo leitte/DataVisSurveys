@@ -1,0 +1,876 @@
+{
+  "paperId": "e562f932931fab164148e58d8c1bfa823c851371",
+  "externalIds": {
+    "DBLP": "journals/cgf/WangL22",
+    "DOI": "10.1111/cgf.14424",
+    "CorpusId": 244844600
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/e562f932931fab164148e58d8c1bfa823c851371",
+  "title": "EHR STAR: The State\u2010Of\u2010the\u2010Art in Interactive EHR Visualization",
+  "abstract": "Since the inception of electronic health records (EHR) and population health records (PopHR), the volume of archived digital health records is growing rapidly. Large volumes of heterogeneous health records require advanced visualization and visual analytics systems to uncover valuable insight buried in complex databases. As a vibrant sub\u2010field of information visualization and visual analytics, many interactive EHR and PopHR visualization (EHR Vis) systems have been proposed, developed, and evaluated by clinicians to support effective clinical analysis and decision making. We present the state\u2010of\u2010the\u2010art (STAR) of EHR Vis literature and open access healthcare data sources and provide an up\u2010to\u2010date overview on this important topic. We identify trends and challenges in the field, introduce novel literature and data classifications, and incorporate a popular medical terminology standard called the Unified Medical Language System (UMLS). We provide a curated list of electronic and population healthcare data sources and open access datasets as a resource for potential researchers, in order to address one of the main challenges in this field. We classify the literature based on multidisciplinary research themes stemming from reoccurring topics. The survey provides a valuable overview of EHR Vis revealing both mature areas and potential future multidisciplinary research directions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 204,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14424",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-12-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wang2021EHRST,\n author = {Qiru Wang and R. Laramee},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {EHR STAR: The State\u2010Of\u2010the\u2010Art in Interactive EHR Visualization},\n volume = {41},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2108993172",
+      "name": "Qiru Wang"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2c066d41d300bdbd4e7754a90c4cfd04934057a8",
+      "title": "28481 Risk for nonmelanoma second primary malignancy in malignant melanoma survivors: A nationwide report from the National Cancer Institute Surveillance, Epidemiology, and End Results program"
+    },
+    {
+      "paperId": "fda8fc45e38404e3226c3ab730381b4456212b2f",
+      "title": "LetterVis: a letter-space view of clinic letters"
+    },
+    {
+      "paperId": "c4527b82edc4144f7f93c07dfce3b31ef0285282",
+      "title": "RAMPVIS: Towards a New Methodology for Developing Visualisation Capabilities for Large-scale Emergency Responses"
+    },
+    {
+      "paperId": "ca019e1e38edf9d2112ea987362da454f909ac1b",
+      "title": "An interactive web-based dashboard to track COVID-19 in real time"
+    },
+    {
+      "paperId": "617928ccf387e8f11578878cb56028e8817f5d0d",
+      "title": "Discovering the Type 2 Diabetes in Electronic Health Records Using the Sparse Balanced Support Vector Machine"
+    },
+    {
+      "paperId": "366cab03c3e18e82d1ae475615f472e64c7a57e6",
+      "title": "A Survey of Visual Analytics for Public Health"
+    },
+    {
+      "paperId": "bd171aa3df6038f89e84b32b114c8428426d7c22",
+      "title": "The Evolving Use of Electronic Health Records (EHR) for Research."
+    },
+    {
+      "paperId": "331d0b3d26a47621c802028940a59559aba5c00d",
+      "title": "Multivariate Maps - A Glyph-Placement Algorithm to Support Multivariate Geospatial Visualization"
+    },
+    {
+      "paperId": "7af014459373870a9b76e19a7d1fa354710c3b6b",
+      "title": "PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model"
+    },
+    {
+      "paperId": "2322dc9e72e5a1ed176578a5cdb9254bf0fbf4c4",
+      "title": "Visual Analysis of Missing Values in Longitudinal Cohort Study Data"
+    },
+    {
+      "paperId": "1a2f2d997876ea2e34f6630bd506c3503df7935c",
+      "title": "DPVis: Visual Analytics With Hidden Markov Models for Disease Progression Pathways"
+    },
+    {
+      "paperId": "460102a1bfc03971d3be4c7d633b53ff724fb22c",
+      "title": "Applying Support Vector Machine to Electronic Health Records for Cancer Classification"
+    },
+    {
+      "paperId": "e3dd84f1fb89b1cb73a1a3fa52a30695922b29c6",
+      "title": "ResearchGate"
+    },
+    {
+      "paperId": "f3f449ef96a4ff5961658fc3df8584a83736b9c4",
+      "title": "City-Level Measures of Health, Health Determinants, and Equity to Foster Population Health Improvement: The City Health Dashboard"
+    },
+    {
+      "paperId": "b805f443b7e36225430740c383e55f82428218c0",
+      "title": "Using Dashboard Networks to Visualize Multiple Patient Histories: A Design Study on Post-Operative Prostate Cancer"
+    },
+    {
+      "paperId": "da3671fd5efe5ed0e96ce832bcc35291686f2aca",
+      "title": "Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review"
+    },
+    {
+      "paperId": "9b09c402c4fd15abbadd83349dcd8d3f88df99df",
+      "title": "IDMVis: Temporal Event Sequence Visualization for Type 1 Diabetes Treatment Decision Support"
+    },
+    {
+      "paperId": "96a28b198bfa218f7149d505928b2bb78de9971d",
+      "title": "Visual Progression Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "fc791fa2b412f8e459cdd6d7ce4b2fe485e3f4bd",
+      "title": "Interactive Visual Event Analytics: Opportunities and Challenges"
+    },
+    {
+      "paperId": "1543ffcac50ee837494c077f88d8db92fa330be6",
+      "title": "Doccurate: A Curation-Based Approach for Clinical Text Visualization"
+    },
+    {
+      "paperId": "a857428e7837f88a566b7a973c7d40193b3eb07e",
+      "title": "IEEE Xplore Digital Library"
+    },
+    {
+      "paperId": "63517d6a403bd437f951b310d6fd9d33426661f8",
+      "title": "CarePre"
+    },
+    {
+      "paperId": "3e315997258c68f86f8db00c225e22dc60352536",
+      "title": "Project Tycho 2.0: a repository to improve the integration and reuse of data for global population health"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "1f7eec4c76963a4ba7516ca00e6a2f855667b3f2",
+      "title": "Scalable and accurate deep learning with electronic health records"
+    },
+    {
+      "paperId": "39d62d5698466ff3750047e8321d22730452433e",
+      "title": "Visual analytics for evaluating clinical pathways"
+    },
+    {
+      "paperId": "0cb6669484f3a221753f0f2eb3216266dfd82ad3",
+      "title": "A timeline-based framework for aggregating and summarizing electronic health records"
+    },
+    {
+      "paperId": "9ff714f2bbc7bf502638939ded9582244e2d62d1",
+      "title": "RadStream: An interactive visual display of radiology workflow for delay detection in the clinical imaging process"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "abe8a57dc27598937c2cffde3fc21c1e6d1f11ce",
+      "title": "Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "011dcf6b9fa8d64e508ecead47c1a9a9521a3e59",
+      "title": "Coping with Volume and Variety in Temporal Event Sequences: Strategies for Sharpening Analytic Focus"
+    },
+    {
+      "paperId": "3287c6197bf9173d130258af75cd1d70b6ad041b",
+      "title": "A review of PHR, EMR and EHR integration: A more personalized healthcare and public health policy"
+    },
+    {
+      "paperId": "362433e0c4c4795bc49051bbb32401d8cf445e11",
+      "title": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "paperId": "06a4fca4b98de63db52cd7d7f02f1fd8a13c6f5c",
+      "title": "PopHR: a knowledge\u2010based platform to support integration, analysis, and visualization of population health data"
+    },
+    {
+      "paperId": "b98262e8894f8200195a917ff73024d5a12e1c90",
+      "title": "Beyond simple charts: Design of visualizations for big health data"
+    },
+    {
+      "paperId": "cc4bd56873ec7ab877936b88afa2496b43aec8c6",
+      "title": "The Elicitation Interview Technique: Capturing People's Experiences of Data Representations"
+    },
+    {
+      "paperId": "94591b8ba64fdb59d48540201e600cf94d72cf7c",
+      "title": "Healthcare Data Visualization: Geospatial and Temporal Integration"
+    },
+    {
+      "paperId": "c2dee43a2417009c9ea6ec6efd007d8b04d9ccf7",
+      "title": "Secondary Analysis of Electronic Health Records"
+    },
+    {
+      "paperId": "82a14a9ae45dc2917764a090ce0231a68c5d2842",
+      "title": "Electronic health records to facilitate clinical research"
+    },
+    {
+      "paperId": "1e685ce25c35fef280cae2d5397a41e4d6155c2a",
+      "title": "A Survey of Visual Analytic Pipelines"
+    },
+    {
+      "paperId": "9fdccce9967357db7a52df18b4c5e031b398cfdd",
+      "title": "PhysioEx: Visual Analysis of Physiological Event Streams"
+    },
+    {
+      "paperId": "871ff17327f7e2d2d1c8a8946fbc4b42b1ff14a8",
+      "title": "Electronic Health Records: Then, Now, and in the Future"
+    },
+    {
+      "paperId": "71b727c880315a01ab75186b08fa81ba785db3d1",
+      "title": "Simplifying Overviews of Temporal Event Sequences"
+    },
+    {
+      "paperId": "58b62ae3a4b93e288c0afb05d3f9ba43356cbc6a",
+      "title": "Data-Driven Healthcare: Challenges and Opportunities for Interactive Visualization"
+    },
+    {
+      "paperId": "95cd83603a0d2b6918a8e34a5637a8f382da96f5",
+      "title": "MIMIC-III, a freely accessible critical care database"
+    },
+    {
+      "paperId": "feb50b6a0b2b3714318a62f345d58e2ba8fe4ab3",
+      "title": "nu-view: a visualization system for collaborative co-located analysis of geospatial disease data"
+    },
+    {
+      "paperId": "640c5b9127fe2b0227d037ebf1e9e9a40622c48e",
+      "title": "3D Regression Heat Map Analysis of Population Study Data"
+    },
+    {
+      "paperId": "bc7e774c629612370b2e3ef65d8236c83d121988",
+      "title": "PhenoBlocks: Phenotype Comparison Visualizations"
+    },
+    {
+      "paperId": "f315c4419e1a3da051b1a298fff33d1f413a5081",
+      "title": "TimeSpan: Using Visualization to Explore Temporal Multi-dimensional Data of Stroke Patients"
+    },
+    {
+      "paperId": "e7deaca2e6a3bfa6625338b0434160e39e1f349d",
+      "title": "The UK Biobank."
+    },
+    {
+      "paperId": "0b53ca10f0c6e473da4662b514a514b826616c74",
+      "title": "Challenges and opportunities with big data visualization"
+    },
+    {
+      "paperId": "76e5768e48562235848704062d34da5d679dcc5d",
+      "title": "A visual active learning system for the assessment of patient well-being in prostate cancer research"
+    },
+    {
+      "paperId": "5bb87c6fb50ac294e160347ab472cd8d73c39374",
+      "title": "re3data.org \u2013 REgistry of REsearch data REpositories"
+    },
+    {
+      "paperId": "8953c3e30cb160a4ff55cbbe5d696e6d259ddaa8",
+      "title": "A Visual-Interactive System for Prostate Cancer Cohort Analysis"
+    },
+    {
+      "paperId": "5c99bd3dee28d8c3ed745301238035c36db25e97",
+      "title": "VoroGraph: Visualization Tools for Epidemic Analysis"
+    },
+    {
+      "paperId": "702e62b796e55f00017d3c5fc03b2e115536e60d",
+      "title": "Cohort Comparison of Event Sequences with Balanced Integration of Visual Analytics and Statistics"
+    },
+    {
+      "paperId": "55523428de3af3f19d2c6d4698c8e7ae4430322b",
+      "title": "Optimization of drug-drug interaction alert rules in a pediatric hospital's electronic health record system using a visual analytics dashboard"
+    },
+    {
+      "paperId": "7f7c9c928515e8484ad2889459208a39eb3b3ab2",
+      "title": "DecisionFlow: Visual Analytics for High-Dimensional Temporal Event Sequence Data"
+    },
+    {
+      "paperId": "04e60a8e50720b81c11499723ab88965fc9d7090",
+      "title": "Innovative information visualization of electronic health record data: a systematic review"
+    },
+    {
+      "paperId": "e7f7d80405e78ea8a08b79a1e16b94ce6986f472",
+      "title": "Visualization and analytics tools for infectious disease epidemiology: A systematic review"
+    },
+    {
+      "paperId": "250887033f0ee2f529872d73ef0159361ea866b3",
+      "title": "Visual analytical tool for evaluation of 10-year perioperative transfusion practice at a children's hospital"
+    },
+    {
+      "paperId": "413134ad8c7cd7561481582ccc6dbb31fa263dc9",
+      "title": "A Review of Analytics and Clinical Informatics in Health Care"
+    },
+    {
+      "paperId": "72d8bab8729f336c713d7474ff5f8eaa5deeb5be",
+      "title": "Temporal Event Sequence Simplification"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "6d85efd3b102027a0abcfcd9c50a0739fdd7f1f5",
+      "title": "The Five Ws for Information Visualization with Application to Healthcare Informatics"
+    },
+    {
+      "paperId": "0245e72b4411e34a1aa86bcd443e450a9fb89048",
+      "title": "Visualizing Central Line \u2013Associated Blood Stream Infection (CLABSI) Outcome Data for Decision Making by Health Care Consumers and Practitioners\u2014An Evaluation Study"
+    },
+    {
+      "paperId": "7265ada6a3086e66006a59b67c3b8cefed4e7555",
+      "title": "A new surveillance and spatio-temporal visualization tool SIMID: SIMulation of Infectious Diseases using random networks and GIS"
+    },
+    {
+      "paperId": "8db1effc8b384e3b5ff84fc73065770d3f8783f2",
+      "title": "Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": "63b3b65667a2941f3fadef8949843569cbf44f39",
+      "title": "Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization"
+    },
+    {
+      "paperId": "fd236a65f6e1c8f0863125966b4618d8b96ca13c",
+      "title": "EPIPOI: A user-friendly analytical tool for the extraction and visualization of temporal parameters from epidemiological time series"
+    },
+    {
+      "paperId": "b2d2a2a4637decdb80d1848c9d47aeb0cd243f86",
+      "title": "The EpiCanvas infectious disease weather map: an interactive visual exploration of temporal and spatial correlations"
+    },
+    {
+      "paperId": "c100934af71631f9049b844b895c67def013530f",
+      "title": "NHS Commissioning Board"
+    },
+    {
+      "paperId": "6a9236eced4b5f93dad6f6d293b0c0a229cf839d",
+      "title": "Community Health Map: A geospatial and multivariate data visualization tool for public health datasets"
+    },
+    {
+      "paperId": "1a3b7742fd76bcf0b844a955baee1a09fe471a93",
+      "title": "Epinome: A Visual-Analytics Workbench for Epidemiology Data"
+    },
+    {
+      "paperId": "f5c56fe77cc6ca58a0867f638d9906a8a1350441",
+      "title": "VisualDecisionLinc: A visual analytics approach for comparative effectiveness-based clinical decision support in psychiatry"
+    },
+    {
+      "paperId": "58393c9e102ebaa65f164f5f436c797e1aa55506",
+      "title": "Exploiting time in electronic health record correlations"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "a694ca639d52e363bad0adf8fb2807c48132def2",
+      "title": "[The Rotterdam study]."
+    },
+    {
+      "paperId": "31ed073010e27c5780b8ee1ce39c1833df8838f2",
+      "title": "Integration and visualization of host-pathogen data related to infectious diseases"
+    },
+    {
+      "paperId": "e8a298ab519f9c0b6529218213e28c276a0ed448",
+      "title": "Advancing Critical Care in the ICU: A Human-Centered Biomedical Data Visualization Systems"
+    },
+    {
+      "paperId": "10b9f4586763849374d3a33a9ab5272bfc97acb1",
+      "title": "SAGES: A Suite of Freely-Available Software Tools for Electronic Disease Surveillance in Resource-Limited Settings"
+    },
+    {
+      "paperId": "f32661de3821edf657e7692eb581b43e23ebb9d8",
+      "title": "LifeFlow: visualizing an overview of event sequences (video preview)"
+    },
+    {
+      "paperId": "bf941989e2b0648a09e6d7d51cac923936488dc3",
+      "title": "A pandemic influenza modeling and visualization tool\u2606"
+    },
+    {
+      "paperId": "755b1d77b7e1436dce7fafeb17e3e7c4f1fa38aa",
+      "title": "LifeFlow: visualizing an overview of event sequences"
+    },
+    {
+      "paperId": "64c7a32334eab3df946eeb1390dac274e276def9",
+      "title": "How to Read a Visualization Research Paper: Extracting the Essentials"
+    },
+    {
+      "paperId": "c8a8f5db28f6e1027581323f7e03722244ee58e8",
+      "title": "Cohort profile: the study of health in Pomerania."
+    },
+    {
+      "paperId": "90a9fceb113a1125442217693c0e7dc01f9a7eeb",
+      "title": "CareCruiser: Exploring and visualizing plans, events, and effects interactively"
+    },
+    {
+      "paperId": "e1521d6630625ea0229a515f2e42404b713d197b",
+      "title": "Intelligent selection and retrieval of multiple time-oriented records"
+    },
+    {
+      "paperId": "fc958259b33853cbd3b66cfac87c3540c811f901",
+      "title": "The population health record: concepts, definition, design, and implementation"
+    },
+    {
+      "paperId": "e829174f26445baeddbae3b38d6fc2ed5a4b7e5c",
+      "title": "A Comparison of Several Key Information Visualization Systems for Secondary Use of Electronic Health Record Content"
+    },
+    {
+      "paperId": "cd1b97bd61c4292bbde3ac39fadf234591f43596",
+      "title": "PAVA: physiological and anatomical visual analytics for mapping of tissue-specific concentration and time-course data"
+    },
+    {
+      "paperId": "a78481f1286e468e4d599dda02eeb48238c35f06",
+      "title": "The Textile Plot: A New Linkage Disequilibrium Display of Multiple-Single Nucleotide Polymorphism Genotype Data"
+    },
+    {
+      "paperId": "3b452cd6e8c04166824f5c3d4b8a26190b16459f",
+      "title": "Finding comparable temporal categorical records: A similarity measure with an interactive visualization"
+    },
+    {
+      "paperId": "62e8cfa2334e4d698c1dcfa82324fe65b58ca20e",
+      "title": "Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "f78d76a5c6210b1b05da2a9c5b4bef640e22c023",
+      "title": "Problem-centric organization and visualization of patient imaging and clinical data."
+    },
+    {
+      "paperId": "45ad9b8c030f61613996cfdbab4707de7f997367",
+      "title": "The American Recovery and Reinvestment Act of 2009."
+    },
+    {
+      "paperId": "8122caa5c44f4dc1253be9b78f737605d9fcdab5",
+      "title": "Community Health Status Indicators: Adding a Geospatial Component"
+    },
+    {
+      "paperId": "290c7f5d07009c887d90b4f806a43a56d32e33d6",
+      "title": "Integrating open-source technologies to build low-cost information systems for improved access to public health data"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "29b790d98ab9546d602e48dc4e1e7fdac7f716a1",
+      "title": "HealthMap: Global Infectious Disease Monitoring through Automated Classification and Visualization of Internet Media Reports"
+    },
+    {
+      "paperId": "bd0a38fd676fecee4145870bec0fa3df84a2a2de",
+      "title": "Online GIS services for mapping and sharing disease information"
+    },
+    {
+      "paperId": "0c36409bd1148e0f16a88afeb0c9da78c77dcfc6",
+      "title": "Multi-modal presentation of medical histories"
+    },
+    {
+      "paperId": "c47d012c7a580a5eee6f94644a9c5d2f6903e256",
+      "title": "Design and Evaluation of a Web-Based Interactive Visualization System for Lung Transplant Home Monitoring Data"
+    },
+    {
+      "paperId": "1bb6926ada72f77b5db67e191ae7f8a22a5ef643",
+      "title": "System for Infectious Disease Information Sharing and Analysis: Design and Evaluation"
+    },
+    {
+      "paperId": "96f40ab8270d38d03435244101bf36e82ab9fdda",
+      "title": "TimeLine: Visualizing Integrated Patient Records"
+    },
+    {
+      "paperId": "2b7d5dfcd11cc0cf35686f8a9279aee5f910b0bb",
+      "title": "A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories"
+    },
+    {
+      "paperId": "92a7048a3da5724a5ed355f4d743e35edbd8da16",
+      "title": "CareVis: Integrated visualization of computerized protocols and temporal patient data"
+    },
+    {
+      "paperId": "fba318b22d81887daa71add2a96c24a503163a6f",
+      "title": "Personal health records: definitions, benefits, and strategies for overcoming barriers to adoption."
+    },
+    {
+      "paperId": "08b43d84e6747e370ef307e2ada50675b414514a",
+      "title": "Survey of clustering algorithms"
+    },
+    {
+      "paperId": "008c85d8ffd4bf177fa07d79eb6d921feb73c811",
+      "title": "The Emergence of National Electronic Health Record Architectures in the United States and Australia: Models, Costs, and Questions"
+    },
+    {
+      "paperId": "026cc6255e3184cb87ff7080157823aa991de923",
+      "title": "KNAVE II: the definition and implementation of an intelligent tool for visualization and exploration of time-oriented clinical data"
+    },
+    {
+      "paperId": "99d8775d1aa6c7c3ed9c332a6393943ed031a35c",
+      "title": "Connecting time-oriented data and information to a coherent interactive visualization"
+    },
+    {
+      "paperId": "5fc7b145b35747b58a86c979628848d0d847a250",
+      "title": "Data mining on temporal data: a visual approach and its clinical application to hemodialysis"
+    },
+    {
+      "paperId": "f5607078d4d13a2e24458654f8eba0fdb2364892",
+      "title": "Density and local attribute estimation of an infectious disease using MapInfo"
+    },
+    {
+      "paperId": "c518352c6711ca3df41371eee10b80e14fc8863d",
+      "title": "Visualizing time-series on spirals"
+    },
+    {
+      "paperId": "2f6f66b152c1aadbf1f6efeef089ce075c0bc773",
+      "title": "Metaphors of movement: a visualization and user interface for time-oriented, skeletal plans"
+    },
+    {
+      "paperId": "89fce010b5871569e4769f4fce964ed3ddf1b38d",
+      "title": "The ACM digital library"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "c4d70f6c2a87f66a78491533a0d0d6d40299d834",
+      "title": "Natural language processing and its future in medicine."
+    },
+    {
+      "paperId": "327c567b7e7c9dba12faa7f8e345f31c732ed9de",
+      "title": "LifeLines: using visualization to enhance navigation and analysis of patient records"
+    },
+    {
+      "paperId": "67c784ab600bfbb238d9efaa4062e9c39a2271c8",
+      "title": "Towards personal health record: current situation, obstacles and trends in implementation of electronic healthcare record in Europe"
+    },
+    {
+      "paperId": "6c47a8d6a27c24ad2a5ad73e90eb2c6a54017be3",
+      "title": "LifeLines: visualizing personal histories"
+    },
+    {
+      "paperId": "1a3f80af28be2a2c22fdd40379a9a2396de0b276",
+      "title": "Natural-Language Processing"
+    },
+    {
+      "paperId": "f6e3e57567e9803718623ec088cd7fea65cfbc9d",
+      "title": "Relevance weighting of search terms"
+    },
+    {
+      "paperId": null,
+      "title": "Topic Models"
+    },
+    {
+      "paperId": null,
+      "title": "Coronavirus COVID-19 (2019-nCoV)"
+    },
+    {
+      "paperId": null,
+      "title": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+    },
+    {
+      "paperId": null,
+      "title": "The Scottish COVID-19 Response Consortium"
+    },
+    {
+      "paperId": null,
+      "title": "The Allen Institute for Artificial Intelligence: COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle"
+    },
+    {
+      "paperId": "685db71ce0715ddf1127d72ee991c9ba9c8f89ba",
+      "title": "Human Mortality Database"
+    },
+    {
+      "paperId": null,
+      "title": "Health Data Research UK: Health Data Research Innovation Gateway"
+    },
+    {
+      "paperId": "5ddd4a4dbc8c32734209ca4a074d6be551f87e89",
+      "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data"
+    },
+    {
+      "paperId": "ad16fe84b8997051de83051fe40b27914965625b",
+      "title": "EventThread: Visual Summarization and Stage Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "9fa681c3be3edbb447ac837a7546935a40a6bb07",
+      "title": "PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models"
+    },
+    {
+      "paperId": "89ec2a0002cc6075ba3cee020ad5497d18aeb797",
+      "title": "Cartograms with Topological Features"
+    },
+    {
+      "paperId": "2c57ec0e44f84b819df09db5d5dd181da139034e",
+      "title": "NLPReViz: an interactive tool for natural language processing on clinical text"
+    },
+    {
+      "paperId": null,
+      "title": "VA Community: VAST Challenge"
+    },
+    {
+      "paperId": "e7185b6dbf693bbf2bdeff755dbd88db076fd343",
+      "title": "Barriers to Electronic Health Record System Implementation and Information Systems Resources: A Structured Review"
+    },
+    {
+      "paperId": "8aeae2a4712ede1436885f88fb1b14018291d2a6",
+      "title": "Visual Analytics of Electronic Health Records with a Focus on Time"
+    },
+    {
+      "paperId": "1f70bc624c695949a47e5abee686fcac09a846e2",
+      "title": "Cartographic Treemaps for Visualization of Public Healthcare Data"
+    },
+    {
+      "paperId": null,
+      "title": "European Commission: Health -Horizon"
+    },
+    {
+      "paperId": null,
+      "title": "UCI} Machine Learning Repository, 2017. URL: http://archive.ics.uci.edu/ml/index.phphttp:// archive.ics.uci.edu/ml"
+    },
+    {
+      "paperId": "d42afdb143b4664e4a9bba4dee21428be58a07db",
+      "title": "Data Visualization Tools for Investigating Health Services Utilization Among Cancer Patients"
+    },
+    {
+      "paperId": "4e6423ebb44e09aa1ffe61afe963c881c216977e",
+      "title": "Gnaeus: Utilizing Clinical Guidelines for Knowledge-assisted Visualisation of EHR Cohorts"
+    },
+    {
+      "paperId": "e5f6184695b0a7ed709ecceb0b250304e6e17e3c",
+      "title": "An Evaluation of Visual Analytics Approaches to Comparing Cohorts of Event Sequences"
+    },
+    {
+      "paperId": "35a7cc58bbb361f02e80e9195c4803b15ce00948",
+      "title": "Visualizing Neonatal Spells : Temporal Visual Analytics of High Frequency Cardiorespiratory Physiological Event Streams"
+    },
+    {
+      "paperId": "f9b887df54f1d0970b0ada8d35d6fffedbcc3c80",
+      "title": "eHealth on the Horizon"
+    },
+    {
+      "paperId": null,
+      "title": "Multivariate Visualization of System\u2010Wide National Health Service Data Using Radial Coordinates"
+    },
+    {
+      "paperId": "f442d73d3ea5640958f3f22757af5f3fa132d040",
+      "title": "MatrixFlow: Temporal Network Visual Analytics to Track Symptom Evolution during Disease Progression"
+    },
+    {
+      "paperId": "9a0826cc1e4c5d8adee686a4666965eed3bf5c95",
+      "title": "Exploring Point and Interval Event Patterns: Display Methods and Interactive Visual Query"
+    },
+    {
+      "paperId": "7b9200ccf0b0818eb3626e7ad0cc11c372edf779",
+      "title": "Prognostic Physiology: Modeling Patient Severity in Intensive Care Units Using Radial Domain Folding"
+    },
+    {
+      "paperId": "2ec48fff60451205687a43cc6f7d17eccab8bd14",
+      "title": "Sim\u2022TwentyFive: An Interactive Visualization System for Data-Driven Decision Support"
+    },
+    {
+      "paperId": "a3f1063eac888d5d0b3b2a21e78ba9bfc715aa9d",
+      "title": "Visual cluster analysis in support of clinical decision intelligence."
+    },
+    {
+      "paperId": "d9db57f8bb04f723aa94d16a7ea7015529cb150d",
+      "title": "AnamneVis: A Framework for the Visualization of Patient History and Medical Diagnostics Chains"
+    },
+    {
+      "paperId": "98de0cbdc47bcbed670ecfbda1feada570f993f3",
+      "title": "Integrated Visual Analysis for Heterogeneous Datasets in Cohort Studies"
+    },
+    {
+      "paperId": "7a5e1aa49349d57552b99e2f58afd6fc93bdb6bb",
+      "title": "Visual analytics for immunologists Data compression and fractal distributions"
+    },
+    {
+      "paperId": "79db354037968df22d1c24f2f3d15e95024f3714",
+      "title": "VisuExplore: Gaining New Medical Insights from Visual Exploration"
+    },
+    {
+      "paperId": "0e36af70ecd5dc10dc8f2085d21a4ec4b5272d77",
+      "title": "Public health for Wales"
+    },
+    {
+      "paperId": "2685ae33d8cb6c813e087c6b5615dfdf3bfa376a",
+      "title": "Electronic Health Records"
+    },
+    {
+      "paperId": "789ef054aa18ad23c295a6d79b24fb9b915ef42d",
+      "title": "AmERiCAn RECOvERy AnD REinvEStmEnt ACt"
+    },
+    {
+      "paperId": "a00e2c02b8d747ac23951998ed6da549695fe9fe",
+      "title": "BMC Health Services Research BioMed Central Correspondence"
+    },
+    {
+      "paperId": "b02b21033b10a30d363b1861ec0c15f6bce853bb",
+      "title": "International Journal of Health Geographics Open Access Episcangis: an Online Geographic Surveillance System for Meningococcal Disease"
+    },
+    {
+      "paperId": "7686dfbe85de76b5c5d8546d3b04a129685ef0d4",
+      "title": "IntegraEPI: A Grid-Based Epidemic Surveillance System"
+    },
+    {
+      "paperId": "554023bdf2a8129c1b8fa33bcd37fcb51454a322",
+      "title": "Universal risk factors for multifactorial diseases"
+    },
+    {
+      "paperId": "20986d098dfb842d878c77266e359161e5c14182",
+      "title": "5 Challenges and Unsolved Problems"
+    },
+    {
+      "paperId": "6a630ac89d7c0a57eb7bf4cb30dd5946bcf3ccce",
+      "title": "google,\u6211,\u8428\u5a1c"
+    },
+    {
+      "paperId": null,
+      "title": "Enabling Large-Scale Telemedical Disease Management through Interactive Visualization"
+    },
+    {
+      "paperId": "c26c8fa28824e664519028d3643e35c79c0fb9ab",
+      "title": "Study of Health in Pomerania (SHIP): A health examination survey in an east German region: Objectives and design"
+    },
+    {
+      "paperId": "3c91b1f92617e48bcd66c39e85f89512a69dd7c9",
+      "title": "Gravi++: Interactive Information Visualization to Explore Highly Structured Temporal Data"
+    },
+    {
+      "paperId": "1f1eaf19e38b541eec8a02f099e3090536a4c936",
+      "title": "The Unified Medical Language System (UMLS): integrating biomedical terminology"
+    },
+    {
+      "paperId": "eb7d83b726a746b1a9b2a33ac34263b3047b1a48",
+      "title": "About the authors"
+    },
+    {
+      "paperId": null,
+      "title": "Executive Order 13335-Incentives for the Use of Health Information Technology and Establishing the Position of the National Health Information Technology Coordinator"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "20e60783e88a48f6377464d1d59072cbaf903153",
+      "title": "Support for Fast Comprehension of ICU Data: Visualization using Metaphor Graphics"
+    },
+    {
+      "paperId": "83d5c61b2aa5d00523434fd13d90ecb3919c2742",
+      "title": "TRAILS (TRacking Adolescents' Individual Life Survey)"
+    },
+    {
+      "paperId": null,
+      "title": "PhysioBank, PhysioToolkit, and PhysioNet"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": "c3f39f13f87a8f3563c55260debaa2791324c5c7",
+      "title": "Edward Tufte , an authority on the visual display Advancing Meaningful Use : Simplifying Complex Clinical Metrics Through Visual Representation"
+    },
+    {
+      "paperId": "433196a6f7fdf68a4325f185d8baec18f62c2cbb",
+      "title": "International Journal of Health Geographics Development of a Gis-based, Real-time Internet Mapping Tool for Rabies Surveillance"
+    },
+    {
+      "paperId": "9bfc34ca3d3dd17ecdcb092f2a056da6cb824acd",
+      "title": "International Journal of Geographical Information Science Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support"
+    },
+    {
+      "paperId": null,
+      "title": "the Surveillance, Epidemiology and End Results"
+    },
+    {
+      "paperId": null,
+      "title": "Compare"
+    },
+    {
+      "paperId": null,
+      "title": "General Services Administration: Data.gov"
+    },
+    {
+      "paperId": null,
+      "title": "Public Health England: PHE data and analysis tools -GOV"
+    },
+    {
+      "paperId": null,
+      "title": "HealthData"
+    },
+    {
+      "paperId": null,
+      "title": "Big Cities Health Coalition: Data Platform -Big Cities Health Coalition"
+    },
+    {
+      "paperId": null,
+      "title": "The Office of the National Coordinator for Health Information Technology: Health IT Data"
+    },
+    {
+      "paperId": null,
+      "title": "World Health Organziation, Pan American Health Organization: Handbook for Electronic Health Records Implementation"
+    },
+    {
+      "paperId": null,
+      "title": "FAIRsharing"
+    },
+    {
+      "paperId": null,
+      "title": "N2C2: National NLP Clinical Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "EHR STAR: The practice at a children\u2019s hospital"
+    },
+    {
+      "paperId": null,
+      "title": "VAST Challenge 2010 MC3 - Tracing the Mutations of a Disease"
+    },
+    {
+      "paperId": null,
+      "title": "GIANTT: GIANTT -Groningen Initiative to Analyse Type 2 diabetes Treatment"
+    },
+    {
+      "paperId": null,
+      "title": "The Government Digital Service: Find open data - data"
+    },
+    {
+      "paperId": null,
+      "title": "European Union: European Data Portal"
+    },
+    {
+      "paperId": null,
+      "title": "Mendeley -Reference Management Software & Researcher Network"
+    },
+    {
+      "paperId": null,
+      "title": "Observational Health Data Sciences and Informatics: The Book of OHDSI"
+    },
+    {
+      "paperId": null,
+      "title": "The Open Data Team"
+    },
+    {
+      "paperId": null,
+      "title": "Introduction to Machine Learning , second ed"
+    },
+    {
+      "paperId": null,
+      "title": "Maelstrom Catalogue"
+    }
+  ]
+}

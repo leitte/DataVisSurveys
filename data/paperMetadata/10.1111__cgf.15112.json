@@ -1,0 +1,1081 @@
+{
+  "paperId": "6e42accf31bb0dfc47df319ff953532f092cf965",
+  "externalIds": {
+    "ArXiv": "2404.15976",
+    "DBLP": "journals/corr/abs-2404-15976",
+    "DOI": "10.1111/cgf.15112",
+    "CorpusId": 269362129
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6e42accf31bb0dfc47df319ff953532f092cf965",
+  "title": "The State of the Art in Visual Analytics for 3D Urban Data",
+  "abstract": "Urbanization has amplified the importance of three\u2010dimensional structures in urban environments for a wide range of phenomena that are of significant interest to diverse stakeholders. With the growing availability of 3D urban data, numerous studies have focused on developing visual analysis techniques tailored to the unique characteristics of urban environments. However, incorporating the third dimension into visual analytics introduces additional challenges in designing effective visual tools to tackle urban data's diverse complexities. In this paper, we present a survey on visual analytics of 3D urban data. Our work characterizes published works along three main dimensions (why, what, and how), considering use cases, analysis tasks, data, visualizations, and interactions. We provide a fine\u2010grained categorization of published works from visualization journals and conferences, as well as from a myriad of urban domains, including urban planning, architecture, and engineering. By incorporating perspectives from both urban and visualization experts, we identify literature gaps, motivate visualization researchers to understand challenges and opportunities, and indicate future research directions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2024,
+  "referenceCount": 246,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.15112",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2024-04-24",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "43"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Miranda2024TheSO,\n author = {Fabio Miranda and Thomas Ortner and Gustavo Moreira and Maryam Hosseini and Milena Vuckovic and Filip Biljecki and Claudio Silva and Marcos Lage and Nivan Ferreira},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Visual Analytics for 3D Urban Data},\n volume = {43},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2275304664",
+      "name": "Fabio Miranda"
+    },
+    {
+      "authorId": "2298268336",
+      "name": "Thomas Ortner"
+    },
+    {
+      "authorId": "2186980725",
+      "name": "Gustavo Moreira"
+    },
+    {
+      "authorId": "2057763504",
+      "name": "Maryam Hosseini"
+    },
+    {
+      "authorId": "2298271883",
+      "name": "Milena Vuckovic"
+    },
+    {
+      "authorId": "2298268761",
+      "name": "Filip Biljecki"
+    },
+    {
+      "authorId": "2298334970",
+      "name": "Claudio Silva"
+    },
+    {
+      "authorId": "2184099008",
+      "name": "Marcos Lage"
+    },
+    {
+      "authorId": "37090193",
+      "name": "Nivan Ferreira"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7d4f0efa4580d7364417c4316b25ad29f78ec655",
+      "title": "Evaluation of microclimate mitigation strategies in a heterogenous street canyon in Kuala Lumpur from outdoor thermal comfort perspective using Envi-met"
+    },
+    {
+      "paperId": "79f902187670cdca5d8ee2bdfe835b43433baaf0",
+      "title": "Designing Large-Scale Wireless Sensor Networks for Urban Environmental Sensing"
+    },
+    {
+      "paperId": "7547a3cd32ba772ae344aec2331eac6fe9f33901",
+      "title": "The Urban Toolkit: A Grammar-Based Framework for Urban Visual Analytics"
+    },
+    {
+      "paperId": "7f791919c1aa59c7fb5cc5697edd37f442d4896b",
+      "title": "Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort"
+    },
+    {
+      "paperId": "31acb341d61a45d858047cbef08effe7da829b69",
+      "title": "Sensitivity analysis of WRF-CFD-based downscaling methods for evaluation of urban pedestrian-level wind"
+    },
+    {
+      "paperId": "c793877ad23373682ab45ac5abbc50443fb566e4",
+      "title": "Effects of Roadside Trees Three-Dimensional Morphology Characteristics on Traffic -Related \u00a0Pm 2.5 \u00a0Distribution in Hot-Humid Urban Blocks"
+    },
+    {
+      "paperId": "90872bbfab8106e25070bd062551feaadcdb91b0",
+      "title": "Submerse: Visualizing Storm Surge Flooding Simulations in Immersive Display Ecologies"
+    },
+    {
+      "paperId": "103e332a6ea7e1e63e5a4d0f07df0dbd3e0fae19",
+      "title": "Quality of crowdsourced geospatial building information: A global assessment of OpenStreetMap attributes"
+    },
+    {
+      "paperId": "31f3125d6120efc557c90dd7e7954fb8eb1fd380",
+      "title": "Challenges of urban digital twins: A systematic review and a Delphi expert survey"
+    },
+    {
+      "paperId": "ac0da3c27bb89ad96a0843d2d8b96407027aa75d",
+      "title": "Modelling Impact of High-Rise, High-Density Built Environment on COVID-19 Risks: Empirical Results from a Case Study of Two Chinese Cities"
+    },
+    {
+      "paperId": "202a3456823800bf2b9fc2e305603ba70f232f56",
+      "title": "CFD modeling of traffic tidal flow: Assessment of pollutant dispersion"
+    },
+    {
+      "paperId": "dfbdf721cb3652ad8c2c1c198f2e385ab242960f",
+      "title": "Three-dimensional visualisation of traffic noise based on the Henk de-Klujijver model"
+    },
+    {
+      "paperId": "90d93ff484afb0daa1f86ba2ca32eb9a4e7197f3",
+      "title": "Generative methods for Urban design and rapid solution space exploration"
+    },
+    {
+      "paperId": "f14d6dbfb2297142c41edf63b548caf52c95fab2",
+      "title": "Feasibility assessment of solar photovoltaic deployments on building surfaces with the constraint of visual impacts"
+    },
+    {
+      "paperId": "5a3757a5e730b801a25b40ea1772d1cc0058edb0",
+      "title": "Assessing and benchmarking 3D city models"
+    },
+    {
+      "paperId": "d626c55ca26c0e7c16ea08f928780c896347ae75",
+      "title": "Dynamic modeling for noise mapping in urban areas"
+    },
+    {
+      "paperId": "dc583ace6747eb95dd950aea9e098eecc7cf1f30",
+      "title": "The Future of Urban Accessibility for People with Disabilities: Data Collection, Analytics, Policy, and Tools"
+    },
+    {
+      "paperId": "b8fe89d664215e70552ba873cee03dcbdead19f8",
+      "title": "A survey of urban visual analytics: Advances and future directions"
+    },
+    {
+      "paperId": "362b4a89159e1ea31283da62909f962bb475bb01",
+      "title": "A room with a view: Automatic assessment of window views for high-rise high-density areas using City Information Models and deep transfer learning"
+    },
+    {
+      "paperId": "30a5e6ed8a8b3a27ecdf6e515c07113cac78ed38",
+      "title": "Visual impact assessment of urban developments around heritage landmarks using ULVIA method: (The case of Ark-e-Alishah monument in Tabriz)"
+    },
+    {
+      "paperId": "1cc43d9086b075507d2f4fa7930de1f696b37924",
+      "title": "Free and open source urbanism: Software for urban planning practice"
+    },
+    {
+      "paperId": "6fa6a83e3a3ab12ff1a76cc0abe98e9374a73d02",
+      "title": "Fast wind prediction incorporated in urban city planning"
+    },
+    {
+      "paperId": "8213573aded3b4340cbd3a0e5e7b6300dfe4f8e1",
+      "title": "A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics"
+    },
+    {
+      "paperId": "38fe40c18193c91e77639cb31bf70542b8337edc",
+      "title": "A survey of visual analytics in urban area"
+    },
+    {
+      "paperId": "735a4f1bb0e5b1eaaef3592315434a4337189719",
+      "title": "A Comparative Study of Methods for the Visualization of Probability Distributions of Geographical Data"
+    },
+    {
+      "paperId": "0713926020cc7806493e2e771965321f9514eeda",
+      "title": "Coupling hydrological and microclimate models to simulate evapotranspiration from urban green areas and air temperature at the district scale"
+    },
+    {
+      "paperId": "484092c1fcfdc6e1fea6435fa7d06720684e3566",
+      "title": "The influence of roadside green belts and street canyon aspect ratios on air pollution dispersion and personal exposure"
+    },
+    {
+      "paperId": "cf2c62958d9b690909526c0468b7445265d9056e",
+      "title": "Global Building Morphology Indicators"
+    },
+    {
+      "paperId": "f811bc87cab351de86810384ab86f1ccd20bbb25",
+      "title": "Smart City Construction and Management by Digital Twins and BIM Big Data in COVID-19 Scenario"
+    },
+    {
+      "paperId": "01c4b4bdb1b470891d7de2d3f12f870e885bc1bf",
+      "title": "Data acquisition for urban building energy modeling: A review"
+    },
+    {
+      "paperId": "3e1a7750ecec8c76dd449a1d3c907bb3c0f955c5",
+      "title": "Microclimatic coupling to assess the impact of crossing urban form on outdoor thermal comfort in temperate oceanic climate"
+    },
+    {
+      "paperId": "675daf754bbff39a7d583922d16e123567741c40",
+      "title": "A Fast Calculation Tool for Accessing the Shading Effect of Surrounding Buildings on Window Transmitted Solar Radiation Energy"
+    },
+    {
+      "paperId": "d72289a1b7ce1e25afb4f1673978e7cb1004d357",
+      "title": "IF-City: Intelligible Fair City Planning to Measure, Explain and Mitigate Inequality"
+    },
+    {
+      "paperId": "315186cead81397fe23aa4c8e52f37d1784ac7bf",
+      "title": "Assessment of the Effectiveness of Photovoltaic Panels at Public Transport Stops: 3D Spatial Analysis as a Tool to Strengthen Decision Making"
+    },
+    {
+      "paperId": "b4c3320ac1d67b78c00f49b5d2a343f76ddee8f1",
+      "title": "An environmental exploration system for visual scenario analysis of regional hydro-meteorological systems"
+    },
+    {
+      "paperId": "4a8154bf8db98bb3b536f642c8a75d944739dee6",
+      "title": "Walking in the cities without ground, how 3d complex network volumetrics improve analysis"
+    },
+    {
+      "paperId": "cff2ced1918dddeff9f0209094fb8dae4bd78874",
+      "title": "Urban scale digital twins in data-driven society: Challenging digital universalism in urban planning decision-making"
+    },
+    {
+      "paperId": "fc36659cd8b016b9d1e7adf68ae318af2a6b4da0",
+      "title": "SensatUrban: Learning Semantics from Urban-Scale Photogrammetric Point Clouds"
+    },
+    {
+      "paperId": "01d3cba5e0179207fc7eb7b1aa6880cad40faa5a",
+      "title": "An economically feasible optimization of photovoltaic provision using real electricity demand: A case study in New York city"
+    },
+    {
+      "paperId": "ef5704c0b413f9f52f5f06d7a615c2211b7b610a",
+      "title": "Combining 2D and 3D Visualization with Visual Analytics in the Environmental Domain"
+    },
+    {
+      "paperId": "015ff9e66ca095552efe22604d6f9a9d9d7d16af",
+      "title": "Digital Twins"
+    },
+    {
+      "paperId": "3438bf68d2e4428c292fc12b193d46872a941bb3",
+      "title": "Immersive Analytics with Abstract 3D Visualizations: A Survey"
+    },
+    {
+      "paperId": "cebb1d63cb7a4a02d483548e3ef620bc1dca3baa",
+      "title": "A convergence research perspective on graduate education for sustainable urban systems science"
+    },
+    {
+      "paperId": "20d35dd5e0925259f6d67dea23631d91b8113cf0",
+      "title": "Exploring the effects of 3D urban form on urban air quality: Evidence from fifteen megacities in China"
+    },
+    {
+      "paperId": "c15c202be45e5d73e748558c0d5d96dfa7c51287",
+      "title": "Digital twin enabled sustainable urban road planning"
+    },
+    {
+      "paperId": "90ebd16d61c1138757854c1a99932b345a3d6ae8",
+      "title": "UBEM.io: A web-based framework to rapidly generate urban building energy models for carbon reduction technology pathways"
+    },
+    {
+      "paperId": "92ffc214c7d040087658291bba9a02d08612a0c3",
+      "title": "Development of view potential metrics and the financial impact of views on office rents"
+    },
+    {
+      "paperId": "db3b5a7c190afd33b38ef3d2992b534fc365522b",
+      "title": "Street view imagery in urban analytics and GIS: A review"
+    },
+    {
+      "paperId": "0ea5514ebd22f773733381d6c98ec8455fc83841",
+      "title": "The effect of urban morphology on heat accumulation in urban street canyons and mitigation approach"
+    },
+    {
+      "paperId": "a45b19b7b334fc302428c2cca6841ef6730c6814",
+      "title": "Are decline-oriented strategies thermally sustainable in shrinking cities?"
+    },
+    {
+      "paperId": "8785c5c2ce6af3907e2a0e7c11c1364715bfe445",
+      "title": "Spatial-temporal patterns of self-organization: A dynamic 4D model for redeveloping the post-zoning city"
+    },
+    {
+      "paperId": "f17a4642ce289bb0bd8cb9cbbbdf7ede0fcd2438",
+      "title": "The Third Dimension in Noise Visualization \u2013 a Design of New Methods for Continuous Phenomenon Visualization"
+    },
+    {
+      "paperId": "f15432c954a9efa5cb991d0dc337ccbf8395d82e",
+      "title": "A CFD study of wind assessment in urban topology with complex wind flow"
+    },
+    {
+      "paperId": "3f2ff2d42a54f3479be23080cf4e3c371eabdd1e",
+      "title": "UrbanRama: Navigating Cities in Virtual Reality"
+    },
+    {
+      "paperId": "facfe39064a36bb4009783fbcc5c0162894e18ce",
+      "title": "Application of ontologically streamlined data for building performance analysis"
+    },
+    {
+      "paperId": "cff5229f214730446fc9ad4d96619fa55f14c7db",
+      "title": "Intra-City Traffic Data Visualization: A Systematic Literature Review"
+    },
+    {
+      "paperId": "fbac754fbb27b6aa18c20b9a11c9d38e671593f1",
+      "title": "UrbanVR: An immersive analytics system for context-aware urban design"
+    },
+    {
+      "paperId": "baeaf79df300be987f2b82a507edfc30b589244d",
+      "title": "Improving accuracy in simulation of urban wind flows by dynamic downscaling WRF with OpenFOAM"
+    },
+    {
+      "paperId": "127e75479ce48e1c2e5f5ca49b4f0275432dad64",
+      "title": "Noise exposure of the residential areas close to urban expressways in a high-rise mountainous city"
+    },
+    {
+      "paperId": "ae69dfa4c72057d9788379e4164985955bd11919",
+      "title": "Visualization in Astrophysics: Developing New Methods, Discovering Our Universe, and Educating the Earth"
+    },
+    {
+      "paperId": "a57349375d053dc77172f130e59faf57a20c52fb",
+      "title": "Recent advances and challenges in uncertainty visualization: a survey"
+    },
+    {
+      "paperId": "4c252231b9ee3b3d20298d941d726cac683ae7a0",
+      "title": "Designing and assessing solar energy neighborhoods from visual impact"
+    },
+    {
+      "paperId": "5114060685ebe440c0698b96696ba0c2909dcdad",
+      "title": "Unravelling the Human Perspective and Considerations for Urban Data Visualization"
+    },
+    {
+      "paperId": "5989d896ba5344118ccfae11f0d2805f27624dab",
+      "title": "A State-of-the-Art Survey of Tasks for Tree Design and Evaluation With a Curated Task Dataset"
+    },
+    {
+      "paperId": "5a49176f082edc00db83ff26e30e5810e886b71c",
+      "title": "Impacts of urban buildings on microclimate and cooling systems efficiency: Coupled CFD and BES simulations"
+    },
+    {
+      "paperId": "84aa37e093001882bd597a0c816e92aa850ca2c4",
+      "title": "The microclimatic impacts of urban spaces on the behaviour of pandemics between propagation and containment: Case study historic Cairo"
+    },
+    {
+      "paperId": "d7f6ee95dfad9ef2d3ab8caa6041a35fc16b30ba",
+      "title": "Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability"
+    },
+    {
+      "paperId": "5d0b4407c409977dd2ae8ce84373464b102fe327",
+      "title": "Infectious Dynamics in Urban 3D-Environment: Challenges and Possibilities"
+    },
+    {
+      "paperId": "861b679550b5d2bbd86de6ac1e41d840322ce754",
+      "title": "Walkability scoring: Why and how does a three-dimensional pedestrian network matter?"
+    },
+    {
+      "paperId": "ae736e5366819b08cbe6fa974acca9688cfba78a",
+      "title": "An integrated 3D GIS-based method for estimating the urban potential of BIPV retrofit of fa\u00e7ades"
+    },
+    {
+      "paperId": "f06a2b656e3d37f5bdfaf4cc128c92455ac4b891",
+      "title": "A Continuous, Semi-Automated Workflow: From 3D City Models with Geometric Optimization and CFD Simulations to Visualization of Wind in an Urban Environment"
+    },
+    {
+      "paperId": "7b0fdff47e194529d7b1dc802ec4d90951890266",
+      "title": "Visualization of 3D Property Data and Assessment of the Impact of Rendering Attributes"
+    },
+    {
+      "paperId": "9640686a3b1fc26722ff53be90ad566ac7690b80",
+      "title": "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
+    },
+    {
+      "paperId": "79da4f14d607b136a582adc17ae4dbda6e4ad694",
+      "title": "Co-Visualization of Air Temperature and Urban Data for Visual Exploration"
+    },
+    {
+      "paperId": "0ecd8b34e9dc7df9635821b9329bbe54a19bf5fc",
+      "title": "Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges"
+    },
+    {
+      "paperId": "46fda65692a48a6d9e15fe31f0bcc7853ff3fd94",
+      "title": "Wind comfort and solar access in a coastal development in Malm\u00f6, Sweden"
+    },
+    {
+      "paperId": "65c8cf4dad104fd31ba6371a84a0cfa89a8b80ab",
+      "title": "VISUALIZING 3D CLIMATE DATA IN URBAN 3D MODELS"
+    },
+    {
+      "paperId": "cfe3bb670872cca2c207b7cca026913ab5d66cc5",
+      "title": "Urban building energy modeling: State of the art and future prospects"
+    },
+    {
+      "paperId": "9b547a4206888e67634a5b2a9bf462c92cfc3a3a",
+      "title": "The right tools for the job: The case for spatial science tool\u2010building"
+    },
+    {
+      "paperId": "22bbd2f58552318092a476cd9667e028938296f9",
+      "title": "3D city models for urban farming site identification in buildings"
+    },
+    {
+      "paperId": "e549dd2d9577d75cf874fe40deb8b87e8c37d012",
+      "title": "Antivirus-built environment: Lessons learned from Covid-19 pandemic"
+    },
+    {
+      "paperId": "4abc42126413fd108000ccb127843d01277014e8",
+      "title": "The effect of building height diversity on outdoor microclimate conditions in hot climate. A case study of Dubai-UAE"
+    },
+    {
+      "paperId": "0f43aa2a85dc32262b4a54b5f990f66eb44a3183",
+      "title": "SEEVis: A Smart Emergency Evacuation Plan Visualization System with Data\u2010Driven Shot Designs"
+    },
+    {
+      "paperId": "c47c0f8432bf6e9ea5b099a4578641aa51600b60",
+      "title": "Mitigating Intensity of Urban Heat Island by Better Understanding on Urban Morphology and Anthropogenic Heat Dispersion"
+    },
+    {
+      "paperId": "12620db190497050f70e1d1a29cf6e1a18898992",
+      "title": "Urban Digital Twins for Smart Cities and Citizens: The Case Study of Herrenberg, Germany"
+    },
+    {
+      "paperId": "94556b52e0a841adfea2e878c95332f1df4e61fd",
+      "title": "Interactions between extreme climate and urban morphology: Investigating the evolution of extreme wind speeds from mesoscale to microscale"
+    },
+    {
+      "paperId": "006a155c9084bb12494b3832ccb964b3b629ba31",
+      "title": "Wind power potential assessment of roof mounted wind turbines in cities"
+    },
+    {
+      "paperId": "e0f8b3e658cfa8779759a862c386d298bb3748f2",
+      "title": "Quantifying impacts of wind speed and urban neighborhood layout on the infiltration rate of residential buildings"
+    },
+    {
+      "paperId": "73580319a971200f6118b1a564df705f15f6dafc",
+      "title": "The Digital Twin of the City of Zurich for Urban Planning"
+    },
+    {
+      "paperId": "a2101eedc071913d550f37b2b382c385280b0648",
+      "title": "Ten questions on urban building energy modeling"
+    },
+    {
+      "paperId": "487981028c5349f940710b5b259951d6df43b6ea",
+      "title": "Visualisation of Spatial Data Uncertainty. A Case Study of a Database of Topographic Objects"
+    },
+    {
+      "paperId": "07ba385c79201746369e48045e8e7141913ba988",
+      "title": "Human-Centric Data Science for Urban Studies"
+    },
+    {
+      "paperId": "a300a496b549d9afb4cf73a23a48c6164926a487",
+      "title": "Solar accessibility in developing cities: A case study in Kowloon East, Hong Kong"
+    },
+    {
+      "paperId": "f4f8d26e542d5e35a5c62747ad62693d743ae939",
+      "title": "Distortion visualization techniques for 3D coherent sets: A case study of 3D building property units"
+    },
+    {
+      "paperId": "44a240b393bcf5a4eef6833abffacef835e39755",
+      "title": "An integrated data-driven framework for urban energy use modeling (UEUM)"
+    },
+    {
+      "paperId": "a512fb45d5d77c0bb0649178c410b8c1a884f4ac",
+      "title": "Deck.gl: Large-scale Web-based Visual Analytics Made Easy"
+    },
+    {
+      "paperId": "ab737f7006f0ca15ef7c37e0b162a6ef68ad1068",
+      "title": "Ten years of visualization of business process models: A systematic literature review"
+    },
+    {
+      "paperId": "e3296bc1939f83b0eb226868e37a496c742d08fd",
+      "title": "Flood risk management in sponge cities: The role of integrated simulation and 3D visualization"
+    },
+    {
+      "paperId": "8b8cc9502db0659ea5b039293af9356d4e522438",
+      "title": "3D monitoring and modelling of air quality for sustainable urban port planning: Review and perspectives"
+    },
+    {
+      "paperId": "c782629ba4c8e324e5bf8a6587f74a3f35eb3a8d",
+      "title": "3-D Reconstruction of an Urban Landscape to Assess the Influence of Vegetation in the Radiative Budget"
+    },
+    {
+      "paperId": "1faccefdfe70040a050c39bf5d52547be59aab05",
+      "title": "Urban energy use modeling methods and tools: A review and an outlook"
+    },
+    {
+      "paperId": "9e52e8f3b0dba44b683b5e985bc5f28003011271",
+      "title": "Why Authors Don't Visualize Uncertainty"
+    },
+    {
+      "paperId": "a290884991a1a86a69733a19d8173b1375cbb069",
+      "title": "CerebroVis: Designing an Abstract yet Spatially Contextualized Cerebral Artery Network Visualization"
+    },
+    {
+      "paperId": "21b905750f538c2bccee3c9b5ce8d5940539f5dd",
+      "title": "Digital Twin, Virtual Reality and Space Syntax: Civic engagement and decision support for smart, sustainable cities"
+    },
+    {
+      "paperId": "899fdf243ada64f5dfd9f04aab3c00aa31f76039",
+      "title": "Investigating the effects of 3D urban morphology on the surface urban heat island effect in urban functional zones by using high-resolution remote sensing data: A case study of Wuhan, Central China"
+    },
+    {
+      "paperId": "30973a2c4745b1c4eb9a760dc3931088872dd17b",
+      "title": "Interactive Visualization of Flood and Heavy Rain Simulations"
+    },
+    {
+      "paperId": "05d928f7d034ae0b282163b22a13664f290f4638",
+      "title": "The effect of urban 2D and 3D morphology on air temperature in residential neighborhoods"
+    },
+    {
+      "paperId": "00c506ddaf162d6bc206975749d112450a44ef1d",
+      "title": "Connecting the city: A three-dimensional pedestrian network of Hong Kong"
+    },
+    {
+      "paperId": "722cd7416b7f3ec1cb07dffc459fb67c1f590edc",
+      "title": "Look-From Camera Control for 3D Terrain Maps"
+    },
+    {
+      "paperId": "f6667a2a6b8de59a298ef66f889fecf5efbfa9b3",
+      "title": "A 3D spatial data model of the solar rights associated with individual residential properties"
+    },
+    {
+      "paperId": "97c82b0f90569f835a52562a02774e732d332baf",
+      "title": "Analysis of temperature variability within outdoor urban spaces at multiple scales"
+    },
+    {
+      "paperId": "c7df81b52c570d120c05eb7571612ee7809f09b5",
+      "title": "Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows Over Time"
+    },
+    {
+      "paperId": "102b77a6cb24b751e9782ef9c5cf0eafe535fdeb",
+      "title": "How parked cars affect pollutant dispersion at street level in an urban street canyon? A CFD modelling exercise assessing geometrical detailing and pollutant decay rates."
+    },
+    {
+      "paperId": "fe109ec08e228a9951b9393404374302ebef2bf8",
+      "title": "Analysis of urban surface morphologic effects on diurnal thermal directional anisotropy"
+    },
+    {
+      "paperId": "d8f695f46b097563f6c51aea9a98ff230140e424",
+      "title": "Wind loading on high-rise buildings and the comfort effects on the occupants"
+    },
+    {
+      "paperId": "5450451694efeb122df0a49df7053195a0e69c55",
+      "title": "3D Viewpoint Management and Navigation in Urban Planning: Application to the Exploratory Phase"
+    },
+    {
+      "paperId": "c06234d69fbd7a029f3ec09942752adca78c6acc",
+      "title": "Developing a City-Level Digital Twin \u2013Propositions and a Case Study"
+    },
+    {
+      "paperId": "c13da4506a4d0d62ee5130438c37ba584b3cc381",
+      "title": "A local and regional spatial index for measuring three-dimensional urban compactness growth"
+    },
+    {
+      "paperId": "a9643c2746ec3579b04456e04d3b6125cd75926b",
+      "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis"
+    },
+    {
+      "paperId": "b38c5eb96224bc9dc30312e80166beffa72ba342",
+      "title": "Investigation of passive design strategies in a traditional urban neighborhood: A case study"
+    },
+    {
+      "paperId": "e3fd61d24db39d4df5bb5158b33561e794e999ad",
+      "title": "Shaping buildings to promote street ventilation: A large-eddy simulation study"
+    },
+    {
+      "paperId": "82e528d0b0188b7b95d43e96be9cd348f2893912",
+      "title": "Numerical modeling of outdoor thermal comfort in 3D"
+    },
+    {
+      "paperId": "350684379345c93f26f397152db17ad5cd34412c",
+      "title": "Design and Development of a 3D Digital Cadastre Visualization Prototype"
+    },
+    {
+      "paperId": "f1895b3985f565f6d20f1c1c162c85aa325819ed",
+      "title": "VitalVizor: A Visual Analytics System for Studying Urban Vitality"
+    },
+    {
+      "paperId": "615711c226412266cd72f10357cc12aea4f2f71e",
+      "title": "Computational urban design prototyping: Interactive planning synthesis methods\u2014a case study in Cape Town"
+    },
+    {
+      "paperId": "1d48869cce8bd729deababf90ef46f3fa96a22c8",
+      "title": "Spatio-Temporal Urban Data Analysis: A Visual Analytics Perspective"
+    },
+    {
+      "paperId": "4778ba51e02fb2ff3b6ad0533023700a64433d8b",
+      "title": "Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane"
+    },
+    {
+      "paperId": "f6a8bb273495dec3dc940dc1ec700fe563e3f8f1",
+      "title": "3DCityDB - a 3D geodatabase solution for the management, analysis, and visualization of semantic 3D city models based on CityGML"
+    },
+    {
+      "paperId": "80dc018d6572ce7a537a6e317e17aa2872263040",
+      "title": "Compact or cool? The impact of brownfield redevelopment on inner-city micro climate"
+    },
+    {
+      "paperId": "f1fed0f8053d0740ed13342c7f6f9ac3fa7eebe7",
+      "title": "A software tool development study for solar energy potential analysis"
+    },
+    {
+      "paperId": "ea2eb27c4b1f29e8b859d9f13a09ae3c1bd404f0",
+      "title": "Evaluation of the potential of solar energy utilization in Famagusta, Cyprus"
+    },
+    {
+      "paperId": "c12fa86619dad1b9f3f933344be731c76070dd65",
+      "title": "A GIS-statistical approach for assessing built environment energy use at urban scale"
+    },
+    {
+      "paperId": "b9905e7ee62f79db506e2985c230ea8eaf368fdb",
+      "title": "CupCarbon: A new platform for the design, simulation and 2D/3D visualization of radio propagation and interferences in IoT networks"
+    },
+    {
+      "paperId": "5e4f6a9cb280b60f6a4afbe169eef3bb8997557d",
+      "title": "3D urban data to assess local urban regulation influence"
+    },
+    {
+      "paperId": "85063ec987c80ce7bab2213bfe97b16ee39548ac",
+      "title": "Virtual Cities: 3D Urban Modeling from Low Resolution LiDAR Data"
+    },
+    {
+      "paperId": "88cbd1371d43d5939bc4743df36868b7614c2bdf",
+      "title": "iCity 3D: A geosimualtion method and tool for three-dimensional modeling of vertical urban development"
+    },
+    {
+      "paperId": "9c767fa72f0df6f8b6a3e77fee3fd40225ceaf6e",
+      "title": "Urban Form, Air Pollution, and Health"
+    },
+    {
+      "paperId": "40b32217c8abc9192d1892d92663f2a157e1ecd4",
+      "title": "Variations in wind load on tall buildings due to urban development"
+    },
+    {
+      "paperId": "fe731e67ade7e62dd5ec33d89cdffd50aeaa22af",
+      "title": "Coupled CFD and building energy simulations for studying the impacts of building height topology and buoyancy on local urban microclimates"
+    },
+    {
+      "paperId": "3db5e251746d1642d9a604b537a2b52e115df75e",
+      "title": "A Visualization\u2010Based Analysis System for Urban Search & Rescue Mission Planning Support"
+    },
+    {
+      "paperId": "2596c76973f08a8812125e93c5249ca3951ff6e8",
+      "title": "3D City Models as a Visual Support Tool for the Analysis of Buildings Seismic Vulnerability: The Case of Lisbon"
+    },
+    {
+      "paperId": "1f89a0685b027a485b7e62685c5cfe29951f8e90",
+      "title": "Urban Fusion: Visualizing Urban Data Fused with Social Feeds via a Game Engine"
+    },
+    {
+      "paperId": "f999930623fd7f6830c2c9545257bf2082c79657",
+      "title": "The influence of data quality on urban heating demand modeling using 3D city models"
+    },
+    {
+      "paperId": "b8c18955bd0425e7bb807471f63a6c5afb34612e",
+      "title": "How users perceive transparency in the 3D visualization of cadastre: testing its usability in an online questionnaire"
+    },
+    {
+      "paperId": "95796352eb31ce483489220c225394992e996091",
+      "title": "Exploring the design space of immersive urban analytics"
+    },
+    {
+      "paperId": "2bb1230471ac618c55c6b746f07cc1ade702b618",
+      "title": "Real\u2010Time Solar Exposure Simulation in Complex Cities"
+    },
+    {
+      "paperId": "5df9103410d199feef66bef419fa0009d947dcee",
+      "title": "How Data Workers Cope with Uncertainty: A Task Characterisation Study"
+    },
+    {
+      "paperId": "0779b12c1e488086e99bbb5eb778f843b737a252",
+      "title": "Spatio-temporal analysis of the relationship between 2D/3D urban site characteristics and land surface temperature"
+    },
+    {
+      "paperId": "e5953a0c1cd3ae98c244ff1e2e9dead68e3fde7e",
+      "title": "Daytime and nighttime urban heat islands statistical models for Atlanta"
+    },
+    {
+      "paperId": "01abc17a8194b415582c75561fada62109a71588",
+      "title": "Transition from 2D to 3D real property cadastre: The case of the Slovenian cadastre"
+    },
+    {
+      "paperId": "c31090697893b5933c32de63d5c545984dd79d63",
+      "title": "Simulations of local heat islands in Z\u00fcrich with coupled CFD and building energy models"
+    },
+    {
+      "paperId": "c0be64a6d457a138e2313d67282c6258cd70ea0c",
+      "title": "Vis-A-Ware: Integrating Spatial and Non-Spatial Visualization for Visibility-Aware Urban Planning"
+    },
+    {
+      "paperId": "781dffd48a895227b560a602e6734bbbde140da9",
+      "title": "Effects of landscape composition and pattern on land surface temperature: An urban heat island study in the megacities of Southeast Asia."
+    },
+    {
+      "paperId": "c4e4e38a0afe118687c7a2b0b6a6d1d6e8261b8e",
+      "title": "Modelling 3D spatial enclosure of urban open spaces"
+    },
+    {
+      "paperId": "995328f2d7a1e45dbbc63c6f34841c6f5a847ced",
+      "title": "Visual Analytics in Urban Computing: An Overview"
+    },
+    {
+      "paperId": "d97fe57e8e3edee10f71f97939b05855a4fde42e",
+      "title": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "paperId": "8465b4b7f4f498d19cb81b2862b604856808544d",
+      "title": "View-based greenery: A three-dimensional assessment of city buildings' green visibility using Floor Green View Index"
+    },
+    {
+      "paperId": "d17f873ece1cf79f64ab5e991279ab73646fe735",
+      "title": "Interactive Urban Context-Aware Visualization via Multiple Disocclusion Operators"
+    },
+    {
+      "paperId": "e25edb8b379acf04f4ab1d4d68d198bedaebc2d4",
+      "title": "The variants of an LOD of a 3D building model and their influence on spatial analyses"
+    },
+    {
+      "paperId": "7edfba07d37a8440344d45aeed00f52735822184",
+      "title": "Impact of shade on outdoor thermal comfort\u2014a seasonal field study in Tempe, Arizona"
+    },
+    {
+      "paperId": "c161e5f409d408b612d6da9400818e4135feeb21",
+      "title": "Solar potential in extreme climate conditions: comparative analysis of two district case studies in Norway and Reunion Island"
+    },
+    {
+      "paperId": "5dab4f5cb0e78a191290b421ae465dae706ddf4f",
+      "title": "Visual analytics and rendering for tunnel crack analysis"
+    },
+    {
+      "paperId": "b1a218ba5f29e5f60fe3992592525876c144f69a",
+      "title": "A new multi-scale 3D-GIS-approach for the assessment and dissemination of solar income of digital city models"
+    },
+    {
+      "paperId": "164399dd4a6a1c3d04a1026f0a1b9862c8a25966",
+      "title": "Multiperspective Focus+Context Visualization"
+    },
+    {
+      "paperId": "34a1533f64194b471c95f0937ebc971cc0a50ebb",
+      "title": "Mining Graphs for Understanding Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "3da0ae64025a7140aaa8c82d7fdeb2566d7e8ca9",
+      "title": "Managing Big City Information Based on WebVRGIS"
+    },
+    {
+      "paperId": "95325ea9ef51fce06616d47198393b68d110e1d4",
+      "title": "Wavelet-based visualization of time-varying data on graphs"
+    },
+    {
+      "paperId": "26638630e147c9c146ac3074d4283ec4704ea0c9",
+      "title": "Urban Design Synthesis for Building Layouts Based on Evolutionary Many-Criteria Optimization"
+    },
+    {
+      "paperId": "de2bf1bff8f219b418fcd87da23290422390d27e",
+      "title": "Topology-based catalogue exploration framework for identifying view-enhanced tower designs"
+    },
+    {
+      "paperId": "89fbac376e60d9fa9c8df34856e6cf1bc07b7d08",
+      "title": "Urbane: A 3D framework to support data driven decision making in urban development"
+    },
+    {
+      "paperId": "949aeaafc3e3bacc7bd21d05de834f84e87285b8",
+      "title": "Building seismic response and visualization using 3D urban polygonal modeling"
+    },
+    {
+      "paperId": "9ada8de4fd89afb7a325c12ad04192311c99dbdd",
+      "title": "XEarth: A 3D GIS platform for managing massive city information"
+    },
+    {
+      "paperId": "7c338b34bdad4f01ed9744085cb877d219e3ce07",
+      "title": "Visualization of Object\u2010Centered Vulnerability to Possible Flood Hazards"
+    },
+    {
+      "paperId": "e481ead5023cdb0716c17ea3624687e544e8db86",
+      "title": "A comparison of usefulness of 2D and 3D representations of urban planning"
+    },
+    {
+      "paperId": "4986e2f10a6103ce6fea5e6acbf0ca500d538029",
+      "title": "Using Topological Analysis to Support Event-Guided Exploration in Urban Data"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "a8a647af5d14f548b94ae460cd462dd1b69d9f8b",
+      "title": "Run Watchers: Automatic Simulation-Based Decision Support in Flood Management"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "b4f81a674bd341ace6ec3d6ae438e25a3925a1c3",
+      "title": "2D and 3D presentation of spatial data: A systematic review"
+    },
+    {
+      "paperId": "56e32efa838cc9329ded709261a2e58da9204dd4",
+      "title": "Cool materials impact at district scale\u2014Coupling building energy and microclimate models"
+    },
+    {
+      "paperId": "2fa2df6c60822322d655b446e7b24c3629a4b52e",
+      "title": "Assessment of traffic-related noise in three cities in the United States."
+    },
+    {
+      "paperId": "7cef7d21d0d91b597c9ea1893f4fefdb2efea3df",
+      "title": "Many Plans: Multidimensional Ensembles for Visual Decision Support in Flood Management"
+    },
+    {
+      "paperId": "77770e7ca2adbfa615c992ce416f0c321e527600",
+      "title": "GIS Modeling of Solar Neighborhood Potential at a Fine Spatiotemporal Resolution"
+    },
+    {
+      "paperId": "e46b13c56d03e186bad3acef8a7ba5dad2723d32",
+      "title": "The application of geometric network models and building information models in geospatial environments for fire-fighting simulations"
+    },
+    {
+      "paperId": "db07d9d48acd4dfd9b105a8d8267510eca82023e",
+      "title": "Extending solar potential analysis in buildings to vertical facades"
+    },
+    {
+      "paperId": "cbb8f0f93e37e58db3b31543897b35d5a14e9914",
+      "title": "Approximating urban wind interference"
+    },
+    {
+      "paperId": "d6aec206457916c3c63116e5287b60e35aead4e4",
+      "title": "Environmental Noise Pollution in the United States: Developing an Effective Public Health Response"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "10beafea9eeba50a076d631de0aa9b45d06e1ffa",
+      "title": "Constrained optimization for disoccluding geographic landmarks in 3D urban maps"
+    },
+    {
+      "paperId": "6765349d3e7d29f787d1cb2c2a0e8129c6246d82",
+      "title": "Visualization requirements for 3D cadastral systems"
+    },
+    {
+      "paperId": "85f30251a98c8733b483e93175804ec0afea02f0",
+      "title": "Visual Analysis and Steering of Flooding Simulations"
+    },
+    {
+      "paperId": "9353a2e6672f8853ecee45703f4bad3fa36bcf8b",
+      "title": "Exploring Urban Space"
+    },
+    {
+      "paperId": "0b23749e87c5ffb12ddccdc2f8208e9494f9873d",
+      "title": "A study of the relationship between urban form and environmental performance for three urban block typologies in Paris"
+    },
+    {
+      "paperId": "af945e223376fe9406ad80e89e8ad0ec53e4cd59",
+      "title": "Inverse design of urban procedural models"
+    },
+    {
+      "paperId": "819eb00d7be3ae7d24cd83e54f7cd845ea5ead48",
+      "title": "3D Analysis and Investigation of Traffic Noise Impact from Hemmat Highway Located in Tehran on Buildings and Surrounding Areas"
+    },
+    {
+      "paperId": "1d50d364dd1524cf5751104db196a3c975089990",
+      "title": "An immersive visualization system for virtual 3D city models"
+    },
+    {
+      "paperId": "f14ea22d497ea9eae7a7d4841d5c8ccf18e74ac5",
+      "title": "The use of a virtual city model for assessing equity in access to views"
+    },
+    {
+      "paperId": "7a2a2d051460214e15a6cab4988cacb003eb947e",
+      "title": "3D feature surface properties and their application in geovisualization"
+    },
+    {
+      "paperId": "8cde8aa57f92ebc619ee90b963f6c5e6b0ec2c74",
+      "title": "A virtual globe-based 3D visualization and interactive framework for public participation in urban planning processes"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "db080fe9481fa099e6fc986ff1f917369a4deded",
+      "title": "Focus+Context Route Zooming and Information Overlay in 3D Urban Environments"
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "34241d4c3826fb25df6ea98f3919e4acde8494ea",
+      "title": "Multi-Focused Geospatial Analysis Using Probes"
+    },
+    {
+      "paperId": "acd13b907c9acf16c6bf7c0a1cff0d7f2402c669",
+      "title": "OpenStreetMap: User-Generated Street Maps"
+    },
+    {
+      "paperId": "de588cf35f7fb8320ce8bc2166791d8131f5e43e",
+      "title": "Sketch-Based Navigation in 3D Virtual EnvironmentsSkizzen-basierte Navigation in virtuellen 3D-Umgebungen"
+    },
+    {
+      "paperId": "07f6f76a5017dfe3fd8a51aed4e46e9aa451d2dd",
+      "title": "3D noise mapping in urban areas"
+    },
+    {
+      "paperId": "6ff6f5435010ea33354367a5ec21659d0bebe05a",
+      "title": "Acute effects of night-time noise exposure on blood pressure in populations living near airports."
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "09cd9fe33864e7b4b3e9d8822c3338a52e0657eb",
+      "title": "Tour generation for exploration of 3D virtual environments"
+    },
+    {
+      "paperId": "77fce98e11088aa0a47604620b93dd8ed1cd1068",
+      "title": "Navigation in 3D virtual environments: Effects of user experience and location-pointing navigation aids"
+    },
+    {
+      "paperId": "73b5c4d400ac7a12ce011380dba7f4d853fddd2d",
+      "title": "Legible Cities: Focus-Dependent Multi-Resolution Visualization of Urban Relationships"
+    },
+    {
+      "paperId": "f4908887d39e18bcde599c002d9f4ed0d97fca8b",
+      "title": "The impact of the physical and urban environment on mental well-being."
+    },
+    {
+      "paperId": "a6f0b7a7fbadc9402cf327aa2fb0d9c66a316c91",
+      "title": "3D User Interfaces: Theory and Practice"
+    },
+    {
+      "paperId": "a8e98b16c4911706b5d6e933c3cf3c03b8056edc",
+      "title": "An extensible, modular architecture for simulating urban development, transportation, and environmental impacts"
+    },
+    {
+      "paperId": "7c42ee9227fa4ce47380c222d2acaa268e9759bd",
+      "title": "Remote Sensing"
+    },
+    {
+      "paperId": "f1cf66d1e3352a483b04a5a13cc659b051ee35f4",
+      "title": "An integrated multiscale urban microclimate model for the urban thermal environment"
+    },
+    {
+      "paperId": "4b6fd0581455be92fcb1dedb27fdc9fb42b59a09",
+      "title": "Semantic 3D City Modeling and BIM"
+    },
+    {
+      "paperId": "ad2375f93a8b1cae80d76bad9d6108bd360ecbf6",
+      "title": "Near Real-Time Semantic View Analysis of 3D City Models in Web Browser"
+    },
+    {
+      "paperId": "bb0ba64c7f770416525f0964040c93b731134833",
+      "title": "A method for integrating an UBEM with GIS for spatiotemporal visualization and analysis"
+    },
+    {
+      "paperId": "77b6fb3130f2f9bdb64532a95b7f3434a5aa62d9",
+      "title": "Immersive representation of urban data"
+    },
+    {
+      "paperId": "15a9f8c64dbe72689e897468dcb7fa3c872e93dc",
+      "title": "How to Generate a Thousand Master Plans: A Framework for Computational Urban Design"
+    },
+    {
+      "paperId": "aa3dcf966fec2bcfaa1e6b1166dcb0f9d37769b0",
+      "title": "Large-scale parameterization of 3D building morphology in complex urban landscapes using aerial LiDAR and city administrative data"
+    },
+    {
+      "paperId": "1c3acc2fa3ab68a11e394ebaaae98f786a8c9197",
+      "title": "Applications of 3D City Models for a Better Understanding of the Built Environment"
+    },
+    {
+      "paperId": null,
+      "title": "Sustainable urban systems: Articulating a long-term convergence research agenda. A Report by the Advisory Committee for Environmental Research and Education"
+    },
+    {
+      "paperId": "460987f5598811356cc56ffdba68fd235fd5b582",
+      "title": "Immersive Urban Analytics through Exploded Views"
+    },
+    {
+      "paperId": "e074db93e405b7c0a600202a685eadd59061901d",
+      "title": "A Taxonomy of Integration Techniques for Spatial and Non-Spatial Visualizations"
+    },
+    {
+      "paperId": "5cae80e1aef8eefb3621d05a086e3327787c4cc3",
+      "title": "A geometric and semantic evaluation of 3D data sourcing methods for land and property information"
+    },
+    {
+      "paperId": "1fc1fe69d73a16117b102b87c0d76aaaaa21d731",
+      "title": "Multi-Perspective Detail+Overview Visualization for 3D Building Exploration"
+    },
+    {
+      "paperId": "2fad719d066081350ceee21fae5d8ba9697ad462",
+      "title": "Noise: The Invisible Pollutant that Cannot Be Ignored"
+    },
+    {
+      "paperId": "60db1d762152aad970b227b17f235e09f6c05d6b",
+      "title": "Computing continuous sky view factors using 3D urban raster and vector databases: comparison and application to urban climate"
+    },
+    {
+      "paperId": "379be5f87ab8ffe8f8f5b3e2b8bc85a996af4bb0",
+      "title": "Impact of road traffic noise annoyance on health-related quality of life: results from a population-based study"
+    },
+    {
+      "paperId": null,
+      "title": "Neighborhood noise and its consequences"
+    },
+    {
+      "paperId": null,
+      "title": "Towards the use of local governmental 3\u2010D data within urban climatology studies"
+    },
+    {
+      "paperId": null,
+      "title": "Using ArcGIS geostatistical analyst , vol. 380"
+    },
+    {
+      "paperId": "e123280220eafd486ebdcae481ffcced3aaf697a",
+      "title": "KEPLER"
+    },
+    {
+      "paperId": null,
+      "title": "Future Cities: Why Digital Twins Need to Take Complexity Science on Board"
+    },
+    {
+      "paperId": "a3593c50d3abfcf22c9119622a30935227347a14",
+      "title": "International Journal of Geographical Information Science a Visualization-oriented 3d Method for Efficient Computation of Urban Solar Radiation Based on 3d\u20132d Surface Mapping a Visualization-oriented 3d Method for Efficient Computation of Urban Solar Radiation Based on 3d\u20132d Surface Mapping"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": null,
+      "title": "Computational method for variable objectives and context aware solar envelopes generation"
+    },
+    {
+      "paperId": null,
+      "title": "of 31 Miranda et al. / The State of 2015 IEEE Int. Conf. on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (Shenzhen, China, 2015)"
+    },
+    {
+      "paperId": null,
+      "title": "A case study on the relationship between urban morphology and traffic noise distribution in high-density urban context"
+    },
+    {
+      "paperId": null,
+      "title": "Conditional generative adversarial networks for pedestrian wind flow approximation"
+    },
+    {
+      "paperId": null,
+      "title": "Evaluating the influence of three simplifications on natural ventilation rate simulation"
+    },
+    {
+      "paperId": null,
+      "title": "Sun and wind: Integrated environmental performance analysis for building and pedestrian comfort"
+    },
+    {
+      "paperId": null,
+      "title": ", \u00a92024TheAuthors. ComputerGraphicsForumpublishedbyEurographicsandJohnWiley"
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+  "externalIds": {
+    "MAG": "2158453355",
+    "DBLP": "conf/eurographics/LandesbergerKSK10",
+    "DOI": "10.1111/j.1467-8659.2011.01898.x",
+    "CorpusId": 69075
+  },
+  "publicationVenue": {
+    "id": "17cdf4bb-fc81-4200-8331-d0a9ebaad546",
+    "name": "Eurographics",
+    "type": "conference",
+    "alternate_names": [
+      "Annu Conf Eur Assoc Comput Graph",
+      "Annual Conference of the European Association for Computer Graphics"
+    ],
+    "issn": "0946-2767",
+    "url": "https://www.eg.org/wp/",
+    "alternate_urls": [
+      "https://www.eg.org/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/eee930533b539d872d7777aa6e7fa767b1fa6822",
+  "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges",
+  "abstract": "The analysis of large graphs plays a prominent role in various fields of research and is relevant in many important application areas. Effective visual analysis of graphs requires appropriate visual presentations in combination with respective user interaction facilities and algorithmic graph analysis methods. How to design appropriate graph analysis systems depends on many factors, including the type of graph describing the data, the analytical task at hand and the applicability of graph analysis methods. The most recent surveys of graph visualization and navigation techniques cover techniques that had been introduced until 2000 or concentrate only on graph layouts published until 2002. Recently, new techniques have been developed covering a broader range of graph types, such as time\u2010varying graphs. Also, in accordance with ever growing amounts of graph\u2010structured data becoming available, the inclusion of algorithmic graph analysis and interaction techniques becomes increasingly important. In this State\u2010of\u2010the\u2010Art Report, we survey available techniques for the visual analysis of large graphs. Our review first considers graph visualization techniques according to the type of graphs supported. The visualization techniques form the basis for the presentation of interaction approaches suitable for visual graph exploration. As an important component of visual graph analysis, we discuss various graph algorithmic aspects useful for the different stages of the visual graph analysis process. We also present main open research challenges in this field.",
+  "venue": "Eurographics",
+  "year": 2011,
+  "referenceCount": 220,
+  "openAccessPdf": {
+    "url": "https://kops.uni-konstanz.de/bitstreams/3466ff8f-c6b0-414a-b924-25d375290ab5/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2011-04-21",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Landesberger2011VisualAO,\n author = {T. V. Landesberger and Arjan Kuijper and Tobias Schreck and J. Kohlhammer and J. V. Wijk and Jean-Daniel Fekete and D. Fellner},\n booktitle = {Eurographics},\n journal = {Computer Graphics Forum},\n title = {Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges},\n volume = {30},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2277743",
+      "name": "T. V. Landesberger"
+    },
+    {
+      "authorId": "145307900",
+      "name": "Arjan Kuijper"
+    },
+    {
+      "authorId": "1706471",
+      "name": "Tobias Schreck"
+    },
+    {
+      "authorId": "1682620",
+      "name": "J. Kohlhammer"
+    },
+    {
+      "authorId": "143693813",
+      "name": "J. V. Wijk"
+    },
+    {
+      "authorId": "144381703",
+      "name": "Jean-Daniel Fekete"
+    },
+    {
+      "authorId": "1734569",
+      "name": "D. Fellner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d3677d33ee03c4d6b8437fbf06a6b68f284c4b92",
+      "title": "Color Lens: Adaptive Color Scale Optimization for Visual Exploration"
+    },
+    {
+      "paperId": "0250ba7585cdd11a1ee6be9fbb62a6dc79c5b8e0",
+      "title": "The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration"
+    },
+    {
+      "paperId": "2a00ea0148c8d7f3aa79c70929ab4395ca5f1554",
+      "title": "GeneaQuilts: A System for Exploring Large Genealogies"
+    },
+    {
+      "paperId": "ffa9c32f5961b4ce2e0685737d33a83a85cf76a2",
+      "title": "Untangling Euler Diagrams"
+    },
+    {
+      "paperId": "85d5f4151d43cca3b43b30790725b156352bfc82",
+      "title": "Difference Map Readability for Dynamic Graphs"
+    },
+    {
+      "paperId": "09ad9bc3d6392ce24386cedb5bc02dd82f08a9f9",
+      "title": "Fast Dynamic Voronoi Treemaps"
+    },
+    {
+      "paperId": "e2539b92f32e6cee4536ae3d378ae09904c70d5a",
+      "title": "GraphDice: A System for Exploring Multivariate Social Networks"
+    },
+    {
+      "paperId": "0c5308e3c3d7f0c7f3f95f991654a6a443dd167a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Image-based Edge Bundles: Simplified Visualization of Large Graphs"
+    },
+    {
+      "paperId": "13ca78d3bb8bc93485c88365c58961ca7cbd2629",
+      "title": "M\u00e9lange: Space Folding for Visual Exploration"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "5e2bc315502b535471b8edb2a27dc4398413f1a9",
+      "title": "ManyNets: an interface for multiple network analysis and visualization"
+    },
+    {
+      "paperId": "50b9f94ef240d95bd0f134c68036e5aa1803f5b3",
+      "title": "Visual Analysis of Large Graphs Using (X,Y)-Clustering and Hybrid Visualizations"
+    },
+    {
+      "paperId": "727f2f6ba6547d271b44fba253069196b2e43c19",
+      "title": "GMap: Visualizing graphs and clusters as maps"
+    },
+    {
+      "paperId": "327292f7a20c23cef5ce4a19483f82b4213c9a90",
+      "title": "CGV - An interactive graph visualization system"
+    },
+    {
+      "paperId": "66445dc8b0a182b79809d507e69f036a61aab1fc",
+      "title": "Visual analysis of graphs with multiple connected components"
+    },
+    {
+      "paperId": "1cb68acd8c37d5939cabf2b4dd549ae60a3f4aba",
+      "title": "A multi-level middle-out cross-zooming approach for large graph analytics"
+    },
+    {
+      "paperId": "c6ef51f33638de913545f8ae4f565b9edfd4fccf",
+      "title": "A Comparison of User-Generated and Automatic Graph Layouts"
+    },
+    {
+      "paperId": "564fcefb6b848d79b7e8563b38c326b7b7ec3d6e",
+      "title": "Smooth Graphs for Visual Exploration of Higher-Order State Transitions"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "c756dffdfa900733a610540ec746420020da652e",
+      "title": "Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations"
+    },
+    {
+      "paperId": "0814831a8fa3025012b0f2cc367a7af86df0c368",
+      "title": "Unifying Runtime Adaptation and Design Evolution"
+    },
+    {
+      "paperId": "dc89c8d74b53372e30bcdc5133049da293019c3c",
+      "title": "Honeycomb: Visual Analysis of Large Scale Social Networks"
+    },
+    {
+      "paperId": "0d90d1938da14e1f5fe96e86d552e66fa3bab1e0",
+      "title": "CGD - A New Algorithm to Optimize Space Occupation in Ellimaps"
+    },
+    {
+      "paperId": "eb08afeb2d332bb17e8aa96c97346fb7d98dea9d",
+      "title": "Hubs and Authorities in a Spanish Co-authorship Network"
+    },
+    {
+      "paperId": "65a16d2ee91b75d05ce9a2615f149f4cc9294988",
+      "title": "Focused Animation of Dynamic Compound Graphs"
+    },
+    {
+      "paperId": "3f5764890ab70a8be3d1cc9f3b7d52013176a337",
+      "title": "Visual Graph Comparison"
+    },
+    {
+      "paperId": "103603177e7c072184aa1f1ce639b76ff5be8957",
+      "title": "Visual Analysis of Overlapping Biological Networks"
+    },
+    {
+      "paperId": "d67477a05bfa7010698f99dcf8f8aee1d4f58d15",
+      "title": "Towards an Aesthetic Dimensions Framework for Dynamic Graph Visualisations"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "2c01cd884bd2d6f768f81057c380834a8e100931",
+      "title": "Measuring Effectiveness of Graph Visualizations: A Cognitive Load Perspective"
+    },
+    {
+      "paperId": "a253d6f1d35e98fcf55c2e8a36ef2ac2412a3a41",
+      "title": "Visualizing the Evolution of Compound Digraphs with TimeArcTrees"
+    },
+    {
+      "paperId": "c99ad158075e06ace80d9cba3d887464aaffec5b",
+      "title": "Extended Excentric Labeling"
+    },
+    {
+      "paperId": "4910673eb9dbe3d5fb96845d2c28747570ed42c9",
+      "title": "Comparing the Readability of Graph Layouts using Eyetracking and Task-oriented Analysis"
+    },
+    {
+      "paperId": "a5269b5a3421821bb35f3f1a69717d33560301bc",
+      "title": "Structural differences between two graphs through hierarchies"
+    },
+    {
+      "paperId": "1ca3cb8e1929df6cf7af9999a66cddd94f46b53f",
+      "title": "Visual-Analytics Evaluation"
+    },
+    {
+      "paperId": "0f44c507de9bec171b126d0ef2cd802611b3fdb7",
+      "title": "TugGraph: Path-preserving hierarchies for browsing proximity and paths in graphs"
+    },
+    {
+      "paperId": "f5a1156c5c615e79cdc283cd1641f0af646f340c",
+      "title": "Point-based tree representation: A new approach for large hierarchies"
+    },
+    {
+      "paperId": "902702d8e3a5eed4617316e429255df7891a40e6",
+      "title": "A user study on visualizing directed edges in graphs"
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "ade8bb06516642e6781d4dbe59a3450a64ac8a92",
+      "title": "Topology Preserving Constrained Graph Layout"
+    },
+    {
+      "paperId": "93c20e6a249e3ef6ce70b167c3a3d64d4b68defa",
+      "title": "Subdivision Drawings of Hypergraphs"
+    },
+    {
+      "paperId": "e0eb49c6cb8064ac1eec7318e606a1f97667ea85",
+      "title": "Rapid Multipole Graph Drawing on the GPU"
+    },
+    {
+      "paperId": "4ab4b99ea5ea3e1c583c784c9f5640ef00493939",
+      "title": "Cyclic Leveling of Directed Graphs"
+    },
+    {
+      "paperId": "ea06732655570dbb940a0569779f83a4d414ec79",
+      "title": "Removing Node Overlaps Using Multi-sphere Scheme"
+    },
+    {
+      "paperId": "fe6963fe50e9d5748dd7c6f35b1b5d06ff51b892",
+      "title": "Dunnart: A Constraint-Based Network Diagram Authoring Tool"
+    },
+    {
+      "paperId": "5bb640b25977f512b35d87b7e846290b05108304",
+      "title": "Efficient Node Overlap Removal Using a Proximity Stress Model"
+    },
+    {
+      "paperId": "224f37fef1bd3c56887675c050bf0c3283b42b50",
+      "title": "SNAVI: Desktop application for analysis and visualization of large-scale signaling networks"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "31435e2ed9b48e1659786d51594ea713f2135c84",
+      "title": "Perceptual Organization in User-Generated Graph Layouts"
+    },
+    {
+      "paperId": "baad4249d40a44d718440dfd6ce931aa48c044ab",
+      "title": "Balloon Focus: a Seamless Multi-Focus+Context Method for Treemaps"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "2104706e12b2eb6fed89a110cc8304047a9694b1",
+      "title": "Exploration of Networks using overview+detail with Constraint-based cooperative layout"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "b800cbf14b572dd5dcf8ba28064ed8953d8b5c32",
+      "title": "Rapid Graph Layout Using Space Filling Curves"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "869924f0a7cd8c0dcde737e897430b901885a60a",
+      "title": "Visualizing Time-Dependent Data in Multivariate Hierarchic Plots - Design and Evaluation of an Economic Application"
+    },
+    {
+      "paperId": "1633a6173775edc8f7d702a57d891a3db398ced2",
+      "title": "GrouseFlocks: Steerable Exploration of Graph Hierarchy Space"
+    },
+    {
+      "paperId": "748c3921e6ad6fcdfa5229e678a842d6a5b2d4ae",
+      "title": "Timeline trees: visualizing sequences of transactions in information hierarchies"
+    },
+    {
+      "paperId": "c2d94b59b0a1eb53f498f0f51b487c9a7f692fb2",
+      "title": "As time goes by: integrated visualization and analysis of dynamic networks"
+    },
+    {
+      "paperId": "2bcdbe19a23abf381a0f2f7a8a2c1f91674bcb65",
+      "title": "What dynamic network metrics can tell us about developer roles"
+    },
+    {
+      "paperId": "320136005e4c5f1875bbe04d9b2fe474cdd09556",
+      "title": "Centrality Based Visualization of Small World Graphs"
+    },
+    {
+      "paperId": "0d04df18bae8db877f3e9e2269ef57d73a7c7ad3",
+      "title": "Integrating statistics and visualization: case studies of gaining clarity during exploratory data analysis"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "589f2ee3d3d5c7c90f0d8dcf298b72d43400b1aa",
+      "title": "On the Visualization of Social and other Scale-Free Networks"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "0c71f0880a11f961014f31e0c5ed43b57c9d7df1",
+      "title": "Analysis of Biological Networks"
+    },
+    {
+      "paperId": "aa60f3ea90f423cd06e523c57c38ba822bd13251",
+      "title": "ZAME: Interactive Large-Scale Graph Visualization"
+    },
+    {
+      "paperId": "3e0313bb3d1ad90dda65ae255edb0898de1bd7b4",
+      "title": "Visual analysis and exploration of complex corporate shareholder networks"
+    },
+    {
+      "paperId": "a701196e43797d9e3690214cf1072ee5bf51e69f",
+      "title": "Naviguer dans des grands arbres avec ControlTree"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "ac3c98f55efe292bd242bb2f2725a88d7ed6212f",
+      "title": "Multi-Level Graph Layout on the GPU"
+    },
+    {
+      "paperId": "bf91edbc13638182dae89e1faa2257f9eb08dae8",
+      "title": "VisLink: Revealing Relationships Amongst Visualizations"
+    },
+    {
+      "paperId": "63549b77855429ee5300d891b1fa3d911c6b8fdf",
+      "title": "Visualizing Changes of Hierarchical Data using Treemaps"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "a70f7e571ece7f667ed7223e61a70deff802c462",
+      "title": "WireVis: Visualization of Categorical, Time-Varying Data From Financial Transactions"
+    },
+    {
+      "paperId": "2860ce568c71506652616df2eaa3b6edd681ba23",
+      "title": "Using eye tracking to investigate graph layout effects"
+    },
+    {
+      "paperId": "d8fa3fb54d973d9396a9001de5959a1684ff3b07",
+      "title": "A comparison of vertex ordering algorithms for large graph visualization"
+    },
+    {
+      "paperId": "0121dbffbc4699a9995ace68ee17668f01a40091",
+      "title": "Placing connected components of disconnected graphs"
+    },
+    {
+      "paperId": "76af6552c9c710281d07700e93c7cf46e275d9a1",
+      "title": "MatLink: Enhanced Matrix Visualization for Analyzing Social Networks"
+    },
+    {
+      "paperId": "1f6237541ff2e94df4201489e675de46c04fb2eb",
+      "title": "CandidTree: Visualizing Structural Uncertainty in Similar Hierarchies"
+    },
+    {
+      "paperId": "9c77b75f260da18b87b09ddf89524d4d91a95907",
+      "title": "A Comparative Study of Four Hierarchy Browsers using the Hierarchical Visualisation Testing Environment (HVTE)"
+    },
+    {
+      "paperId": "c112dca5c8fd4dbdc5f35d7fd427b95f335d26cf",
+      "title": "The Aesthetics of Graph Visualization"
+    },
+    {
+      "paperId": "b5676837cb725e343cadae4f2acf4a6a98480e6a",
+      "title": "Online Dynamic Graph Drawing"
+    },
+    {
+      "paperId": "002e333efa48928ae85be23c9652e0a5c2877dbe",
+      "title": "In silico pathway reconstruction: Iron-sulfur cluster biogenesis in Saccharomyces cerevisiae"
+    },
+    {
+      "paperId": "52b9941f2bb3a2f2c604ea4767bdfdb85545e17b",
+      "title": "Collaborative Visual Analytics: Inferring from the Spatial Organization and Collaborative Use of Information"
+    },
+    {
+      "paperId": "f6f50ff792a5c62856fd76111c43954be9fc040f",
+      "title": "Toward a Multi-Analyst, Collaborative Framework for Visual Analytics"
+    },
+    {
+      "paperId": "a0a24e38d27609abbbfea4a1fe6b4909db8a01f3",
+      "title": "Time Tree: Exploring Time Changing Hierarchies"
+    },
+    {
+      "paperId": "01c3c86c5d68765438c7e191c054c5f9750f4073",
+      "title": "Balancing Systematic and Flexible Exploration of Social Networks"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "391c3b8b11ab882ef7b44b5464c3854d263302a0",
+      "title": "Visual Exploration of Complex Time-Varying Graphs"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "4c215523f9a874f5e4f58a8557b001ab8728b5e0",
+      "title": "Exploratory social network analysis with Pajek"
+    },
+    {
+      "paperId": "7c155186b86dd03d3f0b0db748694b76f1f53f83",
+      "title": "Sampling from large graphs"
+    },
+    {
+      "paperId": "db6b4b9f27f9e3113c0bfa423fb848c934e2d651",
+      "title": "Fisheye Tree Views and Lenses for Graph Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "e080fea0418b40014bd99c538d0c88e0c2b4c1e3",
+      "title": "Just how dense are dense graphs in the real world?: a methodological note"
+    },
+    {
+      "paperId": "a8e034dc1fdaf235ed415f1cff6cac76f274774a",
+      "title": "Distributed force-directed graph layout and visualization"
+    },
+    {
+      "paperId": "ec09a578748bf1d09e9a5cc86d2dbc8a0e64bbee",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Phyllotrees: Phyllotactic Patterns for Tree Layout"
+    },
+    {
+      "paperId": "3242e9081a7870e292630d83520474082a099b14",
+      "title": "Visual exploration of multivariate graphs"
+    },
+    {
+      "paperId": "75e1bf2c5d4b7bdffc002290262c2a12d3995e90",
+      "title": "Regular TreeMap layouts for visual analysis of hierarchical data"
+    },
+    {
+      "paperId": "d5e71778fce58565ed17ce8b96b81fea6ddc42c3",
+      "title": "Elastic hierarchies: combining treemaps and node-link diagrams"
+    },
+    {
+      "paperId": "77621ae2016b6c4e68b10251a212d2c726736a3c",
+      "title": "Dig-CoLa: directed graph layout through constrained energy minimization"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "54c9911a37e11fb1239e7ea857f966777f09d1ed",
+      "title": "Visualization of graphs with associated timeseries data"
+    },
+    {
+      "paperId": "881432678bdd51fe8887ca1fb29736cf313a316f",
+      "title": "Importance-driven visualization layouts for large time series data"
+    },
+    {
+      "paperId": "d2e0c09a871423ead7290c624e9775f1efbf6ffe",
+      "title": "MAVisto: a tool for the exploration of network motifs"
+    },
+    {
+      "paperId": "89874d244c4016511183115bed017e77837f74b2",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Arctrees: Visualizing Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "f86ecd61172c64856d57b0b439f6a653ccfee3c8",
+      "title": "Voronoi treemaps for the visualization of software metrics"
+    },
+    {
+      "paperId": "f9646ff198b95e20057b57e7092c0e914f1e8a7f",
+      "title": "Discovering parametric clusters in social small-world graphs"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "d279d7d921525d5dc3644d0f7e3c994a58caedda",
+      "title": "Dynamic Drawing of Clustered Graphs"
+    },
+    {
+      "paperId": "55f5d7e75d6f8da7920ef3220576b19ac3249831",
+      "title": "Metric-Based Network Exploration and Multiscale Scatterplot"
+    },
+    {
+      "paperId": "aea3e7f04289a619f63927cd6764327b36b6326f",
+      "title": "Matrix Zoom: A Visual Interface to Semi-External Graphs"
+    },
+    {
+      "paperId": "3ae63beeba522aea893f2aa97dca037b93e20aa3",
+      "title": "User Experiments with Tree Visualization Systems"
+    },
+    {
+      "paperId": "4effb869de6edd5e6e7e1ec476ab402fa9d28c55",
+      "title": "A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations"
+    },
+    {
+      "paperId": "3a389251f7e3879622eff52da5493cdc56a0ace4",
+      "title": "Drawing Large Graphs with a Potential-Field-Based Multilevel Algorithm"
+    },
+    {
+      "paperId": "b71feaf77b8c9341564e906819fc45367ff67123",
+      "title": "Dynamic Graph Drawing of Sequences of Orthogonal and Hierarchical Graphs"
+    },
+    {
+      "paperId": "639ad7c2f987b29a96c035c187a5d037de4fa3db",
+      "title": "LGL: creating a map of protein function with an algorithm for visualizing very large biological networks."
+    },
+    {
+      "paperId": "a2105bb4f14fb27c43d9b130d0c582c460060165",
+      "title": "DOITrees revisited: scalable, space-constrained visualization of hierarchical data"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "38aa403e545b5c2965841e337e8d1d0c344cde79",
+      "title": "Multiscale visualization of small world networks"
+    },
+    {
+      "paperId": "2f43a4490ef40fb15f23068a8f6dcca125207c8a",
+      "title": "Overlaying Graph Links on Treemaps"
+    },
+    {
+      "paperId": "38024c43034e680398fc27d2dc98f63ab028f9ad",
+      "title": "Using multilevel call matrices in large software projects"
+    },
+    {
+      "paperId": "dfab8a68d29bb0d9da9bdb4d60bb1393fe684c62",
+      "title": "GraphAEL: Graph Animations with Evolving Layouts"
+    },
+    {
+      "paperId": "baafb9f23ee511930104e4b15532b6094f429c8b",
+      "title": "Algorithms for estimating relative importance in networks"
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "b5c3c4142e579cd4cd9663d3472b460beb4bc843",
+      "title": "GraphSplatting: Visualizing Graphs as Continuous Fields"
+    },
+    {
+      "paperId": "c9af1bc04bb18d0ccb218e4ce60606ba43db4fe3",
+      "title": "Visual Unrolling of Network Evolution and the Analysis of Dynamic Discourse\u2020"
+    },
+    {
+      "paperId": "08ce30ab502d2c933c6424cd4bea2ad82016797e",
+      "title": "ACE: a fast multiscale eigenvectors computation for drawing huge graphs"
+    },
+    {
+      "paperId": "2681b7adb8c5f6c97ac28e7955570d678677ae89",
+      "title": "Beamtrees: compact visualization of large hierarchies"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "18bb3164dff96dd5326b816a703bfa5564b28f7d",
+      "title": "Visual unrolling of network evolution and the analysis of dynamic discourse"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "20f511ab51666c844abf42547ed11c9a70377217",
+      "title": "A survey of graph layout problems"
+    },
+    {
+      "paperId": "db859fc2c26c03d5331b73da24927c17ed9dcc76",
+      "title": "Some Modifications of Sugiyama Approach"
+    },
+    {
+      "paperId": "79e8dba83c640fce5badea67f4e724bc62c99fd1",
+      "title": "Two-dimensional packing algorithms for layout of disconnected graphs"
+    },
+    {
+      "paperId": "7922679e8e9430bc1c578ce70de98cd29a8a16db",
+      "title": "Degree-of-interest trees: a component of an attention-reactive user interface"
+    },
+    {
+      "paperId": "fea4ae34b4a7086d1b36e17aed86ea6d24eb6eb4",
+      "title": "PhotoMesa: a zoomable image browser using quantum treemaps and bubblemaps"
+    },
+    {
+      "paperId": "47a754668bcff052baf14bbab39a337c9d120df1",
+      "title": "A comparison of 2-D visualizations of hierarchies"
+    },
+    {
+      "paperId": "5db83511f3adc4f743819d763fafefe789eb9e94",
+      "title": "Disconnected Graph Layout and the Polyomino Packing Approach"
+    },
+    {
+      "paperId": "42032fb4313b6e419ff74a1ee2a2047ceb9970e3",
+      "title": "Preserving the Mental Map using Foresighted Layout"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "3d1c828c631a1aac071653f2bdd85daed55bbaa4",
+      "title": "Hyper Mochi Sheet: a predictive focusing interface for navigating and editing nested networks through a multi-focus distortion-oriented view"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "a5c739abe36fc3ce1abc509a9c7385af120c39a3",
+      "title": "Competitive learning of network diagram layout"
+    },
+    {
+      "paperId": "c5d2a7ddc8bd849f6c5e42965f3ce54ee85ca2f9",
+      "title": "H3: laying out large directed graphs in 3D hyperbolic space"
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "52e2d4299190d1391ca92794e9e708b5c4f6463c",
+      "title": "Graph Theory"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "1676d424ee8e87e0298bbfa063f6f19165ba8a26",
+      "title": "Navigating hierarchically clustered networks through fisheye and full-zoom methods"
+    },
+    {
+      "paperId": "d2ba9cf376f1fb65b4351b294ffe88568b198b3a",
+      "title": "Dynamic Graph Drawings: Trees, Series-Parallel Digraphs, and Planar ST-Digraphs"
+    },
+    {
+      "paperId": "6d737f54442ff4bc333a34ef9f2f2e8f36c5109a",
+      "title": "Incremental Layout in DynaDAG"
+    },
+    {
+      "paperId": "5941abe345d4bd1a5f15d6ee9142a111e6b18a2a",
+      "title": "A focus+context technique based on hyperbolic geometry for visualizing large hierarchies"
+    },
+    {
+      "paperId": "916879db7769e9978ad8628f17b05798a5d2bf82",
+      "title": "A Fast Adaptive Layout Algorithm for Undirected Graphs"
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "3d41015569bf4299ac83451c3f42b13a02ce29fb",
+      "title": "A Technique for Drawing Directed Graphs"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "2bce3652255bbd533973626bd7cfde23a57bd6c0",
+      "title": "Graphical fisheye views of graphs"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "eea094ba215c5a6b1b178fd3190f4e10b5d5ca98",
+      "title": "Graph drawing by force\u2010directed placement"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "8e17c434bc40ce5c41701ab638e8d9344e733565",
+      "title": "An Algorithm for Drawing General Undirected Graphs"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "34c4e6af91b25f426fde84d1c4556256f07e6e81",
+      "title": "Methods for Visual Understanding of Hierarchical System Structures"
+    },
+    {
+      "paperId": "2c8681ca5e2cb5047a7d39790261e0d665106a64",
+      "title": "The Solution of a Problem by Ginsburg"
+    },
+    {
+      "paperId": null,
+      "title": "submittedtoCOMPUTERGRAPHICS"
+    },
+    {
+      "paperId": "58b1340e61e6eca5a59045d9c4923951e44ac965",
+      "title": "A Visual Survey of Tree Visualization"
+    },
+    {
+      "paperId": "d6a4a349936de90fa26799e3afc3a40e774077cf",
+      "title": "Visual analysis of large graphs using (X,Y)-clustering and hybrid visualizations"
+    },
+    {
+      "paperId": "0c349f4952b7b0fe7c86c95c5e4af37abe91a889",
+      "title": "A System for Interactive Visual Analysis of Large Graphs Using Motifs in Graph Editing and Aggregation"
+    },
+    {
+      "paperId": "cd1ddc8081574b71d43f02fbbbc1e6c6da7cdd3e",
+      "title": "Visualizing very large layered graphs with quilts"
+    },
+    {
+      "paperId": "529edc39a1a264593f22715de094c6f325e9bf82",
+      "title": "Visual Data Mining - Theory, Techniques and Tools for Visual Analytics"
+    },
+    {
+      "paperId": "20986d098dfb842d878c77266e359161e5c14182",
+      "title": "5 Challenges and Unsolved Problems"
+    },
+    {
+      "paperId": "8238007f0d36c7216d4582b2675beb10a12bc896",
+      "title": "Information Visualization in Co-located Collaborative Environments"
+    },
+    {
+      "paperId": "21798952a8f4c9e21b36532aa0791d041d55186a",
+      "title": "Exploration of the 3 D Treemap Design Space"
+    },
+    {
+      "paperId": "b2352147a4992807c1a3a1a7e037d0b4225731bb",
+      "title": "Browsing the Web Using Stacked Three-Dimensional Sunbursts to Visualize Term Co-Occurrences and Multimedia Content"
+    },
+    {
+      "paperId": "84da2cd467d53ed863e783e7ce58a23b335eedf9",
+      "title": "Coordinated perspectives and enhanced force-directed layout for the analysis of network motifs"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "c2c47a0d93d990be9fe21e9b1c7d8109c3a68345",
+      "title": "Visual Exploration of Complex Time-Varying Graphs"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": null,
+      "title": "hal-00712779, version 1 -28 Jun 2012 and Computer Graphics"
+    },
+    {
+      "paperId": "02adbaf8d905aa3c84f89cfaf33112b28f90da91",
+      "title": "Visualizing Uncertainty for Improved Decision Making"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "23fa89ae96d9f1b3f07b2ac64e576a1f6c8d7588",
+      "title": "Exploratory Social Network Analysis with Pajek"
+    },
+    {
+      "paperId": "8273bc0b79b13e6127330db15ecf3dc00dd4421e",
+      "title": "Dynamic Graph Drawing of Sequences of Orthogonal and Hierarchical Graphs"
+    },
+    {
+      "paperId": "307ee864df026346ba4a4eeca43f11066433204e",
+      "title": "Energy Models for Drawing Clustered Small-World Graphs?"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "BEDERSON B"
+    },
+    {
+      "paperId": "f2e29cc309a6ea2a2580e22e027152a49cbd17d6",
+      "title": "Animating Treemaps"
+    },
+    {
+      "paperId": "929c0833ef4bdc53f59971c0486fd30412debc7d",
+      "title": "Self-Organizing Maps, Third Edition"
+    },
+    {
+      "paperId": "c0147b41048540b8cb461da8216cbc565dca050e",
+      "title": "Squarified Treemaps"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Morgan Kaufmann"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "TOLLIS I"
+    },
+    {
+      "paperId": null,
+      "title": "Graph Drawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": "baa947a750b2d5714284386e2d7a2b7e838da7dc",
+      "title": "Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs"
+    },
+    {
+      "paperId": null,
+      "title": "RIEDL J"
+    },
+    {
+      "paperId": "4f337b268265e27b2ed8ea21115704e9b9f1273a",
+      "title": "Centrality in Social Networks"
+    },
+    {
+      "paperId": "db3a261581521f007af8d6aa267b5dfcf73591e2",
+      "title": "A Heuristic for Graph Drawing"
+    },
+    {
+      "paperId": "4a2cc1f838b10796795d949cfc6ba84eda4855b9",
+      "title": "The NEGOPY network analysis program"
+    },
+    {
+      "paperId": "5d61ef638fd684facc1e68e654053e9bc065b36f",
+      "title": "Centrality in social networks conceptual clarification"
+    },
+    {
+      "paperId": "4f08a18f205e41c786fc80160ce8e133d50832dc",
+      "title": "On the shortest spanning subtree of a graph and the traveling salesman problem"
+    },
+    {
+      "paperId": null,
+      "title": "WONG P"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "e585efc84efa16d794fe712c1095556eadfbe0b8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Winding Roads: Routing Edges into Bundles"
+    },
+    {
+      "paperId": "137f43aba379073643fd2bfc11641c5c73cee844",
+      "title": "Journal of Graph Algorithms and Applications Large-graph Layout Algorithms at Work: an Experimental Study"
+    },
+    {
+      "paperId": "1fe958ab5909b31022795ed7ba37e491cb229996",
+      "title": "Journal of Graph Algorithms and Applications Visual Analysis of One-to-many Matched Graphs"
+    },
+    {
+      "paperId": "27f89778a19c3347d3b28dec4d03fc7a24d68934",
+      "title": "Journal of Graph Algorithms and Applications Grip: Graph Drawing with Intelligent Placement"
+    },
+    {
+      "paperId": "c69e66a7c4568ab25976bc8435f3ad9decca25a9",
+      "title": "Journal of Graph Algorithms and Applications Graph Drawing by High-dimensional Embedding"
+    },
+    {
+      "paperId": null,
+      "title": "NATIoN 0"
+    },
+    {
+      "paperId": "4182c26de6480fa3adcfa90490b6347325896acc",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Timeradartrees: Visualizing Dynamic Compound Digraphs"
+    },
+    {
+      "paperId": "00d0a7c656e7d73123d040c4a7c0fc246412690f",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Topolayout: Multi-level Graph Layout by Topological Features"
+    },
+    {
+      "paperId": "7e6a138aa1204048a037f59939b2315c44ca3fc2",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Smallworlds: Visualizing Social Recommendations"
+    },
+    {
+      "paperId": null,
+      "title": "Topology-aware navigation in large net works"
+    }
+  ]
+}

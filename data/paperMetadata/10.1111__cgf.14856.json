@@ -1,0 +1,576 @@
+{
+  "paperId": "5e37f4f3692c8413b856e5f9c3092d9881b7ce5e",
+  "externalIds": {
+    "DBLP": "journals/cgf/KaleSP23",
+    "DOI": "10.1111/cgf.14856",
+    "CorpusId": 259263777
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/5e37f4f3692c8413b856e5f9c3092d9881b7ce5e",
+  "title": "The State of the Art in Visualizing Dynamic Multivariate Networks",
+  "abstract": "Most real\u2010world networks are both dynamic and multivariate in nature, meaning that the network is associated with various attributes and both the network structure and attributes evolve over time. Visualizing dynamic multivariate networks is of great significance to the visualization community because of their wide applications across multiple domains. However, it remains challenging because the techniques should focus on representing the network structure, attributes and their evolution concurrently. Many real\u2010world network analysis tasks require the concurrent usage of the three aspects of the dynamic multivariate networks. In this paper, we analyze current techniques and present a taxonomy to classify the existing visualization techniques based on three aspects: temporal encoding, topology encoding, and attribute encoding. Finally, we survey application areas and evaluation methods; and discuss challenges for future research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2023,
+  "referenceCount": 128,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14856",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kale2023TheSO,\n author = {B. Kale and Maoyuan Sun and M. Papka},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Visualizing Dynamic Multivariate Networks},\n volume = {42},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145523800",
+      "name": "B. Kale"
+    },
+    {
+      "authorId": "3019868",
+      "name": "Maoyuan Sun"
+    },
+    {
+      "authorId": "1857295",
+      "name": "M. Papka"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "702a352811e138c226bc90ebb1b2fdf89dfda990",
+      "title": "Toward Systematic Design Considerations of Organizing Multiple Views"
+    },
+    {
+      "paperId": "298c568bb99c9e6cf3096e924abd1782b77fc46a",
+      "title": "Online force-directed algorithms for visualization of dynamic graphs"
+    },
+    {
+      "paperId": "8857482765fa8500b0bdfd9c120df0e4a06416da",
+      "title": "Dynamic graph exploration by interactively linked node-link diagrams and matrix visualizations"
+    },
+    {
+      "paperId": "dc903392e975b8bd0dc66e8c92a006047373113b",
+      "title": "Towards Systematic Design Considerations for Visualizing Cross-View Data Relationships"
+    },
+    {
+      "paperId": "251eb8e9f188b78698912128a307bf6258c04903",
+      "title": "SightBi: Exploring Cross-View Data Relationships with Biclusters"
+    },
+    {
+      "paperId": "650895125314792cf7508f9a2be8b67a3a4c8a74",
+      "title": "DPPIN: A Biological Repository of Dynamic Protein-Protein Interaction Network Data"
+    },
+    {
+      "paperId": "1803742149b88a9d78aae61f14bc9ed457c87461",
+      "title": "Exploratory User Study on Graph Temporal Encodings"
+    },
+    {
+      "paperId": "97e67a170707c6d1f6083311290a9186819945a7",
+      "title": "Know-What and Know-Who: Document Searching and Exploration using Topic-Based Two-Mode Networks"
+    },
+    {
+      "paperId": "22b06e336e079cc0b485d8e0069fb296b21220c6",
+      "title": "Scaffold Embeddings: Learning the Structure Spanned by Chemical Fragments, Scaffolds and Compounds"
+    },
+    {
+      "paperId": "506d2c6e42607e9964f9c375979d22a6cb421772",
+      "title": "DyEgoVis: Visual Exploration of Dynamic Ego-Network Evolution"
+    },
+    {
+      "paperId": "3f90726f112102b33d767bebd86b9950d3a38b88",
+      "title": "Analyzing Dynamic Hypergraphs with Parallel Aggregated Ordered Hypergraph Visualization"
+    },
+    {
+      "paperId": "afd6b39e98d414a88a8d7812c03cebc6ec3b62a9",
+      "title": "Understanding Missing Links in Bipartite Networks With MissBiN"
+    },
+    {
+      "paperId": "8d43e358d1f715ae1daccf1ac5ae21291dc085dc",
+      "title": "Visual Encodings for Networks with Multiple Edge Types"
+    },
+    {
+      "paperId": "ead8369641be2eae6e1d6d81f552324e335e17e5",
+      "title": "Time-Aligned Edge Plots for Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "a57728366f7a9f86d11ebc10b243e0909e7569cc",
+      "title": "The Effectiveness of Interactive Visualization Techniques for Time Navigation of Dynamic Graphs on Large Displays"
+    },
+    {
+      "paperId": "eab5b1440233796a4ec68b6b31af87d1350ed18b",
+      "title": "Multiscale Snapshots: Visual Analysis of Temporal Summaries in Dynamic Graphs"
+    },
+    {
+      "paperId": "5bf9453efa5bb90e36ee41110fb6714038ccd78c",
+      "title": "Visual Analytics for Temporal Hypergraph Model Exploration"
+    },
+    {
+      "paperId": "effbb017ba9ff622a096c3c7f18c45faea298713",
+      "title": "RadarViewer\u00a0: Visualizing the dynamics of multivariate data"
+    },
+    {
+      "paperId": "1d65631538dd7f9a420d7f4e9cb1dc1ab26f8b52",
+      "title": "Exploring Evolution of Dynamic Networks via Diachronic Node Embeddings"
+    },
+    {
+      "paperId": "a7959d00c3661f13a970a3dcc3ea5f32a0707468",
+      "title": "Evaluating Multivariate Network Visualization Techniques Using a Validated Design and Crowdsourcing Approach"
+    },
+    {
+      "paperId": "c414099627ff9b8c8d90fb2119c2e775e005a9f6",
+      "title": "Immersive Analytics of Large Dynamic Networks via Overview and Detail Navigation"
+    },
+    {
+      "paperId": "dbf6261448b94d1acbb3ef283e881a8345685008",
+      "title": "Interactive Bicluster Aggregation in Bipartite Graphs"
+    },
+    {
+      "paperId": "1aba6e3221af11183a333bb9d2faf447106737c1",
+      "title": "Node-Link or Adjacency Matrices: Old Question, New Insights"
+    },
+    {
+      "paperId": "7a7fdd25e21bda33f40128f2b219dc98db92df84",
+      "title": "MissBiN: Visual Analysis of Missing Links in Bipartite Networks"
+    },
+    {
+      "paperId": "893fff9856484957a93b9a15bc8025dccbd3ebf9",
+      "title": "Evaluation of a novel visualization for dynamic social networks"
+    },
+    {
+      "paperId": "67b9a8d88e3307ddeef177eda30f44bf99cb3f2f",
+      "title": "Evo-Clocks: Software Evolution at a Glance"
+    },
+    {
+      "paperId": "112ebc897586e8a8b82f8e448a5ee147f36be45a",
+      "title": "netflower: Dynamic Network Visualization for Data Journalists"
+    },
+    {
+      "paperId": "15827a8d91abcd211109abd9808e9cb0c1bc1dc3",
+      "title": "The State of the Art in Visualizing Multivariate Networks"
+    },
+    {
+      "paperId": "88bc61bcff88d427bfc03f5748fb6410a89aa146",
+      "title": "Dynamic Network Plaid: A Tool for the Analysis of Dynamic Networks"
+    },
+    {
+      "paperId": "73a5b6ca2f2dfc4daf7230faf0f77b5aca7bdaa1",
+      "title": "Visualization of Urban Mobility Data from Intelligent Transportation Systems"
+    },
+    {
+      "paperId": "7d0462ec453bd63db5345396e4785ac320cbad20",
+      "title": "Graph Thumbnails: Identifying and Comparing Multiple Graphs at a Glance"
+    },
+    {
+      "paperId": "535c8e668591bce32c2fa426ceb16b823815bbdb",
+      "title": "DMNEVis: A Novel Visual Approach to Explore Evolution of Dynamic Multivariate Network"
+    },
+    {
+      "paperId": "21d03e3254ed7938674e297ebbda3f466febae35",
+      "title": "Segue: Overviewing Evolution Patterns of Egocentric Networks by Interactive Construction of Spatial Layouts"
+    },
+    {
+      "paperId": "1b03de76b1912097ddb976114a86bac1685ca034",
+      "title": "Visualizing Research Impact through Citation Data"
+    },
+    {
+      "paperId": "271627fb15847c04b0c1a7b3f9263fbcb760216e",
+      "title": "TMNVis: Visual analysis of evolution in temporal multivariate network at multiple granularities"
+    },
+    {
+      "paperId": "0e2628b41eb8234b83c4a926a6026442ac856f21",
+      "title": "DyNetVis: a system for visualization of dynamic networks"
+    },
+    {
+      "paperId": "dd7680134dcf380f3815695bffe3288c00a09418",
+      "title": "An Efficient Approach to Event Detection and Forecasting in Dynamic Multivariate Social Media Networks"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "c3a7ddcf1dd281c7b4bcfe7273b10be6dd814116",
+      "title": "Visualizing Dynamic Hierarchies in Graph Sequences"
+    },
+    {
+      "paperId": "9798d96d4a0d7ef03456d07bb6f1e0a97156af20",
+      "title": "MENA: Visual Analysis of Multivariate Egocentric Network Evolution"
+    },
+    {
+      "paperId": "1a4acfba2fe96fff8fd7e2785f0cd7a425104300",
+      "title": "Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs"
+    },
+    {
+      "paperId": "10672e13dfcec206a78170f2dedb80515f999c6a",
+      "title": "A Distributed Multilevel Force-Directed Algorithm"
+    },
+    {
+      "paperId": "0c04da25d550aea1df734fd24fa89a60de849cf8",
+      "title": "Dynamic networks analysis and visualization through spatiotemporal link segmentation"
+    },
+    {
+      "paperId": "417c74fdcf8018a8531c0b7503e28c79d93e1779",
+      "title": "CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube"
+    },
+    {
+      "paperId": "9097271beb6ea506fbf7308c5149ca1252f37bed",
+      "title": "TimeArcs: Visualizing Fluctuations in Dynamic Networks"
+    },
+    {
+      "paperId": "5df7f277fe5d167dc0940015d65756ad3cea095d",
+      "title": "Chronicler: Interactive Exploration of Source Code History"
+    },
+    {
+      "paperId": "29781f6bfffd69553fde2472265abed12e058ca0",
+      "title": "Egocentric Analysis of Dynamic Networks with EgoLines"
+    },
+    {
+      "paperId": "8a71441d1d040c53a3c3eec3f10c5aedd22cedb2",
+      "title": "Telling Stories about Dynamic Networks with Graph Comics"
+    },
+    {
+      "paperId": "a9ad1757154190779da6de97f8a2bac4f62c8224",
+      "title": "Dynamic Visualization of Citation Networks Showing the Influence of Scholarly Fields over Time"
+    },
+    {
+      "paperId": "8696fb1bdba0c1c163aded5745decf3417695c00",
+      "title": "The dynamic graph wall: visualizing evolving graphs with multiple visual metaphors"
+    },
+    {
+      "paperId": "f3331ec43ed2d7c8144946ca4818a06a1c7dd536",
+      "title": "egoSlider: Visual Analysis of Egocentric Network Evolution"
+    },
+    {
+      "paperId": "a0e833912ff3cedfff101fa66bf928885ac3ecce",
+      "title": "MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering"
+    },
+    {
+      "paperId": "6fad843904a8206807101a772d843d6e2359e839",
+      "title": "BiSet: Semantic Edge Bundling with Biclusters for Sensemaking"
+    },
+    {
+      "paperId": "7677dc4ec0ca6523571ee643e5d32bc78d20873b",
+      "title": "Interactive Discovery of Coordinated Relationship Chains with Maximum Entropy Models"
+    },
+    {
+      "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+      "title": "A Task Taxonomy for Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "ed22e7a19400dbf3c47861c57596ec159f1ac4bf",
+      "title": "EgoNetCloud: Event-based egocentric dynamic network visualization"
+    },
+    {
+      "paperId": "a05e17fbe1347a8bbb5280e8fc0f43126eb75794",
+      "title": "3D DynNetVis \u2014 A 3D visualization technique for dynamic networks"
+    },
+    {
+      "paperId": "6705d7d425a4da7d33afbee00cc82c906f62b36f",
+      "title": "Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks"
+    },
+    {
+      "paperId": "b555c0e78682ddc1c948f4e55bd6750df570e2b0",
+      "title": "SVEN: Informative Visual Representation of Complex Dynamic Structure"
+    },
+    {
+      "paperId": "edaf3ed4ab0956763111c703ef80bf4f16088d5d",
+      "title": "A Five-Level Design Framework for Bicluster Visualizations"
+    },
+    {
+      "paperId": "22973d861bb4497fcef0c1c316e534c91386c1a3",
+      "title": "Analyzing high-dimensional multivar\u00edate network links with integrated anomaly detection, highlighting and exploration"
+    },
+    {
+      "paperId": "726667b492da419b1d7c8cf8f1002a6cb505b8c8",
+      "title": "AniMatrix: A Matrix-Based Visualization of Software Evolution"
+    },
+    {
+      "paperId": "7c888d1b9ab165308dd9ce46c43492c6b91b6064",
+      "title": "Bundled Visualization of DynamicGraph and Trail Data"
+    },
+    {
+      "paperId": "867dce5e62e6efed74851a4fc155fc984b460663",
+      "title": "Dynamic Network Visualization withExtended Massive Sequence Views"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "21256c969d3807e358b1220f33b8721ec5828f1b",
+      "title": "Visualizing dynamic networks with matrix cubes"
+    },
+    {
+      "paperId": "471f25e4f83ea2dae6cfb95743d0913731478176",
+      "title": "Interaction in the Visualization of Multivariate Networks"
+    },
+    {
+      "paperId": "9b4bdab7a4d4a04032a0eeb7fd402a1703ed57fc",
+      "title": "A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks"
+    },
+    {
+      "paperId": "8dcfb904550920a55638a44b82d6fcb46cce8f6b",
+      "title": "Dynamic protein interaction network construction and applications"
+    },
+    {
+      "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+      "title": "A Task Taxonomy for Network Evolution Analysis"
+    },
+    {
+      "paperId": "a0b10f1cca958a40367758859df4148f7cefded5",
+      "title": "Visualizing Change over Time Using Dynamic Hierarchies: TreeVersity2 and the StemView"
+    },
+    {
+      "paperId": "27365004b7985e97a48d9cea199a78faf837b213",
+      "title": "Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes"
+    },
+    {
+      "paperId": "e26e77fca73d97f6eb5f926e004c71dd6a01ee60",
+      "title": "Bixplorer: Visual Analytics with Biclusters"
+    },
+    {
+      "paperId": "cb4e2cac4cd872f17ecdfc1b8c19d98fcb3e2750",
+      "title": "Radial Layered Matrix Visualization of Dynamic Graphs"
+    },
+    {
+      "paperId": "7263f0bb4f72b4b424be3c43735085725bd3cad1",
+      "title": "A Matrix-Based Visualization for Exploring Dynamic Compound Digraphs"
+    },
+    {
+      "paperId": "010d45dd173c5dd93b0a953a273b7b59259096b1",
+      "title": "Initial Positioning Method for Online and Real-Time Dynamic Graph Drawing of Time Varying Data"
+    },
+    {
+      "paperId": "235cb5ae655a6ef6e8bc83f55e7cc89794115f87",
+      "title": "Interactive exploration of large-scale time-varying data using dynamic tracking graphs"
+    },
+    {
+      "paperId": "14e47ecf7ad7d5198535a46e91886a16a13f411d",
+      "title": "The future of security visualization: Lessons from network visualization"
+    },
+    {
+      "paperId": "1f2d508b51fce0868eef3dcd95aa1a4e3f880244",
+      "title": "Mental Map Preservation Helps User Orientation in Dynamic Graphs"
+    },
+    {
+      "paperId": "53a1e3d3c1db9a20e1e530d66e34dc037f82aa56",
+      "title": "Visualization for Changes in Relationships between Historical Figures in Chronicles"
+    },
+    {
+      "paperId": "b047f788c7b87eb9706acc249f6a5228dd746a38",
+      "title": "Time-aware visualization of document collections"
+    },
+    {
+      "paperId": "b05073ca7b8aa7398d341468eadf17623bd62161",
+      "title": "The mental map and memorability in dynamic graphs"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "746a54bbfee0c6883c61f964cad98c720d55d457",
+      "title": "Asymmetric Relations in Longitudinal Social Networks"
+    },
+    {
+      "paperId": "2b062b51aa7fcf5f7bcdf245e28ab15dbd2e34f7",
+      "title": "Parallel Edge Splatting for Scalable Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "d669e8efb8f1afeb4533b6ecc7d2851bb1da5bc9",
+      "title": "Constructing and visualizing chemical reaction networks from pi-calculus models"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "8ee551c47b26834fe493a12145e222ceadc1c59a",
+      "title": "NetVisia: Heat Map & Matrix Visualization of Dynamic Social Network Statistics & Content"
+    },
+    {
+      "paperId": "87b81de77257e61c4210cef1bf4228925fa9ab98",
+      "title": "Temporal Networks"
+    },
+    {
+      "paperId": "750528aea833ad3107843bd12bf0071b95e8cd3f",
+      "title": "Layered TimeRadarTrees"
+    },
+    {
+      "paperId": "f7d3b47f21b19faa1da7aad282a7c326a91f1520",
+      "title": "Visualizing the Evolution of Community Structures in Dynamic Social Networks"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "f26be70934c46adcb60e16c94cd015e0442e0dcd",
+      "title": "Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors"
+    },
+    {
+      "paperId": "a3752122485514fe98c7751ebf148d1a9fed8653",
+      "title": "Visual Network Analysis of Dynamic Metabolic Pathways"
+    },
+    {
+      "paperId": "bd113c0d43280ab533c7cf8ad64a5785c215438c",
+      "title": "Context preserving dynamic word cloud visualization"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "c77779232fd252904fe3a8672f19a82b67374cfc",
+      "title": "Pixel-Oriented Visualization of Change in Social Networks"
+    },
+    {
+      "paperId": "e2539b92f32e6cee4536ae3d378ae09904c70d5a",
+      "title": "GraphDice: A System for Exploring Multivariate Social Networks"
+    },
+    {
+      "paperId": "f34cc17937e7623f8e09ef4e3805ce017223d2f7",
+      "title": "Visualization of omics data for systems biology"
+    },
+    {
+      "paperId": "05f0b35f431b56ec426bbd20ef543677bed89db9",
+      "title": "A generic algorithm for layout of biological networks"
+    },
+    {
+      "paperId": "3f397e7dab0e253e0859d18bb5711b5471c657fe",
+      "title": "Graph Clustering Based on Structural/Attribute Similarities"
+    },
+    {
+      "paperId": "d67477a05bfa7010698f99dcf8f8aee1d4f58d15",
+      "title": "Towards an Aesthetic Dimensions Framework for Dynamic Graph Visualisations"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "925be5d5c91c54a0240e6fc1eab0ba3079bb4266",
+      "title": "An interactive reverse engineering environment for large-scale C++ code"
+    },
+    {
+      "paperId": "b5676837cb725e343cadae4f2acf4a6a98480e6a",
+      "title": "Online Dynamic Graph Drawing"
+    },
+    {
+      "paperId": "52b9941f2bb3a2f2c604ea4767bdfdb85545e17b",
+      "title": "Collaborative Visual Analytics: Inferring from the Spatial Organization and Collaborative Use of Information"
+    },
+    {
+      "paperId": "a8e034dc1fdaf235ed415f1cff6cac76f274774a",
+      "title": "Distributed force-directed graph layout and visualization"
+    },
+    {
+      "paperId": "75cf13f35bb4456270c1c7cb835e234d42b90af4",
+      "title": "Web site design with the patron in mind: A step-by-step guide for libraries"
+    },
+    {
+      "paperId": "aa487579601ae644ea79efdacd901a663363240d",
+      "title": "Visualizing multiple evolution metrics"
+    },
+    {
+      "paperId": "7e027afeb014d3740d2b9fbfbc1f78ce3b16597c",
+      "title": "Dynamic Network Visualization1"
+    },
+    {
+      "paperId": "8f3ea4c4374a59f2625a68e9498da03195f2efc0",
+      "title": "Layout Adjustment and the Mental Map"
+    },
+    {
+      "paperId": "b3b3d928da6426fba3a72cfb22fb26be5406e586",
+      "title": "Reduction of Visual Complexity in Dynamic Graphs"
+    },
+    {
+      "paperId": "064f48ff5b2336eb24781549615611e648c1dccc",
+      "title": "Reaction Network Viewer (ReNView): An open-source framework for reaction path visualization of chemical reaction systems"
+    },
+    {
+      "paperId": "d8a824919165f30b8adcfd88b3d60aea4510bea6",
+      "title": "DualNetView: Dual Views for Visualizing the Dynamics of Networks"
+    },
+    {
+      "paperId": "0f591873af262796cc9e701a545afa1994bf3f0e",
+      "title": "An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks"
+    },
+    {
+      "paperId": "c2041b9be031fc806e3806c6b306621d99045377",
+      "title": "City on the river: visualizing temporal collaboration"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "40e9d6939e54b230038ba164cd58dd18d820a8a4",
+      "title": "The Design Space of Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "c8b646d8c5f03f5b3ff86703181bbad85ed89f61",
+      "title": "Temporal Multivariate Networks"
+    },
+    {
+      "paperId": "f83299737cf128b46dad2b50366c37868cc6e6f1",
+      "title": "Visualizing Dynamic Call Graphs"
+    },
+    {
+      "paperId": "ab86ca21f8e4cac2af2afdd05b95fc8de8a186ca",
+      "title": "Visual Analysis of History of World Cup: A Dynamic Network with Dynamic Hierarchy and Geographic Clustering"
+    },
+    {
+      "paperId": "afd055e299d590df03d4fbd632a49845071567c0",
+      "title": "The Art and Science of Dynamic Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Beautiful evidence. Graphis Pr"
+    },
+    {
+      "paperId": "622abda156dc7c481ff8ab9b9910ec8821d4d175",
+      "title": "Social Network Analysis: Methods and Applications"
+    },
+    {
+      "paperId": "6b2bd273c3fd3627fec48b9e0251b14563c8a3f6",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Coherent Time-varying Graph Drawing with Multifocus+context Interaction"
+    },
+    {
+      "paperId": "39aadd7b9d2df7aff518ee5ce33fd16b45be8902",
+      "title": "Carnegie Mellon: Journal of Social Structure: Visualizing Social Networks Visualizing Social Networks"
+    },
+    {
+      "paperId": "4182c26de6480fa3adcfa90490b6347325896acc",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Timeradartrees: Visualizing Dynamic Compound Digraphs"
+    }
+  ]
+}

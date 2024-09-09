@@ -1,0 +1,1509 @@
+{
+  "paperId": "290882178c4ddace19fd7037c73d51867c3bb6e9",
+  "externalIds": {
+    "DBLP": "journals/cgf/BesanconYKY021",
+    "MAG": "3105602061",
+    "DOI": "10.1111/cgf.14189",
+    "CorpusId": 229269583
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/290882178c4ddace19fd7037c73d51867c3bb6e9",
+  "title": "The State of the Art of Spatial Interfaces for 3D Visualization",
+  "abstract": "We survey the state of the art of spatial interfaces for 3D visualization. Interaction techniques are crucial to data visualization processes and the visualization research community has been calling for more research on interaction for years. Yet, research papers focusing on interaction techniques, in particular for 3D visualization purposes, are not always published in visualization venues, sometimes making it challenging to synthesize the latest interaction and visualization results. We therefore introduce a taxonomy of interaction technique for 3D visualization. The taxonomy is organized along two axes: the primary source of input on the one hand and the visualization task they support on the other hand. Surveying the state of the art allows us to highlight specific challenges and missed opportunities for research in 3D visualization. In particular, we call for additional research in: (1) controlling 3D visualization widgets to help scientists better understand their data, (2) 3D interaction techniques for dissemination, which are under\u2010explored yet show great promise for helping museum and science centers in their mission to share recent knowledge, and (3) developing new measures that move beyond traditional time and errors metrics for evaluating visualizations that include spatial interaction.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 360,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14189",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-01-06",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "40"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Besan\u00e7on2021TheSO,\n author = {Lonni Besan\u00e7on and Anders Ynnerman and Daniel F. Keefe and Lingyun Yu and Tobias Isenberg},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art of Spatial Interfaces for 3D Visualization},\n volume = {40},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3384173",
+      "name": "Lonni Besan\u00e7on"
+    },
+    {
+      "authorId": "2318290954",
+      "name": "Anders Ynnerman"
+    },
+    {
+      "authorId": "145735309",
+      "name": "Daniel F. Keefe"
+    },
+    {
+      "authorId": "3050542",
+      "name": "Lingyun Yu"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1404477ac8050b0a37658b8e14ee76026683aa64",
+      "title": "The State of the Art"
+    },
+    {
+      "paperId": "843ec03429c02662a087ec6caa648703196f4137",
+      "title": "Tangible Volumetric Brushing in Augmented Reality"
+    },
+    {
+      "paperId": "7e4bfe0692133b08077ef2afc4b4b42d05ceb68d",
+      "title": "Open science saves lives: lessons from the COVID-19 pandemic"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "8ca6a3695f28b1af508b9d3e1ac82570165fbab8",
+      "title": "Investigating Bubble Mechanism for Ray-Casting to Improve 3D Target Acquisition in Virtual Reality"
+    },
+    {
+      "paperId": "2d78e785ba536e559fc144ffa511cef09a5766c5",
+      "title": "Graphical Perception for Immersive Analytics"
+    },
+    {
+      "paperId": "9d11d18c91aef64538156df205b1668af2821a2d",
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System"
+    },
+    {
+      "paperId": "a5d3fc38ca4b6b9fc9cb448504fa8c0488cf0c47",
+      "title": "A Model of Spatial Directness in Interactive Visualization"
+    },
+    {
+      "paperId": "8bc9b6328e86aa9d17868f63a140ea204b6c5ac3",
+      "title": "AR Pointer: Advanced Ray-Casting Interface Using Laser Pointer Metaphor for Object Manipulation in 3D Augmented Reality Environment"
+    },
+    {
+      "paperId": "f679cbf09aef2e14822befc979f476a001ed0aa9",
+      "title": "Bento Box: An Interactive and Zoomable Small Multiples Technique for Visualizing 4D Simulation Ensembles in Virtual Reality"
+    },
+    {
+      "paperId": "9d7e54c1659ac9abe2d16d4849edfc2e9e494c2a",
+      "title": "Hybrid Touch/Tangible Spatial 3D Data Selection"
+    },
+    {
+      "paperId": "63d88892c6a0712b1935d2255455fa1cbd5e2e02",
+      "title": "Multi-touch 3D positioning with the pantograph technique"
+    },
+    {
+      "paperId": "28561dc234e8cd228d2a30fccab52eee035de7d5",
+      "title": "A Vision of Bringing Immersive Visualization to Scientific Workflows"
+    },
+    {
+      "paperId": "8e61b97addeee54d6dd1858a45587a24224337f5",
+      "title": "RayCursor: A 3D Pointing Facilitation Technique based on Raycasting"
+    },
+    {
+      "paperId": "715ee4df06963f9eb9db5f04b5536c70ffba5dbb",
+      "title": "Scaptics and Highlight-Planes: Immersive Interaction Techniques for Finding Occluded Features in 3D Scatterplots"
+    },
+    {
+      "paperId": "50b279f036f704032e6c16dcc622e2aaca88998f",
+      "title": "Effects of 3D Rotational Jitter and Selection Methods on 3D Pointing Tasks"
+    },
+    {
+      "paperId": "c13e85c64fa74451ae0a922c70495bd361f5ba3c",
+      "title": "Worlds-in-Wedges: Combining Worlds-in-Miniature and Portals to Support Comparative Immersive Visualization of Forestry Data"
+    },
+    {
+      "paperId": "32470099d4748bfca5e283fd36c28f91b076ec28",
+      "title": "Empirical Research in Mid-Air Interaction: A Systematic Review"
+    },
+    {
+      "paperId": "6dce979927bc86e16ea1563e371b0fb45926e6c4",
+      "title": "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges"
+    },
+    {
+      "paperId": "6ac9bfe30b52a994e360ed4d69e34f7f4d8c999b",
+      "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights"
+    },
+    {
+      "paperId": "1ac4a389db3987773ec9e7c9ee7f0d225108e777",
+      "title": "Body-Prop Interaction: Augmented Open Discs and Egocentric Body-Based Interaction for Exploring Immersive Visualizations"
+    },
+    {
+      "paperId": "24f26b0e6a0f1a7c18270e5d118e775d9edadc84",
+      "title": "Interaction for Immersive Analytics"
+    },
+    {
+      "paperId": "da9c643cddcbc5416258db6b38247a32a12cc8cf",
+      "title": "OpenSpace: Bringing NASA Missions to the Public"
+    },
+    {
+      "paperId": "54b2f24cacb5978e3fc1ec1eb0e330900b6d5708",
+      "title": "Exploranation: A New Science Communication Paradigm"
+    },
+    {
+      "paperId": "2856398f8306af9f8724851f198040a97cd88b3f",
+      "title": "Use the Force Picker, Luke: Space-Efficient Value Input on Force-Sensitive Mobile Touchscreens"
+    },
+    {
+      "paperId": "ab98bd163ec1e4556eb2cfeb3a9039de37ae417b",
+      "title": "A Survey on 3D Virtual Object Manipulation: From the Desktop to Immersive Virtual Environments"
+    },
+    {
+      "paperId": "323e75d9d70a92cc8c57845fefcdbea5ef0f21e5",
+      "title": "Mobiles as Portals for Interacting with Virtual Data Visualizations"
+    },
+    {
+      "paperId": "e7e61d9aad4f0d60597db020fe0d3d4b46410330",
+      "title": "Yea Big, Yea High: A 3D User Interface for Surface Selection by Progressive Refinement in Virtual Environments"
+    },
+    {
+      "paperId": "e7181503f9a031ea50f44282a877eb73bacb7797",
+      "title": "RST 3D: A Comprehensive Gesture Set for Multitouch 3D Navigation"
+    },
+    {
+      "paperId": "2c97d045766ef4ce28d6db26a304c4976eb44368",
+      "title": "A Hybrid 2D/3D User Interface for Radiological Diagnosis"
+    },
+    {
+      "paperId": "627f6f46592b35f4d62c381b17e4e851c76d057b",
+      "title": "An interaction Continuum for 3D Dataset Visualization"
+    },
+    {
+      "paperId": "137bedc48e02a1e4dda25253ac9b516e80146ebf",
+      "title": "GazeTap: towards hands-free interaction in the operating room"
+    },
+    {
+      "paperId": "2ef382e5ba0a7f000ec8e7972d305f6c49f4b1cf",
+      "title": "Gaze + pinch interaction in virtual reality"
+    },
+    {
+      "paperId": "f0a13e686fe079de8628282cfdbbb857d5f62015",
+      "title": "Augmenting Tactile 3D Data Navigation With Pressure Sensing"
+    },
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "158d457af376b76fab90bf03d66022197bdbef79",
+      "title": "MagicPad HD: The Spatial User Interface"
+    },
+    {
+      "paperId": "28e83ba982b0c08f8c64343d54eb0f7cf2f490fb",
+      "title": "Design of an annotation system for taking notes in virtual reality"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "3eadff78e6a19e6aae092a8c31c77e52a1916048",
+      "title": "A novel method for planning liver resections using deformable B\u00e9zier surfaces and distance maps"
+    },
+    {
+      "paperId": "1f5324b94d1917f0a381627853ca8ef1e16603fb",
+      "title": "Gestures From the Point of View of an Audience: Towards Anticipatable Interaction of Presenters With 3D Content."
+    },
+    {
+      "paperId": "ba6226aa0fe54bec8e28f6971421c20619d2fbfe",
+      "title": "VRRRRoom: Virtual Reality for Radiologists in the Reading Room"
+    },
+    {
+      "paperId": "3cc21763385d2b842289f532ce5efcdf71271f6f",
+      "title": "Pressure-Based Gain Factor Control for Mobile 3D Interaction using Locally-Coupled Devices"
+    },
+    {
+      "paperId": "002d5dace985d10702cd002894187d10d9e52869",
+      "title": "Nouvelles approches pour la portabilit\u00e9, la non-intrusivit\u00e9 et l'accessibilit\u00e9 des interfaces de manipulation 3D. (New approaches for the portability, non-intrusiveness and accessibility of 3D manipulation interfaces)"
+    },
+    {
+      "paperId": "03d0485b47f1d9224f9f648f8e8de703846d5cb2",
+      "title": "Design space for spatio-data coordination: Tangible interaction devices for immersive information visualisation"
+    },
+    {
+      "paperId": "503467fca24c882e2ffab7511bcac8605a093704",
+      "title": "Touchless control module for diagnostic images at the surgery room using the Leap Motion system and 3D Slicer Software"
+    },
+    {
+      "paperId": "bae6018e5bcacce92309113386e2f7fa69be7847",
+      "title": "Analyza: Exploring Data with Conversation"
+    },
+    {
+      "paperId": "bd7135d0f64ae0138323c40ae1bc4e94c95e9a69",
+      "title": "Virtual reality assisted microscopy data visualization and colocalization analysis"
+    },
+    {
+      "paperId": "aab9eafc96cc27c69a30889f6fb5ec84b4c7e31f",
+      "title": "Touchless interaction with software in interventional radiology and surgery: a systematic literature review"
+    },
+    {
+      "paperId": "daedbd0932b7524c7926fbfa8665717679f0239f",
+      "title": "Interactive Exploration of Three-Dimensional Scientific Visualizations on Large Display Surfaces"
+    },
+    {
+      "paperId": "c9cde7090818eed56169cff3feb627c2806921ae",
+      "title": "Interactive visualization of 3d scanned mummies at public venues"
+    },
+    {
+      "paperId": "65903584ab5e98227c2ae239dcdd0e05da37c324",
+      "title": "Hand-posture-augmented multitouch interactions for exploratory visualization"
+    },
+    {
+      "paperId": "9c6e857f8a1f03940340d8d5e08bf39735483dd0",
+      "title": "Exploring Time-dependent Scientific Data Using Spatially Aware Mobiles and Large Displays"
+    },
+    {
+      "paperId": "0e937063fc0f5e640111d27e89b62c1caa35fa52",
+      "title": "Tangible Brush: Performing 3D Selection with Portable and Position-aware Devices"
+    },
+    {
+      "paperId": "1a44d0c0527d129f07caad29a038b269e1ba5acc",
+      "title": "Task Cube: A three-dimensional conceptual space of user tasks in visualization design and evaluation"
+    },
+    {
+      "paperId": "7fea55f86153a5d5cacf4080007f69c101fae36b",
+      "title": "Understanding 3D Mid-Air Hand Gestures with Interactive Surfaces and Displays: A Systematic Literature Review"
+    },
+    {
+      "paperId": null,
+      "title": "View-Dependent Streamline Deformation and Exploration"
+    },
+    {
+      "paperId": "f33d0fab2fa5fb3f7bc985d7968ae2ac561a123d",
+      "title": "Application of Natural User Interface Devices for Touch-Free Control of Radiological Images During Surgery"
+    },
+    {
+      "paperId": "719c6dfb8e43dcb37dc9e542d7c26be296a7053b",
+      "title": "State of the Art in Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "3765cd65853ef9ff401a328471d7e0ca30b5491b",
+      "title": "Kinemic Wave: A Mobile Freehand Gesture And Text-Entry System"
+    },
+    {
+      "paperId": "128319169acb64be13605e1a7f5a2b0d8b0a69de",
+      "title": "Towards An Understanding of Mobile Touch Navigation in a Stereoscopic Viewing Environment for 3D Data Exploration"
+    },
+    {
+      "paperId": "b68907f9769778cd11068fe7f70ab1947c95f3ca",
+      "title": "Design and Evaluation of Data Annotation Workflows for CAVE-like Virtual Environments"
+    },
+    {
+      "paperId": "38957d55463a44fe997320a554bfa8ea55daf96e",
+      "title": "Fostering comparisons: Designing an interactive exhibit that visualizes marine animal behaviors"
+    },
+    {
+      "paperId": "e36365cdbfc040df41fbcdd36fe12f9ebed6942f",
+      "title": "Mouse, Tactile, and Tangible Input for 3D Manipulation"
+    },
+    {
+      "paperId": "2cdb33e6b4aeafd8cbf075ffa921d29c85b17cf4",
+      "title": "Visualization, measurement and modelling of the cochlea using rotating midmodiolar slice planes"
+    },
+    {
+      "paperId": "da97aa5265121693d4587fc98f4c20316ad4a7d9",
+      "title": "A Tangible Volume for Portable 3D Interaction"
+    },
+    {
+      "paperId": "d290398541f4ffee0ad6485c54b844db870ca529",
+      "title": "Comparing Tangible and Multi-touch Interaction for Interactive Data Visualization Tasks"
+    },
+    {
+      "paperId": "83639ad4a5ccaac80d0b0c41298667a3130181e6",
+      "title": "CAST: Effective and Efficient User Interaction for Context-Aware Selection in 3D Particle Clouds"
+    },
+    {
+      "paperId": "8b6e29cf53130e536758ec767da9f23b848c1467",
+      "title": "Intuitive Exploration of Volumetric Data Using Dynamic Galleries"
+    },
+    {
+      "paperId": "36a607d93637475a3675ee55ee7a1c2eb6d4376a",
+      "title": "DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization"
+    },
+    {
+      "paperId": "3430cf94f4742b3afdb784f2e99871810f69dcba",
+      "title": "Top computational visualization R&D problems 2015: panel"
+    },
+    {
+      "paperId": "2a5572ccdbcae9902cf923ad9a729ed9981baf74",
+      "title": "Volume Haptics with Topology-Consistent Isosurfaces"
+    },
+    {
+      "paperId": "3f93738941e6a0c81310a74d6d3508bb8269964a",
+      "title": "Shape Displays: Spatial Interaction with Dynamic Physical Form"
+    },
+    {
+      "paperId": "102ae69cc4589ff893b794c55e5bb1e509253410",
+      "title": "Exploration of 3D Medical Image Data for Interventional Radiology using Myoelectric Gesture Control"
+    },
+    {
+      "paperId": "aa7e60e82cdd64608ebce328114c6f15eb705bc2",
+      "title": "Analysis of disruptive events and precarious situations caused by interaction with neurosurgical microscope"
+    },
+    {
+      "paperId": "2fccaa0c8ad0c727f1f7ec948ba9256092c2a64d",
+      "title": "Accurate, Robust, and Flexible Real-time Hand Tracking"
+    },
+    {
+      "paperId": "46319a01ec8834e4cc17553a32fc99a0f8a9c747",
+      "title": "Bema: A multimodal interface for expert experiential analysis of political assemblies at the Pnyx in ancient Greece"
+    },
+    {
+      "paperId": "4fe9542d395ff8f54b8cdc0a25b65bca915e8d6e",
+      "title": "Comparing indirect and direct touch in a stereoscopic interaction task"
+    },
+    {
+      "paperId": "eed55445a792c212c126594a1f1fe43bbd6f6dcc",
+      "title": "INSPECT: extending plane-casting for 6-DOF control"
+    },
+    {
+      "paperId": "b45db30656b1360f1ca085556da475f1a4b491a7",
+      "title": "Visualizing and analyzing dynamic meteorological data with virtual globes: A case study of tropical cyclones"
+    },
+    {
+      "paperId": "90dc3e29c7538b5dee402db7817aed37d47228c8",
+      "title": "Advances in Interaction with 3D Environments"
+    },
+    {
+      "paperId": "8b2b2400aa82c677124ab7a012005980802d1767",
+      "title": "Using a Tangible Versus a Multi-touch Graphical User Interface to Support Data Exploration at a Museum Exhibit"
+    },
+    {
+      "paperId": "e5c2b35639c9f6f6fdcbff20e8e84e0f62e510be",
+      "title": "Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "dcb708fad94a16d77a55a6b16e185198b7d1cebc",
+      "title": "A portable interface for tangible exploration of volumetric data"
+    },
+    {
+      "paperId": "5df4b8b880ce060d55dbe15152c5a7dceb9e4feb",
+      "title": "Scalable and interactive visual computing in geosciences and reservoir engineering"
+    },
+    {
+      "paperId": "0377e8da3b3569bb49f944020777ec10d76a93a7",
+      "title": "Interaction techniques as a communication channel when presenting 3D visualizations"
+    },
+    {
+      "paperId": "bf2679e921bcc8371724285e25975753ff73816f",
+      "title": "Air+touch: interweaving touch & in-air gestures"
+    },
+    {
+      "paperId": "6399045393f802880e61ed396b3896b6548ba4dc",
+      "title": "SAVE: saliency-assisted volume exploration"
+    },
+    {
+      "paperId": "87a9fbabb874bac24fe27c97c587452afeee39fb",
+      "title": "Coordinated 3D interaction in tablet- and HMD-based hybrid virtual environments"
+    },
+    {
+      "paperId": "22455f373ae8796c632910a00de0d3d41c2c05ec",
+      "title": "Combining multi-touch input and device movement for 3D manipulations in mobile augmented reality environments"
+    },
+    {
+      "paperId": "c2edeea78285590dd57c8b16a7a47cb978285155",
+      "title": "Interactive visual exploration of halos in large-scale cosmology simulation"
+    },
+    {
+      "paperId": "02e89c20d80ba2fab85bcd30eaf92b162cff512a",
+      "title": "Selection Classification for Interaction with Immersive Volumetric Visualizations"
+    },
+    {
+      "paperId": "e7630dcbb10a3e389131e608319fbb88ec60c3b4",
+      "title": "CAPTIVE: a cube with augmented physical tools"
+    },
+    {
+      "paperId": "05633adb5e7ef3e4d911c7f6fd0b1af72639f039",
+      "title": "Development of an Interactive Immersion Environment for Engendering Understanding about Nanotechnology: Concept, Construction, and Implementation"
+    },
+    {
+      "paperId": "b01a0bd13dad2520c0bf827b90cf8a127f5fe6de",
+      "title": "Effects of VR System Fidelity on Analyzing Isosurface Visualization of Volume Datasets"
+    },
+    {
+      "paperId": "e57f008a334c7ef62041d202a07ea8b8649730ec",
+      "title": "Touching the Cloud: Bimanual annotation of immersive point clouds"
+    },
+    {
+      "paperId": "3de127473b255fc5aee8bc64f762c759055638be",
+      "title": "Go'Then'Tag: A 3-D point cloud annotation technique"
+    },
+    {
+      "paperId": "39508c562d5c8e5edb2c224fb5c74130de9cd453",
+      "title": "Slicing techniques for handheld augmented reality"
+    },
+    {
+      "paperId": "f95614853c6e0be57ec1f75855c7865911b4a04a",
+      "title": "Slice-n-Swipe: A free-hand gesture user interface for 3D point cloud annotation"
+    },
+    {
+      "paperId": "ea1b87ae945dbe855dfc8961abcf556d246822f5",
+      "title": "Evolutionary joint selection to improve human action recognition with RGB-D devices"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "f1b46d713ea8ba851a0b67b5fe0e84b62c42a572",
+      "title": "A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures"
+    },
+    {
+      "paperId": "60362d68dd04df12a0be94abe80f5dcc5417d63b",
+      "title": "A study on the degrees of freedom in touchless interaction"
+    },
+    {
+      "paperId": "92ee372a46e29214335c6b632a1425fadf254d35",
+      "title": "Interactive Hand and Arm Gesture Control for 2D Medical Image and 3D Volumetric Medical Visualization"
+    },
+    {
+      "paperId": "128cfd9f85f6db1cc59b851f04a6060ff2973761",
+      "title": "Navigating and annotating 3D geological outcrops through multi-touch interaction"
+    },
+    {
+      "paperId": "62b53f91b6a3485251e65f52ae89bfce7f1bac5e",
+      "title": "Interactive manipulation of 3D objects using Kinect for visualization tools in education"
+    },
+    {
+      "paperId": "03468c69eab0cdfe5def9bfbfa622e7552626a22",
+      "title": "Multilevel interaction model for hierarchical tasks in information visualization"
+    },
+    {
+      "paperId": "6c16ef16ce5df41f1fd97ea300a09386ad21f302",
+      "title": "A pattern-based approach to presentations using slide facilities"
+    },
+    {
+      "paperId": "aa3467dd7a10673cc99a121e26783a6c66778b38",
+      "title": "A Survey of Interaction Techniques for Interactive 3D Environments"
+    },
+    {
+      "paperId": "13aa2851992bc1b870dda331b6373ed4ddc35dc6",
+      "title": "Reimagining the Scientific Visualization Interaction Paradigm"
+    },
+    {
+      "paperId": "a9bceaf79e5c7bea7c8f364e516409bed5898745",
+      "title": "A survey of 3D object selection techniques for virtual environments"
+    },
+    {
+      "paperId": "81dc0b845a1a8bfb5bbce37c14ba352a3d8eb288",
+      "title": "Overcoming limitations of the trackpad for 3d docking operations"
+    },
+    {
+      "paperId": "5fa0c49fee42542db6554f8c000aeec05a874871",
+      "title": "Sublimate: state-changing virtual and physical rendering to augment interaction with shape displays"
+    },
+    {
+      "paperId": "cbc67af6faaa5ea275b2371e6df916d7b13d8ce3",
+      "title": "Speech and motion control for interventional radiology: requirements and feasibility"
+    },
+    {
+      "paperId": "47ca5f45e8e83c17186633d930adf7d325beedc8",
+      "title": "Poster: Volume Cracker: A bimanual 3D interaction technique for analysis of raw volumetric data"
+    },
+    {
+      "paperId": "1383c8ac088972f8b626b3451a2ad404f21cbcc3",
+      "title": "Touch-Based Interfaces for Interacting with 3D Content in Public Exhibitions"
+    },
+    {
+      "paperId": "383c76c1564a82c408c36d38e3664e2d8a9994ba",
+      "title": "Evaluation of remote collaborative manipulation for scientific data analysis"
+    },
+    {
+      "paperId": "7ad1c58bdaaa8fd5e9d9d3529e63687b54e0d04c",
+      "title": "Natural interaction on 3D medical image viewer software"
+    },
+    {
+      "paperId": "4261e189451178c7bdcbb6f73e81759bf3d1c121",
+      "title": "Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input"
+    },
+    {
+      "paperId": "f016233585dc41d0c7dba51a90dea28ff9415714",
+      "title": "WYSIWYP: What You See Is What You Pick"
+    },
+    {
+      "paperId": "d7fd24eaecee8f2214c1b3523fb1d9e52f041c6a",
+      "title": "Enhanced feed-forward for a user aware multi-touch device"
+    },
+    {
+      "paperId": "84f37e2198fe1a610ff46709434746a91e3f4c3c",
+      "title": "Interactive Slice WIM: Navigating and Interrogating Volume Data Sets Using a Multisurface, Multitouch VR Interface"
+    },
+    {
+      "paperId": "97f4fcfc744678eaebe68297d88a1eacc103c8bc",
+      "title": "Two\u2010Finger Gestures for 6DOF Manipulation of 3D Objects"
+    },
+    {
+      "paperId": "d36d04d752e3069b7a8a5c0f1643e94baa31dce0",
+      "title": "A Design Study of Direct\u2010Touch Interaction for Exploratory 3D Scientific Visualization"
+    },
+    {
+      "paperId": "59bc6962257a0a22e5f046226b828b2f8b3d90ac",
+      "title": "Biopsy Planner \u2013 Visual Analysis for Needle Pathway Planning in Deep Seated Brain Tumor Biopsy"
+    },
+    {
+      "paperId": "b644d6579ac808455c37dc018f82e0b357c2ccdc",
+      "title": "Nailing down multi-touch: anchored above the surface interaction for 3D modeling and navigation"
+    },
+    {
+      "paperId": "c9bfc9978e31cc871282fc80d5af038469bbaf03",
+      "title": "PalmSpace: continuous around-device gestures vs. multitouch for 3D rotation tasks on mobile devices"
+    },
+    {
+      "paperId": "f833929a8b160b0fa09acf748913954fa978122d",
+      "title": "A gestural approach to presentation exploiting motion capture metaphors"
+    },
+    {
+      "paperId": "a9670a87037b0098341744aa7a3f6e874e120dcc",
+      "title": "VizDeck: self-organizing dashboards for visual analytics"
+    },
+    {
+      "paperId": "2244fecc766eab6b45d7a37c5b9852863c34d922",
+      "title": "Touchless gesture user interface for interactive image visualization in urological surgery"
+    },
+    {
+      "paperId": "84cfce3ccee7baaec365b30060cccce4f3ceeb4c",
+      "title": "Tangible remote controllers for wall-size displays"
+    },
+    {
+      "paperId": "9887595266b20e079d5a76531b90f7fcf8674e02",
+      "title": "A handle bar metaphor for virtual object manipulation with mid-air interaction"
+    },
+    {
+      "paperId": "ee4c5402539a819a62f7a2e7cfcba0aa436dcc01",
+      "title": "Multitouch Gestures for Constrained Transformation of 3D Objects"
+    },
+    {
+      "paperId": "e02ef1fbca8d94f740357dda7e4b0f5dddf96b0c",
+      "title": "Three-dimensional immersive mixed-reality interface for structural design"
+    },
+    {
+      "paperId": "d3227fa00903cb669a834408ad581d3833bec4c5",
+      "title": "Haptic Palpation for Medical Simulation in Virtual Environments"
+    },
+    {
+      "paperId": "f1d29c646e5703b1b8023fbf14ed3cfebd9ad2c4",
+      "title": "Tangible interaction and learning: the case for a hybrid approach"
+    },
+    {
+      "paperId": "b4982a5efcb67eb4679bfeb631e4570271e7e93e",
+      "title": "Virtual interaction surface: Decoupling of interaction and view dimensions for flexible indirect 3D interaction"
+    },
+    {
+      "paperId": "9da67892739a7815b8302dae328a2f50fe70be50",
+      "title": "mirracle: An augmented reality magic mirror system for anatomy education"
+    },
+    {
+      "paperId": "fe61be44eaf4bb6ad13b8be07efaa00578e317f7",
+      "title": "Evaluation of gesture based interfaces for medical volume visualization tasks"
+    },
+    {
+      "paperId": "2ebedc1a50511090a830dbead05830aeacdb2968",
+      "title": "Multi-Touch Table System for Medical Visualization: Application to Orthopedic Surgery Planning"
+    },
+    {
+      "paperId": "f93795470c4aa5dd31002890521dcd32f2d1e47e",
+      "title": "The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "aa677dc065c84a5fbbd06935512f97f893292a9d",
+      "title": "Interactive Virtual Probing of 4D MRI Blood-Flow"
+    },
+    {
+      "paperId": "414235b9494d1fe5bf95b3602785c8680f8db7c1",
+      "title": "\"Point it, split it, peel it, view it\": techniques for interactive reservoir visualization on tabletops"
+    },
+    {
+      "paperId": "f61208ea19501da619f4c3dd200505c0793d0276",
+      "title": "6D hands: markerless hand-tracking for computer aided design"
+    },
+    {
+      "paperId": "8c8ff991cba2cca9b92263bb54dd3890a408af3e",
+      "title": "The Continuous Interaction Space: Interaction Techniques Unifying Touch and Gesture on and above a Digital Surface"
+    },
+    {
+      "paperId": "5fdfcf7a646fd8be248e0ceb17095c77e4e0ea06",
+      "title": "3D spatial interaction: applications for art, design, and science"
+    },
+    {
+      "paperId": "223bdc01c219286bb620ea7e951f0f70711cffb0",
+      "title": "Controller-free exploration of medical image data: Experiencing the Kinect"
+    },
+    {
+      "paperId": "28bf59ee1bd3ad061f2456d0ff0fa6dce31cb220",
+      "title": "tBox: a 3d transformation widget designed for touch-screens"
+    },
+    {
+      "paperId": "a6611f21ca5942c6d7da5587fca961ba9ccad6af",
+      "title": "2d touching of 3d stereoscopic objects"
+    },
+    {
+      "paperId": "8a8f9aa44aa67cba0b61a8e38ecb59997931da76",
+      "title": "WYSIWYF: exploring and annotating volume data with a tangible handheld device"
+    },
+    {
+      "paperId": "00ab8e809434c381d986524cbe90e9cdedf6c60b",
+      "title": "Enhancing physicality in touch interaction with programmable friction"
+    },
+    {
+      "paperId": "1ac4a6e73b1afa51f9043f7bacd27019f9b8253e",
+      "title": "Multi-touch RST in 2D and 3D spaces: Studying the impact of directness on user performance"
+    },
+    {
+      "paperId": "b048cb0b2b37908552df64e6a7550f799c1abfc3",
+      "title": "Comparing tangible and multi-touch interfaces for a spatial problem solving task"
+    },
+    {
+      "paperId": "501adf4b270bc34be7d204037fc548a9f4521d86",
+      "title": "A Fiducial-Based Tangible User Interface for White Matter Tractography"
+    },
+    {
+      "paperId": "e856370be0e4da1aa9e847a9cbaa95a95d6d5505",
+      "title": "The effect of DOF separation in 3D manipulation tasks with multi-touch displays"
+    },
+    {
+      "paperId": "ae275d7d748261080ab3e89f0bdadf20b5e2fa26",
+      "title": "Multi-point interactions with immersive omnidirectional visualizations in a dome"
+    },
+    {
+      "paperId": "695e08b28b112910b9c34e16cf1d77b53786f975",
+      "title": "FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces"
+    },
+    {
+      "paperId": "735f51b31b0639052d80d97e49bc5efb9c5d4a86",
+      "title": "Tactile camera vs. tangible camera: taking advantage of small physical artefacts to navigate into large data collection"
+    },
+    {
+      "paperId": "fd2e946db72c2626c0259d746eef1b9dc093b60c",
+      "title": "Automated Positioning of Annotations in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "4f3ffbec10e97325a7a79be877ec9514766b3824",
+      "title": "Touching Floating Objects in Projection-based Virtual Reality Environments"
+    },
+    {
+      "paperId": "e65f655c75f8604158fa9fff75e145da5a7318a3",
+      "title": "Spotlight: Automated Confidence-Based User Guidance for Increasing Efficiency in Interactive 3D Image Segmentation"
+    },
+    {
+      "paperId": "3bfd6ff84b759de50fb3855fca3fcbef4fe8f1f7",
+      "title": "Multi-touch techniques for exploring large-scale 3D astrophysical simulations"
+    },
+    {
+      "paperId": "ba7d6b7c0fec3468085d927151695cd563428638",
+      "title": "Skinput: appropriating the body as an input surface"
+    },
+    {
+      "paperId": "2515ce910d52add5687a686f8cb3a36dfe6840e4",
+      "title": "Graspables revisited: multi-touch vs. tangible input for tabletop displays in acquisition and manipulation tasks"
+    },
+    {
+      "paperId": "28bf385685d3a03ebefe267706d3d511201693af",
+      "title": "Review of Designs for Haptic Data Visualization"
+    },
+    {
+      "paperId": "829d7550ae01449f22d04b2f2135cbf7516b49fe",
+      "title": "A framework for volume segmentation and visualization using Augmented Reality"
+    },
+    {
+      "paperId": "bfdf7ea82bd83907b839c7e70bdfcbf7dfb3130c",
+      "title": "Integrating Visualization and Interaction Research to Improve Scientific Workflows"
+    },
+    {
+      "paperId": "40f4da89140e1ced25fb410039982f7416e10f06",
+      "title": "An empirical evaluation of touch and tangible interfaces for tabletop displays"
+    },
+    {
+      "paperId": "177878152ab36aedbf11093cd2bfbcf48119eced",
+      "title": "It's just a toolbar!: using tangibles to help children manage conflict around a multi-touch tabletop"
+    },
+    {
+      "paperId": "362f8c761f1d57a7354ff1cc24ebc1f8e1ccdb68",
+      "title": "Volume slicing display"
+    },
+    {
+      "paperId": "cba545b64bf05e1e6afcc3fc595d6fdf302e9717",
+      "title": "Influence of degrees of freedom's manipulation on performances during orientation tasks in virtual reality environments"
+    },
+    {
+      "paperId": "54d6aac25c4590452cc79208dbf2244fb70765bb",
+      "title": "Tangible props for scientific visualization: concept, requirements, application"
+    },
+    {
+      "paperId": "c73510e1c84f411b10cdb70da8b3150c9d36e627",
+      "title": "Efficient 3D Pointing Selection in Cluttered Virtual Environments"
+    },
+    {
+      "paperId": "479f5b7d0c97df5c0da5913b9b98e47376cdd43c",
+      "title": "Interactions in the air: adding further depth to interactive tabletops"
+    },
+    {
+      "paperId": "5e5451105177e429fca7c31c2c0d0fa62ee306ab",
+      "title": "A screen-space formulation for 2D and 3D direct manipulation"
+    },
+    {
+      "paperId": "1c8457da9ad3c96cccdccd848e15b3f5e94cdca5",
+      "title": "HoverFlow: expanding the design space of around-device interaction"
+    },
+    {
+      "paperId": "944bfe2ad49dafe54088a520d28d727bdf0c6adb",
+      "title": "A Comparison of Direct and Indirect Multi-touch Input for Large Surfaces"
+    },
+    {
+      "paperId": "fada299368912ae3d6408fdb92cdf860477089d7",
+      "title": "Adaptive Pointing - Design and Evaluation of a Precision Enhancing Technique for Absolute Pointing Devices"
+    },
+    {
+      "paperId": "a780577bb8db127d9472ae8fb62d927cb102636d",
+      "title": "Fighting for control: children's embodied interactions when using physical and digital representations"
+    },
+    {
+      "paperId": "9888bcda21c33697e88e78ec80e390e6afc4c85c",
+      "title": "Two-Handed and One-Handed Techniques for Precise and Efficient Manipulation in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "b6d321e69773e4cebe9d6e144503baa799d9b00f",
+      "title": "Camera Control in Computer Graphics"
+    },
+    {
+      "paperId": "a5bb70733edd440615a3413a2966c6f16e19f363",
+      "title": "Overcoming eye-hand visibility mismatch in 3D pointing selection"
+    },
+    {
+      "paperId": "c533ca2bc15afbaaf663120dd56ecb455b5fa075",
+      "title": "CubTile: a multi-touch cubic interface"
+    },
+    {
+      "paperId": "93107e0b5d64324ba71ecb1fdbc298a1c421368e",
+      "title": "SideSight: multi-\"touch\" interaction around small devices"
+    },
+    {
+      "paperId": "e384944d01d4f189c1009a586ad17e1b63658ef3",
+      "title": "D\u00e9monstration: ArcheoTUI"
+    },
+    {
+      "paperId": "bb3789b227a4876624de86bb5acd50d104471edf",
+      "title": "Scientific Sketching for Collaborative VR Visualization Design"
+    },
+    {
+      "paperId": "52607cbbde0cc1e4f09bdc5df1e1fc5a1c41db9b",
+      "title": "Handsaw: tangible exploration of volumetric data by direct cut-plane projection"
+    },
+    {
+      "paperId": "db63af3f931c2f234c486edeebecf546fd973fee",
+      "title": "Tech-note: Dynamic Dragging for Input of 3D Trajectories"
+    },
+    {
+      "paperId": "091972711277011af468db16b04a28568749ec89",
+      "title": "Tangible bits: beyond pixels"
+    },
+    {
+      "paperId": "772afed802b299aa167a8933ec4f455249742345",
+      "title": "Are tangibles more fun?: comparing children's enjoyment and engagement using physical, graphical and tangible user interfaces"
+    },
+    {
+      "paperId": "455d7f0d3f556b7bab3e590d17795c4add2b635e",
+      "title": "GeoTUI: a tangible user interface for geoscience"
+    },
+    {
+      "paperId": "01c63385cbc3c49c2561b688643e169aa9de91b6",
+      "title": "Depth-Sensing Video Cameras for 3D Tangible Tabletop Interaction"
+    },
+    {
+      "paperId": "6f40356a3c57f1f588b89de7be85a0e077d76bdf",
+      "title": "High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "f90cf6026c6444faf460dbdcb912d1ff4fdf8404",
+      "title": "Three-Dimensional Touch Interface for Medical Education"
+    },
+    {
+      "paperId": "b14d72f96558ae78ecee9aac409de0503f0d5eb0",
+      "title": "PRISM interaction for enhancing control in immersive virtual environments"
+    },
+    {
+      "paperId": "99e134816ce72cdf98c9d13960a796dfc60d666c",
+      "title": "Affordances for manipulation of physical versus digital media on interactive surfaces"
+    },
+    {
+      "paperId": "8e6cd74b1e25cded5dde1599df2f9d980112ecfe",
+      "title": "Direct-touch vs. mouse input for tabletop displays"
+    },
+    {
+      "paperId": "9834ace12c6998e04e8145881d1f9cfc52a78042",
+      "title": "Exploring the Effects of Environment Density and Target Visibility on Object Selection in 3D Virtual Environments"
+    },
+    {
+      "paperId": "66341c15cb6bf6eb20515901205e01ab62b7d8a5",
+      "title": "Designing and Evaluating a Haptic System for Biomolecular Education"
+    },
+    {
+      "paperId": "9b0ee2324d052b2dddd3b4fe7877f0673dd25a60",
+      "title": "Enabling design and interactive selection of haptic modes"
+    },
+    {
+      "paperId": "d9a7c2841bcb516547a8f65622b864b0b168ed05",
+      "title": "The reacTable: exploring the synergy between live music performance and tabletop tangible interfaces"
+    },
+    {
+      "paperId": "b292a54c52fad22ca0b4aad3524cc63e88887c1c",
+      "title": "A 3D Live-Wire Segmentation Method for Volume Images Using Haptic Interaction"
+    },
+    {
+      "paperId": "f2092f09c43415973a59cbd1898d12a8585383e4",
+      "title": "The EPOCH Multimodal Interface for Interacting with Digital Heritage Artefacts"
+    },
+    {
+      "paperId": "e9db31f804a3ec8cabf4be0fa7e50d9e1c45bbb3",
+      "title": "The design and evaluation of selection techniques for 3D volumetric displays"
+    },
+    {
+      "paperId": "ba6c0ab5f2949df6184819315ac20d799e9f2a41",
+      "title": "CINCH: a cooperatively designed marking interface for 3D pathway selection"
+    },
+    {
+      "paperId": "cf2e79d600c446903b8f1264c8c0890e31d062cc",
+      "title": "Multi-layer interaction for digital tables"
+    },
+    {
+      "paperId": "1a8716bd40fb276f1084ccf481cd2fd684f8c5df",
+      "title": "Towards a General Model for Selection in Virtual Environments"
+    },
+    {
+      "paperId": "6f8411a66e13b2beecf278753565c0976e1bf231",
+      "title": "Spatial Analysis Tools for Virtual Reality-based Surgical Planning"
+    },
+    {
+      "paperId": "2052e389726901c05f03bd5e301d684a90f042a1",
+      "title": "A Hybrid User Interface for Manipulation of Volumetric Medical Data"
+    },
+    {
+      "paperId": "885f25500031d9b8f02b5b1390855b4e08406eea",
+      "title": "Toward Disambiguating Multiple Selections for Frustum-Based Pointing"
+    },
+    {
+      "paperId": "4aec81dafa93d683817b99b0898323ff49dd17a1",
+      "title": "Mixed-dimension interaction in virtual environments"
+    },
+    {
+      "paperId": "61d87edad1d200aa9e93bf6ab67281355fb13b64",
+      "title": "IntenSelect: using dynamic object rating for assisting 3D object selection"
+    },
+    {
+      "paperId": "2eace7c9d718318d6a3584c34a8ca973ae144c70",
+      "title": "Scientific Visualization in Collaborative Virtual Environment with PDA-Based Control and 3D Annotation"
+    },
+    {
+      "paperId": "be99f33a5c4b4a170c2de1b2d08bb22b27eedbc8",
+      "title": "Volume catcher"
+    },
+    {
+      "paperId": "a5c4e52b0caeba6b67741023c7c0a94c8bbe8b5e",
+      "title": "General proxy-based haptics for volume visualization"
+    },
+    {
+      "paperId": "31b63946a90c1f61eab0013fe8da18b1af944350",
+      "title": "Cross-dimensional gestural interaction techniques for hybrid immersive environments"
+    },
+    {
+      "paperId": "7d64f4d1afb859c8198e49a6b05c5bc69a759ffb",
+      "title": "Haptic visualization of computational fluid dynamics data using reactive forces"
+    },
+    {
+      "paperId": "4aca58aaa8873fbd2301eb5f7f6ec369f30557f1",
+      "title": "Multi-finger gestural interaction with 3D volumetric displays"
+    },
+    {
+      "paperId": "aaed32cf0478863154f80e8f683d22b517d60269",
+      "title": "Immersive design of DMA molecules with a tangible interface"
+    },
+    {
+      "paperId": "52a7435d23345c156be50bc15a450f14c3b5605a",
+      "title": "Seeing into the past: creating a 3D modeling pipeline for archaeological visualization"
+    },
+    {
+      "paperId": "c4edcb3ba810008b5a1887eeff4bc6603c9846d6",
+      "title": "PHOXEL-SPACE: an interface for exploring volumetric data with physical voxels"
+    },
+    {
+      "paperId": "a6f0b7a7fbadc9402cf327aa2fb0d9c66a316c91",
+      "title": "3D User Interfaces: Theory and Practice"
+    },
+    {
+      "paperId": "241aa55564e019000d53c06afd27a453037165e7",
+      "title": "A haptic interface for dose planning in stereo-tactic radiosurgery"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "d4bcb548bd878bac9bf2d1c7e36a13652156f52f",
+      "title": "Particle flurries"
+    },
+    {
+      "paperId": "e26f4028e79f00cb90ef748eef54a666892ebb48",
+      "title": "Dynamic Query Tools for Time Series Data Sets: Timebox Widgets for Interactive Exploration"
+    },
+    {
+      "paperId": "9f038345dd3f50cdf52e1a3118ceb29f3bb8d4b9",
+      "title": "Tactile interfaces for small touch screens"
+    },
+    {
+      "paperId": "bbd13d2f92aeb08d73978e8958a12f793f175b8c",
+      "title": "Multi-finger and whole hand gestural interaction techniques for multi-user tabletop displays"
+    },
+    {
+      "paperId": "0898c37f0ce5fcd7af7b8514289dc7c24892fcc9",
+      "title": "Exploring curved anatomic structures with surface sections"
+    },
+    {
+      "paperId": "907f3c31b101fbfdbad59a9be64d8406b68d184c",
+      "title": "FAce MOUSe: A novel human-machine interface for controlling the position of a laparoscope"
+    },
+    {
+      "paperId": "5bca94396a4f7739eb682413e57a325d5dbaaf84",
+      "title": "SenseShapes: using statistical geometry for object selection in a multimodal augmented reality"
+    },
+    {
+      "paperId": "9bcb43b0d108e3b345b54c03daf89fae62b35840",
+      "title": "Haptic rendering techniques for the interactive exploration of CFD datasets in virtual environments"
+    },
+    {
+      "paperId": "bc02f92a9f7ecd2051c39d730e8ced55c6fa0ff2",
+      "title": "Gaze- vs. hand-based pointing in virtual environments"
+    },
+    {
+      "paperId": "862c45aa76decc5b2a293b295f47c1ef2992f007",
+      "title": "High precision touch screen interaction"
+    },
+    {
+      "paperId": "81bceca594e78c9570d70425de10fbb9884d4759",
+      "title": "EEWWW!!: tangible interfaces for navigating into the human body"
+    },
+    {
+      "paperId": "edde2864a09425ecbb94ffc0969df95fe0af8f05",
+      "title": "Peephole displays: pen interaction on spatially aware handheld computers"
+    },
+    {
+      "paperId": "76185c88f94ece0fb623bbd2143c643b087ff3ed",
+      "title": "Towards intuitive exploration tools for data visualization in VR"
+    },
+    {
+      "paperId": "18dc0b62b8921acff443de39f23e0891a1fa0541",
+      "title": "Integration of measurement tools in medical 3d visualizations"
+    },
+    {
+      "paperId": "08245b3e5e1ee8d52d3311e22f8def725f3cd1c6",
+      "title": "Boom chameleon: simultaneous capture of 3D viewpoint, voice and gesture annotations on a spatially-aware display"
+    },
+    {
+      "paperId": "680263dc64307a7802c4df8b7a3501950b6d788e",
+      "title": "Visualizing inner structures in multimodal volume data"
+    },
+    {
+      "paperId": "e8e89ec2b20e0d4953ce36572cb5072fdc1cc670",
+      "title": "Illuminating clay: a 3-D tangible interface for landscape analysis"
+    },
+    {
+      "paperId": "599f3f6dba588502712b4aef863b45f4cf59264a",
+      "title": "New paradigms for interactive 3D volume segmentation"
+    },
+    {
+      "paperId": "d6723ab300288f594b0640b0e361deb93a6b7adc",
+      "title": "A Multi-Modal Natural Language Interface to an Information Visualization Environment"
+    },
+    {
+      "paperId": "a5d858c76c6fbb8bd6cecf2fe79e93b1335cdf1a",
+      "title": "3D-Interaction Techniques for Planning of Oncologic Soft Tissue Operations"
+    },
+    {
+      "paperId": "1cfa915f1f86da52c92aff8d60cced0924b6a344",
+      "title": "Sensing techniques for mobile interaction"
+    },
+    {
+      "paperId": "a607b8eb3fc03c1857ad6bab5807545598002bbd",
+      "title": "WearTrack: a self-referenced head and hand tracker for wearable computers and portable VR"
+    },
+    {
+      "paperId": "e6be35e5f941a3fdd8a5d67b85c08f5b5983edae",
+      "title": "Simulated pathline visualization of computed periodic blood flow patterns."
+    },
+    {
+      "paperId": "417050c85ddc652cfc70d393a46ef5e44ff1cc87",
+      "title": "Interacting with eye movements in virtual environments"
+    },
+    {
+      "paperId": "183ff81f86441e7a4960e2598ec8c13d40a2777a",
+      "title": "Exploring geo-scientific data in virtual environments"
+    },
+    {
+      "paperId": "c709b52e73ad5c24f077d066445dbf93fd09e6de",
+      "title": "Non-planar Reslicing for Freehand 3D Ultrasound"
+    },
+    {
+      "paperId": "f14f429bb79e9cedf6d875d18dc81ee9b01d77c0",
+      "title": "Sewing Worlds Together With SEAMs: A Mechanism to Construct Complex Virtual Environments"
+    },
+    {
+      "paperId": "f5885142a9dbc511e70f19e07a8463bacef62c2e",
+      "title": "Top ten visualization problems"
+    },
+    {
+      "paperId": "7d6dae411151aeec28c5af2f611e09d27f3bf40a",
+      "title": "THE VIRTUAL WINDTUNNEL"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "27a243557ecd7b9986aa2ef9661870de5d4aa8e7",
+      "title": "Specification, Modeling and Visualization of Arbitrarily Shaped Cut Surfaces in the Volume Model"
+    },
+    {
+      "paperId": "7ad45d43018a968d9192a1e91f9ae4729acffa1f",
+      "title": "Virtual Notepad: handwriting in immersive VR"
+    },
+    {
+      "paperId": "fa0af6ed39382f6d9a6e1bcc50994e83bcef9de5",
+      "title": "A Survey of 3D Interaction Techniques"
+    },
+    {
+      "paperId": "bfde1442ef2ea505c30c77a78612c599dc77a331",
+      "title": "Usability analysis of 3D rotation techniques"
+    },
+    {
+      "paperId": "796f3218e4d079b166db717d56503ceb979da348",
+      "title": "Investigating Coordination in Multidegree of Freedom Control II: Correlation Analysis in 6 DOF Tracking"
+    },
+    {
+      "paperId": "9dbfcc9c2b53fd4ea9e6f89e30c32bba4d755fb9",
+      "title": "Investigating Coordination in Multidegree of Freedom Control I: Time-On-Target Analysis of 6 DOF Tracking"
+    },
+    {
+      "paperId": "5b476799152c9cfb943a9e585bcd7b22db9c28da",
+      "title": "Moving objects in space: exploiting proprioception in virtual-environment interaction"
+    },
+    {
+      "paperId": "a210c410840277288f620464c60fff5f464a39a4",
+      "title": "Two-handed direct manipulation on the responsive workbench"
+    },
+    {
+      "paperId": "50e3e1b34d6d2ba4ad958e39e2805d13274d9f05",
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms"
+    },
+    {
+      "paperId": "1239bfb1c91d10bea729b74087a44240bfa5aad4",
+      "title": "Aperture based selection for immersive virtual environments"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "715c695053cb5d181157893d5da9d1147603524f",
+      "title": "Selection: 524,288 ways to say \"this is interesting\""
+    },
+    {
+      "paperId": "172ebb9861ba9826d37c24364e6e11abbbc16fa8",
+      "title": "A haptic interaction method for volume visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "af8844a0b391216d51e5246b13fa4b82e7a7d11a",
+      "title": "Visualization of Reservoir Simulation Data With an Immersive Virtual Reality System"
+    },
+    {
+      "paperId": "e28d872463cd79c503278b7286cd89ec70d21234",
+      "title": "The virtual annotation system"
+    },
+    {
+      "paperId": "6f682353344493da8ad4c830ae2314c86ed2a575",
+      "title": "VRMosaic: WEB access from within a virtual environment"
+    },
+    {
+      "paperId": "78682ef4f0ab29c99256b9b2e7f88c81576004e7",
+      "title": "Integrating perceptual and symbolic information in VR"
+    },
+    {
+      "paperId": "91f59c0c7d7b5c0c06fe73d7710220bcdaffd254",
+      "title": "Two-Handed Spatial Interface Tools for Neurosurgial Planning"
+    },
+    {
+      "paperId": "04e6f223fd7bd643a0837ff3d24c9183f6b70dfd",
+      "title": "JDCAD: A highly interactive 3D modeling system"
+    },
+    {
+      "paperId": "49ee996b8769aef0dc1766be69c2603c69426013",
+      "title": "Device comparisons for goal-directed drawing tasks"
+    },
+    {
+      "paperId": "fb99b48ccd0ab0dffcc4596948edb35d38c55807",
+      "title": "The \u201cSilk Cursor\u201d: investigating transparency for 3D target acquisition"
+    },
+    {
+      "paperId": "fc1c9138dc593140988b124f11292db3db5890dd",
+      "title": "Passive real-world interface props for neurosurgical visualization"
+    },
+    {
+      "paperId": "178ae592fd4ea407763513cda1d486f884866e42",
+      "title": "The nanomanipulator: a virtual-reality interface for a scanning tunneling microscope"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "34d0e9ee01e0dd898d72ed7d095148bfde30f31d",
+      "title": "High Precision Touchscreens: Design Strategies and Comparisons with a Mouse"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "3e9a2bb66b35205f728089ed28f21538d9b8a7d2",
+      "title": "A study in interactive 3-D rotation using 2-D control devices"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "676cc3a6abda8e3c3b0c5f8b2469b24d0a54e5f5",
+      "title": "3D input for CAAD systems"
+    },
+    {
+      "paperId": "058a294d7ff7c93b62954ab4a61a2289f2ea877d",
+      "title": "A computer-terminal, hardware/software system with enhanced user input capabilities: the enhanced-input terminal system (EITS)"
+    },
+    {
+      "paperId": "a2d926b5f2f23aa2ac9b6b7578baa34ce25dc78b",
+      "title": "Using Computer Technology to Provide a Creative Learning Environment for Preschool Children. AI Memo 360."
+    },
+    {
+      "paperId": "fd521bf06bc43c822a2e1696209ca0260805cc0f",
+      "title": "Touch Displays: A Programmed Man-Machine Interface"
+    },
+    {
+      "paperId": "69e1ed5c3920ac07f3cbb5977da5c4f321dceac2",
+      "title": "Touch display--a novel input/output device for computers"
+    },
+    {
+      "paperId": "dce03d61f3838b173c24bf96bf123a2fdd7c8fef",
+      "title": "Sketchpad a Man-Machine Graphical Communication System"
+    },
+    {
+      "paperId": null,
+      "title": "How doctors used virtual reality to save the lives of conjoined twin sisters"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "5d3ddd01be8f6c0d53a3eb3f0264e9196c5c8ef2",
+      "title": "Orko: Facilitating Multimodal Interaction for Visual Exploration and Analysis of Networks"
+    },
+    {
+      "paperId": "031b4611d3f56fa2e6704ba7f1a57be9a9a9a235",
+      "title": "Bridging from Goals to Tasks with Design Study Analysis Reports"
+    },
+    {
+      "paperId": null,
+      "title": "How many participants do researchers recruit? A look at 678 UX/HCI studies"
+    },
+    {
+      "paperId": "b6fde78c72755595b1481cddb77cc8e4df74d62b",
+      "title": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "paperId": null,
+      "title": "Bowman D"
+    },
+    {
+      "paperId": "3dfa32d2e9ff5553a517b8447c354475867f62b5",
+      "title": "Augmenting Tactile 3 D Data Exploration With Pressure Sensing"
+    },
+    {
+      "paperId": "2934fff86d88abd06c673c84171d19df12787ed4",
+      "title": "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization"
+    },
+    {
+      "paperId": "596dc206f4521bac74e8a109d8359b64a6921b30",
+      "title": "Hybrid Virtual Reality Touch Table - An Immersive Collaborative Platform for Public Explanatory Use of Cultural Objects and Sites"
+    },
+    {
+      "paperId": "387820d9d125d59d88e677ef4c590cf614c9d9cd",
+      "title": "Gesture Recognition"
+    },
+    {
+      "paperId": "4791d03259d22ca0869c6d2d5aeb9f40f1452400",
+      "title": "Tabletop 3D Object Manipulation with Touch and Tangibles"
+    },
+    {
+      "paperId": "ae1e8ba77b40fd115deb4b2663b40ba460a98d5b",
+      "title": "Topography Compensation for Haptization of a Mesh Object and Its Stiffness Distribution"
+    },
+    {
+      "paperId": "a1091bb9af3329d6c28aeb7ed9018ed3a0a8c45a",
+      "title": "A gesture-controlled projection display for CT-guided interventions"
+    },
+    {
+      "paperId": "242208173e43181c99d1422f6caa032c87a8cda7",
+      "title": "Motion Leap Compared to Data Gloves in Human Hand Tracking"
+    },
+    {
+      "paperId": "26d6c8cf5bf10f03914be3c58b372963ccb08e9e",
+      "title": "Context-based hand gesture recognition for the operating room"
+    },
+    {
+      "paperId": "dc34d25e46c094e3697fd9d4dd6add993d1bfaec",
+      "title": "Touchless interaction in surgery"
+    },
+    {
+      "paperId": "06e2cfe9a47076dbec44205fc0709231641f52f2",
+      "title": "The Ultimate Display"
+    },
+    {
+      "paperId": "d5847375f0d0c2022fa92146728c15e1c4f1803e",
+      "title": "Beyond visualization : designing interfaces to contextualize geospatial data"
+    },
+    {
+      "paperId": "55da6124c89200f881cef612587c63b725ecae0e",
+      "title": "The Natural Materials Browser : Using a Tablet Interface for Exploring Volumetric Materials Science Datasets"
+    },
+    {
+      "paperId": null,
+      "title": "An investigation of suitable interactions for 3D manipulation of distant objects through a mobile device"
+    },
+    {
+      "paperId": "81a09936ffd897c6445762387a3d7eb8b5527b03",
+      "title": "Force Brushes: Progressive Data-Driven Haptic Selection and Filtering for Multi-Variate Flow Visualizations"
+    },
+    {
+      "paperId": "5a6d8190e41948cc6b7ad334805324f9b3b74114",
+      "title": "Visualization of Probabilistic Fiber Tracts in Virtual Reality"
+    },
+    {
+      "paperId": "578bfb5bc6cb41f70317d146880877e27dd9c6c5",
+      "title": "Mobile Interactive Displays for Medical Visualization"
+    },
+    {
+      "paperId": "f02099c5394e4e382ddb6408dcbae9f25c25bf01",
+      "title": "Multimodal visualizations for pre-operative neurosurgical planning"
+    },
+    {
+      "paperId": "f48cdaea1f4a600a399fcaa559684702f3557514",
+      "title": "Uniview - Visualizing the Universe"
+    },
+    {
+      "paperId": "526197c7ea01671a37ab1272a9b5bc52f5a72bb4",
+      "title": "PaperLens: advanced magic lens interaction above the tabletop"
+    },
+    {
+      "paperId": "85ca0ae4d822ee521c8f114492b8487cfa9f97e2",
+      "title": "Segmentation and Visualization of 3D Medical Images through Haptic Rendering"
+    },
+    {
+      "paperId": "df9c7a0a49015c29bd8de973ce05cf7948d5b62b",
+      "title": "Free-Form VR Interactions in Scientific Visualization"
+    },
+    {
+      "paperId": "af82d67cbb686c9aa35516b9a5de529d1bc62f65",
+      "title": "Haptics-Assisted 3 D Lasso Drawing for Tracts-of-interest Selection in DTI Visualization"
+    },
+    {
+      "paperId": "65801f64f9f965a7ed4f617e35d2d7c97a70ae1b",
+      "title": "Interactive Cutting Operations for Generating Anatomical Illustrations from Volumetric Data Sets"
+    },
+    {
+      "paperId": "44d8e4103b08021b6862129bbb691384549ee60b",
+      "title": "Multi \u2013 Touching 3 D Data : Towards Direct Interaction in Stereoscopic Display Environments coupled with Mobile Devices"
+    },
+    {
+      "paperId": null,
+      "title": "tumor treatment"
+    },
+    {
+      "paperId": "0fe8ea7f5514e6893be8dc77f04deba54ee85941",
+      "title": "Drawing on Air: Input Techniques for Controlled 3D Line Illustration"
+    },
+    {
+      "paperId": "9d54e2d323215d924997c107dd90c8f7331251f2",
+      "title": "An augmented haptic interface as applied to flow visualization"
+    },
+    {
+      "paperId": "05efb88371e56293595072232b5ba3baae422ef4",
+      "title": "Enabling Haptic Interaction with Volumetric MRI Data Through Knowledge-based Tissue Separation"
+    },
+    {
+      "paperId": "40ec5b1605f53c53d69c1fadd9b272c05572c9a1",
+      "title": "Thomas B"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "df9d416c48e62e2978eab64c377504973bf73c52",
+      "title": "A new paradigm for Human-Building Interaction: the use of CFD and Augmented Reality"
+    },
+    {
+      "paperId": "9a32185f794babf35c9cef960c41767e35edbe4f",
+      "title": "Virtual Resection with a Deformable Cutting Plane"
+    },
+    {
+      "paperId": "179814bd25c7954f3c172c0c21d5b07b79815322",
+      "title": "3D Selection Strategies for Head Tracked and Non-Head Tracked Operation of Spatially Immersive Displays"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "eb7d83b726a746b1a9b2a33ac34263b3047b1a48",
+      "title": "About the authors"
+    },
+    {
+      "paperId": "e7c6322e787c0077c482656a5ef597c1ca088363",
+      "title": "Inner Structures Visualization in Multimodal Volume Data"
+    },
+    {
+      "paperId": "8888e8567faad4e2b4071e3365c90aaa727ca460",
+      "title": "The Flexible Pointer: An Interaction Technique for Selection in Augmented and Virtual Reality"
+    },
+    {
+      "paperId": "76312f1fd118c73b7db22e65e8bda586e7b567a6",
+      "title": "Proxy-based Haptic Feedback from Volumetric Density Data"
+    },
+    {
+      "paperId": "c74bd2a590602ef75f94f2ee55b0274a913e15c4",
+      "title": "Computer Vision-Based Gesture Tracking, Object Tracking, and 3D Reconstruction for Augmented Desks"
+    },
+    {
+      "paperId": "1630010a24aa190c362075d4080e8c9427005668",
+      "title": "Are we there yet? Exploring with dynamic visualization"
+    },
+    {
+      "paperId": "441c2bd19572b8044f9a6b9b4414399cdaa7809e",
+      "title": "Visualization of Flow Data in Photo-realistic Virtual Environment"
+    },
+    {
+      "paperId": null,
+      "title": "System for selecting and generating images controlled by eye movements applicable to CT image display"
+    },
+    {
+      "paperId": null,
+      "title": "Infrared light beam x-y position encoder for display devices"
+    },
+    {
+      "paperId": "c6ba4fb04089e2bf2eb85f9cd3f399fcbe569ac8",
+      "title": "Particle Tracing in \u03c3-Transformed Grids using Tetrahedral 6-Decomposition"
+    },
+    {
+      "paperId": "59b58655bfcf5d8b2dc3e9b5df5a39ce3bc004ff",
+      "title": "Manipulation Aid for Two-Handed 3-D Designing Within a Shared Virtual Environment"
+    },
+    {
+      "paperId": "76ba9d826c719d8bf15ac0c8ff84bc9a51473e45",
+      "title": "Graspable user interfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Roth S"
+    },
+    {
+      "paperId": null,
+      "title": "Integrating the periphery and context: A new taxonomy of telematics"
+    },
+    {
+      "paperId": null,
+      "title": "Visual representation of vector !elds"
+    },
+    {
+      "paperId": "9be9b516a5424d965c80550a9e73fa08b051a4ed",
+      "title": "Flow visualization in fluid mechanics"
+    },
+    {
+      "paperId": "e32eef72cc5c0d4cb161f57a97a11700d082e116",
+      "title": "Virtual environment display system"
+    },
+    {
+      "paperId": null,
+      "title": "Intelligent physical three-dimensional modelling system"
+    },
+    {
+      "paperId": "f6a1c1f2d11a822e614e8b785b3b59d766439c29",
+      "title": "University of New Hampshire Scholars' Repository University of New Hampshire Scholars' Repository"
+    },
+    {
+      "paperId": null,
+      "title": "Vos F"
+    },
+    {
+      "paperId": null,
+      "title": "Cooperstock J"
+    },
+    {
+      "paperId": null,
+      "title": "Immer-sive Analytics , vol. 11190"
+    },
+    {
+      "paperId": null,
+      "title": "Peshkin M"
+    },
+    {
+      "paperId": "02d90ce67d698034f531c860fded231e3e2f95d9",
+      "title": "Application-Oriented Extensions of Pro\ufb01le Flags"
+    },
+    {
+      "paperId": null,
+      "title": "Discriminating contact sensor, Oct. 7 1975"
+    },
+    {
+      "paperId": null,
+      "title": "Overcoming world in miniature limitations by scaling and scrolling"
+    },
+    {
+      "paperId": null,
+      "title": "Shallow-depth 3D interaction"
+    }
+  ]
+}

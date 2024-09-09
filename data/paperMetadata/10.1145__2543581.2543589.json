@@ -1,0 +1,690 @@
+{
+  "paperId": "1cad16cfb0646c4da4cb452884c7466243b0d45d",
+  "externalIds": {
+    "MAG": "2163841363",
+    "DBLP": "journals/csur/GhoshG13",
+    "ArXiv": "1012.5187",
+    "DOI": "10.1145/2543581.2543589",
+    "CorpusId": 8747335
+  },
+  "publicationVenue": {
+    "id": "7b2adce0-d53f-49d6-8784-b0645604fe62",
+    "name": "ACM Computing Surveys",
+    "type": "journal",
+    "alternate_names": [
+      "ACM Comput Surv"
+    ],
+    "issn": "0360-0300",
+    "url": "http://www.acm.org/pubs/surveys/",
+    "alternate_urls": [
+      "http://portal.acm.org/csur",
+      "https://csur.acm.org/",
+      "http://csur.acm.org/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/1cad16cfb0646c4da4cb452884c7466243b0d45d",
+  "title": "Unsolved problems in visibility graphs of points, segments, and polygons",
+  "abstract": "In this survey article, we present open problems and conjectures on visibility graphs of points, segments, and polygons along with necessary backgrounds for understanding them.",
+  "venue": "ACM Computing Surveys",
+  "year": 2010,
+  "referenceCount": 152,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1012.5187.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Mathematics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-12-23",
+  "journal": {
+    "name": "ACM Computing Surveys (CSUR)",
+    "pages": "1 - 29",
+    "volume": "46"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ghosh2010UnsolvedPI,\n author = {S. Ghosh and Partha P. Goswami},\n booktitle = {ACM Computing Surveys},\n journal = {ACM Computing Surveys (CSUR)},\n pages = {1 - 29},\n title = {Unsolved problems in visibility graphs of points, segments, and polygons},\n volume = {46},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145807249",
+      "name": "S. Ghosh"
+    },
+    {
+      "authorId": null,
+      "name": "Partha P. Goswami"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9bdc62bae6bc6433a0dc84fc5e17bc40a3bad1a5",
+      "title": "Oriented Matroids"
+    },
+    {
+      "paperId": "2f01149618da0fc24801f86138481124d13c2026",
+      "title": "Mapping a polygon with holes using a compass"
+    },
+    {
+      "paperId": "61b1366d069ca58a3afd3e43a5f274050274ab27",
+      "title": "Some results on point visibility graphs"
+    },
+    {
+      "paperId": "18bdecd49c0668e7ff3333dbfdbb8f0f79a9e9cc",
+      "title": "A polygon is determined by its angles"
+    },
+    {
+      "paperId": "98f7c81ada70fa4f8caa4bff8814b5b213d847c3",
+      "title": "On the Connectivity of Visibility Graphs"
+    },
+    {
+      "paperId": "dcd5249802ffb7c005776c5f18c20dc12e699171",
+      "title": "Geometric Approximation Algorithms"
+    },
+    {
+      "paperId": "db000ec99d8a4163c2fd38dbdc72d58107acb963",
+      "title": "A new upper bound for the VC-dimension of visibility regions"
+    },
+    {
+      "paperId": "d045683ca6616c99e8a165d9a44277fc5d9e3ffb",
+      "title": "Convex obstacle numbers of outerplanar graphs and bipartite permutation graphs"
+    },
+    {
+      "paperId": "faa6175a236774fcd5d89c3970e46e526dc45d3d",
+      "title": "Obstacle Numbers of Graphs"
+    },
+    {
+      "paperId": "49225e904db2b831e6a4a0eb649df2c2151add7e",
+      "title": "Graphs with Large Obstacle Numbers"
+    },
+    {
+      "paperId": "cab7bc27b25e0aeca97eecced2bee01f88774e28",
+      "title": "Small-Size $\\eps$-Nets for Axis-Parallel Rectangles and Boxes"
+    },
+    {
+      "paperId": "8453ee737e6e634e23ea8347e9be9eb44f179448",
+      "title": "Approximation algorithms for art gallery problems in polygons"
+    },
+    {
+      "paperId": "506bdff43920e907d9aad3e9d661cf6a84be5bf6",
+      "title": "Approximation Algorithms for Art Gallery Problems in Polygons and Terrains"
+    },
+    {
+      "paperId": "9d77ea6e0d0e9f9aa50dd7584eacbcc6bee39919",
+      "title": "Blocking coloured point sets"
+    },
+    {
+      "paperId": "888f84ba68741cb2942f60a27bbd662b21c495b4",
+      "title": "Improved Approximation for Guarding Simple Galleries from the Perimeter"
+    },
+    {
+      "paperId": "31fc969abb1e86544516bdf5b1506736baa5107a",
+      "title": "On Visibility and Blockers"
+    },
+    {
+      "paperId": "412ef7fa0c00f2f71aaed2e570879c4d24891407",
+      "title": "Small-size \u03b5-nets for axis-parallel rectangles and boxes"
+    },
+    {
+      "paperId": "02b0599e465b1b22cc38e392187b0b9df394a51d",
+      "title": "Blocking Visibility for Points in General Position"
+    },
+    {
+      "paperId": "3cbb99760676e342bdfa75502c712eafab9b7e7e",
+      "title": "Reconstructing visibility graphs with simple robots"
+    },
+    {
+      "paperId": "8b19ab3b47467dd288b6d587a3940e3163e50528",
+      "title": "Every Large Point Set contains Many Collinear Points or an Empty Pentagon"
+    },
+    {
+      "paperId": "6c980670ecc6a457c5705ecee5b8874729d6a66a",
+      "title": "Empty Convex Hexagons in Planar Point Sets"
+    },
+    {
+      "paperId": "7910cc64adbbc1fcc601679a5ab4c2d36b512b8f",
+      "title": "The Empty Hexagon Theorem"
+    },
+    {
+      "paperId": "ae0b3a579d5aafcb7548b0b762e885db122c2be5",
+      "title": "Computing the maximum clique in the visibility graph of a simple polygon"
+    },
+    {
+      "paperId": "b7d1d9e46b5a5edf84b42d9adcd71b4ed056efe5",
+      "title": "On the Erd\u00f6s-Szekeres problem in combinatorial geometry"
+    },
+    {
+      "paperId": "945ef74d9baae6dc9e570942bbf9eaf3689d4e9f",
+      "title": "Simple Robots with Minimal Sensing: From Local Visibility to Global Geometry"
+    },
+    {
+      "paperId": "fb8aba68ee13fb5a0eb12c4f308a1d48abab7d86",
+      "title": "Further Results on Bar k-Visibility Graphs"
+    },
+    {
+      "paperId": "cda0fde3e5440807eb13961928dcf708003f7d2e",
+      "title": "Visibility Algorithms in the Plane"
+    },
+    {
+      "paperId": "5892089a57951241489ac133f0b9bcd636d848e1",
+      "title": "Foundations of a Structural Theory of Set Addition"
+    },
+    {
+      "paperId": "f51a86a35b2a78eba4232d918f1718e60593f369",
+      "title": "Thickness of Bar 1-Visibility Graphs"
+    },
+    {
+      "paperId": "cb50781f33af12885f274d651639906bafda3666",
+      "title": "Drawings of planar graphs with few slopes and segments"
+    },
+    {
+      "paperId": "c89838dd8b4fd2068d98b333403e6eaf290de545",
+      "title": "The Absence of Efficient Dual Pairs of Spanning Trees in Planar Graphs"
+    },
+    {
+      "paperId": "550b63d2584607034f8333d01b85cde2c43b89f2",
+      "title": "Visibility Graphs of Point Sets in the Plane"
+    },
+    {
+      "paperId": "a779449ea7b82aaace2432b647b76b7b165bb06e",
+      "title": "Research problems in discrete geometry"
+    },
+    {
+      "paperId": "66f9c797b03305546a5f4c6c74495b2d860d68f9",
+      "title": "On the Chromatic Number of the Visibility Graph of a Set of Points in the Plane"
+    },
+    {
+      "paperId": "b5ee780b5e7f20ffb70f9376a56101160713aee6",
+      "title": "Non-stretchable pseudo-visibility graphs"
+    },
+    {
+      "paperId": "9ab93bb1fb0e773f1317b4e2432e40d1f16a2bd4",
+      "title": "Unit Bar-Visibility Layouts of Triangulated Polygons"
+    },
+    {
+      "paperId": "193126e65bdb9321017e4157fab4227247e25e66",
+      "title": "Alternating paths through disjoint line segments"
+    },
+    {
+      "paperId": "6790b5bca78d349ee4b296b08f78d75c1ce565ad",
+      "title": "Segment endpoint visibility graphs are Hamiltonian"
+    },
+    {
+      "paperId": "7bc63712e5670e26a0eebbc24e7d9a2f729190a2",
+      "title": "Efficient graph representations"
+    },
+    {
+      "paperId": "ffa4aee313f35f9ae9813d768837f20ff48d6283",
+      "title": "Rectangle Visibility Graphs: Characterization, Construction, and Compaction"
+    },
+    {
+      "paperId": "60cc01b7914f4c1ad9c0c6fd53406ba8ac743438",
+      "title": "Planar sets containing no three collinear points and non-averaging sets of integers"
+    },
+    {
+      "paperId": "f9a4c4c118d80f1ce1f87175fc9c2661d78b40c4",
+      "title": "Orthogonal polygon reconstruction from stabbing information"
+    },
+    {
+      "paperId": "7f1592d37d3ac89446c002fdbcca126b8de15efc",
+      "title": "Lectures on discrete geometry"
+    },
+    {
+      "paperId": "c5a1bab2b2961122be91345db3b39fee8c401d17",
+      "title": "Open Problems in Computational Geometry"
+    },
+    {
+      "paperId": "40b403e751d8807c5609b9eb571711077489bf45",
+      "title": "Finding Sets of Points without Empty Convex 6-Gons \n"
+    },
+    {
+      "paperId": "bc7c99eab4d1a9aafc0ff4612e9bc44e6edb4a17",
+      "title": "Inapproximability of finding maximum hidden sets on polygons and terrains"
+    },
+    {
+      "paperId": "21de26df17dd77d5a647783c861463a43102db73",
+      "title": "Inapproximability Results for Guarding Polygons and Terrains"
+    },
+    {
+      "paperId": "b644647fceaf5ebf18456ffd0b708e3928017eef",
+      "title": "Problems and Results around the Erd\u00f6s-Szekeres Convex Polygon Theorem"
+    },
+    {
+      "paperId": "e66690e88ef3115196fede8f0427cfb1ecd68068",
+      "title": "MAXIMUM CLIQUE and MINIMUM CLIQUE PARTITION in Visibility Graphs"
+    },
+    {
+      "paperId": "63ad459327fd00344680c3b38c2a9dd38e60496b",
+      "title": "Planar segment visibility graphs"
+    },
+    {
+      "paperId": "f32acdc886b303e1162d482d759bf3516eeec9fd",
+      "title": "The Erdos-Szekeres problem on points in convex position \u2013 a survey"
+    },
+    {
+      "paperId": "a00114716ba9e54b86f958999fc94b0db774be1a",
+      "title": "Computational Geometry: Algorithms and Applications, Second Edition"
+    },
+    {
+      "paperId": "55cf25f65c956b7f5c7cff8c5ffa39621d95de60",
+      "title": "Guarding galleries where no point sees a small area"
+    },
+    {
+      "paperId": "71d6d98efd906afc13114c79ebb7a26756f40914",
+      "title": "The Thickness of Graphs: A Survey"
+    },
+    {
+      "paperId": "838a778c09678f899ac660c02635305e9554701c",
+      "title": "Guarding galleries where every point sees a large area"
+    },
+    {
+      "paperId": "2020f459efc802b783d6021b441201af859b6ec5",
+      "title": "Vertex-edge pseudo-visibility graphs: characterization and recognition"
+    },
+    {
+      "paperId": "8ef6b2a7743cc1cca1600113369f1beb7476525c",
+      "title": "A sub-constant error-probability low-degree test, and a sub-constant error-probability PCP characterization of NP"
+    },
+    {
+      "paperId": "78626b38a7f3352fad016f2cb79798ec96825b26",
+      "title": "Visibility Graphs of Towers"
+    },
+    {
+      "paperId": "004d61ce378ce669b9e396738ffefb7022c69c0b",
+      "title": "On Rectangle Visibility Graphs"
+    },
+    {
+      "paperId": "c66445aae11defc2f9ab61347db1057e812c4c1f",
+      "title": "Stabbing Information of a Simple Polygon"
+    },
+    {
+      "paperId": "26caa5f09f777dbaa4b7aeccf7cfd0b309369dd3",
+      "title": "On Rectangle Visibility Graphs. III. External Visibility and Complexity"
+    },
+    {
+      "paperId": "83dc5ee478bfdca626b8bc413b98a7e024d5698c",
+      "title": "A threshold of ln n for approximating set cover (preliminary version)"
+    },
+    {
+      "paperId": "3202987f306da3b1dfc751b6001835fe395cfa36",
+      "title": "Determining Bar-representability for Ordered Weighted Graphs"
+    },
+    {
+      "paperId": "dff05219d6ba78c1dd031292fc08dc236f116c3f",
+      "title": "Topologically sweeping visibility complexes via pseudotriangulations"
+    },
+    {
+      "paperId": "47aad498c6fe09339bc98b5c36fb01261e069c67",
+      "title": "Almost optimal set covers in finite VC-dimension"
+    },
+    {
+      "paperId": "e058cbbc78c1249e11a06edb2840de58fb9ce288",
+      "title": "Visibility graphs of staircase polygons and the weak Bruhat order, I: From visibility graphs to maximal chains"
+    },
+    {
+      "paperId": "3b5c4ad7841f584ba743fd7b4e9f88c2c7663d55",
+      "title": "Complexity aspects of visibility graphs"
+    },
+    {
+      "paperId": "bc9dece637bd8e3e3b69e94b0b9e5b33b6308770",
+      "title": "Negative Results on Characterizing Visibility Graphs"
+    },
+    {
+      "paperId": "6ce1688630f63e6bd1bfab937e528bf9fd83d40c",
+      "title": "Characterizing and recognizing the visibility graph of a funnel-shaped polygon"
+    },
+    {
+      "paperId": "890611c60adaecc784bb6d294165c63043b29717",
+      "title": "Directed Rectangle-visibility Graphs Have Unbounded Dimension"
+    },
+    {
+      "paperId": "4238fded19e806f5e4327388e235a99f9e653193",
+      "title": "A new necessary condition for the vertex visibility graphs of simple polygons"
+    },
+    {
+      "paperId": "faf06bd385024b89d99eafcbf3887340bc54819e",
+      "title": "Visibility Graphs and Oriented Matroids"
+    },
+    {
+      "paperId": "56a177cbd0d0ebd513a6950204cfd8b0879e825d",
+      "title": "Rectangle-visibility Representations of Bipartite Graphs"
+    },
+    {
+      "paperId": "0e37f422ec94e1d72fc5f82b46fae28c52dfe6bf",
+      "title": "Every Set of Disjoint Line Segments Admits a Binary Tree"
+    },
+    {
+      "paperId": "06fdae5398faf8d73516769cb720289815399a4c",
+      "title": "Two Segment Classes with Hamiltonian Visibility Graphs"
+    },
+    {
+      "paperId": "cf16abee62ab801f3f1fda875c13269b8413b877",
+      "title": "Characterizing and Recognizing Weak Visibility Polygons"
+    },
+    {
+      "paperId": "aa87db2017ceb67c8f37bd0f26a98dde4b311f63",
+      "title": "Can visibility graphs Be represented compactly?"
+    },
+    {
+      "paperId": "05f1b592d0e2c464f6f70efb3b68ab1e0dbba090",
+      "title": "Visibility graphs of staircase polygons with uniform step length"
+    },
+    {
+      "paperId": "5e4adbb0e06e3a45e3cebc0cd086923528ec55e7",
+      "title": "Some Results on Visibility Graphs"
+    },
+    {
+      "paperId": "0e22b2df90c1ef837535b226e3365a7e2d30beca",
+      "title": "Recent results in art galleries (geometry)"
+    },
+    {
+      "paperId": "8214d0d6cabe29b63eb057156a9052e38817c165",
+      "title": "On a Counterexample to a Conjecture of Mirzaian"
+    },
+    {
+      "paperId": "06b35390e2ea80b2871b5cdc1b089cae0f30cbe2",
+      "title": "Hamiltonian Triangulations and Circumscribing Polygons of Disjoint Line Segments"
+    },
+    {
+      "paperId": "10a8710f00ecbc872f74f233aea1c44232875bbe",
+      "title": "Axioms and Hulls"
+    },
+    {
+      "paperId": "fcbb99ec3c5142cf226d4855625f33a8558dd73f",
+      "title": "Almost tight bounds for\u025b-Nets"
+    },
+    {
+      "paperId": "4cb2b7d7acef6b42d020582380acec1792750373",
+      "title": "An Output-Sensitive Algorithm for Computing Visibility Graphs"
+    },
+    {
+      "paperId": "4d7be6b8c5b3600ec8193c843e86d195825af7fc",
+      "title": "Distance visibility graphs"
+    },
+    {
+      "paperId": "54c2d54c2a64d453a64507872c60e653e924e0ae",
+      "title": "Recognizing Visibility Graphs of Spiral Polygons"
+    },
+    {
+      "paperId": "e0b8fa3496283d4d808fba9ff62d5f024bcf23be",
+      "title": "Learnability and the Vapnik-Chervonenkis dimension"
+    },
+    {
+      "paperId": "82f300b9ac15d5a0e10999cfb02e2f45cda2f3e4",
+      "title": "Hiding people in polygons"
+    },
+    {
+      "paperId": "d35f0138e33e243ea0ae25168a28834b42fa9f9f",
+      "title": "An optimal visibility graph algorithm for triangulated simple polygons"
+    },
+    {
+      "paperId": "09da7b6fff3fe91487d18cd5e5184e7a0ccbc69b",
+      "title": "Searching for empty convex polygons"
+    },
+    {
+      "paperId": "25e8784b7af0687fe5416f98bd02d48314526165",
+      "title": "On recognizing and characterizing visibility graphs of simple polygons"
+    },
+    {
+      "paperId": "4b88808a9d61844938cbda1fb15d38d4bb52d2fe",
+      "title": "Computing simple circuits from a set of line segments"
+    },
+    {
+      "paperId": "74c857eb5baa86a26c4da6a4c479a0ea6ec3da66",
+      "title": "A note on visibility graphs"
+    },
+    {
+      "paperId": "65bd57ade3dbccf7a5dae74bea09518a8609c987",
+      "title": "Rectilinear planar layouts and bipolar orientations of planar graphs"
+    },
+    {
+      "paperId": "582212a037a08a4c59da05ebf648729d70cd7268",
+      "title": "A unified approach to visibility representations of planar graphs"
+    },
+    {
+      "paperId": "130118cdf97a940a6194bfd4e88b7e6e48197a68",
+      "title": "Upper bounds for configurations and polytopes inRd"
+    },
+    {
+      "paperId": "83acfab18af19a4b74c6e78af95a6f20f3bb297a",
+      "title": "Computational complexity of art gallery problems"
+    },
+    {
+      "paperId": "1d14cc57e1d1ddbe57e9f02547dffa3ed02581d3",
+      "title": "On shortest paths in polyhedral spaces"
+    },
+    {
+      "paperId": "d6b821a339875665a364df51a1bc217805a8ce15",
+      "title": "Characterizing bar line-of-sight graphs"
+    },
+    {
+      "paperId": "3079edce14fac7fa679b00bb8c9cfa0725e65d93",
+      "title": "Computing the largest empty convex subset of a set of points"
+    },
+    {
+      "paperId": "ea06b51fb33063e5d6ea7f0886e5bda3ce22ac1e",
+      "title": "Constructing the Visibility Graph for n-Line Segments in O(n\u00b2) Time"
+    },
+    {
+      "paperId": "d2131b89a0a544350f6e8dc43655ea0235386fc8",
+      "title": "Semispaces of Configurations, Cell Complexes of Arrangements"
+    },
+    {
+      "paperId": "9a431464e099cb1096e1c1cb9bf5281abd8bc26a",
+      "title": "Sets with No Empty Convex 7-Gons"
+    },
+    {
+      "paperId": "db698cabea169910e674c763fec20633edb3f6b6",
+      "title": "Constructing arrangements of lines and hyperplanes with applications"
+    },
+    {
+      "paperId": "4f361cc1751f6260dfe676d3c1c547c80505b5d0",
+      "title": "The power of geometric duality"
+    },
+    {
+      "paperId": "d9e3db556c5611f45182af845a5199701adb8cb6",
+      "title": "An algorithm for planning collision-free paths among polyhedral obstacles"
+    },
+    {
+      "paperId": "45bbbb43c48e6858ca0c08f954dbfc6032098206",
+      "title": "On fully characterizing terrain visibility graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Received February"
+    },
+    {
+      "paperId": "e04f550c62969708fbc2d23b26d920d716faf00d",
+      "title": "Mapping Polygons"
+    },
+    {
+      "paperId": "f17605ee6094ac9aeb7ceae9dcce7d2ef4fad5ef",
+      "title": "A note on blocking visibility between points"
+    },
+    {
+      "paperId": "cc87a0d285799418f19a0daf11571e26915b9114",
+      "title": "A combinatorial problem in geometry"
+    },
+    {
+      "paperId": "8b7013450e34c3c11049ae94f85de773f99f9505",
+      "title": "On the Limitations of Combinatorial Visibilities"
+    },
+    {
+      "paperId": "36e16a430ee8fedd596ed00465680b7dcb06294f",
+      "title": "VC-Dimension of Visibility on Terrains"
+    },
+    {
+      "paperId": "c8d8b953ec47f87518f7c00e71ddbff4deb92b3b",
+      "title": "The Erdo\"s-Szekeres Theorem: upper Bounds and Related Results"
+    },
+    {
+      "paperId": "dc0e5e6ced06919668fd42efedf7ff81f6c132df",
+      "title": "On some extremum problems in elementary geometry"
+    },
+    {
+      "paperId": "e98e4660533ab6c08509aa54740849dbbfa62567",
+      "title": "Visibility of disjoint polygons"
+    },
+    {
+      "paperId": "83a07f8ccce9bfab6d19ba4601d754cbfdc72f3d",
+      "title": "Characterization of [ 1 , k ]-Bar Visibility Trees"
+    },
+    {
+      "paperId": "0440900c0eca59511ce2a1694df7c847d73bd217",
+      "title": "The Erd\u0151s \u2013 Szekeres Theorem : Upper Bounds and Related Results"
+    },
+    {
+      "paperId": "b49c0176b72089ec2e0b03a5172c4c7df240c36d",
+      "title": "Midpoints of segments induced by a point set"
+    },
+    {
+      "paperId": null,
+      "title": "Lecture on Discrete Geometry, volume 212 of Graduate Text in Mathematics"
+    },
+    {
+      "paperId": null,
+      "title": "On the midpoints of a plane point set"
+    },
+    {
+      "paperId": "39726bf9a5a2f4cc02ee8beccde24e8021d6bdd7",
+      "title": "(In-)Approximability of visibility problems on polygons and terrains"
+    },
+    {
+      "paperId": "9e88e28b561930f0ffddb306d1a661304a0cd513",
+      "title": "Spanning Trees and Spanners"
+    },
+    {
+      "paperId": "2db0e6ef95f8c8ea6ddcd6b1270cebbd6d2349ea",
+      "title": "Art Gallery and Illumination Problems"
+    },
+    {
+      "paperId": "ca44bf6c3b23bdbd7c4daf6a72033bffe29066ef",
+      "title": "Open Problems in the Combinatorics of Visibility and Illumination"
+    },
+    {
+      "paperId": "0774d16f5bacc0e78164a85433a6a888ad23abfb",
+      "title": "Computational geometry: algorithms and applications"
+    },
+    {
+      "paperId": "f48905a472137236ec80e42929980a7c5117ec7d",
+      "title": "Planar Visibility Graphs"
+    },
+    {
+      "paperId": "ef9751c1058389809fde1f4ad251b24b6dbe1906",
+      "title": "Recovery of Convex Hulls From External Visibility Graphs"
+    },
+    {
+      "paperId": "1445bb0eae6f5c96be11d9b65c164bad2f73df95",
+      "title": "Recent Results in Art Galleries"
+    },
+    {
+      "paperId": "35aa34e57da2891ab4c184502b7a6e820232b735",
+      "title": "Visibility graph recognition"
+    },
+    {
+      "paperId": null,
+      "title": "Finding the visibility graph of a polygon in time proportional to its size. Algorithmica"
+    },
+    {
+      "paperId": "5d4d97e80511643ffb256d4ee2a8769422998740",
+      "title": "Art gallery theorems and algorithms"
+    },
+    {
+      "paperId": "bb5ee5cb3500b1a406e5672fb191c1d525a3e157",
+      "title": "Hierarchical decomposition of polygons with applications"
+    },
+    {
+      "paperId": "0955cc4a9ca6b455a9bc1abf800b7de3c07234fd",
+      "title": "A Visibility Problem in VLSI Layout Compaction"
+    },
+    {
+      "paperId": "0b05a704d98f086616eeeefd6edb7c06e7f65987",
+      "title": "A combinational approach to polygon similarity"
+    },
+    {
+      "paperId": "9a0bcd4766eb95c55e7c123178595b18bac60672",
+      "title": "Representing a planar graph by vertical lines joining different levels"
+    },
+    {
+      "paperId": "331d3d19d48bec105a3557d5fcadf6399e4be914",
+      "title": "Decomposition of Two-Dimensional Shapes by Graph-Theoretic Clustering"
+    },
+    {
+      "paperId": "493f367eeee5f75dd11c7b75ea5108ca46b4a954",
+      "title": "Proximity and reachability in the plane."
+    },
+    {
+      "paperId": "b5525cd220f0ed7a11503ddf3d7bdaf009a60f19",
+      "title": "Konvexe F\u00fcnfecke in ebenen Punktmengen."
+    },
+    {
+      "paperId": "7d082019e03ae32ef04b4b92de5ad7c8fb7737cc",
+      "title": "Oriented matroids"
+    },
+    {
+      "paperId": "64cfe81049b1ba5828f81aa0d665cde80b1e6e9d",
+      "title": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30b5\u30a4\u30a8\u30f3\u30b9 : ACM computing surveys"
+    },
+    {
+      "paperId": "472a8b9a3461f1151008c3b8097e1d18fbe7b4ed",
+      "title": "SOME APPLICATIONS OF GRAPH THEORY AND COMBINATORIAL METHODS TO NUMBER THEORY AND GEOMETRY"
+    },
+    {
+      "paperId": null,
+      "title": "Critical graphs of given diameter"
+    },
+    {
+      "paperId": "a36b028d024bf358c4af1a5e1dc3ca0aed23b553",
+      "title": "Chervonenkis: On the uniform convergence of relative frequencies of events to their probabilities"
+    },
+    {
+      "paperId": "06c126b1238dc11cc1e36a3b876dab4044637fa1",
+      "title": "Lower bounds for approximation by nonlinear manifolds"
+    },
+    {
+      "paperId": "103653a15c1a1c08c14683b064c70cce742c9ee3",
+      "title": "Sur le coloriage des graphs"
+    },
+    {
+      "paperId": "0ae931d52828517e94c816eef4c232faac9f7c95",
+      "title": "On a Problem of Formal Logic"
+    },
+    {
+      "paperId": "fb5858d82fcf09869f2952ab35be36e21f4cacb7",
+      "title": "Journal of Graph Algorithms and Applications Bar K-visibility Graphs"
+    },
+    {
+      "paperId": "e5a6e7045095a131ce21233ecbe2fe42cadf36ca",
+      "title": "Unit Bar-visibility Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Article 22, Publication date: November 2013"
+    },
+    {
+      "paperId": null,
+      "title": "Two necessary conditions for recognizing point visibility graphs. Manuscript, Tata Institute of Fundamental Research"
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "paperId": "a0744c7b95015b0850061784ca14c49b3181de86",
+  "externalIds": {
+    "DBLP": "journals/cgf/HuangWKK23",
+    "DOI": "10.1111/cgf.14859",
+    "CorpusId": 259263686
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a0744c7b95015b0850061784ca14c49b3181de86",
+  "title": "VA + Embeddings STAR: A State\u2010of\u2010the\u2010Art Report on the Use of Embeddings in Visual Analytics",
+  "abstract": "Over the past years, an increasing number of publications in information visualization, especially within the field of visual analytics, have mentioned the term \u201cembedding\u201d when describing the computational approach. Within this context, embeddings are usually (relatively) low\u2010dimensional, distributed representations of various data types (such as texts or graphs), and since they have proven to be extremely useful for a variety of data analysis tasks across various disciplines and fields, they have become widely used. Existing visualization approaches aim to either support exploration and interpretation of the embedding space through visual representation and interaction, or aim to use embeddings as part of the computational pipeline for addressing downstream analytical tasks. To the best of our knowledge, this is the first survey that takes a detailed look at embedding methods through the lens of visual analytics, and the purpose of our survey article is to provide a systematic overview of the state of the art within the emerging field of embedding visualization. We design a categorization scheme for our approach, analyze the current research frontier based on peer\u2010reviewed publications, and discuss existing trends, challenges, and potential research directions for using embeddings in the context of visual analytics. Furthermore, we provide an interactive survey browser for the collected and categorized survey data, which currently includes 122 entries that appeared between 2007 and 2023.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2023,
+  "referenceCount": 220,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14859",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Huang2023VAE,\n author = {Z. Huang and D. Witschard and Kostiantyn Kucher and A. Kerren},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {VA + Embeddings STAR: A State\u2010of\u2010the\u2010Art Report on the Use of Embeddings in Visual Analytics},\n volume = {42},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2220684065",
+      "name": "Z. Huang"
+    },
+    {
+      "authorId": "2051808681",
+      "name": "D. Witschard"
+    },
+    {
+      "authorId": "34523583",
+      "name": "Kostiantyn Kucher"
+    },
+    {
+      "authorId": "2569160",
+      "name": "A. Kerren"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7845e230a0e6d9aa1dbdda90ad1a4ea1a8cd075c",
+      "title": "Interactive Subspace Cluster Analysis Guided by Semantic Attribute Associations"
+    },
+    {
+      "paperId": "0eb3afb4df92159d2a5556d27d1474332dc092ba",
+      "title": "TimberSleuth: Visual anomaly detection with human feedback for mitigating the illegal timber trade"
+    },
+    {
+      "paperId": "e26aba347acf89e893cc9fd21fbb78b67f058a55",
+      "title": "Design of New Dispersants Using Machine Learning and Visual Analytics"
+    },
+    {
+      "paperId": "573661c4065c2bdded2e8bf56ad0a55fb1f70deb",
+      "title": "Visualization and Visual Analytics Approaches for Image and Video Datasets: A Survey"
+    },
+    {
+      "paperId": "3daf38bf69b5ea555379fb4139f474ffc2c5a416",
+      "title": "VISAtlas: An Image-Based Exploration and Query System for Large Visualization Collections via Neural Image Embedding"
+    },
+    {
+      "paperId": "0c5084a90146d0aeff76bc3fed309ca5016bb704",
+      "title": "iHELP: interactive hierarchical linear projections for interpreting non-linear projections"
+    },
+    {
+      "paperId": "b281cec8708bfefceace965fb46fceff3712c85d",
+      "title": "A Visual Analytics Pipeline for the Identification and Exploration of Extreme Weather Events from Social Media Data"
+    },
+    {
+      "paperId": "9016ba4fdad2dc292bc645640693b39ebdacc1e0",
+      "title": "Representation and analysis of time-series data via deep embedding and visual exploration"
+    },
+    {
+      "paperId": "5e7b512d7f030741dd04d2417781a5f1fbeaaf30",
+      "title": "Compressing and interpreting word embeddings with latent space regularization and interactive semantics probing"
+    },
+    {
+      "paperId": "5aeea559f7f6ea5747507f55b9d5e5b5787e617b",
+      "title": "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
+    },
+    {
+      "paperId": "31b2c7c2b4a5918bcd1ec3342b4f51fdfcf87052",
+      "title": "BiaScope: Visual Unfairness Diagnosis for Graph Embeddings"
+    },
+    {
+      "paperId": "c08cf8df6f487ab623682bb59d22668600cfa3bc",
+      "title": "MedCV: An Interactive Visualization System for Patient Cohort Identification from Medical Claim Data"
+    },
+    {
+      "paperId": "b576e0803008906f383b2f4f11760673fe414842",
+      "title": "Visual Concept Programming: A Visual Analytics Approach to Injecting Human Intelligence at Scale"
+    },
+    {
+      "paperId": "c01225eee64252f5f1fc6937b6f943446412437c",
+      "title": "Incorporation of Human Knowledge into Data Embeddings to Improve Pattern Significance and Interpretability"
+    },
+    {
+      "paperId": "215be2714c4ee58e705b37a8f3c6a21c7b0234c2",
+      "title": "Decision Boundary Visualization for Counterfactual Reasoning"
+    },
+    {
+      "paperId": "9d4f80f4022f11f560268dbf8b62dd72cb0413a0",
+      "title": "ShortcutLens: A Visual Analytics Approach for Exploring Shortcuts in Natural Language Understanding Dataset"
+    },
+    {
+      "paperId": "9fac996885832862941483433eb344ea30881561",
+      "title": "Visual Comparison of Language Model Adaptation"
+    },
+    {
+      "paperId": "886f473351d33d08443bdc22d60a4c54cb6b6eac",
+      "title": "PRIVEE: A Visual Analytic Workflow for Proactive Privacy Risk Inspection of Open Data"
+    },
+    {
+      "paperId": "d0e1d2e9f915067b552a26db242eb89df0c82421",
+      "title": "Interactive optimization of embedding-based text similarity calculations"
+    },
+    {
+      "paperId": "21e3b1c4294757fb7d5d8daf12940ff9a10e4be6",
+      "title": "Identifying the skeptics and the undecided through visual cluster analysis of local network geometry"
+    },
+    {
+      "paperId": "082f76e885dbdb25bd8cabe54c5a9f735dab8438",
+      "title": "GEMvis: a visual analysis method for the comparison and refinement of graph embedding models"
+    },
+    {
+      "paperId": "cbc4f2c0e61470967b0363b4cf1ce60d4b778fe4",
+      "title": "DramatVis Personae: Visual Text Analytics for Identifying Social Biases in Creative Writing"
+    },
+    {
+      "paperId": "b5a618d3253153bb969386471ae0f65c2a4b7b7e",
+      "title": "Interactive clustering and high-recall information retrieval using language models"
+    },
+    {
+      "paperId": "5dfd20fc141837d849c3237d10c4d87784c1c3e6",
+      "title": "AirLens: Multi\u2010Level Visual Exploration of Air Quality Evolution in Urban Agglomerations"
+    },
+    {
+      "paperId": "64465ea3d2a8ebf310e13937978905f204bf0133",
+      "title": "Of Course it's Political! A Critical Inquiry into Underemphasized Dimensions in Civic Text Visualization"
+    },
+    {
+      "paperId": "98795a8c6af73a370f985ce59ea0f095e66b5858",
+      "title": "LMFingerprints: Visual Explanations of Language Model Embedding Spaces through Layerwise Contextualization Scores"
+    },
+    {
+      "paperId": "11985271ac6099cf3b5302528cce4e66d6b60efb",
+      "title": "Interactively Assessing Disentanglement in GANs"
+    },
+    {
+      "paperId": "90902e2c4a312a3e2a8139195163c0cfaf890e18",
+      "title": "Urban Rhapsody: Large\u2010scale exploration of urban soundscapes"
+    },
+    {
+      "paperId": "acafccd54d326bb439166529cdbdacdf66c9cc7c",
+      "title": "Visual analytics and information extraction of geological content for text-based mineral exploration reports"
+    },
+    {
+      "paperId": "df028b192391d48bdff979e8116797087f56288f",
+      "title": "Metaphorical Visualization: Mapping Data to Familiar Concepts"
+    },
+    {
+      "paperId": "169763ef681648a4f90139c854fe614b68bdebf1",
+      "title": "RoleSeer: Understanding Informal Social Role Changes in MMORPGs via Visual Analytics"
+    },
+    {
+      "paperId": "f4fc94c2987955c1d0ae77011533687ff236174f",
+      "title": "GestureLens: Visual Analysis of Gestures in Presentation Videos"
+    },
+    {
+      "paperId": "8b0d091a5b452359d6301add424c0c1924a4fff4",
+      "title": "Visual aggregation of large multivariate networks with attribute-enhanced representation learning"
+    },
+    {
+      "paperId": "1c9542feac0c3b82fdc4f4f941ce07fb7868460e",
+      "title": "Concept splatters: Exploration of latent spaces based on human interpretable concepts"
+    },
+    {
+      "paperId": "f67cd3780de8dc8fe385c29da9e4e8a78d3ff0f2",
+      "title": "Visualization of medical concepts represented using word embeddings: a scoping review"
+    },
+    {
+      "paperId": "5493aefc07e331045be76003ea516aef57f76cb9",
+      "title": "BERTopic: Neural topic modeling with a class-based TF-IDF procedure"
+    },
+    {
+      "paperId": "ee8b04a0586cda1ef26593df6a3191654e3e09c7",
+      "title": "Symphony: Composing Interactive Interfaces for Machine Learning"
+    },
+    {
+      "paperId": "ef29a92900f323560c2ed4d4a50ca472a41be71c",
+      "title": "Supporting Serendipitous Discovery and Balanced Analysis of Online Product Reviews with Interaction-Driven Metrics and Bias-Mitigating Suggestions"
+    },
+    {
+      "paperId": "372f46308d131674c3f140b49db1fbe3dd7dfe79",
+      "title": "Emblaze: Illuminating Machine Learning Representations through Interactive Comparison of Embedding Spaces"
+    },
+    {
+      "paperId": "016609ec5b75c8cee317ef1b7661501791803fdc",
+      "title": "Exploring scientific literature by textual and image content using DRIFT"
+    },
+    {
+      "paperId": "f6390af9f3664f4d837f551fa84b73288ae831fc",
+      "title": "MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks"
+    },
+    {
+      "paperId": "277b50ed6421522d10f438e87e2e3bfb0ceeec5b",
+      "title": "Predicting aspect-based sentiment using deep learning and information visualization: The impact of COVID-19 on the airline industry"
+    },
+    {
+      "paperId": "10e69f60ea0c7c598de9e4095ebc6640e5289c07",
+      "title": "iPoet: interactive painting poetry creation with visual multimodal analysis"
+    },
+    {
+      "paperId": "dde2db9f03e6647e8479a3e890f5cd2201455ab5",
+      "title": "SocialVisTUM: An Interactive Visualization Toolkit for Correlated Neural Topic Models on Social Media Opinion Mining"
+    },
+    {
+      "paperId": "1768ad2278818abce1ffbc34e6e13a5256aa9f6b",
+      "title": "DRIFT: A visual analytic tool for scientific literature exploration based on textual and image content"
+    },
+    {
+      "paperId": "773d84dd22fe191dd2d1760df361db307f78e232",
+      "title": "Interactive Visual Pattern Search on Graph Data via Graph Representation Learning"
+    },
+    {
+      "paperId": "4f49c10ffa57ee2cf969538300cf1bade184e9c6",
+      "title": "Discovering and Validating AI Errors With Crowdsourced Failure Reports"
+    },
+    {
+      "paperId": "33e7df609e7b31cb82176bb28f1fc1f7268f57a9",
+      "title": "CriPAV: Street-Level Crime Patterns Analysis and Visualization"
+    },
+    {
+      "paperId": "ac1851b9deec99afc4eb6bf80ed17b4b550834db",
+      "title": "When classification accuracy is not enough: Explaining news credibility assessment"
+    },
+    {
+      "paperId": "278cb9aee52fbea07b5259f9391b4fe303b20c97",
+      "title": "Unveiling transit mobility structure towards sustainable cities: An integrated graph embedding approach"
+    },
+    {
+      "paperId": "b4f3dd713173b4463ae18049dd209277aa08b2f5",
+      "title": "T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP"
+    },
+    {
+      "paperId": "5a4d66f718964c39b62e1661ba05a741889a1dca",
+      "title": "NeuroCartography: Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks"
+    },
+    {
+      "paperId": "2049d780403ccae19f811621ebc72efe32f4acfb",
+      "title": "FGVis: visual analytics of human mobility patterns and urban areas based on F-GloVe"
+    },
+    {
+      "paperId": "e5de722932ba2a849c0d382e08f99bf95ba523fc",
+      "title": "Explaining Semi-Supervised Text Alignment Through Visualization"
+    },
+    {
+      "paperId": "1755eeb45cc8532882a88c27d2811aa6f2fa3181",
+      "title": "VNLP: Visible natural language processing"
+    },
+    {
+      "paperId": "deff3dfea871ae5d948fe04aa482c953faf61c5d",
+      "title": "VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics"
+    },
+    {
+      "paperId": "944337a96ee31068223924b7c498091c6e9697fb",
+      "title": "Attribute-based Explanation of Non-Linear Embeddings of High-Dimensional Data"
+    },
+    {
+      "paperId": "1d05d07148ea9499cfa60607b018ea887212b289",
+      "title": "A Visual Analytics Approach for Structural Differences Among Graphs via Deep Learning"
+    },
+    {
+      "paperId": "6345a328f50d0a702e7fc2c71ff46f38de67b121",
+      "title": "Graph-based visualization of sensitive medical data"
+    },
+    {
+      "paperId": "37cdcca448f16d3d96e704374a89358d6485c080",
+      "title": "Visualizing Graph Neural Networks With CorGIE: Corresponding a Graph to Its Embedding"
+    },
+    {
+      "paperId": "89a7639f36a24bd24298978d336c76e1d56196c0",
+      "title": "Texture Browser: Feature\u2010based Texture Exploration"
+    },
+    {
+      "paperId": "76dc15232628e3b5e3ddd5dc8a1b5ad1ef2bf4f6",
+      "title": "A Survey of Human\u2010Centered Evaluations in Human\u2010Centered Machine Learning"
+    },
+    {
+      "paperId": "dce54248f202e6a1ba98c66859cd58bd24007f98",
+      "title": "ViziTex: Interactive Visual Sense-Making of Text Corpora"
+    },
+    {
+      "paperId": "468ad64f6d8e4eb6118f79f95c8f22b9bceb4af7",
+      "title": "Learning Contextualized User Preferences for Co\u2010Adaptive Guidance in Mixed\u2010Initiative Topic Model Refinement"
+    },
+    {
+      "paperId": "57578553e2571093a54a49d901b4ebdf0863b5bc",
+      "title": "A social media analytics platform visualising the spread of COVID-19 in Italy via exploitation of automatically geotagged tweets"
+    },
+    {
+      "paperId": "72251029560e28979bbf95b59bbe4024eee9716e",
+      "title": "Exploring Multi\u2010dimensional Data via Subset Embedding"
+    },
+    {
+      "paperId": "048c7e4b9c76298d4f016a07de6c7612268900a7",
+      "title": "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches"
+    },
+    {
+      "paperId": "bb815c343dff7f7596c1544871183b68cf11ddbc",
+      "title": "Are Word Embedding Methods Stable and Should We Care About It?"
+    },
+    {
+      "paperId": "55da21f66f12c15206e75052db0f203c26e46733",
+      "title": "DeepSI: Interactive Deep Learning for Semantic Interaction"
+    },
+    {
+      "paperId": "75a4d6f454e85518cd7c66b56245e7e5b76329b5",
+      "title": "Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings"
+    },
+    {
+      "paperId": "6d2776217eb201d78e17d6076714235e353628f2",
+      "title": "A Visual Analytics Approach for the Diagnosis of Heterogeneous and Multidimensional Machine Maintenance Data"
+    },
+    {
+      "paperId": "6045e814bcd781c66f80e48155d6536d9715b53c",
+      "title": "Visualization of Topic Transitions in SNSs Using Document Embedding and Dimensionality Reduction"
+    },
+    {
+      "paperId": "8d04bf06ca5f21ccf1923a595522eb4b25abae74",
+      "title": "Dynamic Network Embedding Survey"
+    },
+    {
+      "paperId": "328bbe6b96427d79f5b316105416e8401da81ae0",
+      "title": "WordBias: An Interactive Visual Tool for Discovering Intersectional Biases Encoded in Word Embeddings"
+    },
+    {
+      "paperId": "8550a97f269246034a98aae7ab12f287cea65590",
+      "title": "RECAST"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "996534dc630f83ecea38125d0fec709e3a4f225e",
+      "title": "Visual exploration of dependency graph in source code via embedding-based similarity"
+    },
+    {
+      "paperId": "fbb401c1ff61d4fc93aadfbe60e05a0361e973ef",
+      "title": "TrammelGraph: visual graph abstraction for comparison"
+    },
+    {
+      "paperId": "95799a1dd77ecbb6ab1a0fda838a68c190210a8e",
+      "title": "A multimedia document browser based on multilayer networks"
+    },
+    {
+      "paperId": "eb2382bf1e78c83e6f17860f1e60b5d8f3c99a87",
+      "title": "Network embedding: Taxonomies, frameworks and applications"
+    },
+    {
+      "paperId": "42c7d7b997d5869814c46e684757608849487f98",
+      "title": "A Visual Analytics System for Exploring, Monitoring, and Forecasting Road Traffic Congestion"
+    },
+    {
+      "paperId": "ffca8849c5ada9aff1789b2c2682e434aa6ec463",
+      "title": "Using deep learning and visual analytics to explore hotel reviews and responses"
+    },
+    {
+      "paperId": "73b5017014b647ea09e053fe642795b70594b152",
+      "title": "Marrying Medical Domain Knowledge With Deep Learning on Electronic Health Records: A Deep Visual Analytics Approach"
+    },
+    {
+      "paperId": "e91de3c57f352dcdb314fc0c9c1ee4414eff15cc",
+      "title": "Exploring Reproducibility in Visualization"
+    },
+    {
+      "paperId": "80315e6f3a92d03dfb9e5fd20f572ce82f45363b",
+      "title": "Why Shouldn\u2019t All Charts Be Scatter Plots? Beyond Precision-Driven Visualizations"
+    },
+    {
+      "paperId": "8dce62b18bdea587c07cb4769a05ca0a816d09ba",
+      "title": "The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models"
+    },
+    {
+      "paperId": "e2ddf9573f94b88e6fc2d3675c9f0ae68b3059a8",
+      "title": "Exemplar-based Layout Fine-tuning for Node-link Diagrams"
+    },
+    {
+      "paperId": "38501130391e8fe14c6c2d0cbdd332c25be0bd8c",
+      "title": "A Visual Analytics Framework for Contrastive Network Analysis"
+    },
+    {
+      "paperId": "c8ee66f9f993e503d5db0b7dfd37c59a05af7ab5",
+      "title": "Cumulus provides cloud-based data analysis for large-scale single-cell and single-nucleus RNA-seq"
+    },
+    {
+      "paperId": "b896b846ae180d804c7290d8b9ae9ffc55325866",
+      "title": "Language-agnostic BERT Sentence Embedding"
+    },
+    {
+      "paperId": "1d65631538dd7f9a420d7f4e9cb1dc1ab26f8b52",
+      "title": "Exploring Evolution of Dynamic Networks via Diachronic Node Embeddings"
+    },
+    {
+      "paperId": "f3a85d28770c5a8179aaefa6ce4708429ccbbfc3",
+      "title": "GTMapLens: Interactive Lens for Geo\u2010Text Data Browsing on Map"
+    },
+    {
+      "paperId": "6047ee05b1507ac6309b679551ed76c1a0ee4483",
+      "title": "SCANViz: Interpreting the Symbol-Concept Association Captured by Deep Neural Networks through Visual Analytics"
+    },
+    {
+      "paperId": "48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+      "title": "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
+    },
+    {
+      "paperId": "8308379582a8b5b34afa92d2052823d59a9f20fc",
+      "title": "The State of the Art in Map\u2010Like Visualization"
+    },
+    {
+      "paperId": "9cf1f39ec067ab6190d885239ba09b61e7024224",
+      "title": "A Survey on Transit Map Layout \u2013 from Design, Machine, and Human Perspectives"
+    },
+    {
+      "paperId": "176420f394014d9e67d5cff1e1d430541fa0f55f",
+      "title": "When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?"
+    },
+    {
+      "paperId": "7b9b756ab509cb9f52dbac95e3e901d571f0784f",
+      "title": "A Survey of the Usages of Deep Learning for Natural Language Processing"
+    },
+    {
+      "paperId": "b5e5c2c58a2eb6ba0392197ae457f29f9092be2f",
+      "title": "Urban Mosaic: Visual Exploration of Streetscapes Using Large-Scale Image Data"
+    },
+    {
+      "paperId": "3dacce6baae86dd74467e5187907b65ce1c8ca49",
+      "title": "A survey of surveys on the use of visualization for interpreting machine learning models"
+    },
+    {
+      "paperId": "e092ecf56fcca38d0cd6fe9e1e6b11c380f6c286",
+      "title": "A Survey on Contextual Embeddings"
+    },
+    {
+      "paperId": "cace81db117dc6c4ed506422ed4955041cc4b181",
+      "title": "iSeqL: interactive sequence learning"
+    },
+    {
+      "paperId": "eeab539846ade5ba94cc3c93167962985aea6a7a",
+      "title": "Comparative Visual Analytics for Assessing Medical Records with Sequence Embedding"
+    },
+    {
+      "paperId": "f49d5e25919cb9c8cacb6216d5dd2ffc41031c87",
+      "title": "TopoAct: Visually Exploring the Shape of Activations in Deep Learning"
+    },
+    {
+      "paperId": "ff9ad694b2ee40ae62bc5dcdc8082082a75ef107",
+      "title": "Embedding Comparator: Visualizing Differences in Global Structure and Local Neighborhoods via Small Multiples"
+    },
+    {
+      "paperId": "9c9c89ca5377c807fb3d6286862c7a74f9920679",
+      "title": "A Survey on Dimension Reduction Algorithms in Big Data Visualization"
+    },
+    {
+      "paperId": "415efb7b4d9d1e5b64dbaf3fe4229ad462acce71",
+      "title": "Multimodal Intelligence: Representation Learning, Information Fusion, and Applications"
+    },
+    {
+      "paperId": "7178ed6cc777918e618d00797fe972e9416d29f3",
+      "title": "embComp: Visual Interactive Comparison of Vector Embeddings"
+    },
+    {
+      "paperId": "d8b3ceefeb1307d569e24a607a35947910edfdc5",
+      "title": "Room to Glo: A Systematic Comparison of Semantic Change Detection Approaches with Word Embeddings"
+    },
+    {
+      "paperId": "ff9d00324b3e55122dee71f9cbc72fc812eb6892",
+      "title": "SSRDVis: Interactive visualization for event sequences summarization and rare detection"
+    },
+    {
+      "paperId": "4e7b11e07aaebe17de0ff3a720a6f9f6b70c7bc2",
+      "title": "Toward a Quantitative Survey of Dimension Reduction Techniques"
+    },
+    {
+      "paperId": "9fdac023784e36cb6c3a45b0374d14da57cfa7c5",
+      "title": "A Visual Analytics Framework for Adversarial Text Generation"
+    },
+    {
+      "paperId": "508b4d88de3e0b876d884c764d250f4ce4875190",
+      "title": "TRIVIR: A Visualization System to Support Document Retrieval with High Recall"
+    },
+    {
+      "paperId": "95ca99b254881a8a533b770804e1c05e4aa28b28",
+      "title": "AnchorViz"
+    },
+    {
+      "paperId": "9c009390ef45542925940e12629b62b084f41251",
+      "title": "Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "c80dc223396906e72a8b397bdb9f3202669ec461",
+      "title": "TopicSifter: Interactive Search Space Reduction through Targeted Topic Modeling"
+    },
+    {
+      "paperId": "05271ef13a79f2efc8f5206ecf41194b410d77f6",
+      "title": "Bridging Text Visualization and Mining: A Task-Driven Survey"
+    },
+    {
+      "paperId": "329b84a919bfd1771be5bd14fa81e7b3f74cc961",
+      "title": "An Introduction to Variational Autoencoders"
+    },
+    {
+      "paperId": "51a30be48add8b9bf8f8d2e3f69ee1d4e06e2db0",
+      "title": "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+    },
+    {
+      "paperId": "42305dfdda2aab2e2bd884e80180827996010cc0",
+      "title": "Visual Exploration of Neural Document Embedding in Information Retrieval: Semantics and Feature Selection"
+    },
+    {
+      "paperId": "9767b1d458495e80cb0bd04d8366d680d43bdbf9",
+      "title": "Parallax: Visualizing and Understanding the Semantics of Embedding Spaces via Algebraic Formulae"
+    },
+    {
+      "paperId": "c192c7d1d94e7a64de7e18e2f2fdffbf2909fcff",
+      "title": "Deep Multimodal Representation Learning: A Survey"
+    },
+    {
+      "paperId": "406ed5b700491068bb8a9407696286114c05891a",
+      "title": "TalkTraces: Real-Time Capture and Visualization of Verbal Content in Meetings"
+    },
+    {
+      "paperId": "69accd35f2ae56aa71ceaa5abeb814fcedc8a58e",
+      "title": "Evaluating the Underlying Gender Bias in Contextualized Word Embeddings"
+    },
+    {
+      "paperId": "ea455dc7ef4dfde608bf2055b911b695d77360c6",
+      "title": "Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning"
+    },
+    {
+      "paperId": "e28e81a8cb6655aebb72357538f7b7a360366a29",
+      "title": "Word Embeddings: A Survey"
+    },
+    {
+      "paperId": "314b0efe1aa77ee494b60d394883bd510fc1157b",
+      "title": "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Applications"
+    },
+    {
+      "paperId": "34f3071bbbb2be99d766c365c60cdbf190b9db8d",
+      "title": "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
+    },
+    {
+      "paperId": "a28823713864f85ea5330ab6120ef1dd791e571f",
+      "title": "Using Detailed Access Trajectories for Learning Behavior Analysis"
+    },
+    {
+      "paperId": "722c876e52e29a9717f76dfa0771e4f6a2b4396c",
+      "title": "Visual exploration and comparison of word embeddings"
+    },
+    {
+      "paperId": "6cc5628bdff37f87ac7b2289fd0c4788079c54fc",
+      "title": "Visual ranking of academic influence via paper citation"
+    },
+    {
+      "paperId": "c27605c034e4612ab5ac42f0fafde6e257989240",
+      "title": "Geo-Text Data and Data-Driven Geospatial Semantics"
+    },
+    {
+      "paperId": "8a0cda61d34c267fa9029b6a13e39508e473e92c",
+      "title": "EmbeddingVis: A Visual Analytics Approach to Comparative Network Embedding Inspection"
+    },
+    {
+      "paperId": "be156af658a059747cbd3a63d9592e7d7424790a",
+      "title": "Analysis of VINCI 2009-2017 Proceedings"
+    },
+    {
+      "paperId": "38ccbd99e75412fc6797edb682ae6bef74e5e0b3",
+      "title": "Persistence Atlas for Critical Point Variability in Ensembles"
+    },
+    {
+      "paperId": "a41cf8154a64fe95f9c362e5664aebb02b18ee85",
+      "title": "Diachronic word embeddings and semantic shifts: a survey"
+    },
+    {
+      "paperId": "9dbca9da6a72ba3739813288b677888a6cf76272",
+      "title": "Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieval"
+    },
+    {
+      "paperId": "b9607fe672f9dbe470249aa513c1d677e9a13df0",
+      "title": "Interactive Analysis of Word Vector Embeddings"
+    },
+    {
+      "paperId": "5578fb8a4ef309eca31fd7a1d86c3d402e811310",
+      "title": "Chart Constellations: Effective Chart Summarization for Collaborative and Multi\u2010User Analyses"
+    },
+    {
+      "paperId": "8d5154a976c20cde2fcb254bd514d3d3bddfba20",
+      "title": "Exploring the Visualization Design Space with Repertory Grids"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "ba9769758c577ad3474785e070156365c2ede09e",
+      "title": "Factors Influencing the Surprising Instability of Word Embeddings"
+    },
+    {
+      "paperId": "c5ea28d0292dc6e9cd12e1ddf6a07aac63e6dc65",
+      "title": "Evaluating the Stability of Embedding-based Word Similarities"
+    },
+    {
+      "paperId": "2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+      "title": "The State of the Art in Sentiment Visualization"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "458fd732f65f32b74d4f1bbdfced2f7019697624",
+      "title": "Visual Exploration of Semantic Relationships in Neural Word Embeddings"
+    },
+    {
+      "paperId": "fcf229c19958647d8bc2b617e3ee77c61216bf18",
+      "title": "VAUT: a visual analytics system of spatiotemporal urban topics in reviews"
+    },
+    {
+      "paperId": "62a90fbb0dc2f4c2cb777aa43dce2ae872fede2c",
+      "title": "Network Representation Learning: A Survey"
+    },
+    {
+      "paperId": "30321b036607a7936221235ea8ec7cf7c1627100",
+      "title": "Knowledge Graph Embedding: A Survey of Approaches and Applications"
+    },
+    {
+      "paperId": "ce840188f3395815201b7da49f9bb40d24fc046a",
+      "title": "A Survey on Network Embedding"
+    },
+    {
+      "paperId": "04df7ec139a47342ea93faa34863c6716e865ef4",
+      "title": "Visual analysis of mass cytometry data by hierarchical stochastic neighbour embedding reveals rare cell types"
+    },
+    {
+      "paperId": "c8cee328b1774c2d38bea10f9fe9d081d8074307",
+      "title": "Learning Community Embedding with Community Detection and Node Embedding on Graphs"
+    },
+    {
+      "paperId": "497e9c8b3af5f4336b653efe22611274c11d5a6e",
+      "title": "Social media analytics: Extracting and visualizing Hilton hotel ratings and reviews from TripAdvisor"
+    },
+    {
+      "paperId": "9174452c4ee3659b87f47fcd650cf86cae211321",
+      "title": "BioVis Explorer: A visual guide for biological data visualization techniques"
+    },
+    {
+      "paperId": "ad1e05b3fa171b08a0a480246f10f0c6abe25b75",
+      "title": "Visualization of JOV abstracts"
+    },
+    {
+      "paperId": "ecf6c42d84351f34e1625a6a2e4cc6526da45c74",
+      "title": "Representation Learning on Graphs: Methods and Applications"
+    },
+    {
+      "paperId": "57492e6f4dc675352226000a3bdfef4651ea23ea",
+      "title": "Timelines Revisited: A Design Space and Considerations for Expressive Storytelling"
+    },
+    {
+      "paperId": "f46b7231af2552dbe5a99e24b373f1ddcca527c3",
+      "title": "Steering the Craft: UI Elements and Visualizations for Supporting Progressive Visual Analytics"
+    },
+    {
+      "paperId": "ec2f7b61f26b26ed1ec4b897dc6ecdc9e9b03cef",
+      "title": "Interactive Ambiguity Resolution of Named Entities in Fictional Literature"
+    },
+    {
+      "paperId": "374b4409f6a1d2d853af31e329f025da239d375f",
+      "title": "Graph Embedding Techniques, Applications, and Performance: A Survey"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "9d0ad8d05ad1e0f5d018cc1e17fc2dd27685039b",
+      "title": "Embedding Projector: Interactive Visualization and Interpretation of Embeddings"
+    },
+    {
+      "paperId": "36ee2c8bd605afd48035d15fdc6b8c8842363376",
+      "title": "node2vec: Scalable Feature Learning for Networks"
+    },
+    {
+      "paperId": "9233bba50f1526f256825ca3201121b520a84441",
+      "title": "Simple is Good: Observations of Visualization Use Amongst the Big Data Digerati"
+    },
+    {
+      "paperId": "dd3469abd581f238718be59856e4689baed47437",
+      "title": "Cytosplore: Interactive Immune Cell Phenotyping for Large Single\u2010Cell Datasets"
+    },
+    {
+      "paperId": "bb9fdff5e0cec83df941719f8524d6733e7f122f",
+      "title": "Visualizing and Interacting with Kernelized Data"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "4337f10334493aa95a5989c72d7fba21982b451e",
+      "title": "A survey of technologies on the rise for emotion-enhanced interaction"
+    },
+    {
+      "paperId": "d246b50b99eb2d2f1e67b855e059002b96a64f86",
+      "title": "LeSSS: Learned Shared Semantic Spaces for Relating Multi\u2010Modal Representations of 3D Shapes"
+    },
+    {
+      "paperId": "e66a0141ccfbc4e422a806e476218cd7858acafa",
+      "title": "Visual Analytics for the Exploration of Tumor Tissue Characterization"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+      "title": "GloVe: Global Vectors for Word Representation"
+    },
+    {
+      "paperId": "f3de86aeb442216a8391befcacb49e58b478f512",
+      "title": "Distributed Representations of Sentences and Documents"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "f25cac25afa61bdc3b4aa624b505406c7ece7a6e",
+      "title": "ShapeSynth: Parameterizing model collections for coupled shape exploration and synthesis"
+    },
+    {
+      "paperId": "fff114cbba4f3ba900f33da574283e3de7f26c83",
+      "title": "DeepWalk: online learning of social representations"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "87f40e6f3022adbc1f1905e3e506abad05a9964f",
+      "title": "Distributed Representations of Words and Phrases and their Compositionality"
+    },
+    {
+      "paperId": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+      "title": "Representation Learning: A Review and New Perspectives"
+    },
+    {
+      "paperId": "bc1022b031dc6c7019696492e8116598097a8c12",
+      "title": "Natural Language Processing (Almost) from Scratch"
+    },
+    {
+      "paperId": "e2b7f37cd97a7907b1b8a41138721ed06a0b76cd",
+      "title": "Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion"
+    },
+    {
+      "paperId": "e8eef01b77a9fd8f5eb9cbae3b84e2d53317a473",
+      "title": "Exemplar-based Visualization of Large Document Corpus (InfoVis2009-1115)"
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "7feadd0b9087b9d1a10388e0c68255f72f413a74",
+      "title": "Survey Article: Inter-Coder Agreement for Computational Linguistics"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "3d41c6f9bce5e663d1621eac7abbf224c762261f",
+      "title": "Sequential Document Visualization"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "1c7f1c139910535285646b633507546581e3a1ed",
+      "title": "Crime prevention through environmental design (CPTED): a review and modern bibliography"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "28209ce8d0ac1cf4ceea3eeddf4630e1032fa0ef",
+      "title": "A neural probabilistic language model"
+    },
+    {
+      "paperId": "6c2b28f9354f667cd5bd07afc0471d8334430da7",
+      "title": "A Neural Probabilistic Language Model"
+    },
+    {
+      "paperId": "69602bc12d17d84fa1a9b146826545e6fd03b15e",
+      "title": "Mining frequent patterns without candidate generation"
+    },
+    {
+      "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "title": "Long Short-Term Memory"
+    },
+    {
+      "paperId": null,
+      "title": "Explaining \u00a9 2023 The Authors. Computer Graphics Forum published by Eurographics and John"
+    },
+    {
+      "paperId": "2ab02e5a42f89ac15e1f2f9a9222e10bb408400f",
+      "title": "KeywordScape: Visual Document Exploration using Contextualized Keyword Embeddings"
+    },
+    {
+      "paperId": null,
+      "title": "Tribe or Not? Critical Inspection of Group Differences Using TribalGram"
+    },
+    {
+      "paperId": "c32401f8022c44bd1d8681a7224c8fc28cbd8bc7",
+      "title": "A Statement Report on the Use of Multiple Embeddings for Visual Analytics of Multivariate Networks"
+    },
+    {
+      "paperId": "442d18798e64c988954e2e7fdb11bcae98fcda2a",
+      "title": "Explaining Contextualization in Language Models using Visual Analytics"
+    },
+    {
+      "paperId": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    {
+      "paperId": "79a625664e7f54c2b0350a7f43aa845ce32a19e6",
+      "title": "Text Visualization Revisited: The State of the Field in 2019"
+    },
+    {
+      "paperId": "0e702fa88d2edd13c20975b03bfae38b119ddc7c",
+      "title": "ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding"
+    },
+    {
+      "paperId": "3f213a2afa72ecaf33137e5751f2312a859b12bf",
+      "title": "Visualizing the Topology and Data Traffic of Multi-Dimensional Torus Interconnect Networks"
+    },
+    {
+      "paperId": "7d6ac0755a5627ed6ab2a497f6eb3926e914d1d2",
+      "title": "Word Embedding for Understanding Natural Language: A Survey"
+    },
+    {
+      "paperId": "f0dfedc63598f532827a40b532bb3ff2e870bffb",
+      "title": "CyteGuide: Visual Guidance for Hierarchical Single-Cell Analysis"
+    },
+    {
+      "paperId": "d3cf673734edc879d341473ef54a26ef626b8871",
+      "title": "Visual Supervision in Bootstrapped Information Extraction"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "0018f63a5c85043bfec3171bef5b2e3e01d48abd",
+      "title": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "401075bf7e0c83e5916a64caefa6d75e0cf556c3",
+      "title": "Studies of Interference in Serial Verbal Reactions"
+    },
+    {
+      "paperId": "fa80a1cc960d8f42f077cece55356e51dc026daf",
+      "title": "Studies of interference in serial verbal reactions."
+    },
+    {
+      "paperId": "dd8d13c142859dbf27546582c3391b62e06a6e62",
+      "title": "Dynamic Time Warping"
+    },
+    {
+      "paperId": "b02ca2feff964d8a69019a5d3c4c9f80fa6cb8ff",
+      "title": "Eurographics Symposium on Geometry Processing 2013 Dynamic Maps for Exploring and Browsing Shapes"
+    }
+  ]
+}

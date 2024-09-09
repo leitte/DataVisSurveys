@@ -1,0 +1,780 @@
+{
+  "paperId": "cb8294aae0983ff8b1e9339ed023a8dba9cc05bf",
+  "externalIds": {
+    "DBLP": "journals/cgf/EulzerMML22",
+    "DOI": "10.1111/cgf.14576",
+    "CorpusId": 251136386
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/cb8294aae0983ff8b1e9339ed023a8dba9cc05bf",
+  "title": "Vessel Maps: A Survey of Map\u2010Like Visualizations of the Cardiovascular System",
+  "abstract": "Map\u2010like visualizations of patient\u2010specific cardiovascular structures have been applied in numerous medical application contexts. The term map\u2010like alludes to the characteristics these depictions share with cartographic maps: they show the spatial relations of data attributes from a single perspective, they abstract the underlying data to inCrease legibility, and they facilitate tasks centered around overview, navigation, and comparison. A vast landscape of techniques exists to derive such maps from heterogeneous data spaces. Yet, they all target similar purposes within disease diagnostics, treatment, or research and they face coinciding challenges in mapping the spatial component of a treelike structure to a legible layout. In this report, we present a framing to unify these approaches. On the one hand, we provide a classification of the existing literature according to the data spaces such maps can be derived from. On the other hand, we view the approaches in light of the manifold requirements medical practitioners and researchers have in their efforts to combat the ever\u2010growing burden of cardiovascular disease. Based on these two perspectives, we offer recommendations for the design of map\u2010like visualizations of the cardiovascular system.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 178,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14576",
+    "status": "CLOSED"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Eulzer2022VesselMA,\n author = {P. Eulzer and M. Meuschke and G. Mistelbauer and K. Lawonn},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Vessel Maps: A Survey of Map\u2010Like Visualizations of the Cardiovascular System},\n volume = {41},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "68977710",
+      "name": "P. Eulzer"
+    },
+    {
+      "authorId": "2649961",
+      "name": "M. Meuschke"
+    },
+    {
+      "authorId": "1784740",
+      "name": "G. Mistelbauer"
+    },
+    {
+      "authorId": "1798143",
+      "name": "K. Lawonn"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "76152653c19ee93e2bc677afe94dd087601af171",
+      "title": "Ten Open Challenges in Medical Visualization"
+    },
+    {
+      "paperId": "b636ae8cc758b4fdc9aa978e574073c1ca933dd2",
+      "title": "Three-dimensional ultrasound assessment of effects of therapies on carotid atherosclerosis using vessel wall thickness maps."
+    },
+    {
+      "paperId": "3ff1d967e4090457b2bcfa9d27c5954671e84d1e",
+      "title": "Skyscraper visualization of multiple time-dependent scalar fields on surfaces"
+    },
+    {
+      "paperId": "c437527d04f8df0ad1fbe171a06b2e0e76910d5d",
+      "title": "SurfRiver: Flattening Stream Surfaces for Comparative Visualization"
+    },
+    {
+      "paperId": "3c934bb781b8bcef70916ba280dec12a274439a9",
+      "title": "Visualizing Carotid Blood Flow Simulations for Stroke Prevention"
+    },
+    {
+      "paperId": "03db76f7000c8a3ae527cb70810d843d51b70fde",
+      "title": "Vesselness Filters: A Survey with Benchmarks Applied to Liver Imaging"
+    },
+    {
+      "paperId": "1d926855fe85771932393dafa1ba6f5342233cfd",
+      "title": "Data-First Visualization Design Studies"
+    },
+    {
+      "paperId": "8308379582a8b5b34afa92d2052823d59a9f20fc",
+      "title": "The State of the Art in Map\u2010Like Visualization"
+    },
+    {
+      "paperId": "758ec80d0c9d920409ebc5d60857818a177ffdd1",
+      "title": "Mitral valve flattening and parameter mapping for patient-specific valve diagnosis"
+    },
+    {
+      "paperId": "272858e9f7ed389d713a21e15708a13eab91bdd8",
+      "title": "Area-Preserving Mapping of 3D Carotid Ultrasound Images Using Density-Equalizing Reference Map"
+    },
+    {
+      "paperId": "24d6353de321f4d27034dcac09ad3888c5a1c1fb",
+      "title": "Temporal Views of Flattened Mitral Valve Geometries"
+    },
+    {
+      "paperId": "255e87be0b2879af0dc749f46bf95c15d0f7a66a",
+      "title": "Parameterization, Feature Extraction and Binary Encoding for the Visualization of Tree\u2010Like Structures"
+    },
+    {
+      "paperId": "040b8ceabd42beb444e6df3a21fc2940a39854bf",
+      "title": "Graph-Assisted Visualization of Microvascular Networks"
+    },
+    {
+      "paperId": "a290884991a1a86a69733a19d8173b1375cbb069",
+      "title": "CerebroVis: Designing an Abstract yet Spatially Contextualized Cerebral Artery Network Visualization"
+    },
+    {
+      "paperId": "6e0d7bd97658d8398510c823f3700b712173aa1e",
+      "title": "Standard Quasi-Conformal Flattening of the Right and Left Atria"
+    },
+    {
+      "paperId": "f2d9a9aeccc37e00ef039a57c3a43259db87fc60",
+      "title": "A Geometric Optimization Approach for the Detection and Segmentation of Multiple Aneurysms"
+    },
+    {
+      "paperId": "11cebb1cd71cb0acb6fca5a02f30d84a06366f8e",
+      "title": "Robust Tracing and Visualization of Heterogeneous Microvascular Networks"
+    },
+    {
+      "paperId": "2afd22ee4bee4803ea58666c9c73c8e6ebae53e5",
+      "title": "Segmentation of blood vessels using rule-based and machine-learning-based methods: a review"
+    },
+    {
+      "paperId": "6dce979927bc86e16ea1563e371b0fb45926e6c4",
+      "title": "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges"
+    },
+    {
+      "paperId": "6778e122dee96e44181d044b4dc5b9e24bb5f956",
+      "title": "Visual Analysis of Aneurysm Data using Statistical Graphics"
+    },
+    {
+      "paperId": "518fcf6f923b093bdc1f047106a6c953436352b2",
+      "title": "The Hypothalamus in Alzheimer\u2019s Disease"
+    },
+    {
+      "paperId": "e77a6e5ffca638da4fd9101e5eb90f1df8222494",
+      "title": "Universal atrial coordinates applied to visualisation, registration and construction of patient specific meshes"
+    },
+    {
+      "paperId": "a064f14a48a74836059c65a53fd2909f8f4e4abe",
+      "title": "Real-time field aligned stripe patterns"
+    },
+    {
+      "paperId": "05d3dd954ec5d65b6c5c320102cc0a2faae7b705",
+      "title": "A Survey of Flattening\u2010Based Medical Visualization Techniques"
+    },
+    {
+      "paperId": "63e4ba4af218eee817a0e5f3fa3a7e7e31dd5592",
+      "title": "The Vascular Modeling Toolkit: A Python Library for the Analysis of Tubular Structures in Medical Images"
+    },
+    {
+      "paperId": "a8be62f434aa7aff6746f758a27699857e4ca9ab",
+      "title": "Exploration of blood flow patterns in cerebral aneurysms during the cardiac cycle"
+    },
+    {
+      "paperId": "5c7f762bb847d0b8a6f5b714953e265ad5c87bd8",
+      "title": "Sensitive three\u2010dimensional ultrasound assessment of carotid atherosclerosis by weighted average of local vessel wall and plaque thickness change"
+    },
+    {
+      "paperId": "8ed6877e58d36b8bbdd7fcce6ea5b99c14d1f54d",
+      "title": "Standardized unfold mapping: a technique to permit left atrial regional data display and analysis"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "f2cdf09c5118a94ddc0f0ca0465ca8b2ca1d0768",
+      "title": "Visual Quantification of the Circle of Willis: An Automated Identification and Standardized Representation"
+    },
+    {
+      "paperId": "5b97b287198d074b475526237bc54527639eb058",
+      "title": "Conformal mapping of carotid vessel wall and plaque thickness measured from 3D ultrasound images"
+    },
+    {
+      "paperId": "2f675878d69318fd3fc2fa3a8e838afc1a5d93e1",
+      "title": "The FAUST framework: Free-form annotations on unfolding vascular structures for treatment planning"
+    },
+    {
+      "paperId": "ba6d5468dc8253e9e98084eb197ed6bab2b98e46",
+      "title": "Statistical Permutation-based Artery Mapping (SPAM): a novel approach to evaluate imaging signals in the vessel wall"
+    },
+    {
+      "paperId": "9ead55e0f201b9f603651f719aa182e9316a3f54",
+      "title": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "33ed5758747c7041215913e819c74156bf5423fd",
+      "title": "Concise biomarker for spatial-temporal change in three-dimensional ultrasound measurement of carotid vessel wall and plaque thickness based on a graph-based random walk framework: Towards sensitive evaluation of response to therapy"
+    },
+    {
+      "paperId": "c08a2cc3b4953646078ed75ed7f827375a8309b5",
+      "title": "Deep Learning for Multi-Task Medical Image Segmentation in Multiple Modalities"
+    },
+    {
+      "paperId": "3402f5ed9edf5351cef361b4c14b9767ab0f9ec2",
+      "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980\u20132015: a systematic analysis for the Global Burden of Disease Study 2015"
+    },
+    {
+      "paperId": "c83a0f8f3ff48cac2d6cde366633d4d9660671fe",
+      "title": "VesselMap: A web interface to explore multivariate vascular data"
+    },
+    {
+      "paperId": "d00ecdee2f35dea78a24a5eb41be62bf0a06bf22",
+      "title": "Spatio-temporal Visualization of Regional Myocardial Velocities"
+    },
+    {
+      "paperId": "b3d42c12ccc86efc256276e8b44e3fec625c615d",
+      "title": "Segmentation of the foveal microvasculature using deep learning networks"
+    },
+    {
+      "paperId": "e1a36e57f0c4fe9494425bd82e77d215019607d2",
+      "title": "Deep vessel tracking: A generalized probabilistic approach via deep learning"
+    },
+    {
+      "paperId": "ab657a056195325116f056cbfdca48a483453e3d",
+      "title": "Segmenting Retinal Blood Vessels With Deep Neural Networks"
+    },
+    {
+      "paperId": "3210cabbd3720c774d5c78ce75879a555dcc07cc",
+      "title": "Motion-aware stroke volume quantification in 4D PC-MRI data of the human aorta"
+    },
+    {
+      "paperId": "69c1c6542367eedb79074ef7a0e0b37841583bd0",
+      "title": "Planar Visualization of Treelike Structures"
+    },
+    {
+      "paperId": "b84cd3973be1be26dce022b6a0aed19038c396b2",
+      "title": "Atlas-based analysis of 4D flow CMR: Automated vessel segmentation and flow quantification"
+    },
+    {
+      "paperId": "9a15b129727c212a5c0e24846d1d166ebfe304a8",
+      "title": "Gestalt Principles in Graph Drawing"
+    },
+    {
+      "paperId": "942d54ce7537cc7cf538c0a3c464f2e75793a4a8",
+      "title": "A Survey of Cardiac 4D PC\u2010MRI Data Processing"
+    },
+    {
+      "paperId": "9bded376aee344852a05f67a45b14b71431b9ddc",
+      "title": "Readability metric feedback for aiding node-link visualization designers"
+    },
+    {
+      "paperId": "459a20d845550dfab7068ece63b8c399c1b7d9d1",
+      "title": "Stent Maps \u2014 Comparative Visualization for the Prediction of Adverse Events of Transcatheter Aortic Valve Implantations"
+    },
+    {
+      "paperId": "76adadd978b8f8d7fc75821cac4af920c782ff41",
+      "title": "The Hypothalamus in Alzheimer\u2019s Disease"
+    },
+    {
+      "paperId": "8afb465637852e2cdfc6ef79d859e17490c32767",
+      "title": "Surface flattening of the human left atrium and proof-of-concept clinical applications\u2606"
+    },
+    {
+      "paperId": "2a0a6fb10d4f57477f1ae3d3837f25f195eb3c5b",
+      "title": "4D flow imaging with MRI."
+    },
+    {
+      "paperId": "5c9a9416661d5d34cf98f49ea5a462636459bc15",
+      "title": "Vessel Visualization using Curved Surface Reformation"
+    },
+    {
+      "paperId": "e0c41da685aeb526a54aa407b80482b6a42a7887",
+      "title": "Smart Interactive Vessel Visualization in Radiology"
+    },
+    {
+      "paperId": "316da6e1f0e66b5c615ee17de1482d8eba09e318",
+      "title": "Novel 3D ultrasound image-based biomarkers based on a feature selection from a 2D standardized vessel wall thickness map: a tool for sensitive assessment of therapies for carotid atherosclerosis"
+    },
+    {
+      "paperId": "2ec8c1da266551f21f9b1e086c71774cacd4ae11",
+      "title": "Quantification and visualization of carotid segmentation accuracy and precision using a 2D standardized carotid map"
+    },
+    {
+      "paperId": "ed5eca50eff02df2911dda5b5315aae6c433149f",
+      "title": "Vessel Visualization using Curvicircular Feature Aggregation"
+    },
+    {
+      "paperId": "d579b3f27b89e162dee42ba53930492f7bdd2000",
+      "title": "Comparative Visualization of Tracer Uptake in In Vivo Small Animal PET/CT Imaging of the Carotid Arteries"
+    },
+    {
+      "paperId": "3a3d90f9f2c6c92b0fd3eb9427b564062b418b3c",
+      "title": "A Review on Computational Fluid Dynamics Modelling in Human Thoracic Aorta"
+    },
+    {
+      "paperId": "6662760fbd76b67c2a8dc0112e7af6044b641f15",
+      "title": "Skeletal Representations and Applications"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "40a2b2b62ad71dee3449d55cb68f473400503c1d",
+      "title": "Topology Aware Quad Dominant Meshing for Vascular Structures"
+    },
+    {
+      "paperId": "8a56de217a22761b8ccec0fbf2bc29aca48b1e0f",
+      "title": "Blood vessel segmentation methodologies in retinal images - A survey"
+    },
+    {
+      "paperId": "f2ebe4b63b98a8822deda81835e0234eed2c11fb",
+      "title": "Visual Exploration of Simulated and Measured Blood Flow"
+    },
+    {
+      "paperId": "206aca9f166a0c287a4ac45dfcf35b957757a025",
+      "title": "NIH Image to ImageJ: 25 years of image analysis"
+    },
+    {
+      "paperId": "0b64e430d4e2bab6968290314ce441882611021f",
+      "title": "Cardiac Unfold: A Novel Technique for Image-Guided Cardiac Catheterization Procedures"
+    },
+    {
+      "paperId": "83a2c324d2cc03a441c62f55635b8d6ce7475589",
+      "title": "Statistical wall shear stress maps of ruptured and unruptured middle cerebral artery aneurysms"
+    },
+    {
+      "paperId": "1ec3304c710b5934c1d8ea8aafd80fd497e46365",
+      "title": "Centerline reformations of complex vascular structures"
+    },
+    {
+      "paperId": "07e15bf420c69bffc19363d9444d15e4dc3ca4cc",
+      "title": "Straightening Tubular Flow for Side-by-Side Visualization"
+    },
+    {
+      "paperId": "33ee612edb580cf3d8141eae10c6ca5b9d66cb61",
+      "title": "Evaluation of Artery Visualizations for Heart Disease Diagnosis"
+    },
+    {
+      "paperId": "30eb2d59e412ddeb1f243c37418e2db358a0f5fc",
+      "title": "IVUS-based imaging modalities for tissue characterization: similarities and differences"
+    },
+    {
+      "paperId": "9429369078d62d69658c1aacc54c73f33d417e5e",
+      "title": "Comparisons of centerline extraction methods for liver blood vessels in ImageJ and 3D slicer"
+    },
+    {
+      "paperId": "80c991b1842f7d90de4ee4b6d82f040cf2e29306",
+      "title": "Evaluating 2D and 3D visualizations of spatiotemporal information"
+    },
+    {
+      "paperId": "0e37bb050faec0e0ae7ea9da11b2e657b4584f2b",
+      "title": "Segmentation of interwoven 3d tubular tree structures utilizing shape priors and graph cuts"
+    },
+    {
+      "paperId": "125c4c43a3e84f6a764694b71e7195f18e48b784",
+      "title": "Liver Vessels Segmentation Using a Hybrid Geometrical Moments/Graph Cuts Method"
+    },
+    {
+      "paperId": "294dd05a7c0077d33936b89f7c918967a622762f",
+      "title": "A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes"
+    },
+    {
+      "paperId": "03fc4faa7f851544359f39e3cf79f0650495d94a",
+      "title": "Depth-Dependent Halos: Illustrative Rendering of Dense Line Data"
+    },
+    {
+      "paperId": "b693a7bf04c729f6ebcc72cdc4f929df3fff0897",
+      "title": "Multimodal Vessel Visualization of Mouse Aorta PET/CT Scans"
+    },
+    {
+      "paperId": "021007b6506f74d6abe62436e83f84cdec595867",
+      "title": "Uncluttered single-image visualization of the abdominal aortic vessel tree: method and evaluation."
+    },
+    {
+      "paperId": "7e3448e971594a1130ff09f15a5706947a05acb4",
+      "title": "Intracoronary optical coherence tomography: a comprehensive review clinical and research applications."
+    },
+    {
+      "paperId": "346aa6083439d38f29349126b52f7a0d40faacfe",
+      "title": "Comparing 3D Vector Field Visualization Methods: A User Study"
+    },
+    {
+      "paperId": "5305cdce70b44eba1a05b8950e1f3b321d6ab51a",
+      "title": "Map Displays for the Analysis of Scalar Data on Cerebral Aneurysm Surfaces"
+    },
+    {
+      "paperId": "83c24b00fcfabe42e29b80280f66ddaa8e6c2d93",
+      "title": "Instant Volume Visualization using Maximum Intensity Difference Accumulation"
+    },
+    {
+      "paperId": "8edbe77999e04e5d041d952977f726efba411181",
+      "title": "Area-preserving flattening maps of 3D ultrasound carotid arteries images"
+    },
+    {
+      "paperId": "0accf561ce098e6d0639fa976bb9fc1662c79496",
+      "title": "Interactive curved planar reformation based on snake model"
+    },
+    {
+      "paperId": "da59de0fc7d3000d26d2c473e5ab7a5d72d3d87f",
+      "title": "An image-based modeling framework for patient-specific computational hemodynamics"
+    },
+    {
+      "paperId": "9f5b646e8446ef85ec57df166d0cd726cedf5aa8",
+      "title": "Flat-panel volume CT: fundamental principles, technology, and applications."
+    },
+    {
+      "paperId": "a8af16d0e5679fb53d07731cb90b9c91b559e8df",
+      "title": "Skeleton extraction by mesh contraction"
+    },
+    {
+      "paperId": "303c0f7b19ba86a70d66e142d0941a3d571a2484",
+      "title": "Curve-Skeleton Extraction Using Iterative Least Squares Optimization"
+    },
+    {
+      "paperId": "84744e4b792ee5c001277b6120f11ca17aacd63a",
+      "title": "CoViCAD: Comprehensive Visualization of Coronary Artery Disease"
+    },
+    {
+      "paperId": "d48a28cb9b85d749e421d059d01a33b067887b2b",
+      "title": "Spatialization Design: Comparing Points and Landscapes"
+    },
+    {
+      "paperId": "2df602952b4a20c500d6241db586109b1016b41c",
+      "title": "3D planar reformation of vascular central axis surface with biconvex slab"
+    },
+    {
+      "paperId": "47b804f6cbb34a436c0eb37e1e3b2ba1545b60bb",
+      "title": "Tumor microvasculature and microenvironment: targets for anti-angiogenesis and normalization."
+    },
+    {
+      "paperId": "8020c9080b6ad4e5ffc51c443264d5195aef7d02",
+      "title": "Multipath curved planar reformation of the peripheral arterial tree in CT angiography."
+    },
+    {
+      "paperId": "ae704a287e3ba18e5ce05eef9ff50fab1078ae81",
+      "title": "Vessel enhancing diffusion: A scale space representation of vessel structures"
+    },
+    {
+      "paperId": "e618a7a10e386f0fe06cd603241f895d9e17f4e6",
+      "title": "A Clustering-based Algorithm for Extracting the Centerlines of 2D and 3D Objects"
+    },
+    {
+      "paperId": "e5ecb3ae5b20cea8d16cd67d6c02fc4d2d63a8b5",
+      "title": "Evaluating the usability of visualization methods in an exploratory geovisualization environment"
+    },
+    {
+      "paperId": "7f889504d5035df6d66ce46658a378608685b88a",
+      "title": "Drawing Phylogenetic Trees"
+    },
+    {
+      "paperId": "767746905903ce168b7813d8b482ee63574bc743",
+      "title": "Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification"
+    },
+    {
+      "paperId": "c9fd95ea3ac3de0104e267d770037347bb4e179d",
+      "title": "Flattening maps for the visualization of multibranched vessels"
+    },
+    {
+      "paperId": "35d99b06e9309001f6842b75a6c846e5cbf58a9e",
+      "title": "The VesselGlyph: focus & context visualization in CT-angiography"
+    },
+    {
+      "paperId": "3e45d05de47cf0120cf22f611205fc48878de919",
+      "title": "Robust and objective decomposition and mapping of bifurcating vessels"
+    },
+    {
+      "paperId": "d69379c98124df677b858efc8e720394dbc6d332",
+      "title": "Area-Preserving Mappings for the Visualization of Medical Structures"
+    },
+    {
+      "paperId": "cb3ff66ceb208abe1153ae09c35390699e3f85b5",
+      "title": "Advanced curved planar reformation: flattening of vascular structures"
+    },
+    {
+      "paperId": "0898c37f0ce5fcd7af7b8514289dc7c24892fcc9",
+      "title": "Exploring curved anatomic structures with surface sections"
+    },
+    {
+      "paperId": "0a047aca09cc5f9c2d7c6ce5b453a9626b2a8cb0",
+      "title": "Computational geometry for patient-specific reconstruction and meshing of blood vessels from MR and CT angiography"
+    },
+    {
+      "paperId": "a10b8b8de1131ac9b57aef5769efcd75d43624b4",
+      "title": "A new approach for visualizing UML class diagrams"
+    },
+    {
+      "paperId": "34056f42e3e6655a8eb3201936a81f4bee2a6ac7",
+      "title": "Angle-preserving mappings for the visualization of multi-branched vessels"
+    },
+    {
+      "paperId": "e150fb65f7491c253f48e5b823a28bbadae3dc9d",
+      "title": "CPR - curved planar reformation"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "bf6fda2e460c2a8be7b2c99465016f7f6e13ad78",
+      "title": "Conformal flattening maps for the visualization of vessels"
+    },
+    {
+      "paperId": "ed1ddfbad3197e7b7fb42de3eb5785ee22e206b8",
+      "title": "Evaluating the effectiveness of spatial memory in 2D and 3D physical and virtual environments"
+    },
+    {
+      "paperId": "d2b15ca8f0bae33dd5f7642f0068432392af65e6",
+      "title": "Computed tomography angiography: a case study of peripheral vessel investigation"
+    },
+    {
+      "paperId": "5da0821adc8b078f3e648ec20ec2ee3f9a8fbd21",
+      "title": "Real-time functional magnetic resonance imaging."
+    },
+    {
+      "paperId": "fa01813091a37239163cf373116ea1331d704f35",
+      "title": "CURVES: Curve evolution for vessel segmentation"
+    },
+    {
+      "paperId": "6d0ee0b05e08cf4ab95734fa3f9389f651a2c4e8",
+      "title": "Medial axis reformation: a new visualization method for CT angiography."
+    },
+    {
+      "paperId": "7bc5c680cc2e72c800d1a94d05c518d217cdae0f",
+      "title": "Fast skeletonization algorithm for 3D elongated objects"
+    },
+    {
+      "paperId": "d004632faffe5e3d2bf453f3c746458ce772e998",
+      "title": "Penalized-Distance Volumetric Skeleton Algorithm"
+    },
+    {
+      "paperId": "7befff0de529f1e8b8a0c1a85538e51b5ba7229e",
+      "title": "TEASAR: tree-structure extraction algorithm for accurate and robust skeletons"
+    },
+    {
+      "paperId": "c1e73fe5c472a08515130ef5ba76ddbaea578a3b",
+      "title": "CEASAR: a smooth, accurate and robust centerline extraction algorithm"
+    },
+    {
+      "paperId": "1227ee73bdf3953028d8e1bf5573ea9348e54f52",
+      "title": "The North American Symptomatic Carotid Endarterectomy Trial : surgical results in 1415 patients."
+    },
+    {
+      "paperId": "3ab75489c98a2c5d9e1ab5d7ae79e6932539ea23",
+      "title": "Efficient Skeletonization of Volumetric Objects"
+    },
+    {
+      "paperId": "454ad65e94b885c3f577576c910821cece5e2179",
+      "title": "Muliscale Vessel Enhancement Filtering"
+    },
+    {
+      "paperId": "c3d377ab7835a988d3234607c9832379bf8a8d46",
+      "title": "Automated flight path planning for virtual endoscopy."
+    },
+    {
+      "paperId": "8a5f90c023980eae3e806d84f581f69af5e7951a",
+      "title": "Curved multiplanar reconstructions for the evaluation of contrast-enhanced electron beam CT of the coronary arteries."
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "de0b16aad486e24a8920da34d6aa45e6a7f34754",
+      "title": "Directional Anisotropic Diffusion Applied to Segmentation of Vessels in 3D Images"
+    },
+    {
+      "paperId": "b6441e7131fc4b67b31ffef21b2119ff03ff8379",
+      "title": "3D Skeleton for Virtual Colonoscopy"
+    },
+    {
+      "paperId": "21f0cb86ae33a6a02952555bc87b1325343b62ec",
+      "title": "Real\u2010Time Functional Magnetic Resonance Imaging"
+    },
+    {
+      "paperId": "140077fd1857ba5d36dfe0affec5a809ef2b9b3b",
+      "title": "Building Skeleton Models via 3-D Medial Surface/Axis Thinning Algorithms"
+    },
+    {
+      "paperId": "536679e1affcd23908bc6315a4109d26c669adc3",
+      "title": "Microangiopathy, the vascular basement membrane and Alzheimer's disease: a review"
+    },
+    {
+      "paperId": "62d0c6f97837280a31e3df7efef284db9f065c7b",
+      "title": "The development and use of digital subtraction angiography."
+    },
+    {
+      "paperId": "60b22ccc0bc462c3d721d0c5112b6e46daa8fdcb",
+      "title": "A method for drawing graphs"
+    },
+    {
+      "paperId": "dd5061631a4d11fa394f4421700ebf7e78dcbc59",
+      "title": "Optimization by Simulated Annealing"
+    },
+    {
+      "paperId": "2ce5e10d586ce035cca07e2ef3e448d8f7dcd40a",
+      "title": "Computer simulation of protein folding"
+    },
+    {
+      "paperId": "45786063578e814444b8247028970758bbbd0488",
+      "title": "A note on two problems in connexion with graphs"
+    },
+    {
+      "paperId": "88d0c3c4e700c569eee86b58aadd70f3880b35cb",
+      "title": "Valve Flattening with Functional Biomarkers for the Assessment of Mitral Valve Repair"
+    },
+    {
+      "paperId": "672fb2e6df79260b2edaafd49a626a7379988a4f",
+      "title": "Automatic Cutting and Flattening of Carotid Artery Geometries"
+    },
+    {
+      "paperId": "5be84e8b1390c8dc25d9075cfd48e1939bb902ff",
+      "title": "2.5D Geometric Mapping of Aortic Blood Flow Data for Cohort Visualization"
+    },
+    {
+      "paperId": "50082c421ac22068caa6d6bef14cf8f1aabdaf8b",
+      "title": "Distance Field Visualization and 2D Abstraction of Vessel Tree Structures with on-the-fly Parameterization"
+    },
+    {
+      "paperId": "aa14271340da418a63fd0d95b457e4c58e7d6f4c",
+      "title": "A Review of the State-of-the-Art Methods for Non-calcified Plaque Detection in Cardiac CT Angiography"
+    },
+    {
+      "paperId": null,
+      "title": "MATTOS L"
+    },
+    {
+      "paperId": null,
+      "title": "ERIKSEN J"
+    },
+    {
+      "paperId": "e60fe238ce99444dd76324015717ff830e904da1",
+      "title": "A Transformation for Extracting New De scriptors of Shape ' , in"
+    },
+    {
+      "paperId": "eeaa4bea5593ce6da2174f8f6dc04ead37936547",
+      "title": "Patient independent representation of the detailed cardiac ventricular anatomy"
+    },
+    {
+      "paperId": null,
+      "title": "VIERGEVER M"
+    },
+    {
+      "paperId": null,
+      "title": "The Eurographics Association"
+    },
+    {
+      "paperId": "5e71cd80149cce81d98c6b3ac5a87d540cdde482",
+      "title": "Visual Exploration in Surgery Monitoring for Coronary Vessels"
+    },
+    {
+      "paperId": "f175f4472d83cfc0e1f3cc30131306086b398623",
+      "title": "Bilateral Depth Filtering for Enhanced Vessel Reformation"
+    },
+    {
+      "paperId": "84c83984c91a03447d9f88b30d54b387379a4a17",
+      "title": "3D Slicer: A Platform for Subject-Specific Image Analysis, Visualization, and Clinical Support"
+    },
+    {
+      "paperId": null,
+      "title": "THRUSH A"
+    },
+    {
+      "paperId": "88fff5fdd72ccb381067a78f2e2bb729f31e6bdc",
+      "title": "On Aortic Blood Flow Simulations : Scale-Resolved Image-Based CFD"
+    },
+    {
+      "paperId": "87db45e8711511b122d165d036d2f07ab8267428",
+      "title": "Massively Parallel Energy Space Exploration for Uncluttered Visualization of Vascular Structures"
+    },
+    {
+      "paperId": "a03dd909d49605b99992b8a5aa50a0038880c183",
+      "title": "Uncluttered Single-Image Visualization of Vascular Structures Using GPU and Integer Programming"
+    },
+    {
+      "paperId": null,
+      "title": "Applied Thermodynamics and Fluid Mechanics, The Institute of Technology"
+    },
+    {
+      "paperId": null,
+      "title": "Vessel Maps apy"
+    },
+    {
+      "paperId": null,
+      "title": "NORRVING B"
+    },
+    {
+      "paperId": "580adbebecb4d2cbd90197a67c4037f1944efae3",
+      "title": "Global atlas on cardiovascular disease prevention and control."
+    },
+    {
+      "paperId": null,
+      "title": "GR\u00d6LLER M"
+    },
+    {
+      "paperId": "310f945620e89e0d91aeeda1ab4488015dda3b7a",
+      "title": "3D Visualization of Vasculature: An Overview"
+    },
+    {
+      "paperId": "eba968301ee7f6ee743d9a2529404442bba9dd3c",
+      "title": "Diagnostic Relevant Visualization of Vascular Structures"
+    },
+    {
+      "paperId": "d4594f243d6f17ab61b46ce22b1d7144937a30be",
+      "title": "New Software Assistants for Cardiovascular Diagnosis"
+    },
+    {
+      "paperId": "ba030b6ff00e9a08dd67b2c277bd60530e868dbe",
+      "title": "Tangential curved planar reformation for topological and orientation invariant visualization of vascular trees"
+    },
+    {
+      "paperId": "f3f07c6cb2caccbc699ca184ae046eace9f8c6ff",
+      "title": "Flattening the Abdominal Aortic Tree for Effective Visualization"
+    },
+    {
+      "paperId": "0fe5fac1192b03d343987271ce253a56a450a6c4",
+      "title": "Exact computation of the medial axis of a polyhedron"
+    },
+    {
+      "paperId": "266a4d297b7b7e520c4c50bdcade55c0d420b38d",
+      "title": "A formal classification of 3D medial axis points and their local geometry"
+    },
+    {
+      "paperId": "4ed737359bef21a14adfb539606f8342ce0cfff2",
+      "title": "3D Slicer"
+    },
+    {
+      "paperId": "5a8670847d1153aad97cc08f089380d9c2c939e5",
+      "title": "Geometric Methods for Vessel Visualization and Quantification \u2014 A Survey"
+    },
+    {
+      "paperId": "99fe6afdd9f41a77f499d8837416e9ad52ab70ff",
+      "title": "Automated Parameterization and Patching of Bifurcating Vessels"
+    },
+    {
+      "paperId": null,
+      "title": "STEINMAN D"
+    },
+    {
+      "paperId": null,
+      "title": "CHIU S"
+    },
+    {
+      "paperId": "cd18aaf3ad0a77dd604687716ca09b6de79fbda2",
+      "title": "The North American Symptomatic Carotid Endarterectomy Trial"
+    },
+    {
+      "paperId": "739ea25c52210c1883f2e2bbd1b64967ba98fb85",
+      "title": "Medical Image Computing and Computer-Assisted Intervention \u2014 MICCAI\u201998"
+    },
+    {
+      "paperId": null,
+      "title": "TOLLIS I"
+    },
+    {
+      "paperId": "184416a278f09a13e6c5f4d1861fa7180a6e54c3",
+      "title": "A thinning algorithm for discrete binary images"
+    },
+    {
+      "paperId": "aa467e8abd541da108dedae7e846b7de5024a517",
+      "title": "Blood vessel segmentation algorithms - Review of methods, datasets and evaluation metrics"
+    },
+    {
+      "paperId": "8f118bc2bd0bb9ea3aba7f679bcc4f196e056e67",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Integrated Visualization of Morphologic and Perfusion Data for the Analysis of Coronary Artery Disease"
+    },
+    {
+      "paperId": null,
+      "title": "SO W"
+    }
+  ]
+}

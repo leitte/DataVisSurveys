@@ -1,0 +1,944 @@
+{
+  "paperId": "e17bf5a7a9291ed729884c28ccf03875c77f6be6",
+  "externalIds": {
+    "DBLP": "journals/cgf/FrohlerAPFSRTHB22",
+    "DOI": "10.1111/cgf.14447",
+    "CorpusId": 247657691
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/e17bf5a7a9291ed729884c28ccf03875c77f6be6",
+  "title": "A Survey on Cross\u2010Virtuality Analytics",
+  "abstract": "Cross\u2010virtuality analytics (XVA) is a novel field of research within immersive analytics and visual analytics. A broad range of heterogeneous devices across the reality\u2013virtuality continuum, along with respective visual metaphors and analysis techniques, are currently becoming available. The goal of XVA is to enable visual analytics that use transitional and collaborative interfaces to seamlessly integrate different devices and support multiple users. In this work, we take a closer look at XVA and analyse the existing body of work for an overview of its current state. We classify the related literature regarding ways of establishing cross\u2010virtuality by interconnecting different stages in the reality\u2013virtuality continuum, as well as techniques for transitioning and collaborating between the different stages. We provide insights into visualization and interaction techniques employed in current XVA systems. We report on ways of evaluating such systems, and analyse the domains where such systems are becoming available. Finally, we discuss open challenges in XVA, giving directions for future research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 212,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14447",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Fr\u00f6hler2022ASO,\n author = {B. Fr\u00f6hler and C. Anthes and Fabian Pointecker and Judith Friedl and Daniel Schwajda and Andreas Riegler and S. Tripathi and Clemens Holzmann and Manuel Brunner and H. Jodlbauer and Hans-Christian Jetter and C. Heinzl},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey on Cross\u2010Virtuality Analytics},\n volume = {41},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "10297121",
+      "name": "B. Fr\u00f6hler"
+    },
+    {
+      "authorId": "2132989",
+      "name": "C. Anthes"
+    },
+    {
+      "authorId": "2040096668",
+      "name": "Fabian Pointecker"
+    },
+    {
+      "authorId": "51916023",
+      "name": "Judith Friedl"
+    },
+    {
+      "authorId": "2040089363",
+      "name": "Daniel Schwajda"
+    },
+    {
+      "authorId": "152237809",
+      "name": "Andreas Riegler"
+    },
+    {
+      "authorId": "89377594",
+      "name": "S. Tripathi"
+    },
+    {
+      "authorId": "2215719",
+      "name": "Clemens Holzmann"
+    },
+    {
+      "authorId": "2061499882",
+      "name": "Manuel Brunner"
+    },
+    {
+      "authorId": "3205287",
+      "name": "H. Jodlbauer"
+    },
+    {
+      "authorId": "144376148",
+      "name": "Hans-Christian Jetter"
+    },
+    {
+      "authorId": "1894251",
+      "name": "C. Heinzl"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f60550a2967754d64bf8ffb0b4c95e30f13f9f8c",
+      "title": "Transitional Interfaces in Mixed and Cross-Reality: A new frontier?"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "c1b7a90e45313ade8d91647da8459af82f99aaa4",
+      "title": "MIRIA: A Mixed Reality Toolkit for the In-Situ Visualization and Analysis of Spatio-Temporal Interaction Data"
+    },
+    {
+      "paperId": "6504db2b2cdcbdb4308e7df83a477c75c5b097e4",
+      "title": "MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis"
+    },
+    {
+      "paperId": "f113ff3d21cc9b80b072787b0de177b6d60bc442",
+      "title": "Cybersickness in current-generation virtual reality head-mounted displays: systematic review and outlook"
+    },
+    {
+      "paperId": "bf65166102c630a1ef724fd09616df1aa254a7db",
+      "title": "Exploring the SenseMaking Process through Interactions and fNIRS in Immersive Visualization"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "b487b541be0ab176ee515f898218f2983dd0e2da",
+      "title": "Multimodality in VR: A Survey"
+    },
+    {
+      "paperId": "290882178c4ddace19fd7037c73d51867c3bb6e9",
+      "title": "The State of the Art of Spatial Interfaces for 3D Visualization"
+    },
+    {
+      "paperId": "c7aa5b86b7f5d9c5922e0d0851e0970d3520e008",
+      "title": "International Workshop on Cross-Reality (XR) Interaction"
+    },
+    {
+      "paperId": "6b9ff2a9da1b65a97676500894a71ed7d93295a4",
+      "title": "Multi-Window 3D Interaction for Collaborative Virtual Reality"
+    },
+    {
+      "paperId": "46593b0643dea840159ec21997c8bb6639f1676e",
+      "title": "Seamless, Bi-directional Transitions along the Reality-Virtuality Continuum: A Conceptualization and Prototype Exploration"
+    },
+    {
+      "paperId": "e7ddba6cdac89c7f032db941e6b3df3ff15c39d6",
+      "title": "Collaborative Work in Augmented Reality: A Survey"
+    },
+    {
+      "paperId": "d5f4e33bd858a3f36fc84aa9d7b56a2da8212e96",
+      "title": "Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "26f5a52ebddea5ccc70ed2492e3211202c2318d3",
+      "title": "Personal Augmented Reality for Information Visualization on Large Interactive Displays"
+    },
+    {
+      "paperId": "1038a8969c71ff7a65341f72d8d691d45e3d81ba",
+      "title": "Extended Reality in Spatial Sciences: A Review of Research Challenges and Future Directions"
+    },
+    {
+      "paperId": "c12f6626e4096c79244f5f96d6f35ee025f0a350",
+      "title": "Resolving Conflicting Insights in Asynchronous Collaborative Visual Analysis"
+    },
+    {
+      "paperId": "8f938d509247b7221df6a8d26c6bc68aa5e0ff81",
+      "title": "Scene Transitions and Teleportation in Virtual Reality and the Implications for Spatial Awareness and Sickness"
+    },
+    {
+      "paperId": "4d65fe1bdbcb12f75513463c889e04e7f5ce40be",
+      "title": "Many At Once: Capturing Intentions to Create And Use Many Views At Once In Large Display Environments"
+    },
+    {
+      "paperId": "d6d29e4d1944c72ab1b225a55b140bdaaefa8e3a",
+      "title": "Short\u2010Contact Touch\u2010Manipulation of Scatterplot Matrices on Wall Displays"
+    },
+    {
+      "paperId": "321010b2f3a8f3bca333a45555e878b42fdead7f",
+      "title": "\"Megereality\": Leveraging Physical Affordances for Multi-Device Gestural Interaction in Augmented Reality"
+    },
+    {
+      "paperId": "7e5b1d4ca5ec41d2ad816934b444899e37cd3f40",
+      "title": "Breaking The Experience: Effects of Questionnaires in VR User Studies"
+    },
+    {
+      "paperId": "11a949eba942f5a5a4e6b337b69137689eda0fb7",
+      "title": "A User Study on Mixed Reality Remote Collaboration with Eye Gaze and Hand Gesture Sharing"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "65d1e0ff17366f9466c1ce919b1b1920c16633fe",
+      "title": "Design and Evaluation of Interactive Small Multiples Data Visualisation in Immersive Spaces"
+    },
+    {
+      "paperId": "314c45d215a83648f5353f08461056aeca51ef9b",
+      "title": "Examining virtual reality navigation techniques for 3D network visualisations"
+    },
+    {
+      "paperId": "7a4e0e5071b99c20e6563c520defcd61ece91ba8",
+      "title": "A Study of Mental Maps in Immersive Network Visualization"
+    },
+    {
+      "paperId": "166bc6dc8d7202cda0096eab824aac976fa77317",
+      "title": "VRIA: A Web-Based Framework for Creating Immersive Analytics Experiences"
+    },
+    {
+      "paperId": "54b5350bfcfb09ee2b50b110795e483f4a95ead8",
+      "title": "The Impact of Immersion on Cluster Identification Tasks"
+    },
+    {
+      "paperId": "06d3a884c097cc7c63dc20a0b8c8022252d38861",
+      "title": "DesignAR: Immersive 3D-Modeling Combining Augmented Reality with Interactive Displays"
+    },
+    {
+      "paperId": "e8d8e654c27dda7997d194b2830538e02b659af1",
+      "title": "FIESTA: A Free Roaming Collaborative Immersive Analytics System"
+    },
+    {
+      "paperId": "27920dc0e5cda1a69a82f5232de5bab729be0860",
+      "title": "CARDS: A Mixed-Reality System for Collaborative Learning at School"
+    },
+    {
+      "paperId": "6f972ff9af6239e9c689f445de31eb67f0f500ad",
+      "title": "Visual Link Routing in Immersive Visualisations"
+    },
+    {
+      "paperId": "704eb88edf1fb34600a999eeaca747f407d0cf41",
+      "title": "Immersive Insights: A Hybrid Analytics System forCollaborative Exploratory Data Analysis"
+    },
+    {
+      "paperId": "1498c0fde26ac7dcbaedf70f68d0ce3d6df98d95",
+      "title": "Extending Virtual Reality Display Wall Environments Using Augmented Reality"
+    },
+    {
+      "paperId": "c414099627ff9b8c8d90fb2119c2e775e005a9f6",
+      "title": "Immersive Analytics of Large Dynamic Networks via Overview and Detail Navigation"
+    },
+    {
+      "paperId": "cd74717218c2765d9ccad2b9c29ae6a50c0e7f5b",
+      "title": "Of Portals and Orbs: An Evaluation of Scene Transition Techniques for Virtual Reality"
+    },
+    {
+      "paperId": "3280cac234a0ca918b3fbddf97d0a6019722bd1a",
+      "title": "A Qualitative Comparison Between Augmented and Virtual Reality Collaboration with Handheld Devices"
+    },
+    {
+      "paperId": "94e4d6edab5fd57321c47635cf89301e81e66ffb",
+      "title": "Physiological and Affective Computing through Thermal Imaging: A Survey"
+    },
+    {
+      "paperId": "564ba7ef1f78587f864cd4d521dc10aff9889112",
+      "title": "Latent Variable Models"
+    },
+    {
+      "paperId": "d4b0158afa2f2469a74031ee778e25c6f1865328",
+      "title": "Designing for Mobile and Immersive Visual Analytics in the Field"
+    },
+    {
+      "paperId": "327c77eb70ffbf72b108c5ff838c6422f6e8d03e",
+      "title": "TeleSight: enabling asymmetric collaboration in VR between HMD user and Non-HMD users"
+    },
+    {
+      "paperId": "6b3fd05633ff8c716642f11f3d47c64ab7121b37",
+      "title": "AR-VIS: Augmented Reality Interactive Visualization Environment for Exploring Dynamic Scientific Data"
+    },
+    {
+      "paperId": "3dc3c49aab58ea7f363733fdf06779fdd0d99e78",
+      "title": "Supporting Volumetric Data Visualization and Analysis by Combining Augmented Reality Visuals with Multi-Touch Input"
+    },
+    {
+      "paperId": "1aca8fcec50bb07b259deeccd89daec8ccc0fba5",
+      "title": "VRIA - A Framework for Immersive Analytics on the Web"
+    },
+    {
+      "paperId": "976f1244ad205b22e4c8b4e04dea25d4c4153355",
+      "title": "Comfortable Immersive Analytics With the VirtualDesk Metaphor"
+    },
+    {
+      "paperId": "c60b87f44b6e2ad84e30ce1c7b774c1b80887b61",
+      "title": "Immersive analytics"
+    },
+    {
+      "paperId": "9fbdb97ed599c76b4fd9f79d5da2580a62a89196",
+      "title": "NOMAD VR: Multiplatform virtual reality viewer for chemistry simulations"
+    },
+    {
+      "paperId": "910c2d4917aca89046d2b32d3fd2b9d637fc14e3",
+      "title": "open_iA: A tool for processing and visual analysis of industrial computed tomography datasets"
+    },
+    {
+      "paperId": "21f4df5fdd707d36312d9b615dd99e67d7633cc9",
+      "title": "Augmented Reality for Remote Collaboration in Aircraft Maintenance Tasks"
+    },
+    {
+      "paperId": "b4b8bc0aab2391f3bec81f9af431a7583addd8c2",
+      "title": "Dataspace: A Reconfigurable Hybrid Reality Environment for Collaborative Information Analysis"
+    },
+    {
+      "paperId": "28a16621e87d0b4aed03e3f068180d1a6542f3cb",
+      "title": "IATK: An Immersive Analytics Toolkit"
+    },
+    {
+      "paperId": "89a279ae579cd7f3f5913bcd476cf064475ea075",
+      "title": "Characterizing Asymmetric Collaborative Interactions in Virtual and Augmented Realities"
+    },
+    {
+      "paperId": "dd05118f1eef106404274daaa16eea8b3c10fb94",
+      "title": "GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions"
+    },
+    {
+      "paperId": "e0de9a4e3719c3a2e46d164846dccd0f043f87dc",
+      "title": "Collaborative Data Analytics Using Virtual Reality"
+    },
+    {
+      "paperId": "c13e85c64fa74451ae0a922c70495bd361f5ba3c",
+      "title": "Worlds-in-Wedges: Combining Worlds-in-Miniature and Portals to Support Comparative Immersive Visualization of Forestry Data"
+    },
+    {
+      "paperId": "5130609add453053f0dbf1d62904384cea73a753",
+      "title": "Augmented reality technology in the manufacturing industry: A review of the last decade"
+    },
+    {
+      "paperId": "799f332e47be5e7acd02f161f7c8c9567b5ee7ce",
+      "title": "Immersive Virtual Colonoscopy"
+    },
+    {
+      "paperId": "15452b94d61a14441c0dc807c5063cf51c74534a",
+      "title": "The Effects of Sharing Awareness Cues in Collaborative Mixed Reality"
+    },
+    {
+      "paperId": "d3bcbe8e749675ae74444cb49a9af92dc1603c19",
+      "title": "Virtual Reality Interfaces for Interacting with Three-Dimensional Graphs"
+    },
+    {
+      "paperId": "6ac9bfe30b52a994e360ed4d69e34f7f4d8c999b",
+      "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights"
+    },
+    {
+      "paperId": "fb1d5d6de7cdbf30dcefdb6cf06220ea5b767cbe",
+      "title": "Evaluation of Virtual Reality for Detection of Lung Nodules on Computed Tomography"
+    },
+    {
+      "paperId": "7b3b61308897c918bb25661ddf586ca2f9f7251b",
+      "title": "A survey of visualization for smart manufacturing"
+    },
+    {
+      "paperId": "fe1495533bc5392679ebbc5c1d0dc562a2f28ed5",
+      "title": "Awareness Techniques to Aid Transitions between Personal and Shared Workspaces in Multi-Display Environments"
+    },
+    {
+      "paperId": "39cdb18f742186daa4de3cd428b4f87b1fe4b744",
+      "title": "EagleView: A Video Analysis Tool for Visualising and Querying Spatial Interactions of People and Devices"
+    },
+    {
+      "paperId": "e5ba4ed49206f327baaa22a17db77c26d627adab",
+      "title": "Using Gaze Behavior to Measure Cognitive Load"
+    },
+    {
+      "paperId": "a1d4f8bd4c3fded62ea726902a4b90204d821602",
+      "title": "Domino"
+    },
+    {
+      "paperId": "5fd4c8e556f17dfcc7d0ee42b613ba3604eebbe6",
+      "title": "Collaborative Immersive Analytics"
+    },
+    {
+      "paperId": "cd6c62f64ab78b862440fbf61a0a7db41fea962f",
+      "title": "OverTop: Breaking the Boundaries of Tangible Tabletop Environments"
+    },
+    {
+      "paperId": "13e3b2ace4deef04f0051eca551e9f4f49d8fdca",
+      "title": "Enlarging a Smartphone with AR to Create a Handheld VESAD (Virtually Extended Screen-Aligned Display)"
+    },
+    {
+      "paperId": "3a3d7125ca6100899042411dcd2334ef4eacb2b4",
+      "title": "Axes and Coordinate Systems Representations for Immersive Analytics of Multi-Dimensional Data"
+    },
+    {
+      "paperId": "815e30117b9b2634e1d2c01fd9db2fbdacdac951",
+      "title": "Evaluating Navigation Techniques for 3D Graph Visualizations in Virtual Reality"
+    },
+    {
+      "paperId": "96d27a36dd61510e4003c23092677c15741dbd68",
+      "title": "Building Multiple Coordinated Spaces for Effective Immersive Analytics through Distributed Cognition"
+    },
+    {
+      "paperId": "f508ca887b4684482fa96532343f9e2f6b73253a",
+      "title": "A Deeper Look at the NASA TLX and Where It Falls Short"
+    },
+    {
+      "paperId": "d1f6aa454ed5141e1d97b058d79e5ea4c6b30ab7",
+      "title": "Understanding the World Economy in Terms of Networks: A Survey of Data-Based Network Science Approaches on Economic Networks"
+    },
+    {
+      "paperId": "b78f5fd8b017d1c4df46e55ab0e5f83cd396e61d",
+      "title": "Advanced manufacturing systems: supply\u2013demand matching of manufacturing resource based on complex networks and Internet of Things"
+    },
+    {
+      "paperId": "230eed51eb75752309593600f2887d5a08601b59",
+      "title": "Understanding Users' Capability to Transfer Information between Mixed and Virtual Reality: Position Estimation across Modalities and Perspectives"
+    },
+    {
+      "paperId": "00d2953b22accfe28ca171c2e9b3e1c9eccb2a91",
+      "title": "Snow Dome: A Multi-Scale Interaction in Mixed Reality Remote Collaboration"
+    },
+    {
+      "paperId": "820a7b066de4d236fd8f10374043c9c784bd6801",
+      "title": "Mini-Me: An Adaptive Avatar for Mixed Reality Remote Collaboration"
+    },
+    {
+      "paperId": "f7855a3e7532c7ce9fab87e6298e470cfa2d6a6b",
+      "title": "Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data"
+    },
+    {
+      "paperId": "cdeda2c21fdfe930327cbca424f8ce5ac9d30c67",
+      "title": "A Survey of Augmented, Virtual, and Mixed Reality for Cultural Heritage"
+    },
+    {
+      "paperId": "282fa22e7b4255e1af88b323ff26453ccee5849b",
+      "title": "IMHOTEP: virtual reality framework for surgical applications"
+    },
+    {
+      "paperId": "4714bc188e1fc8056f6910a736a7320c321b885e",
+      "title": "Immersive Visualization of Abstract Information: An Evaluation on Dimensionally-Reduced Data Scatterplots"
+    },
+    {
+      "paperId": "4a15fe589b34ef6697ebafa14543c65c0da070f2",
+      "title": "A methodological evaluation of natural user interfaces for immersive 3D Graph explorations"
+    },
+    {
+      "paperId": "60aac86e67595115afe85ecd817c24a9e6bcaf5b",
+      "title": "CoVAR: a collaborative virtual and augmented reality system for remote collaboration"
+    },
+    {
+      "paperId": "a98d3bc45e50e78bb01b540fa5daf9c500acaa6f",
+      "title": "Towards seamless interaction between physical and virtual locations for asymmetric collaboration"
+    },
+    {
+      "paperId": "48d8752fee20500b7a353b4402747b283d64e095",
+      "title": "One Reality: Augmenting How the Physical World is Experienced by combining Multiple Mixed Reality Modalities"
+    },
+    {
+      "paperId": "d67a50aea692bf3720865d292abb96c1ca408603",
+      "title": "ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation"
+    },
+    {
+      "paperId": "f8c60e21476b0983fb66b606c237fa3a61ca5042",
+      "title": "MeetAlive: Room-Scale Omni-Directional Display System for Multi-User Content and Control Sharing"
+    },
+    {
+      "paperId": "7a64091574990697a4e06fa408ad60a3926a41cf",
+      "title": "Smooth immersion: the benefits of making the transition to virtual environments a continuous process"
+    },
+    {
+      "paperId": "c0c64751af464352c12add88c8c20fb42aa4cd96",
+      "title": "VisAR: Bringing Interactivity to Static Data Visualizations through Augmented Reality"
+    },
+    {
+      "paperId": "5a655a9c068d2892646173c5f40022b750712a39",
+      "title": "Evaluating Multi-User Selection for Exploring Graph Topology on Wall-Displays"
+    },
+    {
+      "paperId": "2b1934007b3fe1301d3b567ced162b4b7fd9ded2",
+      "title": "A Study of Transitional Virtual Environments"
+    },
+    {
+      "paperId": "7e7b4b4a84c2aa0ee69b5cea3a4da7f62a0a37d5",
+      "title": "GraSp: Combining Spatially\u2010aware Mobile Devices and a Display Wall for Graph Visualization and Interaction"
+    },
+    {
+      "paperId": "fff72e746cca9bbd187f177870054435204582cf",
+      "title": "Remote Collaboration With Mixed Reality Displays: How Shared Virtual Landmarks Facilitate Spatial Referencing"
+    },
+    {
+      "paperId": "9b77e7978164c7d488d4b8df60d2a24ef3453700",
+      "title": "Is Two Enough?: ! Studying Benefits, Barriers, and Biases of Multi-Tablet Use for Collaborative Visualization"
+    },
+    {
+      "paperId": "4c18b646863d47336a871af57fd8b75a32617116",
+      "title": "ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users"
+    },
+    {
+      "paperId": "6e1412afb336fc7378f08da18cd52d8053b488e3",
+      "title": "A gesture system for graph visualization in virtual reality environments"
+    },
+    {
+      "paperId": "a2f6efdec35c7f636831a45cc63e5b7b422033bf",
+      "title": "Complex networks in advanced manufacturing systems"
+    },
+    {
+      "paperId": "587af79716e9df85007a8fdbaf2a3c1acb94bfb5",
+      "title": "Asymetric telecollaboration in virtual reality"
+    },
+    {
+      "paperId": "6d509d6e14448bb730995fc1f20b18e6908d30ba",
+      "title": "The impact of transitions on user experience in virtual reality"
+    },
+    {
+      "paperId": "a66ae45eef56f81f38ae4a4b79108fa43c507bae",
+      "title": "Towards a hybrid space combining Spatial Augmented Reality and virtual reality"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "34d7c754757b4217eed82c93bbb44b73b975cbba",
+      "title": "MultiLens: Fluent Interaction with Multi-Functional Multi-Touch Lenses for Information Visualization"
+    },
+    {
+      "paperId": "90c508a4c628dc38522cf07efb954014a1f94fa5",
+      "title": "CurationSpace: Cross-Device Content Curation Using Instrumental Interaction"
+    },
+    {
+      "paperId": "a9353f51b83b07437cc580fd05c3e65c4d5d6ac4",
+      "title": "Personalized Views for Immersive Analytics"
+    },
+    {
+      "paperId": "5d0d98373d08b20c63a0a4e1adf5757cc7dfceaf",
+      "title": "Active Pathways: Using Active Tangibles and Interactive Tabletops for Collaborative Modeling in Systems Biology"
+    },
+    {
+      "paperId": "55c058b83ffc4137534f2a38780b0c7e2085bf50",
+      "title": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing"
+    },
+    {
+      "paperId": "dd137c18c302ba7a25fe48aeb60a6b46a0e82189",
+      "title": "Holoportation: Virtual 3D Teleportation in Real-time"
+    },
+    {
+      "paperId": "ec45e6df204147cf773e3b3fbda55f2adad715f8",
+      "title": "PorosityAnalyzer: Visual analysis and evaluation of segmentation pipelines to determine the porosity in fiber-reinforced polymers"
+    },
+    {
+      "paperId": "22751e7eedc695b50e2f9ac404301b74aad5a075",
+      "title": "A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization"
+    },
+    {
+      "paperId": "5a86feb0e335cddc38943b16b135ce6da9f3f8ee",
+      "title": "Benefits of Tablet Interfaces for Immersive Visualization in Information Visualization"
+    },
+    {
+      "paperId": "c4213755d129d8a0a084c685494f0ab7dbbe9529",
+      "title": "Virtual Objects as Spatial Cues in Collaborative Mixed Reality Environments: How They Shape Communication Behavior and User Task Load"
+    },
+    {
+      "paperId": "d91327506fd76a8191e7187e31ea43734b9f66fc",
+      "title": "When Tablets meet Tabletops: The Effect of Tabletop Size on Around-the-Table Collaboration with Personal Tablets"
+    },
+    {
+      "paperId": "baeb3bc7c8ead971b0b7cf103931d713ed9ba213",
+      "title": "Perspectives for using virtual reality to extend visual data mining in information visualization"
+    },
+    {
+      "paperId": "ef182d52a8871f1fddd507411c37644da6e50469",
+      "title": "3D Collaboration Method over HoloLens\u2122 and Skype\u2122 End Points"
+    },
+    {
+      "paperId": "faa2baa3759568a59f5b36cabaa930eb484fa4fd",
+      "title": "Deriving a holistic cognitive fit model for an optimal visualization of data for management decisions."
+    },
+    {
+      "paperId": "5be7ff819d22df425a56087a17c1d8777c7b31c7",
+      "title": "Connichiwa: A Framework for Cross-Device Web Applications"
+    },
+    {
+      "paperId": "e5d98a61ef3e7107446df228f66098c0479af3b1",
+      "title": "Spatially-aware or Spatially-agnostic?: Elicitation and Evaluation of User-Defined Cross-Device Interactions"
+    },
+    {
+      "paperId": "c16bb79ca78eedb2d2198214691563785af2d6a0",
+      "title": "flapAssist: How the integration of VR and visualization tools fosters the factory planning process"
+    },
+    {
+      "paperId": "5b74c9b6302d3de36960e441e06a1af35a596ba6",
+      "title": "Evaluation of a bimanual simultaneous 7DOF interaction technique in virtual environments"
+    },
+    {
+      "paperId": "ed9c041b6e03e9357a7d770406be10598d84a67f",
+      "title": "Designing a collaborative visual analytics system to support users\u2019 continuous analytical processes"
+    },
+    {
+      "paperId": "5f6c6fe473f2a5d8c62dd2dc8c7e54898ba89caa",
+      "title": "Mixed Reality"
+    },
+    {
+      "paperId": "87a9fbabb874bac24fe27c97c587452afeee39fb",
+      "title": "Coordinated 3D interaction in tablet- and HMD-based hybrid virtual environments"
+    },
+    {
+      "paperId": "6979c7226b09b6083ece0a0c0bbca83192541e57",
+      "title": "Immersive and collaborative data visualization using virtual reality platforms"
+    },
+    {
+      "paperId": "5dc07fb07bb013103323c2c016aba5bde22078b7",
+      "title": "NetBioV: an R package for visualizing large network data in biology and medicine"
+    },
+    {
+      "paperId": "b01a0bd13dad2520c0bf827b90cf8a127f5fe6de",
+      "title": "Effects of VR System Fidelity on Analyzing Isosurface Visualization of Volume Datasets"
+    },
+    {
+      "paperId": "a7c2ed4090338aca2f347f8d60ac88f82bc8059d",
+      "title": "A 3D collaborative virtual environment to integrate immersive virtual reality into factory planning processes"
+    },
+    {
+      "paperId": "e91cffe99f628fd5a0eed16408366d22f17bf926",
+      "title": "A survey of communication and awareness in collaborative virtual environments"
+    },
+    {
+      "paperId": "f1b46d713ea8ba851a0b67b5fe0e84b62c42a572",
+      "title": "A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures"
+    },
+    {
+      "paperId": "5c0e56aabd51a948e7220c65d49b72925a7b985c",
+      "title": "A Collaborative Digital Pathology System for Multi\u2010Touch Mobile and Desktop Computing Platforms"
+    },
+    {
+      "paperId": "adb5a0b004f4ed47201fa7df19eda2753f45d2f4",
+      "title": "Validation of the MR Simulation Approach for Evaluating the Effects of Immersion on Visual Analysis of Volume Data"
+    },
+    {
+      "paperId": "84f37e2198fe1a610ff46709434746a91e3f4c3c",
+      "title": "Interactive Slice WIM: Navigating and Interrogating Volume Data Sets Using a Multisurface, Multitouch VR Interface"
+    },
+    {
+      "paperId": "0bfcd76f9307553d4372cbf87d9d760e83ab2340",
+      "title": "Tracing the route to path analysis in neuroimaging"
+    },
+    {
+      "paperId": "ab30b1c9efaa90ea49782a8c7cb1934191cd9dc4",
+      "title": "Mockup builder: direct 3D modeling on and above the surface in a continuous interaction space"
+    },
+    {
+      "paperId": "14d24a276907e977353bf15bb56e1cf90ae0e2e2",
+      "title": "Co-Located Collaborative Visual Analytics around a Tabletop Display"
+    },
+    {
+      "paperId": "45fd1f729fb2f393a982be519afe7e97704c19ee",
+      "title": "Materializing the query with facet-streams: a hybrid surface for collaborative search on tabletops"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "3d769cf833a045bf009d61f1e0ea6ba4b6431095",
+      "title": "The weirdest people in the world?"
+    },
+    {
+      "paperId": "8a1fadfbe027ca2844b1fa53d302e80c7e21230e",
+      "title": "Estimating cognitive load using remote eye tracking in a driving simulator"
+    },
+    {
+      "paperId": "bbf76a10211c8d4e486f45d27706c105a480a0ee",
+      "title": "Does a Gradual Transition to the Virtual World increase Presence?"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "35a1ecf54f6e097fc81d2e10ec1c8ca149f8d6b8",
+      "title": "Research in the wild"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "507ed3c3ff46e651ed57b394c9d723fc449822e9",
+      "title": "Design Considerations for Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "ed8cf3a46040d4da17f2220ec66f7736d04af678",
+      "title": "Transitional interface: concept, issues and framework"
+    },
+    {
+      "paperId": "2f56034cfa09845ef903425588eba829f3d892d0",
+      "title": "Transition of Mixed, Virtual, and Augmented Reality in Smart Production Environments - An Interdisciplinary View"
+    },
+    {
+      "paperId": "54499d3983c2851f690adf1bd50ccddeb1fc9136",
+      "title": "Collaborative coupling over tabletop displays"
+    },
+    {
+      "paperId": "3921cec32aadac9140ece3f7975d68187399d313",
+      "title": "Evaluation of mixed-space collaboration"
+    },
+    {
+      "paperId": "348e01f8604c17a15e9d85c27de4338bbc668c01",
+      "title": "A Toolbox Supporting Collaboration in Networked Virtual Environments"
+    },
+    {
+      "paperId": "1acb1882a861f1856729ef70803f80f56e5018ea",
+      "title": "Territoriality in collaborative tabletop workspaces"
+    },
+    {
+      "paperId": "4835ffa05831617be3e0c36d306b0e0fc339f703",
+      "title": "Collaborative mixed reality visualization of an archaeological excavation"
+    },
+    {
+      "paperId": "004e397d4ba6da2719d657d3c9d587d3dc35b893",
+      "title": "Stitching: pen gestures that span multiple displays"
+    },
+    {
+      "paperId": "14ed9b6d6508658e2816181add32786373037eca",
+      "title": "The MagicBook: a transitional AR interface"
+    },
+    {
+      "paperId": "e5e6668c42e725e7fc8e76910e651d763cd61e3e",
+      "title": "JAPE: A Prototyping System for Collaborative Virtual Environments"
+    },
+    {
+      "paperId": "4341d17771ccd2d95442e86005894b97c147d042",
+      "title": "The Experience of Presence: Factor Analytic Insights"
+    },
+    {
+      "paperId": "a080ae25221ee29082f4f30302c65fe901abfe7a",
+      "title": "Exploring complex networks"
+    },
+    {
+      "paperId": "d1930b9574308298ac3f2b0c8203366a7f6153b0",
+      "title": "Presence and Reality Judgment in Virtual Environments: A Unitary Construct?"
+    },
+    {
+      "paperId": "15c58cb740ff2107544fa9c3c8b15048a9e998a3",
+      "title": "The cubic mouse: a new device for three-dimensional input"
+    },
+    {
+      "paperId": "fddb3780ca4327ab4b002b068cf4d704f989f78e",
+      "title": "A collaboration support technique by integrating a shared virtual reality and a shared augmented reality"
+    },
+    {
+      "paperId": "ee641e66b4f0f208a8af586775678247fa2196a0",
+      "title": "SeamlessDesign: a face-to-face collaborative virtual/augmented environment for rapid prototyping of geometrically constrained 3-D objects"
+    },
+    {
+      "paperId": "556c285f88b6f66b014c577656d6dba70530ed7b",
+      "title": "Augmented surfaces: a spatially continuous work space for hybrid computing environments"
+    },
+    {
+      "paperId": "977c05cf269f876a2ae691206bab0a0072d592c1",
+      "title": "The benefits of statistical visualization in an immersive environment"
+    },
+    {
+      "paperId": "d5f6ad65d872c577db59a4298e3c746fef848fa4",
+      "title": "Design for individuals, design for groups: tradeoffs between power and workspace awareness"
+    },
+    {
+      "paperId": "0fcc32e376a587af6e2c61c857c0b00b5e95720f",
+      "title": "Collaborative immersive workspace through a shared augmented environment"
+    },
+    {
+      "paperId": "2e4006fa55abefb1e117eb572c72b13ec2457648",
+      "title": "\u201cStudierstube\u201d: An environment for collaboration in augmented reality"
+    },
+    {
+      "paperId": "a2f9167e1d9796834a82c871ceca60e3adf8548b",
+      "title": "An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual environments"
+    },
+    {
+      "paperId": "8fafe4c30d972d15d0d3994b89fe548530c48aa8",
+      "title": "Transition between virtual environment and workstation environment with projective head mounted display"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "96ac874ea8938ad6aa4911774dc93ba4a5c845b0",
+      "title": "Augmented reality: a class of displays on the reality-virtuality continuum"
+    },
+    {
+      "paperId": "edaa62c431553c96343f130b35791024cd678744",
+      "title": "User embodiment in collaborative virtual environments"
+    },
+    {
+      "paperId": "f78a31be8874eda176a5244c645289be9f1d4317",
+      "title": "A Taxonomy of Mixed Reality Visual Displays"
+    },
+    {
+      "paperId": "0543a8a6e1d57deead06199b5876e6ea21defacb",
+      "title": "Simulator Sickness Questionnaire: An enhanced method for quantifying simulator sickness."
+    },
+    {
+      "paperId": "d7198bd94ddfe4fc53ec2e71915be1b777843717",
+      "title": "The CAVE: audio visual experience automatic virtual environment"
+    },
+    {
+      "paperId": "15646d6234e04a4797a8df2f74f62f7aa2306de1",
+      "title": "Groupware: Computer Support for Business Teams"
+    },
+    {
+      "paperId": "42655e92f79c77543a191a9f4039884574e50d15",
+      "title": "Immersive Analytics of Multidimensional Volumetric Data"
+    },
+    {
+      "paperId": null,
+      "title": "Product\u2014FOVE official website"
+    },
+    {
+      "paperId": null,
+      "title": "Survey literature details. Supplemental material to \"a survey on cross-virtuality analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Varjo: High-resolution virtual and mixed reality products\u2014 varjo.com"
+    },
+    {
+      "paperId": "e13f6fb49f5d8bc33e2127683d08c9d431c7b12f",
+      "title": "Cross-Virtuality Visualization, Interaction and Collaboration"
+    },
+    {
+      "paperId": "91d43c67a6da257b3364a2996bc71fa0325189d2",
+      "title": "Individual and Collaborative Cross-reality Immersive Analytics - Initial Ideas"
+    },
+    {
+      "paperId": null,
+      "title": "Exploration of visual transitions between virtual and augmented reality"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "4a0d826358f4f75006ca3acea3cc4ee41a3fc714",
+      "title": "VRige: Exploring Social Network Interactions In Immersive Virtual Environments"
+    },
+    {
+      "paperId": "e90713e6e27b1d8b3361a6744702de3ded9db194",
+      "title": "Virtual Production Intelligence (VPI)"
+    },
+    {
+      "paperId": "d6990b547dc48e3f38da88f01dadf14a09bae6d4",
+      "title": "Augmented reality application for training in pipe defects ultrasonic investigation"
+    },
+    {
+      "paperId": null,
+      "title": "Cross-Virtuality Analytics process"
+    },
+    {
+      "paperId": null,
+      "title": "Cognitive heat: Exploring the usage of thermal imaging to unobtrusively estimate cognitive load"
+    },
+    {
+      "paperId": "3334d089946ea580b72530cc5ea29efc82ab71ec",
+      "title": "Tracking for Distributed Mixed Reality Environments"
+    },
+    {
+      "paperId": "de54beb8ac28754a2f61c3c1824c8bf97ca7fd4e",
+      "title": "Low-Cost Telepresence for Collaborative Virtual Environments"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Spatial Augmented Reality: Merging Real and Virtual Worlds"
+    },
+    {
+      "paperId": "025a144b39aebe2382e0c6695cf145e8b3541355",
+      "title": "Exploring the Benefits of Immersion in Abstract Information Visualization"
+    },
+    {
+      "paperId": "7dd9065f6988a42e84d49b97ce8ddf0c782b618a",
+      "title": "Three-Dimensional Imaging and Virtual Reality Applications of Multislice Computed Tomography"
+    },
+    {
+      "paperId": "95e904e309b455c94ea131fb985f3a13a74d2d08",
+      "title": "The virtual ante-room: assessing presence through expectation and surprise"
+    },
+    {
+      "paperId": "4add8cff477d483926aa5fc1cf5e841cb18eaa18",
+      "title": "Cavern: a distributed architecture for supporting scalable persistence and interoperability in colla"
+    },
+    {
+      "paperId": "857f768894583b738533585897594824c55a3bec",
+      "title": "Depth of Presence in Virtual Environments"
+    },
+    {
+      "paperId": "5b709baf1ba9587874dbbf78af5b10cd54188cce",
+      "title": "Computer-supported cooperative work: history and focus"
+    },
+    {
+      "paperId": "966dfdd0b0bb6b50416559d35a2561c0b96d9a9e",
+      "title": "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "a review of existing studies on the effectiveness of these meth-ods, and finally"
+    },
+    {
+      "paperId": null,
+      "title": "a systematic overview of the visualization and interaction techniques employed for XVA"
+    },
+    {
+      "paperId": null,
+      "title": "an analysis of the XVA transition and collaboration concepts used to link devices from across the RVC"
+    },
+    {
+      "paperId": "8bbcc251632560ce196543562e492ea933081002",
+      "title": "Open Archive Toulouse Archive"
+    },
+    {
+      "paperId": null,
+      "title": "MEC spatial presence questionnaire"
+    },
+    {
+      "paperId": null,
+      "title": "Dataspace: A reconfigurable hybrid \u00a9 2022 Eurographics - The"
+    },
+    {
+      "paperId": null,
+      "title": "a review and classification of existing VA methods and systems for enabling analysis on devices across the RVC"
+    },
+    {
+      "paperId": null,
+      "title": "Augmented displays : (as introduced by Reipschl\u00e4ger and Dachselt [RD19]) approaches that augment one stage in the RVC with the help of another stage and put them in a spatial relation"
+    },
+    {
+      "paperId": null,
+      "title": "Computing Systems"
+    },
+    {
+      "paperId": null,
+      "title": "One paper reported evaluating cybersickness by using custom questions in a feedback questionnaire [PC17], and one paper reported questions on comfort and sickness, where sickness \u00a9 2022"
+    },
+    {
+      "paperId": null,
+      "title": "Cross-Virtuality a shared augmented reality"
+    }
+  ]
+}

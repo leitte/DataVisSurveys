@@ -1,0 +1,561 @@
+{
+  "paperId": "f529e221413bd87477e3d4fac0c24f0db55c1c76",
+  "externalIds": {
+    "DBLP": "journals/cgf/FriedlKnirschPPSAR24",
+    "DOI": "10.1111/cgf.15111",
+    "CorpusId": 270419050
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/f529e221413bd87477e3d4fac0c24f0db55c1c76",
+  "title": "A Systematic Literature Review of User Evaluation in Immersive Analytics",
+  "abstract": "User evaluation is a common and useful tool for systematically generating knowledge and validating novel approaches in the domain of Immersive Analytics. Since this research domain centres around users, user evaluation is of extraordinary relevance. Additionally, Immersive Analytics is an interdisciplinary field of research where different communities bring in their own methodologies. It is vital to investigate and synchronise these different approaches with the long\u2010term goal to reach a shared evaluation framework. While there have been several studies focusing on Immersive Analytics as a whole or on certain aspects of the domain, this is the first systematic review of the state of evaluation methodology in Immersive Analytics. The main objective of this systematic literature review is to illustrate methodologies and research areas that are still underrepresented in user studies by identifying current practice in user evaluation in the domain of Immersive Analytics in coherence with the PRISMA protocol. (see https://www.acm.org/publications/class-2012)",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2024,
+  "referenceCount": 123,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2024-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "43"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Friedl-Knirsch2024ASL,\n author = {Judith Friedl-Knirsch and Fabian Pointecker and S. Pfisterm\u00fcller and Christian Stach and Christoph Anthes and D. Roth},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Systematic Literature Review of User Evaluation in Immersive Analytics},\n volume = {43},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2271276021",
+      "name": "Judith Friedl-Knirsch"
+    },
+    {
+      "authorId": "2040096668",
+      "name": "Fabian Pointecker"
+    },
+    {
+      "authorId": "2305997845",
+      "name": "S. Pfisterm\u00fcller"
+    },
+    {
+      "authorId": "2271259941",
+      "name": "Christian Stach"
+    },
+    {
+      "authorId": "2265017418",
+      "name": "Christoph Anthes"
+    },
+    {
+      "authorId": "2289931314",
+      "name": "D. Roth"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4a918962ec63448d302b4fe6c5e3d7668aba5848",
+      "title": "Embodied Provenance for Immersive Sensemaking"
+    },
+    {
+      "paperId": "160ab1ba967fdcd7289c29a8dacaaa09a0f5fc2b",
+      "title": "Immersive Analysis of Spatiotemporal Racing Data"
+    },
+    {
+      "paperId": "484de6784d0dbfbd5bdb731f2e02d9897cb6108e",
+      "title": "Aesthetic-Driven Navigation for Node-Link Diagrams in VR"
+    },
+    {
+      "paperId": "8620608db67f5c1ceb6b192e1293158e5a386bd3",
+      "title": "Evaluating View Management for Situated Visualization in Web\u2010based Handheld AR"
+    },
+    {
+      "paperId": "ed982db9297a99cde751e49420782cb4297ec18b",
+      "title": "Through Their Eyes and In Their Shoes: Providing Group Awareness During Collaboration Across Virtual Reality and Desktop Platforms"
+    },
+    {
+      "paperId": "8ae45b286e02a9f0d26783ddb956f7998d3da727",
+      "title": "DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces"
+    },
+    {
+      "paperId": "d1d4239bce1b617fd52d76d9ba85cee678063469",
+      "title": "GestureExplorer: Immersive Visualisation and Exploration of Gesture Data"
+    },
+    {
+      "paperId": "0b44324228d08d4e310bc43ac730f0001048970a",
+      "title": "Spatiality and Semantics - Towards Understanding Content Placement in Mixed Reality"
+    },
+    {
+      "paperId": "5a466146b2da433cfe49d92394e9203e2e523e72",
+      "title": "Pearl: Physical Environment based Augmented Reality Lenses for In-Situ Human Movement Analysis"
+    },
+    {
+      "paperId": "d99ac041187b18083f713c7dab80da4202156049",
+      "title": "HoloTouch: Interacting with Mixed Reality Visualizations Through Smartphone Proxies"
+    },
+    {
+      "paperId": "1b9aff40c1aa44812f7a67605950499aa4db0ce3",
+      "title": "WaveRider: Immersive Visualization of Indoor Signal Propagation"
+    },
+    {
+      "paperId": "ba92c87912872da9f83782d48466ec019aeac04c",
+      "title": "\"Is It My Turn?\""
+    },
+    {
+      "paperId": "da360fbcb9fa166987249887ec762974b250a8dc",
+      "title": "Identifying Cognitive and Creative Support Needs for Remote Scientific Collaboration using VR: Practices, Affordances, and Design Implications"
+    },
+    {
+      "paperId": "8b0d21f1ebc4f284a41a7471a1b481c33326d1b4",
+      "title": "VR Cognitive Load Dashboard for Flight Simulator"
+    },
+    {
+      "paperId": "a30832fa068e9d2ad48ca7ef2f48419220a096a9",
+      "title": "Exploring a Multi-Device Immersive Learning Environment"
+    },
+    {
+      "paperId": "969fdc99efcb218667044e962660a7c911d0d65b",
+      "title": "Hybrid Touch/Tangible Spatial Selection in Augmented Reality"
+    },
+    {
+      "paperId": "31d1907a8ac729c05948e655e608a06817cfdeb2",
+      "title": "Where Should We Put It? Layout and Placement Strategies of Documents in Augmented Reality for Collaborative Sensemaking"
+    },
+    {
+      "paperId": "f2eddebda589efe3741d5416e083daaef0bd4474",
+      "title": "In-Depth Mouse: Integrating Desktop Mouse into Virtual Reality"
+    },
+    {
+      "paperId": "4994c18a9c07175868691de92b7ca54e224c11f8",
+      "title": "ReLive: Bridging In-Situ and Ex-Situ Visual Analytics for Analyzing Mixed Reality User Studies"
+    },
+    {
+      "paperId": "3438bf68d2e4428c292fc12b193d46872a941bb3",
+      "title": "Immersive Analytics with Abstract 3D Visualizations: A Survey"
+    },
+    {
+      "paperId": "49d62caf6cc10a2fd390880178bed99220c81440",
+      "title": "Interactive Visualization of Deep Learning Models in an Immersive Environment"
+    },
+    {
+      "paperId": "6a0dbbc46aaccdd048d6650af630d5b95b369996",
+      "title": "ImNDT: Immersive Workspace for the Analysis of Multidimensional Material Data From Non-Destructive Testing"
+    },
+    {
+      "paperId": "b12cf24498de2e6fd6207248e9de8633b69b861b",
+      "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics"
+    },
+    {
+      "paperId": "224c11bc51b4959bc787d6681c2b152468294b11",
+      "title": "Multi-Touch Querying on Data Physicalizations in Immersive AR"
+    },
+    {
+      "paperId": "19cca67d8d0885dd164d7b1959e7c3c5f7d87229",
+      "title": "The MADE-Axis"
+    },
+    {
+      "paperId": "cdf5301c9af158c2722b4d2a62efa045dd3fbafa",
+      "title": "Egocentric Network Exploration for Immersive Analytics"
+    },
+    {
+      "paperId": "1eacfac1efdc751da18c04d9c0dac7871ffb8295",
+      "title": "Visual Linking of Feature Values in Immersive Graph Visualization Environment"
+    },
+    {
+      "paperId": "e27eb070d663dcb130ef29f7adf83a7f893dd7ad",
+      "title": "IDIAR: Augmented Reality Dashboards to Supervise Mobile Intervention Studies"
+    },
+    {
+      "paperId": "76f395cccfe7463f85adcf1f3e7427604f6d69aa",
+      "title": "Show Me How You Interact, I Will Tell You What You Think: Exploring the Effect of the Interaction Style on Users\u2019 Sensemaking about Correlation and Causation in Data"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "f2bd084bb3278b29910ff72de0bc674f4f4068e8",
+      "title": "Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality"
+    },
+    {
+      "paperId": "c1b7a90e45313ade8d91647da8459af82f99aaa4",
+      "title": "MIRIA: A Mixed Reality Toolkit for the In-Situ Visualization and Analysis of Spatio-Temporal Interaction Data"
+    },
+    {
+      "paperId": "56079d7555f4bb400c37b4a3b992dbc2e157afb8",
+      "title": "Diagnosing Bias in the Gender Representation of HCI Research Participants: How it Happens and Where We Are"
+    },
+    {
+      "paperId": "611b23de2fcecfd9761fe439a6d650d9e8a713e2",
+      "title": "STREAM: Exploring the Combination of Spatially-Aware Tablets with Augmented Reality Head-Mounted Displays for Immersive Analytics"
+    },
+    {
+      "paperId": "6504db2b2cdcbdb4308e7df83a477c75c5b097e4",
+      "title": "MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis"
+    },
+    {
+      "paperId": "9fd1e9025cd7f170aa137ea4600e0f662a0301d5",
+      "title": "Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training"
+    },
+    {
+      "paperId": "32b264f1a38851b51018926225133c8b85f742f4",
+      "title": "Comparing Understanding and Memorization in Physicalization and VR Visualization"
+    },
+    {
+      "paperId": "290882178c4ddace19fd7037c73d51867c3bb6e9",
+      "title": "The State of the Art of Spatial Interfaces for 3D Visualization"
+    },
+    {
+      "paperId": "e737853b83ecfeeb3962acb0a4b56f598e41ad76",
+      "title": "Virtual Reality for Understanding Multidimensional Spatiotemporal Phenomena in Neuroscience"
+    },
+    {
+      "paperId": "fd253d4619cf6e2201286d85b4005443f9bca05d",
+      "title": "Maps Around Me"
+    },
+    {
+      "paperId": "d472624d1ab5298e0d7bc5151cf416bb55dc3440",
+      "title": "DataHop: Spatial Data Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "920a4cfde7fb87b58ac043df0fce1d65c20f8bff",
+      "title": "Advisory Service Support that Works"
+    },
+    {
+      "paperId": "9083fa23d528b4a632a0df84a8966820fe12f488",
+      "title": "Corsican Twin: Authoring In Situ Augmented Reality Visualisations in Virtual Reality"
+    },
+    {
+      "paperId": "df67494961b0e88f2681164a798e2c4285ee89c2",
+      "title": "Effect of Visualization of Pedestrian Intention Recognition on Trust and Cognitive Load"
+    },
+    {
+      "paperId": "f4de50b3dc5d1d850d281ef0cfefb80be2af34f2",
+      "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+    },
+    {
+      "paperId": "fdd1111641462d6261630e3990ca35f99b8467a5",
+      "title": "My NIDCAP Journey as an Interpreter"
+    },
+    {
+      "paperId": "45c5605ea67978dec4b10ad462fd32c7f986828f",
+      "title": "Threats of a replication crisis in empirical computer science"
+    },
+    {
+      "paperId": "97ecf6b2e2679875452c146c90d738cc819317e9",
+      "title": "Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces"
+    },
+    {
+      "paperId": "485229b4cf6026296fe7f1b32c6694e5597d1610",
+      "title": "Evaluation of a Financial Portfolio Visualization using Computer Displays and Mixed Reality Devices with Domain Experts"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "e534c477850bdce8d7a88beb692f5ade932c870b",
+      "title": "Toward Agile Situated Visualization: An Exploratory User Study"
+    },
+    {
+      "paperId": "55e998e5b97550ed1b91accf6059664338fa9629",
+      "title": "Subtle Sensing: Detecting Differences in the Flexibility of Virtually Simulated Molecular Objects"
+    },
+    {
+      "paperId": "590c41eb5a5ede87e7aaa978bea23bafe72cd032",
+      "title": "SnapChart: an Augmented Reality Analytics Toolkit to Enhance Interactivity in a Collaborative Environment"
+    },
+    {
+      "paperId": "4ef02f02f9f0fb582f71f162b3b89eb965499dc0",
+      "title": "Evaluation of Navigation Operations in Immersive Microscopic Visualization"
+    },
+    {
+      "paperId": "704eb88edf1fb34600a999eeaca747f407d0cf41",
+      "title": "Immersive Insights: A Hybrid Analytics System forCollaborative Exploratory Data Analysis"
+    },
+    {
+      "paperId": "f853bb62c0e25f12a8d450a5b0d74e9bed20940b",
+      "title": "Investigating Smartphone-based Pan and Zoom in 3D Data Spaces in Augmented Reality"
+    },
+    {
+      "paperId": "63d88892c6a0712b1935d2255455fa1cbd5e2e02",
+      "title": "Multi-touch 3D positioning with the pantograph technique"
+    },
+    {
+      "paperId": "1aca8fcec50bb07b259deeccd89daec8ccc0fba5",
+      "title": "VRIA - A Framework for Immersive Analytics on the Web"
+    },
+    {
+      "paperId": "715ee4df06963f9eb9db5f04b5536c70ffba5dbb",
+      "title": "Scaptics and Highlight-Planes: Immersive Interaction Techniques for Finding Occluded Features in 3D Scatterplots"
+    },
+    {
+      "paperId": "f08e97a53d17a4f82b865864c8e29211136edf7e",
+      "title": "Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality"
+    },
+    {
+      "paperId": "d96f294cb6e66314c81a37d882f3a26ef055e67e",
+      "title": "Immersive Intelligence Genomic Data Visualisation"
+    },
+    {
+      "paperId": "6cbb08bc219c68640eceb26f4dc112e3a0cd941f",
+      "title": "Improving Spatial Orientation in Immersive Environments"
+    },
+    {
+      "paperId": "ff7688558e7e8ad8ebf6e54992aa706e74d20c0e",
+      "title": "A systematic literature review of software visualization evaluation"
+    },
+    {
+      "paperId": "412c79a8cd76dfaf677def98117d204509acf9b2",
+      "title": "Evaluation of Scientific Workflow Effectiveness for a Distributed Multi-User Multi-Platform Support System for Collaborative Visualization"
+    },
+    {
+      "paperId": "bd52363a094e2b185cf0a30e9dcead5a0b6f426c",
+      "title": "Evaluating the training transfer of Head-Mounted Display based training for assembly tasks"
+    },
+    {
+      "paperId": "08c77168370f990efbcb931ed2c90fbfa37dd12a",
+      "title": "VirtualDesk: A Comfortable and Efficient Immersive Information Visualization Approach"
+    },
+    {
+      "paperId": "d0ae2fa05d6f04bd402418f29442e14079639b4d",
+      "title": "Maps and Globes in Virtual Reality"
+    },
+    {
+      "paperId": "0b40f19c46ad30c77eeb5b453989d2c9f4f76e26",
+      "title": "Virtual reality sickness questionnaire (VRSQ): Motion sickness measurement index in a virtual reality environment."
+    },
+    {
+      "paperId": "d66b449b54a8cf3c977cb55fb0c63f50f4bd2699",
+      "title": "Exploring the Effects of Scale in Augmented Reality-Empowered Visual Analytics"
+    },
+    {
+      "paperId": "f7855a3e7532c7ce9fab87e6298e470cfa2d6a6b",
+      "title": "Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data"
+    },
+    {
+      "paperId": "f2826c10043ee29a749c2c27524a97f455f54143",
+      "title": "A Systematic Review of 10 Years of Augmented Reality Usability Studies: 2005 to 2014"
+    },
+    {
+      "paperId": "74d15892e23291bfcd277893040849c20607977a",
+      "title": "A practical approach to measuring user engagement with the refined user engagement scale (UES) and new UES short form"
+    },
+    {
+      "paperId": "5465884a4aad5dc256ce5b4bfacdfa7cdc2c78ee",
+      "title": "The preregistration revolution"
+    },
+    {
+      "paperId": "8fd4ace085937afa9678d9a7bd3402af26ea70dc",
+      "title": "The Contribution of Stereoscopic and Motion Depth Cues to the Perception of Structures in 3D Point Clouds"
+    },
+    {
+      "paperId": "fff31548617f208cd5ae5c32917afd48abc4ff6a",
+      "title": "Mobile situated analytics of ego-centric network data"
+    },
+    {
+      "paperId": "b0236aad77502af66f22c19d79094c0d6d3b4e88",
+      "title": "Investigating the Use of Spatial Interaction for 3D Data Visualization on Mobile Devices"
+    },
+    {
+      "paperId": "a7b22d086bb96d7b4a865adb68d4667214cfa06c",
+      "title": "Virtual Valcamonica: Collaborative Exploration of Prehistoric Petroglyphs and Their Surrounding Environment in Multi-User Virtual Reality"
+    },
+    {
+      "paperId": "7ecf1feb933ebd869fb7a50311406df1c42e7f80",
+      "title": "The Borg Rating of Perceived Exertion (RPE) scale"
+    },
+    {
+      "paperId": "67f0c5f73029e7bdf2116ea2aeb7586a701fd7bc",
+      "title": "Immersive solutions for future Air Traffic Control and Management"
+    },
+    {
+      "paperId": "5e8902d504c03c7513f29ade98931189165a8a62",
+      "title": "Degrees of Freedom in Planning, Running, Analyzing, and Reporting Psychological Studies: A Checklist to Avoid p-Hacking"
+    },
+    {
+      "paperId": "602e2fa56899b37cef6aab3385f7f98c75cdcbb0",
+      "title": "Can We Interpret the Depth?: Evaluating Variation in Stereoscopic Depth for Encoding Aspects of Non-Spatial Data"
+    },
+    {
+      "paperId": "b02d3a4eff7855a72f458ff0dea495804bb69704",
+      "title": "Exploring Immersive Interfaces for Well Placement Optimization in Reservoir Models"
+    },
+    {
+      "paperId": "f314c209bfd1fa89a282d0ad1f9ea6b1e29072f1",
+      "title": "Local Standards for Sample Size at CHI"
+    },
+    {
+      "paperId": "69ca98a071955c90aa2cd1c591971ddc2bde1133",
+      "title": "PLANWELL: spatial user interface for collaborative petroleum well-planning"
+    },
+    {
+      "paperId": "23e04377b8500451982cd552e55072961a80627d",
+      "title": "On the Benefits of Using Constant Visual Angle Glyphs in Interactive Exploration of 3D Scatterplots"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "3a453b82f7479bd4eb71b9ad33d9dd4abb79786d",
+      "title": "Tangible windows for a free exploration of wide 3D virtual environment"
+    },
+    {
+      "paperId": "8c606ac7d235425a2310bdbf03f8b2ddc0e6bebe",
+      "title": "The impact of display bezels on stereoscopic vision for tiled displays"
+    },
+    {
+      "paperId": "2804b388448268b08cb2ad91a8c195d440b82b88",
+      "title": "Interactive analysis of cavity-flows in a virtual environment"
+    },
+    {
+      "paperId": "7723484429d2d299c17c896aae0d74c3038de29f",
+      "title": "Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments"
+    },
+    {
+      "paperId": "633b4e8184880b5d4bcbe144e4396fe8efca5605",
+      "title": "Comparison of three one-question, post-task usability questionnaires"
+    },
+    {
+      "paperId": "7661947c401eda2b4f73c10a46defbbd620e107d",
+      "title": "A survey of evaluation techniques used in augmented reality studies"
+    },
+    {
+      "paperId": "be6682f686370d81cb3cca298f055b5805caa364",
+      "title": "The Yield Shift Theory of Satisfaction and Its Application to the IS/IT Domain"
+    },
+    {
+      "paperId": "4edccbf8837b6555093bfdc39ab1b9704dfb3169",
+      "title": "Evaluating motion constraints for 3D wayfinding in immersive and desktop virtual environments"
+    },
+    {
+      "paperId": "7798a7a34b9699c0bb19c83b22c76c4b2081866e",
+      "title": "Managing a document-based information space"
+    },
+    {
+      "paperId": "20ca36e0ec21de5c15dee4567b1c5340b179fe0d",
+      "title": "The benefits of immersion for spatial understanding of complex underground cave systems"
+    },
+    {
+      "paperId": "0559c66efcbef70d7b8da103368af20378cf6f51",
+      "title": "A comparison of different input devices for a 3D environment"
+    },
+    {
+      "paperId": "f9fd0d42903e50245d7602bba469ebf81e4509ea",
+      "title": "Evaluating the effectiveness of occlusion reduction techniques for 3D virtual environments"
+    },
+    {
+      "paperId": "262c2254a5513fa12c5d8e1dcf2524b7dc134e1b",
+      "title": "Spatial input device structure and bimanual object manipulation in virtual environments"
+    },
+    {
+      "paperId": "fcb719ddcb11ed708ffda98122154376f9737c07",
+      "title": "Nasa-Task Load Index (NASA-TLX); 20 Years Later"
+    },
+    {
+      "paperId": "53e719ac316dfad356e03b825e0afe08d452f195",
+      "title": "A comparison of immersive HMD, fish tank VR and fish tank with haptics displays for volume visualization"
+    },
+    {
+      "paperId": "e5ca0000f0c88dd156fed2dce3e40be49f3136a1",
+      "title": "On the usability of gesture interfaces in virtual reality environments"
+    },
+    {
+      "paperId": "28c9da034c23ea5072f299a23a26b8429c61306b",
+      "title": "From presence to consciousness through virtual reality"
+    },
+    {
+      "paperId": "b0f4f2e8d2d259f4be8c752d94d66f5fd08c1b0e",
+      "title": "Dynamic three-dimensional information visualization for quantitative information in augmented reality systems"
+    },
+    {
+      "paperId": "5155f9649f3190a41d7f4ace6fd3bd74d3f9ff6c",
+      "title": "Learner articulation in an immersive visualization environment"
+    },
+    {
+      "paperId": "45ad90f55d8fe7b65c64d5384be8c176857c5e5a",
+      "title": "Binocular eye tracking in VR for visual inspection training"
+    },
+    {
+      "paperId": "4341d17771ccd2d95442e86005894b97c147d042",
+      "title": "The Experience of Presence: Factor Analytic Insights"
+    },
+    {
+      "paperId": "09b96bf343879d635ff162206d71d79c773e5d30",
+      "title": "Lessons learned from employing multiple perspectives in a collaborative virtual environment for visualizing scientific data"
+    },
+    {
+      "paperId": "79596de8da82cbb219e88b45c808b052606f765d",
+      "title": "SUS: A 'Quick and Dirty' Usability Scale"
+    },
+    {
+      "paperId": "9a0540f272dba8834dc81f2da22e3e31169f4f7a",
+      "title": "Evaluating stereo and motion cues for visualizing information nets in three dimensions"
+    },
+    {
+      "paperId": "9576d1573688a05e45ad30e783e7d0c10a10d6d9",
+      "title": "Measuring emotion: the Self-Assessment Manikin and the Semantic Differential."
+    },
+    {
+      "paperId": "0543a8a6e1d57deead06199b5876e6ea21defacb",
+      "title": "Simulator Sickness Questionnaire: An enhanced method for quantifying simulator sickness."
+    },
+    {
+      "paperId": "7be7d7e823a7a9ecb1da28f6e05af4f65b9c06c1",
+      "title": "Fish tank virtual reality"
+    },
+    {
+      "paperId": "5ac60be482fe521fdbe601c432e58068287f7036",
+      "title": "Defining virtual reality: dimensions determining telepresence"
+    },
+    {
+      "paperId": null,
+      "title": "PerfVis"
+    },
+    {
+      "paperId": null,
+      "title": "ImWeb"
+    },
+    {
+      "paperId": "b0b91895fc738f1c85d4087971e036dfaa7be471",
+      "title": "Design and Evaluation of a Short Version of the User Experience Questionnaire (UEQ-S)"
+    },
+    {
+      "paperId": null,
+      "title": "Qualitative HCI Research"
+    },
+    {
+      "paperId": "78529cc77299fc608cad98bd520f02603ad769f1",
+      "title": "Seeing the sounds ?"
+    },
+    {
+      "paperId": null,
+      "title": "Slice WIM"
+    },
+    {
+      "paperId": null,
+      "title": "pCubee"
+    },
+    {
+      "paperId": null,
+      "title": "Revising the factor structure of the Simulator Sicknesse Questionnaire"
+    },
+    {
+      "paperId": null,
+      "title": "Information-rich virtual environments"
+    }
+  ]
+}

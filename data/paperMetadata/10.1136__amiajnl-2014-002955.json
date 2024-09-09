@@ -1,0 +1,262 @@
+{
+  "paperId": "04e60a8e50720b81c11499723ab88965fc9d7090",
+  "externalIds": {
+    "DBLP": "journals/jamia/WestBH15",
+    "PubMedCentral": "4394966",
+    "MAG": "2122565800",
+    "DOI": "10.1136/amiajnl-2014-002955",
+    "CorpusId": 5988034,
+    "PubMed": "25336597"
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/04e60a8e50720b81c11499723ab88965fc9d7090",
+  "title": "Innovative information visualization of electronic health record data: a systematic review",
+  "abstract": "Objective This study investigates the use of visualization techniques reported between 1996 and 2013 and evaluates innovative approaches to information visualization of electronic health record (EHR) data for knowledge discovery. Methods An electronic literature search was conducted May\u2013July 2013 using MEDLINE and Web of Knowledge, supplemented by citation searching, gray literature searching, and reference list reviews. General search terms were used to assure a comprehensive document search. Results Beginning with 891 articles, the number of articles was reduced by eliminating 191 duplicates. A matrix was developed for categorizing all abstracts and to assist with determining those to be excluded for review. Eighteen articles were included in the final analysis. Discussion Several visualization techniques have been extensively researched. The most mature system is LifeLines and its applications as LifeLines2, EventFlow, and LifeFlow. Initially, research focused on records from a single patient and visualization of the complex data related to one patient. Since 2010, the techniques under investigation are for use with large numbers of patient records and events. Most are linear and allow interaction through scaling and zooming to resize. Color, density, and filter techniques are commonly used for visualization. Conclusions With the burgeoning increase in the amount of electronic healthcare data, the potential for knowledge discovery is significant if data are managed in innovative and effective ways. We identify challenges discovered by previous EHR visualization research, which will help researchers who seek to design and improve visualization techniques.",
+  "venue": "J. Am. Medical Informatics Assoc.",
+  "year": 2014,
+  "referenceCount": 48,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-10-21",
+  "journal": {
+    "name": "Journal of the American Medical Informatics Association : JAMIA",
+    "pages": "330 - 339",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{West2014InnovativeIV,\n author = {V. West and D. Borland and W. E. Hammond},\n booktitle = {J. Am. Medical Informatics Assoc.},\n journal = {Journal of the American Medical Informatics Association : JAMIA},\n pages = {330 - 339},\n title = {Innovative information visualization of electronic health record data: a systematic review},\n volume = {22},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "46539427",
+      "name": "V. West"
+    },
+    {
+      "authorId": "144364820",
+      "name": "D. Borland"
+    },
+    {
+      "authorId": "145618860",
+      "name": "W. E. Hammond"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6d85efd3b102027a0abcfcd9c50a0739fdd7f1f5",
+      "title": "The Five Ws for Information Visualization with Application to Healthcare Informatics"
+    },
+    {
+      "paperId": "8db1effc8b384e3b5ff84fc73065770d3f8783f2",
+      "title": "Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": "63b3b65667a2941f3fadef8949843569cbf44f39",
+      "title": "Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization"
+    },
+    {
+      "paperId": "58393c9e102ebaa65f164f5f436c797e1aa55506",
+      "title": "Exploiting time in electronic health record correlations"
+    },
+    {
+      "paperId": "58903c1cac1fe22abe74660dcff5139d66a80743",
+      "title": "Data Visualization Strategies for the Electronic Health Record"
+    },
+    {
+      "paperId": "755b1d77b7e1436dce7fafeb17e3e7c4f1fa38aa",
+      "title": "LifeFlow: visualizing an overview of event sequences"
+    },
+    {
+      "paperId": "f433289bbdaa28d8961a2830071e0b4ed2a3ae3a",
+      "title": "Visual information seeking in multiple electronic health records: design recommendations and a process model"
+    },
+    {
+      "paperId": "5969cb8facdbcb0d1d040725b6ce2d3500dd4841",
+      "title": "Temporal Information Systems in Medicine"
+    },
+    {
+      "paperId": "064d7416e52db8176979811a07e87cd09c600334",
+      "title": "Intelligent visualization and exploration of time-oriented data of multiple patients"
+    },
+    {
+      "paperId": "245831b1ba9fa32fdb224555b37533010af903e6",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement"
+    },
+    {
+      "paperId": "f78d76a5c6210b1b05da2a9c5b4bef640e22c023",
+      "title": "Problem-centric organization and visualization of patient imaging and clinical data."
+    },
+    {
+      "paperId": "60c25e862888f2af79b750a593cd8639bb327c51",
+      "title": "Evaluation of an architecture for intelligent query and exploration of time-oriented clinical data"
+    },
+    {
+      "paperId": "88659a25acb87f61fe5e3139ffe7786477955a4e",
+      "title": "Aligning temporal data by sentinel events: discovering patterns in electronic health records"
+    },
+    {
+      "paperId": "3c01441a24e0f4213e48ade6e804d67207a9b14a",
+      "title": "Lessons learned from the Veterans Health Administration."
+    },
+    {
+      "paperId": "3bac024d84b475ca31fb4f7c55b996df3afb5ef9",
+      "title": "Promoting Innovation and Competitiveness: President Bush's Technology Agenda"
+    },
+    {
+      "paperId": "bcc3fb8d0890b204c2577e25164ef414e3a2107c",
+      "title": "Intelligent visualization and exploration of time-oriented clinical data"
+    },
+    {
+      "paperId": "327c567b7e7c9dba12faa7f8e345f31c732ed9de",
+      "title": "LifeLines: using visualization to enhance navigation and analysis of patient records"
+    },
+    {
+      "paperId": "e7f5755d16cc32e0e04a7dfecfe03ebc69b84808",
+      "title": "Model-based visualization of temporal abstractions"
+    },
+    {
+      "paperId": "6c47a8d6a27c24ad2a5ad73e90eb2c6a54017be3",
+      "title": "LifeLines: visualizing personal histories"
+    },
+    {
+      "paperId": "c5ae7ea4f300c27e8aa1aa50439d07a66be4ba1d",
+      "title": "Graphical summary of patient status"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "a2a9159221ef0f7b3a6a16381c31e07b191bd348",
+      "title": "Workshop on Visual Analytics in Healthcare"
+    },
+    {
+      "paperId": null,
+      "title": "USA 2 The University of North Carolina at Chapel Hill, Chapel Hill"
+    },
+    {
+      "paperId": null,
+      "title": "J Am Med Inform Assoc Review"
+    },
+    {
+      "paperId": null,
+      "title": "Data Show Electronic Health Records Empower Patients and Equip Doctors"
+    },
+    {
+      "paperId": "bbe5f63e964a24d9079987dfa8790846c8dbba0e",
+      "title": "Interactive Intervention Analysis"
+    },
+    {
+      "paperId": "8ae788460e15d1b3cf9b2cd4d8a3ce0206cd98e4",
+      "title": "TwentyFive : An Interactive Visualization System for Data-Driven Decision Support"
+    },
+    {
+      "paperId": "7b9200ccf0b0818eb3626e7ad0cc11c372edf779",
+      "title": "Prognostic Physiology: Modeling Patient Severity in Intensive Care Units Using Radial Domain Folding"
+    },
+    {
+      "paperId": "5b609326557c715d9a195c9a630ef9ad80acff1c",
+      "title": "Challenges of Time-oriented Data in Visual Analytics for Healthcare"
+    },
+    {
+      "paperId": "2ec48fff60451205687a43cc6f7d17eccab8bd14",
+      "title": "Sim\u2022TwentyFive: An Interactive Visualization System for Data-Driven Decision Support"
+    },
+    {
+      "paperId": "a3f1063eac888d5d0b3b2a21e78ba9bfc715aa9d",
+      "title": "Visual cluster analysis in support of clinical decision intelligence."
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "acaed32791ba1befe97307b5fb1281102feb1577",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement."
+    },
+    {
+      "paperId": "972d198d5407515bcdee5ab7b569e0b041821369",
+      "title": "Intelligent Interactive Visual Exploration of Temporal Associations among Multiple Time-oriented Patient Records"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization techniques to support authoring, execution, and maintenance of clinical guidelines"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": null,
+      "title": "William Playfair and the psychology of graphs"
+    },
+    {
+      "paperId": "78df3639a395ad55561fc1b376280657f68ffd4a",
+      "title": "A Framework for Intelligent Visualization of Multiple Time-Oriented Medical Records"
+    },
+    {
+      "paperId": null,
+      "title": "State of the Union Address, Promoting Innovation and Competitiveness"
+    },
+    {
+      "paperId": null,
+      "title": "Executive Order: Incentives for the Use of Health Information Technology and Establishing the Position of the National Health Information Technology Coordinator. Press release,"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "25caf4d9d30102bc59631a363c31390270fa4cc9",
+      "title": "Florence Nightingale : measuring hospital care outcomes : excerpts from the books Notes on matters affecting the health, efficiency, and hospital administration of the British Army founded chiefly on the experience of the late war and Notes on hospitals"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": null,
+      "title": "The Engines of Our Ingenuity, Episode 1712: Nightingale's Graph. Podcasts between 1988\u20132002"
+    },
+    {
+      "paperId": "b83ac84394bc2658887872d3130e952ff003e201",
+      "title": "The statistical breviary : shewing, on a principle entirely new, the resources of every state and kingdom in Europe : illustrated with stained copper-plate charts, representing the physical powers of each distinct nation with ease and prespicuity"
+    },
+    {
+      "paperId": "c3f39f13f87a8f3563c55260debaa2791324c5c7",
+      "title": "Edward Tufte , an authority on the visual display Advancing Meaningful Use : Simplifying Complex Clinical Metrics Through Visual Representation"
+    },
+    {
+      "paperId": null,
+      "title": "AUTHOR AFFILIATIONS .................................................................................... 1 Duke Center for Health Informatics, Duke University, Durham, North Carolina, USA 2"
+    },
+    {
+      "paperId": "02b21a84128de522d21e29373552c07eb81b1373",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, MANUSCRIPT ID 1 The Five W\u2019s for Information Visualization with Application to Healthcare"
+    }
+  ]
+}

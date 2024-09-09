@@ -1,0 +1,297 @@
+{
+  "paperId": "268cf505fd2179fb6f0424b4c3c8dc1e333b726c",
+  "externalIds": {
+    "DBLP": "journals/cgf/MillerBK24",
+    "DOI": "10.1111/cgf.15113",
+    "CorpusId": 270418187
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/268cf505fd2179fb6f0424b4c3c8dc1e333b726c",
+  "title": "State of the Art of Graph Visualization in non\u2010Euclidean Spaces",
+  "abstract": "Visualizing graphs and networks in non\u2010Euclidean space can have benefits such as natural focus+context in hyperbolic space and the familiarity of interactions in spherical space. Despite work on these topics going back to the mid 1990s, there is no survey, or a part of a survey for this area of research. In this paper we review and categorize over 60 relevant papers and analyze them by geometry, (e.g., spherical, hyperbolic, torus), by contribution (e.g., technique, evaluation, proof, application), and by graph class (e.g., tree, planar, complex).",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2024,
+  "referenceCount": 59,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2024-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "43"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Miller2024StateOT,\n author = {Jacob Miller and Dhruv Bhatia and Stephen G. Kobourov},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art of Graph Visualization in non\u2010Euclidean Spaces},\n volume = {43},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2269710886",
+      "name": "Jacob Miller"
+    },
+    {
+      "authorId": "2305876382",
+      "name": "Dhruv Bhatia"
+    },
+    {
+      "authorId": "2269468293",
+      "name": "Stephen G. Kobourov"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "74c6b85436f2395bf082d255e2fc4d0680696f1c",
+      "title": "The Spherical Retractable Bubble Space: An Egocentric Graph Visualization throughout a Retractable Visualization Space"
+    },
+    {
+      "paperId": "5e37f4f3692c8413b856e5f9c3092d9881b7ce5e",
+      "title": "The State of the Art in Visualizing Dynamic Multivariate Networks"
+    },
+    {
+      "paperId": "26bc0739dd4e21a58e1fa97f519e135258f76697",
+      "title": "Reading Strategies for Graph Visualizations that Wrap Around in Torus Topology"
+    },
+    {
+      "paperId": "0c767c150b177b8d0fea7a6f1900390de0919ad5",
+      "title": "GAN\u2019SDA Wrap: Geographic And Network Structured DAta on surfaces that Wrap around"
+    },
+    {
+      "paperId": "0f191715be4c43b748a63b014e2ab1bacfbf90e7",
+      "title": "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space"
+    },
+    {
+      "paperId": "30ab4c9071b10e22717a6b385b220f40a363bc75",
+      "title": "Hyperbolic Deep Neural Networks: A Survey"
+    },
+    {
+      "paperId": "95bfd7bf35638b284c4515f43eff673c060a3cad",
+      "title": "Hyperbolic geometry of gene expression"
+    },
+    {
+      "paperId": "15827a8d91abcd211109abd9808e9cb0c1bc1dc3",
+      "title": "The State of the Art in Visualizing Multivariate Networks"
+    },
+    {
+      "paperId": "a45266c801b59005e01b6a8196ade8f0203dc0ac",
+      "title": "The State of the Art in Multilayer Network Visualization"
+    },
+    {
+      "paperId": "33b742794fe949b6b48cfa38a3dd8709aabbec5c",
+      "title": "Exploring the Limits of Complexity: A Survey of Empirical Studies on Graph Visualisation"
+    },
+    {
+      "paperId": "d0ae2fa05d6f04bd402418f29442e14079639b4d",
+      "title": "Maps and Globes in Virtual Reality"
+    },
+    {
+      "paperId": "33618275fcb19b0535d1b25d02b1d3f3d058de04",
+      "title": "Representation Tradeoffs for Hyperbolic Embeddings"
+    },
+    {
+      "paperId": "fec0420fb7c7a37d52a03ec76aacc54b79631f34",
+      "title": "Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane"
+    },
+    {
+      "paperId": "7b5a827dd4959961a9a645af6acf9c9e7bd1e33d",
+      "title": "Drawing Graphs on Few Circles and Few Spheres"
+    },
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "5808d9b4b763fb7e129aa58b69d7c8a4fcaa45e7",
+      "title": "Visualizing Group Structures in Graphs: A Survey"
+    },
+    {
+      "paperId": "adab4362dd12238ccf26f7684122dae528b10e36",
+      "title": "Graph Layouts by t\u2010SNE"
+    },
+    {
+      "paperId": "98c5afa2c7a3130ed0788aa1d5be1d62a9b10eca",
+      "title": "Community detection and stochastic block models: recent developments"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "7d53f6d57c130c6d3a0b345e4af00133bad3e1f9",
+      "title": "Graphs in Scientific Visualization: A Survey"
+    },
+    {
+      "paperId": "22751e7eedc695b50e2f9ac404301b74aad5a075",
+      "title": "A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization"
+    },
+    {
+      "paperId": "b7650f97e6f84e4308711e0eaa700fd81083315b",
+      "title": "Embedding graphs in Lorentzian spacetime"
+    },
+    {
+      "paperId": "89c74b1b8cc9d978f72065c171caa61910df59e0",
+      "title": "Drawing a disconnected graph on the torus (Extended abstract)"
+    },
+    {
+      "paperId": "7b888a7654f76a69e89ade49d441fad2277d8673",
+      "title": "Metric Embedding, Hyperbolic Space, and Social Networks"
+    },
+    {
+      "paperId": "79a5915425370afc429d60665eaebb277166286e",
+      "title": "A survey of two-dimensional graph layout techniques for information visualisation"
+    },
+    {
+      "paperId": "04e34900cb635a79543e19999d4eae678b869964",
+      "title": "The Graph Crossing Number and its Variants: A Survey"
+    },
+    {
+      "paperId": "492f2a6799cfbc2b384db8b2f791eacf68d6b203",
+      "title": "Hyperbolic Wheel: A Novel Hyperbolic Space Graph Viewer for Hierarchical Information Content"
+    },
+    {
+      "paperId": "eed358709757769823f10d4f6eed25c9db240237",
+      "title": "Design and Update of a Classification System: The UCSD Map of Science"
+    },
+    {
+      "paperId": "327e57d123081098007bc131b87991a780d2af58",
+      "title": "Graph embedding on spheres and its application to visualization of information diffusion data"
+    },
+    {
+      "paperId": "09f777633c36b09b9f2fc50447a2b866e80caa71",
+      "title": "Technical Section: The visualization of hyperbolic patterns from invariant mapping method"
+    },
+    {
+      "paperId": "78697cc739e0f8bf1811d7b90eebe74ebfea24da",
+      "title": "Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees"
+    },
+    {
+      "paperId": "ffc33a7dfda3c5457b06807683b0d24d5fcce39c",
+      "title": "GerbilSphere: Inner sphere network visualization"
+    },
+    {
+      "paperId": "c9318d0831b092b2eca3d3a823159c479c0e040a",
+      "title": "Succinct Greedy Geometric Routing Using Hyperbolic Geometry"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "ef8458353c245bbe3bcf81b055fe5313b93a9f66",
+      "title": "Hyperbolic Geometry of Complex Networks"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "b8d16d3bcbd3e64c825d3dea94d718485fa51f1c",
+      "title": "Multidimensional Scaling Using Majorization: SMACOF in R"
+    },
+    {
+      "paperId": "71603a73b908c36bcf03c586319ea7e274634546",
+      "title": "Graph clustering"
+    },
+    {
+      "paperId": "ec6aa73b625e35b5e28104735e01f11cdb5154c6",
+      "title": "Non-Eeuclidean spring embedders"
+    },
+    {
+      "paperId": "f267c90705d2fe83d3bbe030a3b9d7941b2322fc",
+      "title": "Topological fisheye views for visualizing large graphs"
+    },
+    {
+      "paperId": "1462a0d7dc4166f5361961a802371bcd97942bc0",
+      "title": "Texture Mapping via Spherical Multi-dimensional Scaling"
+    },
+    {
+      "paperId": "6d3af16f0512506b3244234b1045a4c6ba11a80e",
+      "title": "H-MDS: a new approach for interactive visualization with multidimensional scaling in the hyperbolic space"
+    },
+    {
+      "paperId": "be50a5750314a9f3edac5dff57af28d6cb5fdc9c",
+      "title": "Visualization of randomly ordered numeric data sets using spherical self-organizing feature maps"
+    },
+    {
+      "paperId": "be7e4c447ea27e0891397ae36d8957d3cbcea613",
+      "title": "Metrics for Graph Drawing Aesthetics"
+    },
+    {
+      "paperId": "994d0fb2459e24d66e3ddb87e2ac1501be1cdd40",
+      "title": "On interactive visualization of high-dimensional data using the hyperbolic plane"
+    },
+    {
+      "paperId": "fc1b2f0bfb43f2911bd9e75570e6808e2f679e39",
+      "title": "Roget2000: a 2D hyperbolic tree visualization of Roget's Thesaurus"
+    },
+    {
+      "paperId": "9d785be86a22af8a66f1182319e61c2cd41787ef",
+      "title": "Visualizing large hierarchical clusters in hyperbolic space"
+    },
+    {
+      "paperId": "b969cb9c6d62d30e71e05e06c163030649fa7b00",
+      "title": "Exploring Large Graphs in 3D Hyperbolic Space"
+    },
+    {
+      "paperId": "5941abe345d4bd1a5f15d6ee9142a111e6b18a2a",
+      "title": "A focus+context technique based on hyperbolic geometry for visualizing large hierarchies"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "e04108dc293c9cd7cabf32ee1524eaab0d4641b3",
+      "title": "Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis"
+    },
+    {
+      "paperId": "cfdc1798419b0dcc925d72847bc0d5f11b5ac08b",
+      "title": "Equilateral Spherical Drawings of Planar Cayley Graphs"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "1030d19474615ab4f2959118290e204e2f577bc1",
+      "title": "Drawing 4-Pfaffian graphs on the torus"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "75e0deca5214e5530159b8d39e0fe0b42e8c808c",
+      "title": "Visualizing multivariate network on the surface of a sphere"
+    },
+    {
+      "paperId": "0ca200545cc0c147aed2a1f2dabd02740d11a1d9",
+      "title": "Drawing Graphs on the Torus"
+    },
+    {
+      "paperId": "6b55c1f575570b916cdf0b9d6e2129b7a66128bd",
+      "title": "Visualizing the structure of the World Wide Web in 3D hyperbolic space"
+    },
+    {
+      "paperId": null,
+      "title": "Map color theorems"
+    }
+  ]
+}

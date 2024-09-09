@@ -1,0 +1,290 @@
+{
+  "paperId": "31291e8658eba2c25a03875e3d002844b6c90ebc",
+  "externalIds": {
+    "MAG": "2161560178",
+    "DBLP": "journals/jeric/ShafferCAASPE10",
+    "DOI": "10.1145/1821996.1821997",
+    "CorpusId": 207180400
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/31291e8658eba2c25a03875e3d002844b6c90ebc",
+  "title": "Algorithm Visualization: The State of the Field",
+  "abstract": "We present findings regarding the state of the field of Algorithm Visualization (AV) based on our analysis of a collection of over 500 AVs. We examine how AVs are distributed among topics, who created them and when, their overall quality, and how they are disseminated. There does exist a cadre of good AVs and active developers. Unfortunately, we found that many AVs are of low quality, and coverage is skewed toward a few easier topics. This can make it hard for instructors to locate what they need. There are no effective repositories of AVs currently available, which puts many AVs at risk for being lost to the community over time. Thus, the field appears in need of improvement in disseminating materials, propagating known best practices, and informing developers about topic coverage. These concerns could be mitigated by building community and improving communication among AV users and developers.",
+  "venue": "TOCE",
+  "year": 2010,
+  "referenceCount": 54,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2010-08-01",
+  "journal": {
+    "name": "ACM Trans. Comput. Educ.",
+    "pages": "9:1-9:22",
+    "volume": "10"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Shaffer2010AlgorithmVT,\n author = {C. Shaffer and Matthew L. Cooper and Alexander Joel D. Alon and Monika Akbar and Michael Stewart and Sean P. Ponce and S. Edwards},\n booktitle = {TOCE},\n journal = {ACM Trans. Comput. Educ.},\n pages = {9:1-9:22},\n title = {Algorithm Visualization: The State of the Field},\n volume = {10},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1758750",
+      "name": "C. Shaffer"
+    },
+    {
+      "authorId": "1989384429",
+      "name": "Matthew L. Cooper"
+    },
+    {
+      "authorId": "2078198801",
+      "name": "Alexander Joel D. Alon"
+    },
+    {
+      "authorId": "39008485",
+      "name": "Monika Akbar"
+    },
+    {
+      "authorId": "2067667261",
+      "name": "Michael Stewart"
+    },
+    {
+      "authorId": "31613718",
+      "name": "Sean P. Ponce"
+    },
+    {
+      "authorId": "1781540",
+      "name": "S. Edwards"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f62b08395b6ae0815b67d73373d486d92e3df582",
+      "title": "Data Structure Visualization"
+    },
+    {
+      "paperId": "d64d4627a57c446390f3e3fb5f8c503a0f405af7",
+      "title": "Sorting out sorting"
+    },
+    {
+      "paperId": "815a4cc779cb4e6807ff5ea2beacc6fb70055d1f",
+      "title": "Algorithm visualization: a report on the state of the field"
+    },
+    {
+      "paperId": "38a8a936f72ad415f0d2d3212ef31a7bed827826",
+      "title": "Merging interactive visualizations with hypertextbooks and course management"
+    },
+    {
+      "paperId": "e5db29c56b69b16c219e0f6ed96199192fa6e84d",
+      "title": "Effective features of algorithm visualizations"
+    },
+    {
+      "paperId": "aaa73eade12a8e39bf5be7bb6d3fe227e41b6bbf",
+      "title": "Evaluating the educational impact of visualization"
+    },
+    {
+      "paperId": "73dffb6b4bc05730bdd2a3f006fc426c4c831940",
+      "title": "Algorithm visualization in CS education: comparing levels of student engagement"
+    },
+    {
+      "paperId": "4758865275b87e4a8aabc7a182b5962a5bfab82a",
+      "title": "Exploring the role of visualization and engagement in computer science education"
+    },
+    {
+      "paperId": "9b5489aaf197393a14004c91c92f30bf6a3e77e1",
+      "title": "Open source software and computer science education"
+    },
+    {
+      "paperId": "ca5d01967f2c68e5bb9fcf1196f080e140ee0b28",
+      "title": "Library"
+    },
+    {
+      "paperId": "89fce010b5871569e4769f4fce964ed3ddf1b38d",
+      "title": "The ACM digital library"
+    },
+    {
+      "paperId": "d87cf40ffbc30c8627346b1cb3e4039d5a106690",
+      "title": "Rethinking the evaluation of algorithm animations as learning aids: an observational study"
+    },
+    {
+      "paperId": "4059e2e8e4357494638c3c4f8f3a013a9de07729",
+      "title": "Using visualizations to learn algorithms: should students construct their own, or view an expert's?"
+    },
+    {
+      "paperId": "5272f5a945f4373bf7c6f6aaeeb2ad242863c175",
+      "title": "The ANIMAL algorithm animation tool"
+    },
+    {
+      "paperId": "3d3f6ebcd0446691fe5810e110af0deb73abc04f",
+      "title": "javax.XXL: a prototype for a library of query processing algorithms"
+    },
+    {
+      "paperId": "7fddbf21c07c0047a7d014bc674443a9811b6f65",
+      "title": "Assessing the benefits of interactive prediction using Web-based algorithm animation courseware"
+    },
+    {
+      "paperId": "06e9b80efa973e60f39ffb3f3a7c418ea245052a",
+      "title": "JHAV\u00c9\u2014an environment to actively engage students in Web-based algorithm visualizations"
+    },
+    {
+      "paperId": "9adbaba66580c052eb583a584b7d10253a00c2b9",
+      "title": "An overview of program visualization tools and systems"
+    },
+    {
+      "paperId": "f5b8f59c6067667fc4111715761a69d7c174c40b",
+      "title": "Web-based animation of data structures using JAWAA"
+    },
+    {
+      "paperId": "120a1656011992225f2d1f7d91183d7d242dac37",
+      "title": "A Java-based implementation of collaborative active textbooks"
+    },
+    {
+      "paperId": "e3db72134d7fd5b5a054f78c72f389c676c4c6f8",
+      "title": "Re-place-ing space: the roles of place and space in collaborative systems"
+    },
+    {
+      "paperId": "95dc215eb3088619884c6bec6facc41c1c6d629a",
+      "title": "Testing effectiveness of algorithm animation"
+    },
+    {
+      "paperId": "58d480163c287e90326a8709e81b2c20376a2e19",
+      "title": "Using the Swan data structure visualization system for computer science education"
+    },
+    {
+      "paperId": "4a579c2aaf13a885d570c5698228b6d68e16b9ae",
+      "title": "Empirically evaluating the use of animations to teach algorithms"
+    },
+    {
+      "paperId": "d47eaceec0cbed9e6be518944581ae8413257d21",
+      "title": "A Methodology for Building Application-Specific Visualizations of Parallel Programs"
+    },
+    {
+      "paperId": "0432195f3d77401d2586711812fe78f137c85b53",
+      "title": "An introduction to Zeus: audiovisualization of some elementary sequential and parallel sorting algorithms"
+    },
+    {
+      "paperId": "a2e10e36e229ba7f135a4c16e37588890bff6060",
+      "title": "Animating algorithms with XTANGO"
+    },
+    {
+      "paperId": "26ca6eb2ae09eeee554b343474031ef7e619675b",
+      "title": "Something to say"
+    },
+    {
+      "paperId": "54466d0d62929cf3d9c780c4b2f477820669f073",
+      "title": "A system for algorithm animation"
+    },
+    {
+      "paperId": "798267808a947511e6db649d4ce562ff4a1f83d9",
+      "title": "Computers and education"
+    },
+    {
+      "paperId": null,
+      "title": "CHOLARLY"
+    },
+    {
+      "paperId": null,
+      "title": "ACM Transactions on Computing Education"
+    },
+    {
+      "paperId": null,
+      "title": "Annotated bibliography of the AV research literature"
+    },
+    {
+      "paperId": null,
+      "title": "MoinMoin Wiki Engine"
+    },
+    {
+      "paperId": "57213769ff9ee095c7d0476430d33e7e07fc11be",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": "58149750bcb72016468ef31ae5d7abb1a3d8cf67",
+      "title": "STRUTTURE DI DATI E ALGORITMI. PROGETTAZIONE, ANALISI E VISUALIZZAZIONE"
+    },
+    {
+      "paperId": null,
+      "title": "Animation repository"
+    },
+    {
+      "paperId": "00b7aa47752f9d8229b7845397cdf1938373a0b5",
+      "title": "Please address correspondence to"
+    },
+    {
+      "paperId": "3dccf8157f494c8809aa1a165eb6fd8f08998fac",
+      "title": "Designing for Virtual Communities in the Service of Learning: Community of Practice"
+    },
+    {
+      "paperId": "4e1ada0d1ef459c2adb22332cd2bcfcf6e72b8f1",
+      "title": "TRAKLA2: a Framework for Automatically Assessed Visual Algorithm Simulation Exercises"
+    },
+    {
+      "paperId": "259bd466aa33bbb9a0d32fa6da587594b6fbbeee",
+      "title": "MERLOT: Multimedia Educational Resource for Learning and Online Teaching"
+    },
+    {
+      "paperId": null,
+      "title": "Maryland spatial index demos"
+    },
+    {
+      "paperId": null,
+      "title": "POLKA animation system"
+    },
+    {
+      "paperId": null,
+      "title": "Algorithms in action"
+    },
+    {
+      "paperId": null,
+      "title": "Helping learners visualize and comprehend algorithms"
+    },
+    {
+      "paperId": "ad50b0c3fd86a765e5b8d9a7e2f2536c3d9c9f73",
+      "title": "Software visualization : programming as a multimedia experience"
+    },
+    {
+      "paperId": "02cc17f10f02df0f2f97bbad361061719fcace4c",
+      "title": "Hypertext Transfer Protocol - HTTP/1.1"
+    },
+    {
+      "paperId": "d5d1dbb5c270838ea2e5f72af5cb693c15999772",
+      "title": "Do Algorithm Animations Aid Learning"
+    },
+    {
+      "paperId": "8e3a0686449a47a5d3c198ad6caa9bd27918a9fb",
+      "title": "One-Stop Shopping."
+    },
+    {
+      "paperId": "110609371c1c877bd7352fa04c32ba65c8cc33f6",
+      "title": "Situated Learning: Legitimate Peripheral Participation"
+    },
+    {
+      "paperId": "dc3efff8f3928bd544daaa2e89eaa62d1a8e5c96",
+      "title": "Sorting out sorting"
+    },
+    {
+      "paperId": null,
+      "title": "External links. http://sigcse.org/resources/external-links"
+    },
+    {
+      "paperId": null,
+      "title": "Article 9, Pub. date: August 2010. Algorithm Visualization: The State of the Field"
+    },
+    {
+      "paperId": null,
+      "title": "W Received June 2009; revised August 2009, March 2010, April 2010; accepted April 2010"
+    }
+  ]
+}

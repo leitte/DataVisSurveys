@@ -1,0 +1,252 @@
+{
+  "paperId": "44cb1910be9b2362b2b6bb757f4eeab62546c177",
+  "externalIds": {
+    "DBLP": "journals/cgf/DasguptaCK12",
+    "MAG": "2082350117",
+    "DOI": "10.1111/j.1467-8659.2012.03094.x",
+    "CorpusId": 15386034
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/44cb1910be9b2362b2b6bb757f4eeab62546c177",
+  "title": "Conceptualizing Visual Uncertainty in Parallel Coordinates",
+  "abstract": "Uncertainty is an intrinsic part of any visual representation in visualization, no matter how precise the input data. Existing research on uncertainty in visualization mainly focuses on depicting data\u2010space uncertainty in a visual form. Uncertainty is thus often seen as a problem to deal with, in the data, and something to be avoided if possible. In this paper, we highlight the need for analyzing visual uncertainty in order to design more effective visual representations. We study various forms of uncertainty in the visual representation of parallel coordinates and propose a taxonomy for categorizing them. By building a taxonomy, we aim to identify different sources of uncertainty in the screen space and relate them to different effects of uncertainty upon the user. We examine the literature on parallel coordinates and apply our taxonomy to categorize various techniques for reducing uncertainty. In addition, we consider uncertainty from a different perspective by identifying cases where increasing certain forms of uncertainty may even be useful, with respect to task, data type and analysis scenario. This work suggests that uncertainty is a feature that can be both useful and problematic in visualization, and it is beneficial to augment an information visualization pipeline with a facility for visual uncertainty analysis.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2012,
+  "referenceCount": 47,
+  "openAccessPdf": {
+    "url": "http://kosara.net/papers/2012/Dasgupta_EuroVis_2012.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2012-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "31"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Dasgupta2012ConceptualizingVU,\n author = {Aritra Dasgupta and Min Chen and Robert Kosara},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Conceptualizing Visual Uncertainty in Parallel Coordinates},\n volume = {31},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2333777",
+      "name": "Aritra Dasgupta"
+    },
+    {
+      "authorId": "12134086",
+      "name": "Min Chen"
+    },
+    {
+      "authorId": "1774937",
+      "name": "Robert Kosara"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "5999da65c7138cdb41f880fc87e4ee13cd5de517",
+      "title": "Visualizing uncertainty in biological expression data"
+    },
+    {
+      "paperId": "753f679fd2dba8f34031e9fe4e8404a6e2a1d0a9",
+      "title": "Adaptive Privacy-Preserving Visualization Using Parallel Coordinates"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "de409fc60209245b215465d31ef00a21ebfc2531",
+      "title": "Pargnostics: Screen-Space Metrics for Parallel Coordinates"
+    },
+    {
+      "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+      "title": "An Information-theoretic Framework for Visualization"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "f163c1e9ed62e50d45477369f8736cb64bf7ec66",
+      "title": "Effects of Crossing Angles"
+    },
+    {
+      "paperId": "e2add84ee57a3252ced5f4aefae34b76a7c93304",
+      "title": "Theoretical Foundations of Information Visualization"
+    },
+    {
+      "paperId": "63e7f57209fcc94ffc4fabc694b9e0621d357817",
+      "title": "How to Measure Anything: Finding the Value of \"Intangibles\" in Business"
+    },
+    {
+      "paperId": "90a6ec14c0ca86f07f56932a2cc66b6c4eb6b726",
+      "title": "Outlier-Preserving Focus+Context Visualization in Parallel Coordinates"
+    },
+    {
+      "paperId": "c4d4e61da9ed1952598bb40f5dbfcbafac27d4f3",
+      "title": "Measuring Data Abstraction Quality in Multiresolution Visualizations"
+    },
+    {
+      "paperId": "34e6f2c359e82d5805f75df678aa08d09b37473c",
+      "title": "Enabling Automatic Clutter Reduction in Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "2eef217606f11b80bd7cbb18716c30f7bc371a9a",
+      "title": "Visual quality metrics"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "65f8676b814ce6be03b6c734a5a29ede1550af31",
+      "title": "The sampling lens: making sense of saturated visualisations"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "ad1c3a983575021a653720dd98e36b0943ef4382",
+      "title": "Uncovering Clusters in Crowded Parallel Coordinates Visualizations"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "503ae371b457eb2e80410f806e497701b0dc7201",
+      "title": "Parallel coordinates for exploring properties of subsets"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "a25ced4ba1001a406df00a30bd05e9db0d5c49f9",
+      "title": "Uncertainty-based information: Elements of generalized information theory (studies in fuzziness and soft computing)."
+    },
+    {
+      "paperId": "064419c16051255d3e6b7d1e36d1fed3a524bf4e",
+      "title": "UFLOW: visualizing uncertainty in fluid flow"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "83bb37a06a964fe4af17002e1a546be78e01431e",
+      "title": "Hyperdimensional Data Analysis Using Parallel Coordinates"
+    },
+    {
+      "paperId": "a54194422c56399b2923b2ad706b8175c8c48258",
+      "title": "A mathematical theory of communication"
+    },
+    {
+      "paperId": "a29e149d55a1d956dd140477e1dbfc57ed7fbac4",
+      "title": "Embedding Information Visualization within Visual Representation"
+    },
+    {
+      "paperId": null,
+      "title": "Visual clustering in parallel coordinates The Author(s) c 2012 The Eurographics Association and"
+    },
+    {
+      "paperId": "6d12a1d23b21a9b170118a56386552bc5d4727de",
+      "title": "A Mathematical Theory of Communication"
+    },
+    {
+      "paperId": "e00bd0af323d1f2f8748d5ceeaaa487818e009c4",
+      "title": "Uncertainty Visualization Methods in Isosurface Rendering"
+    },
+    {
+      "paperId": "0a880e0f2d04a7cd1323fde3fc32f5fdcca509f5",
+      "title": "Constructing Parallel Coordinates Plot for Problem Solving"
+    },
+    {
+      "paperId": "4921335d6788ebb0c2476830634bbe0e27f9458b",
+      "title": "Uncertainty-Based Information"
+    },
+    {
+      "paperId": "2a7504ee41d4a60d6be9cdede0c087f2296e87ed",
+      "title": "Accuracy in 3D Particle Tracing"
+    },
+    {
+      "paperId": "86f8335122b571822e5e4935e94f8d4e2166a6c7",
+      "title": "High Dimensional Clustering Using Parallel Coordinates and the Grand Tour"
+    },
+    {
+      "paperId": null,
+      "title": "Arti\ufb01cial intelligence: a modern approach"
+    },
+    {
+      "paperId": "8052824854a908737129f0eb2486fe39278958a3",
+      "title": "Three Types of Perceived Uncertainty About the Environment: State, Effect, and Response Uncertainty"
+    },
+    {
+      "paperId": "de1f2d5fe39cf7bea6251d13cef3927b159addae",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 a Screen Space Quality Method for Data Abstraction"
+    },
+    {
+      "paperId": "44ae152a69566a66c1daf9c251a0615b601bca51",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Splatting the Lines in Parallel Coordinates"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    }
+  ]
+}

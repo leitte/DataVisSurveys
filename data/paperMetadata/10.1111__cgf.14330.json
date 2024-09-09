@@ -1,0 +1,981 @@
+{
+  "paperId": "0e44f7092a30bf12edca41270b016ab508b0a173",
+  "externalIds": {
+    "DBLP": "journals/cgf/DjavaherpourSMY21",
+    "ArXiv": "2102.11175",
+    "DOI": "10.1111/cgf.14330",
+    "CorpusId": 231986474
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/0e44f7092a30bf12edca41270b016ab508b0a173",
+  "title": "Data to Physicalization: A Survey of the Physical Rendering Process",
+  "abstract": "Physical representations of data offer physical and spatial ways of looking at, navigating, and interacting with data. While digital fabrication has facilitated the creation of objects with data\u2010driven geometry, rendering data as a physically fabricated object is still a daunting leap for many physicalization designers. Rendering in the scope of this research refers to the back\u2010and\u2010forth process from digital design to digital fabrication and its specific challenges. We developed a corpus of example data physicalizations from research literature and physicalization practice. This survey then unpacks the \u201crendering\u201d phase of the extended InfoVis pipeline in greater detail through these examples, with the aim of identifying ways that researchers, artists, and industry practitioners \u201crender\u201d physicalizations using digital design and fabrication tools.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 224,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-03440273/file/Data_to_Physicalization__author_version_compressed.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-02-22",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "40"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Djavaherpour2021DataTP,\n author = {Hessam Djavaherpour and F. Samavati and Ali Mahdavi-Amiri and Fateme Yazdanbakhsh and Samuel Huron and Richard Levy and Yvonne Jansen and L. Oehlberg},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Data to Physicalization: A Survey of the Physical Rendering Process},\n volume = {40},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "17353032",
+      "name": "Hessam Djavaherpour"
+    },
+    {
+      "authorId": "1699541",
+      "name": "F. Samavati"
+    },
+    {
+      "authorId": "1399132068",
+      "name": "Ali Mahdavi-Amiri"
+    },
+    {
+      "authorId": "1699573349",
+      "name": "Fateme Yazdanbakhsh"
+    },
+    {
+      "authorId": "1813823",
+      "name": "Samuel Huron"
+    },
+    {
+      "authorId": "2067630659",
+      "name": "Richard Levy"
+    },
+    {
+      "authorId": "145952920",
+      "name": "Yvonne Jansen"
+    },
+    {
+      "authorId": "1760608",
+      "name": "L. Oehlberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "530f615679505479908b11b17631143937ea0816",
+      "title": "Digital Fabrication in Architecture"
+    },
+    {
+      "paperId": "7fdefc414c0caf857d2e316426d60e1e8c3464e5",
+      "title": "VDAC"
+    },
+    {
+      "paperId": "ee4d2bffb19d812e8068bc722d64f4a5b0027c31",
+      "title": "Shape approximation by developable wrapping"
+    },
+    {
+      "paperId": "3c062841a5a845e355bb7446999b34d3a5ce8488",
+      "title": "Geospatial Physicalization in Geography Education"
+    },
+    {
+      "paperId": "9175ce09761d59daa3eac6052ce7e07c18bb5cbc",
+      "title": "Data Physicalization"
+    },
+    {
+      "paperId": "ecbbefd43973385624c07f82167d96affa975339",
+      "title": "The Anatomical Edutainer"
+    },
+    {
+      "paperId": "4afea4a94a82681cd48870176bbe276b5810d843",
+      "title": "Slice and Dice: A Physicalization Workflow for Anatomical Edutainment"
+    },
+    {
+      "paperId": "2613b8102cee7d9ebd2affaf99729d27c1b06908",
+      "title": "Shelfie: A Framework for Designing Material Representations of Physical Activity Data"
+    },
+    {
+      "paperId": "47d5781221a15499c8c0b93313f64effd50c09cf",
+      "title": "Smell walking and mapping"
+    },
+    {
+      "paperId": "9c17c2fc51f14d0a2ddb75c8afafaaaa5e979047",
+      "title": "Data in Context: Engaging Audiences with 3D Physical Geo-Visualization"
+    },
+    {
+      "paperId": "10b7d8af7422d91a42bd2806bf56d1f43ae35afa",
+      "title": "Saturation"
+    },
+    {
+      "paperId": "03a32b1b4c383286203305032348adced427ecd7",
+      "title": "Physicalizing cardiac blood flow data via 3D printing"
+    },
+    {
+      "paperId": "54a0a8fb9b5ab33e80c4bb5fb2c9f004c107c49f",
+      "title": "Encoding Materials and Data for Iterative Personalization"
+    },
+    {
+      "paperId": "190becf516af395edd046668dbabc7ebb8f5536d",
+      "title": "Computational Design of Steady 3D Dissection Puzzles"
+    },
+    {
+      "paperId": "edd8cce8d4572bd1910d71fc7e9412e8c5afb4a1",
+      "title": "Data Embroidery: Exploring Alternative Mediums for Personal Physicalization"
+    },
+    {
+      "paperId": "58565e1c0f1cdf8825da3a7501d944429fd94d8a",
+      "title": "Single\u2010View Modeling of Layered Origami with Plausible Outer Shape"
+    },
+    {
+      "paperId": "0670b47127aeb70ecb52beb4559d5e3317204d34",
+      "title": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots"
+    },
+    {
+      "paperId": "5a0bd4ecfa14298624cb43793e8fd7b933e90194",
+      "title": "Construction and fabrication of reversible shape transforms"
+    },
+    {
+      "paperId": "f909b113c5c058d57ace672fc22b17a3a46a3c81",
+      "title": "A Quantitative Perceptual Model for Tactile Roughness"
+    },
+    {
+      "paperId": "71bd99d69a5e7abe1ab2822f1f60ba53c2e926b1",
+      "title": "MoSculp: Interactive Visualization of Shape and Time"
+    },
+    {
+      "paperId": "2ff20db361a47aef73735fd33d72af01a00f44ee",
+      "title": "Data Tectonics: A Framework for Building Physical and Immersive Data Representations"
+    },
+    {
+      "paperId": "c4a71adf31ea479968de624cf964691ede5bfedc",
+      "title": "You say Potato, I say Po-Data: Physical Template Tools for Authoring Visualizations"
+    },
+    {
+      "paperId": "bfd05f69ae43585a6dd9efb40395c77e87254b67",
+      "title": "Robotype: Studies of Kinetic Typography by Robot Display for Expressing Letters, Time and Movement"
+    },
+    {
+      "paperId": "65ee423c4960f74aca51a933cbb093d3b3854f59",
+      "title": "Data Materialization: A Hybrid Process of Crafting a Teapot"
+    },
+    {
+      "paperId": "4daef1ce4880d48998c387294e782cb213ef732b",
+      "title": "Weather Report: A Site-Specific Artwork Interweaving Human Experiences and Scientific Data Physicalization"
+    },
+    {
+      "paperId": "1fcaa9e1b7dd674d963d3d3a7a67e7e1c8951252",
+      "title": "Creating Foldable Polyhedral Nets Using Evolution Control"
+    },
+    {
+      "paperId": "9f1c2a2d45595cb17e8863557b3b4131347cc9f0",
+      "title": "Landscaper: A Modeling System for 3D Printing Scale Models of Landscapes"
+    },
+    {
+      "paperId": "ad448add0f28ef048c59f0db8b4f8d27027a413b",
+      "title": "Making data matter: Voxel printing for the digital fabrication of data across scales and domains"
+    },
+    {
+      "paperId": "9c73abdce1c641332a5b9521bb6241b2e2a12db8",
+      "title": "String Art: Towards Computational Fabrication of String Images"
+    },
+    {
+      "paperId": "765da2d0f335447a4149343f416678ce13e88bd7",
+      "title": "Recent Advances in Projection Mapping Algorithms, Hardware and Applications"
+    },
+    {
+      "paperId": "91549a7c684cbc89ec6e19b54f3afc08e44c1534",
+      "title": "Watercolor Woodblock Printing with Image Analysis"
+    },
+    {
+      "paperId": "f594218370f52023c34a3f3e05726372399526da",
+      "title": "Digital Konditorei: Programmable Taste Structures using a Modular Mold"
+    },
+    {
+      "paperId": "7da09b731b00ab011bd320075f2c970e17f15af4",
+      "title": "Tangible Landscape: A Hands-on Method for Teaching Terrain Analysis"
+    },
+    {
+      "paperId": "32a29ee3099582d47d6ab4ebd6e88979ef187be2",
+      "title": "Exploring the Value of Parent Tracked Baby Data in Interactions with Healthcare Professionals: A Data-Enabled Design Exploration"
+    },
+    {
+      "paperId": "97910ec5b6d089a0fb206cf533d0bb11c8809eed",
+      "title": "PEP (3D Printed Electronic Papercrafts): An Integrated Approach for 3D Sculpting Paper-Based Electronic Devices"
+    },
+    {
+      "paperId": "fd6cfcabe3290a078ccde5c274c59032060d46a5",
+      "title": "Self-Reflection and Personal Physicalization Construction"
+    },
+    {
+      "paperId": "50fcee061a4ac45c2db683adba93826562eca3fd",
+      "title": "Objektivisering: Text Physicalization and Self-introspective Post-digital Objecthood"
+    },
+    {
+      "paperId": "dd173e812024b9e5c5ded6f579fd0b990af28a28",
+      "title": "Designing an Expandable Illuminated Ring to Build an Actuated Ring Chart"
+    },
+    {
+      "paperId": "44ee3f3c8c838366891b674dee76d6b0efb59c68",
+      "title": "\u201cIt\u2019s like holding a human heart\u201d: the design of Vital + Morph, a shape-changing interface for remote monitoring"
+    },
+    {
+      "paperId": "8469522339284e48e486f7f2ef7fd5d9184a5e9d",
+      "title": "Hands-On Data Analysis: Using 3D Printing To Visualize Reaction Progress Surfaces"
+    },
+    {
+      "paperId": "a690889c07f409d50a6a2c5f286a7af8e89a7057",
+      "title": "Cairn: A Tangible Apparatus for Situated Data Collection, Visualization and Analysis"
+    },
+    {
+      "paperId": "af0adeef96b61855923a3f2ddfc475602edf7d95",
+      "title": "Pedagogy & Physicalization: Designing Learning Activities around Physical Data Representations"
+    },
+    {
+      "paperId": "2dd834ddf8c7f1b0b6de23b381f4ecf4276d3b69",
+      "title": "PolySurface: A Design Approach for Rapid Prototyping of Shape-Changing Displays Using Semi-Solid Surfaces"
+    },
+    {
+      "paperId": "feebcd1b2648c71e354b8e9fd24c45986511293e",
+      "title": "Let's Get Physical: Promoting Data Physicalization in Workshop Formats"
+    },
+    {
+      "paperId": "b2d61ede3ddc7b773d4cceca495f59cd894831d9",
+      "title": "3D Printing of Molecular Models with Calculated Geometries and p Orbital Isosurfaces"
+    },
+    {
+      "paperId": "91abcc3506d3c589f3bf61f3f3701f918591113f",
+      "title": "From medical imaging data to 3D printed anatomical models"
+    },
+    {
+      "paperId": "b22e5f4e0545fb5505d50e7bdd45b32eb43d102b",
+      "title": "Building with Data: Architectural Models as Inspiration for Data Physicalization"
+    },
+    {
+      "paperId": "a9b72663b5807e91d51f4f30a2c230c1b812ebb5",
+      "title": "EdiPulse: Investigating a Playful Approach to Self-monitoring through 3D Printed Chocolate Treats"
+    },
+    {
+      "paperId": "9b5a9c1e8c405f57eb7b4a32d6cb1432d3f8b232",
+      "title": "From 3D models to 3D prints: an overview of the processing pipeline"
+    },
+    {
+      "paperId": "9d1045eecac4ed5e9440d666547c93c7f4d3cc2b",
+      "title": "Physical Visualization of Geospatial Datasets"
+    },
+    {
+      "paperId": "86a2299ddb1bc93702cacc0ba15f9a07d661eae7",
+      "title": "State of the Art in Methods and Representations for Fabrication\u2010Aware Design"
+    },
+    {
+      "paperId": "40b42c5c0a844eca6335a70c2d681a8c963337de",
+      "title": "Introducing Architectural Tectonics: Exploring the Intersection of Design and Construction"
+    },
+    {
+      "paperId": "a68fc8871593e3fc9b0e5d754f533ba8b89c8c83",
+      "title": "Zooids: Building Blocks for Swarm User Interfaces"
+    },
+    {
+      "paperId": "3de2f9f0523c37d1e282a711d00c584ab11c48ee",
+      "title": "Aesthetic physical items for visualizing personal sleep data"
+    },
+    {
+      "paperId": "0bee1a3fed5b5434a9a6aca7641fa518cc6889ea",
+      "title": "Deletion Process_Only you can see my history: Investigating Digital Privacy, Digital Oblivion, and Control on Personal Data Through an Interactive Art Installation"
+    },
+    {
+      "paperId": "dfc36dc48de593429c9436e36d605c9c0a3ea4f0",
+      "title": "Computational thermoforming"
+    },
+    {
+      "paperId": "bfca296756afccbe31d29567f607e96a5f9c7c7d",
+      "title": "ZoeMatrope"
+    },
+    {
+      "paperId": "bc6360bf6cbdbfa4dbc4e6e178b12ea9dea15439",
+      "title": "Go and Grow: Mapping Personal Data to a Living Plant"
+    },
+    {
+      "paperId": "0b22369278dbd6d158ccd8eed1321354653c107e",
+      "title": "Fantibles: Capturing Cricket Fan's Story in 3D"
+    },
+    {
+      "paperId": "629373b735326df73c28364118d28e66689de3b6",
+      "title": "Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles"
+    },
+    {
+      "paperId": "6a1d9f54056cbfd2267a5b3618a66a6d8aeea335",
+      "title": "Physikit: Data Engagement Through Physical Ambient Visualizations in the Home"
+    },
+    {
+      "paperId": "a537974a936f7d03bb8211cc801934dc3c11259d",
+      "title": "ChronoFab: Fabricating Motion"
+    },
+    {
+      "paperId": "3a206c4cd397bc41335615f30fb38292b58ba6b7",
+      "title": "Floating charts: Data plotting using free-floating acoustically levitated representations"
+    },
+    {
+      "paperId": "779539af572329cabe390c54707d4eb1c2423446",
+      "title": "A Survey of Digital Earth"
+    },
+    {
+      "paperId": "69ca98a071955c90aa2cd1c591971ddc2bde1133",
+      "title": "PLANWELL: spatial user interface for collaborative petroleum well-planning"
+    },
+    {
+      "paperId": "e8c2a6279f7c8d20e6f1280667bc1d3d0c0b8e1c",
+      "title": "Printed Perforated Lampshades for Continuous Projective Images"
+    },
+    {
+      "paperId": "d2e908c4d84393d699620908c82cb8ee5819e986",
+      "title": "By-example synthesis of structurally sound patterns"
+    },
+    {
+      "paperId": "4a7ef3fcd12ee4f8c631ec7de4fed8d996d169f9",
+      "title": "Computational hydrographic printing"
+    },
+    {
+      "paperId": "ec7c8ddce27d1b81303159257606d6e263f1472e",
+      "title": "Cover-it: an interactive system for covering 3d prints"
+    },
+    {
+      "paperId": "d34a06dabccdcdc8211dcc988c70a27b4bce46d5",
+      "title": "Patina Engraver: Visualizing Activity Logs as Patina in Fashionable Trackers"
+    },
+    {
+      "paperId": "8b7cf6f746cf9ec74bf5b1479f3c6c46b35f0906",
+      "title": "Data-Things: Digital Fabrication Situated within Participatory Data Translation Activities"
+    },
+    {
+      "paperId": "ee6389a246458a56f141b27d7d1d1a3cb74a291e",
+      "title": "TastyBeats: Designing Palatable Representations of Physical Activity"
+    },
+    {
+      "paperId": "ddabac98cf902f8cb24c699f4d9f210e766d9503",
+      "title": "bioLogic: Natto Cells as Nanoactuators for Shape Changing Interfaces"
+    },
+    {
+      "paperId": "59560c20f01d36a7f383b2220d27cb8356d7eb7b",
+      "title": "Exploring Interactions with Physically Dynamic Bar Charts"
+    },
+    {
+      "paperId": "0db9c52d0dface8338787f841df189b9059eeed5",
+      "title": "Evaluating the Memorability of Physical Visualizations"
+    },
+    {
+      "paperId": "0756ccde47374f4e27c49bdf42cbfd4e13f2280d",
+      "title": "Opportunities and Challenges for Data Physicalization"
+    },
+    {
+      "paperId": "8999a241c3481e102b8c337119f63f0eb00fabe9",
+      "title": "Novel Physical Representations for the Visualisation of Science Data and Mathematics"
+    },
+    {
+      "paperId": "7b66991768f9bfb71ab0e53201b4cee840954b2a",
+      "title": "3D printing meets computational astrophysics: deciphering the structure of \u03b7 Carinae's inner colliding winds"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "664310e93c0bc8119cee855635947d26ccfcf8fb",
+      "title": "Activity Sculptures: Exploring the Impact of Physical Visualizations on Running Activity"
+    },
+    {
+      "paperId": "3076a44e352050e548127d10a64c7cab3082c748",
+      "title": "Constructing Visual Representations: Investigating the Use of Tangible Tokens"
+    },
+    {
+      "paperId": "3dfd6e5f1b5736b11b06abd5522436e434bf28b1",
+      "title": "Nervous Ether: Soft Aggregates, Interactive Skins"
+    },
+    {
+      "paperId": "085e9a24147048a0169f49aed75143fa08d38819",
+      "title": "A Piece of the Pie Chart: Feminist Robotics"
+    },
+    {
+      "paperId": "4ffc6260ab29faebdeb630d2529645d9fd41d06b",
+      "title": "Design of a Tangible Data Visualization"
+    },
+    {
+      "paperId": "d28644384fd646fbf5942b0e74d38d2f7394cfa5",
+      "title": "Constructive visualization"
+    },
+    {
+      "paperId": "9881d8c5b99d44cd45606cc78cdfa4845d9e345e",
+      "title": "Understanding physical activity through 3D printed material artifacts"
+    },
+    {
+      "paperId": "3d1bdc5511669b571aa2fa47fbe78f6b88b335b3",
+      "title": "Supporting the design and fabrication of physical visualizations"
+    },
+    {
+      "paperId": "4842caf01a4f5d68234b39d6acf16ade5ec8bf9d",
+      "title": "Metaphone: machine aesthetics meets interaction design"
+    },
+    {
+      "paperId": "f11c7061c9d16f84eafbcd101f56fe9cc72bf161",
+      "title": "LuminoCity: a 3D printed, illuminated city generated from LADAR data"
+    },
+    {
+      "paperId": "56fb81e01cb6791f48613e80c9b7b9c6534e0dfb",
+      "title": "Physical and tangible information visualization"
+    },
+    {
+      "paperId": "d530bfe9b4bdf0558cdf7f3d23ba1f82a7afd959",
+      "title": "Tracking @stemxcomet: teaching programming to blind students via 3D printing, crisis management, and twitter"
+    },
+    {
+      "paperId": "aae963559b89c13173b220e8c82250f1696cabd5",
+      "title": "Datenreise: digital bits made tangible"
+    },
+    {
+      "paperId": "c7bb3ca761c23892a95fcee998fd881e26b41df9",
+      "title": "Surface and contour-preserving origamic architecture paper pop-ups"
+    },
+    {
+      "paperId": "6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+      "title": "An Interaction Model for Visualizations Beyond The Desktop"
+    },
+    {
+      "paperId": "426fed45f7759f88113afdfcc641728599aa6a40",
+      "title": "Fabricating 3D Figurines with Personalized Faces"
+    },
+    {
+      "paperId": "83b281ee37928539111a4e72478f25101446184f",
+      "title": "inFORM: dynamic physical affordances and constraints through shape and object actuation"
+    },
+    {
+      "paperId": "05d3863661d1f116e9325b11dee1bf579150bda0",
+      "title": "Parametric Design for Architecture"
+    },
+    {
+      "paperId": "2abb5f9d470543cc008237e0ee5c29905277814f",
+      "title": "Illustrating Mathematics using 3D Printers"
+    },
+    {
+      "paperId": "7f6894b280aabbb3c18e45cc0098fbafdbbeaf9b",
+      "title": "Computational Fabrication and Display of Material Appearance"
+    },
+    {
+      "paperId": "424d0d3d100201cb08d43d15610a99ac36414159",
+      "title": "Evaluating the efficiency of physical visualizations"
+    },
+    {
+      "paperId": "e15d794f32c393df0e4bef42a2b01101f11b2fad",
+      "title": "Digital Fabrication of Acoustic Sonifications"
+    },
+    {
+      "paperId": "e772d463dc0e43dabbe4108ca977d35eec5872a6",
+      "title": "3D Printing \nfor Mathematical Visualisation"
+    },
+    {
+      "paperId": "bd2b611b891b15cf3e43b470958cfc7831782d08",
+      "title": "Enhancing the understanding of statistical data through the creation of physical objects"
+    },
+    {
+      "paperId": "da99920bc0637e28f428960fed1ba1eacf5aef53",
+      "title": "Soundspheres: Resonant Chamber"
+    },
+    {
+      "paperId": "71d4ff6d07237650b9e9e8875149d518f8e69e71",
+      "title": "Within an Ocean of Light: Creating Volumetric Lightscapes"
+    },
+    {
+      "paperId": "6b21485179de3983131a57ed69006d11c10c079a",
+      "title": "Projection Augmented Relief Models (PARM): tangible displays for geographic information"
+    },
+    {
+      "paperId": "8fd769f965c94533e4cc8a694e578b553c2af279",
+      "title": "Shape-changing interfaces: a review of the design space and open research questions"
+    },
+    {
+      "paperId": "d2dd67856fac73a63bfd00f4df2ecd7815aaebbe",
+      "title": "VizTouch: automatically generated tactile visualizations of coordinate spaces"
+    },
+    {
+      "paperId": "832cc86b886cafb3f3a95a80bf925a430c2ecb57",
+      "title": "Direct and gestural interaction with relief: a 2.5D shape display"
+    },
+    {
+      "paperId": "be40ba221266e97c9a384a377f96dd0f5116d851",
+      "title": "ZeroN: mid-air tangible interaction enabled by computer controlled magnetic levitation"
+    },
+    {
+      "paperId": "fff3943a8a1423b3080330febea7e399086d4841",
+      "title": "Optimized Topological Surgery for Unfolding 3D Meshes"
+    },
+    {
+      "paperId": "849a14c55c5ccce2928888efa43ea10997f9e317",
+      "title": "Sketch-based Interfaces and Modeling"
+    },
+    {
+      "paperId": "dc2226a8684f21c5ee2a4ef0ce6b4efff389f925",
+      "title": "TanGeoMS: Tangible Geospatial Modeling System"
+    },
+    {
+      "paperId": "69a79b691de0c92494c7c30cc39b2f806e626de0",
+      "title": "Image-assisted modeling from sketches"
+    },
+    {
+      "paperId": "9d90241f5fde8a88b67be165ce5a2386176240f8",
+      "title": "Shadow art"
+    },
+    {
+      "paperId": "4f3c99c12990994f34ed7d0565cf13a035617c7d",
+      "title": "The Physical Visualization of Information: Designing Data Sculptures in an Educational Context"
+    },
+    {
+      "paperId": "2a71eff2567118fc1ee1b6257f51a1e87ef2dd65",
+      "title": "Beyond the Tyranny of the Pixel: Exploring the Physicality of Information Visualization"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "88fa9dda1aeb4e8673a2a9ed4b431c0195a1a728",
+      "title": "Visualization Criticism - The Missing Link Between Information Visualization and Art"
+    },
+    {
+      "paperId": "cc860dd28547adadd64eb99bdc0f0f548fd2c05a",
+      "title": "Paper craft models from meshes"
+    },
+    {
+      "paperId": "bef2c9cfdc2f7ce88372f4fad525de9cbd148d76",
+      "title": "3-Axis CNC Milling in Architectural Design"
+    },
+    {
+      "paperId": "84e2b359571adb0a1d2984e5211ba74c0670596a",
+      "title": "Tangible interfaces for structural molecular biology."
+    },
+    {
+      "paperId": "105f4e090a857e8c7f8e56c5c834ef2fd648885b",
+      "title": "Computer-linked autofabricated 3D models for teaching structural biology"
+    },
+    {
+      "paperId": "9063f812ff5cce96a14ebf63ac80b06b92dc7d62",
+      "title": "Infotropism: living and robotic plants as interactive displays"
+    },
+    {
+      "paperId": "5009de72d31c4f5932fc86ea244fbc0b617a8804",
+      "title": "Architecture in the Digital Age: Design and Manufacturing"
+    },
+    {
+      "paperId": "27139752fc7d6379eb14faa04919cb37e6f6c86a",
+      "title": "Visualizing volume data using physical models"
+    },
+    {
+      "paperId": "4f9e05dda5fe0e0af726c8ba72b61280d5747850",
+      "title": "The use of solid physical models for the study of macromolecular assembly."
+    },
+    {
+      "paperId": "5712ba2480f73028de0956af85ee9944f9b2cd3d",
+      "title": "Trends in Water Use"
+    },
+    {
+      "paperId": null,
+      "title": "YIKILMAZ M"
+    },
+    {
+      "paperId": null,
+      "title": "LINDEGAARD J"
+    },
+    {
+      "paperId": null,
+      "title": "A UTODESK : Integrated CAD, CAM, CAE, and PCB software"
+    },
+    {
+      "paperId": null,
+      "title": "Parametric bim school, 2021"
+    },
+    {
+      "paperId": null,
+      "title": "A UTODESK : Maya: 3D computer animation, modeling, simulation, and rendering software,"
+    },
+    {
+      "paperId": null,
+      "title": "A UTODESK : 3DS Max: 3D modeling and rendering software for design visualization, games, and animation"
+    },
+    {
+      "paperId": null,
+      "title": "FizViz: A wall-mounted data gauge"
+    },
+    {
+      "paperId": "d9e7ee70964f7dd2ab99346ba1a7388a53bd60a6",
+      "title": "Portal: Design and Fabrication of Incidence-Driven Screens"
+    },
+    {
+      "paperId": "885c60e38b6cedf06451e43e18ba7e53c19a5fbd",
+      "title": "Tape Recorders"
+    },
+    {
+      "paperId": null,
+      "title": "Sculpture of housing prices ripping san francisco apart, 2016"
+    },
+    {
+      "paperId": "e3af89379fd6fc88913b9f8f73c90dcea7c069d5",
+      "title": "Data-spatialized Pavilion: Introducing a Data-driven Design Method based on Principles of Catoptric Anamorphosis"
+    },
+    {
+      "paperId": null,
+      "title": "OEHLBERG L"
+    },
+    {
+      "paperId": "28bea2e772fd9f8daa97a32658bad1ca7e6fcbbf",
+      "title": "Area Preserving Dynamic Geospatial Visualization on Physical Globe"
+    },
+    {
+      "paperId": "8fbd10024dd03293d23c9a8a30b00895b36aa9f5",
+      "title": "Cardiac 3D printing for better understanding of congenital heart disease."
+    },
+    {
+      "paperId": "a13d74914d46ae05d0c1af3a7d29c27fe5c12fe2",
+      "title": "Printing Walkable Visualizations"
+    },
+    {
+      "paperId": "391d1fdd16ed36ebd650f0fb0a851945eceee894",
+      "title": "Situated Analytics"
+    },
+    {
+      "paperId": "5aed484db3d55a84039cae084976ccc2f95d2347",
+      "title": "DATA OBJECTS: DESIGN PRINCIPLES FOR DATA PHYSICALISATION"
+    },
+    {
+      "paperId": null,
+      "title": "Encoding data through experiential material properties"
+    },
+    {
+      "paperId": "9bd5fe59f152d24f8d422c5a8fbdf31c98a8252a",
+      "title": "Space and Motion: Data-Driven Model of 4D Pedestrian Behavior"
+    },
+    {
+      "paperId": "4b3914d2ab5291e5dbd108618a4c8c01c39871d3",
+      "title": "Designing With Data : Moving Beyond The Design Space Catalog"
+    },
+    {
+      "paperId": "7013b452dc8b938688d1e5d6aed192f02d0a2a82",
+      "title": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "paperId": "cb2ff27205b27b9fd95005a98facdf09a0d4759f",
+      "title": "3D Sampling Textures for Creative Design and Manufacturing"
+    },
+    {
+      "paperId": "1ca295fcfad4a5fc7662cf9f5a2d341469f3d7e4",
+      "title": "Tangible Immersion for Ecological Design"
+    },
+    {
+      "paperId": "07e70974a94bec480934c6b093b9682d6cc47254",
+      "title": "Vol2velle: Printable Interactive Volume Visualization"
+    },
+    {
+      "paperId": "f9e1ce5fa593cbe8ff15992c4947f0cb2cbb6e28",
+      "title": "Weather Report: Structuring Data Experience in the Built Environment"
+    },
+    {
+      "paperId": null,
+      "title": "Green berlin,"
+    },
+    {
+      "paperId": null,
+      "title": "of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)"
+    },
+    {
+      "paperId": null,
+      "title": "UANG OF S YNTHESIS D ESIGN + A RCHITECTURE : Data Moire\u2019"
+    },
+    {
+      "paperId": null,
+      "title": "Data moir\u00e9: Optical patterns as datadriven design narratives"
+    },
+    {
+      "paperId": "665dda9a7aabb43a242f093be710c9ab95990577",
+      "title": "Visualization and 3D Printing of Multivariate Data of Biomarkers"
+    },
+    {
+      "paperId": "a86adb36afd21b4572703c3f2d824c1ba7a63c89",
+      "title": "Modelling scentscape experience"
+    },
+    {
+      "paperId": null,
+      "title": "From 3D sensing to printing: A survey"
+    },
+    {
+      "paperId": null,
+      "title": "Blombos ocher plaque"
+    },
+    {
+      "paperId": "677a7517e1c821534c77851afc0d13a6f614da3a",
+      "title": "Imagining thought in digital space"
+    },
+    {
+      "paperId": "7f754effed1fc41eceec284a37998dcb5f36fd44",
+      "title": "Visualisation de projets de th\u00e8se avec un dispositif physique et constructif"
+    },
+    {
+      "paperId": "27c0071f8a55dfb461315dec4624c7484668e614",
+      "title": "Centennial Chromagraph: Data Spatialization and Computational Craft"
+    },
+    {
+      "paperId": "e3349f6aca3c711987b01a5eda1fcb6fe2dd2191",
+      "title": "Acoustic Sonification of Blood Pressure in the Form of a Singing Bowl"
+    },
+    {
+      "paperId": "23616ec133019e51bc4aa62762dbdc4831af95d8",
+      "title": "Personal health data:visualization modalities and their perceived values"
+    },
+    {
+      "paperId": null,
+      "title": "People wood: Data sculpture of questionnaire data"
+    },
+    {
+      "paperId": null,
+      "title": "Sphere packing: Visu-alize composers\u2019 total musical production"
+    },
+    {
+      "paperId": null,
+      "title": "Drip-by-tweet: Each vote is a drop"
+    },
+    {
+      "paperId": null,
+      "title": "Cosmos: Carbon exchange captured in a wooden ball"
+    },
+    {
+      "paperId": "d3bc3cb1e204cba0d9ac0f1a0778034c407dbfe2",
+      "title": "Physical Visualizations: An Exploration"
+    },
+    {
+      "paperId": "dee7cd252efd21b0c462191643530be0d28f0aea",
+      "title": "Emoto: visualising the online response to London 2012"
+    },
+    {
+      "paperId": null,
+      "title": "ISEA International; Australian Network for Art & Technology"
+    },
+    {
+      "paperId": null,
+      "title": "Modelling for Computer Graphics - CPSC 589/689 Course Notes"
+    },
+    {
+      "paperId": null,
+      "title": "Chopper: Partitioning models into 3D-printable parts"
+    },
+    {
+      "paperId": null,
+      "title": "Pulse: Tangible line"
+    },
+    {
+      "paperId": "81c1595c57e7305ff2c1cc0725f1b8c2d55a3d78",
+      "title": "Creating Physical 3D Maps Using Rapid Prototyping Techniques"
+    },
+    {
+      "paperId": null,
+      "title": "Blip: A year of travel"
+    },
+    {
+      "paperId": null,
+      "title": "Phsyical sonification dataforms"
+    },
+    {
+      "paperId": null,
+      "title": "Smellmap: Paris"
+    },
+    {
+      "paperId": "d7c0189c35a3ee56b13b0488f925df1152a8cfd4",
+      "title": "A Taxonomy of Modeling Techniques using Sketch-Based Interfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Wavefunction: Visualize public presence in waves"
+    },
+    {
+      "paperId": null,
+      "title": "Pulse room: Light bulbs show heart"
+    },
+    {
+      "paperId": "a1e1ca7fa78ce703ce35bb3e4ac3c4175598db2d",
+      "title": "Sketch-Based Mesh Augmentation"
+    },
+    {
+      "paperId": null,
+      "title": "Synaptic caguamas: Visualize cellular automata"
+    },
+    {
+      "paperId": null,
+      "title": "Two-and-a-half-dimensional Visualisation of Relational Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Array of belts"
+    },
+    {
+      "paperId": null,
+      "title": "XenoVision Mark III: A dynamic solid terrain model"
+    },
+    {
+      "paperId": null,
+      "title": "BAILEY M"
+    },
+    {
+      "paperId": null,
+      "title": "Thesis lego board"
+    },
+    {
+      "paperId": null,
+      "title": "Time-evolving scatterplot"
+    },
+    {
+      "paperId": null,
+      "title": "kinetic"
+    },
+    {
+      "paperId": null,
+      "title": "Doug mccune's physical maps"
+    },
+    {
+      "paperId": null,
+      "title": "Data clothing: Dresses show air pollution"
+    },
+    {
+      "paperId": null,
+      "title": "Data necklace of good night sms"
+    },
+    {
+      "paperId": null,
+      "title": "Linespace: A sensemaking platform for the blind"
+    },
+    {
+      "paperId": null,
+      "title": "Pulse drip: Visualize heartbeats with a water hose"
+    },
+    {
+      "paperId": null,
+      "title": "Datamorphose: Animated sails"
+    },
+    {
+      "paperId": null,
+      "title": "Pulse: Animated heart shows sentiments"
+    },
+    {
+      "paperId": null,
+      "title": "Robot arranges 8,000 nails into a data sculpture of the wind"
+    },
+    {
+      "paperId": null,
+      "title": "Grand old party: Political satire"
+    },
+    {
+      "paperId": null,
+      "title": "Windcuts: Wind travels captured on wood"
+    },
+    {
+      "paperId": null,
+      "title": "David Bowen\u2019s sea wave replicators"
+    },
+    {
+      "paperId": null,
+      "title": "Solid terrain model with airplane trajectory"
+    },
+    {
+      "paperId": null,
+      "title": "Population density emerging from walls"
+    },
+    {
+      "paperId": null,
+      "title": "NYC high school dropouts"
+    },
+    {
+      "paperId": null,
+      "title": "Layered 2D plots"
+    },
+    {
+      "paperId": null,
+      "title": "Motion structures: Videos as space-time objects"
+    },
+    {
+      "paperId": null,
+      "title": "About Blender, 2021. Last Accessed"
+    },
+    {
+      "paperId": null,
+      "title": "Bmw kinetic sculpture , 2008"
+    },
+    {
+      "paperId": null,
+      "title": "Motus forma: People's motions in a shared space"
+    },
+    {
+      "paperId": null,
+      "title": "Adrien Segal's data furniture"
+    },
+    {
+      "paperId": null,
+      "title": "A short introduction to the processing software and projects from the community., 2020. Last Accessed"
+    },
+    {
+      "paperId": null,
+      "title": "Loren madsen's early data sculptures"
+    },
+    {
+      "paperId": null,
+      "title": "Rhinoceros\u00ae: design, model, present, analyze, realize, 2021"
+    },
+    {
+      "paperId": null,
+      "title": "Physical competition monitor"
+    },
+    {
+      "paperId": null,
+      "title": "Generative algorithms using grasshopper , vol. 3"
+    },
+    {
+      "paperId": null,
+      "title": "Point Cloud: A dynamic weather sculpture"
+    },
+    {
+      "paperId": null,
+      "title": "Made by numbers"
+    },
+    {
+      "paperId": null,
+      "title": "Wearable self"
+    },
+    {
+      "paperId": null,
+      "title": "Chaotic flow: Abstract flow visualization of copenhagen bike traffic"
+    },
+    {
+      "paperId": null,
+      "title": "Augmented Reality (AR) Sandbox. www.usgs.gov/science-support"
+    },
+    {
+      "paperId": null,
+      "title": "ecloud & air\ufb01eld: Ambient airport visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Water works: Maps of the san francisco water infrastructure"
+    }
+  ]
+}

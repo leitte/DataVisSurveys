@@ -1,0 +1,720 @@
+{
+  "paperId": "86d89a2ab31732c41f49f6e630d96608dae93d52",
+  "externalIds": {
+    "DBLP": "journals/cgf/GillmannSWS21",
+    "DOI": "10.1111/cgf.14333",
+    "CorpusId": 235676714
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/86d89a2ab31732c41f49f6e630d96608dae93d52",
+  "title": "Uncertainty\u2010aware Visualization in Medical Imaging \u2010 A Survey",
+  "abstract": "Medical imaging (image acquisition, image transformation, and image visualization) is a standard tool for clinicians in order to make diagnoses, plan surgeries, or educate students. Each of these steps is affected by uncertainty, which can highly influence the decision\u2010making process of clinicians. Visualization can help in understanding and communicating these uncertainties. In this manuscript, we aim to summarize the current state\u2010of\u2010the\u2010art in uncertainty\u2010aware visualization in medical imaging. Our report is based on the steps involved in medical imaging as well as its applications. Requirements are formulated to examine the considered approaches. In addition, this manuscript shows which approaches can be combined to form uncertainty\u2010aware medical imaging pipelines. Based on our analysis, we are able to point to open problems in uncertainty\u2010aware medical imaging.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 163,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14333",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "40"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Gillmann2021UncertaintyawareVI,\n author = {Christina Gillmann and D. Saur and T. Wischgoll and G. Scheuermann},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Uncertainty\u2010aware Visualization in Medical Imaging \u2010 A Survey},\n volume = {40},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "11160395",
+      "name": "Christina Gillmann"
+    },
+    {
+      "authorId": "2088733",
+      "name": "D. Saur"
+    },
+    {
+      "authorId": "2837908",
+      "name": "T. Wischgoll"
+    },
+    {
+      "authorId": "1810101",
+      "name": "G. Scheuermann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "970eda95004c56673c0b74ea329a1ef3c7b9227f",
+      "title": "Visualization of Tensor Fields in Mechanics"
+    },
+    {
+      "paperId": "0f1d1510df4328df5dd4026b3a03b8b242c4062c",
+      "title": "Julich-Brain: A 3D probabilistic atlas of the human brain\u2019s cytoarchitecture"
+    },
+    {
+      "paperId": "55a37e35e6d14a575061b04f547032e5bbe28b53",
+      "title": "Uncertainty-aware domain alignment for anatomical structure segmentation"
+    },
+    {
+      "paperId": "b7b0f5888cfb3f4f4cd7015214b1223670eb0e4a",
+      "title": "Uncertainty Visualisation: An Interactive Visual Survey"
+    },
+    {
+      "paperId": "6f840e3dc363f1002328468a31e360a61c1fadbf",
+      "title": "Real-time diagnosis and visualization of tumor margins in excised breast specimens using fluorescence lifetime imaging and machine learning."
+    },
+    {
+      "paperId": "8b7625b12c38087743733ae5902243544ce9ca10",
+      "title": "Validating Uncertainty in Medical Image Translation"
+    },
+    {
+      "paperId": "ec95c843906795c5f8cc255f031d5898d97083de",
+      "title": "Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation"
+    },
+    {
+      "paperId": "7edeed95537d7a145154adc0b7f87974e3ce83f0",
+      "title": "DeepCEST 3T: Robust MRI parameter determination and uncertainty quantification with neural networks\u2014application to CEST imaging of the human brain at 3T"
+    },
+    {
+      "paperId": "1b842e6a171a7e790b06f76cff08b2b539f18aa8",
+      "title": "Reliable navigation registration in cranial and spine surgery based on intraoperative computed tomography."
+    },
+    {
+      "paperId": "f631184962063208a101949ed498611ee77b6683",
+      "title": "Hierarchical Image Semantics Using Probabilistic Path Propagations for Biomedical Research"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "9e52e8f3b0dba44b683b5e985bc5f28003011271",
+      "title": "Why Authors Don't Visualize Uncertainty"
+    },
+    {
+      "paperId": "0978891fb33404ee5a55ff46c4358124cb7bd211",
+      "title": "Uncertainty quantification of parenchymal tracer distribution using random diffusion and convective velocity fields"
+    },
+    {
+      "paperId": "ac1f17e1bcd376ed8a37f643f86e165ec1eb83f1",
+      "title": "A Bayesian Neural Net to Segment Images with Uncertainty Estimates and Good Calibration"
+    },
+    {
+      "paperId": "82e8d39460e1f9789d4ea7a478e352285046a0b4",
+      "title": "Towards Glyphs for Uncertain Symmetric Second\u2010Order Tensors"
+    },
+    {
+      "paperId": "2c51ac39a9e322a2f0aa7fa438e7493aee30a381",
+      "title": "State\u2010of\u2010the\u2010Art Report: Visual Computing in Radiation Therapy Planning"
+    },
+    {
+      "paperId": "fd784a22d77f4921c30fe712306a3eec41137060",
+      "title": "Fast quantification of uncertainty in non-linear diffusion MRI models for artifact detection and more power in group studies"
+    },
+    {
+      "paperId": "dd26dbf35398bc3f7711cf6e02be8eded9cd1d38",
+      "title": "Uncertainty-aware visual analysis of radiofrequency ablation simulations"
+    },
+    {
+      "paperId": "0049424601c08c83f540b2d0f0a80b1015fa176a",
+      "title": "Physics of Radiation and Matter"
+    },
+    {
+      "paperId": "51f4e3ece854879a1c112a54694634805ab698cf",
+      "title": "Uncertainty Quantification in Deep MRI Reconstruction"
+    },
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "7fc95147b0683c9568aac968b2faa2c1ed65ed0f",
+      "title": "Mapping Symptoms to Brain Networks with the Human Connectome."
+    },
+    {
+      "paperId": "35362b00e0ec6b641df2591a164253ae9e246858",
+      "title": "Acquiring and visualizing 3D/4D ultrasound recordings of tongue motion"
+    },
+    {
+      "paperId": "3cf95c0cce7b772b9bb8c5f44c5ceeba07f46d46",
+      "title": "Smooth Probabilistic Ambient Occlusion for Volume Rendering"
+    },
+    {
+      "paperId": "d441d1b5fcc352cafe7539cb1f7afcfc2c27eb4d",
+      "title": "3D U-Net for Brain Tumour Segmentation"
+    },
+    {
+      "paperId": "2e8c07e0547c7de25bcd5c7b7b848ec78c837fec",
+      "title": "An Uncertainty-Aware Visual System for Image Pre-Processing"
+    },
+    {
+      "paperId": "ba803f2cffb3461e15bd490863327b00f9581a79",
+      "title": "Quantifying precision in cardiac diffusion tensor imaging with second\u2010order motion\u2010compensated convex optimized diffusion encoding"
+    },
+    {
+      "paperId": "df4f40ff487f7f080da226a40c72bbf4622e7290",
+      "title": "Accurate and reliable extraction of surfaces from image data using a multi-dimensional uncertainty model"
+    },
+    {
+      "paperId": "e5614f59dc657d7add799373712dd5baee68f330",
+      "title": "Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation"
+    },
+    {
+      "paperId": "473f9791ff47567e85e01be00a2957f65190c259",
+      "title": "Anatomy, Functionality, and Neuronal Connectivity with Manganese Radiotracers for Positron Emission Tomography"
+    },
+    {
+      "paperId": "435025edbdb54a51545639ea7e72d4e1c49f1f74",
+      "title": "Emerging Intraoperative Imaging Modalities to Improve Surgical Precision"
+    },
+    {
+      "paperId": "05d3dd954ec5d65b6c5c320102cc0a2faae7b705",
+      "title": "A Survey of Flattening\u2010Based Medical Visualization Techniques"
+    },
+    {
+      "paperId": "330cda62eba26cdb490ec3b5186b6f2387b1f18a",
+      "title": "Monaco treatment planning system tools and optimization processes."
+    },
+    {
+      "paperId": "3a67f9ff9e4db6fff4d438bcb64297cefaf86f94",
+      "title": "Model-dependent uncertainty estimation of medical image segmentation"
+    },
+    {
+      "paperId": "8e2fe55c4b036cc7017754c6ae541d2bde690c97",
+      "title": "An Uncertainty-aware Workflow for Keyhole Surgery Planning using Hierarchical Image Semantics"
+    },
+    {
+      "paperId": "ab685b283368108739aea8d5b10f6758d3ec6da9",
+      "title": "A Survey on Multimodal Medical Data Visualization"
+    },
+    {
+      "paperId": "53718c25f98be0babf724f60dcbf2147b0571c98",
+      "title": "Uncertainty visualization for interactive assessment of stenotic regions in vascular structures"
+    },
+    {
+      "paperId": "25037f6cdfbc1d6202c46bc14e3fdc5a4725e9d3",
+      "title": "256 Shades of gray: uncertainty and diagnostic error in radiology"
+    },
+    {
+      "paperId": "18565497d9194dbbd711a50edd745f6076d5b996",
+      "title": "Development of the open\u2010source dose calculation and optimization toolkit matRad"
+    },
+    {
+      "paperId": "e41a9921db04c2ca1b9a561a82fdb1f8c605e064",
+      "title": "Slice-to-volume medical image registration: a survey"
+    },
+    {
+      "paperId": "ee2007c1f2aabe72bfa7eb7a93cd7df7c653ba7f",
+      "title": "Analysis of the effects of noise, DWI sampling, and value of assumed parameters in diffusion MRI models"
+    },
+    {
+      "paperId": "2472bf4b2071e0d4f3245530039719d3c45799ea",
+      "title": "Survey of Image Processing Techniques in Medical Image Analysis: Challenges and Methodologies"
+    },
+    {
+      "paperId": "77f0c9a197d725f99e338fe5a804cd47bd896381",
+      "title": "Computer aided detection and diagnosis in medical imaging: a review of clinical and educational applications"
+    },
+    {
+      "paperId": "4426416e47830214ec97bf31a18a6a0a095957c9",
+      "title": "Visualization of Deformable Image Registration Quality Using Local Image Dissimilarity"
+    },
+    {
+      "paperId": "207c4dadf85b96aa48af87c865930ff8fef6b8ce",
+      "title": "Uncertainty and variability in computational and mathematical models of cardiac physiology"
+    },
+    {
+      "paperId": "fc5fcc17dbc30b8ff428d747931d3efb679cbe99",
+      "title": "Visualizing Tensor Normal Distributions at Multiple Levels of Detail"
+    },
+    {
+      "paperId": "51dd728f20f87c95a4113052826c35519f65918b",
+      "title": "Glyph-Based Comparative Visualization for Diffusion Tensor Fields"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "d335534eb9bcacbdcd2d9c05d4ca5637e310a6f5",
+      "title": "Accurate assessment and prediction of noise in clinical CT images."
+    },
+    {
+      "paperId": "8407a0d645abe2d065cb4db937f5b126280c23d9",
+      "title": "Real-time uncertainty visualization for B-mode ultrasound"
+    },
+    {
+      "paperId": "495c870db4fa9610c5659c089d866dc4b8be5197",
+      "title": "Uncertainty Quantification for LDDMM Using a Low-Rank Hessian Approximation"
+    },
+    {
+      "paperId": "a449ca0842cac2369f9ad9fa243a556a8e8b4626",
+      "title": "Decision making in uncertainty visualization"
+    },
+    {
+      "paperId": "163e4a2794e636abcd9dd5a86d819dbe9b7b7d36",
+      "title": "Uncertainty Estimation and Visualization for Multi-modal Image Segmentation"
+    },
+    {
+      "paperId": "7013d3e5fc150acda44cafd60fac6febefc0be14",
+      "title": "Uncertainty Propagation in Biomedical Models"
+    },
+    {
+      "paperId": "4f30ee219dcc9e29426460dde5458edc69304b5e",
+      "title": "Emerging clinical applications of computed tomography"
+    },
+    {
+      "paperId": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+      "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    {
+      "paperId": "6ff31437ca7141e2be3d5d7ec08567442cc49fa9",
+      "title": "A Review Paper: Noise Models in Digital Image Processing"
+    },
+    {
+      "paperId": "0419061d769e76ceb826ddc6718fddaa699291f3",
+      "title": "Variability and Uncertainty of 18F-FDG PET Imaging Protocols for Assessing Inflammation in Atherosclerosis: Suggestions for Improvement"
+    },
+    {
+      "paperId": "323f633571b445cd7e39ebec0901e420ce4f9ab3",
+      "title": "Medical Image Processing"
+    },
+    {
+      "paperId": "5ca91cbe8aa1b14918ef49c2aa94f008b024ba40",
+      "title": "Sampling-based uncertainty quantification in deconvolution of X-ray radiographs"
+    },
+    {
+      "paperId": "3ee4b1b2c98597f711be5802ec6f863a049553e6",
+      "title": "Uncertainty estimation and visualization in probabilistic segmentation"
+    },
+    {
+      "paperId": "dd5976c0c6818bda55e94be7a0494915248d5040",
+      "title": "Uncertainty in medical visualization: Towards a taxonomy"
+    },
+    {
+      "paperId": "3e5c805e5523035fc0f95e1d51e4e24ab0b09714",
+      "title": "Visualizing positional uncertainty in freehand 3D ultrasound"
+    },
+    {
+      "paperId": "a9ce8393a68cae58d01daa3165f4b0a51a351745",
+      "title": "Error and Uncertainty in Scientific Practice"
+    },
+    {
+      "paperId": "96e2d1620e5c152989a902f56606ce17dae7613c",
+      "title": "Computation and visualization of uncertainty in surgical navigation"
+    },
+    {
+      "paperId": "b9cec8bc0b0c9428bedd36d60ffbde7d5ec87885",
+      "title": "Improving Probabilistic Image Registration via Reinforcement Learning and Uncertainty Evaluation"
+    },
+    {
+      "paperId": "d2229a5fa0e31c9ad257baf3c9c32c5b46fba7ea",
+      "title": "Uncertainty Quantification: Theory, Implementation, and Applications"
+    },
+    {
+      "paperId": "3599f8b9eb787a0e77dd900cc66129df8ce9bc19",
+      "title": "A Survey of Visualization Tools in Medical Imaging"
+    },
+    {
+      "paperId": "711f8a0e77c3df47d5ff68f6eda01594af5733a2",
+      "title": "Ultrasound confidence maps using random walks"
+    },
+    {
+      "paperId": "5aa69b58974ea37811c4954a87daf1eb73e8e782",
+      "title": "Revisiting uncertainty in graph cut solutions"
+    },
+    {
+      "paperId": "ca6a9e18f77526eab865a25bdcffe9528ed20f9d",
+      "title": "Illustrative uncertainty visualization of DTI fiber pathways"
+    },
+    {
+      "paperId": "dbdd213a8ef2a338ca87d7815e2d2b57dc457ee7",
+      "title": "Survey and Evaluate Uncertainty Quantification Methodologies"
+    },
+    {
+      "paperId": "c9b2988d43b2c225add9710977975d8681159042",
+      "title": "Visual perception studies and observer models in medical imaging."
+    },
+    {
+      "paperId": "1ce04ecbae560af3cda4d1fd26038919ea482853",
+      "title": "Longitudinal Brain MRI Analysis with Uncertain Registration"
+    },
+    {
+      "paperId": "08a91abf82527b4786059829b466d2e2e47ba882",
+      "title": "Probabilistic Marching Cubes"
+    },
+    {
+      "paperId": "3ffc589a774dde091d741f4c311e2c9dee8c9125",
+      "title": "Survey of glyph-based visualization techniques for spatial multivariate medical data"
+    },
+    {
+      "paperId": "7d87942d64253c42b32618ff86559524f9fef8f7",
+      "title": "Image segmentation using fuzzy clustering: A survey"
+    },
+    {
+      "paperId": "a5edb533687663aca90c51be4b8eaac416e32e8c",
+      "title": "Exploration and Visualization of Segmentation Uncertainty using Shape and Appearance Prior Information"
+    },
+    {
+      "paperId": "7158768b5c7f161519bbf1f97a36c242b0a61ce1",
+      "title": "Uncertainty-Aware Guided Volume Segmentation"
+    },
+    {
+      "paperId": "28d1b366c0264466704613c9cecfa0e2570cf338",
+      "title": "Summarizing and Visualizing Uncertainty in Non-rigid Registration"
+    },
+    {
+      "paperId": "7758029331dae51740b6d6bc8a76b6a727669ec6",
+      "title": "Noise-optimal capture for high dynamic range photography"
+    },
+    {
+      "paperId": "aef84912576b251c7ef2a9668f7f15a3cc667c8a",
+      "title": "iCoseg: Interactive co-segmentation with intelligent scribble guidance"
+    },
+    {
+      "paperId": "54b1388c50d207ddb2c585d563f78bff1509d676",
+      "title": "An automatic geometrical and statistical method to detect acoustic shadows in intraoperative ultrasound brain images"
+    },
+    {
+      "paperId": "5980209c4cf603008c123006b98fecd192bcc535",
+      "title": "Parameter Sensitivity Visualization for DTI Fiber Tracking"
+    },
+    {
+      "paperId": "61eb7b453630ef09689583d25826aed928dd62b0",
+      "title": "Deterministic and Probabilistic Tractography Based on Complex Fibre Orientation Distributions"
+    },
+    {
+      "paperId": "2d8a05e4485635399beba65e4cf790745a31abec",
+      "title": "History of medical imaging."
+    },
+    {
+      "paperId": "71a4d59e45a9133f78e09fb279b5bf251df21060",
+      "title": "Tractography Gone Wild: Probabilistic Fibre Tracking Using the Wild Bootstrap With Diffusion Tensor MRI"
+    },
+    {
+      "paperId": "146ff383a284fbe7666f82c5685ceafc264fa847",
+      "title": "Uncertainty handling and propagation in X-ray images analysis systems by means of Random-Fuzzy Variables"
+    },
+    {
+      "paperId": "e5f0f587955fc9369aec3bff1475a61411c038ca",
+      "title": "Managing uncertainty in visualization and analysis of medical data"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "401b9239eca1bac027baab321a056f8d005be2bb",
+      "title": "Using the wild bootstrap to quantify uncertainty in diffusion tensor imaging"
+    },
+    {
+      "paperId": "c7476d93afbcae4f1cfd5b3f1499c826b5cb94fa",
+      "title": "Surface modeling - Uncertainty estimation and visualization"
+    },
+    {
+      "paperId": "b5d34d11db4ffc8320200534eae211d8d076aa1f",
+      "title": "Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation"
+    },
+    {
+      "paperId": "37784d2891aa6caec7786dbad07cf5a47b854088",
+      "title": "Simultaneous Segmentation, Kinetic Parameter Estimation, and Uncertainty Visualization of Dynamic PET Images"
+    },
+    {
+      "paperId": "d9903b06c472f819867456b777f202c230b0aadb",
+      "title": "Study and Application of Medical Image Visualization Technology"
+    },
+    {
+      "paperId": "a770ccbf1b5ed600897349a0829941d8027a9e7a",
+      "title": "Visualization in Medicine: Theory, Algorithms, and Applications"
+    },
+    {
+      "paperId": "5b2ea359d4b77c469443dd04f4440d6d436fedff",
+      "title": "Fast and robust fuzzy c-means clustering algorithms incorporating local information for image segmentation"
+    },
+    {
+      "paperId": "b65bee86a4d65a52796a2db19ab2c49d855a59fa",
+      "title": "Probabilistic diffusion tractography with multiple fibre orientations: What can we gain?"
+    },
+    {
+      "paperId": "bf9bbd16ff6fd6eb75f0a0563fc5fae52c7139a0",
+      "title": "Comparison of bootstrap approaches for estimation of uncertainties of DTI parameters"
+    },
+    {
+      "paperId": "4daccd8fb7a696d122bd9a2283d0d0c80caf7b34",
+      "title": "Using Registration Uncertainty Visualization in a User Study of a Simple Surgical Task"
+    },
+    {
+      "paperId": "dc18462522ed282ca9facbd80f80fab7e5327016",
+      "title": "A Bayesian approach for stochastic white matter tractography"
+    },
+    {
+      "paperId": "2796ba1782e2229a6966b4681717741344e50524",
+      "title": "Simulation and visualization of dose uncertainties due to interfractional organ motion"
+    },
+    {
+      "paperId": "34e681fd7f88826cd8baa3a821cc7294655232ec",
+      "title": "Measuring Uncertainty in Graph Cut Solutions - Efficiently Computing Min-marginal Energies Using Dynamic Graph Cuts"
+    },
+    {
+      "paperId": "0469093ffb6af960378ee12fe5b18f2d8ba0f183",
+      "title": "Fiber Tract-Oriented Statistics for Quantitative Diffusion Tensor MRI Analysis"
+    },
+    {
+      "paperId": "bf1f24263832cdeeedbcad36ad9ed45ba306995f",
+      "title": "\u201cSquashing peanuts and smashing pumpkins\u201d: How noise distorts diffusion\u2010weighted MR data"
+    },
+    {
+      "paperId": "7613514280bc41fbdd982f8880c9131a9f1193df",
+      "title": "Point-based probabilistic surfaces to show surface uncertainty"
+    },
+    {
+      "paperId": "5222b27ca66cf17799bd7392a5cfd6397dec0871",
+      "title": "Probabilistic segmentation of white matter lesions in MR imaging"
+    },
+    {
+      "paperId": "8ef1095dd871bfff2fda61cfd62c15513d90839f",
+      "title": "Characterization and propagation of uncertainty in diffusion\u2010weighted MR imaging"
+    },
+    {
+      "paperId": "f719d66586300949d3893a0b47c6ef9e72017429",
+      "title": "Determining and visualizing uncertainty in estimates of fiber orientation from diffusion tensor MRI"
+    },
+    {
+      "paperId": "3ecfddefa7e62969e0a451b6599ea3e5dbc9d767",
+      "title": "Visualizing data with bounded uncertainty"
+    },
+    {
+      "paperId": "a507ee5c2d3ce919df5f0859c3f36e92242da557",
+      "title": "Regularized Stochastic White Matter Tractography Using Diffusion Tensor MRI"
+    },
+    {
+      "paperId": "7e9867e651fed7d80e91999af434bbf4d507bc0c",
+      "title": "Theoretical analysis of the effects of noise on diffusion tensor imaging"
+    },
+    {
+      "paperId": "e019ab26d999d579a87b54bb677ae16684d743c6",
+      "title": "Error propagation for the Hough transform"
+    },
+    {
+      "paperId": "81d1f493ff74cd1a87b17b515b2682eb262fc350",
+      "title": "Fuzzy Image Processing and Recognition: Uncertainty Handling and Applications"
+    },
+    {
+      "paperId": "fd47d55fd8f7883477f4a1eb62fcb99af246190a",
+      "title": "Diffusion tensor imaging: Concepts and applications"
+    },
+    {
+      "paperId": "743095d1f08c4df368ab7228f9f603708151c518",
+      "title": "Statistical artifacts in diffusion tensor MRI (DT\u2010MRI) caused by background noise"
+    },
+    {
+      "paperId": "4119f9585e1ab8931f5707bc8f72c0973b729dfd",
+      "title": "Exploring the Visible Human using the VOXEL-MAN framework."
+    },
+    {
+      "paperId": "a009f9f2c12d106078fada20e6f8c535c4aaa745",
+      "title": "Review: The Use of Medical Images in Planning and Delivery of Radiation Therapy"
+    },
+    {
+      "paperId": "ae9fb83f85d93b99295a2c40b0f555f5fd9cb044",
+      "title": "MRI: The Basics"
+    },
+    {
+      "paperId": "b11af3498b07b1ba8863bdb862d7741d9a3d54cc",
+      "title": "Error propagation in machine vision"
+    },
+    {
+      "paperId": "e49fd2e7bdf1687a4197ad2c1480234f1f1c123b",
+      "title": "Bounded measurement error estimates: Their properties and their use for small sets of data"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "de42dcf8ef410ddff60de879dbfa2c9eebecb34e",
+      "title": "Uncertainty-aware Brain Lesion Visualization"
+    },
+    {
+      "paperId": "dfac196f8b85f280b93086617159ebf9564b536b",
+      "title": "Towards Closing the Gap of Medical Visualization Research and Clinical Daily Routine"
+    },
+    {
+      "paperId": "3dcb41f537db3088c7e3be804f8847032dba6481",
+      "title": "Dynamic Visualization of Uncertainties in Medical Feature of Interest"
+    },
+    {
+      "paperId": "06e6c0fdd51ed84d6174513e0a2370340c56e5fc",
+      "title": "A review of imaging techniques in scientific research/clinical diagnosis"
+    },
+    {
+      "paperId": "69723b1a167d3b729de5664483a87b036f4748ef",
+      "title": "Towards a Survey of Interactive Visualization for Education"
+    },
+    {
+      "paperId": null,
+      "title": "Modeling and visualization of uncertainty-aware geometry using multivariate normal distributions"
+    },
+    {
+      "paperId": "0868757a439f5ab88ac9870a0c7a78dd63e96084",
+      "title": "Teaching Image Processing and Visualization Principles to Medicine Students"
+    },
+    {
+      "paperId": "29557b8363a6bd36e5368e6aa36a658d1a7fbd6e",
+      "title": "Intuitive Error Space Exploration of Medical Image Data in Clinical Daily Routine"
+    },
+    {
+      "paperId": "cd8602283c6be0815ad070e0d43bb9bb8749002b",
+      "title": "An Introduction to Probability, Statistics, and Uncertainty"
+    },
+    {
+      "paperId": "0be6bee3800f04a6dbaeaa871e780f69f01a8593",
+      "title": "Uncertainty-Awareness in Open Source Visualization Solutions"
+    },
+    {
+      "paperId": "25a4beea1c9af37ef8ff8c781013e6ce55c8b7f7",
+      "title": "An Uncertainty Visualization Technique Using Possibility Theory: Possibilistic Marching Cubes"
+    },
+    {
+      "paperId": "d1ae50ab7bd2988aebf32ab6e0481f703575c633",
+      "title": "Dealing with uncertainty and imprecision in image segmentation using belief function theory"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "008c12e7bd368bb3223b41aa5f0c715052a4d00a",
+      "title": "Chapter 6 \u2013 Surface Rendering"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "549aba73c224fc7747c73d825b8c84c34bfe672b",
+      "title": "Deriving and Visualizing Uncertainty in Kinetic PET Modeling"
+    },
+    {
+      "paperId": "91fdf06a8c1aa1799071411319813059adbc5cc4",
+      "title": "A robust segmentation approach for noisy medical images using fuzzy clustering with spatial probability"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "261d54728a87a8516b29340fc75d38ee4c74aa0c",
+      "title": "Edge Transformations for Improving Mesh Quality of Marching Cubes"
+    },
+    {
+      "paperId": "1b21bdf7ad6c5d33b7592d5f70f0b8942d0a7e21",
+      "title": "Handbook of medical image processing and analysis"
+    },
+    {
+      "paperId": "54fc4cc47b1ca5ac51f2f4e28387b67ad4093962",
+      "title": "A comparative study of uncertainty propagation methods for black-box-type problems"
+    },
+    {
+      "paperId": "88abb0605d62a468b999fdc8612593d27d87a23f",
+      "title": "Locally adaptive marching cubes through iso-value variation"
+    },
+    {
+      "paperId": "6464f26ebce4bb0833205e23a1ef831590aaed71",
+      "title": "Uncertainty and Sensitivity Analysis for Models of Complex Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Functional Magnetic Resonance Imaging, Second Edition"
+    },
+    {
+      "paperId": null,
+      "title": "Chapter 9 - three-dimensional tract reconstruction. In Introduction to Diffusion Tensor Imaging"
+    },
+    {
+      "paperId": "fc80def6a113c7235b81b0dfd6981feb03518b2b",
+      "title": "An Introduction to Visualization of Diffusion Tensor Imaging and Its Applications"
+    },
+    {
+      "paperId": "3139b31868849303476358bebca36a1caaad8ec2",
+      "title": "Fuzzy Based Image Segmentation"
+    },
+    {
+      "paperId": "c333e5ff2ddca07f630bacc70047f319197a2886",
+      "title": "Combining Belief Functions Issued from Dependent Sources"
+    },
+    {
+      "paperId": "d68f57475dd1d137f44c00b1ae02b9d93bdbafdf",
+      "title": "Uncertainty Visualization Methods in Isosurface Volume Rendering"
+    },
+    {
+      "paperId": "9ea6b9fa28005b035a8d438501c33ab282e30f4e",
+      "title": "Fuzzy systems in medicine"
+    },
+    {
+      "paperId": "1b6fb58f59b6630ba61f9f1c411422fdd1018036",
+      "title": "Ultrasound imaging: principles and applications in rodent research."
+    },
+    {
+      "paperId": "9b0d18a9d1faa618d466fef25ef36f1ddc02030b",
+      "title": "Current methods in medical image segmentation."
+    },
+    {
+      "paperId": "4eff6b5f0dea9d0c6231a61430bf6bedc303d142",
+      "title": "3D imaging in medicine : algorithms, systems, applications"
+    },
+    {
+      "paperId": "1125ed123952c941d315512aa41cc1c998c5fcb6",
+      "title": "Image Acquisition Devices and Their Application to Diagnostic Medicine"
+    },
+    {
+      "paperId": "56fc7e9bb520cc95b4400f0525ffeacc93c9e99b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Probexplorer: Uncertainty-guided Exploration and Editing of Probabilistic Medical Image Segmentation"
+    },
+    {
+      "paperId": "4e0eace94e6c097faec5e998f2bc168eb0fbe336",
+      "title": "Introduction 1.2 Parallel Database Systems 1.2.1 Computation Model 2 1.2 Parallel Database Systems Introduction Select * from Employee, Department Where (employee.dept_no @bullet Department.dept_no) and (employee.position = \"manager\") (a) Sql Request 1.2.2 Engineering Model"
+    },
+    {
+      "paperId": "027e398b797d13b538c23577a41d11b4fb80ec96",
+      "title": "Accepted for Publication in Ieee Transactions on Medical Imaging (preprint) Quantifying Registration Uncertainty with Sparse Bayesian Modelling"
+    },
+    {
+      "paperId": null,
+      "title": "State of The Art for Volume Rendering"
+    },
+    {
+      "paperId": "41feb512735aadee5822a0eeb48f685090c49c44",
+      "title": "Uncertainty of What and for Whom - And Does Anyone Care? Propositions for Cultural Collection Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Towards an Image - based Indicator for Peripheral Artery Disease Classification and Localization"
+    }
+  ]
+}

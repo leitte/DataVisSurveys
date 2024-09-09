@@ -1,0 +1,424 @@
+{
+  "paperId": "72324149ee80010131d2ba52e365517626c3fb53",
+  "externalIds": {
+    "DBLP": "journals/cgf/SouthSVDB22",
+    "DOI": "10.1111/cgf.14521",
+    "CorpusId": 251136370
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/72324149ee80010131d2ba52e365517626c3fb53",
+  "title": "Effective Use of Likert Scales in Visualization Evaluations: A Systematic Review",
+  "abstract": "Likert scales are often used in visualization evaluations to produce quantitative estimates of subjective attributes, such as ease of use or aesthetic appeal. However, the methods used to collect, analyze, and visualize data collected with Likert scales are inconsistent among evaluations in visualization papers. In this paper, we examine the use of Likert scales as a tool for measuring subjective response in a systematic review of 134 visualization evaluations published between 2009 and 2019. We find that papers with both objective and subjective measures do not hold the same reporting and analysis standards for both aspects of their evaluation, producing less rigorous work for the subjective qualities measured by Likert scales. Additionally, we demonstrate that many papers are inconsistent in their interpretations of Likert data as discrete or continuous and may even sacrifice statistical power by applying nonparametric tests unnecessarily. Finally, we identify instances where key details about Likert item construction with the potential to bias participant responses are omitted from evaluation methodology reporting, inhibiting the feasibility and reliability of future replication studies. We summarize recommendations from other fields for best practices with Likert data in visualization evaluations, based on the results of our survey. A full copy of this paper and all supplementary material are available at https://osf.io/exbz8/.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2022,
+  "referenceCount": 89,
+  "openAccessPdf": {
+    "url": "https://osf.io/6f3zs/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "41"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{South2022EffectiveUO,\n author = {Laura South and David Saffo and Olga Vitek and Cody Dunne and M. Borkin},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Effective Use of Likert Scales in Visualization Evaluations: A Systematic Review},\n volume = {41},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2047942134",
+      "name": "Laura South"
+    },
+    {
+      "authorId": "66700656",
+      "name": "David Saffo"
+    },
+    {
+      "authorId": "2179450153",
+      "name": "Olga Vitek"
+    },
+    {
+      "authorId": "34889063",
+      "name": "Cody Dunne"
+    },
+    {
+      "authorId": "2203252",
+      "name": "M. Borkin"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "64bd819c3480ad5ce6b0885404e4a1999459184d",
+      "title": "Nonparametric Statistics"
+    },
+    {
+      "paperId": "584e28fa98182a2caad66014f6a1549877d7081c",
+      "title": "What Do We Actually Learn from Evaluations in the \u201cHeroic Era\u201d of Visualization? : Position Paper"
+    },
+    {
+      "paperId": "45c5605ea67978dec4b10ad462fd32c7f986828f",
+      "title": "Threats of a replication crisis in empirical computer science"
+    },
+    {
+      "paperId": "24d6353de321f4d27034dcac09ad3888c5a1c1fb",
+      "title": "Temporal Views of Flattened Mitral Valve Geometries"
+    },
+    {
+      "paperId": "d50f4517916a2a25445ebee67feaa18f41dd9a3b",
+      "title": "There Is No Spoon: Evaluating Performance, Space Use, and Presence with Expert Domain Users in Immersive Analytics"
+    },
+    {
+      "paperId": "c1992c7750c97413f550624ab0298f0b810c610b",
+      "title": "FairSight: Visual Analytics for Fairness in Decision Making"
+    },
+    {
+      "paperId": "dbdcbac6bd0940eeda276bc8df504d5135f6cecc",
+      "title": "Evaluating Perceptual Bias During Geometric Scaling of Scatterplots"
+    },
+    {
+      "paperId": "07568eed2ebda4cc5d8cda27632434c02bcd5a44",
+      "title": "Criteria for Rigor in Visualization Design Study"
+    },
+    {
+      "paperId": "1bedf3ea354416d6129734bdbe82b437943de7a1",
+      "title": "Deadeye Visualization Revisited: Investigation of Preattentiveness and Applicability in Virtual Environments"
+    },
+    {
+      "paperId": "7a5622605272bf5c601e9ee8d79ef61e8bc1eebc",
+      "title": "Classification of Blood Flow Patterns in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "954a1e7962c849b8c0071ca37af22021f627114a",
+      "title": "Popup-Plots: Warping Temporal Data Visualization"
+    },
+    {
+      "paperId": "ef59bfdfba8acd4a4a1a3ba56921bcda21068313",
+      "title": "The Continued Prevalence of Dichotomous Inferences at CHI"
+    },
+    {
+      "paperId": "55fb3454647f728d33618f06fbd08c5deb6f1eb4",
+      "title": "Exploratory and confirmatory research in the open science era"
+    },
+    {
+      "paperId": "a91face58ac52b67b62dd0c17625e381f6c8522b",
+      "title": "Glanceable Visualization: Studies of Data Comparison Performance on Smartwatches"
+    },
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "0b0549975c366abac203294099da2e3ac9e87172",
+      "title": "iStoryline: Effective Convergence to Hand-drawn Storylines"
+    },
+    {
+      "paperId": "c3c728b9a12c59108493275a43dc64df619811e9",
+      "title": "Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "9ba8056003502fb09e8af330705daeca073df27e",
+      "title": "Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks"
+    },
+    {
+      "paperId": "4c0690560fc32d1d4e1e99c646e1294ce369e4a8",
+      "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification"
+    },
+    {
+      "paperId": "4010e9a26e3cb7de0c9c8e24b7f27c74fede4579",
+      "title": "How to Evaluate an Evaluation Study? Comparing and Contrasting Practices in Vis with Those of Other Disciplines : Position Paper"
+    },
+    {
+      "paperId": "48bc53a3ed0c026dbe5e1213e0b02a66700cfa2b",
+      "title": "Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them : Position Paper"
+    },
+    {
+      "paperId": "02c1bda66e19d4d7b3f6c44cf1c214064234888d",
+      "title": "A Practical Primer To Power Analysis for Simple Experimental Designs"
+    },
+    {
+      "paperId": "38c8dbbbf52599a47a437e36d3614f78866605bb",
+      "title": "HARK No More: On the Preregistration of CHI Experiments"
+    },
+    {
+      "paperId": "0c03c03ef43a3e62cb025ee9c5e07a5dd4dd36a3",
+      "title": "Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets"
+    },
+    {
+      "paperId": "015e20463de5c1ba4bcf58a1ef0f07d6d98c5992",
+      "title": "Analyzing Ordinal Data with Metric Models: What Could Possibly Go Wrong?"
+    },
+    {
+      "paperId": "e7c39d399fbf7b5e707c7d61f49a21a385986fda",
+      "title": "Evidence-Based Survey Design: The Use of a Midpoint on the Likert Scale"
+    },
+    {
+      "paperId": "62ee21d50e6e41b3ff50e40d2af3e458dd113d37",
+      "title": "An Empire Built On Sand: Reexamining What We Think We Know About Visualization"
+    },
+    {
+      "paperId": "f314c209bfd1fa89a282d0ad1f9ea6b1e29072f1",
+      "title": "Local Standards for Sample Size at CHI"
+    },
+    {
+      "paperId": "73c9593b084d1ec1dfb81024546653398534aaa8",
+      "title": "Sketching Designs Using the Five Design-Sheet Methodology"
+    },
+    {
+      "paperId": "e4b3eb206109f7bae0bf0e96381a63d91edc0b56",
+      "title": "Visual Encodings of Temporal Uncertainty: A Comparative User Study"
+    },
+    {
+      "paperId": "83639ad4a5ccaac80d0b0c41298667a3130181e6",
+      "title": "CAST: Effective and Efficient User Interaction for Context-Aware Selection in 3D Particle Clouds"
+    },
+    {
+      "paperId": "e3639496ab0f36177c144bebb233bc72ae334b4a",
+      "title": "Off the Radar: Comparative Evaluation of Radial Visualization Solutions for Composite Indicators"
+    },
+    {
+      "paperId": "e5d43f8fd42b55e912f8a60146d147c96f839f30",
+      "title": "SchemeLens: A Content-Aware Vector-Based Fisheye Technique for Navigating Large Systems Diagrams"
+    },
+    {
+      "paperId": "1839965d4e5e61bc668667a0921efb9c8901e0c3",
+      "title": "Effectiveness of Structured Textures on Dynamically Changing Terrain-like Surfaces"
+    },
+    {
+      "paperId": "d4e550a39b3ecc3f54d5b0965556d0c1056b7cf1",
+      "title": "How to analyze Likert and other rating scale data"
+    },
+    {
+      "paperId": "56bbad43a23ac302682ec1a77bd9f191096904d1",
+      "title": "Exploring Slider vs. Categorical Response Formats in Web-Based Surveys"
+    },
+    {
+      "paperId": "7671e9cca5c22c4653eea206b3334d9ed59cba83",
+      "title": "HCI Statistics without p-values"
+    },
+    {
+      "paperId": "7c7320c1df6467d2ada81aa924182741ea99a3e1",
+      "title": "Attractive Flicker \u2014 Guiding Attention in Dynamic Narrative Visualizations"
+    },
+    {
+      "paperId": "7f7c9c928515e8484ad2889459208a39eb3b3ab2",
+      "title": "DecisionFlow: Visual Analytics for High-Dimensional Temporal Event Sequence Data"
+    },
+    {
+      "paperId": "5e848e0f8ab89ca821b00ed01b3cf78d6d7988b8",
+      "title": "iVisDesigner: Expressive Interactive Design of Information Visualizations"
+    },
+    {
+      "paperId": "15e62698b8e1d5eefcd9d5c3d93829c26567c6bd",
+      "title": "TenniVis: Visualization for Tennis Match Analysis"
+    },
+    {
+      "paperId": "a093189a2193738a78a0849be7908af7e0f81634",
+      "title": "Combined Visualization of Wall Thickness and Wall Shear Stress for the Evaluation of Aneurysms"
+    },
+    {
+      "paperId": "c8a2211706b0e835e86002bcb0cb2a9d86d6d08f",
+      "title": "An Evaluation of Depth Enhancing Perceptual Cues for Vascular Volume Visualization in Neurosurgery"
+    },
+    {
+      "paperId": "769e88e5d10b7ed1c2b47294edfdbd062b27b7b0",
+      "title": "Supporting Awareness through Collaborative Brushing and Linking of Tabular Data"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "0b4bc4b34be9f912ca2803a9bb2e08d254ec4957",
+      "title": "Some Whys and Hows of Experiments in Human-Computer Interaction"
+    },
+    {
+      "paperId": "63b3b65667a2941f3fadef8949843569cbf44f39",
+      "title": "Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization"
+    },
+    {
+      "paperId": "54093d1f277e212e41ff62b8c7af9cdb49ce9964",
+      "title": "RelEx: Visualization for Actively Changing Overlay Network Specifications"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "99dfa6588bacbd9976c282660c11da8e42d98a45",
+      "title": "Rethinking statistical analysis methods for CHI"
+    },
+    {
+      "paperId": "3605b700c795b3b03161afc690f45e855fcf3958",
+      "title": "Evaluation of Traditional, Orthogonal, and Radial Tree Diagrams by an Eye Tracking Study"
+    },
+    {
+      "paperId": "83958447ec28261c1f9ecc09887b10e12226b296",
+      "title": "A Study on Dual-Scale Data Charts"
+    },
+    {
+      "paperId": "fec8c8c69f53b4a5222666062c1b59c992c1353f",
+      "title": "An exploratory study of co-located collaborative visual analytics around a tabletop display"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "74dc65c0a9fed7c42d136e0cb155dc35888c768d",
+      "title": "The effect of rating scale format on response styles: the number of response categories and response catgory labels"
+    },
+    {
+      "paperId": "9adfa58f9d2cbbb655f1f34eeb0b0b25c8611f71",
+      "title": "Powerful and consistent analysis of likert-type rating scales"
+    },
+    {
+      "paperId": "533768f95caf95e92042436ef8a117ac55881c8d",
+      "title": "Current sample size conventions: Flaws, harms, and alternatives"
+    },
+    {
+      "paperId": "ab3cd200735f3d11dcc980cf24e70320ce9d9a85",
+      "title": "Likert scales, levels of measurement and the \u201claws\u201d of statistics"
+    },
+    {
+      "paperId": "9ab02e986bf083e37eabecb86ee27ac3c7aeb3c7",
+      "title": "Four layouts and a finding: the effects of changes in the order of the verbal labels and numerical values on Likert\u2010type scales"
+    },
+    {
+      "paperId": "3b452cd6e8c04166824f5c3d4b8a26190b16459f",
+      "title": "Finding comparable temporal categorical records: A similarity measure with an interactive visualization"
+    },
+    {
+      "paperId": "7e9863e98c8b5852da894d82f31b90a68e60cc89",
+      "title": "Resolving the 50\u2010year debate around using and misusing Likert scales"
+    },
+    {
+      "paperId": "6e93fb44ff86823e382ddeced2573b383248d56c",
+      "title": "Ordinal logistic regression"
+    },
+    {
+      "paperId": "6814d976154b17e41bc79f8694e2372534e50419",
+      "title": "G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences"
+    },
+    {
+      "paperId": "551bd53af553a9e1ce5b7043b6df909c3ca04df4",
+      "title": "Impact of the Number of Response Categories and Anchor Labels on Coefficient Alpha and Test-Retest Reliability"
+    },
+    {
+      "paperId": "3ebe1b5c7e927be0221788348973b17c9de3bf05",
+      "title": "Likert scales: how to (ab)use them"
+    },
+    {
+      "paperId": "4018eaa209ac26c9e18a4fedea4c783fb8e4b61f",
+      "title": "Rating the Rating Scales"
+    },
+    {
+      "paperId": "79596de8da82cbb219e88b45c808b052606f765d",
+      "title": "SUS: A 'Quick and Dirty' Usability Scale"
+    },
+    {
+      "paperId": "e2ad36059a7894c89ea566811eb82ad92acd88a7",
+      "title": "Analyzing Data Measured by Individual Likert-Type Items."
+    },
+    {
+      "paperId": "263389a925f4bd865513930a9cdf6f6b43679691",
+      "title": "Multipoint scales: Mean and median differences and observed significance levels"
+    },
+    {
+      "paperId": "d3d5c82ffef77eeffc70bc9b539b1b9f42121f9e",
+      "title": "RATING SCALES NUMERIC VALUES MAY CHANGE THE MEANING OF SCALE LABELS"
+    },
+    {
+      "paperId": "cd02cb777a3189401053238e39455c9931f293e5",
+      "title": "The Effect of Limitations on the Number of Criterion Score Values on the Significance Level of theF-Test"
+    },
+    {
+      "paperId": "e4a742a4f0585b4e4069726f6628f4d4285a0827",
+      "title": "An Analysis of Variance Test for Normality (Complete Samples)"
+    },
+    {
+      "paperId": "25cb1c43983d7b0bdb2263472973dc008da135b7",
+      "title": "On the Theory of Scales of Measurement."
+    },
+    {
+      "paperId": "7c363f962654392d67a3323cfeba4ae9cf1dec32",
+      "title": "\u201cTechnique for the Measurement of Attitudes, A\u201d"
+    },
+    {
+      "paperId": "3fd99b2ec41357b2b6e8606eca37b9870528facd",
+      "title": "Priming and Anchoring Effects in Visualization"
+    },
+    {
+      "paperId": "abbd050aa750a01b8ea5d30f29c40525a31ce2f2",
+      "title": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "paperId": "1554134e34366adcd69cd021a0b930a003ae789e",
+      "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": "0d306edac06661c562c795c49845bea97b9e3754",
+      "title": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "paperId": "196905591d99b4d3bde860815a1a4a3725c9f137",
+      "title": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "paperId": "0f7b18afb2c70ff682cb2ed5de4d6d5d8cf05c7e",
+      "title": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "paperId": "b6fde78c72755595b1481cddb77cc8e4df74d62b",
+      "title": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "paperId": "efba41c63a0613f9d4bb340eab54e072d804ade1",
+      "title": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "paperId": "38928548da1c15e228bf17315da47660ed738979",
+      "title": "Plotting Likert and Other Rating Scales"
+    },
+    {
+      "paperId": "cc0db75975164cb72ab922d90230f042711e8fee",
+      "title": "Statistical power of non-parametric tests: a quick guide for designing sampling strategies."
+    },
+    {
+      "paperId": "966dfdd0b0bb6b50416559d35a2561c0b96d9a9e",
+      "title": "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research"
+    },
+    {
+      "paperId": null,
+      "title": "Effective Use of Likert Scales in Visualization Evaluations: A Systematic Review Transactions on Visualization and"
+    },
+    {
+      "paperId": null,
+      "title": "Ordinal responses: Cumulative logit models"
+    }
+  ]
+}

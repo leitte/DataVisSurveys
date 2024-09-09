@@ -1,0 +1,1020 @@
+{
+  "paperId": "1a11119a0bbce1950fee38981a8b8ed212cdb898",
+  "externalIds": {
+    "DBLP": "journals/cgf/RosaBBASCBGA23",
+    "DOI": "10.1111/cgf.14733",
+    "CorpusId": 256646073
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/1a11119a0bbce1950fee38981a8b8ed212cdb898",
+  "title": "State of the Art of Visual Analytics for eXplainable Deep Learning",
+  "abstract": "The use and creation of machine\u2010learning\u2010based solutions to solve problems or reduce their computational costs are becoming increasingly widespread in many domains. Deep Learning plays a large part in this growth. However, it has drawbacks such as a lack of explainability and behaving as a black\u2010box model. During the last few years, Visual Analytics has provided several proposals to cope with these drawbacks, supporting the emerging eXplainable Deep Learning field. This survey aims to (i) systematically report the contributions of Visual Analytics for eXplainable Deep Learning; (ii) spot gaps and challenges; (iii) serve as an anthology of visual analytical solutions ready to be exploited and put into operation by the Deep Learning community (architects, trainers and end users) and (iv) prove the degree of maturity, ease of integration and results for specific domains. The survey concludes by identifying future research challenges and bridging activities that are helpful to strengthen the role of Visual Analytics as effective support for eXplainable Deep Learning and to foster the adoption of Visual Analytics solutions in the eXplainable Deep Learning community. An interactive explorable version of this survey is available online at https://aware\u2010diag\u2010sapienza.github.io/VA4XDL.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2023,
+  "referenceCount": 234,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14733",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Rosa2023StateOT,\n author = {B. La Rosa and G. Blasilli and Romain Bourqui and D. Auber and G. Santucci and R. Capobianco and E. Bertini and R. Giot and M. Angelini},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art of Visual Analytics for eXplainable Deep Learning},\n volume = {42},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2180935785",
+      "name": "B. La Rosa"
+    },
+    {
+      "authorId": "41157089",
+      "name": "G. Blasilli"
+    },
+    {
+      "authorId": "2464494",
+      "name": "Romain Bourqui"
+    },
+    {
+      "authorId": "2460043",
+      "name": "D. Auber"
+    },
+    {
+      "authorId": "144222000",
+      "name": "G. Santucci"
+    },
+    {
+      "authorId": "2709822",
+      "name": "R. Capobianco"
+    },
+    {
+      "authorId": "1410419380",
+      "name": "E. Bertini"
+    },
+    {
+      "authorId": "2204920677",
+      "name": "R. Giot"
+    },
+    {
+      "authorId": "143973785",
+      "name": "M. Angelini"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5f8940d5a12e0cdd68df7f1a74af427aa0d65e70",
+      "title": "The Transform-and-Perform Framework: Explainable Deep Learning Beyond Classification"
+    },
+    {
+      "paperId": "75f087b1e3bcc91122dbc5b8bb274d8625c0b9de",
+      "title": "SUBPLEX: A Visual Analytics Approach to Understand Local Model Explanations at the Subpopulation Level"
+    },
+    {
+      "paperId": "c99763aa29876f46164f9c84a182faaf143ecd6b",
+      "title": "Steering-by-example for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "0deb532aa2cd8a5fd7c469eb06f05478b87f1a7c",
+      "title": "DLA-VPS: Deep-Learning-Assisted Visual Parameter Space Analysis of Cosmological Simulations"
+    },
+    {
+      "paperId": "e0a75b8da81bf3f493f47e8318966f6f149c994a",
+      "title": "Neural network training fingerprint: visual analytics of the training process in classification neural networks"
+    },
+    {
+      "paperId": "5ed36e87751f5408601f0a24d0c2a9999b2f163e",
+      "title": "A survey of visual analytics for Explainable Artificial Intelligence methods"
+    },
+    {
+      "paperId": "5a4d66f718964c39b62e1661ba05a741889a1dca",
+      "title": "NeuroCartography: Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks"
+    },
+    {
+      "paperId": "dacdf55db64103ebccb0971c60fba13241b6c305",
+      "title": "Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness"
+    },
+    {
+      "paperId": "d7b8014c2a348a631ed466c6fba3825330b2f195",
+      "title": "M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis"
+    },
+    {
+      "paperId": "c0491ba50e3fdc4140a46ec8f1fac1cfaa0d1131",
+      "title": "Generation of Textual Explanations in XAI: the Case of Semantic Annotation"
+    },
+    {
+      "paperId": "d77b2bf555ac75060fd69948d3a874460f29cbbb",
+      "title": "A self-interpretable module for deep image classification on small data"
+    },
+    {
+      "paperId": "5c32ea42cd96d7635e98f82c90e9af926a723898",
+      "title": "A Visual Designer of Layer\u2010wise Relevance Propagation Models"
+    },
+    {
+      "paperId": "92035b33cb7dac45a73b0a16e710d9a0d785b5fb",
+      "title": "Optimal Axes for Data Value Estimation in Star Coordinates and Radial Axes Plots"
+    },
+    {
+      "paperId": "3af679c9c4f727dd4e6dc69dfde22a871e85da1e",
+      "title": "A survey on deep learning and its applications"
+    },
+    {
+      "paperId": "20f9c6bc12ddba9d0148e1845c0b88696e17e884",
+      "title": "Visual Analytics for RNN-Based Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "b928af4d37791489a3f0f1d18697210b40b5b4bc",
+      "title": "Why? Why not? When? Visual Explanations of Agent Behaviour in Reinforcement Learning"
+    },
+    {
+      "paperId": "932db477269d9167e62020c47293b75a365a8400",
+      "title": "Review of white box methods for explanations of convolutional neural networks in image classification tasks"
+    },
+    {
+      "paperId": "e1872cbe03dd45b5323f9c30facca5e3d6d95f14",
+      "title": "VisQA: X-raying Vision and Language Reasoning in Transformers"
+    },
+    {
+      "paperId": "b7a3899a3b63eb65198075a321a520effba669d8",
+      "title": "USEVis: Visual analytics of attention-based neural embedding in information retrieval"
+    },
+    {
+      "paperId": "c96dbf796fdaf16e03896d38b24d25942c1a857e",
+      "title": "Dodrio: Exploring Transformer Models with Interactive Visualization"
+    },
+    {
+      "paperId": "8550a97f269246034a98aae7ab12f287cea65590",
+      "title": "RECAST"
+    },
+    {
+      "paperId": "f8b755fa3411e7168178884d9fe8c930d15dae67",
+      "title": "Net2Vis \u2013 A Visual Grammar for Automatically Generating Publication-Tailored CNN Architecture Visualizations"
+    },
+    {
+      "paperId": "c7d10c2f456e54da9321893363aa056c844abd43",
+      "title": "An open-source tool to assess the carbon footprint of research"
+    },
+    {
+      "paperId": "3a906b77fa218adc171fecb28bb81c24c14dcc7b",
+      "title": "Transformers in Vision: A Survey"
+    },
+    {
+      "paperId": "c54918cf182fa17f8b60616828ce223ce9ac5783",
+      "title": "IVDAS: an interactive visual design and analysis system for image data symmetry detection of CNN models"
+    },
+    {
+      "paperId": "03db82055bf039503c8111e997757f122aa5438d",
+      "title": "A Survey on Neural Network Interpretability"
+    },
+    {
+      "paperId": "96b2d31d5a4ef9c683ecf000b109be8d8e70b20d",
+      "title": "Explainable Artificial Intelligence: Objectives, Stakeholders, and Future Research Opportunities"
+    },
+    {
+      "paperId": "c55816d23b979d99a7590dc592432a407c49221b",
+      "title": "GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks"
+    },
+    {
+      "paperId": "cf47fd37af7c71ff48c36ef79d6c31c819d9c399",
+      "title": "Understanding RL vision"
+    },
+    {
+      "paperId": "96c19530036dbca4cede4648395770891e752e07",
+      "title": "HypperSteer: Hypothetical Steering and Data Perturbation in Sequence Prediction with Deep Learning"
+    },
+    {
+      "paperId": "b788885c38321b7d0a0749492bb66174c5b00c22",
+      "title": "ProtoViewer: Visual Interpretation and Diagnostics of Deep Neural Networks with Factorized Prototypes"
+    },
+    {
+      "paperId": "a4e53ddfa1514bb61d5e5354b6209f3d6aa4172b",
+      "title": "Interpretable Visualizations of Deep Neural Networks for Domain Generation Algorithm Detection"
+    },
+    {
+      "paperId": "574a685e1bedc020987d6551ebc7580fbab3355f",
+      "title": "A Visual Analytics Framework for Explaining and Diagnosing Transfer Learning Processes"
+    },
+    {
+      "paperId": "d57b96e4e643e3adffef3c431cbf907cdbe4b037",
+      "title": "Bluff: Interactively Deciphering Adversarial Attacks on Deep Neural Networks"
+    },
+    {
+      "paperId": "cb0c40ab85ddff43e41aafabc90031c4140f31b2",
+      "title": "Attention Flows: Analyzing and Comparing Attention Mechanisms in Language Models"
+    },
+    {
+      "paperId": "73b5017014b647ea09e053fe642795b70594b152",
+      "title": "Marrying Medical Domain Knowledge With Deep Learning on Electronic Health Records: A Deep Visual Analytics Approach"
+    },
+    {
+      "paperId": "0a26f9735be4751bf120030baaaa705088d80d57",
+      "title": "Exploring Neural Network Hidden Layer Activity Using Vector Fields"
+    },
+    {
+      "paperId": "703c51d52a4a82b8a2145c7dc5f1962044a65320",
+      "title": "Visual Analytics for Data Scientists"
+    },
+    {
+      "paperId": "855ead416697e84a586631b63b8c2a86a2bcb780",
+      "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "paperId": "51bf7a3aee6b1f61b902625f6badffedf200d31a",
+      "title": "Rewriting a Deep Generative Model"
+    },
+    {
+      "paperId": "0107655716ff25a2f7408bcbfd289fcd34427c50",
+      "title": "Melody: Generating and Visualizing Machine Learning Model Summary to Understand Data and Classifiers Together"
+    },
+    {
+      "paperId": "6150a2dab1b63b246eb2cd418fcdb5a6b6b8ae62",
+      "title": "exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models"
+    },
+    {
+      "paperId": "183434d3d900f76be09e20ef0666077b2634e560",
+      "title": "Explainable Inference on Sequential Data via Memory-Tracking"
+    },
+    {
+      "paperId": "ebcbbb8fe297940d79b17aeb6d46bedff9db7fec",
+      "title": "Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance"
+    },
+    {
+      "paperId": "19b049861f687928583a854c36a23d3e5b3e30df",
+      "title": "Glance: A Visual Analytics Approach for Opening the Black Box to Explain Deep Learning Predictions of Glaucomatous Visual Field Damage from Optical Coherence Tomography Scans"
+    },
+    {
+      "paperId": "48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+      "title": "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
+    },
+    {
+      "paperId": "66eeb07af1a48b718d7413771909a7f97e1ca3f0",
+      "title": "Token-wise sentiment decomposition for ConvNet: Visualizing a sentiment classifier"
+    },
+    {
+      "paperId": "465fb833a65f398f0add46d3fe7656d34e7aa7f1",
+      "title": "Evaluating Reordering Strategies for Cluster Identification in Parallel Coordinates"
+    },
+    {
+      "paperId": "6047ee05b1507ac6309b679551ed76c1a0ee4483",
+      "title": "SCANViz: Interpreting the Symbol-Concept Association Captured by Deep Neural Networks through Visual Analytics"
+    },
+    {
+      "paperId": "3e4d1afd46c1d5f6cf172cc88503dbe7136e0719",
+      "title": "Visual Interpretation of Recurrent Neural Network on Multi-dimensional Time-series Forecast"
+    },
+    {
+      "paperId": "34b3cbf588ae44d44ba5e6909bebd09dc1cd2942",
+      "title": "DynamicsExplorer: Visual Analytics for Robot Control Tasks involving Dynamics and LSTM-based Control Policies"
+    },
+    {
+      "paperId": "1256ae1fdb45313bd43edd624cbdfc33c0d4f8f5",
+      "title": "Interactive Attention Model Explorer for Natural Language Processing Tasks with Unbalanced Data Sizes"
+    },
+    {
+      "paperId": "59aab88aba5115e6af18e7f0c32b692a17091c56",
+      "title": "Deep Reinforcement Learning for Intelligent Transportation Systems: A Survey"
+    },
+    {
+      "paperId": "76a9f336481b39515d6cea2920696f11fb686451",
+      "title": "Quantifying Attention Flow in Transformers"
+    },
+    {
+      "paperId": "f1321f2df5bc686d3adfba8eae06a6c12cb88ef8",
+      "title": "Explainable Deep Learning: A Field Guide for the Uninitiated"
+    },
+    {
+      "paperId": "06f653975801cb286b93cf237a6ac9284fa3d7e6",
+      "title": "COGAM: Measuring and Moderating Cognitive Load in Machine Learning Model Explanations"
+    },
+    {
+      "paperId": "7ce084200a2ce6880b26f8b13bba7871390c7f5d",
+      "title": "Interactive Visual Data Analysis"
+    },
+    {
+      "paperId": "1b6fef549f1753b5a2a16059078f9481774ec481",
+      "title": "NJM-Vis: interpreting neural joint models in NLP"
+    },
+    {
+      "paperId": "92988b0ddfca2878c9220f1ad1911fd21e57e9e4",
+      "title": "Deep Dive into Deep Neural Networks with Flows"
+    },
+    {
+      "paperId": "91cfedb038f2671ce5862c8a5bcd8190b4fc426f",
+      "title": "Analyzing the Noise Robustness of Deep Neural Networks"
+    },
+    {
+      "paperId": "d5bf1794a94e926d70c095f5f82b8242064b469a",
+      "title": "Doctor XAI: an ontology-based approach to black-box sequential data classification explanations"
+    },
+    {
+      "paperId": "4627d3fd86423fe911ee40b8eb35b1e389ab41fd",
+      "title": "The philosophical basis of algorithmic recourse"
+    },
+    {
+      "paperId": "7d089d4cc4aff5c10c1704f02119e2487fc898c9",
+      "title": "Questioning the AI: Informing Design Practices for Explainable AI User Experiences"
+    },
+    {
+      "paperId": "cf499273815912ce8959df132dd9e1d055000034",
+      "title": "CNN 101: Interactive Visual Learning for Convolutional Neural Networks"
+    },
+    {
+      "paperId": "f6dcb40cd150b8fa95873bf2ac82c67d3bed3ee4",
+      "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "paperId": "f7774f83d0dca26b0403fc76912af3484eb6c4b7",
+      "title": "XAI\u2014Explainable artificial intelligence"
+    },
+    {
+      "paperId": "f49d5e25919cb9c8cacb6216d5dd2ffc41031c87",
+      "title": "TopoAct: Visually Exploring the Shape of Activations in Deep Learning"
+    },
+    {
+      "paperId": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library"
+    },
+    {
+      "paperId": "0f9c4a03a903abe206f8389a5f17d85c9e8999ce",
+      "title": "Visualizing surrogate decision trees of convolutional neural networks"
+    },
+    {
+      "paperId": "530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI"
+    },
+    {
+      "paperId": "0bcb25e1e6f427fe46fdb4406e43cadd8d85f4b6",
+      "title": "Towards Enhancing RadViz Analysis and Interpretation"
+    },
+    {
+      "paperId": "4e7b11e07aaebe17de0ff3a720a6f9f6b70c7bc2",
+      "title": "Toward a Quantitative Survey of Dimension Reduction Techniques"
+    },
+    {
+      "paperId": "f187ce8f89c243724aabd4bd29591c8c580ef851",
+      "title": "FACE: Feasible and Actionable Counterfactual Explanations"
+    },
+    {
+      "paperId": "d4e2534eb6473db9712420b43092f4e84d980412",
+      "title": "SANVis: Visual Analytics for Understanding Self-Attention Networks"
+    },
+    {
+      "paperId": "78a0c951706c88901c45fa1ee5709160beb7032b",
+      "title": "DRLViz: Understanding Decisions and Memory in Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "65baf4a35ad88c42354100f3a473bd755ecc1e1c",
+      "title": "DeepCompare: Visual and Interactive Comparison of Deep Learning Model Performance"
+    },
+    {
+      "paperId": "dfc1eca39d165ebf8e9a82fd18da2419f5a2b5c9",
+      "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures"
+    },
+    {
+      "paperId": "13ee6d92db3d842fabaa4e43d3385d454f7f2a0b",
+      "title": "explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning"
+    },
+    {
+      "paperId": "46c266b3d1274dacd7fce27ee8cb4d587f087a58",
+      "title": "Machine Learning Interpretability: A Survey on Methods and Metrics"
+    },
+    {
+      "paperId": "88d960d214a53d8599bf4fe982493df656bb33c9",
+      "title": "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference"
+    },
+    {
+      "paperId": "9a88c950ecc0275ce517f35c79280e223c24ff4c",
+      "title": "The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations"
+    },
+    {
+      "paperId": "1f6b9766374d14d81c225c2ced5bb02fe0bccd43",
+      "title": "The What-If Tool: Interactive Probing of Machine Learning Models"
+    },
+    {
+      "paperId": "06645d735b59b14479ae1d0392136bbf44227d0f",
+      "title": "DARPA's Explainable Artificial Intelligence (XAI) Program"
+    },
+    {
+      "paperId": "d58fd97d7a8308a20b159bbaf02011e26c323852",
+      "title": "A Review of Recurrent Neural Networks: LSTM Cells and Network Architectures"
+    },
+    {
+      "paperId": "0de0a44b859a3719d11834479112314b4caba669",
+      "title": "A Multiscale Visualization of Attention in the Transformer Model"
+    },
+    {
+      "paperId": "99550cbf48c0eab75cb66594d2feff56b5f5510e",
+      "title": "DeepVID: Deep Visual Interpretation and Diagnosis for Image Classifiers via Knowledge Distillation"
+    },
+    {
+      "paperId": "07bc27b5e2f829ae102f31dbd783899993717039",
+      "title": "How Case-Based Reasoning Explains Neural Networks: A Theoretical Analysis of XAI Using Post-Hoc Explanation-by-Example from a Survey of ANN-CBR Twin-Systems"
+    },
+    {
+      "paperId": "d424d2a1585d49eb52fb3aae3168b000f5992aad",
+      "title": "NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"
+    },
+    {
+      "paperId": "26eb706ce9ece8fdff8707e6b558362fbec69895",
+      "title": "FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning"
+    },
+    {
+      "paperId": "6d12066235ef3e76e7f130d9d7179f4625c813a0",
+      "title": "RadViz++: Improvements on Radial-Based Visualizations"
+    },
+    {
+      "paperId": "cd8b77d0cedfc1507939b74457f59b6ce5279bac",
+      "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+    },
+    {
+      "paperId": "5b8a01e224443eccdac36768fb8ad63e1c6a4ae2",
+      "title": "V\u2010Awake: A Visual Analytics Approach for Correcting Sleep Predictions from Deep Learning Models"
+    },
+    {
+      "paperId": "b101176e80a63abdf9556c9b075b66ec916c78e7",
+      "title": "Explaining Explanations to Society"
+    },
+    {
+      "paperId": "8452941a175c899628c679523da952b18f63e335",
+      "title": "A survey of the recent architectures of deep convolutional neural networks"
+    },
+    {
+      "paperId": "2bc964de46c4a2068ea5b11591c390f242672a5a",
+      "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks"
+    },
+    {
+      "paperId": "b01a871cff4d2e35719d8639392fbf6c55858057",
+      "title": "NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models"
+    },
+    {
+      "paperId": "bf0881e9d3d6d0cf698ada72a42c257c7f8155aa",
+      "title": "Vulnus: Visual Vulnerability Analysis for Network Security"
+    },
+    {
+      "paperId": "30ba41094ddd8aaf1b1d142891781e5612a8818a",
+      "title": "Visual Reasoning of Feature Attribution with Deep Recurrent Neural Networks"
+    },
+    {
+      "paperId": "df5d893638a668dda246e6bad9a5387f86f74bb6",
+      "title": "A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems"
+    },
+    {
+      "paperId": "b59646ddc6c102da27d42097d99f1deada65c84a",
+      "title": "Towards Explainable NLP: A Generative Explanation Framework for Text Classification"
+    },
+    {
+      "paperId": "8dc8f3e0127adc6985d4695e9b69d04717b2fde8",
+      "title": "Sanity Checks for Saliency Maps"
+    },
+    {
+      "paperId": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+      "title": "How Powerful are Graph Neural Networks?"
+    },
+    {
+      "paperId": "ff3b3bf3427b15e86e7e9a86ebfeef40efb2c540",
+      "title": "Going beyond Visualization. Verbalization as Complementary Medium to Explain Machine Learning Models"
+    },
+    {
+      "paperId": "cb8a1b8d87a3fef15635eb4a32173f9c6f966055",
+      "title": "A Survey on Deep Learning"
+    },
+    {
+      "paperId": "21dff47a4142445f83016da0819ffe6dd2947f66",
+      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)"
+    },
+    {
+      "paperId": "98689eb943f20e58296cb4f4c15f702ce7041121",
+      "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation"
+    },
+    {
+      "paperId": "8a0cda61d34c267fa9029b6a13e39508e473e92c",
+      "title": "EmbeddingVis: A Visual Analytics Approach to Comparative Network Embedding Inspection"
+    },
+    {
+      "paperId": "fdfd517e3bc1157789428e2455a82402a3f24a72",
+      "title": "DeepTracker"
+    },
+    {
+      "paperId": "9235d511dea04aa563a577ab236506b8eb8242ff",
+      "title": "A Survey on Deep Transfer Learning"
+    },
+    {
+      "paperId": "8d904d49cb178def9a15fbea955d427d85cad2f5",
+      "title": "Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models"
+    },
+    {
+      "paperId": "cc145f046788029322835979a14459652da7247e",
+      "title": "This looks like that: deep learning for interpretable image recognition"
+    },
+    {
+      "paperId": "d00c7fc5201405d5411b5ad3da93c5575ce8f10e",
+      "title": "RISE: Randomized Input Sampling for Explanation of Black-box Models"
+    },
+    {
+      "paperId": "3634e7e779aeb761c67920f43a03040e35625df0",
+      "title": "GANViz: A Visual Analytics Approach to Understand the Adversarial Game"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "39361b3507c9f8b0a97780568b645f80a208d78a",
+      "title": "Machine Learning and Deep Learning Methods for Cybersecurity"
+    },
+    {
+      "paperId": "1abec8d03b8d1435ae920edea9b437be913a30ca",
+      "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+    },
+    {
+      "paperId": "92d7848fe040eaa633d287aba9e25edd2abfc015",
+      "title": "Visualizing Deep Neural Networks for Text Analytics"
+    },
+    {
+      "paperId": "7ddc973a3243d6d6559c9aa5da976670552e2784",
+      "title": "Visual Analytics for Explainable Deep Learning"
+    },
+    {
+      "paperId": "d18ca02e6edf87485950000161050ea4cd375ce6",
+      "title": "TSViz: Demystification of Deep Learning Models for Time-Series Analysis"
+    },
+    {
+      "paperId": "f7325d232c7ac7d2daaf6605377058db5b5b83cc",
+      "title": "A Survey of Methods for Explaining Black Box Models"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "682b9d2212258fd5edbfca589c86390c31a956b0",
+      "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"
+    },
+    {
+      "paperId": "b4e669bae43216cb0e77836a411b88dea4bb6034",
+      "title": "Visualizing and Understanding Atari Agents"
+    },
+    {
+      "paperId": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+      "title": "Graph Attention Networks"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "eb88646aeeb3ffc48566d7357495b12c035eccb9",
+      "title": "Do Convolutional Neural Networks Learn Class Hierarchy?"
+    },
+    {
+      "paperId": "7b47ee7404e22629529691840e296c229f6535f1",
+      "title": "CNNComparator: Comparative Analytics of Convolutional Neural Networks"
+    },
+    {
+      "paperId": "4f309712e705210df5695240a5d5fb53ea1f8641",
+      "title": "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR"
+    },
+    {
+      "paperId": "1e655acc3af7636295a2be5e2611e439341876f2",
+      "title": "Direct-Manipulation Visualization of Deep Networks"
+    },
+    {
+      "paperId": "00ff024e0800db79a8f7c661b47357fc98e6c0af",
+      "title": "Adversarial-Playground: A visualization suite showing how adversarial examples fool deep learning"
+    },
+    {
+      "paperId": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "title": "Attention is All you Need"
+    },
+    {
+      "paperId": "442e10a3c6640ded9408622005e3c2a8906ce4c2",
+      "title": "A Unified Approach to Interpreting Model Predictions"
+    },
+    {
+      "paperId": "78f05cbe614cfb8ab4aaebdda6701eb0eb5148ae",
+      "title": "A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations"
+    },
+    {
+      "paperId": "482b80331f4dd40df0c11928ff6b97c5853bf9a5",
+      "title": "ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation"
+    },
+    {
+      "paperId": "744464cd6fa8341633cd3b5d378faab18a3b543a",
+      "title": "Network Dissection: Quantifying Interpretability of Deep Visual Representations"
+    },
+    {
+      "paperId": "7380e343dd4547e21d5118b16daf03d021d98c4e",
+      "title": "Interpretable Explanations of Black Boxes by Meaningful Perturbation"
+    },
+    {
+      "paperId": "01c2c083906aa9deedbf213c548750d4405e39cf",
+      "title": "ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models"
+    },
+    {
+      "paperId": "c269858a7bb34e8350f2442ccf37797856ae9bca",
+      "title": "Prototypical Networks for Few-shot Learning"
+    },
+    {
+      "paperId": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+      "title": "Understanding Black-box Predictions via Influence Functions"
+    },
+    {
+      "paperId": "f302e136c41db5de1d624412f68c9174cf7ae8be",
+      "title": "Axiomatic Attribution for Deep Networks"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "9d0ad8d05ad1e0f5d018cc1e17fc2dd27685039b",
+      "title": "Embedding Projector: Interactive Visualization and Interpretation of Embeddings"
+    },
+    {
+      "paperId": "d35b05f440b5ba00d9429139edef7182bf9f7ce7",
+      "title": "Learning to Navigate in Complex Environments"
+    },
+    {
+      "paperId": "5582bebed97947a41e3ddd9bd1f284b73f1648c2",
+      "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization"
+    },
+    {
+      "paperId": "36eff562f65125511b5dfab68ce7f7a943c27478",
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "d516daff247f7157fccde6649ace91d969cd1973",
+      "title": "The mythos of model interpretability"
+    },
+    {
+      "paperId": "61938257dcd466f868c5c81ac5b2eebec0fdd0ee",
+      "title": "Deep Learning Applications for Predicting Pharmacological Properties of Drugs and Drug Repurposing Using Transcriptomic Data."
+    },
+    {
+      "paperId": "2b10281297ee001a9f3f4ea1aa9bea6b638c27df",
+      "title": "OpenAI Gym"
+    },
+    {
+      "paperId": "034fef5b0f291df6ebee8b639505acdcfb21d791",
+      "title": "Hierarchical Stochastic Neighbor Embedding"
+    },
+    {
+      "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": "4954fa180728932959997a4768411ff9136aac81",
+      "title": "TensorFlow: A system for large-scale machine learning"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "c0883f5930a232a9c1ad601c978caede29155979",
+      "title": "\u201cWhy Should I Trust You?\u201d: Explaining the Predictions of Any Classifier"
+    },
+    {
+      "paperId": "7200969d70cf6f3fd343f48e97b8ebf7d563a584",
+      "title": "Graying the black box: Understanding DQNs"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "848252faf2156c12c7ce1a8ada0b5cafdb380710",
+      "title": "An Interactive Node-Link Visualization of Convolutional Neural Networks"
+    },
+    {
+      "paperId": "17a273bbd4448083b01b5a9389b3c37f5425aac0",
+      "title": "On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation"
+    },
+    {
+      "paperId": "1b5a24639fa80056d1a17b15f6997d10e76cc731",
+      "title": "Understanding Neural Networks Through Deep Visualization"
+    },
+    {
+      "paperId": "a042afeb1bee81f00191d5f8179fcd1ae149278e",
+      "title": "ModelTracker: Redesigning Performance Analysis Tools for Machine Learning"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "4d8f2d14af5991d4f0d050d22216825cac3157bd",
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"
+    },
+    {
+      "paperId": "235cd3bec06460798434c53aff1a97a0627658f8",
+      "title": "Axis Calibration for Improving Data Attribute Estimation in Star Coordinates Plots"
+    },
+    {
+      "paperId": "4d790c8fae40357d24813d085fa74a436847fb49",
+      "title": "Understanding deep image representations by inverting them"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "64c66fb39a964e17ef3f936782062e07184c9736",
+      "title": "Visual Methods for Analyzing Probabilistic Classification Data"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108",
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+    },
+    {
+      "paperId": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+    },
+    {
+      "paperId": "0c3dcc31a3760776e012f7739de5380f5092a561",
+      "title": "Word Cloud Explorer: Text Analytics Based on Word Clouds"
+    },
+    {
+      "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+      "title": "Auto-Encoding Variational Bayes"
+    },
+    {
+      "paperId": "2319a491378867c7049b3da055c5df60e1671158",
+      "title": "Playing Atari with Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "ef96938202d4b338b4b6b265c8305c7d056a5815",
+      "title": "A Deeper Understanding of Sequence in Narrative Visualization"
+    },
+    {
+      "paperId": "1a2a770d23b4a171fa81de62a78a3deb0588f238",
+      "title": "Visualizing and Understanding Convolutional Networks"
+    },
+    {
+      "paperId": "9faae5d91c4371543ad671c1750b5344f56d88eb",
+      "title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering"
+    },
+    {
+      "paperId": "4dd9593f4738575904420919c70d5cf6f645c729",
+      "title": "Rule extraction from neural networks \u2014 A comparative study"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "053912e76e50c9f923a1fc1c173f1365776060cc",
+      "title": "On optimization methods for deep learning"
+    },
+    {
+      "paperId": "06ca490fb0eb70c8e328deb2f43a78fbfc5d5195",
+      "title": "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz"
+    },
+    {
+      "paperId": "83dfe3980b875c4e5fe6f2cb1df131cc46d175c8",
+      "title": "Deconvolutional networks"
+    },
+    {
+      "paperId": "4e6238c8613b5b81f81552939bce33296aedfbfe",
+      "title": "How to Explain Individual Classification Decisions"
+    },
+    {
+      "paperId": "ad3fe16611312d4e58f7a7f90a21a7230f5ec6f6",
+      "title": "Usability evaluation considered harmful (some of the time)"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "33d1a0f2bfdbce75eb2949c5bae7a2ef78994353",
+      "title": "Toward accurate dynamic time warping in linear time and space"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "1a48a894c393c7a44bd8eab0326936a925019777",
+      "title": "Revealing structure within clustered parallel coordinates displays"
+    },
+    {
+      "paperId": "daedb2a39cc641933bdf1b568e8ff2c3fa305f45",
+      "title": "Visualizing live text streams using motion and temporal pooling"
+    },
+    {
+      "paperId": "f6654f773f3bd7844dca4e64766311942121ed83",
+      "title": "Ordered treemap layouts"
+    },
+    {
+      "paperId": "c7ae5fd1d068fae58a0f7d2a5b572638db74c7fc",
+      "title": "Violin plots : A box plot-density trace synergism"
+    },
+    {
+      "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "title": "Long Short-Term Memory"
+    },
+    {
+      "paperId": "8e11c005dcfd213e01b9485932190a05f3b8e55b",
+      "title": "DNA visual and analytic data mining"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "bb58ed6702f6c63bcd162f661f9571a24011cccd",
+      "title": "Extracting Tree-Structured Representations of Trained Networks"
+    },
+    {
+      "paperId": "fca0e8bb93a8242c153ef966cefade5e19e5ed21",
+      "title": "Feature Visualization"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "18f355d7ef4aa9f82bf5c00f84e46714efa5fd77",
+      "title": "Dynamic programming algorithm optimization for spoken word recognition"
+    },
+    {
+      "paperId": null,
+      "title": "5thVISxAIworkshop at IEEEVIS 2022 (2022)"
+    },
+    {
+      "paperId": "a9c07a60696a165aed09f0f772cc51ff52574a07",
+      "title": "Exploring Neural Language Models via Analysis of Local and Global Self-Attention Spaces"
+    },
+    {
+      "paperId": "131c722acc1170805e2b9ca48b0202f56b661a05",
+      "title": "VATUN: Visual Analytics for Testing and Understanding Convolutional Neural Networks"
+    },
+    {
+      "paperId": "1ef173c57623d0b6578df1776ae2c63a6ec320b2",
+      "title": "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
+    },
+    {
+      "paperId": null,
+      "title": "Explainable AI approaches for debugging and diagnosis"
+    },
+    {
+      "paperId": "04c6401d5212a9dfee397bd3e315b06d5881d5ab",
+      "title": "A Taxonomy of Treemap Visualization Techniques"
+    },
+    {
+      "paperId": "05a63d5c5e1bfb676ea8c5f89eb93a790545f72f",
+      "title": "A Generic Model for Projection Alignment Applied to Neural Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Interactive visualization for explaining value-level feature attribution in event prediction with RNNs"
+    },
+    {
+      "paperId": null,
+      "title": "Visually exploring contrastive explanation for diagnostic risk prediction on electronic health records"
+    },
+    {
+      "paperId": "81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+      "title": "A Comprehensive Survey on Graph Neural Networks"
+    },
+    {
+      "paperId": "23f75fc5f897830be0686c9ed1997862ff4040b4",
+      "title": "Visualizing deep neural network by alternately image blurring and deblurring"
+    },
+    {
+      "paperId": "548aa59905693f84e95515c6134cd5352a97ca76",
+      "title": "Scatterplots: Tasks, Data, and Designs"
+    },
+    {
+      "paperId": "173d1555d3efc60956acda6c85165292546c5c38",
+      "title": "Artificial Neural Networks and Machine Learning \u2013 ICANN 2018"
+    },
+    {
+      "paperId": "c68796f833a7151f0a63d1d1608dc902b4fdc9b6",
+      "title": "GENERATIVE ADVERSARIAL NETS"
+    },
+    {
+      "paperId": "1554134e34366adcd69cd021a0b930a003ae789e",
+      "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "paperId": "01eaf00f5d6d914c7a2c737a823ddff8d9d09e73",
+      "title": "Neural Network Methods for Natural Language Processing"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "719e2d717c4954b058a32c609b8171319299f8fb",
+      "title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "paperId": "39c286e4bc503d956eaab695392260a7f0232746",
+      "title": "Evolutionary Visual Analysis of Deep Neural Networks"
+    },
+    {
+      "paperId": "d440e1305fe28f36170e2c705b932736d2e1a951",
+      "title": "Plug-and-Play Interactive Deep Network Visualization"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82",
+      "title": "Deep Learning"
+    },
+    {
+      "paperId": null,
+      "title": "Machine Learning, Lille, France"
+    },
+    {
+      "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+      "title": "State of the Art of Parallel Coordinates"
+    },
+    {
+      "paperId": "10f5a7aace444acf7bf7dc1d9d58a54901b0079e",
+      "title": "The European Future Technologies Conference and Exhibition 2011 Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "European Future Technologies Conference and Exhibition"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "65d994fb778a8d9e0f632659fb33a082949a50d3",
+      "title": "Visualizing Higher-Layer Features of a Deep Network"
+    },
+    {
+      "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086",
+      "title": "Learning Multiple Layers of Features from Tiny Images"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "06c4559125ddaa4371883541518eb6c4e736436d",
+      "title": "Mining Frequent Patterns without Candidate Generation: A Frequent-Pattern Tree Approach"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": "6a3c1f85826a77d80e1c7b3b3812af30c54cc256",
+      "title": "Star Coordinates: A Multi-dimensional Visualization Technique with Uniform Treatment of Dimensions"
+    },
+    {
+      "paperId": null,
+      "title": "S\u00e9miologie Graphique"
+    },
+    {
+      "paperId": null,
+      "title": "A Quantitative User Study (five papers) involves participants recruited to interact with the system and answer a questionnaire [vdBCR*20, HJZ*21, DWSZ20, JKV*22, PDD*22]"
+    }
+  ]
+}

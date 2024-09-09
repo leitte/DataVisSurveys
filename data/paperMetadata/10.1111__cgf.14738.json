@@ -1,0 +1,964 @@
+{
+  "paperId": "e5813d906cabc396d0680b2f2eefa8c80482fd0a",
+  "externalIds": {
+    "DBLP": "journals/cgf/KutakVIKBBKM23",
+    "DOI": "10.1111/cgf.14738",
+    "CorpusId": 257187626
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/e5813d906cabc396d0680b2f2eefa8c80482fd0a",
+  "title": "State of the Art of Molecular Visualization in Immersive Virtual Environments",
+  "abstract": "Visualization plays a crucial role in molecular and structural biology. It has been successfully applied to a variety of tasks, including structural analysis and interactive drug design. While some of the challenges in this area can be overcome with more advanced visualization and interaction techniques, others are challenging primarily due to the limitations of the hardware devices used to interact with the visualized content. Consequently, visualization researchers are increasingly trying to take advantage of new technologies to facilitate the work of domain scientists. Some typical problems associated with classic 2D interfaces, such as regular desktop computers, are a lack of natural spatial understanding and interaction, and a limited field of view. These problems could be solved by immersive virtual environments and corresponding hardware, such as virtual reality head\u2010mounted displays. Thus, researchers are investigating the potential of immersive virtual environments in the field of molecular visualization. There is already a body of work ranging from educational approaches to protein visualization to applications for collaborative drug design. This review focuses on molecular visualization in immersive virtual environments as a whole, aiming to cover this area comprehensively. We divide the existing papers into different groups based on their application areas, and types of tasks performed. Furthermore, we also include a list of available software tools. We conclude the report with a discussion of potential future research on molecular visualization in immersive environments.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2023,
+  "referenceCount": 220,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14738",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-02-24",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "42"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ku\u0165\u00e1k2023StateOT,\n author = {David Ku\u0165\u00e1k and Pere-Pau V\u00e1zquez and Tobias Isenberg and M. Krone and M. Baaden and J. By\u0161ka and B. Kozl\u00edkov\u00e1 and H. Miao},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art of Molecular Visualization in Immersive Virtual Environments},\n volume = {42},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "104271473",
+      "name": "David Ku\u0165\u00e1k"
+    },
+    {
+      "authorId": "143778475",
+      "name": "Pere-Pau V\u00e1zquez"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    },
+    {
+      "authorId": "145564548",
+      "name": "M. Krone"
+    },
+    {
+      "authorId": "1947243",
+      "name": "M. Baaden"
+    },
+    {
+      "authorId": "2633669",
+      "name": "J. By\u0161ka"
+    },
+    {
+      "authorId": "1746714",
+      "name": "B. Kozl\u00edkov\u00e1"
+    },
+    {
+      "authorId": "2692553",
+      "name": "H. Miao"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "fd743673991d2ffb9f7167ecd92b5d603d55c7da",
+      "title": "Learning with augmented reality: Impact of dimensionality and spatial abilities"
+    },
+    {
+      "paperId": "f41d26b16372e68598152bf78044f60b40445c62",
+      "title": "Extended reality applications in industry 4.0. - A systematic literature review"
+    },
+    {
+      "paperId": "7cdc2cfe7f7d92a4d8c3e53acc35828d710f8285",
+      "title": "Immersive virtual reality in the age of the Metaverse: A hybrid-narrative review based on the technology affordance perspective"
+    },
+    {
+      "paperId": "4da8d09eda32383a27bb7caec5cd7634ca7d4106",
+      "title": "Understanding differences between combinations of 2D and 3D input and output devices for 3D data visualization"
+    },
+    {
+      "paperId": "8a86b8e03def776d0064c4abb76249c95fb645d7",
+      "title": "Online tools to easily build virtual molecular models for display in augmented and virtual reality on the web."
+    },
+    {
+      "paperId": "4d0e887652eab07cd01ea3cacfc8fede233d9909",
+      "title": "Wielding the power of interactive molecular simulations"
+    },
+    {
+      "paperId": "b35117a5d697edb3f0ece83fabb8e974dfe2e030",
+      "title": "Nanotilus: Generator of Immersive Guided-Tours in Crowded 3D Environments"
+    },
+    {
+      "paperId": "8a5552b227a417b8d3b3b23bc4956d2961650912",
+      "title": "ProMVR - Protein Multiplayer Virtual Reality Tool"
+    },
+    {
+      "paperId": "1da0f5cb9506ade6e8690b90ebd69abb4087d2c9",
+      "title": "Augmented reality and virtual reality displays: emerging technologies and future perspectives"
+    },
+    {
+      "paperId": "b00cc531f4872dcff8577fc238f70a088eef3b56",
+      "title": "All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda"
+    },
+    {
+      "paperId": "2dd94f5bd6d480fddc7237d360dc7b634ed26e0a",
+      "title": "Identifying the Characteristics of Virtual Reality Gamification for Complex Educational Topics"
+    },
+    {
+      "paperId": "bcc7a3fa054988df03a6a3091803a4d83ad7c49d",
+      "title": "Vivern\u2013A Virtual Environment for Multiscale Visualization and Modeling of DNA Nanostructures"
+    },
+    {
+      "paperId": "9efa619a6927e2da20f2ac585f882f18d03d6b04",
+      "title": "Designing and Implementing VR2E2C, a Virtual Reality Remote Education for Experimental Chemistry System"
+    },
+    {
+      "paperId": "93cd24e601b2708d6dc1f49009dc18c47cdaf89a",
+      "title": "Visual Analysis of Large\u2010Scale Protein\u2010Ligand Interaction Data"
+    },
+    {
+      "paperId": "7cf1e071e7cd32228cd6625ba29c3616abc56500",
+      "title": "Development and use of augmented reality models to teach medicinal chemistry."
+    },
+    {
+      "paperId": "e7efecb246f848dae352d59855672db3c116c689",
+      "title": "Virtual and augmented reality for biomedical applications"
+    },
+    {
+      "paperId": "466d3b1fe53173392e9cc5d272ac4ebbdf8c6173",
+      "title": "A Collaborative Molecular Graphics Tool for Knowledge Dissemination with Augmented Reality and 3D Printing"
+    },
+    {
+      "paperId": "07f412ecd375d6e974d0ea35a11cf806ec7b455a",
+      "title": "Pepblock Builder VR \u2013 An Open-Source Tool for Gaming-Based Bio-Edutainment in Interactive Protein Design"
+    },
+    {
+      "paperId": "fa12de6099f6a2c75bc50392ea7797240fd49762",
+      "title": "InteraChem: Virtual Reality Visualizer for Reactive Interactive Molecular Dynamics"
+    },
+    {
+      "paperId": "f027f681892f18d30e6129c0400526852005c9b6",
+      "title": "The VRNetzer platform enables interactive network analysis in Virtual Reality"
+    },
+    {
+      "paperId": "5dba64103f4becfe0e75de08effbe88b02d789a8",
+      "title": "Developing and Using BioSIMAR, an Augmented Reality Program to Visualize and Learn about Chemical Structures in a Virtual Environment on Any Internet-Connected Device"
+    },
+    {
+      "paperId": "f113ff3d21cc9b80b072787b0de177b6d60bc442",
+      "title": "Cybersickness in current-generation virtual reality head-mounted displays: systematic review and outlook"
+    },
+    {
+      "paperId": "c57ed482731b8909554a3ac33efedb02649e08f7",
+      "title": "Virtual reality: A survey of enabling technologies and its applications in IoT"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "2c55d469fc923c5f1f64f8c2146f603d70461908",
+      "title": "Development and assessment of CootVR, a virtual reality computer program for model building"
+    },
+    {
+      "paperId": "dcf7025caa17e8aa7c54843fa303dbfbf9e7446e",
+      "title": "Exploring Chemistry with Wireless, PC-Less Portable Virtual Reality Laboratories"
+    },
+    {
+      "paperId": "cd1a18f712794dcd5d61d04be9c94de368eb3aa9",
+      "title": "Learning organic chemistry with virtual reality"
+    },
+    {
+      "paperId": "e7ddba6cdac89c7f032db941e6b3df3ff15c39d6",
+      "title": "Collaborative Work in Augmented Reality: A Survey"
+    },
+    {
+      "paperId": "68817b66492052ccf693134509196f3d9ff7c83d",
+      "title": "Combining Virtual Reality Visualization with Ensemble Molecular Dynamics to Study Complex Protein Conformational Changes"
+    },
+    {
+      "paperId": "e225136664d77e6abff0b41d61deb2d06f622479",
+      "title": "MoleculARweb: A Web Site for Chemistry and Structural Biology Education through Interactive Augmented Reality out of the Box in Commodity Devices"
+    },
+    {
+      "paperId": "c37af648cb32dfba2f8767a9fd41e13467ef13f9",
+      "title": "An immersive journey to the molecular structure of SARS-CoV-2: Virtual reality in COVID-19"
+    },
+    {
+      "paperId": "4c57c10dd18d12874aaf9f12c844011ca4d2cb18",
+      "title": "Real-Time Interactive Simulation and Visualization of Organic Molecules"
+    },
+    {
+      "paperId": "1b37137dfd78989b1a488912bff1e88a7317f8b9",
+      "title": "ChemVA: Interactive Visual Analysis of Chemical Compound Similarity in Virtual Screening"
+    },
+    {
+      "paperId": "9d3def9ee2e4b72e9251532386e8dd1f4cfd2c2a",
+      "title": "FAIR sharing of molecular visualization experiences: from pictures in the cloud to collaborative virtual reality exploration in immersive 3D environments"
+    },
+    {
+      "paperId": "bc5a8d582c2f0f104b4fe9e057144f67b29ed48c",
+      "title": "CSynth: an interactive modelling and visualization tool for 3D chromatin structure"
+    },
+    {
+      "paperId": "1b3e6df89468ad832108b2b581a04d3d015b5177",
+      "title": "Interactive Molecular Dynamics in Virtual Reality Is an Effective Tool for Flexible Substrate and Inhibitor Docking to the SARS-CoV-2 Main Protease"
+    },
+    {
+      "paperId": "34c3ad1c7c9076d34291c79c959e50ca4fe3cac6",
+      "title": "Narupa iMD: A VR-Enabled Multiplayer Framework for Streaming Interactive Molecular Simulations"
+    },
+    {
+      "paperId": "cdce847611bf8ccb3cc0fb9ebbb0f920d34723b8",
+      "title": "Visualizing molecular structures and shapes: a comparison of virtual reality, computer simulation, and traditional modeling"
+    },
+    {
+      "paperId": "6c1820e4e81f5acdd75e35d15f7bd078a1611e0d",
+      "title": "Interacting with Three-Dimensional Molecular Structures Using an Augmented Reality Mobile App"
+    },
+    {
+      "paperId": "2f5c4fafcf4d1cad3a1751d75eec28fae3dda954",
+      "title": "VRmol: an integrative web-based virtual reality system to explore macromolecular structure"
+    },
+    {
+      "paperId": "c6e002dcc2321b68927a83c3cdd01248ff85acca",
+      "title": "Augmented Reality and Virtual Reality Displays: Perspectives and Challenges"
+    },
+    {
+      "paperId": "5eb85247d537f41dc4f9afa05263003dd694f6c6",
+      "title": "Fast, Simple, Student Generated Augmented Reality Approach for Protein Visualization in the Classroom and Home Study"
+    },
+    {
+      "paperId": "4baea6e6ca74597feaa6ce691c41577a67e87b54",
+      "title": "Does gamification improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts"
+    },
+    {
+      "paperId": "e3c3f356187310ed42044f0595648536f7bb1f29",
+      "title": "VSEPR Theory, An Interactive and Immersive Virtual Reality"
+    },
+    {
+      "paperId": "fc4988dac0310e9a5771e5c9ce7d6fee551c7690",
+      "title": "Teaching Biochemistry and Molecular Biology with Virtual Reality \u2014 Lesson Creation and Student Response"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "1c8b6a09bd6a598f3a748a544a0a16897b9a0821",
+      "title": "An idea to explore: Use of augmented reality for teaching three\u2010dimensional biomolecular structures"
+    },
+    {
+      "paperId": "053afd6b625ff59a5a96c9bf395962dff949d34c",
+      "title": "ProteinVR: Web-based molecular visualization in virtual reality"
+    },
+    {
+      "paperId": "1887c6659da7de1a4e64c93969e19aba782624f5",
+      "title": "A never-ending story in the sky: The secrets of chemical evolution."
+    },
+    {
+      "paperId": "8d8f5b7ee594aa8509f2d3a943645b7026ae2c05",
+      "title": "HyperLabels: Browsing of Dense and Hierarchical Molecular 3D Models"
+    },
+    {
+      "paperId": "f33567cd340c3ced89c203c0ceb6058cc202a186",
+      "title": "An accessible, open\u2010source mobile application for macromolecular visualization using augmented reality"
+    },
+    {
+      "paperId": "ec9efb4712d38553f3aeeac3351277ee98c6c6d6",
+      "title": "Augmented reality in scientific visualization and communications: a new dawn of looking at antibody interactions"
+    },
+    {
+      "paperId": "e252ccc4d75fa9366f316e9cf93dd0bd971364bf",
+      "title": "Building blocks for commodity augmented reality-based molecular visualization and modeling in web browsers"
+    },
+    {
+      "paperId": "bba5978484503c95f2051cd4abc309c21e15de00",
+      "title": "vLUME: 3D virtual reality for single-molecule localization microscopy"
+    },
+    {
+      "paperId": "62b6b267e2e5c8f5b9f1391bf92f0cc8e234368b",
+      "title": "BiochemAR: An Augmented Reality Educational Tool for Teaching Macromolecular Structure and Function"
+    },
+    {
+      "paperId": "4b4ae8087d22c129605a2257534cdb474c124395",
+      "title": "Seven Myths on Crowding and Peripheral Vision"
+    },
+    {
+      "paperId": "19a9a6776c94be4e9f00f87ca8ea204013c681a9",
+      "title": "Molecular Genomics Education Through Gamified Cell Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "3dd4fb62020a037025819de9a4a7c283ffc97520",
+      "title": "Dynamic Virtual Proteins: Visualization, Interaction and Collaboration in Virtual Reality"
+    },
+    {
+      "paperId": "457a02bf91e98825bd424a1d61a7d47d4b2cc9cf",
+      "title": "Molecular Graphics: Bridging Structural Biologists and Computer Scientists."
+    },
+    {
+      "paperId": "6912708ca1a2229273f797a17f249ce813e609ff",
+      "title": "Visualizing 3D Molecular Structures Using an Augmented Reality App"
+    },
+    {
+      "paperId": "5fc0b86569c3b183dc8585b32325f8b65fa39e60",
+      "title": "Visual Abstraction"
+    },
+    {
+      "paperId": "19a57d0977c8f59ece3c6e532e74ae42d4ef1ca0",
+      "title": "Head Mounted Display Interaction Evaluation: Manipulating Virtual Objects in Augmented Reality"
+    },
+    {
+      "paperId": "9bed3a7be7d3e2083ceec363aa29a623334478fc",
+      "title": "Visualizing biomolecular electrostatics in virtual reality with UnityMol\u2010APBS"
+    },
+    {
+      "paperId": "f56d3e37f1d351c6ade0e16e7445a2846b9f4a00",
+      "title": "Interactive molecular dynamics in virtual reality for accurate flexible protein-ligand docking"
+    },
+    {
+      "paperId": "86f6d135ad0fbd69476e12a88f7c920dad3b13c1",
+      "title": "Peppy: A Virtual Reality Environment for Exploring the Principles of Polypeptide Structure"
+    },
+    {
+      "paperId": "d305c022916ead58c46ea2a0ea708821d5028d5f",
+      "title": "LifeBrush: Painting, simulating, and visualizing dense biomolecular environments"
+    },
+    {
+      "paperId": "1a47e40aee163dfe75d20f23811458990f802151",
+      "title": "Scale Trotter: Illustrative Visual Travels Across Negative Scales"
+    },
+    {
+      "paperId": "f09ae5b6a068ceeef0612682bee9c834f6dda075",
+      "title": "Chemical Exploration with Virtual Reality in Organic Teaching Laboratories"
+    },
+    {
+      "paperId": "f1a1757f20889bd5af0d058fbaed0911b0ee4037",
+      "title": "Teaching Enzyme Catalysis Using Interactive Molecular Dynamics in Virtual Reality"
+    },
+    {
+      "paperId": "73ce45652164b2494bb1a5fc980b035618cd1024",
+      "title": "BigTop: a three-dimensional virtual reality tool for GWAS visualization"
+    },
+    {
+      "paperId": "db63fb0549432fc1af365d6379a46115a074e820",
+      "title": "Development of a virtual reality platform for effective communication of structural data in drug discovery."
+    },
+    {
+      "paperId": "a918a122c6b8b86bdf7d7198d0fb0005bb18acdb",
+      "title": "Analysis of Long Molecular Dynamics Simulations Using Interactive Focus+Context Visualization"
+    },
+    {
+      "paperId": "569f06e2b6c72553373b118bf186da6b0de0b70c",
+      "title": "Tasks, Techniques, and Tools for Genomic Data Visualization"
+    },
+    {
+      "paperId": "9fbdb97ed599c76b4fd9f79d5da2580a62a89196",
+      "title": "NOMAD VR: Multiplatform virtual reality viewer for chemistry simulations"
+    },
+    {
+      "paperId": "25a22627442edab666ca2c936aa6c6c3667e5893",
+      "title": "Optimised Molecular Graphics on the HoloLens"
+    },
+    {
+      "paperId": "fbcb3c320df17292f5b5915517f53316e34760c3",
+      "title": "Virtual Reality: Beyond Visualization."
+    },
+    {
+      "paperId": "2f18ae2880253c3704042b77f29808d355aa1b56",
+      "title": "Study of Commodity VR for Computational Material Sciences"
+    },
+    {
+      "paperId": "48d2135debb01b696856c7004de9aff68bb3e406",
+      "title": "An open-source multi-person virtual reality framework for interactive molecular dynamics: from quantum chemistry to drug binding"
+    },
+    {
+      "paperId": "d96f294cb6e66314c81a37d882f3a26ef055e67e",
+      "title": "Immersive Intelligence Genomic Data Visualisation"
+    },
+    {
+      "paperId": "971d2b309ccd0bb83b34bd74a7ad5ce7f614cb3f",
+      "title": "Game-Engine-Assisted Research platform for Scientific computing (GEARS) in Virtual Reality"
+    },
+    {
+      "paperId": "de132fdc5520d4642966994702c6b821697f1e9b",
+      "title": "Investigating the Nature of Students' Reasoning in Connecting Molecular Structures of Stereoisomers with their Physical Properties Using an AR App"
+    },
+    {
+      "paperId": "7d2ed9a76323cf16f506e06e0aff4c018e540817",
+      "title": "Ionic and Metallic Bonding Visualization Using Augmented Reality"
+    },
+    {
+      "paperId": "2be048352c294c634e3b597c9e0d595627d77f8b",
+      "title": "A practical guide to developing virtual and augmented reality exercises for teaching structural biology"
+    },
+    {
+      "paperId": "240525a82181ffe1054621eb2bec86b39cc4832a",
+      "title": "Using virtual reality for drug discovery: a promising new outlet for novel leads"
+    },
+    {
+      "paperId": "4cb729c21c316d77b1b73e82bc81603a2f315497",
+      "title": "CellPAINT: Interactive Illustration of Dynamic Mesoscale Cellular Environments"
+    },
+    {
+      "paperId": "bf718ba73d0f6057ed1925b0386c42323728e993",
+      "title": "Immersive sonification of protein surface"
+    },
+    {
+      "paperId": "5fd4c8e556f17dfcc7d0ee42b613ba3604eebbe6",
+      "title": "Collaborative Immersive Analytics"
+    },
+    {
+      "paperId": "913ac270cab8444e71f9736ecf3d9c61ea20af44",
+      "title": "Immersive Analytics: An Introduction"
+    },
+    {
+      "paperId": "f2e9983c16ce4ce3ac70d86d93f9726f917800c4",
+      "title": "Flipping the laboratory: improving student engagement and learning outcomes in second year science courses"
+    },
+    {
+      "paperId": "2a1f54bae097aac26df1f8a15a0ce9fd44e19585",
+      "title": "Facilitating Molecular Biology Teaching by Using Augmented Reality (AR) and Protein Data Bank (PDB)"
+    },
+    {
+      "paperId": "5dcdd4a535471d747b3d054eb75c927211abd59e",
+      "title": "Molecular Visualization on the Holodeck."
+    },
+    {
+      "paperId": "76082a00ed6f3e3828f78436723d7fde29faeed4",
+      "title": "Pondering the Concept of Abstraction in (Illustrative) Visualization"
+    },
+    {
+      "paperId": "315e1c5bdbac10dd2fdff80a07c037b0fcf7f0c6",
+      "title": "Immersion Versus Embodiment: Embodied Cognition for Immersive Analytics in Mixed Reality Environments"
+    },
+    {
+      "paperId": "a9a51ca099750db863513cc67d2b006a95b57e50",
+      "title": "StereoChem: Augmented Reality 3D Molecular Model Visualization App for Teaching and Learning Stereochemistry"
+    },
+    {
+      "paperId": "36f395244f86b034c9684304cd8e93f2e15bdfda",
+      "title": "Exploring DrugBank in Virtual Reality Chemical Space"
+    },
+    {
+      "paperId": "a217ed887271bbb34ae339da90414bc54af1baf5",
+      "title": "MinOmics, an Integrative and Immersive Tool for Multi-Omics Analysis"
+    },
+    {
+      "paperId": "34b6fbc8774982b9383f5d1fc85e55e8dc515240",
+      "title": "Semantics for an Integrative and Immersive Pipeline Combining Visualization and Analysis of Molecular Data"
+    },
+    {
+      "paperId": "e607abc8658376187f601c86357a743989980854",
+      "title": "From Virtual Reality to Immersive Analytics in Bioinformatics"
+    },
+    {
+      "paperId": "eed2d7f0b3ae97c29da1e6ecf42a0ffcf17176f1",
+      "title": "Molecular Dynamics Visualization (MDV): Stereoscopic 3D Display of Biomolecular Structure and Interactions Using the Unity Game Engine"
+    },
+    {
+      "paperId": "1a9889bb33a1a59da9999bc2c1c7a369b984b6d3",
+      "title": "Interactive Molecular Graphics for Augmented Reality Using HoloLens"
+    },
+    {
+      "paperId": "b7ddc138d56278c80e77ceecd1e8eda9388d6458",
+      "title": "BioVR: a platform for virtual reality assisted biological data integration and visualization"
+    },
+    {
+      "paperId": "34b67075b19e6db161c98bbe5c96a7383f5744de",
+      "title": "Exploring Data in Virtual Reality: Comparisons with 2D Data Visualizations"
+    },
+    {
+      "paperId": "a58d09fe73624d5854f72ea69b2a42a8cea97979",
+      "title": "LearnDNA: an interactive VR application for learning DNA structure"
+    },
+    {
+      "paperId": "33f3bbe8fe05268006127fe0567f0fd5ec67193c",
+      "title": "Visual Data Mining by Virtual Reality for Protein-Protein Interaction Networks"
+    },
+    {
+      "paperId": "ee15e60fbf9e4d4eb3819991703ad52cd76f51d1",
+      "title": "Journey to the centre of the cell: Virtual reality immersion into scientific data"
+    },
+    {
+      "paperId": "9fdb9bda56fb8d6b7d55c9b4628a5deb483f4b84",
+      "title": "Sampling molecular conformations and dynamics in a multiuser virtual reality framework"
+    },
+    {
+      "paperId": "a18188d3d3ad0e6614510ed056a6fe591aa1091a",
+      "title": "UCSF ChimeraX: Meeting modern challenges in visualization and analysis"
+    },
+    {
+      "paperId": "1753998e2faebc71241a8fc48af4daa2a6a3f8a3",
+      "title": "RealityConvert: a tool for preparing 3D models of biochemical structures for augmented and virtual reality"
+    },
+    {
+      "paperId": "5244cbc75a51026c80bad2d50d52a9176ebac0b8",
+      "title": "Visualization of Biomolecular Structures: State of the Art Revisited"
+    },
+    {
+      "paperId": "d8d8b22d54bc90dcaceca56c323f54ec8e4214bd",
+      "title": "Accessible virtual reality of biomolecular structural models using the Autodesk Molecule Viewer"
+    },
+    {
+      "paperId": "463f52f96c17d0ce57c950a066ac39198f1ff046",
+      "title": "An Immersive Visualization Study on Molecules Manipulation"
+    },
+    {
+      "paperId": "f09182b185e2e08d20b7591179fee1e3259900a6",
+      "title": "Touching proteins with virtual bare hands"
+    },
+    {
+      "paperId": "df3f40887c3ec51b5f1f1a307760f391c34a65bc",
+      "title": "Visualization of molecular structures using HoloLens-based augmented reality"
+    },
+    {
+      "paperId": "ffb4039d845abea6988c5df4dca5f65a622bef72",
+      "title": "iCAVE: an open source tool for visualizing biomolecular networks in 3D, stereoscopic 3D and immersive 3D"
+    },
+    {
+      "paperId": "65aa75c901805f3074e883673a01cb16ad416fd5",
+      "title": "Distributed, Immersive and Multi-platform Molecular Visualization for Chemistry Learning"
+    },
+    {
+      "paperId": "97a9763b219c1548c7c75b0f586fe1518cceedec",
+      "title": "ChemPreview: an augmented reality-based molecular interface."
+    },
+    {
+      "paperId": "bd7135d0f64ae0138323c40ae1bc4e94c95e9a69",
+      "title": "Virtual reality assisted microscopy data visualization and colocalization analysis"
+    },
+    {
+      "paperId": "f1f90030d8fb9561f9420bbfec0ffde7e935fcbd",
+      "title": "A compact, wide-FOV optical design for head-mounted displays"
+    },
+    {
+      "paperId": "49e3fc6238495caba8a026012bc5a0b1bc907254",
+      "title": "A Superwide-FOV Optical Design for Head-Mounted Displays"
+    },
+    {
+      "paperId": "9b0b15e7f498d78ec0558bc746a010ce98968b96",
+      "title": "3D-Lab: a collaborative web-based platform for molecular modeling."
+    },
+    {
+      "paperId": "4a1ee70f3b381f7c4655fb87ae642b2e0f632479",
+      "title": "Immersive virtual reality in computational chemistry: Applications to the analysis of QM and MM data"
+    },
+    {
+      "paperId": "43376a5473dbdc1db2bed70e3c7bae6d15f79e33",
+      "title": "Visual Analysis of Biomolecular Cavities: State of the Art"
+    },
+    {
+      "paperId": "8b7b8227fe13ad48213d21afb8d27ee5e77ba1a8",
+      "title": "Immersive Molecular Visualization with Omnidirectional Stereoscopic Ray Tracing and Remote Rendering"
+    },
+    {
+      "paperId": "128319169acb64be13605e1a7f5a2b0d8b0a69de",
+      "title": "Towards An Understanding of Mobile Touch Navigation in a Stereoscopic Viewing Environment for 3D Data Exploration"
+    },
+    {
+      "paperId": "8a985f12d08cb04bf52a208830be1cd69d387b17",
+      "title": "Will chemists tilt their heads for virtual reality"
+    },
+    {
+      "paperId": "5c7cc0dff9a3910fd2484c44f64e6f351ebd3883",
+      "title": "iBET: Immersive visualization of biological electron-transfer dynamics."
+    },
+    {
+      "paperId": "7566c142dc3176722feb2c3259ff2cb312fbee25",
+      "title": "Eukaryo: virtual reality simulation of a cell"
+    },
+    {
+      "paperId": "2cb8504c3c4d3b093e4d0d7bb70d5b2e615b26cf",
+      "title": "Interactive visual analytics of molecular data in immersive environments via a semantic definition of the content and the context"
+    },
+    {
+      "paperId": "461e4b8b647f55dde8fab5c433398af4a417b086",
+      "title": "3D Printing of Molecular Models"
+    },
+    {
+      "paperId": "accc68b5d2d4b989e163884e5345d1ad825085d7",
+      "title": "Real-Time Molecular Visualization Supporting Diffuse Interreflections and Ambient Occlusion"
+    },
+    {
+      "paperId": "83aaf5f6ede681fbe45456fe2b5853866549c48a",
+      "title": "Virtual reality visual feedback for hand-controlled scanning probe microscopy manipulation of single molecules"
+    },
+    {
+      "paperId": "8993cffc92da06b2ed001805c7db69f2ec326f14",
+      "title": "Molecular Rift: Virtual Reality for Drug Designers"
+    },
+    {
+      "paperId": "dbfea34a4d2239f7595841f1162e0f37ed8bac97",
+      "title": "Visualizing Big Data with augmented and virtual reality: challenges and research agenda"
+    },
+    {
+      "paperId": "4f0e7ab4f488d7704d3ea682b90a89cca931d373",
+      "title": "Visualization of Biomolecular Structures: State of the Art"
+    },
+    {
+      "paperId": "38d82b3c78cc9118c639d04b498e1ce4e711dcfe",
+      "title": "Enhancing visualization of molecular simulations using sonification"
+    },
+    {
+      "paperId": "31d4a3d3519e0c9bee0bf961f249da4d2097be27",
+      "title": "Virtual structure reconstruction and energy estimation of a peptide from a physical tangible interface"
+    },
+    {
+      "paperId": "75e9e682915619cfda6468749bd682381db13aa5",
+      "title": "UnityMol: interactive and ludic visual manipulation of coarse-grained RNA and other biomolecules"
+    },
+    {
+      "paperId": "c8fc8ff39a397d663e824a3485b43a2f1916b2db",
+      "title": "3D chromosome rendering from Hi-C data using virtual reality"
+    },
+    {
+      "paperId": "4ee5598a7ea981df492b0b678bca04cc5dded348",
+      "title": "iview: an interactive WebGL visualizer for protein-ligand complex"
+    },
+    {
+      "paperId": "50897951b2cf7c9be140d7cee1ab09e0f8b643b4",
+      "title": "Visualizing large-scale atomistic simulations in ultra-resolution immersive environments"
+    },
+    {
+      "paperId": "3d2d72b9d1ca95c9799e9496b8961cc5335b7b69",
+      "title": "Exploring 3-D virtual reality technology for spatial ability and chemistry achievement"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "dec6e911e99e5e932deda85db3697dd21a7007ad",
+      "title": "A novel virtual environment for molecular system design"
+    },
+    {
+      "paperId": "1f296212ba57d19607d9e45bbcf06293476e1d9f",
+      "title": "Game On, Science - How Video Game Technology May Help Biologists Tackle Visualization Challenges"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "dc611bd00534e0e9d1dfc7a3af3d1563f388958b",
+      "title": "ProteinScanAR - An Augmented Reality Web Application for High School Education in Biomolecular Life Sciences"
+    },
+    {
+      "paperId": "3049ed70f251ef60a6ac90d90959676a5a608700",
+      "title": "Effects of Immersion on Visual Analysis of Volume Data"
+    },
+    {
+      "paperId": "fa921d3604fbaa68c69afb1aa07c5dea70f384fc",
+      "title": "Using Visualisation Techniques and Molecular Dynamics to Study Atoms Diffusing in Glass"
+    },
+    {
+      "paperId": "39c95d927cfbef8c24b40c53540ba5945289a8ec",
+      "title": "Molecular Visualization with Supports of Interaction, Immersion and Collaboration among Geographically-Separated Research Groups"
+    },
+    {
+      "paperId": "cec59a332a5f89516da5eaeca96a442c5d662a48",
+      "title": "Interactive Drug Design in Virtual Reality"
+    },
+    {
+      "paperId": "122e5633f956cc758c4fe36fab571b853a37e64c",
+      "title": "Illustrative Molecular Visualization with Continuous Abstraction"
+    },
+    {
+      "paperId": "2462c0e582b3fd3903c42cf1d3b5e5522fda441e",
+      "title": "Co-Coot: A real-time collaborative tool for bio-molecular modeling and visualization"
+    },
+    {
+      "paperId": "868530774cbcfec3e796613d1eeb49e028774417",
+      "title": "GPU-powered tools boost molecular visualization"
+    },
+    {
+      "paperId": "3718b4979af608fcf1df5fdaba35cd98fa35df2e",
+      "title": "Immersive environment for molecular visualization to interaction between research groups geographically dispersed"
+    },
+    {
+      "paperId": "0d587ed38c7b760d869ef57c38849f89b7330ba4",
+      "title": "What do you do when two hands are not enough? interactive selection of bonds between pairs of tangible molecules"
+    },
+    {
+      "paperId": "f9a1a012b1de56f3468a879b847c64de7001d43f",
+      "title": "Simulated Site-directed Mutations in a Virtual Reality Environment as a Powerful Aid for Teaching the Three-dimensional Structure of Proteins"
+    },
+    {
+      "paperId": "57328c028e8bfb7a4423c445704cba9963c60d3d",
+      "title": "A Collaborative Virtual Reality Environment for Molecular Biology"
+    },
+    {
+      "paperId": "86f7e2f92b9b9c42d59c125a324bd0970a00897b",
+      "title": "Virtual and augmented reality as spatial ability training tools"
+    },
+    {
+      "paperId": "bb72d52149f9979b61ca82efc9ef5eed71e6e568",
+      "title": "Student Engagement and Student Learning: Testing the Linkages*"
+    },
+    {
+      "paperId": "f9cceecd3d405fe57117b05090f7538f64c7ec14",
+      "title": "Interacting with molecular structures: user performance versus system complexity"
+    },
+    {
+      "paperId": "e75a3d325edc8c284d5d5e0065f0153dc5bdb911",
+      "title": "A collaborative multi-view virtual environment for molecular visualization and modeling"
+    },
+    {
+      "paperId": "46dbd7dbe02a0a56a8f752cd7cbec24dcda1b5a9",
+      "title": "Molecular visualization in chemistry education: The role of multidisciplinary collaboration"
+    },
+    {
+      "paperId": "667ae3e8255360ff02b51f3ba348d87d89a3a80f",
+      "title": "An interactive molecular visualization system for education in immersive multi-projection virtual environment"
+    },
+    {
+      "paperId": "489a66bbcfdc8285ad8bf194cb4951bfe7fa95ed",
+      "title": "Augmented reality with tangible auto-fabricated models for molecular biology applications"
+    },
+    {
+      "paperId": "aaed32cf0478863154f80e8f683d22b517d60269",
+      "title": "Immersive design of DMA molecules with a tangible interface"
+    },
+    {
+      "paperId": "f196d22df930f66fd56e82e62b99ae571191e0a6",
+      "title": "Principles and Applications of Medical Virtual Environments"
+    },
+    {
+      "paperId": "c3ac6c57bf8a5511cc6c4bb7bd6620df4d6884fa",
+      "title": "Learning molecular biology by VR playing"
+    },
+    {
+      "paperId": "7857f2ebc4859af1b5da9ff532ab1afed5a734d4",
+      "title": "Interactive 3D protein structure visualization using virtual reality"
+    },
+    {
+      "paperId": "8ce38f79eb8089ee9a0c41fa7521e0a23a2154b6",
+      "title": "Mining the human genome using virtual reality"
+    },
+    {
+      "paperId": "269fd77e055b1e6220f658ae85b37f5677feb827",
+      "title": "Experiments in Immersive Virtual Reality for Scientific Visualization"
+    },
+    {
+      "paperId": "22675a5a14f380351f89c39f4028a7d5c8ffbfba",
+      "title": "Virtual Spring Manipulators for Particle Steering in Molecular Dynamics on the ResponsiveWorkbench"
+    },
+    {
+      "paperId": "b999a6c3e9ceab7cd9cdd3d85ad59b15aabc91bd",
+      "title": "Immersive and Interactive Exploration of Billion-Atom Systems"
+    },
+    {
+      "paperId": "43c0ccb45a31d4e51ca9b9a97e782e2e56e0b737",
+      "title": "Effects of field of view on presence, enjoyment, memory, and simulator sickness in a virtual environment"
+    },
+    {
+      "paperId": "67d1a31012c8bb24e82c464e3723599151e5a132",
+      "title": "Immersive VR for Scientific Visualization: A Progress Report"
+    },
+    {
+      "paperId": "363b86a8aefbe3d3fadcbbe9e9cadc528843699e",
+      "title": "Time Critical Computing and Rendering of Molecular Surfaces Using a Zonal Map"
+    },
+    {
+      "paperId": "07b4a72cfee1d04d5e74404843c8f2a8493ab034",
+      "title": "VRDD: applying virtual reality visualization to protein docking and design."
+    },
+    {
+      "paperId": "e0987952641d379172d31bcefb1b09c72a88e332",
+      "title": "Molecular Dynamics Simulation in Virtual Environments"
+    },
+    {
+      "paperId": "6da39901aa5476c5fb1c7a21bbbdd949f42c064c",
+      "title": "Integrating molecular modeling tools and virtual reality engines: an architecture for a highly immersive molecular modeling (HIMM) environment"
+    },
+    {
+      "paperId": "54f03afb40371cbd60878d36be55247430dc3493",
+      "title": "Virtual Reality in Chemistry"
+    },
+    {
+      "paperId": "900afd252bffca6ce7450abfb66032bcb5641a6c",
+      "title": "The ImmersaDesk and Infinity Wall projection-based virtual reality displays"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "9600d20910662c07620e5efbaa1f4457cc16a986",
+      "title": "Symbiosis of Virtual Reality and Scientific Visualization System"
+    },
+    {
+      "paperId": "f01693eb770f8493313eab12253eafbd86d3bc48",
+      "title": "Viewing geometric protein structures from inside a CAVE"
+    },
+    {
+      "paperId": "1a6c3e5951c98abc8c2bf53e8edaf31f07dbeb96",
+      "title": "Binocular Vision and Stereopsis"
+    },
+    {
+      "paperId": "521027c14a7ef622a4f03106799706d0824e192a",
+      "title": "VMD: visual molecular dynamics."
+    },
+    {
+      "paperId": "f78a31be8874eda176a5244c645289be9f1d4317",
+      "title": "A Taxonomy of Mixed Reality Visual Displays"
+    },
+    {
+      "paperId": "5d1b549bbaa603125b3de788f11253a3fe4cf4a2",
+      "title": "Virtual reality in scientific visualization"
+    },
+    {
+      "paperId": "d7198bd94ddfe4fc53ec2e71915be1b777843717",
+      "title": "The CAVE: audio visual experience automatic virtual environment"
+    },
+    {
+      "paperId": "dbd6892364f449835ac2cd052d1efb8787102fae",
+      "title": "A head-mounted three dimensional display"
+    },
+    {
+      "paperId": "b7fcacc158cdc63e95e96a25bb7b653322f301bd",
+      "title": "Molecular model-building by computer."
+    },
+    {
+      "paperId": "72640df6d6bdbb77e6a294cab9d10f30f4c4b17d",
+      "title": "VR in Chemistry, a Review of Scientific Research on Advanced Atomic/Molecular Visualization"
+    },
+    {
+      "paperId": "4932088a3bedf9da69826fea50ceca81ed4f40bf",
+      "title": "VRdeo: Creating engaging educational material for asynchronous student-teacher exchange using virtual reality"
+    },
+    {
+      "paperId": "7f0e3a222c33f11e268c974229ced287789851ae",
+      "title": "Interactive Immersive Virtual Reality to Enhance Students\u2019 Visualisation of Complex Molecules"
+    },
+    {
+      "paperId": null,
+      "title": "A user interaction design for object manipulation via eye tracking in virtual reality"
+    },
+    {
+      "paperId": "fa398184c2fdc2f8b0b15bed1a91ddf04dc2408b",
+      "title": "Multiscale Visualization and Scale-Adaptive Modification of DNA Nanostructures"
+    },
+    {
+      "paperId": "b2294d41d32981e221b84081684eb7a234baaee0",
+      "title": "Instant Construction and Visualization of Crowded Biological Environments"
+    },
+    {
+      "paperId": "2da9a49aa5ed5a231d9713241d10027a562632d2",
+      "title": "Immersive Analytics: Time to Reconsider the Value of 3D for Information Visualisation"
+    },
+    {
+      "paperId": "541dcf3b5733ebddfac65436f0fd185eed04524e",
+      "title": "Molecular Surface Maps"
+    },
+    {
+      "paperId": "9b0b9c055cc33c10bbe20cafebee26903e2b5f67",
+      "title": "Eukaryo: An AR and VR Application for Cell Biology"
+    },
+    {
+      "paperId": "aa22abedd30da9b924d59de2087ced53d7cfcbf5",
+      "title": "Multimedia in Biochemistry and Molecular Biology Education"
+    },
+    {
+      "paperId": "bee3c6736dffa61c64138dbdc1025831135359db",
+      "title": "The VVand: A Two-Tier System Design for High-Resolution Stereo Rendering"
+    },
+    {
+      "paperId": "5cdf91639c3d98eb45e2f81a07f17ccfa7eed4cb",
+      "title": "Use of Virtual-Reality in Teaching and Learning Molecular Biology"
+    },
+    {
+      "paperId": null,
+      "title": "Center for Computational Structural Biology: Cell-PaintVR. Web site"
+    },
+    {
+      "paperId": "6075fed5892ddf604d47b90732a8d74f1b1bcf95",
+      "title": "HMD/headset/VR-helmet Comparison Chart"
+    },
+    {
+      "paperId": "51ad24f5eae30e4506e094549a6b905d535c6181",
+      "title": "Development of a gesture-based molecular visualization tool based on virtual reality for molecular docking"
+    },
+    {
+      "paperId": null,
+      "title": "How Augmented Reality Helps Students Learn Dynamic Spatial Relationships"
+    },
+    {
+      "paperId": "682f256d4608f9fd97bbff5c9fca5db30be5b323",
+      "title": "Virtual Reality in Chemistry"
+    },
+    {
+      "paperId": "bbfeaa44f9813d0ad63ef69c937fe3c7782b3839",
+      "title": "MOF-VR: A Virtual Reality Program for Performing and Visualizing Immersive Molecular Dynamics Simulations of Guest Molecules in MetalOrganic Frameworks"
+    },
+    {
+      "paperId": null,
+      "title": "We performed the first iteration over the query results to collect an initial set of papers"
+    },
+    {
+      "paperId": null,
+      "title": "Based on the keywords, we assembled various search queries and tested their compatibility and outcomes on the selected databases"
+    },
+    {
+      "paperId": null,
+      "title": "El-sevier Science Inc, New York"
+    },
+    {
+      "paperId": null,
+      "title": "We created a shared Zotero"
+    },
+    {
+      "paperId": null,
+      "title": "performed several iterations of the first three steps"
+    },
+    {
+      "paperId": null,
+      "title": "The most powerful real-time 3D creation tool -Unreal engine"
+    },
+    {
+      "paperId": null,
+      "title": "Mdpi, Basel"
+    },
+    {
+      "paperId": null,
+      "title": "we collected a list of databases and search engines potentially containing relevant papers (listed also in point 4)"
+    },
+    {
+      "paperId": null,
+      "title": "We re-processed all the papers to assign the categories more precisely"
+    },
+    {
+      "paperId": null,
+      "title": "PTC: Vuforia Engine | Create AR Apps and AR Experiences | PTC"
+    },
+    {
+      "paperId": null,
+      "title": "of 29 D. Ku \u0165 \u00e1k et"
+    },
+    {
+      "paperId": null,
+      "title": "Unity Real-Time Development Platform | 3D, 2D VR & AR Engine"
+    }
+  ]
+}
