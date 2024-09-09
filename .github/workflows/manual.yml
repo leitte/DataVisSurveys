@@ -38,5 +38,4 @@ jobs:
     - name: Create paper posts
       run: |
         pwd
-        ls
         python scripts/createPaperPosts.py 
