@@ -9,7 +9,7 @@ keywords_to_classes = {
     'taxonomy': ['taxonomy'],
     'survey': ['survey'],
     'review': ['review'],
-    'text and documents': ['text', 'literature']
+    'text and documents': ['text']
 }
 
 def loadPaperCategories (filepath):
