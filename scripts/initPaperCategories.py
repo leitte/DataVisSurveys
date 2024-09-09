@@ -5,6 +5,13 @@ import json
 directory = 'data/paperMetadata'
 filepath_paperCategories = 'data/paperClassification/paperCategories.yaml'
 
+keywords_to_classes = {
+    'taxonomy': ['taxonomy'],
+    'survey': ['survey'],
+    'review': ['review'],
+    'text and documents': ['text', 'literature']
+}
+
 def loadPaperCategories (filepath):
     with open(filepath, 'r') as file:
         tags = yaml.safe_load(file)
@@ -19,11 +26,20 @@ def loadPaperMetadata (filepath):
             return paperMetadata
     return {}
     
+def classifyTitle (title, keywords_to_classes):
+    assigned_classes = set()
+        
+    for class_name, keywords in keywords_to_classes.items():
+        for keyword in keywords:
+            if keyword.lower() in title.lower():
+                assigned_classes.add(class_name)
+
+    return list(assigned_classes)
+
 def extractCategories (paperMetadata):
-    categories = []
-    if 'taxonomy' in paperMetadata['title'].lower():
-        categories.append('taxonomy')
+    categories = classifyTitle(paperMetadata['title'], keywords_to_classes)
     return categories
+
 
 
 paper_classes = loadPaperCategories(filepath_paperCategories)
