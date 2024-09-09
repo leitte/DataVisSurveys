@@ -9,6 +9,10 @@ def loadPaperMetadata (filepath):
     with open(filepath, 'r') as file:
         paperMetadata = json.load(file)
         return paperMetadata
+    
+def createAuthorsString (authors):
+    authors_string = ', '.join([author.get('name','') for author in authors[:-1]]) + (' & ' + authors[-1]['name'] if len(authors) > 1 else '')
+    return authors_string
 
 npapers = 0
 
@@ -34,6 +38,10 @@ for filename in os.listdir(directory):
                 file.write(f"layout: post\n")
                 file.write(f"title: \"{paperMetadata['title']}\"\n")
                 file.write(f"date: {date}\n")
+                authors = createAuthorsString(paperMetadata['authors'])
+                file.write(f"authors: {authors}\n")
+                file.write(f"venue: \"{paperMetadata['venue']}\"\n")
+                file.write(f"doi: {paperMetadata['externalIds']['DOI']}")
                 file.write('---\n')
                 abstract = paperMetadata.get('abstract','')
                 file.write(abstract.strip() if abstract else "")
