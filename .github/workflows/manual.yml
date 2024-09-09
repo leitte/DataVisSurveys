@@ -38,7 +38,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f scripts/requirements.txt ]; then pip install -r requirements.txt; fi
+        if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
     - name: Create paper posts
       run: |
         pwd
