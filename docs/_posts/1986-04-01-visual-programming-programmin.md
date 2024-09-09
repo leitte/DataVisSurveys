@@ -1,0 +1,13 @@
+---
+layout: post
+excerpt_image: NO_EXCERPT_IMAGE
+title: "Visual programming, programming by example, and program visualization: a taxonomy"
+date: 1986-04-01
+authors: 
+venue: "International Conference on Human Factors in Computing Systems"
+doi: 10.1145/22627.22349
+categories:
+  - software
+  - taxonomy
+---
+There has been a great interest recently in systems that use graphics to aid in the programming, debugging, and understanding of computer programs. The terms “Visual Programming” and “Program Visualization” have been applied to these systems. Also, there has been a renewed interest in using examples to help alleviate the complexity of programming. This technique is called “Programming by Example.” This paper attempts to provide more meaning to these terms by giving precise definitions, and then uses these definitions to classify existing systems into a taxonomy. A number of common unsolved problems with most of these systems are also listed.
