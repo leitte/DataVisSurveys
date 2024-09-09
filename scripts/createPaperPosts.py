@@ -4,6 +4,7 @@ import json
 import yaml
 
 directory = 'data/paperMetadata'
+filepath_paperClasses = 'data/paperClassification/paperTags.yaml'
 
 def loadPaperMetadata (filepath):
     with open(filepath, 'r') as file:
@@ -20,7 +21,13 @@ def createAuthorsString (authors):
     authors_string = ', '.join([standardizeName(author.get('name','')) for author in authors[:-1]]) + (' & ' + standardizeName(authors[-1]['name']) if len(authors) > 1 else '')
     return authors_string
 
+def loadPaperTags (filepath):
+    with open(filepath, 'r') as file:
+        tags = yaml.safe_load(file)
+        return tags
+    
 npapers = 0
+paper_tags = loadPaperTags(filepath_paperClasses)
 
 for filename in os.listdir(directory):
     filepath = os.path.join(directory, filename)
@@ -49,6 +56,12 @@ for filename in os.listdir(directory):
                 file.write(f"authors: {authors}\n")
                 file.write(f"venue: \"{paperMetadata['venue']}\"\n")
                 file.write(f"doi: {paperMetadata['externalIds']['DOI']}\n")
+            
+                tags = paper_tags.get(paperMetadata['externalIds']['DOI'], [])
+                if tags:
+                    file.write("categories:\n")
+                    for tag in tags:
+                        file.write(f"  - {tag}\n")
                 file.write('---\n')
                 abstract = paperMetadata.get('abstract','')
                 file.write(abstract.strip() if abstract else "")
