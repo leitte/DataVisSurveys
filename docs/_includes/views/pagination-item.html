@@ -50,7 +50,11 @@
     </a>
     {%- endif -%}
     <a class="post-text" href="{{ post_url }}">
-      <p>{{ article_excerpt }}</p>
+      {%- if article_excerpt -%}
+        <p>{{ article_excerpt }}</p>
+      {%- else -%}
+        <p>No abstract available yet.</p>
+      {%- endif -%}
     </a>
   </div>
   <div class="post-tags">
