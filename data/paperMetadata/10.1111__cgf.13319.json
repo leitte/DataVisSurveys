@@ -1,0 +1,642 @@
+{
+  "paperId": "8555a528c61e9e2495ec0fed27df3ace3478a005",
+  "externalIds": {
+    "DBLP": "journals/cgf/GuntherT18",
+    "MAG": "2783062005",
+    "DOI": "10.1111/cgf.13319",
+    "CorpusId": 45819697
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/8555a528c61e9e2495ec0fed27df3ace3478a005",
+  "title": "The State of the Art in Vortex Extraction",
+  "abstract": "Vortices are commonly understood as rotating motions in fluid flows. The analysis of vortices plays an important role in numerous scientific applications, such as in engineering, meteorology, oceanology, medicine and many more. The successful analysis consists of three steps: vortex definition, extraction and visualization. All three have a long history, and the early themes and topics from the 1970s survived to this day, namely, the identification of vortex cores, their extent and the choice of suitable reference frames. This paper provides an overview over the advances that have been made in the last 40 years. We provide sufficient background on differential vector field calculus, extraction techniques like critical point search and the parallel vectors operator, and we introduce the notion of reference frame invariance. We explain the most important region\u2010based and line\u2010based methods, integration\u2010based and geometry\u2010based approaches, recent objective techniques, the selection of reference frames by means of flow decompositions, as well as a recent local optimization\u2010based technique. We point out relationships between the various approaches, classify the literature and identify open problems and challenges for future work.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 144,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13319",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Physics",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-09-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{G\u00fcnther2018TheSO,\n author = {Tobias G\u00fcnther and H. Theisel},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Vortex Extraction},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145143976",
+      "name": "Tobias G\u00fcnther"
+    },
+    {
+      "authorId": "1728378",
+      "name": "H. Theisel"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f63983974468f2c18ef6bb317019338b80a33b83",
+      "title": "Generic objective vortices for flow visualization"
+    },
+    {
+      "paperId": "93f3e5a8bfe3927048190d9d8ae47fcc025ec47e",
+      "title": "Flow\u2010Induced Inertial Steady Vector Field Topology"
+    },
+    {
+      "paperId": "97a932b088280b2bd8928873f7fcfa2539a2658b",
+      "title": "Opacity Optimization and Inertial Particles in Flow Visualization"
+    },
+    {
+      "paperId": "75d25d94c31302a04432891f94088a19ab65a484",
+      "title": "A Survey of Topology\u2010based Methods in Visualization"
+    },
+    {
+      "paperId": "f19fb142ce78bd80e9820ef3b68aedd63326a51d",
+      "title": "Space\u2010Time Bifurcation Lines for Extraction of 2D Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "281268aef065beee35e2c527510739741266a3f8",
+      "title": "Forecasting long-lived Lagrangian vortices from their objective Eulerian footprints"
+    },
+    {
+      "paperId": "a2743654615229c08049d03a107cd61a5b96319c",
+      "title": "Inertial Steady 2D Vector Field Topology"
+    },
+    {
+      "paperId": "d62d7d71894e50fb6b218d659ab77c990d75ce1a",
+      "title": "Topology-inspired Galilean invariant vector field analysis"
+    },
+    {
+      "paperId": "a21fd785abe0e31bccce960ef5e11c597619e86f",
+      "title": "Rotation Invariant Vortices for Flow Visualization"
+    },
+    {
+      "paperId": "6d336e7e9af52d7886db2e8a8d74afc92c7b7f8a",
+      "title": "Cluster Analysis of Vortical Flow in Simulations of Cerebral Aneurysm Hemodynamics"
+    },
+    {
+      "paperId": "611a9c646399892f183453c66c25cdc3d9b5fe94",
+      "title": "Objective Eulerian coherent structures."
+    },
+    {
+      "paperId": "b546aa16b9936933a9245b340c5318d6fc45f8d2",
+      "title": "Defining coherent vortices objectively from the vorticity"
+    },
+    {
+      "paperId": "2212a305cbc1f330c0a6166950a3b86a2684ed56",
+      "title": "An objective perspective for classic flow classification criteria"
+    },
+    {
+      "paperId": "ab8ff6ed9643232f05e513bb97e4b2daa405c0a0",
+      "title": "An uncertainty-driven approach to vortex analysis using oracle consensus and spatial proximity"
+    },
+    {
+      "paperId": "101638ce19fc1dfcfbfd695948c5f8e8ade18f61",
+      "title": "A Robust Parity Test for Extracting Parallel Vectors in 3D"
+    },
+    {
+      "paperId": "95eb36ddbd53344a3e17e5cdde492b4428ec9e8e",
+      "title": "Geodesic Transport Barriers in Jupiter's Atmosphere: A Video-Based Analysis"
+    },
+    {
+      "paperId": "91b96fd1260b447d83a21f33f738c43c4f552bcf",
+      "title": "Extracting Features from Time\u2010Dependent Vector Fields Using Internal Reference Frames"
+    },
+    {
+      "paperId": "d2a751fae579f25807d49904451ec71cf6c3862a",
+      "title": "Semi-Automatic Vortex Extraction in 4D PC-MRI Cardiac Blood Flow Data using Line Predicates"
+    },
+    {
+      "paperId": "ec84a2f5011afb9c39ba96e046848bb1b0ffd1ff",
+      "title": "The Helmholtz-Hodge Decomposition&#x2014;A Survey"
+    },
+    {
+      "paperId": "78defc7ed82587fedc917cd59dd895b3b8183325",
+      "title": "Technical Section: Surface-based flow visualization"
+    },
+    {
+      "paperId": "18691d36b414da6feadbc6730ed4a4ecfd7c2dd5",
+      "title": "Vortex core detection: back to basics"
+    },
+    {
+      "paperId": "c86c72f33e5ecdcbb802c51fcf87886b79ae92c6",
+      "title": "Two-Dimensional Time-Dependent Vortex Regions Based on the Acceleration Magnitude"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "3f0614c2ccc558afc2455735f3e8ab10d20e62a2",
+      "title": "Stable Feature Flow Fields"
+    },
+    {
+      "paperId": "524f3ecc80d89e85528e698fba76516bd755c3a7",
+      "title": "Efficient Parallel Vectors Feature Extraction from Higher\u2010Order Data"
+    },
+    {
+      "paperId": "3b6fd4048bc71543c8673ce083e05f549d0d52d1",
+      "title": "Visualizing the Evolution and Interaction of Vortices and Shear Layers in Time-Dependent 3D Flow"
+    },
+    {
+      "paperId": "c68ba6f9880c0c121bf2a1eb936a2c5510c8761f",
+      "title": "Streak Lines as Tangent Curves of a Derived Vector Field"
+    },
+    {
+      "paperId": "58a88178df5a73f0313f2ab56ae043760155e2b8",
+      "title": "Over Two Decades of Integration\u2010Based, Geometric Flow Visualization"
+    },
+    {
+      "paperId": "1d0c4e527e02bc71739b15c3ba918c8ca08f8a6e",
+      "title": "Finding and classifying critical points of 2D vector fields: a cell-oriented approach using group theory"
+    },
+    {
+      "paperId": "a0e218bcfea6f258fa89204810411952dbfe54fd",
+      "title": "Using PVsolve to Analyze and Locate Positions of Parallel Vectors"
+    },
+    {
+      "paperId": "df921514373454d73d6edc9c498b0e9997f56bf9",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Topology-preserving \u039b 2 -based Vortex Core Line Detection for Flow Visualization"
+    },
+    {
+      "paperId": "ee1eb3b2b1e6e12384ce8e254ad1c82d5d124444",
+      "title": "Parallel Vectors Criteria for Unsteady Flow Vortices"
+    },
+    {
+      "paperId": "850d046752aaffb3ebaeb51d24240b2a7a5b744b",
+      "title": "Some perspectives on the dynamic history of a material element"
+    },
+    {
+      "paperId": "acc1571b82f0f210435ae94b01e3deea93a73139",
+      "title": "Applications of Texture-Based Flow Visualization"
+    },
+    {
+      "paperId": "1ba16b23e3388452bfef4c8c6de1e28eee727cd4",
+      "title": "Cores of Swirling Particle Motion in Unsteady Flows"
+    },
+    {
+      "paperId": "21f1f3859ba9b9cf8c2066b877517ab67cd00335",
+      "title": "Vortex and Strain Skeletons in Eulerian and Lagrangian Frames"
+    },
+    {
+      "paperId": "c283e98acde8e985dbab2567284e69d3d1b0edf1",
+      "title": "Vortex identification: New requirements and limitations"
+    },
+    {
+      "paperId": "4a2fc8b15ffb31a964a17150f447137c73355e50",
+      "title": "Global observations of large oceanic eddies"
+    },
+    {
+      "paperId": "ddc63b5a2e19337dd7fb8d89412390c3c617873b",
+      "title": "Vector Field Editing and Periodic Orbit Extraction Using Morse Decomposition"
+    },
+    {
+      "paperId": "1e2db33622b6a9e6c863930812f247ff4d4b02b0",
+      "title": "Representing Higher-Order Singularities in Vector Fields on Piecewise Linear Surfaces"
+    },
+    {
+      "paperId": "b990a4f6bcc57ae53f8b681032ad2a277f5eb512",
+      "title": "Visualization Tools for Vorticity Transport Analysis in Incompressible Flow"
+    },
+    {
+      "paperId": "63fed57f907a8063b1bc6b436f229e58c81c7228",
+      "title": "Topological Structures in Two\u2010Parameter\u2010Dependent 2D Vector Fields"
+    },
+    {
+      "paperId": "bca9f123636bc1cf14198e875d8a2d64b4d7d620",
+      "title": "Extraction of parallel vector surfaces in 3D time-dependent fields and application to vortex core line tracking"
+    },
+    {
+      "paperId": "6b7f6d6d14de99e27f394fd852a9230edd73c7b6",
+      "title": "On the relationships between local vortex identification schemes"
+    },
+    {
+      "paperId": "1db3d0ef98a4e914da3cd7dde4ec023a91b04330",
+      "title": "An objective definition of a vortex"
+    },
+    {
+      "paperId": "1217cf653df800c7540664fb2b3eb6c4f909bc44",
+      "title": "Vorticity based flow analysis and visualization for Pelton turbine design optimization"
+    },
+    {
+      "paperId": "0e1a47553d9fbe3083b91a9797c1faa047be0667",
+      "title": "Topological Construction and Visualization of Higher Order 3D Vector Fields"
+    },
+    {
+      "paperId": "b58877949ca50f508a706af5c18dbb8881fdce4d",
+      "title": "The State of the Art in Flow Visualization: Dense and Texture\u2010Based Techniques"
+    },
+    {
+      "paperId": "d9fc856341cd7d0e126e1943586161d972a8f00d",
+      "title": "Surface techniques for vortex visualization"
+    },
+    {
+      "paperId": "d5fa39d94d5eccb3b06133041bda186ef3007cda",
+      "title": "Boundary switch connectors for topological visualization of complex 3D vector fields"
+    },
+    {
+      "paperId": "8f1ff3416dd5a4c81d2c88e2ff9bf2abc82014fa",
+      "title": "Topological segmentation in three-dimensional vector fields"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "44b1b3b74b6db52d6b86c5f3cb14d051497a3f14",
+      "title": "Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields"
+    },
+    {
+      "paperId": "eb7895d5df40df3301d5c53cd12ec8cd4c303f7a",
+      "title": "Compression of 2D Vector Fields Under Guaranteed Topology Preservation"
+    },
+    {
+      "paperId": "d2d6c7e2f19a889dcc54293df2e1260988563448",
+      "title": "Discrete multiscale vector field decomposition"
+    },
+    {
+      "paperId": "cb33fa0e8dd8082bceae25a39caedec93765b15e",
+      "title": "Feature Flow Fields"
+    },
+    {
+      "paperId": "5c7e2ebb5ce52444e07600d8b890849a7c31da4a",
+      "title": "A case study in selective visualization of unsteady 3D flow"
+    },
+    {
+      "paperId": "f28744f2daa4241f09a48af3ef301c776d992155",
+      "title": "Geometric verification of swirling features in flow fields"
+    },
+    {
+      "paperId": "d3d7327b97c4f1bff634ac0a174252f5e3cd3b81",
+      "title": "Designing 2D Vector Fields of Arbitrary Topology"
+    },
+    {
+      "paperId": "400a6e9baa00707c71a0731ae24ba691ebc4fe43",
+      "title": "A Novel Approach To Vortex Core Region Detection"
+    },
+    {
+      "paperId": "2d0a14b751f083cbe52c18e7a7f8609b7f4a73dd",
+      "title": "Vortex Tracking in Scale-Space"
+    },
+    {
+      "paperId": "c38ef430ea8f0d9ce4129bf598289374b8ae1e9d",
+      "title": "Topology tracking for the visualization of time-dependent two-dimensional flows"
+    },
+    {
+      "paperId": "09509d7de5e6ad751a8e463c6f56049e9c032ae4",
+      "title": "Tracking Closed Streamlines in Time Dependent Planar Flows"
+    },
+    {
+      "paperId": "7f3ec9933e3ad67737f7bc077b5f9a0e65533243",
+      "title": "Combining PIV, POD and vortex identification algorithms for the study of unsteady turbulent swirling flows"
+    },
+    {
+      "paperId": "96be97f3628ec64d711642c3c253c3f0026c6105",
+      "title": "Topology-Preserving Smoothing of Vector Fields"
+    },
+    {
+      "paperId": "45f0ffcd0eed72d8f8bb66f37437a8734b0ddd6e",
+      "title": "Detection and Visualization of Closed Streamlines in Planar Flows"
+    },
+    {
+      "paperId": "651fdbf791a80c5f0ca67b18887de105eeb873b9",
+      "title": "Topology preserving compression of 2D vector fields"
+    },
+    {
+      "paperId": "4cecfa4bbb8eb7bcf97d8f8a2d1950c4c37c93a8",
+      "title": "A topology simplification method for 2D vector fields"
+    },
+    {
+      "paperId": "cf0211567b1b6ec9ef6f744df03eb877801c5020",
+      "title": "Detection, quantification, and tracking of vortices using streamline geometry"
+    },
+    {
+      "paperId": "4806cfcd9ba2ff26e25678b7b40e9a73f0e27e3c",
+      "title": "Collapsing flow topology using area metrics"
+    },
+    {
+      "paperId": "42bd953ac43e1d10826242a11e5a6af89a5a8b98",
+      "title": "The \"Parallel Vectors\" operator-a vector field visualization primitive"
+    },
+    {
+      "paperId": "b570326c33442dddc629869dbb39ff4ed5bedc47",
+      "title": "Mechanisms for generating coherent packets of hairpin vortices in channel flow"
+    },
+    {
+      "paperId": "4ba1064853f742d651ba311c1f54d88eb03af8ec",
+      "title": "On the effectiveness and limitations of local criteria for the identification of a vortex"
+    },
+    {
+      "paperId": "aafecba0400f23fcd44f83f92f8a32d929d079a4",
+      "title": "Identification and characterization of vortices in the turbulent boundary layer"
+    },
+    {
+      "paperId": "cc56dfad8018d130e301fd9de1c19382e2749d3b",
+      "title": "A higher-order method for finding vortex core lines"
+    },
+    {
+      "paperId": "a365c09ab75768b2ba7bf730868dfe2ec42838f1",
+      "title": "Lagrangian accelerations in geostrophic turbulence"
+    },
+    {
+      "paperId": "3fb247f9de06851ecbf276449ee33a3c33e715c1",
+      "title": "Computer Visualization Of Vortex Wake Systems"
+    },
+    {
+      "paperId": "745c07291390ad937b7ea7fd59c4d78d6c0fe867",
+      "title": "Visualizing Nonlinear Vector Field Topology"
+    },
+    {
+      "paperId": "7b79d17d81e28ca4512c25b7cea3cabb55573f77",
+      "title": "An exact criterion for the stirring properties of nearly two-dimensional turbulence"
+    },
+    {
+      "paperId": "577ab2aa8bb115e3d9c6e9a24e198b038f3530ac",
+      "title": "Vortex identification-applications in aerodynamics: a case study"
+    },
+    {
+      "paperId": "47b45b75fa7013f11ee663ee1ebbb969d3a3112c",
+      "title": "Identification of Tubular Vortices in Turbulence"
+    },
+    {
+      "paperId": "ec8218a3f7c400f5669e3df53a54764ba9653cc9",
+      "title": "Flow visualization for turbomachinery design"
+    },
+    {
+      "paperId": "dd9619ccb219e6a8aba1d7e96fc60c92cb9c6b95",
+      "title": "On the dynamical theory of incompressible viscous fluids and the determination of the criterion"
+    },
+    {
+      "paperId": "93c477c45336617562a0103d9e213e2de7a6afc9",
+      "title": "Identification of Swirling Flow in 3-D Vector Fields"
+    },
+    {
+      "paperId": "645534c45ebb679ea44b456a006d35d8e114a254",
+      "title": "A Predictor-Corrector Technique for Visualizing Unsteady Flow"
+    },
+    {
+      "paperId": "83257ffd0352c0e7e3185278acdd923f35158830",
+      "title": "On the identification of a vortex"
+    },
+    {
+      "paperId": "f7917b8c2430b8e0512ceacaf23fafb272bf50a9",
+      "title": "Topology of flow patterns in vortex motions and turbulence"
+    },
+    {
+      "paperId": "5cf47fd208e333e0190bd3e99b003d3680c11e35",
+      "title": "Stretching and alignment in chaotic and turbulent flows"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "aaf8ce982c3b617c1ce2516b972933ebe98995d2",
+      "title": "The kinematics of stretching and alignment of material elements in general flow fields"
+    },
+    {
+      "paperId": "1c90f1c63b47230569209011e1e4bccbbc9cf73b",
+      "title": "A tool for visualizing the topology of three-dimensional vector fields"
+    },
+    {
+      "paperId": "2f69ed0491813482acd491d661faba67ae8008b0",
+      "title": "Visualizing vector field topology in fluid flows"
+    },
+    {
+      "paperId": "6509c84b5970a2d57ef814bb754561234cc734b8",
+      "title": "The dynamics of entropy transfer in two-dimensional hydrodynamics"
+    },
+    {
+      "paperId": "006f7f3bfe16fa5fb7cf29c8335356fc04c85712",
+      "title": "Graphical visualization of vortical flows by means of helicity"
+    },
+    {
+      "paperId": "8347898fd3488289d98dee577412934aa97fc9ce",
+      "title": "A general classification of three-dimensional flow fields"
+    },
+    {
+      "paperId": "2a473b66c78f97170fc2d790750931502e5b429e",
+      "title": "Application of a Reynolds stress turbulence model to the compressible shear layer"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": "4e1d2fdcd44cc416e44b6186c1f7c23cc1200b7c",
+      "title": "Eddies, streams, and convergence zones in turbulent flows"
+    },
+    {
+      "paperId": "db966ed68e8e435885b67012ec96c20662e6de9b",
+      "title": "Turbulence statistics in fully developed channel flow at low Reynolds number"
+    },
+    {
+      "paperId": "79164fedbfc5298abda2ec25d53cd7d5479c4164",
+      "title": "Vorticity and vortex dynamics in complex turbulent flows"
+    },
+    {
+      "paperId": "ea86675661c36e797dbf2ff61a2ba180e83752b9",
+      "title": "Coherent structures and turbulence"
+    },
+    {
+      "paperId": "95a9c66458b0de44ee80484e4f7b95a197fc716a",
+      "title": "The structure of the vorticity field in turbulent channel flow. Part 1. Analysis of instantaneous fields and statistical correlations"
+    },
+    {
+      "paperId": "87aaa2481de30a6147a23a5edc59d094d199ca5c",
+      "title": "Vortex Flow in Nature and Technology"
+    },
+    {
+      "paperId": "64457fc7292234e1f86aba6c7d32b9ffba44fcb1",
+      "title": "Horizontal dispersion of floatable particles in the vicinity of velocity singularities such as convergences"
+    },
+    {
+      "paperId": "d224914b69f711d54f9bd6c4b565c07cb8fe7217",
+      "title": "The degree of knottedness of tangled vortex lines"
+    },
+    {
+      "paperId": "3573904ecc46de1cb5227c99aaf630b25073a9da",
+      "title": "An Introduction to Fluid Dynamics"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": "0d786c653b19ae6229bf80237b596eb0a017c38e",
+      "title": "Local Extraction of Bifurcation Lines"
+    },
+    {
+      "paperId": "b3c6447b404afb29a76c221d3c1b447f543c90a4",
+      "title": "Illustrative Rendering of Vortex Cores"
+    },
+    {
+      "paperId": "33001f2af09c1235a7d0cb647a06a7df861fb02d",
+      "title": "Vortex Merge Graphs in Two-dimensional Unsteady Flow Fields"
+    },
+    {
+      "paperId": "39cd181e06c1c2545f4e570bc5e3e027241f4938",
+      "title": "Illustrative Flow Visualization: State of the Art, Trends and Challenges"
+    },
+    {
+      "paperId": "1efdee884b762ab279937aa8a4c154e083d2b8d9",
+      "title": "Topological Flow Structures in a Mathematical Model for Rotation-Mediated Cell Aggregation"
+    },
+    {
+      "paperId": "adf3ac8f7a5d345587e6f82681080108bb20cb94",
+      "title": "On the Extraction of Long-living Features in Unsteady Fluid Flows"
+    },
+    {
+      "paperId": "b207ca225b5241a1695042e3390fc1198f3c68e0",
+      "title": "Multi-scale Vortex Extraction of Ocean Flow"
+    },
+    {
+      "paperId": "f54e41cae82aca6ed93d58b6af2df3a8609f6906",
+      "title": "Path Line Attributes - an Information Visualization Approach to Analyzing the Dynamic Behavior of 3D Time-Dependent Flow Fields"
+    },
+    {
+      "paperId": "6722de65167834ffedd10a46808ed420f89641ae",
+      "title": "Bringing Topology-Based Flow Visualization to the Application Domain"
+    },
+    {
+      "paperId": "6fddad851339e1400664aa0649699e12f70f272e",
+      "title": "Extraction of Vortex Structures in 3D Flow Fields"
+    },
+    {
+      "paperId": "3924de07970a9b28fb8bbd11e6f188c6c6bf0a73",
+      "title": "Lagrangian coherent structures"
+    },
+    {
+      "paperId": "6ac2dd16a5b8888ba5f0a5dab5697b0c976f5514",
+      "title": "Extraktion topologischer Strukturen von 2D- und 3D-Vektorfeldern [Extraction of Topological Structures in 2D and 3D Vector Fields]"
+    },
+    {
+      "paperId": "6475825342c2c442e84985430a37728821d1d58c",
+      "title": "Delocalized Unsteady Vortex Region Detectors"
+    },
+    {
+      "paperId": null,
+      "title": "Prediction of the flow around a short wall-mounted cylinder using LES and DES"
+    },
+    {
+      "paperId": "76be69c5afa6cfb92191f86c503da666fd64fd79",
+      "title": "Extraction and Visualization of Swirl and Tumble Motion from Engine Simulation Data"
+    },
+    {
+      "paperId": "218feeeeed5f37940a02b137a099d60ee02000b9",
+      "title": "amira: A Highly Interactive System for Visual Data Analysis"
+    },
+    {
+      "paperId": "783f86793bce07a9a8cc4d2849fe7e11f3b85c65",
+      "title": "Simulation of the three-dimensional flow around a square cylinder between parallel walls at moderate Reynolds numbers"
+    },
+    {
+      "paperId": "e0f40e7f3d74557eec0c19094ba31c5469621ae4",
+      "title": "Topological Methods for Flow Visualization"
+    },
+    {
+      "paperId": "17e24688f6d92248a61cc49c02fdc91c17b50362",
+      "title": "Grid-independent Detection of Closed Stream Lines in 2D Vector Fields"
+    },
+    {
+      "paperId": null,
+      "title": "Feature Detection in Vector Fields Using the Helmholtz-Hodge Decomposition. Diploma thesis"
+    },
+    {
+      "paperId": "21095bd2757b810c303820c819e20f4e01c84d81",
+      "title": "On coherent-vortex identification in turbulence"
+    },
+    {
+      "paperId": "7b68f5eb499234fda2f36c6b0b76e95a65cb8b5a",
+      "title": "Automatic extraction of vortex core lines and other line type features for scientific visualization"
+    },
+    {
+      "paperId": "0a02471042a5fff25073bbb2a40cd6829b5975d8",
+      "title": "Geometric Methods for Vortex Extraction"
+    },
+    {
+      "paperId": "1722e1ab3fdd79a2e6765dadf6d287f965273217",
+      "title": "Visualizing Dynamical Systems near Critical Points"
+    },
+    {
+      "paperId": "7f4799b6c93fa5d620fc535e4469995818890448",
+      "title": "An algorithm for space recognition and time tracking of vorticity tubes in turbulence"
+    },
+    {
+      "paperId": "bff11f3eb6232dedb0ec30d00ab91eab886ecf5e",
+      "title": "Coherent Motions in the Turbulent Boundary Layer"
+    },
+    {
+      "paperId": "0967bb10545793d0236744bbc83ce3ea0b67f2d2",
+      "title": "A Review of Vortex Structures and Associated Coherent Motions in Turbulent Boundary Layers"
+    },
+    {
+      "paperId": "1322f06f6ccbd7459bb7c3876a96730b80fff2a0",
+      "title": "The role of inflectional velocity profiles in wall bounded flows"
+    },
+    {
+      "paperId": "9aed9527adb6dca51076baad5277a4e5bf1bd38d",
+      "title": "A Description of Eddying Motions and Flow Patterns Using Critical-Point Concepts"
+    },
+    {
+      "paperId": "5533372529c6349379c523b5abab1c3591f562d4",
+      "title": "The Dilemma of Defining a Vortex"
+    },
+    {
+      "paperId": "07383be241df2594c84835c4222c8a1733e646c1",
+      "title": "Objective and generally applicable criteria for flow classification"
+    },
+    {
+      "paperId": null,
+      "title": "Approximation du second ordre de la loi de comportement des fluides simples. lois classiques d\u00e9duites de l\u2019introduction d\u2019un nouveau tenseur objectif"
+    },
+    {
+      "paperId": "e27b52fda650d797930aad127d9c48437c5c3867",
+      "title": "Solutions of the Navier-Stokes equation at large Reynolds number"
+    },
+    {
+      "paperId": "20d591dba9c662ae80905bcaf7b189914bb6b3b9",
+      "title": "The Nonlinear Field Theories in Mechanics"
+    },
+    {
+      "paperId": "2fc11b09369e95afedb51422a026eb5ce312b8d9",
+      "title": "Two Measures of Vorticity"
+    },
+    {
+      "paperId": "03e1bca00da113599e4be9cc17e36dbb3d91c737",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Galilean Invariant Extraction and Iconic Representation of Vortex Core Lines"
+    },
+    {
+      "paperId": "68e609a903632502ec4ff01bd728edb98cc0face",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Hierarchical Vortex Regions in Swirling Flow"
+    }
+  ]
+}

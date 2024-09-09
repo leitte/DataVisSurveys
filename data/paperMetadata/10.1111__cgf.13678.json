@@ -1,0 +1,354 @@
+{
+  "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+  "externalIds": {
+    "DBLP": "journals/cgf/BattleH19",
+    "MAG": "2961269636",
+    "DOI": "10.1111/cgf.13678",
+    "CorpusId": 160018920
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/00dac0b2d30ae521eff2f985032efece1728d2cc",
+  "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau",
+  "abstract": "Supporting exploratory visual analysis (EVA) is a central goal of visualization research, and yet our understanding of the process is arguably vague and piecemeal. We contribute a consistent definition of EVA through review of the relevant literature, and an empirical evaluation of existing assumptions regarding how analysts perform EVA using Tableau, a popular visual analysis tool. We present the results of a study where 27 Tableau users answered various analysis questions across 3 datasets. We measure task performance, identify recurring patterns across participants' analyses, and assess variance from task specificity and dataset. We find striking differences between existing assumptions and the collected data. Participants successfully completed a variety of tasks, with over 80% accuracy across focused tasks with measurably correct answers. The observed cadence of analyses is surprisingly slow compared to popular assumptions from the database community. We find significant overlap in analyses across participants, showing that EVA behaviors can be predictable. Furthermore, we find few structural differences between behavior graphs for open\u2010ended and more focused exploration tasks.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 75,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Battle2019CharacterizingEV,\n author = {L. Battle and Jeffrey Heer},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2230578",
+      "name": "L. Battle"
+    },
+    {
+      "authorId": "1803140",
+      "name": "Jeffrey Heer"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "598d0ece2e96e699068482fcaf0441933856fe1e",
+      "title": "Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices"
+    },
+    {
+      "paperId": "415fb9c62f92722b3e93059a34246a90982ae43e",
+      "title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "61d6f137e3b240b157fb5d22bdac7f1daad437fe",
+      "title": "Evaluating Visual Data Analysis Systems: A Discussion Report"
+    },
+    {
+      "paperId": "6979c6e6f385263cfd5dfc34d70e30dddd07778d",
+      "title": "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"
+    },
+    {
+      "paperId": "a979f050861b341c3bf4eb7be12d5ee0d87b44d0",
+      "title": "Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis"
+    },
+    {
+      "paperId": "bc20a69c20b5c2cb69d908f9a788158abc2b7290",
+      "title": "Beagle: Automated Extraction and Interpretation of Visualizations from the Web"
+    },
+    {
+      "paperId": "52b8301bc6fcf6d1bab75a5d798c7316bb57c2c0",
+      "title": "Position statement: The case for a visualization performance benchmark"
+    },
+    {
+      "paperId": "7a930577bff9ce3717e0b9f9692177e8ed522519",
+      "title": "Foresight: Rapid Data Exploration Through Guideposts"
+    },
+    {
+      "paperId": "d5ffdc4ef467f3e058c171337ef78b13d8cd33f5",
+      "title": "How Progressive Visualizations Affect Exploratory Analysis"
+    },
+    {
+      "paperId": "2018dbd1e39df33b21a761bb984ddf47199cfc01",
+      "title": "I've Seen \"Enough\": Incrementally Improving Visualizations to Support Rapid Decision Making"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "535e9202b0569c6c234ec21f5fe431843dc5d7c7",
+      "title": "A Survey on Interaction Log Analysis for Evaluating Exploratory Visualizations"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "decf0848124b91de05bf760e3a4916bb2d302532",
+      "title": "The case for interactive data exploration accelerators (IDEAs)"
+    },
+    {
+      "paperId": "f53e9e29f978bd09fe3d273c4812a0927d49fe98",
+      "title": "Dynamic Prefetching of Data Tiles for Interactive Visualization"
+    },
+    {
+      "paperId": "c63b98fbbbd5cd42b9e2ebe14a73d4bf608b2b22",
+      "title": "Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System"
+    },
+    {
+      "paperId": "ea3c5db024fff410bd1f650ddeaa72c224b1c573",
+      "title": "Modeling and evaluating user behavior in exploratory visual analysis"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "b485cb6dcc45604dc1defec38943f2ce7ec77833",
+      "title": "VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications"
+    },
+    {
+      "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+      "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+    },
+    {
+      "paperId": "44897fa3ffc34c696ccc3f43d1a436b9022ef441",
+      "title": "Crowdsourced research: Many hands make tight work"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "8ba37203593f8f8d4816020f16fe06449c6de61a",
+      "title": "Exploiting analysis history to support collaborative data analysis"
+    },
+    {
+      "paperId": "16fee4f4a842540eb657fdee336bcd2d112d81da",
+      "title": "Overview of Data Exploration Techniques"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "44648552f1999482e860692c4ce7a6e21808592d",
+      "title": "Interactive data exploration using semantic windows"
+    },
+    {
+      "paperId": "008b18ee86a04bf65e461c9d77f56bcbc28c3788",
+      "title": "Explore-by-example: an automatic query steering framework for interactive data exploration"
+    },
+    {
+      "paperId": "402f68ac3e61bea7b15c82d7290a57c44f4b9afa",
+      "title": "Distributed and interactive cube exploration"
+    },
+    {
+      "paperId": "bd6b9bf3f19ecc79393451ca00ae8e7904e5c758",
+      "title": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "c9bb54273deed29a285c571c6db73f51327c1f54",
+      "title": "Examining the Use of a Visual Analytics System for Sensemaking Tasks: Case Studies with Domain Experts"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "4ebdbc6a0efd86610e8570ac70e4077a822e5f8e",
+      "title": "Understanding Visualization by Understanding Individual Users"
+    },
+    {
+      "paperId": "9f75be1cbf199e49102e59ecade4ebd6310698e8",
+      "title": "Modeling task performance for a crowd of users from interaction histories"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "38a366130d77509190865e813239bbcc3db65556",
+      "title": "Analytic Trails: Supporting Provenance, Collaboration, and Reuse for Visual Data Analysis by Business Users"
+    },
+    {
+      "paperId": "0060c6cea26b820736ebee7826b0da314c417493",
+      "title": "Using VisTrails and Provenance for Teaching Scientific Visualization"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "61275cd928ee72314c60d6d781d9ade754ff39c4",
+      "title": "Maintaining interactivity while exploring massive time series"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "e4e024e785837fafd6c95a1b81d837b06a551c07",
+      "title": "Systematic yet flexible discovery: guiding domain experts through exploratory data analysis"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "7bd00bb427c0200ea4ba30459d6f63ec61f2762d",
+      "title": "Managing the Evolution of Dataflows with VisTrails"
+    },
+    {
+      "paperId": "bcc3c02af8efae5a710f4bb53dbdd6067237773a",
+      "title": "VisTrails: enabling interactive multiple-view visualizations"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "364a564aefbc068668c9e57e6a7826a64b024186",
+      "title": "What did they do? understanding clickstreams with the WebQuilt visualization system"
+    },
+    {
+      "paperId": "69361340d0afe89e2fb8db1ae24dbc44b59e8b3c",
+      "title": "Visual exploration of large data sets"
+    },
+    {
+      "paperId": "2f859524cc56369458dd09d26fd4447e72e93dd0",
+      "title": "Enhancing data exploration with a branching history of user operations"
+    },
+    {
+      "paperId": "8d0a38f85168dbfb5cfd0b9e9ed231679da6a28b",
+      "title": "Information scent as a driver of Web behavior graphs: results of a protocol analysis method for Web usability"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "547a664cf042af7ce4f171a65577441833ba673e",
+      "title": "Human Problem Solving."
+    },
+    {
+      "paperId": "031b4611d3f56fa2e6704ba7f1a57be9a9a9a235",
+      "title": "Bridging from Goals to Tasks with Design Study Analysis Reports"
+    },
+    {
+      "paperId": "11a891d93afd8625770d46ae150f5408ba2e364d",
+      "title": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "paperId": "196905591d99b4d3bde860815a1a4a3725c9f137",
+      "title": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "paperId": "d80f0183a0d1798b891d9044fa8761b9353acf69",
+      "title": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "paperId": "01cecc93c5b8c0268399ee0530582c0e89f3b5c8",
+      "title": "Towards a Benchmark for Interactive Data Exploration"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Characterizing SIGCHI Conference on Human Factors in Computing Systems (New York, NY, USA"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": null,
+      "title": "Charac-c (cid:13) 2019TheAuthor(s) ComputerGraphicsForum c (cid:13) 2019TheEurographicsAssociationandJohnWiley"
+    }
+  ]
+}

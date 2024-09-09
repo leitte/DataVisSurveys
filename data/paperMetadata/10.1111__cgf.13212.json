@@ -1,0 +1,581 @@
+{
+  "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+  "externalIds": {
+    "MAG": "2612492565",
+    "DBLP": "journals/cgf/McNabbL17",
+    "DOI": "10.1111/cgf.13212",
+    "CorpusId": 31321676
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/382627dec97849c8a7427772b5ae5c12769c3f05",
+  "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization",
+  "abstract": "Information visualization as a field is growing rapidly in popularity since the first information visualization conference in 1995. However, as a consequence of its growth, it is increasingly difficult to follow the growing body of literature within the field. Survey papers and literature reviews are valuable tools for managing the great volume of previously published research papers, and the quantity of survey papers in visualization has reached a critical mass. To this end, this survey paper takes a quantum step forward by surveying and classifying literature survey papers in order to help researchers understand the current landscape of Information Visualization. It is, to our knowledge, the first survey of survey papers (SoS) in Information Visualization. This paper classifies survey papers into natural topic clusters which enables readers to find relevant literature and develops the first classification of classifications. The paper also enables researchers to identify both mature and less developed research directions as well as identify future directions. It is a valuable resource for both newcomers and experienced researchers in and outside the field of Information Visualization and Visual Analytics.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 131,
+  "openAccessPdf": {
+    "url": "https://nottingham-repository.worktribe.com/preview/8631519/mcnabb17sos.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{McNabb2017SurveyOS,\n author = {Liam McNabb and R. Laramee},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "8431130",
+      "name": "Liam McNabb"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e35a3d824094bf441dec0e8fffaf8445540eed34",
+      "title": "Framework"
+    },
+    {
+      "paperId": "50f2f7166a89e1ef628ab372edc53df77109b9fa",
+      "title": "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents"
+    },
+    {
+      "paperId": "b17195fa5e4d38f056affd451c0af022424419a4",
+      "title": "Visual Text Analysis in Digital Humanities"
+    },
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+      "title": "A Systematic Review of Experimental Studies on Data Glyphs"
+    },
+    {
+      "paperId": "2c7761951e3d3ae5d782655eb67b45cf2d431f3a",
+      "title": "Scope and challenges of visual analytics: A survey"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "7e9c2a208bcace759d112dd5dcfebf93fdfa2a08",
+      "title": "Recent progress and trends in predictive visual analytics"
+    },
+    {
+      "paperId": "807bee8286f9081e8fcc5d497fbbdc0d2aa610f2",
+      "title": "Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space"
+    },
+    {
+      "paperId": "ff09571cef18f930838990454d765c2956f44332",
+      "title": "Software visualization today: systematic literature review"
+    },
+    {
+      "paperId": "bb30a99fc4f26002ac18f66dfc64e86e5e55a664",
+      "title": "A Survey of Vision-Based Traffic Monitoring of Road Intersections"
+    },
+    {
+      "paperId": "a8004ae2a5cc422721e3bfd999d0399bd5bbeb39",
+      "title": "A Survey of Colormaps in Visualization"
+    },
+    {
+      "paperId": "1e685ce25c35fef280cae2d5397a41e4d6155c2a",
+      "title": "A Survey of Visual Analytic Pipelines"
+    },
+    {
+      "paperId": "d1ccff9e0a0dc60f0e100e61767fe15aec3de33a",
+      "title": "Formalizing Emphasis in Information Visualization"
+    },
+    {
+      "paperId": "a1bed5a7d137d41538f57562b6d14dbd8e9af2d0",
+      "title": "A Survey on Visual Analysis Approaches for Financial Data"
+    },
+    {
+      "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": "2299c45bd53819a4a4090fcd892b6cbb5d3085a8",
+      "title": "The State of the Art in Cartograms"
+    },
+    {
+      "paperId": "1206293e2f56d98c153e59d8a558f9540bf5adf3",
+      "title": "Design of Visualizations for Human-Information Interaction: A Pattern-Based Framework"
+    },
+    {
+      "paperId": "bdbc9d4c28db711aa308a3cb5a0fd5a6acafa8fc",
+      "title": "Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+      "title": "A Task Taxonomy for Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "6be907f96e046f89824a7ff775d47e86efb97b6b",
+      "title": "The Application of Visual Analytics to Financial Stability Monitoring"
+    },
+    {
+      "paperId": "7583a4bae785762f08a0d7edb0f12e4920f0e12e",
+      "title": "A Survey of Traffic Data Visualization"
+    },
+    {
+      "paperId": "cc08de0d72c8c92473e793002686ca793a22d112",
+      "title": "Visual Techniques to Support Exploratory Analysis of Temporal Graph Data"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "72e8b9953d44c02c51a876ba13745e29471c9a62",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "edaf3ed4ab0956763111c703ef80bf4f16088d5d",
+      "title": "A Five-Level Design Framework for Bicluster Visualizations"
+    },
+    {
+      "paperId": "04e60a8e50720b81c11499723ab88965fc9d7090",
+      "title": "Innovative information visualization of electronic health record data: a systematic review"
+    },
+    {
+      "paperId": "afe76102d8b57caf8b2330d1f88b651638e3183e",
+      "title": "Analysis and Visualization of Dynamic Networks"
+    },
+    {
+      "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+      "title": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "72b250b7141c9d0d30bb700b77551b8e50b59a3d",
+      "title": "How we draw texts: a review of approaches to text visualization and exploration"
+    },
+    {
+      "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+      "title": "A Task Taxonomy for Network Evolution Analysis"
+    },
+    {
+      "paperId": "a3511f3f1bc0e18ce8b4f0d15a5779f8b6ae3fc6",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "ee5979db0095c518c775f4dacaf987040a2e359a",
+      "title": "The \"Map\" in the mental map: Experimental results in dynamic graph drawing"
+    },
+    {
+      "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+      "title": "Edge bundling in information visualization"
+    },
+    {
+      "paperId": "8db1effc8b384e3b5ff84fc73065770d3f8783f2",
+      "title": "Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": "78defc7ed82587fedc917cd59dd895b3b8183325",
+      "title": "Technical Section: Surface-based flow visualization"
+    },
+    {
+      "paperId": "8c079ad7a48100d4b292c39da26696110c8a9d37",
+      "title": "Visualization for the Physical Sciences"
+    },
+    {
+      "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+      "title": "Seeing beyond reading: a survey on visual text analytics"
+    },
+    {
+      "paperId": "e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+      "title": "Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems"
+    },
+    {
+      "paperId": "47487ee3c961b1bec90b1d2958bc562f2409c1c2",
+      "title": "Watch this: A taxonomy for dynamic data visualization"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "1e554a1894a9d7f887cc5be41b0c06c029948fb0",
+      "title": "A Survey of Visualization Systems for Network Security"
+    },
+    {
+      "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+      "title": "A Taxonomy of Visual Cluster Separation Factors"
+    },
+    {
+      "paperId": "44cb1910be9b2362b2b6bb757f4eeab62546c177",
+      "title": "Conceptualizing Visual Uncertainty in Parallel Coordinates"
+    },
+    {
+      "paperId": "78697cc739e0f8bf1811d7b90eebe74ebfea24da",
+      "title": "Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "f09c75f4e715a99f338c1aad8e41da49a9d9dd15",
+      "title": "Performance Visualization for Large-Scale Computing Systems: A Literature Review"
+    },
+    {
+      "paperId": "4610f73a31700f1e0c204cec92aa5000b090b3eb",
+      "title": "Visualization of the Static Aspects of Software: A Survey"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+      "title": "The Design Space of Implicit Hierarchy Visualization: A Survey"
+    },
+    {
+      "paperId": "1cad16cfb0646c4da4cb452884c7466243b0d45d",
+      "title": "Unsolved problems in visibility graphs of points, segments, and polygons"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+      "title": "Visualization of Text Streams: A Survey"
+    },
+    {
+      "paperId": "31291e8658eba2c25a03875e3d002844b6c90ebc",
+      "title": "Algorithm Visualization: The State of the Field"
+    },
+    {
+      "paperId": "a70b2cef23129722e12c5fccffd24f5c04b798a2",
+      "title": "Highlighting in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "bedc4ee403e440d44e7231d79f7508c1dd53b2fb",
+      "title": "A Survey of Radial Methods for Information Visualization"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "b2ec705de807615889adc0daa343842ec227d6b5",
+      "title": "Towards a taxonomy of movement patterns"
+    },
+    {
+      "paperId": "4ecf251c278035225d8befdfe19cbe96b4f1afb9",
+      "title": "20 Years of Four HCI Conferences: A Visual Exploration"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "466664210db83e552301a823cf8b02ab2a43d4b5",
+      "title": "Requirements of Software Visualization Tools: A Literature Survey"
+    },
+    {
+      "paperId": "83f774166ca7a07c5ca0690abe3c450fe18ce3fa",
+      "title": "Software Visualization - Visualizing the Structure, Behaviour, and Evolution of Software"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "0fdf263e1073260e30d746409d526a2483bc771c",
+      "title": "Thirty Five Years of Computer Cartograms"
+    },
+    {
+      "paperId": "1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+      "title": "From Visual Data Exploration to Visual Data Mining: A Survey"
+    },
+    {
+      "paperId": "64ae56026e3bcfaae8c46449de0aad4627595ff2",
+      "title": "Visualization methods for data analysis and planning in medical applications"
+    },
+    {
+      "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+      "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": "89fce010b5871569e4769f4fce964ed3ddf1b38d",
+      "title": "The ACM digital library"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "ccae1f3961cd33acec0a742530d7d5e3b06d5422",
+      "title": "Ten More Unsolved Problems in Computer Graphics"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+      "title": "A Principled Taxonomy of Software Visualization"
+    },
+    {
+      "paperId": "6a6c523797da4c6fe58060d2ca83f9cf4da29771",
+      "title": "Taxonomies of visual programming and program visualization"
+    },
+    {
+      "paperId": "0d5d9c7bff298475cc2e0d0c9d06465ecd7b3d13",
+      "title": "Visual programming, programming by example, and program visualization: a taxonomy"
+    },
+    {
+      "paperId": "3ec92a3c34291a0c1ca45814c78064d0173b30c5",
+      "title": "Oxford University Press"
+    },
+    {
+      "paperId": "ca700ab419ab0fe4539d568c6b59c9efcc982c35",
+      "title": "Molecular Visualization of Computational Biology Data: A Survey of Surveys"
+    },
+    {
+      "paperId": null,
+      "title": "Sos literature browser"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": null,
+      "title": "RICHE N"
+    },
+    {
+      "paperId": null,
+      "title": "Matrix reordering survey"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "94f0efe8a36d7144061095e48507178ab5a74dd2",
+      "title": "A Survey of Visualization Systems for Malware Analysis"
+    },
+    {
+      "paperId": "a918626505090f2caeb7227e8c4a1097034eb816",
+      "title": "Task Taxonomy for Cartograms"
+    },
+    {
+      "paperId": "20cd40f3f17dc7d8f49d368c2efbc2e27b0f2b33",
+      "title": "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges"
+    },
+    {
+      "paperId": "98c11f20e5b3ef000e0faab0d973070de873a0de",
+      "title": "The State of the Art in Visualizing Group Structures in Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing group structures in graphs - bibliography"
+    },
+    {
+      "paperId": "40e9d6939e54b230038ba164cd58dd18d820a8a4",
+      "title": "The Design Space of Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "7638c0dd4dbc791ec64b009467db7733ecf19d98",
+      "title": "State-of-the-Art of Visualization for Eye Tracking Data"
+    },
+    {
+      "paperId": "c91817fcbde7006b3cbc993a3a6db81928ce40f8",
+      "title": "Document visualization: an overview of current research"
+    },
+    {
+      "paperId": "9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+      "title": "State of the Art of Performance Visualization"
+    },
+    {
+      "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+      "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
+    },
+    {
+      "paperId": "a71737a811860622dc4866f623a616ba131bb367",
+      "title": "Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges"
+    },
+    {
+      "paperId": "b7605d08490443dcc48e20f14e76d32c221adf58",
+      "title": "A Survey on Interactive Lenses in Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "LEMIEUX V"
+    },
+    {
+      "paperId": null,
+      "title": "why do visualization approaches support software reuse tasks? http:// www.cos.ufrj.br/~schots/survis_reuse/"
+    },
+    {
+      "paperId": null,
+      "title": "DE VASCONCELOS R"
+    },
+    {
+      "paperId": null,
+      "title": "Dynamic graph visualisation browser"
+    },
+    {
+      "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+      "title": "State of the Art of Parallel Coordinates"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": "3297be61b40c0603799bd19ecf422a372a7761fd",
+      "title": "Closing in on Close Reading."
+    },
+    {
+      "paperId": "999c4ffe9ccf530e62c60fac1271a3787b2c20a9",
+      "title": "A Survey of Visualization Construction User Interfaces"
+    },
+    {
+      "paperId": "1a5fe34a83e3b6f08b628b7af2d915876ba13819",
+      "title": "Force-Directed Drawing Algorithms"
+    },
+    {
+      "paperId": "edc31059d69c7149aa166d966f3b5ea7cac66b06",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "Distant reading. Verso Books"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "9716a93edd910d5f7facafd05db878721560e819",
+      "title": "Future Challenges and Unsolved Problems ( in Human-Centered Visualization )"
+    },
+    {
+      "paperId": "00b7aa47752f9d8229b7845397cdf1938373a0b5",
+      "title": "Please address correspondence to"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "MACKINLAY J"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Extended Data Dimensions (25%): Many surveys suggest that new data dimensions can be explored in the \ufb01eld. This differs from Item 2 by discussing the extension of a taxonomy"
+    },
+    {
+      "paperId": null,
+      "title": "Tools (20%): A number of papers describe the need for new tools for their domain which includes a need for both generic tools or frameworks to enable users to quickly use techniques"
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "paperId": "0f191715be4c43b748a63b014e2ab1bacfbf90e7",
+  "externalIds": {
+    "MAG": "3156693237",
+    "DBLP": "journals/cgf/SchottlerYPB21",
+    "ArXiv": "2101.06322",
+    "DOI": "10.1111/cgf.14198",
+    "CorpusId": 231632404
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/0f191715be4c43b748a63b014e2ab1bacfbf90e7",
+  "title": "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space",
+  "abstract": "This paper surveys visualization and interaction techniques for geospatial networks from a total of 95 papers. Geospatial networks are graphs where nodes and links can be associated with geographic locations. Examples can include social networks, trade and migration, as well as traffic and transport networks. Visualizing geospatial networks poses numerous challenges around the integration of both network and geographical information as well as additional information such as node and link attributes, time and uncertainty. Our overview analyses existing techniques along four dimensions: (i) the representation of geographical information, (ii) the representation of network information, (iii) the visual integration of both and (iv) the use of interaction. These four dimensions allow us to discuss techniques with respect to the trade\u2010offs they make between showing information across all these dimensions and how they solve the problem of showing as much information as necessary while maintaining readability of the visualization. https://geonetworks.github.io.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2021,
+  "referenceCount": 166,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14198",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-01-15",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "40"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sch\u00f6ttler2021VisualizingAI,\n author = {Sarah Sch\u00f6ttler and Yalong Yang and H. Pfister and B. Bach},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Visualizing and Interacting with Geospatial Networks: A Survey and Design Space},\n volume = {40},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "50184961",
+      "name": "Sarah Sch\u00f6ttler"
+    },
+    {
+      "authorId": "2108810028",
+      "name": "Yalong Yang"
+    },
+    {
+      "authorId": "143758236",
+      "name": "H. Pfister"
+    },
+    {
+      "authorId": "1666563942",
+      "name": "B. Bach"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0215abb4b044a130c0093d71951d5a7d62362c06",
+      "title": "Thematic Cartography and Geovisualization"
+    },
+    {
+      "paperId": "8308379582a8b5b34afa92d2052823d59a9f20fc",
+      "title": "The State of the Art in Map\u2010Like Visualization"
+    },
+    {
+      "paperId": "9cf1f39ec067ab6190d885239ba09b61e7024224",
+      "title": "A Survey on Transit Map Layout \u2013 from Design, Machine, and Human Perspectives"
+    },
+    {
+      "paperId": "4834f7709913cbaf04ccbc7ff3f2eda1b0b41fd4",
+      "title": "Madison:"
+    },
+    {
+      "paperId": "84c125399c3dc6ae1538ca97be3331a859120ed5",
+      "title": "OD Morphing: Balancing Simplicity with Faithfulness for OD Bundling"
+    },
+    {
+      "paperId": "d468f17de219b226e2d777b26b8d9a7fbe0b2071",
+      "title": "Cartography"
+    },
+    {
+      "paperId": "76b5d5044b636da621b4f0147eb826591607d7fe",
+      "title": "Practical Topologically Safe Rounding of Geographic Networks"
+    },
+    {
+      "paperId": "1aba6e3221af11183a333bb9d2faf447106737c1",
+      "title": "Node-Link or Adjacency Matrices: Old Question, New Insights"
+    },
+    {
+      "paperId": "0b0d051715078288d5356013707445a53f0edfa9",
+      "title": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "paperId": "15827a8d91abcd211109abd9808e9cb0c1bc1dc3",
+      "title": "The State of the Art in Visualizing Multivariate Networks"
+    },
+    {
+      "paperId": "6406b520e2e35938257b58c431d86b706372c028",
+      "title": "A spatial one-to-many flow layout algorithm using triangulation, approximate Steiner trees, and path smoothing"
+    },
+    {
+      "paperId": "58c135722bb32d49d2e539922a27fee68d230b78",
+      "title": "What-Why Analysis of Expert Interviews: Analysing Geographically-Embedded Flow Data"
+    },
+    {
+      "paperId": "a45266c801b59005e01b6a8196ade8f0203dc0ac",
+      "title": "The State of the Art in Multilayer Network Visualization"
+    },
+    {
+      "paperId": "aa61049fd92466f263686a2fe46b3bf959a52a77",
+      "title": "Diverse Visualization Techniques and Methods of Moving-Object-Trajectory Data: A Review"
+    },
+    {
+      "paperId": "850cb851d86d7965912cdeed84852abf4698c340",
+      "title": "Visualizing spatial interaction characteristics with direction-based pattern maps"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "58a61c0af1e6a907d2f404d3538fae24e14a39a6",
+      "title": "The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard"
+    },
+    {
+      "paperId": "1001e22d01683c1e2d30d54e9789a424b0f695e1",
+      "title": "Shifted Maps: Revealing spatio-temporal topologies in movement data"
+    },
+    {
+      "paperId": "2fb68c94e6b2674693151f518bbf7e05668d1cb2",
+      "title": "Using Eye Tracking to Evaluate the Usability of Flow Maps"
+    },
+    {
+      "paperId": "d0ae2fa05d6f04bd402418f29442e14079639b4d",
+      "title": "Maps and Globes in Virtual Reality"
+    },
+    {
+      "paperId": "2930a957cda8728fce970c02443cabbf8aa915fb",
+      "title": "Animated Edge Textures in Node-Link Diagrams: a Design Space and Initial Evaluation"
+    },
+    {
+      "paperId": "a06a31af785be8d4b771ef755a4fef4a00e534f9",
+      "title": "Visual Exploration of 3D Geospatial Networks in a Virtual Reality Environment"
+    },
+    {
+      "paperId": "5c1ad62c0a216b7b00857d377dd90fd31a2af028",
+      "title": "Data Flow Analysis and Visualization for Spatiotemporal Statistical Data without Trajectory Information"
+    },
+    {
+      "paperId": "587a730b11a4b3878142bd4995f80dc969bc5982",
+      "title": "Design principles for origin-destination flow maps"
+    },
+    {
+      "paperId": "d1519cd2aae9b3e713dd26c2a9a97835a8324e79",
+      "title": "An Interactive Approach for Exploration of Flows Through Direction-Based Filtering"
+    },
+    {
+      "paperId": "2b8759ad7b47d750435608d9e35afee0a25da4ae",
+      "title": "Geographic graph construction and visualization"
+    },
+    {
+      "paperId": "e74bf06d60d1907e732d249efd693c1d2b377d8b",
+      "title": "Design and evaluation of line symbolizations for origin\u2013destination flow maps"
+    },
+    {
+      "paperId": "9d13d4c7e7d37d4e635385f136d29b3b43bd4f76",
+      "title": "A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space\u2010Time Cubes"
+    },
+    {
+      "paperId": "24e40004361b96904d7c33031bf10f71d3f7280a",
+      "title": "Revealing Patterns and Trends of Mass Mobility Through Spatial and Temporal Abstraction of Origin-Destination Movement Data"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "aae25b24fde927d78e052c4ebd8d025a7505dae1",
+      "title": "Revisited Experimental Comparison of Node-Link and Matrix Representations"
+    },
+    {
+      "paperId": "dc3dd942016412f4f6f7579f894a7932326a25de",
+      "title": "Force-directed layout of origin-destination flow maps"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "40b843389114060864b2da95824582248fc7c854",
+      "title": "State of the Art in Edge and Trail Bundling Techniques"
+    },
+    {
+      "paperId": "c01aea0a2ef9108d3989444ee58dd29bcd5165aa",
+      "title": "Generating Tile Maps"
+    },
+    {
+      "paperId": "9409e99f12363fdf1319a23ca2d5f6d80d679d17",
+      "title": "A Guide to Selecting Map Projections for World and Hemisphere Maps"
+    },
+    {
+      "paperId": "84d458800429dc57e9bef91f04a52ffc20c4809a",
+      "title": "FFTEB: Edge bundling of huge graphs by the Fast Fourier Transform"
+    },
+    {
+      "paperId": "f0eeee6a42f66ad3811e50fc11c3b040f2c361ba",
+      "title": "Automated layout of origin\u2013destination flow maps: U.S. county-to-county migration 2009\u20132013"
+    },
+    {
+      "paperId": "bec7ef692276474a5f4927fe1f4eb02741288e92",
+      "title": "Visual Encoding of Dissimilarity Data via Topology-Preserving Map Deformation"
+    },
+    {
+      "paperId": "b7803263c30320d32966e8cf08dc0970abe342e3",
+      "title": "Module-based visualization of large-scale graph network data"
+    },
+    {
+      "paperId": "253c611e369907fda7f8f3e6317aefa4b8e9465b",
+      "title": "Multi-Resolution Visualisation of Geographic Network Traffic"
+    },
+    {
+      "paperId": "4603e00c6fec5d8df286c2b09afe9db532516d16",
+      "title": "Composite Flow Maps"
+    },
+    {
+      "paperId": "b09d6b26736732d2d12e3dbfb965cecf766b7f44",
+      "title": "Visualization of origin-destination matrices using a connection barchart and coordinated maps"
+    },
+    {
+      "paperId": "4d505f44b0f87d25aad4cca5d542beda6f2ce060",
+      "title": "NetworkCube: Bringing Dynamic Network Visualizations to Domain Scientists"
+    },
+    {
+      "paperId": "f6a322174272df74d55e743616e9d5811badf26d",
+      "title": "Review: visual analytics of climate networks"
+    },
+    {
+      "paperId": "eb9fb19a5ab1b48c700bbd6a38873c062b6cd0d5",
+      "title": "Overview with details for exploring geo-located graphs on maps"
+    },
+    {
+      "paperId": "c7642f932221c9f73e6af727828d19b737b627e4",
+      "title": "Algorithms for Necklace Maps"
+    },
+    {
+      "paperId": "2f1594ddf1180a13881e78e530dc5aa1509e1475",
+      "title": "Attribute-driven edge bundling for general graphs with applications in trail analysis"
+    },
+    {
+      "paperId": "aa6b227bbf131c00ab53616bf630df60e26ae6e5",
+      "title": "OD-Wheel: Visual design to explore OD patterns of a central region"
+    },
+    {
+      "paperId": "971db15179cb19b81e91b7169177ce11fe5818f9",
+      "title": "Clustered edge routing"
+    },
+    {
+      "paperId": "b211a711a9d79404052ad420db31452268ab3dd6",
+      "title": "Origin-Destination Flow Data Smoothing and Mapping"
+    },
+    {
+      "paperId": "404c3777c518b8c364395518d9b9aa4e84597279",
+      "title": "Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations"
+    },
+    {
+      "paperId": "1d3c80515c69c1c31234573aaf3e340b0b8b243e",
+      "title": "3DArcLens: A technique for the exploration of geographical networks"
+    },
+    {
+      "paperId": "785e4b034f740574ef053ebae78086e9cfa565d5",
+      "title": "Mapping Large Spatial Flow Data with Hierarchical Clustering"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "42bb118724c902ffe90d6a565deb7def60096112",
+      "title": "Quantifying Global International Migration Flows"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "db1dc8e14b3b43de8938cdb5d1baa20f3123b3f9",
+      "title": "Stub Bundling and Confluent Spirals for Geographic Networks"
+    },
+    {
+      "paperId": "2ffdd682100a1dd70eb4e898408adc84c06c53ed",
+      "title": "Visual Analytics of Movement"
+    },
+    {
+      "paperId": "8acd4ed4bb5b0926957d0218ae5cc16f4fbc60e5",
+      "title": "Handbook on Graph Drawing and Visualization"
+    },
+    {
+      "paperId": "dec80c25c10c5703e441ef47a7f2931f12a60718",
+      "title": "Visualization techniques for journey to crime flow data"
+    },
+    {
+      "paperId": "c7032cbdf7fdcbcab4ce09bd87fbc8cd0aff42d7",
+      "title": "Methods for Multilevel Analysis and Visualisation of Geographical Networks"
+    },
+    {
+      "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+      "title": "Edge bundling in information visualization"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "20ca0e2de3f539483a06f694d96b462646ae2de2",
+      "title": "Information-rich visualisation of dense geographical networks"
+    },
+    {
+      "paperId": "27bc00d177cdc325e49053043e52a455e16a491a",
+      "title": "Map Projections: A Working Manual"
+    },
+    {
+      "paperId": "fb4811ac6a7cf2aba31a5f9debf910bb9d4f00a3",
+      "title": "Travel\u2010Route\u2010Centered Metro Map Layout and Annotation"
+    },
+    {
+      "paperId": "f3b6516cf4135ae3d192aca0e86de33e0559401f",
+      "title": "A Qualitative Study on the Exploration of Temporal Changes in Flow Maps with Animation and Small\u2010Multiples"
+    },
+    {
+      "paperId": "3bc47292576559deb92b0e9f8617e92e4f4f5b10",
+      "title": "Exploring the design space of interactive link curvature in network diagrams"
+    },
+    {
+      "paperId": "bcc9891fa49a629560a51cf4e054ea5413cf53d5",
+      "title": "Developing a Flow Mapping Module in a GIS Environment"
+    },
+    {
+      "paperId": "9fb7dc511e05734af79fc921aae12ab22c6b79c1",
+      "title": "SideKnot: Revealing relation patterns for graph visualization"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "fb42fd7a0cc4028c3c94c2034eee9e85e6de0e70",
+      "title": "Drawing Road Networks with Focus Regions"
+    },
+    {
+      "paperId": "17220582db679a69e8e71f10116543900a6770f7",
+      "title": "Flow Map Layout via Spiral Trees"
+    },
+    {
+      "paperId": "2095ea3427222cb3b5bff717fcf2af5994544edb",
+      "title": "Focus+Context Metro Maps"
+    },
+    {
+      "paperId": "7a9aaf7b4b05cc24c48510fabbb22ebbb6d89247",
+      "title": "Divided Edge Bundling for Directional Network Data"
+    },
+    {
+      "paperId": "7aa045fb4d980a6f16a57f24d5e31cac754b1658",
+      "title": "In Situ Exploration of Large Dynamic Networks"
+    },
+    {
+      "paperId": "d7b60f061b0280485b210d31abf001fdca1515c0",
+      "title": "Spatial-social network visualization for exploratory data analysis"
+    },
+    {
+      "paperId": "64ba24329ea02e560e2f9ea392adbb5ee7c65009",
+      "title": "Angle-Restricted Steiner Arborescences for Flow Map Layout"
+    },
+    {
+      "paperId": "7409e4c6728b82a727b9f12d1f18dd5242401d0f",
+      "title": "Flowstrates: An Approach for Visual Exploration of Temporal Origin\u2010Destination Data"
+    },
+    {
+      "paperId": "66ebe2bdbd1b751b817c28fab18e4db01cb5d875",
+      "title": "Dynamic Insets for Context\u2010Aware Graph Navigation"
+    },
+    {
+      "paperId": "cd11c1e16ec29aaa3e1bf17b0aaeaaad534c1c29",
+      "title": "Point-Based Visualization for Large Hierarchies"
+    },
+    {
+      "paperId": "4c6a1cd9b50fb81e41c3e60a5f519410ead52cba",
+      "title": "Drawing and Labeling High-Quality Metro Maps by Mixed-Integer Programming"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "effb2d060deaef84e6913847901f55a3bdfa7675",
+      "title": "OntoTrix: a hybrid visualization for populated ontologies"
+    },
+    {
+      "paperId": "291e5ce17134b6cddc2a258429a79f9fa7978348",
+      "title": "Multilevel agglomerative edge bundling for visualizing large graphs"
+    },
+    {
+      "paperId": "0269bd2ccddf36309869e37b1bfb964d7921e800",
+      "title": "An extended evaluation of the readability of tapered, animated, and textured directed-edge representations in node-link graphs"
+    },
+    {
+      "paperId": "ded4b3097c92775ce93e328c048f0b49de814ba4",
+      "title": "Spatial Generalization and Aggregation of Massive Movement Data"
+    },
+    {
+      "paperId": "c6f7fbf188a38bc1dcffdecb790dc9ee35983f74",
+      "title": "Necklace Maps"
+    },
+    {
+      "paperId": "77cb46263bddff501ab31fa653a0fea8e9d117e8",
+      "title": "Visualization of attributed hierarchical structures in a spatiotemporal context"
+    },
+    {
+      "paperId": "60f736a3b00d4fbf520c443a981c4b1b0c9d5ad3",
+      "title": "3D Edge Bundling for Geographical Data Visualization"
+    },
+    {
+      "paperId": "b4d2bd6313d1575122f2a292455cc04e9cd608dc",
+      "title": "Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data"
+    },
+    {
+      "paperId": "3538d05c04ce1818fc1252507c97b562ccc9a5b7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Visualization of Vessel Movements"
+    },
+    {
+      "paperId": "bc8852922f39403066381819b3bb401fd2c8e3c9",
+      "title": "Force\u2010Directed Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "31425d0e4a69b54bbf01e8080579fcd03e40e1c0",
+      "title": "The Effect of Global-Scale Map-Projection Knowledge on Perceived Land Area"
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "902702d8e3a5eed4617316e429255df7891a40e6",
+      "title": "A user study on visualizing directed edges in graphs"
+    },
+    {
+      "paperId": "4db840ac94ed23e68be1ce0b99230fa0dbbac39e",
+      "title": "Visualizing Migration Flows Using Kriskograms"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "bc6dff14a130c57a91d5a21339c23471faf1d46f",
+      "title": "Et al"
+    },
+    {
+      "paperId": "3326ddc98d6c1d065fa9b475104e479a814e535b",
+      "title": "\n Drawing Subway Maps: A\u00a0Survey\n"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "b645a0e9794b8871eb780efbbe78cf35593c3caa",
+      "title": "Dynamic visualization of geographic networks using surface deformations"
+    },
+    {
+      "paperId": "d5d3cc2010a28dcf0a84e10d3f4ec09188bb18b4",
+      "title": "Supporting interactive graph exploration using edge plucking"
+    },
+    {
+      "paperId": "01e3ca6d6bf1a040699d496aa0f4ab90ae7dd567",
+      "title": "ASK-GraphView: A Large Scale Graph Visualization System"
+    },
+    {
+      "paperId": "db6b4b9f27f9e3113c0bfa423fb848c934e2d651",
+      "title": "Fisheye Tree Views and Lenses for Graph Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "69441f971efcf25c26d2d1ced6e127c7821c7cfe",
+      "title": "BEST PAPER: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "4effb869de6edd5e6e7e1ec476ab402fa9d28c55",
+      "title": "A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations"
+    },
+    {
+      "paperId": "7072ecbea329b17a4a1eb04e93094c1871152c0c",
+      "title": "GeoTime Information Visualization"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "7bcac523dc694447c92029e5da6c7b125c0ee624",
+      "title": "3D geographic network displays"
+    },
+    {
+      "paperId": "0ecd7a7434819715b2cbe00b5e22c16b20ada6b5",
+      "title": "Visualizing the global topology of the MBone"
+    },
+    {
+      "paperId": "7dd1b5be5152ba845d5d7a5281f3e18b032af562",
+      "title": "Visualizing Network Data"
+    },
+    {
+      "paperId": "86433573277c90a61ac18558d65d034547ffc5fd",
+      "title": "Browsing graphs using a fisheye view (abstract)"
+    },
+    {
+      "paperId": null,
+      "title": "Relocations between Swiss can-tons in 2016-Flowmap"
+    },
+    {
+      "paperId": "5b9c81d9b0053243a643dfac7100a6cfc4f635d7",
+      "title": "Cartography"
+    },
+    {
+      "paperId": "0f2bbbc01d3530e2e0e6557e6062be73e574ad5e",
+      "title": "Untangling origin-destination flows in geographic information systems"
+    },
+    {
+      "paperId": null,
+      "title": "SPRINGERLINK: International Symposium on Graph Drawing and Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Pacific (formerly Asia-Pacific APVIS)"
+    },
+    {
+      "paperId": null,
+      "title": "Wiley Online Library: Computer Graphics Forum: List of Issues-Wiley Online Library"
+    },
+    {
+      "paperId": "853501cffacf6b161dcaf548a2858fe1536b3f8d",
+      "title": "Clustering Trajectories by Relevant Parts for Air Traffic Analysis"
+    },
+    {
+      "paperId": "d817033aaf76dd9f1ca01c20456646325a2dd157",
+      "title": "Visual Exploration of 3 D Geospatial Networks in a Virtual Reality Environment"
+    },
+    {
+      "paperId": "0d306edac06661c562c795c49845bea97b9e3754",
+      "title": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "paperId": "4c08ab49881e7f1ff5f77e6f52da58a424df133b",
+      "title": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "paperId": "7068dd3a7b1fff6bebcc4b1c62d89d031f3dfbf8",
+      "title": "Typology of Uncertainty in Static Geolocated Graphs for Visualization"
+    },
+    {
+      "paperId": "541531b6c63d301145e4d7a68b076e18e5a07f3a",
+      "title": "Choosing a Map Projection"
+    },
+    {
+      "paperId": null,
+      "title": "A Dynamic Approach for Visualizing Local and Global Information in Geo-spatial Network Visualizations. Thesis"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "98c11f20e5b3ef000e0faab0d973070de873a0de",
+      "title": "The State of the Art in Visualizing Group Structures in Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Conference on Visualization (EuroVis) - STARs"
+    },
+    {
+      "paperId": null,
+      "title": "The Eurographics Association Cagliary"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "804ca94cd6159cb4666468ce7169e4372c5c83a8",
+      "title": "Force directed flow map layout"
+    },
+    {
+      "paperId": "bf1bfa69dd0286b842850d8f0cbfa02409ee1e98",
+      "title": "Graph Drawing and Cartography"
+    },
+    {
+      "paperId": "c8b646d8c5f03f5b3ff86703181bbad85ed89f61",
+      "title": "Temporal Multivariate Networks"
+    },
+    {
+      "paperId": "37e00c0c95edaec1fa3467ba870c15f01818a63b",
+      "title": "Historical Internal Migration in Ireland"
+    },
+    {
+      "paperId": null,
+      "title": "Lecture Notes in Computer Science"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space ization and Computer"
+    },
+    {
+      "paperId": "c8c21cbe4570fe58e0e23a954552fb384af34359",
+      "title": "Elements of Cartography"
+    },
+    {
+      "paperId": "cd420a9509e984c6d9fb41a0c0eff5af83f0de77",
+      "title": "Network Visualization: Algorithms, Applications, and Complexity"
+    },
+    {
+      "paperId": "1fc4ad6afed25baad6aa6f4435898fe186dc4e2b",
+      "title": "Visualizing Network Data"
+    },
+    {
+      "paperId": null,
+      "title": "van de WETERING"
+    },
+    {
+      "paperId": null,
+      "title": "The effect of global-scalemap-projection knowledge on perceived land area. Cartographica: The International Journal for Geographic Information and Geovisualization 44, (Apr"
+    },
+    {
+      "paperId": "c49c3beaa43a4bdc75fdbc57991226fd473c49e5",
+      "title": "Advanced Visualization : Research and Practice Map Warping for the Annotation of Metro Maps"
+    },
+    {
+      "paperId": "4b738ec860008bcffc3de94bd6673db1af62c5b5",
+      "title": "Increasing the readability of graph drawings with centrality-based scaling"
+    },
+    {
+      "paperId": null,
+      "title": "Lecture Notes in Geoinformation and Cartography"
+    },
+    {
+      "paperId": "6a4f810345765fe443a54ebe6e58a9d1271bd310",
+      "title": "Graph Drawing Techniques for Geographic Visualization"
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "eb7d83b726a746b1a9b2a33ac34263b3047b1a48",
+      "title": "About the authors"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "7c00f7e48e6b850ac68f07e88ca22b4a981fc85e",
+      "title": "Improving Angular Resolution in Visualizations of Geographic Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Using graph layout to visualize train interconnection data. Graph Drawing"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing the global topology of theMBone.Proceedings IEEE Symposium on Information Visualization \u201996"
+    },
+    {
+      "paperId": "2fee31a8dbb41fd16dcbb927ad2bf63512eeb8ba",
+      "title": "Experiments In Migration Mapping By Computer"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "2197c1bcb10e1f9431353a8c22c77a922b7333dd",
+      "title": "Journal of Visual Languages & Computing Automatic Visualisation of Metro Maps"
+    },
+    {
+      "paperId": "e585efc84efa16d794fe712c1095556eadfbe0b8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Winding Roads: Routing Edges into Bundles"
+    },
+    {
+      "paperId": "9f15f86a548c8e13da206ae1ab589953a7350b95",
+      "title": "Journal of Graph Algorithms and Applications Using Graph Layout to Visualize Train Interconnection Data"
+    },
+    {
+      "paperId": "9bfc34ca3d3dd17ecdcb092f2a056da6cb824acd",
+      "title": "International Journal of Geographical Information Science Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support"
+    },
+    {
+      "paperId": "47f3bb7b21350596d92ede8eb220fd92133de485",
+      "title": "City Research Online"
+    },
+    {
+      "paperId": null,
+      "title": "European Association for Computer Graphics and"
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "paperId": "8308379582a8b5b34afa92d2052823d59a9f20fc",
+  "externalIds": {
+    "DBLP": "journals/cgf/HograferHS20",
+    "MAG": "3042697744",
+    "DOI": "10.1111/cgf.14031",
+    "CorpusId": 221097116
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/8308379582a8b5b34afa92d2052823d59a9f20fc",
+  "title": "The State of the Art in Map\u2010Like Visualization",
+  "abstract": "Cartographic maps have been shown to provide cognitive benefits when interpreting data in relation to a geographic location. In visualization, the term map\u2010like describes techniques that incorporate characteristics of cartographic maps in their representation of abstract data. However, the field of map\u2010like visualization is vast and currently lacks a clear classification of the existing techniques. Moreover, choosing the right technique to support a particular visualization task is further complicated, as techniques are scattered across different domains, with each considering different characteristics as map\u2010like. In this paper, we give an overview of the literature on map\u2010like visualization and provide a hierarchical classification of existing techniques along two general perspectives: imitation and schematization of cartographic maps. Each perspective is further divided into four principal categories that group common map\u2010like techniques along the visual primitives they affect. We further discuss this classification from a task\u2010centered view and highlight open research questions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 234,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hogr\u00e4fer2020TheSO,\n author = {Marius Hogr\u00e4fer and M. Heitzler and Hans-J\u00f6rg Schulz},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Map\u2010Like Visualization},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "52011150",
+      "name": "Marius Hogr\u00e4fer"
+    },
+    {
+      "authorId": "3261778",
+      "name": "M. Heitzler"
+    },
+    {
+      "authorId": "37120614",
+      "name": "Hans-J\u00f6rg Schulz"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2460465edbc45dfda62b5cf4553106911cb6d30e",
+      "title": "Augmenting Node\u2010Link Diagrams with Topographic Attribute Maps"
+    },
+    {
+      "paperId": "f33d21fe94ff64c43a41191fa68cd7fa440ad025",
+      "title": "Comparison of Relief Shading Techniques Applied to Landforms"
+    },
+    {
+      "paperId": "7accd52134a64448a5561d1317cfa275e9b8f222",
+      "title": "Modeling How Humans Judge Dot-Label Relations in Point Cloud Visualizations"
+    },
+    {
+      "paperId": "d6db559dc41e03e6a3cb9ef6ce1bd9fd69bed95f",
+      "title": "R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media"
+    },
+    {
+      "paperId": "d468f17de219b226e2d777b26b8d9a7fbe0b2071",
+      "title": "Cartography"
+    },
+    {
+      "paperId": "a44334677f010149228e11b487e5161a1e80ce0d",
+      "title": "Shape Decision-Making in Map-Like Visualization Design Using the Simulated Annealing Algorithm"
+    },
+    {
+      "paperId": "0d85687cc68442af88d8d1ad55b50b60aa6cd93c",
+      "title": "Multivariate spatial data visualization: a survey"
+    },
+    {
+      "paperId": "00e0848adc72e12962d58cba2712360c58e06204",
+      "title": "Impressionism-inspired data visualizations are both functional and liked."
+    },
+    {
+      "paperId": "51a30be48add8b9bf8f8d2e3f69ee1d4e06e2db0",
+      "title": "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+    },
+    {
+      "paperId": "92f2f363af6004303fc6c5e5700f2f1eb2517e76",
+      "title": "Stippling of 2D Scalar Fields"
+    },
+    {
+      "paperId": "74cc0b9b409977bd3f0e7abf8d1fbbb5956a6740",
+      "title": "Ten quick tips for effective dimensionality reduction"
+    },
+    {
+      "paperId": "e3112fc4facb1d076230613caac29f24e1723d4d",
+      "title": "Metabopolis: scalable network layout for biological pathway diagrams in urban map style"
+    },
+    {
+      "paperId": "f0cebc3e38cebee9276bb08d2d74d2baf4de72ee",
+      "title": "Toward Universal Spatialization Through Wikipedia-Based Semantic Enhancement"
+    },
+    {
+      "paperId": "850cb851d86d7965912cdeed84852abf4698c340",
+      "title": "Visualizing spatial interaction characteristics with direction-based pattern maps"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "d67782ce51211c7d18f1f864004b74d8afd67e6b",
+      "title": "User Behavior Map: Visual Exploration for Cyber Security Session Data"
+    },
+    {
+      "paperId": "76082a00ed6f3e3828f78436723d7fde29faeed4",
+      "title": "Pondering the Concept of Abstraction in (Illustrative) Visualization"
+    },
+    {
+      "paperId": "05a420a3a9fd71b391ef5e9dc03e466b80211e78",
+      "title": "A Review and Characterization of Progressive Visual Analytics"
+    },
+    {
+      "paperId": "c0e4a27e6f9a9119bdf5e8062902b3f0af2a258d",
+      "title": "Metaphor Representation and Analysis of Non-Spatial Data in Map-Like Visualizations"
+    },
+    {
+      "paperId": "b7e06145821a4dce0b630e6dedcd659a17cf9a0f",
+      "title": "State of the Art of Sports Data Visualization"
+    },
+    {
+      "paperId": "9df40fd1e384e50fdee8c6ddd4de1ee874e6dedf",
+      "title": "Science map metaphors: a comparison of network versus hexmap-based visualizations"
+    },
+    {
+      "paperId": "587a730b11a4b3878142bd4995f80dc969bc5982",
+      "title": "Design principles for origin-destination flow maps"
+    },
+    {
+      "paperId": "130e8b3e84e10f3f04ce69f68c5fee9c3fc545d3",
+      "title": "Rediscovering the World"
+    },
+    {
+      "paperId": "90b09245db760cd130acee0696eeb3ed0c31f4f0",
+      "title": "Visualization of Eye Tracking Data: A Taxonomy and Survey"
+    },
+    {
+      "paperId": "c904cd4b7e68a85d11f7b7ba9c0e841c6c98df6c",
+      "title": "E-Map: A Visual Analytics Approach for Exploring Significant Event Evolutions in Social Media"
+    },
+    {
+      "paperId": "98d5b1adfd056b072d79a660bbaabb31968209a0",
+      "title": "Point grid map: a new type of thematic map for statistical data associated with geographic points"
+    },
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "a46a80ea253091d797d0167ba218feaa94c20070",
+      "title": "Non-crossing Paths with Geographic Constraints"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "c01aea0a2ef9108d3989444ee58dd29bcd5165aa",
+      "title": "Generating Tile Maps"
+    },
+    {
+      "paperId": "fe382ba1a5ceb7d432a00d3fcb192ae01da6bc14",
+      "title": "A New Approach to GraphMaps, a System Browsing Large Graphs as Interactive Maps"
+    },
+    {
+      "paperId": "53ac0c5e6357ea3825e37c3591fc4d091b21eaf8",
+      "title": "Of maps, cartography and the geography of the International Cartographic Association"
+    },
+    {
+      "paperId": "675130dfb7ef9cf61793cf560658d604f530d540",
+      "title": "Multivariate label-based thematic maps"
+    },
+    {
+      "paperId": "f901d4fbdf6bb14c80b6832b9430d563dd473a2e",
+      "title": "Cartograph: Unlocking Spatial Visualization Through Semantic Enhancement"
+    },
+    {
+      "paperId": "026df1486fd4cb7ae7e0e415cb4cca9a1e1f2d46",
+      "title": "Font attributes enrich knowledge maps and information retrieval"
+    },
+    {
+      "paperId": "ae833028bbd8e22f21456aeb04700b1f6bedb2c9",
+      "title": "Hexagonal gridded maps and information layers: a novel approach for the exploration and analysis of retail data"
+    },
+    {
+      "paperId": "ec049a21f6e87dd2ef699bbbe0e230183ff3b6ad",
+      "title": "MolMap - Visualizing Molecule Libraries as Topographic Maps"
+    },
+    {
+      "paperId": "5999079be4ed40b65b0957c442230bf2e61b9dae",
+      "title": "How to Use t-SNE Effectively"
+    },
+    {
+      "paperId": "4bfcde0a32efcb828d7c2bef5494a40c9f87ceb4",
+      "title": "D-Map: Visual analysis of ego-centric information diffusion patterns in social media"
+    },
+    {
+      "paperId": "50c4b169fe9b2cbe66a93292f969533beb97b8d5",
+      "title": "What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations"
+    },
+    {
+      "paperId": "1efafe5d43bd683e84e3232d49d5adadb03c41c8",
+      "title": "VideoMap: An interactive and scalable visualization for exploring video content"
+    },
+    {
+      "paperId": "2299c45bd53819a4a4090fcd892b6cbb5d3085a8",
+      "title": "The State of the Art in Cartograms"
+    },
+    {
+      "paperId": "34711dbf83fd75dcd6d7a6ea85871e33c30bf57e",
+      "title": "JASPER: Just A new Space-filling and Pixel-oriented layout for large graph ovERview"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "e6827b0da9876b2a1fbc802f859bacd6373a1f2e",
+      "title": "Acquired Codes of Meaning in Data Visualization and Infographics: Beyond Perceptual Primitives"
+    },
+    {
+      "paperId": "78aa7470a95d03c3616f727ea2cc4d91248b83d5",
+      "title": "Poemage: Visualizing the Sonic Topology of a Poem"
+    },
+    {
+      "paperId": "000808d5aac95bb57dd478ff31e76cffe013700e",
+      "title": "A map-like visualisation method based on liquid modelling"
+    },
+    {
+      "paperId": "3f6b14a2f3f530ec340be37fa278ead9413f338e",
+      "title": "Enhanced Hexagon-Tiling Algorithm for Map-Like Information Visualisation"
+    },
+    {
+      "paperId": "eb9fb19a5ab1b48c700bbd6a38873c062b6cd0d5",
+      "title": "Overview with details for exploring geo-located graphs on maps"
+    },
+    {
+      "paperId": "41a31e89f7956562d9c4b089be56384cb7e806f3",
+      "title": "An alternative method to constructing time cartograms for the visual representation of scheduled movement data"
+    },
+    {
+      "paperId": "7e37647e0e21dcc255a1af864ae2ca3725c440df",
+      "title": "Exploring Curved Schematization of Territorial Outlines"
+    },
+    {
+      "paperId": "abe24e68c6c244f837f3a6b83ccc2176c533b0d0",
+      "title": "Rethinking the definition of the word \u2018map\u2019: an evaluation of Beck's representation of the London Underground through a qualitative expert survey"
+    },
+    {
+      "paperId": "5734e10de8a1fb0ced8163b5a148bd473a66b9ff",
+      "title": "GraphMaps: Browsing Large Graphs as Interactive Maps"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "e129bb6b6ead127b8b1d2180bd8de34a70e457a4",
+      "title": "Mosaic Drawings and Cartograms"
+    },
+    {
+      "paperId": "4268d483639b26bdaec453ccd0b4dbb1df74039c",
+      "title": "Stenomaps: Shorthand for shapes"
+    },
+    {
+      "paperId": "300096a92b739a02c6b8c71f23a15290da4db066",
+      "title": "Map Schematization with Circular Arcs"
+    },
+    {
+      "paperId": "386e5a20627a23a759ae7f82f8368486691c2739",
+      "title": "Anchored Drawings of Planar Graphs"
+    },
+    {
+      "paperId": "f9eaf291a1cf5e0358dd88581881b5940cf8fa26",
+      "title": "Travel-Time Maps: Linear Cartograms with Fixed Vertex Locations"
+    },
+    {
+      "paperId": "c242dd4058e4c76e373d03570d4b257c9a46e2da",
+      "title": "Google Maps"
+    },
+    {
+      "paperId": "e95b304e6b47b9d88934aaaa0aa9bf4545396c6a",
+      "title": "A survey of direction-preserving layout strategies"
+    },
+    {
+      "paperId": "7776da67aba0c34a4d65bc0028fb8c6947e90bff",
+      "title": "Structuring the space: a study on enriching node-link diagrams with visual references"
+    },
+    {
+      "paperId": "5cf68acca16b1f987aab07a75b58045887567443",
+      "title": "Traffigram: distortion for clarification via isochronal cartography"
+    },
+    {
+      "paperId": "9fd5ffbb3bcd7f31b83171a9aaa70698b1ab9a43",
+      "title": "Morphometric Mapping of Topography by Flowline Hachures"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "7e2c49a4f5b0889cbf639b1da582305467d7b2eb",
+      "title": "GosperMap: Using a Gosper Curve for Laying Out Hierarchical Data"
+    },
+    {
+      "paperId": "9fdbeef10445b087da69b6834e5c0a561f3f6108",
+      "title": "Transmogrification: causal manipulation of visualizations"
+    },
+    {
+      "paperId": "f13f7a55cf85231aa3f6155cda5e6c5113edd8a9",
+      "title": "Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience"
+    },
+    {
+      "paperId": "00e7091577e819d4a845d6ff19dd8acea7ede09b",
+      "title": "Bristle Maps: A Multivariate Abstraction Technique for Geovisualization"
+    },
+    {
+      "paperId": "8acd4ed4bb5b0926957d0218ae5cc16f4fbc60e5",
+      "title": "Handbook on Graph Drawing and Visualization"
+    },
+    {
+      "paperId": "1e4e9dd6d11b0c7ec2f96f6fd0e7a9388c96d74d",
+      "title": "Visual Analysis of Set Relations in a Graph"
+    },
+    {
+      "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+      "title": "Edge bundling in information visualization"
+    },
+    {
+      "paperId": "44ed700173900cbbd3f8c5d2dc389be7dc35167d",
+      "title": "Graphic Presentation"
+    },
+    {
+      "paperId": "0d25b5efdccb2890ae228a30e4af7e009b282b02",
+      "title": "Thematic Cartography and Transformations: Cauvin/Thematic Cartography and Transformations"
+    },
+    {
+      "paperId": "b248c3fc4dcafd90dc00f886f31ce7ef4612d593",
+      "title": "Visual Abstraction and Stylisation of Maps"
+    },
+    {
+      "paperId": "3a7172d5376c402fc0d815aac2310015a4f05be7",
+      "title": "Map use: reading, analysis, interpretation"
+    },
+    {
+      "paperId": "7c41a396128940085baaee5ea957bbc4ef596802",
+      "title": "Drawing Clustered Graphs as Topographic Maps"
+    },
+    {
+      "paperId": "e2ebd140bf05e9c6ba9dcdae18b00ed4b516e696",
+      "title": "Evolution Strategies for Optimizing Rectangular Cartograms"
+    },
+    {
+      "paperId": "8c202bbb1295710bd8649f8f4711da0a5d1acce9",
+      "title": "Visualizing Dynamic Data with Maps"
+    },
+    {
+      "paperId": "fb4811ac6a7cf2aba31a5f9debf910bb9d4f00a3",
+      "title": "Travel\u2010Route\u2010Centered Metro Map Layout and Annotation"
+    },
+    {
+      "paperId": "79c994f292981e3369cfeda902bd9440b90598fa",
+      "title": "FatFonts: combining the symbolic and visual aspects of numbers"
+    },
+    {
+      "paperId": "294660b956b9f2764d6a3472e022835bce1907df",
+      "title": "Strategic knowledge maps of the techno-scientific network (SK maps)"
+    },
+    {
+      "paperId": "2e99edf01dd0157a4faea13a1eb09e63c8c780d2",
+      "title": "From real to metaphoric maps: Cartography as a visual language for organizing and sharing knowledge"
+    },
+    {
+      "paperId": "a087b67a18deddb98735bf5f0b6fd9bae7a235da",
+      "title": "Embedding, clustering and coloring for dynamic maps"
+    },
+    {
+      "paperId": "2095ea3427222cb3b5bff717fcf2af5994544edb",
+      "title": "Focus+Context Metro Maps"
+    },
+    {
+      "paperId": "ba0fc719e6d37b915002f0489d4a8e2f3407aa28",
+      "title": "Wikipedia world map: method and application of map-like wiki visualization"
+    },
+    {
+      "paperId": "18d5e7e240c55dc94f3ef155ac165c179387c89e",
+      "title": "Diffusion Cartograms for the Display of Periodic Table Data"
+    },
+    {
+      "paperId": "bbf2e63c253f50fd64900b7acaeb4bd538d39151",
+      "title": "Visualizing Thought"
+    },
+    {
+      "paperId": "6fca3dc48078ce8536db943999f80790671dc6a3",
+      "title": "A chorem-based approach for visually analyzing spatial data"
+    },
+    {
+      "paperId": "bf485d1b8381c43548212d958ceb3979bc04915f",
+      "title": "The Undistort Lens"
+    },
+    {
+      "paperId": "f2ecddac83a3e23f840e13e07769fb39171eceaa",
+      "title": "Adjacency-preserving spatial treemaps"
+    },
+    {
+      "paperId": "cd11c1e16ec29aaa3e1bf17b0aaeaaad534c1c29",
+      "title": "Point-Based Visualization for Large Hierarchies"
+    },
+    {
+      "paperId": "7e49e96c1e3b74fb59fc53144d73b1236b2cb8cc",
+      "title": "Area Cartograms: Their Use and Creation"
+    },
+    {
+      "paperId": "1c9dd6c683e43520a52f34d1f76fccd8b8261c35",
+      "title": "Visualizing dynamic data with maps"
+    },
+    {
+      "paperId": "92f45c7ab98e8d41aaed6414d4f04726f837fddb",
+      "title": "From Graphs to Spatial Graphs"
+    },
+    {
+      "paperId": "960ad662c2bb454d69006492cc3f52d1550de55d",
+      "title": "Visualizing Graphs and Clusters as Maps"
+    },
+    {
+      "paperId": "9d6aa38e1c29b2e4fd17819115eb4453594cb61e",
+      "title": "Understanding Chorematic Diagrams: Towards a Taxonomy"
+    },
+    {
+      "paperId": "690afd7c52633000cc8d37cead72302c91824e0f",
+      "title": "Rethinking Map Legends with Visualization"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "0c4cc51173a103f731601940e81944cc4048a270",
+      "title": "Fat Polygonal Partitions with Applications to Visualization and Embeddings"
+    },
+    {
+      "paperId": "fb0886c4e0512b6f15aadf4119031a98d6a80958",
+      "title": "Visual-Interactive Analysis With Self-Organizing Maps - Advances and Research Challenges"
+    },
+    {
+      "paperId": "13c727ddf546029acd8fe32d9a4d870aa0478e3f",
+      "title": "Principles of Map Design"
+    },
+    {
+      "paperId": "327292f7a20c23cef5ce4a19483f82b4213c9a90",
+      "title": "CGV - An interactive graph visualization system"
+    },
+    {
+      "paperId": "3ddea2ac77160777f5006f61bdfc24f26a902d5c",
+      "title": "Proximity-based visualization of movement trace data"
+    },
+    {
+      "paperId": "45165421c11a627e560b4338e3ecca07308131aa",
+      "title": "Comparing Dot and Landscape Spatializations for Visual Memory Differences"
+    },
+    {
+      "paperId": "cf27456b371a3860a9d377a164e2e054d07f5344",
+      "title": "Density Equalizing Distortion of Large Geographic Point Sets"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "31435e2ed9b48e1659786d51594ea713f2135c84",
+      "title": "Perceptual Organization in User-Generated Graph Layouts"
+    },
+    {
+      "paperId": "d6b45959cf82026c9275e322a7b0cde6f6e4e8c9",
+      "title": "A chorem-based approach for visually synthesizing complex phenomena"
+    },
+    {
+      "paperId": "f53215529c2fb928f9bcdc51b0847e320f60f5b4",
+      "title": "Chapter 4. Spatialization"
+    },
+    {
+      "paperId": "3326ddc98d6c1d065fa9b475104e479a814e535b",
+      "title": "\n Drawing Subway Maps: A\u00a0Survey\n"
+    },
+    {
+      "paperId": "d48a28cb9b85d749e421d059d01a33b067887b2b",
+      "title": "Spatialization Design: Comparing Points and Landscapes"
+    },
+    {
+      "paperId": "b8afa828a8765657e766c0c17f125c24ddecda80",
+      "title": "Domain Maps: Purposes, History, Parallels with Cartography, and Applications"
+    },
+    {
+      "paperId": "b645a0e9794b8871eb780efbbe78cf35593c3caa",
+      "title": "Dynamic visualization of geographic networks using surface deformations"
+    },
+    {
+      "paperId": "fbc3807f6c5693635b5423b569b49079fef3625d",
+      "title": "Spatial Graphs: Principles and Applications for Habitat Connectivity"
+    },
+    {
+      "paperId": "0a72e39aedbd666152d54d419a527543f7e4ef37",
+      "title": "The Snake Projection: A Customised Grid for Rail Projects"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "7871b2b1db30c1b691c31be849f8bf9b0c19361b",
+      "title": "Optimal BSPs and rectilinear cartograms"
+    },
+    {
+      "paperId": "fef0fc082f05cb371fa1f9e14d5755a4654eb06a",
+      "title": "On the Design of Schematic Transport Maps"
+    },
+    {
+      "paperId": "fead954fa6e4bf0171c0c476b6366d125769e6eb",
+      "title": "Voromap: A Voronoi-based tool for visual exploration of multi-dimensional data"
+    },
+    {
+      "paperId": "8a9166ec12120ec1085535632091a4a76efc4b62",
+      "title": "The distance-similarity metaphor in region-display spatializations"
+    },
+    {
+      "paperId": "e8463f0c84c52b446aeb5a6833abe70da50b1f73",
+      "title": "Visualization of Contents Archive by Contour Map Representation"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "f206e82be5e386cf068445d74533b9226e3c3b0a",
+      "title": "A note on space-filling visualizations and space-filling curves"
+    },
+    {
+      "paperId": "5e0b2e867dcaeb537e7f1a4393b7b1215151279c",
+      "title": "Visual Realism for the Visualization of Software Metrics"
+    },
+    {
+      "paperId": "0263f664049eba8759c6b2c0b6006420419af9ed",
+      "title": "Automatic layout of project plans using a metro map metaphor"
+    },
+    {
+      "paperId": "b1af432b2cf60f86e7c5df25f0a1b1f30cd0bbc3",
+      "title": "Multivariate Analysis and Geovisualization with an Integrated Geographic Knowledge Discovery Approach"
+    },
+    {
+      "paperId": "8aee6626d87ec899a61831a4cee46d271b2aaa45",
+      "title": "RecMap: Rectangular Map Approximations"
+    },
+    {
+      "paperId": "b1afb815d3cd9fe9dd9f86c10642ef2580f5588e",
+      "title": "Visual data mining in large geospatial point sets"
+    },
+    {
+      "paperId": "e3af5145d007bdd4573ea7a95dd8bd51f8be4f5c",
+      "title": "Getting to more abstract places using the metro map metaphor"
+    },
+    {
+      "paperId": "0b66d799f8e1a822e701a0273d3f16f83a5babc4",
+      "title": "Strahler based graph clustering using convolution"
+    },
+    {
+      "paperId": "041719ae39a712dafe1634e08cbc06035d6d4661",
+      "title": "Hierarchical graph maps"
+    },
+    {
+      "paperId": "dd07e39dd584fd6fc17dc19cb3b83a4d3a0e08ba",
+      "title": "Becoming symbol-minded"
+    },
+    {
+      "paperId": "2f5a1dee22753e1c6e2f46efc72d5a87e1cf4e2a",
+      "title": "The Distance\u2013Similarity Metaphor in Network-Display Spatializations"
+    },
+    {
+      "paperId": "32944cf9e8de5a8d4eb3bc169def8b2bd842e000",
+      "title": "Frequency Histogram Legend in the Choropleth Map: A Substitute to Traditional Legends"
+    },
+    {
+      "paperId": "f2f53f639f45ca0cfb55a764e77c134e459022c7",
+      "title": "PixelMaps: a new visual data mining approach for analyzing large spatial data sets"
+    },
+    {
+      "paperId": "b35cc4b4e67713b7c5c7d4949e4988b2e1a3bc82",
+      "title": "Testing the First Law of Cognitive Geography on Point-Display Spatializations"
+    },
+    {
+      "paperId": "ec3cae15e8c739b4037260fc65a7f09553449e74",
+      "title": "Multidimensional Scaling"
+    },
+    {
+      "paperId": "119a01498142f86d3b81b9e70976547dd4c18642",
+      "title": "Visualizing Geographic Information: VisualPoints vs CartoDraw"
+    },
+    {
+      "paperId": "7d304f09132dbc4b7ba76f12f4adee087db120c4",
+      "title": "Spatialization Methods: A Cartographic Research Agenda for Non-geographic Information Visualization"
+    },
+    {
+      "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+      "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": "289a8d8b976063cacfd64d58adbac93c012c870c",
+      "title": "Deconstruction and Reconstruction of the Definition of the Term \"Map\""
+    },
+    {
+      "paperId": "ce2f86f440a4f48949a320e5cdd3b6de8e7b9965",
+      "title": "Techniques for Realistic Visualization of Fluids: A Survey"
+    },
+    {
+      "paperId": "7a9c41f13e395f9f1247b1fa6461579bcb5b6027",
+      "title": "A fast, simple and versatile algorithm to fill the depressions of digital elevation models"
+    },
+    {
+      "paperId": "a366235720ccb62de76a79072ec6cf5423ecedaf",
+      "title": "DataSplash: A Direct Manipulation Environment for Programming Semantic Zoom Visualizations of Tabular Data"
+    },
+    {
+      "paperId": "6cdac1531db6515518f963fba451c1c70dc8c6b9",
+      "title": "Features, Objects, and Other Things: Ontological Distinctions in the Geographic Domain"
+    },
+    {
+      "paperId": "33c059554a9c90b81eb9434f3585a4a835378d90",
+      "title": "Rendering effective route maps: improving usability through generalization"
+    },
+    {
+      "paperId": "835603abce182fd33d25380790ac3e6fc75049c6",
+      "title": "Query by attention: visually searchable information maps"
+    },
+    {
+      "paperId": "6c200b6d741a933c2b5394566dda41763e5fe658",
+      "title": "Formalizing Semantic Spaces For Information Access"
+    },
+    {
+      "paperId": "ccce0cd1ac51428ba9e52593000706f62676e9e0",
+      "title": "From metaphor to method: cartographic perspectives on information visualization"
+    },
+    {
+      "paperId": "bfe52db45741f6074e666f046fcb296284de1682",
+      "title": "Polygon Evolution by Vertex Deletion"
+    },
+    {
+      "paperId": "ddf5ad4d482e1685ba5a85ca5d89e9726267b825",
+      "title": "SOM-based data visualization methods"
+    },
+    {
+      "paperId": "5e1d244fd3af61e80d9b2e8385b1720fc36dfba5",
+      "title": "A Cross\u2010Cultural Study of Young Children's Mapping Abilities"
+    },
+    {
+      "paperId": "a369d32b1acd58ac13b45843bd0b53060267fa0c",
+      "title": "Map Use & Analysis"
+    },
+    {
+      "paperId": "18f15cbf53754325b3fad171780f5dde756d61ad",
+      "title": "What Was a Map? The Lexicographers Reply"
+    },
+    {
+      "paperId": "bd8401035451252b6ab37f8455f8043ab3b4b1d8",
+      "title": "Fractals in physical geography"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "03c4edfb06cfa0b1d58db18e40d3931196cda750",
+      "title": "The self-organizing map"
+    },
+    {
+      "paperId": "7b587c301f00a3d56166739a0ab9c9cdd74738e6",
+      "title": "Principal component analysis"
+    },
+    {
+      "paperId": "8095b5722fa2a5f60bc0b66eb87c9b5d04e45d92",
+      "title": "Fractal and Automated Line Generalization"
+    },
+    {
+      "paperId": "66938ebf7909d5171fed9f3fae51d82b428a1214",
+      "title": "La carte-mod\u00e8le et les chor\u00e8mes"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "e1ef0403873e217818a8ff657c4ca634d63312a5",
+      "title": "AN ALGORITHM TO CONSTRUCT CONTINUOUS AREA CARTOGRAMS"
+    },
+    {
+      "paperId": "b37450c80a36d1d45291a8fe3817d8256c5e1ef0",
+      "title": "Distortions in memory for maps"
+    },
+    {
+      "paperId": "cd6c787d1a9760aefbc5bdab5c66a2ed451fe045",
+      "title": "Distortions in judged spatial relations"
+    },
+    {
+      "paperId": "ad0189d70aabe6a57138a9ed32ec852fae7363a7",
+      "title": "A Computer Movie Simulating Urban Growth in the Detroit Region"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": null,
+      "title": "UW I NTERACTIVE D ATA L AB : Scatterplot, Sept."
+    },
+    {
+      "paperId": "b7a9b995c99e43d3df68c384e04f491f742948e7",
+      "title": "Edinburgh Research Explorer Geographic Network Visualization Techniques:A Work-In-Progress Taxonomy"
+    },
+    {
+      "paperId": "dd92d80754f5e2f392163034ceb439e484841091",
+      "title": "Figurative frames: A critical vocabulary for images in information visualization"
+    },
+    {
+      "paperId": "b05ab13abe71b87bf30ea4d4576f833a58cb39e4",
+      "title": "The Human User in Progressive Visual Analytics"
+    },
+    {
+      "paperId": "f9a23d488c9cf897949b176368a760ab75de1647",
+      "title": "Wayfinding Through Orientation : Schematizing Landmark , Route and Survey Information in a Single Map"
+    },
+    {
+      "paperId": "cedda0040e807636452a952a33a12b9f53e0e608",
+      "title": "Bubble Treemaps for Uncertainty Visualization"
+    },
+    {
+      "paperId": "887d550673ff88519f3625c69007e4febad40ab2",
+      "title": "11 DMap + : Interactive Visual Analysis and Exploration of Egocentric and Event-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "paperId": null,
+      "title": "Weltsicht - Geographie Sekundarstufe I Handbuch"
+    },
+    {
+      "paperId": null,
+      "title": "SCHOCH Y"
+    },
+    {
+      "paperId": "4c08ab49881e7f1ff5f77e6f52da58a424df133b",
+      "title": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Schweizer Weltatlas"
+    },
+    {
+      "paperId": null,
+      "title": "Diercke - Denken ler-nen mit Karten"
+    },
+    {
+      "paperId": null,
+      "title": "Geographic Information Science and Systems , 4 ed"
+    },
+    {
+      "paperId": null,
+      "title": "RHIND D"
+    },
+    {
+      "paperId": "53dd9a7cb285740dbbd2b081a5f9bab5e4898c7d",
+      "title": "Visualizing Graphs as Maps with Contiguous Regions"
+    },
+    {
+      "paperId": "5c7985b218d8e9f1e8dfd84522e1697f5f1fbce0",
+      "title": "Viewing Abstract Data as Maps"
+    },
+    {
+      "paperId": "358ac412998173b72f70346a1b63ede9eb782e6a",
+      "title": "Data Cartography: atlases and maps for non-geographical data"
+    },
+    {
+      "paperId": "bf1bfa69dd0286b842850d8f0cbfa02409ee1e98",
+      "title": "Graph Drawing and Cartography"
+    },
+    {
+      "paperId": "9d6c741996922f8450c390264f6638c109287155",
+      "title": "Thematic map design"
+    },
+    {
+      "paperId": "353f255836d3758b40966ccec0efd14e3d26a706",
+      "title": "Cartograms of self-organizing maps to explore user-generated content"
+    },
+    {
+      "paperId": "1a5fe34a83e3b6f08b628b7af2d915876ba13819",
+      "title": "Force-Directed Drawing Algorithms"
+    },
+    {
+      "paperId": "c0f0a7d5cbe3f32a498c4ee7e8cbf8ae3d6825d4",
+      "title": "Applications for Gridded Cartograms"
+    },
+    {
+      "paperId": null,
+      "title": "ORMELING F"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "2dcdad5c1bd03e6e9929b43dc672ef53da434b46",
+      "title": "A Survey on Automated Metro Map Layout Methods"
+    },
+    {
+      "paperId": null,
+      "title": "Wind map"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "0267cf755fcea6df0a2f25a76b55c66e99ba4b26",
+      "title": "Rediscovering."
+    },
+    {
+      "paperId": null,
+      "title": "MUEHRCKE P"
+    },
+    {
+      "paperId": null,
+      "title": "KOBOUROV S"
+    },
+    {
+      "paperId": null,
+      "title": "Operatoren anwenden!"
+    },
+    {
+      "paperId": "3a7f671238a01ba5210db835e5e92400b8753ba9",
+      "title": "Cartography : thematic software visualization with consistent layout \u2021"
+    },
+    {
+      "paperId": null,
+      "title": "Visualisation of Origins, Destinations and Flows with OD Maps"
+    },
+    {
+      "paperId": "7d83dc05675c3e1e23c7816ed14d0f308a99cbbf",
+      "title": "Mapping Crime Using Geovirtual Urban Environments"
+    },
+    {
+      "paperId": null,
+      "title": "The Manual of GIS. American Society of Photogrammetry and Remote Sensing"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "HODLER T"
+    },
+    {
+      "paperId": null,
+      "title": "Spatialization. In The handbook of geographical information"
+    },
+    {
+      "paperId": "2510fbf66c1d6bb48a9fdd72fe705269c2812e69",
+      "title": "Learning and teaching with maps"
+    },
+    {
+      "paperId": "e288b17690803260a60ebd444b4cd74eb475b199",
+      "title": "Network drawing with geographical constraints on vertices"
+    },
+    {
+      "paperId": "fd147ef9cce22609aec28e741f0dc8d844488a73",
+      "title": "Tulip - A Huge Graph Visualization Framework"
+    },
+    {
+      "paperId": "2fe65de6c1df8811100a4fc570ca00798bc4d395",
+      "title": "CartoDraw: a fast algorithm for generating contiguous cartograms"
+    },
+    {
+      "paperId": "22acd080d943ff2f679d3619b855fa9f7565c89d",
+      "title": "Design Information"
+    },
+    {
+      "paperId": "7698472ef0dc015922ff604fdf80f63d1742a2c6",
+      "title": "From The Cover: Diffusion-based method for producing density-equalizing maps."
+    },
+    {
+      "paperId": "5d6931dd4b28cdf497dc79c010de21bda387f4bd",
+      "title": "Reading or scanning? A study of newspaper and net paper reading."
+    },
+    {
+      "paperId": "12bf0b1201ddf1b9ac493cfc24ff7573fd98521f",
+      "title": "On Geometry and Transformation in Map-Like Information Visualization"
+    },
+    {
+      "paperId": "c9ebf0d7ba518f835b57eace8374dc448e062ea1",
+      "title": "A cartographic approach to visualizing conference abstracts"
+    },
+    {
+      "paperId": "9389b9fa0ddfb33809a0dd3208bfe77abc7bb008",
+      "title": "Some Ways that Maps and Diagrams Communicate"
+    },
+    {
+      "paperId": "2c8da172d8f8f7cd653189bc6c5e648d98c74aad",
+      "title": "Schematizing Maps: Simplification of Geographic Shape by Discrete Curve Evolution"
+    },
+    {
+      "paperId": "367f4217cf1e899a2ff9e7317f9a182efe60c4d4",
+      "title": "Worlds of Information: The Geographic Metaphor in the Visualization of Complex Information"
+    },
+    {
+      "paperId": "7bfb7de6e34b628e5b2913c2877adac4bbef3d9b",
+      "title": "\u00c2\u00f3\u00f9\u00f6\u00f2\u00f2\u00f0 \u00d3\u00f3 \u00d6\u00f6\u00f4\u00f4 \u00d0\u00f0\u00f3\u00f6\u00f6\u00f8\u00f8\u00f1\u00d7 \u00d2\u00f2 \u00d4\u00f4\u00f0\u00f0 Blockin Blockin\u00f8\u00f8\u00f3\u00f2\u00d7"
+    },
+    {
+      "paperId": "0b33cc1a20a19a786520fff75fbfa953c213c40f",
+      "title": "Cartography: Visualization of Spatial Data"
+    },
+    {
+      "paperId": "b5fc8b29e6d0286f6480181527df000379e542a4",
+      "title": "The University Consortium for Geographic Information Science"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": null,
+      "title": "NIEMEYER D"
+    },
+    {
+      "paperId": "9b0401629ec9c1c3521e76ccb2e8b3a904446e01",
+      "title": "New Approach."
+    },
+    {
+      "paperId": "41cccd83212c35801a0a63c178bed4da83aa739a",
+      "title": "Journal of Graph Algorithms and Applications Planar Embeddings of Graphs with Specified Edge Lengths"
+    },
+    {
+      "paperId": null,
+      "title": "Danger zones: Mapping europe's earthquakes"
+    },
+    {
+      "paperId": null,
+      "title": "SO W"
+    },
+    {
+      "paperId": null,
+      "title": "URL: de.wikipedia.org/wiki/Datei:Greece_satellite-01"
+    },
+    {
+      "paperId": null,
+      "title": "Cartogram 2016 electoral vote"
+    },
+    {
+      "paperId": null,
+      "title": "Carmelo Anthony is the last great American ball hog"
+    }
+  ]
+}

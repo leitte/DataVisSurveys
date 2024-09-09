@@ -1,0 +1,917 @@
+{
+  "paperId": "8bff1ef74fc33eab71b8335268fe2665c7e29322",
+  "externalIds": {
+    "MAG": "3009845531",
+    "DBLP": "journals/cgf/KhulusiKMGFJ20",
+    "DOI": "10.1111/cgf.13905",
+    "CorpusId": 215949484
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/8bff1ef74fc33eab71b8335268fe2665c7e29322",
+  "title": "A Survey on Visualizations for Musical Data",
+  "abstract": "Digital methods are increasingly applied to store, structure and analyse vast amounts of musical data. In this context, visualization plays a crucial role, as it assists musicologists and non\u2010expert users in data analysis and in gaining new knowledge. This survey focuses on this unique link between musicology and visualization. We classify 129 related works according to the visualized data types, and we analyse which visualization techniques were applied for certain research inquiries and to fulfill specific tasks. Next to scientific references, we take commercial music software and public websites into account, that contribute novel concepts of visualizing musicological data. We encounter different aspects of uncertainty as major problems when dealing with musicological data and show how occurring inconsistencies are processed and visually communicated. Drawing from our overview in the field, we identify open challenges for research on the interface of musicology and visualization to be tackled in the future.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 210,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13905",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Art",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-03-05",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Khulusi2020ASO,\n author = {R. Khulusi and J. Kusnick and C. Meinecke and Christina Gillmann and Josef Focht and S. J\u00e4nicke},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey on Visualizations for Musical Data},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "51058021",
+      "name": "R. Khulusi"
+    },
+    {
+      "authorId": "151473547",
+      "name": "J. Kusnick"
+    },
+    {
+      "authorId": "40076385",
+      "name": "C. Meinecke"
+    },
+    {
+      "authorId": "11160395",
+      "name": "Christina Gillmann"
+    },
+    {
+      "authorId": "2086343952",
+      "name": "Josef Focht"
+    },
+    {
+      "authorId": "1762398",
+      "name": "S. J\u00e4nicke"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5e97a7054199d4f79635b1003ff457d65ed9171f",
+      "title": "Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges"
+    },
+    {
+      "paperId": "a90fdc2b0250d84ec0f9e4bcc4569ca76749d6d8",
+      "title": "EduClust - A Visualization Application for Teaching Clustering Algorithms"
+    },
+    {
+      "paperId": "36fd07ad8162454adae8cd4f5bb851546fa1ce60",
+      "title": "An Interactive Chart of Biography"
+    },
+    {
+      "paperId": "28b0602f5c84bdface5dc6e203984287ef257244",
+      "title": "Analyzing Visual Mappings of Traditional and Alternative Music Notation"
+    },
+    {
+      "paperId": "677c5533c04dcf8ddc96bd89d7c64a431d9cc508",
+      "title": "InterFACE: new faces for musical expression"
+    },
+    {
+      "paperId": "6653a02e189ded88a04e01cfd5e2ee9c566d17f5",
+      "title": "The Explanatory Visualization Framework: An Active Learning Framework for Teaching Creative Computing Using Explanatory Visualizations"
+    },
+    {
+      "paperId": "e5e9b0c7e1f11e2ce6b1f83ef932fc98240160ca",
+      "title": "Pasts and Futures of Digital Humanities in Musicology: Moving Towards a \u201cBigger Tent\u201d"
+    },
+    {
+      "paperId": "407f81f9ad74a701e27230be5098bc3bbcf44f19",
+      "title": "Non-destructive investigation of aluminum alloy hemmed joints using neutron radiography and X-ray computed tomography"
+    },
+    {
+      "paperId": "902b54c9b6fad40a997e67b8576e07b733a4492b",
+      "title": "Nondestructive research on wooden musical instruments : from macro- to microscale imaging with lab-based X-ray CT systems"
+    },
+    {
+      "paperId": "57492e6f4dc675352226000a3bdfef4651ea23ea",
+      "title": "Timelines Revisited: A Design Space and Considerations for Expressive Storytelling"
+    },
+    {
+      "paperId": "b17195fa5e4d38f056affd451c0af022424419a4",
+      "title": "Visual Text Analysis in Digital Humanities"
+    },
+    {
+      "paperId": "6a5db8223f9620bc64ec60cd442793ec397bfe5e",
+      "title": "Connecting Music and Place: Exploring Library Collection Data Using Geo-visualizations"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "b07ddf5a4e14a40f9c6afadfbae1e8f4292711a3",
+      "title": "Single-impulse Panoramic Photoacoustic Computed Tomography of Small-animal Whole-body Dynamics at High Spatiotemporal Resolution"
+    },
+    {
+      "paperId": "16824fab1d1af497099b94e0050dc63411ebe96d",
+      "title": "Persistent challenges in geovisualization \u2013 a community perspective"
+    },
+    {
+      "paperId": "9d60c7aad65e538ba0efec93c464121c953f2605",
+      "title": "Visual Analyses of Music History: A User-Centric Approach"
+    },
+    {
+      "paperId": "e4b418c363780f7f2a805de763eb85ead741669c",
+      "title": "MoshViz: A Detail+Overview Approach to Visualize Music Elements"
+    },
+    {
+      "paperId": "f68cb943eff89eca2bf613b324e72e768d838d56",
+      "title": "CoBoard flowers: An interactive installation for Prague spring international music festival"
+    },
+    {
+      "paperId": "5089472f0613277eedefa3d2d9d9b66254a3185d",
+      "title": "Virtual Reality Musical Instruments: State of the Art, Design Principles, and Future Directions"
+    },
+    {
+      "paperId": "2c180e241957fe2faf4f3bbddeb28e9c5e69c08a",
+      "title": "Moodplay: Interactive Mood-based Music Discovery and Recommendation"
+    },
+    {
+      "paperId": "cd06379c35b895f581a4ffa77b0fada26a890dd7",
+      "title": "Visualization of Music Plagiarism: Analysis and Evaluation"
+    },
+    {
+      "paperId": "12730b28456c03e9310fa12e5d621a33ca7327ea",
+      "title": "A personality-based adaptive system for visualizing classical music performances"
+    },
+    {
+      "paperId": "0d30efdcfa8ea0c0924539dac41437e8e09ab441",
+      "title": "Computed Tomographic Findings in Microcephaly Associated with Zika Virus."
+    },
+    {
+      "paperId": "568f972858357603d7101786caa79c0dde959039",
+      "title": "Assessment of skeletal muscle mass in critically ill patients: considerations for the utility of computed tomography imaging and ultrasonography"
+    },
+    {
+      "paperId": "92a21509a2af6c7fd06d4c6dfa02ea8d04e87511",
+      "title": "Interactive Visual Profiling of Musicians"
+    },
+    {
+      "paperId": "4ce67bb06be7156e89c9e06c0992615db2e85d50",
+      "title": "A meta\u2010analysis of the educational effectiveness of three\u2010dimensional visualization technologies in teaching anatomy"
+    },
+    {
+      "paperId": "8a9376675d960ea76d5f8449f2871c4adf8854c9",
+      "title": "Visualizations for Text Re-use"
+    },
+    {
+      "paperId": "bbf4ccfa248baf834e20cde85fb84c4fea63aa11",
+      "title": "Music Mood Visualization Using Self-Organizing Maps"
+    },
+    {
+      "paperId": "4acb043a87313f716fab1c0595cdc8ac334c324b",
+      "title": "Representing Uncertainty in Graph Edges: An Evaluation of Paired Visual Variables"
+    },
+    {
+      "paperId": "a41423995a8cc831258351ce00b1ff7e8a967106",
+      "title": "Fundamentals of Music Processing"
+    },
+    {
+      "paperId": "c67b5c58f275298bde59e410b8b2991ccd3acc80",
+      "title": "A Color-Based Visualization Approach to Understand Harmonic Structures of Musical Compositions"
+    },
+    {
+      "paperId": "ddeb1ba2de6863a3b84da89439770b187835b6a4",
+      "title": "User Centered Design"
+    },
+    {
+      "paperId": "5f1a78d950985f4f31d3260895d7c487e8704eec",
+      "title": "Chorlody: a music learning game"
+    },
+    {
+      "paperId": "0e6ec87bb2136c22e5676ee73bdc34f4734bf90e",
+      "title": "Music Learning through Video Games and Apps: Guitar Hero, Rock Band, Amplitude, Frequency, and Rocksmith, and Bandfuse , and Bit.Trip Complete, and Audiosurf, and Beat Hazard, and Biophilia (review)"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "b507435ef0eba8f092e9d38c4470618f28f69204",
+      "title": "P.I.A.N.O.: enhancing instrument learning via interactive projected augmentation"
+    },
+    {
+      "paperId": "d90634bb1c0d0ad1693023a8e615b6fe26d2281b",
+      "title": "Songrium: a music browsing assistance service based on visualization of massive open collaboration within music content creation community"
+    },
+    {
+      "paperId": "140bdc35fb85b4baf09d7299113a19a681b56264",
+      "title": "Rouages: Revealing the Mechanisms of Digital Musical Instruments to the Audience"
+    },
+    {
+      "paperId": "c22c8673a536a3c8aecefdbc3d00ee867a655858",
+      "title": "MirrorFugue iii: conjuring the recorded pianist"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "77b94c4b016028bd7d075dcf74a1600a1e57aa98",
+      "title": "Inorganic Nanoparticles Based Contrast Agents for X\u2010ray Computed Tomography"
+    },
+    {
+      "paperId": "a1decd3e1e4f245866845bae93b00a860cbd270c",
+      "title": "Beyond the score: Music visualization and digital humanities"
+    },
+    {
+      "paperId": "4c1dbcce91bdc33ea931953e0142f278f868aba5",
+      "title": "Vuzik: Music Visualization and Creation on an Interactive Surface"
+    },
+    {
+      "paperId": "89c2dfdf091bc1d6e625ef9bfdf16230e1254afa",
+      "title": "Piece wise Laplacian\u2010based Projection for Interactive Data Exploration and Organization"
+    },
+    {
+      "paperId": "dc6cf839bb2a0a700c2de463ef038d2d671f6ee2",
+      "title": "A Survey of Audio-Based Music Classification and Annotation"
+    },
+    {
+      "paperId": "71dab30690933f185ee1dcedb647396119136779",
+      "title": "\u201cSerendipitous\u201d browsing versus library space"
+    },
+    {
+      "paperId": "84555a4a00dcde5bbbb048c54fbff9ac1a69439e",
+      "title": "Content Based Graph Visualization of Audio Data for Music Library Navigation"
+    },
+    {
+      "paperId": "e529680057ed5bfdc45a217dd038dd215d450861",
+      "title": "The Streams of Our Lives: Visualizing Listening Histories in Context"
+    },
+    {
+      "paperId": "29186e8b06573e1b3cb23be51d01b29ca734ac8f",
+      "title": "Visualization of concurrent tones in music with colours"
+    },
+    {
+      "paperId": "fd70bfe69bfacb9392395133d6bf68b324ddcdac",
+      "title": "Affective Visualization and Retrieval for Music Video"
+    },
+    {
+      "paperId": "09bffa77b01bc4b59fe3df4ba192e9d202c5b8b5",
+      "title": "Semantic Clustering in Wireless Sensor Networks"
+    },
+    {
+      "paperId": "fcdbb275c78b9aad57cc37261d1f021e47607d8a",
+      "title": "The Musical Avatar: a visualization of musical preferences by means of audio content description"
+    },
+    {
+      "paperId": "f1abeec533573d448145891f700d56f4f5695ee5",
+      "title": "Proceedings of the 5th Audio Mostly Conference: A Conference on Interaction with Sound"
+    },
+    {
+      "paperId": "dfb647bf52d52ca7745933266c99425e676ac6ac",
+      "title": "Music-driven character animation"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "bcb865c9ec59c40ece092994f8114af69cb9b03d",
+      "title": "Creating access to music through visualization"
+    },
+    {
+      "paperId": "4adfa9386a391898ae2592a4967c64de75427b2c",
+      "title": "Is the Crowd's Wisdom Biased? A Quantitative Analysis of Three Online Communities"
+    },
+    {
+      "paperId": "2d1ffcb1b4ea952cf26c9bb21c5350ebc25e887d",
+      "title": "Musicsim: integrating audio analysis and user feedback in an interactive music browsing ui"
+    },
+    {
+      "paperId": "5e80afd4985901f347e268175383af7861a99b67",
+      "title": "Pulling strings from a tangle: visualizing a personal music listening history"
+    },
+    {
+      "paperId": "46fd304f16a6fedbf203ac067122ec1b7d8b3b0f",
+      "title": "Musician Map: visualizing music collaborations over time"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "1e09b7bfcca2efacfe0b26704bf10df7376b4401",
+      "title": "Bringing Sheet Music to Life: My Experiences with OMR"
+    },
+    {
+      "paperId": "e7a14496770f86c1738d46539ce81542653c76a2",
+      "title": "Enhancing the Visualization of Percussion Gestures by Virtual Character Animation"
+    },
+    {
+      "paperId": "9a041e631e6583aa80a7fe39de07d055dcc9239f",
+      "title": "Music selection using the PartyVote democratic jukebox"
+    },
+    {
+      "paperId": "e2b0bd0ca5bca2a828faf19715aa1cf437773922",
+      "title": "Content-Based Music Information Retrieval: Current Directions and Future Challenges"
+    },
+    {
+      "paperId": "bd2308926e44f3b015bfb01331fe443e34b7a9a4",
+      "title": "Emotion-Based Music Visualization Using Photos"
+    },
+    {
+      "paperId": "6037b9a912422a4ec5d369dfed96ac1cd82b1aa8",
+      "title": "Development and evaluation of computer-aided music-learning system for the hearing impaired"
+    },
+    {
+      "paperId": "44af0a07686840f0205a6f8ce21cdbe965a488d3",
+      "title": "Continuum: designing timelines for hierarchies, relationships and scale"
+    },
+    {
+      "paperId": "fd5bc910bdac56fb5f3eb0fae162bdf2c20c84c2",
+      "title": "Globe of Music - Music Library Visualization Using Geosom"
+    },
+    {
+      "paperId": "92494c9dcd597fc06be9d28195718d33e09d758f",
+      "title": "Isochords: visualizing structure in music"
+    },
+    {
+      "paperId": "662312e7ad9c11a5121657bcdfab78ffaeac79fe",
+      "title": "Music Recommendation Mapping and Interface Based on Structural Network Entropy"
+    },
+    {
+      "paperId": "b9fbc8adf60ad5b49884f18bcb2fff01f4d50a1b",
+      "title": "Repertoire International Des Sources Musicales (RISM)"
+    },
+    {
+      "paperId": "965a3b1c367163a7736c7d7a5d8c8701e4b67d21",
+      "title": "Drumix: An Audio Player with Real-time Drum-part Rearrangement Functions for Active Music Listening"
+    },
+    {
+      "paperId": "8010474e40343d1dfbac711f70c52b0da19b9585",
+      "title": "Music Icons: Procedural Glyphs for Audio Files"
+    },
+    {
+      "paperId": "ad98b9428c51d4414b988c8dcd7d72e2c6331004",
+      "title": "The language of music"
+    },
+    {
+      "paperId": "ed8a537032304adcc690127414ed2ab8e72c4cba",
+      "title": "An innovative three-dimensional user interface for exploring music collections enriched"
+    },
+    {
+      "paperId": "08823db4f7acd0a72ffdbac4f1adfd3e52e22516",
+      "title": "A chorus section detection method for musical audio signals and its application to a music listening station"
+    },
+    {
+      "paperId": "25356a1e712655ab04648d573c6bf24342a09ad0",
+      "title": "Music score alignment and computer accompaniment"
+    },
+    {
+      "paperId": "e0e1608c2bfafecd1e7aa8f9c77382467d0c6dcd",
+      "title": "AudioRadar: A Metaphorical Visualization for the Navigation of Large Music Collections"
+    },
+    {
+      "paperId": "647f26f1fd104c0b907428ab6c1c109185cb5fb7",
+      "title": "Concept Maps for Designing Adaptive Knowledge Maps"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "1ab35f17a4cfd622648cb7f22ef9756fa9b95dfc",
+      "title": "Experiments with Virtual Reality Instruments"
+    },
+    {
+      "paperId": "457965e5dac4ea366efe136c6b8eebea2da99134",
+      "title": "Sounds from Shapes: Audiovisual Performance with Hand Silhouette Contours in The Manual Input Sessions"
+    },
+    {
+      "paperId": "e71eb3a7607dd6a7a925226e4811b5752e08ea85",
+      "title": "ImproViz: visual explorations of jazz improvisations"
+    },
+    {
+      "paperId": "4cf4bba3dfd1a80a82ad6665ed1ee51f8ff81f37",
+      "title": "Automatic music video generation based on temporal pattern analysis"
+    },
+    {
+      "paperId": "865488fbcd4885bffea08fbc8fe5a33c716728c9",
+      "title": "Visual Collaging Of Music In A Digital Library"
+    },
+    {
+      "paperId": "11b063c76f6967b7564ed75b02be38234228d478",
+      "title": "Mobile liquid 2D scatter space (ML2DSS)"
+    },
+    {
+      "paperId": "c129b20a32b547c2362f8da8a858ac97efc16e83",
+      "title": "In-situ speech visualization in real-time interactive installation and performance"
+    },
+    {
+      "paperId": "87370f960d6d40c31aaee4b33f8059ee45b88a9d",
+      "title": "Exploring Music Collections by Browsing Different Views"
+    },
+    {
+      "paperId": "ad0bf7c88667ea21398c1ea70ff131061f79ee8a",
+      "title": "Visualizing Expressive Performance in Tempo\u2014Loudness Space"
+    },
+    {
+      "paperId": "b29c97dad638ba33434c4441e91d9c7cddb687ef",
+      "title": "Visualizing changes in the structure of data for exploratory feature selection"
+    },
+    {
+      "paperId": "dcc55bb43566fa1f1215b68913ba897e4d1b13a3",
+      "title": "Community Structure in Jazz"
+    },
+    {
+      "paperId": "8518d26fe98e849605a74e5d88902d3aede6fb92",
+      "title": "Audio information browsing with the Sonic Browser"
+    },
+    {
+      "paperId": "eef5193985a1ad4f6ae59d0a21a861a6c449c5a0",
+      "title": "Visualization of musical pitch"
+    },
+    {
+      "paperId": "5f2ae03ad9622fa2bab4121a2d63f597e9e570f0",
+      "title": "Content-based organization and visualization of music archives"
+    },
+    {
+      "paperId": "c42e2f88ccc60fa96d230a78f1408f1d3640c367",
+      "title": "Music learning through visualization"
+    },
+    {
+      "paperId": "29650af3755198eb0c7f6300b9ef2dbbbaf53b3f",
+      "title": "Arc diagrams: visualizing structure in strings"
+    },
+    {
+      "paperId": "fd0e03294616d3264564ccbbad82d37721c392c3",
+      "title": "Music Similarity Measures: What's the use?"
+    },
+    {
+      "paperId": "f87883f1c6cb48b288b545eb28b8e06d50b92b40",
+      "title": "Real Time Tracking and Visualisation of Musical Expression"
+    },
+    {
+      "paperId": "6a7c6987166384585c492cfaba82cbc671082f4e",
+      "title": "MARSYAS3D: A PROTOTYPE AUDIO BROWSER-EDITOR USING A LARGE SCALE IMMERSIVE VISUAL AND AUDIO DISPLAY"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "4d5e3cf701cb6be9b42f4698935ad180f2ebd26a",
+      "title": "Visualizing music and audio using self-similarity"
+    },
+    {
+      "paperId": "52e8b1e6927874a6aa5d87c0964b57c4280b3904",
+      "title": "A visualization of music"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "7ecdc9c3d4e41876b47dce424cb13c7e34af6aa0",
+      "title": "From touch to string vibrations. II: The motion of the key and hammer"
+    },
+    {
+      "paperId": "083a1ab8b8b03ca8d8ab575f7d12d1b3e88d5c73",
+      "title": "Biophilia"
+    },
+    {
+      "paperId": "292aa73e5ba164565c2faadabb73b56a5bdf7ca6",
+      "title": "The European Association for Computer Graphic"
+    },
+    {
+      "paperId": "06e48d544caa2f82073815b22c1d84db0ceb6a38",
+      "title": "Musical expertise and melodic structure in memory for musical notation."
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "66a1609c8ff5aaae6978e44c40ab45ec271b5fd8",
+      "title": "The R\u00e9pertoire International des Sources Musicales"
+    },
+    {
+      "paperId": "edb2f400d55644fe73e40591cce488070a527d1b",
+      "title": "MUSICAL NOTATION."
+    },
+    {
+      "paperId": "a2db88ebbcbdcf18797ab8253b3bbbbf9ebaef12",
+      "title": "Every Noise at Once"
+    },
+    {
+      "paperId": "5b9ca5d23e71238f665e16bd39096482aef04e94",
+      "title": "A Timeline Metaphor for Analyzing the Relationships between Musical Instruments and Musical Pieces"
+    },
+    {
+      "paperId": null,
+      "title": "musiX-plora: Visual analysis of musicological data"
+    },
+    {
+      "paperId": null,
+      "title": "musiXplora"
+    },
+    {
+      "paperId": "255c40a87574c835ec10ef3babccdd13f5438d3e",
+      "title": "Computed Tomography as a Tool for Archiving Ethnomusicological Objects"
+    },
+    {
+      "paperId": "d749f75fd0d814f1fa7135602d20908d86f15e2d",
+      "title": "3D Imaging of Musical Instruments: Methods and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Network visualization challenges and opportunities in digital humanities"
+    },
+    {
+      "paperId": null,
+      "title": "A Visual Representation of Wagner\u2019s Music, 2016"
+    },
+    {
+      "paperId": null,
+      "title": "Liquid Notes"
+    },
+    {
+      "paperId": null,
+      "title": "MIDI Manufacturers Association: MIDI"
+    },
+    {
+      "paperId": null,
+      "title": "Spotify: Spotify"
+    },
+    {
+      "paperId": "5dba12b0e59b53d6f47f609891a31ae7cf9a9ec9",
+      "title": "Network Visualization in the Humanities (Dagstuhl Seminar 18482)"
+    },
+    {
+      "paperId": "8cdb4c4a3a9cfd04c04b3844955ddac9323b1bfd",
+      "title": "Timages : Enhancing Time Graphs with Iconographic Information"
+    },
+    {
+      "paperId": null,
+      "title": "culturalheritage"
+    },
+    {
+      "paperId": null,
+      "title": "History of Rock in 100 Songs"
+    },
+    {
+      "paperId": null,
+      "title": "A dialogue between four hands"
+    },
+    {
+      "paperId": null,
+      "title": "Choice Provisions: Bit.Trip"
+    },
+    {
+      "paperId": null,
+      "title": "\u00a9 Violinforensic"
+    },
+    {
+      "paperId": null,
+      "title": "musicmap: The genealogy and history of popular music genres from origin till present (1870\u20132016)"
+    },
+    {
+      "paperId": null,
+      "title": "Merriam-Webster: Definition of Musicology"
+    },
+    {
+      "paperId": null,
+      "title": "Design und Implementierung einer Schnittstelle zur interaktiven Pr\u00e4sentation von 3D-Szenen auf mobilen Ger\u00e4ten mittels Augmented Reality"
+    },
+    {
+      "paperId": null,
+      "title": "Structural assessment of wooden musical instruments by simulation: Models, validation, applicability"
+    },
+    {
+      "paperId": "1f0bcc6a2280c0ca8e68dcbd54564da530dcb164",
+      "title": "Untangling the Social Network of Musicians"
+    },
+    {
+      "paperId": null,
+      "title": "Methoden zur Untersuchung und Dokumentation der Geigen am Museum f\u00fcr Musikinstrumente der Univer-sit\u00e4t Leipzig"
+    },
+    {
+      "paperId": "004ca847dccf725e7965e978cb11f015c67a8612",
+      "title": "Open Symphony: Creative Participation for Audiences of Live Music Performances"
+    },
+    {
+      "paperId": "3db4a89c402a9371ec85b5a22d1c64ee2d3ce121",
+      "title": "Using Archival Texts to Create Network Graphs of Musicians in Early Modern Venice"
+    },
+    {
+      "paperId": null,
+      "title": "MusicVis"
+    },
+    {
+      "paperId": null,
+      "title": "Digital Humanities Day Leipzig 2017"
+    },
+    {
+      "paperId": "fcb2fd465c28f8c2c412c9ca8fcf6e25e195e0dc",
+      "title": "On the Distant Reading of Musicians' Biographies"
+    },
+    {
+      "paperId": null,
+      "title": "Das MUSICES\u2010Projekt: Entwicklung eines Standards zur Computertomographie von Musikinstrumenten"
+    },
+    {
+      "paperId": "22c7d500805d3ed2894713c725a679b0aa27ef40",
+      "title": "Similarity graph: visual exploration of song collections"
+    },
+    {
+      "paperId": "5bbc17f103098d0b0154b6aeb0a7a06c71bfd93a",
+      "title": "Classical Music on the Web - User Interfaces and Data Representations"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "ba8a1811e51de4d1b10f14bbe3830be2cdbbd08b",
+      "title": "Industrial applications of computed tomography"
+    },
+    {
+      "paperId": "99b57318e54c2d339f3e81e835565abd7c1dfdba",
+      "title": "Text Visualization Browser : A Visual Survey of Text Visualization Techniques"
+    },
+    {
+      "paperId": "48104e4e64c58410abd2dc4703d1b8c349fa61c1",
+      "title": "Andante: Walking Figures on the Piano Keyboard to Visualize Musical Motion"
+    },
+    {
+      "paperId": null,
+      "title": "The largest vocabulary in hip"
+    },
+    {
+      "paperId": "53f9a605a6307d0628289d78f97a13b44cff3694",
+      "title": "Visual Associations in Augmented Keyboard Performance"
+    },
+    {
+      "paperId": null,
+      "title": "Bandfuse"
+    },
+    {
+      "paperId": "8669d46073e9cb762450e9bcaf40759613040dd1",
+      "title": "Visualizing linked Jazz: A web-based tool for social network analysis and exploration"
+    },
+    {
+      "paperId": "cdf0bd481c5b67cfd5591d443c3dc4a4be1f8c9b",
+      "title": "A Piano Learning Support System considering rhythm"
+    },
+    {
+      "paperId": null,
+      "title": "Ubisoft: Rocksmith"
+    },
+    {
+      "paperId": null,
+      "title": "Musical Instrument Museums Online"
+    },
+    {
+      "paperId": null,
+      "title": "The Guardian: A History of Modern Music: Rock"
+    },
+    {
+      "paperId": "bd65faeaf30b8895c7384b67dfda5d91fc9cec31",
+      "title": "Visualizing the Semantic Structure in Classical Music Works"
+    },
+    {
+      "paperId": "508996b37a8ae1e94e224c4faea6ddb1b82c33cf",
+      "title": "Review of the Uses of Computed Tomography for Analyzing Instruments of the Violin Family with a Focus on the Future"
+    },
+    {
+      "paperId": "ceda27fd01f945970bbe6ebacf98ce7a05ca8120",
+      "title": "MIDIVIS: VISUALIZING MUSIC PIECES STRUCTURE VIA SIMILARITY MATRICES"
+    },
+    {
+      "paperId": null,
+      "title": "Cold Beam Games: Beat Hazard"
+    },
+    {
+      "paperId": null,
+      "title": "Audiosurf"
+    },
+    {
+      "paperId": "8316d3919c5bfab42baea31fcdface810930c1e8",
+      "title": "Working Conference on Advanced Visual Interfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Harmonix Music Systems: Guitar Hero"
+    },
+    {
+      "paperId": "6906f4629dc8094f5032b8ff1fcac9e81bbfd100",
+      "title": "Using 3D Visualizations to Explore and Discover Music"
+    },
+    {
+      "paperId": "477da07f4fdfb03d359b871c1a4e629e3d14c10e",
+      "title": "A Report on Musical Structure Visualization"
+    },
+    {
+      "paperId": "769b9f5687f85d9c122c7852477200c1384b3a18",
+      "title": "Visualizing Music: Tonal Progressions and Distributions"
+    },
+    {
+      "paperId": "2c802896a01a5a92be54facc0dedf003e447e654",
+      "title": "Assigning and Visualizing Music Genres by Web-based Co-Occurrence Analysis"
+    },
+    {
+      "paperId": "9f493ca899d022fd9f861d6b14c24879333b2331",
+      "title": "MusicRainbow: A New User Interface to Discover Artists Using Audio-based Similarity and Web-based Labeling"
+    },
+    {
+      "paperId": "05a56d701a6422ceb4e79c75b9b7aa86ced71aa6",
+      "title": "The Map of Mozart"
+    },
+    {
+      "paperId": "2b86340d31b300e83a1b9cece0f0e5c9628689e6",
+      "title": "Introduction Exploring Geovisualization"
+    },
+    {
+      "paperId": "926c574a951c99f902f394010aa7247e68fc28da",
+      "title": "SoniXplorer: Combining Visualization and Auralization for Content-Based Exploration of Music Collections"
+    },
+    {
+      "paperId": "bb681c0c0f7fca25143af8ef0966f982c15e4ac8",
+      "title": "Discovering and Visualizing Prototypical Artists by Web-Based Co-Occurrence Analysis"
+    },
+    {
+      "paperId": "32d54c159003b1e8b3ab19741cacbe61014830d7",
+      "title": "The World of Music: SDP layout of high dimensional data"
+    },
+    {
+      "paperId": "fa84b1988926449201f9b40a2346e835eba00993",
+      "title": "Visual Playlist Generation on the Artist Map"
+    },
+    {
+      "paperId": "7935d5c76e2211f3798573a807c06f9bed3338dd",
+      "title": "Databionic Visualization of Music Collections According to Perceptual Distance"
+    },
+    {
+      "paperId": "0ed84f25a7e9272595b97cde802ae2836ffcf7bf",
+      "title": "Musicream: New Music Playback Interface for Streaming, Sticking, Sorting, and Recalling Musical Pieces"
+    },
+    {
+      "paperId": null,
+      "title": "MACEACHREN A"
+    },
+    {
+      "paperId": "66a949c25f158e073200d49d59b79b970ee2a942",
+      "title": "Visualizing and Exploring Personal Music Libraries"
+    },
+    {
+      "paperId": "258d0be005c18e1003bf6dabc99e4492ca6911b5",
+      "title": "Mapping Music In The Palm Of Your Hand, Explore And Discover Your Collection"
+    },
+    {
+      "paperId": "bcd8ef7e951b390b0132aee5e8f47f7afb878340",
+      "title": "comp-i: A System for Visual Exploration and Editing of MIDI Datasets"
+    },
+    {
+      "paperId": "893399523ee15267d5efd7d6b3c3b000abb30609",
+      "title": "Encyclopedia of Human-Computer Interaction"
+    },
+    {
+      "paperId": "eb7d83b726a746b1a9b2a33ac34263b3047b1a48",
+      "title": "About the authors"
+    },
+    {
+      "paperId": null,
+      "title": ": SingStar"
+    },
+    {
+      "paperId": "121cb307d7396b2f358fb3610e28c6805fd802d5",
+      "title": "BRASS: Visualizing Scores for Assisting Music Learning"
+    },
+    {
+      "paperId": "181aea672710f1cadbb1cc7e5e75662337b2ce41",
+      "title": "Computed Tomography: Principles, Design, Artifacts, and Recent Advances"
+    },
+    {
+      "paperId": "0c18c52f7f9e82063bd08b65aafa607e25cefa8b",
+      "title": "Content Visualization in a Digital Music Library"
+    },
+    {
+      "paperId": "c9d0942b8aa3f30a625fec1bbce25b52f12cf3b7",
+      "title": "On the use of FastMap for Audio Retrieval and Browsing"
+    },
+    {
+      "paperId": "e0f1159ebd161b5d807478edec60e84bcd1a6d6a",
+      "title": "Variations2: toward Visual Interfaces for Digital Music Libraries"
+    },
+    {
+      "paperId": "919e6e546050e9ab763a6a097931b7d1c8e85e13",
+      "title": "ENHANCING SONIC BROWSING USING AUDIO INFORMATION RETRIEVAL"
+    },
+    {
+      "paperId": null,
+      "title": "Last.fm,"
+    },
+    {
+      "paperId": "58f6675ad828b8229d30a5df8555819a297c4913",
+      "title": "The Shape of Song"
+    },
+    {
+      "paperId": "01ca9750202103225cf47360712a072949b2e746",
+      "title": "MusicXML: An internet-friendly format for sheet music"
+    },
+    {
+      "paperId": "e3fcb7b3dc5256a5d26f89746cc89e42dfc8b6f8",
+      "title": "An Interactive Beat Tracking and Visualisation System"
+    },
+    {
+      "paperId": "16109ffe9d0a10e40703a3888271b3af770eaf16",
+      "title": "Automatic Musical Genre Classification of Audio Signals"
+    },
+    {
+      "paperId": "9bfe096c8c08e1a1cc38f170c632ce81065c45a7",
+      "title": "Harmonic Visualizations of Tonal Music"
+    },
+    {
+      "paperId": "5fc9f6333f122e7304f6bbe598e6b3e629119cc1",
+      "title": "3D GRAPHICS TOOLS FOR SOUND COLLECTIONS"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "MACKINLAY J"
+    },
+    {
+      "paperId": null,
+      "title": "A brief Introduction to MIDI"
+    },
+    {
+      "paperId": null,
+      "title": "A virtual dancer \u2018cindy\u2019-interactive performance of a music-controlled cg dancer"
+    },
+    {
+      "paperId": "48adb81f9d44d5575d96b721cc7b8523e6873e7a",
+      "title": "pianoFORTE: a system for piano education beyond notation literacy"
+    },
+    {
+      "paperId": null,
+      "title": "TEDxZurich: Music Animation Machine for Live Perfor-mances"
+    },
+    {
+      "paperId": "2c0c18a93daa8fb3eff3d20b548ebe65bad7970d",
+      "title": "Five graphic music analyses (F\u00fcnf Urlinie-Tafeln)"
+    },
+    {
+      "paperId": "66d4b215eddda9095a1eca2d61e11a1c5deaa622",
+      "title": "Please Scroll down for Article Journal of New Music Research the Som-enhanced Jukebox: Organization and Visualization of Music Collections Based on Perceptual Models"
+    },
+    {
+      "paperId": null,
+      "title": "Mobile liquid 2 d scatter space ( ml 2 dss ) . In Information Visualisation , 2004 . IV 2004 . Proceedings"
+    },
+    {
+      "paperId": null,
+      "title": "Son04] Sony Computer Entertainment: SingStar, (2004)"
+    },
+    {
+      "paperId": null,
+      "title": "Web based visualization software for big data X-CT volumes with optimized datahandling and workflow"
+    },
+    {
+      "paperId": null,
+      "title": "Music Animation Machine"
+    },
+    {
+      "paperId": null,
+      "title": "The Red Hot Jazz Archive, (2002)"
+    },
+    {
+      "paperId": null,
+      "title": "University of Illinois at Urbana-Champaign Digital Libraries Initiative: UIUC DLI Glossary, (1998)"
+    },
+    {
+      "paperId": null,
+      "title": "The emergence of complex network patterns in music artist networks"
+    }
+  ]
+}

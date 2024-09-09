@@ -1,0 +1,674 @@
+{
+  "paperId": "05d3dd954ec5d65b6c5c320102cc0a2faae7b705",
+  "externalIds": {
+    "DBLP": "journals/cgf/KreiserMMPR18",
+    "MAG": "2860633713",
+    "DOI": "10.1111/cgf.13445",
+    "CorpusId": 51867570
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/05d3dd954ec5d65b6c5c320102cc0a2faae7b705",
+  "title": "A Survey of Flattening\u2010Based Medical Visualization Techniques",
+  "abstract": "In many areas of medicine, visualization research can help with task simplification, abstraction or complexity reduction. A common visualization approach is to facilitate parameterization techniques which flatten a usually 3D object into a 2D plane. Within this state of the art report (STAR), we review such techniques used in medical visualization and investigate how they can be classified with respect to the handled data and the underlying tasks. Many of these techniques are inspired by mesh parameterization algorithms which help to project a triangulation in \u211d3 to a simpler domain in \u211d2. It is often claimed that this makes complex structures easier to understand and compare by humans and machines. Within this STAR we review such flattening techniques which have been developed for the analysis of the following medical entities: the circulation system, the colon, the brain, tumors, and bones. For each of these five application scenarios, we have analyzed the tasks and requirements, and classified the reviewed techniques with respect to a developed coding system. Furthermore, we present guidelines for the future development of flattening techniques in these areas.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 151,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kreiser2018ASO,\n author = {Julian Kreiser and M. Meuschke and G. Mistelbauer and B. Preim and T. Ropinski},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Flattening\u2010Based Medical Visualization Techniques},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34658392",
+      "name": "Julian Kreiser"
+    },
+    {
+      "authorId": "2649961",
+      "name": "M. Meuschke"
+    },
+    {
+      "authorId": "1784740",
+      "name": "G. Mistelbauer"
+    },
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "1703058",
+      "name": "T. Ropinski"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6dce979927bc86e16ea1563e371b0fb45926e6c4",
+      "title": "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges"
+    },
+    {
+      "paperId": "2b19ab004f9758cd94439d9549c61e643e11da23",
+      "title": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "paperId": "117136fc2974e66d5f8138123b72389d5b8d6024",
+      "title": "Placenta Maps: In Utero Placental Health Assessment of the Human Fetus"
+    },
+    {
+      "paperId": "aab53a5643b44367b78b42f8a939cc2f0aff794f",
+      "title": "Colorectal cancer statistics, 2017"
+    },
+    {
+      "paperId": "73e2e74ff84ce204152637735fb3ccad4f827351",
+      "title": "New bone post-processing tools in forensic imaging: a multi-reader feasibility study to evaluate detection time and diagnostic accuracy in rib fracture assessment"
+    },
+    {
+      "paperId": "b29ae7ce353ef2374ed29e422ea6b966a806173b",
+      "title": "Evaluation of Rib Fractures on a Single-in-plane Image Reformation of the Rib Cage in CT Examinations."
+    },
+    {
+      "paperId": "f3710b6375aefa8575e143a0bcd9da8e42176eb7",
+      "title": "Automated 3D Rendering of Ribs in 110 Polytrauma Patients: Strengths and Limitations."
+    },
+    {
+      "paperId": "7b77304d463b7cac9fdc1c77e219008297bc7996",
+      "title": "Topologically preserving straightening of spinal cord MRI"
+    },
+    {
+      "paperId": "9ead55e0f201b9f603651f719aa182e9316a3f54",
+      "title": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "c83a0f8f3ff48cac2d6cde366633d4d9660671fe",
+      "title": "VesselMap: A web interface to explore multivariate vascular data"
+    },
+    {
+      "paperId": "d00ecdee2f35dea78a24a5eb41be62bf0a06bf22",
+      "title": "Spatio-temporal Visualization of Regional Myocardial Velocities"
+    },
+    {
+      "paperId": "97397bef5360f74e2dde88d0b24de928c1e8c9bd",
+      "title": "Classifying Medical Projection Techniques based on Parameterization Attribute Preservation"
+    },
+    {
+      "paperId": "6f827e4bec37dfcc412fb54ec328f0dda4a851f0",
+      "title": "Semi\u2010automatic Vortex Flow Classification in 4D PC\u2010MRI Data of the Aorta"
+    },
+    {
+      "paperId": "69c1c6542367eedb79074ef7a0e0b37841583bd0",
+      "title": "Planar Visualization of Treelike Structures"
+    },
+    {
+      "paperId": "b8f8fcac7e684895ac3c64155ba06111f90a1621",
+      "title": "Quantification of Coronary Artery Cross Section Lumen Area and Area Stenosis with 3D Centerline-Centric Straightening"
+    },
+    {
+      "paperId": "3f2f4be0e8ee2ff9b254564ce52bb5cd46e0ff17",
+      "title": "The Rotterdam Study: 2016 objectives and design update"
+    },
+    {
+      "paperId": "b18f8936e80715af7fb48ce9a54692aed19b09d4",
+      "title": "New hybrid reformations of peripheral CT angiography: do we still need axial images?"
+    },
+    {
+      "paperId": "a325ef561c576079d883ccda71d98a93d0be5758",
+      "title": "Model-driven parameterization of fetal cortical surfaces"
+    },
+    {
+      "paperId": "0d7262bdc39fc3a5a256f45d267833518aa016ee",
+      "title": "The ribs unfolded - a CT visualization algorithm for fast detection of rib fractures: effect on sensitivity and specificity in trauma patients"
+    },
+    {
+      "paperId": "87e093a17df8f8e5b6949fc5c4e6e73671b57a0d",
+      "title": "FLASH: Fast Landmark Aligned Spherical Harmonic Parameterization for Genus-0 Closed Brain Surfaces"
+    },
+    {
+      "paperId": "f44d3ec5dc22847c2409e28129de1a7966087fb1",
+      "title": "On Computing Mapping of 3D Objects"
+    },
+    {
+      "paperId": "8ec0011c98ad7b6baf9e2080aa94932aea02dfcd",
+      "title": "ADR - Anatomy-Driven Reformation"
+    },
+    {
+      "paperId": "9a4baab0241faadbfe1a31d63e6690486179e062",
+      "title": "Virtual colon flattening method based on colonic outer surface"
+    },
+    {
+      "paperId": "9a98a38b233da48b9e630ffc867709e9c187f36f",
+      "title": "Multi-surface quasi-isometric flattening of the cortex"
+    },
+    {
+      "paperId": "9a2a25af459d4b37d20d024747771a2644dfb1a1",
+      "title": "Colon Flattening Using Heat Diffusion Riemannian Metric"
+    },
+    {
+      "paperId": "5c9a9416661d5d34cf98f49ea5a462636459bc15",
+      "title": "Vessel Visualization using Curved Surface Reformation"
+    },
+    {
+      "paperId": "e0c41da685aeb526a54aa407b80482b6a42a7887",
+      "title": "Smart Interactive Vessel Visualization in Radiology"
+    },
+    {
+      "paperId": "c2e9adc76521900b4c310b886fb61fabad68d410",
+      "title": "Area Preserving Brain Mapping"
+    },
+    {
+      "paperId": "d579b3f27b89e162dee42ba53930492f7bdd2000",
+      "title": "Comparative Visualization of Tracer Uptake in In Vivo Small Animal PET/CT Imaging of the Carotid Arteries"
+    },
+    {
+      "paperId": "ed5eca50eff02df2911dda5b5315aae6c433149f",
+      "title": "Vessel Visualization using Curvicircular Feature Aggregation"
+    },
+    {
+      "paperId": "496b39ac890d0640bc1094e3711ef55875bc327c",
+      "title": "Model-Driven Harmonic Parameterization of the Cortical Surface: HIP-HOP"
+    },
+    {
+      "paperId": "771b3c73fbaba12f5d65db39401ee9cddb224554",
+      "title": "FreeSurfer"
+    },
+    {
+      "paperId": "470a32cdbb542f6318337cd73802898aa3c03ea5",
+      "title": "Visualizing Motion Data in Virtual Reality: Understanding the Roles of Animation, Interaction, and Static Presentation"
+    },
+    {
+      "paperId": "83a2c324d2cc03a441c62f55635b8d6ce7475589",
+      "title": "Statistical wall shear stress maps of ruptured and unruptured middle cerebral artery aneurysms"
+    },
+    {
+      "paperId": "1ec3304c710b5934c1d8ea8aafd80fd497e46365",
+      "title": "Centerline reformations of complex vascular structures"
+    },
+    {
+      "paperId": "33ee612edb580cf3d8141eae10c6ca5b9d66cb61",
+      "title": "Evaluation of Artery Visualizations for Heart Disease Diagnosis"
+    },
+    {
+      "paperId": "afe5a8271cecd3c89f97f8471910086620caf8ef",
+      "title": "GPU-based Real-Time Approximation of the Ablation Zone for Radiofrequency Ablation"
+    },
+    {
+      "paperId": "89fbcbea0a305d2201b55d3d3c950c2c510a83eb",
+      "title": "Context Preserving Maps of Tubular Structures"
+    },
+    {
+      "paperId": "07e15bf420c69bffc19363d9444d15e4dc3ca4cc",
+      "title": "Straightening Tubular Flow for Side-by-Side Visualization"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "02b730a7f62ed4760199db12337dfdc55a612a05",
+      "title": "Area-Preserving Surface Flattening Using Lie Advection"
+    },
+    {
+      "paperId": "e1d2087fa9fd810afee83d98cda5991ddd9956ea",
+      "title": "Volumetric colon wall unfolding using harmonic differentials"
+    },
+    {
+      "paperId": "51d6003409b89d645ad44926203ece685976bae1",
+      "title": "Evaluation of electronic biopsy for clinical diagnosis in virtual colonoscopy"
+    },
+    {
+      "paperId": "3b6ebc675c962d240a417b68fc79dc4b2ff346fc",
+      "title": "RibbonView: Interactive Context-Preserving Cutaways of Anatomical Surface Meshes"
+    },
+    {
+      "paperId": "e0236e4362b07a8689ff55430dcf1ff54b8ecd59",
+      "title": "Supine and Prone Colon Registration Using Quasi-Conformal Mapping"
+    },
+    {
+      "paperId": "539828086a6816c5c0b6b5664e454b0e44ca8ea0",
+      "title": "Articulated Planar Reformation for Change Visualization in Small Animal Imaging"
+    },
+    {
+      "paperId": "9e8085f70d41d374dd8e6c0342a2c1910a2ddc42",
+      "title": "Conformal Geometry Based Supine and Prone Colon Registration"
+    },
+    {
+      "paperId": "38a5b781010e37cbeda07d870c1fcc363e4795ba",
+      "title": "Colon Visualization Using Shape Preserving Flattening"
+    },
+    {
+      "paperId": "7973e8c13bdb74213b0ccf8687f4077f2b91af92",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visual Support for Interactive Post-interventional Assessment of Radiofrequency Ablation Therapy"
+    },
+    {
+      "paperId": "4bb90b2710c60500d9d7b13fcb9c51815a572ef1",
+      "title": "Near-isometric flattening of brain surfaces"
+    },
+    {
+      "paperId": "b86197c68629ece18a68ce79f3ed09cf9b776388",
+      "title": "The skull unfolded: a cranial CT visualization algorithm for fast and easy detection of skull fractures."
+    },
+    {
+      "paperId": "bcce8dbe26e15081d60b95cdd1a05198d3b3cf08",
+      "title": "Model-driven parameterization of the cortical surface for localization and inter-subject matching"
+    },
+    {
+      "paperId": "538fdd5189faf4988aa07761d8a420980a2d297f",
+      "title": "Optimized Conformal Surface Registration with Shape-based Landmark Matching"
+    },
+    {
+      "paperId": "631542723b9fddd0bc102c84a9c93b8cd5e53359",
+      "title": "Multivariate tensor-based morphometry on surfaces: Application to mapping ventricular abnormalities in HIV/AIDS"
+    },
+    {
+      "paperId": "a8b7f1e75cef8d2f161579b74069e3a083ba4855",
+      "title": "Curve-Centric Volume Reformation for Comparative Visualization"
+    },
+    {
+      "paperId": "5305cdce70b44eba1a05b8950e1f3b321d6ab51a",
+      "title": "Map Displays for the Analysis of Scalar Data on Cerebral Aneurysm Surfaces"
+    },
+    {
+      "paperId": "30c710fa7b5813dfc5c9349d994451dc0d116a49",
+      "title": "Visualization of multidirectional regional left ventricular dynamics by high\u2010temporal\u2010resolution tissue phase mapping"
+    },
+    {
+      "paperId": "ba7de21197c7af9ac14e857af5d7b4a6109f5dd8",
+      "title": "Discrete conformal methods for cortical brain flattening"
+    },
+    {
+      "paperId": "8edbe77999e04e5d041d952977f726efba411181",
+      "title": "Area-preserving flattening maps of 3D ultrasound carotid arteries images"
+    },
+    {
+      "paperId": "0accf561ce098e6d0639fa976bb9fc1662c79496",
+      "title": "Interactive curved planar reformation based on snake model"
+    },
+    {
+      "paperId": "856df202e3dee382d6a7b9f63a7e96fb14846ac5",
+      "title": "The intrinsic shape of human and macaque primary visual cortex."
+    },
+    {
+      "paperId": "3f052b9052d4fdb29a39f6881ef95fa8b149b0de",
+      "title": "Conformal Slit Mapping and Its Applications to Brain Surface Parameterization"
+    },
+    {
+      "paperId": "84744e4b792ee5c001277b6120f11ca17aacd63a",
+      "title": "CoViCAD: Comprehensive Visualization of Coronary Artery Disease"
+    },
+    {
+      "paperId": "2df602952b4a20c500d6241db586109b1016b41c",
+      "title": "3D planar reformation of vascular central axis surface with biconvex slab"
+    },
+    {
+      "paperId": "9ceb3cfb886cc577d0823fae0588cb3e8b9c4dbe",
+      "title": "Colon Visualization Using Cylindrical Parameterization"
+    },
+    {
+      "paperId": "60a9e94e7899c29965074098677d1382736e6b4d",
+      "title": "Visual Computing for Medicine: Theory, Algorithms, and Applications"
+    },
+    {
+      "paperId": "824dc41640f7e07fa34b33aac90557e84f9e275c",
+      "title": "An Image Morphing Technique Based on Optimal Mass Preserving Mapping"
+    },
+    {
+      "paperId": "22940e838b145d54cf9434f0cd3e169724a94205",
+      "title": "Brain Surface Conformal Parameterization Using Riemann Surface Structure"
+    },
+    {
+      "paperId": "0a271a6bd68053a33b47d1093edd5dee909c86c1",
+      "title": "Automated generation of curved planar reformations from MR images of the spine"
+    },
+    {
+      "paperId": "276566b60f66e912a15cc7b3cf76fcd1f2d4abde",
+      "title": "BRAIN SURFACE CONFORMAL PARAMETERIZATION WITH THE RICCI FLOW"
+    },
+    {
+      "paperId": "850bdd6d98af0837be3780f9938d708f81a3c507",
+      "title": "Generation of Curved Planar Reformations from Magnetic Resonance Images of the Spine"
+    },
+    {
+      "paperId": "1f84fc6dba4699283c89487a8815e967979b07e0",
+      "title": "ClearView: An Interactive Context Preserving Hotspot Visualization Technique"
+    },
+    {
+      "paperId": "a829a926c0eca312b163c89f0a9d4d02e5f32832",
+      "title": "Visually Supporting Depth Perception in Angiography Imaging"
+    },
+    {
+      "paperId": "4770ca03c6f3031195fd281c0105a8d29b02a85d",
+      "title": "Conformal virtual colon flattening"
+    },
+    {
+      "paperId": "d9c95d656e623b3fd6edd5cf5980352577217c87",
+      "title": "Quantitative evaluation of three cortical surface flattening methods"
+    },
+    {
+      "paperId": "2465ec3515677bf776e905273317e054bd3f7bab",
+      "title": "Unfolding of Virtual Endoscopy Using Ray-Template"
+    },
+    {
+      "paperId": "8ada140236225c9343978cb29101482db3452355",
+      "title": "Automated curved planar reformation of 3D spine images"
+    },
+    {
+      "paperId": "1cc95e662bc5881cce2f4f831c50872c437240ea",
+      "title": "Unconstrained spherical parameterization"
+    },
+    {
+      "paperId": "c9fd95ea3ac3de0104e267d770037347bb4e179d",
+      "title": "Flattening maps for the visualization of multibranched vessels"
+    },
+    {
+      "paperId": "3e64938b20203c6f0f6e23fec9b7d813a37bf5cf",
+      "title": "Cortical surface segmentation and mapping"
+    },
+    {
+      "paperId": "bbcf97c7b7c1fb5ada1f6bbc49cb8d68f63d673b",
+      "title": "Cortical cartography using the discrete conformal approach of circle packings"
+    },
+    {
+      "paperId": "4684eeb49cc92afc01713f8d2df043afc439509c",
+      "title": "Area Preserving Cortex Unfolding"
+    },
+    {
+      "paperId": "62ad20508f82b6f2181de816325533a8404f85d2",
+      "title": "Crest lines for surface segmentation and flattening"
+    },
+    {
+      "paperId": "6e48ee69714167a3fa315c31699b56c36ef0da75",
+      "title": "Mapping techniques for aligning sulci across multiple brains."
+    },
+    {
+      "paperId": "c9a44e7a3e79b6d97e6e054a235dc3ffcb5b4206",
+      "title": "Genus zero surface conformal mapping and its application to brain surface mapping"
+    },
+    {
+      "paperId": "26c914ad27798e80b9ba649166f1ada5f42f2eb1",
+      "title": "Intrinsic brain surface conformal mapping using a variational method"
+    },
+    {
+      "paperId": "609d5f5a8785f035f557e1874d80305f62e84b90",
+      "title": "Multislice spiral CT angiography in peripheral arterial occlusive disease: a valuable tool in detecting significant arterial lumen narrowing?"
+    },
+    {
+      "paperId": "4a11076a24762f2567fb14623aa6da4ea0e3e39b",
+      "title": "Cortical surface parameterization by p-harmonic energy minimization"
+    },
+    {
+      "paperId": "5b0e6cd4d664826c1b1baaae26576695fc0920ba",
+      "title": "Cortical surface flattening using least square conformal mapping with minimal metric distortion"
+    },
+    {
+      "paperId": "ffaf4355f36dff1fdfd44d4479956b29fdd792ac",
+      "title": "Volumetric harmonic brain mapping"
+    },
+    {
+      "paperId": "d69379c98124df677b858efc8e720394dbc6d332",
+      "title": "Area-Preserving Mappings for the Visualization of Medical Structures"
+    },
+    {
+      "paperId": "cb3ff66ceb208abe1153ae09c35390699e3f85b5",
+      "title": "Advanced curved planar reformation: flattening of vascular structures"
+    },
+    {
+      "paperId": "c16f03480935ca2eb4cb55df1a06b071f32959f8",
+      "title": "Mean value coordinates"
+    },
+    {
+      "paperId": "34056f42e3e6655a8eb3201936a81f4bee2a6ac7",
+      "title": "Angle-preserving mappings for the visualization of multi-branched vessels"
+    },
+    {
+      "paperId": "e150fb65f7491c253f48e5b823a28bbadae3dc9d",
+      "title": "CPR - curved planar reformation"
+    },
+    {
+      "paperId": "09e76fb61218130187fb8fb54b6d8090a971ddf4",
+      "title": "Least squares conformal maps for automatic texture atlas generation"
+    },
+    {
+      "paperId": "bf6fda2e460c2a8be7b2c99465016f7f6e13ad78",
+      "title": "Conformal flattening maps for the visualization of vessels"
+    },
+    {
+      "paperId": "8faf5d6385852ece551cd1ec6db10f570ed8f1b7",
+      "title": "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association."
+    },
+    {
+      "paperId": "a20a63b283ac8c044823cbc538e7729eca35ab8f",
+      "title": "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association."
+    },
+    {
+      "paperId": "3f0ee283780f1e8c15e99d53bbe8431ce3ef17cd",
+      "title": "Imaging vision : Functional mapping of intermediate visual processes in man"
+    },
+    {
+      "paperId": "d2b15ca8f0bae33dd5f7642f0068432392af65e6",
+      "title": "Computed tomography angiography: a case study of peripheral vessel investigation"
+    },
+    {
+      "paperId": "ba9d5686d16e10d2b1b4c5623b6a777b01857e0e",
+      "title": "Nonlinear virtual colon unfolding"
+    },
+    {
+      "paperId": "208f7041a2b90c522d4a352fc941864caa660967",
+      "title": "Application of Information Technology: An Integrated Software Suite for Surface-based Analyses of Cerebral Cortex"
+    },
+    {
+      "paperId": "6d0ee0b05e08cf4ab95734fa3f9389f651a2c4e8",
+      "title": "Medial axis reformation: a new visualization method for CT angiography."
+    },
+    {
+      "paperId": "907e05f6bf3cf2f1b51236a7bda5f734074f9c7f",
+      "title": "Hemispherical map for the human brain cortex"
+    },
+    {
+      "paperId": "a6c3585bd1596dc2b8483b4254b8310634605698",
+      "title": "Non-distorting Flattening for Virtual Colonoscopy"
+    },
+    {
+      "paperId": "7fb831b897af4f351967f311dd2bc601004c5bfd",
+      "title": "BrainSuite: An Automated Cortical Surface Identification Tool"
+    },
+    {
+      "paperId": "be5f4d2d0b805f5262c39578df3efd9916cd21a3",
+      "title": "Visualization and Measurement of the Cortical Surface"
+    },
+    {
+      "paperId": "347095fa611af7c73d1befed8b547b85d4104eec",
+      "title": "Nondistorting flattening maps and the 3-D visualization of colon CT images"
+    },
+    {
+      "paperId": "c5af8e5644006efbdb43d3c47186e1720fe79711",
+      "title": "Optimization method for creating semi-isometric flat maps of the cerebral cortex"
+    },
+    {
+      "paperId": "ec380550f87370c91bef37ec87bed72c0ed4bb23",
+      "title": "A fast automated method for flattening cortical surfaces"
+    },
+    {
+      "paperId": "52e6dcab4b07a903544a69f47bff23b57f2c91e9",
+      "title": "CirclePack: Software for creating quasi-conformal flat maps of the brain"
+    },
+    {
+      "paperId": "c0575bf4b14f83e992b5d2839f81b5654f537524",
+      "title": "Conformal Geometry and Brain Flattening"
+    },
+    {
+      "paperId": "1c1ee76b6c65762f4fe64fb752f2999f54146b3f",
+      "title": "Quasi-Conformally Flat Mapping the Human Cerebellum"
+    },
+    {
+      "paperId": "d3c50e8a84f1bea6340b918fce4d92f14249cb72",
+      "title": "On the Laplace-Beltrami operator and brain surface flattening"
+    },
+    {
+      "paperId": "c8644971594953ba8ab6d0092fa906e0d96fb122",
+      "title": "Cortical Surface-Based Analysis II: Inflation, Flattening, and a Surface-Based Coordinate System"
+    },
+    {
+      "paperId": "a04a24f22a8a79fe7e9c3ac58daff2d8fcdefa0f",
+      "title": "A Method for Assessing the Accuracy of Intersubject Registration of the Human Brain Using Anatomic Landmarks"
+    },
+    {
+      "paperId": "8a5f90c023980eae3e806d84f581f69af5e7951a",
+      "title": "Curved multiplanar reconstructions for the evaluation of contrast-enhanced electron beam CT of the coronary arteries."
+    },
+    {
+      "paperId": "16db4e16a402e571366909cbf0b50f1cdf80b5f8",
+      "title": "Structural and Functional Analyses of Human Cerebral Cortex Using a Surface-Based Atlas"
+    },
+    {
+      "paperId": "69be70d094ba25f3041fbc8256266e4bd60f66e6",
+      "title": "Parametrization and smooth approximation of surface triangulations"
+    },
+    {
+      "paperId": "47dbc82a9c6a42d9eed9900ed0495044880a03b9",
+      "title": "A polygonal approximation to direct scalar volume rendering"
+    },
+    {
+      "paperId": "f9b88a0478232d5b69981792246057d87f6f0d16",
+      "title": "A Numerical Solution to the Generalized Mapmaker's Problem: Flattening Nonconvex Polyhedral Surfaces"
+    },
+    {
+      "paperId": "c18303c317ec05d70806793b0c4564d92dc90d89",
+      "title": "Bone Fracture and Lesion Assessment using Shape-Adaptive Unfolding"
+    },
+    {
+      "paperId": "b17c25f9512da26b7ddf0c29a60f96984fe1be3b",
+      "title": "Automated Determination of the Spine-Based Coordinate System for an Efficient Cross-Sectional Visualization of 3D Spine Images"
+    },
+    {
+      "paperId": "a8dfdd4e66989f373bdba12775d330012229d2de",
+      "title": "2D Plot Visualization of Aortic Vortex Flow in Cardiac 4D PC-MRI Data"
+    },
+    {
+      "paperId": "f175f4472d83cfc0e1f3cc30131306086b398623",
+      "title": "Bilateral Depth Filtering for Enhanced Vessel Reformation"
+    },
+    {
+      "paperId": "f5e8b117c01a6178ee9e021738e57f23d8cf2410",
+      "title": "Two-Dimensional Plot Visualization of Aortic Vortex Flow in Cardiac 4 D PC-MRI Data"
+    },
+    {
+      "paperId": "c3479639aa8e2e4e5d6af70e217d80662aadc006",
+      "title": "Visualization and Analysis of Lumbar Spine Canal Variability in Cohort Study Data"
+    },
+    {
+      "paperId": "362c07fc70f0448d797a460f76d7c4409bef6b98",
+      "title": "Visualization of uncertainty in fiber tracking based on diffusion tensor imaging"
+    },
+    {
+      "paperId": "286968c9366879b258622d96afb4c3f25991e3f7",
+      "title": "ON HOW TO DRAW A GRAPH"
+    },
+    {
+      "paperId": "52dc07c4d034e56c11b7d4e9ffbd911a2e497ccc",
+      "title": "Pre-Operative Planning of Brain Tumor Resections"
+    },
+    {
+      "paperId": "c1a2ea94d27b3990ebdef88531b8d671f71e5581",
+      "title": "Coregistration of Wall Shear Stress and Plaque Distribution within the Thoracic Aorta of Acute Stroke Patients"
+    },
+    {
+      "paperId": "73c90b28bc9f9a1d987fae1d81d7cfd24e80d168",
+      "title": "A fast spherical inflation method of the cerebral cortex by deformation of a simplex mesh on the polar coordinates"
+    },
+    {
+      "paperId": "f0a10fbea906b38092538d6fc806d39d67874c2b",
+      "title": "Volumetric Curved Planar Reformation for Virtual Endoscopy"
+    },
+    {
+      "paperId": "ba030b6ff00e9a08dd67b2c277bd60530e868dbe",
+      "title": "Tangential curved planar reformation for topological and orientation invariant visualization of vascular trees"
+    },
+    {
+      "paperId": "36488eaf84808ee9083f7ad8dbb7288e6a27bf79",
+      "title": "Geometric Surface and Brain Warping via Geodesic Minimizing Lipschitz Extensions ?"
+    },
+    {
+      "paperId": "eba968301ee7f6ee743d9a2529404442bba9dd3c",
+      "title": "Diagnostic Relevant Visualization of Vascular Structures"
+    },
+    {
+      "paperId": "8998b906de943100d09a8942fd55e3a1a61cfcd8",
+      "title": "Surface extraction and flattening for anatomical visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Integrated visualization of morphologic and perfusion data for the analysis of coronary artery disease"
+    },
+    {
+      "paperId": "cbe6bb1df24a1e60861f745c2901db6de3d903d1",
+      "title": "Surface Parameterization: a Tutorial and Survey"
+    },
+    {
+      "paperId": "ee5bba2b033755c0c986286cf5b26ad5babe1532",
+      "title": "Advances in Multiresolution for Geometric Modelling"
+    },
+    {
+      "paperId": "5a8670847d1153aad97cc08f089380d9c2c939e5",
+      "title": "Geometric Methods for Vessel Visualization and Quantification \u2014 A Survey"
+    },
+    {
+      "paperId": "960c959658043581de765014b183db8e316ebcbc",
+      "title": "Curved Planar Reformation for Vessel Visualization"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "67a7d7429a20d9f93301e1a371bea27897eec092",
+      "title": "Parameterization of Triangulations and Unorganized Points"
+    },
+    {
+      "paperId": "14e063ee61a244be05598b31432a7a6249d2ff93",
+      "title": "An Introduction to Brain Warping"
+    },
+    {
+      "paperId": null,
+      "title": "Geometrical Modeling and Analysis of Cortical Surfaces: An Approach to Finding Flat Maps of The Human Brain"
+    },
+    {
+      "paperId": "25d5f4786632cf987b89c9a6f490f720d1cd304d",
+      "title": "Computerized Mappings of the Cerebral Cortex: A Multiresolution Flattening Method and a Surface-Based Coordinate System"
+    },
+    {
+      "paperId": "959258cb7ff636fee908e6f6877388081ca706b6",
+      "title": "How to Draw a Graph"
+    },
+    {
+      "paperId": "7c0911bb7f1568f92c264c3d5254de24b71ce09c",
+      "title": "Convex Representations of Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Mesh parameterization methods and their applications"
+    }
+  ]
+}

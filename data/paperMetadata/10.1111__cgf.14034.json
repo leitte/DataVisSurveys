@@ -1,0 +1,1939 @@
+{
+  "paperId": "48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+  "externalIds": {
+    "ArXiv": "2212.11737",
+    "DBLP": "journals/corr/abs-2212-11737",
+    "MAG": "3034069517",
+    "DOI": "10.1111/cgf.14034",
+    "CorpusId": 221577682
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+  "title": "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations",
+  "abstract": "Machine learning (ML) models are nowadays used in complex applications in various domains, such as medicine, bioinformatics, and other sciences. Due to their black box nature, however, it may sometimes be hard to understand and trust the results they provide. This has increased the demand for reliable visualization tools related to enhancing trust in ML models, which has become a prominent topic of research in the visualization community over the past decades. To provide an overview and present the frontiers of current research on the topic, we present a State\u2010of\u2010the\u2010Art Report (STAR) on enhancing trust in ML models with the use of interactive visualization. We define and describe the background of the topic, introduce a categorization for visualization techniques that aim to accomplish this goal, and discuss insights and opportunities for future research directions. Among our contributions is a categorization of trust against different facets of interactive ML, expanded and improved from previous research. Our results are investigated from different analytical perspectives: (a) providing a statistical overview, (b) summarizing key findings, (c) performing topic analyses, and (d) exploring the data sets used in the individual papers, all with the support of an interactive web\u2010based survey browser. We intend this survey to be beneficial for visualization researchers whose interests involve making ML models more trustworthy, as well as researchers and practitioners from other disciplines in their search for effective visualization techniques suitable for solving their tasks with confidence and conveying meaning to their data.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 465,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2212.11737",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Mathematics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chatzimparmpas2020TheSO,\n author = {Angelos Chatzimparmpas and R. M. Martins and Ilir Jusufi and Kostiantyn Kucher and Fabrice Rossi and A. Kerren},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "52197250",
+      "name": "Angelos Chatzimparmpas"
+    },
+    {
+      "authorId": "47758081",
+      "name": "R. M. Martins"
+    },
+    {
+      "authorId": "2810989",
+      "name": "Ilir Jusufi"
+    },
+    {
+      "authorId": "34523583",
+      "name": "Kostiantyn Kucher"
+    },
+    {
+      "authorId": "2052876402",
+      "name": "Fabrice Rossi"
+    },
+    {
+      "authorId": "2569160",
+      "name": "A. Kerren"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5f6370dc7586a74bf89cf0fe2e5e79d771d36a59",
+      "title": "Moderate Aortic Stenosis in Patients With Heart Failure"
+    },
+    {
+      "paperId": "54aa1b09270b32f8497157f9464f8bc1cf037827",
+      "title": "LDA Ensembles for Interactive Exploration and Categorization of Behaviors"
+    },
+    {
+      "paperId": "3dacce6baae86dd74467e5187907b65ce1c8ca49",
+      "title": "A survey of surveys on the use of visualization for interpreting machine learning models"
+    },
+    {
+      "paperId": "e49f67fa5c946ad24afcf59699a9cacf1ca53924",
+      "title": "Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy"
+    },
+    {
+      "paperId": "b2e9f35d60b00c7319a6763a477857e5215082f5",
+      "title": "A Task-Based Taxonomy of Cognitive Biases for Information Visualization"
+    },
+    {
+      "paperId": "f6dcb40cd150b8fa95873bf2ac82c67d3bed3ee4",
+      "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "paperId": "bd4cf5a6987ef0f39b7e4e88d59b3a3365abcc70",
+      "title": "The relationship between trust in AI and trustworthy machine learning technologies"
+    },
+    {
+      "paperId": "b3093a944ecf3be4040fc136a807d099d245614b",
+      "title": "Literature review as a research methodology: An overview and guidelines"
+    },
+    {
+      "paperId": "f1bc43932beb14a00cd47feac4e40951601dd7a9",
+      "title": "Key challenges for delivering clinical impact with artificial intelligence"
+    },
+    {
+      "paperId": "4663383f4737d25a4d4974ccf2206cda9339a13e",
+      "title": "TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning"
+    },
+    {
+      "paperId": "65baf4a35ad88c42354100f3a473bd755ecc1e1c",
+      "title": "DeepCompare: Visual and Interactive Comparison of Deep Learning Model Performance"
+    },
+    {
+      "paperId": "b2d85ca8a24ee8d0aaba07ba7a92c477777833c5",
+      "title": "BEAMES: Interactive Multimodel Steering, Selection, and Inspection for Regression Tasks"
+    },
+    {
+      "paperId": "10b7740b9a731b8177ff36d7cd9772825773b345",
+      "title": "FeatureExplorer: Interactive Feature Selection and Exploration of Regression Models for Hyperspectral Images"
+    },
+    {
+      "paperId": "c1992c7750c97413f550624ab0298f0b810c610b",
+      "title": "FairSight: Visual Analytics for Fairness in Decision Making"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "9e61d8de969f4f08001d22186298a1e0059602a6",
+      "title": "Visualizing RNN States with Predictive Semantic Encodings"
+    },
+    {
+      "paperId": "5f2a8880ead20af9bc352cf0525bc34036405e5c",
+      "title": "VASSL: A Visual Analytics Toolkit for Social Spambot Labeling"
+    },
+    {
+      "paperId": "dfc1eca39d165ebf8e9a82fd18da2419f5a2b5c9",
+      "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures"
+    },
+    {
+      "paperId": "13ee6d92db3d842fabaa4e43d3385d454f7f2a0b",
+      "title": "explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning"
+    },
+    {
+      "paperId": "a95455efdbfeee6753352be066800fe38af94ea8",
+      "title": "ICE: An Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces"
+    },
+    {
+      "paperId": "88d960d214a53d8599bf4fe982493df656bb33c9",
+      "title": "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference"
+    },
+    {
+      "paperId": "0981ddfcfe22d9d0538bddcaf9e461280522d197",
+      "title": "Interpretable and Steerable Sequence Learning via Prototypes"
+    },
+    {
+      "paperId": "03c8320ab91d575e578a299cb12d2051430e5d99",
+      "title": "Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics"
+    },
+    {
+      "paperId": "1f6b9766374d14d81c225c2ced5bb02fe0bccd43",
+      "title": "The What-If Tool: Interactive Probing of Machine Learning Models"
+    },
+    {
+      "paperId": "4d8c388e5afadce3a24cf4ab28718e429323e5b2",
+      "title": "Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data"
+    },
+    {
+      "paperId": "ef6fa2b9419f89890f792330e0f3fafabd76d3ee",
+      "title": "Oui! Outlier Interpretation on Multi\u2010dimensional Data via Visual Analytics"
+    },
+    {
+      "paperId": "454391b8ad945a14d967a34f2d5bbfa33d09be2f",
+      "title": "ClustMe: A Visual Quality Measure for Ranking Monochrome Scatterplots based on Cluster Patterns"
+    },
+    {
+      "paperId": "51a30be48add8b9bf8f8d2e3f69ee1d4e06e2db0",
+      "title": "Latent Space Cartography: Visual Analysis of Vector Space Embeddings"
+    },
+    {
+      "paperId": "85f1bb32bd611d83e289548a692f4734bf5d2241",
+      "title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective"
+    },
+    {
+      "paperId": "711ccc8d2376f3ac5a0d1c00494cadcd433be573",
+      "title": "Focus+Context Exploration of Hierarchical Embeddings"
+    },
+    {
+      "paperId": "99550cbf48c0eab75cb66594d2feff56b5f5510e",
+      "title": "DeepVID: Deep Visual Interpretation and Diagnosis for Image Classifiers via Knowledge Distillation"
+    },
+    {
+      "paperId": "42305dfdda2aab2e2bd884e80180827996010cc0",
+      "title": "Visual Exploration of Neural Document Embedding in Information Retrieval: Semantics and Feature Selection"
+    },
+    {
+      "paperId": "d3e32142679034c11f25a3b9be02ff35462a6da6",
+      "title": "Usage of Machine Learning for Strategic Decision Making at Higher Educational Institutions"
+    },
+    {
+      "paperId": "11e54eeb213e2d51be405455fcaf49909cdaf2d8",
+      "title": "An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data"
+    },
+    {
+      "paperId": "2b61001c5d927fad8d64118747e1a6e22c82e9c5",
+      "title": "Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning"
+    },
+    {
+      "paperId": "4bf2c0ccd75be41d36455949eb8906910404fe1c",
+      "title": "Uncertainty-Aware Principal Component Analysis"
+    },
+    {
+      "paperId": "d2f18e0675d86e64fdc6e8beaa83c2b74f6a81b6",
+      "title": "Visualizing Uncertainty and Alternatives in Event Sequence Predictions"
+    },
+    {
+      "paperId": "84a58ff9e0b1ad8bd094aff3ab25a571eb56c6ed",
+      "title": "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
+    },
+    {
+      "paperId": "84ff60bdc4c77556350e61183b09bffc25c139a5",
+      "title": "Concept-Driven Visual Analytics: an Exploratory Study of Model- and Hypothesis-Based Reasoning with Visualizations"
+    },
+    {
+      "paperId": "d424d2a1585d49eb52fb3aae3168b000f5992aad",
+      "title": "NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"
+    },
+    {
+      "paperId": "26eb706ce9ece8fdff8707e6b558362fbec69895",
+      "title": "FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning"
+    },
+    {
+      "paperId": "cd8b77d0cedfc1507939b74457f59b6ce5279bac",
+      "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+    },
+    {
+      "paperId": "996b7372d235a664c910559a5179af77facb26c0",
+      "title": "ComDia+: An Interactive Visual Analytics System for Comparing, Diagnosing, and Improving Multiclass Classifiers"
+    },
+    {
+      "paperId": "962b6e9899dc0879bb0b9e7dbc3760e36b651fe7",
+      "title": "Visualizing memorization in RNNs"
+    },
+    {
+      "paperId": "5b8a01e224443eccdac36768fb8ad63e1c6a4ae2",
+      "title": "V\u2010Awake: A Visual Analytics Approach for Correcting Sleep Predictions from Deep Learning Models"
+    },
+    {
+      "paperId": "5d093bd376ba63495ea442241bc8bc2f0ff30c2b",
+      "title": "Machine learning in medicine: a practical introduction"
+    },
+    {
+      "paperId": "86bf4e4eb3087fff0dcaf9d0c0bc00c36fd2d11b",
+      "title": "Towards human-guided machine learning"
+    },
+    {
+      "paperId": "0d8c22e7e4d55c374eff7f072e4bb22eed7d876f",
+      "title": "The effects of example-based explanations in a machine learning interface"
+    },
+    {
+      "paperId": "55640ff387069d205fa59da549680892db407a0a",
+      "title": "Explainability scenarios: towards scenario-based XAI design"
+    },
+    {
+      "paperId": "cea57c4e7d7bea87dec52c7de874c7f295cee746",
+      "title": "Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation"
+    },
+    {
+      "paperId": "d009a943287ef5aa0f064b61e01b7e53e05cf17a",
+      "title": "Interactive labelling of a multivariate dataset for supervised machine learning using linked visualisations, clustering, and active learning"
+    },
+    {
+      "paperId": "3dc0f10f117bdfb6d5c15ad738929daf3f862585",
+      "title": "ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning"
+    },
+    {
+      "paperId": "de3e554526084fdc42aaf5c4dd8e8b7bd37c1ebd",
+      "title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"
+    },
+    {
+      "paperId": "2bc964de46c4a2068ea5b11591c390f242672a5a",
+      "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks"
+    },
+    {
+      "paperId": "b01a871cff4d2e35719d8639392fbf6c55858057",
+      "title": "NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models"
+    },
+    {
+      "paperId": "34f3071bbbb2be99d766c365c60cdbf190b9db8d",
+      "title": "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
+    },
+    {
+      "paperId": "b4738c09b3162135eaccae2aa0d071116b65a879",
+      "title": "EnsembleLens: Ensemble-based Visual Exploration of Anomaly Detection Algorithms with Multidimensional Data"
+    },
+    {
+      "paperId": "9eabb111aa1a4045c11c408bbd82753abc56ef8a",
+      "title": "iForest: Interpreting Random Forests via Visual Analytics"
+    },
+    {
+      "paperId": "186e61b5f3cbbd5eb5303397e69728fd634ebb68",
+      "title": "A task-and-technique centered survey on visual analytics for deep learning model engineering"
+    },
+    {
+      "paperId": "9f2bc810b11121088d0d5c61810db7492d70835f",
+      "title": "BayesPiles"
+    },
+    {
+      "paperId": "6b858b0b58e8ed1c1d3dab4f55418385f4fbbe21",
+      "title": "Comparison of Machine Learning Algorithm's Performance Based on Decision making in Autonomous Car"
+    },
+    {
+      "paperId": "8dac32a100b232861f85e254d772c05ee4926e26",
+      "title": "RNNbow: Visualizing Learning Via Backpropagation Gradients in RNNs"
+    },
+    {
+      "paperId": "b90b3924c3f7ce26655ff4b2fc70ec18c666fb19",
+      "title": "What can AI do for me?: evaluating machine learning interpretations in cooperative play"
+    },
+    {
+      "paperId": "509f84a0c11be7081ae14cdca88cee811a7b1c26",
+      "title": "Integrating Data and Model Space in Ensemble Learning by Visual Analytics"
+    },
+    {
+      "paperId": "1483915225e065b14dc5709579c87d6166d83329",
+      "title": "Dynamic Programming"
+    },
+    {
+      "paperId": "5f2377f135d6291d255b1929e308177ab309ed30",
+      "title": "Lowering the Barrier for Successful Replication and Evaluation"
+    },
+    {
+      "paperId": "ef6efab98ec19f1be937a21f9a98c4c3686b1122",
+      "title": "Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice"
+    },
+    {
+      "paperId": "5fc9801dc70b22be9318f817e6f2201cf3059110",
+      "title": "Analyzing the Noise Robustness of Deep Neural Networks"
+    },
+    {
+      "paperId": "ff3b3bf3427b15e86e7e9a86ebfeef40efb2c540",
+      "title": "Going beyond Visualization. Verbalization as Complementary Medium to Explain Machine Learning Models"
+    },
+    {
+      "paperId": "130f966fafa7408b3175afeb37757ffadd9cda3b",
+      "title": "A User\u2010based Visual Analytics Workflow for Exploratory Model Analysis"
+    },
+    {
+      "paperId": "98689eb943f20e58296cb4f4c15f702ce7041121",
+      "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation"
+    },
+    {
+      "paperId": "1586f7175a8f6d3e6491604a295c95f700698da5",
+      "title": "A user-based taxonomy for deep learning visualization"
+    },
+    {
+      "paperId": "00d3c7acf90df81138edc4b06afaa1ea5a0fe9ca",
+      "title": "Mapping and Visualizing Deep-Learning Urban Beautification"
+    },
+    {
+      "paperId": "fdfd517e3bc1157789428e2455a82402a3f24a72",
+      "title": "DeepTracker"
+    },
+    {
+      "paperId": "be156af658a059747cbd3a63d9592e7d7424790a",
+      "title": "Analysis of VINCI 2009-2017 Proceedings"
+    },
+    {
+      "paperId": "8d904d49cb178def9a15fbea955d427d85cad2f5",
+      "title": "Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models"
+    },
+    {
+      "paperId": "3df952d4a724655f7520ff95d4b2cef90fff0cae",
+      "title": "Techniques for interpretable machine learning"
+    },
+    {
+      "paperId": "a9b57247bfb912fa8919e8d87b68e09ad81d418a",
+      "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules"
+    },
+    {
+      "paperId": "2bac53541e7bc659e0f39ab213477c33380c7e30",
+      "title": "Discovering Interpretable Representations for Both Deep Generative and Discriminative Models"
+    },
+    {
+      "paperId": "ead0796ee7b0bac73181087910caf93e9ed86b65",
+      "title": "RCLens: Interactive Rare Category Exploration and Identification"
+    },
+    {
+      "paperId": "094a3e1a47b1911dcf73bb85bf457f9e4b2578ec",
+      "title": "Visualization of Neural Network Predictions for Weather Forecasting"
+    },
+    {
+      "paperId": "e96fe4e820c2ca9002ad56c6a58c1e3840130fa7",
+      "title": "Making machine learning robust against adversarial inputs"
+    },
+    {
+      "paperId": "81811b21baf42e23758949898019f65a31db3135",
+      "title": "Homology-Preserving Dimensionality Reduction via Manifold Landmarking and Tearing"
+    },
+    {
+      "paperId": "b7fcbb19c75ad65be522b64d5f4b23dbcb3b883b",
+      "title": "On the Robustness of Interpretability Methods"
+    },
+    {
+      "paperId": "b84a48eeb03bac46f03ec8daf03a49a6b8c4d40b",
+      "title": "Defining Locality for Surrogates in Post-hoc Interpretablity"
+    },
+    {
+      "paperId": "ad906fb0dc38f0e7a59f48c968647bd81ed778bb",
+      "title": "A Review of User Interface Design for Interactive Machine Learning"
+    },
+    {
+      "paperId": "3634e7e779aeb761c67920f43a03040e35625df0",
+      "title": "GANViz: A Visual Analytics Approach to Understand the Adversarial Game"
+    },
+    {
+      "paperId": "5a0d4f928bb3192d724f160769d6bc5023b9dd7f",
+      "title": "ThreadReconstructor: Modeling Reply\u2010Chains to Untangle Conversational Text through Visual Analytics"
+    },
+    {
+      "paperId": "012e9c43d1b32bd6cb75b15f49b2db0bb16f3376",
+      "title": "Towards User\u2010Centered Active Learning Algorithms"
+    },
+    {
+      "paperId": "8af992d44d722b12cf303d4c9f85c9171a34caad",
+      "title": "Interactive Visual Exploration of Local Patterns in Large Scatterplot Spaces"
+    },
+    {
+      "paperId": "d7701e78e0bfc92b03a89582e80cfb751ac03f26",
+      "title": "Explaining Explanations: An Overview of Interpretability of Machine Learning"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "1abec8d03b8d1435ae920edea9b437be913a30ca",
+      "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+    },
+    {
+      "paperId": "8e38a1dfa88ccfc0b6a8a26fd3b4c61fdfe5b078",
+      "title": "A Visual Interaction Framework for Dimensionality Reduction Based Data Exploration"
+    },
+    {
+      "paperId": "92d7848fe040eaa633d287aba9e25edd2abfc015",
+      "title": "Visualizing Deep Neural Networks for Text Analytics"
+    },
+    {
+      "paperId": "21f4ac8ae37244af8bdad1c9b26e9c5704327147",
+      "title": "FraudVis: Understanding Unsupervised Fraud Detection Algorithms"
+    },
+    {
+      "paperId": "10c058f8c928996fe5b2b31811c0ae7ecb4c01d5",
+      "title": "Clustrophile 2: Guided Visual Clustering Analysis"
+    },
+    {
+      "paperId": "7ddc973a3243d6d6559c9aa5da976670552e2784",
+      "title": "Visual Analytics for Explainable Deep Learning"
+    },
+    {
+      "paperId": "21af4ed208ea3ecdb20b75aa27cddd0bfe683eec",
+      "title": "The Building Blocks of Interpretability"
+    },
+    {
+      "paperId": "d5ab4aab4d30bc9f76151a50ca509030e5c1bcdc",
+      "title": "AnchorViz: Facilitating Classifier Error Discovery through Interactive Semantic Data Exploration"
+    },
+    {
+      "paperId": "43012f913584c0e0b2dbee3c7bc6402bc9c88353",
+      "title": "Closing the Loop: User-Centered Design and Evaluation of a Human-in-the-Loop Topic Modeling System"
+    },
+    {
+      "paperId": "f89a0bbbe271727454eed8806837736a85354fab",
+      "title": "Interactive Document Clustering Revisited: A Visual Analytics Approach"
+    },
+    {
+      "paperId": "7ccc073c58f9be247eaa56bae37bea652c17ce29",
+      "title": "Learning to Explain: An Information-Theoretic Perspective on Model Interpretation"
+    },
+    {
+      "paperId": "2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+      "title": "The State of the Art in Sentiment Visualization"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "458fd732f65f32b74d4f1bbdfced2f7019697624",
+      "title": "Visual Exploration of Semantic Relationships in Neural Word Embeddings"
+    },
+    {
+      "paperId": "b71fe09f4077acdeae25681e8f0cc4483d56e4ec",
+      "title": "Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow"
+    },
+    {
+      "paperId": "4c281ab9e305c8424d539782705f99125112fb34",
+      "title": "Visual interpretability for deep learning: a survey"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "8b0c9e677185cf7f8574b148aa74c4b37fdf58db",
+      "title": "Exploring High\u2010Dimensional Structure via Axis\u2010Aligned Decomposition of Linear Projections"
+    },
+    {
+      "paperId": "e99d83db1c37f7393a3fc83a10d63a5f57ed24c9",
+      "title": "What you see is what you can change: Human-centered machine learning by interactive visualization"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "eb88646aeeb3ffc48566d7357495b12c035eccb9",
+      "title": "Do Convolutional Neural Networks Learn Class Hierarchy?"
+    },
+    {
+      "paperId": "5ad1b655f3588cae5fe850a6ea5c5ccfe718dbc8",
+      "title": "Active Learning and Visual Analytics for Stance Classification with ALVA"
+    },
+    {
+      "paperId": "c0092a11d299ba8a005b58d7a4150a61abf982c2",
+      "title": "Track Xplorer: A System for Visual Analysis of Sensor\u2010based Motor Activity Predictions"
+    },
+    {
+      "paperId": "75cb746527d3b19af4bb1b41ef03a8797d3c0162",
+      "title": "Comparison techniques utilized in spatial 3D and 4D data visualizations: A survey and future directions"
+    },
+    {
+      "paperId": "d77d9aa2ecc93163f1ed90de47426927b160adb5",
+      "title": "Visual Integration of Data and Model Space in Ensemble Learning"
+    },
+    {
+      "paperId": "6b9380470fea6e8d21b02c4e8522fef30b93fa32",
+      "title": "Pattern Trails: Visual Analysis of Pattern Transitions in Subspaces"
+    },
+    {
+      "paperId": "58e0ca33ae3068fee7005f339bf6c444fc17d55f",
+      "title": "Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models"
+    },
+    {
+      "paperId": "f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
+      "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms"
+    },
+    {
+      "paperId": "141f1ba6eedb82a0c3eb8a8eb8d117ce8c3231f2",
+      "title": "SkyLens: Visual Analysis of Skyline on Multi-Dimensional Data"
+    },
+    {
+      "paperId": "82c205f92623ea66985cb144e4223fbecc855d98",
+      "title": "Can semantic labeling methods generalize to any city? the inria aerial image labeling benchmark"
+    },
+    {
+      "paperId": "a638689a0dca9cfe16b9630146bf27ccd0ce5429",
+      "title": "Projections as visual aids for classification system design"
+    },
+    {
+      "paperId": "a9b7cdbf27e6be19553b20d5a8f07511799aa5d5",
+      "title": "VIAL: a unified process for visual interactive labeling"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "f46b7231af2552dbe5a99e24b373f1ddcca527c3",
+      "title": "Steering the Craft: UI Elements and Visualizations for Supporting Progressive Visual Analytics"
+    },
+    {
+      "paperId": "22f83bddeb8f9cbb211740f3c2a44c6e1cea6c9d",
+      "title": "Interactive Regression Lens for Exploring Scatter Plots"
+    },
+    {
+      "paperId": "570bd377d643f5f278b09f7c75b2aebd3130d379",
+      "title": "Linear Discriminative Star Coordinates for Exploring Class and Cluster Separation of High Dimensional Data"
+    },
+    {
+      "paperId": "585de90664248109f9c972aa09dd4b95c9e11595",
+      "title": "The State\u2010of\u2010the\u2010Art in Predictive Visual Analytics"
+    },
+    {
+      "paperId": "837e28df34e6a778430607eb16da37715551c780",
+      "title": "Visual Verification of Cancer Staging for Therapy Decision Support"
+    },
+    {
+      "paperId": "b61db5598003fe7582735f41be1e79ec8cc99b91",
+      "title": "Interpreting Black-Box Classifiers Using Instance-Level Visual Explanations"
+    },
+    {
+      "paperId": "78f05cbe614cfb8ab4aaebdda6701eb0eb5148ae",
+      "title": "A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations"
+    },
+    {
+      "paperId": "01c2c083906aa9deedbf213c548750d4405e39cf",
+      "title": "ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "bfa0aa069dd57cdb26ee5195e03a19ed0bbfa934",
+      "title": "EasySVM: A visual analysis approach for open-box support vector machines"
+    },
+    {
+      "paperId": "76be2ce6243d1e8f4191f929f55b4bb761fabbc3",
+      "title": "Negative Relevance Feedback for Exploratory Search with Visual Interactive Intent Modeling"
+    },
+    {
+      "paperId": "0b601c02c86813bad0459388b98518801635fa59",
+      "title": "Label-and-Learn: Visualizing the Likelihood of Machine Learning Classifier's Success During Data Labeling"
+    },
+    {
+      "paperId": "86ab8a67643dc8e9b30376e3638a59fa77b48e8e",
+      "title": "Interactive Machine Learning via a GPU-accelerated Toolkit"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "bd76d414c9770a7039e9936e30a7030c127efa40",
+      "title": "The Paradigm-Shift of Social Spambots: Evidence, Theories, and Tools for the Arms Race"
+    },
+    {
+      "paperId": "da41f46bb61bc2087503555f71c72595a7cd3f7e",
+      "title": "Interactive Elicitation of Knowledge on Feature Relevance Improves Predictions in Small Data Sets"
+    },
+    {
+      "paperId": "7e9c2a208bcace759d112dd5dcfebf93fdfa2a08",
+      "title": "Recent progress and trends in predictive visual analytics"
+    },
+    {
+      "paperId": "ab82a1506b2c589fb89e5c457a65380408838481",
+      "title": "A Nested Workflow Model for Visual Analytics Design and Validation"
+    },
+    {
+      "paperId": "62ee21d50e6e41b3ff50e40d2af3e458dd113d37",
+      "title": "An Empire Built On Sand: Reexamining What We Think We Know About Visualization"
+    },
+    {
+      "paperId": "64be41a83b135108350d8e803b49dcfbadd931d4",
+      "title": "Evaluating Visualization Sets: Trade-offs Between Local Effectiveness and Global Consistency"
+    },
+    {
+      "paperId": "3d7bc1d63c6a9173610207a937afa210ba17ea39",
+      "title": "Looking at the Representations in our Mind: Measuring Mental Models of Information Visualizations"
+    },
+    {
+      "paperId": "89ac8656532b7bae4dd36496a4f5163cff8ca252",
+      "title": "Using Concrete and Realistic Data in Evaluating Initial Visualization Designs"
+    },
+    {
+      "paperId": "4d1f39001282d5e77be6a2038673ab92389df62c",
+      "title": "DimScanner: A relation-based visual exploration approach towards data dimension inspection"
+    },
+    {
+      "paperId": "0357635611e235f5f18d28654cc6e46b8cd513b8",
+      "title": "SeekAView: An intelligent dimensionality reduction strategy for navigating high-dimensional data spaces"
+    },
+    {
+      "paperId": "dae380430a9777f6e6b82b007e0aa65bcdc2a2cf",
+      "title": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "paperId": "ed6297433cfc580837e87592f550cc96296c7d0a",
+      "title": "Inherent Trade-Offs in the Fair Determination of Risk Scores"
+    },
+    {
+      "paperId": "e49de6292e2e50f87f0c017d239eba4b1e36eaac",
+      "title": "Detection of Successful and Unsuccessful Pregnancies in Mice within Hours of Pairing through Frequency Analysis of High Temporal Resolution Core Body Temperature Data"
+    },
+    {
+      "paperId": "0b5461d888213abd48934ba0fbe660e81ddc787f",
+      "title": "Interactive and iterative visual clustering"
+    },
+    {
+      "paperId": "3493b2232449635aff50fc17e03163cb4b66f1b5",
+      "title": "Visual exploration of machine learning results using data cube analysis"
+    },
+    {
+      "paperId": "42e297d39ccc4af93ac45cfdef8b5a035909b647",
+      "title": "A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "51194f3d980d05cf25c34cec9367a7605703692b",
+      "title": "Using Visual Analytics to Interpret Predictive Machine Learning Models"
+    },
+    {
+      "paperId": "fdd025e077a36166b10120b448d0c4e4009824a9",
+      "title": "Model-Agnostic Interpretability of Machine Learning"
+    },
+    {
+      "paperId": "e74cd631106a69bc1782759cc4bbec3df5743d62",
+      "title": "Manifold Visualization via Short Walks"
+    },
+    {
+      "paperId": "034fef5b0f291df6ebee8b639505acdcfb21d791",
+      "title": "Hierarchical Stochastic Neighbor Embedding"
+    },
+    {
+      "paperId": "76e00b3db64a43c280bcae628dbe59ea26b3cdb0",
+      "title": "Exploring and Comparing Clusterings of Multivariate Data Sets Using Persistent Homology"
+    },
+    {
+      "paperId": "4ddab77447d9e8dcbcf9e83b94c490ee143a7bb4",
+      "title": "GEMSe: Visualization\u2010Guided Exploration of Multi\u2010channel Segmentation Algorithms"
+    },
+    {
+      "paperId": "2783c752fbc3c6f5c54c06ffbb039ca8f01541e1",
+      "title": "Mass Cytometry of the Human Mucosal Immune System Identifies Tissue- and Disease-Associated Immune Subsets."
+    },
+    {
+      "paperId": "4db4ba1c0bebb91f95c59d0aa22dfab6ca6eddf6",
+      "title": "Interacting with Predictions: Visual Inspection of Black-box Machine Learning Models"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "e3ae9035a47b711797881af6343f509b398f8fcd",
+      "title": "Dimension reconstruction for visual exploration of subspace clusters in high-dimensional data"
+    },
+    {
+      "paperId": "9c62603e56b5d7b108c5c6cb1cbe7da8c672649b",
+      "title": "A visual analytics approach to high-dimensional logistic regression modeling and its application to an environmental health study"
+    },
+    {
+      "paperId": "2713df4d2706a0a7e1e191aa6dab3f1b6253a763",
+      "title": "Explaining three-dimensional dimensionality reduction plots"
+    },
+    {
+      "paperId": "35a84cf335904885cb5fb902b4de4b299fdae08a",
+      "title": "The Subspace Voyager: Exploring High-Dimensional Data along a Continuum of Salient 3D Subspaces"
+    },
+    {
+      "paperId": "d63bdea1c70d1f946fd0ceefec875169fa397463",
+      "title": "Adaptive Contextualization: Combating Bias During High-Dimensional Visualization and Data Selection"
+    },
+    {
+      "paperId": "c0883f5930a232a9c1ad601c978caede29155979",
+      "title": "\u201cWhy Should I Trust You?\u201d: Explaining the Predictions of Any Classifier"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+      "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+    },
+    {
+      "paperId": "4c8a4f659e827a3189e14f0efd00987dc4c7785f",
+      "title": "FeatureInsight: Visual support for error-driven feature ideation in text classification"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "e36bb7fbe1b4f7c521608e93a2215e2062dae5b1",
+      "title": "Calibrating Probability with Undersampling for Unbalanced Classification"
+    },
+    {
+      "paperId": "c9a1ca47078843e9c2bbdf3b197c2d00fc806cbd",
+      "title": "A simple formula for the calculation of sample size in pilot studies."
+    },
+    {
+      "paperId": "3a689a8205aed728cb74c9c0875e5b6c92c6ab39",
+      "title": "EasyXplorer: A Flexible Visual Exploration Approach for Multivariate Spatial Data"
+    },
+    {
+      "paperId": "ad7f3da7a5d6a1e18cc5a176f18f52687b912fea",
+      "title": "A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News"
+    },
+    {
+      "paperId": "5c5754b02a4f2f36ccf8cdda78059cdb19860532",
+      "title": "Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome"
+    },
+    {
+      "paperId": "1b5a24639fa80056d1a17b15f6997d10e76cc731",
+      "title": "Understanding Neural Networks Through Deep Visualization"
+    },
+    {
+      "paperId": "acf7c691cd77fce40fa8d45f63c5d2971e6ec50d",
+      "title": "Estimating the sample size for a pilot randomised trial to minimise the overall trial sample size for the external pilot and main trial for a continuous outcome variable"
+    },
+    {
+      "paperId": "b1daa449c6e9881c64da4dacd1f72eb041d95bd9",
+      "title": "Persistent Homology for the Evaluation of Dimensionality Reduction Schemes"
+    },
+    {
+      "paperId": "82e5b2ad7f571b1cfd3154115ee125b472b2b19f",
+      "title": "Visualnostics: Visual Guidance Pictograms for Analyzing Projections of High\u2010dimensional Data"
+    },
+    {
+      "paperId": "da065f333e9204f0af37fc737168cab86cc442f0",
+      "title": "Uncovering Representative Groups in Multidimensional Projections"
+    },
+    {
+      "paperId": "2856696cf0bb309b4f4395f5e7d7d4bc8f6ad0cd",
+      "title": "Visual Exploration of High\u2010Dimensional Data through Subspace Analysis and Dynamic Projections"
+    },
+    {
+      "paperId": "95d66e12bb9116c3e98c7d422decd6b5c74769dc",
+      "title": "Trust in Automation"
+    },
+    {
+      "paperId": "a042afeb1bee81f00191d5f8179fcd1ae149278e",
+      "title": "ModelTracker: Redesigning Performance Analysis Tools for Machine Learning"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "3804ca5590a0829c5d56e84d860a2b2a456e3757",
+      "title": "Principles of Explanatory Debugging to Personalize Interactive Machine Learning"
+    },
+    {
+      "paperId": "825ca26af5a2a510dbc1a7b97587212bc98ae968",
+      "title": "Power to the People: The Role of Humans in Interactive Machine Learning"
+    },
+    {
+      "paperId": "6424b69f3ff4d35249c0bb7ef912fbc2c86f4ff4",
+      "title": "Deep Learning Face Attributes in the Wild"
+    },
+    {
+      "paperId": "edf931d8d22c024ec558b06f798f69ebb5764d8b",
+      "title": "Assessment of algorithms for mitosis detection in breast cancer histopathology images"
+    },
+    {
+      "paperId": "cd3c60466d8d30a8e907285545cd5d9056656109",
+      "title": "Cupid: Cluster-Based Exploration of Geometry Generators with Parallel Coordinates and Radial Trees"
+    },
+    {
+      "paperId": "e34cea7beb885be40afa8cc033dbafb8908dd60c",
+      "title": "INFUSE: Interactive Feature Selection for Predictive Modeling of High Dimensional Data"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "64c66fb39a964e17ef3f936782062e07184c9736",
+      "title": "Visual Methods for Analyzing Probabilistic Classification Data"
+    },
+    {
+      "paperId": "6edbdbcd07ce4b0a081e80e9c9f506460a4a0fbe",
+      "title": "Feedback-driven interactive exploration of large multidimensional data supported by visual classifier"
+    },
+    {
+      "paperId": "7a96765c147c9c814803c8c9de28a1dd069271da",
+      "title": "SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation"
+    },
+    {
+      "paperId": "db02ff04ba6afd2f73b38d1dfdfdbb89ea27a4ae",
+      "title": "A guide for the utilization of Health Insurance Review and Assessment Service National Patient Samples"
+    },
+    {
+      "paperId": "89395e0f74cd80bdc3f0d7c6340824e22c376d93",
+      "title": "Interactive exploration of parameter space in data mining: Comprehending the predictive quality of large decision tree collections"
+    },
+    {
+      "paperId": "cab86052882d126d43f72108c6cb41b295cc8a9e",
+      "title": "A data-driven approach to predict the success of bank telemarketing"
+    },
+    {
+      "paperId": "7a49fd467e68839375fd33a24d3a5b0e7798847b",
+      "title": "LoVis: Local Pattern Visualization for Model Refinement"
+    },
+    {
+      "paperId": "9e7105b77093b1947637040034b0d7b80ab35a20",
+      "title": "Visual analysis of dimensionality reduction quality for parameterized projections"
+    },
+    {
+      "paperId": "599b73c2801eeb31e4fb4d468b5cffe06a9c1b26",
+      "title": "Distortion\u2010Guided Structure\u2010Driven Interactive Exploration of High\u2010Dimensional Data"
+    },
+    {
+      "paperId": "78908f567d67637f6f5b9d4cd018851f31bd9a6c",
+      "title": "Event labeling combining ensemble detectors and background knowledge"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "d4414fb2e91836a82799d94251e27ed12f46d879",
+      "title": "Classification in the Presence of Label Noise: A Survey"
+    },
+    {
+      "paperId": "5fc5b0ef05b2225cbb9e6a061cdedcfc8dff349c",
+      "title": "Explainers: Expert Explorations with Crafted Projections"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "1a2a770d23b4a171fa81de62a78a3deb0588f238",
+      "title": "Visualizing and Understanding Convolutional Networks"
+    },
+    {
+      "paperId": "2d2af0f4fdaead3df827906abd25ee543ee59dae",
+      "title": "Scenario clustering and dynamic probabilistic risk assessment"
+    },
+    {
+      "paperId": "c4fd9c86b2b41df51a6fe212406dda81b1997fd4",
+      "title": "Linguistic Regularities in Continuous Space Word Representations"
+    },
+    {
+      "paperId": "31cfef70ac1f758ee22c733de125e1de1d73f8c8",
+      "title": "TripAdvisor^{N-D}: A Tourism-Inspired High-Dimensional Space Exploration Framework with Overview and Detail"
+    },
+    {
+      "paperId": "272152ba4ffe7def92a9f8b59378c83353365d80",
+      "title": "Quality-based guidance for exploratory dimensionality reduction"
+    },
+    {
+      "paperId": "067401467c4cf8dd03615ef67efe2e7bcc199da7",
+      "title": "Visual Steering and Verification of Mass Spectrometry Data Factorization in Air Quality Research"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "19e4f2f6f6b2c9ebaa8789ad8521e91fa8d1149d",
+      "title": "Measurement of life-events"
+    },
+    {
+      "paperId": "e91b8ab2deab0b4f6d90cb4aea1ee64dca3da334",
+      "title": "Relative N-gram signatures: Document visualization at the level of character N-grams"
+    },
+    {
+      "paperId": "a34b1ca54f29584a3dd9cb6a7cac937875684ef4",
+      "title": "An adaptive parameter space-filling algorithm for highly interactive cluster exploration"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "afc707c20985b5f371bd375203b5322f85183feb",
+      "title": "Inter-active learning of ad-hoc classifiers for video visual analytics"
+    },
+    {
+      "paperId": "b7e3840baec19c7909c91d14cd3ea656df38bb1d",
+      "title": "iLAMP: Exploring high-dimensional spacing through backward multidimensional projection"
+    },
+    {
+      "paperId": "f5a8f59c62665b8a0df193da6c453d6a78f975d7",
+      "title": "Subspace search and visualization to make sense of alternative clusterings in high-dimensional data"
+    },
+    {
+      "paperId": "f9e867c7bc3ec5eea85f688ccb9112387053867a",
+      "title": "iVisClustering: An Interactive Visual Document Clustering via Topic Modeling"
+    },
+    {
+      "paperId": "4859244f2bdd867cd9828b3e832505e0ad5b61b6",
+      "title": "Visual Exploration of Feature-Class Matrices for Classification Problems"
+    },
+    {
+      "paperId": "ce552581fc28a14c8903e66562d73207cd1bba94",
+      "title": "Semi\u2010Supervised Dimensionality Reduction based on Partial Least Squares for Visual Analysis of High Dimensional Data"
+    },
+    {
+      "paperId": "98e3e60d90d421c1c29018911d6ede0160d68fcc",
+      "title": "Interpretation and trust: designing model-driven visualizations for text analysis"
+    },
+    {
+      "paperId": "fbf9f8650c9521472f0297e7c82292235738449b",
+      "title": "Classification and regression trees"
+    },
+    {
+      "paperId": "b95942f0a6331f0cd826f7c4d5c1cf7c7a5251c9",
+      "title": "Guiding feature subset selection with an interactive visualization"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "7866e5c2701ab7b05f8a4457e84bec8d1b328179",
+      "title": "Perception-based visual quality measures"
+    },
+    {
+      "paperId": "0554014148b18892490e26581b9c1319adc9d56a",
+      "title": "Interactive decision making using dissimilarity to visually represented prototypes"
+    },
+    {
+      "paperId": null,
+      "title": "Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "a9ed4cc4fe6bdbfc21e4a17a8291811ebbc48073",
+      "title": "Assisted Descriptor Selection Based on Visual Comparative Data Analysis"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "cb476963da9e744f47f1989bf083f9fd38a3b5a5",
+      "title": "Interactive Visual Analysis of Temporal Cluster Structures"
+    },
+    {
+      "paperId": "64c30d53831686a4e86887f5b57ac32f072f0bdb",
+      "title": "Reinforcement learning algorithms for solving classification problems"
+    },
+    {
+      "paperId": "7405a170d7ae1a69f15c7872c11d3b7913c1718d",
+      "title": "CheckViz: Sanity Check and Topological Clues for Linear and Non\u2010Linear Mappings"
+    },
+    {
+      "paperId": "5f47123f5d86019c79c89f75ef6b44a60039f347",
+      "title": "SCface \u2013 surveillance cameras face database"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "31f515024cd8b6bf92c2ad802887eae17a3f2884",
+      "title": "Finding and visualizing relevant subspaces for clustering high-dimensional astronomical data using connected morphological operators"
+    },
+    {
+      "paperId": "23b41a95efdbccccce9e8626942f9c2b9239b311",
+      "title": "A visual analytics approach to model learning"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "61c14da66bbbd0bec82d80064e97dcd1d5093f2c",
+      "title": "Visual exploration of classification models for risk assessment"
+    },
+    {
+      "paperId": "9d05566dffa8476b7c4cc36ca1f3b9f41174bafa",
+      "title": "iVisClassifier: An interactive visual analytics system for classification based on supervised dimension reduction"
+    },
+    {
+      "paperId": "f7eb3e6221dc7bbe5eda0ce796755f5d71e7d61a",
+      "title": "Machine learning in adversarial environments"
+    },
+    {
+      "paperId": "fd78462545364191833461b3892345bb1a1feb6c",
+      "title": "A Study of the Relationships between Source Code Metrics and Attractiveness in Free Software Projects"
+    },
+    {
+      "paperId": "bf322ed2bdbd745f325a2c92786a4f92cf445c60",
+      "title": "Molecular dynamics simulations of mixed acidic/zwitterionic phospholipid bilayers."
+    },
+    {
+      "paperId": "1c85e00f69323402ef24e23227cf840aef7f3382",
+      "title": "A comparison of alternative bankruptcy prediction models"
+    },
+    {
+      "paperId": "35f10ea3ce493603593b739a6e20ca4d8f42b95f",
+      "title": "Techniques for Precision-Based Visual Analysis of Projected Data"
+    },
+    {
+      "paperId": "83a6cacc126d85c45605797406262677c256a6af",
+      "title": "Software Framework for Topic Modelling with Large Corpora"
+    },
+    {
+      "paperId": "afeecd9a41fecd8c19e40e004cbcbf6bb4b4e39d",
+      "title": "Interactive optimization for steering machine classification"
+    },
+    {
+      "paperId": "80e2130f93ec65e981d1aba9dae46f2e4f37dd47",
+      "title": "The Psychology (and Economics) of Trust"
+    },
+    {
+      "paperId": "d8048365a990eec1b0762131b257c05b72ac41fc",
+      "title": "LSAView: A tool for visual exploration of latent semantic modeling"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "bf15a0ccc14ac1deb5cea570c870389c16be019c",
+      "title": "Modeling wine preferences by data mining from physicochemical properties"
+    },
+    {
+      "paperId": "d64cf8c1df6c00dadea3c8e9fbebf1134fba4e8b",
+      "title": "Short-term memory mechanisms in neural network learning of robot navigation tasks: A case study"
+    },
+    {
+      "paperId": "71d1ac92ad36b62a04f32ed75a10ad3259a7218d",
+      "title": "Anomaly detection: A survey"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e",
+      "title": "ImageNet: A large-scale hierarchical image database"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "087ead0160dce756cfb80878c9f9ad1cc4a9afc1",
+      "title": "MultiClusterTree: Interactive Visual Exploration of Hierarchical Clusters in Multidimensional Multivariate Data"
+    },
+    {
+      "paperId": "e7e4bb5d2eec13da7bddf8a7c3b1b1d24231fd86",
+      "title": "Interactive Molecular Networks Obtained by Computer-aided Conversion of Microarray Data from Brains of Alcohol-drinking Rats"
+    },
+    {
+      "paperId": "24b0b7b24aec255fb4c362bc9f28c280b99b7dc4",
+      "title": "EnsembleMatrix: interactive visualization to support machine learning with multiple classifiers"
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "1cacac4f0ea9fdff3cd88c151c94115a9fddcf33",
+      "title": "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients"
+    },
+    {
+      "paperId": "17f4e1c937c91f8993d5227205ad136813a0f515",
+      "title": "Model-driven Visual Analytics"
+    },
+    {
+      "paperId": "61bdcd313e93971d2f58480b703213f8d174c085",
+      "title": "Movement Disorder Society\u2010sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS\u2010UPDRS): Scale presentation and clinimetric testing results"
+    },
+    {
+      "paperId": "821e1213cb29a6745cd56542828a4194fbea1ee3",
+      "title": "Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation"
+    },
+    {
+      "paperId": "f020b61789112fe7241b871907268f0bdc5c84fa",
+      "title": "ArnetMiner: extraction and mining of academic social networks"
+    },
+    {
+      "paperId": "560d47ebf7ebbd63e535256e443f83b6643ef047",
+      "title": "Importance of Semantic Representation: Dataless Classification"
+    },
+    {
+      "paperId": "b25663fa149be5286de193c13324098aedd7e2cc",
+      "title": "Opinion Mining and Sentiment Analysis"
+    },
+    {
+      "paperId": "7047496e6159cdac94b2871516b593bf1c6bf0c5",
+      "title": "A mobile vision system for robust multi-person tracking"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "0f529dc2b2b2bad22394454d4cba79e2c319f0b0",
+      "title": "A data mining approach to predict forest fires using meteorological data"
+    },
+    {
+      "paperId": "308171d09e67b8827d5d0d8f914b96d025c19c52",
+      "title": "ClusterSculptor: A Visual Analytics Tool for High-Dimensional Data"
+    },
+    {
+      "paperId": "c67a42672ee23139cbe031758e158d709c8dba2e",
+      "title": "Analysis Guided Visual Exploration of Multivariate Data"
+    },
+    {
+      "paperId": "11693b65ccf90700fec0f99618c7f4720a522ab1",
+      "title": "Variable Scaling for Time Series Prediction: Application to the ESTSP'07 and the NN3 Forecasting Competitions"
+    },
+    {
+      "paperId": "22effe373836d4feae2ce3e8abec0058438bebb9",
+      "title": "A Benchmark for the Comparison of 3-D Motion Segmentation Algorithms"
+    },
+    {
+      "paperId": "5a5effa909cdeafaddbbb7855037e02f8e25d632",
+      "title": "Caltech-256 Object Category Dataset"
+    },
+    {
+      "paperId": "c92ca30eac7e3e12733c75dd0ba81e88b7b902f3",
+      "title": "Visualizing distortions and recovering topology in continuous projection techniques"
+    },
+    {
+      "paperId": "e3bd9ae3e3418c1ee91332f913826544422f6fc4",
+      "title": "Computational Inference of Neural Information Flow Networks"
+    },
+    {
+      "paperId": "acf0c80eab94a584b54d3862d9dda199ac01133b",
+      "title": "Artificial Intelligence for Decision Making"
+    },
+    {
+      "paperId": "e9dd235240904627b12782653b66318712780703",
+      "title": "A Visual Vocabulary for Flower Classification"
+    },
+    {
+      "paperId": "a83c370f4a7ed2e2f76c9e7de41fecbaf000d7e9",
+      "title": "Direct numerical simulation of ignition front propagation in a constant volume with temperature inhomogeneities. II. Parametric study"
+    },
+    {
+      "paperId": "9a1a1d6f0ab114d14fc69a91f1981cf8e0848c84",
+      "title": "Reducing workload in systematic review preparation using automated citation classification."
+    },
+    {
+      "paperId": "749c328e9ef247b073f065837ffa8a79c8a9cce6",
+      "title": "Producing Accurate Interpretable Clusters from High-Dimensional Data"
+    },
+    {
+      "paperId": "f267c90705d2fe83d3bbe030a3b9d7941b2322fc",
+      "title": "Topological fisheye views for visualizing large graphs"
+    },
+    {
+      "paperId": "6af58c061f2e4f130c3b795c21ff0c7e3903278f",
+      "title": "Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales"
+    },
+    {
+      "paperId": "d00a23d63185bdb85df77962555f17ecef1982ae",
+      "title": "Single Particle Laser Ablation Time-of-Flight Mass Spectrometer: An Introduction to SPLAT"
+    },
+    {
+      "paperId": "01c110a02836005b3c4a85f8c5bc5655d4aabeb2",
+      "title": "Text categorization with many redundant features: using aggressive feature selection to make SVMs competitive with C4.5"
+    },
+    {
+      "paperId": "ed9db7b20e019cdb1c7db8b7921221ee2d9f36e2",
+      "title": "Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories"
+    },
+    {
+      "paperId": "4867b75779bc70cbddf5c3e3504d8a3bb1cd98b4",
+      "title": "Interactive Atlas of Dermoscopy"
+    },
+    {
+      "paperId": "215aa495b4c860a1e6d87f2c36f34da464376cc4",
+      "title": "Finding scientific topics"
+    },
+    {
+      "paperId": "7dd86508438657ac7a704a5d952a2a4422808975",
+      "title": "Trust in Automation: Designing for Appropriate Reliance"
+    },
+    {
+      "paperId": "04a10e1b25f35a9ac1a4d4344bfbdb34b253cb59",
+      "title": "The IAM-database: an English sentence database for offline handwriting recognition"
+    },
+    {
+      "paperId": "2cbe83cae40f5236146aae99522397407a56e7d7",
+      "title": "A data-driven software tool for enabling cooperative information sharing among police departments"
+    },
+    {
+      "paperId": "2c8ac3e1f0edeed1fbd76813e61efdc384c319c7",
+      "title": "Learning Question Classifiers"
+    },
+    {
+      "paperId": "77a02706edbdca6ad63ddf903ebd559dd7d423ac",
+      "title": "NLTK: The Natural Language Toolkit"
+    },
+    {
+      "paperId": "590cfa38094122f42412d747350229f79b7e6412",
+      "title": "The Reuters Corpus Volume 1 -from Yesterday\u2019s News to Tomorrow\u2019s Language Resources"
+    },
+    {
+      "paperId": "8bdda840ec8990e24c5a70db171edac330ebf650",
+      "title": "Stochastic gradient boosting"
+    },
+    {
+      "paperId": "6b22b574aed6b71975e8e094c71e58a54a860a0b",
+      "title": "Estimation of Aqueous Solubility of Chemical Compounds Using E-State Indices"
+    },
+    {
+      "paperId": "65df082e4a3640ee4ae346e2c3c90f578f8794d1",
+      "title": "Placing search in context: the concept revisited"
+    },
+    {
+      "paperId": "3537fcd0ff99a3b3cb3d279012df826358420556",
+      "title": "A global geometric framework for nonlinear dimensionality reduction."
+    },
+    {
+      "paperId": "3d75b20805b243a3f0082bde19e4d4d24744d105",
+      "title": "Designing trust into online experiences"
+    },
+    {
+      "paperId": "302838d005dc4a54f5ca05ff97c0dab831c4a6cf",
+      "title": "Analysis of a sleep-dependent neuronal feedback loop: the slow-wave microcontinuity of the EEG"
+    },
+    {
+      "paperId": "cbc877035ce570ba12affe0916b1a06a387d1224",
+      "title": "The National Morbidity, Mortality, and Air Pollution Study. Part II: Morbidity and mortality from air pollution in the United States."
+    },
+    {
+      "paperId": "a778d7eeebaafe6015e5c5a7519b54cd2a71a64b",
+      "title": "Estimation of Aqueous Solubility for a Diverse Set of Organic Compounds Based on Molecular Topology"
+    },
+    {
+      "paperId": "b34b4ff58c5c6472b97e8b71aecc4baec1a3d62d",
+      "title": "The elements of computer credibility"
+    },
+    {
+      "paperId": "9310cae70452ea11465f338483e79cc36a68881c",
+      "title": "Modeling of strength of high-performance concrete using artificial neural networks"
+    },
+    {
+      "paperId": "8446830f3c05b97c4d12a0751c022d1ae6a5115b",
+      "title": "Learning to Extract Symbolic Knowledge from the World Wide Web"
+    },
+    {
+      "paperId": "f5d7d06db91d2c82f361c2c3b8697a6156879753",
+      "title": "Smoothing Methods in Statistics"
+    },
+    {
+      "paperId": "6634f6c0da6e1a2970df667b571d706ff8a68261",
+      "title": "Combining multiple representations and classifiers for pen-based handwritten digit recognition"
+    },
+    {
+      "paperId": "be86da00efdd8c2a7fdeb2334605796c24b370f0",
+      "title": "Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection"
+    },
+    {
+      "paperId": "5605fcb3009fb0df95b64dcfb83dd2eac6d956bc",
+      "title": "Straightforward Statistics for the Behavioral Sciences"
+    },
+    {
+      "paperId": "38b3a4447a47a6a6ed1869f3da03352c487f8fe3",
+      "title": "NewsWeeder: Learning to Filter Netnews"
+    },
+    {
+      "paperId": "b8775b8ead06b2f683a7ed21384d50d5da34d3a8",
+      "title": "An Integrative Model Of Organizational Trust"
+    },
+    {
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff",
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank"
+    },
+    {
+      "paperId": "6c7b71c050ffcc86bd3fe34d169f536691a7e103",
+      "title": "Quality of life 3"
+    },
+    {
+      "paperId": "7a0307a7c4f4d81dd5eb0b62feebf4a816a6e243",
+      "title": "The role of sports as a social status determinant for children."
+    },
+    {
+      "paperId": "c35ebdef193ef00f36f6b345e181648acd568991",
+      "title": "Interpretation of the Correlation Coefficient: A Basic Review"
+    },
+    {
+      "paperId": "8674223cb2a4ff09c7b8d82e3a6ad187cc9008b5",
+      "title": "Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus"
+    },
+    {
+      "paperId": "de32df461c365b6bc8081d816b915feebd9b664a",
+      "title": "Attributes of the performance of central processing units: a relative performance prediction model"
+    },
+    {
+      "paperId": "15a3c94378ae3b1e8fc44b09751f81686e3d3ffa",
+      "title": "Workshops"
+    },
+    {
+      "paperId": "45f615637d9bdbc1c20b5ac2440dd5271be55a9d",
+      "title": "Sparse matrix test problems"
+    },
+    {
+      "paperId": "4aa030814a54d350ab73bff8e3652b75ebcdd0be",
+      "title": "Building Multiple Regression Models Interactively"
+    },
+    {
+      "paperId": "d4a440776b76332ccb8b9c1c38e1222abaa70c03",
+      "title": "Hedonic housing prices and the demand for clean air"
+    },
+    {
+      "paperId": "2640b7779fb2c5c79d792dae063cd51485d23258",
+      "title": "Conferences"
+    },
+    {
+      "paperId": "f956e53e4dca06dd8d492930587be74dd9ca2ee8",
+      "title": "The Species Problem in Iris"
+    },
+    {
+      "paperId": "57e07adbe748b7baf485b5827db48a829ca1bb86",
+      "title": "Bayesian Network Structure Learning"
+    },
+    {
+      "paperId": null,
+      "title": "CLOERN J"
+    },
+    {
+      "paperId": null,
+      "title": "Quick, Draw! by Google Creative Lab, 2016"
+    },
+    {
+      "paperId": null,
+      "title": "Identifying the gender of a voice using machine learning, 2016"
+    },
+    {
+      "paperId": "0a7e0e45d82eb74db30f3521c98961c3a8c1157a",
+      "title": "Trust in Information Visualization"
+    },
+    {
+      "paperId": "0cb5e1372729fb63ef9f3d4a8bcaba38585217f1",
+      "title": "Towards Supporting Interpretability of Clustering Results with Uncertainty Visualization"
+    },
+    {
+      "paperId": "227fd86b9ad4b3be6741c8050d4295eed096d5e9",
+      "title": "Visual Ensemble Analysis to Study the Influence of Hyper-parameters on Training Deep Neural Networks"
+    },
+    {
+      "paperId": "254206651c846741755f2b78399e03ceb48186a9",
+      "title": "Detection of Confirmation and Distinction Biases in Visual Analytics Systems"
+    },
+    {
+      "paperId": "8382fcbb5db5be9548a82120648214e0c2c0efe3",
+      "title": "ReLVis: Visual Analytics for Situational Awareness During Reinforcement Learning Experimentation"
+    },
+    {
+      "paperId": "003864a8b116b6825ceccbb5aa0f0f64f6e37d12",
+      "title": "How Does Visualization Help People Learn Deep Learning? Evaluation of GAN Lab"
+    },
+    {
+      "paperId": "aa8af27e31379f508d8af0600fe1ddcf89474101",
+      "title": "High-dimensional data analysis with subspace comparison using matrix visualization"
+    },
+    {
+      "paperId": "c0404471bd5e7c1214369e0fc1c7c886720bd725",
+      "title": "Examining the Components of Trust in Map-Based Visualizations"
+    },
+    {
+      "paperId": "4ef991671e47ee0e80dd5132324d7d5c91ce9e1a",
+      "title": "Visual Analysis of Degree-of-Interest Functions to Support Selection Strategies for Instance Labeling"
+    },
+    {
+      "paperId": "e8f20f4028664b456d1835dff5fce2911534bd99",
+      "title": "Interpreting Black-Box Semantic Segmentation Models in Remote Sensing Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Ope19] Open Directory Project \u2014 Webpages and categories"
+    },
+    {
+      "paperId": "547711207f25deda86f5a079167c0916e6809ad5",
+      "title": "Analyzing the Training Processes of Deep Generative Models"
+    },
+    {
+      "paperId": "5b20ab877b21d3d83251dd4d1fffbd848ffd1557",
+      "title": "Visual Diagnosis of Tree Boosting Methods"
+    },
+    {
+      "paperId": "3e595c66e41eab4817c0f9efe924c44a018009db",
+      "title": "Minions, Sheep, and Fruits : Metaphorical Narratives to Explain Artificial Intelligence and Build Trust"
+    },
+    {
+      "paperId": "82965e3f0d836fc937c1d16e222b59ab296ab702",
+      "title": "Do I Trust a Machine? Differences in User Trust Based on System Performance"
+    },
+    {
+      "paperId": "114bea617788ec9d57e9fa766a3b655149d24e98",
+      "title": "Visual Predictive Analytics using iFuseML"
+    },
+    {
+      "paperId": "1f65e55e0d86ee76ab0415f1dcf7de1179494c69",
+      "title": "VisCoDeR: A tool for visually comparing dimensionality reduction algorithms"
+    },
+    {
+      "paperId": "510f9d0ec54dbc8f310d1795c3fd877d67f3c6af",
+      "title": "BiDots: Visual Exploration of Weighted Biclusters"
+    },
+    {
+      "paperId": "886d6d6f8e7c43dc06fd2c27e9edbb6175ceb1f0",
+      "title": "Panning for Insight: Amplifying Insight through Tight Integration of Machine Learning, Data Mining, and Visualization"
+    },
+    {
+      "paperId": "8b4b027d79378c7c93290c739f4aec398fecdccb",
+      "title": "Comparing Visual-Interactive Labeling with Active Learning: An Experimental Study"
+    },
+    {
+      "paperId": "f7052bb98f2f01d6f1ef9d90669cb2b4bc982419",
+      "title": "LDSScanner: Exploratory Analysis of Low-Dimensional Structures in High-Dimensional Datasets"
+    },
+    {
+      "paperId": "e16edcf061127e56fbd1d8182e4934ab48acca8b",
+      "title": "Visualization-Assisted Development of Deep Learning Models in Offline Handwriting Recognition"
+    },
+    {
+      "paperId": "297d01ff6731c3bd917ede3d378c94cb84650e8f",
+      "title": "Opinion Mining and Sentiment Analysis"
+    },
+    {
+      "paperId": "5cdc573036eac9c370e16291744b4595d4cf5e3f",
+      "title": "Clustervision: Visual Supervision of Unsupervised Clustering"
+    },
+    {
+      "paperId": "3fa9955ffa860970649d9b7198765eadb2a04e37",
+      "title": "A User Study on the Effect of Aggregating Explanations for Interpreting Machine Learning Models"
+    },
+    {
+      "paperId": "6b25c49f0591794dc2249588574a94db16239522",
+      "title": "Trust of Learning Systems: Considerations for Code, Algorithms, and Affordances for Learning"
+    },
+    {
+      "paperId": "b544e7f4c580fd30e66c2fae8e94c87912d35e27",
+      "title": "SOMFlow: Guided Exploratory Cluster Analysis with Self-Organizing Maps and Analytic Provenance"
+    },
+    {
+      "paperId": "d9deeff32c13b355a3cd7db484c348faecc05b67",
+      "title": "TreePOD: Sensitivity-Aware Selection of Pareto-Optimal Decision Trees"
+    },
+    {
+      "paperId": "ad6ea2161db45933e2f988dd4e659c04a7029e28",
+      "title": "Lowering the Barrier for Successful Replication and Evaluation"
+    },
+    {
+      "paperId": "bbf89818159bae3f47aa927e71302f61b62057ec",
+      "title": "Towards a Systematic Combination of Dimension Reduction and Clustering in Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Making algorithms trustworthy: What can statistical science contribute to transparency, explanation and validation? Plenary invited talk at NeurIPS \u201918"
+    },
+    {
+      "paperId": null,
+      "title": "Investigations into the human-AI trust phenomenon"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "afdc4d4d062ae1c59d965dc38dbfd2283930d9c6",
+      "title": "Visualizations of Deep Neural Networks in Computer Vision: A Survey"
+    },
+    {
+      "paperId": "1554134e34366adcd69cd021a0b930a003ae789e",
+      "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "paperId": "af0c5163d670fbc2009764fa2dbbc2ff9c265423",
+      "title": "A Framework for Provenance Analysis and Visualization"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "a3cab7ac77a68287c56b036ba503c05b45e32243",
+      "title": "Combining Cluster and Outlier Analysis with Visual Analytics"
+    },
+    {
+      "paperId": "53fd5410b614c3185ae3081057f47526ff1e3c52",
+      "title": "Visualization for Classi\ufb01cation in Deep Neural Networks"
+    },
+    {
+      "paperId": "719e2d717c4954b058a32c609b8171319299f8fb",
+      "title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "paperId": "9f7c16b1f63cbee85a20b1d57b65f1eeb1fff7bb",
+      "title": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "paperId": "d440e1305fe28f36170e2c705b932736d2e1a951",
+      "title": "Plug-and-Play Interactive Deep Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "English Premier League players dataset"
+    },
+    {
+      "paperId": null,
+      "title": "Systems \u2014 NIPS 2017: Adversarial attacks and de-fences"
+    },
+    {
+      "paperId": "6213ea9a1de2be8c8ad9b4e1c7d197cdd3699f54",
+      "title": "Human-centered machine learning through interactive visualization: review and open challenges"
+    },
+    {
+      "paperId": null,
+      "title": "Enhancing Trust in Machine Learning Models with the Use of Visualizations"
+    },
+    {
+      "paperId": "8bacea4960cef4c050088f240f00127a708271db",
+      "title": "Comparing Dimensionality Reduction Methods Using Data Descriptor Landscapes"
+    },
+    {
+      "paperId": "3637b0dbdc62608d8b726e22d0d3de0434dcea54",
+      "title": "Interactive Image Feature Selection Aided by Dimensionality Reduction"
+    },
+    {
+      "paperId": "13a91c1de1d12dbd8cec7e44d83bcbd17abee55a",
+      "title": "Integrating Predictions in Time Series Model Selection"
+    },
+    {
+      "paperId": "b464e44c9eb80dc9291bbc96d314b57601c72462",
+      "title": "Attribute-based Visual Explanation of Multidimensional Projections"
+    },
+    {
+      "paperId": "b69acfdfa72cb7112d139c715cdb7b9824e35c90",
+      "title": "Interactive Visualizations for Deep Learning"
+    },
+    {
+      "paperId": "99b57318e54c2d339f3e81e835565abd7c1dfdba",
+      "title": "Text Visualization Browser : A Visual Survey of Text Visualization Techniques"
+    },
+    {
+      "paperId": "ee53dd826af4a2abae486c637e3bee2aa93e4886",
+      "title": "Interactive Design of Multidimensional Data Projection Layout"
+    },
+    {
+      "paperId": "83a768a0720d0a1f68792827a422395001291614",
+      "title": "Multimodal Distributional Semantics"
+    },
+    {
+      "paperId": "854b707666605e057c61804b8bfed33e0f0d9ed9",
+      "title": "Enhancing Comparative Model Analysis using Persistent Homology"
+    },
+    {
+      "paperId": "6ec1dcdd40d596c52e75dd7b8f25025396695fef",
+      "title": "Visualizing Accuracy to Improve Predictive Model Performance"
+    },
+    {
+      "paperId": "28680de90489fd8a1eb862a82189d89622c7ac27",
+      "title": "Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions"
+    },
+    {
+      "paperId": "b3253deca0087eeeaf9846c6a0a2e6bd1aeaea2e",
+      "title": "Encyclopedia of Quality of Life and Well-Being Research"
+    },
+    {
+      "paperId": null,
+      "title": "Parkinson\u2019s disease \u2014 Parkinsons Progression Markers"
+    },
+    {
+      "paperId": null,
+      "title": "Otto Group Product Classification Challenge,"
+    },
+    {
+      "paperId": "22e576c7f31de3f717fbbaff7e2e17953ea949ab",
+      "title": "Quantitative Structure \u2212 Activity Relationship Models for Ready Biodegradability of Chemicals"
+    },
+    {
+      "paperId": "8f95451a2b3f844fe244f73c03fbbc1f395a252e",
+      "title": "Trust in Automation"
+    },
+    {
+      "paperId": "b8b98573950349d394614d7324ab67e7ded00358",
+      "title": "A Structure-Based Distance Metric for High-Dimensional Space Exploration with Multi-Dimensional Scaling."
+    },
+    {
+      "paperId": "a2cf088a6e11359d83766fda5c9583c0f0676b22",
+      "title": "ARTICLE 29 Data Protection Working Party"
+    },
+    {
+      "paperId": "95169ecf1aedb1691692b996381f4d84a4d88e3c",
+      "title": "Studies in Big Data"
+    },
+    {
+      "paperId": null,
+      "title": "The TimeVis Browser"
+    },
+    {
+      "paperId": "c93e63eed07c779fc3b4eeb64387f1dcc413b88c",
+      "title": "Dimensionality Reduction in the Wild : Gaps and Guidance"
+    },
+    {
+      "paperId": "09cd7876b72d6105c83db59052572433a0a2b36c",
+      "title": "WIT3: Web Inventory of Transcribed and Translated Talks"
+    },
+    {
+      "paperId": null,
+      "title": "Generalized hierarchical matching for sub-category aware object classification"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "15312678437b5a51c99e9e7c721d1cc8bc5ff102",
+      "title": "Steerable Clustering for Visual Analysis of Ecosystems"
+    },
+    {
+      "paperId": "c0f3196caaf47c417aed179d47b79cb8e6edc7bf",
+      "title": "Reflections on QuestVis: A Visualization System for an Environmental Sustainability Model"
+    },
+    {
+      "paperId": null,
+      "title": "HyperMoVal: Interactive Visual Validation of Regression Models for Real-Time Simulation"
+    },
+    {
+      "paperId": "220ca2697a4510c31f2ac66a7db0e4425fc6a841",
+      "title": "Visual Classification: Expert Knowledge Guides Machine Learning"
+    },
+    {
+      "paperId": "15ecef22524c2cb650fed2357e0d0b7feefe1625",
+      "title": "Stress Maps: Analysing Local Phenomena in Dimensionality Reduction Based Visualisations"
+    },
+    {
+      "paperId": "f898c7ad5839f4292ffb9718d69ec703e05a3cf7",
+      "title": "Analysis of KDD '99 Intrusion Detection Dataset for Selection of Relevance Features"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+      "title": "Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086",
+      "title": "Learning Multiple Layers of Features from Tiny Images"
+    },
+    {
+      "paperId": "2309f7c5dad934f2adc2c5a066eba8fc2d8071ec",
+      "title": "Dimensionality Reduction: A Comparative Review"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "6ed9417eaa7ee16f0563599829a061421a3e0563",
+      "title": "NLTK: The Natural Language Toolkit"
+    },
+    {
+      "paperId": "23996d66d95bbd5dd85cf7c53ecae976c924008d",
+      "title": "Intrinsic Evaluation of Generic News Text Summarization Systems"
+    },
+    {
+      "paperId": "f42b865e20e61a954239f421b42007236e671f19",
+      "title": "GradientBased Learning Applied to Document Recognition"
+    },
+    {
+      "paperId": "786d4fc3653aeef290f9ba8a2fa063a573e12dbb",
+      "title": "Eigenfaces vs . Fisherfaces : Recognition Using Class Speci c Linear Projection"
+    },
+    {
+      "paperId": null,
+      "title": "WOLF I"
+    },
+    {
+      "paperId": null,
+      "title": "10.1162/jmlr.2003.3.4-5.993"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+      "title": "Gradient-based learning applied to document recognition"
+    },
+    {
+      "paperId": null,
+      "title": "NAYAR S"
+    },
+    {
+      "paperId": "4c5e562437ee94fb6e4d60ec559386dd0a433513",
+      "title": "Robust linear programming discrimination of two linearly inseparable sets"
+    },
+    {
+      "paperId": null,
+      "title": "Sparse matrix test problems"
+    },
+    {
+      "paperId": "655260a049fdf917c48ff4d8ce1e3f8852d12524",
+      "title": "Experiments in automatic learning of medical diagnostic rules"
+    },
+    {
+      "paperId": null,
+      "title": "The Wadsworth Statistics/Probability Series"
+    },
+    {
+      "paperId": null,
+      "title": "STONE C"
+    },
+    {
+      "paperId": null,
+      "title": "JAAKKOLA T"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    },
+    {
+      "paperId": "38821801f5fe73f3ac7862299872e6b529f8fd00",
+      "title": "Arti \ufb01 cial intelligence and machine learning in clinical development: a translational perspective"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "ab1832c5921531c452c3673d2948753f67b13579",
+      "title": "A Global Geometric Framework for Nonlinear Dimensionality Reduction"
+    },
+    {
+      "paperId": null,
+      "title": "Handwritten Digits"
+    },
+    {
+      "paperId": null,
+      "title": "Best City Contest,"
+    },
+    {
+      "paperId": null,
+      "title": "Descriptive mAchine Learning EXplanations (DALEX)"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE Visualization 2008 Con-test data"
+    },
+    {
+      "paperId": null,
+      "title": "World Health Organization (WHO-SIS) Statistical Information System"
+    },
+    {
+      "paperId": null,
+      "title": "Columbia University Image Library (COIL-20)"
+    },
+    {
+      "paperId": null,
+      "title": "BPD Field"
+    },
+    {
+      "paperId": null,
+      "title": "with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)"
+    },
+    {
+      "paperId": null,
+      "title": "International World Wide Web Conferences Steering Committee"
+    },
+    {
+      "paperId": null,
+      "title": "Contest data"
+    },
+    {
+      "paperId": null,
+      "title": "AG-Monien Graph, 1998"
+    },
+    {
+      "paperId": null,
+      "title": "OpenML -arsenic-female-bladder data set"
+    },
+    {
+      "paperId": null,
+      "title": "New York Times articles"
+    },
+    {
+      "paperId": null,
+      "title": "ImageCLEF -The CLEF cross language image retrieval track"
+    },
+    {
+      "paperId": null,
+      "title": "risk score data and"
+    },
+    {
+      "paperId": null,
+      "title": "USDA National Nutrient Database"
+    },
+    {
+      "paperId": null,
+      "title": "Machine learning from disaster"
+    },
+    {
+      "paperId": null,
+      "title": "OUNCIL OF THE E UROPEAN U NION : Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons"
+    },
+    {
+      "paperId": null,
+      "title": "Spooky Author Identi\ufb01cation"
+    },
+    {
+      "paperId": null,
+      "title": "Interpreting black-box \u00a92020TheAuthor(s) ComputerGraphicsForum\u00a92020TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "i-Lids multicamera tracking \u2014 UK government"
+    },
+    {
+      "paperId": null,
+      "title": "Cascaded classi\ufb01ers"
+    },
+    {
+      "paperId": null,
+      "title": "WQ: Exploring water quality monitoring data"
+    },
+    {
+      "paperId": null,
+      "title": "Ringnorm Dataset , 1996"
+    },
+    {
+      "paperId": null,
+      "title": "Defense Advanced Research Projects Agency -Explainable Artificial Intelligence (XAI) program information"
+    },
+    {
+      "paperId": null,
+      "title": "A statistical analysis of the work of Bob Ross"
+    },
+    {
+      "paperId": null,
+      "title": "CoIL Challenge 2000: The Insurance Company Case"
+    }
+  ]
+}

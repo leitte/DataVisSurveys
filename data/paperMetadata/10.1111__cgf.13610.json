@@ -1,0 +1,694 @@
+{
+  "paperId": "a45266c801b59005e01b6a8196ade8f0203dc0ac",
+  "externalIds": {
+    "ArXiv": "1902.06815",
+    "DBLP": "journals/corr/abs-1902-06815",
+    "MAG": "2952582989",
+    "DOI": "10.1111/cgf.13610",
+    "CorpusId": 67750541
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a45266c801b59005e01b6a8196ade8f0203dc0ac",
+  "title": "The State of the Art in Multilayer Network Visualization",
+  "abstract": "Modelling relationship between entities in real\u2010world systems with a simple graph is a standard approach. However, reality is better embraced as several interdependent subsystems (or layers). Recently, the concept of a multilayer network model has emerged from the field of complex systems. This model can be applied to a wide range of real\u2010world data sets. Examples of multilayer networks can be found in the domains of life sciences, sociology, digital humanities and more. Within the domain of graph visualization, there are many systems which visualize data sets having many characteristics of multilayer graphs. This report provides a state of the art and a structured analysis of contemporary multilayer network visualization, not only for researchers in visualization, but also for those who aim to visualize multilayer networks in the domain of complex systems, as well as those developing systems across application domains. We have explored the visualization literature to survey visualization techniques suitable for multilayer graph visualization, as well as tools, tasks and analytic techniques from within application domains. This report also identifies the outstanding challenges for multilayer graph visualization and suggests future research directions for addressing them.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 154,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13610",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Sociology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-02-12",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ghoniem2019TheSO,\n author = {M. Ghoniem and F. McGee and G. Melan\u00e7on and B. Otjacques and Bruno Pinaud},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Multilayer Network Visualization},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "143976491",
+      "name": "M. Ghoniem"
+    },
+    {
+      "authorId": "1949275",
+      "name": "F. McGee"
+    },
+    {
+      "authorId": "2482136",
+      "name": "G. Melan\u00e7on"
+    },
+    {
+      "authorId": "1721184",
+      "name": "B. Otjacques"
+    },
+    {
+      "authorId": "2100834",
+      "name": "Bruno Pinaud"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1aba6e3221af11183a333bb9d2faf447106737c1",
+      "title": "Node-Link or Adjacency Matrices: Old Question, New Insights"
+    },
+    {
+      "paperId": "7d0462ec453bd63db5345396e4785ac320cbad20",
+      "title": "Graph Thumbnails: Identifying and Comparing Multiple Graphs at a Glance"
+    },
+    {
+      "paperId": "33b742794fe949b6b48cfa38a3dd8709aabbec5c",
+      "title": "Exploring the Limits of Complexity: A Survey of Empirical Studies on Graph Visualisation"
+    },
+    {
+      "paperId": "f68da03d033d9599ebac0424ced68657553819e7",
+      "title": "Generating \u201cVisual Clouds\u201d from Multiplex Networks for TV News Archive Query Visualization"
+    },
+    {
+      "paperId": "cd32fc2c1fb609e6159d32e641a085fce727ffcb",
+      "title": "Information Visualization Evaluation Using Crowdsourcing"
+    },
+    {
+      "paperId": "1947846db9707a11d289f73891a6a7ae00244791",
+      "title": "SetCoLa: High-Level Constraints for Graph Layout"
+    },
+    {
+      "paperId": "29c5790051c0c8c36b7b7b34ac0af766604b870a",
+      "title": "Crowdsourcing Technology to Support Academic Research"
+    },
+    {
+      "paperId": "e82dbe570c85e0fdc468ee78769c3657678fcb4e",
+      "title": "Network science of biological systems at different scales: A review."
+    },
+    {
+      "paperId": "52798f18fa5866f31f2507030a3c3aa7963dc7dd",
+      "title": "Using Multi-Layered Networks to Disclose Books in the Republic of Letters"
+    },
+    {
+      "paperId": "a13aa2e455855fec407481482132f52d3af04305",
+      "title": "eDOI: Exploratory Degree of Interest Exploration of Multilayer Networks Based on User Interest"
+    },
+    {
+      "paperId": "08c6b22268154577c15f6e05f4a2742f180a0a07",
+      "title": "Crowdsourcing for Information Visualization: Promises and Pitfalls"
+    },
+    {
+      "paperId": "5808d9b4b763fb7e129aa58b69d7c8a4fcaa45e7",
+      "title": "Visualizing Group Structures in Graphs: A Survey"
+    },
+    {
+      "paperId": "303323e15491ee7155fb1aef5c57afb59429d6fb",
+      "title": "HybridVis: An adaptive hybrid-scale visualization of multivariate graphs"
+    },
+    {
+      "paperId": "79f71531cc192814d1d34bb375147239a3f0faa7",
+      "title": "Complexity in future cities: the rise of networked infrastructure"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "bf442c5f3fc5391c31fb84848666ba00a12c85da",
+      "title": "Multilayer modeling and analysis of human brain networks."
+    },
+    {
+      "paperId": "c386fe1113dfe47fe896eb034f0b94fc46d8ed7b",
+      "title": "Multilayer dynamics of complex spatial networks: The case of global maritime flows (1977\u20132008)"
+    },
+    {
+      "paperId": "fe24244673d03ea03dbb7851d534b3644d577187",
+      "title": "The use of social network analysis to examine the transmission of Salmonella spp. within a vertically integrated broiler enterprise."
+    },
+    {
+      "paperId": "d9a584cac9f9958271edc6deba23f11a21804fb0",
+      "title": "Multilayer modeling and analysis of human brain networks"
+    },
+    {
+      "paperId": "e0d8aba53b7929bb400d997a69450bdd20b625a7",
+      "title": "A taxonomy of visualization tasks for the analysis of biological pathway data"
+    },
+    {
+      "paperId": "de8548a533828566cb135f25a76825b147b9ea38",
+      "title": "An extended hierarchical graph-based building model for design and engineering problems"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "dabc075e5ae73bb416e53f974bc64ef58ed7072e",
+      "title": "NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks"
+    },
+    {
+      "paperId": "4c6df82be66b6edab541273babe28a332bf49a1d",
+      "title": "Recent advances on failure and recovery in networks of networks"
+    },
+    {
+      "paperId": "c9b10fbcc4f6a0a201a70911b987b622c0196554",
+      "title": "The Multilayer Connectome of Caenorhabditis elegans"
+    },
+    {
+      "paperId": "36ef6ec2c40d61cab08500b1f129a4c77808bc2a",
+      "title": "Multilayer Social Networks"
+    },
+    {
+      "paperId": "c88ae7db3c64bdf09d74d3bfe63768649bcf4943",
+      "title": "Visualizing Multilayer Networks"
+    },
+    {
+      "paperId": "d25ae516ebc2607706a314021c777abc6c7b0b65",
+      "title": "Social-Circles Exploration through Interactive Multi-Layered Chord Layout"
+    },
+    {
+      "paperId": "06a3d25aade7cf79e3349270f316a568752ca1e2",
+      "title": "Multilayer graph edge bundling"
+    },
+    {
+      "paperId": "18e0ed4960722d01b30b622da7da5b9aea382f91",
+      "title": "Reorder.js: A JavaScript Library to Reorder Tables and Networks"
+    },
+    {
+      "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+      "title": "A Task Taxonomy for Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "e20728df020b6519294935c6b97e527fecb8979c",
+      "title": "The structure of online social networks mirrors those in the offline world"
+    },
+    {
+      "paperId": "025f5448c0e4bba3097ddaa521ab66437f6ced66",
+      "title": "Interdisciplinarity: How to catalyse collaboration"
+    },
+    {
+      "paperId": "497651753cf300c046396cfda6bc8278e6257d38",
+      "title": "Detangler: Visual Analytics for Multiplex Networks"
+    },
+    {
+      "paperId": "4288fa63e127dcb44dae2d953c6a3a8b4d89c4bc",
+      "title": "Refinery: Visual Exploration of Large, Heterogeneous Networks through Associative Browsing"
+    },
+    {
+      "paperId": "2566b2bca41c63e853593e85ff58453ad6833390",
+      "title": "NetworkAnalyst for statistical, visual and network-based meta-analysis of gene expression data"
+    },
+    {
+      "paperId": "a37be9023f8b0eca7fa566ebcdb00479d6b81293",
+      "title": "Networks within networks: using multiple link types to examine network structure and identify key actors in a drug trafficking operation"
+    },
+    {
+      "paperId": "a67b221e7ddb38cf7ae89515aebf96c23cef4e41",
+      "title": "g-Miner: Interactive Visual Group Mining on Multivariate Graphs"
+    },
+    {
+      "paperId": "10c21274f3822dd245bd018c8601a635048f9db0",
+      "title": "The Effects of Representation and Juxtaposition on Graphical Perception of Matrix Visualization"
+    },
+    {
+      "paperId": "360007dd9f38635d209cbf72ca6e9ae48a378dde",
+      "title": "The Multiplex Network of EU Lobby Organizations"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "1eb77a6913740d6e8bf60d522225a44449ed652c",
+      "title": "Visualizing the Evolution of Communities in Dynamic Graphs"
+    },
+    {
+      "paperId": "93afbcb2451e705690ba2cee60c372965c4651e3",
+      "title": "Towards effective visual analytics on multiplex and multilayer networks"
+    },
+    {
+      "paperId": "8c721e9abfe039cade78093e2c13d9343eedde15",
+      "title": "The multilayer temporal network of public transport in Great Britain"
+    },
+    {
+      "paperId": "4008ee1f6632c8bb4bad74a1a57a1cd3530588c8",
+      "title": "Avoiding catastrophic failure in correlated networks of networks"
+    },
+    {
+      "paperId": "6c9cc03d18c129e2e1961243201212c38eafafb4",
+      "title": "Visual Analysis of Trajectories in Multi\u2010Dimensional State Spaces"
+    },
+    {
+      "paperId": "4a8ac5b3046ae990c8f6ab4244476a3ab25d8211",
+      "title": "Epidemic processes in complex networks"
+    },
+    {
+      "paperId": "27a0d12b36e44e2e28785607a4d9f37101e022a6",
+      "title": "On MultiAspect graphs"
+    },
+    {
+      "paperId": "90fa61aca8822ee7124bcb95f7e7e2ca9e30abc8",
+      "title": "The structure and dynamics of multilayer networks"
+    },
+    {
+      "paperId": "499d11a3929db6d5b9aa1324c40bd6970d0c39e8",
+      "title": "Multilayer Analysis and Visualization of Networks"
+    },
+    {
+      "paperId": "d830f19fc5bd85f37399df3a3ee13b467321f6d6",
+      "title": "Visualization techniques for categorical analysis of social networks with multiple edge sets"
+    },
+    {
+      "paperId": "a113463ec798363c90bd04975f22c03f4d654e69",
+      "title": "Tasks for Multivariate Network Analysis"
+    },
+    {
+      "paperId": "cf0ee9700e72602f6f4cfa8438ed6308774cafad",
+      "title": "Hierarchical Focus+Context Heterogeneous Network Visualization"
+    },
+    {
+      "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+      "title": "A Task Taxonomy for Network Evolution Analysis"
+    },
+    {
+      "paperId": "42ba78d94eddf8a5b4abef0cc864c6c55c63ff89",
+      "title": "Visual Analytics for Multimodal Social Network Analysis: A Design Study with Social Scientists"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "b52ba00f519bea027817749346a608b41c36dcbc",
+      "title": "Radial Sets: Interactive Visual Analysis of Large Overlapping Sets"
+    },
+    {
+      "paperId": "ca1ebc60e916c15b9eec3cad237033089c2d48c5",
+      "title": "Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System"
+    },
+    {
+      "paperId": "f5bdb05e22c8a09b3b3d201b76551689195e6788",
+      "title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets"
+    },
+    {
+      "paperId": "fb6d32c9934ef88a02056cc31e472d026028e7b3",
+      "title": "Multilayer networks"
+    },
+    {
+      "paperId": "2d6a5a305c6743f3cf792431d9300c3971b149a9",
+      "title": "Emergence of overlap in ensembles of spatial multiplexes and statistical mechanics of spatial interacting networks ensembles"
+    },
+    {
+      "paperId": "eb76c0bb76cefd1ec09a6fd4a1c3ddf635a5b289",
+      "title": "GraphCharter: Combining browsing with query to explore large semantic graphs"
+    },
+    {
+      "paperId": "ec4f9d739402c135e171e58bda2ccf5b6364f093",
+      "title": "Structural measures for multiplex networks."
+    },
+    {
+      "paperId": "bfda15d48e2f3f8e1e61be782b76ad2fc54ea7a6",
+      "title": "Visualization of Frequent Itemsets with Nested Circular Layout and Bundling Algorithm"
+    },
+    {
+      "paperId": "116ce948ac67b95722ce4b00e59102a1f8e4b875",
+      "title": "3Omics: a web-based systems biology tool for analysis, integration and visualization of human transcriptomic, proteomic and metabolomic data"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "2c2ff76b98100fc6d6cd33c566c29fe730cc1cc3",
+      "title": "Emergence of network features from multiplexity"
+    },
+    {
+      "paperId": "37b148154e50a5548a833bc21337da2d67099df7",
+      "title": "Visualizing distributed memory computations with hive plots"
+    },
+    {
+      "paperId": "73d4ad4590806decfd4329959aad974ce44468f7",
+      "title": "Epidemics spreading in interconnected complex networks"
+    },
+    {
+      "paperId": "391eeb0c5549c7519c95c02ecac5f5da9d2b5e2e",
+      "title": "Hive plots - rational approach to visualizing networks"
+    },
+    {
+      "paperId": "3242a7809f0d76c07c25ce522e08886edf325bc1",
+      "title": "NetAligner\u2014a network alignment server to compare complexes, pathways and whole interactomes"
+    },
+    {
+      "paperId": "cf9b4048f1945e3b9703bc128284f6e6b30de70d",
+      "title": "Interactive graph matching and visual comparison of graphs and clustered graphs"
+    },
+    {
+      "paperId": "ea5f228caaf7283edd51a0b85ed961358d766d98",
+      "title": "Termite: visualization techniques for assessing textual topic models"
+    },
+    {
+      "paperId": "c025ac6a6bd42f84e72667202a0d0e257228c8f7",
+      "title": "GraphTrail: analyzing large multivariate, heterogeneous networks while supporting exploration history"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "80a09d413f9e7826195b1896df286e7cb002cb60",
+      "title": "Epidemic spreading on interconnected networks"
+    },
+    {
+      "paperId": "ef769df3b6706d129c7f23720751372cdb4823ee",
+      "title": "TreeMatrix: A Hybrid Visualization of Compound Graphs"
+    },
+    {
+      "paperId": "0b7a6c13d935aa79cd12b174725680be1a25883b",
+      "title": "Networks formed from interdependent networks"
+    },
+    {
+      "paperId": "64eb190dd965169edfdfab4946d4a02bfa0dd887",
+      "title": "Orion: A system for modeling, transformation and visualization of multidimensional heterogeneous networks"
+    },
+    {
+      "paperId": "6942b30a6c6d5596fb3e6a996db43a2b5665e8b1",
+      "title": "Face-to-Face Contacts at a Conference: Dynamics of Communities and Roles"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "bce0806541238ec44206e816db4bd4ddd0b2978e",
+      "title": "Visual Community Detection: An Evaluation of 2D, 3D Perspective and 3D Stereoscopic Displays"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "0250ba7585cdd11a1ee6be9fbb62a6dc79c5b8e0",
+      "title": "The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "e2539b92f32e6cee4536ae3d378ae09904c70d5a",
+      "title": "GraphDice: A System for Exploring Multivariate Social Networks"
+    },
+    {
+      "paperId": "dd04479ee37c1f406fbc8331f3652c75f5965034",
+      "title": "MetExplore: a web server to link metabolomic experiments and genome-scale metabolic networks"
+    },
+    {
+      "paperId": "5e2bc315502b535471b8edb2a27dc4398413f1a9",
+      "title": "ManyNets: an interface for multiple network analysis and visualization"
+    },
+    {
+      "paperId": "bbe777e78a94470e62c0875b1bbd5ccc02109cdd",
+      "title": "Seriation and matrix reordering methods: An historical overview"
+    },
+    {
+      "paperId": "f34cc17937e7623f8e09ef4e3805ce017223d2f7",
+      "title": "Visualization of omics data for systems biology"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "0a6b6a5ba7ca77252f02dcf960456770abf83e6e",
+      "title": "The Systems Biology Graphical Notation"
+    },
+    {
+      "paperId": "103603177e7c072184aa1f1ce639b76ff5be8957",
+      "title": "Visual Analysis of Overlapping Biological Networks"
+    },
+    {
+      "paperId": "3f5764890ab70a8be3d1cc9f3b7d52013176a337",
+      "title": "Visual Graph Comparison"
+    },
+    {
+      "paperId": "84e27641ed70c5f62d215c6f7e474a238bdca0ee",
+      "title": "Catastrophic cascade of failures in interdependent networks"
+    },
+    {
+      "paperId": "c0ed51ac44a01990c68fdd009b09fb6e3f231ee9",
+      "title": "The History of the Cluster Heat Map"
+    },
+    {
+      "paperId": "02d5d78498a68ef102296546e7791fcaeceac4f1",
+      "title": "FacetLens: exposing trends and relationships to support sensemaking within faceted datasets"
+    },
+    {
+      "paperId": "d6686550ecb5062f8e4083cf5822962cdd98f7c7",
+      "title": "Multimodal Networks: Structure and Operations"
+    },
+    {
+      "paperId": "8d41d38b9728a58a78f9926b3bd77dea6383f7a5",
+      "title": "Arena3D: visualization of biological networks in 3D"
+    },
+    {
+      "paperId": "484884241378aaa66e13dc15a39da89bb7839c50",
+      "title": "A visual analytics approach for understanding biclustering results from microarray data"
+    },
+    {
+      "paperId": "6aa82b272c8dc533b6f45c43db64f8a324d32fea",
+      "title": "Visualizing graphs in three dimensions"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "bf91edbc13638182dae89e1faa2257f9eb08dae8",
+      "title": "VisLink: Revealing Relationships Amongst Visualizations"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "342fe6a6338e73fd4d34c4f37f41e3bbad274dd2",
+      "title": "Networks"
+    },
+    {
+      "paperId": "db80ec17893d4e5c324b4024b6a25d4c3cc9f124",
+      "title": "Milieu and function: Toward a multilayer framework for understanding social networks"
+    },
+    {
+      "paperId": "13b311079bb8caae26ddb4521b49f9344897fbaf",
+      "title": "FacetMap: A Scalable Search and Browse Visualization"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "e080fea0418b40014bd99c538d0c88e0c2b4c1e3",
+      "title": "Just how dense are dense graphs in the real world?: a methodological note"
+    },
+    {
+      "paperId": "3242e9081a7870e292630d83520474082a099b14",
+      "title": "Visual exploration of multivariate graphs"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "82038c93e6e803fad5804f2c82a8e74a657c4c31",
+      "title": "On the Readability of Graphs Using Node-Link and Matrix-Based Representations: A Controlled Experiment and Statistical Analysis"
+    },
+    {
+      "paperId": "0dede182cd2ab351ac64ee9130398844a5ca6943",
+      "title": "Peeking in solver strategies using explanations visualization of dynamic graphs for constraint programming"
+    },
+    {
+      "paperId": "7e027afeb014d3740d2b9fbfbc1f78ce3b16597c",
+      "title": "Dynamic Network Visualization1"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "38024c43034e680398fc27d2dc98f63ab028f9ad",
+      "title": "Using multilevel call matrices in large software projects"
+    },
+    {
+      "paperId": "bbd8649b362d319a9ab89f348229767aa64d1939",
+      "title": "Science and technology innovation"
+    },
+    {
+      "paperId": "92723cc2a105568de7c0f2906dc14f55aa8270bd",
+      "title": "Network analysis of 2-mode data"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "ad5f4e39915f0e853110bc57bc9ad5300b1371e5",
+      "title": "Relation contents in multiple networks"
+    },
+    {
+      "paperId": "336facf5fe25fa5b92b4f989d1e409c2b4e751fd",
+      "title": "Multiplexity in Adult Friendships"
+    },
+    {
+      "paperId": "faa975eaeb6a45031f77d6d7344ac905f74fb962",
+      "title": "The mathematical theory of communication"
+    },
+    {
+      "paperId": "5ce950739788806c7112bed425e7ce949c1df9fa",
+      "title": "Graphiti: Interactive Specification of Attribute-Based Edges for Network Modeling and Visualization"
+    },
+    {
+      "paperId": "18681b8969ab5730b2a2db1a7d92c8fd63cc4010",
+      "title": "Guidance for Multi-Type Entity Graphs from Text Collections"
+    },
+    {
+      "paperId": "d3b2d56e2b4bab50c478589259b3efe087da8a45",
+      "title": "A user-centred approach to information visualisation in nano-health"
+    },
+    {
+      "paperId": "df372d4aee589f155dbdf11d197a1ce3b93a0306",
+      "title": "Temporal Multi-layer Network Construction from Major News Events"
+    },
+    {
+      "paperId": "6c35f9c03b5dda283185309efea0a04343a92345",
+      "title": "Towards Visual Analytics of Multilayer Graphs for Digital Cultural Heritage"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "d8d1ba403d46f3342ad52faf02ccda18a47b6c23",
+      "title": "Chaos , Solitons & Fractals Nonlinear Science , and Nonequilibrium and Complex Phenomena"
+    },
+    {
+      "paperId": null,
+      "title": "Anthony Tang, and Robert Woodbury. Personal visualization and personal visual analytics. Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "30d86cefd24993d7fb297cd0a9b4c9ff0bcebfb9",
+      "title": "Entanglement in Multiplex Networks: Understanding Group Cohesion in Homophily Networks"
+    },
+    {
+      "paperId": "b7192cb5217fe2d276a023a15093cc721fdd8e71",
+      "title": "Network Visualization for Integrative Bioinformatics"
+    },
+    {
+      "paperId": "3e8d16cf3851946b44e7c5720c0b272bdc212afe",
+      "title": "Multivariate Networks in the Life Sciences"
+    },
+    {
+      "paperId": "7adb3b649efc65960b0db483711b1e3038963288",
+      "title": "Heterogeneous Networks on Multiple Levels"
+    },
+    {
+      "paperId": "5443f890165271ed2777184915db23ae454ea0be",
+      "title": "Introduction to Multivariate Network Visualization"
+    },
+    {
+      "paperId": "d61435d38e02bdc35fdae7afd60f99eefd472306",
+      "title": "The Design of Everyday Things: Revised and Expanded Edition"
+    },
+    {
+      "paperId": "ad18a11136d7ab126bfc92ff2ab4675ac29535b7",
+      "title": "Experimental Human-Computer Interaction: Data collection and qualitative analysis"
+    },
+    {
+      "paperId": "d4aad21797f84c5b9043c3525dfd321999a0484e",
+      "title": "Basic notions for the analysis of large two-mode networks"
+    },
+    {
+      "paperId": "a15be0b6cd816562517cbcb1f544222c95aeb80b",
+      "title": "Visual Analysis of Large Heterogeneous Social Networks by Semantic and Structural Abstraction"
+    },
+    {
+      "paperId": "6d12a1d23b21a9b170118a56386552bc5d4727de",
+      "title": "A Mathematical Theory of Communication"
+    },
+    {
+      "paperId": "130fdd165e1f20291497f72208df4dece04685f0",
+      "title": "GENERALIZED ASSOCIATION PLOTS: INFORMATION VISUALIZATION VIA ITERATIVELY GENERATED CORRELATION MATRICES"
+    },
+    {
+      "paperId": "32051ba2e853459b92d8bb25294dd2e10727e1e2",
+      "title": "Multiplexity, generalized exchange and cooperation in organizations: a case study"
+    },
+    {
+      "paperId": "078cf9debad6be7635e36523acf346e79aa553ad",
+      "title": "Buidling a Network Theory of Social Capital"
+    },
+    {
+      "paperId": "d615e57982cd1d59cdfdebf89ad6f451a3e11009",
+      "title": "Who Shall Survive?"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "5b971bc45f23f4f22101e141130fccb04a9bdd47",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Visual Inspection of Multivariate Graphs"
+    },
+    {
+      "paperId": "1fe958ab5909b31022795ed7ba37e491cb229996",
+      "title": "Journal of Graph Algorithms and Applications Visual Analysis of One-to-many Matched Graphs"
+    },
+    {
+      "paperId": "00d0a7c656e7d73123d040c4a7c0fc246412690f",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Topolayout: Multi-level Graph Layout by Topological Features"
+    },
+    {
+      "paperId": null,
+      "title": "Hybridvis: An adaptive hybrid-scale 30"
+    }
+  ]
+}

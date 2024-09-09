@@ -1,0 +1,838 @@
+{
+  "paperId": "e21447d542b08f26aa4c7e0954b9a55b3a54e97a",
+  "externalIds": {
+    "MAG": "3035461111",
+    "DBLP": "journals/cgf/XuOWSCW20",
+    "DOI": "10.1111/cgf.14035",
+    "CorpusId": 221582460
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/e21447d542b08f26aa4c7e0954b9a55b3a54e97a",
+  "title": "Survey on the Analysis of User Interactions and Visualization Provenance",
+  "abstract": "There is fast\u2010growing literature on provenance\u2010related research, covering aspects such as its theoretical framework, use cases, and techniques for capturing, visualizing, and analyzing provenance data. As a result, there is an increasing need to identify and taxonomize the existing scholarship. Such an organization of the research landscape will provide a complete picture of the current state of inquiry and identify knowledge gaps or possible avenues for further investigation. In this STAR, we aim to produce a comprehensive survey of work in the data visualization and visual analytics field that focus on the analysis of user interaction and provenance data. We structure our survey around three primary questions: (1) WHY analyze provenance data, (2) WHAT provenance data to encode and how to encode it, and (3) HOW to analyze provenance data. A concluding discussion provides evidence\u2010based guidelines and highlights concrete opportunities for future development in this emerging area. The survey and papers discussed can be explored online interactively at https://provenance-survey.caleydo.org.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 192,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-03-23",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Xu2020SurveyOT,\n author = {Kai Xu and Alvitta Ottley and C. Walchshofer and M. Streit and Remco Chang and John E. Wenskovitch},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Survey on the Analysis of User Interactions and Visualization Provenance},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144756515",
+      "name": "Kai Xu"
+    },
+    {
+      "authorId": "2149059",
+      "name": "Alvitta Ottley"
+    },
+    {
+      "authorId": "146447496",
+      "name": "C. Walchshofer"
+    },
+    {
+      "authorId": "1720261",
+      "name": "M. Streit"
+    },
+    {
+      "authorId": "2300189166",
+      "name": "Remco Chang"
+    },
+    {
+      "authorId": "7662803",
+      "name": "John E. Wenskovitch"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5f6370dc7586a74bf89cf0fe2e5e79d771d36a59",
+      "title": "Moderate Aortic Stenosis in Patients With Heart Failure"
+    },
+    {
+      "paperId": "98640ae27089cb6ade2dff4c7024bb2878c29cc2",
+      "title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics"
+    },
+    {
+      "paperId": "8e3b3679cfa68dbbafdbcbb462030b95948842d4",
+      "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior"
+    },
+    {
+      "paperId": "d43acc230afa8f55e1274af26f8d39c842a2f33d",
+      "title": "A Provenance Task Abstraction Framework"
+    },
+    {
+      "paperId": "bf151b59fb45af4067162db590a25f1785c493e1",
+      "title": "Capturing and Visualizing Provenance From Data Wrangling"
+    },
+    {
+      "paperId": "2a0440d0fe73d984290081c2a13fb58b2cf269c7",
+      "title": "Provenance Analysis for Sensemaking"
+    },
+    {
+      "paperId": "3fdabf391a99dc389c0369199da0898e5f75ffef",
+      "title": "Analytic Provenance in Practice: The Role of Provenance in Real-World Visualization and Data Analysis Environments"
+    },
+    {
+      "paperId": "8c12863d2cefb0fd18b376a7b9d7e99fe6414c6b",
+      "title": "Is this Real?: Generating Synthetic Data that Looks Real"
+    },
+    {
+      "paperId": "d1d66be989e8f83732457229ea1ed2431a2d7cdb",
+      "title": "Understanding User Behaviour through Action Sequences: From the Usual to the Unusual"
+    },
+    {
+      "paperId": "9d11d18c91aef64538156df205b1668af2821a2d",
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System"
+    },
+    {
+      "paperId": "eaba5252589f009fd0ee1df5b545320eea303eb8",
+      "title": "LightGuider: Guiding Interactive Lighting Design using Suggestions, Provenance, and Quality Visualization"
+    },
+    {
+      "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+      "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+    },
+    {
+      "paperId": "ff5ff4c9e76447adc67252059e82a0ba83a6579b",
+      "title": "Follow The Clicks: Learning and Anticipating Mouse Interactions During Exploratory Data Analysis"
+    },
+    {
+      "paperId": "e64bcef159629e960a29aa6e89f3003aa9b953fa",
+      "title": "InsideInsights: Integrating Data\u2010Driven Reporting in Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "71a9b7aba8dc9e87f947a9dd40f79f4a8f6b9efc",
+      "title": "Segmentifier: Interactive Refinement of Clickstream Data"
+    },
+    {
+      "paperId": "85f1bb32bd611d83e289548a692f4734bf5d2241",
+      "title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective"
+    },
+    {
+      "paperId": "d2f18e0675d86e64fdc6e8beaa83c2b74f6a81b6",
+      "title": "Visualizing Uncertainty and Alternatives in Event Sequence Predictions"
+    },
+    {
+      "paperId": "88bc61bcff88d427bfc03f5748fb6410a89aa146",
+      "title": "Dynamic Network Plaid: A Tool for the Analysis of Dynamic Networks"
+    },
+    {
+      "paperId": "6e98155a85d64e28f41655c2b7468a690551ae28",
+      "title": "VizNet: Towards A Large-Scale Visualization Learning and Benchmarking Repository"
+    },
+    {
+      "paperId": "26c99aece8c16084ea4d97ec9eeb9494189fe2bc",
+      "title": "Provenance and Logging for Sense Making (Dagstuhl Seminar 18462)"
+    },
+    {
+      "paperId": "8b8bf95577aca3cec4d765cfe97c9cbd0b03329f",
+      "title": "Flux capacitors for JavaScript deloreans: approximate caching for physics-based data interaction"
+    },
+    {
+      "paperId": "052689b5c2488a99633608578cfcfd2d194d6090",
+      "title": "Avoiding drill-down fallacies with VisPilot: assisted exploration of data subsets"
+    },
+    {
+      "paperId": "341d4c58393b55ea7546f1674a5ec599a3a846a4",
+      "title": "Inferencing underspecified natural language utterances in visual analysis"
+    },
+    {
+      "paperId": "123e4bf487349ec248434d4758df7fda8e57af88",
+      "title": "Data Provenance: What next?"
+    },
+    {
+      "paperId": "27605790e5af4791d6b992d52ab21f22306375a9",
+      "title": "An Exploratory Study on Visual Exploration of Model Simulations by Multiple Types of Experts"
+    },
+    {
+      "paperId": "aec9d604a09d519d54132f1edd367393e5eff2f6",
+      "title": "Exploration Strategies for Discovery of Interactivity in Visualizations"
+    },
+    {
+      "paperId": "b01c3150b37c318dc03c7663bade80e0a40275ad",
+      "title": "Charticulator: Interactive Construction of Bespoke Chart Layouts"
+    },
+    {
+      "paperId": "4a04e4b38ea9b690e0784311368c7fdd910eab24",
+      "title": "KnowledgePearls: Provenance-Based Visualization Retrieval"
+    },
+    {
+      "paperId": "064b6f6a7b8ce00ff0d2a631d6ec9d3022bf3646",
+      "title": "Design Exposition with Literate Visualization"
+    },
+    {
+      "paperId": "415fb9c62f92722b3e93059a34246a90982ae43e",
+      "title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "161817cfe29a6b418c506034b619ffb57d18b51c",
+      "title": "ModelSpace: Visualizing the Trails of Data Models in Visual Analytics Systems"
+    },
+    {
+      "paperId": "6a116fbf23a698e5547079a80ee1497b18b5a04c",
+      "title": "VizML: A Machine Learning Approach to Visualization Recommendation"
+    },
+    {
+      "paperId": "5baab6c570f55ec1da9e07a3a28046fa06f9c172",
+      "title": "Reproducibility in Scientific Computing"
+    },
+    {
+      "paperId": "51afd450c688c082883aba44c475a6de3238eeea",
+      "title": "ChangeCatcher: Increasing Inter\u2010author Awareness for Visualization Development"
+    },
+    {
+      "paperId": "5578fb8a4ef309eca31fd7a1d86c3d402e811310",
+      "title": "Chart Constellations: Effective Chart Summarization for Collaborative and Multi\u2010User Analyses"
+    },
+    {
+      "paperId": "d37dd9ecc87dabd97f2b72149bd2d8c073a8ed0f",
+      "title": "Fast and Accurate CNN\u2010based Brushing in Scatterplots"
+    },
+    {
+      "paperId": "a2ec72e5ffb4ad6843ba0f68f7c402fc48e09112",
+      "title": "Provenance Analytics for Workflow-Based Computational Experiments"
+    },
+    {
+      "paperId": "861d6e1a4a6a53ab458e2b2e721b541bfb4711ef",
+      "title": "Interactive Storytelling for Movie Recommendation through Latent Semantic Analysis"
+    },
+    {
+      "paperId": "f89a0bbbe271727454eed8806837736a85354fab",
+      "title": "Interactive Document Clustering Revisited: A Visual Analytics Approach"
+    },
+    {
+      "paperId": "ca418219d8a9260a43d35fb0317cacfed5b0ec48",
+      "title": "A survey on provenance: What for? What form? What from?"
+    },
+    {
+      "paperId": "5e97478495f835393003eee76c141692063696a7",
+      "title": "Adaptive Contextualization Methods for Combating Selection Bias during High-Dimensional Visualization"
+    },
+    {
+      "paperId": "c0092a11d299ba8a005b58d7a4150a61abf982c2",
+      "title": "Track Xplorer: A System for Visual Analysis of Sensor\u2010based Motor Activity Predictions"
+    },
+    {
+      "paperId": "b6284b2883074fed354448f0f8ebac4398fa3d3a",
+      "title": "The Anchoring Effect in Decision-Making with Visual Analytics"
+    },
+    {
+      "paperId": "0fc748ab61c699c6a5649d472a0b1aa6d8c0a36f",
+      "title": "Warning, Bias May Occur: A Proposed Approach to Detecting Cognitive Bias in Interactive Visual Analytics"
+    },
+    {
+      "paperId": "3342f13fa0809c0429866f6126cb5bc3281b91ae",
+      "title": "Learning Visual Importance for Graphic Designs and Data Visualizations"
+    },
+    {
+      "paperId": "7f3deda71e741e5145b4623a8764fd8efccd8180",
+      "title": "CoreFlow: Extracting and Visualizing Branching Patterns from Event Sequences"
+    },
+    {
+      "paperId": "b8cfbee5896bad565766c084ab4d6bf48574cccc",
+      "title": "A 3D Item Space Visualization for Presenting and Manipulating User Preferences in Collaborative Filtering"
+    },
+    {
+      "paperId": "c6a3eafa85ca6648f1b218763a624cba21bc1d50",
+      "title": "Pupillometry and Head Distance to the Screen to Predict Skill Acquisition During Information Visualization Tasks"
+    },
+    {
+      "paperId": "dd25371001cc7512a07efd31fb9d04e2d4c267c1",
+      "title": "Using Machine Learning to Infer Reasoning Provenance From User Interaction Log Data"
+    },
+    {
+      "paperId": "41f63cf53d024c562f2f17bac7e269fcd42de0df",
+      "title": "VizRec: Recommending Personalized Visualizations"
+    },
+    {
+      "paperId": "da41f46bb61bc2087503555f71c72595a7cd3f7e",
+      "title": "Interactive Elicitation of Knowledge on Feature Relevance Improves Predictions in Small Data Sets"
+    },
+    {
+      "paperId": "d5480773999268984fcc0d23e9b1cab20fea3d71",
+      "title": "Eviza: A Natural Language Interface for Visual Analysis"
+    },
+    {
+      "paperId": "0091e35dcfa5341348f36ae8352f69aea2a403da",
+      "title": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "paperId": "7880201d144665d37dfc9e53b62dc6f384138d1c",
+      "title": "Shape grammar extraction for efficient query-by-sketch pattern matching in long time series"
+    },
+    {
+      "paperId": "c07134d8266bd6d97bf29dc54008e9ba48fc2c8b",
+      "title": "The semantics of sketch: Flexibility in visual query systems for time series data"
+    },
+    {
+      "paperId": "fc53fa77027ffe2b368738b82a5704bcef00ea89",
+      "title": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "paperId": "f53e9e29f978bd09fe3d273c4812a0927d49fe98",
+      "title": "Dynamic Prefetching of Data Tiles for Interactive Visualization"
+    },
+    {
+      "paperId": "4ddab77447d9e8dcbcf9e83b94c490ee143a7bb4",
+      "title": "GEMSe: Visualization\u2010Guided Exploration of Multi\u2010channel Segmentation Algorithms"
+    },
+    {
+      "paperId": "8a6cd175d77de2efc10840d2731a1071a1ccb952",
+      "title": "From Visual Exploration to Storytelling and Back Again"
+    },
+    {
+      "paperId": "c63b98fbbbd5cd42b9e2ebe14a73d4bf608b2b22",
+      "title": "Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System"
+    },
+    {
+      "paperId": "c2d92ed18536b6224410878355d4a6e5ea27a189",
+      "title": "AVOCADO: Visualization of Workflow\u2013Derived Data Provenance for Reproducible Biomedical Research"
+    },
+    {
+      "paperId": "d63bdea1c70d1f946fd0ceefec875169fa397463",
+      "title": "Adaptive Contextualization: Combating Bias During High-Dimensional Visualization and Data Selection"
+    },
+    {
+      "paperId": "e5d93725ccd7d7c55ad614e0099a483cfcf3dea4",
+      "title": "Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "a5d560ef928d0b9f6df2710c4ce66240ed6802b7",
+      "title": "Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization"
+    },
+    {
+      "paperId": "e9288d1c1c0362b2b0b73d46e78faeb1f2512223",
+      "title": "SensePath: Understanding the Sensemaking Process Through Analytic Provenance"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+      "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+    },
+    {
+      "paperId": "7e68748b06796d789a4d38345cec38c1fc610089",
+      "title": "Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration"
+    },
+    {
+      "paperId": "b485cb6dcc45604dc1defec38943f2ce7ec77833",
+      "title": "VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications"
+    },
+    {
+      "paperId": "bb55809bfee34e6b2ca26186383df3971a4a867b",
+      "title": "InterAxis: Steering Scatterplot Axes via Observation-Level Interaction"
+    },
+    {
+      "paperId": "8c2a3e3cb86c2179c67a1c141ada1969d21455f6",
+      "title": "Mixed-initiative visual analytics using task-driven recommendations"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "36a607d93637475a3675ee55ee7a1c2eb6d4376a",
+      "title": "DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization"
+    },
+    {
+      "paperId": "d0ef47d71b025c344e3e99ebd0d0d9ea2a6c907b",
+      "title": "Collaborative visual analysis with RCloud"
+    },
+    {
+      "paperId": "8ddad93a09b175ba5adbae4d9be58f0796548520",
+      "title": "Semantic Interaction: Coupling Cognition and Computation through Usable Interactive Analytics"
+    },
+    {
+      "paperId": "f61464a7a24a61b57e2c9378600b286c03550345",
+      "title": "Rationale Visualization for Safety and Security"
+    },
+    {
+      "paperId": "7f750c8345a09edaf377bc0ecd667e00320debbd",
+      "title": "Perfopticon: Visual Query Analysis for Distributed Databases"
+    },
+    {
+      "paperId": "0c9d9fe78738af1ac857fbe20dbb3f31e1124161",
+      "title": "Analytic Provenance for Sensemaking: A Research Agenda"
+    },
+    {
+      "paperId": "54553b25297220a89536c1da9f6e92ead79aed69",
+      "title": "Characterizing Visualization Insights from Quantified Selfers' Personal Data Presentations"
+    },
+    {
+      "paperId": "8aeec71805bc6a909dfd770e39b133532c5e31c5",
+      "title": "Evaluating How Level of Detail of Visual History Affects Process Memory"
+    },
+    {
+      "paperId": "046383d5413a2767623e2cb38f8575f25d69a4c7",
+      "title": "Personality as a Predictor of User Strategy: How Locus of Control Affects Search Strategies on Tree Visualizations"
+    },
+    {
+      "paperId": "65cbdf4f9a8fea7772f65098f993a2a5ea318683",
+      "title": "(s|qu)eries: Visual Regular Expressions for Querying and Exploring Event Sequences"
+    },
+    {
+      "paperId": "7f9408b95ea7e3bc700ef87a3d622adf25c93524",
+      "title": "DimpVis: Exploring Time-varying Information Visualizations by Direct Manipulation"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "db4d3498dde5f88fc3e5e37159712197d81ee05e",
+      "title": "Supporting Communication and Coordination in Collaborative Sensemaking"
+    },
+    {
+      "paperId": "099bfe41b7540b414e658335881d1aa5d7634ade",
+      "title": "Programming by manipulation for layout"
+    },
+    {
+      "paperId": "81fb38104594d0a90fb0effdfd5b58fc16efaebf",
+      "title": "Multi-model semantic interaction for text analytics"
+    },
+    {
+      "paperId": "b5d65e8790afa0fc9f678b9071a26988ea7f1dab",
+      "title": "A visual reasoning approach for data-driven transport assessment on urban roads"
+    },
+    {
+      "paperId": "9414ffdebbd3787e0ba612cf0cfb69dfa32544df",
+      "title": "Semantic Interaction for Visual Analytics: Toward Coupling Cognition and Computation"
+    },
+    {
+      "paperId": "3793583d345fb7348033d8250c96c7743f4445ef",
+      "title": "A survey of image classification methods and techniques"
+    },
+    {
+      "paperId": "d2dda8e7f6221bb1db1139aa7715d86c3a97b8f1",
+      "title": "Inferring Visualization Task Properties, User Performance, and User Cognitive Abilities from Eye Gaze Data"
+    },
+    {
+      "paperId": "dae2c3968fa06688cd99b2e024416dfcd50a36f7",
+      "title": "Lyra: An Interactive Visualization Design Environment"
+    },
+    {
+      "paperId": "a6e02050f33f7e55ece7a5bc759136dc206621f1",
+      "title": "Employing a Parametric Model for Analytic Provenance"
+    },
+    {
+      "paperId": "e587a0f0a8338c81d9915e7e9b7eff5976348f69",
+      "title": "Towards facilitating user skill acquisition: identifying untrained visualization users through eye tracking"
+    },
+    {
+      "paperId": "f3aa07fd19627898ab3001bfbffd76537b3c6702",
+      "title": "Short Text Classification: A Survey"
+    },
+    {
+      "paperId": "ca1ebc60e916c15b9eec3cad237033089c2d48c5",
+      "title": "Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "81396bd1b53dee0ff60db94a5f693ad6c1f24ff4",
+      "title": "Identifying Redundancy and Exposing Provenance in Crowdsourced Data Analysis"
+    },
+    {
+      "paperId": "b27f817abeb20cfb4b9f65b7b162d1baedcd55c3",
+      "title": "An Extensible Framework for Provenance in Human Terrain Visual Analytics"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "7a0e761fa0419822fe858c8a14341cf331c7eca5",
+      "title": "Using Interactive Visual Reasoning to Support Sense-Making: Implications for Design"
+    },
+    {
+      "paperId": "e296f327f86527ef0d2a9087b30a3678463342c5",
+      "title": "Semantics of Directly Manipulating Spatializations"
+    },
+    {
+      "paperId": "133a44f589349442ac7bda91fc3b52758d2c6358",
+      "title": "Evolutionary Visual Exploration: Evaluation With Expert Users"
+    },
+    {
+      "paperId": "2006dfef1bba6436b210ca93431eae1e635e246b",
+      "title": "Multiverse Data-Flow Control"
+    },
+    {
+      "paperId": "85f30251a98c8733b483e93175804ec0afea02f0",
+      "title": "Visual Analysis and Steering of Flooding Simulations"
+    },
+    {
+      "paperId": "40693be4f6f4a75dc6b85699c28c170284f74e6e",
+      "title": "Using fNIRS brain sensing to evaluate information visualization interfaces"
+    },
+    {
+      "paperId": "9ad8cf525513e2b6d0a988cf9517bdd481b81225",
+      "title": "User-adaptive information visualization: using eye gaze data to infer visualization tasks and user cognitive abilities"
+    },
+    {
+      "paperId": "0a8b92954f6e7db17c48c02abcd3ce7f45070490",
+      "title": "Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results"
+    },
+    {
+      "paperId": "9faae5d91c4371543ad671c1750b5344f56d88eb",
+      "title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering"
+    },
+    {
+      "paperId": "31f1a77f563a59e06618da383ec22e2d06b936ed",
+      "title": "The User Puzzle&#8212;Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "648f8961217dc7a68f4ba62284bb29557f64cded",
+      "title": "Visual cluster exploration of web clickstream data"
+    },
+    {
+      "paperId": "5ac7c4807aed8f054eab66a62367d681e8dcd0dd",
+      "title": "Interest Driven Navigation in Visualization"
+    },
+    {
+      "paperId": "304f7fd4af9cc82355eaf912a8f120f7429362de",
+      "title": "Spreadsheet data manipulation using examples"
+    },
+    {
+      "paperId": "5c89852b90a1e9e506d237749c745bf42ac0f737",
+      "title": "A Survey of Text Classification Algorithms"
+    },
+    {
+      "paperId": "9f75be1cbf199e49102e59ecade4ebd6310698e8",
+      "title": "Modeling task performance for a crowd of users from interaction histories"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "c025ac6a6bd42f84e72667202a0d0e257228c8f7",
+      "title": "GraphTrail: analyzing large multivariate, heterogeneous networks while supporting exploration history"
+    },
+    {
+      "paperId": "5db1e88529ad22f03d41b6d7ec7483d6bb17aa0d",
+      "title": "Interactive visualization for low literacy users: from lessons learnt to design"
+    },
+    {
+      "paperId": "0293b6baf280e20ca202d9edd01607ed52783f83",
+      "title": "Identifying Place Histories from Activity Traces with an Eye to Parameter Impact"
+    },
+    {
+      "paperId": "4763314a0f3ccd2e9b7e99870525d67e9307b55e",
+      "title": "Analysing Interactivity in Information Visualisation"
+    },
+    {
+      "paperId": "56a68aba63a7c3f2ebd8de243d64bb607d27b76c",
+      "title": "Observation-level interaction with statistical models for visual analytics"
+    },
+    {
+      "paperId": "5ca3ac7caa302b93f41ebbbaae9f0f46c3555484",
+      "title": "The Handbook for Teaching Leadership: Knowing, Doing, and Being"
+    },
+    {
+      "paperId": "91983545ee73ec4510917c7adfae066a74a6dde0",
+      "title": "A User Study of Visualization Effectiveness Using EEG and Cognitive Load"
+    },
+    {
+      "paperId": "31a816f4fef768f29772a003e534b1378611bfe6",
+      "title": "Wrangler: interactive visual specification of data transformation scripts"
+    },
+    {
+      "paperId": "9db0dc31063f67ca19a36c198ebb62902d56de42",
+      "title": "Analytic provenance: process+interaction+insight"
+    },
+    {
+      "paperId": "8d38732c4bec239bd5f5db4fa8a1d102bc0e03f8",
+      "title": "VizCept: Supporting synchronous collaboration for constructing visualizations in intelligence analysis"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "1c749321b318d9eabf07ceddd25e14bd3f1e7f08",
+      "title": "Applying planning to interactive storytelling: Narrative control using state constraints"
+    },
+    {
+      "paperId": "5082ba362b83821dd663de2d15eed205f46982b9",
+      "title": "Connecting the dots in visual analysis"
+    },
+    {
+      "paperId": "184565b0d20f3dc8b6f3f948a00c135c38074794",
+      "title": "Capturing and supporting the analysis process"
+    },
+    {
+      "paperId": "3107bd18418e9e69635c0c297767a67ac2c9ddba",
+      "title": "Iterative integration of visual insights during patent search and analysis"
+    },
+    {
+      "paperId": "8842b3b26b95710c72cb9a15424e3ca3ef930d6d",
+      "title": "Conjunctive Visual Forms"
+    },
+    {
+      "paperId": "46f4d10c48401161b4aeea524ac8251a826e2d91",
+      "title": "Visual Human+Machine Learning"
+    },
+    {
+      "paperId": "cecebaf692ef8729026b963d5db6e3fb6df08828",
+      "title": "Supporting Exploration Awareness in Information Visualization"
+    },
+    {
+      "paperId": "2b309cf37cc7aeb570963bba82f545112905d60f",
+      "title": "Recovering Reasoning Processes from User Interactions"
+    },
+    {
+      "paperId": "591eaf6a53f97161887d0422a04d5cea7c241569",
+      "title": "To Score or Not to Score? Tripling Insights for Participatory Design"
+    },
+    {
+      "paperId": "7f50de335e3716e922d3fdbd839fe7d3deb38da9",
+      "title": "Provenance in Databases: Why, How, and Where"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "17f4e1c937c91f8993d5227205ad136813a0f515",
+      "title": "Model-driven Visual Analytics"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "6561b6a55114cc1da9f0f09d0396bb6b508a6fe9",
+      "title": "Provenance for Computational Tasks: A Survey"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "43ddeec46d8447ef48667f07ef3ea51a25318398",
+      "title": "Provenance for Visualizations: Reproducibility and Beyond"
+    },
+    {
+      "paperId": "5f07f1301d6515464b35c0625ef3e4f05b240377",
+      "title": "A survey of image classification methods and techniques for improving classification performance"
+    },
+    {
+      "paperId": "1d1635b0b89c25af54bddad5e02075074f36eca2",
+      "title": "Enhancing Visual Analysis of Network Traffic Using a Knowledge Representation"
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "2809d4876e34b8c64fc1783fe6a0a278770505b0",
+      "title": "A survey of data provenance in e-science"
+    },
+    {
+      "paperId": "3a052feb019328487068c8efc4c5dced8eb51a87",
+      "title": "Lineage retrieval for scientific data processing: a survey"
+    },
+    {
+      "paperId": "1d1608441c3c1b6106bd022727011975aa9ff30f",
+      "title": "Sketching a graph to query a time-series database"
+    },
+    {
+      "paperId": "0c85ee49fc5d1c9bc949ea502beb06d1ddc2cd19",
+      "title": "The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system"
+    },
+    {
+      "paperId": "9241ea3d8cb85633d314ecb74b31567b8e73f6af",
+      "title": "Least squares quantization in PCM"
+    },
+    {
+      "paperId": "937c210d0ba77e948513804418ab4b0979e5285e",
+      "title": "The Curious Case of Combining Text and Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Merriam-Webster Dictionary , 12th ed. Merriam-Webster, Incorpo-rated"
+    },
+    {
+      "paperId": null,
+      "title": "12th ed"
+    },
+    {
+      "paperId": "bf6ff8f93a166f68ef72699540162bb51b99fa17",
+      "title": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs"
+    },
+    {
+      "paperId": "3cbcc4ace82b89c66dd14fc8f381202630a83ce2",
+      "title": "Predicting User\u2019s Con\ufb01dence During Visual Decision Making"
+    },
+    {
+      "paperId": "2f6561158cd2a78d14c5db38e39c58e77fd8a49c",
+      "title": "Provenance and Reproducibility"
+    },
+    {
+      "paperId": "69353143b97355c954f132d6c723002842cf2d37",
+      "title": "Podium: Ranking Data Using Mixed-Initiative Visual Analytics"
+    },
+    {
+      "paperId": "5ce950739788806c7112bed425e7ce949c1df9fa",
+      "title": "Graphiti: Interactive Specification of Attribute-Based Edges for Network Modeling and Visualization"
+    },
+    {
+      "paperId": "b2ada8bce8ee29c7cce0203c233f456650783057",
+      "title": "BASTet: Shareable and Reproducible Analysis and Visualization of Mass Spectrometry Imaging Data via OpenMSI"
+    },
+    {
+      "paperId": "ad7f346d1f764b699a7fb0c3e37ca32e43c5b914",
+      "title": "Applying Pragmatics Principles for Interaction with Visual Analytics"
+    },
+    {
+      "paperId": "b544e7f4c580fd30e66c2fae8e94c87912d35e27",
+      "title": "SOMFlow: Guided Exploratory Cluster Analysis with Self-Organizing Maps and Analytic Provenance"
+    },
+    {
+      "paperId": "bedf017d7e1356f0473820766d8a8a13682b486e",
+      "title": "Exploring Multivariate Event Sequences Using Rules, Aggregations, and Selections"
+    },
+    {
+      "paperId": null,
+      "title": "Guidance in the human\u00e2\u0102\u015emachine analytics process"
+    },
+    {
+      "paperId": "d80f0183a0d1798b891d9044fa8761b9353acf69",
+      "title": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "11a891d93afd8625770d46ae150f5408ba2e364d",
+      "title": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "9f7c16b1f63cbee85a20b1d57b65f1eeb1fff7bb",
+      "title": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "0f5cdc3bfc6f7179c02d3ecd88c0f9541eb59f28",
+      "title": "The User Puzzle - Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Sensemaking: Framing and acting in the unknown in the handbook of teaching leadership: Knowing, doing and being. scott, s., nohria, n., khurana, r"
+    },
+    {
+      "paperId": "220ca2697a4510c31f2ac66a7db0e4425fc6a841",
+      "title": "Visual Classification: Expert Knowledge Guides Machine Learning"
+    },
+    {
+      "paperId": "8b45894c9e2c35a2814349710514646ad7b4148e",
+      "title": "DIMACS Technical Report 2009-12 November 2009 Supporting Cognitive Models of Sensemaking in Analytics Systems"
+    },
+    {
+      "paperId": null,
+      "title": "JANNECK C"
+    },
+    {
+      "paperId": null,
+      "title": "ABOWD G"
+    },
+    {
+      "paperId": null,
+      "title": "Human-Computer Interaction , 3 edition ed"
+    },
+    {
+      "paperId": null,
+      "title": "Chart c (cid:13) 2020TheAuthor(s) ComputerGraphicsForum c (cid:13) 2020TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": "51bd20f032cc2a54f35486a9615adeba3a408a4c",
+      "title": "Algorithms, Human Factors"
+    },
+    {
+      "paperId": null,
+      "title": "WONG B"
+    },
+    {
+      "paperId": null,
+      "title": "VAN WIJK J"
+    },
+    {
+      "paperId": null,
+      "title": "Survey on the Analysis of User Interactions and Visualization Provenance Visualization and Computer Graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Applying Planning Using State Constraints"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "paperId": "ab685b283368108739aea8d5b10f6758d3ec6da9",
+  "externalIds": {
+    "DBLP": "journals/cgf/LawonnSBP18",
+    "MAG": "2766996036",
+    "DOI": "10.1111/cgf.13306",
+    "CorpusId": 3440187
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/ab685b283368108739aea8d5b10f6758d3ec6da9",
+  "title": "A Survey on Multimodal Medical Data Visualization",
+  "abstract": "Multi\u2010modal data of the complex human anatomy contain a wealth of information. To visualize and explore such data, techniques for emphasizing important structures and controlling visibility are essential. Such fused overview visualizations guide physicians to suspicious regions to be analysed in detail, e.g. with slice\u2010based viewing. We give an overview of state of the art in multi\u2010modal medical data visualization techniques. Multi\u2010modal medical data consist of multiple scans of the same subject using various acquisition methods, often combining multiple complimentary types of information. Three\u2010dimensional visualization techniques for multi\u2010modal medical data can be used in diagnosis, treatment planning, doctor\u2013patient communication as well as interdisciplinary communication. Over the years, multiple techniques have been developed in order to cope with the various associated challenges and present the relevant information from multiple sources in an insightful way. We present an overview of these techniques and analyse the specific challenges that arise in multi\u2010modal data visualization and how recent works aimed to solve these, often using smart visibility techniques. We provide a taxonomy of these multi\u2010modal visualization applications based on the modalities used and the visualization techniques employed. Additionally, we identify unsolved problems as potential future research directions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 160,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lawonn2018ASO,\n author = {K. Lawonn and N. Smit and K. B\u00fchler and B. Preim},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey on Multimodal Medical Data Visualization},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1798143",
+      "name": "K. Lawonn"
+    },
+    {
+      "authorId": "30921429",
+      "name": "N. Smit"
+    },
+    {
+      "authorId": "1759884",
+      "name": "K. B\u00fchler"
+    },
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "66eaca552d9e4261bcba5011afe34a73b1fc12f9",
+      "title": "Volume Rendering"
+    },
+    {
+      "paperId": "719c6dfb8e43dcb37dc9e542d7c26be296a7053b",
+      "title": "State of the Art in Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "fe26244671284b215a7468da95c21bd4c3c07173",
+      "title": "Algorithms and Techniques for Virtual Camera Control"
+    },
+    {
+      "paperId": "9b3c94bc79665d1c3d94592dff9654167a346077",
+      "title": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization"
+    },
+    {
+      "paperId": "1e6c294f46955ae2600e816853cb5218c0257cb2",
+      "title": "State\u2010of\u2010the\u2010Art in GPU\u2010Based Large\u2010Scale Volume Visualization"
+    },
+    {
+      "paperId": "16c89032f3c15d65ddbdd83ffc035d8b3c3b6ca6",
+      "title": "Illustrative Visualization of Vascular Models for Static 2D Representations"
+    },
+    {
+      "paperId": "81697d40a1a6ecf7070e1881b3eba338c141d1a6",
+      "title": "Illustrative Multi-volume Rendering for PET/CT Scans"
+    },
+    {
+      "paperId": "942d54ce7537cc7cf538c0a3c464f2e75793a4a8",
+      "title": "A Survey of Cardiac 4D PC\u2010MRI Data Processing"
+    },
+    {
+      "paperId": "47ce21735fd7e5b15fe1f480dc11ccc4d5aaab59",
+      "title": "Multimodal volume illumination"
+    },
+    {
+      "paperId": "c31576ffbb5ff008631a15d92218f87067b3bea3",
+      "title": "A Survey of Illustrative Visualization Techniques for Diffusion-Weighted MRI Tractography"
+    },
+    {
+      "paperId": "c1187eabb0c66333c4db4e4cfacf89720685726d",
+      "title": "Hybrid Data Visualization Based on Depth Complexity Histogram Analysis"
+    },
+    {
+      "paperId": "d3fce56b38f377b0eef0ef1597eb0a75372f4d94",
+      "title": "Illustrative visualization of medical data sets"
+    },
+    {
+      "paperId": "bd69776dd106b04bc4765a743115222d4fff8900",
+      "title": "Predicate-Based Focus-and-Context Visualization for 3D Ultrasound"
+    },
+    {
+      "paperId": "a093189a2193738a78a0849be7908af7e0f81634",
+      "title": "Combined Visualization of Wall Thickness and Wall Shear Stress for the Evaluation of Aneurysms"
+    },
+    {
+      "paperId": "8869b37a86dfe03499ed81abd50bede9235c9c59",
+      "title": "Visualization of 4D-PET/CT, Target Volumes and Dose Distribution: Applications in Radiotherapy Planning"
+    },
+    {
+      "paperId": "d793a27bfd7acefb8b6cbf61f94988454824d142",
+      "title": "An integrated visual analysis system for fusing MR spectroscopy and multi-modal radiology imaging"
+    },
+    {
+      "paperId": "4d2ebe10dbc424c670ea39b841c77f7b5aae9d7e",
+      "title": "Adaptive Surface Visualization of Vessels with Animated Blood Flow"
+    },
+    {
+      "paperId": "dd5976c0c6818bda55e94be7a0494915248d5040",
+      "title": "Uncertainty in medical visualization: Towards a taxonomy"
+    },
+    {
+      "paperId": "6fe62bb1589872576a0be53a1060b900d0040b14",
+      "title": "Volume curtaining: a focus+context effect for multimodal volume visualization"
+    },
+    {
+      "paperId": "e2eec00b8818a8e6ef73690775166eb9a12e8229",
+      "title": "Additional Diagnostic Value of Integrated Analysis of Cardiac CTA and SPECT MPI Using the SMARTVis System in Patients with Suspected Coronary Artery Disease"
+    },
+    {
+      "paperId": "91270a01c74e2c60fb696e9ade6c48f7a1a9469d",
+      "title": "Medical Image Fusion: A survey of the state of the art"
+    },
+    {
+      "paperId": "edc36185d31c166034f1718f51148d2bcd465fd2",
+      "title": "Clinical impact of PET/MR imaging in patients with cancer undergoing same-day PET/CT: initial experience in 134 patients--a hypothesis-generating exploratory study."
+    },
+    {
+      "paperId": "446a02b7dd6ec10f9ccc5ce4aa65aecb0c46e5dc",
+      "title": "The art of medical image fusion: A survey"
+    },
+    {
+      "paperId": "9ee93c74da9191dd685a21f9b892d935a2a448bd",
+      "title": "Guiding Deep Brain Stimulation interventions by fusing multimodal uncertainty regions"
+    },
+    {
+      "paperId": "0d1c7f948bdbbb9b4bd85d88565dc6ea2a1a6746",
+      "title": "Regions-based illustrative visualization of multimodal datasets"
+    },
+    {
+      "paperId": "d579b3f27b89e162dee42ba53930492f7bdd2000",
+      "title": "Comparative Visualization of Tracer Uptake in In Vivo Small Animal PET/CT Imaging of the Carotid Arteries"
+    },
+    {
+      "paperId": "0701bb84637edd694dd8f7371c53a21a37cfc2c5",
+      "title": "Visibility-driven PET-CT visualisation with region of interest (ROI) segmentation"
+    },
+    {
+      "paperId": "cd8b537ffde024203812a0d80eb070622207bafc",
+      "title": "Information Theory-Based Automatic Multimodal Transfer Function Design"
+    },
+    {
+      "paperId": "cd7d009811da645017271ee86ae7e40d988c31c8",
+      "title": "Design principles for cutaway visualization of geological models"
+    },
+    {
+      "paperId": "77fd2274155a76d0df7ac3abd65c90408d452161",
+      "title": "Survey of Medical Image Registration"
+    },
+    {
+      "paperId": "3d14b4a96a28cdaa50aecb64b98837b51e25c239",
+      "title": "An Evidence-Based Review of Quantitative SPECT Imaging and Potential Clinical Applications"
+    },
+    {
+      "paperId": "dbd127ef4760455ccab5073265aba7742b5385fe",
+      "title": "Is there still a role for SPECT\u2013CT in oncology in the PET\u2013CT era?"
+    },
+    {
+      "paperId": "6c59353e44e6704ef6e530804000704d681cec74",
+      "title": "Multimodal Data Fusion Based on Mutual Information"
+    },
+    {
+      "paperId": "8cc06f573285fb7e25cf17696082d23e796a3490",
+      "title": "A new strategic neurosurgical planning tool for brainstem cavernous malformations using interactive computer graphics with multimodal fusion images."
+    },
+    {
+      "paperId": "ca1b63a079db72010518d1a7966418333a2308fc",
+      "title": "Illustrative Membrane Clipping"
+    },
+    {
+      "paperId": "62ea5315aeb04f20bae7cecd1da8903ba899e6c1",
+      "title": "First Clinical Experience with Integrated Whole-Body PET/MR: Comparison to PET/CT in Patients with Oncologic Diagnoses"
+    },
+    {
+      "paperId": "44ec045a1992ac4a303431e6735fc9980716636e",
+      "title": "Volume Analysis Using Multimodal Surface Similarity"
+    },
+    {
+      "paperId": "be9c36d44166f97f76738d0ae4c4af587e20b92b",
+      "title": "A survey of medical image registration on graphics hardware"
+    },
+    {
+      "paperId": "f93795470c4aa5dd31002890521dcd32f2d1e47e",
+      "title": "The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "5816d131654457a5bd7f778cb93f1e56503e3302",
+      "title": "Illustrating volume data sets and layered models with importance-aware composition"
+    },
+    {
+      "paperId": "dfa306d014338026148168c3aec17701b63b88e8",
+      "title": "2010 IEEE Visualization Contest Winner: interactive planning for brain tumor resections."
+    },
+    {
+      "paperId": "d02272aa3cf34c1194107f3f9ac5b7df34f090fa",
+      "title": "Perceptual Evaluation of Ghosted View Techniques for the Exploration of Vascular Structures and Embedded Flow"
+    },
+    {
+      "paperId": "900930c9ecfd8fce80de9de86b65c63b05959522",
+      "title": "Visibility Histograms and Visibility-Driven Transfer Functions"
+    },
+    {
+      "paperId": "d65c950930df664e923b08255bfc09831c585dc1",
+      "title": "Comparing GPU-based multi-volume ray casting techniques"
+    },
+    {
+      "paperId": "83a21fafdc356a21e8df2d46bbf399e667e19714",
+      "title": "Importance-Aware Composition for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "ebbd2cfd1f98d77d7a16db4509c5aaee5ec6f63c",
+      "title": "Exploring the brain network: A review on resting-state fMRI functional connectivity"
+    },
+    {
+      "paperId": "9a07493970af8b8252b08542369460c888131167",
+      "title": "Adapted Surface Visualization of Cerebral Aneurysms with Embedded Blood Flow Information"
+    },
+    {
+      "paperId": "9774431482901a7dc43f827331bce60b74be045e",
+      "title": "Visualization and Planning of Neurosurgical Interventions with Straight Access"
+    },
+    {
+      "paperId": "2eb02572d7089762190d69a6712f337fb98e2df0",
+      "title": "Concurrent Volume Visualization of Real-Time fMRI"
+    },
+    {
+      "paperId": "2be59541be3fe443971ef6dd80bf9c904d930c9d",
+      "title": "GPU-based smart visibility techniques for tumor surgery planning"
+    },
+    {
+      "paperId": "2b2fd4d4d2e770260b3a35a2cbd424f8020caa2a",
+      "title": "PET/MRI: Paving the Way for the Next Generation of Clinical Multimodality Imaging Applications"
+    },
+    {
+      "paperId": "f07d9155cff6d279ddc50cedf53d4b3689751703",
+      "title": "A review on the clinical uses of SPECT/CT"
+    },
+    {
+      "paperId": "efd558a2e0e03c2517d156496ab0fe85cb576ec8",
+      "title": "Ray casting of multiple volumetric datasets with polyhedral boundaries on manycore GPUs"
+    },
+    {
+      "paperId": "b693a7bf04c729f6ebcc72cdc4f929df3fff0897",
+      "title": "Multimodal Vessel Visualization of Mouse Aorta PET/CT Scans"
+    },
+    {
+      "paperId": "58a9f955e65e8e5d8f470006a8fd1b775c16b47c",
+      "title": "Multimodality imaging: beyond PET/CT and SPECT/CT."
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "445f276731b5e9f86aeac07dd4bf75529ff6594d",
+      "title": "Fused Multi\u2010Volume DVR using Binary Space Partitioning"
+    },
+    {
+      "paperId": "eb44ef25cc64d4765737a29ef28aed51139badc6",
+      "title": "Visual Analysis of Brain Activity from fMRI Data"
+    },
+    {
+      "paperId": "6bb022add73b515641e33c2c077c872dded3e900",
+      "title": "Adaptive cutaways for comprehensible rendering of polygonal scenes"
+    },
+    {
+      "paperId": "975c3d609853997ac648d6116e2da46324e3463e",
+      "title": "Novel interaction techniques for neurosurgical planning and stereotactic navigation"
+    },
+    {
+      "paperId": "df3ac61dc274bc3aebf5e47887cc0e879879cc9d",
+      "title": "Information-based Transfer Functions for Multimodal Visualization"
+    },
+    {
+      "paperId": "613a37fe155c409e2062742b42732bcdc987bb01",
+      "title": "High-Quality Multimodal Volume Visualization of Intracerebral Pathological Tissue"
+    },
+    {
+      "paperId": "4a8620e41cf83bea0d908238cbdb72e7c5c99709",
+      "title": "Illustrated Ultrasound for Multimodal Data Interpretation of Liver Examinations"
+    },
+    {
+      "paperId": "5e5014ff3a0601cae6441b574922959ecdafab54",
+      "title": "A Comprehensive Approach to the Analysis of Contrast Enhanced Cardiac MR Images"
+    },
+    {
+      "paperId": "ed40394de1f591ffa19b3d9ce6343d8667cc5eed",
+      "title": "Dynamic Shader Generation for GPU-Based Multi-Volume Ray Casting"
+    },
+    {
+      "paperId": "ed6e06a38f7a972013d7dca62bbdd263cb2c8958",
+      "title": "GPU-based Particle Systems for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "96d3d2df1a91b4cbe235e88d59ad44984c112c65",
+      "title": "SPECT/CT*"
+    },
+    {
+      "paperId": "e7bb09ffae5a3f93187963791f534bb43db1f3ba",
+      "title": "Mutual Information Metric Evaluation for PET/MRI Image Fusion"
+    },
+    {
+      "paperId": "c2903a9bfb440eb853d3e9d621434ed64726518c",
+      "title": "The Clinical Role of Fusion Imaging Using PET, CT, and MR Imaging."
+    },
+    {
+      "paperId": "ea927988a89a00a5cb1695cf7f42f03828f2f2fe",
+      "title": "LiveSync++: enhancements of an interaction metaphor"
+    },
+    {
+      "paperId": "72b98bd3dc9c2f6beb2b4613d04621a88c4e2479",
+      "title": "Illustrative Hybrid Visualization and Exploration of Anatomical and Functional Brain Data"
+    },
+    {
+      "paperId": "2038f341dddbc28c5579c6d1b682334a20f355ab",
+      "title": "Simultaneous PET-MRI: a new approach for functional and morphological imaging"
+    },
+    {
+      "paperId": "6f40356a3c57f1f588b89de7be85a0e077d76bdf",
+      "title": "High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions"
+    },
+    {
+      "paperId": "84744e4b792ee5c001277b6120f11ca17aacd63a",
+      "title": "CoViCAD: Comprehensive Visualization of Coronary Artery Disease"
+    },
+    {
+      "paperId": "1e8056244a0b3445e87e987bd4f7fdb00c27838b",
+      "title": "LiveSync: Deformed Viewing Spheres for Knowledge-Based Navigation"
+    },
+    {
+      "paperId": "7dd23ae62aac0f6c85858d21cd0b09430a87db01",
+      "title": "Simulation and Fully Automatic Multimodal Registration of Medical Ultrasound"
+    },
+    {
+      "paperId": "53db4c51a8b936e34149c68a876b9a648d4091df",
+      "title": "PET/CT imaging: what radiologists need to know"
+    },
+    {
+      "paperId": "60a9e94e7899c29965074098677d1382736e6b4d",
+      "title": "Visual Computing for Medicine: Theory, Algorithms, and Applications"
+    },
+    {
+      "paperId": "c0100e21b874db326d6fd14786664c8968516ad6",
+      "title": "Feature Emphasis and Contextual Cutaways for Multimodal Medical Visualization"
+    },
+    {
+      "paperId": "1c8567a78eb0cd17be982ea8712fc883e65b8222",
+      "title": "Interactive visualization of fused fMRI and DTI for planning brain tumor resections"
+    },
+    {
+      "paperId": "1f84fc6dba4699283c89487a8815e967979b07e0",
+      "title": "ClearView: An Interactive Context Preserving Hotspot Visualization Technique"
+    },
+    {
+      "paperId": "b1b815b58d235099a91602225bde0f2539d6eaa2",
+      "title": "Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data"
+    },
+    {
+      "paperId": "1b37be630e741092216a188479eb0d1a5337d1c6",
+      "title": "Hybrid Visualization for White Matter Tracts using Triangle Strips and Point Sprites"
+    },
+    {
+      "paperId": "a797809529937a41abf7133e90914178a64b0897",
+      "title": "Jump flooding in GPU with applications to Voronoi diagram and distance transform"
+    },
+    {
+      "paperId": "fc7c4543f3f929a829d8e6c35c02bca3f2c78227",
+      "title": "Automated quantification of myocardial ischemia and wall motion defects by use of cardiac SPECT polar mapping and 4-dimensional surface rendering."
+    },
+    {
+      "paperId": "b607c311f4540a8c11c4500059f66a92e2c50258",
+      "title": "View selection for volume rendering"
+    },
+    {
+      "paperId": "02709ee030eedad45a67d56c5a9b5f2c8ee0a1e8",
+      "title": "Visualization of white matter tracts with wrapped streamlines"
+    },
+    {
+      "paperId": "80eb83cd98f5b9ffa0a5af80169f3644c912b3dc",
+      "title": "Use of Pet/Ct Scanning in Cancer Patients: Technical and Practical Considerations"
+    },
+    {
+      "paperId": "899e61559e61a52fe3726aeb987ad6c115255c93",
+      "title": "Surface hatching for medical volume data"
+    },
+    {
+      "paperId": "53c30dc339ef1ef7535561e4f6f98f2e7478df99",
+      "title": "Line drawings from volume data"
+    },
+    {
+      "paperId": "89cd59e6759b0336ae7741d83ec6a68561f0b34e",
+      "title": "Efficient Multimodality Volume Fusion Using Graphics Hardware"
+    },
+    {
+      "paperId": "ac06df426b93ac6583810d039fadb11f3d7749a0",
+      "title": "Focus of attention+context and smart visibility in visualization"
+    },
+    {
+      "paperId": "3d2c52b375d859ac0aba521395edaaa121796b0b",
+      "title": "STEPS - an application for simulation of transsphenoidal endonasal pituitary surgery"
+    },
+    {
+      "paperId": "3ae7ac85271a3e9257d3e560b830fd1d5997e53f",
+      "title": "Importance-driven volume rendering"
+    },
+    {
+      "paperId": "f0d69f238f88796875b1a951131e6351d541ad90",
+      "title": "OsiriX: An Open-Source Software for Navigating in Multidimensional DICOM Images"
+    },
+    {
+      "paperId": "b0e1f67afdd0a23b803ef3cf7ded12e23e577117",
+      "title": "Focus and context for volume visualization"
+    },
+    {
+      "paperId": "6ce06858250b31e2e95fc31b9b09a4701eb39dee",
+      "title": "A framework for fusion methods and rendering techniques of multimodal volume data"
+    },
+    {
+      "paperId": "ec6bef486495c47642b6cf7b11dee41b322e0706",
+      "title": "Capturing human motion using body-fixed sensors: outdoor measurement and clinical applications: Research Articles"
+    },
+    {
+      "paperId": "dfb02f8c68b0012c20c9c0a267de09ac26a124d0",
+      "title": "Curvature-based transfer functions for direct volume rendering: methods and applications"
+    },
+    {
+      "paperId": "5d69c8a4e8d18528904a65d0f48758e31519abbf",
+      "title": "Mutual-information-based registration of medical images: a survey"
+    },
+    {
+      "paperId": "a29ad0ac8c17e11a93ddd2dd169bd74d68b49a43",
+      "title": "Nonphotorealistic Rendering of Medical Volume Data"
+    },
+    {
+      "paperId": "4a44f98d4cb6c2ab3c952181e06b2769409918aa",
+      "title": "Volume clipping via per-fragment operations in texture-based volume visualization"
+    },
+    {
+      "paperId": "680263dc64307a7802c4df8b7a3501950b6d788e",
+      "title": "Visualizing inner structures in multimodal volume data"
+    },
+    {
+      "paperId": "8ca9601abef90a66a7091d0e065fce53d34db756",
+      "title": "Hardware-accelerated parallel non-photorealistic volume rendering"
+    },
+    {
+      "paperId": "82157c9831c0d4f53bb7eced23945a450d1163dd",
+      "title": "Volume Rendering Multivariate Data to Visualize Meteorological Simulations: A Case Study"
+    },
+    {
+      "paperId": "78b97f7d6b5902bb763a9d5af0ac6de610c3c77f",
+      "title": "Interactive Multi-volume Visualization"
+    },
+    {
+      "paperId": "b3b5dbf6054c26be896e8ce1cb1e7201f0149ff9",
+      "title": "Advanced algorithmic approaches to medical image segmentation: state-of-the-art application in cardiology, neurology, mammography and pathology"
+    },
+    {
+      "paperId": "3f7b6103e1e8736ac7e8ccab97d192c872432d39",
+      "title": "Two-Level Volume Rendering"
+    },
+    {
+      "paperId": "674c1a525b55d3be0112eaa39b1e90175b4fedb0",
+      "title": "Integrated volume visualization of functional image data and anatomical surfaces using normal fusion"
+    },
+    {
+      "paperId": "fd47d55fd8f7883477f4a1eb62fcb99af246190a",
+      "title": "Diffusion tensor imaging: Concepts and applications"
+    },
+    {
+      "paperId": "8860140363871f3817d28fc58ece1b07f5f7d966",
+      "title": "Registration, segmentation, and visualization of multimodal brain images."
+    },
+    {
+      "paperId": "b5e6eee96ba7a5433f13a107e65976cddd4140b9",
+      "title": "Pen-and-ink rendering in volume visualisation"
+    },
+    {
+      "paperId": "433fec73c92a9b78ddb13abed6b8cb2c2a1cd456",
+      "title": "A combined PET/CT scanner for clinical oncology."
+    },
+    {
+      "paperId": "04833bc649839679e7550fc515b28607ec21ad1a",
+      "title": "Data Intermixing and Multi\u2010volume Rendering"
+    },
+    {
+      "paperId": "f548c9365ba02413202d134543dc1f60f68966a2",
+      "title": "Estimating kinetic parameters from dynamic contrast\u2010enhanced t1\u2010weighted MRI of a diffusable tracer: Standardized quantities and symbols"
+    },
+    {
+      "paperId": "05c335a008c7cbc222d985cda0a199e7a7fe727c",
+      "title": "Integrated registration and visualization of medical image data"
+    },
+    {
+      "paperId": "a16c7b77cd441dbf3c42c7028de06631d8507872",
+      "title": "Volume-based tumor neurosurgery planning in the Virtual Workbench"
+    },
+    {
+      "paperId": "801fbb0886ee3b1c07e35f8196672513b78b314d",
+      "title": "A survey of medical image registration"
+    },
+    {
+      "paperId": "91715703da7abd94090589ec4c055bf9ef801d09",
+      "title": "Normal fusion for three-dimensional integrated visualization of SPECT and magnetic resonance brain images."
+    },
+    {
+      "paperId": "30fe0db5ac4036962d7b6851755619a8094d2226",
+      "title": "Illustrating transparent surfaces with curvature-directed strokes"
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "05ab653c130bc4daceea20440d4a700638c31540",
+      "title": "Three-dimensional display in nuclear medicine."
+    },
+    {
+      "paperId": "b8f9a823f972fb53c134a56581354536d2db3083",
+      "title": "Display Of Multiple 3D-Objects Using The Generalized Voxel-Model"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "c566d306cdd00512af5040ad1c4aed61707732a7",
+      "title": "Distance transformations in digital images"
+    },
+    {
+      "paperId": "76361a44e145732a39dbc68d9418871038c83be2",
+      "title": "A feature-integration theory of attention"
+    },
+    {
+      "paperId": "ae1633c2af800a62b9a014f5b8f8a3d56473192d",
+      "title": "High-quality slab-based intermixing method for fusion rendering of multiple medical objects"
+    },
+    {
+      "paperId": "e9f95fa6a4089275f0d8cd368ff31bb0f5a7e543",
+      "title": "Visualization and Processing of Higher Order Descriptors for Multi-Valued Data"
+    },
+    {
+      "paperId": "3dd05eaff0964cc8c24d760eda69fbfe9a98a83c",
+      "title": "[Three Dimensional Display in Nuclear Medicine]."
+    },
+    {
+      "paperId": "22e8b8912c8f49e3e431fb44a43e3c7f61d162aa",
+      "title": "Illustrative Visualization of Endoscopic Views"
+    },
+    {
+      "paperId": "311fcfd8c60cc03db62abb486a880d151d2b15f2",
+      "title": "High-Quality 3D Visualization of In-Situ Ultrasonography"
+    },
+    {
+      "paperId": "c7ec12f1db7169ac6a6c89f6eb8b82aff5343e6e",
+      "title": "Comparison of different positron emission tomography tracers in patients with recurrent medullary thyroid carcinoma: our experience and a review of the literature."
+    },
+    {
+      "paperId": "fcdc8fcaa439768737f20c265a09f4f8a7647a36",
+      "title": "Theranostics, gallium-68, and other radionuclides :"
+    },
+    {
+      "paperId": "84f79cb1d364d3441bb96bd275c49aba17a123d2",
+      "title": "BrainCove: A Tool for Voxel-wise fMRI Brain Connectivity Visualization"
+    },
+    {
+      "paperId": "9c44c3e353650b0e2d2141dbb5ed2a4a6161ec34",
+      "title": "A Cluster Hierarchy-based Volume Rendering Approach for Interactive Visual Exploration of Multi-variate Volume Data"
+    },
+    {
+      "paperId": "35e7f8ac0f1345feca362bc76ab3c5c725ac1b3b",
+      "title": "AVM-Explorer: Multi-Volume Visualization of Vascular Structures for Planning of Cerebral AVM Surgery"
+    },
+    {
+      "paperId": "95fc928978a56b0e3f2d88ea7c3197955f47ccb7",
+      "title": "Dual Source CT"
+    },
+    {
+      "paperId": "e4c461f5f37b93ea40eeea7a75d6ad6501793cea",
+      "title": "Illustrative Focus+Context Approaches in Interactive Volume Visualization"
+    },
+    {
+      "paperId": "4da8bb1ea6b68ec38899652495423d1f0ed454d1",
+      "title": "Multimodal Visualization of DTI and fMRI Data Using Illustrative Methods"
+    },
+    {
+      "paperId": "9b3294b43dc0535f9f960f896b1b66e15c96231b",
+      "title": "Multimodal Visualization with Interactive Closeups"
+    },
+    {
+      "paperId": "9a26a06a65f7baf71b6ab06a2d614c17b13f4e73",
+      "title": "Display of Surfaces from Volume Data Display of Surfaces from Volume Data"
+    },
+    {
+      "paperId": "1b21bdf7ad6c5d33b7592d5f70f0b8942d0a7e21",
+      "title": "Handbook of medical image processing and analysis"
+    },
+    {
+      "paperId": "2f4114e4fa3423aead54aa8a754021b79eade552",
+      "title": "Flexible GPU-Based Multi-Volume Ray-Casting"
+    },
+    {
+      "paperId": "eb9b307a4846b73317f8384091b9920278a63992",
+      "title": "Dual source CT imaging"
+    },
+    {
+      "paperId": "06fe23147cf8b84e5571ed66cbea0031fc3925f8",
+      "title": "Visualizing Dual-Modality Rendered Volumes Using a Dual-Lookup Table Transfer Function"
+    },
+    {
+      "paperId": "d606d1d447752705a8508fd003d4c0053bd221eb",
+      "title": "Multimodal Integration of Medical Ultrasound for Treatment Planning and Interventions"
+    },
+    {
+      "paperId": null,
+      "title": "Feature emphasis and contextual cutaways for multimodal c 2017 The Authors Computer Graphics Forum c 2017 The Eurographics Association and John Wiley & Sons Ltd. medical visualization"
+    },
+    {
+      "paperId": "3f43b9ab922a34ccf1a776fcccfbf44518af962c",
+      "title": "GPU-based Multi-Volume Rendering for the Visualization of Functional Brain Images"
+    },
+    {
+      "paperId": "1a7991cd53ccb0e28285434be81f0ee0c2463d3b",
+      "title": "Distance-based transfer function design: Specification Methods and Applications"
+    },
+    {
+      "paperId": "16d09d29d08288149ccd068bbc3bcc30c4ab2eeb",
+      "title": "Informatics in radiology (infoRAD): navigating the fifth dimension: innovative interface for multidimensional multimodality image navigation."
+    },
+    {
+      "paperId": null,
+      "title": "Integrated visualization of morphologic and perfusion data for the analysis of coronary artery disease"
+    },
+    {
+      "paperId": "14b926a87abe3bc3b3fcfa745ef5f49ecfd9e641",
+      "title": "Normal Fusion for Three-Dimensional Integrated Visualization of SPECT and Magnetic Resonance Brain Images"
+    },
+    {
+      "paperId": "574395072dd485c9b932ca8a46a098f7ffcde4a7",
+      "title": "Navigating the Fifth Dimension : Innovative Interface for Multidimensional Multimodality Image Navigation 1"
+    },
+    {
+      "paperId": "3c125aac2f416f0cc7a9cf109ad75e35c8f9d7db",
+      "title": "PET/CT today and tomorrow."
+    },
+    {
+      "paperId": "0ccfeb478ffdd603d98fddcf48a1e35f64bb2dd4",
+      "title": "Automatic Adjustment of Transfer Functions for 3D Volume Visualization"
+    },
+    {
+      "paperId": "6246cfe25e3ab86fcd0cdbaf60157b8635bc31a4",
+      "title": "A data fusion environment for multimodal and multi-informational neuronavigation."
+    },
+    {
+      "paperId": "c7fdb1101cafc82223d8aae99c96477ebe516b72",
+      "title": "Shading 3D-Images from CT Using Gray-Level Gradients"
+    },
+    {
+      "paperId": "a4c21b729d07d866f46eef1a49a51aa92d854d89",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Enhancing Slice-based Visualizations of Medical Volume Data"
+    },
+    {
+      "paperId": "f9935f53618110df82ec26caede33cfae5d41a9c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Combining Silhouettes, Surface, and Volume Rendering for Surgery Education and Planning"
+    },
+    {
+      "paperId": "fc813a009c6ad15b6d68615ddd133d39cf639379",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Interactive Visualization of Multimodal Volume Data for Neurosurgical Tumor Treatment"
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+{
+  "paperId": "4e89f9fa7b640b2e14aaccc25489ac8334ebb113",
+  "externalIds": {
+    "MAG": "3083475656",
+    "DBLP": "journals/cgf/TsirikoglouEU20",
+    "DOI": "10.1111/cgf.14047",
+    "CorpusId": 221796413
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/4e89f9fa7b640b2e14aaccc25489ac8334ebb113",
+  "title": "A Survey of Image Synthesis Methods for Visual Machine Learning",
+  "abstract": "Image synthesis designed for machine learning applications provides the means to efficiently generate large quantities of training data while controlling the generation process to provide the best distribution and content variety. With the demands of deep learning applications, synthetic data have the potential of becoming a vital component in the training pipeline. Over the last decade, a wide variety of training data generation methods has been demonstrated. The potential of future development calls to bring these together for comparison and categorization. This survey provides a comprehensive list of the existing image synthesis methods for visual machine learning. These are categorized in the context of image generation, using a taxonomy based on modelling and rendering, while a classification is also made concerning the computer vision applications they are used. We focus on the computer graphics aspects of the methods, to promote future image generation for machine learning. Finally, each method is assessed in terms of quality and reported performance, providing a hint on its expected learning potential. The report serves as a comprehensive reference, targeting both groups of the applications and data development sides. A list of all methods and papers reviewed herein can be found at https://computergraphics.on.liu.se/image_synthesis_methods_for_visual_machine_learning/.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 184,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14047",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-09-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tsirikoglou2020ASO,\n author = {Apostolia Tsirikoglou and Gabriel Eilertsen and Jonas Unger},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Image Synthesis Methods for Visual Machine Learning},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2568067",
+      "name": "Apostolia Tsirikoglou"
+    },
+    {
+      "authorId": "3179679",
+      "name": "Gabriel Eilertsen"
+    },
+    {
+      "authorId": "145446691",
+      "name": "Jonas Unger"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "bd5cb8900304fc4c1382caced39a8b16ae9c860b",
+      "title": "Radiative transfer"
+    },
+    {
+      "paperId": "7eca0ea6eeb29c7afc0ef4b0c0809d6f59d5b0e9",
+      "title": "Neural Network Generalization: The Impact of Camera Parameters"
+    },
+    {
+      "paperId": "1336d830bed631f1f06771818616e301eae234a8",
+      "title": "Deep intrinsic decomposition trained on surreal scenes yet with realistic light effects"
+    },
+    {
+      "paperId": "cde810201ddc8783eefca65c054ac87a21df5f73",
+      "title": "Deep CG2Real: Synthetic-to-Real Translation via Image Disentanglement"
+    },
+    {
+      "paperId": "79d87d5fe63e6a53e59ffa6b00ac4e44169e3455",
+      "title": "Single Image Intrinsic Decomposition with Discriminative Feature Encoding"
+    },
+    {
+      "paperId": "76c15e0474a63c483520a79f1543b54756a2451d",
+      "title": "Soft Prototyping Camera Designs for Car Detection Based on a Convolutional Neural Network"
+    },
+    {
+      "paperId": "1dc0917936c46e68e0ca806fda1752a5345320a0",
+      "title": "Learning Pedestrian Detection from Virtual Worlds"
+    },
+    {
+      "paperId": "429f020e5af8d3c12d5a7a4f3198ddb32a8c2419",
+      "title": "Noise Flow: Noise Modeling With Conditional Normalizing Flows"
+    },
+    {
+      "paperId": "f54f2db3e1c8e79f073840a7fd4f320fb3d0589c",
+      "title": "xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera"
+    },
+    {
+      "paperId": "3813b88a4ec3c63919df47e9694b577f4691f7e5",
+      "title": "A survey on Image Data Augmentation for Deep Learning"
+    },
+    {
+      "paperId": "7b48a1cbd2bfbb5045269626f3303e68d7e63a05",
+      "title": "Learning Data Augmentation Strategies for Object Detection"
+    },
+    {
+      "paperId": "db16e0b6eadce6cbf507ad1cd1c72555cd8196ab",
+      "title": "A Digital Image Processing Pipeline for Modelling of Realistic Noise in Synthetic Images"
+    },
+    {
+      "paperId": "a73fc00bfe1f26c13bce4431f8aafc1403d554b5",
+      "title": "Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception"
+    },
+    {
+      "paperId": "30d265c4dec1276579942b42fb6c46a5ff490e7f",
+      "title": "Meta-Sim: Learning to Generate Synthetic Datasets"
+    },
+    {
+      "paperId": "b4a35e548de27b6924e5f2ee41d37238a5c4a1d5",
+      "title": "Habitat: A Platform for Embodied AI Research"
+    },
+    {
+      "paperId": "7802e7e3fcb7bd0a0c44762b53470416e7d290a9",
+      "title": "Photorealistic Image Synthesis for Object Instance Detection"
+    },
+    {
+      "paperId": "fc35a72375a8f8cfb7679bdf3e51e676618275a8",
+      "title": "Visualizing and Understanding Generative Adversarial Networks (Extended Abstract)"
+    },
+    {
+      "paperId": "961e21649eacae0038bb5b3263c070f824b64a3e",
+      "title": "A system for generating complex physically accurate sensor images for automotive applications"
+    },
+    {
+      "paperId": "ceb2ebef0b41e31c1a21b28c2734123900c005e2",
+      "title": "A Style-Based Generator Architecture for Generative Adversarial Networks"
+    },
+    {
+      "paperId": "3a83d8595e6727269c876fcebd23ee9ddd524b76",
+      "title": "A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective"
+    },
+    {
+      "paperId": "3d85cf942efda695347c7d95485fcd1e6796ee3a",
+      "title": "Generating Photo-Realistic Training Data to Improve Face Recognition Accuracy"
+    },
+    {
+      "paperId": "003ec88cbec156131058e53409115cd056057644",
+      "title": "GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks"
+    },
+    {
+      "paperId": "185c5278c741c98bea3201866b6c68265a6e1af4",
+      "title": "Structured Domain Randomization: Bridging the Reality Gap by Context-Aware Synthetic Data"
+    },
+    {
+      "paperId": "1373195c26eab581138579f7389cdf8b7a94a4bb",
+      "title": "Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing"
+    },
+    {
+      "paperId": "22aab110058ebbd198edb1f1e7b4f69fb13c0613",
+      "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis"
+    },
+    {
+      "paperId": "3009807383d99aeae77cff2cd1487e28a60a543c",
+      "title": "Generative Adversarial Network in Medical Imaging: A Review"
+    },
+    {
+      "paperId": "f8cb5bd6bcda0e601076033b99396a19c65ccbbb",
+      "title": "CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering"
+    },
+    {
+      "paperId": "c5b55f410365bb889c25a9f0354f2b86ec61c4f0",
+      "title": "Video-to-Video Synthesis"
+    },
+    {
+      "paperId": "943a1e218b917172199e524944006aa349f58968",
+      "title": "Joint Learning of Intrinsic Images and Semantic Segmentation"
+    },
+    {
+      "paperId": "37a052144b510b8827634c38146b190d8b2c8d0b",
+      "title": "Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks"
+    },
+    {
+      "paperId": "97cd33a0650bb4850b3cfc9c599e4e4fcfd3101f",
+      "title": "Unlimited Road-scene Synthetic Annotation (URSA) Dataset"
+    },
+    {
+      "paperId": "dddada8efb06136777983942c360bf3b76d5ea5f",
+      "title": "Improved Mixed-Example Data Augmentation"
+    },
+    {
+      "paperId": "f723eb3e7159f07b97464c8d947d15e78612abe4",
+      "title": "AutoAugment: Learning Augmentation Policies from Data"
+    },
+    {
+      "paperId": "21117380118ddce47b3c515c5228372c513e61ba",
+      "title": "Deep Face Recognition: A Survey"
+    },
+    {
+      "paperId": "9b6e4cbf1f8d6fbf09017769ae65ff90234e0aa0",
+      "title": "Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization"
+    },
+    {
+      "paperId": "ae5eed242ffec87c5fb82cd2b112304f76410d41",
+      "title": "Falling Things: A Synthetic Dataset for 3D Object Detection and Pose Estimation"
+    },
+    {
+      "paperId": "c43ed9b34cad1a3976bac7979808eb038d88af84",
+      "title": "Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model"
+    },
+    {
+      "paperId": "4ab276bf9274d9169c2b175677db5a9f0e0f2d23",
+      "title": "A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving"
+    },
+    {
+      "paperId": "d3cdc922532b0e200b34f0ffea9503628f037ff8",
+      "title": "Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World"
+    },
+    {
+      "paperId": "8873df0ad2ebcedffab67dad85769d738624701d",
+      "title": "Modeling Camera Effects to Improve Visual Learning from Synthetic Data"
+    },
+    {
+      "paperId": "02ccfc9b550d381b5df4365a2ae48bb5f7f7578e",
+      "title": "Noise2Noise: Learning Image Restoration without Clean Data"
+    },
+    {
+      "paperId": "e6daa0484f0316996f3a2171c2ac003400fd2640",
+      "title": "Generating Artificial Data for Private Deep Learning"
+    },
+    {
+      "paperId": "c24dd897d4d5927fc434881814ae6717709a0d02",
+      "title": "Creating synthetic digital slides using conditional generative adversarial networks: application to Ki67 staining"
+    },
+    {
+      "paperId": "0597aba86088282423e7c2d2deb6fca4075e7a91",
+      "title": "GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification"
+    },
+    {
+      "paperId": "dc421786d8883d99f3709da2b68ee1f3a3643894",
+      "title": "End-to-End Adversarial Retinal Image Synthesis"
+    },
+    {
+      "paperId": "a581dab3ab41adfd843ac51af30d47022a5f855a",
+      "title": "Training Deep Face Recognition Systems with Synthetic Data"
+    },
+    {
+      "paperId": "9217e28b2273eb3b26e4e9b7b498b4661e6e09f5",
+      "title": "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
+    },
+    {
+      "paperId": "ca011427853d34ce4ec9ccafde8a70c9eacc3e21",
+      "title": "Deep Learning for Computer Vision: A Brief Review"
+    },
+    {
+      "paperId": "28094e414200918e3b3fd0f7e5e3e9d29b092be4",
+      "title": "Optimizing Image Acquisition Systems for Autonomous Driving"
+    },
+    {
+      "paperId": "22b6f5febae9ecab5f080fb94b4437951a337e12",
+      "title": "Data Augmentation by Pairing Samples for Images Classification"
+    },
+    {
+      "paperId": "4526bdad891a628ff67700c18a82a2fdd7d9b8f1",
+      "title": "CNN Based Learning Using Reflection and Retinex Models for Intrinsic Image Decomposition"
+    },
+    {
+      "paperId": "1f6c3f1def78919f06efe050e9403e85d5fa3ac9",
+      "title": "The Effectiveness of Data Augmentation in Image Classification using Deep Learning"
+    },
+    {
+      "paperId": "fe9cd683c3b8ebdfd8efd1109a857cdbf9edc364",
+      "title": "Data Augmentation Generative Adversarial Networks"
+    },
+    {
+      "paperId": "907a90967f68da4311802247408e0515e363f930",
+      "title": "CyCADA: Cycle-Consistent Adversarial Domain Adaptation"
+    },
+    {
+      "paperId": "744fe47157477235032f7bb3777800f9f2f45e52",
+      "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation"
+    },
+    {
+      "paperId": "4feef0fd284feb1233399b400eb897f59ec92755",
+      "title": "mixup: Beyond Empirical Risk Minimization"
+    },
+    {
+      "paperId": "cae56bb2657943bb07823fdf076625643e75095a",
+      "title": "UnrealCV: Virtual Worlds for Computer Vision"
+    },
+    {
+      "paperId": "ebf0615fc4d98cf1dbe527c79146ce1e50dce9af",
+      "title": "CARLA: An Open Urban Driving Simulator"
+    },
+    {
+      "paperId": "0263d8647b9c264a721cf4015e6b0a8dfca3b3e6",
+      "title": "Procedural Modeling and Physically Based Rendering for Synthetic Data Generation in Automotive Applications"
+    },
+    {
+      "paperId": "77d929b3c4bf546557815b41ed5c076a5792dc6b",
+      "title": "Using Synthetic Data to Improve Facial Expression Analysis with 3D Convolutional Networks"
+    },
+    {
+      "paperId": "ac8b0f635086099c381f81c7d9c2c757d4c75c0a",
+      "title": "SceneNet RGB-D: Can 5M Synthetic Images Beat Generic ImageNet Pre-training on Indoor Segmentation?"
+    },
+    {
+      "paperId": "90d2d6e19913d481b75d2e3950f5eb8ec385fcd1",
+      "title": "Playing for Benchmarks"
+    },
+    {
+      "paperId": "452164739ff41f6a849ac7dd26d35934e494fdba",
+      "title": "Synthetic Medical Images from Dual Generative Adversarial Networks"
+    },
+    {
+      "paperId": "2d5a838da3cb3f60487fa7ce918960f0dc16c8c1",
+      "title": "Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications"
+    },
+    {
+      "paperId": "ce2d5b5856bb6c9ab5c2390eb8b180c75a162055",
+      "title": "Recent Trends in Deep Learning Based Natural Language Processing"
+    },
+    {
+      "paperId": "0b6f172def2f4b37ea85969b4d99e789c647726b",
+      "title": "Deep Learning Based Recommender System"
+    },
+    {
+      "paperId": "967cbc09aedf796057d03f44d47528b79c9e846e",
+      "title": "Slanted Stixels: Representing San Francisco's Steepest Streets"
+    },
+    {
+      "paperId": "a20f3dfc9142b48b924e68ee22ba259a0d621bb2",
+      "title": "AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles"
+    },
+    {
+      "paperId": "192235f5a9e4c9d6a28ec0d333e36f294b32f764",
+      "title": "Reconfiguring the Imaging Pipeline for Computer Vision"
+    },
+    {
+      "paperId": "550ba177de494789e91571129fdc3f6476b1bf79",
+      "title": "Learning to Estimate 3D Hand Pose from Single RGB Images"
+    },
+    {
+      "paperId": "8f85dbf17bb4748b0f9667dbd9b0eeacfe30546b",
+      "title": "Intrinsic Decompositions for Image Editing"
+    },
+    {
+      "paperId": "e669c2fe2051648aeafa806bc10b380d5b99dbe3",
+      "title": "No More Discrimination: Cross City Adaptation of Road Scene Segmenters"
+    },
+    {
+      "paperId": "c43d954cf8133e6254499f3d68e45218067e4941",
+      "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks"
+    },
+    {
+      "paperId": "32ceb28e45a445df4d89df281bb0e3ab5aab1a2a",
+      "title": "Domain randomization for transferring deep neural networks from simulation to the real world"
+    },
+    {
+      "paperId": "493d0bda27b0eb1ee23664e9fffb333e8cb338d2",
+      "title": "A model of tumor architecture and spatial interactions with tumor microenvironment in breast carcinoma"
+    },
+    {
+      "paperId": "6ff909c6fe089fc8ebfc64eca0f0c3cc34ba277f",
+      "title": "A survey on deep learning in medical image analysis"
+    },
+    {
+      "paperId": "2f85b7376769473d2bed56f855f115e23d727094",
+      "title": "Wasserstein GAN"
+    },
+    {
+      "paperId": "661778ccef17289a07e3eb0ba2343b851762213e",
+      "title": "Learning from Synthetic Humans"
+    },
+    {
+      "paperId": "35e6f8bcfff5a8c2d41a3eb43771d0c59e64697c",
+      "title": "\u2019Scape"
+    },
+    {
+      "paperId": "110a99f188606c81c57d13547142e26dd9212a51",
+      "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks"
+    },
+    {
+      "paperId": "68cb9fce1e6af2740377494350b650533c9a29e1",
+      "title": "Learning from Simulated and Unsupervised Images through Adversarial Training"
+    },
+    {
+      "paperId": "06cf0efaf36a3f731b0127f874047758944183d2",
+      "title": "UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision"
+    },
+    {
+      "paperId": "edd846e76cacfba5be37da99c006e3ccc9b861b0",
+      "title": "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks"
+    },
+    {
+      "paperId": "8a05db7a75c65ee61c3ca7a6e5401b946166290d",
+      "title": "Semantic Scene Completion from a Single Depth Image"
+    },
+    {
+      "paperId": "8acbe90d5b852dadea7810345451a99608ee54c7",
+      "title": "Image-to-Image Translation with Conditional Adversarial Networks"
+    },
+    {
+      "paperId": "6cd7a47bbba11a994cd8e68ee5eae2fcb0033054",
+      "title": "Driving in the Matrix: Can virtual worlds replace human-generated annotations for real world tasks?"
+    },
+    {
+      "paperId": "debbe1c4f45854004868a163dbcaf318edaffe0e",
+      "title": "UnrealCV: Connecting Computer Vision to Unreal Engine"
+    },
+    {
+      "paperId": "4d9d25e67ebabbfc0acd63798f1a260cb2c8a9bd",
+      "title": "Playing for Data: Ground Truth from Computer Games"
+    },
+    {
+      "paperId": "30f3c444500c414169cb33244226dd3f8913e4fe",
+      "title": "Play and Learn: Using Video Games to Train Computer Vision Models"
+    },
+    {
+      "paperId": "7568d13a82f7afa4be79f09c295940e48ec6db89",
+      "title": "Image Style Transfer Using Convolutional Neural Networks"
+    },
+    {
+      "paperId": "9358d2ae944cfbdcb4b48e2e0c5f7ad97118b74e",
+      "title": "The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes"
+    },
+    {
+      "paperId": "eb7ee0bc355652654990bcf9f92f124688fde493",
+      "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
+    },
+    {
+      "paperId": "cab372bc3824780cce20d9dd1c22d4df39ed081a",
+      "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs"
+    },
+    {
+      "paperId": "e944b414e9f601a6008076bd43b91d382090adbc",
+      "title": "VirtualWorlds as Proxy for Multi-object Tracking Analysis"
+    },
+    {
+      "paperId": "b27befc052fc97697f83cd9e0551dfec63167530",
+      "title": "SceneNet: An annotated model generator for indoor scene understanding"
+    },
+    {
+      "paperId": "7705d1e2aa1cf19367613c14159cfaed47a8b74a",
+      "title": "Synthesizing Training Images for Boosting Human 3D Pose Estimation"
+    },
+    {
+      "paperId": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+      "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
+    },
+    {
+      "paperId": "92e4bccf9ab17244dcefc50a547e87a23e1fd3bb",
+      "title": "How Useful Is Photo-Realistic Rendering for Visual Learning?"
+    },
+    {
+      "paperId": "412b3ef02c85087e5f1721176114672c722b17a4",
+      "title": "A Taxonomy of Deep Convolutional Neural Nets for Computer Vision"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+      "title": "Deep Residual Learning for Image Recognition"
+    },
+    {
+      "paperId": "9b686d76914befea66377ec79c1f9258d70ea7e3",
+      "title": "ShapeNet: An Information-Rich 3D Model Repository"
+    },
+    {
+      "paperId": "1ced31e02234bc3d1092ffb2c7442ffbd51cb309",
+      "title": "A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation"
+    },
+    {
+      "paperId": "347a2874da7829dfa669845152c1a8b19812c2ff",
+      "title": "Understanding RealWorld Indoor Scenes with Synthetic Data"
+    },
+    {
+      "paperId": "8388f1be26329fa45e5807e968a641ce170ea078",
+      "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"
+    },
+    {
+      "paperId": "0ef0f34f29858bd4cc627cf413b275ea0b1f7de0",
+      "title": "Deep Reflectance Maps"
+    },
+    {
+      "paperId": "6a1ded20e33b799685c7e521ecd3222e23bfcc34",
+      "title": "Activity-centric scene synthesis for functional 3D scene modeling"
+    },
+    {
+      "paperId": "63204e48ba703806f5c8947a3cbc4e456a9080d7",
+      "title": "Articulated pose estimation with tiny synthetic videos"
+    },
+    {
+      "paperId": "edf455c3b5b8d1c6337c72e39940125036354d03",
+      "title": "Object scene flow for autonomous vehicles"
+    },
+    {
+      "paperId": "6f115fffa3a2af837cf869996e76b805e8f8cea4",
+      "title": "Render for CNN: Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views"
+    },
+    {
+      "paperId": "c2fb5b39428818d7ec8cc78e152e19c21b7db568",
+      "title": "FlowNet: Learning Optical Flow with Convolutional Networks"
+    },
+    {
+      "paperId": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+    },
+    {
+      "paperId": "dfff09a657b77989ef83b6d61cac05059426ad0a",
+      "title": "Learning Deep Object Detectors from 3D Models"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0",
+      "title": "Fully convolutional networks for semantic segmentation"
+    },
+    {
+      "paperId": "6def29d024457f8897c3a634fef8a03dcaedc9a0",
+      "title": "Seeing 3D Chairs: Exemplar Part-Based 2D-3D Alignment Using a Large Dataset of CAD Models"
+    },
+    {
+      "paperId": "95142f6e2f8fb05685c6f9118b99be6c31e0d629",
+      "title": "Virtual and Real World Adaptation for Pedestrian Detection"
+    },
+    {
+      "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+      "title": "Auto-Encoding Variational Bayes"
+    },
+    {
+      "paperId": "d3391687aec0e2f69800199a18b1d4e3a1e1ee31",
+      "title": "Framework for Generation of Synthetic Ground Truth Data for Driver Assistance Applications"
+    },
+    {
+      "paperId": "4097284421e63e4dcbe5575052810076499b2038",
+      "title": "Intrinsic image evaluation on synthetic complex scenes"
+    },
+    {
+      "paperId": "b354ee518bfc1ac0d8ac447eece9edb69e92eae1",
+      "title": "MuJoCo: A physics engine for model-based control"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "title": "ImageNet classification with deep convolutional neural networks"
+    },
+    {
+      "paperId": "da9e411fcf740569b6b356f330a1d0fc077c8d7c",
+      "title": "UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild"
+    },
+    {
+      "paperId": "7d53f0c87c8ab0de6f3e74515e3ffaf3fab40c62",
+      "title": "A Naturalistic Open Source Movie for Optical Flow Evaluation"
+    },
+    {
+      "paperId": "de5b0fd02ea4f4d67fe3ae0d74603b9822df4e42",
+      "title": "Are we ready for autonomous driving? The KITTI vision benchmark suite"
+    },
+    {
+      "paperId": "25a7ea26685c856a10f47243e10c5f8be384d320",
+      "title": "Articulated people detection and pose estimation: Reshaping the future"
+    },
+    {
+      "paperId": "2915510a39448503ee873f9693cd3808ca74bd81",
+      "title": "Real-time human pose recognition in parts from single depth images"
+    },
+    {
+      "paperId": "7751901183f94f43211f380aa6da2d283e9c8b6a",
+      "title": "Learning appearance in virtual scenarios for pedestrian detection"
+    },
+    {
+      "paperId": "908091b4a8757c3b2f7d9cfa2c4f616ee12c5157",
+      "title": "SUN database: Large-scale scene recognition from abbey to zoo"
+    },
+    {
+      "paperId": "650b04ffc4e5911137c86263e11ea3cdb474e501",
+      "title": "A Statistical Model of Human Pose and Body Shape"
+    },
+    {
+      "paperId": "804836b8ad86ef8042e3dcbd45442a52f031ee03",
+      "title": "A Database and Evaluation Methodology for Optical Flow"
+    },
+    {
+      "paperId": "4a529e71727de809953731b6797cc6fd7d07eb3d",
+      "title": "Variation"
+    },
+    {
+      "paperId": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+      "title": "Calibrating Noise to Sensitivity in Private Data Analysis"
+    },
+    {
+      "paperId": "adddc04ec7f00f3c3823b66c3369f668df15f957",
+      "title": "SCAPE: shape completion and animation of people"
+    },
+    {
+      "paperId": "9903e6c9c6462b91e37cc64ec161c88f20f2ba58",
+      "title": "Physically Based Rendering: From Theory to Implementation"
+    },
+    {
+      "paperId": "fa125cb6a75fecc0a0946e062e836f76468ae457",
+      "title": "Efficient, robust and accurate fitting of a 3D morphable model"
+    },
+    {
+      "paperId": "6d66c98009018ac1512047e6bdfb525c35683b16",
+      "title": "Face Recognition Based on Fitting a 3D Morphable Model"
+    },
+    {
+      "paperId": "6d45ab87e0f93006a53769e52fcd508c91d69083",
+      "title": "Component-Based Face Recognition with 3D Morphable Models"
+    },
+    {
+      "paperId": "f34c19cc073b1ec1666ac70baf3625b93462ae1b",
+      "title": "Texturing and modeling - a procedural approach, Third Edition"
+    },
+    {
+      "paperId": "9db7704e2a1dfbd2b97d51f77638c6c4efa0680c",
+      "title": "On Benchmarking Optical Flow"
+    },
+    {
+      "paperId": "03406ec0118137ca1ab734a8b6b3678a35a43415",
+      "title": "A morphable model for the synthesis of 3D faces"
+    },
+    {
+      "paperId": "9f79bf768a3d1fe3a3f68b3f8fd9b6180e115f7d",
+      "title": "Understanding."
+    },
+    {
+      "paperId": "36d4383f5664aaae31b70a8bebe3f3ff7832e7d5",
+      "title": "Metropolis light transport"
+    },
+    {
+      "paperId": "59b50a775542e87f078db35b868ac10ab43d4c75",
+      "title": "Learning from delayed rewards"
+    },
+    {
+      "paperId": "1181acaf0bb0541830b80d8dc49fae430f035e4c",
+      "title": "Performance of optical flow techniques"
+    },
+    {
+      "paperId": "a8e8f3c8d4418c8d62e306538c9c1292635e9d27",
+      "title": "Backpropagation Applied to Handwritten Zip Code Recognition"
+    },
+    {
+      "paperId": "8c67519c225112349f6c0e6e45c98cced5f02197",
+      "title": "Model for the extraction of image flow."
+    },
+    {
+      "paperId": "052b1d8ce63b07fec3de9dbb583772d860b7c769",
+      "title": "Learning representations by back-propagating errors"
+    },
+    {
+      "paperId": "e5e921184ac27fb8d1da2a5d1404c6c814685b04",
+      "title": "The rendering equation"
+    },
+    {
+      "paperId": "98b4d4e24aab57ab4e1124ff8106909050645cfa",
+      "title": "Neural networks and physical systems with emergent collective computational abilities."
+    },
+    {
+      "paperId": "69e68bfaadf2dccff800158749f5a50fe82d173b",
+      "title": "Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position"
+    },
+    {
+      "paperId": "752edecfa8560a39b34b6e64fba977d4d25ce890",
+      "title": "An improved illumination model for shaded display"
+    },
+    {
+      "paperId": "5c6c4bc42b18f9a5045b60ea3e23b6cd1b4685bb",
+      "title": "A tutorial on compensation tables"
+    },
+    {
+      "paperId": "b1d76a254801a09916479659160fd839c905ae87",
+      "title": "An improved illumination model for shaded display"
+    },
+    {
+      "paperId": "83fb6d2721cd26be4964882ce929ff8c98ebb688",
+      "title": "Simulation of wrinkled surfaces"
+    },
+    {
+      "paperId": "fb8cc7214937e0e8ae7a504c033918205cab7353",
+      "title": "Models of light reflection for computer synthesized pictures"
+    },
+    {
+      "paperId": "36b7e48f4b5c0a26d3639eda483fb17ecec874fb",
+      "title": "Continuous Shading of Curved Surfaces"
+    },
+    {
+      "paperId": "432b3d347f5a5df2c4806ca34af7ca2819949fd8",
+      "title": "Directional Reflectance and Emissivity of an Opaque Surface"
+    },
+    {
+      "paperId": "5d11aad09f65431b5d3cb1d85328743c9e53ba96",
+      "title": "The perceptron: a probabilistic model for information storage and organization in the brain."
+    },
+    {
+      "paperId": "2d5673caa9e6af3a7b82a43f19ee920992db07ad",
+      "title": "Computing Machinery and Intelligence"
+    },
+    {
+      "paperId": null,
+      "title": "Rockstar Games"
+    },
+    {
+      "paperId": "e93972f4727ee2eed75dc365ae05de7b24ee65df",
+      "title": "ProcSy: Procedural Synthetic Dataset Generation Towards Influence Factor Studies Of Semantic Segmentation Networks"
+    },
+    {
+      "paperId": "c68796f833a7151f0a63d1d1608dc902b4fdc9b6",
+      "title": "GENERATIVE ADVERSARIAL NETS"
+    },
+    {
+      "paperId": null,
+      "title": "Image Synthesis for Visual Machine Learning Vision and Pattern Recognition (CVPR) (Honolulu, Hawaii, USA, 2017)"
+    },
+    {
+      "paperId": null,
+      "title": "Image Synthesis Vision and Pattern Recognition (CVPR)"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82",
+      "title": "Deep Learning"
+    },
+    {
+      "paperId": null,
+      "title": "2016 Workshops"
+    },
+    {
+      "paperId": null,
+      "title": "SMPL"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698",
+      "title": "Dropout: a simple way to prevent neural networks from overfitting"
+    },
+    {
+      "paperId": "4282a344671189e17c9c9e00e329fe2d0fa71769",
+      "title": "Computer Vision - Algorithms and Applications"
+    },
+    {
+      "paperId": "4a9de79235445fdf346b274603dfa5447321aab6",
+      "title": "Production-Ready Global Illumination"
+    },
+    {
+      "paperId": "dacdc51598bceb69ad9bac6eb32a1933b9a4aeab",
+      "title": "An Essay towards solving a Problem in the Doctrine of Chances . By the late Rev . Mr . Bayes , communicated by Mr . Price , in a letter to"
+    },
+    {
+      "paperId": "88148b8f0c62abbe13e227cf1e1710084216a811",
+      "title": "Fast Algorithms for Mining Association Rules"
+    },
+    {
+      "paperId": "5c8bb027eb65b6d250a22e9b6db22853a552ac81",
+      "title": "Learning from delayed rewards"
+    },
+    {
+      "paperId": "21c9090e226ab449ffb608ddb2cb925911a61f24",
+      "title": "Nouvelles m\u00e9thodes pour la d\u00e9termination des orbites des com\u00e8tes"
+    },
+    {
+      "paperId": "191ed2b72639ba843ea7baccced748d5a1b87fae",
+      "title": "LII. An essay towards solving a problem in the doctrine of chances. By the late Rev. Mr. Bayes, F. R. S. communicated by Mr. Price, in a letter to John Canton, A. M. F. R. S"
+    },
+    {
+      "paperId": null,
+      "title": "Structure from motion estimates 3D point locations, structures and egomotion from image sequences with sparse matching features"
+    },
+    {
+      "paperId": null,
+      "title": "Stereo correspondence aims to estimate the 3D model of a scene from two or more 2D images."
+    },
+    {
+      "paperId": null,
+      "title": "European Association for Computer Graphics and"
+    },
+    {
+      "paperId": null,
+      "title": "External resources"
+    },
+    {
+      "paperId": null,
+      "title": "Recognition focuses on scene understanding, either identifying the contextual components of the scene, or determining if specific objects and features are present"
+    },
+    {
+      "paperId": null,
+      "title": "based"
+    },
+    {
+      "paperId": null,
+      "title": "Complex transformations include more sophisticated algorithms for altering an image. One strategy is, for example"
+    },
+    {
+      "paperId": null,
+      "title": "Dense motion estimation tries to determine the motion between two or more subsequent video frames"
+    },
+    {
+      "paperId": null,
+      "title": "Free3D"
+    },
+    {
+      "paperId": null,
+      "title": "Computational photography and Image formation apply image analysis and processing algorithms to captured sensor data, to create images that go beyond the capabilities of traditional imaging systems"
+    }
+  ]
+}

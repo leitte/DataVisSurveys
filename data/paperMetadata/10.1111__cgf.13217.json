@@ -1,0 +1,821 @@
+{
+  "paperId": "2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+  "externalIds": {
+    "MAG": "2626959846",
+    "DBLP": "journals/cgf/KucherPK18",
+    "DOI": "10.1111/cgf.13217",
+    "CorpusId": 13814942
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+  "title": "The State of the Art in Sentiment Visualization",
+  "abstract": "Visualization of sentiments and opinions extracted from or annotated in texts has become a prominent topic of research over the last decade. From basic pie and bar charts used to illustrate customer reviews to extensive visual analytics systems involving novel representations, sentiment visualization techniques have evolved to deal with complex multidimensional data sets, including temporal, relational and geospatial aspects. This contribution presents a survey of sentiment visualization techniques based on a detailed categorization. We describe the background of sentiment analysis, introduce a categorization for sentiment visualization techniques that includes 7 groups with 35 categories in total, and discuss 132 techniques from peer\u2010reviewed publications together with an interactive web\u2010based survey browser. Finally, we discuss insights and opportunities for further research in sentiment visualization. We expect this survey to be useful for visualization researchers whose interests include sentiment or other aspects of text data as well as researchers and practitioners from other disciplines in search of efficient visualization techniques applicable to their tasks and data.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 190,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13217",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kucher2018TheSO,\n author = {Kostiantyn Kucher and C. Paradis and A. Kerren},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Sentiment Visualization},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34523583",
+      "name": "Kostiantyn Kucher"
+    },
+    {
+      "authorId": "1484347472",
+      "name": "C. Paradis"
+    },
+    {
+      "authorId": "2569160",
+      "name": "A. Kerren"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e6e0288b5c507151728fba4b7964a5fd49d06a33",
+      "title": "Large scale opinion mining for social, news and blog data"
+    },
+    {
+      "paperId": "a87f0f6949f55912331239fc26b1b1572560c8f3",
+      "title": "Lariat: A Visual Analytics Tool for Social Media Researchers to Explore Twitter Datasets"
+    },
+    {
+      "paperId": "aafbb3a1dcd9d83ae2e35e12d3305c7263cf3f8c",
+      "title": "How ideas flow across multiple social groups"
+    },
+    {
+      "paperId": "5b82807fadeb86b36befd10de2ef49c87a7a1d29",
+      "title": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "paperId": "55f6541e4ea1df68e88ead07e460c9e47cec7bce",
+      "title": "Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System"
+    },
+    {
+      "paperId": "0182f730c7e6cd0f55d2f5fe2d9d9645484fcfd2",
+      "title": "A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization"
+    },
+    {
+      "paperId": "d2a6f54eb1db02bfc797a6c9547b66b04f90e0f4",
+      "title": "Towards Automatic Argument Extraction and Visualization in a Deliberative Model of Online Consultations for Local Governments"
+    },
+    {
+      "paperId": "1328b5254cacd805235dd131c31cd99938f6dea3",
+      "title": "Unlocking Super Bowl Insights: Weighted Word Embeddings for Twitter Sentiment Classification"
+    },
+    {
+      "paperId": "ded2b46a78642f529bb3959f636b1aa10a2cb3b0",
+      "title": "Typographic Sets: Labelled Set Elements with Font Attributes"
+    },
+    {
+      "paperId": "12013c508bad113b5ee92da29c75a5c17fe80018",
+      "title": "Social sentiment sensor: a visualization system for topic detection and topic sentiment analysis on microblog"
+    },
+    {
+      "paperId": "3877efef94abb4818890c0cf71de7ebee72c6af4",
+      "title": "Tweetviz: Visualizing Tweets for Business Intelligence"
+    },
+    {
+      "paperId": "1b089caed696fa22ef848bc60dbbabc65b55d9fb",
+      "title": "SentiBubbles: Topic Modeling and Sentiment Visualization of Entity-centric Tweets"
+    },
+    {
+      "paperId": "3ded1a7a96ea74e68f87005b7c6461532c61094f",
+      "title": "ConToVi: Multi\u2010Party Conversation Exploration using Topic\u2010Space Views"
+    },
+    {
+      "paperId": "fde1b0aa9d347d638944e09080e1cb8cd8538d98",
+      "title": "SemEval-2016 Task 6: Detecting Stance in Tweets"
+    },
+    {
+      "paperId": "5191db39cf537291781e3603e5f1b90fe2fa1f35",
+      "title": "Textual Affect Communication and Evocation Using Abstract Generative Visuals"
+    },
+    {
+      "paperId": "d6062bc65f84a07c43a0eedf03e7ef982900d75b",
+      "title": "Featuring, Detecting, and Visualizing Human Sentiment in Chinese Micro-Blog"
+    },
+    {
+      "paperId": "67ae202354463975d037424d7e262c51a7d514e7",
+      "title": "ToPIN: A Visual Analysis Tool for Time-anchored Comments in Online Educational Videos"
+    },
+    {
+      "paperId": "0e763f3125dd9b69f9c446ae2513456652b10c3d",
+      "title": "GeoSentiment: A tool for analyzing geographically distributed event-related sentiments"
+    },
+    {
+      "paperId": "3b2b3deca74afbeb4f4b95a1981f25e4a8801b7d",
+      "title": "A Survey on Sentiment Analysis and Visualization"
+    },
+    {
+      "paperId": "777563f8daa0d725d740e4a8e47f747de9d04cc8",
+      "title": "Predicting Attitude and Actions of Twitter Users"
+    },
+    {
+      "paperId": "1b08b4cf92b6df5fecfce5c42509bd90a0a10521",
+      "title": "MultiConVis: A Visual Text Analytics System for Exploring a Collection of Online Conversations"
+    },
+    {
+      "paperId": "96cd13d2699898d4f61d4c0a90415b0f3a0af63c",
+      "title": "Visual Twitter Analytics (Vista): Temporally changing sentiment and the discovery of emergent themes within sport event tweets"
+    },
+    {
+      "paperId": "25dfd8fc46249c82e4573c4ee39f4f34c326e1d5",
+      "title": "Correlating Twitter with the stock market through non-Gaussian SVAR"
+    },
+    {
+      "paperId": "36ed936d92d9c38ee4ef9e758c04305fbd9203c3",
+      "title": "VisOHC: Designing Visual Analytics for Online Health Communities"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "d848153907388cc64cdc8de37cd4a8f8a8515999",
+      "title": "Exploring Evolving Media Discourse Through Event Cueing"
+    },
+    {
+      "paperId": "a44e3f9a76ffa530bd87a6eb7c72025b8ebe6e71",
+      "title": "TargetVue: Visual Analysis of Anomalous User Behaviors in Online Communication Systems"
+    },
+    {
+      "paperId": "9c16977dc9f41952c632d8e32bfdd1b962c171c6",
+      "title": "VisTravel: visualizing tourism network opinion from the user generated content"
+    },
+    {
+      "paperId": "4f93cd372329afcfe0d45406774a9aa9f714e176",
+      "title": "Analyzing the public discourse on works of fiction \u2013 Detection and visualization of emotion in online coverage about HBO\u2019s Game of Thrones"
+    },
+    {
+      "paperId": "97aae72bf1635622f201b4a7c2fae6af546e723a",
+      "title": "Aggregating and visualizing public opinions and sentiment trends on the US higher education"
+    },
+    {
+      "paperId": "5463d26071410a1895771f9259ac3527935f6988",
+      "title": "Hot spot detection \u2014 An interactive cluster heat map for sentiment analysis"
+    },
+    {
+      "paperId": "4337f10334493aa95a5989c72d7fba21982b451e",
+      "title": "A survey of technologies on the rise for emotion-enhanced interaction"
+    },
+    {
+      "paperId": "925945680510e06c73329dffc144ab42620f4b87",
+      "title": "Visualization system for analyzing user opinion"
+    },
+    {
+      "paperId": "30bd10341aa066cd56a63f77fe2ac29c59c40b54",
+      "title": "Expression: Visualizing Affective Content from Social Streams"
+    },
+    {
+      "paperId": "bc4080ddcfe4c36f0bf4706d5acf1a4beb9c93b4",
+      "title": "Proposal of LDA-Based Sentiment Visualization of Hotel Reviews"
+    },
+    {
+      "paperId": "58f7accbe36aadd0ef83fd2746c879079eb816bc",
+      "title": "A survey on opinion mining and sentiment analysis: Tasks, approaches and applications"
+    },
+    {
+      "paperId": "770f77d14b6ac9289f3c997b57d356e71d44d5ed",
+      "title": "Context-specific sentiment lexicon expansion via minimal user interaction"
+    },
+    {
+      "paperId": "c806f87d5c73f471d0015ff03462f53ebbced1c4",
+      "title": "Evaluation of opinion visualization techniques"
+    },
+    {
+      "paperId": "031a097b979ef4db8a607578cffc3476d4af1f39",
+      "title": "OpinionRings: Inferring and visualizing the opinion tendency of socially connected users"
+    },
+    {
+      "paperId": "9e7f8d1777f2e5dfc216eb0ee6ca30ae58f686fd",
+      "title": "Visualizing Social Media Sentiment in Disaster Scenarios"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "539621dc4cfc59a0708ed653227559ac273554dd",
+      "title": "EmoTwitter - A Fine-Grained Visualization System for Identifying Enduring Sentiments in Tweets"
+    },
+    {
+      "paperId": "d52c7055797f63daedddb7a75e7ca9711afabae2",
+      "title": "SentiCompass: Interactive visualization for exploring and comparing the sentiments of time-varying twitter data"
+    },
+    {
+      "paperId": "c1289d938ba7e36140f83fdeb48f601b3c9b0918",
+      "title": "Using text in visualizations for micro/macro readings"
+    },
+    {
+      "paperId": "20c4533e51e63cc0b86ce6c644c7e851b9f6a222",
+      "title": "Visual analysis of online social media to open up the investigation of stance phenomena"
+    },
+    {
+      "paperId": "99c7a30a29ff46e1af651cf73fbf13811e589117",
+      "title": "Active learning for sentiment analysis on data streams: Methodology and workflow implementation in the ClowdFlows platform"
+    },
+    {
+      "paperId": "86cf6d8e63db8bf04bef788059f34a81b0cd40ad",
+      "title": "Visualizing Temporal Changes in Impressions from Tweets"
+    },
+    {
+      "paperId": "19206fb1d34201e21abe29dd2455a7a9833be588",
+      "title": "SocialHelix: visual analysis of sentiment divergence in social media"
+    },
+    {
+      "paperId": "0287be7421722b2fb940370b7bdcfabcd46f5367",
+      "title": "#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "ac5484ea92d6d1245f051121077ec1826341bdb3",
+      "title": "CosMovis: Analyzing semantic network of sentiment words in movie reviews"
+    },
+    {
+      "paperId": "87b74d349c98a4cdf99bd3d8dd4316ec88d4b29c",
+      "title": "Exploring emotions over time within the blogosphere"
+    },
+    {
+      "paperId": "48edeac373255baf1620fec006567aba84647379",
+      "title": "Intelligent Interface for Textual Attitude Analysis"
+    },
+    {
+      "paperId": "c5a000ec6caa5843cdd9191227b21116137b0f4a",
+      "title": "Integrating predictive analytics and social media"
+    },
+    {
+      "paperId": "1a5f09f00466ab11fbab73ff35f5809af3737934",
+      "title": "PEARL: An interactive visual analytic tool for understanding personal emotion style derived from social media"
+    },
+    {
+      "paperId": "d55d7312716bd6197a9a867d98314694118848ce",
+      "title": "Emoticons and linguistic alignment: How visual analytics can elicit storytelling"
+    },
+    {
+      "paperId": "21442ef369fe2262ac9895771610c47762dd22cd",
+      "title": "FAVe: Visualizing User Feedback for Software Evolution"
+    },
+    {
+      "paperId": "0b348291287b86ba8f06e929c40556567c2ee3fa",
+      "title": "Collaborative Visual Analysis of Sentiment in Twitter Events"
+    },
+    {
+      "paperId": "f29c3d47136817bef5a3b6b07d5e1a35c28c9b9b",
+      "title": "Analysis and Visualization of Sentiment and Emotion on Crisis Tweets"
+    },
+    {
+      "paperId": "b459acf8f890afaa1cd0d61e4bd28ead5b39ee80",
+      "title": "Components of Emotional Meaning: A Sourcebook"
+    },
+    {
+      "paperId": "8a0a8568acf2b95c9cb471e28ee6b25c5e4fe186",
+      "title": "SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis"
+    },
+    {
+      "paperId": "835e5206f0c7bdcc7a61ed82a2aae549e3c4088c",
+      "title": "ConVis: A Visual Text Analytic System for Exploring Blog Conversations"
+    },
+    {
+      "paperId": "2b0b628813289e6753f27b0cbcdfcf29c76cbd4c",
+      "title": "Semantize: visualizing the sentiment of individual document"
+    },
+    {
+      "paperId": "100f6c476b14cfc57d5cd93f0f1c2eb506666850",
+      "title": "ImgWordle: image and text visualization for events in microblogging services"
+    },
+    {
+      "paperId": "c23064eb7b95c0affd296218b5f383de1e7174de",
+      "title": "Identifying and Analyzing Moral Evaluation Frames in Climate Change Blog Discourse"
+    },
+    {
+      "paperId": "916461bb130deaae55985eec737c9c29fefd2df9",
+      "title": "EmotionWatch: Visualizing Fine-Grained Emotions in Event-Related Tweets"
+    },
+    {
+      "paperId": "0a7d07d1fa0b77160347e5baa1687e2df0a8cc61",
+      "title": "Are They Different? Affect, Feeling, Emotion, Sentiment, and Opinion Detection in Text"
+    },
+    {
+      "paperId": "35bdaf9d7c398a87293cbb2f2c07fd1769032fcb",
+      "title": "Sentiment visualization and classification via semi-supervised nonlinear dimensionality reduction"
+    },
+    {
+      "paperId": "28a71bef5fbc8b2f3573ab46cba3457d55d347fc",
+      "title": "Studying Animation for Real-Time Visual Analytics: A Design Study of Social Media Analytics in Emergency Management"
+    },
+    {
+      "paperId": "c3fd266f09a2cab36361c41d643d562fafb0fcea",
+      "title": "Opinion Zoom: A Modular Tool to Explore Tourism Opinions on the Web"
+    },
+    {
+      "paperId": "1134e1a71a3e4a0aafcdf7d99c68a7ed22419e26",
+      "title": "Visualizing emotions in software development projects"
+    },
+    {
+      "paperId": "32c839e7da81ac0b065c381db42bc747d2d4c75a",
+      "title": "SentiView: Sentiment Analysis and Visualization for Internet Popular Topics"
+    },
+    {
+      "paperId": "687bac2d3320083eb4530bf18bb8f8f721477600",
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "d8872ef33ce7e5a2de9ede04ea0fe75c723adf06",
+      "title": "Overview of RepLab 2013: Evaluating Online Reputation Monitoring Systems"
+    },
+    {
+      "paperId": "1e5dec06ec07416219be02ebae36b8eb42e36f61",
+      "title": "Sentiment analysis via dependency parsing"
+    },
+    {
+      "paperId": "ced1ffb90e73ef5d3f90e4c5bf238d6e0ba48864",
+      "title": "Visualizing patterns of appraisal in texts and corpora"
+    },
+    {
+      "paperId": "c3d633d97f170cd0c5ec5910a0fdb54c1c64dc5c",
+      "title": "Time-space varying visual analysis of micro-blog sentiment"
+    },
+    {
+      "paperId": "0f6c5bf1c69e77a969a16f7ff4acbdd85209e141",
+      "title": "Components of emotional meaning: A sourcebook"
+    },
+    {
+      "paperId": "91e64d191d13bcb5f7728861216cb1027eaeb233",
+      "title": "Visual sentiment analysis of customer feedback streams using geo-temporal term associations"
+    },
+    {
+      "paperId": "569224388bcb6afe4689f97bb06bf55c0c553954",
+      "title": "Creating reflections in public emotion visualization: prototype exploration on traffic theme"
+    },
+    {
+      "paperId": "99081dfd6a41da7e716577e03a3ec2cc5340e338",
+      "title": "Co-training and visualizing sentiment evolvement for tweet events"
+    },
+    {
+      "paperId": "7135d51133f94d2b8322064fe402b053f390a879",
+      "title": "Fisheye word cloud for temporal sentiment exploration"
+    },
+    {
+      "paperId": "fc9b02a1c48f7f0578cc45cdd8a00ae91854aba4",
+      "title": "New Avenues in Opinion Mining and Sentiment Analysis"
+    },
+    {
+      "paperId": "6bfef4f0e0ab36ded9fe8b8f533d21fd09d92676",
+      "title": "English Modality: core, periphery and evidentiality"
+    },
+    {
+      "paperId": "0e747a87e8700a25be06a354d3ad9e861f619403",
+      "title": "Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time"
+    },
+    {
+      "paperId": "19e4f2f6f6b2c9ebaa8789ad8521e91fa8d1149d",
+      "title": "Measurement of life-events"
+    },
+    {
+      "paperId": "a192057a85cd1d8627bcabdac82f6a79995b6e83",
+      "title": "From once upon a time to happily ever after: Tracking emotions in mail and books"
+    },
+    {
+      "paperId": "df9e142d8e3602453a2dbe80d6c1b4a1bb910ff1",
+      "title": "Topic Tracker : Shape-based Visualization for Trend and Sentiment Tracking in Twitter"
+    },
+    {
+      "paperId": "e28f2233e10c21b9387bfb7273034e366b5dbf7c",
+      "title": "VISA: a visual sentiment analysis system"
+    },
+    {
+      "paperId": "fd07f669230afa935f5a03180a3f4ab9bd960e5b",
+      "title": "City Flow: Prototype Exploration for Visualizing Urban Traffic Conversations"
+    },
+    {
+      "paperId": "64010747416300277316cb017753ca41d9107d3b",
+      "title": "MoodLens: an emoticon-based sentiment analysis system for chinese tweets"
+    },
+    {
+      "paperId": "0eb15961ffad0d50817aa0d7071e82372607bd9b",
+      "title": "A Bayesian modeling approach to multi-dimensional sentiment distributions prediction"
+    },
+    {
+      "paperId": "1c7a34fa32ac7478ddbf3deece7d9197ea049902",
+      "title": "Extraction and interactive exploration of knowledge from aggregated news and social media content"
+    },
+    {
+      "paperId": "d9867261294b879cc9422cd9b5dcd24c9242d1e9",
+      "title": "Sentiment analysis: what is the end user's requirement?"
+    },
+    {
+      "paperId": "16464e75c0d9644384058dc76f5c4005c924a125",
+      "title": "Interactive visualization of emerging topics in multiple social media streams"
+    },
+    {
+      "paperId": "490ae4469663ed211b14f73c67aebc9117daae4b",
+      "title": "Visualizing sentiments in business-customer relations with metaphors"
+    },
+    {
+      "paperId": "ff5d98bcf70f4ef8fa8869d1f5ff7612332a1582",
+      "title": "Feature-Based Visual Sentiment Analysis of Text Document Streams"
+    },
+    {
+      "paperId": "a6420692c8f10d493e989816ab42ef149585bba2",
+      "title": "Watch the Story Unfold with TextWheel: Visualization of Large-Scale News Streams"
+    },
+    {
+      "paperId": "218d3c3c67230d98c30f9ae964c58d23890a7c7a",
+      "title": "Deriving Insights from National Happiness Indices"
+    },
+    {
+      "paperId": "a2a270e94740b1615672f3f89fcbd519b8286386",
+      "title": "Eventscapes: visualizing events over time with emotive facets"
+    },
+    {
+      "paperId": "063bf45413fafccd0f05c49494b51aeaae2f7d93",
+      "title": "Sampling latent emotions and topics in a hierarchical Bayesian network"
+    },
+    {
+      "paperId": "e98ab6eb7fad7b9e8c4473fb92e4fe61cc450659",
+      "title": "Survey on mining subjective data on the web"
+    },
+    {
+      "paperId": "cfa2646776405d50533055ceb1b7f050e9014dcb",
+      "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions"
+    },
+    {
+      "paperId": "eef187cdabe14a77866b18980c52799b05b2fa9c",
+      "title": "Corpus Approaches to Evaluation: Phraseology and Evaluative Language"
+    },
+    {
+      "paperId": "acb24c9eb82311add41d5994fed519b622398b55",
+      "title": "ForAVis: explorative user forum analysis"
+    },
+    {
+      "paperId": "1cf2f8804eaa3050b6e8da58ed241eb490143f27",
+      "title": "Twitinfo: aggregating and visualizing microblogs for event exploration"
+    },
+    {
+      "paperId": "7da334f80f1628b24988dd8d3bf4e3dee5a0c95f",
+      "title": "Review spotlight: a user interface for summarizing user-generated reviews using adjective-noun word pairs"
+    },
+    {
+      "paperId": "386c1ae9d5f4112839dddec049787733f3863aed",
+      "title": "Interpreting maps of science using citation context sentiments: a preliminary investigation"
+    },
+    {
+      "paperId": "f785dbd8ce064c44cd20e32633f611a2be8f9de0",
+      "title": "Mining comparative opinions from customer reviews for Competitive Intelligence"
+    },
+    {
+      "paperId": "c311778adb9484c86250e915aecd9714f4206050",
+      "title": "Aspect and sentiment unification model for online review analysis"
+    },
+    {
+      "paperId": "5f037dbfb295a1d93892d74e84ffe753bf10f5f6",
+      "title": "Diamonds in the rough: Social media visual analytics for journalistic inquiry"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "2f10e56f8e2c3155548a2bf4bbffef96bcfd262b",
+      "title": "TAKE Scientist's Workbench: Semantic Search and Citation-Based Visual Navigation in Scholar Papers"
+    },
+    {
+      "paperId": "0bb603e731dec97bdc7ff3af9b3023c87d64b3a6",
+      "title": "Corpus Approaches to Evaluation: Phraseology and Evaluative Language"
+    },
+    {
+      "paperId": "7baa28de2e800fbbaf7310b155f41e76fa088bcf",
+      "title": "Opinion mining of camera reviews based on Semantic Role Labeling"
+    },
+    {
+      "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+      "title": "Visualization of Text Streams: A Survey"
+    },
+    {
+      "paperId": "b1eb39722b3577c46e41572099dcaad74ce43753",
+      "title": "An Unsupervised Aspect-Sentiment Model for Online Reviews"
+    },
+    {
+      "paperId": "427a53b4471b57220bb3bee7e4bc1f0631fd6066",
+      "title": "Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
+    },
+    {
+      "paperId": "64b56ccad4242154b9ad2b847242ab80774b8b6b",
+      "title": "From sentence to emotion: a real-time three-dimensional graphics metaphor of emotions extracted from text"
+    },
+    {
+      "paperId": "58e00cde75cf11589ca53e7d2e62179a80cad19a",
+      "title": "SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining"
+    },
+    {
+      "paperId": "ddb1409cb15f3e99f96c226df1dd49aca5fdd6e1",
+      "title": "Opinion space: a scalable tool for browsing online comments"
+    },
+    {
+      "paperId": "3840a54d9a3bf0b1d5bd24c2dceeab05866c7c36",
+      "title": "The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods"
+    },
+    {
+      "paperId": "d12f5ea94b6ac2094b3f8be9a9bfa40d62217df4",
+      "title": "Integrating interactivity into visualising sentiment analysis of blogs"
+    },
+    {
+      "paperId": "38df4fe2bc318706cd106ee7db46f1f794b644bf",
+      "title": "Visual opinion analysis of customer feedback data"
+    },
+    {
+      "paperId": "9e3981c385dbd12f6321c32d61daf4a2f020f39e",
+      "title": "The study on text emotional orientation based on a three-dimensional emotion space model"
+    },
+    {
+      "paperId": "fd19dd715bc0da688609d5fd1736b0e07c9ed8a9",
+      "title": "A Novel Visualization Method for Distinction of Web News Sentiment"
+    },
+    {
+      "paperId": "adc88c38cdfc85d4f20e5eb7decb1d73cc04ec0f",
+      "title": "AMAZING: A sentiment mining and retrieval system"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "5191393764c9646c27f8768b18214c8d2a671f37",
+      "title": "VIBES: visualizing changing emotional states in personal stories"
+    },
+    {
+      "paperId": "cb4e83b334601b958a3ec502e0be6d07bfebe6ae",
+      "title": "A Comparison of Sentiment Analysis Techniques: Polarizing Movie Blogs"
+    },
+    {
+      "paperId": "9e31e5e1e374e010ffe0d17c3033ab9682119680",
+      "title": "BLEWS: Using Blogs to Provide Context for News Articles"
+    },
+    {
+      "paperId": "89cb6de0a78d18200adc46b073c92516df90be2d",
+      "title": "Text Visualization for Visual Text Analytics"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "eacf203b5ada71e7f11a71a9af216cb6cb3288be",
+      "title": "Stancetaking in discourse : subjectivity, evaluation, interaction"
+    },
+    {
+      "paperId": "d9afeb02955830877d55a12bc92e001c3f76ab66",
+      "title": "Categorization and analysis of text in computer mediated communication archives using visualization"
+    },
+    {
+      "paperId": "051026bd9523e48c82c4b1c2b0500f1dc4d6d346",
+      "title": "Visual Analysis of Conflicting Opinions"
+    },
+    {
+      "paperId": "b309e5ba5dd1e4b1ec0d445449cce130f534e208",
+      "title": "User-directed Sentiment Analysis: Visualizing the Affective Content of Documents"
+    },
+    {
+      "paperId": "48cbba5c421b8f9b49c36206a7be28d47ca1627b",
+      "title": "CrystalChat: Visualizing Personal Chat History"
+    },
+    {
+      "paperId": "9b4876f7313b111074e79a01f570e6e9e02c0dce",
+      "title": "Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis"
+    },
+    {
+      "paperId": "b61edf6d800e8e4f9285f0fb3707938ce9c03661",
+      "title": "Pulse: Mining Customer Opinions from Free Text"
+    },
+    {
+      "paperId": "2671e9ff0eb68739d6610cf67937e6b34a2fcf10",
+      "title": "Opinion observer: analyzing and comparing opinions on the Web"
+    },
+    {
+      "paperId": "31dcbe5c9e87b230d693ddfe70a2f8b49474349f",
+      "title": "Single complex glyphs versus multiple simple glyphs"
+    },
+    {
+      "paperId": "6e85b92eb6afecf4e5ca9473e9ecc8f7d5153bc6",
+      "title": "Bimodal visualisation: a financial trading case study"
+    },
+    {
+      "paperId": "6b059cf13118351d8863873ec64f3c36a2d7079c",
+      "title": "Visualizing the affective structure of a text document"
+    },
+    {
+      "paperId": "9e7c7853a16a378cc24a082153b282257a9675b7",
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews"
+    },
+    {
+      "paperId": "68495d9ccd1fd088d45feddd086580a2f130e02e",
+      "title": "Turning pictures into numbers: extracting and generating information from complex visualizations"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "8a26ded61b67cce241352ba8742cd8fa2541d605",
+      "title": "Affect analysis of text using fuzzy semantic typing"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "68c03788224000794d5491ab459be0b2a2c38677",
+      "title": "WordNet: A Lexical Database for English"
+    },
+    {
+      "paperId": "5605fcb3009fb0df95b64dcfb83dd2eac6d956bc",
+      "title": "Straightforward Statistics for the Behavioral Sciences"
+    },
+    {
+      "paperId": "bfdbfe3bf703594b884ae69f505f94ce7e98141e",
+      "title": "An argument for basic emotions"
+    },
+    {
+      "paperId": "c35ebdef193ef00f36f6b345e181648acd568991",
+      "title": "Interpretation of the Correlation Coefficient: A Basic Review"
+    },
+    {
+      "paperId": "7b329ca8d2afe053c8eb13c3562b3aa37acdb54f",
+      "title": "Evidence for a three-factor theory of emotions"
+    },
+    {
+      "paperId": "297d01ff6731c3bd917ede3d378c94cb84650e8f",
+      "title": "Opinion Mining and Sentiment Analysis"
+    },
+    {
+      "paperId": "c5f4337ab395bf77e8b20fe9101c2b922fa14fb8",
+      "title": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "paperId": "bc822da43a2abaf4efce222cb429b0f3148ee9ac",
+      "title": "Communications in Computer and Information Science"
+    },
+    {
+      "paperId": null,
+      "title": "The TimeVis Browser"
+    },
+    {
+      "paperId": "b060df8710ce6178e76524c9f0a03718fc7bf7d1",
+      "title": "Contextual semantics for sentiment analysis of Twitter"
+    },
+    {
+      "paperId": "1b4451592ac0aeda5276e45293e5fd21ff1484ef",
+      "title": "Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual States from Text"
+    },
+    {
+      "paperId": "d1b8a848d56112911b6d736b28617a71cdb8fdaf",
+      "title": "Analyzing Hillary Clinton \u2019 s Emails"
+    },
+    {
+      "paperId": "a6c4709a50d3fdc8087f900ffc26479a32e3d5e6",
+      "title": "Exploratory Text Analysis using Lexical Episode Plots"
+    },
+    {
+      "paperId": "c0100ed4529a471a0cd53cb1987c3151fac94e31",
+      "title": "Meanings of words : theory and application"
+    },
+    {
+      "paperId": "59e369b361bdf2dfb6cec0f284277f5164cbd90f",
+      "title": "The Stor-e-Motion Visualization for Topic Evolution Tracking in Text Data Streams"
+    },
+    {
+      "paperId": "393b03c3e6f54353c9b7820daf697bbaa6ac94c9",
+      "title": "Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "99b57318e54c2d339f3e81e835565abd7c1dfdba",
+      "title": "Text Visualization Browser : A Visual Survey of Text Visualization Techniques"
+    },
+    {
+      "paperId": "9f5aa854ca86907077b5c8d8066fc40eaf2ef447",
+      "title": "Mapping moods: Geo-mapped sentiment analysis during hurricane sandy"
+    },
+    {
+      "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+      "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
+    },
+    {
+      "paperId": null,
+      "title": "Ent-it-up"
+    },
+    {
+      "paperId": "e7801e890f940b8013b28c1bb9a34aa4b4367479",
+      "title": "Getting there first : real-time detection of real-world incidents on Twitter"
+    },
+    {
+      "paperId": "630e61d808ff9b2583e966c7ac6854b1b6511b5e",
+      "title": "Automating Large-Scale Annotation for Analysis of Social Media Content"
+    },
+    {
+      "paperId": null,
+      "title": "The State of the Text Analytics \u201cTask-Driven Analysis of Social Media \u201d"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "2ab4c1f27d608bcacb04b9bfe936c0313f077990",
+      "title": "OpinionBlocks : Visualizing Consumer Reviews"
+    },
+    {
+      "paperId": "7ac4f2671221a54b8185bb77fd503da29dcec640",
+      "title": "Knowledge-Based and Intelligent Information and Engineering Systems"
+    },
+    {
+      "paperId": "8badb973a35f5efd505608adfeaf32bbbba602d0",
+      "title": "Visual Sentiment Analysis of RSS News Feeds Featuring the US Presidential Election in 2008"
+    },
+    {
+      "paperId": "70e1941dfe07620535f783ce9a8dd110de152cca",
+      "title": "Understanding Sentiment of People from News Articles: Temporal Sentiment Analysis of Social Events"
+    },
+    {
+      "paperId": "a677f87fbbec1c2cffa2d203f7fbbf0f3fd4f008",
+      "title": "Constructions of Intersubjectivity: Discourse, Syntax, and Cognition"
+    },
+    {
+      "paperId": "7e5f9bdd5118086c27144de34847da758f2d298c",
+      "title": "MoodViews: Tools for Blog Mood Analysis"
+    },
+    {
+      "paperId": "d65bbc20fef0201cf7d1cb2e91a0181354c08dd9",
+      "title": "The Language of Evaluation: Appraisal in English"
+    },
+    {
+      "paperId": "52b3d9fcc8d0d3beb0357c598358f0435784d517",
+      "title": "WordNet Affect: an Affective Extension of WordNet"
+    },
+    {
+      "paperId": "f3bc40226b0ba247328ffcd8854f8ef7d6ef10ab",
+      "title": "Between epistemic modality and degree: the case of really"
+    },
+    {
+      "paperId": "b3b7b374eee3ea3c6fe35c1e7bdf9bf24c9456b0",
+      "title": "A GENERAL PSYCHOEVOLUTIONARY THEORY OF EMOTION"
+    },
+    {
+      "paperId": null,
+      "title": "Tour-pedia: A web application for sentiment visualization in tourism domain"
+    },
+    {
+      "paperId": null,
+      "title": "Emotion detection and recognition market\u2014Global forecast to 2020"
+    },
+    {
+      "paperId": null,
+      "title": "ORCAESTRA: Organizing news comments using aspect, entity and sentiment extraction"
+    }
+  ]
+}

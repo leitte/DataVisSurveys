@@ -1,0 +1,773 @@
+{
+  "paperId": "0a88a1a7986d44006d54a43f0328b2ba642c7256",
+  "externalIds": {
+    "MAG": "2960571052",
+    "DBLP": "journals/cgf/ChaoBLMWLD20",
+    "DOI": "10.1111/cgf.13803",
+    "CorpusId": 198234654
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/0a88a1a7986d44006d54a43f0328b2ba642c7256",
+  "title": "A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving",
+  "abstract": "Virtualized traffic via various simulation models and real\u2010world traffic data are promising approaches to reconstruct detailed traffic flows. A variety of applications can benefit from the virtual traffic, including, but not limited to, video games, virtual reality, traffic engineering and autonomous driving. In this survey, we provide a comprehensive review on the state\u2010of\u2010the\u2010art techniques for traffic simulation and animation. We start with a discussion on three classes of traffic simulation models applied at different levels of detail. Then, we introduce various data\u2010driven animation techniques, including existing data collection methods, and the validation and evaluation of simulated traffic flows. Next, we discuss how traffic simulations can benefit the training and testing of autonomous vehicles. Finally, we discuss the current states of traffic simulation and animation and suggest future research directions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 173,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13803",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-07-15",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chao2019ASO,\n author = {Qianwen Chao and Huikun Bi and Weizi Li and Tianlu Mao and Zhaoqi Wang and M. Lin and Z. Deng},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving},\n volume = {39},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3219746",
+      "name": "Qianwen Chao"
+    },
+    {
+      "authorId": "3441309",
+      "name": "Huikun Bi"
+    },
+    {
+      "authorId": "2116202028",
+      "name": "Weizi Li"
+    },
+    {
+      "authorId": "1715575",
+      "name": "Tianlu Mao"
+    },
+    {
+      "authorId": "1752178",
+      "name": "Zhaoqi Wang"
+    },
+    {
+      "authorId": "144247566",
+      "name": "M. Lin"
+    },
+    {
+      "authorId": "145140508",
+      "name": "Z. Deng"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "211f4fc59b399832ae35f3fcc5a24daea3ec9b2d",
+      "title": "A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing"
+    },
+    {
+      "paperId": "bc8e4989cf8207e1f6f23e1d5a6ccfce49765fa4",
+      "title": "Dictionary-based Fidelity Measure for Virtual Traffic"
+    },
+    {
+      "paperId": "b9446fbf11f78a4c4e981969d2433a5f31f184b7",
+      "title": "ADAPS: Autonomous Driving Via Principled Simulations"
+    },
+    {
+      "paperId": "007a69d37ddec328f1a5c92acdebbdded7ec3808",
+      "title": "Force-based Heterogeneous Traffic Simulation for Autonomous Vehicle Testing"
+    },
+    {
+      "paperId": "a5694a6fc3963af6cc1e6ce9afddf4ee96d8f738",
+      "title": "AADS: Augmented autonomous driving simulation using data-driven algorithms"
+    },
+    {
+      "paperId": "ec0f69be4253f78abcad6ae07b74fbcfe72755b6",
+      "title": "AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms"
+    },
+    {
+      "paperId": "bd575d03dd5db721728ecabf6715f9425c593c0f",
+      "title": "Manual"
+    },
+    {
+      "paperId": "1373195c26eab581138579f7389cdf8b7a94a4bb",
+      "title": "Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing"
+    },
+    {
+      "paperId": "782bec46053aa93ebbbf5d1d27497966b2407848",
+      "title": "Scene-LSTM: A Model for Human Trajectory Prediction"
+    },
+    {
+      "paperId": "9d0907770cd4619aa6a36139a859e8f09bc9f0ef",
+      "title": "Textual Explanations for Self-Driving Vehicles"
+    },
+    {
+      "paperId": "e3088dd1ab6993e3e9bc75e5b9b266139a2570b0",
+      "title": "CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving"
+    },
+    {
+      "paperId": "d197b98495c0e34534d61d14d5d8fe8852b4559e",
+      "title": "A Compressive Sensing Approach for Connected Vehicle Data Capture and Recovery and its Impact on Travel Time Estimation"
+    },
+    {
+      "paperId": "b763d492b88c079459e67c28959d616a3f1a572d",
+      "title": "SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints"
+    },
+    {
+      "paperId": "7b5bd8535e49747b752c5eb8c0d80cd45a30078b",
+      "title": "Toward Driving Scene Understanding: A Dataset for Learning Driver Behavior and Causal Reasoning"
+    },
+    {
+      "paperId": "31bac8e29c25d19c11303440834e59ca8ae5a45c",
+      "title": "Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction"
+    },
+    {
+      "paperId": "b5a6074568063c0078e59411f68c9ae0d6053348",
+      "title": "AutonoVi-Sim: Autonomous Vehicle Simulation Platform with Weather, Sensing, and Traffic Control"
+    },
+    {
+      "paperId": "c40bfdc874cf4f8d3931f21e3975054ce8a75513",
+      "title": "LiDAR-Video Driving Dataset: Learning Driving Policies Effectively"
+    },
+    {
+      "paperId": "cb0c4256358167ea8fc21d2c64495b06ae04fd52",
+      "title": "Planning and Decision-Making for Autonomous Vehicles"
+    },
+    {
+      "paperId": "7f9832031d61c46f051dad9a0d421338888b6b00",
+      "title": "Convolutional Social Pooling for Vehicle Trajectory Prediction"
+    },
+    {
+      "paperId": "fe6321c5ea2784bfd6880e2569c97d79f5ca677b",
+      "title": "Estimating urban traffic states using iterative refinement and Wardrop equilibria"
+    },
+    {
+      "paperId": "3a701cf34433781028e192e8f4ca9da050ac946e",
+      "title": "MX-LSTM: Mixing Tracklets and Vislets to Jointly Forecast Trajectories and Head Poses"
+    },
+    {
+      "paperId": "332ed1143ec551827f188c951f49f5b1823381fc",
+      "title": "Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars"
+    },
+    {
+      "paperId": "49c076bbc21ab76720b610ab3840c15ce3dc4e6c",
+      "title": "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks"
+    },
+    {
+      "paperId": "951dede2758451825dceed238d356a3a984c3670",
+      "title": "End-to-End Learning of Driving Models with Surround-View Cameras and Route Planners"
+    },
+    {
+      "paperId": "d40fa05a0f1578523f0c07e217afcf34159c12fb",
+      "title": "Synthesizing Personalized Training Programs for Improving Driving Habits via Virtual Reality"
+    },
+    {
+      "paperId": "27d1eb9542075a52d5ba46885fa152f4212d9ef0",
+      "title": "Shadow traffic: A unified model for abnormal traffic behavior simulation"
+    },
+    {
+      "paperId": "c52e06e4b37d7fd9d889eb9598ac0bdf328ced5f",
+      "title": "Realistic Data-Driven Traffic Flow Animation Using Texture Synthesis"
+    },
+    {
+      "paperId": "3ebe3ca86c851db213050b726f74caf4ccfbe41a",
+      "title": "StreetGen : In base city scale procedural generation of streets: road network, road surface and street objects"
+    },
+    {
+      "paperId": "102a06f86fe762b0275cdff504d4099c35b218bf",
+      "title": "Real-to-Virtual Domain Unification for End-to-End Autonomous Driving"
+    },
+    {
+      "paperId": "bc5bab125d077ad3845084173dff10cdfe7f6850",
+      "title": "City-scale traffic animation using statistical learning and metamodel-based optimization"
+    },
+    {
+      "paperId": "ebf0615fc4d98cf1dbe527c79146ce1e50dce9af",
+      "title": "CARLA: An Open Urban Driving Simulator"
+    },
+    {
+      "paperId": "0263d8647b9c264a721cf4015e6b0a8dfca3b3e6",
+      "title": "Procedural Modeling and Physically Based Rendering for Synthetic Data Generation in Automotive Applications"
+    },
+    {
+      "paperId": "7c739dddc905c967e0b432dc7515cb1f4b82e580",
+      "title": "Social Attention: Modeling Attention in Human Crowds"
+    },
+    {
+      "paperId": "90d2d6e19913d481b75d2e3950f5eb8ec385fcd1",
+      "title": "Playing for Benchmarks"
+    },
+    {
+      "paperId": "9d4113a3791ada42522b68b541a8d923fe3c32e7",
+      "title": "Learning how to drive in a real world simulation with deep Q-Networks"
+    },
+    {
+      "paperId": "9ad4026c49580e2336c17482e82c3e8f0c61911c",
+      "title": "Deep neural networks for Markovian interactive scene prediction in highway scenarios"
+    },
+    {
+      "paperId": "a598e53c6284deca712a2722b43a7ae1713aa406",
+      "title": "Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car"
+    },
+    {
+      "paperId": "59e4224c1013e2fbedf2a49958f443a674348115",
+      "title": "Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network"
+    },
+    {
+      "paperId": "864ad6b8f2778bf7238e8a983551edc2072f08a9",
+      "title": "DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents"
+    },
+    {
+      "paperId": "7541c956a13f50d8ffbef853539b466f6a77a80d",
+      "title": "Virtual to Real Reinforcement Learning for Autonomous Driving"
+    },
+    {
+      "paperId": "ab2e9398954142727aa78ac68517159906e3fffd",
+      "title": "Imitating driver behavior with generative adversarial networks"
+    },
+    {
+      "paperId": "4e312c8d303f68273e850ed5e5e5d808bb6883bb",
+      "title": "Citywide Estimation of Traffic Dynamics via Sparse GPS Traces"
+    },
+    {
+      "paperId": "d74ed94c7a83298a4b4f0e1c70200126e464cc05",
+      "title": "1 year, 1000 km: The Oxford RobotCar dataset"
+    },
+    {
+      "paperId": "57144ee106a8d099e7cf8a98d4a2e5fb0cdccd24",
+      "title": "End-to-End Learning of Driving Models from Large-Scale Video Datasets"
+    },
+    {
+      "paperId": "e02648627d288b07e7ee83e3bf80ae447514ad3f",
+      "title": "WarpDriver"
+    },
+    {
+      "paperId": "6cd7a47bbba11a994cd8e68ee5eae2fcb0033054",
+      "title": "Driving in the Matrix: Can virtual worlds replace human-generated annotations for real world tasks?"
+    },
+    {
+      "paperId": "f03bfac9027babfeda145f813a4f9710ea56e94c",
+      "title": "Example\u2010Driven Procedural Urban Roads"
+    },
+    {
+      "paperId": "4d9d25e67ebabbfc0acd63798f1a260cb2c8a9bd",
+      "title": "Playing for Data: Ground Truth from Computer Games"
+    },
+    {
+      "paperId": "d16e66f0e4a3bcbfac5ea4c19e60ed53f6608f45",
+      "title": "Learning a Driving Simulator"
+    },
+    {
+      "paperId": "ebadeae8265a16eb81f7901207bcfc986cc9bb69",
+      "title": "A data-driven model for lane-changing in traffic simulation"
+    },
+    {
+      "paperId": "e11a020f0d2942d09127daf1ce7e658d3bf67291",
+      "title": "Social LSTM: Human Trajectory Prediction in Crowded Spaces"
+    },
+    {
+      "paperId": "9358d2ae944cfbdcb4b48e2e0c5f7ad97118b74e",
+      "title": "The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes"
+    },
+    {
+      "paperId": "6917799fc9bffed1edfc50adddaa270ae5a1daee",
+      "title": "DeepLanes: End-To-End Lane Position Estimation Using Deep Neural Networks"
+    },
+    {
+      "paperId": "0e3cc46583217ec81e87045a4f9ae3478a008227",
+      "title": "End to End Learning for Self-Driving Cars"
+    },
+    {
+      "paperId": "7995dddea80c84c193aede353536f730e13fedca",
+      "title": "A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles"
+    },
+    {
+      "paperId": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+      "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
+    },
+    {
+      "paperId": "98bb4446b569f742c56faa47fc925e36d173453c",
+      "title": "Visualization, Selection, and Analysis of Traffic Flows"
+    },
+    {
+      "paperId": "b81fa7307dc1279d8f59a6c81e12aae0b1636fb1",
+      "title": "Genealogy of traffic flow models"
+    },
+    {
+      "paperId": "99c3b2f50b3dfc86bf5feded6760df8b9e813584",
+      "title": "Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions"
+    },
+    {
+      "paperId": "e55401e43f0bac9c6596c00d0067c557f664dacf",
+      "title": "Macroscopic traffic flow modeling with adaptive cruise control: Development and numerical solution"
+    },
+    {
+      "paperId": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+      "title": "Continuous control with deep reinforcement learning"
+    },
+    {
+      "paperId": "4a827900ac53fc5997d1dbba75315618c455fef6",
+      "title": "Learning driving styles for autonomous vehicles from demonstration"
+    },
+    {
+      "paperId": "5545ffca8db6c85da7c043ad0027d8e2b732bb97",
+      "title": "Virtualized Traffic at Metropolitan Scales"
+    },
+    {
+      "paperId": "f693faa5c6bf5dc4547ae03e8748a2c8d6511356",
+      "title": "Vehicle\u2013pedestrian interaction for mixed traffic simulation"
+    },
+    {
+      "paperId": "d6b93b766dff2066cebbc897c9ec7fbc44848ad7",
+      "title": "DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving"
+    },
+    {
+      "paperId": "50716fc55e65d10100ef440eee9a2b76b4d6f130",
+      "title": "An efficient lane model for complex traffic simulation"
+    },
+    {
+      "paperId": "186336fb15a47ebdc6f0730d0cf4f56c58c5b906",
+      "title": "Car that Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models"
+    },
+    {
+      "paperId": "3b6127a19fea57fbbec669e56ecbf252b3a75b33",
+      "title": "Experience, Results and Lessons Learned from Automated Driving on Germany's Highways"
+    },
+    {
+      "paperId": "d63138214ea69e8662c3678cd310fc93b3e9f753",
+      "title": "Visual Exploration of Sparse Traffic Trajectory Data"
+    },
+    {
+      "paperId": "a90fed020ef56b448aa9ef88efa056f7d33cc575",
+      "title": "Incorporating human-factors in car-following models : a review of recent developments and research needs"
+    },
+    {
+      "paperId": "95887cb48fe1fdf20e200f8e28585fdefea92fd6",
+      "title": "A survey on motion prediction and risk assessment for intelligent vehicles"
+    },
+    {
+      "paperId": "643f574d1fded19760b3e0e634342fab2287fdbb",
+      "title": "Compression of trajectory data: a comprehensive evaluation and new approach"
+    },
+    {
+      "paperId": "d01666c40724d577483aacf3e4ca713bae6d651a",
+      "title": "Designing large\u2010scale interactive traffic animations for urban modeling"
+    },
+    {
+      "paperId": "14c11e1ff2e7f05992d79330bb9d74ed19a62c1f",
+      "title": "A personality model for animating heterogeneous traffic behaviors"
+    },
+    {
+      "paperId": "19da53cd2d0f97919780eaf7adfbd481e7556e72",
+      "title": "A survey on modeling and simulation of vehicular networks: Communications, mobility, and tools"
+    },
+    {
+      "paperId": "89067e65ca5cce1086b93e405ad6ea5c2e5eea15",
+      "title": "Visual Traffic Jam Analysis Based on Trajectory Data"
+    },
+    {
+      "paperId": "7fc28289a6e752a7914e55954c6b928513ee85ec",
+      "title": "Video-based personalized traffic learning"
+    },
+    {
+      "paperId": "79b949d9b35c3f51dd20fb5c746cc81fc87147eb",
+      "title": "Vision meets robotics: The KITTI dataset"
+    },
+    {
+      "paperId": "6312f2b81b479992ab4a4045a57d89a01bdad3fe",
+      "title": "Flow reconstruction for data-driven traffic animation"
+    },
+    {
+      "paperId": "d46278ba7085b8657608d210c156f7f0fd964b8c",
+      "title": "A Fully-Discrete-State Kinetic Theory Approach to Modeling Vehicular Traffic"
+    },
+    {
+      "paperId": "dd8447af01ba059bf1f39066ecccbb56f0361317",
+      "title": "Detailed traffic animation for urban road networks"
+    },
+    {
+      "paperId": "de5b0fd02ea4f4d67fe3ae0d74603b9822df4e42",
+      "title": "Are we ready for autonomous driving? The KITTI vision benchmark suite"
+    },
+    {
+      "paperId": "f723ce54a91a2939a7ad1a864e7401a13b3693ab",
+      "title": "Transforming GIS Data into Functional Road Models for Large-Scale Traffic Simulation"
+    },
+    {
+      "paperId": "b4667d36044b879b473cdb94aea5fecdeb65c642",
+      "title": "Interactive hybrid simulation of large-scale traffic"
+    },
+    {
+      "paperId": "79ab3c49903ec8cb339437ccf5cf998607fc313e",
+      "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning"
+    },
+    {
+      "paperId": "7fee3790202055b9482077686e5dd82dde019f2e",
+      "title": "Crowd modeling and simulation technologies"
+    },
+    {
+      "paperId": "42993b1a7d7c786f839e3d73075fcb8a26447630",
+      "title": "Traffic and mobility data collection for real-time applications"
+    },
+    {
+      "paperId": "a306eb285c1ddc4e8644b3b1b19105f83cb6321c",
+      "title": "Continuum Traffic Simulation"
+    },
+    {
+      "paperId": "0015279889e77d44487b5444f7dff1f845c76fda",
+      "title": "Procedural Generation of Roads"
+    },
+    {
+      "paperId": "82a367e5d46e07259ab76dce6adc15c21e7accf0",
+      "title": "Aggregate dynamics for dense crowd simulation"
+    },
+    {
+      "paperId": "d0c217737773facc6989a56bba0e8efd4c253ebc",
+      "title": "Riemann Problem Resolution and Godunov Scheme for the Aw-Rascle-Zhang Model"
+    },
+    {
+      "paperId": "74e25ec9777879069e12e6b7486397556a7fd54b",
+      "title": "Evaluation of traffic data obtained via GPS-enabled mobile phones: The Mobile Century field experiment"
+    },
+    {
+      "paperId": "9eb4c07dc323f1cd52f950b6d412bd763147c065",
+      "title": "Linear and nonlinear waves"
+    },
+    {
+      "paperId": "0c1cf8d2beb1fc690723a5a4b02c0c5d6efd20a3",
+      "title": "Virtualized Traffic: Reconstructing Traffic Flows from Discrete Spatio-Temporal Data"
+    },
+    {
+      "paperId": "1883f06385a5bae5bdc35768a7ef82bfc492fb55",
+      "title": "A behavioral multi-agent model for road traffic simulation"
+    },
+    {
+      "paperId": "a1782bfb4e79c6b6e4c44a8472da3d10d4fd8c66",
+      "title": "Virtual Crowds: Methods, Simulation, and Control"
+    },
+    {
+      "paperId": "27c36fd8e6aeadd50ec1e180399df70c46dede00",
+      "title": "Apprenticeship learning for motion planning with application to parking lot navigation"
+    },
+    {
+      "paperId": "1b6daa043aaeb8104c425a4043532a8a9a8d235b",
+      "title": "Interactive procedural street modeling"
+    },
+    {
+      "paperId": "1f8ca38a1fa455db3388c617697cc91300c59bc6",
+      "title": "Planning Long Dynamically Feasible Maneuvers for Autonomous Vehicles"
+    },
+    {
+      "paperId": "8628779147edf5e3376a399ce4649da68e45ec81",
+      "title": "A tutorial survey on vehicular ad hoc networks"
+    },
+    {
+      "paperId": "dfd00384d9bb430f9d08d9a3000d9bbc43310ebe",
+      "title": "Real\u2010Time Rendering and Editing of Vector\u2010based Terrains"
+    },
+    {
+      "paperId": "5987c4b2fd45f2d7f29e2c775618c4eba73ab6d3",
+      "title": "Kinodynamic motion planning on roadmaps in dynamic environments"
+    },
+    {
+      "paperId": "b4925767c5cd18475ed1da6073486fd5b26117db",
+      "title": "A Hybrid Lagrangian Model Based on the Aw--Rascle Traffic Flow Model"
+    },
+    {
+      "paperId": "bd681cf356544def244ca1c47d7cf569f3bcbf98",
+      "title": "The Aw-Rascle and Zhang's model: Vacuum problems, existence and regularity of the solutions of the Riemann problem"
+    },
+    {
+      "paperId": "29ffd84d57973724ddb379d484f348c81e991ae1",
+      "title": "Jam formation in traffic flow on a highway with some slowdown sections"
+    },
+    {
+      "paperId": "4d3e5e3ffa72ea858e44e05ef01fea45f6c04085",
+      "title": "General Lane-Changing Model MOBIL for Car-Following Models"
+    },
+    {
+      "paperId": "2fade3757dedd6856f02d2e9d32df62ab81f4737",
+      "title": "Traffic Detector Handbook: Third Edition - Volume I"
+    },
+    {
+      "paperId": "71a548c9ab4609cc0b01458b607eaaa217bb456c",
+      "title": "Traffic Flow on a Road Network Using the Aw\u2013Rascle Model"
+    },
+    {
+      "paperId": "a37e9dc75526fea00d6274c2fdbf97243e6f29a6",
+      "title": "Stability of the car-following model on two lanes."
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "1642aad0a50edb551b9e0868d7e62c5014daf744",
+      "title": "Empirical test for cellular automaton models of traffic flow."
+    },
+    {
+      "paperId": "b9466099d9e9d41cf1b2ac350e1bfa34e23d957a",
+      "title": "Transition and saturation of traffic flow controlled by traffic lights"
+    },
+    {
+      "paperId": "f9f470b813c10ce27f18f1d1f95bdc35287f3e7f",
+      "title": "The Ensemble Kalman Filter: theoretical formulation and practical implementation"
+    },
+    {
+      "paperId": "a5103830bfc05e0ec9d4de7d5e533f68659a452b",
+      "title": "Template-based generation of road networks for virtual city modeling"
+    },
+    {
+      "paperId": "aefc38053730a3c0df3f4bbab3480406ea08644d",
+      "title": "Microsimulations of Freeway Traffic Including Control Measures"
+    },
+    {
+      "paperId": "b98ada6cc9b7d8e8f147b5e0da24d9754885b83b",
+      "title": "A NON-EQUILIBRIUM TRAFFIC MODEL DEVOID OF GAS-LIKE BEHAVIOR"
+    },
+    {
+      "paperId": "e7b19a309228474d02612ba7eaf9487d81bdc5bc",
+      "title": "An improved macroscopic model of traffic flow: Derivation and links with the Lighthill-Whitham model"
+    },
+    {
+      "paperId": "540fb487894cc27dfb35d70d8146d15dcfe5470d",
+      "title": "Probabilistic description of traffic breakdowns."
+    },
+    {
+      "paperId": "95c8a50d378638302c88baa0ad3472ee2c2306e4",
+      "title": "Procedural modeling of cities"
+    },
+    {
+      "paperId": "a2aa9f20f033d52a840400dc206dcf0caf85f92d",
+      "title": "Full velocity difference model for a car-following theory."
+    },
+    {
+      "paperId": "e34ad8cd202cb5daf6c1c1dd1b01a38c72caa364",
+      "title": "State-of-the-art of vehicular traffic flow modelling"
+    },
+    {
+      "paperId": "72c837c23ccede3821e2b99c3941b22860e5f667",
+      "title": "Generic gas-kinetic traffic systems modeling with applications to vehicular traffic flow"
+    },
+    {
+      "paperId": "c47e3df83844dec72ecf156c9fa97d1c652674c4",
+      "title": "Platoon-Based Multiclass Modeling of Multilane Traffic Flow"
+    },
+    {
+      "paperId": "db3bc3e5f22de1a94d367f2d28f9e76caadcfc2a",
+      "title": "Probabilistic Description of Traffic Flow"
+    },
+    {
+      "paperId": "59859db9e15a306028a935279c21b96f0c493554",
+      "title": "MASTER: macroscopic traffic simulation based on a gas-kinetic, non-local traffic model"
+    },
+    {
+      "paperId": "b7e4781cb053d316171641c17cf96262380041ab",
+      "title": "Traffic and related self-driven many-particle systems"
+    },
+    {
+      "paperId": "f1f98f318930dea943b452a5ec70e8db401b06db",
+      "title": "Resurrection of \"Second Order\" Models of Traffic Flow"
+    },
+    {
+      "paperId": "5bd045ba979c056bccb0482b2135d7413a23cad6",
+      "title": "Continuum modeling of multiclass traffic flow"
+    },
+    {
+      "paperId": "377302713276e3773666f3ba305aaed2d5d40417",
+      "title": "DERIVATION, PROPERTIES, AND SIMULATION OF A GAS-KINETIC-BASED, NONLOCAL TRAFFIC MODEL"
+    },
+    {
+      "paperId": "1ec67714cfc03d275c42e14ba5c193e5c1e67c4c",
+      "title": "TRAVEL TIME DATA COLLECTION HANDBOOK"
+    },
+    {
+      "paperId": "3e26c11f5298a45a651dd95a7f491b3384be7ca7",
+      "title": "A microscopic traffic simulator for evaluation of dynamic traffic management systems"
+    },
+    {
+      "paperId": "15af55b4c29c5a8a8d9636a3b329a6a53ac8bd65",
+      "title": "Dynamical model of traffic congestion and numerical simulation."
+    },
+    {
+      "paperId": "8706863163d4b1fc59c04e8b4580bdfe1dd34697",
+      "title": "A cellular automaton model for freeway traffic"
+    },
+    {
+      "paperId": "197fe00ae321b2b4ca98882b1a03048f0a1f60d2",
+      "title": "Vehicular Traffic Flow"
+    },
+    {
+      "paperId": "13e99320d89986ca39d8dcf6646076ce6c7436bc",
+      "title": "A Boltzmann-Like Approach for Traffic Flow"
+    },
+    {
+      "paperId": "1db1447bc61a68500ec31e94daf27cf057831f83",
+      "title": "Shock Waves on the Highway"
+    },
+    {
+      "paperId": "f489e01c686a4d0e299e714c47d8740bbfb04ad3",
+      "title": "On kinematic waves II. A theory of traffic flow on long crowded roads"
+    },
+    {
+      "paperId": "5bcaecafada73f7b3312ea4f23ef3c3d1b3a4292",
+      "title": "An Operational Analysis of Traffic Dynamics"
+    },
+    {
+      "paperId": "18d1da8b435d6feccfa16ce0ad2136c16426d0e1",
+      "title": "Experimental Designs Balanced for the Estimation of Residual Effects of Treatments"
+    },
+    {
+      "paperId": "feda7fc9a777f889bd138ce38aabed21f0ee53df",
+      "title": "On the method of paired comparisons."
+    },
+    {
+      "paperId": "6e7c7c39a8335acc5dcd020cf16197c3e310bdaf",
+      "title": "ON THE METHOD OF PAIRED COMPARISONS"
+    },
+    {
+      "paperId": "5785e168205e9f57f94a6254e8ccc38f77453d26",
+      "title": "Microscopic and Mesoscopic Traffic Models"
+    },
+    {
+      "paperId": null,
+      "title": "Next generation simulation fact sheet"
+    },
+    {
+      "paperId": null,
+      "title": "city car driving (virtual reality)"
+    },
+    {
+      "paperId": null,
+      "title": "Traf\ufb01c software integrated system - corridor simulation"
+    },
+    {
+      "paperId": "6f13adfc08ed834d4a2f804b5c757ca52805c336",
+      "title": "StreetGAN: towards road network synthesis with generative adversarial networks"
+    },
+    {
+      "paperId": null,
+      "title": "uber movement"
+    },
+    {
+      "paperId": "7786bc6c25ba38ff0135f1bdad192f6b3c4ad0b3",
+      "title": "ALVINN, an autonomous land vehicle in a neural network"
+    },
+    {
+      "paperId": null,
+      "title": "Safety Pilot Model Deployment: Test Conductor Team Report"
+    },
+    {
+      "paperId": "5adfba59e092fcca4863718596f3a6f4e28544da",
+      "title": "AA\u2010FVDM: An accident\u2010avoidance full velocity difference model for animating realistic street\u2010level traffic in rural scenes"
+    },
+    {
+      "paperId": "bb4c3821b197b11fc4f818a7538e8bff5484612a",
+      "title": "Learning Autonomous Driving Styles and Maneuvers from Expert Demonstration"
+    },
+    {
+      "paperId": "68b4f6c7ae67c7c7ab8be143840964f6f2129b6f",
+      "title": "A review on travel behaviour modelling in dynamic traffic simulation models for evacuations"
+    },
+    {
+      "paperId": "253f207e09df4ec20007224f2a6efd42556b038a",
+      "title": "TRAFFIC DATA COLLECTION AND ANONYMOUS VEHICLE DETECTION USING WIRELESS SENSOR NETWORKS"
+    },
+    {
+      "paperId": null,
+      "title": "KHANDANI M"
+    },
+    {
+      "paperId": "0e55b7811304a1d89f5af38759a2c6831877db75",
+      "title": "Design and Development of an Optimal-Control-Based Framework for Trajectory Planning, Threat Assessment, and Semi-autonomous Control of Passenger Vehicles in Hazard Avoidance Scenarios"
+    },
+    {
+      "paperId": null,
+      "title": "T-Drive Project"
+    },
+    {
+      "paperId": "938d8e55a4262a611e8b5979ae92e1f4b01074b4",
+      "title": "Road Traffic Data: Collection Methods and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Opendrive R -an open standard for the description of roads in driving simulations"
+    },
+    {
+      "paperId": null,
+      "title": "KLEIN L"
+    },
+    {
+      "paperId": "b9c4d931665ec87c16fcd44cae8fdaec1215e81e",
+      "title": "TORCS, The Open Racing Car Simulator"
+    },
+    {
+      "paperId": "57257a882b3bee1bd3a30b2702a5fd4ef847a0e5",
+      "title": "Dynamic Network Simulation with AIMSUN"
+    },
+    {
+      "paperId": "00ee258961263fb87f6b3394906da0afa67b114d",
+      "title": "Multilane simulations of traffic phases."
+    },
+    {
+      "paperId": "4c0b98194df6924ef60af1189d45f1f1b1c87aa2",
+      "title": "Statistical Validation of Traffic Simulation Models"
+    },
+    {
+      "paperId": null,
+      "title": "User's guide for mitsimlab and road network editor"
+    },
+    {
+      "paperId": null,
+      "title": "Finite Volume Methods for Hyperbolic Problems, vol. 31"
+    },
+    {
+      "paperId": "35da11f28759a28b3e7dde181382a73dd535b86b",
+      "title": "Resurrection of \"second Order\" Models of Traac Ow?"
+    },
+    {
+      "paperId": "c00f4f18bb9d64ec8d317744b0b8fbb5844598de",
+      "title": "Continuum modeling of multiclass tra c \u0304 ow"
+    },
+    {
+      "paperId": null,
+      "title": "HOLDENER D"
+    },
+    {
+      "paperId": "74047568a00104fa48af86f26c99f369db1daec4",
+      "title": "MODELS OF FREEWAY TRAFFIC AND CONTROL."
+    },
+    {
+      "paperId": null,
+      "title": "Vehicle movements in a platoon"
+    },
+    {
+      "paperId": null,
+      "title": "Apollo simulation"
+    },
+    {
+      "paperId": null,
+      "title": "Udacity: Udacity self-driving car driving data 10/3/2016 (dataset-2-2.bag.tar.gz)"
+    },
+    {
+      "paperId": null,
+      "title": "A Survey on Visual Traf\ufb01c Simulation: Models, Evaluations, and Applications in Autonomous Driving"
+    }
+  ]
+}

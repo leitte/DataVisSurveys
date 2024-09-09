@@ -1,0 +1,638 @@
+{
+  "paperId": "ea65552ec74d929b187923fb1ce7b2441e05a096",
+  "externalIds": {
+    "MAG": "3035772872",
+    "DBLP": "journals/cgf/BujackYHGW20",
+    "DOI": "10.1111/cgf.14037",
+    "CorpusId": 221097012
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/ea65552ec74d929b187923fb1ce7b2441e05a096",
+  "title": "State of the Art in Time\u2010Dependent Flow Topology: Interpreting Physical Meaningfulness Through Mathematical Properties",
+  "abstract": "We present a state\u2010of\u2010the\u2010art report on time\u2010dependent flow topology. We survey representative papers in visualization and provide a taxonomy of existing approaches that generalize flow topology from time\u2010independent to time\u2010dependent settings. The approaches are classified based upon four categories: tracking of steady topology, reference frame adaption, pathline classification or clustering, and generalization of critical points. Our unique contributions include introducing a set of desirable mathematical properties to interpret physical meaningfulness for time\u2010dependent flow visualization, inferring mathematical properties associated with selective research papers, and utilizing such properties for classification. The five most important properties identified in the existing literature include coincidence with the steady case, induction of a partition within the domain, Lagrangian invariance, objectivity, and Galilean invariance.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 139,
+  "openAccessPdf": {
+    "url": "https://liu.diva-portal.org/smash/get/diva2:1459893/FULLTEXT01",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Physics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bujack2020StateOT,\n author = {R. Bujack and Lin Yan and I. Hotz and Christoph Garth and Bei Wang},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art in Time\u2010Dependent Flow Topology: Interpreting Physical Meaningfulness Through Mathematical Properties},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3283861",
+      "name": "R. Bujack"
+    },
+    {
+      "authorId": "2110378218",
+      "name": "Lin Yan"
+    },
+    {
+      "authorId": "1706029",
+      "name": "I. Hotz"
+    },
+    {
+      "authorId": "1979642",
+      "name": "Christoph Garth"
+    },
+    {
+      "authorId": "2143669503",
+      "name": "Bei Wang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "28920547a0a68486ada7110d00f2b741088394c9",
+      "title": "Vector Field Topology of Time-Dependent Flows in a Steady Reference Frame"
+    },
+    {
+      "paperId": "107e9ea4a3ee66cfb85ec84dbe53e6831f793a8b",
+      "title": "TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization"
+    },
+    {
+      "paperId": "cb67cbf0605f1785f675e97dde31adfd3c988f14",
+      "title": "Local Prediction Models for Spatiotemporal Volume Visualization"
+    },
+    {
+      "paperId": "a775a73581a50f6560641dcf47a2a33293a2b9f5",
+      "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps"
+    },
+    {
+      "paperId": "caa9294ad69ed270d769908957042d6067cca9d5",
+      "title": "Scalable Contour Tree Computation by Data Parallel Peak Pruning"
+    },
+    {
+      "paperId": "84ce8c52a54871f8f62076ec0eecebd1e4419446",
+      "title": "A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection"
+    },
+    {
+      "paperId": "48771b96a5e66ddfd9b66700922c8928c68be723",
+      "title": "Distributed Percolation Analysis for Turbulent Flows"
+    },
+    {
+      "paperId": "68ff8c5d9b95691ae16687c7fa8e81f8a5e374b8",
+      "title": "InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations"
+    },
+    {
+      "paperId": "079a467bb4a365c8712ce646c36bba9cafc70140",
+      "title": "A Structural Average of Labeled Merge Trees for Uncertainty Visualization"
+    },
+    {
+      "paperId": "8c8020caf9dc93da1fdc7cf1614cd240815be772",
+      "title": "DNN-VolVis: Interactive Volume Visualization Supported by Deep Neural Network"
+    },
+    {
+      "paperId": "bfcc7985e03f3e00ad4cdcb178a10ff521fb3e60",
+      "title": "Probabilistic Asymptotic Decider for Topological Ambiguity Resolution in Level-Set Extraction for Uncertain 2D Data"
+    },
+    {
+      "paperId": "abcb4fccb177d875ab00cd73436f844285c99071",
+      "title": "Recirculation Surfaces for Flow Visualization"
+    },
+    {
+      "paperId": "21692a6454befd93710be9b96e0dace3eb67980d",
+      "title": "Time-Dependent Flow seen through Approximate Observer Killing Fields"
+    },
+    {
+      "paperId": "8555a528c61e9e2495ec0fed27df3ace3478a005",
+      "title": "The State of the Art in Vortex Extraction"
+    },
+    {
+      "paperId": "38ccbd99e75412fc6797edb682ae6bef74e5e0b3",
+      "title": "Persistence Atlas for Critical Point Variability in Ensembles"
+    },
+    {
+      "paperId": "c82cd526e4c2f4c95e2bf9859f384d743b177a47",
+      "title": "The Topology ToolKit"
+    },
+    {
+      "paperId": "9e0a8531893ac860b8a1eb91f5d7f3a7d74d7334",
+      "title": "A Generative Model for Volume Rendering"
+    },
+    {
+      "paperId": "f63983974468f2c18ef6bb317019338b80a33b83",
+      "title": "Generic objective vortices for flow visualization"
+    },
+    {
+      "paperId": "3e25572c338cfeb9762d824238ac64e9d7498524",
+      "title": "A critical comparison of Lagrangian methods for coherent structure detection."
+    },
+    {
+      "paperId": "50c7fa341351f1305c75b41c631c996293152b48",
+      "title": "Topological fluid mechanics of the formation of the K\u00e1rm\u00e1n-vortex street"
+    },
+    {
+      "paperId": "27b2f3b891fb53119452e3c73f26e5e166841acc",
+      "title": "Parallel peak pruning for scalable SMP contour tree computation"
+    },
+    {
+      "paperId": "f19fb142ce78bd80e9820ef3b68aedd63326a51d",
+      "title": "Space\u2010Time Bifurcation Lines for Extraction of 2D Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "75d25d94c31302a04432891f94088a19ab65a484",
+      "title": "A Survey of Topology\u2010based Methods in Visualization"
+    },
+    {
+      "paperId": "d62d7d71894e50fb6b218d659ab77c990d75ce1a",
+      "title": "Topology-inspired Galilean invariant vector field analysis"
+    },
+    {
+      "paperId": "e89b2ecd27615211e50bacb5f396439818550b17",
+      "title": "Understanding the geometry of transport: Diffusion maps for Lagrangian trajectory data unravel coherent sets."
+    },
+    {
+      "paperId": "f61608c88647fa63b79cb7b9548f858e9a447430",
+      "title": "From numerics to combinatorics: a survey of topological methods for vector field visualization"
+    },
+    {
+      "paperId": "23ccb88336e20bfc9a6e2c28de19efba51ea2816",
+      "title": "Isosurface Visualization of Data with Nonparametric Models for Uncertainty"
+    },
+    {
+      "paperId": "55c5613fb72541993d1cda44a6190900805d954f",
+      "title": "Contour trees of uncertain terrains"
+    },
+    {
+      "paperId": "2212a305cbc1f330c0a6166950a3b86a2684ed56",
+      "title": "An objective perspective for classic flow classification criteria"
+    },
+    {
+      "paperId": "022c578ed16f64023c55048ac777d72f1be8fc48",
+      "title": "Spectral-clustering approach to Lagrangian vortex detection."
+    },
+    {
+      "paperId": "b20c137482ccdc3717e691ce9613643d1c917fd7",
+      "title": "Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "e3641e5cc3392f84999ef633cf5548b2b30cbc6b",
+      "title": "Scientific Visualization: Uncertainty, Multifield, Biomedical, and Scalable Visualization"
+    },
+    {
+      "paperId": "91b96fd1260b447d83a21f33f738c43c4f552bcf",
+      "title": "Extracting Features from Time\u2010Dependent Vector Fields Using Internal Reference Frames"
+    },
+    {
+      "paperId": "141ef9bc9d02faff3ca6fb4c0a01670a1892a9af",
+      "title": "Visualizing the stability of critical points in uncertain scalar fields"
+    },
+    {
+      "paperId": "8b7039c27cbae86ac849e8ea641c46fe3884e1d4",
+      "title": "Mandatory Critical Points of 2D Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "11479e59d622b73d4300909dce8a9f7a8e8b5ba7",
+      "title": "The Natural Helmholtz-Hodge Decomposition for Open-Boundary Flow Analysis"
+    },
+    {
+      "paperId": "8179da98a49c0a6ecd0bce7955de4398cebc26cc",
+      "title": "Acceleration feature points of unsteady shear flows"
+    },
+    {
+      "paperId": "76409faddbc31ce7928a3cf0d96731de99c6d820",
+      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "2b9543f63503666bd8da098ea4a7918d09f9c714",
+      "title": "Differential Geometry Perspective of Shape Coherence and Curvature Evolution by Finite-Time Nonhyperbolic Splitting"
+    },
+    {
+      "paperId": "d9d3fa89bb87784b208cbe7a1f9b953cd79ce762",
+      "title": "Visualizing the Variability of Gradients in Uncertain 2D Scalar Fields"
+    },
+    {
+      "paperId": "5ae5b3b7226eb423196a527f1eca16b14b925fd7",
+      "title": "Coherent Lagrangian vortices: the black holes of turbulence"
+    },
+    {
+      "paperId": "8cc31a72836f52f9b967f0f9702b0751ec6f8541",
+      "title": "Towards Multifield Scalar Topology Based on Pareto Optimality"
+    },
+    {
+      "paperId": "fcd2834955594607bf4eafdf655a6f576e9e7121",
+      "title": "Nonparametric Models for Uncertainty Visualization"
+    },
+    {
+      "paperId": "1dc9950e4d145c39df8ece893eba35277a8641b6",
+      "title": "Visualizing Robustness of Critical Points for 2D Time\u2010Varying Vector Fields"
+    },
+    {
+      "paperId": "b0bc627a07e0c5fb9bec61b7183cadb77291e97d",
+      "title": "A Note On Galilean Invariants In Semi-Relativistic Electromagnetism"
+    },
+    {
+      "paperId": "60f6af6da79152ee08b25a580577c09eba261315",
+      "title": "A Time-Dependent Vector Field Topology Based on Streak Surfaces"
+    },
+    {
+      "paperId": "bbba6dc7a25be1611d69eedc9370859a8819bd17",
+      "title": "Distributed merge trees"
+    },
+    {
+      "paperId": "9645ff225d0143ea625a5ec94f3a55705930d632",
+      "title": "Attracting and repelling Lagrangian coherent structures from a single computation."
+    },
+    {
+      "paperId": "a246be8562732f7936b8c1d1071401dffabeee59",
+      "title": "Group dynamics in scientific visualization"
+    },
+    {
+      "paperId": "1d985b7be0c558ec67821476ce30aff920530a04",
+      "title": "An analytic framework for identifying finite-time coherent sets in time-dependent dynamical systems"
+    },
+    {
+      "paperId": "6b3e006c0575e9042cf6a63c2021e4b8d9707edf",
+      "title": "Efficient Computation of Combinatorial Feature Flow Fields"
+    },
+    {
+      "paperId": "9d00ca54872ca735c5f73e4465cd97dbafa7491d",
+      "title": "Flow Visualization with Quantified Spatial and Temporal Errors Using Edge Maps"
+    },
+    {
+      "paperId": "5f3c4a463aebe2623e32bd422b5ef0c618655604",
+      "title": "Parallel Computation of 3D Morse\u2010Smale Complexes"
+    },
+    {
+      "paperId": "92b8a012c0613c716bc408889aa8761e2545b281",
+      "title": "Computing Lagrangian coherent structures from their variational theory."
+    },
+    {
+      "paperId": "4f127ccbab816c888a1b471349a75b198b134d61",
+      "title": "Investigating the connection between complexity of isolated trajectories and Lagrangian coherent structures"
+    },
+    {
+      "paperId": "15d0a3c411b23ba62a383e2ff58d6571c21f49c3",
+      "title": "The ParaView Coprocessing Library: A scalable, general purpose in situ visualization library"
+    },
+    {
+      "paperId": "7b9a165353df98e241529046205f64d7bc32f3b6",
+      "title": "Analysis of large-scale scalar data using hixels"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "f383ee4816f166121d3b8d1c7ff7c8c01c8593fe",
+      "title": "Lagrangian descriptors: A method for revealing phase space structures of general time dependent dynamical systems"
+    },
+    {
+      "paperId": "3f0614c2ccc558afc2455735f3e8ab10d20e62a2",
+      "title": "Stable Feature Flow Fields"
+    },
+    {
+      "paperId": "08a91abf82527b4786059829b466d2e2e47ba882",
+      "title": "Probabilistic Marching Cubes"
+    },
+    {
+      "paperId": "8d10f81f832aba47211052c44cdd53d84eb83010",
+      "title": "Uncertain topology of 3D vector fields"
+    },
+    {
+      "paperId": "94bb2675ddd4d47478c8701a1aad52ce1ee65279",
+      "title": "Transport in time-dependent dynamical systems: finite-time coherent sets."
+    },
+    {
+      "paperId": "2f3670d89c450a54ead0093ded4994b6a8025e82",
+      "title": "Uncertain 2D Vector Field Topology"
+    },
+    {
+      "paperId": "c44876df083c357817cb28a3ae74aba4c19cc9b2",
+      "title": "Time\u2010Dependent 2\u2010D Vector Field Topology: An Approach Inspired by Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "6d144d2347333426f31e8276c279b02a078f7a73",
+      "title": "An adaptive method for computing invariant manifolds in non-autonomous, three-dimensional dynamical systems"
+    },
+    {
+      "paperId": "87ccc0bddef08c6b8d045a4d1f746e5e0b3f6696",
+      "title": "Efficient Morse Decompositions of Vector Fields"
+    },
+    {
+      "paperId": "ce8649ce9a650a8a64f8a5542507b3653c8e66cc",
+      "title": "Generalized Streak Lines: Analysis and Visualization of Boundary Induced Vortices"
+    },
+    {
+      "paperId": "21f1f3859ba9b9cf8c2066b877517ab67cd00335",
+      "title": "Vortex and Strain Skeletons in Eulerian and Lagrangian Frames"
+    },
+    {
+      "paperId": "91363db33dd5997965fa4b43ad546d1a749af009",
+      "title": "Definition and properties of Lagrangian coherent structures from finite-time Lyapunov exponents in two-dimensional aperiodic flows"
+    },
+    {
+      "paperId": "1e5af29077169f4cbbe38f4cef01877faa1bbf63",
+      "title": "Topological methods for 2D time-dependent vector fields based on stream lines and path lines"
+    },
+    {
+      "paperId": "10db6ffdcbc2fec1ecba40f3551729dacbcf351c",
+      "title": "Principles of Physics: A Calculus-Based Text"
+    },
+    {
+      "paperId": "1db3d0ef98a4e914da3cd7dde4ec023a91b04330",
+      "title": "An objective definition of a vortex"
+    },
+    {
+      "paperId": "999d7ad1cf1e938ba6ecc99aaaa8399be4d55708",
+      "title": "Stream line and path line oriented topology for 2D time-dependent vector fields"
+    },
+    {
+      "paperId": "aa0615ecb90c3f6a1aed52c473ad62369b0417ff",
+      "title": "Tracking of vector field singularities in unstructured 3D time-dependent datasets"
+    },
+    {
+      "paperId": "b12447a4840a4e2d71bbb19743d54486b6f52ac1",
+      "title": "Reconstruction of gradient in volume rendering"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "3b425685c77d758189241f2772d88b71e001ed76",
+      "title": "On the Transformation Property of the Deformation Gradient under a Change of Frame"
+    },
+    {
+      "paperId": "70624769671e5ee1ed503851ab189b5750dcde51",
+      "title": "Distinguished hyperbolic trajectories in time-dependent fluid flows: analytical and computational approach for velocity fields defined as data sets"
+    },
+    {
+      "paperId": "44f277f4bc74094f8d9a6e206bea06a5808f3b9c",
+      "title": "Detecting and Locating Near-Optimal Almost-Invariant Sets and Cycles"
+    },
+    {
+      "paperId": "34a0706bcdf8a1899e3d8c73698e8ab55455d9b8",
+      "title": "Lagrangian coherent structures from approximate velocity data"
+    },
+    {
+      "paperId": "c38ef430ea8f0d9ce4129bf598289374b8ae1e9d",
+      "title": "Topology tracking for the visualization of time-dependent two-dimensional flows"
+    },
+    {
+      "paperId": "535d8195092a58f8ff5b5bbff33408d2dbab925f",
+      "title": "Topological techniques for efficient rigorous computation in dynamics"
+    },
+    {
+      "paperId": "09509d7de5e6ad751a8e463c6f56049e9c032ae4",
+      "title": "Tracking Closed Streamlines in Time Dependent Planar Flows"
+    },
+    {
+      "paperId": "5b7e32aebd0b168cdaaa78758955979619cd604d",
+      "title": "Topology-Based Visualization of Time-Dependent 2D Vector Fields"
+    },
+    {
+      "paperId": "45f0ffcd0eed72d8f8bb66f37437a8734b0ddd6e",
+      "title": "Detection and Visualization of Closed Streamlines in Planar Flows"
+    },
+    {
+      "paperId": "2b2048834c4930f44d4442c0602937eb39438492",
+      "title": "Lagrangian coherent structures and mixing in two-dimensional turbulence"
+    },
+    {
+      "paperId": "cfedb1498c01297de084e9df7cdddaa891741d22",
+      "title": "Finding finite-time invariant manifolds in two-dimensional velocity fields."
+    },
+    {
+      "paperId": "3881e52e175d4a94ef521d21c2493eee7fe62018",
+      "title": "Dynamics of a low Reynolds number turbulent boundary layer"
+    },
+    {
+      "paperId": "40091e105f2004db5ab3440e692966c2d5db8594",
+      "title": "A method for visualization of invariant sets of dynamical systems based on the ergodic partition."
+    },
+    {
+      "paperId": "cc56dfad8018d130e301fd9de1c19382e2749d3b",
+      "title": "A higher-order method for finding vortex core lines"
+    },
+    {
+      "paperId": "6378680c2756b337c6190a5a205faef7c7184b12",
+      "title": "Turbulence structures of wall-bounded shear flows found using DNS data"
+    },
+    {
+      "paperId": "f8e1b3bcee316203b4aa843efd5f581bc16849dc",
+      "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics"
+    },
+    {
+      "paperId": "d8fb5282f85bb4c5e6a4b9e562f5a30d539449bc",
+      "title": "Study of turbulent boundary layer structure using the invariants of the velocity gradient tensor"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "8add71d4bfdc5f7bd4651f3cc2c8b93c3cba7132",
+      "title": "Topology of fine-scale motions in turbulent channel flow"
+    },
+    {
+      "paperId": "93c477c45336617562a0103d9e213e2de7a6afc9",
+      "title": "Identification of Swirling Flow in 3-D Vector Fields"
+    },
+    {
+      "paperId": "f7917b8c2430b8e0512ceacaf23fafb272bf50a9",
+      "title": "Topology of flow patterns in vortex motions and turbulence"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "ae8b96865c96549e00e95ec4bd5928243d3d9f3f",
+      "title": "On the behavior of velocity gradient tensor invariants in direct numerical simulations of turbulence"
+    },
+    {
+      "paperId": "a470a945bffb816577e302ed6002dba3391643de",
+      "title": "A study of the fine\u2010scale motions of incompressible time\u2010developing mixing layers"
+    },
+    {
+      "paperId": "cbd17c0169ff3390ddcebbdc37c6665ef4243137",
+      "title": "The Non-Linear Field Theories Of Mechanics"
+    },
+    {
+      "paperId": "f3889f89bd96f73b086e06c8c37409869dd349cb",
+      "title": "Surface representations of two- and three-dimensional fluid flow topology"
+    },
+    {
+      "paperId": "8347898fd3488289d98dee577412934aa97fc9ce",
+      "title": "A general classification of three-dimensional flow fields"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": "3714132163c5472d8dc10f5fa156d4671e7b2efc",
+      "title": "Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction"
+    },
+    {
+      "paperId": "7844ffb2a570da0958c6fb0702118addfb1d2dd5",
+      "title": "Triplet Merge Trees"
+    },
+    {
+      "paperId": "12ef29fff589cef1dca257ad42c3cc33776b266f",
+      "title": "Interpreting Galilean Invariant Vector Field Analysis via Extended Robustness"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": "0fed609ee03539f7c4a29fd021d3107bf44c12fd",
+      "title": "Objective Finite-Time Saddles and their Connection to FTLE"
+    },
+    {
+      "paperId": "1a0713779733623c0152a5a1c532d72ea8852dbd",
+      "title": "Continuum Mechanics"
+    },
+    {
+      "paperId": "0bb9ca9761e1a9c004e20ac37b10e4ca0c6c98e8",
+      "title": "An introduction to ordinary differential equations"
+    },
+    {
+      "paperId": "3c52d1b0fb6ebd54e6e6d34066c977f942d2495e",
+      "title": "The Non Linear Field Theories Of Mechanics"
+    },
+    {
+      "paperId": "17c058324abbba4f6c1b8f9acd72473bb2e6278e",
+      "title": "Interpreting Feature Tracking Through the Lens of Robustness"
+    },
+    {
+      "paperId": "9c6cb27434c7fcb0543e090e67c90de2024ef0c4",
+      "title": "Almost-Invariant and Finite-Time Coherent Sets: Directionality, Duration, and Diffusion"
+    },
+    {
+      "paperId": "0d786c653b19ae6229bf80237b596eb0a017c38e",
+      "title": "Local Extraction of Bifurcation Lines"
+    },
+    {
+      "paperId": "875e43970ec7f126a87d4219a1ae93fd2bfe66f2",
+      "title": "A CONTOUR TREE BASED VISUALIZATION FOR EXPLORING DATA WITH UNCERTAINTY"
+    },
+    {
+      "paperId": "adf3ac8f7a5d345587e6f82681080108bb20cb94",
+      "title": "On the Extraction of Long-living Features in Unsteady Fluid Flows"
+    },
+    {
+      "paperId": "5cc8e4a5318401977b72cae7dd6de9983671a8ad",
+      "title": "Combinatorial 2D Vector Field Topology Extraction and Simplification"
+    },
+    {
+      "paperId": "1efdee884b762ab279937aa8a4c154e083d2b8d9",
+      "title": "Topological Flow Structures in a Mathematical Model for Rotation-Mediated Cell Aggregation"
+    },
+    {
+      "paperId": null,
+      "title": "URL: http:// dx"
+    },
+    {
+      "paperId": "57e64c2c1e56591342070d843d07cbce83151e09",
+      "title": "Visualization of Uncertain Contour Trees"
+    },
+    {
+      "paperId": null,
+      "title": "The VTK User\u2019s Guide"
+    },
+    {
+      "paperId": "d4e38a2bde6e56aff1c40c2c72429570a166dd82",
+      "title": "Localized Finite-time Lyapunov Exponent for Unsteady Flow Analysis"
+    },
+    {
+      "paperId": "6722de65167834ffedd10a46808ed420f89641ae",
+      "title": "Bringing Topology-Based Flow Visualization to the Application Domain"
+    },
+    {
+      "paperId": "41490e41a14edbb35313ce82521f3aa687623bb4",
+      "title": "Localized flow, particle tracing, and topological separation analysis for flow visualization"
+    },
+    {
+      "paperId": "dec9e8e52ba8d6e7a93da8304179a842603d3f67",
+      "title": "Evaluation of a Scalable In-Situ Visualization System Approach in a Parallelized Computational Fluid Dynamics Application"
+    },
+    {
+      "paperId": "f1af7f53ae1c4d58709b281ad217345b4ae4f87b",
+      "title": "Computation of Localized Flow for Steady and Unsteady Vector Fields and Its Applications"
+    },
+    {
+      "paperId": "572b3637a0e79691e4b3ec3ceef261e1ec258c4f",
+      "title": "The Visualization Toolkit"
+    },
+    {
+      "paperId": "e140ed4ff2c3dda92a4cec19ed42fa6efce4a92d",
+      "title": "Extracting Dynamical Behavior via Markov Models"
+    },
+    {
+      "paperId": "7b68f5eb499234fda2f36c6b0b76e95a65cb8b5a",
+      "title": "Automatic extraction of vortex core lines and other line type features for scientific visualization"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "f847dc5864e8d9c2ec457310c0a6c58a55065791",
+      "title": "Scientific Visualization"
+    },
+    {
+      "paperId": "5533372529c6349379c523b5abab1c3591f562d4",
+      "title": "The Dilemma of Defining a Vortex"
+    },
+    {
+      "paperId": "14b0cf30a9b9ab2e614eb897e9bd16bef0cf258e",
+      "title": "An Introduction to Ordinary Differential Equations"
+    },
+    {
+      "paperId": "489f44ec06d5bc003c16ec486820596f2752dd18",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 toward a Lagrangian Vector Field Topology"
+    },
+    {
+      "paperId": null,
+      "title": "(cid:13) 2020TheAuthor(s) ComputerGraphicsForum c (cid:13) 2020TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "years as a postdoctoral researcher at the University of California, Davis, he rejoined TU Kaiserslautern and is now a full professor of Computer Science there"
+    }
+  ]
+}

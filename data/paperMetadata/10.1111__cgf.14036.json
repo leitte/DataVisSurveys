@@ -1,0 +1,670 @@
+{
+  "paperId": "3bf53844a7dffdf95afe72c56c9496e3aa68e8ec",
+  "externalIds": {
+    "DBLP": "journals/cgf/SaneBGC20",
+    "MAG": "3043739579",
+    "DOI": "10.1111/cgf.14036",
+    "CorpusId": 221582344
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/3bf53844a7dffdf95afe72c56c9496e3aa68e8ec",
+  "title": "A Survey of Seed Placement and Streamline Selection Techniques",
+  "abstract": "Streamlines are an extensively utilized flow visualization technique for understanding, verifying, and exploring computational fluid dynamics simulations. One of the major challenges associated with the technique is selecting which streamlines to display. Using a large number of streamlines results in dense, cluttered visualizations, often containing redundant information and occluding important regions, whereas using a small number of streamlines could result in missing key features of the flow. Many solutions to select a representative set of streamlines have been proposed by researchers over the past two decades. In this state\u2010of\u2010the\u2010art report, we analyze and classify seed placement and streamline selection (SPSS) techniques used by the scientific flow visualization community. At a high\u2010level, we classify techniques into automatic and manual techniques, and further divide automatic techniques into three strategies: density\u2010based, feature\u2010based, and similarity\u2010based. Our analysis evaluates the identified strategy groups with respect to focus on regions of interest, minimization of redundancy, and overall computational performance. Finally, we consider the application contexts and tasks for which SPSS techniques are currently applied and have potential applications in the future.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 151,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sane2020ASO,\n author = {Sudhanshu Sane and R. Bujack and Christoph Garth and H. Childs},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Seed Placement and Streamline Selection Techniques},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "26783785",
+      "name": "Sudhanshu Sane"
+    },
+    {
+      "authorId": "3283861",
+      "name": "R. Bujack"
+    },
+    {
+      "authorId": "1979642",
+      "name": "Christoph Garth"
+    },
+    {
+      "authorId": "2405249",
+      "name": "H. Childs"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d196cb800c32afaebf2933f86f4fe1ab8b11e87b",
+      "title": "FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces"
+    },
+    {
+      "paperId": "0602e8eb86649d8d99a58cff16ed4c460b655fde",
+      "title": "Integral Curve Clustering and Simplification for Flow Visualization: A Comparative Evaluation"
+    },
+    {
+      "paperId": "2f279a38ac99c99b4d2b3d71ed48f88b4273ae1f",
+      "title": "Void-and-Cluster Sampling of Large Scattered Data and Trajectories"
+    },
+    {
+      "paperId": "6f002090c88ad36e31f6f507e9a4c66934b08998",
+      "title": "Flow Field Reduction Via Reconstructing Vector Data From 3-D Streamlines Using Deep Learning"
+    },
+    {
+      "paperId": "3fd493910096f1c92ea253a379e3f073ba8f465f",
+      "title": "In Situ Visualization for Computational Science"
+    },
+    {
+      "paperId": "1d7e4bce755ce5da73734587b6352a524a094db3",
+      "title": "Semi-Automatic Generation of Stream Surfaces via Sketching"
+    },
+    {
+      "paperId": "1c960b6dd0f11efbe85059c82e865cfbc00d2ab7",
+      "title": "Autonomous Particles for Interactive Flow Visualization"
+    },
+    {
+      "paperId": "d82e2dd96f06121016ecc0e535879ccf70c80948",
+      "title": "Explorative Blood Flow Visualization using Dynamic Line Filtering based on Surface Features"
+    },
+    {
+      "paperId": "bd89a40c8a51d7dde9c08c3d0d6bd80c02e3d658",
+      "title": "Techniques for Assistance in Streamline and Stream Surface Visualizations"
+    },
+    {
+      "paperId": "d7ffef1cb0cf837367e9b6a2db6d2f37ba441cce",
+      "title": "Line density control in screen-space via balanced line hierarchies"
+    },
+    {
+      "paperId": "b9e32c564540b17d571e5edf30f4429a822dfbbb",
+      "title": "Peeling the flow: a sketch-based interface to generate stream surfaces"
+    },
+    {
+      "paperId": "fa2c4d9366b2c19b04fbf9390d2554f15e66dea9",
+      "title": "Visualizing Flow Fields Using Fractal Dimensions"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "ed451f140d4f4ee6c466c0bd083fb7d18f158dc2",
+      "title": "Extracting flow features via supervised streamline segmentation"
+    },
+    {
+      "paperId": "db948a8619b64b8cbae319616e371f4aca92272e",
+      "title": "Lagrangian representations of flow fields with parameter curves"
+    },
+    {
+      "paperId": "bc85f676e0e2494256e9010b0eb88bc6a0f02e21",
+      "title": "Feature-Based Streamline Selection Method for 2D Flow Fields"
+    },
+    {
+      "paperId": "7bfd19ed34df0692f47fc5a8824869d8eddd1ed1",
+      "title": "Stretch-minimising stream surfaces"
+    },
+    {
+      "paperId": "0fb8256bf1d0bdb2dc0b2669c389c7252036d53e",
+      "title": "Moment invariants for 3D flow fields via normalization"
+    },
+    {
+      "paperId": "c153cf4bc3191e193f78de6d677daf0d73a86597",
+      "title": "Expressive seeding of multiple stream surfaces for interactive flow exploration"
+    },
+    {
+      "paperId": "071b0af57c1b036af2faacfa270e51e6da37e0e8",
+      "title": "Improved post hoc flow analysis via Lagrangian representations"
+    },
+    {
+      "paperId": "28e711ceca52596963927d626dedee2f63b28f85",
+      "title": "Sets of Globally Optimal Stream Surfaces for Flow Visualization"
+    },
+    {
+      "paperId": "c99384bc73838c5aaa0a1d9979ac1a2029dfc981",
+      "title": "Hierarchical opacity optimization for sets of 3D line fields"
+    },
+    {
+      "paperId": "457c61cf91f5f41bef4b416e05a1722a412145b1",
+      "title": "Blood Flow Clustering and Applications inVirtual Stenting of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "e3d7f2aa288f7baaa409212451c5903af004771b",
+      "title": "Exploring Flow Fields Using Space-Filling Analysis of Streamlines"
+    },
+    {
+      "paperId": "8d763df94ea12fee01b8227bc64bb15d454068cc",
+      "title": "FlowString: Partial Streamline Matching Using Shape Invariant Similarity Measure for Exploratory Flow Visualization"
+    },
+    {
+      "paperId": "2331f1e58382f71bcf4f6777b1fded1530d9e75d",
+      "title": "FlowTour: An Automatic Guide for Exploring Internal Flow Features"
+    },
+    {
+      "paperId": "4afc60501db43443afa0084a9842f39b5b312406",
+      "title": "Streamline similarity analysis using bag-of-features"
+    },
+    {
+      "paperId": "09dc772634942877b02af6a7b34e81c0514e824d",
+      "title": "Exploring vector fields with distribution-based streamline analysis"
+    },
+    {
+      "paperId": "4fc62a294928684f7ee88fbb515243daf0b117de",
+      "title": "Similarity Measures for Enhancing Interactive Streamline Seeding"
+    },
+    {
+      "paperId": "dce92eceb35b7d4a68d6a43bc1547514aa79f5f3",
+      "title": "Opacity optimization for 3D line fields"
+    },
+    {
+      "paperId": "ed0f089147333c0d957a906783e9d423ca0a7a09",
+      "title": "Parallel Streamline Placement for 2D Flow Fields"
+    },
+    {
+      "paperId": "4980e8faceb77463d3ffb2161c5c51107bc4219d",
+      "title": "Visualization of flow past a marine turbine: the information-assisted search for sustainable energy"
+    },
+    {
+      "paperId": "003f8566563c11cb2b54ea8c70d1acea672869fc",
+      "title": "Global Selection of Stream Surfaces"
+    },
+    {
+      "paperId": "503ca88e970b0c22b9c9c0a596fb62701008484b",
+      "title": "Coherent view-dependent streamline selection for importance-driven flow visualization"
+    },
+    {
+      "paperId": "94114d1004e0dc81988a5b8225702b0adeaaf259",
+      "title": "High Performance Visualization - Enabling Extreme-Scale Scientific Insight"
+    },
+    {
+      "paperId": "018c3c1f3f5a7ef311d49923a65011966ba8f61b",
+      "title": "Technical Section: Feature-aware streamline generation of planar vector fields via topological methods"
+    },
+    {
+      "paperId": null,
+      "title": "Hierarchical Streamline Bundles"
+    },
+    {
+      "paperId": "3f0cd89727a51ae1005e5d1538d188a23f1d6796",
+      "title": "Coherent Streamline Generation for 2-D Vector Fields"
+    },
+    {
+      "paperId": "301b608879d7310aa32adea19c5ebed5b3ce2155",
+      "title": "Automatic Stream Surface Seeding: A Feature Centered Approach"
+    },
+    {
+      "paperId": "9fe23a7f064d45074e0e4f26f022352b74f92054",
+      "title": "Multiresolution Streamline Placement for 2D Flow Fields"
+    },
+    {
+      "paperId": "46e4a75816ad49a399bdc3a36931c75a08c4a1ad",
+      "title": "Streamline-based Visualization of 3D Explosion Fields"
+    },
+    {
+      "paperId": "aa677dc065c84a5fbbd06935512f97f893292a9d",
+      "title": "Interactive Virtual Probing of 4D MRI Blood-Flow"
+    },
+    {
+      "paperId": "7a3611771ed3d5661a62f0a7cce9f964e43a9345",
+      "title": "Vortex Visualization in Ultra Low Reynolds Number Insect Flight"
+    },
+    {
+      "paperId": "307948708120b19336ef4ec08227dd94bb668581",
+      "title": "An Illustrative Visualization Framework for 3D Vector Fields"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "a783c9fdfa882285a70687bdee6279713077c998",
+      "title": "View point evaluation and streamline filtering for flow visualization"
+    },
+    {
+      "paperId": "9c721436a1f8f17de06b7f360eb87dada9524fec",
+      "title": "A Streamline Placement Method Highlighting Flow Field Topology"
+    },
+    {
+      "paperId": "a9cfed7407a4d63f33fb9ef87cd8195c8088a311",
+      "title": "View-Dependent Streamlines for 3D Vector Fields"
+    },
+    {
+      "paperId": "832578dbc5853bb195995fe47a77f235cca11ebf",
+      "title": "An Information-Theoretic Framework for Flow Visualization"
+    },
+    {
+      "paperId": "f4fe1603a256b52e2dd38c3ae979cce6c9ebdc33",
+      "title": "On the Fractal Dimension of Isosurfaces"
+    },
+    {
+      "paperId": "21c0166dab940081f0761205333c9287f7cece1a",
+      "title": "Topology-Aware Evenly Spaced Streamline Placement"
+    },
+    {
+      "paperId": "58a88178df5a73f0313f2ab56ae043760155e2b8",
+      "title": "Over Two Decades of Integration\u2010Based, Geometric Flow Visualization"
+    },
+    {
+      "paperId": "726767d9486e30b7a7ec2da19b2c74c25685ffac",
+      "title": "A sketch-based interface for classifying and visualizing vector fields"
+    },
+    {
+      "paperId": "2fed7d1e6f9fe93066c5b8ad6ce7a7be1f561084",
+      "title": "Extraction of Limit Streamlines in 2D Flow Field Using Virtual Boundary"
+    },
+    {
+      "paperId": "d676d8e9959a9cb8bd4d2cbbb93a95fe94f8ac8a",
+      "title": "Topology-driven streamline seeding for 2D vector field visualization"
+    },
+    {
+      "paperId": "522a569490b6d47a23084785dde03d905a324810",
+      "title": "Evenly Spaced Streamlines for Surfaces: An Image\u2010Based Approach"
+    },
+    {
+      "paperId": "8fef75d583a539c1b85aa0f74b3a4e5355e2bf1c",
+      "title": "A Streamline Selection Technique for Integrated Scalar and Vector Visualization"
+    },
+    {
+      "paperId": "35325e2b519f14e7959b9301ee55933fb8d6a891",
+      "title": "X. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling"
+    },
+    {
+      "paperId": "ef40483c7201acc2364e6c336944c66d9946a656",
+      "title": "Dual streamline seeding"
+    },
+    {
+      "paperId": "c2fc3aa2ae8750991e25f4010bb8f1f3cab7ae33",
+      "title": "Pathline predicates and unsteady flow structures"
+    },
+    {
+      "paperId": "af9e5010a931e8adfce0ee7d7621915b419434bf",
+      "title": "Vector field contours"
+    },
+    {
+      "paperId": "0fb388f38c0db11ff65a44a638122ca100018cbc",
+      "title": "A unified framework for clustering and quantitative analysis of white matter fiber tracts"
+    },
+    {
+      "paperId": "3d020d999b2070ffffa2157ca5e8c0f27d24ddac",
+      "title": "Importance-Driven Particle Techniques for Flow Visualization"
+    },
+    {
+      "paperId": "4adb5861585f34308af91599ffe07d613c7a9bfb",
+      "title": "Illustrative Streamline Placement and Visualization"
+    },
+    {
+      "paperId": "4a020083b2d595e05e867b59945c333898e548a5",
+      "title": "Interactive view-driven evenly spaced streamline placement"
+    },
+    {
+      "paperId": "4d31100649b68c8fd02c8d66948372931c8224d5",
+      "title": "Similarity-Guided Streamline Placement with Error Evaluation"
+    },
+    {
+      "paperId": "ddc63b5a2e19337dd7fb8d89412390c3c617873b",
+      "title": "Vector Field Editing and Periodic Orbit Extraction Using Morse Decomposition"
+    },
+    {
+      "paperId": "ba309d48027144ab8bb27691bbab47a4f70f1391",
+      "title": "Robust Loop Detection for Interactively Placing Evenly Placed Streamlines"
+    },
+    {
+      "paperId": "4c6edd6f49ac90c04bf9ee8f6533a5ed6e95e503",
+      "title": "Fiber Tract Clustering on Manifolds With Dual Rooted-Graphs"
+    },
+    {
+      "paperId": "82fc4e48dfeb8f4a4f2a04edbaddd0cdd7089731",
+      "title": "Priority Streamlines: A context-based Visualization of Flow Fields"
+    },
+    {
+      "paperId": "348bb23a619f2f311d0235c41105cfadf01adb55",
+      "title": "Image-based streamline generation and rendering"
+    },
+    {
+      "paperId": "ca839260a9e13f21fff53b7227d6d363cf3d4735",
+      "title": "Clustering by Passing Messages Between Data Points"
+    },
+    {
+      "paperId": "4a08dd1aa3ba051fc152ef3f7e29727a2fa885e2",
+      "title": "Streamline Predicates"
+    },
+    {
+      "paperId": "8b29dec37957c339e0695ffff23a360597995542",
+      "title": "High-Quality and Interactive Animations of 3D Time-Varying Vector Fields"
+    },
+    {
+      "paperId": "3962b23fce9beba0589ff3fb4b3385408f9b9a6e",
+      "title": "An Advanced Evenly-Spaced Streamline Placement Algorithm"
+    },
+    {
+      "paperId": "bed8b6ad21bea4f15da9784795b8490e44b366e5",
+      "title": "Eyelet particle tracing - steady visualization of unsteady flow"
+    },
+    {
+      "paperId": "c8d8cb80012b85fef7665ca395f4ccdc9f1474ac",
+      "title": "Evaluation of fiber clustering methods for diffusion tensor imaging"
+    },
+    {
+      "paperId": "b5db21ebd43c047483a43cb41a97492b211a3349",
+      "title": "Visual analysis and exploration of fluid flow in a cooling jacket"
+    },
+    {
+      "paperId": "309c281b033c9e3f5860d5fd4565bc0ca6eec14e",
+      "title": "Farthest point seeding for efficient placement of streamlines"
+    },
+    {
+      "paperId": "f7c042d5159037ed5b875e8df4950c5d487a97dd",
+      "title": "Strategy for seeding 3D streamlines"
+    },
+    {
+      "paperId": "bdd7b325f7a2ae0e5f7a896e6259580347b45b60",
+      "title": "A particle system for interactive visualization of 3D flows"
+    },
+    {
+      "paperId": "3c0fc3396ab824110ba974fea0e868a693401bd7",
+      "title": "White Matter Tract Clustering and Correspondence in Populations"
+    },
+    {
+      "paperId": "07a546d13d84452e334f2ad04a67dfbfee09ba43",
+      "title": "Visualization of vector fields using seed LIC and volume rendering"
+    },
+    {
+      "paperId": "8ff295ac3dd10e1a9f9e7267e9019a366afac421",
+      "title": "Investigating swirl and tumble flow with a comparison of visualization techniques"
+    },
+    {
+      "paperId": "82b5d1becf209947f20edc677a3bc289efca441e",
+      "title": "Clustering Fiber Traces Using Normalized Cuts"
+    },
+    {
+      "paperId": "b1d8bfebbc240822864b1249d37dead3f45f4e18",
+      "title": "Interactive visualization of three-dimensional vector fields with flexible appearance control"
+    },
+    {
+      "paperId": "b58877949ca50f508a706af5c18dbb8881fdce4d",
+      "title": "The State of the Art in Flow Visualization: Dense and Texture\u2010Based Techniques"
+    },
+    {
+      "paperId": "8b0cda893cd0cf75aa92724740aaca53368f1b32",
+      "title": "DTI visualization with streamsurfaces and evenly-spaced volume seeding"
+    },
+    {
+      "paperId": "8f1ff3416dd5a4c81d2c88e2ff9bf2abc82014fa",
+      "title": "Topological segmentation in three-dimensional vector fields"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "44b1b3b74b6db52d6b86c5f3cb14d051497a3f14",
+      "title": "Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields"
+    },
+    {
+      "paperId": "1a865dde93e26dfc396397701ff64221d158052a",
+      "title": "Chameleon: an interactive texture-based rendering framework for visualizing three-dimensional vector fields"
+    },
+    {
+      "paperId": "05a898a524d456a67357f6ce6c79e2fa2a1cff77",
+      "title": "Coherent structures in a transitional flow around a backward-facing step"
+    },
+    {
+      "paperId": "e18b2afae7d7061bf673e83d36f3abae4025a118",
+      "title": "Provably Good Surface Sampling and Approximation"
+    },
+    {
+      "paperId": "d634cbf0d6c8a4f0fb3750f85f3b421d2184c366",
+      "title": "Strategies for interactive exploration of 3D flow using evenly-spaced illuminated streamlines"
+    },
+    {
+      "paperId": "5c7e2ebb5ce52444e07600d8b890849a7c31da4a",
+      "title": "A case study in selective visualization of unsteady 3D flow"
+    },
+    {
+      "paperId": "0cb30e082ffd7936c327dd84d3fd6ed45cdd3b0a",
+      "title": "Interactive 3D flow visualization using a streamrunner"
+    },
+    {
+      "paperId": "1457cb37fd71e267c8d13d4e6f1bff8bae494b11",
+      "title": "Interactive Visualization of Volumetric Vector Fields Using Texture Based Particles"
+    },
+    {
+      "paperId": "ab6fc86d443a5d5e74650bede737b44e832e0d8b",
+      "title": "Sink-insertion for mesh improvement"
+    },
+    {
+      "paperId": "672f6ade7e413713019987285d755187ee8b4571",
+      "title": "A flow-guided streamline seeding strategy"
+    },
+    {
+      "paperId": "28f77cc1db290bc964ade98d71af890224f1c177",
+      "title": "Multi-resolution visualization techniques for nested weather models"
+    },
+    {
+      "paperId": "0ad6793477ceb2fa2c0b97859a6f015e873bf3af",
+      "title": "Unsteady Flow Visualization by Animating Evenly\u2010Spaced Streamlines"
+    },
+    {
+      "paperId": "bfbf95cc88ce48e9a7bd7b22974a87f8067de282",
+      "title": "Interactive visualization of fluid dynamics simulations in locally refined cartesian grids"
+    },
+    {
+      "paperId": "7d6dae411151aeec28c5af2f611e09d27f3bf40a",
+      "title": "THE VIRTUAL WINDTUNNEL"
+    },
+    {
+      "paperId": "5fbb16e5f904555bb822aa28a05a3f348a004f58",
+      "title": "Image-guided streamline placement on curvilinear grid surfaces"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "72a01d2db8c5bf022a87d6c4060d9617e4a5da41",
+      "title": "Interactive visualization of 3D-vector fields using illuminated stream lines"
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86",
+      "title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    },
+    {
+      "paperId": "07387e35bfd5d3c4d3123b07528e71f89d95324a",
+      "title": "Image-guided streamline placement"
+    },
+    {
+      "paperId": "45901c110060e66641c2c78ffb3cf66d0670bd7d",
+      "title": "Fast and resolution independent line integral convolution"
+    },
+    {
+      "paperId": "93c477c45336617562a0103d9e213e2de7a6afc9",
+      "title": "Identification of Swirling Flow in 3-D Vector Fields"
+    },
+    {
+      "paperId": "83257ffd0352c0e7e3185278acdd923f35158830",
+      "title": "On the identification of a vortex"
+    },
+    {
+      "paperId": "d03c72b62b2e29be5609144776adc72c8cb22b62",
+      "title": "The farthest point strategy for progressive image sampling"
+    },
+    {
+      "paperId": "4cc7dc3390767da542ac6dba744e05a75d8fcba3",
+      "title": "Visualizing 3D velocity fields near contour surfaces"
+    },
+    {
+      "paperId": "1ac57524ba2d2a69c1bb6defed7352a06fd7050d",
+      "title": "Using Dynamic Time Warping to Find Patterns in Time Series"
+    },
+    {
+      "paperId": "c79ae0af0d1cc663e50d3f443639569c02afba1b",
+      "title": "Guaranteed-quality mesh generation for curved surfaces"
+    },
+    {
+      "paperId": "a6f1834cd32454af91e84d8c81ad8aca52ee79c8",
+      "title": "Constructing stream surfaces in steady 3D vector fields"
+    },
+    {
+      "paperId": "9bb7de22bb43cf0659826be4f00f4a0de4a44adc",
+      "title": "A variable order Runge-Kutta method for initial value problems with rapidly varying right-hand sides"
+    },
+    {
+      "paperId": "50c7132b465c6bf6f973fea87f118acecc1546a3",
+      "title": "Stochastic sampling in computer graphics"
+    },
+    {
+      "paperId": "913082bef702fe550143de5e56b9d69bffeb2e57",
+      "title": "On the Criterion that a Given System of Deviations from the Probable in the Case of a Correlated System of Variables is Such that it Can be Reasonably Supposed to have Arisen from Random Sampling"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:13)"
+    },
+    {
+      "paperId": "9979e1d8394defd40946037f0554fb453e03eb1f",
+      "title": "An Interpolation Scheme for VDVP Lagrangian Basis Flows"
+    },
+    {
+      "paperId": "9fe04532a48dcc268415e979181b608748b79309",
+      "title": "Performance-Portable Particle Advection with VTK-m"
+    },
+    {
+      "paperId": "5a51292da1d29db349dfa3154d2f5fa94dd5b218",
+      "title": "Revisiting the Evaluation of In Situ Lagrangian Analysis"
+    },
+    {
+      "paperId": "770fba00e315f943a99be42ed67d2748f3bf1633",
+      "title": "Metric-based Curve Clustering and Feature Extraction in Flow Visualization"
+    },
+    {
+      "paperId": "fbac3108bb66f68db9b388a1f0b7b7b213ee3b74",
+      "title": "Moment Invariants for Multi-Dimensional Data"
+    },
+    {
+      "paperId": "bd561efe9ac442496eeba52c40752dc552194f3c",
+      "title": "Modeling, Analysis, and Visualization of Anisotropy"
+    },
+    {
+      "paperId": "0bb9ca9761e1a9c004e20ac37b10e4ca0c6c98e8",
+      "title": "An introduction to ordinary differential equations"
+    },
+    {
+      "paperId": "8308e76f3ca27dacf807817c651167553449ee42",
+      "title": "Flow Visualization Based on A Derived Rotation Field"
+    },
+    {
+      "paperId": "d457050f23161b64584107fd9bb1b8c1ebee6b20",
+      "title": "Interpolation-Based Pathline Tracing in Particle-Based Flow Visualization"
+    },
+    {
+      "paperId": "1396d7d8d2f2ac100f575f2000a4d5e00165706f",
+      "title": "Visualization of Input Parameters for Stream and Pathline Seeding"
+    },
+    {
+      "paperId": "a003e8fdeec0fe029a6c810d65aabfca67ff1ae4",
+      "title": "Feature-Based Streamline Selection Method for 2D Flow Fields"
+    },
+    {
+      "paperId": "971ab791697a89c71297b03365533ff3af3d391a",
+      "title": "Multiresolution streamline placement based on control grids"
+    },
+    {
+      "paperId": "ede42b703ac1ccb2660d7e9f6072678af4ef170e",
+      "title": "Interactive stream surface placement a hybrid clustering approach supported by tree maps"
+    },
+    {
+      "paperId": "cb972eb28f5613df0eaf1bc868e0def44bb837c3",
+      "title": "Parallel Integral Curves"
+    },
+    {
+      "paperId": "5b42a3cfdb1288bbf9c297b871b2c4599f396f65",
+      "title": "Advanced, Automatic Stream Surface Seeding and Filtering"
+    },
+    {
+      "paperId": "dc1a793972e4020631060652984704285ba9914b",
+      "title": "Automatic Stream Surface Seeding"
+    },
+    {
+      "paperId": "49143f7410663b9185264e7c847c0f5503dfe60f",
+      "title": "A View-Dependent and Inter-Frame Coherent Visualization of Integral Lines using Screen Contribution"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "Topology-based \ufb02ow visualization, the state of the art"
+    },
+    {
+      "paperId": "bcff64e79b1362986423fb6541aee7ea4945bb44",
+      "title": "Visualization of diffusion tensor data using evenly spaced streamlines"
+    },
+    {
+      "paperId": "c0830f3ce6f6abc8fdf1039ef3e0929006e2f7b6",
+      "title": "2 volumes."
+    },
+    {
+      "paperId": "2ea9a631563554591dac4639aaffe157d775a150",
+      "title": "Curvature Measures of 3D Vector Fields and their Applications"
+    },
+    {
+      "paperId": "a8bcfd170ff3361598aa6b2dd55ce21e2a53106e",
+      "title": "Multiresolution Flow Visualization"
+    },
+    {
+      "paperId": "8b15ba829f82787a92c97026d41a925e9d33a027",
+      "title": "Creating Evenly-Spaced Streamlines of Arbitrary Density"
+    },
+    {
+      "paperId": "455e1168304e0eb2909093d5ab9b5ec85cda5028",
+      "title": "The String-to-String Correction Problem"
+    },
+    {
+      "paperId": "6ea094490cdfc17331701f1421bfac3094f5155c",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Unified Approach to Streamline Selection and Viewpoint Selection for 3d Flow Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization of diffusion c (cid:13) 2020TheAuthor(s) ComputerGraphicsForum c (cid:13) 2020TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "A Survey of Seed Placement and Streamline Selection Techniques"
+    },
+    {
+      "paperId": null,
+      "title": "Manifolds, tensor analysis, and applications , vol. 75"
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "paperId": "90b09245db760cd130acee0696eeb3ed0c31f4f0",
+  "externalIds": {
+    "MAG": "2586172618",
+    "DBLP": "journals/cgf/BlascheckKRBWE17",
+    "DOI": "10.1111/cgf.13079",
+    "CorpusId": 7574183
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/90b09245db760cd130acee0696eeb3ed0c31f4f0",
+  "title": "Visualization of Eye Tracking Data: A Taxonomy and Survey",
+  "abstract": "This survey provides an introduction into eye tracking visualization with an overview of existing techniques. Eye tracking is important for evaluating user behaviour. Analysing eye tracking data is typically done quantitatively, applying statistical methods. However, in recent years, researchers have been increasingly using qualitative and exploratory analysis methods based on visualization techniques. For this state\u2010of\u2010the\u2010art report, we investigated about 110 research papers presenting visualization techniques for eye tracking data. We classified these visualization techniques and identified two main categories: point\u2010based methods and methods based on areas of interest. Additionally, we conducted an expert review asking leading eye tracking experts how they apply visualization techniques in their analysis of eye tracking data. Based on the experts' feedback, we identified challenges that have to be tackled in the future so that visualizations will become even more widely applied in eye tracking research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 157,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-12-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Blascheck2017VisualizationOE,\n author = {Tanja Blascheck and K. Kurzhals and Michael Raschke and Michael Burch and D. Weiskopf and Thomas Ertl},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Visualization of Eye Tracking Data: A Taxonomy and Survey},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1718278",
+      "name": "Tanja Blascheck"
+    },
+    {
+      "authorId": "1733564",
+      "name": "K. Kurzhals"
+    },
+    {
+      "authorId": "143645223",
+      "name": "Michael Raschke"
+    },
+    {
+      "authorId": "144484816",
+      "name": "Michael Burch"
+    },
+    {
+      "authorId": "69863469",
+      "name": "D. Weiskopf"
+    },
+    {
+      "authorId": "2318290685",
+      "name": "Thomas Ertl"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a415be843c8837c0f0e1d44082f9c37630409d26",
+      "title": "Application design for an eye tracking analysis based on visual analytics"
+    },
+    {
+      "paperId": "5dd914e277700c5753cb99652368ed90d578ba4f",
+      "title": "Triangulating user behavior using eye movement, interaction, and think aloud data"
+    },
+    {
+      "paperId": "23dcfc943b2815139e04a40355756c4f931a048b",
+      "title": "AOI hierarchies for visual exploration of fixation sequences"
+    },
+    {
+      "paperId": "e0a9929e82a4dc32ca6027e01f93632665248734",
+      "title": "EyeSee3D 2.0: model-based real-time analysis of mobile eye-tracking in static and dynamic three-dimensional scenes"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "b485cb6dcc45604dc1defec38943f2ce7ec77833",
+      "title": "VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications"
+    },
+    {
+      "paperId": "e1e146529f841374a9ae9d804a40d5425fa1791f",
+      "title": "Gaze Stripes: Image-Based Visualization of Eye Tracking Data"
+    },
+    {
+      "paperId": "a641ba11fc3705434cb1ed71c500372a4b5f00f5",
+      "title": "Eye tracking scanpath analysis techniques on web pages: A survey, evaluation and comparison"
+    },
+    {
+      "paperId": "89e0c6d6b12ce4f80c40ec3ee09730277c3cc0f6",
+      "title": "A Task-Based View on the Visual Analysis of Eye-Tracking Data"
+    },
+    {
+      "paperId": "233ce099b1784bd4f1c86efe91730092d3443877",
+      "title": "AOI transition trees"
+    },
+    {
+      "paperId": "24e4c477e833ced0a7b69fc775d261dcf0c985df",
+      "title": "Eye Tracking for Personal Visual Analytics"
+    },
+    {
+      "paperId": "0beb76298c1894db7441198e86d3f7560db1736a",
+      "title": "Optical flow modeling and computation: A survey"
+    },
+    {
+      "paperId": "5105a652a8cede8d9f00b786e9130343e1d00448",
+      "title": "Gaze-Based Annotations for Reading Comprehension"
+    },
+    {
+      "paperId": "5e80e7131e77fecfc1cf6648f0f6b25e364c7e4d",
+      "title": "Human Computer Interaction"
+    },
+    {
+      "paperId": "60082458bc42c8a0ae9bdc1dfa3dd73d1e1581b1",
+      "title": "How Do People View Multi-Component Animated Maps?"
+    },
+    {
+      "paperId": "7c888d1b9ab165308dd9ce46c43492c6b91b6064",
+      "title": "Bundled Visualization of DynamicGraph and Trail Data"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "e24148d2ecfcda4e482ad1effc1691855fd947d1",
+      "title": "GazeVis: Interactive 3D Gaze Visualization for Contiguous Cross-Sectional Medical Images"
+    },
+    {
+      "paperId": "ebcd1f6e98b10fdf6a0be000b051e995ab2f8a93",
+      "title": "Introduction to the PETMEI special issue"
+    },
+    {
+      "paperId": "76dde4a471a65fe05970393b0b475c3d7680a114",
+      "title": "Saccade plots"
+    },
+    {
+      "paperId": "6e5f0f26d98f7b848328ba4cc825046723147322",
+      "title": "A visual approach for scan path comparison"
+    },
+    {
+      "paperId": "da7a5082448960b8fd4d2790258c7dfa243996a6",
+      "title": "EyeSee3D: a low-cost approach for analyzing mobile 3D eye tracking data using computer vision and augmented reality technology"
+    },
+    {
+      "paperId": "4931b549a66462435b7fabde38c9800b759c1d5d",
+      "title": "ISeeCube: visual analysis of gaze data for video"
+    },
+    {
+      "paperId": "962a986c9f773b4b7a0b7b923d6ad86549de1e14",
+      "title": "EyeMMV toolbox: An eye movement post-analysis tool based on a two-step spatial dispersion threshold for fixation identification"
+    },
+    {
+      "paperId": "a21e4baf195ec22c1f2ff52e56242380a6414913",
+      "title": "Scan path entropy and arrow plots: capturing scanning behavior of multiple observers"
+    },
+    {
+      "paperId": "0625af5bd8ff119d0b49192bbd78182d5cf821e4",
+      "title": "The Effects of Shot Changes on Eye Movements in Subtitling"
+    },
+    {
+      "paperId": "22f13c582dcc1be6a46bb8752477fe99d553862c",
+      "title": "Hearing loss and a supportive tactile signal in a navigation system : effects on driving behavior and eye movements"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "a1708319c0376a6aa742529ee5571f02ab6e6730",
+      "title": "Space-Time Visual Analytics of Eye-Tracking Data for Dynamic Stimuli"
+    },
+    {
+      "paperId": "356a66bd6e806e83947f08a6f11c676a53c5d3c8",
+      "title": "Color vision test for dichromatic and trichromatic macaque monkeys."
+    },
+    {
+      "paperId": "bc5c7fbc5bbe0999311b7028bd6189666e496b63",
+      "title": "Tracking Eyes in Service Prototyping"
+    },
+    {
+      "paperId": "00fc06a485c88846f94609cd588c551f83f2a60d",
+      "title": "Circular heat map transition diagram"
+    },
+    {
+      "paperId": "ea30321a744bd987813674dc82338a12dbd95485",
+      "title": "How robust is the language architecture? The case of mood"
+    },
+    {
+      "paperId": "37bca340ae938b5ceadeb253016b32af358eab63",
+      "title": "Attentional synchrony and the influence of viewing task on gaze behavior in static and dynamic scenes."
+    },
+    {
+      "paperId": "45876fe66c5b7d93ef81b24f868d2339ecc08c1c",
+      "title": "EyeC: Coordinated Views for Interactive Visual Exploration of Eye-Tracking Data"
+    },
+    {
+      "paperId": "898c38a971b8ff7129300ca161f075f3aea9d1dc",
+      "title": "Combining Spatial and Temporal Information of Eye Movements in Goal-Oriented Tasks"
+    },
+    {
+      "paperId": "b9d0ac637313dc30991f52f969c3dbaecb12bbb4",
+      "title": "AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies"
+    },
+    {
+      "paperId": "da5283d879ba02a949ed0cee153f9980d948c190",
+      "title": "A Computer Vision System for Attention Mapping in SLAM based 3D Models"
+    },
+    {
+      "paperId": "b19c1d53ce3065af27c3ba01ab678b6db08b7103",
+      "title": "3D attention: measurement of visual saliency using eye tracking glasses"
+    },
+    {
+      "paperId": "a6e7381464394180972c48a50b5fe215a3915901",
+      "title": "Individual user characteristics and information visualization: connecting the dots through eye tracking"
+    },
+    {
+      "paperId": "c765f3482706475695a26809c2df22ee6ea64b57",
+      "title": "Recurrence quantification analysis of eye movements"
+    },
+    {
+      "paperId": "04bfc768edfd38faad59c25995999191dbc169cc",
+      "title": "Visual Analytics Methodology for Eye Movement Studies"
+    },
+    {
+      "paperId": "637bc6e2898fa3abf6b70d2bd220b78cc28319d1",
+      "title": "Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making"
+    },
+    {
+      "paperId": "34fbf6dea47b6518b1e07f6922f013f8a2e3932d",
+      "title": "A Television News Graphical Layout Analysis Method Using Eye Tracking"
+    },
+    {
+      "paperId": "82e90759ad807a27aff9e52fc6d29110b14e2343",
+      "title": "Saccadic delays on targets while watching videos"
+    },
+    {
+      "paperId": "5ba352edd3a629fc54214e635de4243b955097b6",
+      "title": "Aggregate gaze visualization with real-time heatmaps"
+    },
+    {
+      "paperId": "7ba26120a4d90ee775da64ca173f922785bcd25e",
+      "title": "Parallel scan-path visualization"
+    },
+    {
+      "paperId": "9e344889f4500cbd485f96b34547709ad411a408",
+      "title": "Automatic analysis of 3D gaze coordinates on scene objects using data from eye-tracking and motion-capture systems"
+    },
+    {
+      "paperId": "e90dcc0a9b651146d9b2e0afd8712273ae8a1c90",
+      "title": "Let's look at the cockpit: exploring mobile eye-tracking for observational research on the flight deck"
+    },
+    {
+      "paperId": "e933d0cc95c4198820d6f74b39df0560556b3585",
+      "title": "Learning eye movement patterns for characterization of perceptual expertise"
+    },
+    {
+      "paperId": "2dae8e46bc9b92bcc995d1ea3d5c1974bf92b6a1",
+      "title": "Towards robust gaze-based objective quality measures for text"
+    },
+    {
+      "paperId": "31bc6a11cc94a263e1c7df92e8e55fe00795662a",
+      "title": "Measuring and visualizing attention in space with 3D attention volumes"
+    },
+    {
+      "paperId": "e7910de82bb69025df22da9da1c10e45df0d630c",
+      "title": "Eye tracking: a comprehensive guide to methods and measures"
+    },
+    {
+      "paperId": "521fce16a960bfe6514864efe27310071e27508c",
+      "title": "Visual attention of anaesthetists during simulated critical incidents."
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "27266e3be4d9b9572e8e11f4ef34110a2a00f515",
+      "title": "Clustering of Gaze During Dynamic Scene Viewing is Predicted by Motion"
+    },
+    {
+      "paperId": "82646f01c6251dde7f0fb4e42bf1088ed07ab265",
+      "title": "eSeeTrack&#8212;Visualizing Sequential Fixation Patterns"
+    },
+    {
+      "paperId": "59ef2ba6036d13fa3e9d33544c8ac7a646d4f643",
+      "title": "Visual Exploration of Eye Movement Data Using the Space-Time-Cube"
+    },
+    {
+      "paperId": "31f6fccd1bed7dbb4f63a3c22ec7752ae97f0dba",
+      "title": "Variability of eye movements when viewing dynamic natural scenes."
+    },
+    {
+      "paperId": "e2e94619f1475c93dbdeb40215669730bd2e02ab",
+      "title": "3D attentional maps: aggregated gaze visualizations in three-dimensional virtual environments"
+    },
+    {
+      "paperId": "cf7896b8e5c5da8c67d882c16133aca044291ec8",
+      "title": "Comparing information graphics: a critical look at eye tracking"
+    },
+    {
+      "paperId": "0653bd6b203c8d87b8a0f9edc2d1f3a7d77d0eca",
+      "title": "A descriptive model of visual scanning"
+    },
+    {
+      "paperId": "6bdbf40b0674e0112e746d686e8ff1e6237a6681",
+      "title": "KIBITZER: a wearable system for eye-gaze-based mobile urban exploration"
+    },
+    {
+      "paperId": "8b751b9bdb27f5427731169bc6935fe9e8ae017a",
+      "title": "Trends and Techniques in Visual Gaze Analysis"
+    },
+    {
+      "paperId": "7392785fe1f6e575c989338a34e6c21ae18a9b0f",
+      "title": "Advanced gaze visualizations for three-dimensional virtual environments"
+    },
+    {
+      "paperId": "c991829c05daa687d5b5b3db47a6456c9158bcf6",
+      "title": "Estimating 3D point-of-regard and visualizing gaze trajectories under natural head movements"
+    },
+    {
+      "paperId": "edf04b8867d38eb7de3667d87f546819ec128bfb",
+      "title": "Space-variant spatio-temporal filtering of video for gaze visualization and perceptual learning"
+    },
+    {
+      "paperId": "b24974ae3ca75a65ae56797a5026a8e781a3645f",
+      "title": "Estimation of viewer's response for contextual understanding of tasks using features of eye-movements"
+    },
+    {
+      "paperId": "fc20c504eecf9473ce52bece622c32f3ca3fcd65",
+      "title": "Visual span and other parameters for the generation of heatmaps"
+    },
+    {
+      "paperId": "3257fb0cc2ff20dd5c66bc87377cf18efa886a04",
+      "title": "Group-wise similarity and classification of aggregate scanpaths"
+    },
+    {
+      "paperId": "2e3caa78631dc35cf59a1b8b124c07164cf25814",
+      "title": "Visual scanpath representation"
+    },
+    {
+      "paperId": "5c2bd00fee10faedbed3c9d46b49914534825c17",
+      "title": "Scanpath clustering and aggregation"
+    },
+    {
+      "paperId": "24b4ffb191f8f01f5e12a616c2d58a7838d491c2",
+      "title": "DynAOI: A tool for matching eye-movement data with dynamic areas of interest in animations and movies"
+    },
+    {
+      "paperId": "56aa94eb2b5ab95eb3d28a5a4db0210fee68ae1d",
+      "title": "Temporal auditory capture does not affect the time course of saccadic mislocalization of visual stimuli."
+    },
+    {
+      "paperId": "8cf529c6d42c08fad71f03f07adfab23229ff6ec",
+      "title": "Assessing Multiple Perspectives in Three Dimensional Virtual Worlds: Eye Tracking and All Views Qualitative Analysis (AVQA)"
+    },
+    {
+      "paperId": "4a579d562dbc341f9c8d6d7276066e6a2edc1655",
+      "title": "Temporal constraints on conscious vision: on the ubiquitous nature of the attentional blink."
+    },
+    {
+      "paperId": "6bf703874706ba2b5cc1b6e49f9d1ae59ff1ce5f",
+      "title": "Visual Perception of Parallel Coordinate Visualizations"
+    },
+    {
+      "paperId": "26b4f48d4122aa5786d50570dc99bf489d316e72",
+      "title": "Informative or Misleading? Heatmaps Deconstructed"
+    },
+    {
+      "paperId": "d67477a05bfa7010698f99dcf8f8aee1d4f58d15",
+      "title": "Towards an Aesthetic Dimensions Framework for Dynamic Graph Visualisations"
+    },
+    {
+      "paperId": "f0d339dec2a9642ade9bf879025295ba03e51841",
+      "title": "The statistical challenge of scan-path analysis"
+    },
+    {
+      "paperId": "0d8a1ee9a24520a3109a8e538adc388478ec50e8",
+      "title": "Free viewing of dynamic stimuli by humans and monkeys."
+    },
+    {
+      "paperId": "ee89ffdfedde81332cea4e91d11c6ed0670ae4ca",
+      "title": "Visualization of User Eye Movements for Search Result Pages"
+    },
+    {
+      "paperId": "5c882d18ddb4fea5cdc9b7d4e074af60709c30c3",
+      "title": "Semantic override of low-level features in image viewing - both initially and overall"
+    },
+    {
+      "paperId": "aab383bc30c3f5dc13af2012985e9a46d7c27243",
+      "title": "Eye tracking and online search: Lessons learned and challenges ahead"
+    },
+    {
+      "paperId": "6117a9de3f8b740c7388b62f632763e6e73d50d8",
+      "title": "KiEV: a tool for visualization of reading and writing processes in translation of text"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "804836b8ad86ef8042e3dcbd45442a52f031ee03",
+      "title": "A Database and Evaluation Methodology for Optical Flow"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "e9968fde18e6e2f31bb1850ca0aeca1e3ef30104",
+      "title": "Where people look when watching movies: Do all viewers look at the same place?"
+    },
+    {
+      "paperId": "9914b7eda6f65cf33926fcf57270b6e897a4d405",
+      "title": "Visualization of eye gaze data using heat maps"
+    },
+    {
+      "paperId": "a125f3584f66ec994c87ef149a43eb376c8ba0ed",
+      "title": "Scanpath Analysis of Fused Multi-Sensor Images with Luminance Change: A Pilot Study"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "b858de36de299c5d8d3db31f0e814143ed9a50ec",
+      "title": "Gaze Behavior of Spotters During an Air-to-Ground Search"
+    },
+    {
+      "paperId": "0ab10c0b3df633f61302690d0d5d30273104481b",
+      "title": "eyePatterns: software for identifying patterns and similarities across fixation sequences"
+    },
+    {
+      "paperId": "30f234c420df7d6be04bbc81662111ae65dfce12",
+      "title": "Averaging scan patterns and what they can tell us"
+    },
+    {
+      "paperId": "8ddd299dfa40d03d2ee7f7ec23fcc6ec54f50d69",
+      "title": "Eyegaze analysis of displays with combined 2D and 3D views"
+    },
+    {
+      "paperId": "7caf09d84a7428c863df060af9eb737a85f479c9",
+      "title": "Looking To Understand: The Coupling Between Speakers' and Listeners' Eye Movements and Its Relationship to Discourse Comprehension"
+    },
+    {
+      "paperId": "d3529dc7c39257b2f4c8305930b89816a27d3a7a",
+      "title": "Static Visualization of Temporal Eye-Tracking Data"
+    },
+    {
+      "paperId": "6cd2d88dfa41299c093b30393806b54568125532",
+      "title": "Eye-Tracking Reveals the Personal Styles for Search Result Evaluation"
+    },
+    {
+      "paperId": "c62cdbf898bb58966ec4215860a08c0e2d152783",
+      "title": "WebGazeAnalyzer: a system for capturing and analyzing web reading behavior using eye gaze"
+    },
+    {
+      "paperId": "abd1ff923d29cd05e3d663a904f66a9262a68422",
+      "title": "Feature congestion: a measure of display clutter"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "24a37057aa8f5bed17c8c83fe0f479fedecaf14e",
+      "title": "Gaze data visualization tools: opportunities and challenges"
+    },
+    {
+      "paperId": "d27ff15ff0c307350075db561652eba131f151b7",
+      "title": "Robust clustering of eye movement recordings for quantification of visual interest"
+    },
+    {
+      "paperId": "8b091d30b5dc2fce72060d1bbc3bbc7b637bb2e6",
+      "title": "Exploring context switching and cognition in dual-view coordinated visualizations"
+    },
+    {
+      "paperId": "50e93184b55ddabdec237e8be5dc3a33e0462a61",
+      "title": "A breadth-first survey of eye-tracking applications"
+    },
+    {
+      "paperId": "7af2fb19f468bcc99171909a69e6ae6e2097525b",
+      "title": "Cleaning up systematic error in eye-tracking data by using required fixation locations"
+    },
+    {
+      "paperId": "b18b95d6bd92958d52d314c73d4e2397ca09d889",
+      "title": "3D eye movement analysis for VR visual inspection training"
+    },
+    {
+      "paperId": "82c49774551bb18a16cff2fc2dec9a2078957aae",
+      "title": "Fixation maps: quantifying eye-movement traces"
+    },
+    {
+      "paperId": "80e42ba78125dde1d3301341bd3df9d041c54818",
+      "title": "Comparing interfaces based on what users watch and do"
+    },
+    {
+      "paperId": "178dc4cd8c23f07d10ffd3797d5977c76f3dde15",
+      "title": "Identifying fixations and saccades in eye-tracking protocols"
+    },
+    {
+      "paperId": "e4dc3aedfe731ebfc791954cf3438a616fa5738e",
+      "title": "Gazetracker: software designed to facilitate eye movement analysis"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "60c2b03024f89c3f67d05d6b60d4ba1b032942c4",
+      "title": "Algorithms for Defining Visual Regions-of-Interest: Comparison with Eye Fixations"
+    },
+    {
+      "paperId": "451616d1c036ec9b106bb8991caeb9475642f3bd",
+      "title": "Eye-Movement Analysis of Track Monitoring Patterns of Night Train Operators: Effects of Geographic Knowledge and Fatigue"
+    },
+    {
+      "paperId": "ad0755fceba99d0697d8c1eeb9f1763cc19aa589",
+      "title": "Computer interface evaluation using eye movements: methods and constructs"
+    },
+    {
+      "paperId": "71199ce92fcd8cfcf0129ace3b646eda3be2958f",
+      "title": "The GAZE groupware system: mediating joint attention in multiparty communication and collaboration"
+    },
+    {
+      "paperId": "87c8a7be8d5e2e2209e766c3e28a3e8ee5babb64",
+      "title": "Eye movements in reading and information processing: 20 years of research."
+    },
+    {
+      "paperId": "ef3226d7fb0d4efee33bbd747dfb6c98041d0a10",
+      "title": "Gaze-contingent video resolution degradation"
+    },
+    {
+      "paperId": "2c15355ceb7f3903f7265e7d3c9b0f40b0f7f0aa",
+      "title": "101 spots, or how do users read menus?"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "fa2d0409cbc06689af9b30d11ca0196d9461cf38",
+      "title": "New technological windows into mind: there is more in eyes and brains for human-computer interaction"
+    },
+    {
+      "paperId": "40affa6e24c3de7de9ab6056a6308666e949fe9c",
+      "title": "Eye-movement data: Cumulative fixation time and cluster analysis"
+    },
+    {
+      "paperId": "9031618c3d0b0fa3747b9a0dbed2ad8fb023ce41",
+      "title": "Cognitive strategies for visual search."
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "6ee28740f11fdd23beee764e6b6b32836ae2221d",
+      "title": "DIORAMA, PATH AND PROJECT"
+    },
+    {
+      "paperId": "7abacd7c896f4ea185281ef7d2c708c65d02b1cb",
+      "title": "Eye fixations and cognitive processes"
+    },
+    {
+      "paperId": "8de6e0b7bcb6eb1f9172774dd5d004357adddbb7",
+      "title": "Survey of eye movement recording methods"
+    },
+    {
+      "paperId": "2aea0b1d01e298052220461fe4d2c2686313504c",
+      "title": "Scanpaths in saccadic eye movements while viewing and recognizing patterns."
+    },
+    {
+      "paperId": "dbbabc2af3deb36ed7790cc473cef133c3876554",
+      "title": "Scanpaths in Eye Movements during Pattern Perception"
+    },
+    {
+      "paperId": "7b4c765f40e7339d9a984ee3b1da6afd5765aef5",
+      "title": "Eye movements and TV viewing in children"
+    },
+    {
+      "paperId": "10997813dcd18c8b9e5fe63bbaff19861357982c",
+      "title": "Eye fixations recorded on changing visual scenes by the television eye-marker."
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:2)"
+    },
+    {
+      "paperId": "7638c0dd4dbc791ec64b009467db7733ecf19d98",
+      "title": "State-of-the-Art of Visualization for Eye Tracking Data"
+    },
+    {
+      "paperId": null,
+      "title": "SMI begaze eye tracking analysis software"
+    },
+    {
+      "paperId": "9c1eef5a7b259a083e50c71c8e0c5fd792576fe3",
+      "title": "Volume Visual Attention Maps (VVAM) in Ray-Casting Rendering"
+    },
+    {
+      "paperId": "0111ae0671247da7983c1d84664523e9e993dd90",
+      "title": "iComponent \u00ad Device-Independent Platform for Analyzing Eye Movement Data and Developing Eye-Based Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Tobii Studio user\u2019s manual version 3.4.5"
+    },
+    {
+      "paperId": "0da40aac67324c30e5632b52944b64284bbc93a1",
+      "title": "Eye tracking methodology - theory and practice, 2nd Edition"
+    },
+    {
+      "paperId": "41d462dff6f9011a96f41667ac482c06711a876e",
+      "title": "Visualizing Paths in Context"
+    },
+    {
+      "paperId": null,
+      "title": "Illuminating the Path"
+    },
+    {
+      "paperId": "92bc546258e9b6560cea225ca9f6745fa636ae6a",
+      "title": "Eye Tracking in Human-Computer Interaction and Usability Research : Current Status and Future Prospects"
+    },
+    {
+      "paperId": "5d6931dd4b28cdf497dc79c010de21bda387f4bd",
+      "title": "Reading or scanning? A study of newspaper and net paper reading."
+    },
+    {
+      "paperId": "bfbcbb5de8872e53fecadb3cbc4a03f810bf4e13",
+      "title": "The mind's eye : cognitive and applied aspects of eye movement research"
+    },
+    {
+      "paperId": "477b93ca731660db9b91412143efec424d1d7bfa",
+      "title": "The space - time cube revisited from a geovisualization perspective"
+    },
+    {
+      "paperId": "5730dd763625e15a5ab703283bb305f48660f374",
+      "title": "ThemeRiver: Visualizing Thematic Changes in Large Document Collections"
+    },
+    {
+      "paperId": "8059a71ce646bc4109d17c95559d7b8ef9840721",
+      "title": "Eye tracking in human-computer interaction and usability research : Ready to deliver the promises"
+    },
+    {
+      "paperId": "91b6674ce6bc082d3988821bae5c2dc0cc3d703a",
+      "title": "Picture Viewing and Picture Description: Two Windows on the Mind."
+    },
+    {
+      "paperId": "bb1c12b187866e667bbaa84e03c3f8ba0fbedbe9",
+      "title": "Volume visualisation via region enhancement around an observer's fixation point"
+    },
+    {
+      "paperId": null,
+      "title": "Blascheck et al. / Visualization Eye Tracking Research & Applications"
+    },
+    {
+      "paperId": "64aa61fe8595d0e219161981027f2b1c26436639",
+      "title": "COGNITIVE MODELLING OF A SHIP NAVIGATOR BASED ON PROTOCOL AND EYE-MOVEMENT ANALYSIS"
+    },
+    {
+      "paperId": "b5a712dd07fa65d7ad60d6e791053c29448ecb97",
+      "title": "Eye Movements and Vision"
+    },
+    {
+      "paperId": "e349cb6d0a491a6bc06e7ae3133696b472ffb2ff",
+      "title": "Eye movements of aircraft pilots during instrument-landing approaches."
+    },
+    {
+      "paperId": "fd54c9d9bd50628100822bdf9a09d8b826cb9270",
+      "title": "Shelf Real Estate : Package Spacing in a Retail Environment"
+    },
+    {
+      "paperId": null,
+      "title": "Scanpathcomparisonrevisited"
+    }
+  ]
+}

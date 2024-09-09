@@ -1,0 +1,742 @@
+{
+  "paperId": "2c51ac39a9e322a2f0aa7fa438e7493aee30a381",
+  "externalIds": {
+    "MAG": "2951676754",
+    "DBLP": "journals/cgf/SchlachterRMPPB19",
+    "DOI": "10.1111/cgf.13726",
+    "CorpusId": 196198569
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2c51ac39a9e322a2f0aa7fa438e7493aee30a381",
+  "title": "State\u2010of\u2010the\u2010Art Report: Visual Computing in Radiation Therapy Planning",
+  "abstract": "Radiation therapy (RT) is one of the major curative approaches for cancer. It is a complex and risky treatment approach, which requires precise planning, prior to the administration of the treatment. Visual Computing (VC) is a fundamental component of RT planning, providing solutions in all parts of the process\u2014from imaging to delivery. Despite the significant technological advancements of RT over the last decades, there are still many challenges to address. This survey provides an overview of the compound planning process of RT, and of the ways that VC has supported RT in all its facets. The RT planning process is described to enable a basic understanding in the involved data, users and workflow steps. A systematic categorization and an extensive analysis of existing literature in the joint VC/RT research is presented, covering the entire planning process. The survey concludes with a discussion on lessons learnt, current status, open challenges, and future directions in VC/RT research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 166,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Schlachter2019StateoftheArtRV,\n author = {Matthias Schlachter and R. Raidou and L. Muren and B. Preim and P. Putora and K. B\u00fchler},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State\u2010of\u2010the\u2010Art Report: Visual Computing in Radiation Therapy Planning},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "50596617",
+      "name": "Matthias Schlachter"
+    },
+    {
+      "authorId": "145824526",
+      "name": "R. Raidou"
+    },
+    {
+      "authorId": "3435119",
+      "name": "L. Muren"
+    },
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "4063270",
+      "name": "P. Putora"
+    },
+    {
+      "authorId": "1759884",
+      "name": "K. B\u00fchler"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "391384b4716398babafd7d2142f8fa2f6fe2c73e",
+      "title": "Evaluation of two commercial CT metal artifact reduction algorithms for use in proton radiotherapy treatment planning in the head and neck area"
+    },
+    {
+      "paperId": "25c2297bb2083d515e990a66111e4d604b701fd1",
+      "title": "An image\u2010guided radiotherapy decision support framework incorporating a Bayesian network and visualization tool"
+    },
+    {
+      "paperId": "20f92eba71cfdebe1ce4ff6b71eea209180de5ca",
+      "title": "Comparative Visual Analysis of Pelvic Organ Segmentations"
+    },
+    {
+      "paperId": "cc6aaf841ef31d136e5ddd00298080dd2327c929",
+      "title": "Bladder Runner: Visual Analytics for the Exploration of RT\u2010Induced Bladder Toxicity in a Cohort Study"
+    },
+    {
+      "paperId": "ab685b283368108739aea8d5b10f6758d3ec6da9",
+      "title": "A Survey on Multimodal Medical Data Visualization"
+    },
+    {
+      "paperId": "5f82aa682c40b8e07534854904ff28b201219e6b",
+      "title": "Secondary surgical management of osteoradionecrosis using three-dimensional isodose curve visualization: a report of three cases."
+    },
+    {
+      "paperId": "1a7e2903f52d5a07c559aa84a3de0c77e14b3a77",
+      "title": "Uncertainty evaluation of image-based tumour control probability models in radiotherapy of prostate cancer using a visual analytic tool"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "87390554403d7b2d4a24c3b4847b20e072c3c01f",
+      "title": "Fully automatic deformable registration of pretreatment MRI/CT for image\u2010guided prostate radiotherapy planning"
+    },
+    {
+      "paperId": "b367f9e802b796f680683bef5b0cd5b16bd177b0",
+      "title": "Visualization of 4D multimodal imaging data and its applications in radiotherapy planning"
+    },
+    {
+      "paperId": "e2f2a2c416b3edeb5ee3f6c9be367bfe1a7e489b",
+      "title": "Regmentation: A New View of Image Segmentation and Registration"
+    },
+    {
+      "paperId": "2438307bf9fefcf857ad4e6c8a60f9c10dd4ca05",
+      "title": "PathoVA: A visual analytics tool for pathology diagnosis and reporting"
+    },
+    {
+      "paperId": "015f2de75a91db4f389deee2bc06ce988cee7d14",
+      "title": "Online Combination of EPID & Cherenkov Imaging for 3-D Dosimetry in a Liquid Phantom"
+    },
+    {
+      "paperId": "b77641b13dccdf5e4de506b6fd03f26888fc4ae4",
+      "title": "Incorporating big data into treatment plan evaluation: Development of statistical DVH metrics and visualization dashboards"
+    },
+    {
+      "paperId": "dab9e4ef7c019493eda53560ec3ec44c99bb5732",
+      "title": "Adding another dimension to plan evaluation: visualising the dose\u2013volume histogram band in head and neck radiotherapy and exploring its utility"
+    },
+    {
+      "paperId": "ec3c75dab8e64c14fb1624d90215f6338c9cdb87",
+      "title": "Serial FDG-PET/MR Imaging for Head and Neck Cancer Radiation Therapy: A Pilot Study"
+    },
+    {
+      "paperId": "29a11a246501a98b3aca95ccb37fba4147ae9235",
+      "title": "Survey of Non-Rigid Registration Tools in Medicine"
+    },
+    {
+      "paperId": "478d4fc3f2a3858079e24a75b78fba69102e9f45",
+      "title": "SOFT-RT: Software for IMRT simulations based on MCNPx code."
+    },
+    {
+      "paperId": "cabe828681963b36af7bd2510d20ef72451092f5",
+      "title": "Employing Visual Analytics to Aid the Design of White Matter Hyperintensity Classifiers"
+    },
+    {
+      "paperId": "375ec08c5a5b180cfeb698543dc517edea4c4496",
+      "title": "A survey of medical image registration - under review"
+    },
+    {
+      "paperId": "345a97bd3e3a309a7cb34240dd6e317d2d756149",
+      "title": "Visual Analytics for the Exploration and Assessment of Segmentation Errors"
+    },
+    {
+      "paperId": "d1e2a170045bcd834955c04614849dba912c6a04",
+      "title": "Abdo-Man: a 3D-printed anthropomorphic phantom for validating quantitative SIRT"
+    },
+    {
+      "paperId": "781c2a94a79681aefbd2424cc597edb31a6f428d",
+      "title": "Non-small cell lung cancer: current treatment and future advances."
+    },
+    {
+      "paperId": "0b4adb0f63e7a969d8775b091b35b1ab3df80027",
+      "title": "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data"
+    },
+    {
+      "paperId": "fa5b392bd9fe8b492ccde4a7098708a5951ee94b",
+      "title": "Visual Analysis of Tumor Control Models for Prediction of Radiotherapy Response"
+    },
+    {
+      "paperId": "4426416e47830214ec97bf31a18a6a0a095957c9",
+      "title": "Visualization of Deformable Image Registration Quality Using Local Image Dissimilarity"
+    },
+    {
+      "paperId": "995ada47e71545597041dce6f82534a60a807976",
+      "title": "A tumour control probability model for radiotherapy of prostate cancer using magnetic resonance imaging-based apparent diffusion coefficient maps."
+    },
+    {
+      "paperId": "594aa1aa60aade70f1a8d91c6e2068ad78a30eff",
+      "title": "A dose-volume histogram based decision-support system for dosimetric comparison of radiotherapy treatment plans"
+    },
+    {
+      "paperId": "101aa4e41100b7de94335f37b298110c49feb8a1",
+      "title": "User Interaction in Semi-Automatic Segmentation of Organs at Risk: a Case Study in Radiotherapy"
+    },
+    {
+      "paperId": "e14b52464f2ce2a4bb0b6674d21934bc75dd9424",
+      "title": "The 2014 International Society of Urological Pathology (ISUP) Consensus Conference on Gleason Grading of Prostatic Carcinoma: Definition of Grading Patterns and Proposal for a New Grading System"
+    },
+    {
+      "paperId": "e66a0141ccfbc4e422a806e476218cd7858acafa",
+      "title": "Visual Analytics for the Exploration of Tumor Tissue Characterization"
+    },
+    {
+      "paperId": "0cf0326562e3870dd6bf73e430126e17000b02d6",
+      "title": "Visualization of risk of radiogenic second cancer in the organs and tissues of the human body"
+    },
+    {
+      "paperId": "a2d20b3694abe1b667332c622f27401c0d8f46ae",
+      "title": "Usefulness of target delineation based on the two extreme phases of a four-dimensional computed tomography scan in stereotactic body radiation therapy for lung cancer"
+    },
+    {
+      "paperId": "c4ae90e9eb76e36a14e83c07474d536e9f05c373",
+      "title": "Modern Brain Tumor Imaging"
+    },
+    {
+      "paperId": "9ce6a26e3c17c40b5c4e46d6932b8ad988571b2f",
+      "title": "Toward adaptive radiotherapy for head and neck patients: Uncertainties in dose warping due to the choice of deformable registration algorithm."
+    },
+    {
+      "paperId": "19c88ee668735562603426744401dcd3d226839d",
+      "title": "The use of modern imaging technologies in radiation therapy of cervical cancer"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "a3416b94cbbf0204f64beb70e0057e619dd0dea7",
+      "title": "Evaluation of potential internal target volume of liver tumors using cine-MRI."
+    },
+    {
+      "paperId": "81b805f166bb70dabfad55412f459a18062db675",
+      "title": "Multimodality image fusion in frequency domain for radiation therapy"
+    },
+    {
+      "paperId": "e8ac4100a9f0cc95166a45586e55f030948e2fca",
+      "title": "Visual analytics for the exploration of multiparametric cancer imaging"
+    },
+    {
+      "paperId": "b10128680e957ec828fed0c90a7630d3f361883b",
+      "title": "A Survey on Visualizing Magnetic Resonance Spectroscopy Data"
+    },
+    {
+      "paperId": "d08eb38ec95d7486782c161d662ba80989d9d069",
+      "title": "Cherenkov video imaging allows for the first visualization of radiation therapy in real time."
+    },
+    {
+      "paperId": "6c73413d7884c2aff6e1add51bcea3372ce6b6e6",
+      "title": "Integration of multidisciplinary technologies for real time target visualization and verification for radiotherapy"
+    },
+    {
+      "paperId": "aeacf831b3c8d82c8b2311c6b6f582b16366520f",
+      "title": "A novel method to quantify and compare anatomical shape: application in cervix cancer radiotherapy"
+    },
+    {
+      "paperId": "dd5976c0c6818bda55e94be7a0494915248d5040",
+      "title": "Uncertainty in medical visualization: Towards a taxonomy"
+    },
+    {
+      "paperId": "e2b5c3b03d0c6bfdff3f0ca65abf69fc279be99f",
+      "title": "Interactive decision-support tool for risk-based radiation therapy plan comparison for Hodgkin lymphoma."
+    },
+    {
+      "paperId": "91270a01c74e2c60fb696e9ade6c48f7a1a9469d",
+      "title": "Medical Image Fusion: A survey of the state of the art"
+    },
+    {
+      "paperId": "03198ebfea4533129c5301ea74618fd88fcb71fe",
+      "title": "Interactive Mesh Smoothing for Medical Applications"
+    },
+    {
+      "paperId": "80e2b4bce8d84d306c139ea3b84f3bc295e0cee8",
+      "title": "Sketch\u2010Based Editing Tools for Tumour Segmentation in 3D Medical Images"
+    },
+    {
+      "paperId": "27670a79d9c40b7a2daddaaef4944727b7b87773",
+      "title": "Multicriteria optimization of the spatial dose distribution."
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "23eae15e5e3f39203fd5ed449fb6cbef2ff252e4",
+      "title": "Real-time 2D/3D registration using kV-MV image pairs for tumor motion tracking in image guided radiotherapy"
+    },
+    {
+      "paperId": "dff78f624d23ccf6e0b54447c1fd58241f0ca59e",
+      "title": "A method to visualize the uncertainty of the prediction of radiobiological models."
+    },
+    {
+      "paperId": "681f3b92ee2e53dc10c11238a8da353e5c58de2c",
+      "title": "Deformable Medical Image Registration: A Survey"
+    },
+    {
+      "paperId": "12d2ac0f59d07a0cc32b23fa5c47b53855a76095",
+      "title": "Image-Guided Adaptive Radiotherapy \u2013 Delivering Personalized Radiation Medicine to Improve Treatment Quality and Patients\u2019 Outcome"
+    },
+    {
+      "paperId": "4bd03bed3c7cf26b4c55886c691189578e3ea516",
+      "title": "Overview of dynamic contrast-enhanced MRI in prostate cancer diagnosis and management."
+    },
+    {
+      "paperId": "c921c28f9e118ced979f2a68f5a6fa672e6954b6",
+      "title": "Effectiveness of Virtual Reality Simulation Software in Radiotherapy Treatment Planning Involving Non-Coplanar Beams with Partial Breast Irradiation as a Model"
+    },
+    {
+      "paperId": "1c4cf756e391a7caaf3b6bc993f1649fe0db4d84",
+      "title": "SlicerRT: radiation therapy research toolkit for 3D Slicer."
+    },
+    {
+      "paperId": "e1b7804766f06fe43635dc72a90b192c41bec796",
+      "title": "Current concepts in F18 FDG PET/CT-based radiation therapy planning for lung cancer"
+    },
+    {
+      "paperId": "3cf4b3ab84d727fe7f3683502c7f8108403ea670",
+      "title": "Visualization of a variety of possible dosimetric outcomes in radiation therapy using dose-volume histogram bands."
+    },
+    {
+      "paperId": "722e79a6f524f58fe33cd543bd186f41bdea85bd",
+      "title": "A new method for robust organ positioning in CT images"
+    },
+    {
+      "paperId": "65d67ce1b80a9a7ae40428ec7aac640386e9a247",
+      "title": "Pathologic validation of a model based on diffusion-weighted imaging and dynamic contrast-enhanced magnetic resonance imaging for tumor delineation in the prostate peripheral zone."
+    },
+    {
+      "paperId": "f20bf69cbd0b37ccda2c29901439b88aa79fe5bc",
+      "title": "ESUR prostate MR guidelines 2012"
+    },
+    {
+      "paperId": "be9c36d44166f97f76738d0ae4c4af587e20b92b",
+      "title": "A survey of medical image registration on graphics hardware"
+    },
+    {
+      "paperId": "533ad38582f20e41ee3c549051557d32b3be3bfb",
+      "title": "Virtual reality in radiation therapy training."
+    },
+    {
+      "paperId": "560c144c51308e9f18d854ebbef6ab66c99bbbc2",
+      "title": "Volume Visualization: A Technical Overview with a Focus on Medical Applications"
+    },
+    {
+      "paperId": "3dcdfece114ec4a62824289cfac6bb81bdacb951",
+      "title": "Geometric accuracy of dynamic MLC tracking with an implantable wired electromagnetic transponder"
+    },
+    {
+      "paperId": "3ed47277fbe2a1da50c6eda2a31a5d4fe3334226",
+      "title": "Prostate Cancer Visualization from MR Imagery and MR Spectroscopy"
+    },
+    {
+      "paperId": "36f08b4f7c8fee5634f4f02f188ae8af4803317f",
+      "title": "Advancements in MR imaging of the prostate: from diagnosis to interventions."
+    },
+    {
+      "paperId": "25b7c0c03c1730be078749f1a4f7a1b6273f4405",
+      "title": "Technical Note: DIRART \u2013 A software suite for deformable image registration and adaptive radiotherapy research"
+    },
+    {
+      "paperId": "658909bc85bc403869b44590fbb5eb76c3480201",
+      "title": "Reconstrucion and visualization of 3D surface model from serial-sectioned contour points"
+    },
+    {
+      "paperId": "d8936dcde0f6d038a2f8e484b537660e270532b3",
+      "title": "DICOM-RT extension support of visualization tool for radiotherapy simulation"
+    },
+    {
+      "paperId": "5c6f93f8e0eedbd42e868cfc381e6bcb0886b81c",
+      "title": "Technical Section: A visual analytics approach to diagnosis of breast DCE-MRI data"
+    },
+    {
+      "paperId": "28d1b366c0264466704613c9cecfa0e2570cf338",
+      "title": "Summarizing and Visualizing Uncertainty in Non-rigid Registration"
+    },
+    {
+      "paperId": "f08c2a69e1da8d1ee813bf4a598b162f80829344",
+      "title": "Adaptive radiotherapy based on contrast enhanced cone beam CT imaging"
+    },
+    {
+      "paperId": "41b75e29904981428e9721c1ff8f689c56eb2279",
+      "title": "Use of normal tissue complication probability models in the clinic."
+    },
+    {
+      "paperId": "7b90b34936cd66dd0930339bcebdd3b07944378b",
+      "title": "A Volume Visualization System with Augmented Reality Interaction for Evaluation of Radiotherapy Plans"
+    },
+    {
+      "paperId": "6c4a9020ae2b126abed6f04caeae14e72f7c7605",
+      "title": "Patient geometry-driven information retrieval for IMRT treatment plan quality control."
+    },
+    {
+      "paperId": "d456a0c964c43d2cbbc9e54fa19edcfcc7b8a7a1",
+      "title": "A Novel Intensity Similarity Metric with Soft Spatial Constraint for a Deformable Image Registration Problem in Radiation Therapy"
+    },
+    {
+      "paperId": "39451916133fb199ce120cc8554af89086e884bf",
+      "title": "Validation of functional imaging with pathology for tumor delineation in the prostate."
+    },
+    {
+      "paperId": "be83c1c0972e6d9f7a2f06abbba408e856481fc7",
+      "title": "Situated cognition in clinical visualization: The role of transparency in GammaKnife neurosurgery planning"
+    },
+    {
+      "paperId": "51bd22c2f445dbe429b17273c49ad2f3311fefb8",
+      "title": "Imaging localized prostate cancer: current approaches and new developments."
+    },
+    {
+      "paperId": "cea1d25a1eb9bbd74063b8fb95c4f95531487587",
+      "title": "Application of holographic display in radiotherapy treatment planning II: a multi\u2010institutional study"
+    },
+    {
+      "paperId": "af6345aae6d0f159924732ea3ae6785351d4fafd",
+      "title": "Survey of the Visual Exploration and Analysis of Perfusion Data"
+    },
+    {
+      "paperId": "9167a7f43e8f684e06fdeb8d65c5bbd93cca71e4",
+      "title": "Interactive deformation registration of endorectal prostate MRI using ITK thin plate splines."
+    },
+    {
+      "paperId": "60279127be59568cdc71b03b891350842c0863fc",
+      "title": "A multimodality image registration framework for synchronous visualization of radiotherapy plans with longitudinal imaging studies"
+    },
+    {
+      "paperId": "9c3814fa9c1e4a03d053ad559550bc58ffe40861",
+      "title": "Robust Management of Motion Uncertainty in Intensity-Modulated Radiation Therapy"
+    },
+    {
+      "paperId": "33698e2e7aa4eab9f321dd4f373fe9f3db30db74",
+      "title": "Apparent diffusion coefficient: Prostate cancer versus noncancerous tissue according to anatomical region"
+    },
+    {
+      "paperId": "20a6ae1382ec8a80c33ea76f0ddbc030295981bb",
+      "title": "Automatic Segmentation of the Pelvic Bones from CT Data Based on a Statistical Shape Model"
+    },
+    {
+      "paperId": "dfa091f71d5589e56cbaaf72ec59385b8fe33af4",
+      "title": "Tumor delineation: The weakest link in the search for accuracy in radiotherapy"
+    },
+    {
+      "paperId": "dad8f55931d779a27f12dc62cc7893d04b184858",
+      "title": "Real-Time Simulation of 4D Lung Tumor Radiotherapy Using a Breathing Model"
+    },
+    {
+      "paperId": "59f7fa33d99e861afd7f9b9a50ffe10a75e03f40",
+      "title": "Quantification and visualization of charged particle range variations."
+    },
+    {
+      "paperId": "2fdb14711ac1da4c99fdce780e2e666a2f8d1f66",
+      "title": "Reconstruction of a time-averaged midposition CT scan for radiotherapy planning of lung cancer patients using deformable registrationa)."
+    },
+    {
+      "paperId": "f026c92b1d91a97aa3c8fcda026fe0217c49dde9",
+      "title": "Anatomical imaging for radiotherapy"
+    },
+    {
+      "paperId": "8686ee099a7ae7e00a94b6fb8fcc4c17f7753799",
+      "title": "Multiparametric magnetic resonance imaging in prostate cancer: present and future"
+    },
+    {
+      "paperId": "bf8ca5dba7e636db046cf3a056d10611816c4c72",
+      "title": "The normal tissue sparing potential of adaptive strategies in radiotherapy of bladder cancer"
+    },
+    {
+      "paperId": "4288e4da2c674c93faac6366c1d9c81e63823b80",
+      "title": "Experience-driven dose-volume histogram maps of NTCP risk as an aid for radiation treatment plan selection and optimization."
+    },
+    {
+      "paperId": "9cd03179c982a39f9f109008072316f3e42c7d4b",
+      "title": "Tumour delineation and cumulative dose computation in radiotherapy based on deformable registration of respiratory correlated CT images of lung cancer patients."
+    },
+    {
+      "paperId": "4ebed612e9a035a6a3847e680b3bf51050d469f3",
+      "title": "Interactive Visual Analysis of Perfusion Data"
+    },
+    {
+      "paperId": "1fa3d74dacdfac279e699434ac6749dc7d5ca280",
+      "title": "A survey on planar IMRT QA analysis"
+    },
+    {
+      "paperId": "f65be01945e0b5c6d89105ef3c0575f0e7a6f620",
+      "title": "What's new in target volume definition for radiologists in ICRU Report 71? How can the ICRU volume definitions be integrated in clinical practice?"
+    },
+    {
+      "paperId": "c7bf61fd2b3f6d2a3c8d259d1580b8160577a49a",
+      "title": "Assessment of a model-based deformable image registration approach for radiation therapy planning."
+    },
+    {
+      "paperId": "1473ec781ee782cd0f16c7c6eea85fc89313683f",
+      "title": "Imaging prostate cancer: a multidisciplinary perspective."
+    },
+    {
+      "paperId": "45ee0715568ce5456e088666d33a9187f918ed84",
+      "title": "Real-Time Volume Rendering Visualization of Dual-Modality PET/CT Images With Interactive Fuzzy Thresholding Segmentation"
+    },
+    {
+      "paperId": "e0af29c3ff323f2d7e1a9039ec7a146f8588710b",
+      "title": "A virtual reality solution for evaluation of radiotherapy plans."
+    },
+    {
+      "paperId": "80f414d89d89537328d22207956675a126864503",
+      "title": "On the visualization of universal degeneracy in the IMRT problem"
+    },
+    {
+      "paperId": "57d1e3e2d836c3ef1bd16ce13f45ee72bfd7618b",
+      "title": "From anatomical to biological target volumes: the role of PET in radiation treatment planning"
+    },
+    {
+      "paperId": "f83f280a1a54a13feeb1cb2eaf684ed2e794f621",
+      "title": "Computer Simulation of Radiotherapy Dose Distribution in Tissue"
+    },
+    {
+      "paperId": "301e81ad13488b5833f9ec9d2e84d4a6fbcf4114",
+      "title": "The management of respiratory motion in radiation oncology report of AAPM Task Group 76a)."
+    },
+    {
+      "paperId": "0dd4c5d618050f5f76d3356cfff0d710903da9f1",
+      "title": "Visualisation of Delineation Structure Variability in Radiotherapy"
+    },
+    {
+      "paperId": "e78c4c1529b8c2ec6ba7bd406da5b510aecf35cd",
+      "title": "MMCTP: a radiotherapy research environment for Monte Carlo and patient-specific treatment planning"
+    },
+    {
+      "paperId": "5062b25d2f69c5aebff4a2bc858395d811b532eb",
+      "title": "Dose painting: art or science?"
+    },
+    {
+      "paperId": "2796ba1782e2229a6966b4681717741344e50524",
+      "title": "Simulation and visualization of dose uncertainties due to interfractional organ motion"
+    },
+    {
+      "paperId": "24273d2378e70aab958e452c57a57e3156ddc865",
+      "title": "Color intensity projections: a rapid approach for evaluating four-dimensional CT scans in treatment planning."
+    },
+    {
+      "paperId": "f2f7353980783f6f4257db8a8615331ff81fcdd6",
+      "title": "The role of radiotherapy in cancer treatment"
+    },
+    {
+      "paperId": "eaa8a271781546a7746937417ab1a07f76f2602c",
+      "title": "A novel 3D volumetric voxel registration technique for volume-view-guided image registration of multiple imaging modalities."
+    },
+    {
+      "paperId": "bac544eb173ac78ad3b73ab55a3fe94b312cd899",
+      "title": "Image-guided adaptive radiation therapy (IGART): Radiobiological and dose escalation considerations for localized carcinoma of the prostate."
+    },
+    {
+      "paperId": "2ddc07fd54fde2560f63c780b3a7843e2b5172f5",
+      "title": "Four-dimensional image-based treatment planning: Target volume segmentation and dose calculation in the presence of respiratory motion."
+    },
+    {
+      "paperId": "9bf6172b0d2a420dd4208541b369a5b84e1f352f",
+      "title": "Diffusion-Weighted Imaging of Prostate Cancer"
+    },
+    {
+      "paperId": "55a1934a9cbd34723cf6e54cc14c14b80f2c7f6e",
+      "title": "Prostate cancer: evaluation of vascular characteristics with dynamic contrast-enhanced T1-weighted MR imaging--initial experience."
+    },
+    {
+      "paperId": "8f96696e83c418c26d7e7dd117d21b1ec3f4daec",
+      "title": "MINERVA-a multi-modal radiation treatment planning system."
+    },
+    {
+      "paperId": "eeae5d7a5b52e5a3ff6fb6fca3b480906056136b",
+      "title": "Virtual Simulation of a Boost Field in Adjuvant Radiotherapy of the Breast"
+    },
+    {
+      "paperId": "fd69636a13b6603afda322262091974f0be7e1e1",
+      "title": "Prescribing, Recording, and Reporting Electron Beam Therapy"
+    },
+    {
+      "paperId": "d5b692f690207d59fd21b19c4a510fd7c3f6caa8",
+      "title": "Image registration methods: a survey"
+    },
+    {
+      "paperId": "5833379a945b87850a1a5568f8126a77bbe9b5a6",
+      "title": "Radiation-induced second cancers: the impact of 3D-CRT and IMRT."
+    },
+    {
+      "paperId": "798a9433484841523f8c13a3b096a85df0e4abe7",
+      "title": "In silico radiation oncology: combining novel simulation algorithms with current visualization techniques"
+    },
+    {
+      "paperId": "4dd6e10d76b6cdd4416bfec53e510249076b34f3",
+      "title": "Plan space: representation of treatment plans in multidimensional space."
+    },
+    {
+      "paperId": "5ec56f07af2577997b8fd9f96c134505e4fccbd1",
+      "title": "Geometrical uncertainties, radiotherapy planning margins, and the ICRU-62 report."
+    },
+    {
+      "paperId": "9418419c57d97bc5268d9b89f1cf27cef7f6a965",
+      "title": "Inclusion of geometric uncertainties in treatment plan evaluation."
+    },
+    {
+      "paperId": "4e975a74d3ddc28aded124a0e20f45b1cef6a6b4",
+      "title": "Margins for geometric uncertainty around organs at risk in radiotherapy."
+    },
+    {
+      "paperId": "21f21adf5ea34a073b07a9ce18db9decdc04acca",
+      "title": "Registration of magnetic resonance spectroscopic imaging to computed tomography for radiotherapy treatment planning."
+    },
+    {
+      "paperId": "a936150dc5af6ae23f82bc22705b497ece3ce54c",
+      "title": "EXOMIO: A 3D Simulator for External Beam Radiotherapy"
+    },
+    {
+      "paperId": "a2bf50825812b2f5d59e11b38345c4dca02279ac",
+      "title": "Interaction in the segmentation of medical images: A survey"
+    },
+    {
+      "paperId": "90589b231a6aafc55460dc04152125931e2f4107",
+      "title": "Real-time dose calculation and visualization for the proton therapy of ocular tumours"
+    },
+    {
+      "paperId": "02d60d8e6aff4cf69c24ce74fdf30a539c40695d",
+      "title": "Volume visualization in radiation treatment planning."
+    },
+    {
+      "paperId": "bb24edc8c54d3e089a9585d497e4ae9199e656ea",
+      "title": "Collaborative Virtual Simulation Environment for Radiotherapy Treatment Planning"
+    },
+    {
+      "paperId": "454e5533db14d9b3612f0478453618255670e62c",
+      "title": "Morphological definition of anatomic shapes using minimal datasets"
+    },
+    {
+      "paperId": "d6bd7a8025e593f9ff5cb0c9856da0f39bbfffef",
+      "title": "Towards multidimensional radiotherapy (MD-CRT): biological imaging and biological conformality."
+    },
+    {
+      "paperId": "566a4831517bf56f78d92e238201553d7b46f4bf",
+      "title": "Dose calculations for external photon beams in radiotherapy."
+    },
+    {
+      "paperId": "f548c9365ba02413202d134543dc1f60f68966a2",
+      "title": "Estimating kinetic parameters from dynamic contrast\u2010enhanced t1\u2010weighted MRI of a diffusable tracer: Standardized quantities and symbols"
+    },
+    {
+      "paperId": "8a7cfb3cffcabcb6390e8e96a5bd43210819b234",
+      "title": "3-D visualization in biomedical applications."
+    },
+    {
+      "paperId": "2223a53207c2eec12cd8e319821b0b7905d61728",
+      "title": "Image processing in stereotactic planning: volume visualization and image registration."
+    },
+    {
+      "paperId": "801fbb0886ee3b1c07e35f8196672513b78b314d",
+      "title": "A survey of medical image registration"
+    },
+    {
+      "paperId": "f8efe42c8197658a1288e80dc011f9b3c2be708e",
+      "title": "Conveying the 3D Shape of Smoothly Curving Transparent Surfaces via Texture"
+    },
+    {
+      "paperId": "ff4eb1b85a98f1d650aa5dafd95ad4c5d657ce1b",
+      "title": "Combined error of patient positioning variability and prostate motion uncertainty in 3D conformal radiotherapy of localized prostate cancer."
+    },
+    {
+      "paperId": "2373a16d5e552abc665add445b6deab4eed1756a",
+      "title": "Three-dimensional stylization of structures of interest from computed tomography images applied to radiotherapy planning."
+    },
+    {
+      "paperId": "988383e00a85e958e87685141c33115947a9ade0",
+      "title": "Enhancing transparent skin surfaces with ridge and valley lines"
+    },
+    {
+      "paperId": "2fa2e0203c82ed438176ee673f0dee6d42152068",
+      "title": "A model for calculating tumour control probability in radiotherapy including the effects of inhomogeneous distributions of dose and clonogenic cell density."
+    },
+    {
+      "paperId": "43ef03b7f3fddaaf325c4c974a38824d2340897c",
+      "title": "Dose-volume histograms."
+    },
+    {
+      "paperId": "838f1e98bd38cbe5d7e56e03f91f420faeeb8af4",
+      "title": "UK Consensus on Normal Tissue Dose Constraints for Stereotactic Radiotherapy."
+    },
+    {
+      "paperId": "927af4a22dec573079b37762142209b2e503b750",
+      "title": "Using a contextualized sensemaking model for interaction design: A case study of tumor contouring"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "e22c55e39a1a4a7350c28fa2840e7853f01731bc",
+      "title": "Informatics in Radiation Oncology"
+    },
+    {
+      "paperId": "1db5f2b9cf304e5958e2f69a1bd803ba008a330a",
+      "title": "Past, present, and future of radiotherapy for the benefit of patients"
+    },
+    {
+      "paperId": "98610e499bd790da016dc7aed1d9d06948ca0321",
+      "title": "From X-Rays to Ion Beams: A Short History of Radiation Therapy"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "4af3978f214b5ad4fa2104c5523f69e60ce77341",
+      "title": "Dose painting and theragnostic imaging: towards the prescription, planning and delivery of biologically targeted dose distributions in external beam radiation oncology."
+    },
+    {
+      "paperId": "de42768daeed1fd0e813726807066da0d0b1a0a8",
+      "title": "Functional MR imaging of prostate cancer."
+    },
+    {
+      "paperId": "62ae253ceafb1976a54bbd4cdadad80e4e73231c",
+      "title": "Image-Guided/Adaptive Radiotherapy"
+    },
+    {
+      "paperId": "8b2bcb8cf587d44af271deb067051f5db1e92c5b",
+      "title": "Errors and margins in radiotherapy."
+    },
+    {
+      "paperId": "91d16ad7b6c30d213d3327a16f17f0fea3742821",
+      "title": "Conformal radiotherapy for lung cancer: different delineation of the gross tumor volume (GTV) by radiologists and radiation oncologists."
+    },
+    {
+      "paperId": "9b0d18a9d1faa618d466fef25ef36f1ddc02030b",
+      "title": "Current methods in medical image segmentation."
+    },
+    {
+      "paperId": "08a24232782ff9fadcdbf7adc22966e112065d02",
+      "title": "Volumetric visualization of head and neck CT data for treatment planning."
+    },
+    {
+      "paperId": "d4a5c023d6d8cd87bf86416170d0b051d9358f6c",
+      "title": "Managing geometric uncertainty in conformal intensity-modulated radiation therapy."
+    },
+    {
+      "paperId": "ff562641c2ea3d3af5ebc3c1c19f8ed0e03ae41c",
+      "title": "Volumetric visualization of anatomy for treatment planning."
+    },
+    {
+      "paperId": "86897459eddd3c46b8a6dfe8419d96a7c2a197c9",
+      "title": "Colour visualization as an aid to the comparison of treatment plans for prostatic carcinoma."
+    }
+  ]
+}

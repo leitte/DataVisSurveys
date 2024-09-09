@@ -1,0 +1,710 @@
+{
+  "paperId": "964d7236ddbb5679fd3c999a5ff42d6c174ac675",
+  "externalIds": {
+    "DBLP": "journals/cgf/AfzalHGJKHH19",
+    "MAG": "2961802533",
+    "DOI": "10.1111/cgf.13731",
+    "CorpusId": 199003609
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/964d7236ddbb5679fd3c999a5ff42d6c174ac675",
+  "title": "The State of the Art in Visual Analysis Approaches for Ocean and Atmospheric Datasets",
+  "abstract": "The analysis of ocean and atmospheric datasets offers a unique set of challenges to scientists working in different application areas. These challenges include dealing with extremely large volumes of multidimensional data, supporting interactive visual analysis, ensembles exploration and visualization, exploring model sensitivities to inputs, mesoscale ocean features analysis, predictive analytics, heterogeneity and complexity of observational data, representing uncertainty, and many more. Researchers across disciplines collaborate to address such challenges, which led to significant research and development advances in ocean and atmospheric sciences, and also in several relevant areas such as visualization and visual analytics, big data analytics, machine learning and statistics. In this report, we perform an extensive survey of research advances in the visual analysis of ocean and atmospheric datasets. First, we survey the task requirements by conducting interviews with researchers, domain experts, and end users working with these datasets on a spectrum of analytics problems in the domain of ocean and atmospheric sciences. We then discuss existing models and frameworks related to data analysis, sense\u2010making, and knowledge discovery for visual analytics applications. We categorize the techniques, systems, and tools presented in the literature based on the taxonomies of task requirements, interaction methods, visualization techniques, machine learning and statistical methods, evaluation methods, data types, data dimensions and size, spatial scale and application areas. We then evaluate the task requirements identified based on our interviews with domain experts in the context of categorized research based on our taxonomies, and existing models and frameworks of visual analytics to determine the extent to which they fulfill these task requirements, and identify the gaps in current research. In the last part of this report, we summarize the trends, challenges, and opportunities for future research in this area.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 155,
+  "openAccessPdf": {
+    "url": "https://repository.kaust.edu.sa/bitstreams/272e8dca-01e9-4aa7-98bb-0d43277dd72c/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Engineering",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Afzal2019TheSO,\n author = {S. Afzal and M. Hittawe and Sohaib Ghani and T. Jamil and O. Knio and Markus Hadwiger and K. Ho},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Visual Analysis Approaches for Ocean and Atmospheric Datasets},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2194062",
+      "name": "S. Afzal"
+    },
+    {
+      "authorId": "2775884",
+      "name": "M. Hittawe"
+    },
+    {
+      "authorId": "2635216",
+      "name": "Sohaib Ghani"
+    },
+    {
+      "authorId": "48232957",
+      "name": "T. Jamil"
+    },
+    {
+      "authorId": "2229479",
+      "name": "O. Knio"
+    },
+    {
+      "authorId": "1761518",
+      "name": "Markus Hadwiger"
+    },
+    {
+      "authorId": "47702279",
+      "name": "K. Ho"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "365e1e723a36ace41878a95d3847b0f976e96c53",
+      "title": "Visualizing Confidence in Cluster-Based Ensemble Weather Forecast Analyses"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "2be6be3c11351060a090391f12ce063868c71fad",
+      "title": "An Exploratory Framework for Cyclone Identification and Tracking"
+    },
+    {
+      "paperId": "16bc4ce6cc85e2592071501b86293df3f3219bff",
+      "title": "Exploring Variability within Ensembles of Decadal Climate Predictions"
+    },
+    {
+      "paperId": "a12aaaadead08d32e6301dd040e13d9afa5a69a6",
+      "title": "An Interactive Framework for Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "d63c0f876b85287174867faf764245e4f0831027",
+      "title": "Visual Analysis of Spatia-temporal Relations of Pairwise Attributes in Unsteady Flow"
+    },
+    {
+      "paperId": "478e59890c9efa8c7b82f3f1b7347e2a2d7c0c6e",
+      "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities"
+    },
+    {
+      "paperId": "fa0d40850802b94b08a27f00ef7d2a3d94549f30",
+      "title": "Interactive 3D Visual Analysis of Atmospheric Fronts"
+    },
+    {
+      "paperId": "9ba8056003502fb09e8af330705daeca073df27e",
+      "title": "Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks"
+    },
+    {
+      "paperId": "1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+      "title": "Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks"
+    },
+    {
+      "paperId": "4ebce8ffb4971fb615f3178ff185e7b5828d8826",
+      "title": "Semantic Flow Graph: A Framework for Discovering Object Relationships in Flow Fields"
+    },
+    {
+      "paperId": "25dcd19ef074403b6821ffcfeb85254abf2b5552",
+      "title": "Urban Weathering: Interactive Rendering of Polluted Cities"
+    },
+    {
+      "paperId": "b63fa5ccd89ef07aed8ffefc647f654261f3e48d",
+      "title": "A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden"
+    },
+    {
+      "paperId": "9c9c8c1b5002bbebccbdbc8a52b6ba6b3a5c748c",
+      "title": "Taxonomy of Big Data: A Survey"
+    },
+    {
+      "paperId": "2340bb32f4e25d9128859241ffd59bbe33eb0c7a",
+      "title": "Indexed-Points Parallel Coordinates Visualization of Multivariate Correlations"
+    },
+    {
+      "paperId": "d5c29e3106441b884113757cf4a1168dd1fb6c63",
+      "title": "A Comparative 3D Visualization Tool for Observation of Mode Water"
+    },
+    {
+      "paperId": "05a91e5bbec904e3f3231224bd4f64a1765f29a4",
+      "title": "DSPCP: A Data Scalable Approach for Identifying Relationships in Parallel Coordinates"
+    },
+    {
+      "paperId": "e99d83db1c37f7393a3fc83a10d63a5f57ed24c9",
+      "title": "What you see is what you can change: Human-centered machine learning by interactive visualization"
+    },
+    {
+      "paperId": "b079183f5ac71b0a1e75c0b2c0a35575cc5a508f",
+      "title": "The ALPINE In Situ Infrastructure: Ascending from the Ashes of Strawman"
+    },
+    {
+      "paperId": "b4816e53ae9176b7f9f1d70ddfe055ec6e060483",
+      "title": "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics"
+    },
+    {
+      "paperId": "5c4e16a29a371fdfd4e022a73a8a7b5fc56fa372",
+      "title": "A GPU-Accelerated Approach for Feature Tracking in Time-Varying Imagery Datasets"
+    },
+    {
+      "paperId": "6ac9b472b4a096d7020416b2d40511b0428ae07b",
+      "title": "Interactive visualization of high-dimensional petascale ocean data"
+    },
+    {
+      "paperId": "338905de333239cb29db765aa683d7dd0f2464df",
+      "title": "Albero: A Visual Analytics Approach for Probabilistic Weather Forecasting"
+    },
+    {
+      "paperId": "af5fdbaa190247e8c3377405e1f66bb98ecec8a2",
+      "title": "Uncertainty Visualization by Representative Sampling from Prediction Ensembles"
+    },
+    {
+      "paperId": "585de90664248109f9c972aa09dd4b95c9e11595",
+      "title": "The State\u2010of\u2010the\u2010Art in Predictive Visual Analytics"
+    },
+    {
+      "paperId": "247b17bba3f5e6ca2a63ca1becd205e355d5b253",
+      "title": "Exploring the evolution of pressure-perturbations to understand atmospheric phenomena"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "f9994f25a2f062bb8732f73d15ebfdc90cd9f3d3",
+      "title": "Modality-Driven Classification and Visualization of Ensemble Variance"
+    },
+    {
+      "paperId": "82a4e526effca95bbda2d6ec94784d7389af3486",
+      "title": "Towards Quantitative Visual Analytics with Structured Brushing and Linked Statistics"
+    },
+    {
+      "paperId": "5fdf82800a1871f42e2998fa685044eb9c8e7b55",
+      "title": "Finite-Time Lyapunov Exponents and Lagrangian Coherent Structures in Uncertain Unsteady Flows"
+    },
+    {
+      "paperId": "8a6963dad8997322d3757c808f470789f413ef2b",
+      "title": "Visualizing the Impact of Geographical Variations on Multivariate Clustering"
+    },
+    {
+      "paperId": "beeb87fac4366d33116b8ed3473ba167052481db",
+      "title": "Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso\u2010Contours"
+    },
+    {
+      "paperId": "a1bed5a7d137d41538f57562b6d14dbd8e9af2d0",
+      "title": "A Survey on Visual Analysis Approaches for Financial Data"
+    },
+    {
+      "paperId": "cfb93be9d861d7e892b5dca8959bf75f9a6f955b",
+      "title": "Visualizing Volcanic Clouds in the Atmosphere and Their Impact on Air Traffic"
+    },
+    {
+      "paperId": "887bff6b8504ed374d51ce2b4173f203df4d76a1",
+      "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data"
+    },
+    {
+      "paperId": "e312bd7309d6af20fdfd28d4eec8249e6c699a9a",
+      "title": "Visualizing the variations of ensemble of isosurfaces"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "0a227a19cd2c8d5ad6a2eaa815c80795711adbbe",
+      "title": "Visually Comparing Weather Features in Forecasts"
+    },
+    {
+      "paperId": "182a0f461fc476f4373a1065a62d908ca9a6507a",
+      "title": "In Situ Eddy Analysis in a High-Resolution Ocean Climate Model"
+    },
+    {
+      "paperId": "28ab4108d5e9ccc57b5156cfedffc1442d5ed10c",
+      "title": "The Human-Computer System: Towards an Operational Model for Problem Solving"
+    },
+    {
+      "paperId": "9948a2f60438ad9b2ff2699de359d997db44896d",
+      "title": "Interactive visual steering of hierarchical simulation ensembles"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "a5b79e5a3ef152de5a8bdb137409413da99e95d5",
+      "title": "Visual scalability of spatial ensemble uncertainty"
+    },
+    {
+      "paperId": "f6a322174272df74d55e743616e9d5811badf26d",
+      "title": "Review: visual analytics of climate networks"
+    },
+    {
+      "paperId": "35e4b2d62ff35ade25f89c09e22a65b1279756e9",
+      "title": "The quiet revolution of numerical weather prediction"
+    },
+    {
+      "paperId": "ad36b07233905c32d777b22caf9e755163a3ada2",
+      "title": "Forecast Verification and Visualization based on Gaussian Mixture Model Co\u2010estimation"
+    },
+    {
+      "paperId": "a8e7dafb3a4380cb85f1f85815e504fc1a6b51fd",
+      "title": "Three-dimensional visualization of ensemble weather forecasts \u2013 Part 1: The visualization tool Met.3D (version 1.0)"
+    },
+    {
+      "paperId": "92390ab2ff0be928cd47393e712c0064acc6f65b",
+      "title": "Directional Texture for Visualization - New Technique and Application Study"
+    },
+    {
+      "paperId": "e054a5774ce44d1e206255753bfc8206121d49c8",
+      "title": "Visual Analytics for Exploring Local Impact of Air Traffic"
+    },
+    {
+      "paperId": "6d795a4fb8fafdf8351add801f188c1bb6f85a67",
+      "title": "Visual Analysis of Spatio\u2010Temporal Data: Applications in Weather Forecasting"
+    },
+    {
+      "paperId": "4e2c33b2a2c4afcdebb4ab73853a658dc78b8c76",
+      "title": "Visualizing Time\u2010Specific Hurricane Predictions, with Uncertainty, from Storm Path Ensembles"
+    },
+    {
+      "paperId": "f0c86e351486798e50ec4a986df906fcf60c2f1c",
+      "title": "Interactive Fusion and Tracking For Multi\u2010Modal Spatial Data Visualization"
+    },
+    {
+      "paperId": "1cebf7bc1bc58f1d011b68ef536ba9fe0e03bf77",
+      "title": "VIMTEX: A Visualization Interface for Multivariate, Time\u2010Varying, Geological Data Exploration"
+    },
+    {
+      "paperId": "29777d6f6ad0d0e5665d36e54220a23d28645ee5",
+      "title": "Visualization of 2D Uncertainty in Decadal Climate Predictions"
+    },
+    {
+      "paperId": "7c5f4173255fae970cf6dc6af6e5ba6de3431f3a",
+      "title": "TraVis - A visualization framework for mobile transect data sets in an urban microclimate context"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "8e3e31fc216bbd60e918511234d577d64ecc6125",
+      "title": "An Image-Based Approach to Extreme Scale in Situ Visualization and Analysis"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "22fd10346ffeb89c982d19c0f88bb338bd8be7d4",
+      "title": "Visual Reconciliation of Alternative Similarity Spaces in Climate Modeling"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "4c23afa1e945df21cc2ad32ef09ae2ccb9f65eee",
+      "title": "Visual analytics of large-scale climate model data"
+    },
+    {
+      "paperId": "4ab226b471c2aedfa3dbb7cd57d3b16d26769047",
+      "title": "Vismate: Interactive visual analysis of station-based observation data on climate changes"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "a516ffb8ff190f29a3da4f74b1d9a0eb97a1fa34",
+      "title": "Interactive visual summaries for detection and assessment of spatiotemporal patterns in geospatial time series"
+    },
+    {
+      "paperId": "4693dbc9b11142dd6f4bdfdda2a922f1766ea091",
+      "title": "SimilarityExplorer: A Visual Inter\u2010Comparison Tool for Multifaceted Climate Data"
+    },
+    {
+      "paperId": "6202fbf92467dea1bd8500068fbfec0304341154",
+      "title": "Coupled Ensemble Flow Line Advection and Analysis"
+    },
+    {
+      "paperId": "6d9637864944f0637cfba372fa66ebe61b0dfb63",
+      "title": "An Exploration Framework to Identify and Track Movement of Cloud Systems"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "44b9bba34dd4a6046cba3fcd9f17f71ee66dde7f",
+      "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures"
+    },
+    {
+      "paperId": "a434ede16e46db0d779a55a2b2c5401ad3298528",
+      "title": "Ultrascale Visualization of Climate Data"
+    },
+    {
+      "paperId": "e007a5c6bea23dd5002b97c3606ba468b296030b",
+      "title": "Representing Flow Patterns by Using Streamlines with Glyphs"
+    },
+    {
+      "paperId": "1cb04c3cfb0970970a66259370cdcc8d05065759",
+      "title": "Interactive Ray Casting of Geodesic Grids"
+    },
+    {
+      "paperId": "0f79fa93dba7b897248984aa308c768384b3c6c2",
+      "title": "Gaussian mixture model based volume visualization"
+    },
+    {
+      "paperId": "50ccfa879d351556a2fb9dc3c5fc968d7e5f605e",
+      "title": "A Visual Analysis Concept for the Validation of Geoscientific Simulation Models"
+    },
+    {
+      "paperId": "827850470b8633b5c78dd318d91c2b39c82d8124",
+      "title": "Visual analytics methods for categoric spatio-temporal data"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "48fe5bca7a4277d3bf5e6d9688bda733775db200",
+      "title": "Interface Exchange as an Indicator for Eddy Heat Transport"
+    },
+    {
+      "paperId": "3387576c5f06543eda3e4ed890dd35ea32c6bfc1",
+      "title": "Visual Analytics of Climate Networks"
+    },
+    {
+      "paperId": "a52031ee8bf179b10dcd53496b91bcca7b697488",
+      "title": "Designing a better weather display"
+    },
+    {
+      "paperId": "2073eb13bb94bce5bdb33146eb15663e0fff2d04",
+      "title": "A visual analytics process for maritime resource allocation and risk assessment"
+    },
+    {
+      "paperId": "58edc1ac117d6bab1b243700efdbc842e939668c",
+      "title": "Adaptive Extraction and Quantification of Geophysical Vortices"
+    },
+    {
+      "paperId": "0c515961c9b49c993c609b37ae1a242193706a7a",
+      "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures"
+    },
+    {
+      "paperId": "5dfe804a4da91c8afb878f6ca7062746b86a25a3",
+      "title": "Information Visualization in Climate Research"
+    },
+    {
+      "paperId": "cd9bf1f4674513c1b42ec9fc263e7ee61d16da40",
+      "title": "Exploratory Visualization for Weather Data Verification"
+    },
+    {
+      "paperId": "64dc1df6ddfb2c91b71f4fd0a2308fb0530db808",
+      "title": "Visualization and Analysis of Eddies in a Global Ocean Simulation"
+    },
+    {
+      "paperId": "c60372bd9cfa6b05d0aff9fa643796c692cda344",
+      "title": "Forecasting Hotspots\u2014A Predictive Analytics Approach"
+    },
+    {
+      "paperId": "179a118cb980af16cc5a94208150a870a4ff473f",
+      "title": "Static correlation visualization for large time-varying volume data"
+    },
+    {
+      "paperId": "a36ca5a1dfd5f74555856907b9a822479de99a3d",
+      "title": "Interactive Vector Field Feature Identification"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "609bd5fd2692fa992d3ebaa3f1435ca44dbe1c01",
+      "title": "An Application of Multivariate Statistical Analysis for Query-Driven Visualization"
+    },
+    {
+      "paperId": "6e6b6369b2585f0d0d851d97e8a58a28ed7cf0ac",
+      "title": "Swedish Road Weather Visualization"
+    },
+    {
+      "paperId": "38417202db769bc4bbe891c223cbc0fa67d3e1f5",
+      "title": "Evaluating Climate Visualization: An Information Visualization Approach"
+    },
+    {
+      "paperId": "2d47931792d9dc1e752551f56fe477d085555f39",
+      "title": "Space\u2010in\u2010Time and Time\u2010in\u2010Space Self\u2010Organizing Maps for Exploring Spatiotemporal Patterns"
+    },
+    {
+      "paperId": "76686c718a25462474636f82984c2c364fa1a346",
+      "title": "Exploration of Climate Data Using Interactive Visualization"
+    },
+    {
+      "paperId": "0397f6fdbe3e2220c663ced7dbaa8a859cc84d90",
+      "title": "Understanding Climate Change Patterns with Multivariate Geovisualization"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "b903c04aa29ef86c2ea04055a6969fc2ba096bc4",
+      "title": "Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates"
+    },
+    {
+      "paperId": "230d711cc94b80c37483f63aaebe99287ece43c0",
+      "title": "Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data"
+    },
+    {
+      "paperId": "f97307c8bc159af12e49c071a562380e2c22cc03",
+      "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces"
+    },
+    {
+      "paperId": "776bf349f0e83edd3357c4eca91ee12ecaafe2a9",
+      "title": "Visual Exploration of Climate Variability Changes Using Wavelet Analysis"
+    },
+    {
+      "paperId": "fbf77e6945b1c637d85f9af77fcd1f993c1873fb",
+      "title": "Interactive Visualization of Weather and Ship Data"
+    },
+    {
+      "paperId": "46740c1b2cb7cb91453768b9fd16c74cb4e7b6b1",
+      "title": "An interactive parallel coordinates technique applied to a tropical cyclone climate analysis"
+    },
+    {
+      "paperId": "f47d736e23561fefef90790155580f37ef7b05bf",
+      "title": "Correlation study of time-varying multivariate climate data sets"
+    },
+    {
+      "paperId": "08b617df64c814c9314936226956b3d16d60444e",
+      "title": "Extensions of Parallel Coordinates for Interactive Exploration of Large Multi-Timepoint Data Sets"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "4b64b07aa5249d2436811050be5255c1c87da782",
+      "title": "Importance-Driven Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "c482579789f9492bd8d24fc5513c8b6ca8362a81",
+      "title": "Brushing of Attribute Clouds for the Visualization of Multivariate Data"
+    },
+    {
+      "paperId": "5d3d222646a3cd48462497f542c8d722eb9ca258",
+      "title": "Hypothesis Generation in Climate Research with Interactive Visual Data Exploration"
+    },
+    {
+      "paperId": "ac61b330ba682e14c789d1c4e07abc18be024d3a",
+      "title": "Query-Driven Visualization of Time-Varying Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "6706fd56a928fe05bec1166576dddcda904a6110",
+      "title": "Visualizing Temporal Patterns in Large Multivariate Data using Modified Globbing"
+    },
+    {
+      "paperId": "ed7b73b26ce4a7e9d577183b52d893811e1d732f",
+      "title": "Visual Analysis of the Air Pollution Problem in Hong Kong"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "fd6953bb4c9689f48951836da721091e8b7c3304",
+      "title": "Making Sense of Sensemaking 1: Alternative Perspectives"
+    },
+    {
+      "paperId": "fd050885225b052df0fe35cc002f50a13ba381c1",
+      "title": "Groupware walkthrough: adding context to groupware usability evaluation"
+    },
+    {
+      "paperId": "f8e1b3bcee316203b4aa843efd5f581bc16849dc",
+      "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": "d3e1bfffe2aa740b2a80408d9b54dc8f9fc8089c",
+      "title": "Robust Detection and Visualization of Jet-Stream Core Lines in Atmospheric Flow"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "75f46001dc2f3cebb927a6081618bb7465adee83",
+      "title": "Multivariate Visualization of Oceanography Data Using Decals"
+    },
+    {
+      "paperId": "6417ee57ecc88de7e0e9e769b9b5598f85797566",
+      "title": "Visual Analytics for Spatial Clusters of Air-Quality Data"
+    },
+    {
+      "paperId": "9c0af605281b329d15372d0e9af6752cc52630df",
+      "title": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "83613ab48ebbf28fb373bccc648f65f65485c760",
+      "title": "Vismate: Interactive visual analysis of station-based observation data on climate changes"
+    },
+    {
+      "paperId": "085b6455424196cd6f7a1dce62581cccd57242d9",
+      "title": "Utilizing GeoTemCo for Visualizing Environmental Data"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "f3678be5afc1eabe73590cfe582a74f7ab8724ce",
+      "title": "Visualization of Urban Micro-Climate Simulations"
+    },
+    {
+      "paperId": "7c2c90ca00fe1fbe7eeb1e805749fc9e1e1d3500",
+      "title": "3D Visualization of Atmospheric Data for Analytical Approaches"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "903fa8c2e2432d988def96e405bd0ada059d746c",
+      "title": "VisIt"
+    },
+    {
+      "paperId": "53fdc63adf9c6d0a3f7458a106021c23ace90e1a",
+      "title": "VisIt: An End-User Tool for Visualizing and Analyzing Very Large Data"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "68443c083a0167dc88494a12c1487d2b7a4a8b5a",
+      "title": "Multiscale Time Activity Data Exploration via Temporal Clustering Visualization Spreadsheet"
+    },
+    {
+      "paperId": "4931e11d5dba0bf3a102d394931778c673b8b049",
+      "title": "Visualization of Climate and Climate Change Data : An Overview"
+    },
+    {
+      "paperId": "604149d32752f8074951bedc40c74aeb2cc1c822",
+      "title": "ParaView: An End-User Tool for Large-Data Visualization"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "ea27df276ea857dafa717179bef65944b61bf5fb",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Uncertainty-aware Multidimensional Ensemble Data Visualization and Exploration"
+    },
+    {
+      "paperId": "d36e974d776836c6cf26a138e4b872bd56895af3",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Brushing Moments in Interactive Visual Analysis"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "R3 Features for data pre-processing, cleaning, transformation, data reshaping, \ufb01ltering, scale management, and support of native formats"
+    },
+    {
+      "paperId": null,
+      "title": "Netcdf operators (nco)"
+    },
+    {
+      "paperId": null,
+      "title": "Approaches for Ocean and Atmospheric Datasets"
+    },
+    {
+      "paperId": null,
+      "title": "Climate data operators"
+    },
+    {
+      "paperId": null,
+      "title": "R2 Query-based retrieval, analysis, and visualization across multiple data dimensions and for multiple data attributes"
+    },
+    {
+      "paperId": null,
+      "title": "R1 Support data compression, storage, and ef\ufb01cient retrieval of the data for visualization tasks from high-performance clusters"
+    },
+    {
+      "paperId": "8192ad6b3882d7e710a9713f6ed8a6abcd944ac0",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates"
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "paperId": "40b843389114060864b2da95824582248fc7c854",
+  "externalIds": {
+    "MAG": "2626368339",
+    "DBLP": "journals/cgf/LhuillierHT17",
+    "DOI": "10.1111/cgf.13213",
+    "CorpusId": 1900194
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/40b843389114060864b2da95824582248fc7c854",
+  "title": "State of the Art in Edge and Trail Bundling Techniques",
+  "abstract": "Bundling techniques provide a visual simplification of a graph drawing or trail set, by spatially grouping similar graph edges or trails. This way, the structure of the visualization becomes simpler and thereby easier to comprehend in terms of assessing relations that are encoded by such paths, such as finding groups of strongly interrelated nodes in a graph, finding connections between spatial regions on a map linked by a number of vehicle trails, or discerning the motion structure of a set of objects by analyzing their paths. In this state of the art report, we aim to improve the understanding of graph and trail bundling via the following main contributions. First, we propose a data\u2010based taxonomy that organizes bundling methods on the type of data they work on (graphs vs trails, which we refer to as paths). Based on a formal definition of path bundling, we propose a generic framework that describes the typical steps of all bundling algorithms in terms of high\u2010level operations and show how existing method classes implement these steps. Next, we propose a description of tasks that bundling aims to address. Finally, we provide a wide set of example applications of bundling techniques and relate these to the above\u2010mentioned taxonomies. Through these contributions, we aim to help both researchers and users to understand the bundling landscape as well as its technicalities.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 201,
+  "openAccessPdf": {
+    "url": "https://hal-enac.archives-ouvertes.fr/hal-01559020/file/main.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2017-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lhuillier2017StateOT,\n author = {Antoine Lhuillier and C. Hurter and A. Telea},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art in Edge and Trail Bundling Techniques},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1932959",
+      "name": "Antoine Lhuillier"
+    },
+    {
+      "authorId": "2433007",
+      "name": "C. Hurter"
+    },
+    {
+      "authorId": "1686665",
+      "name": "A. Telea"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0b0d051715078288d5356013707445a53f0edfa9",
+      "title": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "paperId": "5da7c45592c7a4aa1a2f31cb54c99d5fc56144fe",
+      "title": "Staged analysis: From evocative to comparative visualizations of Urban mobility"
+    },
+    {
+      "paperId": "84d458800429dc57e9bef91f04a52ffc20c4809a",
+      "title": "FFTEB: Edge bundling of huge graphs by the Fast Fourier Transform"
+    },
+    {
+      "paperId": "3ac1755f460535222710be85740d11b2180e4e29",
+      "title": "Towards Faithful Graph Visualizations"
+    },
+    {
+      "paperId": "c84fe25061585506799ba8ec58ffa71050c4ca5a",
+      "title": "CUBu: Universal Real-Time Bundling for Large Graphs"
+    },
+    {
+      "paperId": "768fe6be511d33a980efa125b8b1af4eec64a7e2",
+      "title": "Space Bundling for Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "6b1d7047f4cdebfc0a517b7d310860a57002f36e",
+      "title": "Interactive 3D Force\u2010Directed Edge Bundling"
+    },
+    {
+      "paperId": "06a3d25aade7cf79e3349270f316a568752ca1e2",
+      "title": "Multilayer graph edge bundling"
+    },
+    {
+      "paperId": "98bb4446b569f742c56faa47fc925e36d173453c",
+      "title": "Visualization, Selection, and Analysis of Traffic Flows"
+    },
+    {
+      "paperId": "d8effbc25acf853e0fb76402a2248e497c68508a",
+      "title": "Image-Based Visualization: Interactive Multidimensional Data Exploration"
+    },
+    {
+      "paperId": "54fee898b5ba7e141b1bac75a12474025b245fd8",
+      "title": "Vector Map Constrained Path Bundling in 3D Environments"
+    },
+    {
+      "paperId": "a303fb8b1be60f9d34da739635520ae8c4d44d72",
+      "title": "Texture-based edge bundling: A web-based approach for interactively visualizing large graphs"
+    },
+    {
+      "paperId": "9716e0fc60dd5e856cbd3db9571b148d1187f390",
+      "title": "Dynamic multiscale visualization of flight data"
+    },
+    {
+      "paperId": "5cc088ec6f15b916ed147f77c27c01a847ba66c7",
+      "title": "Shape-Based Quality Metrics for Large Graph Visualization"
+    },
+    {
+      "paperId": "f6a322174272df74d55e743616e9d5811badf26d",
+      "title": "Review: visual analytics of climate networks"
+    },
+    {
+      "paperId": "2f4f00898bbf62bdc48c293b77011c0220029063",
+      "title": "Explaining Neighborhood Preservation for Multidimensional Projections"
+    },
+    {
+      "paperId": "1b3425d81ef915566678e550b9596b9e57c68e01",
+      "title": "Exploration of the Brain\u2019s White Matter Structure through Visual Abstraction and Multi-Scale Local Fiber Tract Contraction"
+    },
+    {
+      "paperId": "2f1594ddf1180a13881e78e530dc5aa1509e1475",
+      "title": "Attribute-driven edge bundling for general graphs with applications in trail analysis"
+    },
+    {
+      "paperId": "979d67be35083f1d87acbb58ea12858670d236b1",
+      "title": "3D Density Histograms for Criteria-driven Edge Bundling"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "37d22d6b415d1b9dfd86639c9daf73de9f1fa497",
+      "title": "Visual Clone Analysis with SolidSDD"
+    },
+    {
+      "paperId": "a15fbfdb03ecf1e2b2dd06889a78bd22754fefc3",
+      "title": "Are Crossings Important for Drawing Large Graphs?"
+    },
+    {
+      "paperId": "7c888d1b9ab165308dd9ce46c43492c6b91b6064",
+      "title": "Bundled Visualization of DynamicGraph and Trail Data"
+    },
+    {
+      "paperId": "9e7105b77093b1947637040034b0d7b80ab35a20",
+      "title": "Visual analysis of dimensionality reduction quality for parameterized projections"
+    },
+    {
+      "paperId": "7f4d9abee34519f83af7c75e3ea7066a0dc3486c",
+      "title": "Interactive image-based information visualization for aircraft trajectory analysis"
+    },
+    {
+      "paperId": "9165ff19dcfede7ad02dd231804445f55f90658e",
+      "title": "A survey of dimensionality reduction techniques"
+    },
+    {
+      "paperId": "0ebf7481ffe67e361a08e0312e5a084258f242cf",
+      "title": "An Edge-Bundling Layout for Interactive Parallel Coordinates"
+    },
+    {
+      "paperId": "450e229d22ebbe44c6ccf932a72e9b689a261917",
+      "title": "Color Tunneling: Interactive Exploration and Selection in Volumetric Datasets"
+    },
+    {
+      "paperId": "b826fa77fd43e1893b0ca820b6709e661818fe1a",
+      "title": "Three-Dimensional Mean-Shift Edge Bundling for the Visualization of Functional Connectivity in the Brain"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "f1372189c14bc6fe54970e5ac66530658917cc22",
+      "title": "Edge Compression Techniques for Visualization of Dense Directed Graphs"
+    },
+    {
+      "paperId": "fb07eea26debbf1adb44aaa1705b7b5b923c68dd",
+      "title": "Improved Optimal and Approximate Power Graph Compression for Clearer Visualisation of Dense Graphs"
+    },
+    {
+      "paperId": "35bd15bb5eec71e5e7b9fdc525910d2fbcccb236",
+      "title": "SYNCTRACE: Visual thread-interplay analysis"
+    },
+    {
+      "paperId": "9bd0f547ef9f2198a03a5b9cdb14833cbb54386a",
+      "title": "ClonEvol: Visualizing software evolution with code clones"
+    },
+    {
+      "paperId": "ff774b75f86e99e399bc3e03418bdf40f80c4584",
+      "title": "Grooming the hairball - how to tidy up network visualizations?"
+    },
+    {
+      "paperId": "db1dc8e14b3b43de8938cdb5d1baa20f3123b3f9",
+      "title": "Stub Bundling and Confluent Spirals for Geographic Networks"
+    },
+    {
+      "paperId": "9b546a46fb3c509f833781b696ac15f228cc9a02",
+      "title": "Smooth bundling of large streaming and sequence graphs"
+    },
+    {
+      "paperId": "bfda15d48e2f3f8e1e61be782b76ad2fc54ea7a6",
+      "title": "Visualization of Frequent Itemsets with Nested Circular Layout and Bundling Algorithm"
+    },
+    {
+      "paperId": "13e78b6a7b759c6d16b698604744fef46e47e934",
+      "title": "Multiscale visual comparison of execution traces"
+    },
+    {
+      "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+      "title": "Edge bundling in information visualization"
+    },
+    {
+      "paperId": "88855928aaadcd43365fd7ea21bcf762beedf984",
+      "title": "Motif simplification: improving network visualization readability with fan, connector, and clique glyphs"
+    },
+    {
+      "paperId": "b63088f825a78919fa9a10c2ee5ef565459d5268",
+      "title": "Network Analysis: Methodological Foundations"
+    },
+    {
+      "paperId": "f266b51eca89806d1f8e2077157e6b99dc8d6461",
+      "title": "On the faithfulness of graph visualizations"
+    },
+    {
+      "paperId": "306e39c3b148f270a671fdf46c816961ada5ce06",
+      "title": "StreamEB: Stream Edge Bundling"
+    },
+    {
+      "paperId": null,
+      "title": "Hierarchical Streamline Bundles"
+    },
+    {
+      "paperId": "d975516bc669ed34372e20e2c401915101217f21",
+      "title": "Graph Bundling by Kernel Density Estimation"
+    },
+    {
+      "paperId": "7b890e9baac2e587695639ffa55e28b658a7577d",
+      "title": "An empirical study on the impact of edge bundling on user comprehension of graphs"
+    },
+    {
+      "paperId": "3bc47292576559deb92b0e9f8617e92e4f4f5b10",
+      "title": "Exploring the design space of interactive link curvature in network diagrams"
+    },
+    {
+      "paperId": "d23649b1a193f0583e470adfc30e55ba27b5ecd1",
+      "title": "Ambiguity-Free Edge-Bundling for Interactive Graph Visualization"
+    },
+    {
+      "paperId": "c7fc9ef9fb25b8ca6b5f6c2f9b67b2d81e99b45f",
+      "title": "Using Hierarchical Edge Bundles to visualize complex ontologies in GLOW"
+    },
+    {
+      "paperId": "0f1527b252bf7224ef7354b9f3697a56a8919aed",
+      "title": "Skeleton-Based Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "7a9aaf7b4b05cc24c48510fabbb22ebbb6d89247",
+      "title": "Divided Edge Bundling for Directional Network Data"
+    },
+    {
+      "paperId": "17220582db679a69e8e71f10116543900a6770f7",
+      "title": "Flow Map Layout via Spiral Trees"
+    },
+    {
+      "paperId": "bd93ec086fbf2ace83828909c1c63293e720be67",
+      "title": "Composite Density Maps for Multivariate Trajectories"
+    },
+    {
+      "paperId": "0f9ae35a98069f5c95c7790536664b20a74e92e7",
+      "title": "MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots"
+    },
+    {
+      "paperId": "a28679197f37a604ceb3292c707d1287ce0884dc",
+      "title": "Social Network Clustering and Visualization using Hierarchical Edge Bundles"
+    },
+    {
+      "paperId": "729b6b82187b2df9b71b7effa036e65843c6bec5",
+      "title": "3D Hierarchical Edge bundles to visualize relations in a software city metaphor"
+    },
+    {
+      "paperId": "7fd1333fe340b3837ce914424336b7cbcf75caa8",
+      "title": "Visual exploration of program structure, dependencies and metrics with SolidSX"
+    },
+    {
+      "paperId": "e464550cdc5bfe80900afb8df94066c7ddb6b14d",
+      "title": "The university of Florida sparse matrix collection"
+    },
+    {
+      "paperId": "49f5d3b1e017c2688714bcf09419a581118eb225",
+      "title": "TGI-EB: A New Framework for Edge Bundling Integrating Topology, Geometry and Importance"
+    },
+    {
+      "paperId": "a3456bcd730ccbb655ec7493712be85e6b9efbb4",
+      "title": "Evaluating Partially Drawn Links for Directed Graph Edges"
+    },
+    {
+      "paperId": "64ba24329ea02e560e2f9ea392adbb5ee7c65009",
+      "title": "Angle-Restricted Steiner Arborescences for Flow Map Layout"
+    },
+    {
+      "paperId": "c86c4701782a34a4b51bc9f553d3c1bec74c077a",
+      "title": "Evaluation of a Bundling Technique for Parallel Coordinates"
+    },
+    {
+      "paperId": "d481808e7d39e28fb43afd3c5595db51d9b7bdeb",
+      "title": "Pathway Preserving Representation of Metabolic Networks"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "8a287d4c0d72b02f50584505bb1a09261d78bef0",
+      "title": "Interactive visualization of multivariate trajectory data with density maps"
+    },
+    {
+      "paperId": "0269bd2ccddf36309869e37b1bfb964d7921e800",
+      "title": "An extended evaluation of the readability of tapered, animated, and textured directed-edge representations in node-link graphs"
+    },
+    {
+      "paperId": "f2ba775d0a4e198f08f90b266aced40fb45a6f9f",
+      "title": "Interactive visualization of streaming data with Kernel Density Estimation"
+    },
+    {
+      "paperId": "291e5ce17134b6cddc2a258429a79f9fa7978348",
+      "title": "Multilevel agglomerative edge bundling for visualizing large graphs"
+    },
+    {
+      "paperId": "6a5fb2871e7b042ad0a9bcc033ab6ccd5009876a",
+      "title": "Exploring the efficiency of users' visual analytics strategies based on sequence analysis of eye movement recordings"
+    },
+    {
+      "paperId": "f2912c1c8649d53f0b517676d263e8a0a3f3df54",
+      "title": "Improving Layered Graph Layouts with Edge\u00a0Bundling"
+    },
+    {
+      "paperId": "60f736a3b00d4fbf520c443a981c4b1b0c9d5ad3",
+      "title": "3D Edge Bundling for Geographical Data Visualization"
+    },
+    {
+      "paperId": "43ec56aca28836df5d00934f05a0ffc659e3fd27",
+      "title": "An Application of Edge Bundling Techniques to the Visualization of Media Analysis Results"
+    },
+    {
+      "paperId": "2f7854b0f2a06dce420b00c259ba46828228ebab",
+      "title": "Living Flows: Enhanced Exploration of Edge-Bundled Graphs Based on GPU-Intensive Edge Rendering"
+    },
+    {
+      "paperId": "3bff5ccaa2d619f612b0b4776267fdd86a67ec08",
+      "title": "The Readability of Path\u2010Preserving Clusterings of Graphs"
+    },
+    {
+      "paperId": "a48b93c7cb2158886d0f4445f1efff5bdf470bf1",
+      "title": "Pilot gaze and glideslope control"
+    },
+    {
+      "paperId": "ec51d2b44efc4433ecdef4f89dd785dcf43fa1f9",
+      "title": "Yarbus, eye movements, and vision"
+    },
+    {
+      "paperId": "e7467b729c6e3e764d3bd9c408a4675ba4e86680",
+      "title": "Parallel Banding Algorithm to compute exact distance transform with the GPU"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "b1bea036f334c1fd157f573977cc6f90c05a75d9",
+      "title": "Drawing trees in a streaming model"
+    },
+    {
+      "paperId": "cecebaf692ef8729026b963d5db6e3fb6df08828",
+      "title": "Supporting Exploration Awareness in Information Visualization"
+    },
+    {
+      "paperId": "bc8852922f39403066381819b3bb401fd2c8e3c9",
+      "title": "Force\u2010Directed Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "42f6fc803b52c395a624284f3a7390e7799d7b0e",
+      "title": "A Systematic Survey of Program Comprehension through Dynamic Analysis"
+    },
+    {
+      "paperId": "fa181738d7c32f195eae3dffbecd8d5d2bbbef21",
+      "title": "Execution trace analysis through massive sequence and circular bundle views"
+    },
+    {
+      "paperId": "3a5dc71097588dfbc166a50aedc72946d88637a3",
+      "title": "A 3D treemap approach for analyzing the classificatory distribution in patent portfolios"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "edd7b48b4c7432c0809d382e67cb7208a7720a6c",
+      "title": "Unraveling Protein Networks with Power Graph Analysis"
+    },
+    {
+      "paperId": "1633a6173775edc8f7d702a57d891a3db398ced2",
+      "title": "GrouseFlocks: Steerable Exploration of Graph Hierarchy Space"
+    },
+    {
+      "paperId": "8049c7992389f75dab587bfe62224275726e36fb",
+      "title": "A Comparative Study of Industrial Static Analysis Tools"
+    },
+    {
+      "paperId": "320136005e4c5f1875bbe04d9b2fe474cdd09556",
+      "title": "Centrality Based Visualization of Small World Graphs"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "d4eb0459e770aa06e8e9b5d80a45cb2360a7537c",
+      "title": "Energy-Based Hierarchical Edge Clustering of Graphs"
+    },
+    {
+      "paperId": "3c3e09f71d4d0ec31ade6ce666fe2a1d0317e0ff",
+      "title": "2D Euclidean distance transform algorithms: A comparative survey"
+    },
+    {
+      "paperId": "11dbcc3b66789b2791b1d1a780692df32c5fc120",
+      "title": "Data Visualization : Principles and Practice"
+    },
+    {
+      "paperId": "3326ddc98d6c1d065fa9b475104e479a814e535b",
+      "title": "\n Drawing Subway Maps: A\u00a0Survey\n"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "bf91edbc13638182dae89e1faa2257f9eb08dae8",
+      "title": "VisLink: Revealing Relationships Amongst Visualizations"
+    },
+    {
+      "paperId": "89d00a5d92d3f77f7f0413182870b3da7272ed7f",
+      "title": "GraphScope: parameter-free mining of large time-evolving graphs"
+    },
+    {
+      "paperId": "a73024d68f8c38d65edb11fa4ee31b99cd471876",
+      "title": "Diffusion tensor imaging of the brain"
+    },
+    {
+      "paperId": "dd4383acdd83ee1192202925d8298fd4febb1188",
+      "title": "Program Comprehension through Software Habitability"
+    },
+    {
+      "paperId": "4c6edd6f49ac90c04bf9ee8f6533a5ed6e95e503",
+      "title": "Fiber Tract Clustering on Manifolds With Dual Rooted-Graphs"
+    },
+    {
+      "paperId": "d5d3cc2010a28dcf0a84e10d3f4ec09188bb18b4",
+      "title": "Supporting interactive graph exploration using edge plucking"
+    },
+    {
+      "paperId": "4d40d2c99f8d2f40169ca914515fdf26d7740967",
+      "title": "Improved Circular Layouts"
+    },
+    {
+      "paperId": "57ddd0330fae2a5f607298cfc8d64583ff1b0224",
+      "title": "Integrating Edge Routing into Force-Directed Layout"
+    },
+    {
+      "paperId": "52eea2f3691ea6b12db9c625227829e466b8d5c0",
+      "title": "Controllable and Progressive Edge Clustering for Large Networks"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "01e3ca6d6bf1a040699d496aa0f4ab90ae7dd567",
+      "title": "ASK-GraphView: A Large Scale Graph Visualization System"
+    },
+    {
+      "paperId": "db6b4b9f27f9e3113c0bfa423fb848c934e2d651",
+      "title": "Fisheye Tree Views and Lenses for Graph Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "2eef217606f11b80bd7cbb18716c30f7bc371a9a",
+      "title": "Visual quality metrics"
+    },
+    {
+      "paperId": "c8d8cb80012b85fef7665ca395f4ccdc9f1474ac",
+      "title": "Evaluation of fiber clustering methods for diffusion tensor imaging"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "1fc08aacb9d5d876723b57b6fee95986be1f6332",
+      "title": "Open source clustering software."
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "9f9cf62eb68c2c6917b343b2e2633e1cacbdb1d5",
+      "title": "Parallel Coordinates: Visual Multidimensional Geometry and Its Applications"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "faf75dbdd0825406d8480a28056ef7bd6e416987",
+      "title": "Using curves to enhance parallel coordinate visualisations"
+    },
+    {
+      "paperId": "b5c3c4142e579cd4cd9663d3472b460beb4bc843",
+      "title": "GraphSplatting: Visualizing Graphs as Continuous Fields"
+    },
+    {
+      "paperId": "c20e00a00d5b06388fb94205ae49f13aedadf8b6",
+      "title": "Level Set Methods and Fast Marching Methods"
+    },
+    {
+      "paperId": "79837a841f1d4b6cedf09b9c287fec0844a85036",
+      "title": "Software visualization in software maintenance, reverse engineering, and re-engineering: a research survey"
+    },
+    {
+      "paperId": "6cbce689ac193bc11553940c77b15ea05549e0fc",
+      "title": "Image based flow visualization"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "a06cf29d82537bbb7b3b1ccf64498086c7c742ed",
+      "title": "An Augmented Fast Marching Method for Computing Skeletons and Centerlines"
+    },
+    {
+      "paperId": "74f4ecc3e4e5b91fbb54330b285ed5214afe2001",
+      "title": "Mean Shift: A Robust Approach Toward Feature Space Analysis"
+    },
+    {
+      "paperId": "6bbe9b689e3c379092a9bb8aaefbd9871052a086",
+      "title": "Examining edge congestion"
+    },
+    {
+      "paperId": "19c64da92a8c67c14ddd9cced0d1d0b9ff6b39d1",
+      "title": "An open graph visualization system and its applications to software engineering"
+    },
+    {
+      "paperId": "3b3a1a45fc946c0fbadf598b4912e233cacfa851",
+      "title": "Simplified representation of vector fields"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "8ff7b7cf3849640b7cfb8f08e2946fd151fed34c",
+      "title": "Data clustering: a review"
+    },
+    {
+      "paperId": "d27f0058e16de1ff71d29e201367b0c0166bf227",
+      "title": "On-line Animated Visualization of Huge Graphs using a Modified Spring Algorithm"
+    },
+    {
+      "paperId": "1a85405f1e303292d5ba55772bfbdc8a616a20c0",
+      "title": "The need for metrics in visual information analysis"
+    },
+    {
+      "paperId": "07dcd52be645919604658336a3d2fdcee4d9e036",
+      "title": "Metrics for effective information visualization"
+    },
+    {
+      "paperId": "4babb0ff9bc05281afa2a072811fb27c5789b8cc",
+      "title": "Design, implementation and evaluation of multimedia resources for geography and earth science education"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "64e222131ec0bca02b671b053ec8fc294336a603",
+      "title": "Validating Graph Drawing Aesthetics"
+    },
+    {
+      "paperId": "9dbd7e5b81c6ccf5bbeac9ea4dcf6d8f157004d6",
+      "title": "The NURBS Book"
+    },
+    {
+      "paperId": "59f9629329fea4aef68e69321e5305a0aeebe614",
+      "title": "Metrics and Models in Software Quality Engineering"
+    },
+    {
+      "paperId": "bd12d72f2d3dd0e7a1550901fe9fdd84875972db",
+      "title": "Mathematical Morphology: Theory and Hardware"
+    },
+    {
+      "paperId": "7798bf37b2a7bc82c7cebb1d4dafdaf4cac91159",
+      "title": "Visual information seeking: tight coupling of dynamic query filters with starfield displays"
+    },
+    {
+      "paperId": "19c1fe31450c6347253503ebaec1be9fed506c53",
+      "title": "Edge concentration: a method for clustering directed graphs"
+    },
+    {
+      "paperId": "8e17c434bc40ce5c41701ab638e8d9344e733565",
+      "title": "An Algorithm for Drawing General Undirected Graphs"
+    },
+    {
+      "paperId": "b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7",
+      "title": "Why a Diagram is (Sometimes) Worth Ten Thousand Words"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "d8bb1c11a4eb5385a499591abcaae55cfabc9341",
+      "title": "Icicle Plots: Better Displays for Hierarchical Clustering"
+    },
+    {
+      "paperId": "8f3b53e35c4aa723b85c3258a9cad9ab67d0a693",
+      "title": "DEPICTING FEDERAL FISCAL TRANSFERS"
+    },
+    {
+      "paperId": "34c4e6af91b25f426fde84d1c4556256f07e6e81",
+      "title": "Methods for Visual Understanding of Hierarchical System Structures"
+    },
+    {
+      "paperId": "0d306edac06661c562c795c49845bea97b9e3754",
+      "title": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "paperId": "719e2d717c4954b058a32c609b8171319299f8fb",
+      "title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "paperId": null,
+      "title": "GraphViz graph drawing framework"
+    },
+    {
+      "paperId": null,
+      "title": "Hierarchical edge bundling implementation in D3, 2017"
+    },
+    {
+      "paperId": null,
+      "title": "The Prot\u00e9g\u00e9 ontology editor, 2017"
+    },
+    {
+      "paperId": "7638c0dd4dbc791ec64b009467db7733ecf19d98",
+      "title": "State-of-the-Art of Visualization for Eye Tracking Data"
+    },
+    {
+      "paperId": "1b8ce750c80a7f91d122e23f80dbb2515b91f5f8",
+      "title": "The Solid* toolset for software visual analytics of program structure and metrics comprehension: From research prototype to product"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "69c575c99919fb8f2d02e639efc80018555d8c73",
+      "title": "Multivariate Networks in Software Engineering"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Science and Air Traffic Management at the French Civil Aviation University (ENAC) and his M.Sc. (2013) in Computer Science specialized in HCI from the University of Toulouse, France"
+    },
+    {
+      "paperId": null,
+      "title": "Challenges and approaches for the visualization of movement trajectories in 3D geovir-tual environments"
+    },
+    {
+      "paperId": "4282a344671189e17c9c9e00e329fe2d0fa71769",
+      "title": "Computer Vision - Algorithms and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Image-Based Edge Bundles: Simplified Visualization of Large Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Christophe Hurter received his PhD"
+    },
+    {
+      "paperId": null,
+      "title": "Visualisation of origins, destinations and flows with od maps"
+    },
+    {
+      "paperId": "0bb9970451b77bfb84dc7b1467ada41c0941679f",
+      "title": "Improving Graph Drawing Readability by Incorporating Readability Metrics : A Software Tool for Network Analysts"
+    },
+    {
+      "paperId": "da8ccf594b10dcd1108466721e2afb0b9b538aa2",
+      "title": "Comparison of Node-Link and Hierarchical Edge Bundling Layouts: A User Study"
+    },
+    {
+      "paperId": null,
+      "title": "FromDaDy: Spreading data across views to support iterative exploration of aircraft trajectories"
+    },
+    {
+      "paperId": null,
+      "title": "Medial Representations: Mathematics"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "HIRST J"
+    },
+    {
+      "paperId": "e0ecab2ee45403e58989ed71a4e2a7a4995cee64",
+      "title": "Survey Graph clustering"
+    },
+    {
+      "paperId": "04dc88c94b8f7340540a68f91e1ac9fb3958a028",
+      "title": "Diffusion Tensor Imaging (DTI)-based White Matter Mapping in Brain Research: A Review"
+    },
+    {
+      "paperId": "57213769ff9ee095c7d0476430d33e7e07fc11be",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Science from the Eindhoven University of Technology, the Netherlands, where he worked as assistant professor in visualization"
+    },
+    {
+      "paperId": null,
+      "title": "DOUGLASS R"
+    },
+    {
+      "paperId": null,
+      "title": "Mesh en- hancement"
+    },
+    {
+      "paperId": "3dbe40033c570f4ea9c88ffbee1ad26a6b7d0df6",
+      "title": "The structure of images"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": null,
+      "title": "On some generalizations of par- allel coordinate plots, seeing a million"
+    },
+    {
+      "paperId": null,
+      "title": "Types of software evolution and software maintenance"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "BATTISTA G"
+    },
+    {
+      "paperId": null,
+      "title": "Graph drawing: Algorithms for the visualization of graphs"
+    },
+    {
+      "paperId": "0774d16f5bacc0e78164a85433a6a888ad23abfb",
+      "title": "Computational geometry: algorithms and applications"
+    },
+    {
+      "paperId": null,
+      "title": "Multi-media in geographic education: Design, implementation, and evaluation"
+    },
+    {
+      "paperId": "622abda156dc7c481ff8ab9b9910ec8821d4d175",
+      "title": "Social Network Analysis: Methods and Applications"
+    },
+    {
+      "paperId": "be994053fda485825ac8eefd97dfe148f699fe5e",
+      "title": "Automation and Systems Issues in Air Traffic Control"
+    },
+    {
+      "paperId": "61f9cd6d9c5011e5f9919f290c1e043be1d49c94",
+      "title": "Combinatorics and graph theory"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "FABRIKANT S"
+    },
+    {
+      "paperId": null,
+      "title": "MCGUFFIN M"
+    },
+    {
+      "paperId": null,
+      "title": "PURCHASE H"
+    },
+    {
+      "paperId": "e585efc84efa16d794fe712c1095556eadfbe0b8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Winding Roads: Routing Edges into Bundles"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "0adfc83c657904120e549adb004fe457dcd4d0ea",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Code Flows: Visualizing Structural Evolution of Source Code"
+    },
+    {
+      "paperId": "001755ed5de3f414d74ac1ecb513a905bf630657",
+      "title": "Journal of Graph Algorithms and Applications Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way"
+    },
+    {
+      "paperId": "9f15f86a548c8e13da206ae1ab589953a7350b95",
+      "title": "Journal of Graph Algorithms and Applications Using Graph Layout to Visualize Train Interconnection Data"
+    },
+    {
+      "paperId": "14ddaa3e2dc3800d70f7106c78310c0379b85ce3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Topological Fisheye Views for Visualizing Large Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Gephi large network visualization framework , 2017"
+    },
+    {
+      "paperId": null,
+      "title": "Telea / State of the Art in Edge and Trail Bundling Techniques"
+    }
+  ]
+}

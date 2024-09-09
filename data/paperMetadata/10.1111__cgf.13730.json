@@ -1,0 +1,459 @@
+{
+  "paperId": "85f1bb32bd611d83e289548a692f4734bf5d2241",
+  "externalIds": {
+    "DBLP": "journals/cgf/CenedaGM19",
+    "MAG": "2948894190",
+    "DOI": "10.1111/CGF.13730",
+    "CorpusId": 195426443
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/85f1bb32bd611d83e289548a692f4734bf5d2241",
+  "title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective",
+  "abstract": "Visual data analysis can be envisioned as a collaboration of the user and the computational system with the aim of completing a given task. Pursuing an effective system-user integration, in which the system actively helps the user to reach his/her analysis goal has been focus of visualization research for quite some time. However, this problem is still largely unsolved. As a result, users might be overwhelmed by powerful but complex visual analysis systems which also limits their ability to produce insightful results. In this context, guidance is a promising step towards enabling an effective mixed-initiative collaboration to promote the visual analysis. However, the way how guidance should be put into practice is still to be unravelled. Thus, we conducted a comprehensive literature research and provide an overview of how guidance is tackled by different approaches in visual analysis systems. We distinguish between guidance that is provided by the system to support the user, and guidance that is provided by the user to support the system. By identifying open problems, we highlight promising research directions and point to missing factors that are needed to enable the envisioned human-computer collaboration, and thus, promote a more effective visual data analysis.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 100,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-06-01",
+  "journal": {
+    "name": "Comput. Graph. Forum",
+    "pages": "861-879",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ceneda2019ARO,\n author = {D. Ceneda and T. Gschwandtner and S. Miksch},\n booktitle = {Computer graphics forum (Print)},\n journal = {Comput. Graph. Forum},\n pages = {861-879},\n title = {A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3426586",
+      "name": "D. Ceneda"
+    },
+    {
+      "authorId": "2650477",
+      "name": "T. Gschwandtner"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "9e87a1ef97e28cfb814ea85a74dc5bd59b9b3d5a",
+      "title": "Guidance in the human-machine analytics process"
+    },
+    {
+      "paperId": "8af992d44d722b12cf303d4c9f85c9171a34caad",
+      "title": "Interactive Visual Exploration of Local Patterns in Large Scatterplot Spaces"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "a80f810bfa169355990a333151766e8fd5553215",
+      "title": "Sketch-based guided modeling of 3D buildings from oriented photos"
+    },
+    {
+      "paperId": "deba32dd24ffdff64d47712e4ab5d38b4be18349",
+      "title": "Visual-Interactive Semi-Supervised Labeling of Human Motion Capture Data"
+    },
+    {
+      "paperId": "f2c69c9822458d10bb8b623f8e98fd2f9c2f86ad",
+      "title": "VizAssist: an interactive user assistant for visual data mining"
+    },
+    {
+      "paperId": "4db4ba1c0bebb91f95c59d0aa22dfab6ca6eddf6",
+      "title": "Interacting with Predictions: Visual Inspection of Black-box Machine Learning Models"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "19aaee2889656efcf0cd37ce51007e1585e15a2d",
+      "title": "Exploratory search in time-oriented primary data"
+    },
+    {
+      "paperId": "2d279fa10cfce887dcf4e3aba4730dfe4b347ddd",
+      "title": "Visual Soccer Analytics: Understanding the Characteristics of Collective Team Movement Based on Feature-Driven Analysis and Abstraction"
+    },
+    {
+      "paperId": "18676e4e8cfc001a47c0d552557df1ccd8113579",
+      "title": "SnapToQuery: Providing Interactive Feedback during Exploratory Query Specification"
+    },
+    {
+      "paperId": "8ba37203593f8f8d4816020f16fe06449c6de61a",
+      "title": "Exploiting analysis history to support collaborative data analysis"
+    },
+    {
+      "paperId": "9f3a324c3433051620edc712d085f900dfcd8d02",
+      "title": "DesignScape: Design with Interactive Layout Suggestions"
+    },
+    {
+      "paperId": "72e8b9953d44c02c51a876ba13745e29471c9a62",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "04898ad48340372c138e23184dfab892fb5d33bc",
+      "title": "Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets"
+    },
+    {
+      "paperId": "f10230c95524b9a534bd659a2a4fa2a59966107f",
+      "title": "Feature-driven visual analytics of soccer data"
+    },
+    {
+      "paperId": "248fa1c6d9ee93a3ae31b6f3d6b644de9663c910",
+      "title": "Visual\u2010interactive Exploration of Interesting Multivariate Relations in Mixed Research Data Sets"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "a3511f3f1bc0e18ce8b4f0d15a5779f8b6ae3fc6",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "9651572359e7a93f9efa0677b0988e6291ae044e",
+      "title": "Navigation Recommendations for Exploring Hierarchical Graphs"
+    },
+    {
+      "paperId": "97a54c3fadc5d64c8aa52ca0b815cde8d87c6912",
+      "title": "Scorpion: Explaining Away Outliers in Aggregate Queries"
+    },
+    {
+      "paperId": "4f36cc7278f023be90f88278487dd290653757f1",
+      "title": "Accentuating visualization parameters to guide exploration"
+    },
+    {
+      "paperId": "25520b37a2fe9e52d1af7fc4211eadf6b30760b2",
+      "title": "An Affordance-Based Framework for Human Computation and Human-Computer Collaboration"
+    },
+    {
+      "paperId": "5ec0c65a71f8e790ae9093f3f5997222d28efdf4",
+      "title": "Visual-Interactive Preprocessing of Time Series Data"
+    },
+    {
+      "paperId": "f443bad88b7b5cf8b1e44219823ae0d430bb83ee",
+      "title": "Heterogeneity-based guidance for exploring multiscale data in systems biology"
+    },
+    {
+      "paperId": "1f2d508b51fce0868eef3dcd95aa1a4e3f880244",
+      "title": "Mental Map Preservation Helps User Orientation in Dynamic Graphs"
+    },
+    {
+      "paperId": "30b90c1f286bb0866b727291f66643f8af86e159",
+      "title": "StratomeX: Visual Analysis of Large\u2010Scale Heterogeneous Genomics Data for Cancer Subtype Characterization"
+    },
+    {
+      "paperId": "f42530099dd690c8ede9fc0e684e3efab776f9d2",
+      "title": "Using Signposts for Navigation in Large Graphs"
+    },
+    {
+      "paperId": "91f8994c6e7cd8c94134cccf6833bcd31f60c056",
+      "title": "Model-Driven Design for the Visual Analysis of Heterogeneous Data"
+    },
+    {
+      "paperId": "f7214535a3f9e146674f5bb07d0fdb2b38e957cd",
+      "title": "Profiler: integrated statistical analysis and visualization for data quality assessment"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "e01644327bc2be47a2befac7b59b70d665d4060e",
+      "title": "Personalized Recommendation in Interactive Visual Analysis of Stacked Graphs"
+    },
+    {
+      "paperId": "2c1d76d20022075e273114ef4d43cc456ee266d7",
+      "title": "Solving Intelligence Analysis Problems using Biclusters"
+    },
+    {
+      "paperId": "b95942f0a6331f0cd826f7c4d5c1cf7c7a5251c9",
+      "title": "Guiding feature subset selection with an interactive visualization"
+    },
+    {
+      "paperId": "0554014148b18892490e26581b9c1319adc9d56a",
+      "title": "Interactive decision making using dissimilarity to visually represented prototypes"
+    },
+    {
+      "paperId": "7405da2a07cbd429397eb1f0c35423259b60c63c",
+      "title": "Saliency-Assisted Navigation of Very Large Landscape Images"
+    },
+    {
+      "paperId": "58fa918c3fd632fbfef88b841e41e20a2f35c43b",
+      "title": "iView: A Feature Clustering Framework for Suggesting Informative Views in Volume Visualization"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "cffc77e76fb7ce5461ef59fe50f71c7b95d7a0ff",
+      "title": "Helping Users Sort Faster with Adaptive Machine Learning Recommendations"
+    },
+    {
+      "paperId": "45a89f364adc4598e37a1914719baedf944f14c6",
+      "title": "A conceptual framework and taxonomy of techniques for analyzing movement"
+    },
+    {
+      "paperId": "879cea58f1713660b8e4fde0a4d9b84613f6ee70",
+      "title": "Visual Recommendations for Network Navigation"
+    },
+    {
+      "paperId": "77d899375144a418dea1f6a7bb9abacdb58e4c37",
+      "title": "Human computation: a survey and taxonomy of a growing field"
+    },
+    {
+      "paperId": "31a816f4fef768f29772a003e534b1378611bfe6",
+      "title": "Wrangler: interactive visual specification of data transformation scripts"
+    },
+    {
+      "paperId": "6bcc9dff9825b0995f101ede291d2e90686db535",
+      "title": "STREAMIT: Dynamic visualization and interactive exploration of text streams"
+    },
+    {
+      "paperId": "23b41a95efdbccccce9e8626942f9c2b9239b311",
+      "title": "A visual analytics approach to model learning"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "61c14da66bbbd0bec82d80064e97dcd1d5093f2c",
+      "title": "Visual exploration of classification models for risk assessment"
+    },
+    {
+      "paperId": "60889e2d1fcc4863f5efc2595fd4958355c6c8a0",
+      "title": "Overlay of patient-specific anatomical data for advanced navigation in surgery simulation"
+    },
+    {
+      "paperId": "beb6c63e85df7564ab596e9f86779c8d1d650484",
+      "title": "HARVEST: an intelligent visual analytic tool for the masses"
+    },
+    {
+      "paperId": "39b4d24e89541b3b69e5a84cf41e22cfb74be17a",
+      "title": "Proceedings of the first international workshop on Intelligent visual interfaces for text analysis"
+    },
+    {
+      "paperId": "5082ba362b83821dd663de2d15eed205f46982b9",
+      "title": "Connecting the dots in visual analysis"
+    },
+    {
+      "paperId": "b903c04aa29ef86c2ea04055a6969fc2ba096bc4",
+      "title": "Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates"
+    },
+    {
+      "paperId": "06429d3d408cb4b08a95360730bceaeda9202cc3",
+      "title": "Interactive visual clustering of large collections of trajectories"
+    },
+    {
+      "paperId": "e113bafbfeb0d9e1ed389eeedf3361fc231cf3fb",
+      "title": "A Survey of Human Computation Systems"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "101f31ce2081557cab42a0297be4479815c6a977",
+      "title": "Computing galled networks from real data"
+    },
+    {
+      "paperId": "a41335092b97736a459b2102bb8cdbbcf8fb7d91",
+      "title": "Introduction to Information Visualization"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "1cc85952c8588a17fa086d94ae1493a3b0413872",
+      "title": "VisComplete: Automating Suggestions for Visualization Pipelines"
+    },
+    {
+      "paperId": "5a9bb4750818b756e68e91347fd7618cf96e019b",
+      "title": "reCAPTCHA: Human-Based Character Recognition via Web Security Measures"
+    },
+    {
+      "paperId": "441c7ffdbba1b87e9f903bd8f46076f4b6247e5e",
+      "title": "Morpheus: interactive exploration of subspace clustering"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "e4e024e785837fafd6c95a1b81d837b06a551c07",
+      "title": "Systematic yet flexible discovery: guiding domain experts through exploratory data analysis"
+    },
+    {
+      "paperId": "a2a8ce4738bf6ae950820b9dff322eb6fb762316",
+      "title": "Managing discoveries in the visual analytics process"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "867675bf479013e748bb844039cc8a49db170847",
+      "title": "Personalized Guidance for Example Selection in an Explanatory Visualization System"
+    },
+    {
+      "paperId": "0453a1285b6c0ef64e26b5b432bc1eb536db2343",
+      "title": "How Important Is the \"Mental Map\"? - An Empirical Investigation of a Dynamic Graph Layout Algorithm"
+    },
+    {
+      "paperId": "f2f736529736ec7d6b6646c8f0ef5cfd04122c63",
+      "title": "Give Chance a Chance: Modeling Density to Enhance Scatter Plot Quality through Random Data Sampling"
+    },
+    {
+      "paperId": "fff3876663581b51273cde3f6151960b75a0e12f",
+      "title": "Peekaboom: a game for locating objects in images"
+    },
+    {
+      "paperId": "1a48a894c393c7a44bd8eab0326936a925019777",
+      "title": "Revealing structure within clustered parallel coordinates displays"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "cbf86122fa1b5d046a042e8cb5ff12480ca3d28e",
+      "title": "A History Mechanism for Visual Data Mining"
+    },
+    {
+      "paperId": "19b2c13bb3ca30eb009667e2b63ec94058cca7c2",
+      "title": "The Craft of Information Visualization: Readings and Reflections"
+    },
+    {
+      "paperId": "2f859524cc56369458dd09d26fd4447e72e93dd0",
+      "title": "Enhancing data exploration with a branching history of user operations"
+    },
+    {
+      "paperId": "3fd38f0c85d94f64a4f57ccc69a9ab587bfe222a",
+      "title": "Towards an effective cooperation of the user and the computer for classification"
+    },
+    {
+      "paperId": "f6fe95461d4f927a5dc3a35490c1a5cbe35cbb53",
+      "title": "A review of self modeling and related interventions."
+    },
+    {
+      "paperId": "ac827a1ea271b72ceb02dd3cfc884c87c6214337",
+      "title": "A survey of data mining and knowledge discovery software tools"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "92249d129fe423d292e7a707eaf55309931219f9",
+      "title": "The Lumi\u00e8re Project: Bayesian User Modeling for Inferring the Goals and Needs of Software Users"
+    },
+    {
+      "paperId": "5d5f9e30e441fa07d2259dc7801380b51292fa49",
+      "title": "Visualizing histories for selective undo and redo"
+    },
+    {
+      "paperId": "31de9777a016296686b2819dc3c2a27d66d1b82d",
+      "title": "GADGET: goal-oriented application design guidance for modular visualization environments"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "dba39571d353707dc6d33dd9b15964434b948809",
+      "title": "Scatter/gather browsing communicates the topic structure of a very large text collection"
+    },
+    {
+      "paperId": "2c785bbec98e79fbb035992cf5388658199d0486",
+      "title": "Overview of human-computer collaboration"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "60e3bd7cdf2fc948f2171e9726c4f874fba84a9a",
+      "title": "Guidance"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s) Computer Graphics Forum c 2019 The Eurographics Association and"
+    },
+    {
+      "paperId": "9285d12067f66e4b695b32a8e3102354b84a23d5",
+      "title": "Guidance or No Guidance? A Decision Tree Can Help"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "a3f706941ada1a6420db9855bf8c3fe680f50cb7",
+      "title": "Predictive Interaction for Data Transformation"
+    },
+    {
+      "paperId": "1042896540cbf12c74e78531af2d3a61925c25e8",
+      "title": "Helping Intelligence Analysts Make Connections"
+    },
+    {
+      "paperId": "26f178dbb00630ce19cccb9840ea12dbe31801be",
+      "title": "A Survey of Clustering Data Mining Techniques"
+    },
+    {
+      "paperId": "c71a9c8e84cbc7197fbaf003d99aec72c1fdde5f",
+      "title": "Advances in Knowledge Discovery and Data Mining"
+    },
+    {
+      "paperId": null,
+      "title": "The theory of affordances: perceiving, acting, and knowing"
+    },
+    {
+      "paperId": null,
+      "title": "the user perspective, we will describe how users are enabled to provide feedback to steer the guidance process"
+    },
+    {
+      "paperId": null,
+      "title": "Theresia Gschwandtner & Silvia Miksch / A Review of Guidance Approaches in Visual Data Analysis:A Multifocal Perspective"
+    }
+  ]
+}

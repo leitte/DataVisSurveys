@@ -1,0 +1,851 @@
+{
+  "paperId": "b5656a32f1386d0c58a3e1984f6226e89d9c3829",
+  "externalIds": {
+    "MAG": "3007024124",
+    "DBLP": "journals/corr/abs-2002-07950",
+    "ArXiv": "2002.07950",
+    "DOI": "10.1111/cgf.14033",
+    "CorpusId": 211171639
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/b5656a32f1386d0c58a3e1984f6226e89d9c3829",
+  "title": "Survey on Individual Differences in Visualization",
+  "abstract": "Developments in data visualization research have enabled visualization systems to achieve great general usability and application across a variety of domains. These advancements have improved not only people's understanding of data, but also the general understanding of people themselves, and how they interact with visualization systems. In particular, researchers have gradually come to recognize the deficiency of having one\u2010size\u2010fits\u2010all visualization interfaces, as well as the significance of individual differences in the use of data visualization systems. Unfortunately, the absence of comprehensive surveys of the existing literature impedes the development of this research. In this paper, we review the research perspectives, as well as the personality traits and cognitive abilities, visualizations, tasks, and measures investigated in the existing literature. We aim to provide a detailed summary of existing scholarship, produce evidence\u2010based reviews, and spur future inquiry.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 195,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2002.07950",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Psychology"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Psychology",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-02-19",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liu2020SurveyOI,\n author = {Zhengliang Liu and R. Crouser and Alvitta Ottley},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Survey on Individual Differences in Visualization},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2194415861",
+      "name": "Zhengliang Liu"
+    },
+    {
+      "authorId": "2467532",
+      "name": "R. Crouser"
+    },
+    {
+      "authorId": "2149059",
+      "name": "Alvitta Ottley"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "379d5cfda6b01514f42b7c2ef7ab4c570e208a18",
+      "title": "The effect of user characteristics in time series visualizations"
+    },
+    {
+      "paperId": "863248657dbf43d89fc971dc24f2b8847372e874",
+      "title": "Gaze-Driven Adaptive Interventions for Magazine-Style Narrative Visualizations"
+    },
+    {
+      "paperId": "d34ad507bc7205d061d08ccde623bedc8d7b9d50",
+      "title": "Gaze analysis of user characteristics in magazine style narrative visualizations"
+    },
+    {
+      "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+      "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+    },
+    {
+      "paperId": "ff5ff4c9e76447adc67252059e82a0ba83a6579b",
+      "title": "Follow The Clicks: Learning and Anticipating Mouse Interactions During Exploratory Data Analysis"
+    },
+    {
+      "paperId": "48c8106171ce102ecad28debdbff867981f5b08f",
+      "title": "To explain or not to explain: the effects of personal characteristics when explaining music recommendations"
+    },
+    {
+      "paperId": "052689b5c2488a99633608578cfcfd2d194d6090",
+      "title": "Avoiding drill-down fallacies with VisPilot: assisted exploration of data subsets"
+    },
+    {
+      "paperId": "4f3f3d6864b42c089d98dc4baca8ec39dfbfec08",
+      "title": "Investigating the use of spatial reasoning strategies in geometric problem solving"
+    },
+    {
+      "paperId": "598d0ece2e96e699068482fcaf0441933856fe1e",
+      "title": "Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices"
+    },
+    {
+      "paperId": "c069c895c6342987fcd7754d9be2ccdf0464947b",
+      "title": "Personality characteristics that are valued in teams: Not always \u201cmore is better\u201d?"
+    },
+    {
+      "paperId": "696ac57a91401135b24ca101b6209bd438352b81",
+      "title": "The Connection Between Spatial and Mathematical Ability Across Development"
+    },
+    {
+      "paperId": "39eebc4435c1da8dc12484098ff2d716048461e4",
+      "title": "Personality, IQ, and Lifetime Earnings"
+    },
+    {
+      "paperId": "82a1cd72318050b5934500c551ac5f5bdf4fdf50",
+      "title": "User-adaptive Support for Processing Magazine Style Narrative Visualizations: Identifying User Characteristics that Matter"
+    },
+    {
+      "paperId": "0fc748ab61c699c6a5649d472a0b1aa6d8c0a36f",
+      "title": "Warning, Bias May Occur: A Proposed Approach to Detecting Cognitive Bias in Interactive Visual Analytics"
+    },
+    {
+      "paperId": "6b9f992f23d8dd48ada670b3306d977690e79c4f",
+      "title": "Further Results on Predicting Cognitive Abilities for Adaptive Visualizations"
+    },
+    {
+      "paperId": "899f6a9a3b51f620f5b67ee41ef462202b1021cf",
+      "title": "Impact of Individual Differences on User Experience with a Real-World Visualization Interface for Public Engagement"
+    },
+    {
+      "paperId": "283c74e73f039e2276773d11f2159d2a3fed99fa",
+      "title": "Visualization Literacy at Elementary School"
+    },
+    {
+      "paperId": "c06f4325028220a783359c5d8cef540e6cf9fa9e",
+      "title": "Towards Personality-driven Persuasive Health Games and Gamified Systems"
+    },
+    {
+      "paperId": "85566c7d748e879181fe2ec6525f1215dabfa534",
+      "title": "The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces"
+    },
+    {
+      "paperId": "9342d7ed0450c3ed29d0ef32337524e30052cf0a",
+      "title": "Investigating aspects of data visualization literacy using 20 information visualizations and 273 science museum visitors"
+    },
+    {
+      "paperId": "d63bdea1c70d1f946fd0ceefec875169fa397463",
+      "title": "Adaptive Contextualization: Combating Bias During High-Dimensional Visualization and Data Selection"
+    },
+    {
+      "paperId": "7395e9c82c64f3eb9da458b391c77baf58d4ac54",
+      "title": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability"
+    },
+    {
+      "paperId": "cf8eb09e8b44c05ffcc6be00975baba050cb9106",
+      "title": "Spatial Reasoning and Data Displays"
+    },
+    {
+      "paperId": "1d24d509fff3118ff60f907f502d2c030efce11a",
+      "title": "The Relationship between Critical Thinking Disposition and Locus of Control in Pre-Service Teachers."
+    },
+    {
+      "paperId": "a2f8f023ecd22121b2f08c740bc09d0d078ac70a",
+      "title": "Personality Traits, Learning and Academic Achievements"
+    },
+    {
+      "paperId": "3278e0d8bcd65376ad5d551abc6d9124c29f9da3",
+      "title": "Manipulating and controlling for personality effects on visualization tasks"
+    },
+    {
+      "paperId": "f66cbf77dee4817ef4bf150d8f45459752f362e1",
+      "title": "Openness to Experience as a Predictor and Outcome of Upward Job Changes into Managerial and Professional Positions"
+    },
+    {
+      "paperId": "dfca05dcf7b169186107e0cb90651d89113c0510",
+      "title": "Managerial creative problem solving and the Big Five personality traits"
+    },
+    {
+      "paperId": "046383d5413a2767623e2cb38f8575f25d69a4c7",
+      "title": "Personality as a Predictor of User Strategy: How Locus of Control Affects Search Strategies on Tree Visualizations"
+    },
+    {
+      "paperId": "4f67c05c4e065f4235b1d1953bd5ffad8ef1e4d8",
+      "title": "Prediction of Users' Learning Curves for Adaptation while Using an Information Visualization"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "970c12ba91245ed7c02d9fd434760823704de083",
+      "title": "Executive functions."
+    },
+    {
+      "paperId": "960e8c61ec269677486c45c14175c19c393a1978",
+      "title": "The VAST Challenge: history, scope, and outcomes: An introduction to the Special Issue"
+    },
+    {
+      "paperId": "15967a2637fd17761ad164265dbd62b376d0311a",
+      "title": "Mutual reinforcement between neuroticism and life experiences: a five-wave, 16-year study to test reciprocal causation."
+    },
+    {
+      "paperId": "865f1021217117f7c36138a89291f3fee21a63ed",
+      "title": "Measuring thirty facets of the Five Factor Model with a 120-item public domain inventory: Development of the IPIP-NEO-120"
+    },
+    {
+      "paperId": "d2dda8e7f6221bb1db1139aa7715d86c3a97b8f1",
+      "title": "Inferring Visualization Task Properties, User Performance, and User Cognitive Abilities from Eye Gaze Data"
+    },
+    {
+      "paperId": "da9655f13a1296e142fe8484341b61330f7ea63f",
+      "title": "Evaluating the Impact of User Characteristics and Different Layouts on an Interactive Visualization for Decision Making"
+    },
+    {
+      "paperId": "9b5e84bf221137ece08be3679e21b71c09be60c1",
+      "title": "Highlighting interventions and user differences: informing adaptive information visualization support"
+    },
+    {
+      "paperId": "be99ed012258a95d2409c02304008c8efa431e38",
+      "title": "Visual selective attention is equally functional for individuals with low and high working memory capacity: Evidence from accuracy and eye movements"
+    },
+    {
+      "paperId": "ff08a3f9f37d71b7245364b8fee851a3da619580",
+      "title": "Evaluation of Static and Dynamic Visualization Training Approaches for Users with Different Spatial Abilities"
+    },
+    {
+      "paperId": "f8cb37f533b57c2864bdb8605aba6410f18d2088",
+      "title": "Evaluation of Filesystem Provenance Visualization Tools"
+    },
+    {
+      "paperId": "9a8e2cb08edcd7a0d0156589cb3daa9074a5ccee",
+      "title": "Big Five Personality Traits as the Predictors of Creative Self\u2010Efficacy and Creative Personal Identity: Does Gender Matter?"
+    },
+    {
+      "paperId": "e0a0657991b8305bc41a15bfc76e7e94a47b4b21",
+      "title": "Visual working memory capacity: from psychophysics and neurobiology to individual differences"
+    },
+    {
+      "paperId": "35b7e8ad60cb357cd9457ca2687eb2ba37068bd6",
+      "title": "How Visualization Layout Relates to Locus of Control and Other Personality Factors"
+    },
+    {
+      "paperId": "dbe788f5f1b299675d3cfcdb53ad1ec82c44502d",
+      "title": "The Study of the Relationship between Personality and Academic Performance"
+    },
+    {
+      "paperId": "a6e7381464394180972c48a50b5fe215a3915901",
+      "title": "Individual user characteristics and information visualization: connecting the dots through eye tracking"
+    },
+    {
+      "paperId": "f44166a8f8252312b549934a892abcea882959cd",
+      "title": "Exploring personality-targeted UI design in online social participation systems"
+    },
+    {
+      "paperId": "40693be4f6f4a75dc6b85699c28c170284f74e6e",
+      "title": "Using fNIRS brain sensing to evaluate information visualization interfaces"
+    },
+    {
+      "paperId": "b8ab3e84f36cfe93d1f9fbe97dfe6e1a34262037",
+      "title": "Influencing visual judgment through affective priming"
+    },
+    {
+      "paperId": "9ad8cf525513e2b6d0a988cf9517bdd481b81225",
+      "title": "User-adaptive information visualization: using eye gaze data to infer visualization tasks and user cognitive abilities"
+    },
+    {
+      "paperId": "8c43cf12a46ec78e41a92d2f1f52564b5a9f7569",
+      "title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing"
+    },
+    {
+      "paperId": "4ebdbc6a0efd86610e8570ac70e4077a822e5f8e",
+      "title": "Understanding Visualization by Understanding Individual Users"
+    },
+    {
+      "paperId": "e5fb97df41149300f61b867c252243549e9e7d81",
+      "title": "Towards a 3-dimensional model of individual cognitive differences: position paper"
+    },
+    {
+      "paperId": "5af0919d8e43471bb9d46c43690d1e00bfd1d50f",
+      "title": "Priming Locus of Control to affect performance"
+    },
+    {
+      "paperId": "9ad928158e3db6ea3da620a39135ae790bd96f42",
+      "title": "How Children Succeed: Grit, Curiosity, and the Hidden Power of Character"
+    },
+    {
+      "paperId": "004b6473370ce5cb7a2d161999b17da5cf7657e1",
+      "title": "Towards adaptive information visualization: on the influence of user characteristics"
+    },
+    {
+      "paperId": "a44a3dbd50df02daef22dcc5f66f27517b238cf3",
+      "title": "Impact of personality factors on interface interaction and the development of user profiles: Next steps in the personal equation of interaction"
+    },
+    {
+      "paperId": "db21e569cf13f645aa1b8aadc1437a4cdf8e4cba",
+      "title": "From madness to genius: The Openness/Intellect trait domain as a paradoxical simplex"
+    },
+    {
+      "paperId": "2831bc7cc4b518742762b02ab8eac0969076acf2",
+      "title": "From Fear to Flow: Personality and information interaction"
+    },
+    {
+      "paperId": "6eb8ca8af1e31e8382d88cb15289490a7ad8a5b3",
+      "title": "How locus of control influences compatibility with visualization style"
+    },
+    {
+      "paperId": "91983545ee73ec4510917c7adfae066a74a6dde0",
+      "title": "A User Study of Visualization Effectiveness Using EEG and Cognitive Load"
+    },
+    {
+      "paperId": "1ed7e25de96284032f1091dd1dc5241f8714fde0",
+      "title": "From Fear to Flow: Personality and Information Interaction"
+    },
+    {
+      "paperId": "6a738d0e196d413d11498a82adba9c0f4d78d20e",
+      "title": "Using color in visualization: A survey"
+    },
+    {
+      "paperId": "83d7df115d57eacc0f5f53cbeaa2ea8edb0e632e",
+      "title": "Towards the Personal Equation of Interaction: The impact of personality factors on visual analytics interface interaction"
+    },
+    {
+      "paperId": "6916a7308452083997ae6105f91a6f49c7ea192d",
+      "title": "Running Experiments on Amazon Mechanical Turk"
+    },
+    {
+      "paperId": "270bf58fc9cf1b83cc5c243cf11df4e6e69c2dca",
+      "title": "Investigating the predictive roles of working memory and IQ in academic attainment."
+    },
+    {
+      "paperId": "55d3281f6b34c50df975b7261044689bf73ec610",
+      "title": "Crowdsourcing graphical perception: using mechanical turk to assess visualization design"
+    },
+    {
+      "paperId": "756bfdb57ba20e05ffe835faa13fdf5baf75e9e2",
+      "title": "Do Mechanical Turks dream of square pie charts?"
+    },
+    {
+      "paperId": "c751956ce0a1a5c4985e36638e1fa511131b6c85",
+      "title": "Using Personality Factors to Predict Interface Learning Performance"
+    },
+    {
+      "paperId": "54b0cef31ee595edb2bbc28d8edcf7570ecd8ea0",
+      "title": "Working memory load as a novel tool for evaluating visual analytics"
+    },
+    {
+      "paperId": "ca3d6205ffb8cab6724fb0828634826e2e87ead7",
+      "title": "Spatial ability for STEM domains: Aligning over 50 years of cumulative psychological knowledge solidifies its importance."
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "065ea502ec6bb9693475a417e349d63c095c4092",
+      "title": "Human Variation in Overriding Attentional Capture"
+    },
+    {
+      "paperId": "eec62ca266afa1be07505cdb640160d9e25c8cbf",
+      "title": "Preconceptions and Individual Differences in Understanding Visual Metaphors"
+    },
+    {
+      "paperId": "2b309cf37cc7aeb570963bba82f545112905d60f",
+      "title": "Recovering Reasoning Processes from User Interactions"
+    },
+    {
+      "paperId": "01d9013d0a089be010bb84d8ad76166c01343337",
+      "title": "Personality and career success: Concurrent and longitudinal relations"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "0005f0a86656d0ec9100bdcaace2476df85ec0b0",
+      "title": "Exploring the role of individual differences in information visualization"
+    },
+    {
+      "paperId": "6257c0833dfa6fe89ef2e1133653b74f9dadc5f6",
+      "title": "Between facets and domains: 10 aspects of the Big Five."
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "712423b78ee77f7c371cffed609d423a700d39af",
+      "title": "Individual differences in use of external visualisations to perform an internal visualisation task."
+    },
+    {
+      "paperId": "f3333ec81d956dbfe2e7f8e93149f609a3a4b240",
+      "title": "What makes a good team player? Personality and team effectiveness."
+    },
+    {
+      "paperId": "b1d415203f546c9e9b5802ca81e742a68c925af8",
+      "title": "The extraverted and the neurotic glasses are of different colors"
+    },
+    {
+      "paperId": "15f24aa867ac4b76a1aa9131afc87c933bc5b9ae",
+      "title": "Personality and team performance: a meta\u2010analysis"
+    },
+    {
+      "paperId": "3f534a60503e0de9590ca3e13891f95bb205132d",
+      "title": "The mini-IPIP scales: tiny-yet-effective measures of the Big Five factors of personality."
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "bffb2d13b10263231b70b57acf254c13691cffa1",
+      "title": "Understanding visualization through spatial ability differences"
+    },
+    {
+      "paperId": "fbff18fb685a6e06b6bdb2acb4f273c7f43355b5",
+      "title": "A Portrait of Advanced Placement Teachers' Practices. Research Report No. 2005-7. ETS RR-05-09."
+    },
+    {
+      "paperId": "3ae63beeba522aea893f2aa97dca037b93e20aa3",
+      "title": "User Experiments with Tree Visualization Systems"
+    },
+    {
+      "paperId": "97279ba24faff708722e3fce09f4ae49852af391",
+      "title": "The Relationship Between Working Memory and Mathematical Problem Solving in Children at Risk and Not at Risk for Serious Math Difficulties"
+    },
+    {
+      "paperId": "61917ffc70395e356060e067e9f3a7826cd70260",
+      "title": "Vigilance for threat: effects of anxiety and defensiveness"
+    },
+    {
+      "paperId": "e48f93163f3143a072bdecebce14fd68fb139f76",
+      "title": "Openness, intelligence, and self-report intelligence"
+    },
+    {
+      "paperId": "1d0555dc1065592081bee027ee14f0b3fc4b3910",
+      "title": "Personality Heterogeneity in Teams"
+    },
+    {
+      "paperId": "3b9cd92ea8153ed6d733a3cf852b78c0bdc1a6cc",
+      "title": "THE BIG FIVE PERSONALITY DIMENSIONS AND JOB PERFORMANCE"
+    },
+    {
+      "paperId": "3cb8de415b8191a9437b009c1fe9bc3b4747b627",
+      "title": "Working memory and reasoning: An individual differences perspective"
+    },
+    {
+      "paperId": "185639f35da64f5b304bddd8889694109907268d",
+      "title": "Decision making with the \"adaptive toolbox\": influence of environmental structure, intelligence, and working memory load."
+    },
+    {
+      "paperId": "6a7d107ae27ff0e5ba3a168378cbd3694537c832",
+      "title": "Impulsive decision making and working memory."
+    },
+    {
+      "paperId": "2ed978fc544413e82ac548cceeda242214ec5caf",
+      "title": "Personality and approaches to learning as predictors of academic achievement"
+    },
+    {
+      "paperId": "b5aef49296ae533ba0b7ebdb8408464cde98ea09",
+      "title": "Somatic markers, working memory, and decision making"
+    },
+    {
+      "paperId": "4148dfe0be209a840938e7497eaa08573df6e733",
+      "title": "A Quantitative Review of the Comprehensiveness of the Five-Factor Model in Relation to Popular Personality Inventories"
+    },
+    {
+      "paperId": "67dd59e9732f1efa279e2335211b465a8b4dfe29",
+      "title": "Effect of visual-spatial ability on learning of spatially-complex surgical skills"
+    },
+    {
+      "paperId": "958850c7e7ef55ec2fa94580c18a404b240269ed",
+      "title": "Storage of features, conjunctions and objects in visual working memory."
+    },
+    {
+      "paperId": "4e9af5def180b7e6f50c4264e96b243f65abd276",
+      "title": "Individual differences in a spatial-semantic virtual environment"
+    },
+    {
+      "paperId": "b6f65f336a9a7129e4e155e49ca3fd21a508789c",
+      "title": "Personality and the use of intuition: individual differences in strategy and performance on an implicit learning task"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "1872e52fb383e087dd178be9e4089e261597730f",
+      "title": "Models of Working Memory: Mechanisms of Active Maintenance and Executive Control"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "b418eca76c6557eccfd97caa8bb5a5c4cdc0a9a5",
+      "title": "The capacity of visual working memory for features and conjunctions"
+    },
+    {
+      "paperId": "8f9dafc416b4bebafaa040d511230138289f8519",
+      "title": "Working Memory Constraints on Linear Reasoning with Spatial and Temporal Contents"
+    },
+    {
+      "paperId": "de9d16d02fc6cd75679a94f29181ba274bc8e3c5",
+      "title": "Intelligence, personality, and interests: evidence for overlapping traits."
+    },
+    {
+      "paperId": "ff4699242c86cb7af4a378819603816e4eab54b5",
+      "title": "Working Memory Involvement in Propositional and Spatial Reasoning"
+    },
+    {
+      "paperId": "45c95bc749496afd1bccb46dd8a67a16aca5f8fa",
+      "title": "Working memory and language comprehension: A meta-analysis"
+    },
+    {
+      "paperId": "e1d80c2844873621e9cd92c768a5f3ebd3d87542",
+      "title": "User analysis in HCI - the historical lessons from individual differences research"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "25bb07960b6cca6efec50e881771daa562400443",
+      "title": "Experimental manipulation of perceived control and its effect on disability"
+    },
+    {
+      "paperId": "d13228e21efe9e9e7dac888d5b41e0d705f924df",
+      "title": "DISPOSITIONAL DIFFERENCES IN COGNITIVE MOTIVATION : THE LIFE AND TIMES OF INDIVIDUALS VARYING IN NEED FOR COGNITION"
+    },
+    {
+      "paperId": "9afac79f88c5d8ef85ab136a4a1bba471cef30a0",
+      "title": "Perceptual speed, learning and information retrieval performance"
+    },
+    {
+      "paperId": "07cda8d6f39de0c9edb2f350fe79c35b0f29121d",
+      "title": "The relation of locus-of-control orientation and task structure to problem-solving performance of sixth-grade student pairs"
+    },
+    {
+      "paperId": "0aff87c483b0ef2c7178d70fa3cd77a162070c9f",
+      "title": "Developing adaptive systems to fit individual aptitudes"
+    },
+    {
+      "paperId": "2ea228c470e77d07eb0e9f0fdbe2703f5e4ede89",
+      "title": "Peeling Back the Onion: Personality, Problem Solving, and Career Decision-Making Style Correlates of Career Indecision"
+    },
+    {
+      "paperId": "3616d8e5a28af09a29af24512f790222fe4b3472",
+      "title": "Cognitive differences in end user searching of a CD-ROM index"
+    },
+    {
+      "paperId": "cd895a5fa11659e48b73fad3b40302590644212b",
+      "title": "Changing perceived control in patients with physical disabilities: an intervention study with patients receiving rehabilitation."
+    },
+    {
+      "paperId": "ca737956fd977c3e32f91855fe845e7c93256901",
+      "title": "Individual differences in human-computer interaction: a survey"
+    },
+    {
+      "paperId": "a05fa9a6c5889aed64864d4ef73400e0076fc225",
+      "title": "Who is Likely to Acquire Programming Skills?"
+    },
+    {
+      "paperId": "c92a377531f46046b32d6cc8e18c3787caaea310",
+      "title": "Internal versus external control of reinforcement: A case history of a variable."
+    },
+    {
+      "paperId": "d93a0cfaaf8bf6580f44687f15bbac704ed2d51e",
+      "title": "Is working memory capacity task dependent"
+    },
+    {
+      "paperId": "378b7c40000d15e64fe57bbd6bb53ceb03752885",
+      "title": "Attitudes, Personality and Behavior"
+    },
+    {
+      "paperId": "b186cd6d30e15b0a99e7d468e2d1f6a39cfa93b8",
+      "title": "Assaying and Isolating Individual Differences in Searching a Hierarchical File System"
+    },
+    {
+      "paperId": "bb184dfa74d1dd834c62ba329a9b4e26b66edb15",
+      "title": "Attributional complexity: An individual differences measure."
+    },
+    {
+      "paperId": "4e74ba8af86ab76a57c540877136cddc74fc9028",
+      "title": "The efficient assessment of need for cognition."
+    },
+    {
+      "paperId": "35a2b204ee6da98232674728e82f7fedd9f46931",
+      "title": "Working memory"
+    },
+    {
+      "paperId": "66e17f813ce7b9d6b57c3307b27b0d933ea559ca",
+      "title": "Locus of control and academic achievement: A literature review."
+    },
+    {
+      "paperId": "a1500dc61504116d6629af058ad58303b4c7526c",
+      "title": "Visual perception: stage one of a long-term investigation into cognitive components of achievement."
+    },
+    {
+      "paperId": "4c39ce7395a642b96031db316e2294cc65aa0731",
+      "title": "Individual differences in working memory and reading"
+    },
+    {
+      "paperId": "2a4d01ccf5661721f562b18a0fcfd6ca61f78ee7",
+      "title": "Mental Rotations, a Group Test of Three-Dimensional Spatial Visualization"
+    },
+    {
+      "paperId": "f99acaf31f55e8030f05eba42c23d56a7a7061c8",
+      "title": "Some Problems and Misconceptions Related to the Construct of Internal Versus External Control of Reinforcement"
+    },
+    {
+      "paperId": "a7cea98502225915c3bc43e4c09a3d68f55f20dc",
+      "title": "PSYCHOMETRIC TESTS AS COGNITIVE TASKS: A NEW \"STRUCTURE OF INTELLECT\""
+    },
+    {
+      "paperId": "9fa5877347237a3ecfa39948f88df89b0d3d0faf",
+      "title": "Plans and the Structure of Behavior"
+    },
+    {
+      "paperId": "a41388ef6fdbe9603a45eb1d83b10cbe0c13d57a",
+      "title": "Individual differences in solution time in error-free problem solving."
+    },
+    {
+      "paperId": "87d577fabe0f91b8b5c5de9b4e9a05e79379b63a",
+      "title": "A Model for Visual Memory Tasks1"
+    },
+    {
+      "paperId": "2f945a9e8a5fd9ddc5faf25a2d4cebdcc9a3c739",
+      "title": "Plans and the structure of behavior"
+    },
+    {
+      "paperId": "75d3992567f334b21a9b5a5b4a192503a5b99fa2",
+      "title": "An experimental investigation of need for cognition."
+    },
+    {
+      "paperId": "21ae5ef4b37da2ba8ddbdf7fd24efca673a286b4",
+      "title": "Visual-Spatial Ability"
+    },
+    {
+      "paperId": "6b1cc4bb1bb18dc42f33293fc8920c1c8ae3665f",
+      "title": "Internal-External Locus of Control Scale"
+    },
+    {
+      "paperId": "1e70c02f3551a877dbc4457d1db9863a12d172a8",
+      "title": "Extraversion"
+    },
+    {
+      "paperId": "21cfe0b82c20f8f3bbf7540f4c70b75090c2fe16",
+      "title": "The Role of User Di \ufffd erences in Customization: A Case Study in Personalization for Infovis-Based Content"
+    },
+    {
+      "paperId": "50c7a684ea4323f779a703177893941425a21bb2",
+      "title": "Inferential Tasks as a Data-Rich Evaluation Method for Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Spatial skills and their correlation with engineering problem-solving"
+    },
+    {
+      "paperId": "7b05e91e1c8a3a41c30300ced7587798ab0009c0",
+      "title": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "paperId": "d80f0183a0d1798b891d9044fa8761b9353acf69",
+      "title": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "paperId": "ee7228a307bed93677040896fb13d7ed9da482fc",
+      "title": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "paperId": "2b725e5ae8a4fc4f8207e96b5f2c42e29898d667",
+      "title": "Short biographies of the authors"
+    },
+    {
+      "paperId": "f3186202ebf85b5cd508503f66154716986ea6ed",
+      "title": "The Cerebellum and Verbal Working Memory"
+    },
+    {
+      "paperId": "3815321c5055b713fa2d3545c019ac91dd80bb7a",
+      "title": "Cerebellar-Induced Aphasia and Related Language Disorders"
+    },
+    {
+      "paperId": null,
+      "title": "Linking spatial thinking and problem-solving skills of young children"
+    },
+    {
+      "paperId": "66f97ce6cf09f7031223c17ef8f6dc9e3fe7df56",
+      "title": "Personnel Selection, Psychology of"
+    },
+    {
+      "paperId": "bef9f25da8106e4c8c8bca1570b7f9df8296f566",
+      "title": "Measures of Hope and Optimism"
+    },
+    {
+      "paperId": "1bcaed0ff105ba8c9a0a27279d99d332855820b3",
+      "title": "Measures of personality and social psychological constructs"
+    },
+    {
+      "paperId": "42fea6fd6d2e3ddc5c6de6f84516a150a0e611b6",
+      "title": "The effect of personality traits on academic performance: The mediating role of academic motivation"
+    },
+    {
+      "paperId": "8f3cb8dc01eec7c7f5f2dbfbe82a00b39dd4c3fc",
+      "title": "Predicting social problem solving using personality traits"
+    },
+    {
+      "paperId": "ad5b9f96fabe4647e6ac4d1fa764bb97ccf6438a",
+      "title": "Too much of a good thing: curvilinear relationships between personality traits and job performance."
+    },
+    {
+      "paperId": "b95cd7f7529b186e2c3067a54d5287dd6af44d69",
+      "title": "The Relationships Between Personality Traits and Students\u2019 Academic Achievement"
+    },
+    {
+      "paperId": "0fa2d895fa7158c8c137be69fc27f5aa45918b05",
+      "title": "From Fear to Flow"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Conscientiousness in mlr hoyle (ed.), handbook of individual differences in social behavior (pp. 369-381). New York, NY: Guilford"
+    },
+    {
+      "paperId": "b0504fa7a2f1d7383f9cdd382dc77ee4e7a5662e",
+      "title": "What are the differences between long-term, short-term, and working memory?"
+    },
+    {
+      "paperId": "48cd609c0334a3498897da6f9938577d824528c6",
+      "title": "Personnel selection."
+    },
+    {
+      "paperId": "87850ec1c354e1e96915db792b174c51e450a85a",
+      "title": "Locus of Control: Academic Achievement and Retention in a Sample of University First-Year Students."
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "36f83ac47b249565f93bec66baa7cb14dbce930a",
+      "title": "QuestVis and MDSteer : the visualization of high-dimensional environmental sustainability data"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "567d613bbb78a50e7e5d8ded71f9c2e6e54f39e6",
+      "title": "Broad versus narrow personality traits in predicting academic performance of adolescents"
+    },
+    {
+      "paperId": "dfb732841da6ebd8d861b1910bc652a321bbff97",
+      "title": "A quantitative review of the comprehensiveness of the five-factor model in relation to popular personality inventories."
+    },
+    {
+      "paperId": "8af9032836725770bf7b6ff3e52dc33786828f29",
+      "title": "Sex and cognition"
+    },
+    {
+      "paperId": "09f806b88da09d7c68787de7e0b733d827ab41a0",
+      "title": "Spatial ability and visual navigation: an Empirical Study"
+    },
+    {
+      "paperId": "1458ada18d02de6e8faa364960c72d1900fb2786",
+      "title": "The Work Preference Inventory: assessing intrinsic and extrinsic motivational orientations."
+    },
+    {
+      "paperId": "c9e5ff2af5a184293feb8b5c4cdaf30d53694549",
+      "title": "The structure of phenotypic personality traits."
+    },
+    {
+      "paperId": "50c1439c64723a8d7ad6314d992db2f5100be9f7",
+      "title": "Individual differences in human-computer interaction"
+    },
+    {
+      "paperId": "3a343119c2be5e59b4a800b2abeaefdff74ec88e",
+      "title": "Personality factors in human-computer interaction: A review of the literature"
+    },
+    {
+      "paperId": "02978eb0f34e012245eeb5ba15e655c83931ff75",
+      "title": "User Centered System Design: New Perspectives on Human-Computer Interaction"
+    },
+    {
+      "paperId": "60990560dddda756f896129158d15505318aeff8",
+      "title": "The need for cognition."
+    },
+    {
+      "paperId": "5791328586959dab9fda8476bf055b31bbfed1ff",
+      "title": "Manual for kit of factor-referenced cognitive tests"
+    },
+    {
+      "paperId": null,
+      "title": "Human memory and the medial temporal lobe region of the brain (unpublished doctoral dissertation)"
+    },
+    {
+      "paperId": "161cb7ac92d7571042bb11ebdaaa1175be8079f8",
+      "title": "Generalized expectancies for internal versus external control of reinforcement."
+    },
+    {
+      "paperId": "27dcddaab380f4b9158f992cf2ecd12e99b5b11d",
+      "title": "Aptitude testing."
+    },
+    {
+      "paperId": "fa3549d5e44a052b522f9220f709f5d33c0dc6f9",
+      "title": "Personality a psychological interpretation."
+    },
+    {
+      "paperId": "e17acb1a4fc2cf83ce1a602060549f1dba74fe76",
+      "title": "Personality: A Psychological Interpretation"
+    },
+    {
+      "paperId": null,
+      "title": "[ c (cid:13) 2020TheAuthor(s) ComputerGraphicsForum c (cid:13) 2020TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "IMULATOR"
+    },
+    {
+      "paperId": null,
+      "title": "Alvitta"
+    }
+  ]
+}

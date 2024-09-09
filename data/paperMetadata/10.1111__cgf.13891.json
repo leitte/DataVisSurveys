@@ -1,0 +1,737 @@
+{
+  "paperId": "366cab03c3e18e82d1ae475615f472e64c7a57e6",
+  "externalIds": {
+    "MAG": "2990368965",
+    "DBLP": "journals/cgf/PreimL20",
+    "DOI": "10.1111/cgf.13891",
+    "CorpusId": 212652490
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/366cab03c3e18e82d1ae475615f472e64c7a57e6",
+  "title": "A Survey of Visual Analytics for Public Health",
+  "abstract": "We describe visual analytics solutions aiming to support public health professionals, and thus, preventive measures. Prevention aims at advocating behaviour and policy changes likely to improve human health. Public health strives to limit the outbreak of acute diseases as well as the reduction of chronic diseases and injuries. For this purpose, data are collected to identify trends in human health, to derive hypotheses, e.g. related to risk factors, and to get insights in the data and the underlying phenomena. Most public health data have a temporal character. Moreover, the spatial character, e.g. spatial clustering of diseases, needs to be considered for decision\u2010making. Visual analytics techniques involve (subspace) clustering, interaction techniques to identify relevant subpopulations, e.g. being particularly vulnerable to diseases, imputation of missing values, visual queries as well as visualization and interaction techniques for spatio\u2010temporal data. We describe requirements, tasks and visual analytics techniques that are widely used in public health before going into detail with respect to applications. These include outbreak surveillance and epidemiology research, e.g. cancer epidemiology. We classify the solutions based on the visual analytics techniques employed. We also discuss gaps in the current state of the art and resulting research opportunities in a research agenda to advance visual analytics support in public health.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 169,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13891",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-11-28",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Preim2019ASO,\n author = {B. Preim and K. Lawonn},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Visual Analytics for Public Health},\n volume = {39},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "1798143",
+      "name": "K. Lawonn"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2322dc9e72e5a1ed176578a5cdb9254bf0fbf4c4",
+      "title": "Visual Analysis of Missing Values in Longitudinal Cohort Study Data"
+    },
+    {
+      "paperId": "fc791fa2b412f8e459cdd6d7ce4b2fe485e3f4bd",
+      "title": "Interactive Visual Event Analytics: Opportunities and Challenges"
+    },
+    {
+      "paperId": "7c30e56b90a8f34bff7bb3d951249ccdf6cecb27",
+      "title": "A framework for expert-driven subpopulation discovery and evaluation using subspace clustering for epidemiological data"
+    },
+    {
+      "paperId": "320f297a28626e8d0f356194688119f731689bb8",
+      "title": "A Critical Analysis of the Evaluation Practice in Medical Visualization"
+    },
+    {
+      "paperId": "54854beb0642cfe80acc3c49b1ca72f71c6442cc",
+      "title": "Diet as a hot topic in psychiatry: a population\u2010scale study of nutritional intake and inflammatory potential in severe mental illness"
+    },
+    {
+      "paperId": "8b1b939ca20d679dcc7fa1193568f74d3d54c9df",
+      "title": "Management of Cerebral Aneurysm Descriptors based on an Automatic Ostium Extraction"
+    },
+    {
+      "paperId": "6f4b5796ce2d3a080005db923d38de0d3e2a147d",
+      "title": "Visualization Tool for Environmental Sensing and Public Health Data"
+    },
+    {
+      "paperId": "034edf34f3065abf8488419a31c9aba860dbf7ab",
+      "title": "A Human-Centered Platform for HIV Infection Reduction in New York: Development and Usage Analysis of the Ending the Epidemic (ETE) Dashboard"
+    },
+    {
+      "paperId": "90b09245db760cd130acee0696eeb3ed0c31f4f0",
+      "title": "Visualization of Eye Tracking Data: A Taxonomy and Survey"
+    },
+    {
+      "paperId": "9750439c7dbc00d45468777ae0b073838a47b22c",
+      "title": "Visual Subpopulation Discovery and Validation in Cohort Study Data"
+    },
+    {
+      "paperId": "6cb71b9c8b7ea72f9729ff6659d89ec553ef7652",
+      "title": "The Rotterdam Study: 2018 update on objectives, design and main results"
+    },
+    {
+      "paperId": "475cc6223b0224ef0e6e06c9252cc333c743580d",
+      "title": "Visual analytics for radiomics: Combining medical imaging with patient data for clinical research"
+    },
+    {
+      "paperId": "a0a984f3f9ec841377a290af77278c168b459d5b",
+      "title": "Interactive visualization of public health indicators to support policymaking: An exploratory study"
+    },
+    {
+      "paperId": "7207c73228aabd88ff62d2ca721721af1f03731d",
+      "title": "Collaborative Visual Analytics: A Health Analytics Approach to Injury Prevention"
+    },
+    {
+      "paperId": "a347b88c598d40964a30aa621c6601d0b3b299a7",
+      "title": "A Visual Analytics Approach for Station-Based Air Quality Data"
+    },
+    {
+      "paperId": "32e6af3512f6e90b95e24c16652c6408d7062ad8",
+      "title": "Large-Scale medical image analytics: Recent methodologies, applications and Future directions"
+    },
+    {
+      "paperId": "995328f2d7a1e45dbbc63c6f34841c6f5a847ced",
+      "title": "Visual Analytics in Urban Computing: An Overview"
+    },
+    {
+      "paperId": "da4a8b134bd3b958fbe2fe1993f71a07900c6ffe",
+      "title": "Characterizing treatment pathways at scale using the OHDSI network"
+    },
+    {
+      "paperId": "90e11be871176cfa598bbc34c510bdd3bd5469c1",
+      "title": "ID-Viewer: a visual analytics architecture for infectious diseases surveillance and response management in Pakistan."
+    },
+    {
+      "paperId": "5c10f21582dfdcd4447ae01c2491ada9684e429a",
+      "title": "Cancer-disease associations: A visualization and animation through medical big data"
+    },
+    {
+      "paperId": "feb50b6a0b2b3714318a62f345d58e2ba8fe4ab3",
+      "title": "nu-view: a visualization system for collaborative co-located analysis of geospatial disease data"
+    },
+    {
+      "paperId": "640c5b9127fe2b0227d037ebf1e9e9a40622c48e",
+      "title": "3D Regression Heat Map Analysis of Population Study Data"
+    },
+    {
+      "paperId": "2165eab8a25414be16c1b37033aa4613190760bf",
+      "title": "Supporting Iterative Cohort Construction with Visual Temporal Queries"
+    },
+    {
+      "paperId": "7c5ae2b6b3f9b490672e47fe52c92bcc0986f536",
+      "title": "Data visualisation in surveillance for injury prevention and control: conceptual bases and case studies"
+    },
+    {
+      "paperId": "79d1c35d7a507cda78aa98bbf3b9e20e452eae0b",
+      "title": "Integrating predictive analytics into a spatiotemporal epidemic simulation"
+    },
+    {
+      "paperId": "76e5768e48562235848704062d34da5d679dcc5d",
+      "title": "A visual active learning system for the assessment of patient well-being in prostate cancer research"
+    },
+    {
+      "paperId": "ebc0bae3646a29030860cbf9f4a96fc8c2425cd3",
+      "title": "Iterative cohort analysis and exploration"
+    },
+    {
+      "paperId": "5d3968b48770c4fa06ee1a1db6bff1627f45ba7b",
+      "title": "ReactionFlow: an interactive visualization tool for causality analysis in biological pathways"
+    },
+    {
+      "paperId": "09014cd68e297ad74d24c44d50f6c96ef1c1daa2",
+      "title": "5 year mortality predictors in 498\u2008103 UK Biobank participants: a prospective population-based study"
+    },
+    {
+      "paperId": "8953c3e30cb160a4ff55cbbe5d696e6d259ddaa8",
+      "title": "A Visual-Interactive System for Prostate Cancer Cohort Analysis"
+    },
+    {
+      "paperId": "4495e63d3e667e33d3d256548a124cd279acac4a",
+      "title": "Whole-Body MR Imaging in the German National Cohort: Rationale, Design, and Technical Background."
+    },
+    {
+      "paperId": "5c99bd3dee28d8c3ed745301238035c36db25e97",
+      "title": "VoroGraph: Visualization Tools for Epidemic Analysis"
+    },
+    {
+      "paperId": "bf69aed8c59bc7099c6bb429d06e25b88efefd91",
+      "title": "UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age"
+    },
+    {
+      "paperId": "d00519ac1ee03151ec1ec7e27534c8b33f54497b",
+      "title": "Understanding variations in pediatric asthma care processes in the emergency department using visual analytics"
+    },
+    {
+      "paperId": "ba1e23426b83a9d6ed20722b75986c26d6ad0588",
+      "title": "Image analysis in epidemiological applications"
+    },
+    {
+      "paperId": "6f104671dc8d4629fa9c31ae16937bb7214911dd",
+      "title": "Visual Analytics of Image-Centric Cohort Studies in Epidemiology"
+    },
+    {
+      "paperId": "b35eea8d98197abf402a2694354addb9aa84dd96",
+      "title": "Can child injury prevention include healthy risk promotion?"
+    },
+    {
+      "paperId": "1cda14487542261b5f140036d60c3fb845bd7e8f",
+      "title": "Subpopulation Discovery in Epidemiological Data with Subspace Clustering"
+    },
+    {
+      "paperId": "22f8bc24128c812c9c6ee7e9e2510c80f78dc611",
+      "title": "Interactive Visual Analysis of Image-Centric Cohort Study Data"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "e7f7d80405e78ea8a08b79a1e16b94ce6986f472",
+      "title": "Visualization and analytics tools for infectious disease epidemiology: A systematic review"
+    },
+    {
+      "paperId": "3fdfcb44ba6076ebae469b4395e8069097d2362b",
+      "title": "HydroQual: Visual analysis of river water quality"
+    },
+    {
+      "paperId": "953df0816204681a27e4e71751f7bbd43a8a371a",
+      "title": "TimeCleanser: a visual analytics approach for data cleansing of time-oriented data"
+    },
+    {
+      "paperId": "dc51159c033753ef7616504532cf53f511b754ba",
+      "title": "Interactive Medical Miner: Interactively Exploring Subpopulations in Epidemiological Datasets"
+    },
+    {
+      "paperId": "23e123182341ece33353208996a1044cc4e35109",
+      "title": "Readability of a background map layer under a semi-transparent foreground layer"
+    },
+    {
+      "paperId": "45a35135fe064438bf624ca7fb7d33b0af830f5d",
+      "title": "Advanced visual analytics interfaces for adverse drug event detection"
+    },
+    {
+      "paperId": "9a2306888f757ff071179b2db44f094bc14d0859",
+      "title": "The German National Cohort: aims, study design and organization"
+    },
+    {
+      "paperId": "457c61cf91f5f41bef4b416e05a1722a412145b1",
+      "title": "Blood Flow Clustering and Applications inVirtual Stenting of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "68228ddeba566a6d97cd2db623dd5a1df3eae2c3",
+      "title": "Estimating county health statistics with twitter"
+    },
+    {
+      "paperId": "04a6f175934b5cd756cfa78951d1663cc3fc1373",
+      "title": "Space-time clusters of breast cancer using residential histories: A Danish case\u2013control study"
+    },
+    {
+      "paperId": "090705c29c89e3da87419269ace15239b8c9b114",
+      "title": "Space-time clusters of breast cancer using residential histories: A Danish case\u2013control study"
+    },
+    {
+      "paperId": "fc71fb26fce1b4d7346a8e019fd6aa2df0c6d03c",
+      "title": "Interactive Visual Analysis of Heterogeneous Cohort-Study Data"
+    },
+    {
+      "paperId": "a61034ca66db6e7432a058104c5b3f54ecef091d",
+      "title": "A methodology for interactive mining and visual analysis of clinical event patterns using electronic health record data"
+    },
+    {
+      "paperId": "2a48c07d80f56da36ed821f37f0cd6551a05b66f",
+      "title": "Deformable part models for object detection in medical images"
+    },
+    {
+      "paperId": "8215133f440fbed91aa319da2256d0b7efe9535d",
+      "title": "The Challenge of Big Data in Public Health: An Opportunity for Visual Analytics"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "26f29f305affacbf7677c937476d390fe718ab36",
+      "title": "Representing Multidimensional Cancer Registry Data"
+    },
+    {
+      "paperId": "4200eb770286f20f0b45e45ec63ef1c9a99eae79",
+      "title": "Computational epidemiology"
+    },
+    {
+      "paperId": "f6f27cf90325dd8133168e9993c3b393b70b28f6",
+      "title": "Hypothesis Generation by Interactive Visual Exploration of Heterogeneous Medical Data"
+    },
+    {
+      "paperId": "6fdde57a22dada6ae1929b7af09840bc21947ff9",
+      "title": "Imaging in population science: cardiovascular magnetic resonance in 100,000 participants of UK Biobank - rationale, challenges and approaches"
+    },
+    {
+      "paperId": "205b0c27c10b3055ef229df134807663d6757e61",
+      "title": "Improving Healthcare with Interactive Visualization"
+    },
+    {
+      "paperId": "3dff946363e3996bb69f7d65c423091ff15ccfc3",
+      "title": "The challenges of specifying intervals and absences in temporal queries: a graphical language approach"
+    },
+    {
+      "paperId": "ab8243186bb186ca77daf543dd94da3b1fe27866",
+      "title": "Space-Time Clustering of Non-Hodgkin Lymphoma Using Residential Histories in a Danish Case-Control Study"
+    },
+    {
+      "paperId": "8db1effc8b384e3b5ff84fc73065770d3f8783f2",
+      "title": "Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": "cd914b0ad00b1432335757a82d94a559c4001b60",
+      "title": "Beyond information access: Support for complex cognitive activities in public health informatics tools"
+    },
+    {
+      "paperId": "c7519318eb68bb46ca3a1fbe63f61e83f4f64f4c",
+      "title": "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990\u20132010: a systematic analysis for the Global Burden of Disease Study 2010"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "b2d2a2a4637decdb80d1848c9d47aeb0cd243f86",
+      "title": "The EpiCanvas infectious disease weather map: an interactive visual exploration of temporal and spatial correlations"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "537c1f378830e056e9d7f6e919d16dd007398070",
+      "title": "How Social Media Will Change Public Health"
+    },
+    {
+      "paperId": "14d24a276907e977353bf15bb56e1cf90ae0e2e2",
+      "title": "Co-Located Collaborative Visual Analytics around a Tabletop Display"
+    },
+    {
+      "paperId": "eb40047881b8804e9a5c31da45c77a164927cb82",
+      "title": "Classification of epidemiological study designs."
+    },
+    {
+      "paperId": "1a3b7742fd76bcf0b844a955baee1a09fe471a93",
+      "title": "Epinome: A Visual-Analytics Workbench for Epidemiology Data"
+    },
+    {
+      "paperId": "a9f85b4ed0a5617f2442cfdda136246d10230194",
+      "title": "Prior Shape Level Set Segmentation on Multistep Generated Probability Maps of MR Datasets for Fully Automatic Kidney Parenchyma Volumetry"
+    },
+    {
+      "paperId": "bf1ee22af84f7fab614ce9a258d04165eec88f23",
+      "title": "Amelia II: A Program for Missing Data"
+    },
+    {
+      "paperId": "3467e34cae93c33c1be8c3dc0fa4a3a6405e18e3",
+      "title": "MICE: Multivariate Imputation by Chained Equations in R"
+    },
+    {
+      "paperId": "cb7993ae498ca653ac3dd5d8a7b35bf7c1e2f029",
+      "title": "Visual Exploration of Time-Oriented Patient Data for Chronic Diseases: Design Study and Evaluation"
+    },
+    {
+      "paperId": "7f41a896dadd32b292dd7c1dd92dbee1a9bc3d9e",
+      "title": "Data Mining to Generate Adverse Drug Events Detection Rules"
+    },
+    {
+      "paperId": "21fd7fb7ac9428144d5e4cbb28b81bec550d2844",
+      "title": "Designing a web-based learning portal for geographic visualization and analysis in public health"
+    },
+    {
+      "paperId": "ccf0393f79bf6fbeb0bae91a452bf18500e377d8",
+      "title": "Natural Gas Operations from a Public Health Perspective"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "bf941989e2b0648a09e6d7d51cac923936488dc3",
+      "title": "A pandemic influenza modeling and visualization tool\u2606"
+    },
+    {
+      "paperId": "c8a8f5db28f6e1027581323f7e03722244ee58e8",
+      "title": "Cohort profile: the study of health in Pomerania."
+    },
+    {
+      "paperId": "90a9fceb113a1125442217693c0e7dc01f9a7eeb",
+      "title": "CareCruiser: Exploring and visualizing plans, events, and effects interactively"
+    },
+    {
+      "paperId": "8591fbea7296e01112c13db5191e3af65099e3b6",
+      "title": "Visual Analytics for Epidemiologists: Understanding the Interactions Between Age, Time, and Disease with Multi-Panel Graphs"
+    },
+    {
+      "paperId": "c628a74c6e7851449ee900290c84e4b2acb938f6",
+      "title": "Visual Analytics of Surveillance Data on Foodborne Vibriosis, United States, 1973\u20132010"
+    },
+    {
+      "paperId": "0fc35dc6493e1d25418d4a875a37fccff121c018",
+      "title": "SOCR Motion Charts: An Efficient, Open-Source, Interactive and Dynamic Applet for Visualizing Longitudinal Multivariate Data"
+    },
+    {
+      "paperId": "e9b1e42c217287b045ccbafca1d7e133ac9ece30",
+      "title": "Subcortical functional connectivity and verbal episodic memory in healthy elderly\u2014A resting state fMRI study"
+    },
+    {
+      "paperId": "d7433e3e2217ae623e639a877e989bb656f99a75",
+      "title": "The Case for Visual Analytics of Arsenic Concentrations in Foods"
+    },
+    {
+      "paperId": "0656b9f7217c427eac8a2329cfa0996623a139e2",
+      "title": "Spatial Modeling in Environmental and Public Health Research"
+    },
+    {
+      "paperId": "7b39af836d3120861344089f5a90a887901b045d",
+      "title": "Dynamic maps: a visual-analytic methodology for exploring spatio-temporal disease patterns"
+    },
+    {
+      "paperId": "5ff6f3a0b532d177fbc6e7f159f9fce98e817063",
+      "title": "Challenges for Visual Analytics"
+    },
+    {
+      "paperId": "68d14fea866beac28988541618d64bd5cc647d10",
+      "title": "Lark: Coordinating Co-located Collaboration with Information Visualization"
+    },
+    {
+      "paperId": "7b0365a2e7ca7aaecd6ed55b78b544e06d6076d6",
+      "title": "Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls"
+    },
+    {
+      "paperId": "4bee794245a265ccbdf9c77aae0ae85eb30dbe6f",
+      "title": "Generating Synthetic Syndromic-Surveillance Data for Evaluating Visual-Analytics Techniques"
+    },
+    {
+      "paperId": "ac373bbc5159fe2ef7f58e74296e548a694692f1",
+      "title": "Understanding syndromic hotspots - a visual analytics approach"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "b8eea2ec14da371d9d9d5d092be88eeb32be2fec",
+      "title": "Methodologic Issues and Approaches to Spatial Epidemiology"
+    },
+    {
+      "paperId": "b0191c16ab37369aa39d6e4b88fdd579e6eaa9a8",
+      "title": "VISA: visual subspace clustering analysis"
+    },
+    {
+      "paperId": "ed7b73b26ce4a7e9d577183b52d893811e1d732f",
+      "title": "Visual Analysis of the Air Pollution Problem in Hong Kong"
+    },
+    {
+      "paperId": "7539e1abb223923dc6913e0acdc356e814decd85",
+      "title": "Interactive Visual Exploration of a Large Spatio-temporal Dataset: Reflections on a Geovisualization Mashup."
+    },
+    {
+      "paperId": "afbe0686f8e7f1b65f35b15d2b1984c0ba506737",
+      "title": "LAHVA: Linked Animal-Human Health Visual Analytics"
+    },
+    {
+      "paperId": "f2118c51c960f46dfafc2a3c35fe06f42c2357ec",
+      "title": "Understanding the information needs of public health practitioners: A literature review to inform design of an interactive digital knowledge management system"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "40973bae737abc7c19b1b769703451c34de3cd2d",
+      "title": "Spatial analysis of colorectal cancer incidence and proportion of late-stage in Massachusetts residents: 1995\u20131998"
+    },
+    {
+      "paperId": "7df46f7e27ca348e5c4d93713110d6951b7765f7",
+      "title": "Assembling a global database of malaria parasite prevalence for the Malaria Atlas Project"
+    },
+    {
+      "paperId": "ffedb48370107eeb9c197597292d9915dd09b633",
+      "title": "Cartography: uncertainty, interventions, and dynamic display"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "9b2b4bfa4245bbce37dcbfb2c4bdeb22d6f0d5c7",
+      "title": "Prevalence, incidence and lifetime risk of atrial fibrillation: the Rotterdam study."
+    },
+    {
+      "paperId": "c8e2feb5b4f04b8d1ec554c1b25ee6e40cf04b2e",
+      "title": "Effects of age on volumes of cortex, white matter and subcortical structures"
+    },
+    {
+      "paperId": "73b22ec544fa1dc1b734b8ff3153a9f9cc00b70e",
+      "title": "3D information visualization for time dependent data on maps"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "38fb710c86454e4bb87af74d31912392dc2bc89d",
+      "title": "Visual analytics in the pharmaceutical industry"
+    },
+    {
+      "paperId": "f97454c7cb555ba15fa7fd988020c77814db3264",
+      "title": "Spatial Epidemiology: Current Approaches and Future Challenges"
+    },
+    {
+      "paperId": "2ecc30b5d4982941a5283731fe8e9572add62a9c",
+      "title": "Ranking Interesting Subspaces for Clustering High Dimensional Data"
+    },
+    {
+      "paperId": "f444aecb9a6cc1219d6baf81c55f23dfce3d9788",
+      "title": "User Acceptance of Information Technology: Toward a Unified View"
+    },
+    {
+      "paperId": "b9e0a0adf6be60db53e10adc1cb37c4e0e485e3e",
+      "title": "ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps"
+    },
+    {
+      "paperId": "b8418f53680e26c23ceefe2d43bfb2d6fba22f60",
+      "title": "Tips for Designing Effective Animated Maps"
+    },
+    {
+      "paperId": "0375035722b3bdaef2d37876f2c5c7174a52393e",
+      "title": "Scalable, efficient epidemiological simulation"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "7ead315ffe71f95abce19fa77631b8dc951e0a8e",
+      "title": "Distributed cognition: toward a new foundation for human-computer interaction research"
+    },
+    {
+      "paperId": "54967f4b7e49883c8aa555efc08ccc580bde2418",
+      "title": "Evidence-based decision making in public health."
+    },
+    {
+      "paperId": "80c983b2f36e3db461e35a5e8836d4b20b485d4f",
+      "title": "OPTICS: ordering points to identify the clustering structure"
+    },
+    {
+      "paperId": "28deed8a983491beb8af06fddb02d18f97e11d69",
+      "title": "Mechanisms of pollution\u2010induced airway disease: in vitro itudies in the upper and lower airways"
+    },
+    {
+      "paperId": "bb1c965dc1e8f1151362817eb749aa1e1c8107da",
+      "title": "Mechanisms of pollution\u2010induced airway disease: in vivo studies"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86",
+      "title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    },
+    {
+      "paperId": "6c47a8d6a27c24ad2a5ad73e90eb2c6a54017be3",
+      "title": "LifeLines: visualizing personal histories"
+    },
+    {
+      "paperId": "7a7dc3f2c36263eed32f732da36f89c69ce21c01",
+      "title": "Actions and Events in Interval Temporal Logic"
+    },
+    {
+      "paperId": "4055f243a1841bfbbe7360d9e8319b1ab13b88c0",
+      "title": "Visualizing Uncertainty in Soil Maps by Animation"
+    },
+    {
+      "paperId": "3df1d83247b2865db49966bfcd950672c0d98b26",
+      "title": "Epidemiology in Medicine"
+    },
+    {
+      "paperId": "087c0db2b3089de5cff01b5f67457cc93e1f7fc8",
+      "title": "History of Public Health."
+    },
+    {
+      "paperId": "2998e8f3fc3ac40b1fd7f92f1455a7db6973c942",
+      "title": "Lung Cancer and Other Causes of Death in Relation to Smoking"
+    },
+    {
+      "paperId": "5cdc573036eac9c370e16291744b4595d4cf5e3f",
+      "title": "Clustervision: Visual Supervision of Unsupervised Clustering"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "f4b01bc4502a938ce8db4223262b19bd042ec156",
+      "title": "Subpopulation Discovery and Validation in Epidemiological Data"
+    },
+    {
+      "paperId": "6417ee57ecc88de7e0e9e769b9b5598f85797566",
+      "title": "Visual Analytics for Spatial Clusters of Air-Quality Data"
+    },
+    {
+      "paperId": "50b8a275289340d71eae911c6839e0e967865d14",
+      "title": "Interactive Visualization and Exploration of Patient Progression in a Hospital Setting"
+    },
+    {
+      "paperId": "76b66187c57ce5a7eabf200b2f2423e981481ab2",
+      "title": "Visual Analytics of Missing Data in Epidemiological Cohort Studies"
+    },
+    {
+      "paperId": "1f70bc624c695949a47e5abee686fcac09a846e2",
+      "title": "Cartographic Treemaps for Visualization of Public Healthcare Data"
+    },
+    {
+      "paperId": "1c75223f0ba4a8144621eced6add1457a57621ef",
+      "title": "EpiHosp: A web-based visualization tool enabling the exploratory analysis of complications of implantable medical devices from a nationwide hospital database"
+    },
+    {
+      "paperId": "d5424a5f93f9d410cf17c5393eb5e6a1821dc135",
+      "title": "Observational Health Data Sciences and Informatics (OHDSI): Opportunities for Observational Researchers"
+    },
+    {
+      "paperId": "a98b8a58afbaab8f73d5530ab618f052229703c7",
+      "title": "The role of visual analytics in asthma phenotyping and biomarker discovery."
+    },
+    {
+      "paperId": "1f4e8f34c1a5155e54e1ba3e7019e150449ec10e",
+      "title": "Contrasting temporal trend discovery for large healthcare databases"
+    },
+    {
+      "paperId": "7f24f01e2fc580f78dbc895cf7fe0cf50d65b20f",
+      "title": "The German National Cohort: Aims, study des"
+    },
+    {
+      "paperId": "c3479639aa8e2e4e5d6af70e217d80662aadc006",
+      "title": "Visualization and Analysis of Lumbar Spine Canal Variability in Cohort Study Data"
+    },
+    {
+      "paperId": "067434b2e50aeef1621825a937852458d863eecf",
+      "title": "Closed-Form Hierarchical Finite Element Models for Part-Based Object Detection"
+    },
+    {
+      "paperId": "09699f24078c0ad390d3e5b36990e0e3a189efc6",
+      "title": "Scorecards: a new method to prevent adverse drug events? Preliminary results from a clinical field study."
+    },
+    {
+      "paperId": "26fed73738165dd50d84cfc8e7bac0be86138caf",
+      "title": "Requirements Engineering for E-science: Experiences in Epidemiology"
+    },
+    {
+      "paperId": "bcad420e8a89fde833912d759b878193bae75d58",
+      "title": "The expert explorer: a tool for hospital data visualization and adverse drug event rules validation."
+    },
+    {
+      "paperId": "3c30745cd058b057fa71e8508f57352affdbf31e",
+      "title": "Clinical epidemiology"
+    },
+    {
+      "paperId": "2f66a915bc0172de96b2267c5db2c142e7a2d597",
+      "title": "The role of spatial risk assessment in the context of planning for adaptation in UK urban areas"
+    },
+    {
+      "paperId": "f2f7e8374c660e807d65b529682b364799ec26e6",
+      "title": "SPECIAL SERIES: MISSING DATA Review: A gentle introduction to imputation of missing values"
+    },
+    {
+      "paperId": null,
+      "title": "Information dashboard design"
+    },
+    {
+      "paperId": "c26c8fa28824e664519028d3643e35c79c0fb9ab",
+      "title": "Study of Health in Pomerania (SHIP): A health examination survey in an east German region: Objectives and design"
+    },
+    {
+      "paperId": "f4746a6e7fa83a2fc18cfa4835d2784625ae146a",
+      "title": "THEMATIC RELEVANCE AND PERCEPTUAL SALIENCE OF DYNAMIC GEOVISUALIZATION DISPLAYS"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "f5c9b772f7bed730c601d5ddd7c12edb4430807f",
+      "title": "Geovisualization for knowledge construction and decision support"
+    },
+    {
+      "paperId": "29bb189b60db0a2c3008b3d136e0d7c191be09ba",
+      "title": "Uncertainty in geographical information"
+    },
+    {
+      "paperId": "ff51f5b762fd97ab9bb6150d9f03743eed025070",
+      "title": "The Global Infectious Disease Threat and Its Implications for the United States"
+    },
+    {
+      "paperId": "cf61034f4ddf83826f55d4a57b011b3fd6e0a819",
+      "title": "Interface Design for Geographic Visualization: Tools for Representing Reliability"
+    },
+    {
+      "paperId": "3990632d1f93acb997ed363c0f510cc4e3639554",
+      "title": "Multivariate Display of Geographic Data: Applications in Earth System Science"
+    },
+    {
+      "paperId": "6b7cdb0035347e8db8c504ed05d9bec9a1725aa3",
+      "title": "Comparative Visualization - Approaches and Examples"
+    },
+    {
+      "paperId": "9bfc34ca3d3dd17ecdcb092f2a056da6cb824acd",
+      "title": "International Journal of Geographical Information Science Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support Visual Analytics of Spatial Interaction Patterns for Pandemic Decision Support"
+    },
+    {
+      "paperId": "8c428a063a78d64ee1a77aaa53c95b25953ad3b6",
+      "title": "International Journal of Health Geographics Geovisual Analytics to Enhance Spatial Scan Statistic Interpretation: an Analysis of U.s. Cervical Cancer Mortality"
+    },
+    {
+      "paperId": null,
+      "title": "Foundations and Trends Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": null,
+      "title": "S\u00b4emiologie Graphique: Diagrammes, R\u00b4eseaux, Cartographie"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "paperId": "c0521389459c64d7af729f320440260cae2ed2f1",
+  "externalIds": {
+    "MAG": "3043605787",
+    "DBLP": "journals/cgf/BhattacharjeeCD20",
+    "DOI": "10.1111/cgf.14032",
+    "CorpusId": 221578420
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/c0521389459c64d7af729f320440260cae2ed2f1",
+  "title": "Privacy\u2010Preserving Data Visualization: Reflections on the State of the Art and Research Opportunities",
+  "abstract": "Preservation of data privacy and protection of sensitive information from potential adversaries constitute a key socio\u2010technical challenge in the modern era of ubiquitous digital transformation. Addressing this challenge needs analysis of multiple factors: algorithmic choices for balancing privacy and loss of utility, potential attack scenarios that can be undertaken by adversaries, implications for data owners, data subjects, and data sharing policies, and access control mechanisms that need to be built into interactive data interfaces. Visualization has a key role to play as part of the solution space, both as a medium of privacy\u2010aware information communication and also as a tool for understanding the link between privacy parameters and data sharing policies. The field of privacy\u2010preserving data visualization has witnessed progress along many of these dimensions. In this state\u2010of\u2010the\u2010art report, our goal is to provide a systematic analysis of the approaches, methods, and techniques used for handling data privacy in visualization. We also reflect on the road\u2010map ahead by analyzing the gaps and research opportunities for solving some of the pressing socio\u2010technical challenges involving data privacy with the help of visualization.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2020,
+  "referenceCount": 114,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "39"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bhattacharjee2020PrivacyPreservingDV,\n author = {Kaustav Bhattacharjee and Min Chen and Aritra Dasgupta},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Privacy\u2010Preserving Data Visualization: Reflections on the State of the Art and Research Opportunities},\n volume = {39},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47812220",
+      "name": "Kaustav Bhattacharjee"
+    },
+    {
+      "authorId": "12134086",
+      "name": "Min Chen"
+    },
+    {
+      "authorId": "2333777",
+      "name": "Aritra Dasgupta"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "75ecf969ce1be6f05fef55c8ea7d38e12ec7f7f5",
+      "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts"
+    },
+    {
+      "paperId": "7c85836df9e2f97ba3bff43317a09471b1fef3f3",
+      "title": "Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence"
+    },
+    {
+      "paperId": "d5cd32058a4c3e4fc95b976a8647a3db47e78868",
+      "title": "Tradeoffs and tools for data quality, privacy, transparency, and trust in citizen science"
+    },
+    {
+      "paperId": "e06594817e37bf127758b1672b8d9bba6136c966",
+      "title": "Guess Me If You Can: A Visual Uncertainty Model for Transparent Evaluation of Disclosure Risks in Privacy-Preserving Data Visualization"
+    },
+    {
+      "paperId": "732944c9297e3d8a82811fdc4fbc5197ca061c37",
+      "title": "A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories"
+    },
+    {
+      "paperId": "9d11d18c91aef64538156df205b1668af2821a2d",
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System"
+    },
+    {
+      "paperId": "f34b6423878090c7422c078a3dd6a3db80fb7532",
+      "title": "Estimating the success of re-identifications in incomplete datasets using generative models"
+    },
+    {
+      "paperId": "8cc5711098f32f48dbd7a123cc4d8723c3d64238",
+      "title": "Dark Patterns at Scale"
+    },
+    {
+      "paperId": "05271ef13a79f2efc8f5206ecf41194b410d77f6",
+      "title": "Bridging Text Visualization and Mining: A Task-Driven Survey"
+    },
+    {
+      "paperId": "963613ed21b58a1deb54647e5a8c1b9efd94f413",
+      "title": "Best practices for analyzing large-scale health data from wearables and smartphone apps"
+    },
+    {
+      "paperId": "11d9bdd318c6fbfa9a0b845342ed3e0ad696632a",
+      "title": "mHealth Applications: Can User-adaptive Visualization and Context Affect the Perception of Security and Privacy?"
+    },
+    {
+      "paperId": "661b3f00e5d4043561d1f681bc1d0750726acca9",
+      "title": "HappyPermi: Presenting Critical Data Flows in Mobile Application to Raise User Security Awareness"
+    },
+    {
+      "paperId": "9f7377798a60776928fb8a5991bcc9478f57c27e",
+      "title": "Bringing Design to the Privacy Table: Broadening \u201cDesign\u201d in \u201cPrivacy by Design\u201d Through the Lens of HCI"
+    },
+    {
+      "paperId": "f8ab192093547b2c76fef71acc808431d78fef78",
+      "title": "Can Privacy-Aware Lifelogs Alter Our Memories?"
+    },
+    {
+      "paperId": "8260909cda852ce68348579192e9f2cab7cb633d",
+      "title": "Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking"
+    },
+    {
+      "paperId": "60579ad5db0b3ee62b389a84afa78189695fc090",
+      "title": "Social network analysis for better understanding of influenza"
+    },
+    {
+      "paperId": "2f22b1d0a59c76839d59a39ca189f8b7c935f87a",
+      "title": "The New Privacy Crisis: What's Health Got to Do with It?"
+    },
+    {
+      "paperId": "c7540d953409f47e985a4e090cd3696f957a6a29",
+      "title": "Privacy versus open science"
+    },
+    {
+      "paperId": "0f48e5c83356cfaff3a9aef14115cff7dc1c81a5",
+      "title": "Decision-Making Under Uncertainty in Research Synthesis: Designing for the Garden of Forking Paths"
+    },
+    {
+      "paperId": "844336f703b58b485957b21deba88ad1075cefaa",
+      "title": "Probabilistic record linkage of de-identified research datasets with discrepancies using diagnosis codes"
+    },
+    {
+      "paperId": "b81ae6ea3bb6ca2311da016153e87cd67432c805",
+      "title": "Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania"
+    },
+    {
+      "paperId": "5e43aaa9d18160068123274d5a5caef4902b10e4",
+      "title": "GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "7b330c4602e40eb4756720ae548b949ade3b6a05",
+      "title": "Are we having an ethical crisis in computing?"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "71c28192a6b56474e0934174abf1c107a91a93bf",
+      "title": "An Empirical Study on Perceptually Masking Privacy in Graph Visualizations"
+    },
+    {
+      "paperId": "847ef5bfab9e733eb2297db94e40ec4ff3321a03",
+      "title": "Privacy Preserving Visualization: A Study on Event Sequence Data"
+    },
+    {
+      "paperId": "71373a8406214f32aeff478d62a64a770de86a5d",
+      "title": "The biggest lie on the Internet: ignoring the privacy policies and terms of service policies of social networking services"
+    },
+    {
+      "paperId": "57dbf3c3aa5d4864512d01b13cbf048e96036476",
+      "title": "An information-aware visualization for privacy-preserving accelerometer data sharing"
+    },
+    {
+      "paperId": "a9c25d5ccc7859ac795c78e64db2d6bd7e0450de",
+      "title": "Balancing Privacy and Information Disclosure in Interactive Record Linkage with Visual Masking"
+    },
+    {
+      "paperId": "2f46aa0619baa5b997ce9485ed9149a8c12bc35e",
+      "title": "The Users' Perspective on the Privacy-Utility Trade-offs in Health Recommender Systems"
+    },
+    {
+      "paperId": "7c2e0814145e787f3fc5842617bf749da30825ae",
+      "title": "Privacy at the Margins| The Poverty of Privacy: Understanding Privacy Trade-Offs From Identity Infrastructure Users in India"
+    },
+    {
+      "paperId": "8d347fbce63bec4bd31ac30e7826a73e9f606532",
+      "title": "PAD: protecting anonymity in publishing building related datasets"
+    },
+    {
+      "paperId": "f00647f192916a85fb37540148ccd92b760ba272",
+      "title": "Visualization and differential privacy"
+    },
+    {
+      "paperId": "4e9a84b445039ff2539a7b68cbd5e1622d7b5046",
+      "title": "Transparency in practice: using visualization to enhance the interpretability of open data"
+    },
+    {
+      "paperId": "d81262eb3923eee6c5e8c688c8c8386000dfe1b4",
+      "title": "Privacy preserving visualization for social network data with ontology information"
+    },
+    {
+      "paperId": "124e57b3c5ede54b51ba786b2a9ca6df90802d37",
+      "title": "\u201cTake it or Leave it\u201d: Effective Visualization of Privacy Policies"
+    },
+    {
+      "paperId": "c318aca0408f23e2c32a4dfae216801b4029e9e9",
+      "title": "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics"
+    },
+    {
+      "paperId": "ee2d7647ecc29ca73d5e8cb511601f4f481b5c18",
+      "title": "Discriminant component analysis for privacy protection and visualization of big data"
+    },
+    {
+      "paperId": "fa319fc1fdba8abff9d7f408f24a651a920657b1",
+      "title": "Using Data Visualization Technique to Detect Sensitive Information Re-Identification Problem of Real Open Dataset"
+    },
+    {
+      "paperId": "17e4d36779c749dcbcd9eb918f5b7eb1d78f984a",
+      "title": "Obfuscated volume rendering"
+    },
+    {
+      "paperId": "2bb452ae3074e152f3fd6f4b65b23f32e0640830",
+      "title": "Privacy preserving event sequence data visualization using a Sankey diagram-like representation"
+    },
+    {
+      "paperId": "5f1d0d3aed9d34f7048a1dfa4b2986bcdbf5de48",
+      "title": "Anonymizing NYC Taxi Data: Does It Matter?"
+    },
+    {
+      "paperId": "ad60a1266f1b90d6d647514db6d1a966c4146e52",
+      "title": "PSI ({\\Psi}): a Private data Sharing Interface"
+    },
+    {
+      "paperId": "824173861b92834aafdb199e0f019d914a5d35c2",
+      "title": "Sharing health-related data: a privacy test?"
+    },
+    {
+      "paperId": "8573b1270cda6ef748ba4721c72a50fb7fcb5d1b",
+      "title": "IoT Privacy and Security Challenges for Smart Home Environments"
+    },
+    {
+      "paperId": "699df4a929a305b1210caeb9037e1caf227d4f88",
+      "title": "I Know Where You Live: Inferring Details of People's Lives by Visualizing Publicly Shared Location Data"
+    },
+    {
+      "paperId": "58b62ae3a4b93e288c0afb05d3f9ba43356cbc6a",
+      "title": "Data-Driven Healthcare: Challenges and Opportunities for Interactive Visualization"
+    },
+    {
+      "paperId": "759d5e97b5ab290491e8071d5d7605ecbfcfb663",
+      "title": "Scalable and privacy-respectful interactive discovery of place semantics from human mobility traces"
+    },
+    {
+      "paperId": "b473ee8edffacfd45c91c933f8618b83cc7656b7",
+      "title": "Methods for deriving and calibrating privacy-preserving heat maps from mobile sports tracking application data"
+    },
+    {
+      "paperId": "6de03c3c8bbca3e1255d5e45aa7c9466e071c752",
+      "title": "Privacy and Trust in Smart Camera Sensor Networks"
+    },
+    {
+      "paperId": "02c6d20a75d7c31ea2821e3ef3cb2079df7eaf43",
+      "title": "An Urban Data Profiler"
+    },
+    {
+      "paperId": "f3cb0cce9df9d15564530fcabdfcd36f10e99de1",
+      "title": "VeilMe: An Interactive Visualization Tool for Privacy Configuration of Using Personality Traits"
+    },
+    {
+      "paperId": "16e58d70ca4d19d5db09ead7147f3cd732bfe91a",
+      "title": "Privacy, Security, and Liberty: ICT in Crises"
+    },
+    {
+      "paperId": "0023582fde36430c7e3ae81611a14e558c8f4bae",
+      "title": "The Algorithmic Foundations of Differential Privacy"
+    },
+    {
+      "paperId": "62b44d833909f29f920ecccbac2778420cfbe27a",
+      "title": "Publishing data from electronic health records while preserving privacy: A survey of algorithms"
+    },
+    {
+      "paperId": "0369a745fa31302675ffefcf96b790ad8cf4eeb0",
+      "title": "MindYourPrivacy: Design and implementation of a visualization system for third-party Web tracking"
+    },
+    {
+      "paperId": "f49eca878c8c025ffd10ad4b8c3948ab830277e1",
+      "title": "Differential privacy data Aggregation Optimizing Method and application to data visualization"
+    },
+    {
+      "paperId": "76fe5f2facc5d67f144f25966960d3a1d51c1b01",
+      "title": "The Effect of Providing Visualizations in Privacy Policies on Trust in Data Privacy and Security"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "df3124f98479cfaaa53581b3a608d6e2c1dc88bd",
+      "title": "Measuring Privacy and Utility in Privacy\u2010Preserving Visualization"
+    },
+    {
+      "paperId": "b5e6d05e369f85ca59e4ef641bbac1bf2a557521",
+      "title": "Circles, posts and privacy in egocentric social networks: An exploratory visualization approach"
+    },
+    {
+      "paperId": "c5a4e5024a90aeae16298d8228d67dd9c9182080",
+      "title": "Identifying Personal Genomes by Surname Inference"
+    },
+    {
+      "paperId": "ac93829b419d7845846ce6738a03c89fbdc22c53",
+      "title": "The PViz comprehension tool for social network privacy settings"
+    },
+    {
+      "paperId": "8eb567ec018b024db8ce6251db388c79a4508aa7",
+      "title": "Facebook and privacy: it's complicated"
+    },
+    {
+      "paperId": "44cb1910be9b2362b2b6bb757f4eeab62546c177",
+      "title": "Conceptualizing Visual Uncertainty in Parallel Coordinates"
+    },
+    {
+      "paperId": "753f679fd2dba8f34031e9fe4e8404a6e2a1d0a9",
+      "title": "Adaptive Privacy-Preserving Visualization Using Parallel Coordinates"
+    },
+    {
+      "paperId": "5cac23003017ac25f9e12293868060bef9a7bc7f",
+      "title": "Privacy-preserving data visualization using parallel coordinates"
+    },
+    {
+      "paperId": "1fbf7bed25864b57b47daf212523bd036dc7ab5e",
+      "title": "Privacy-preserving data publishing: A survey of recent developments"
+    },
+    {
+      "paperId": "69b5a651e1bc4f5d51413e517232cdcde205ad26",
+      "title": "Visualizing Privacy Implications of Access Control Policies in Social Network Systems"
+    },
+    {
+      "paperId": "8f3bbd754dba5c3737953ab9fc32e49ee84e7e5e",
+      "title": "A Model for Privacy Policy Visualization"
+    },
+    {
+      "paperId": "c226155a26a76860c02726cf86e56aeb2e3e03c1",
+      "title": "On the tradeoff between privacy and utility in data publishing"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "1bc7ac71f8bff28f519d8c5a4452159e5834a848",
+      "title": "The cost of privacy: destruction of data-mining utility in anonymized data publishing"
+    },
+    {
+      "paperId": "e76b07316de83a26ed0ce3e63a0dec049cc02192",
+      "title": "Privacy-MaxEnt: integrating background knowledge in privacy quantification"
+    },
+    {
+      "paperId": "07d837cfe9e4201a43ee5828516f30ba8c677d91",
+      "title": "Butterfly: Protecting Output Privacy in Stream Mining"
+    },
+    {
+      "paperId": "838bc9a9692fed09b23f517bb9dd187ba7fafa7d",
+      "title": "t-Closeness: Privacy Beyond k-Anonymity and l-Diversity"
+    },
+    {
+      "paperId": "bb0ed68db881097278981ef6c7eed44605a5901d",
+      "title": "Preservation Of Patterns and Input-Output Privacy"
+    },
+    {
+      "paperId": "a241fa9325363f58c5430cf80cb8d75968974cae",
+      "title": "Worst-Case Background Knowledge for Privacy-Preserving Data Publishing"
+    },
+    {
+      "paperId": "45f6b81c7fa364d7c3824b24ec2a0c6b0fba88f7",
+      "title": "Visualization for privacy compliance"
+    },
+    {
+      "paperId": "a1a68ebe386643cf7db79ffa1f82adb81b0eb29b",
+      "title": "Seeing further: extending visualization as a basis for usable security"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "4c86fe689be77e5207b22743a0f47d1f2b42a303",
+      "title": "L-diversity: privacy beyond k-anonymity"
+    },
+    {
+      "paperId": "4d34853486a823bc7052a5fae4de57bd8112bb55",
+      "title": "Privacy-enhanced linking"
+    },
+    {
+      "paperId": "42257e3aa3583deefaa6859940ca5f1740702a70",
+      "title": "Attacking information visualization system usability overloading and deceiving the human"
+    },
+    {
+      "paperId": "d429d387f94e16fe2fcf63224758df9b0ff81430",
+      "title": "Data privacy through optimal k-anonymization"
+    },
+    {
+      "paperId": "2add59862034cd7c15bd3c32080dbe0e87f90f3a",
+      "title": "A study of preferences for sharing and privacy"
+    },
+    {
+      "paperId": "8171f7c0fb91922887776ce2040fd7eaf7a61315",
+      "title": "HIPAA regulations - a new era of medical-record privacy?"
+    },
+    {
+      "paperId": "62ce35108ef0a816ba1929223f511c976079a300",
+      "title": "k-Anonymity: A Model for Protecting Privacy"
+    },
+    {
+      "paperId": "aef59a800687c1cc1d3691239a1f5d8fd77709fa",
+      "title": "Maintaining Data Privacy in Association Rule Mining"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "7e416354951f9decef0e696ff390d15208f9a26e",
+      "title": "Disclosure-Limited Data Dissemination"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "1143b4504d506a4925dde86c28b15df1093007bc",
+      "title": "Privacy-Preserving Contact Tracing of COVID-19 Patients"
+    },
+    {
+      "paperId": "b2fdc1cdf65e2fa2028af61a9d3a2c793e644fe9",
+      "title": "Enhancing Privacy through an Interactive On-demand Incremental Information Disclosure Interface: Applying Privacy-by-Design to Record Linkage"
+    },
+    {
+      "paperId": "fcbcfc642eab2796cfa215b620ab1d28aae2ba83",
+      "title": "Privacy, Security, and Liberty"
+    },
+    {
+      "paperId": null,
+      "title": "Twelve Million Phones, One Dataset, Zero Privacy"
+    },
+    {
+      "paperId": "4527413cb1dc5f5071de2c4c20720aadfa420055",
+      "title": "A Utility-Aware Visual Approach for Anonymizing Multi-Attribute Tabular Data"
+    },
+    {
+      "paperId": "6b609cadd9fc33a490c092a62f5d4c1f78bb414b",
+      "title": "Differential Privacy: A Primer for a Non-Technical Audience"
+    },
+    {
+      "paperId": "12edd876226d92e6890c65852b02258c90631a1b",
+      "title": "Privacy-preserving protocols for secure and reliable data aggregation in IoT-enabled Smart Metering systems"
+    },
+    {
+      "paperId": null,
+      "title": "Revealed: 50 million facebook profiles harvested for Cambridge analytica in major data breach"
+    },
+    {
+      "paperId": null,
+      "title": "My data just goes everywhere: user mental models of the internet and implications for privacy and security"
+    },
+    {
+      "paperId": "7e47757c8ceafd7dd862a63e062fa851bb04b171",
+      "title": "Opportunities and Challenges for Privacy-Preserving Visualization of Electronic Health Record Data"
+    },
+    {
+      "paperId": null,
+      "title": "How big data enables economic harm to consumers, especially to low-income and other vulnerable sectors of the population"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": "8d0236d1a734cd51a90172e61a8ed32e13e28fa8",
+      "title": "Privacy Issues in Geospatial Visual Analytics"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": "c1d8598cfd249215eab4f35f2f6a9a988fb8c957",
+      "title": "A Survey of Quantification of Privacy Preserving Data Mining Algorithms"
+    },
+    {
+      "paperId": "dd39f83c952cfdf72234a22f2dafbf14dfd939e9",
+      "title": "Efficient Algorithms for Masking and Finding Quasi-Identifiers"
+    },
+    {
+      "paperId": null,
+      "title": "Information visualization for rule-based resource access control"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Measures of disclosure risk and harm"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": null,
+      "title": "The Heilmeijer Catechism"
+    }
+  ]
+}

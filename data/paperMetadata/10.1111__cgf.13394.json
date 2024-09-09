@@ -1,0 +1,1141 @@
+{
+  "paperId": "6dce979927bc86e16ea1563e371b0fb45926e6c4",
+  "externalIds": {
+    "MAG": "2902638260",
+    "DBLP": "journals/cgf/Oeltze-JafraMNS19",
+    "DOI": "10.1111/cgf.13394",
+    "CorpusId": 65125306
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6dce979927bc86e16ea1563e371b0fb45926e6c4",
+  "title": "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges",
+  "abstract": "Simulations and measurements of blood and airflow inside the human circulatory and respiratory system play an increasingly important role in personalized medicine for prevention, diagnosis and treatment of diseases. This survey focuses on three main application areas. (1) Computational fluid dynamics (CFD) simulations of blood flow in cerebral aneurysms assist in predicting the outcome of this pathologic process and of therapeutic interventions. (2) CFD simulations of nasal airflow allow for investigating the effects of obstructions and deformities and provide therapy decision support. (3) 4D phase\u2010contrast (4D PC) magnetic resonance imaging of aortic haemodynamics supports the diagnosis of various vascular and valve pathologies as well as their treatment. An investigation of the complex and often dynamic simulation and measurement data requires the coupling of sophisticated visualization, interaction and data analysis techniques. In this paper, we survey the large body of work that has been conducted within this realm. We extend previous surveys by incorporating nasal airflow, addressing the joint investigation of blood flow and vessel wall properties and providing a more fine\u2010granular taxonomy of the existing techniques. From the survey, we extract major research trends and identify open problems and future challenges. The survey is intended for researchers interested in medical flow but also more general, in the combined visualization of physiology and anatomy, the extraction of features from flow field data and feature\u2010based visualization, the visual comparison of different simulation results and the interactive visual analysis of the flow field and derived characteristics.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 263,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13394",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Oeltze-Jafra2019GenerationAV,\n author = {S. Oeltze-Jafra and M. Meuschke and M. Neugebauer and S. Saalfeld and K. Lawonn and G. Janiga and H. Hege and S. Zachow and B. Preim},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1403400261",
+      "name": "S. Oeltze-Jafra"
+    },
+    {
+      "authorId": "2649961",
+      "name": "M. Meuschke"
+    },
+    {
+      "authorId": "2989476",
+      "name": "M. Neugebauer"
+    },
+    {
+      "authorId": "39489745",
+      "name": "S. Saalfeld"
+    },
+    {
+      "authorId": "1798143",
+      "name": "K. Lawonn"
+    },
+    {
+      "authorId": "2061884",
+      "name": "G. Janiga"
+    },
+    {
+      "authorId": "145292959",
+      "name": "H. Hege"
+    },
+    {
+      "authorId": "1808176",
+      "name": "S. Zachow"
+    },
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8b1b939ca20d679dcc7fa1193568f74d3d54c9df",
+      "title": "Management of Cerebral Aneurysm Descriptors based on an Automatic Ostium Extraction"
+    },
+    {
+      "paperId": "a8be62f434aa7aff6746f758a27699857e4ca9ab",
+      "title": "Exploration of blood flow patterns in cerebral aneurysms during the cardiac cycle"
+    },
+    {
+      "paperId": "255440abbf539f03d09695b1e1f481b89ab21b1e",
+      "title": "4D Flow MRI"
+    },
+    {
+      "paperId": "d3dfbe27ef73f3dd041e876b3b1f37e6557ecbf0",
+      "title": "Virtual Inflation of the Cerebral Artery Wall for the Integrated Exploration of OCT and Histology Data"
+    },
+    {
+      "paperId": "e1c93938c720865809e7c443e610a4c9434c3170",
+      "title": "Robust hex-dominant mesh generation using field-guided polyhedral agglomeration"
+    },
+    {
+      "paperId": "60de737fa003cb32ee9be7763349b3df95734718",
+      "title": "Glyph\u2010Based Comparative Stress Tensor Visualization in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "a9a4bcfb63a8bef363475da6b4bac95f025a0062",
+      "title": "Does the DSA reconstruction kernel affect hemodynamic predictions in intracranial aneurysms? An analysis of geometry and blood flow variations"
+    },
+    {
+      "paperId": "82ba57321f74ab2fcf78f1e2af06a08c7345fc42",
+      "title": "The incompressibility assumption in computational simulations of nasal airflow"
+    },
+    {
+      "paperId": "9ead55e0f201b9f603651f719aa182e9316a3f54",
+      "title": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "d7ffef1cb0cf837367e9b6a2db6d2f37ba441cce",
+      "title": "Line density control in screen-space via balanced line hierarchies"
+    },
+    {
+      "paperId": "fa32b61c55f9aaff3aaa6d93ec8a067644988c1d",
+      "title": "Patient-Specific Simulation of Cardiac Blood Flow From High-Resolution Computed Tomography."
+    },
+    {
+      "paperId": "d94f3a2520e9fcc344e17919d45c37c717e0fd05",
+      "title": "Effectiveness of Feature-Driven Storytelling in 3D Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "4a11535d45fe81fc375dcb940fb196ea762f6cb8",
+      "title": "Coherence Maps for Blood Flow Exploration"
+    },
+    {
+      "paperId": "062cbfb92a6c2142ad2df001d58aa5a4c6b8922a",
+      "title": "Semi-Immersive 3D Sketching of Vascular Structures for Medical Education"
+    },
+    {
+      "paperId": "b7d6ae85f0de2caa2d49e3e4cd2c5b13a27ea5ae",
+      "title": "A Framework for Fast Initial Exploration of PC-MRI Cardiac Flow"
+    },
+    {
+      "paperId": "27a0c33327bbd4edbecc50504a9c72dccc788341",
+      "title": "Temporal Interpolation of 4D PC-MRI Blood-flow Measurements Using Bidirectional Physics-based Fluid Simulation"
+    },
+    {
+      "paperId": "19ea515ce7142ae07c8573954baeaeccd703d3d0",
+      "title": "Automatic Abdominal Aortic Aneurysm segmentation in MR images"
+    },
+    {
+      "paperId": "6fcab9dd3ac30ff9b7c68ff310a433a5a49bfafa",
+      "title": "Regional Mapping of Flow and Wall Characteristics of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "6874dcf6db1c84a0eb06c48bf5af35ba4e632774",
+      "title": "Towards direct numerical simulations of low-Mach number turbulent reacting and two-phase flows using immersed boundaries"
+    },
+    {
+      "paperId": "6f827e4bec37dfcc412fb54ec328f0dda4a851f0",
+      "title": "Semi\u2010automatic Vortex Flow Classification in 4D PC\u2010MRI Data of the Aorta"
+    },
+    {
+      "paperId": "4996a6d54b087c1f41e020476bdf65531efeca79",
+      "title": "Interactive 4D MRI blood flow exploration and analysis using line predicates"
+    },
+    {
+      "paperId": "663db486dc959b8fc884439939494d4a8a4cef56",
+      "title": "Unstructured hexahedral mesh generation of complex vascular trees using a multi-block grid-based approach"
+    },
+    {
+      "paperId": "a1ea7449ec4f51fb54cff7b8585fbf0daeea8b56",
+      "title": "Phase unwrapping in 4D MR flow with a 4D single\u2010step laplacian algorithm"
+    },
+    {
+      "paperId": "9b16f5141d77c1af2c16d173846a106997b01ea5",
+      "title": "4D flow MRI can detect subtle right ventricular dysfunction in primary left ventricular disease"
+    },
+    {
+      "paperId": "cd30f88409a7df52dcd8f52952d4ae7a6704458e",
+      "title": "Shape\u2010aware surface reconstruction from sparse 3D point\u2010clouds"
+    },
+    {
+      "paperId": "7db0a37d091f5189fc2d21aa700fc69e63c3e7a9",
+      "title": "Robust Cardiac Function Assessment in 4D PC\u2010MRI Data of the Aorta and Pulmonary Artery"
+    },
+    {
+      "paperId": "3210cabbd3720c774d5c78ce75879a555dcc07cc",
+      "title": "Motion-aware stroke volume quantification in 4D PC-MRI data of the human aorta"
+    },
+    {
+      "paperId": "6d336e7e9af52d7886db2e8a8d74afc92c7b7f8a",
+      "title": "Cluster Analysis of Vortical Flow in Simulations of Cerebral Aneurysm Hemodynamics"
+    },
+    {
+      "paperId": "9b3c94bc79665d1c3d94592dff9654167a346077",
+      "title": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "55892c0485e9f9803120b629c03a10d1d1b4d39a",
+      "title": "Computational modeling of cardiac hemodynamics: Current status and future outlook"
+    },
+    {
+      "paperId": "40fb69b8e9c0ac613e73adbd197f017d2b6deac6",
+      "title": "Accelerating 4D flow MRI by exploiting vector field divergence regularization"
+    },
+    {
+      "paperId": "ef5395266bfd4fbb2dd419f1fe49d33f54926ccd",
+      "title": "The Computational Fluid Dynamics Rupture Challenge 2013--Phase II: Variability of Hemodynamic Simulations in Two Intracranial Aneurysms."
+    },
+    {
+      "paperId": "2474a8d9a0369f0ff07eec851bcc80b40d899833",
+      "title": "An automatic CFD-based flow diverter optimization principle for patient-specific intracranial aneurysms."
+    },
+    {
+      "paperId": "16c89032f3c15d65ddbdd83ffc035d8b3c3b6ca6",
+      "title": "Illustrative Visualization of Vascular Models for Static 2D Representations"
+    },
+    {
+      "paperId": "e0be79cb938d4bd560bf2c03422448cd68825017",
+      "title": "Computer-Aided Detection and Quantification of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "942d54ce7537cc7cf538c0a3c464f2e75793a4a8",
+      "title": "A Survey of Cardiac 4D PC\u2010MRI Data Processing"
+    },
+    {
+      "paperId": "e116fc3c7daa29430793834b985ffbaafb8774fe",
+      "title": "4D flow cardiovascular magnetic resonance consensus statement"
+    },
+    {
+      "paperId": "d321ac70059577d2bc5652a25d3c6e42e37bc516",
+      "title": "MRI\u2010based computational fluid dynamics for diagnosis and treatment prediction: Clinical validation study in patients with coarctation of aorta"
+    },
+    {
+      "paperId": "598405eaba96f587cba3a425317d84a1c3d937db",
+      "title": "Sketching 2D Vessels and Vascular Diseases with Integrated Blood Flow"
+    },
+    {
+      "paperId": "d94f55f8dfb3fc9aeb2c2ed863fbb92f0529299c",
+      "title": "Quantitative Assessment of Turbulence and Flow Eccentricity in an Aortic Coarctation: Impact of Virtual Interventions"
+    },
+    {
+      "paperId": "186756476e268116b2d0dae5dc7d9ee9f8724d75",
+      "title": "Multiscale 3-D + t Intracranial Aneurysmal Flow Vortex Detection"
+    },
+    {
+      "paperId": "0929ddb5fbf91da8057299311533f540aae5a5e2",
+      "title": "Dynamics of airflow in a short inhalation"
+    },
+    {
+      "paperId": "a093189a2193738a78a0849be7908af7e0f81634",
+      "title": "Combined Visualization of Wall Thickness and Wall Shear Stress for the Evaluation of Aneurysms"
+    },
+    {
+      "paperId": "8293905d41993b24ca9508981f530917d266eed0",
+      "title": "Identification of vessel wall degradation in ascending thoracic aortic aneurysms with OCT."
+    },
+    {
+      "paperId": "04d0a12fec2aef591ec8c3430895ee79311ca9d6",
+      "title": "Systolic Flow Displacement Correlates With Future Ascending Aortic Growth in Patients With Bicuspid Aortic Valves Undergoing Magnetic Resonance Surveillance"
+    },
+    {
+      "paperId": "075c3cb4861b48bd27ade7000c17b53b8e46e42c",
+      "title": "Indirect unstructured hex-dominant mesh generation using tetrahedra recombination"
+    },
+    {
+      "paperId": "fbcdef8ba1725c91c0f572cb338920c3c1768dbc",
+      "title": "Review of computational fluid dynamics in the assessment of nasal air flow and analysis of its limitations"
+    },
+    {
+      "paperId": "4b4e72881a2b783388459e02107ebfa156458fde",
+      "title": "Influence of eddy current, Maxwell and gradient field corrections on 3D flow visualization of 3D CINE PC\u2010MRI data"
+    },
+    {
+      "paperId": "7cbd5f61f0e52b37adfe9662e3c4f66731a228c4",
+      "title": "High WSS or Low WSS? Complex Interactions of Hemodynamics with Intracranial Aneurysm Initiation, Growth, and Rupture: Toward a Unifying Hypothesis"
+    },
+    {
+      "paperId": "e9ce4685cc6f4006b07ed02ab4d52c6757c4f153",
+      "title": "Improving Blood Flow Simulations by Incorporating Measured Subject-Specific Wall Motion"
+    },
+    {
+      "paperId": "408c76ac1d53206926e42e1378b84bb1cd84dffa",
+      "title": "4D MRI Flow Coupled to Physics\u2010Based Fluid Simulation for Blood\u2010Flow Visualization"
+    },
+    {
+      "paperId": "cdc41559897d158b02581bd2ed89c983d9ddad89",
+      "title": "What is normal nasal airflow? A computational study of 22 healthy adults"
+    },
+    {
+      "paperId": "be3168293928d75d5b8fe0e7887891823725db9e",
+      "title": "Comparative Blood Flow Visualization for Cerebral Aneurysm Treatment Assessment"
+    },
+    {
+      "paperId": "4d2ebe10dbc424c670ea39b841c77f7b5aae9d7e",
+      "title": "Adaptive Surface Visualization of Vessels with Animated Blood Flow"
+    },
+    {
+      "paperId": "7c502ace8e6feb509aab36b34c1d53aab0c98806",
+      "title": "Analysis of hemodynamics and wall mechanics at sites of cerebral aneurysm rupture"
+    },
+    {
+      "paperId": "457c61cf91f5f41bef4b416e05a1722a412145b1",
+      "title": "Blood Flow Clustering and Applications inVirtual Stenting of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "2a0a6fb10d4f57477f1ae3d3837f25f195eb3c5b",
+      "title": "4D flow imaging with MRI."
+    },
+    {
+      "paperId": "c8a2211706b0e835e86002bcb0cb2a9d86d6d08f",
+      "title": "An Evaluation of Depth Enhancing Perceptual Cues for Vascular Volume Visualization in Neurosurgery"
+    },
+    {
+      "paperId": "1da43b6295c06f7fd3358bd3725816e7e904812a",
+      "title": "Bicuspid Aortic Cusp Fusion Morphology Alters Aortic Three-Dimensional Outflow Patterns, Wall Shear Stress, and Expression of Aortopathy"
+    },
+    {
+      "paperId": "527a53178fe5238c926f1744885d0933aea9635a",
+      "title": "Visual Exploration of Cardiovascular Hemodynamics"
+    },
+    {
+      "paperId": "26c1ef1a38ff3d77d0e81d2a960a1237e0e5ac33",
+      "title": "Quantifying the Large-Scale Hemodynamics of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "8e6270459448e878e765f6c0f4b8dc27a9f2eab3",
+      "title": "Growth of Nasal and Laryngeal Airways in Children: Implications in Breathing and Inhaled Aerosol Dynamics"
+    },
+    {
+      "paperId": "ec840192bd3aea6a52ec5088dc369fc2e322825e",
+      "title": "DLC1 suppresses NF-\u03baB activity in prostate cancer cells due to its stabilizing effect on adherens junctions"
+    },
+    {
+      "paperId": "8179da98a49c0a6ecd0bce7955de4398cebc26cc",
+      "title": "Acceleration feature points of unsteady shear flows"
+    },
+    {
+      "paperId": "f5d6aa14e371ceb9eab8b570779f1e4c52390256",
+      "title": "Large-scale CFD simulations of airflow and particle deposition in lung airway"
+    },
+    {
+      "paperId": "03198ebfea4533129c5301ea74618fd88fcb71fe",
+      "title": "Interactive Mesh Smoothing for Medical Applications"
+    },
+    {
+      "paperId": "413d0a5af05b65fa6ff1a452dd23495f166522be",
+      "title": "Interactive Patient-Specific Vascular Modeling with Sweep Surfaces"
+    },
+    {
+      "paperId": "657812505527a4270a46ad1c386c0b248c7f1e0f",
+      "title": "Understanding Blood-Flow Dynamics: New Challenges for Visualization"
+    },
+    {
+      "paperId": "d2a751fae579f25807d49904451ec71cf6c3862a",
+      "title": "Semi-Automatic Vortex Extraction in 4D PC-MRI Cardiac Blood Flow Data using Line Predicates"
+    },
+    {
+      "paperId": "6626587c8d9f59c4c4fadf1d0ffa8158e7038d4c",
+      "title": "Fluid mechanics based classification of the respiratory efficiency of several nasal cavities"
+    },
+    {
+      "paperId": "460d61297afcc32e5e0253b7915eafa293c3a696",
+      "title": "Vortex Dynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "83fd5fdc305dcdb2dd3e341b738e292ae5e72cfe",
+      "title": "Illustrative visualization of cardiac and aortic blood flow from 4D MRI data"
+    },
+    {
+      "paperId": "dce92eceb35b7d4a68d6a43bc1547514aa79f5f3",
+      "title": "Opacity optimization for 3D line fields"
+    },
+    {
+      "paperId": "b8f513a6f84eff8b0542d16479a068e57f819253",
+      "title": "CFD Modelling of Abdominal Aortic Aneurysm on Hemodynamic Loads Using a Realistic Geometry with CT"
+    },
+    {
+      "paperId": "9e585c0e04c7d27fa71c812aaf287193d132dadd",
+      "title": "Recommendations for accurate numerical blood flow simulations of stented intracranial aneurysms"
+    },
+    {
+      "paperId": "fcd2834955594607bf4eafdf655a6f576e9e7121",
+      "title": "Nonparametric Models for Uncertainty Visualization"
+    },
+    {
+      "paperId": "ac68247f9491d52fae42f566c897dfccdce249a8",
+      "title": "Visual Analysis of Cardiac 4D MRI Blood Flow Using Line Predicates"
+    },
+    {
+      "paperId": "ae5ff64d414972667c21c3442f339b967b4bb45a",
+      "title": "Streamlines for Illustrative Real\u2010Time Rendering"
+    },
+    {
+      "paperId": "a5eca997fb4418e7b93301cb30d48ed4e15531a8",
+      "title": "AmniVis \u2013 A System for Qualitative Exploration of Near\u2010Wall Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "7c2e52dba6b4cc9ff1ca3b43f485b77b49d0d5d7",
+      "title": "Spatio-temporal regularization of flow-fields"
+    },
+    {
+      "paperId": "d76da34172c03ed7ff8287e0ea171e349e445632",
+      "title": "Evaluation of the Intranasal Flow Field through Computational Fluid Dynamics"
+    },
+    {
+      "paperId": "27e8da8097fe9f4a574bede392c8fc766ebc02ed",
+      "title": "The Concept of Rhinorespiratory Homeostasis\u2014A New Approach to Nasal Breathing"
+    },
+    {
+      "paperId": "a75bd9b5689c0a5df3887d3cc54e17ee7167ae39",
+      "title": "Intra-Aneurysmal Pressure and Flow Changes Induced by Flow Diverters: Relation to Aneurysm Size and Shape"
+    },
+    {
+      "paperId": "6c4877823f96190f22cce80272daf7435489afb2",
+      "title": "LineAO - Improved Three-Dimensional Line Rendering"
+    },
+    {
+      "paperId": "6662760fbd76b67c2a8dc0112e7af6044b641f15",
+      "title": "Skeletal Representations and Applications"
+    },
+    {
+      "paperId": "e5fd5c4507728acecef54373464f20c0d6ac90ff",
+      "title": "Realistic virtual intracranial stenting and computational fluid dynamics for treatment analysis."
+    },
+    {
+      "paperId": "aefc188775a49d8ee7ce1960c89ee3e47e46679f",
+      "title": "Automatic Detection and Visualization of Qualitative Hemodynamic Characteristics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "f2ebe4b63b98a8822deda81835e0234eed2c11fb",
+      "title": "Visual Exploration of Simulated and Measured Blood Flow"
+    },
+    {
+      "paperId": "1b8047640340aad1e913651aec8829a7564d9d1e",
+      "title": "Flow structures in cerebral aneurysms"
+    },
+    {
+      "paperId": "becc6a3641552579f23499972de2590c08b10117",
+      "title": "CorrespondenceResearch CorrespondenceImaging Biomarkers of Aortic Disease: Increased Growth Rates With Eccentric Systolic Flow"
+    },
+    {
+      "paperId": "b1a27eca5139e7cc30ca62f95488871293b28153",
+      "title": "Automatic generation of anatomic characteristics from cerebral aneurysm surface models"
+    },
+    {
+      "paperId": "912aa5f72eacf858d943fd425ed465a15eaad6b1",
+      "title": "Assessment of the accuracy of MRI wall shear stress estimation using numerical simulations"
+    },
+    {
+      "paperId": "e035424dcccc6a09e3b054a02ece9e63b0b88ab6",
+      "title": "Probabilistic Local Features in Uncertain Vector Fields with Spatial Correlation"
+    },
+    {
+      "paperId": "7fce91902221279369d8ddf587874fda5d51e49b",
+      "title": "Analysis of Time-Dependent Flow-Sensitive PC-MRI Data"
+    },
+    {
+      "paperId": "2313d7a84bd43e8523603e1a7e30e3549cd9e280",
+      "title": "Visualization of 4D Blood\u2010Flow Fields by Spatiotemporal Hierarchical Clustering"
+    },
+    {
+      "paperId": "f5e1c572346dbe0fd99ff7f739861f0580f7a581",
+      "title": "Guidelines for the Management of Aneurysmal Subarachnoid Hemorrhage: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association"
+    },
+    {
+      "paperId": "20f3d27fb00440acbdcfd59d04facc940c13faab",
+      "title": "Automatic Neck Plane Detection and 3D Geometric Characterization of Aneurysmal Sacs"
+    },
+    {
+      "paperId": "83a2c324d2cc03a441c62f55635b8d6ce7475589",
+      "title": "Statistical wall shear stress maps of ruptured and unruptured middle cerebral artery aneurysms"
+    },
+    {
+      "paperId": "5707a823d62819f2aea4fa6235712adbd2084a92",
+      "title": "Cerebral aneurysm wall thickness analysis using intraoperative microscopy: effect of size and gender on thin translucent regions"
+    },
+    {
+      "paperId": "602b6814f090672fc8613c3df74e2c31a34b5e28",
+      "title": "Numerical simulation of normal nasal cavity airflow in Chinese adult: a computational flow dynamics model"
+    },
+    {
+      "paperId": "d8838b0441c63e4b1587a4b2365fe168f1eef970",
+      "title": "Automated segmentation of blood-flow regions in large thoracic arteries using 3D-cine PC-MRI measurements"
+    },
+    {
+      "paperId": "9cb2abdb915a41fcd8ac58088d4eb3a1fcbdc31d",
+      "title": "4D cardiovascular magnetic resonance velocity mapping of alterations of right heart flow patterns and main pulmonary artery hemodynamics in tetralogy of Fallot"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "62e9be7e7bc98298f00500d56985b1bf13ae7872",
+      "title": "Saccular intracranial aneurysm: pathology and mechanisms"
+    },
+    {
+      "paperId": "aa677dc065c84a5fbbd06935512f97f893292a9d",
+      "title": "Interactive Virtual Probing of 4D MRI Blood-Flow"
+    },
+    {
+      "paperId": "07e15bf420c69bffc19363d9444d15e4dc3ca4cc",
+      "title": "Straightening Tubular Flow for Side-by-Side Visualization"
+    },
+    {
+      "paperId": "f93795470c4aa5dd31002890521dcd32f2d1e47e",
+      "title": "The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "20bbefa618480f8e35783b2031f539cbcccc7c9f",
+      "title": "In Vivo Validation of Numerical Prediction for Turbulence Intensity in an Aortic Coarctation"
+    },
+    {
+      "paperId": "64908b61da921cb4c78dd96e4cd1b93795f04448",
+      "title": "Biomechanical wall properties of human intracranial aneurysms resected following surgical clipping (IRRAs Project)."
+    },
+    {
+      "paperId": "9b4beec4f30afa211a61e95cffb3c474aeb8a3ef",
+      "title": "Detection of Pulsation in Ruptured and Unruptured Cerebral Aneurysms by Electrocardiographically Gated 3-Dimensional Computed Tomographic Angiography With a 320-Row Area Detector Computed Tomography and Evaluation of Its Clinical Usefulness"
+    },
+    {
+      "paperId": "d3bd1b2e32ee28a844adfd036d934e99100a2a42",
+      "title": "Wall Shear Stress Distribution Inside Growing Cerebral Aneurysm"
+    },
+    {
+      "paperId": "aa90c1ea2f925bb313bec2d96a07595f12927c14",
+      "title": "Intracranial aneurysms: from vessel wall pathology to therapeutic approach"
+    },
+    {
+      "paperId": "34611d68df5cf26e8a559a6cd37efb676714c42b",
+      "title": "\u201cReal-world\u201d comparison of non-invasive imaging to conventional catheter angiography in the diagnosis of cerebral aneurysms"
+    },
+    {
+      "paperId": "61a3f34c846dbbf9318ab42d9af527a6047f5bd4",
+      "title": "Blood Flow Computation in Phase-Contrast MRI by Minimal Paths in Anisotropic Media"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "59a339d37c2d6ba8d6711c022a529a796d899f0c",
+      "title": "Prevalence of unruptured intracranial aneurysms, with emphasis on sex, age, comorbidity, country, and time period: a systematic review and meta-analysis"
+    },
+    {
+      "paperId": "de1d0fffe9e19deee123ef9f3de63c00eb4fa7d6",
+      "title": "Variational enhancement and denoising of flow field images"
+    },
+    {
+      "paperId": "b125099771547ef89dc726a8adc7dd1fcd29989f",
+      "title": "Anatomy\u2010Guided Multi\u2010Level Exploration of Blood Flow in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "c76350c8aa582efd44999fb6cd27b9af8237b40f",
+      "title": "Automatic Aneurysm Neck Detection Using Surface Voronoi Diagrams"
+    },
+    {
+      "paperId": "850916f86e5a35f0035c99ebced82685c6b25c64",
+      "title": "Aortic Hemodynamics in Patients With and Without Repair of Aortic Coarctation: In Vivo Analysis by 4D Flow-Sensitive Magnetic Resonance Imaging"
+    },
+    {
+      "paperId": "8d10f81f832aba47211052c44cdd53d84eb83010",
+      "title": "Uncertain topology of 3D vector fields"
+    },
+    {
+      "paperId": "ec838cea898e751c7a956379a6c4fa7094dc5b15",
+      "title": "Fast interactive exploration of 4D MRI flow data"
+    },
+    {
+      "paperId": "640ab650e6c174263b0e22c9a26ed8c91a9f48bd",
+      "title": "Association of Hemodynamic Characteristics and Cerebral Aneurysm Rupture"
+    },
+    {
+      "paperId": "26805a403c306bc953a17cf1b152288cdb66c8a2",
+      "title": "Comprehensive 4D velocity mapping of the heart and great vessels by cardiovascular magnetic resonance"
+    },
+    {
+      "paperId": "33669a9ccac72a1ec0e9f05337dc2f39d0bc4dba",
+      "title": "Quantitative Characterization of the Hemodynamic Environment in Ruptured and Unruptured Brain Aneurysms"
+    },
+    {
+      "paperId": "629c5d46ea3001c96d1ad6872da1c9369d4b5d39",
+      "title": "Exploration of 4D MRI Blood Flow using Stylistic Visualization"
+    },
+    {
+      "paperId": "d85c4618c7a0a9a37f7f4ac68690607b7421fc92",
+      "title": "Probabilistic 4D Blood Flow Mapping"
+    },
+    {
+      "paperId": "486a3ef32109aa18c08ddbafceca7154816c7953",
+      "title": "In Vitro Study of Near-Wall Flow in a Cerebral Aneurysm Model with and without Coils"
+    },
+    {
+      "paperId": "b8a70e59fe99a9d7d5d74bfa40b57f2b7d8f804e",
+      "title": "Modeling the Fluid Dynamics in a Human Stomach to Gain Insight of Food Digestion"
+    },
+    {
+      "paperId": "9a07493970af8b8252b08542369460c888131167",
+      "title": "Adapted Surface Visualization of Cerebral Aneurysms with Embedded Blood Flow Information"
+    },
+    {
+      "paperId": "8cf4beb075723ccfbc2c4bb427a07c4cef2c69db",
+      "title": "Essential Computational Fluid Dynamics"
+    },
+    {
+      "paperId": "f7710fbcb69e6d704dc7475278559fffaefaa090",
+      "title": "Bicuspid aortic valve: four-dimensional MR evaluation of ascending aortic systolic flow patterns."
+    },
+    {
+      "paperId": "8159f80fdb363daaccd3a6f39723ac134ac6ab5b",
+      "title": "Hemodynamics and Bleb Formation in Intracranial Aneurysms"
+    },
+    {
+      "paperId": "4eedd1077adebfe099cc4b3f4b4a431bba8be472",
+      "title": "Design and validation of Segment - freely available software for cardiovascular image analysis"
+    },
+    {
+      "paperId": "294dd05a7c0077d33936b89f7c918967a622762f",
+      "title": "A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes"
+    },
+    {
+      "paperId": "0d4ce15d901ae49f4b2e09b9d7d93efa9ee349e6",
+      "title": "Visual Exploration of Nasal Airflow"
+    },
+    {
+      "paperId": "14d3bed451f2f5d79f6858ca94efd4d0982e075f",
+      "title": "Adaptive Tetrahedral Meshing for Personalized Cardiac Simulations"
+    },
+    {
+      "paperId": "b70e11cb351a37bcaa2d999ed47a4ad04b24edc8",
+      "title": "Simulation of intracranial aneurysm stenting: Techniques and challenges"
+    },
+    {
+      "paperId": "7f9de58f8d20e11a303973adf0729ee5b632044f",
+      "title": "Statistical shape models for 3D medical image segmentation: A review"
+    },
+    {
+      "paperId": "411abe9490b974711957708885c39275901a4c11",
+      "title": "Wall-PIV as a near wall flow validation tool for CFD: Application in a pathologic vessel enlargement (aneurysm)"
+    },
+    {
+      "paperId": "5305cdce70b44eba1a05b8950e1f3b321d6ab51a",
+      "title": "Map Displays for the Analysis of Scalar Data on Cerebral Aneurysm Surfaces"
+    },
+    {
+      "paperId": "d5889c1c0b0078e01913fde68dd63ea972199131",
+      "title": "Cardiac Flow Analysis Applied to Phase Contrast Magnetic Resonance Imaging of the Heart"
+    },
+    {
+      "paperId": "cb0bd26d32c6036e298eadfc44d4bf3507bdc2e3",
+      "title": "A Model of Airflow in the Nasal Cavities: Implications for Nasal Air Conditioning and Epistaxis"
+    },
+    {
+      "paperId": "a10038bcd0766837783c82ac15ab4cee333d146b",
+      "title": "Methodologies to assess blood flow in cerebral aneurysms: current state of research and perspectives."
+    },
+    {
+      "paperId": "4dc3093bef34e1959275d1a93d37128feadee301",
+      "title": "Phase\u2010contrast magnetic resonance imaging measurements in intracranial aneurysms in vivo of flow patterns, velocity fields, and wall shear stress: Comparison with computational fluid dynamics"
+    },
+    {
+      "paperId": "d2be293f929b6bbfc199601ef2d99cb1196f5d68",
+      "title": "Blood flow dynamics and fluid\u2013structure interaction in patient\u2010specific bifurcating cerebral aneurysms"
+    },
+    {
+      "paperId": "5283225006b904f211cfe3039b021c8fe1e3d69e",
+      "title": "Digital particle image velocimetry studies of nasal airflow"
+    },
+    {
+      "paperId": "da59de0fc7d3000d26d2c473e5ab7a5d72d3d87f",
+      "title": "An image-based modeling framework for patient-specific computational hemodynamics"
+    },
+    {
+      "paperId": "b2be66e9e1156414c15d09fce6afc413c29bcb3b",
+      "title": "Visualizing Particle/Flow Structure Interactions in the Small Bronchial Tubes"
+    },
+    {
+      "paperId": "ddf9df680dd8a9d51c9f2251bc267e2a12e97ca1",
+      "title": "Nasal architecture: form and flow"
+    },
+    {
+      "paperId": "a50bf0784760111ee1864e0a37971339419a6b50",
+      "title": "MORPHOLOGY PARAMETERS FOR INTRACRANIAL ANEURYSM RUPTURE RISK ASSESSMENT"
+    },
+    {
+      "paperId": "f5af3c75f601add2d5326a4b33247c566b31d3b5",
+      "title": "Experimental investigation of nasal airflow"
+    },
+    {
+      "paperId": "b66934c31fce54a7e782afb7bfecfc39e2dc73c9",
+      "title": "Toward a Perceptual Theory of Flow Visualization"
+    },
+    {
+      "paperId": "a23f839840c8f1ed8d9586ba0d5a5c2b232e84a0",
+      "title": "3D Reconstruction of Individual Anatomy from Medical Image Data: Segmentation and Geometry Processing"
+    },
+    {
+      "paperId": "3201c336a3c891819b16d1caf08c893e855f18ff",
+      "title": "Comparison of flow patterns in ascending aortic aneurysms and volunteers using four\u2010dimensional magnetic resonance velocity mapping"
+    },
+    {
+      "paperId": "1cb340583541bc5eaa4218eb8c7bea1738285360",
+      "title": "Atrophic rhinitis: a CFD study of air conditioning in the nasal cavity."
+    },
+    {
+      "paperId": "2a16d00593232cf5bae17fcd775108da389f7630",
+      "title": "Subarachnoid haemorrhage"
+    },
+    {
+      "paperId": "fb3e4222f0e94580622c9ecd230c055c0125d07b",
+      "title": "Time-resolved, 3-Dimensional Magnetic Resonance Flow Analysis at 3 T: Visualization of Normal and Pathological Aortic Vascular Hemodynamics"
+    },
+    {
+      "paperId": "4a08dd1aa3ba051fc152ef3f7e29727a2fa885e2",
+      "title": "Streamline Predicates"
+    },
+    {
+      "paperId": "b8704a10aef7859db5ff204edb5d52ebf650d38c",
+      "title": "Variational sphere set approximation for solid objects"
+    },
+    {
+      "paperId": "155898abc738c3a135091b0a1e9c14fbdbcea54e",
+      "title": "Efficient anisotropic adaptive discretization of the cardiovascular system"
+    },
+    {
+      "paperId": "3f5bcd1930d03c5663f7823b95893520a1325da7",
+      "title": "Investigation of the impact of the geometry on the nose flow"
+    },
+    {
+      "paperId": "bb138a27cfe0d519a7f28b0528941a632d726cd4",
+      "title": "Nasal Air Temperature and Airflow during Respiration in Numerical Simulation Based on Multislice Computed Tomography Scan"
+    },
+    {
+      "paperId": "ffdb0254bb9e83b0b087327e7c43c14a072ff28e",
+      "title": "An overview of numerical modelling of nasal airflow."
+    },
+    {
+      "paperId": "872283f73c7ff887bb39c7498cdfe21f052790f9",
+      "title": "Endovascular Coiling Versus Neurosurgical Clipping for Patients With Aneurysmal Subarachnoid Hemorrhage"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "b0d06108e09754679a12dacf29b83318ea99774d",
+      "title": "Topology-preserving simplification of 2D nonmanifold meshes with embedded structures"
+    },
+    {
+      "paperId": "680bc0fb4b5716c07d5378c46b4ed4cebbc69086",
+      "title": "Efficient pipeline for image-based patient-specific analysis of cerebral aneurysm hemodynamics: technique and sensitivity"
+    },
+    {
+      "paperId": "4fc5ea999809a138f97a7a847f8e00f58d971d5a",
+      "title": "Quantified aneurysm shape and rupture risk."
+    },
+    {
+      "paperId": "6a0c11ecba8f4b42b640be462c427a272aa5837f",
+      "title": "Numerical simulation of air temperature and airflow patterns in the human nose during expiration."
+    },
+    {
+      "paperId": "c5a9c31c63afa8ca1859b211979dcb18a3ce7ca8",
+      "title": "Magnitude and Role of Wall Shear Stress on Cerebral Aneurysm: Computational Fluid Dynamic Study of 20 Middle Cerebral Artery Aneurysms"
+    },
+    {
+      "paperId": "489f6aa2ec8986940aef5c7d554700036204121a",
+      "title": "Fast Noncontinuous Path Phase-Unwrapping Algorithm Based on Gradients and Mask"
+    },
+    {
+      "paperId": "ebe25d4969440d84f74c29a1503e430e3780168a",
+      "title": "Intracranial aneurysms: evaluation using CTA and MRA. Correlation with DSA and intraoperative findings"
+    },
+    {
+      "paperId": "ae911aad67a17b38e95a15a132d3f175f8a26e82",
+      "title": "Numerical simulation of airflow in the human nose"
+    },
+    {
+      "paperId": "68da2fb27aa73563f0029423c3252c40b5e14b6f",
+      "title": "A technique for improved quantitative characterization of intracranial aneurysms."
+    },
+    {
+      "paperId": "54321daae05b0aefa5349be3832d533b505a3535",
+      "title": "Evaluation of the human airway with multi-detector x-ray-computed tomography and optical imaging."
+    },
+    {
+      "paperId": "42f86828133c8a420a2a14e91e5aa0cb61dce948",
+      "title": "Automatic adjustment of bidimensional transfer functions for direct volume visualization of intracranial aneurysms"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "a6ee26baeb100e23367701ed318436bc40ac7142",
+      "title": "Enhanced 3D-Visualization of Intracranial Aneurysms Involving the Skull Base"
+    },
+    {
+      "paperId": "8634d2b511b6123b898948711c3de8daca2504c6",
+      "title": "Multiple material marching cubes algorithm"
+    },
+    {
+      "paperId": "e2d5558fe021b20368660b33e0aeb5f60ffb1bb2",
+      "title": "The aspect ratio (dome/neck) of ruptured and unruptured aneurysms."
+    },
+    {
+      "paperId": "c04025b3b7651e349b4d233b58528dc9995dfacc",
+      "title": "Suggestive contours for conveying shape"
+    },
+    {
+      "paperId": "0a047aca09cc5f9c2d7c6ce5b453a9626b2a8cb0",
+      "title": "Computational geometry for patient-specific reconstruction and meshing of blood vessels from MR and CT angiography"
+    },
+    {
+      "paperId": "05c776880af4dab0235270052fb32fe19420f8a3",
+      "title": "Geometry and Topology for Mesh Generation"
+    },
+    {
+      "paperId": "ae8f105dc43e014084788b128835a41b26d5e16d",
+      "title": "Particle trace visualization of intracardiac flow using time\u2010resolved 3D phase contrast MRI"
+    },
+    {
+      "paperId": "4bc9f6afbcd60e1acef51016001f660bc58cfd01",
+      "title": "MESH GRADATION CONTROL"
+    },
+    {
+      "paperId": "7ed3c40ed16100fd91026721723bed52c6cfc449",
+      "title": "Fast Analysis of Intracranial Aneurysms Based on Interactive Direct Volume Rendering and CTA"
+    },
+    {
+      "paperId": "d52bba7ad758e30773c83e9dbe8b1b5d5e4f1cc6",
+      "title": "Visualizing blood flow patterns using streamlines, arrows, and particle paths"
+    },
+    {
+      "paperId": "b87390783b11bd0fd25e44bda87c7fb6313207a4",
+      "title": "GENERATION AND OPTIMIZATION OF TETRAHEDRAL MESHES BY ADVANCING FRONT TECHNIQUE"
+    },
+    {
+      "paperId": "e343206f9dc72f8a637db2c847b5878f22731950",
+      "title": "Computing the separating surface for segmented data"
+    },
+    {
+      "paperId": "37eaaea7223feb9f2f883092b1db83382d513b0e",
+      "title": "Surface simplification using quadric error metrics"
+    },
+    {
+      "paperId": "406d3549705a0d07d3b84cb4cbfc660d2e5e56cf",
+      "title": "NETGEN An advancing front 2D/3D-mesh generator based on abstract rules"
+    },
+    {
+      "paperId": "eed128748112df1b38af3b07ad4ec06e9ade051c",
+      "title": "A Generalized Marching Cubes Algorithm Based On Non-Binary Classifications"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "27c362a7fa21ead819b663601a95880fd75d09ce",
+      "title": "Polygonization of non-manifold implicit surfaces"
+    },
+    {
+      "paperId": "cd6f3c9a30f50565c7845f241aa6730b8b4522df",
+      "title": "Automatic mesh generation over intersecting surfaces"
+    },
+    {
+      "paperId": "7f0a37725a836b3460a4e1a67a2b66dc69800a36",
+      "title": "Two-equation eddy-viscosity turbulence models for engineering applications"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "002c9c6329462c70cf53ebdf7c35cab4c48dcc41",
+      "title": "Blood flow patterns in the human aorta studied by magnetic resonance."
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "602d4eeb9b61b2ee03613cdd8f43ce095dc46d2a",
+      "title": "Normal Nasal Resistance"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "52f03823e54160013e67ae5f20e30552e6305a66",
+      "title": "Automatic Viewpoint Selection for Exploration of Time-Dependent Cerebral Aneurysm Data"
+    },
+    {
+      "paperId": null,
+      "title": "Grid Generation Methods (3rd edition)"
+    },
+    {
+      "paperId": "57cac057acd1ed69bb9f23bfc1d5ba06f1bd2dda",
+      "title": "Statistical Shape Modeling of Musculoskeletal Structures and Its Applications"
+    },
+    {
+      "paperId": "1c1546ff1230308b6c62a5c6518f246902684ae7",
+      "title": "Adaptive Animations of Vortex Flow Extracted from Cardiac 4D PC-MRI Data"
+    },
+    {
+      "paperId": "96319da455c20c0e7d11540c1593c8a23bf7f891",
+      "title": "Enhancing Visibility of Blood Flow in Volume Rendered Cardiac 4D PC-MRI Data"
+    },
+    {
+      "paperId": "10e8dca54641eae894d8b4eac7cab78b26d7410d",
+      "title": "Clustering of Aortic Vortex Flow in Cardiac 4D PC-MRI Data"
+    },
+    {
+      "paperId": "a15b466814c34ae2886d8135c3a90007821e5435",
+      "title": "Evaluation of Time-Dependent Wall Shear Stress Visualizations for Cerebral Aneurysms"
+    },
+    {
+      "paperId": null,
+      "title": "Optical coherence tomography detects structural abnormalitiesof the nasal mucosa in patients with cystic fibrosis"
+    },
+    {
+      "paperId": "baf93c875e89a958f0a36106ad5cde8653b9c694",
+      "title": "Toward numerical simulations of fluid\u2013structure interactions for investigation of obstructive sleep apnea"
+    },
+    {
+      "paperId": "ff43a44cd0153241df7821f1ef560a9d36af3f21",
+      "title": "COMPARISON OF CEREBRAL ANEURYSM FLOW FIELDS OBTAINED FROM CFD AND DSA"
+    },
+    {
+      "paperId": "f9e612640581561b9ee425155aa63a02782cd326",
+      "title": "Extraction of Patient-Specific 3D Cerebral Artery and Wall Thickness Models from 2D OCT and Structured-Light 3D Scanner Data"
+    },
+    {
+      "paperId": "b66d7cea3907576f7eeaa952bb6debe7c732e2cd",
+      "title": "Interactive virtual stent planning for the treatment of coarctation of the aorta"
+    },
+    {
+      "paperId": "a8dfdd4e66989f373bdba12775d330012229d2de",
+      "title": "2D Plot Visualization of Aortic Vortex Flow in Cardiac 4D PC-MRI Data"
+    },
+    {
+      "paperId": "ebe06544306c7bc5f093fa0f702f6fe0082d6a0f",
+      "title": "Three-dimensional Visualization of Relative Pressure in Vascular Structures"
+    },
+    {
+      "paperId": "3b164fd46985c0a8881dc18a4f0f229731976cd2",
+      "title": "Reconstruction of 3D Surface Meshes for Bood Flow Simulations of Intracranial Aneurysms"
+    },
+    {
+      "paperId": "ecbe30e26fad654d722620a64e23c3af18e46040",
+      "title": "Guided Analysis of Cardiac 4D PC-MRI Blood Flow Data"
+    },
+    {
+      "paperId": null,
+      "title": "Evaluation of an optimized post-processing tool for 4D flow MRI data analysis in healthy volunteers and patients with aortic stenosis, aortic insufficiency, and aortic aneurysm"
+    },
+    {
+      "paperId": "4ae1daf6032dc64e5fcb378d092567299e502859",
+      "title": "Characterization of Blood-Flow Patterns from Phase-Contrast MRI Velocity Fields"
+    },
+    {
+      "paperId": "f5e8b117c01a6178ee9e021738e57f23d8cf2410",
+      "title": "Two-Dimensional Plot Visualization of Aortic Vortex Flow in Cardiac 4 D PC-MRI Data"
+    },
+    {
+      "paperId": "d60e2a7819516cac01e8281f2f5ebd08212b2f16",
+      "title": "Coherent View-Dependent Streamlines for Understanding Blood Flow"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "2f2cfa7eaff24147c6bb4332d7c866c6c99c0468",
+      "title": "A Virtual Coiling Technique for Image-Based Aneurysm Models by Dynamic Path Planning"
+    },
+    {
+      "paperId": "8e000ad0afb3bf7a116ef83281723331fa865fd8",
+      "title": "Bicuspid Aortic Cusp Fusion Morphology Alters Aortic 3D Outflow Patterns, Wall Shear Stress and Expression of Aortopathy"
+    },
+    {
+      "paperId": null,
+      "title": "Biofluid Dynamics of Human Body Systems"
+    },
+    {
+      "paperId": "d9e7889c804e4bf7928503771825bbbb3e1fe864",
+      "title": "Physiology and Pathophysiology of Nasal Breathing"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "151bced9b944ea1fe55f849817477eae7eb98f12",
+      "title": "Cerebral Aneurysms: A Patient-Specific and Image-Based Management Pipeline"
+    },
+    {
+      "paperId": "7dbeceb68f04f7994cd7db5c9b721e901af72e09",
+      "title": "A Clustering-based Visualization Technique to Emphasize Meaningful Regions of Vector Fields"
+    },
+    {
+      "paperId": "03b65034b988f5a84ab2bf6de93820299192bb48",
+      "title": "Biomechanical wall properties of human intracranial aneurysms resected following surgical clipping"
+    },
+    {
+      "paperId": null,
+      "title": "Optimization of vascular surface models for computational fluid dynamics and rapid prototyping"
+    },
+    {
+      "paperId": "b895e0b187995644cc652a60989cc776e9af9632",
+      "title": "Geometric Reconstruction of the Ostium of Cerebral Aneurysms"
+    },
+    {
+      "paperId": "5127f53b72f4502ddbd95f3ae4da046181ca2611",
+      "title": "Computational Fluid Dynamics: Contents"
+    },
+    {
+      "paperId": "24615618ee13c9dee2823a64cd38273746502a07",
+      "title": "UvA-DARE ( Digital Academic Repository ) Image processing in vascular computed tomography"
+    },
+    {
+      "paperId": "e95f663a6de58a7f842ff04a57a7c40510987715",
+      "title": "Hemodynamics of Cerebral Aneurysms."
+    },
+    {
+      "paperId": "166ad687a08b84d2cfbdb277ab37811021e76b41",
+      "title": "An objective approach to digital removal of saccular aneurysms: technique and applications."
+    },
+    {
+      "paperId": "c1a2ea94d27b3990ebdef88531b8d671f71e5581",
+      "title": "Coregistration of Wall Shear Stress and Plaque Distribution within the Thoracic Aorta of Acute Stroke Patients"
+    },
+    {
+      "paperId": "2583e6522e62f8521df098cebdd15931603fb26c",
+      "title": "Automatic Generation of Context Visualizations for Cerebral Aneurysms from MRA Datasets"
+    },
+    {
+      "paperId": "ff3f665f419f9bdfdc527ffc39353932750baec6",
+      "title": "Recent Advances in Remeshing of Surfaces"
+    },
+    {
+      "paperId": "310f945620e89e0d91aeeda1ab4488015dda3b7a",
+      "title": "3D Visualization of Vasculature: An Overview"
+    },
+    {
+      "paperId": "a2f17b10f7ec49ae509821c3c78512fd99a2dac8",
+      "title": "The State of the Art in Flow Visualization: Partition-Based Techniques"
+    },
+    {
+      "paperId": null,
+      "title": "Topology-Based Flow Visualization, The State of the Art"
+    },
+    {
+      "paperId": "3521fc1d7a650be48ce681be474c44bcce4cd416",
+      "title": "CFD simulation of nasal airflow: Towards treatment planning for functional rhinosurgery"
+    },
+    {
+      "paperId": "5a27658c262a964785aa47b3f892e0be00c46bcd",
+      "title": "Cerebral aneurysms."
+    },
+    {
+      "paperId": "8b194e571d03a2a152fea0cafe1d6318ca4a818b",
+      "title": "Biofluid Dynamics: Principles and Selected Applications"
+    },
+    {
+      "paperId": "218feeeeed5f37940a02b137a099d60ee02000b9",
+      "title": "amira: A Highly Interactive System for Visual Data Analysis"
+    },
+    {
+      "paperId": "1939afa9308c3e2db2bf819da09befb73d5fbe04",
+      "title": "Numerical Simulation of Air Flow in the Human Nasal Cavity"
+    },
+    {
+      "paperId": "005eddda6f315e0078324ab6e0e4376a24f768c9",
+      "title": "\u201cGrowCut\u201d - Interactive Multi-Label N-D Image Segmentation By Cellular Automata"
+    },
+    {
+      "paperId": "771f5dd6f3680d3b378e0139bb758d6fa210e9f0",
+      "title": "Numerical simulation of the flow field in a model of the nasal cavity"
+    },
+    {
+      "paperId": "e0069fc257328c8f362a5e4c37c59f19eb719523",
+      "title": "The Lattice Boltzmann Equation for Fluid Dynamics and Beyond"
+    },
+    {
+      "paperId": "62214b13d073930ee267538d78d93fcee6beeab5",
+      "title": "Endovascular surgical neuroradiology."
+    },
+    {
+      "paperId": "5e724ea6dae2f1bf0e2941399fb206ce83c31026",
+      "title": "From Medical Images to CFD Meshes"
+    },
+    {
+      "paperId": "8c8d622ee5560cdd090690f9a2ba70631b24faf8",
+      "title": "COMPUTATIONAL FLUID DYNAMICS SIMULATIONS OF INSPIRATORY AIRFLOW IN THE HUMAN NOSE AND NASOPHARYNX"
+    },
+    {
+      "paperId": null,
+      "title": "Turbulence Modelling for CFD (2nd edition)"
+    },
+    {
+      "paperId": "648797fd2ef798188238089353ceaf51ed1aef1c",
+      "title": "A Survey of Unstructured Mesh Generation Technology"
+    },
+    {
+      "paperId": "e2df8631eaa8424fd9e44155aafabcae272fbed7",
+      "title": "New concepts in nasal evaluation."
+    },
+    {
+      "paperId": "20aef7577953aad586c41418469f45f586e0971d",
+      "title": "[Diagnostic perspectives in rhinology]."
+    },
+    {
+      "paperId": "04615ee90ccda04a6b076d2c51d5be0241d85a11",
+      "title": "International Journal of Computer Assisted Radiology and Surgery manuscript No. (will be inserted by the editor) Implicit Vessel Surface Reconstruction for Visualization and CFD Simulation"
+    },
+    {
+      "paperId": "03e1bca00da113599e4be9cc17e36dbb3d91c737",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Galilean Invariant Extraction and Iconic Representation of Vortex Core Lines"
+    },
+    {
+      "paperId": null,
+      "title": "ANSYS ICEM CFD User's Manual, Release 17.2. Canonsburg, PA"
+    },
+    {
+      "paperId": "aeedc6fbade7944f7e663d32a7fdbeeb6be7843c",
+      "title": "Konrad-zuse-zentrum F \u00a8 Ur Informationstechnik Berlin Adaptive Remeshing of Non-manifold Surfaces Adaptive Remeshing of Non-manifold Surfaces"
+    }
+  ]
+}

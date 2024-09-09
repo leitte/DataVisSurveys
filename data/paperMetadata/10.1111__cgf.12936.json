@@ -1,0 +1,497 @@
+{
+  "paperId": "d1ccff9e0a0dc60f0e100e61767fe15aec3de33a",
+  "externalIds": {
+    "DBLP": "journals/cgf/HallPKGC16",
+    "MAG": "2414646049",
+    "DOI": "10.1111/cgf.12936",
+    "CorpusId": 8532013
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/d1ccff9e0a0dc60f0e100e61767fe15aec3de33a",
+  "title": "Formalizing Emphasis in Information Visualization",
+  "abstract": "We provide afresh look at the use and prevalence of emphasis effects in Infovis. Through a survey of existing emphasis frameworks, we extract a set\u2010based approach that uses visual prominence to link visually and algorithmically diverse emphasis effects. Visual prominence provides a basis for describing, comparing and generating emphasis effects when combined with a set of general features of emphasis effects. Therefore, we use visual prominence and these general features to construct a new mathematical Framework for Information Visualization Emphasis, FIVE. The concepts we introduce to describe FIVE unite the emphasis literature and point to several new research directions for emphasis in information visualization.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 106,
+  "openAccessPdf": {
+    "url": "https://openaccess.city.ac.uk/id/eprint/16709/1/2016_CGF_five_test.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hall2016FormalizingEI,\n author = {K. Hall and Charles Perin and P. Kusalik and C. Gutwin and Sheelagh Carpendale},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Formalizing Emphasis in Information Visualization},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2915619",
+      "name": "K. Hall"
+    },
+    {
+      "authorId": "35221881",
+      "name": "Charles Perin"
+    },
+    {
+      "authorId": "2835469",
+      "name": "P. Kusalik"
+    },
+    {
+      "authorId": "1693768",
+      "name": "C. Gutwin"
+    },
+    {
+      "authorId": "96301418",
+      "name": "Sheelagh Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5f22023446a1d1868dbb71f5078872b274904f3f",
+      "title": "Does landscape related expertise influence the visual perception of landscape photographs? : implications for participatory landscape planning and management"
+    },
+    {
+      "paperId": "59fef830fec10fe9bf1831200470f32eef775bc6",
+      "title": "Social communication with virtual agents: The effects of body and gaze direction on attention and emotional responding in human observers."
+    },
+    {
+      "paperId": "0756ccde47374f4e27c49bdf42cbfd4e13f2280d",
+      "title": "Opportunities and Challenges for Data Physicalization"
+    },
+    {
+      "paperId": "56ef55d4ba13c4a0201f5c20914c9e70954948a4",
+      "title": "Effects of psychological attention on pronoun comprehension"
+    },
+    {
+      "paperId": "fb6cabbc751bb20ec91683ca5454a1a22d97086f",
+      "title": "Comparing Color and Leader Line Highlighting Strategies in Coordinated View Geovisualizations"
+    },
+    {
+      "paperId": "7c7320c1df6467d2ada81aa924182741ea99a3e1",
+      "title": "Attractive Flicker \u2014 Guiding Attention in Dynamic Narrative Visualizations"
+    },
+    {
+      "paperId": "e5c2b35639c9f6f6fdcbff20e8e84e0f62e510be",
+      "title": "Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations"
+    },
+    {
+      "paperId": "62079dcf8783c6ab8d2124f42505b9ce718b04c6",
+      "title": "The Not-so-Staggering Effect of Staggered Animated Transitions on Visual Tracking"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+      "title": "An Interaction Model for Visualizations Beyond The Desktop"
+    },
+    {
+      "paperId": "d3b84036398c57597d66a6c7e5a48374ac28c129",
+      "title": "Visual Sedimentation"
+    },
+    {
+      "paperId": "424d0d3d100201cb08d43d15610a99ac36414159",
+      "title": "Evaluating the efficiency of physical visualizations"
+    },
+    {
+      "paperId": "47487ee3c961b1bec90b1d2958bc562f2409c1c2",
+      "title": "Watch this: A taxonomy for dynamic data visualization"
+    },
+    {
+      "paperId": "e0aafd602c4b37b75ce7b6ad30909c000b0ae152",
+      "title": "JellyLens: content-aware adaptive lenses"
+    },
+    {
+      "paperId": "ced362058644ad43752bd861ecc8fca235c5cca7",
+      "title": "How Does Representation Modality Affect User-Experience of Data Artifacts?"
+    },
+    {
+      "paperId": "14d24a276907e977353bf15bb56e1cf90ae0e2e2",
+      "title": "Co-Located Collaborative Visual Analytics around a Tabletop Display"
+    },
+    {
+      "paperId": "4d47ccb37127287099bb7714068e7cebd7a84736",
+      "title": "Context-Preserving Visual Links"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "c62e9a713308d71ba5a162f4268977dcded7ab44",
+      "title": "Visual attention."
+    },
+    {
+      "paperId": "3da065ea9636b38bbfd6228cb5a1b823f2129f68",
+      "title": "Visual Boosting in Pixel\u2010based Visualizations"
+    },
+    {
+      "paperId": "fc14fb4e8ac84eee796e87ca1f18d87a8164a275",
+      "title": "Highlighting in Geovisualization"
+    },
+    {
+      "paperId": "f6bf712808e8a2b9d6cd2728febcf7943fd99150",
+      "title": "A Guide to Visual Multi-Level Interface Design From Synthesis of Empirical Study Evidence"
+    },
+    {
+      "paperId": "ffa9c32f5961b4ce2e0685737d33a83a85cf76a2",
+      "title": "Untangling Euler Diagrams"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "a70b2cef23129722e12c5fccffd24f5c04b798a2",
+      "title": "Highlighting in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "2d50927cbceb20d6a39b5f68694f0f28ca755476",
+      "title": "Just Noticeable Difference"
+    },
+    {
+      "paperId": "1321595bbc830f856c46c9a4f73e5918ca7f5495",
+      "title": "Pillow-talk: seamless interface for dream priming, recalling and playback"
+    },
+    {
+      "paperId": "5776d126d4743723d75ba58efa862b095f2e061e",
+      "title": "CoCoNutTrix: Collaborative Retrofitting for Information Visualization"
+    },
+    {
+      "paperId": "7446295df4e90a427edbfc8cbd789e27478fbc7e",
+      "title": "A review of overview+detail, zooming, and focus+context interfaces"
+    },
+    {
+      "paperId": "2a71eff2567118fc1ee1b6257f51a1e87ef2dd65",
+      "title": "Beyond the Tyranny of the Pixel: Exploring the Physicality of Information Visualization"
+    },
+    {
+      "paperId": "ebb3eea625ab67ee7f6879faed14e0099f2d81fe",
+      "title": "A Four\u2010level Focus+Context Approach to Interactive Visual Analysis of Temporal Features in Large Scientific Data"
+    },
+    {
+      "paperId": "5d5b4fad45ed29a642e1c540ad4a89935fba969e",
+      "title": "Sigma lenses: focus-context transitions combining space, time and translucence"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "a514f3b4fa56bd95b6d1b3bf05b99eef28345edf",
+      "title": "Supporting multi-point interaction in visual workspaces"
+    },
+    {
+      "paperId": "5af3a7cb348c044ad54c4d1740196cf370f1eec8",
+      "title": "Interactive Focus+Context Analysis of Large, Time-Dependent Flow Simulation Data"
+    },
+    {
+      "paperId": "56a8f3e50ac1d6eef36cc6ca9690106c9a0c2845",
+      "title": "SoundBar: exploiting multiple views in multimodal graph browsing"
+    },
+    {
+      "paperId": "db6b4b9f27f9e3113c0bfa423fb848c934e2d651",
+      "title": "Fisheye Tree Views and Lenses for Graph Visualization"
+    },
+    {
+      "paperId": "7dc82d7de25136e2903a57c9cd986d506b0638e2",
+      "title": "A fisheye follow-up: further reflections on focus + context"
+    },
+    {
+      "paperId": "fd7f950b3c90c3b5b8ba735d8e0bc31d50d90333",
+      "title": "Scientific Visualization: The Visual Extraction of Knowledge from Data (Mathematics and Visualization)"
+    },
+    {
+      "paperId": "83a451fa323f77a9edcbafa4531f506e7c548bd0",
+      "title": "Motion to support rapid interactive queries on node--link diagrams"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "e5335b91482b26230571f74808e2923be0333340",
+      "title": "DateLens: A fisheye calendar interface for PDAs"
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "a8ae0046f94f536f7fdbdb4dd3e58e867e5e894d",
+      "title": "Moticons: : detection, distraction and task"
+    },
+    {
+      "paperId": "7809a6fb4d1edec6566509a75f0fedd505d92976",
+      "title": "Visualization techniques for circular tabletop interfaces"
+    },
+    {
+      "paperId": "e0d956201eb116d6ea63fc6a94db534097351a89",
+      "title": "Filtering and Brushing with Motion"
+    },
+    {
+      "paperId": "75931f1c24c3596cd89dc12e93582c2377424a5e",
+      "title": "A framework for unifying presentation space"
+    },
+    {
+      "paperId": "b5a4a11ff8a4fbc265e0f2cd2bee20193f42d3fd",
+      "title": "Instrumental interaction: an interaction model for designing post-WIMP user interfaces"
+    },
+    {
+      "paperId": "c65670191d2da818bce37be45d2a07efd7be65b4",
+      "title": "The generalized detail in-context problem"
+    },
+    {
+      "paperId": "33ee3b5e1f947d254d300ade0a7e12f6e20b70c8",
+      "title": "Nonlinear magnification fields"
+    },
+    {
+      "paperId": "e39767c4d6cf8dabbab11242202b8d98581e4995",
+      "title": "Techniques for non-linear magnification transformations"
+    },
+    {
+      "paperId": "ccd2f35c99b775da10425ace238964f53ae53817",
+      "title": "3-dimensional pliable surfaces: for the effective presentation of visual information"
+    },
+    {
+      "paperId": "5941abe345d4bd1a5f15d6ee9142a111e6b18a2a",
+      "title": "A focus+context technique based on hyperbolic geometry for visualizing large hierarchies"
+    },
+    {
+      "paperId": "2a6680acf199910f14a61da5a25240d6b9c18bea",
+      "title": "Image-Browser Taxonomy and Guidelines for Designers"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "57a82dc3140a3773600298537fe81e430aca7bf9",
+      "title": "Reuse in Command-and-Control Systems"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "0172edaafde0a1c8790790cfc318a3c47deb3b9a",
+      "title": "The document lens"
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "0c85ee49fc5d1c9bc949ea502beb06d1ddc2cd19",
+      "title": "The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "b13cfc15a298608a60fe32c3214cdf1956321997",
+      "title": "Interactive data visualization using focusing and linking"
+    },
+    {
+      "paperId": "51bc353e4a058bf8cf4910fd9708ab8b6c612db9",
+      "title": "Visual attention"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "77f3da5da09923ad44e225f75c0aa6b5e946d534",
+      "title": "Preattentive processing in vision"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "0a564b6328d8039c271497e36a36e327dcf05d2a",
+      "title": "A Polyfocal Projection for Statistical Surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Data Suppression Papers that focus on the creation of emphasis effects through data suppression, i.e., [Fur86,Fur06]"
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:13)"
+    },
+    {
+      "paperId": "b7605d08490443dcc48e20f14e76d32c221adf58",
+      "title": "A Survey on Interactive Lenses in Visualization"
+    },
+    {
+      "paperId": "a71737a811860622dc4866f623a616ba131bb367",
+      "title": "Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "URL: http:// dx.doi.org/10"
+    },
+    {
+      "paperId": "a4691d000be35da7f315e6582df33be4278248fc",
+      "title": "Using All Our Senses : the need for a Unified Theoretical Approach to Multi-sensory Information Visualization"
+    },
+    {
+      "paperId": "81b77686cf2e1cf03e81ea72f82eeaf38e6519e5",
+      "title": "Generalizing Focus+Context Visualization"
+    },
+    {
+      "paperId": "b96e5c8145ed042d571ff8864d0497477b8d3f6b",
+      "title": "TreeJuxtaposer : Scalable Tree Comparison using Focus + Context with Guaranteed Visibility"
+    },
+    {
+      "paperId": "d5cec0208e211f2a9897ecea40e7d67c5ad64176",
+      "title": "VISUALIZATION AND COMPUTER GRAPHICS"
+    },
+    {
+      "paperId": "c40e4f5e7f80bc10805be042c412a5955d1863db",
+      "title": "Sound and Geographic Visualization"
+    },
+    {
+      "paperId": "71fd1f9f0297e6f6a88a3f7efdb0802173451548",
+      "title": "Cognitive Issues in Cartographic Visualization"
+    },
+    {
+      "paperId": "afc602e97d2f5977d8ee86fbc16ae39dde6c4720",
+      "title": "Visualization in Historical Context"
+    },
+    {
+      "paperId": null,
+      "title": "Comput.-Hum. Interact"
+    },
+    {
+      "paperId": null,
+      "title": "The context for the development of geographic and cartographic visualization"
+    },
+    {
+      "paperId": "a85f49c356284401b9b003911187f1a855b19441",
+      "title": "Animation and the Role of Map Design in Scientific Visualization"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "34b11f89d09b6132286d481bfd704d9bcd5b51ee",
+      "title": "Data base navigation: an office environment for the professional"
+    },
+    {
+      "paperId": "eeb487e322fd78192f4a75f2a364dd0c172a922d",
+      "title": "Cognitive Psychology. (Book Reviews: Cognition and Reality. Principles and Implications of Cognitive Psychology)"
+    },
+    {
+      "paperId": "d1260ee96541673392b5b6fc4c7460019ee284d1",
+      "title": "Cognition and reality: principles and implications"
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "14ddaa3e2dc3800d70f7106c78310c0379b85ce3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Topological Fisheye Views for Visualizing Large Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "FIVE provides a new perspective on both the importance of emphasis and the ways by which emphasis techniques can be created (e.g., underexplored visual variables, and non-visual modalities)"
+    },
+    {
+      "paperId": null,
+      "title": "GF1 A wide variety of visualizations can be described in terms of subsets of data points of differing visual prominence (i.e., F , M , and B )"
+    },
+    {
+      "paperId": null,
+      "title": "Beyond Magni\ufb01cation Papers that describe non-magni\ufb01cation emphasis effects, i.e."
+    },
+    {
+      "paperId": null,
+      "title": "Papers that provide a taxonomy of emphasis related effects, i.e., [KMH02, PCS95]"
+    },
+    {
+      "paperId": null,
+      "title": "Providing a richer space of how to de\ufb01ne and implement emphasis effects"
+    },
+    {
+      "paperId": null,
+      "title": "GF4 Emphasis effects have varying degrees of continuity between F and B , i.e., varying numbers of intermediate levels of visual prominences comprising M"
+    },
+    {
+      "paperId": null,
+      "title": "GF2 There are time variant and time invariant emphasis effects"
+    },
+    {
+      "paperId": null,
+      "title": "GF3 Some emphasis effects represent data points multiple times, i.e."
+    },
+    {
+      "paperId": null,
+      "title": "Attention and visual memory in visualization c (cid:13) 2016TheAuthor(s) ComputerGraphicsForum c (cid:13) 2016TheEurographicsAssociationandJohnWiley"
+    },
+    {
+      "paperId": null,
+      "title": "Formalizing Emphasis in"
+    },
+    {
+      "paperId": null,
+      "title": "Distorting the visualization according to nonlinear magni\ufb01cation \ufb01elds [KR97] and using the resultant magni\ufb01cation to vary data presentation within the visualization [Kea98]"
+    },
+    {
+      "paperId": "9f95af0c8ebec7b92f378d1a9325986e67f27189",
+      "title": "Visual Attention"
+    },
+    {
+      "paperId": null,
+      "title": "The fisheye view: a new look at structures. Bell Laboratories"
+    },
+    {
+      "paperId": null,
+      "title": "1002/9780470479216.corpsy0481, doi:10. 1002/9780470479216.corpsy0481. 13 c 2016 The Author(s) Computer Graphics Forum c 2016 The Eurographics Association and"
+    },
+    {
+      "paperId": null,
+      "title": "Focus+context taken literally"
+    }
+  ]
+}

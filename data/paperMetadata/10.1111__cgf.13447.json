@@ -1,0 +1,632 @@
+{
+  "paperId": "b7e06145821a4dce0b630e6dedcd659a17cf9a0f",
+  "externalIds": {
+    "DBLP": "journals/cgf/PerinVSSWC18",
+    "MAG": "2853934102",
+    "DOI": "10.1111/cgf.13447",
+    "CorpusId": 51777904
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/b7e06145821a4dce0b630e6dedcd659a17cf9a0f",
+  "title": "State of the Art of Sports Data Visualization",
+  "abstract": "In this report, we organize and reflect on recent advances and challenges in the field of sports data visualization. The exponentially\u2010growing body of visualization research based on sports data is a prime indication of the importance and timeliness of this report. Sports data visualization research encompasses the breadth of visualization tasks and goals: exploring the design of new visualization techniques; adapting existing visualizations to a novel domain; and conducting design studies and evaluations in close collaboration with experts, including practitioners, enthusiasts, and journalists. Frequently this research has impact beyond sports in both academia and in industry because it is i) grounded in realistic, highly heterogeneous data, ii) applied to real\u2010world problems, and iii) designed in close collaboration with domain experts. In this report, we analyze current research contributions through the lens of three categories of sports data: box score data (data containing statistical summaries of a sport event such as a game), tracking data (data about in\u2010game actions and trajectories), and meta\u2010data (data about the sport and its participants but not necessarily a given game). We conclude this report with a high\u2010level discussion of sports visualization research informed by our analysis\u2014identifying critical research gaps and valuable opportunities for the visualization community. More information is available at the STAR's website: https://sportsdataviz.github.io/.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 140,
+  "openAccessPdf": {
+    "url": "https://openaccess.city.ac.uk/id/eprint/19857/8/2018_eurovis_sportsstar.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2018-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Perin2018StateOT,\n author = {Charles Perin and Romain Vuillemot and Charles D. Stolper and J. Stasko and J. Wood and M. Carpendale},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art of Sports Data Visualization},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "35221881",
+      "name": "Charles Perin"
+    },
+    {
+      "authorId": "1683275",
+      "name": "Romain Vuillemot"
+    },
+    {
+      "authorId": "3245569",
+      "name": "Charles D. Stolper"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    },
+    {
+      "authorId": "2289024047",
+      "name": "J. Wood"
+    },
+    {
+      "authorId": "144189259",
+      "name": "M. Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "05979fd2af973723e0556903469c2019cc340573",
+      "title": "Exploring pressure in football"
+    },
+    {
+      "paperId": "395defe8234c54bc7ca2885a12a5b9208746924a",
+      "title": "Visual soccer match analysis using spatiotemporal positions of players"
+    },
+    {
+      "paperId": "22738fa2b81f0391f5abfb22a1aa1c05a3034c04",
+      "title": "Databall"
+    },
+    {
+      "paperId": "15a46f8cd79b6a2173fc5938f495219e49d93201",
+      "title": "Subjectivity in personal storytelling with visualization"
+    },
+    {
+      "paperId": "e01438b9c9184ecabb95a4c6f7209f6738be4446",
+      "title": "Space-Time Analysis of Movements in Basketball using Sensor Data"
+    },
+    {
+      "paperId": "5ecb712848cfd65fbc5a29647410a8dcb61180e7",
+      "title": "Dynamic Visual Abstraction of Soccer Movement"
+    },
+    {
+      "paperId": "6358619c16bcd66811a5ef93ad595eb6a9832ff4",
+      "title": "Visual analysis of pressure in football"
+    },
+    {
+      "paperId": "3d96d46a953f79e31b7772f95f0ea95b47d775fb",
+      "title": "Tracking U.S. Professional Athletes: The Ethics of Biometric Technologies"
+    },
+    {
+      "paperId": "2141334fad7248fc707607bc9453d44686ae07a7",
+      "title": "How to Make Sense of Team Sport Data: From Acquisition to Data Modeling and Research Aspects"
+    },
+    {
+      "paperId": "d20a094d3f3dea42456802d0ea76ef440e5125a5",
+      "title": "From game events to team tactics: Visual analysis of dangerous situations in multi-match data"
+    },
+    {
+      "paperId": "28c0443142b3996a53e51289e4e9bb1c5e8778fb",
+      "title": "GameFlow: Narrative Visualization of NBA Basketball Games"
+    },
+    {
+      "paperId": "da33b3e4f837272d4ebb2a8b8ae0a474663fc18c",
+      "title": "BKViz: A Basketball Visual Analysis Tool"
+    },
+    {
+      "paperId": "f565376611bd6a1a03ec97f67aefd64b0527c2a7",
+      "title": "A Matrix-Based Visual Comparison of Time Series Sports Data"
+    },
+    {
+      "paperId": "27b5dcb6f068eccec359334c4afe55c762ee9e1f",
+      "title": "In-situ visualization of pedaling forces on cycling training videos"
+    },
+    {
+      "paperId": "9c0102f06ad701227121cb55a7ec4dcf52d78525",
+      "title": "Using Gap Charts to Visualize the Temporal Evolution of Ranks and Scores"
+    },
+    {
+      "paperId": "5a7c2468d1e0e510772f25c9f1cf2f3187f66b12",
+      "title": "Sports Tournament Predictions Using Direct Manipulation"
+    },
+    {
+      "paperId": "3acee27a1a069e1dfc44faeaddfe291af53e0b7a",
+      "title": "StatCast Dashboard: Exploration of Spatiotemporal Baseball Data"
+    },
+    {
+      "paperId": "7fc194c684707b234a8b8f853f5000367b595be0",
+      "title": "Director's Cut: Analysis and Annotation of Soccer Matches"
+    },
+    {
+      "paperId": "703ef9a69109bcffbb9bb04b6aa0f246e9bfce55",
+      "title": "Sports Data Visualization [Guest editors' introduction]"
+    },
+    {
+      "paperId": "bc6360bf6cbdbfa4dbc4e6e178b12ea9dea15439",
+      "title": "Go and Grow: Mapping Personal Data to a Living Plant"
+    },
+    {
+      "paperId": "bd3bdb6cfaef8064b6f1dbeae4a7cc22b82b1279",
+      "title": "Analysis of errors made by line umpires on ATP tournaments"
+    },
+    {
+      "paperId": "29622be7ed2a11b3bb9cc300b7101a9967dd690a",
+      "title": "weSport: Utilising wrist-band sensing to detect player activities in basketball games"
+    },
+    {
+      "paperId": "003f610b51ade369332e4ad6132e0210a022cc2c",
+      "title": "Spatio-Temporal Analysis of Team Sports"
+    },
+    {
+      "paperId": "2a5c304fdcad151e3fa3a3054346ad82648c4363",
+      "title": "Visual-Interactive Search for Soccer Trajectories to Identify Interesting Game Situations"
+    },
+    {
+      "paperId": "3388fd7d6c027f8d10afa75d0c809961036617a1",
+      "title": "TennisMatchViz: A Tennis Match Visualization System"
+    },
+    {
+      "paperId": "caaa7ab58e7881bc995124cd293d37fd340f4911",
+      "title": "Enhancing Parallel Coordinates: Statistical Visualizations for Analyzing Soccer Data"
+    },
+    {
+      "paperId": "96cd13d2699898d4f61d4c0a90415b0f3a0af63c",
+      "title": "Visual Twitter Analytics (Vista): Temporally changing sentiment and the discovery of emergent themes within sport event tweets"
+    },
+    {
+      "paperId": "0086a67895924c5fea6ca59c74c7323a1db97def",
+      "title": "Visual Mementos: Reflecting Memories with Personal Data"
+    },
+    {
+      "paperId": "2d279fa10cfce887dcf4e3aba4730dfe4b347ddd",
+      "title": "Visual Soccer Analytics: Understanding the Characteristics of Collective Team Movement Based on Feature-Driven Analysis and Abstraction"
+    },
+    {
+      "paperId": "89aff106623a46e4ec46f6c01287bfff8b248144",
+      "title": "Visualizing Personal Progress in Participatory Sports Cycling Events"
+    },
+    {
+      "paperId": "7a18365105f1bd837263fe11de0c12a205bc1940",
+      "title": "Investigating the Direct Manipulation of Ranking Tables for Time Navigation"
+    },
+    {
+      "paperId": "d34a06dabccdcdc8211dcc988c70a27b4bce46d5",
+      "title": "Patina Engraver: Visualizing Activity Logs as Patina in Fashionable Trackers"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "ca5351a3c1d30c6296cd930d492f5f3bfec8417a",
+      "title": "Identifying Team Style in Soccer Using Formations Learned from Spatiotemporal Tracking Data"
+    },
+    {
+      "paperId": "15e62698b8e1d5eefcd9d5c3d93829c26567c6bd",
+      "title": "TenniVis: Visualization for Tennis Match Analysis"
+    },
+    {
+      "paperId": "664310e93c0bc8119cee855635947d26ccfcf8fb",
+      "title": "Activity Sculptures: Exploring the Impact of Physical Visualizations on Running Activity"
+    },
+    {
+      "paperId": "04e17366b2372bf57ddc5cc6e5247f921b7d29ca",
+      "title": "Baseball4D: A tool for baseball game reconstruction & visualization"
+    },
+    {
+      "paperId": "9cd03343263b47834432085642c28d3fce2214d0",
+      "title": "Characterising group-cycling journeys using interactive graphics"
+    },
+    {
+      "paperId": "f10230c95524b9a534bd659a2a4fa2a59966107f",
+      "title": "Feature-driven visual analytics of soccer data"
+    },
+    {
+      "paperId": "937222a9537ab13b406aa08f4bf7d8eb47366acd",
+      "title": "Classification of Passes in Football Matches Using Spatiotemporal Data"
+    },
+    {
+      "paperId": "9130d5433b9bbad130947354f9ce57993ca8c0d1",
+      "title": "Characterizing the spatial structure of defensive skill in professional basketball"
+    },
+    {
+      "paperId": "9881d8c5b99d44cd45606cc78cdfa4845d9e345e",
+      "title": "Understanding physical activity through 3D printed material artifacts"
+    },
+    {
+      "paperId": "165721ea62089ef877a43e54e98e05ae6618e395",
+      "title": "Automatic generation of semantic icon encodings for visualizations"
+    },
+    {
+      "paperId": "5cab2e5aedaa4a0effaed54dcd04672b01bcf19e",
+      "title": "A table!: improving temporal navigation in soccer ranking tables"
+    },
+    {
+      "paperId": "a031463f5fcf7f9c6a9e7f7281757e4a32acdb58",
+      "title": "Displaying heart rate data on a bicycle helmet to support social exertion experiences"
+    },
+    {
+      "paperId": "5dcb18dc643e38a3314def08c25875180adc37e7",
+      "title": "SoccerStories: A Kick-off for Visual Soccer Analysis"
+    },
+    {
+      "paperId": "280161f91c9e3b123c35bb51dfd8fd88b06e4ff6",
+      "title": "Using Concrete Scales: A Practical Framework for Effective Visual Depiction of Complex Measures"
+    },
+    {
+      "paperId": "c9178c6b0f63b55ff7d4f6337647ca17c93ffdcc",
+      "title": "R2S2: a Hybrid Technique to Visualize Sport Ranking Evolution"
+    },
+    {
+      "paperId": "a8fecfb216c5dae80c2dd6ceb625b6f96e59b3fe",
+      "title": "Real-Time Crowdsourcing of Detailed Soccer Data"
+    },
+    {
+      "paperId": "7eae30d4c2a1af8da379d6998b873ec03163fb06",
+      "title": "Adding an interactive display to a public basketball hoop can motivate players and foster community"
+    },
+    {
+      "paperId": "d9a666a1301a6650b09ff0276baa2c35657f9b4c",
+      "title": "Glyph sorting: Interactive visualization for multi-dimensional data"
+    },
+    {
+      "paperId": "a5878f0d3ca7be427c4e533ba234c432b99d60da",
+      "title": "SnapShot: Visualization to Propel Ice Hockey Analytics"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "f4bde10c6f471a5ad1a8d4851326c4cb576614fd",
+      "title": "MatchPad: Interactive Glyph\u2010Based Visualization for Real\u2010Time Sports Performance Analysis"
+    },
+    {
+      "paperId": "a81d7b78a0a4da43e2ba7d97402fe3c66fa6889a",
+      "title": "Understanding my data, myself: supporting self-reflection with ubicomp technologies"
+    },
+    {
+      "paperId": "4b90eb0c80c31fbd1c37375eda419231cee9f99e",
+      "title": "Analyzing Soccer Goalkeeper Performance Using a Metaphor-Based Visualization"
+    },
+    {
+      "paperId": "a22dc034c9386ee4d954148af6e22c627f1b29ed",
+      "title": "Scorecasting: The Hidden Influences Behind How Sports Are Played and Games Are Won"
+    },
+    {
+      "paperId": "31425a753d9968d76388b86f803e17557d2dbae2",
+      "title": "Quantifying the Performance of Individual Players in a Team Activity"
+    },
+    {
+      "paperId": "921e8f77ff86aa3586d836ce9bd25795181a7c6d",
+      "title": "Reducing impact loading during running with the use of real-time visual feedback."
+    },
+    {
+      "paperId": "744c1d9a5b1dfa764df9b836e7e24c643390feee",
+      "title": "iSee: interactive scenario explorer for online tournament games"
+    },
+    {
+      "paperId": "9cab2009e3108a98a97039ca5d50deb0dd49164b",
+      "title": "Trajectory-based handball video understanding"
+    },
+    {
+      "paperId": "6ca8fa3ba89ed69128c7f6f03e07f3aa42446596",
+      "title": "Activity sensing in the wild: a field trial of ubifit garden"
+    },
+    {
+      "paperId": "5b27c3cf064d6ee531168aa398f2f0e0a6f190f1",
+      "title": "AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets"
+    },
+    {
+      "paperId": "3331e3c06113cc35f125dcb513fc5c52bc07c9f6",
+      "title": "Evaluating a Wearable Display Jersey for Augmenting Team Sports Awareness"
+    },
+    {
+      "paperId": "1aec7197b14e8c90f4d93f98e7ffbfa83b859178",
+      "title": "Fish'n'Steps: Encouraging Physical Activity with an Interactive Computer Game"
+    },
+    {
+      "paperId": "ec41aca6a286bfab8c3658899f6f432c7e6ca402",
+      "title": "Towards Classifying Visualization in Team Sports"
+    },
+    {
+      "paperId": "5e226e32ea28b193eb48423832ff745bdb296e23",
+      "title": "Moneyball: The Art of Winning an Unfair Game"
+    },
+    {
+      "paperId": "8e02ab1720bd61b683b70e142f3c5f348d919f5f",
+      "title": "Temporal pattern analysis and its applicability in sport: an explanation and exemplar data"
+    },
+    {
+      "paperId": "48c070768ca9c4e4973f0895b53100502e2a1123",
+      "title": "Visualization of sports using motion trajectories: providing insights into performance, style, and strategy"
+    },
+    {
+      "paperId": "d5eb31bd1576a55730b906e1404793863bd6f0c9",
+      "title": "TennisViewer: A Browser for Competition Trees"
+    },
+    {
+      "paperId": "21b86da15bb6475e4e574ffef33a8cd5b875afa2",
+      "title": "Hierarchical visualization with treemaps: making sense of pro basketball data"
+    },
+    {
+      "paperId": "225e2d4c87c0a7cecaa02d9a576045dc780154f2",
+      "title": "What's the Score?"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "558f4f6683dcdc6959818e6cbc228e31b931bcec",
+      "title": "iTTVis: Interactive Visualization of Table Tennis Data"
+    },
+    {
+      "paperId": "ec712b3abf46d24921c65df144ab661775bcdbc0",
+      "title": "Bring It to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Mathletics: How gamblers, managers, and sports enthusiasts use mathematics in baseball, basketball, and football ."
+    },
+    {
+      "paperId": null,
+      "title": "NBAVis: Exploring 2012-13 NBA Season Data, 2013. 7 c (cid:13) 2018TheAuthor(s) ComputerGraphicsForum c (cid:13)"
+    },
+    {
+      "paperId": null,
+      "title": "LeBron James Scores 5,995th Playoff Point, Taking the Record From Michael Jordan"
+    },
+    {
+      "paperId": null,
+      "title": "Twenty Years of the NBA Redrafted"
+    },
+    {
+      "paperId": null,
+      "title": "Odell Beckham\u2019s Hands Are Great, But His Feet Are Lethal"
+    },
+    {
+      "paperId": null,
+      "title": "How Russell Westbrook can Average a Triple-Double"
+    },
+    {
+      "paperId": null,
+      "title": "Swimming World Records throughout History"
+    },
+    {
+      "paperId": null,
+      "title": "Where Athletes in the Premier League, the N.B.A. and Other Sports Leagues Come From, in 15 Charts"
+    },
+    {
+      "paperId": null,
+      "title": "SPORTS REFERENCE: Sports Reference | Sports Stats, fast, easy, and up-to-date"
+    },
+    {
+      "paperId": null,
+      "title": "High level Sports in the XXI Century: contribution from Industry and University to the performance optimization"
+    },
+    {
+      "paperId": null,
+      "title": "TIMCKE M.-L.: Berlin-Marathon 2016 - So schnell lauft Ihre Stadt, 2016"
+    },
+    {
+      "paperId": null,
+      "title": "The New Science Of Hitting"
+    },
+    {
+      "paperId": null,
+      "title": "Bob Beamon\u2019s Long Olympic Shadow"
+    },
+    {
+      "paperId": null,
+      "title": "Baseball Statistics and Analysis | FanGraphs"
+    },
+    {
+      "paperId": null,
+      "title": "2016 March Madness Predictions"
+    },
+    {
+      "paperId": null,
+      "title": "Stephen Curry\u2019s 3-Point Record in Context: Off the Charts"
+    },
+    {
+      "paperId": null,
+      "title": "The Haters Are Losing The War On Kickers"
+    },
+    {
+      "paperId": null,
+      "title": "Katie Ledecky Smashes Her Own World Record in 400 Freestyle"
+    },
+    {
+      "paperId": null,
+      "title": "Usain Bolt and the Fastest Men in the World Since 1896 - on the Same Track"
+    },
+    {
+      "paperId": "2088af241ed77d15766b6f93269f4f21ef483109",
+      "title": "Knowledge-Assisted Ranking: A Visual Analytic Application for Sport Event Data"
+    },
+    {
+      "paperId": null,
+      "title": "Romain Vuillemot is an Assistant Professor of computer science at \u00c9cole Centrale de Lyon, Universit\u00e9 de Lyon, France"
+    },
+    {
+      "paperId": null,
+      "title": "MLBPA, MLB announce pace-of-game initiatives, replay modifications"
+    },
+    {
+      "paperId": null,
+      "title": "Which NFL Team Are You Stuck Watching Every Sunday?"
+    },
+    {
+      "paperId": null,
+      "title": "\u2019Run Rich Run\u2019: Rich Eisen vs. top prospects"
+    },
+    {
+      "paperId": null,
+      "title": "Football Shots"
+    },
+    {
+      "paperId": null,
+      "title": "The Differing Dimensions of Every Stadium in Baseball"
+    },
+    {
+      "paperId": "8413cc6a30ce8813a60bb85a1d039bc5ad70e39a",
+      "title": "Buckets : Basketball Shot Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "The Clubs That Connect The World Cup"
+    },
+    {
+      "paperId": null,
+      "title": "Mapping Every Path to the N.F.L. Playoffs"
+    },
+    {
+      "paperId": null,
+      "title": "Why Peyton Manning\u2019s Record Will Be Hard to Beat"
+    },
+    {
+      "paperId": null,
+      "title": "A Narrative Display for Sports Tournament Recap"
+    },
+    {
+      "paperId": "a9246c78d86f8f8908ea47ea2138421771ad154d",
+      "title": "Geovisualizing spatio \u2010 temporal patterns in tennis : An alternative approach to post \u2010 match analysis"
+    },
+    {
+      "paperId": "286f680dc5c79e18f0084dbaeb0c81257d6775b7",
+      "title": "Visualizations for Exploration of American Football Season and Play Data"
+    },
+    {
+      "paperId": null,
+      "title": "STOLPER C"
+    },
+    {
+      "paperId": null,
+      "title": "In Tennis, Even The Breakout Stars Are Veterans"
+    },
+    {
+      "paperId": null,
+      "title": "BRATH R.: Bloomberg sports visualization for pitch analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Glyphs in matrix representation of graphs for displaying soccer games results"
+    },
+    {
+      "paperId": "46e4a7271de62e9118625dec935c4aef1bc0ea74",
+      "title": "CourtVision : New Visual and Spatial Analytics for the NBA"
+    },
+    {
+      "paperId": "04e60d032b2102c89a8aaed8dda2eb2a6792b143",
+      "title": "Deconstructing the Rebound with Optical Tracking Data"
+    },
+    {
+      "paperId": null,
+      "title": "MORITZ STEFANER"
+    },
+    {
+      "paperId": null,
+      "title": "WERTHEIM L"
+    },
+    {
+      "paperId": null,
+      "title": ": Emoto - Installation *"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s) Computer Graphics Forum"
+    },
+    {
+      "paperId": null,
+      "title": "Fractions of a Second: An Olympic Musical -Interactive Graphic -NYTimes.com"
+    },
+    {
+      "paperId": null,
+      "title": "How Mariano Rivera Dominates"
+    },
+    {
+      "paperId": null,
+      "title": "How Woods Wins a Major"
+    },
+    {
+      "paperId": null,
+      "title": "Paths to the Top of the Home Run Charts"
+    },
+    {
+      "paperId": "5f1e59289d395fe8cb6f4b352bad5755b57d099b",
+      "title": "SportVis: Discovering Meaning in Sports Statistics Through Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Steroids or Not, the Pursuit is On"
+    },
+    {
+      "paperId": null,
+      "title": "Football Drawings Live"
+    },
+    {
+      "paperId": null,
+      "title": "Salary vs. Performance"
+    },
+    {
+      "paperId": "87e5fe1fa7081a7dbab2a509666c2744745df6af",
+      "title": "Rugby : ( a ) union of space and time"
+    },
+    {
+      "paperId": null,
+      "title": "The Joy of Keeping Score: How Scoring the Game Has In\ufb02uenced and Enhanced the History of Baseball"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": null,
+      "title": "How to ski by the French method"
+    },
+    {
+      "paperId": null,
+      "title": "The Only Rule Is It Has to Work: Our Wild Experiment Building a New Kind of Baseball Team , 1st edition ed."
+    },
+    {
+      "paperId": null,
+      "title": "Berlin-Marathon 2016 - So"
+    },
+    {
+      "paperId": null,
+      "title": "Derek Jeter Joins an Exclusive Club, June 2011"
+    },
+    {
+      "paperId": null,
+      "title": "Why Soccer\u2019s Most Popular Advanced Stat Kind Of Sucks"
+    },
+    {
+      "paperId": null,
+      "title": "The America\u2019s Cup Finale: Oracle\u2019s Path to Victory"
+    },
+    {
+      "paperId": null,
+      "title": "Pass Atlas: A Map of Where NFL Quarterbacks Throw the Ball, Sept. 2013. 9"
+    },
+    {
+      "paperId": null,
+      "title": "An Open-Sourced Optical Tracking and Advanced eSports Analytics Platform for League of Legends"
+    },
+    {
+      "paperId": null,
+      "title": "Legendary? Lousy? How your team has fared in the NFL draft"
+    },
+    {
+      "paperId": null,
+      "title": "How Close They Came to Winning. The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "The Fine Line: What Makes Simone Biles the World's Best Gymnast. The New York Times"
+    }
+  ]
+}

@@ -1,0 +1,854 @@
+{
+  "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+  "externalIds": {
+    "MAG": "2951966432",
+    "DBLP": "journals/corr/abs-1802-07954",
+    "ArXiv": "1802.07954",
+    "DOI": "10.1111/cgf.13092",
+    "CorpusId": 3500848
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6988851089eaa95d1f76526a3e3841534313cd98",
+  "title": "The State of the Art in Integrating Machine Learning into Visual Analytics",
+  "abstract": "Visual analytics systems combine machine learning or other analytic techniques with interactive data visualization to promote sensemaking and analytical reasoning. It is through such techniques that people can make sense of large, complex data. While progress has been made, the tactful combination of machine learning and data visualization is still under\u2010explored. This state\u2010of\u2010the\u2010art report presents a summary of the progress that has been made by highlighting and synthesizing select research advances. Further, it presents opportunities and challenges to enhance the synergy between machine learning and visual analytics for impactful future research directions.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 193,
+  "openAccessPdf": {
+    "url": "https://openaccess.city.ac.uk/id/eprint/16739/1/CGF_STAR___ML_and_VA_oldV.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Mathematics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2017-03-22",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Endert2017TheSO,\n author = {A. Endert and W. Ribarsky and C. Turkay and B. Wong and I. Nabney and Ignacio D\u00edaz Blanco and Fabrice Rossi},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Integrating Machine Learning into Visual Analytics},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3200296",
+      "name": "A. Endert"
+    },
+    {
+      "authorId": "49907592",
+      "name": "W. Ribarsky"
+    },
+    {
+      "authorId": "2427554",
+      "name": "C. Turkay"
+    },
+    {
+      "authorId": "144459506",
+      "name": "B. Wong"
+    },
+    {
+      "authorId": "3263426",
+      "name": "I. Nabney"
+    },
+    {
+      "authorId": "1729209",
+      "name": "Ignacio D\u00edaz Blanco"
+    },
+    {
+      "authorId": "2052876402",
+      "name": "Fabrice Rossi"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e7f937051c555f79887470bb674da4750a3aa482",
+      "title": "FROM SENSEMAKING IN ORGANIZATIONS"
+    },
+    {
+      "paperId": "5fb874a1c8106a5b2b2779ee8e1433149109ba00",
+      "title": "Learning Bayesian Networks is NP-Complete"
+    },
+    {
+      "paperId": "4fcae933165ed2ac036cff003dc4f814da291b5f",
+      "title": "Predictive visual analytics of event evolution for user-created context"
+    },
+    {
+      "paperId": "6fad843904a8206807101a772d843d6e2359e839",
+      "title": "BiSet: Semantic Edge Bundling with Biclusters for Sensemaking"
+    },
+    {
+      "paperId": "640c5b9127fe2b0227d037ebf1e9e9a40622c48e",
+      "title": "3D Regression Heat Map Analysis of Population Study Data"
+    },
+    {
+      "paperId": "bb55809bfee34e6b2ca26186383df3971a4a867b",
+      "title": "InterAxis: Steering Scatterplot Axes via Observation-Level Interaction"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "c9c0855dc06aff122d0fde9ccf9c604983988515",
+      "title": "VAiRoma: A Visual Analytics System for Making Sense of Places, Times, and Events in Roman History"
+    },
+    {
+      "paperId": "28ab4108d5e9ccc57b5156cfedffc1442d5ed10c",
+      "title": "The Human-Computer System: Towards an Operational Model for Problem Solving"
+    },
+    {
+      "paperId": "38f46ed878f68263f549cab0e16b7bd7ff078973",
+      "title": "DemographicVis: Analyzing demographic information based on user generated content"
+    },
+    {
+      "paperId": "c70b39e5001fa45638bbd5e0663b8b3768d1152c",
+      "title": "Learning Concept Embeddings with Combined Human-Machine Expertise"
+    },
+    {
+      "paperId": "8ddad93a09b175ba5adbae4d9be58f0796548520",
+      "title": "Semantic Interaction: Coupling Cognition and Computation through Usable Interactive Analytics"
+    },
+    {
+      "paperId": "e134ce5ddded625a9152d2b10c94913c42f5f8a5",
+      "title": "Interactive feature space extension for multidimensional data projection"
+    },
+    {
+      "paperId": "825ca26af5a2a510dbc1a7b97587212bc98ae968",
+      "title": "Power to the People: The Role of Humans in Interactive Machine Learning"
+    },
+    {
+      "paperId": "1a029d14642cf9cbf5e5f3ac504d9e86d9140b83",
+      "title": "Visual Analytics for Complex Engineering Systems: Hybrid Visual Steering of Simulation Ensembles"
+    },
+    {
+      "paperId": "9583ce13282029bda54a7907cb5547046cf7d2a8",
+      "title": "7 key challenges for visualization in cyber network defense"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "e34cea7beb885be40afa8cc033dbafb8908dd60c",
+      "title": "INFUSE: Interactive Feature Selection for Predictive Modeling of High Dimensional Data"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "edaf3ed4ab0956763111c703ef80bf4f16088d5d",
+      "title": "A Five-Level Design Framework for Bicluster Visualizations"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "c5a000ec6caa5843cdd9191227b21116137b0f4a",
+      "title": "Integrating predictive analytics and social media"
+    },
+    {
+      "paperId": "6edbdbcd07ce4b0a081e80e9c9f506460a4a0fbe",
+      "title": "Feedback-driven interactive exploration of large multidimensional data supported by visual classifier"
+    },
+    {
+      "paperId": "e8f7a56cf7ced4f43cf4a3ab63d36ecfc189ccad",
+      "title": "How Analysts Think (?): Early Observations"
+    },
+    {
+      "paperId": "1face5fcc2bb3d0dccbc35e681481cfda535cc4d",
+      "title": "Furby: fuzzy force-directed bicluster visualization"
+    },
+    {
+      "paperId": "615ec1831fd6e4a37f67da46704b43a27dcb82ac",
+      "title": "INVISQUE as a Tool for Intelligence Analysis: The Construction of Explanatory Narratives"
+    },
+    {
+      "paperId": "c91803fb5dcabd0f59d7ce752015c37c5c253136",
+      "title": "Characterizing Cancer Subtypes Using Dual Analysis in Caleydo StratomeX"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "042b60abf09707305523b70d87312817654fe180",
+      "title": "Local algorithms for interactive clustering"
+    },
+    {
+      "paperId": "3c44f7e8234cc0f38ba5bc67e55ef85ca8b514ae",
+      "title": "MultiFacet: A Faceted Interface for Browsing Large Multimedia Collections"
+    },
+    {
+      "paperId": "27365004b7985e97a48d9cea199a78faf837b213",
+      "title": "Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes"
+    },
+    {
+      "paperId": "7a0e761fa0419822fe858c8a14341cf331c7eca5",
+      "title": "Using Interactive Visual Reasoning to Support Sense-Making: Implications for Design"
+    },
+    {
+      "paperId": "e296f327f86527ef0d2a9087b30a3678463342c5",
+      "title": "Semantics of Directly Manipulating Spatializations"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "937f39e91fb2469f5d71b69fc2568556ff38fc9c",
+      "title": "Visual cavity analysis in molecular simulations"
+    },
+    {
+      "paperId": "b07c2f8b749b5adbe60f16ca160ce1d7e52aeb03",
+      "title": "Nonlinear Dimensionality Reduction for Visualization"
+    },
+    {
+      "paperId": "33b42f0c803b46a1b7b1d33ff2f65463e429e2e1",
+      "title": "Interactive topic modeling"
+    },
+    {
+      "paperId": "10c6bec069009e35e628b47ddf4aa34f7c78dd1b",
+      "title": "Interactive Machine Learning in Data Exploitation"
+    },
+    {
+      "paperId": "e26e77fca73d97f6eb5f926e004c71dd6a01ee60",
+      "title": "Bixplorer: Visual Analytics with Biclusters"
+    },
+    {
+      "paperId": "e36f4e7ec7498028231b578dc3a6000e2284ae3a",
+      "title": "Customizing Computational Methods for Visual Analytics with Big Data"
+    },
+    {
+      "paperId": "32f7f665e085799e24efa50ad6e6734c6879768b",
+      "title": "An Efficient Posterior Regularized Latent Variable Model for Interactive Sound Source Separation"
+    },
+    {
+      "paperId": "899df73ccd93e3c362ee93abe4fd5d53ac834521",
+      "title": "An Interactive Analysis and Exploration Tool for Epigenomic Data"
+    },
+    {
+      "paperId": "ffd9660bf2e3ac4a92aacd055bcbbc1bf97a62c1",
+      "title": "viSNE enables visualization of high dimensional single-cell data and reveals phenotypic heterogeneity of leukemia"
+    },
+    {
+      "paperId": "31cfef70ac1f758ee22c733de125e1de1d73f8c8",
+      "title": "TripAdvisor^{N-D}: A Tourism-Inspired High-Dimensional Space Exploration Framework with Overview and Detail"
+    },
+    {
+      "paperId": "cedad910833a9377c6025a60020d876433a8562f",
+      "title": "Representative Factor Generation for the Interactive Visual Analysis of High-Dimensional Data"
+    },
+    {
+      "paperId": "0a8b92954f6e7db17c48c02abcd3ce7f45070490",
+      "title": "Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results"
+    },
+    {
+      "paperId": "9faae5d91c4371543ad671c1750b5344f56d88eb",
+      "title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering"
+    },
+    {
+      "paperId": "8a0050b6e3ddd07a0e00f02de584d6b82be2b518",
+      "title": "Stochastic triplet embedding"
+    },
+    {
+      "paperId": "fe5c48ac6e4ada273b1aed18292ebbe619cf4f11",
+      "title": "A correlative analysis process in a visual analytics environment"
+    },
+    {
+      "paperId": "a34b1ca54f29584a3dd9cb6a7cac937875684ef4",
+      "title": "An adaptive parameter space-filling algorithm for highly interactive cluster exploration"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "9f65a1246cc54a7fc0a06f4f77269ef06367b3ab",
+      "title": "Analyst's Workspace: An embodied sensemaking environment for large, high-resolution displays"
+    },
+    {
+      "paperId": "7a807a71cfba96f65625e5e8ac67db30b3892c95",
+      "title": "Just-in-time annotation of clusters, outliers, and trends in point-based data visualizations"
+    },
+    {
+      "paperId": "50334619ec5b9fb38094146dd06eb91bff3078ae",
+      "title": "LeadLine: Interactive visual analysis of text data through event identification and exploration"
+    },
+    {
+      "paperId": "f9cf5a73d01c438fa37414068995de11fa265295",
+      "title": "Black Holes, Keyholes And Brown Worms: Challenges In Sense Making"
+    },
+    {
+      "paperId": "30b90c1f286bb0866b727291f66643f8af86e159",
+      "title": "StratomeX: Visual Analysis of Large\u2010Scale Heterogeneous Genomics Data for Cancer Subtype Characterization"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "fb16f17fb47293003598844cd351130cca245939",
+      "title": "Heterogeneous Data Fusion via Space Alignment Using Nonmetric Multidimensional Scaling"
+    },
+    {
+      "paperId": "94f86682fde3a2ae380f89387b69963f67d8efe9",
+      "title": "Real-time visual analytics for event data streams"
+    },
+    {
+      "paperId": "1456063599d9c34665a97730b84350397436c35f",
+      "title": "TIARA: Interactive, Topic-Based Visual Text Summarization and Analysis"
+    },
+    {
+      "paperId": "56a68aba63a7c3f2ebd8de243d64bb607d27b76c",
+      "title": "Observation-level interaction with statistical models for visual analytics"
+    },
+    {
+      "paperId": "e7650b2cd8ffe1e73c306e61944d99b73b070e48",
+      "title": "SensePlace2: GeoTwitter analytics support for situational awareness"
+    },
+    {
+      "paperId": "b95942f0a6331f0cd826f7c4d5c1cf7c7a5251c9",
+      "title": "Guiding feature subset selection with an interactive visualization"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "7c3da93a1b6d4e496b325b991a5a51c9bd10a756",
+      "title": "Characterizing the intelligence analysis process: Informing visual analytics design through a longitudinal field study"
+    },
+    {
+      "paperId": "8df85054bc99278c835a7e7556dbd1ff37dc29d8",
+      "title": "ParallelTopics: A probabilistic approach to exploring document collections"
+    },
+    {
+      "paperId": "ee07f52a95e3dc7d73f4d4d7d87e33e011c50acf",
+      "title": "Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data"
+    },
+    {
+      "paperId": "4b0cc2e4c85a1bd54b52efe77686b048eb844cde",
+      "title": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series"
+    },
+    {
+      "paperId": "3ba30e03a662ba8baffb057704f7179364bdd166",
+      "title": "Designing Mobile Interfaces"
+    },
+    {
+      "paperId": "d5c1c017f78b2d53b5d3b9737ebb47388ec3b7a9",
+      "title": "Visual exploration of microbial populations"
+    },
+    {
+      "paperId": "cffc77e76fb7ce5461ef59fe50f71c7b95d7a0ff",
+      "title": "Helping Users Sort Faster with Adaptive Machine Learning Recommendations"
+    },
+    {
+      "paperId": "2f89bf735e968ceaf0d99f8bd2155c4af1c73cfe",
+      "title": "Fluid interaction for information visualization"
+    },
+    {
+      "paperId": "00ed79085dd3cd4710b3dfdfe258bff361a5d0e4",
+      "title": "Simultaneous Learning and Covering with Adversarial Noise"
+    },
+    {
+      "paperId": "cb476963da9e744f47f1989bf083f9fd38a3b5a5",
+      "title": "Interactive Visual Analysis of Temporal Cluster Structures"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "93004c2ed09be11606c2b61b08ff79dcbfde0bc1",
+      "title": "Integrating cluster formation and cluster evaluation in interactive visual analysis"
+    },
+    {
+      "paperId": "4472f4dc991699084c1257f74dc80e787c933e1b",
+      "title": "Display and Interface Design: Subtle Science, Exact Art"
+    },
+    {
+      "paperId": "066a6d17f069389952e0d0d6d6790c61b26496a2",
+      "title": "Dimensionality Reduction for Data Visualization [Applications Corner]"
+    },
+    {
+      "paperId": "3373535433a2d54bd2a547abd8baaa431f7d3e43",
+      "title": "Visual market sector analysis for financial time series data"
+    },
+    {
+      "paperId": "61bc124f3d82a486ac516bab13c579219103378a",
+      "title": "Two-stage framework for a topology-based projection and visualization of classified document collections"
+    },
+    {
+      "paperId": "9d05566dffa8476b7c4cc36ca1f3b9f41174bafa",
+      "title": "iVisClassifier: An interactive visual analytics system for classification based on supervised dimension reduction"
+    },
+    {
+      "paperId": "1805b27ddc033ccd81cd1572f7039a46c0b93521",
+      "title": "Comparative Analysis of Multidimensional, Quantitative Data"
+    },
+    {
+      "paperId": "7efbaf1e9280872a390b1add0b442df9650feef0",
+      "title": "Taming Manias: On the Origins, Inevitability, Prediction and Regulation of Bubbles and Crashes"
+    },
+    {
+      "paperId": "6b923033b0ad4de06c54b44d30c5c588c092907d",
+      "title": "A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection"
+    },
+    {
+      "paperId": "2d47931792d9dc1e752551f56fe477d085555f39",
+      "title": "Space\u2010in\u2010Time and Time\u2010in\u2010Space Self\u2010Organizing Maps for Exploring Spatiotemporal Patterns"
+    },
+    {
+      "paperId": "c64863301f4ae0ab4971c14d8bfb7591d3d885f4",
+      "title": "Space to think: large high-resolution displays for sensemaking"
+    },
+    {
+      "paperId": "7e0006dc1972e276805d1bd6c5dc2813c7a6d824",
+      "title": "Automatic Keyword Extraction from Individual Documents"
+    },
+    {
+      "paperId": "7715bb1070691455d1fcfc6346ff458dbca77b2c",
+      "title": "An Efficient Explanation of Individual Classifications using Game Theory"
+    },
+    {
+      "paperId": "f34cc17937e7623f8e09ef4e3805ce017223d2f7",
+      "title": "Visualization of omics data for systems biology"
+    },
+    {
+      "paperId": "2cd7d523f89b18e5813c8a3b79b19b8c1fc9d442",
+      "title": "Bayesian emulation of complex multi-output and dynamic computer models"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "b3754b67f12a9f0fdeb440f45df70454773ad636",
+      "title": "FinVis: Applied visual analytics for personal financial planning"
+    },
+    {
+      "paperId": "06429d3d408cb4b08a95360730bceaeda9202cc3",
+      "title": "Interactive visual clustering of large collections of trajectories"
+    },
+    {
+      "paperId": "d8048365a990eec1b0762131b257c05b72ac41fc",
+      "title": "LSAView: A tool for visual exploration of latent semantic modeling"
+    },
+    {
+      "paperId": "c7a1b7c7af07ec11849783cae2ff3b3d015a45b4",
+      "title": "Interactive, topic-based visual text summarization and analysis"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "46f4d10c48401161b4aeea524ac8251a826e2d91",
+      "title": "Visual Human+Machine Learning"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "17f4e1c937c91f8993d5227205ad136813a0f515",
+      "title": "Model-driven Visual Analytics"
+    },
+    {
+      "paperId": "9727aeefff8cd06576c59106c8fa8e8ca615bd7c",
+      "title": "Interactive Visual Steering - Rapid Visual Prototyping of a Common Rail Injection System"
+    },
+    {
+      "paperId": "c482579789f9492bd8d24fc5513c8b6ca8362a81",
+      "title": "Brushing of Attribute Clouds for the Visualization of Multivariate Data"
+    },
+    {
+      "paperId": "0b9841c3052ae0b40e594580634251ba53087b3f",
+      "title": "Probabilistic latent semantic visualization: topic model for visualizing documents"
+    },
+    {
+      "paperId": "0e5c81f9d64f244a779310dd705d4dd69d3c3aff",
+      "title": "Constrained Clustering: Advances in Algorithms, Theory, and Applications"
+    },
+    {
+      "paperId": "9c789a2e47447e34a7d05d72dce2fa71da1cd963",
+      "title": "Visual Analytics on the Financial Market: Pixel-based Analysis and Comparison of Long-Term Investments"
+    },
+    {
+      "paperId": "1208d09d8a28867b0712ab5fc623fddf3a930fdb",
+      "title": "Visually driven analysis of movement data by progressive clustering"
+    },
+    {
+      "paperId": "3957771661b1c705266bd18551fbc720d492273f",
+      "title": "Towards closing the analysis gap: Visual generation of decision supporting schemes from raw data"
+    },
+    {
+      "paperId": "4d7f60031b11c0655349f6e24439772d15e2f25e",
+      "title": "Semisupervised Clustering with Metric Learning using Relative Comparisons"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "4afec4162711614d69c0e167c09105560b317c7f",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "0d96d03cf822ea1584b468389b3f4bc39164d85f",
+      "title": "SNIF-ACT: A Cognitive Model of User Navigation on the World Wide Web"
+    },
+    {
+      "paperId": "fd9ca4997864b075d796fd7cd6fd4a092a9ea319",
+      "title": "Visual Verification and Analysis of Cluster Detection for Molecular Dynamics"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "59a3b7060e53d8cadf19e4e9301653302346bfa5",
+      "title": "Stories in GeoTime"
+    },
+    {
+      "paperId": "a14ce02088dbb3ebe0d2d4950db52da41148fef8",
+      "title": "Storylines: Visual exploration and analysis in latent semantic spaces"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "20bf703435604b950efec7b9a21db66bd5b8ef83",
+      "title": "Visual Explanation of Evidence with Additive Classifiers"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "97b9c469b8c45221f04fd829663250646894732f",
+      "title": "The soft constraints hypothesis: a rational analysis approach to resource allocation for interactive behavior."
+    },
+    {
+      "paperId": "fd6953bb4c9689f48951836da721091e8b7c3304",
+      "title": "Making Sense of Sensemaking 1: Alternative Perspectives"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "853e1c477b291a50c08f122a0175bdf418044ff7",
+      "title": "The Sandbox for analysis: concepts and methods"
+    },
+    {
+      "paperId": "ad5ede7218d05ce54f4ae4dd1dc5d4dd9a8d75ca",
+      "title": "Semi-supervised clustering with metric learning using relative comparisons"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "c7cf931b346205e51ef8664fe335da78371680d6",
+      "title": "Finding Decision Support Requirements for Effective Intelligence Analysis Tools"
+    },
+    {
+      "paperId": "e38a2c26043360cdd1dfdd20f5929fbe3965bceb",
+      "title": "Special Issue: Frontiers of Organization Science, Part 1 of 2: Organizing and the Process of Sensemaking"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "f10d32b741e910a5a55286a75167dc71f63fc049",
+      "title": "Steerable, Progressive Multidimensional Scaling"
+    },
+    {
+      "paperId": "db2d99084f3d25d3934976f9d9fdb6b882593a9d",
+      "title": "Introduction to machine learning"
+    },
+    {
+      "paperId": "95a2ade2834ce6a85d0e8e6b82c81deb34cd115d",
+      "title": "Active Semi-Supervision for Pairwise Constrained Clustering"
+    },
+    {
+      "paperId": "215aa495b4c860a1e6d87f2c36f34da464376cc4",
+      "title": "Finding scientific topics"
+    },
+    {
+      "paperId": "68459ed4cff7692699d60218c1dc579cfe5e24c5",
+      "title": "Biclustering algorithms for biological data analysis: a survey"
+    },
+    {
+      "paperId": "cc86aa7d81cfac9aaec4b095e817ce7bb1f1ef78",
+      "title": "Semi-Supervised Clustering with User Feedback"
+    },
+    {
+      "paperId": "a3db81e35f1890511c38d685a2f57de476820518",
+      "title": "Interactive machine learning"
+    },
+    {
+      "paperId": "47b57ff66c178171f4cf0b2d0fd0a87a27384580",
+      "title": "Interactively Exploring Hierarchical Clustering Results"
+    },
+    {
+      "paperId": "e0a202166130d8ebb273054d6285d6a35aed224f",
+      "title": "The Integration of Geographic Visualization with Knowledge Discovery in Databases and Geocomputation"
+    },
+    {
+      "paperId": "d857a39b5a421ace552e6a2f6c83977086fb982f",
+      "title": "Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "ddf5ad4d482e1685ba5a85ca5d89e9726267b825",
+      "title": "SOM-based data visualization methods"
+    },
+    {
+      "paperId": "68dd4b89ce1407372a29d05ca9e4e1a2e0513617",
+      "title": "A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction, and Representation of Knowledge."
+    },
+    {
+      "paperId": "14f157daceb1ef540a68f8aec39b41de4657690f",
+      "title": "Visualizing the non-visual: spatial analysis and interaction with information from text documents"
+    },
+    {
+      "paperId": "6acd45949c2b167928211c562c8d9c445651f1ef",
+      "title": "Bayesian analysis in expert systems"
+    },
+    {
+      "paperId": "bfde5190c5300e8b9b1c370efa8de96390144f96",
+      "title": "The cost structure of sensemaking"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "b7000835226609a5c0ff6dacb5c2cc9d38dfe916",
+      "title": "Rank Correlation Methods"
+    },
+    {
+      "paperId": null,
+      "title": "submitted to COMPUTER GRAPHICS Forum"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "9964d3689324a2456611f34bcbef5681a9ba9330",
+      "title": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "paperId": "9f7c16b1f63cbee85a20b1d57b65f1eeb1fff7bb",
+      "title": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "paperId": "794b3ffd28d28606230efc975eeec9f0522fb139",
+      "title": "An Introduction to Machine Learning"
+    },
+    {
+      "paperId": "72cbd4fa6fccfb609152aaa7cd781dd56720ca45",
+      "title": "A state-space model on interactive dimensionality reduction"
+    },
+    {
+      "paperId": "b15a45b44d2ce9448410d9a40c0e6ec8d47645bd",
+      "title": "Insight A Study Of Human Understanding"
+    },
+    {
+      "paperId": "0fc3f2bfa35ba4f4748c3a989f9e37de21d5be55",
+      "title": "Interactive Visual Analysis of Lumbar Back Pain - What the Lumbar Spine Tells About Your Life"
+    },
+    {
+      "paperId": "757522dbc98f0b276e8cd49f5a369290d8a2bcd7",
+      "title": "An Approach to Supporting Incremental Visual Data Classification"
+    },
+    {
+      "paperId": "84b175764fbd2152d6d8a8a67d4370a508c9fb18",
+      "title": "Bridging Information Visualization with Machine Learning (Dagstuhl Seminar 15101)"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "fe2ba3b511947e1042b87d2fd9d9ba6b756e77d3",
+      "title": "On Computationally-Enhanced Visual Analysis of Heterogeneous Data and Its Application in Biomedical Informatics"
+    },
+    {
+      "paperId": "57b69cde8e1fe37c2fa951775f356fea19687bd0",
+      "title": "Interactive dimensionality reduction for visual analytics"
+    },
+    {
+      "paperId": "6e54190bf8d02cd413b6243f4cbb25b4fb301d80",
+      "title": "Beyond Control Panels Direct Manipulation for Visual Analytics"
+    },
+    {
+      "paperId": "bbd88bf298a612f6546c2adba84b29d726145245",
+      "title": "Active Learning for Interactive Visualization"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": null,
+      "title": "Framing and acting in the unknown"
+    },
+    {
+      "paperId": "70aa6ea56bb3f7821211e12bc95cf218dc0de419",
+      "title": "A Bi-directional Visualization Pipeline that Enables Visual to Parametric Interation ( V 2 PI )"
+    },
+    {
+      "paperId": "818826f356444f3daa3447755bf63f171f39ec47",
+      "title": "Active Learning Literature Survey"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+      "title": "Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Text mining: Theory and applications, chapter topic models"
+    },
+    {
+      "paperId": null,
+      "title": "of Lecture Notes in Computer Science"
+    },
+    {
+      "paperId": "3cf479f9dbfb7ed40b3e06b741197041a1965eec",
+      "title": "Extreme value theory : an introduction"
+    },
+    {
+      "paperId": "3b28faf85a8f47672e6ada797f094a915d5683b7",
+      "title": "Organizing and the Process of Sensemaking"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "9b6c25755ee546a113f0056f4f8042a551d9187c",
+      "title": "gCLUTO \u2013 An Interactive Clustering, Visualization, and Analysis System"
+    },
+    {
+      "paperId": "c9ebf0d7ba518f835b57eace8374dc448e062ea1",
+      "title": "A cartographic approach to visualizing conference abstracts"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "f4c7caebecd0f1b42d1eb8da1061e464fcccae11",
+      "title": "Automation Surprises"
+    },
+    {
+      "paperId": "b61b56aa101eb3ade9bc002765bbcb5308410bcd",
+      "title": "Emergent Structure in Analytic Workspaces: Design and Use of the Visual Knowledge Builder"
+    },
+    {
+      "paperId": "4cd4ccd9225f0a3c79cd4c72bd171039e28f2ab6",
+      "title": "The Elements of Statistical Learning"
+    },
+    {
+      "paperId": "bc7ee7f3f3588f676d3a157d69b9de48274c288d",
+      "title": "The Integration of Geographic Visualization with Knowledge Discovery in Databases and Geocomputation"
+    },
+    {
+      "paperId": "48b9293cfd4297f855867ca278f7069abc6a9c24",
+      "title": "CRISP-DM: Towards a Standard Process Model for Data Mining"
+    },
+    {
+      "paperId": null,
+      "title": "The crisp-dm model: the new blueprint for data mining"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "a6d814058b05c52d7ebf0f680b0217cb37cc9e6b",
+      "title": "User Centered System Design"
+    },
+    {
+      "paperId": "9dcf5f4ea24d792177025a577dc4b304c7eae4b4",
+      "title": "A Survey of Algorithms for Contiguity-Constrained Clustering and Related Problems"
+    },
+    {
+      "paperId": "6094f4c6ed65e2e46dc57e2bd7a3cb10e7ed2199",
+      "title": "Rank Correlation Methods"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    },
+    {
+      "paperId": null,
+      "title": "Model-based layout"
+    },
+    {
+      "paperId": "112c72e1473d2ab56589950656ac3c2666e22057",
+      "title": "25th Annual Conference on Learning Theory Robust Interactive Learning"
+    },
+    {
+      "paperId": null,
+      "title": "Hypermoval : Interactive visual validation of regression models for real - time simulation"
+    },
+    {
+      "paperId": null,
+      "title": "Tiara : a visual exploratory text analytic system"
+    },
+    {
+      "paperId": null,
+      "title": "What constitutes a complex system"
+    }
+  ]
+}

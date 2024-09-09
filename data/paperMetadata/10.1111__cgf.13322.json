@@ -1,0 +1,1097 @@
+{
+  "paperId": "db03b29109eb4ac90b9cef11c69929705ed999ae",
+  "externalIds": {
+    "DBLP": "journals/cgf/LawonnVPI18",
+    "MAG": "2982502746",
+    "DOI": "10.1111/cgf.13322",
+    "CorpusId": 51882028
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/db03b29109eb4ac90b9cef11c69929705ed999ae",
+  "title": "A Survey of Surface\u2010Based Illustrative Rendering for Visualization",
+  "abstract": "In this paper, we survey illustrative rendering techniques for 3D surface models. We first discuss the field of illustrative visualization in general and provide a new definition for this sub\u2010area of visualization. For the remainder of the survey, we then focus on surface\u2010based models. We start by briefly summarizing the differential geometry fundamental to many approaches and discuss additional general requirements for the underlying models and the methods' implementations. We then provide an overview of low\u2010level illustrative rendering techniques including sparse lines, stippling and hatching, and illustrative shading, connecting each of them to practical examples of visualization applications. We also mention evaluation approaches and list various application fields, before we close with a discussion of the state of the art and future work.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2018,
+  "referenceCount": 258,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01652236/file/Lawonn_2018_SSI.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-09-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lawonn2018ASO,\n author = {K. Lawonn and I. Viola and B. Preim and Tobias Isenberg},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Surface\u2010Based Illustrative Rendering for Visualization},\n volume = {37},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1798143",
+      "name": "K. Lawonn"
+    },
+    {
+      "authorId": "1736888",
+      "name": "I. Viola"
+    },
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "76082a00ed6f3e3828f78436723d7fde29faeed4",
+      "title": "Pondering the Concept of Abstraction in (Illustrative) Visualization"
+    },
+    {
+      "paperId": "e8ed0d3f4339ca82e18d948b9362f4f753f9c772",
+      "title": "Non-Photorealistic Rendering"
+    },
+    {
+      "paperId": "78ac91818d1ac4738bfc260042024f0b4cb7688a",
+      "title": "A survey of digital stippling"
+    },
+    {
+      "paperId": "4ee853ecdc77f6fb4c55d64c02a2d7b92a01da45",
+      "title": "StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings\u306e\u5b9f\u88c5"
+    },
+    {
+      "paperId": "012e0117a90cd0d084e888b7ba62055ca6b042a9",
+      "title": "Neural style transfer: a paradigm shift for image-based artistic rendering?"
+    },
+    {
+      "paperId": "a517e79827385fab930973a55b9bee70ab37fe50",
+      "title": "Global Tone: using tone to draw in Pen-and-Ink illustration"
+    },
+    {
+      "paperId": "08807912aabd09040994dc2be13ac1d94377ed1d",
+      "title": "Improving spatial perception of vascular models using supporting anchors and illustrative visualization"
+    },
+    {
+      "paperId": "87d3aebbbfbc81ba3b67d74c939cb59859071c1c",
+      "title": "Generative Data Models for Validation and Evaluation of Visualization Techniques"
+    },
+    {
+      "paperId": "ccc4c47faf3ef1e5646fffddb351596c8902f753",
+      "title": "Sline: Seamless Line Illustration for Interactive Biomedical Visualization"
+    },
+    {
+      "paperId": "aad7826b952e3f1ab17b1dc181f58f3c13bd7216",
+      "title": "StyLit"
+    },
+    {
+      "paperId": "7568d13a82f7afa4be79f09c295940e48ec6db89",
+      "title": "Image Style Transfer Using Convolutional Neural Networks"
+    },
+    {
+      "paperId": "4992863d9008b341123801d8e99334343d711c2f",
+      "title": "Mesh Statistics for Robust Curvature Estimation"
+    },
+    {
+      "paperId": "0b4adb0f63e7a969d8775b091b35b1ab3df80027",
+      "title": "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data"
+    },
+    {
+      "paperId": "51a3aee800ab054f60c4224e02f3e18feec8e874",
+      "title": "Tonal Art Maps with Image Space Strokes"
+    },
+    {
+      "paperId": "26c4cdaafab994e893a87e81605248a8d4fc1fe0",
+      "title": "Interactive NPAR: what type of tools should we create?"
+    },
+    {
+      "paperId": "b03120b724d3533f62a2485a3bb594cd98f7ee46",
+      "title": "STAR \u2010 Laplacian Spectral Kernels and Distances for Geometry Processing and Shape Analysis"
+    },
+    {
+      "paperId": "74b426c16999517792342b9519171bc1e837ab6f",
+      "title": "Real-time 3D rendering with hatching"
+    },
+    {
+      "paperId": "9b3c94bc79665d1c3d94592dff9654167a346077",
+      "title": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization"
+    },
+    {
+      "paperId": "6d336e7e9af52d7886db2e8a8d74afc92c7b7f8a",
+      "title": "Cluster Analysis of Vortical Flow in Simulations of Cerebral Aneurysm Hemodynamics"
+    },
+    {
+      "paperId": "0bc3d0685b913ed1b582bd54611793c53ac22ca1",
+      "title": "Stylized line drawings for shape depiction"
+    },
+    {
+      "paperId": "b7e84724d6c9d126df0663104d47bcf2d3f22105",
+      "title": "Real-Time Artistic Silhouettes Rendering for 3D Models"
+    },
+    {
+      "paperId": "16c89032f3c15d65ddbdd83ffc035d8b3c3b6ca6",
+      "title": "Illustrative Visualization of Vascular Models for Static 2D Representations"
+    },
+    {
+      "paperId": "5a24e5e7c08719182486c055ee51dad25d89f79d",
+      "title": "Guided Mesh Normal Filtering"
+    },
+    {
+      "paperId": "7a1c9cb43ad1579ab7daaf5f496da5cf4e452a9d",
+      "title": "cellVIEW: a Tool for Illustrative and Multi-Scale Rendering of Large Biomolecular Datasets"
+    },
+    {
+      "paperId": "2479cf7511ca10a1802248da68f16d4c1d741fb1",
+      "title": "Stylized strokes for coherent line drawings"
+    },
+    {
+      "paperId": "f4f53e41ae3715f46a04a733be7bb574dd8aaead",
+      "title": "Hybrid-space localized stylization method for view-dependent lines extracted from 3D models"
+    },
+    {
+      "paperId": "c31576ffbb5ff008631a15d92218f87067b3bea3",
+      "title": "A Survey of Illustrative Visualization Techniques for Diffusion-Weighted MRI Tractography"
+    },
+    {
+      "paperId": "7eef7111dc02d313037ad250868b97dc436906a9",
+      "title": "Interactive Illustrative Line Styles and Line Style Transfer Functions for Flow Visualization"
+    },
+    {
+      "paperId": "d3fce56b38f377b0eef0ef1597eb0a75372f4d94",
+      "title": "Illustrative visualization of medical data sets"
+    },
+    {
+      "paperId": "d7d0d182a7875d6baef1298604fa60e90fbbce66",
+      "title": "Feature Lines for Illustrating Medical Surface Models: Mathematical Background and Survey"
+    },
+    {
+      "paperId": "c95ee3b4dc7e86e0d0f84798b10ad1d9e9b0faf0",
+      "title": "Feature-preserving mesh denoising via normal guided quadric error metrics"
+    },
+    {
+      "paperId": "e2a502de05e3b23a56edcf3b439c25389bd0ba86",
+      "title": "Illustrative Visualization of Molecular Reactions using Omniscient Intelligence and Passive Agents"
+    },
+    {
+      "paperId": "4d2ebe10dbc424c670ea39b841c77f7b5aae9d7e",
+      "title": "Adaptive Surface Visualization of Vessels with Animated Blood Flow"
+    },
+    {
+      "paperId": "28402f1d2262abc90edb60714b7eec56bd097e70",
+      "title": "Detection of crest lines on meshes"
+    },
+    {
+      "paperId": "0043dc901449018ad2e60c97a5fbd0efcf1e2910",
+      "title": "A General Framework for Bilateral and Mean Shift Filtering"
+    },
+    {
+      "paperId": "94e701a97a63b8c604ed925351c4598ac7d51506",
+      "title": "Computing smooth surface contours with accurate topology"
+    },
+    {
+      "paperId": "eb8e95b6f8662a618db9c203f3b0e3fcea92b329",
+      "title": "Realtime, coherent screen space hatching"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "ef458db73ffdfc30364e298b0d6a2c8704692364",
+      "title": "Drawing Features of 3D Meshes in Pencil-drawing Style"
+    },
+    {
+      "paperId": "83fd5fdc305dcdb2dd3e341b738e292ae5e72cfe",
+      "title": "Illustrative visualization of cardiac and aortic blood flow from 4D MRI data"
+    },
+    {
+      "paperId": "7ddf7e9ecffd064c5e5968408a1f768a1bd98df5",
+      "title": "Mesh denoising via L0 minimization"
+    },
+    {
+      "paperId": "ae5ff64d414972667c21c3442f339b967b4bb45a",
+      "title": "Streamlines for Illustrative Real\u2010Time Rendering"
+    },
+    {
+      "paperId": "d0fd551d836f519922bb3c2617820eb00664b54d",
+      "title": "Smart Transparency for Illustrative Visualization of Complex Flow Surfaces"
+    },
+    {
+      "paperId": "d24343feff22ab6839de2f7c659734489b9bb11b",
+      "title": "State of the \"Art&#x201D;: A Taxonomy of Artistic Stylization Techniques for Images and Video"
+    },
+    {
+      "paperId": "524c3e5bb933dd8025981ca7a8dbc7756d32b1e0",
+      "title": "Fast silhouette and crease edge synthesis with geometry shaders"
+    },
+    {
+      "paperId": "676bf854f0432b8d816ea2dcb75ba6c2fb410614",
+      "title": "Non-photorealistic rendering for minimally invasive procedures"
+    },
+    {
+      "paperId": "d0cf17ee4531015d772ba0de1d15fcba4b8923d1",
+      "title": "Technical Section: Interactive example-based hatching"
+    },
+    {
+      "paperId": "100da94c9c220067f2ba9e2786f947f218fe4e02",
+      "title": "Screen space features for real-time hatching synthesis"
+    },
+    {
+      "paperId": "2e58e1b6ef69d30360392873908a70acfb0c862d",
+      "title": "Pencil rendering on 3D meshes using convolution"
+    },
+    {
+      "paperId": "ea7a97f58d5256060997a29d1c7f7c7a7a39c2e0",
+      "title": "Image and Video-Based Artistic Stylisation"
+    },
+    {
+      "paperId": "f3dda9be7880aa0ee66f73daaca9bda30bb0974b",
+      "title": "Sketch-based shape retrieval"
+    },
+    {
+      "paperId": "4f5f996c26ec95d9c330b36ec2267da1e43ccdf1",
+      "title": "Efficient and robust 3D line drawings using difference-of-Gaussian"
+    },
+    {
+      "paperId": "36e98eb0ed829cdbf6b77f3cf7bbdd2840e07041",
+      "title": "Active strokes: coherent line stylization for animated 3D models"
+    },
+    {
+      "paperId": "dc13dc323b6ed2ee9924dc705358d6c191f37f4f",
+      "title": "Interactive Visualization of Generalized Virtual 3D City Models using Level\u2010of\u2010Abstraction Transitions"
+    },
+    {
+      "paperId": "a2081a52527c5385d79e482a57ff16faad04726b",
+      "title": "Visual 4D MRI blood flow analysis with line predicates"
+    },
+    {
+      "paperId": "7f26e229e955f98c5b0b03c59eec39937d4e2705",
+      "title": "Depicting 3D shape using lines"
+    },
+    {
+      "paperId": "295a431e61b1866e727b8d4a3aa829429abbd091",
+      "title": "Where do people draw lines?"
+    },
+    {
+      "paperId": "22b3fad8ddb3cc147d9ec227066b8b49bca10a32",
+      "title": "Illustrative Line Styles for Flow Visualization"
+    },
+    {
+      "paperId": "a4c2909f281d19f8196d34be2a53c97a43d0180f",
+      "title": "Interactive Expressive Illustration of 3D City Scenes"
+    },
+    {
+      "paperId": "307948708120b19336ef4ec08227dd94bb668581",
+      "title": "An Illustrative Visualization Framework for 3D Vector Fields"
+    },
+    {
+      "paperId": "e6e6655532a18f56e84b1a4611587ac046408bc1",
+      "title": "The Visualization Handbook"
+    },
+    {
+      "paperId": "89936297ec3e616dc28bc4a0c9ebae31a8b44fea",
+      "title": "Illustrative Volume Visualization for Unstructured Meshes Based on Photic Extremum Lines"
+    },
+    {
+      "paperId": "f9f03076e00b6d82282247f1df4520e76ddc3def",
+      "title": "Snaxels on a plane"
+    },
+    {
+      "paperId": "b16bd0559856b5e85acbc8ba1c059542fa9c527b",
+      "title": "Improving Shape Depiction under Arbitrary Rendering"
+    },
+    {
+      "paperId": "040e19ff7512c8232f18338a96a86fb3a253c6d7",
+      "title": "Real-Time Shape Illustration Using Laplacian Lines"
+    },
+    {
+      "paperId": "122e5633f956cc758c4fe36fab571b853a37e64c",
+      "title": "Illustrative Molecular Visualization with Continuous Abstraction"
+    },
+    {
+      "paperId": "fe8023e03d83e74bca306abb2b6f29dc03e354a6",
+      "title": "Generalized shape operators on polyhedral surfaces"
+    },
+    {
+      "paperId": "67828d69efa0ba8b315bc915306b65c5d08b9a70",
+      "title": "Scale-Dependent and Example-Based Grayscale Stippling"
+    },
+    {
+      "paperId": "6371f5d444a20e12bf9c5f1d2cbb1ac07fbe59c5",
+      "title": "3D model feature line stylization using mesh sharpening"
+    },
+    {
+      "paperId": "d777079811cb42631a3ba864e7bd8ac709031c0f",
+      "title": "Illustrative Stream Surfaces"
+    },
+    {
+      "paperId": "4da781282dc64ae921e774a7282327058568bc6c",
+      "title": "IRIS: Illustrative Rendering for Integral Surfaces"
+    },
+    {
+      "paperId": "629c5d46ea3001c96d1ad6872da1c9369d4b5d39",
+      "title": "Exploration of 4D MRI Blood Flow using Stylistic Visualization"
+    },
+    {
+      "paperId": "786aeea8903e20063a5fe24f3fa99cdc51e50e76",
+      "title": "Polygon Mesh Processing"
+    },
+    {
+      "paperId": "777b1226be3abfb2c0b82de954c51f4ad067fe79",
+      "title": "Editorial note for special section on illustrative visualization"
+    },
+    {
+      "paperId": "5f28197b5dbd763abe60f5f95d935d3696f5229b",
+      "title": "Suggestive Hatching"
+    },
+    {
+      "paperId": "fadc7a7289905eab7aa44d8ecd168d286fc89de1",
+      "title": "Self-similar texture for coherent line stylization"
+    },
+    {
+      "paperId": "4624ba6ad4e014380b7194671b983cc5b1387655",
+      "title": "Non-iterative stippling of greyscale threedimensional polygon meshed models"
+    },
+    {
+      "paperId": "4bd9d975cabaf2c67e10b127c70696e02c4ec164",
+      "title": "Real-time computation of photic extremum lines (PELs)"
+    },
+    {
+      "paperId": "5fdf3f35220a42902c5466848c790808171789b6",
+      "title": "Programmable rendering of line drawing from 3D scenes"
+    },
+    {
+      "paperId": "7ad98ed442f890eb00df6f17fc334b50a42d7de4",
+      "title": "Illustrative visualization of 3D planning models for augmented reality in liver surgery"
+    },
+    {
+      "paperId": "03fc4faa7f851544359f39e3cf79f0650495d94a",
+      "title": "Depth-Dependent Halos: Illustrative Rendering of Dense Line Data"
+    },
+    {
+      "paperId": "edbe3816dfca69eaa5c9e358c5b29218defd1faf",
+      "title": "Multi-Scale Surface Descriptors"
+    },
+    {
+      "paperId": "bca083bc3ff3ece417aba75713c2662babb8c19a",
+      "title": "Perspective Contouring in Illustrative Visualization"
+    },
+    {
+      "paperId": "5e7c2c044e8a92ce5fb1df9022ab8d0007173c7a",
+      "title": "3D Line Drawing for Archaeological Illustration"
+    },
+    {
+      "paperId": "f306248ec0ded12314bce933fd34ead0ee058cd0",
+      "title": "Stippling by example"
+    },
+    {
+      "paperId": "a52e3b144d65399b78492e4a5661cc36cc883aeb",
+      "title": "Light warping for enhanced surface depiction"
+    },
+    {
+      "paperId": "f18dff37545729f68b3477a5e4bb674b96a55d16",
+      "title": "How well do line drawings depict shape?"
+    },
+    {
+      "paperId": "159e49e10808c6af71c1159237fb3140bdbb1eb1",
+      "title": "Capacity-constrained point distributions: a variant of Lloyd's method"
+    },
+    {
+      "paperId": "dbcef310a5f5beae079b35221276406cc451f231",
+      "title": "On edge detection on surfaces"
+    },
+    {
+      "paperId": "2056f0cf6f474bae7631cf0684a98b6a8b31ce84",
+      "title": "Data-driven curvature for real-time line drawing of dynamic scenes"
+    },
+    {
+      "paperId": "208e0e06c026678d079b328780a776b8d59c7a11",
+      "title": "Line-art illustration of dynamic and specular surfaces"
+    },
+    {
+      "paperId": "195685df9887f983293a187a1bd57060afcc2d78",
+      "title": "Demarcating curves for shape illustration"
+    },
+    {
+      "paperId": "1e9ab0863af5f2ac4c941c018792af4f334ed332",
+      "title": "Fast, robust, and faithful methods for detecting crest lines on meshes"
+    },
+    {
+      "paperId": "b304313c7fb0ca54fc90a0be92ebbd188b821f2b",
+      "title": "Curvature- and Model-Based Surface Hatching of Anatomical Structures Derived from Clinical Volume Datasets"
+    },
+    {
+      "paperId": "41a9875c11fba9493b6eb794ca91867040c90f4d",
+      "title": "Hardware-Accelerated Illustrative Medical Surface Visualization with Extended Shading Maps"
+    },
+    {
+      "paperId": "ed6e06a38f7a972013d7dca62bbdd263cb2c8958",
+      "title": "GPU-based Particle Systems for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "4bb2e8915512571266a86a752effb04f76589854",
+      "title": "Illustrative visualization: new technology or useless tautology?"
+    },
+    {
+      "paperId": "c98f953511689df7eaca0461167d5a8bb357ee7f",
+      "title": "Discrete laplace operator on meshed surfaces"
+    },
+    {
+      "paperId": "46c8c92d6a1e534ec77be06c7176421091932fdb",
+      "title": "Apparent relief: a shape descriptor for stylized shading"
+    },
+    {
+      "paperId": "48c48b2064bb54aae7b500a5ff2b90dd22bab796",
+      "title": "An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs)"
+    },
+    {
+      "paperId": "10704d745e6c63089d35d837517f1684f99fc8dc",
+      "title": "Molecular Surface Abstraction"
+    },
+    {
+      "paperId": "400f51fd9f1a693c0eecd550c482a8dbd2b9f4a9",
+      "title": "Fast and Faithful Geometric Algorithm for Detecting Crest Lines on Meshes"
+    },
+    {
+      "paperId": "5fbab2edb3d91739b623b66f3dddf100d26d8deb",
+      "title": "Isophote distance: a shading approach to artistic stroke thickness"
+    },
+    {
+      "paperId": "f806840499cdd454edb8169e63b603d04fbefd61",
+      "title": "Highlight lines for conveying shape"
+    },
+    {
+      "paperId": "ea2db209163e9a0e1b4c0229549cfae0182fa045",
+      "title": "Line drawings via abstracted shading"
+    },
+    {
+      "paperId": "d7c05cd0dcf6d5d2beaeaed7ba011bf16536eb72",
+      "title": "Apparent ridges for line drawing"
+    },
+    {
+      "paperId": "f9c5af0201e4cd5b0f079dc28245a3dde34977c6",
+      "title": "Dynamic 2D patterns for shading 3D scenes"
+    },
+    {
+      "paperId": "c650672ac7ef5ecd3002555169973456935c5450",
+      "title": "NPR Lenses: Interactive Tools for Non-Photorealistic Line Drawings"
+    },
+    {
+      "paperId": "348bb23a619f2f311d0235c41105cfadf01adb55",
+      "title": "Image-based streamline generation and rendering"
+    },
+    {
+      "paperId": "800f77fd1547b9971a365ba35cd7e96350037368",
+      "title": "Interactive Illustrative Rendering on Mobile Devices"
+    },
+    {
+      "paperId": "21455d99ed79b9f467e1e51526b5839be49e77ff",
+      "title": "G-Strokes: A Concept for Simplifying Line Stylization"
+    },
+    {
+      "paperId": "63b9044402a13c27b14a9839bed903382ebcd367",
+      "title": "Probabilistic silhouette based importance toward line-art non-photorealistic rendering"
+    },
+    {
+      "paperId": "6463e13514c6e984a12c26c7b16e279dd412b9d8",
+      "title": "Real-Time Illustration of Vascular Structures"
+    },
+    {
+      "paperId": "3117a1995c40b618222d8ef45af688464cf77416",
+      "title": "Explanatory and illustrative visualization of special and general relativity"
+    },
+    {
+      "paperId": "837a315227c821eea2e8843ebeaf481e7e53466a",
+      "title": "Exaggerated shading for depicting shape and detail"
+    },
+    {
+      "paperId": "9ebd836a59e9b1341c26a1680d16e74f9bf05511",
+      "title": "Recursive Wang tiles for real-time blue noise"
+    },
+    {
+      "paperId": "5bee67eeaf29fc1041163ad41ebcaa11e1373b14",
+      "title": "Non-photorealistic rendering in context: an observational study"
+    },
+    {
+      "paperId": "808f82fc65a42d53ab82188da3921c4d0dd1cffd",
+      "title": "X-toon: an extended toon shader"
+    },
+    {
+      "paperId": "0e32efc32522c8c90a76588163814b50acf5f911",
+      "title": "Real-time pencil rendering"
+    },
+    {
+      "paperId": "8f248aab716b9020e4056f40344a29fec51578dd",
+      "title": "Multi-scale line drawings from 3D meshes"
+    },
+    {
+      "paperId": "53026e1d04394df2b589c2b0f6f7b7aa52d1a100",
+      "title": "Geometry-dependent lighting"
+    },
+    {
+      "paperId": "b602875a8a1a29ba8a2f3816df07b2656f768f96",
+      "title": "Illustrative Rendering Techniques for Visualization: Future of Visualization or Just Another Technique?"
+    },
+    {
+      "paperId": "a1d1d88ef4bae2776ad3882b40322b36c16bead9",
+      "title": "Illustration and photography inspired visualization of flows and volumes"
+    },
+    {
+      "paperId": "7f5d33d2b7688109684249b7eb16b5bfbe6ceba1",
+      "title": "Visualization in the Einstein Year 2005: a case study on explanatory and illustrative visualization of relativity and astrophysics"
+    },
+    {
+      "paperId": "77cdbaf051fb9de4a9da6cbbf2899ad423f7dd0d",
+      "title": "Detection of Surface Creases in Range Data"
+    },
+    {
+      "paperId": "e52df7460fb6b6c9e9308d687d14df2c622a6c63",
+      "title": "Detail control in line drawings of 3D meshes"
+    },
+    {
+      "paperId": "ee9fab315cf314603fcadccedb79a243deaf9f27",
+      "title": "Line drawings from 3D models"
+    },
+    {
+      "paperId": "53c30dc339ef1ef7535561e4f6f98f2e7478df99",
+      "title": "Line drawings from volume data"
+    },
+    {
+      "paperId": "8fdd10cbffe8738e61f68738056af0e6098f7fd8",
+      "title": "Stippling and silhouettes rendering in geometry-image space"
+    },
+    {
+      "paperId": "41b7bbf03d540d2f438a39bf14be66ffce35c48f",
+      "title": "Fast and robust detection of crest lines on meshes"
+    },
+    {
+      "paperId": "3e6af5fa6ac7a8f8220dd038b6342c6ba338296d",
+      "title": "Illustrative Visualization for Medical Training"
+    },
+    {
+      "paperId": "fa2c2823a1c0597309c1fdf0cbea51d20130a343",
+      "title": "Graph-based point relaxation for 3D stippling"
+    },
+    {
+      "paperId": "839d4369239428491ff901b0c07cead3641fa251",
+      "title": "Estimating curvatures and their derivatives on triangle meshes"
+    },
+    {
+      "paperId": "dc947288d8b860d828f555a1b103d7ed4f61cf14",
+      "title": "High Quality Hatching"
+    },
+    {
+      "paperId": "a2da928d29db054f50b3ec547e2d4131288e5205",
+      "title": "Ridge-valley lines on meshes via implicit surface fitting"
+    },
+    {
+      "paperId": "c941e831ccc928817cb1e8a1fd4ef1c013d32980",
+      "title": "Programmable Style for NPR Line Drawing"
+    },
+    {
+      "paperId": "a72078ad8da3dff3ecf21937e7f42d4fe1240f96",
+      "title": "Interactive stylized silhouette for point-sampled geometry"
+    },
+    {
+      "paperId": "eb4d38633303f518f4e9aeb31140f6916f1ea1ce",
+      "title": "Interactive rendering of suggestive contours with temporal coherence"
+    },
+    {
+      "paperId": "982bcca43361fa5880c0ab4cdc2001cdeba52bce",
+      "title": "Hardware-determined feature edges"
+    },
+    {
+      "paperId": "4b547903cff6bccb3af8f901ebbae1efe65e7117",
+      "title": "Interactive Silhouette Rendering for Point-Based Models"
+    },
+    {
+      "paperId": "a9a83bd1e373baba1c6d05c256afd5eb0e155a50",
+      "title": "Blueprints: illustrating architecture and technical parts using hardware-accelerated non-photorealistic rendering"
+    },
+    {
+      "paperId": "30373015d69e0881797a709ae0951c4c94ae21c6",
+      "title": "View Direction, Surface Orientation and Texture Orientation for Perception of Surface Shape"
+    },
+    {
+      "paperId": "3dc59b66f6a1cbfb704862bf21c7d1cc89f18058",
+      "title": "Silhouette rendering based on stability measurement"
+    },
+    {
+      "paperId": "2695d2a81dd6b56301241230fd66177e66ee8a91",
+      "title": "A Few Good Lines: Suggestive Drawing of 3D Models"
+    },
+    {
+      "paperId": "19f45fba8ab59423d76f4fb397596bc1353ab0bf",
+      "title": "Precise Ink Drawing of 3D Models"
+    },
+    {
+      "paperId": "eddd0a9bc502a73f99251a11d981879f62f03941",
+      "title": "Beyond Stippling \u2028\u2014 Methods for Distributing Objects on the Plane"
+    },
+    {
+      "paperId": "caea26298cdfed34ea92412a8a62c65bd30d06c5",
+      "title": "A Developer's Guide to Silhouette Algorithms for Polygonal Models"
+    },
+    {
+      "paperId": "4223c707700c77e55cd8f6f3c908abf852ff6abd",
+      "title": "Real-Time Animated Stippling"
+    },
+    {
+      "paperId": "0711b1bc5bbebbe8fe4d30f3257740affc9abb39",
+      "title": "Anisotropic polygonal remeshing"
+    },
+    {
+      "paperId": "c04025b3b7651e349b4d233b58528dc9995dfacc",
+      "title": "Suggestive contours for conveying shape"
+    },
+    {
+      "paperId": "e4a86da60531777170ec1bc21c0a9673b9c8189c",
+      "title": "Coherent stylized silhouettes"
+    },
+    {
+      "paperId": "7bb56789abac7a89ff2e39d285b7de7f36f02636",
+      "title": "Non-iterative, feature-preserving mesh smoothing"
+    },
+    {
+      "paperId": "caa964f7c7016e3a7079fa0852de69305c7adc4c",
+      "title": "Estimating differential quantities using polynomial fitting of osculating jets"
+    },
+    {
+      "paperId": "9760afc87e1d81506cebcc11e5089ae10cb167ef",
+      "title": "Restricted delaunay triangulations and normal cycle"
+    },
+    {
+      "paperId": "948794fbff1ff24776e7ac5dedf31546951db500",
+      "title": "Illustrative Interactive Stipple Rendering"
+    },
+    {
+      "paperId": "c16f03480935ca2eb4cb55df1a06b071f32959f8",
+      "title": "Mean value coordinates"
+    },
+    {
+      "paperId": "4e92fc80a548bb67ca7459eae11d112623009d29",
+      "title": "Estimating the principal curvatures and the Darboux frame from real 3D range data"
+    },
+    {
+      "paperId": "e6e46dc986c2aae01f830ea924b05f60cd0cde9e",
+      "title": "Stylizing Silhouettes at Interactive Rates: \u2028 From Silhouette Edges to Silhouette Strokes"
+    },
+    {
+      "paperId": "0f9d0c21619fdd78f032059b993ca0521e57e5cb",
+      "title": "Interactivity is the key to expressive visualization"
+    },
+    {
+      "paperId": "4202a40f19117206cfe2f3b2e07e20fab2df91e0",
+      "title": "Fast Primitive Distribution for Illustration"
+    },
+    {
+      "paperId": "16a69bcf01c2d78142a5b5082364138870980e61",
+      "title": "Real-time image-space outlining for non-photorealistic rendering"
+    },
+    {
+      "paperId": "be4af41efc551434fcd282ae586224f89ee93b1b",
+      "title": "WYSIWYG NPR: drawing strokes directly on 3D models"
+    },
+    {
+      "paperId": "09e76fb61218130187fb8fb54b6d8090a971ddf4",
+      "title": "Least squares conformal maps for automatic texture atlas generation"
+    },
+    {
+      "paperId": "1daddb97e92637547b2d4d2ba86fc0b2ffaf1b52",
+      "title": "Weighted Voronoi stippling"
+    },
+    {
+      "paperId": "241243ee4d26ac110a9f42600c2127c4d6a961e0",
+      "title": "Fine tone control in hardware hatching"
+    },
+    {
+      "paperId": "06849c048f12c4e3453fc77ca5244bc9d10a1314",
+      "title": "Robust crease detection and curvature estimation of piecewise smooth surfaces from triangle mesh approximations using normal voting"
+    },
+    {
+      "paperId": "2234b49bc51e79f6f32fc12fada8d529a39754e2",
+      "title": "Detection of Salient Curvature Features on Polygonal Surfaces"
+    },
+    {
+      "paperId": "1f4d8e331cf4b678d663fcecef0d4728cd126d11",
+      "title": "Real-time hatching"
+    },
+    {
+      "paperId": "923562d216386a88947d40da310d94bbb1376a41",
+      "title": "Image Analogies"
+    },
+    {
+      "paperId": "6a3a6e9bc12fea2470db640511b795ad7bba3fa1",
+      "title": "The Lit Sphere: A Model for Capturing NPR Shading from Art"
+    },
+    {
+      "paperId": "b9f5ce5936d7d968220e23dbdd4cadee8c47993d",
+      "title": "Efficient perspective-accurate silhouette computation and applications"
+    },
+    {
+      "paperId": "fb800f9cf1b7bc9283c4068e7e91a9f7386fb452",
+      "title": "Line-art rendering of 3D-models"
+    },
+    {
+      "paperId": "908214519b6fcb2b5b0512d891cf255b24e6942d",
+      "title": "Floating Points: A Method for Computing Stipple Drawings"
+    },
+    {
+      "paperId": "51df8df261b0aa7e6a8d96470328024ba858dec4",
+      "title": "3D illustrative effects for animating line drawings"
+    },
+    {
+      "paperId": "ab94f0e8e24dd2c3f639faa54b56c5c29a77f66f",
+      "title": "Illustrating smooth surfaces"
+    },
+    {
+      "paperId": "060e1d10b0b00c7ae819531e353544cea10fa501",
+      "title": "Lapped textures"
+    },
+    {
+      "paperId": "32c58ac43149d449465059246e692052d539038a",
+      "title": "Artistic silhouettes: a hybrid approach"
+    },
+    {
+      "paperId": "01d793361fdb5e71be84c49d1b1a36a23ca79a15",
+      "title": "Line direction matters: an argument for the use of principal directions in 3D line drawings"
+    },
+    {
+      "paperId": "f459dc8a108ea0e7d837e46101d4584e27642a4a",
+      "title": "Stylized rendering techniques for scalable real-time 3D animation"
+    },
+    {
+      "paperId": "912ed9e16610189df5d608a47060c84fae126d31",
+      "title": "Output sensitive extraction of silhouettes from polygonal geometry"
+    },
+    {
+      "paperId": "225ddd5c5a9eb0b8be54e40099ea5f571740f2b4",
+      "title": "Interactive Line Art Rendering of Freeform Surfaces"
+    },
+    {
+      "paperId": "cb3b52adde8cf7a3da307ac013bd20fd54a280fe",
+      "title": "Visualizing knowledge about virtual reconstructions of ancient architecture"
+    },
+    {
+      "paperId": "c92abe299777ac5e7d473acd83471f94463265e8",
+      "title": "Image precision silhouette edges"
+    },
+    {
+      "paperId": "749fe4d033609b59aa66332c0b0d6c9d1eae6fb2",
+      "title": "Interactive technical illustration"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "c69eaafbf7852c3a4141fe74734e417da8b2f772",
+      "title": "Visualising ancient architecture using animated line drawings"
+    },
+    {
+      "paperId": "7137dff1545ad120a2cd46d3a49c6b634e773e8d",
+      "title": "A non-photorealistic lighting model for automatic technical illustration"
+    },
+    {
+      "paperId": "52f98eebc8fb7d05fc4f3ac4a6e3530933429a05",
+      "title": "Real-time nonphotorealistic rendering"
+    },
+    {
+      "paperId": "30fe0db5ac4036962d7b6851755619a8094d2226",
+      "title": "Illustrating transparent surfaces with curvature-directed strokes"
+    },
+    {
+      "paperId": "988383e00a85e958e87685141c33115947a9ade0",
+      "title": "Enhancing transparent skin surfaces with ridge and valley lines"
+    },
+    {
+      "paperId": "aeda98d3d9fd5d3c451c15c0d349b50583a9a3ee",
+      "title": "A signal processing approach to fair surface design"
+    },
+    {
+      "paperId": "45901c110060e66641c2c78ffb3cf66d0670bd7d",
+      "title": "Fast and resolution independent line integral convolution"
+    },
+    {
+      "paperId": "ecb89cd2d7d3f8822abd647b448d187c0e73f3ad",
+      "title": "Estimating the tensor of curvature of a surface from a polyhedral approximation"
+    },
+    {
+      "paperId": "44beb3c075e1d1e1113d7952d420fa24c4a15ff7",
+      "title": "How to Render Frames and Influence People"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "f5c445bac250417bb7d1d9b8977af336542bf6eb",
+      "title": "Hidden contours on a frame-buffer"
+    },
+    {
+      "paperId": "df464ae280afc962e18893ec993ef641a88ba0de",
+      "title": "Intrinsic Surface Properties from Surface Triangulation"
+    },
+    {
+      "paperId": "425f2723ac633f3c6c9012634ac648ff9b8b6370",
+      "title": "Automatic illustration of 3D geometric models: surfaces"
+    },
+    {
+      "paperId": "3b5666b4a385206fe9f1bee3a742925c61a89794",
+      "title": "Adaptive radiosity textures for bidirectional ray tracing"
+    },
+    {
+      "paperId": "11652a246836e6eb3db2de9de6bfeeb9c8825dd5",
+      "title": "Comprehensible rendering of 3-D shapes"
+    },
+    {
+      "paperId": "401e949e338d571b476b39bfc10903c30384ccd4",
+      "title": "Automatic illustration of 3D geometric models: lines"
+    },
+    {
+      "paperId": "9009c9685754346deb93f316144a9da1f70ffcd8",
+      "title": "Theory of edge detection"
+    },
+    {
+      "paperId": "bbfdd1c0cf18957fcd3290e52917e69414a69f38",
+      "title": "The notion of quantitative invisibility and the machine rendering of solids"
+    },
+    {
+      "paperId": "08addf6f1d864742956477e1b378d9f95437dfff",
+      "title": "Scale-Dependent and Example-Based Stippling"
+    },
+    {
+      "paperId": "b2294d41d32981e221b84081684eb7a234baaee0",
+      "title": "Instant Construction and Visualization of Crowded Biological Environments"
+    },
+    {
+      "paperId": "efba41c63a0613f9d4bb340eab54e072d804ade1",
+      "title": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "paperId": "e6c92a20cfbd59e58808b828ba84a67acf7160cc",
+      "title": "Non-photorealistic Computer Graphics"
+    },
+    {
+      "paperId": "44e10237624b68c1eca4b8a70e6370eb05739859",
+      "title": "On the Reproducibility of Line Integral Convolution for Real-Time Illustration of Molecular Surface Shape and Salient Regions"
+    },
+    {
+      "paperId": "0c90a822a89940c59bc0bbaa55459e80edd78de7",
+      "title": "Bi-Normal Filtering for Mesh Denoising"
+    },
+    {
+      "paperId": "bb17e980bd3f53177d004019e1f443332d39784d",
+      "title": "Feature-guided convolution for salient rendering of 3D meshes"
+    },
+    {
+      "paperId": "d6cdd67da37b037432b633d32600675c0ef7019f",
+      "title": "Statistical Analysis of a Qualitative Evaluation on Feature Lines"
+    },
+    {
+      "paperId": "e9f95fa6a4089275f0d8cd368ff31bb0f5a7e543",
+      "title": "Visualization and Processing of Higher Order Descriptors for Multi-Valued Data"
+    },
+    {
+      "paperId": null,
+      "title": "Illustrative timelapse: A technique for illustrative visualization of particle simulations on the mesoscale level"
+    },
+    {
+      "paperId": "2b74a97f90c02d82a3b2330ebe744ca286771028",
+      "title": "Comparative Evaluation of Feature Line Techniques for Shape Depiction"
+    },
+    {
+      "paperId": "2b35c7fa1978f80b965dd74cb1aeb2ef459f3253",
+      "title": "GPU real time hatching"
+    },
+    {
+      "paperId": "94143efa76b96562b8fe043e10e18e90bc067607",
+      "title": "Halftoning and Stippling"
+    },
+    {
+      "paperId": "a9a6b1d96e76ddc91ed72f30fff35291269bb802",
+      "title": "Qualitative Evaluation of Feature Lines on Anatomical Surfaces"
+    },
+    {
+      "paperId": "ed4fd0701a74c6a0bcda369b3013be9d7a2990ea",
+      "title": "Evaluating and Validating Non-photorealistic and Illustrative Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "of Computational Imaging and Vision"
+    },
+    {
+      "paperId": null,
+      "title": "COLLOMOSSE J"
+    },
+    {
+      "paperId": "39cd181e06c1c2545f4e570bc5e3e027241f4938",
+      "title": "Illustrative Flow Visualization: State of the Art, Trends and Challenges"
+    },
+    {
+      "paperId": "0c61bcbaa6b0bb758cdf789123319dd30b540c57",
+      "title": "State-of-the-Art Line Drawing Techniques"
+    },
+    {
+      "paperId": "324aca99100eb33d6a21473445eab2e4ab6287f7",
+      "title": "State of the \u2018Art\u2019: A Taxonomy of Artistic Stylization Techniques for Images and Video (cid:63)"
+    },
+    {
+      "paperId": "268c29ddbfb12081c7e673a34b52416ade597edb",
+      "title": "Automated Illustration of Molecular Flexibility"
+    },
+    {
+      "paperId": "ba8cbbb3f982214ab5a75cbfbaf8b809943d942b",
+      "title": "Feature detection of triangular meshes based on tensor voting theory"
+    },
+    {
+      "paperId": "233b0f8298578fe780a3b9c4556f7b7c19164695",
+      "title": "EFFICIENT STIPPLE RENDERING"
+    },
+    {
+      "paperId": "8a11a56b57d25230626649e07259d69420f18fff",
+      "title": "Non-Photorealistic 3D Geovisualization"
+    },
+    {
+      "paperId": "cbe6bb1df24a1e60861f745c2901db6de3d903d1",
+      "title": "Surface Parameterization: a Tutorial and Survey"
+    },
+    {
+      "paperId": "3ae1e9b3e39cc8c6e51ef9a36954051845e18d3c",
+      "title": "Laplacian Mesh Processing"
+    },
+    {
+      "paperId": "f1c056dda7883e6f1c2ec635c45e943d0cc3fa32",
+      "title": "Illustrative Visualization"
+    },
+    {
+      "paperId": "83351758936796b92d94a5c08a986d90c1c9691c",
+      "title": "A novel cubic-order algorithm for approximating principal direction vectors"
+    },
+    {
+      "paperId": null,
+      "title": "A Survey of Surface-Based Illustrative Rendering for Visualization Interface"
+    },
+    {
+      "paperId": "5d3a4b3da3d3ed08cb8d69031f60bfb1c9565795",
+      "title": "Cartoon-Looking Rendering of 3D-Scenes"
+    },
+    {
+      "paperId": "01ca40194be49fbff6335f2bd66a21845d63e8bf",
+      "title": "Hardware Accelerated Interactive Stipple Drawing of Polygonal Objects"
+    },
+    {
+      "paperId": "b4ce8dd9d16e03c4893662565e4c03e5357c9d93",
+      "title": "Discrete Differential-Geometry Operators for Triangulated 2-Manifolds"
+    },
+    {
+      "paperId": "2d797ee2c69eafb8c93e21080075621faabd7729",
+      "title": "Frame-Coherent Stippling"
+    },
+    {
+      "paperId": "d8aa0ead514c59877a4cd2890ca6abe42bfed8ea",
+      "title": "Fast and Robust"
+    },
+    {
+      "paperId": null,
+      "title": "GOOCH A"
+    },
+    {
+      "paperId": "3730bd81a830a13c4b0225834ac57d74122f66e4",
+      "title": "Line Art Rendering of Triangulated Surfaces Using Discrete Lines of Curvatures"
+    },
+    {
+      "paperId": "ea3a2e842ff0c64505e47f4835d7085e890331d6",
+      "title": "Curvature-Based Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "1b8e84805500e43756ff0e663d40747dd5171a5a",
+      "title": "Introduction to 3D Non-Photorealistic Rendering: Silhouettes and Outlines"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "MACKINLAY J"
+    },
+    {
+      "paperId": "8b15ba829f82787a92c97026d41a925e9d33a027",
+      "title": "Creating Evenly-Spaced Streamlines of Arbitrary Density"
+    },
+    {
+      "paperId": "01261aa17d3047b3deb97e86b423cbf7c383afd7",
+      "title": "Mitsubishi Electric Research Laboratories"
+    },
+    {
+      "paperId": "fee98165ce9408ff39a330ce5c6eb601f0b9bddc",
+      "title": "The Guild handbook of scientific illustration"
+    },
+    {
+      "paperId": null,
+      "title": "Silhouette line display from shaded models. IRIS Universe"
+    },
+    {
+      "paperId": "aa4b60b5847999c2f778e3e67ca1f2201e396abb",
+      "title": "Early processing of visual information."
+    },
+    {
+      "paperId": "a4aa0d00a0105bf1606eb79272201d4f4baaa7e0",
+      "title": "The solution of partial differential equations by means of electrical networks"
+    },
+    {
+      "paperId": null,
+      "title": "JOY K"
+    },
+    {
+      "paperId": "f9935f53618110df82ec26caede33cfae5d41a9c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Combining Silhouettes, Surface, and Volume Rendering for Surgery Education and Planning"
+    },
+    {
+      "paperId": "50d4267690596bf4cec82c4e3dcd2ed83c598f39",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Dti in Context: Illustrating Brain Fiber Tracts in Situ"
+    },
+    {
+      "paperId": "c9f96bef080d0b5ad600a951acdec69b358a040f",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Hardware-accelerated Stippling of Surfaces Derived from Medical Volume Data"
+    },
+    {
+      "paperId": "c9e9b9581dc578849a1e99c26abc0246540707e2",
+      "title": "EurographicsSymposiumonRendering(2007) JanKautzandSumantaPattanaik(Editors) Dynamicpointdistributionforstroke-basedrendering DavidVanderhaeghe,PascalBarla,Jo\u00eblleThollotandFran\u00e7oisX.Sillion"
+    },
+    {
+      "paperId": "32597aa659247cd55d3c18c2fd1066eef502b011",
+      "title": "Discrete laplace operators: no free lunch"
+    },
+    {
+      "paperId": null,
+      "title": "An illustration technique using intersections and skeletons"
+    },
+    {
+      "paperId": null,
+      "title": "Blueprint rendering and sketchy drawings"
+    },
+    {
+      "paperId": null,
+      "title": "Conference (New York, NY, USA, 1967)"
+    }
+  ]
+}

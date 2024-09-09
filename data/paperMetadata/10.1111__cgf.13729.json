@@ -1,0 +1,483 @@
+{
+  "paperId": "090e8ba000d6870d1ce365b4441a96eff3aa2479",
+  "externalIds": {
+    "MAG": "2914812423",
+    "DBLP": "journals/cgf/BekosNN19",
+    "ArXiv": "1902.01454",
+    "DOI": "10.1111/cgf.13729",
+    "CorpusId": 59604496
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/090e8ba000d6870d1ce365b4441a96eff3aa2479",
+  "title": "External Labeling Techniques: A Taxonomy and Survey",
+  "abstract": "External labeling is frequently used for annotating features in graphical displays and visualizations, such as technical illustrations, anatomical drawings, or maps, with textual information. Such a labeling connects features within an illustration by thin leader lines with their labels, which are placed in the empty space surrounding the image. Over the last twenty years, a large body of literature in diverse areas of computer science has been published that investigates many different aspects, models, and algorithms for automatically placing external labels for a given set of features. This state\u2010of\u2010the\u2010art report introduces a first unified taxonomy for categorizing the different results in the literature and then presents a comprehensive survey of the state of the art, a sketch of the most relevant algorithmic techniques for external labeling algorithms, as well as a list of open research challenges in this multidisciplinary research field.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2019,
+  "referenceCount": 104,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1902.01454",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Mathematics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-02-04",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "38"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bekos2019ExternalLT,\n author = {M. Bekos and Benjamin Niedermann and M. N\u00f6llenburg},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {External Labeling Techniques: A Taxonomy and Survey},\n volume = {38},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1970619",
+      "name": "M. Bekos"
+    },
+    {
+      "authorId": "2452609",
+      "name": "Benjamin Niedermann"
+    },
+    {
+      "authorId": "1714834",
+      "name": "M. N\u00f6llenburg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0b0d051715078288d5356013707445a53f0edfa9",
+      "title": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "paperId": "d9961a250c21f37ac84763b8fafb7b0ed63c9f42",
+      "title": "Real-Time External Labeling of Ghosted Views"
+    },
+    {
+      "paperId": "57da82e413fc0975b17da0658cdfcdf7261dacd2",
+      "title": "On the readability of leaders in boundary labeling"
+    },
+    {
+      "paperId": "07ffd51a4db3a8c05fd0156da942a0453ea0d4b6",
+      "title": "OpenLL: An API for Dynamic 2D and 3D Labeling"
+    },
+    {
+      "paperId": "79d860373c4d490155b2112677fcca48f26604d8",
+      "title": "Scalability of Route Planning Techniques"
+    },
+    {
+      "paperId": "0860682e49a1e08659249b1b079d41514f1ecdf3",
+      "title": "Automatic Placement of Labels in Maps and Drawings"
+    },
+    {
+      "paperId": "2e28b64dfeed74cfe62db494772e3929bd1d7063",
+      "title": "Boundary Labeling for Rectangular Diagrams"
+    },
+    {
+      "paperId": "0ae5246ddbfab2f45569e2124dbbd59642f1f89f",
+      "title": "Radial contour labeling with straight leaders"
+    },
+    {
+      "paperId": "0d3f15a9cac2c8c43b3f97cbe21234e39e7bc6a2",
+      "title": "Temporal Coherence Strategies for Augmented Reality Labeling"
+    },
+    {
+      "paperId": "1f36778d9cb330b82ec4ccf019751caeee1fe613",
+      "title": "Multirow Boundary-Labeling Algorithms for Panorama Images"
+    },
+    {
+      "paperId": "bc1b3246a474b92cc093aa310c13da2e286720c8",
+      "title": "Designing and Annotating Metro Maps with Loop Lines"
+    },
+    {
+      "paperId": "aa8ede014602ae6e3430a4d6e5f2b082aad33ad5",
+      "title": "Mixed Map Labeling"
+    },
+    {
+      "paperId": "22cad635d089beadf4d2445d8663966dadebdfea",
+      "title": "Labeling circular focus regions based on a tractable case of maximum weight independent set of rectangles"
+    },
+    {
+      "paperId": "a0656fa90606cd4899575cb9d19df7efc12c870a",
+      "title": "Luatodonotes: Boundary Labeling for Annotations in Texts"
+    },
+    {
+      "paperId": "e1a1bc822ff98e7c1568f7568be7c203c4c0b9fb",
+      "title": "Survey of Labeling Techniques in Medical Visualizations"
+    },
+    {
+      "paperId": "4cc487ea1ee9713baeb4afed3c3986c12abb9542",
+      "title": "On the selection of 2D objects using external labeling"
+    },
+    {
+      "paperId": "c02d1643d3510d879e9664348ffd1764850c540b",
+      "title": "Hedgehog labeling: View management techniques for external labels in 3D space"
+    },
+    {
+      "paperId": "c9b90cfcfc56335a57e7f861d66de9784d31f228",
+      "title": "Boundary Labeling Methods for Dynamic Focus Regions"
+    },
+    {
+      "paperId": "7f2292f99550b455e6b840b81ede479888b60d8f",
+      "title": "Boundary Labeling with Flexible Label Positions"
+    },
+    {
+      "paperId": "7856a284f455308f815af8319b9fe7edc02715cd",
+      "title": "A general theory of traffic movement"
+    },
+    {
+      "paperId": "0e309c3e6586343362801cb9d32501dc91bce586",
+      "title": "Many-to-One Boundary Labeling with Backbones"
+    },
+    {
+      "paperId": "8acd4ed4bb5b0926957d0218ae5cc16f4fbc60e5",
+      "title": "Handbook on Graph Drawing and Visualization"
+    },
+    {
+      "paperId": "1a7a078c285f8bc278737cc084d5f364bc20a1ca",
+      "title": "Multi-sided Boundary Labeling"
+    },
+    {
+      "paperId": "62e5fb67d1ddc3a8201a7b6d6dd3c2ef8adc67e4",
+      "title": "Dynamic compact visualizations for augmented reality"
+    },
+    {
+      "paperId": "3c52292d6bb2ea2fb82a4f1b36bd2fa137466fcf",
+      "title": "Algorithms for Labeling Focus Regions"
+    },
+    {
+      "paperId": "fb4811ac6a7cf2aba31a5f9debf910bb9d4f00a3",
+      "title": "Travel\u2010Route\u2010Centered Metro Map Layout and Annotation"
+    },
+    {
+      "paperId": "2f89bf735e968ceaf0d99f8bd2155c4af1c73cfe",
+      "title": "Fluid interaction for information visualization"
+    },
+    {
+      "paperId": "58219f7872cfc2658342d910680eaa421336e479",
+      "title": "One-and-a-Half-Side Boundary Labeling"
+    },
+    {
+      "paperId": "04b536deea9b3fcf2c29ef801c8613b09e9cafb6",
+      "title": "A Zone-Based Approach for Placing Annotation Labels on Metro Maps"
+    },
+    {
+      "paperId": "095a486c3d79a02760fa02caa55d17eb63afd782",
+      "title": "Combining Traditional Map Labeling with Boundary Labeling"
+    },
+    {
+      "paperId": "7b773a3ba8b04dc2b9d534d4d6e37ff9b138cded",
+      "title": "Ring maps for spatial visualization of multivariate epidemiological data"
+    },
+    {
+      "paperId": "89816db3644cbfef682adb9fcd5634c77371afee",
+      "title": "Dynamic one-sided boundary labeling"
+    },
+    {
+      "paperId": "fd2e946db72c2626c0259d746eef1b9dc093b60c",
+      "title": "Automated Positioning of Annotations in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "c4a7261e3a751aa1f3d2e5801c2f8828e242a06c",
+      "title": "Layout-aware optimization for interactive labeling of 3D models"
+    },
+    {
+      "paperId": "30a9c86d1d91eab06113fc93c9208b3241c520e7",
+      "title": "Area-Feature Boundary Labeling"
+    },
+    {
+      "paperId": "3424696939588a85da644b928ab3a67e68b0489c",
+      "title": "Crossing-free many-to-one boundary labeling with hyperleaders"
+    },
+    {
+      "paperId": "0814831a8fa3025012b0f2cc367a7af86df0c368",
+      "title": "Unifying Runtime Adaptation and Design Evolution"
+    },
+    {
+      "paperId": "34808a0c71313e373cd7773a743b17a1beac9446",
+      "title": "On Map Labeling with Leaders"
+    },
+    {
+      "paperId": "432c8d7913a38e1c8049e9ca1970bfd9cc00195b",
+      "title": "Boundary Labeling in Text Annotation"
+    },
+    {
+      "paperId": "d2b5fdc1e3cfbc56f79747ac6aafc1a83844b117",
+      "title": "Labeling Subway Lines"
+    },
+    {
+      "paperId": "c99ad158075e06ace80d9cba3d887464aaffec5b",
+      "title": "Extended Excentric Labeling"
+    },
+    {
+      "paperId": "b083dec3f2fca7b51fd41c79dac3d2042e6ece04",
+      "title": "Technical Section: Objective and subjective assessment of stereoscopically separated labels in augmented reality"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "d5256464973842fd8ec278613493970543f8e23a",
+      "title": "Particle-based labeling: Fast point-feature labeling without obscuring other visual features"
+    },
+    {
+      "paperId": "bfd426e483bc8b625400ad1e9e4c76179c7ab43e",
+      "title": "Boundary Labeling with Octilinear Leaders"
+    },
+    {
+      "paperId": "df76f850c141c0e01e58da4adeb1808bd94cd066",
+      "title": "Dynamic label placement for improved interactive exploration"
+    },
+    {
+      "paperId": "67e48059dc104caed8879fef417f059469dd5220",
+      "title": "Specifying label layout style by example"
+    },
+    {
+      "paperId": "9c524c85f1b1069e4d3c3c0343c21957e50a10a2",
+      "title": "Dynamic Map Labeling"
+    },
+    {
+      "paperId": "e206b89416635b00031b672340cab29af1fda7b4",
+      "title": "Efficient View Management for Dynamic Annotation Placement in Virtual Landscapes"
+    },
+    {
+      "paperId": "1c9cb098f13cb3b69832aa65e24f51fd975fa99b",
+      "title": "Agent-Based Annotation of Interactive 3D Visualizations"
+    },
+    {
+      "paperId": "e76509b734ff581605676ce1343f2f89a55a0d9f",
+      "title": "Multi-stack Boundary Labeling Problems"
+    },
+    {
+      "paperId": "b51fc1af13b687c8c7d2f58e53fa722865a05b78",
+      "title": "Adaptive Labeling for Interactive Mobile Information Systems"
+    },
+    {
+      "paperId": "1d6473d2a6be62c8d7000f87f39d8e782b5222d9",
+      "title": "VolumeShop: an interactive system for direct volume illustration"
+    },
+    {
+      "paperId": "ce486866ab31bf694273f04bc0ea8ddfed1dfd8e",
+      "title": "Metrics for Functional and Aesthetic Label Layouts"
+    },
+    {
+      "paperId": "d3d44ca44e2d5103c244f7c12152cc6f67a9b760",
+      "title": "Form Follows Function: Aesthetic Interactive Labels"
+    },
+    {
+      "paperId": "6de983d99cc86fde4778480d4c61ae37d34e41cb",
+      "title": "Perception-based line quality measurement"
+    },
+    {
+      "paperId": "6555e8936e67904688b12319fa2504696037ca27",
+      "title": "Boundary labeling: Models and efficient algorithms for rectangular maps"
+    },
+    {
+      "paperId": "bf8d87af7a0cdfd459cf2a30c11f951905f0883f",
+      "title": "Floating Labels: Applying Dynamic Potential Fields for Label Layout"
+    },
+    {
+      "paperId": "93ae34af130488aa426ca5877e31aff5ee66fa54",
+      "title": "Evaluating label placement for augmented reality view management"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "11035becfa4b6d71dac0d647abf78d201bf05417",
+      "title": "View management for virtual and augmented reality"
+    },
+    {
+      "paperId": "c5b514581dedd38462e6f849d891c10d383650d9",
+      "title": "A Descriptive and Illustrated Guide for Type Placement on Small Scale Maps"
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "894de4c4e21b6d086b4cdc869a2a90d74dc296d1",
+      "title": "A Practical Map Labeling Algorithm"
+    },
+    {
+      "paperId": "fea739ee3d176cb9cf07db67b2ceefc16d7306bc",
+      "title": "Single-machine scheduling with time windows and earliness/tardiness penalties"
+    },
+    {
+      "paperId": "df35df2e007f8d2b59193029c77c5ce01c6df5f4",
+      "title": "Scheduling Algorithms"
+    },
+    {
+      "paperId": "1f9505ff93884d49a2b8217c089aeb3850dbc9fe",
+      "title": "Vertical decomposition of shallow levels in 3-dimensional arrangements and its applications"
+    },
+    {
+      "paperId": "0fb0b6dbf2a5271b60f7eb837797617b13438801",
+      "title": "An empirical study of algorithms for point-feature label placement"
+    },
+    {
+      "paperId": "07445a574e323ee3ce047c8e28949201387ee11f",
+      "title": "Edge crossings in drawings of bipartite graphs"
+    },
+    {
+      "paperId": "496467ca33c1a8c161e7a0de4f0b02935796acf8",
+      "title": "On the typography of flight-deck documentation"
+    },
+    {
+      "paperId": "eea094ba215c5a6b1b178fd3190f4e10b5d5ca98",
+      "title": "Graph drawing by force\u2010directed placement"
+    },
+    {
+      "paperId": "17675ead001861e436c988e984f09529290d42ac",
+      "title": "Introduction to Algorithms"
+    },
+    {
+      "paperId": "87e884169d188f1e305370231ea44430fa6fa50e",
+      "title": "A packing problem with applications to lettering of maps"
+    },
+    {
+      "paperId": "63173b08fb7d0f1c49347f7af1c175fef8221fc7",
+      "title": "Geometry helps in matching"
+    },
+    {
+      "paperId": "ddd762c2a723bb623c46b9e945be46638f9ca898",
+      "title": "One-Processor Scheduling with Symmetric Earliness and Tardiness Penalties"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "b6a0f30260302a2001da9999096cfdd89bc1f7fb",
+      "title": "The Hungarian method for the assignment problem"
+    },
+    {
+      "paperId": "bb7641117bdc0e3da65190b2551cef3728329047",
+      "title": "Abbreviating Text Labels on Demand"
+    },
+    {
+      "paperId": null,
+      "title": "Technical and scientific illustration"
+    },
+    {
+      "paperId": "d53d77be1e42fdfc2f26413465a597fc6fda812c",
+      "title": "Boundary Labeling with Obstacles"
+    },
+    {
+      "paperId": "684b5498d99dfef1fe1beac1a6b3864f0088d13b",
+      "title": "Computers And Intractability A Guide To The Theory Of Np Completeness"
+    },
+    {
+      "paperId": "072c2b9e50fd980ae7215b411710d1821df4f550",
+      "title": "Labeling Streets Along a Route in Interactive 3D Maps Using Billboards"
+    },
+    {
+      "paperId": "07b3fa390b36034951912a242cf8fda2f8aff9e4",
+      "title": "An Algorithm for the Maximum Weight Independent Set Problem onOutersting Graphs"
+    },
+    {
+      "paperId": "7d1f5072d5df933adf321b697dac7d30f3563998",
+      "title": "Benchmarking for Graph Clustering and Partitioning"
+    },
+    {
+      "paperId": "bf1bfa69dd0286b842850d8f0cbfa02409ee1e98",
+      "title": "Graph Drawing and Cartography"
+    },
+    {
+      "paperId": "587f840455bee164f82544bdfe47604ace65c4c1",
+      "title": "Constrained Labeling of 2D Slice Data for Reading Images in Radiology"
+    },
+    {
+      "paperId": "15011cae6a9c20e9404c1d9045a5f0d37ecc0468",
+      "title": "Shooting bricks with orthogonal laser beams: A first step towards internal/external map labeling"
+    },
+    {
+      "paperId": "ad683b33616da91c76a655b9335f7cb02027d3bb",
+      "title": "Algorithms for Multi-Criteria Boundary Labeling"
+    },
+    {
+      "paperId": "735a5615b343f670c2bea30889f557d80382d5c5",
+      "title": "Automatic Textual Annotation for Surgical Planning"
+    },
+    {
+      "paperId": null,
+      "title": "Efficient labeling of collinear sites"
+    },
+    {
+      "paperId": "f087e2615b2fed7ff4491d2f1c075923aec78c46",
+      "title": "Contextual Grouping of Labels"
+    },
+    {
+      "paperId": "eb6ed13bc72663f7b7fb5994c79516b10e81c671",
+      "title": "Polygon labelling of minimum leader length"
+    },
+    {
+      "paperId": "a34ff2a5cc999e6f65bf87baf3063778c489bd26",
+      "title": "Chapter 06 \u2013 Grouping"
+    },
+    {
+      "paperId": "9c608f46f95463007a69134ecd725a11a037e854",
+      "title": "Label Layout for Interactive 3D Illustrations"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "51e00d30570fd8c457aa10621da2a6156edde487",
+      "title": "Linear Programming: Foundations and Extensions"
+    },
+    {
+      "paperId": "0774d16f5bacc0e78164a85433a6a888ad23abfb",
+      "title": "Computational geometry: algorithms and applications"
+    },
+    {
+      "paperId": "a11db1672f9bbf8c2c967b4d41b6264284882fff",
+      "title": "Computational geometry: algorithms and applications, 3rd Edition"
+    },
+    {
+      "paperId": "68d54f9dacbb5416c1aafb3399c072497c320021",
+      "title": "Network Flows: Theory, Algorithms, and Applications"
+    },
+    {
+      "paperId": "858b7d8fab80dbaf97504e931ebaf592f13b2ffc",
+      "title": "Crossing Minimization in Linear Embeddings of Graphs"
+    },
+    {
+      "paperId": "db3a261581521f007af8d6aa267b5dfcf73591e2",
+      "title": "A Heuristic for Graph Drawing"
+    },
+    {
+      "paperId": "5be543c4f7f997c188bcefec513d15a3606b0d82",
+      "title": "A Heuristics for Graph Drawing"
+    },
+    {
+      "paperId": "08421c787d9a9e2d9f5ba4bda1bfc9866fa4b04f",
+      "title": "Johnson: computers and intractability: a guide to the theory of np- completeness (freeman"
+    },
+    {
+      "paperId": "15c28f672b6b6b0506e12e918c043700adf44199",
+      "title": "Positioning Names on Maps"
+    }
+  ]
+}
