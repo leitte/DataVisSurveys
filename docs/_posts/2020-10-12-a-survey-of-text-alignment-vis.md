@@ -1,8 +1,9 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "A Survey of Text Alignment Visualization"
 date: 2020-10-12
-authors: T.Yousef & S.Jänicke
+authors: T. Yousef & S. Jänicke
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 doi: 10.1109/TVCG.2020.3028975
 ---

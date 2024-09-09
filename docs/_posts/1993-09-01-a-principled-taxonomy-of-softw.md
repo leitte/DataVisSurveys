@@ -1,8 +1,9 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "A Principled Taxonomy of Software Visualization"
 date: 1993-09-01
-authors: B.Price, R.Baecker & I.Small
+authors: B. Price, R. Baecker & I. Small
 venue: "Journal of Visual Languages and Computing"
 doi: 10.1006/jvlc.1993.1015
 ---

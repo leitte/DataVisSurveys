@@ -1,8 +1,9 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "Visualization of Building Performance Simulation Results: State-of-the-Art and Future Directions"
 date: 2014-03-04
-authors: K.Haeb, S.Schweitzer, D.F. Prieto, E.Hagen, D.Engel, M.Böttinger & I.Scheler
+authors: K. Haeb, S. Schweitzer, D. F. Prieto, E. Hagen, D. Engel, M. Böttinger & I. Scheler
 venue: "IEEE Pacific Visualization Symposium"
 doi: 10.1109/PacificVis.2014.34
 ---

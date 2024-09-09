@@ -1,8 +1,9 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "A Systematic Literature Review of User Evaluation in Immersive Analytics"
 date: 2024-06-01
-authors: J.Friedl-Knirsch, F.Pointecker, S.Pfistermüller, C.Stach, C.Anthes & D.Roth
+authors: J. Friedl-Knirsch, F. Pointecker, S. Pfistermüller, C. Stach, C. Anthes & D. Roth
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.15111
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "Taxonomies of visual programming and program visualization"
 date: 1990-03-01
 authors: 

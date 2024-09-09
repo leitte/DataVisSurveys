@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_image: NO_EXCERPT_IMAGE
 title: "InfoVis as Seen by the World Out There: 2007 in Review"
 date: 2007-01-01
 authors: 
