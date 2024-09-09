@@ -1,0 +1,367 @@
+{
+  "paperId": "6a6c523797da4c6fe58060d2ca83f9cf4da29771",
+  "externalIds": {
+    "MAG": "2114877339",
+    "DBLP": "journals/vlc/Myers90",
+    "DOI": "10.1016/S1045-926X(05)80036-9",
+    "CorpusId": 7335020
+  },
+  "publicationVenue": {
+    "id": "d093f67a-2c74-4b19-b16c-049f802fbce1",
+    "name": "Journal of Visual Languages and Computing",
+    "type": "journal",
+    "alternate_names": [
+      "J Vis Lang Comput"
+    ],
+    "issn": "1045-926X",
+    "alternate_issns": [
+      "1095-8533"
+    ],
+    "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622907/description#description",
+    "alternate_urls": [
+      "http://www.sciencedirect.com/science/journal/1045926X",
+      "https://www.journals.elsevier.com/journal-of-visual-languages-and-computing"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/6a6c523797da4c6fe58060d2ca83f9cf4da29771",
+  "title": "Taxonomies of visual programming and program visualization",
+  "abstract": null,
+  "venue": "Journal of Visual Languages and Computing",
+  "year": 1990,
+  "referenceCount": 75,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "1990-03-01",
+  "journal": {
+    "name": "J. Vis. Lang. Comput.",
+    "pages": "97-123",
+    "volume": "1"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Myers1990TaxonomiesOV,\n author = {B. Myers},\n booktitle = {Journal of Visual Languages and Computing},\n journal = {J. Vis. Lang. Comput.},\n pages = {97-123},\n title = {Taxonomies of visual programming and program visualization},\n volume = {1},\n year = {1990}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1707801",
+      "name": "B. Myers"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e1ac67b06ffc09006f9a1c66c36d4fb6eb8970e1",
+      "title": "Tango: a framework and system for algorithm animation"
+    },
+    {
+      "paperId": "a203e3494ab5cd752483981d697f6ee44c3e9694",
+      "title": "A system for algorithm animation tutorial and user manual"
+    },
+    {
+      "paperId": "8894611f6deae1a2fec4e195acb696325a0494a7",
+      "title": "Statemaster: A UIMS based on statecharts for prototyping and target implementation"
+    },
+    {
+      "paperId": "1de5798f085ec5d88e8c03855d58925c956a7ae1",
+      "title": "The Transparent Prolog Machine (TPM): An Execution Model and Graphical Debugger for Logic Programming"
+    },
+    {
+      "paperId": "9e6f7f47db37dc5c94da4b03d02b7f311674f703",
+      "title": "MPL-a graphical programming environment for matrix processing based on logic and constraints"
+    },
+    {
+      "paperId": "57529f0d1f39e10fdcedf084a25f1d023a7977e1",
+      "title": "Automatic data visualization for novice Pascal programmers"
+    },
+    {
+      "paperId": "a0aa638cb1c3bf531f74b0cd8b0e16904994d624",
+      "title": "Visual programming in the interface construction"
+    },
+    {
+      "paperId": "d4bb62308922bbd68f4987bf2ac84ccd397fd5ba",
+      "title": "Creating user interfaces by demonstration"
+    },
+    {
+      "paperId": "d1a9c91687db37b8290c5bd99e32127dc637c093",
+      "title": "On visual formalisms"
+    },
+    {
+      "paperId": "28485b9b8a3e48a05e14d30bbb5bbabc2482407b",
+      "title": "Exploring algorithms using Balsa-II"
+    },
+    {
+      "paperId": "6f053c4dbb63c701a2856c76bca6cc96ec9fd64d",
+      "title": "An overview of the X toolkit"
+    },
+    {
+      "paperId": "73d3c7edd7c577f3730f55e7b36f832260ae58a5",
+      "title": "A Visual Language Compiler"
+    },
+    {
+      "paperId": "d56ae64688ae3e175f830aeff5e144189ef11a1a",
+      "title": "Graphical specification of procedural knowledge for an expert system"
+    },
+    {
+      "paperId": "cf222f6a6ad32fbff67a0fcf60f0369943b36295",
+      "title": "Out of Flatland: towards 3-D visual programming"
+    },
+    {
+      "paperId": "f32489e5f55bbadf2e1df6f9da8cb02b78dc073d",
+      "title": "Can principles of cognition lower the barriers to programming? in empirical studies of programmers:"
+    },
+    {
+      "paperId": "29af60be13d4b54801e8979a5539439426e76666",
+      "title": "Designing the STAR User Interface"
+    },
+    {
+      "paperId": "5c41ec0ce437264f7664441414fcc62c2cc2dd42",
+      "title": "Creating Interaction Techniques by Demonstration"
+    },
+    {
+      "paperId": "5adc0dbc4e05f6e2eff9d26e22abecbdb7187ec0",
+      "title": "No Silver Bullet - Essence and Accidents of Software Engineering"
+    },
+    {
+      "paperId": "54a4bfe998273a67649e0a20d1f582e372b49f12",
+      "title": "A diagram for object-oriented programs"
+    },
+    {
+      "paperId": "0d5d9c7bff298475cc2e0d0c9d06465ecd7b3d13",
+      "title": "Visual programming, programming by example, and program visualization: a taxonomy"
+    },
+    {
+      "paperId": "005103a0ada5d2c98e59ab4ba5c89b8c75e15258",
+      "title": "Does programming language affect the type of conceptual bugs in beginners' programs? A comparison of FPL and Pascal"
+    },
+    {
+      "paperId": "1b13c0e13d1101551c09e2a4b7e75594a2b4fdf3",
+      "title": "Defining constraints graphically"
+    },
+    {
+      "paperId": "609eba3ea206b1a1d26b51aebb04b714b63ca3ff",
+      "title": "Design principles for the enhanced presentation of computer program source text"
+    },
+    {
+      "paperId": "094b2bad47cc88afde16000d7d494fb5f693711b",
+      "title": "Formal: A Forms-Oriented, Visual-Directed Application Development System"
+    },
+    {
+      "paperId": "9608f7f0237aaa9fd365f6a89a1155cdabc35bcb",
+      "title": "Animating Programs Using Smalltalk"
+    },
+    {
+      "paperId": "3c8680d499247971a269157be3e5cedefe088804",
+      "title": "Visualizing Program Designs Through PegaSys"
+    },
+    {
+      "paperId": "0597b2d56f2d2b264a8115f1767dde8f31545fbd",
+      "title": "A State Transition Diagram Language for Visual Programming"
+    },
+    {
+      "paperId": "9a27d072a0ccde6e9f2908be9d7c1f66c214771c",
+      "title": "Prograph: A Preliminary Report"
+    },
+    {
+      "paperId": "d081799c4a9fddf42b7c2004f083b268efafe88f",
+      "title": "Pict: An Interactive Graphical Programming Environment"
+    },
+    {
+      "paperId": "00371f786a4ba508de74c2cf74e464a132a899a7",
+      "title": "GRASE: a graphical syntax-directed editor for structured programming"
+    },
+    {
+      "paperId": "5ba010f68b58441773fb14c2f9cd08e5fdcad736",
+      "title": "Editing by example"
+    },
+    {
+      "paperId": "54466d0d62929cf3d9c780c4b2f477820669f073",
+      "title": "A system for algorithm animation"
+    },
+    {
+      "paperId": "7fd1637aed5dc1c27513c8ef6ae759c8ef1f4f16",
+      "title": "PIGS\u2014A system for programming with interactive graphical support"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "37719b75c90f838b7c9c119727b9e79464bcec77",
+      "title": "INCENSE: A system for displaying data structures"
+    },
+    {
+      "paperId": "bd66fcffe25bf794422b708f95f48837d1aa9d7b",
+      "title": "Program Visualization: Graphics Support for Software Development"
+    },
+    {
+      "paperId": "9c84960ab26c03944e46fee1a8da21b0f22b640d",
+      "title": "The Programming Language Aspects of ThingLab, a Constraint-Oriented Simulation Laboratory"
+    },
+    {
+      "paperId": "3865bd52c580294c23e8f655cfe9ddc349ecfd34",
+      "title": "QBE/OBE: A Language for Office and Business Automation"
+    },
+    {
+      "paperId": "b6a52320e0bc3514b1171c338e12b58c98858b81",
+      "title": "The System for Business Automation (SBA): Programming language"
+    },
+    {
+      "paperId": "e6d8af09e433d93cc17548d6cab4a6afcc7090b4",
+      "title": "Inferring LISP Programs From Examples"
+    },
+    {
+      "paperId": "fb3e7a0d14a62d7abe6be1cb395852699394efc6",
+      "title": "Flowchart techniques for structured programming"
+    },
+    {
+      "paperId": "6c2e0625353b2cbbd8444e9e8e4d36401bed5207",
+      "title": "An introduction to AMBIT/L, a diagrammatic language for list processing"
+    },
+    {
+      "paperId": "072b220af628dc62bfbaf17a05f99d694dcbf63f",
+      "title": "THE GRAIL PROJECT: AN EXPERIMENT IN MAN-MACHINE COMMUNICATIONS"
+    },
+    {
+      "paperId": "0c47123cd773a6f96c53eabd0083c7a4f1d4ae23",
+      "title": "An example of the manipulation of directed graphs in the AMBIT/G programming language"
+    },
+    {
+      "paperId": "dce03d61f3838b173c24bf96bf123a2fdd7c8fef",
+      "title": "Sketchpad a Man-Machine Graphical Communication System"
+    },
+    {
+      "paperId": "6a6666e5521edf88ef71447465e06282cb4a3123",
+      "title": "A program to draw multilevel flow charts"
+    },
+    {
+      "paperId": "ac4ef0501de665e87b37dba7151dd4ffa1de817c",
+      "title": "User-interface tools: introduction and survey"
+    },
+    {
+      "paperId": null,
+      "title": "The State of the Art in Visual Programming and Program Visualiza- C  tion, Carnegie Mellon University Computer Science Department"
+    },
+    {
+      "paperId": "616deb407106aab44522be039f37c6b951945338",
+      "title": "A (Formal) Model for (Iconic) Programming Environments"
+    },
+    {
+      "paperId": "bb40cdf8758e393140e89ca54596a7ccc14d95da",
+      "title": "VISUAL USER-INTERFACE OF A PROGRAMMING SYSTEM MOPS**2."
+    },
+    {
+      "paperId": "b51fc807f072e45d162731821daf07b98306e075",
+      "title": "Proceedings of the 1986 International Computer Music Conference hosted by Royal Conservatory, the Hague, Netherlands"
+    },
+    {
+      "paperId": null,
+      "title": "Nix . \u2018 \u2018 Editing by Example , \u2019 \u2019 ACM Transactions on Programming Languages and Systems"
+    },
+    {
+      "paperId": "e566ff82f2e92d26142e0074439df29aea651d4f",
+      "title": "Programming by example"
+    },
+    {
+      "paperId": null,
+      "title": "\u2018 \u2018 Constructing Graphical User Interfaces by Example"
+    },
+    {
+      "paperId": "007feee83665206b1d4c9282dbabda41c33d0b41",
+      "title": "The NP-Completeness Column: An Ongoing Guide"
+    },
+    {
+      "paperId": "6f44e7d9bf6f8c298448e1746ba32c5bad30e9ad",
+      "title": "Displaying data structures for interactive debugging"
+    },
+    {
+      "paperId": "8607c0f26afef4de30e14996245dd6649baacf49",
+      "title": "ThingLab: a constraint-oriented simulation laboratory"
+    },
+    {
+      "paperId": "222d66ca87df143683b762efc284f9ce5cb3623b",
+      "title": "A basis for the acquisition of procedures."
+    },
+    {
+      "paperId": "097a2c70a706cad2ef64256b029aeed0bfb1885b",
+      "title": "Approaches to Automatic Programming"
+    },
+    {
+      "paperId": "744f1f7106d4dc948a8809c1fc5b5b0a355960da",
+      "title": "Two systems which produce animated representations of the execution of computer programs"
+    },
+    {
+      "paperId": "97d43ca3829f8ada921330592a43181b752a761e",
+      "title": "Pygmalion: A COMPUTER PROGRAM TO Model and Stimulate Creative Thought"
+    },
+    {
+      "paperId": null,
+      "title": "Cordell Green . \u2018 \u2018 Inferring Lisp Pro rams from Examples , \u2019 \u2019 Fourth International Joint Conference on Artificial Intelligence"
+    },
+    {
+      "paperId": null,
+      "title": "Summary only) First Hawaii International Conference on the Sys em Sciences"
+    },
+    {
+      "paperId": "02d2187dc272e7622263695155ae4ad4ac5fa901",
+      "title": "The on-line graphical specification of computer procedures"
+    },
+    {
+      "paperId": "585db0d07110ed849fb89ea6dfb79318bdc4071b",
+      "title": "THE HAGUE-THE NETHERLANDS"
+    },
+    {
+      "paperId": null,
+      "title": "l (9) the order of evaluation (\ufb02ow of control) is entirely derived from the declared cel dependencies"
+    },
+    {
+      "paperId": null,
+      "title": "they avoid the notion of variables (all data is visible)"
+    },
+    {
+      "paperId": null,
+      "title": "Experiments in On-Line Graphical Debugging: The Interrogation of - t"
+    },
+    {
+      "paperId": null,
+      "title": "Gnome approach"
+    },
+    {
+      "paperId": null,
+      "title": "Programming Environments based on structure editing: The 1"
+    },
+    {
+      "paperId": null,
+      "title": "Druisberg . \u2018 \u2018 Animating Programs in Smalltalk \u2018 \u2018 Animation of Algorithms Without ProI gramming , \u2019 \u2019 1987 Workshop on Visual Languages"
+    },
+    {
+      "paperId": null,
+      "title": "\u2018 \u2018 A Rapid Prototyping of Real - Time Software Using"
+    },
+    {
+      "paperId": null,
+      "title": "\u2018 \u2018 ALEXAn Alexical Programming Language , \u2019 \u2019 1987 Workshop on Visual"
+    },
+    {
+      "paperId": null,
+      "title": "\u2018 \u2018 Icon PurityToward a ForS mal Theory of Icons , \u2019 \u2019 1987 Workshop on Visual Languages"
+    },
+    {
+      "paperId": null,
+      "title": "\u2018 \u2018 Graphical Programming in Computer Music , \u2019 \u2019 Proceedings of the . 2 International Computer Music Conference"
+    }
+  ]
+}

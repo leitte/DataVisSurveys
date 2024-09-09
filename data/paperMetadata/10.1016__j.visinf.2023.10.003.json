@@ -1,0 +1,587 @@
+{
+  "paperId": "bac2623bd4bf0bd4fd1bd5c2e133a2b4f616a42a",
+  "externalIds": {
+    "DBLP": "journals/vi/ZhangWZST23",
+    "DOI": "10.1016/j.visinf.2023.10.003",
+    "CorpusId": 265279189
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/bac2623bd4bf0bd4fd1bd5c2e133a2b4f616a42a",
+  "title": "A survey of immersive visualization: Focus on perception and interaction",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2023,
+  "referenceCount": 127,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-11-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "22-35",
+    "volume": "7"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zhang2023ASO,\n author = {Yue Zhang and Zhenyuan Wang and Jinhui Zhang and Guihua Shan and Dong Tian},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {22-35},\n title = {A survey of immersive visualization: Focus on perception and interaction},\n volume = {7},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2267396896",
+      "name": "Yue Zhang"
+    },
+    {
+      "authorId": "2267217747",
+      "name": "Zhenyuan Wang"
+    },
+    {
+      "authorId": "2267215588",
+      "name": "Jinhui Zhang"
+    },
+    {
+      "authorId": "39447494",
+      "name": "Guihua Shan"
+    },
+    {
+      "authorId": "2064866383",
+      "name": "Dong Tian"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3985df5d3be8c96e7e6ea83ab20cada776a54915",
+      "title": "Surround-Screen Projection-Based Virtual Reality: The Design and Implementation of the CAVE"
+    },
+    {
+      "paperId": "438301d4599a0685e486ae8edaeb87b5bccf6832",
+      "title": "Malicious webshell family dataset for webshell multi-classification research"
+    },
+    {
+      "paperId": "09ff880c96eb253dc6dc0e7977275182cc539e9c",
+      "title": "Secure Voice Interactions With Smart Devices"
+    },
+    {
+      "paperId": "4784a79fc9f7c1d604e23a77f2cb140318e1e0ef",
+      "title": "The Ball is in Our Court: Conducting Visualization Research With Sports Experts"
+    },
+    {
+      "paperId": "ec24e2a9c7c357cb27c290d4ea6bd381155468ab",
+      "title": "OmniScribe: Authoring Immersive Audio Descriptions for 360\u00b0 Videos"
+    },
+    {
+      "paperId": "8d96cabbefd095f0525fe56e1c8662b001beb848",
+      "title": "Color-to-Depth Mappings as Depth Cues in Virtual Reality"
+    },
+    {
+      "paperId": "4b7b62f51a35c92a10d568d4491bfd5918cdba74",
+      "title": "WaddleWalls: Room-scale Interactive Partitioning System using a Swarm of Robotic Partitions"
+    },
+    {
+      "paperId": "402435b20ee92a0882262e0bb856613db349dc97",
+      "title": "ASTF: Visual Abstractions of Time-Varying Patterns in Radio Signals"
+    },
+    {
+      "paperId": "946c919b27159f36375ccebc3b17a9fc8a829a07",
+      "title": "Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization"
+    },
+    {
+      "paperId": "17ef4b10203bc7a6bf351309008a270ea322a0f2",
+      "title": "RankFIRST: Visual Analysis for Factor Investment By Ranking Stock Timeseries."
+    },
+    {
+      "paperId": "fba81ac1ce18d64d35ab42baf4425072b3011bec",
+      "title": "RoboHapalytics: A Robot Assisted Haptic Controller for Immersive Analytics"
+    },
+    {
+      "paperId": "680f42efe4c7f094c864f18f7c160adf84f597d4",
+      "title": "RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling"
+    },
+    {
+      "paperId": "6d38177b54970d39d9f1bc6d968ab0e3f4168007",
+      "title": "Gaze-Vergence-Controlled See-Through Vision in Augmented Reality"
+    },
+    {
+      "paperId": "538ce9f1b2b3b9f20bc8e7c6542675847b326d2c",
+      "title": "Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data"
+    },
+    {
+      "paperId": "e0800ebd8c4221a938e67be360c03c54001f0636",
+      "title": "Iteratively Designing Gesture Vocabularies: A Survey and Analysis of Best Practices in the HCI Literature"
+    },
+    {
+      "paperId": "c588b79c3ce7db207e2ba71724323beda7e1de83",
+      "title": "OVRlap: Perceiving Multiple Locations Simultaneously to Improve Interaction in VR"
+    },
+    {
+      "paperId": "4dab37e0300c4300a4fb767007270315bec7c84d",
+      "title": "Supporting Accessible Data Visualization Through Audio Data Narratives"
+    },
+    {
+      "paperId": "ae53f3ee7ea9cfb54a475e6a5cf8ffb741950822",
+      "title": "Mouth Haptics in VR using a Headset Ultrasound Phased Array"
+    },
+    {
+      "paperId": "f2eddebda589efe3741d5416e083daaef0bd4474",
+      "title": "In-Depth Mouse: Integrating Desktop Mouse into Virtual Reality"
+    },
+    {
+      "paperId": "39b4bc357bcb2327170c261ccecd67e7ef25339f",
+      "title": "AvatAR: An Immersive Analysis Environment for Human Motion Data Combining Interactive 3D Avatars and Trajectories"
+    },
+    {
+      "paperId": "1896c78fada19cdbc692f2c5705ce3637651b649",
+      "title": "A Design Space For Data Visualisation Transformations Between 2D And 3D In Mixed-Reality Environments"
+    },
+    {
+      "paperId": "43d55ca9eb5a6ee7ae16d087223416144dba138c",
+      "title": "Visualization Accessibility in the Wild: Challenges Faced by Visualization Designers"
+    },
+    {
+      "paperId": "7c828ed42c51c90322dca87e6c824ec4a83cea6a",
+      "title": "The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations"
+    },
+    {
+      "paperId": "a5297e3a0f785086aa32b2639c3fac9d75188f4c",
+      "title": "TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data"
+    },
+    {
+      "paperId": "ce91632fc0debb19c053fca73599df7df3a14e4e",
+      "title": "Empirical Evaluation of Calibration and Long-term Carryover Effects of Reverberation on Egocentric Auditory Depth Perception in VR"
+    },
+    {
+      "paperId": "75adc25f18f25ceee75ae2f2273925dcd59925e5",
+      "title": "Metaphoraction: Support Gesture-based Interaction Design with Metaphorical Meanings"
+    },
+    {
+      "paperId": "b35117a5d697edb3f0ece83fabb8e974dfe2e030",
+      "title": "Nanotilus: Generator of Immersive Guided-Tours in Crowded 3D Environments"
+    },
+    {
+      "paperId": "7d10bb98f056eadc0a8d59dbd62f58a653c59718",
+      "title": "Labeling Out-of-View Objects in Immersive Analytics to Support Situated Visual Searching"
+    },
+    {
+      "paperId": "e60d9464935582cda41becd7c1455c09392a2a93",
+      "title": "The Science of Visual Data Communication: What Works"
+    },
+    {
+      "paperId": "3a333b1db4cd5b3b4fe57b99edd28694f18347c6",
+      "title": "TTTV (Taste the TV): Taste Presentation Display for \u201cLicking the Screen\u201d using a Rolling Transparent Sheet and a Mixture of Liquid Sprays"
+    },
+    {
+      "paperId": "16083fbf741f6d7ddccbcfa10c1df630cd09af6f",
+      "title": "Weirding Haptics: In-Situ Prototyping of Vibrotactile Feedback in Virtual Reality through Vocalization"
+    },
+    {
+      "paperId": "b03a894555f4c11979b38ff2f9e0d075362c57f6",
+      "title": "Bi-3D: Bi-Manual Pen-and-Touch Interaction for 3D Manipulation on Tablets"
+    },
+    {
+      "paperId": "53d46f6f285ae4d7a0b2647edb7e83e118b75e8e",
+      "title": "Joint t-SNE for Comparable Projections of Multiple High-Dimensional Datasets"
+    },
+    {
+      "paperId": "0e777f89160c5a66606f8f80f1b7d1bac52e27bc",
+      "title": "HapticBots: Distributed Encountered-type Haptics for VR with Multiple Shape-changing Mobile Robots"
+    },
+    {
+      "paperId": "a289b6358b045af26086592e414b574f84e570ec",
+      "title": "Sequen-C: A Multilevel Overview of Temporal Event Sequences"
+    },
+    {
+      "paperId": "0bb35e0295c8ed0edf913e06098c3b7bfd6883bf",
+      "title": "Introductory overview: Recommendations for approaching scientific visualization with large environmental datasets"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "da8dc6463a8b0710ca16f8698917dcef2ade8fa6",
+      "title": "vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors"
+    },
+    {
+      "paperId": "6662903cc2ddb5cedd78ab7c7b438c7fa932c908",
+      "title": "Designing a Virtual Arboretum as an Immersive, Multimodal, Interactive, Data Visualization Virtual Field Trip"
+    },
+    {
+      "paperId": "5a95e65a2d2352d225b6ef2a69ab17dea0be9b2d",
+      "title": "Visual analysis of flow and diffusion of hemolytic agents and hematomas"
+    },
+    {
+      "paperId": "3145ed95292e0f375bba7ef53adee3e5e45ab4cc",
+      "title": "Exploratory Volumetric Deep Earth Visualization by 2.5D Interactive Compositing"
+    },
+    {
+      "paperId": "e7ddba6cdac89c7f032db941e6b3df3ff15c39d6",
+      "title": "Collaborative Work in Augmented Reality: A Survey"
+    },
+    {
+      "paperId": "15f05efb02795bd9e052547ff7dc3393cb59454b",
+      "title": "GyroSuite: General-Purpose Interactions for Handheld Perspective Corrected Displays"
+    },
+    {
+      "paperId": "d152d7d7c47b67249bd4d4f6ba88acc8f2969492",
+      "title": "bARefoot: Generating Virtual Materials using Motion Coupled Vibration in Shoes"
+    },
+    {
+      "paperId": "68fbaa9e9a5206ee5679acab38798b1e47e84fbe",
+      "title": "Taste Display that Reproduces Tastes Measured by a Taste Sensor"
+    },
+    {
+      "paperId": "51319874094676622bd63375ba3ae48d86796979",
+      "title": "Decoding Surface Touch Typing from Hand-Tracking"
+    },
+    {
+      "paperId": "d472624d1ab5298e0d7bc5151cf416bb55dc3440",
+      "title": "DataHop: Spatial Data Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "9838177541a660014a3e33675f50a92832d10e4b",
+      "title": "ZoomWalls: Dynamic Walls that Simulate Haptic Infrastructure for Room-scale VR World"
+    },
+    {
+      "paperId": "d5f4e33bd858a3f36fc84aa9d7b56a2da8212e96",
+      "title": "Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "1272039d3eb714e81878e4f6e20e1aa051f5cf23",
+      "title": "Interactive Visualization of Atmospheric Effects for Celestial Bodies"
+    },
+    {
+      "paperId": "51faac09763823d99865b4644ebadf551632327a",
+      "title": "ShuttleSpace: Exploring and Analyzing Movement Trajectory in Immersive Visualization"
+    },
+    {
+      "paperId": "f5c06f9d6898c1ffffbc50c37fe055774f999b8c",
+      "title": "Eyes-free Target Acquisition During Walking in Immersive Mixed Reality"
+    },
+    {
+      "paperId": "37a05877545f2bcad2771dce8f754b97b4e33436",
+      "title": "CAVA: A Visual Analytics System for Exploratory Columnar Data Augmentation Using Knowledge Graphs"
+    },
+    {
+      "paperId": "07f71ccaa71288f9789b70d16189ea6d99808d6a",
+      "title": "Shared Surfaces and Spaces: Collaborative Data Visualisation in a Co-located Immersive Environment"
+    },
+    {
+      "paperId": "0fe084750817fcaca42ec6daabfe73a2e963b666",
+      "title": "Embodied Navigation in Immersive Abstract Data Visualization: Is Overview+Detail or Zooming Better for 3D Scatterplots?"
+    },
+    {
+      "paperId": "9fc15b9a809016341dac550136e6502bb1761695",
+      "title": "AeroVR: An immersive visualisation system for aerospace design and digital twinning in virtual reality"
+    },
+    {
+      "paperId": "ff43ab01d642aef2656dccc49db3f11f2640fb44",
+      "title": "Tilt Map: Interactive Transitions Between Choropleth Map, Prism Map and Bar Chart in Immersive Environments"
+    },
+    {
+      "paperId": "fa914c0ba7574ebbe3e499954582576da04ea1cd",
+      "title": "Assessing 2D and 3D Heatmaps for Comparative Analysis: An Empirical Study"
+    },
+    {
+      "paperId": "813d86589bb52dddabf4cd38814c5f95802e280b",
+      "title": "Virtual Reality Without Vision: A Haptic and Auditory White Cane to Navigate Complex Virtual Worlds"
+    },
+    {
+      "paperId": "7824023f283bc0823a431cf16ae25786ae3a598c",
+      "title": "Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen"
+    },
+    {
+      "paperId": "5ec43b6c8b03768e2f07c388784fe8552367f307",
+      "title": "Scents and Sensibility: Evaluating Information Olfactation"
+    },
+    {
+      "paperId": "46b246590201bb156c2483f8723cbbd5e2e8bf8e",
+      "title": "Outline Pursuits: Gaze-assisted Selection of Occluded Objects in Virtual Reality"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "a29ed864d1c323b5bc0b8ee87ae751c8b324d4ae",
+      "title": "PinNPivot: Object Manipulation Using Pins in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "d196cb800c32afaebf2933f86f4fe1ab8b11e87b",
+      "title": "FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces"
+    },
+    {
+      "paperId": "54b5350bfcfb09ee2b50b110795e483f4a95ead8",
+      "title": "The Impact of Immersion on Cluster Identification Tasks"
+    },
+    {
+      "paperId": "d4b0158afa2f2469a74031ee778e25c6f1865328",
+      "title": "Designing for Mobile and Immersive Visual Analytics in the Field"
+    },
+    {
+      "paperId": "2827828e88e8125dfc3087cb293c3bffe7e96a20",
+      "title": "Evaluating an Immersive Space-Time Cube Geovisualization for Intuitive Trajectory Data Exploration"
+    },
+    {
+      "paperId": "53edf08ce2297aaaa5b8470162f1ed7c49e4b43a",
+      "title": "Mediating Human-Robot Interactions with Virtual, Augmented, and Mixed Reality"
+    },
+    {
+      "paperId": "6ae90ba5362ae8649b76e2dc1c19640f12c6603a",
+      "title": "Visual Analysis of High-Dimensional Event Sequence Data via Dynamic Hierarchical Aggregation"
+    },
+    {
+      "paperId": "7770187a3df8062e668f239a44526c7a29125820",
+      "title": "Gaze-Guided Narratives: Adapting Audio Guide Content to Gaze in Virtual and Real Environments"
+    },
+    {
+      "paperId": "8e61b97addeee54d6dd1858a45587a24224337f5",
+      "title": "RayCursor: A 3D Pointing Facilitation Technique based on Raycasting"
+    },
+    {
+      "paperId": "715ee4df06963f9eb9db5f04b5536c70ffba5dbb",
+      "title": "Scaptics and Highlight-Planes: Immersive Interaction Techniques for Finding Occluded Features in 3D Scatterplots"
+    },
+    {
+      "paperId": "2a433edfaeae3abc0889f4f4434220a6d6749b85",
+      "title": "I'm a Giant: Walking in Large Virtual Environments at High Speed Gains"
+    },
+    {
+      "paperId": "90e93e2b64ddda2c2a25ebb517dee7e72af2117e",
+      "title": "Understanding Visual Cues in Visualizations Accompanied by Audio Narrations"
+    },
+    {
+      "paperId": "c60b87f44b6e2ad84e30ce1c7b774c1b80887b61",
+      "title": "Immersive analytics"
+    },
+    {
+      "paperId": "4b7576e2686344e1abd32718b13956af51fde0c5",
+      "title": "Determining suitable region wind speed probability distribution using optimal score-radar map"
+    },
+    {
+      "paperId": "15452b94d61a14441c0dc807c5063cf51c74534a",
+      "title": "The Effects of Sharing Awareness Cues in Collaborative Mixed Reality"
+    },
+    {
+      "paperId": "de3e554526084fdc42aaf5c4dd8e8b7bd37c1ebd",
+      "title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"
+    },
+    {
+      "paperId": "8d6290cdec8c8318dba8e6a9278282e6b5349ec8",
+      "title": "Information Olfactation: Harnessing Scent to Convey Data"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "5e43aaa9d18160068123274d5a5caef4902b10e4",
+      "title": "GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms"
+    },
+    {
+      "paperId": "6ac9bfe30b52a994e360ed4d69e34f7f4d8c999b",
+      "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights"
+    },
+    {
+      "paperId": "913ac270cab8444e71f9736ecf3d9c61ea20af44",
+      "title": "Immersive Analytics: An Introduction"
+    },
+    {
+      "paperId": "a760b354fc4f427606021bf17ab3c4f621e1ad10",
+      "title": "Taste controller: galvanic chin stimulation enhances, inhibits, and creates tastes"
+    },
+    {
+      "paperId": "f9232df5e1d7d65ba8b62ae28cf03292b40c2a57",
+      "title": "Virtual memory palaces: immersion aids recall"
+    },
+    {
+      "paperId": "f7855a3e7532c7ce9fab87e6298e470cfa2d6a6b",
+      "title": "Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data"
+    },
+    {
+      "paperId": "d67a50aea692bf3720865d292abb96c1ca408603",
+      "title": "ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation"
+    },
+    {
+      "paperId": "49509328138f483de3510d5fbbbba101a09f2066",
+      "title": "inScent: a wearable olfactory display as an amplification for mobile notifications"
+    },
+    {
+      "paperId": "95796352eb31ce483489220c225394992e996091",
+      "title": "Exploring the design space of immersive urban analytics"
+    },
+    {
+      "paperId": "6abf2b23ddd9c7daad375ecf5261b1501cff1497",
+      "title": "Modeling Cumulative Arm Fatigue in Mid-Air Interaction based on Perceived Exertion and Kinetics of Arm Motion"
+    },
+    {
+      "paperId": "1ff8745040ace8e15bc7a65e27ae0c90593988d9",
+      "title": "Wearable Haptic Systems for the Fingertip and the Hand: Taxonomy, Review, and Perspectives"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "0db35f15142ed3203b52add396f866fc48ccf2ad",
+      "title": "The Evolution of Spatial Audio in the AlloSphere"
+    },
+    {
+      "paperId": "0c66bd5df371e2668481d189f4822b30ad380607",
+      "title": "Immersive Analytics: Exploring Future Interaction and Visualization Technologies for Data Analytics"
+    },
+    {
+      "paperId": "e4cfad7579eaac74e844c89ad47dc4ec12e580a1",
+      "title": "Gaze-directed Immersive Visualization of Scientific Ensembles"
+    },
+    {
+      "paperId": "22751e7eedc695b50e2f9ac404301b74aad5a075",
+      "title": "A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization"
+    },
+    {
+      "paperId": "2ad2e12aa40ed550862c52dd904beb5a1932783d",
+      "title": "Olfactory display using surface acoustic wave device and micropumps for wearable applications"
+    },
+    {
+      "paperId": "12c4aa26fe219e10b660359392392a5083e5ec01",
+      "title": "Four types of ensemble coding in data visualizations."
+    },
+    {
+      "paperId": "4dcff07f50f12e95e3b22d6d28ababa6385a4c64",
+      "title": "Vision-enhanced Immersive Interaction and Remote Collaboration with Large Touch Displays"
+    },
+    {
+      "paperId": "8807c5d1dc051670df53f371e466dd7dc9b425ae",
+      "title": "Scatterplot layout for high-dimensional data visualization"
+    },
+    {
+      "paperId": "e0136795b14efb7b838e77f7abc23acc74d7cbda",
+      "title": "The perception of egocentric distances in virtual environments - A review"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "a9bceaf79e5c7bea7c8f364e516409bed5898745",
+      "title": "A survey of 3D object selection techniques for virtual environments"
+    },
+    {
+      "paperId": "3ad11e969ebf0e2040aef0b4596a6fe7b87acb20",
+      "title": "CAVE2: a hybrid reality environment for immersive simulation and information analysis"
+    },
+    {
+      "paperId": "6ba99894992fd7d4c6d8a26b7b45be2592d7d732",
+      "title": "Visualizing Uncertainty About the Future"
+    },
+    {
+      "paperId": "d3830ab28697998bbd3e5a332e36858cf76eb91b",
+      "title": "Flow Charts: Visualization of Vector Fields on Arbitrary Surfaces"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "0ae7e526fd50102fbad4f781105afac0cb5c06e4",
+      "title": "Gestures Over Video Streams to Support Remote Collaboration on Physical Tasks"
+    },
+    {
+      "paperId": "417050c85ddc652cfc70d393a46ef5e44ff1cc87",
+      "title": "Interacting with eye movements in virtual environments"
+    },
+    {
+      "paperId": "d8fb841c302ca341323b7020aa33f5767ad33d30",
+      "title": "ambientROOM: integrating ambient media with architectural space"
+    },
+    {
+      "paperId": "45a42326b191c3a16aa70353118b0e060e414f4d",
+      "title": "The go-go interaction technique: non-linear mapping for direct manipulation in VR"
+    },
+    {
+      "paperId": "4f414d8dcdcaf80421daa36c4a601ca6f3d86356",
+      "title": "Parallel coordinates for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "0989d99d9b3c582daddf357075e79ff70f9e3fdc",
+      "title": "Manipulating simulated objects with real-world gestures using a force and position sensitive screen"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "dbd6892364f449835ac2cd052d1efb8787102fae",
+      "title": "A head-mounted three dimensional display"
+    },
+    {
+      "paperId": "dce03d61f3838b173c24bf96bf123a2fdd7c8fef",
+      "title": "Sketchpad a Man-Machine Graphical Communication System"
+    },
+    {
+      "paperId": null,
+      "title": "Exploring multiomics data in 3D genomic space using augmented reality based visualization platform Delta.AR"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "9df2042ed7073370f8cd8a8d0d07fe35c8705752",
+      "title": "A Virtual Reality Visualization Tool for Neuron Tracing"
+    },
+    {
+      "paperId": "391d1fdd16ed36ebd650f0fb0a851945eceee894",
+      "title": "Situated Analytics"
+    },
+    {
+      "paperId": "7aea741d827a443a9df7ad75545b6b1c695dbd67",
+      "title": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "paperId": "b594b072c1792412ad1fdb523b8e1a10efe2ab56",
+      "title": "Modeling Terrains and Subsurface Geology"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "e7395ce20a04009f7e9bf48d57752a2b246f52d6",
+      "title": "Coordonn\u00e9es parall\u00e8les et axiales M\u00e9thode de Transformation g\u00e9om\u00e9trique et Proc\u00e9d\u00e9 nouveau de Calcul graphique, d\u00e9duits de la Consid\u00e9ration des Coordonn\u00e9es parall\u00e8les"
+    },
+    {
+      "paperId": "c9106fb451ac4970bdd6f9fcacb79a0188cbd301",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Robust Linear Dimensionality Reduction"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+  "externalIds": {
+    "MAG": "2088003405",
+    "DOI": "10.1080/10618600.1996.10474696",
+    "CorpusId": 62224595
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6a7cb2f68f088b6b265dea866f4596af72c235be",
+  "title": "Interactive High-Dimensional Data Visualization",
+  "abstract": "Abstract We propose a rudimentary taxonomy of interactive data visualization based on a triad of data analytic tasks: finding Gestalt, posing queries, and making comparisons. These tasks are supported by three classes of interactive view manipulations: focusing, linking, and arranging views. This discussion extends earlier work on the principles of focusing and linking and sets them on a firmer base. Next, we give a high-level introduction to a particular system for multivariate data visualization\u2014XGobi. This introduction is not comprehensive but emphasizes XGobi tools that are examples of focusing, linking, and arranging views; namely, high-dimensional projections, linked scatterplot brushing, and matrices of conditional plots. Finally, in a series of case studies in data visualization, we show the powers and limitations of particular focusing, linking, and arranging tools. The discussion is dominated by high-dimensional projections that form an extremely well-developed part of XGobi. Of particular inter...",
+  "venue": "",
+  "year": 1996,
+  "referenceCount": 24,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": null,
+  "publicationDate": "1996-03-01",
+  "journal": {
+    "name": "Journal of Computational and Graphical Statistics",
+    "pages": "78-99",
+    "volume": "5"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Buja1996InteractiveHD,\n author = {A. Buja and D. Cook},\n journal = {Journal of Computational and Graphical Statistics},\n pages = {78-99},\n title = {Interactive High-Dimensional Data Visualization},\n volume = {5},\n year = {1996}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1963591",
+      "name": "A. Buja"
+    },
+    {
+      "authorId": "145106499",
+      "name": "D. Cook"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "319c6098f7f94cf24c5c637b718e721449fd4a70",
+      "title": "The Visual Design and Control of Trellis Display"
+    },
+    {
+      "paperId": "dda61c20ccb10868d1b983d307e557c9537542bb",
+      "title": "An Interactive Icon Index: Images of the Outer Planets"
+    },
+    {
+      "paperId": "7aec706917782b810a9278438cbddc5a5f705d79",
+      "title": "Research report. DataSpace: 3-D visualizations of large databases"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "18a0db6d073acd3e551a14d8a8b54c60913beeb7",
+      "title": "Visualization and analysis of multi-variate data: a technique for all fields"
+    },
+    {
+      "paperId": "b13cfc15a298608a60fe32c3214cdf1956321997",
+      "title": "Interactive data visualization using focusing and linking"
+    },
+    {
+      "paperId": "362593cfebf9cfd7a33d46cf96949d4052793fd4",
+      "title": "Analyzing High-Dimensional Data with Motion Graphics"
+    },
+    {
+      "paperId": "83bb37a06a964fe4af17002e1a546be78e01431e",
+      "title": "Hyperdimensional Data Analysis Using Parallel Coordinates"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "319fda92f6a5792fd65a12e9dfaff224c5df404c",
+      "title": "EXPLOR4: A program for exploring four-dimensional data using stereo-ray glyphs, dimensional constraints, rotation and masking"
+    },
+    {
+      "paperId": "888c5ccdab76d7e216fc1f33fa942a84e4ce98cd",
+      "title": "Grand tour methods: an outline"
+    },
+    {
+      "paperId": "d6dd96e2495cb1f5928c68e9631110eb198ab332",
+      "title": "The grand tour: a tool for viewing multidimensional data"
+    },
+    {
+      "paperId": "76b0a46ee00bc34fcc8ebd4b22e1fe672cdd652c",
+      "title": "Asymptotics of Graphical Projection Pursuit"
+    },
+    {
+      "paperId": "7a23ad19ae1f551d6725fdf2283c643a727f4e33",
+      "title": "Representing Points in Many Dimensions by Trees and Castles"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "2668b17c1c972811c5edb0b142896bbfe7d1d25a",
+      "title": "PLOTS OF HIGH-DIMENSIONAL DATA"
+    },
+    {
+      "paperId": "8ea59502ee1d4805bb9c842f6bb6bd510d675284",
+      "title": "Statistics and Experimental Design"
+    },
+    {
+      "paperId": "ecfd817a9a7bdae535fb9845473b257fafa17937",
+      "title": "Manual Controls for High-Dimensional Data Projections"
+    },
+    {
+      "paperId": "af6c5bfb4ac4f7a65012415914e2e99da0979dd0",
+      "title": "Interactive Graphical Methods in the Analysis of Customer Panel Data"
+    },
+    {
+      "paperId": "4b8b159d9d7be6f5cc42a3ca9fd6369faf8b85e9",
+      "title": "Grand tour and projection pursuit"
+    },
+    {
+      "paperId": "568d05dc04615a1892b00c4bad7bc70d16ef2305",
+      "title": "A Motivating Example : The 4-point Ultrametric Locus"
+    },
+    {
+      "paperId": "eb4ca6431c5ab088ed95043ef980ec9432c661d6",
+      "title": "26 Statistical graphics and visualization"
+    },
+    {
+      "paperId": "f2cb007897981904e4ba3dc198002978e35275a3",
+      "title": "Places Rated Almanac: Your Guide to Finding the Best Places to Live in America"
+    },
+    {
+      "paperId": "13550718529993d20a1085f814df0e9c6cdfffff",
+      "title": "GRAPHICS: FROM ALPHA TO OMEGA IN DATA ANALYSIS"
+    }
+  ]
+}

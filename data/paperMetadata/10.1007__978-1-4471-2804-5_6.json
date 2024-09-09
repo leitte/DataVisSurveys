@@ -1,0 +1,419 @@
+{
+  "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+  "externalIds": {
+    "MAG": "207635167",
+    "DBLP": "books/sp/12/BrodlieOL12",
+    "DOI": "10.1007/978-1-4471-2804-5_6",
+    "CorpusId": 16557526
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a15402513f444c2be1a2150f8cfbe46bb010d38b",
+  "title": "A Review of Uncertainty in Data Visualization",
+  "abstract": null,
+  "venue": "Expanding the Frontiers of Visual Analytics and Visualization",
+  "year": 2012,
+  "referenceCount": 90,
+  "openAccessPdf": {
+    "url": "http://eprints.whiterose.ac.uk/77640/7/uncert.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "81-109"
+  },
+  "citationStyles": {
+    "bibtex": "@Inproceedings{Brodlie2012ARO,\n author = {K. Brodlie and R. S. A. Osorio and Adriano Lopes},\n booktitle = {Expanding the Frontiers of Visual Analytics and Visualization},\n pages = {81-109},\n title = {A Review of Uncertainty in Data Visualization},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1711090",
+      "name": "K. Brodlie"
+    },
+    {
+      "authorId": "3209548",
+      "name": "R. S. A. Osorio"
+    },
+    {
+      "authorId": "144627106",
+      "name": "Adriano Lopes"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "288786303e9b605d475111c8d61f688af216b715",
+      "title": "Visualizing Uncertainty"
+    },
+    {
+      "paperId": "c7b79cbb3cceffe7dc87c355097a82aefee6cd88",
+      "title": "Flow Radar Glyphs&#8212;Static Visualization of Unsteady Flow with Uncertainty"
+    },
+    {
+      "paperId": "97f21770ecec245331ed96c67b95b018fe2e2b49",
+      "title": "GPU-Based Interactive Cut-Surface Extraction From High-Order Finite Element Fields"
+    },
+    {
+      "paperId": "0c515961c9b49c993c609b37ae1a242193706a7a",
+      "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures"
+    },
+    {
+      "paperId": "4dd29297e3fa9cbdac2444213e93783b0ca039e5",
+      "title": "Visualization of uncertain scalar data fields using color scales and perceptually adapted noise"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "08a91abf82527b4786059829b466d2e2e47ba882",
+      "title": "Probabilistic Marching Cubes"
+    },
+    {
+      "paperId": "860fe48b811281876a94c77e09697df27f503a4b",
+      "title": "Edge maps: Representing flow with bounded error"
+    },
+    {
+      "paperId": "8d10f81f832aba47211052c44cdd53d84eb83010",
+      "title": "Uncertain topology of 3D vector fields"
+    },
+    {
+      "paperId": "816d02fe03f7cb8004300cccc69482165aeb453c",
+      "title": "Visualization and data analysis"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "7158768b5c7f161519bbf1f97a36c242b0a61ce1",
+      "title": "Uncertainty-Aware Guided Volume Segmentation"
+    },
+    {
+      "paperId": "e04ffd89850b878c5e5410cc9984b491215c5c1b",
+      "title": "Matching Visual Saliency to Confidence in Plots of Uncertain Data"
+    },
+    {
+      "paperId": "06ee7111059fc242ef7f05a225a57d0d182d2b19",
+      "title": "Visualization of gridded scalar data with uncertainty in geosciences"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "1d5bdb95e6e5bda87f45afedc81f46f4debe74b4",
+      "title": "Application of uncertainty visualization methods to meteorological trajectories"
+    },
+    {
+      "paperId": "2f3670d89c450a54ead0093ded4994b6a8025e82",
+      "title": "Uncertain 2D Vector Field Topology"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "a04042b1c970c7ed6420b59ebb80018843891e3b",
+      "title": "A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets"
+    },
+    {
+      "paperId": "f984533ca1646d477c6b79135eb58dab0b4b93b4",
+      "title": "Contouring with Uncertainty"
+    },
+    {
+      "paperId": "1c1ba7cebe1fffa2d71c28a8ccbab3425230cb92",
+      "title": "Exploration of uncertainty in bidirectional vector fields"
+    },
+    {
+      "paperId": "7a2056e081c482a942ff332fdb06270db684c126",
+      "title": "Multifield visualization using local statistical complexity"
+    },
+    {
+      "paperId": "b5d34d11db4ffc8320200534eae211d8d076aa1f",
+      "title": "Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation"
+    },
+    {
+      "paperId": "4a386aab472ce19624573004730e651f6f15e432",
+      "title": "Visualizing Large-Scale Uncertainty in Astrophysical Data"
+    },
+    {
+      "paperId": "5ab5a6250687053b7429e4743e98fb80a4821296",
+      "title": "Error bars in experimental biology"
+    },
+    {
+      "paperId": "ca7e210a7f78d3fa9e9ac880a8b5381276a47725",
+      "title": "Exploratory Visualization of Multivariate Data with Variable Quality"
+    },
+    {
+      "paperId": "deee7da9432c1d87cf1f5a0c1295c5c3449ad382",
+      "title": "Artifacts caused by simplicial subdivision"
+    },
+    {
+      "paperId": "5e33e59f05cc77e97195f1c0ec8dfdc10b9df8bd",
+      "title": "Theoretical analysis of uncertainty visualizations"
+    },
+    {
+      "paperId": "ea4a6f7f7f80fd870c19f83fbea20029b14734ee",
+      "title": "Texture-based visualization of uncertainty in flow fields"
+    },
+    {
+      "paperId": "15184b3a594104a06eaafc5200d08edc2fd8fd82",
+      "title": "Statistically quantitative volume visualization"
+    },
+    {
+      "paperId": "5ded7041735fb06052d23c995af399b10953dd87",
+      "title": "Visualizing spatial multivalue data"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "54c7a227c4b72f3c20d3a46f85b45663f04619e9",
+      "title": "Mean dynamic topography: intercomparisons and errors"
+    },
+    {
+      "paperId": "c023f1db1d26ff29a36ccd277732f2a4e186a8c9",
+      "title": "On visualizing uncertainty in volumetric data: techniques and their evaluation"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "7613514280bc41fbdd982f8880c9131a9f1193df",
+      "title": "Point-based probabilistic surfaces to show surface uncertainty"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "194acaa749e0709ef03ab3c1eedb8f6ead371b71",
+      "title": "Animated visual vibrations as an uncertainty visualisation technique"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "0515fd1ecfd8c8f82cf97846fccaa2b9ddff1300",
+      "title": "Local Exact Particle Tracing on Unstructured Grids"
+    },
+    {
+      "paperId": "fd5a74bd8e2579d0321facc5dd3e1f749d12e74c",
+      "title": "Visualizing Spatial Distribution Data Sets"
+    },
+    {
+      "paperId": "7cee1893d0f5004127f489d95a3df826096b0fbb",
+      "title": "Testing Popular Visualization Techniques for Representing Model Uncertainty"
+    },
+    {
+      "paperId": "3ecfddefa7e62969e0a451b6599ea3e5dbc9d767",
+      "title": "Visualizing data with bounded uncertainty"
+    },
+    {
+      "paperId": "1ced25ed510608fddc7c7cc02a5f98cece8d8595",
+      "title": "Visualizing scalar volumetric data with uncertainty"
+    },
+    {
+      "paperId": "2061ed0ee35f7f9af10e510c34c6f91708d74588",
+      "title": "Nonlinear particle tracking for high-order elements"
+    },
+    {
+      "paperId": "7a62c48187e926c895f7ff36d1f3c6d498f435ab",
+      "title": "Procedural annotation of uncertain information"
+    },
+    {
+      "paperId": "f364ca4b92c893b059d471b12282c832a63c2161",
+      "title": "Navigating high-dimensional spaces to support design steering"
+    },
+    {
+      "paperId": "bbb5a1b7b4c27ff92f8f81d95fe3ea3d2d6a37b3",
+      "title": "Tools for Computing Tangent Curves for Linearly Varying Vector Fields over Tetrahedral Domains"
+    },
+    {
+      "paperId": "dbb7d0c31c5ba3d2e555c34a1d21edef235c3eae",
+      "title": "Visualizing spatial data uncertainty using animation"
+    },
+    {
+      "paperId": "a5872114fb1440e7f89e87d5e9358a01eadc5128",
+      "title": "Modelling and visualizing multiple spatial uncertainties"
+    },
+    {
+      "paperId": "fd857cc655c0a14b0b7f720d7b5270099e6529e5",
+      "title": "LISTEN: sounding uncertainty visualization"
+    },
+    {
+      "paperId": "064419c16051255d3e6b7d1e36d1fed3a524bf4e",
+      "title": "UFLOW: visualizing uncertainty in fluid flow"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "98f333120f54225747f6198ca38341ab06da56a9",
+      "title": "Scientific visualization: techniques and applications"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "4a3df77754fe154ec9b00fcabd446ab0879f70b5",
+      "title": "Algorithm 671: FARB-E-2D: fill area with bicubics on rectangles\u2014a contour plot program"
+    },
+    {
+      "paperId": "1f0f9a2ee14450f010803aff192d0dda003141c9",
+      "title": "Visualization in scientific computing"
+    },
+    {
+      "paperId": "5f4189e19a0aa3f272940a71f1cdd2cec08ba34e",
+      "title": "Uncertainty in Trajectory Calculations Due to Low Resolution Meteorological Data."
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "328633ba31e630db56981e2f53daca43b048f754",
+      "title": "Visualisation Tools for Exploring the Uncertainty-Risk Relationship in the Decision-Making Process: A Preliminary Empirical Evaluation"
+    },
+    {
+      "paperId": null,
+      "title": "Allendes"
+    },
+    {
+      "paperId": "1ac41973f31839afe64ef9eccbf25e905d76031d",
+      "title": "Uncertain Flow Visualization using LIC"
+    },
+    {
+      "paperId": "a159d82b028904cb2dac15834b6d2a337e11e1e0",
+      "title": "THE UNCERTAIN REALITY OF UNDERGROUND ASSETS"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "b2f15946a384acba2a7ff810642d2ca705727451",
+      "title": "Ray-tracing polymorphic multidomain spectral/hp elements for isosurface rendering"
+    },
+    {
+      "paperId": "2548c946395b703d32d5876d1f32fd86e85c695e",
+      "title": "Using sequential indicator simulation to assess the uncertainty of delineating heavy-metal contaminated soils."
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty evaluation Software Support for Metrology"
+    },
+    {
+      "paperId": "2c8060a5c48f544cb507f9b6dbb62bf7d29a581d",
+      "title": "Visualisation of uncertainty using the HSI colour model : computations with colours"
+    },
+    {
+      "paperId": "e1da7f10c1ae745ba3fb3bf685eba360dace9c9a",
+      "title": "Improving the Robustness and Accuracy of the Marching Cubes Algorithm for Isosurfacing"
+    },
+    {
+      "paperId": "e00bd0af323d1f2f8748d5ceeaaa487818e009c4",
+      "title": "Uncertainty Visualization Methods in Isosurface Rendering"
+    },
+    {
+      "paperId": "a6bad321e167376e0145e5c0c0d85f046b475eec",
+      "title": "Accuracy in Contour Drawing"
+    },
+    {
+      "paperId": "905e1bfae66fa99c0cfe14451ee74e7be0c0ce1a",
+      "title": "Mathematical visualization: algorithms, applications and numerics"
+    },
+    {
+      "paperId": "2a7504ee41d4a60d6be9cdede0c087f2296e87ed",
+      "title": "Accuracy in 3D Particle Tracing"
+    },
+    {
+      "paperId": null,
+      "title": "Introduction to visualizing data validity"
+    },
+    {
+      "paperId": null,
+      "title": "Graphical and geographical components of data quality"
+    },
+    {
+      "paperId": null,
+      "title": "Animation and sound for the visualization of uncertain spatial information"
+    },
+    {
+      "paperId": null,
+      "title": "A classification scheme for scientific visualization"
+    },
+    {
+      "paperId": null,
+      "title": "editors"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: A conceptual model for scien-ti\ufb01c visualization systems"
+    },
+    {
+      "paperId": null,
+      "title": "Spatial Data Transfer Standard (SDTS): Logical Speci\ufb01cations"
+    },
+    {
+      "paperId": null,
+      "title": "A Review of Uncertainty in"
+    },
+    {
+      "paperId": null,
+      "title": "a representative scalar can be used at each step, for example the mean of the distribution, and the particle path constructed as normal, without any indication of uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "sound There were a number of early attempts to use sound to encode uncertainty - see Lodha [43] and Fisher [28]"
+    },
+    {
+      "paperId": null,
+      "title": "Rodolfo Allendes Osorio and Adriano Lopes"
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty evaluation. Technical report, National Physical Laboratory, March 2004. Software Support for Metrology"
+    }
+  ]
+}

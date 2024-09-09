@@ -1,0 +1,243 @@
+{
+  "paperId": "ebf2b8eb61fc027b8745877c5abe755bda948cb5",
+  "externalIds": {
+    "DBLP": "journals/vi/SoniRBV24",
+    "DOI": "10.1016/j.visinf.2024.01.002",
+    "CorpusId": 267137727
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/ebf2b8eb61fc027b8745877c5abe755bda948cb5",
+  "title": "A survey on automatic dashboard recommendation systems",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2024,
+  "referenceCount": 42,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2024-01-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "67-79",
+    "volume": "8"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Soni2024ASO,\n author = {Praveen Soni and Cyril de Runz and F. Bouali and Gilles Venturini},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {67-79},\n title = {A survey on automatic dashboard recommendation systems},\n volume = {8},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2067185279",
+      "name": "Praveen Soni"
+    },
+    {
+      "authorId": "2266848813",
+      "name": "Cyril de Runz"
+    },
+    {
+      "authorId": "1721687",
+      "name": "F. Bouali"
+    },
+    {
+      "authorId": "2265680709",
+      "name": "Gilles Venturini"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5480019f7a5f9cabad878f76e06dced41b5b7ad7",
+      "title": "DashBot: An ML-Guided Dashboard Generation System"
+    },
+    {
+      "paperId": "a59c95774ceb1753076d73952b17f566d56a967c",
+      "title": "An Evaluation-Focused Framework for Visualization Recommendation Algorithms"
+    },
+    {
+      "paperId": "a0593d33c973b424e8167e6260054172ef0dfb33",
+      "title": "MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation"
+    },
+    {
+      "paperId": "11993832e79b684e2c2c7f2cf1d20a3b9286629b",
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics"
+    },
+    {
+      "paperId": "4ba32135a6a16c02da96e869e703034732e05a1c",
+      "title": "Calliope: Automatic Visual Data Story Generation from a Spreadsheet"
+    },
+    {
+      "paperId": "f213036eeb7b6eea14c4e85bdc759b31045fd14d",
+      "title": "Declarative Dashboard Generation"
+    },
+    {
+      "paperId": "8b5e8e91bcaec2de998737b181bb4638e4e77553",
+      "title": "A survey on automatic infographics and visualization recommendations"
+    },
+    {
+      "paperId": "8f53ed9ef9d1ef574787189364ca8feee346013a",
+      "title": "Characterizing Automated Data Insights"
+    },
+    {
+      "paperId": "a52bf86cc32e81bd440f947516c1d977f5d1ca35",
+      "title": "QualDash: Adaptable Generation of Visualisation Dashboards for Healthcare Quality Improvement"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "f386811048c29817d3f624eb5df63c041cfab6e1",
+      "title": "LADV: Deep Learning Assisted Authoring of Dashboard Visualizations From Images and Sketches"
+    },
+    {
+      "paperId": "a0d763d183d735201249c21f1afdeb025c49f112",
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data"
+    },
+    {
+      "paperId": "b0c8b08dcb94752d5d96f88a9b1bcd58bcc9154f",
+      "title": "Making data visualization more efficient and effective: a survey"
+    },
+    {
+      "paperId": "12c9494fe71e819b7d2b7f0980bb2c163c5c7f31",
+      "title": "An Approach for the Automated Generation of Engaging Dashboards"
+    },
+    {
+      "paperId": "06a587804f86e05ec010601eb04b07f268dc9cff",
+      "title": "Tailored information dashboards: A systematic mapping of the literature"
+    },
+    {
+      "paperId": "548eebbe40f6fd785624ca39d343043ce0d90d24",
+      "title": "Toward Understanding Representation Methods in Visualization Recommendations through Scatterplot Construction Tasks"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "5ca9f988d3b3cbe037a841888e4f6985a24fcc35",
+      "title": "What Do We Talk About When We Talk About Dashboards?"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "c5553c1d3390a2dfd8234369e183e733e7537173",
+      "title": "Multiple Workspaces in Visual Analytics"
+    },
+    {
+      "paperId": "704b914d509eef599b95ac5e0610a4a02a4c24ef",
+      "title": "Constructing a Data Visualization Recommender System"
+    },
+    {
+      "paperId": "b5e8fd7346d2cb3b4a43cacc02b16408bb434de6",
+      "title": "Data visualization techniques for real-time information \u2014 A custom and dynamic dashboard for analyzing surveys' results"
+    },
+    {
+      "paperId": "735222818fca62f36b40617a8db37d74b1f6e19f",
+      "title": "DeepEye: Towards Automatic Data Visualization"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "a638bde6bd0f64af4c2c4c2673519e4cd242ffeb",
+      "title": "Data Visualization: An Exploratory Study into the Software Tools Used by Businesses."
+    },
+    {
+      "paperId": "a98010c6f7f606a855a5bf0f662a3d60fc107937",
+      "title": "DDART, a Dynamic Dashboard for Collection, Analysis and Visualization of Activity and Reporting Traces"
+    },
+    {
+      "paperId": "23ed273c84731755db3f8213dff9c72117b4be1b",
+      "title": "ScagExplorer: Exploring Scatterplots by Their Scagnostics"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "a9670a87037b0098341744aa7a3f6e874e120dcc",
+      "title": "VizDeck: self-organizing dashboards for visual analytics"
+    },
+    {
+      "paperId": "7115f61ef9db5bc4ace8bbc1a70811a1f7167eed",
+      "title": "Annotating BI visualization dashboards: needs & challenges"
+    },
+    {
+      "paperId": "ca1bdc912c8891b76aef8c5ab60306f0d512aa63",
+      "title": "Exploration Views: Understanding Dashboard Creation and Customization for Visualization Novices"
+    },
+    {
+      "paperId": "236fb069a33bc3b182a7e965800f05b7973a3cb5",
+      "title": "Dashboards & Marketing: Why, What, How and What Research is Needed?"
+    },
+    {
+      "paperId": "245831b1ba9fa32fdb224555b37533010af903e6",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "804f7fca1f47dbe2de82513b7bf5ee354cc7ecd0",
+      "title": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research"
+    },
+    {
+      "paperId": "b5da1952fd8fb74df3166e405950d33496f4deba",
+      "title": "A Review on Visualization Recommendation Strategies"
+    },
+    {
+      "paperId": null,
+      "title": "Study on business intelligence tools for enterprise dashboard development"
+    },
+    {
+      "paperId": "373ace4d55804b59a8302de7ccb3faf0a311f7d1",
+      "title": "Development of the Learning Analytics Dashboard to Support Students' Learning Performance"
+    }
+  ]
+}

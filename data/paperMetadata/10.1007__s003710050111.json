@@ -1,0 +1,324 @@
+{
+  "paperId": "a513c767fd669818df6147e6726568263ce08358",
+  "externalIds": {
+    "DBLP": "journals/vc/PangWL97",
+    "MAG": "1972641242",
+    "DOI": "10.1007/s003710050111",
+    "CorpusId": 206960981
+  },
+  "publicationVenue": {
+    "id": "9a037417-d032-481a-bb54-de987ec2138b",
+    "name": "The Visual Computer",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Comput"
+    ],
+    "issn": "0178-2789",
+    "url": "https://link.springer.com/journal/371"
+  },
+  "url": "https://www.semanticscholar.org/paper/a513c767fd669818df6147e6726568263ce08358",
+  "title": "Approaches to uncertainty visualization",
+  "abstract": null,
+  "venue": "The Visual Computer",
+  "year": 1996,
+  "referenceCount": 63,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "1996-09-01",
+  "journal": {
+    "name": "The Visual Computer",
+    "pages": "370-390",
+    "volume": "13"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Pang1996ApproachesTU,\n author = {A. Pang and C. Wittenbrink and S. Lodha},\n booktitle = {The Visual Computer},\n journal = {The Visual Computer},\n pages = {370-390},\n title = {Approaches to uncertainty visualization},\n volume = {13},\n year = {1996}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1797162",
+      "name": "A. Pang"
+    },
+    {
+      "authorId": "1789983",
+      "name": "C. Wittenbrink"
+    },
+    {
+      "authorId": "1737727",
+      "name": "S. Lodha"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "fa237f1b22b0b0f139e07b9cffba34318e96b3e5",
+      "title": "Guidelines for Evaluating and Expressing the Uncertainty of Nist Measurement Results"
+    },
+    {
+      "paperId": "1a99b2803e620af3b6bd64f93cfc0b9314c3c201",
+      "title": "Scattered Data Techniques for Surfaces"
+    },
+    {
+      "paperId": "fd857cc655c0a14b0b7f720d7b5270099e6529e5",
+      "title": "LISTEN: sounding uncertainty visualization"
+    },
+    {
+      "paperId": "064419c16051255d3e6b7d1e36d1fed3a524bf4e",
+      "title": "UFLOW: visualizing uncertainty in fluid flow"
+    },
+    {
+      "paperId": "4915a57c867a4e9ce6dc11059521e25a195282aa",
+      "title": "Classification and local error estimation of interpolation and derivative filters for volume rendering"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "07387e35bfd5d3c4d3123b07528e71f89d95324a",
+      "title": "Image-guided streamline placement"
+    },
+    {
+      "paperId": "76bc336a210b0ae3be6cb9ad3101de2ac620590a",
+      "title": "Visualizing Geometric Uncertainty of Surface Interpolants"
+    },
+    {
+      "paperId": "80eb5bd0c50c3f10a78ae354b828c241d2d807c4",
+      "title": "Methods for comparing 3D surface attributes"
+    },
+    {
+      "paperId": "41981816d64d55ee4878bd4e996aac8d61a33859",
+      "title": "IFS fractal interpolation for 2D and 3D visualization"
+    },
+    {
+      "paperId": "7fc83220640efcfa1af8545e2018786c039cb12c",
+      "title": "An illustrated analysis of sonification for scientific visualisation"
+    },
+    {
+      "paperId": "d5225a7976e788eeae71b0247d63d83871de1a72",
+      "title": "VERITY VISUALIZATION: VISUAL MAPPINGS"
+    },
+    {
+      "paperId": "0410350c14b95d987869e5ace9c2de3cc2c18b23",
+      "title": "Animating human athletics"
+    },
+    {
+      "paperId": "fe846adfce8797166c5cc9e5cccd75e4f25762b8",
+      "title": "An analysis of 3-D particle path integration algorithms"
+    },
+    {
+      "paperId": "73d5208c7d0ca3828738246314eb1670936fbf7e",
+      "title": "Using Line Integral Convolution for Flow Visualization: Curvilinear Grids, Variable-Speed Animation, and Unsteady Flows"
+    },
+    {
+      "paperId": "8c2e962f004a36850deb55c97e338329c39d538a",
+      "title": "Evaluation of visualization software"
+    },
+    {
+      "paperId": "16a670203a534577ea3794d48416b455425b428a",
+      "title": "Bump-mapped vector fields"
+    },
+    {
+      "paperId": "047ea42682f073f29295537732a070278181c6f5",
+      "title": "Glyphs for visualizing uncertainty in environmental vector fields"
+    },
+    {
+      "paperId": "1323c9424c657dd70e7d98d5873b001cf3c6ec3c",
+      "title": "The Collected Works of John W. Tukey: Volume VIII Multiple Comparisons 1948-1983."
+    },
+    {
+      "paperId": "c01c27f06e57eaf3ab22f305be714da7eb2a7b9f",
+      "title": "Streamball techniques for flow visualization"
+    },
+    {
+      "paperId": "507fdcf24b6d23c56a3bc1990845df93554bfcdf",
+      "title": "Topological considerations in isosurface generation"
+    },
+    {
+      "paperId": "594cf125ef19f53bfaf8aea48371df273f6e3e23",
+      "title": "Piecewise smooth surface reconstruction"
+    },
+    {
+      "paperId": "4dce799fa835380d3442dc4c52dfe9e5fb71e4f7",
+      "title": "A framework for the analysis of error in global illumination algorithms"
+    },
+    {
+      "paperId": "003d6f12fde4bdfc62a574873dada7e01fdf42a6",
+      "title": "Bounds and error estimates for radiosity"
+    },
+    {
+      "paperId": "66496fd728f5e2476e4fcf6378d6414fe86a33b1",
+      "title": "Error-bounded antialiased rendering of complex environments"
+    },
+    {
+      "paperId": "3fbe29b7324f96f7f7850c7311363bdb0d7fb85f",
+      "title": "Data quality issues in visualization"
+    },
+    {
+      "paperId": "4d4e86c89b2ace2fc86f652aa3072647f92c4aec",
+      "title": "Research issues in vector and tensor field visualization"
+    },
+    {
+      "paperId": "3b62ac36e73422b5ccf2f244cb7a84d397ea66ab",
+      "title": "A Probe for Local Flow Field Visualization"
+    },
+    {
+      "paperId": "de898b94029bec2913a48be202272b2cb92f739f",
+      "title": "Visualizing second-order tensor fields with hyperstreamlines"
+    },
+    {
+      "paperId": "4e8325462fa907c13e5be8dc4b5fe911f4e65f41",
+      "title": "Visual cues - practical data visualization"
+    },
+    {
+      "paperId": "aab4409aa13da3f6effb3a836ea182cc4116e610",
+      "title": "Visualization of fuzzy data using generalized animation"
+    },
+    {
+      "paperId": "838b1c2ba6bfffffcf36dbe558b6b212e9022bb6",
+      "title": "Choosing Specifiers: An Evaluation of the Basic Tasks Model of Graphical Perception"
+    },
+    {
+      "paperId": "dd50d5aa931df6c0dce41a3ea3a0fe45c9544523",
+      "title": "Surface interrogation algorithms"
+    },
+    {
+      "paperId": "841c9c8f25b26b990938f1b24bd2a308bdabe5d4",
+      "title": "NCGIA Research Initiative 7 Visualization of Spatial Data Quality: Scientific Report for the Specialist Meeting (91-26)"
+    },
+    {
+      "paperId": "a705619680ca88e79c88accbe9f0dbe81f93b165",
+      "title": "Hierarchical splatting: a progressive refinement algorithm for volume rendering"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "22e709ddb37dcec0fbf5650d0c5de2c018b0677c",
+      "title": "Curves and surfaces for computer aided geometric design"
+    },
+    {
+      "paperId": "b27bf8818d8fa7545f4efe2ee0d38376bfabfeca",
+      "title": "Surface versus volume rendering: a comparative assessment"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "f47865ceb5432022d9c372dd9211eff6c80e13d6",
+      "title": "An Experiment in Graphical Perception"
+    },
+    {
+      "paperId": "7e043b937bd49f5e6682a4cb512f507d10b79b13",
+      "title": "Statistics for Technology (A Course in Applied Statistics)"
+    },
+    {
+      "paperId": "f1d377097b9ee7150dad5b5908a16175f9eaa8c0",
+      "title": "Statistics for Technology: A Course in Applied Statistics (2nd ed.)."
+    },
+    {
+      "paperId": "5e94a13ec042cb1c1bb7f12369e451309d4b231a",
+      "title": "Foundations for Measuring Volume Rendering Quality"
+    },
+    {
+      "paperId": "29617a5550cb38f611799b537d7aa0ba415048e5",
+      "title": "Curves and surfaces for computer-aided geometric design - a practical guide, 4th Edition"
+    },
+    {
+      "paperId": "be8734fab05b1d801f2ee3bd0d5b03b3e8944975",
+      "title": "An Analysis of 3D Particle Path Integration Algorithms"
+    },
+    {
+      "paperId": null,
+      "title": "O(cid:29)Brien"
+    },
+    {
+      "paperId": "9f069141a18ba0e293b8bdd0cfbc4dac80d5d464",
+      "title": "Visualization of Data Quality"
+    },
+    {
+      "paperId": "9e3255de0f359aecf0e297cbe79043a97e89c8fa",
+      "title": "An optimum interpolation method applied to the resampling of NOAA AVHRR data"
+    },
+    {
+      "paperId": "c749477a66b2b08c1dd81fb01076a9a1d630991d",
+      "title": "An introduction to auditory display"
+    },
+    {
+      "paperId": null,
+      "title": "On animation and sound for the visualization of uncertain spatial information"
+    },
+    {
+      "paperId": "260776242229930f829029d9f585c955d601cbee",
+      "title": "A probe for local flow field visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Quarendon P (ed) Scientific visualization: techniques and applications"
+    },
+    {
+      "paperId": null,
+      "title": "Scientiic Visualization: Techniques and Applications, c hapter on Visualization Techniques"
+    },
+    {
+      "paperId": "92cb11dcc6608fb20d807c0d5049a3e5e35deb41",
+      "title": "A survey and characterization of multidimensional presentation techniques"
+    },
+    {
+      "paperId": "47f4ca7e3aeff6f1f9ccdbebbc2249d800424aeb",
+      "title": "The collected works of john w. tukey"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": null,
+      "title": "He received a BS in 1987 in Electrical Engineering and Computer Science from the University of Colorado, Boulder, an MS"
+    },
+    {
+      "paperId": null,
+      "title": "A reference model for the visualization of multi-dimensional data"
+    },
+    {
+      "paperId": "44070a50f59e06882ecd3892c9e9809a30930d5d",
+      "title": "Volume rendering: display of surfaces from volume data"
+    },
+    {
+      "paperId": null,
+      "title": "The Elements of Graphing Data. W adsworth"
+    },
+    {
+      "paperId": null,
+      "title": "The plane with parallel coordinates. The Visual Computer"
+    },
+    {
+      "paperId": "48169cf5a03fe90ca3c87c56fc2e64aa8d7ace05",
+      "title": "The collected works of John W. Tukey"
+    },
+    {
+      "paperId": null,
+      "title": "ITTENBRINK is a Research Engineer at Hew-lett Packard Laboratories Complimentary Research Fel-low at the University of"
+    }
+  ]
+}

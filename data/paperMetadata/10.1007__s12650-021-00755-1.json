@@ -1,0 +1,929 @@
+{
+  "paperId": "a57349375d053dc77172f130e59faf57a20c52fb",
+  "externalIds": {
+    "DBLP": "journals/jvis/KamalDJDKZM21",
+    "MAG": "3168198506",
+    "DOI": "10.1007/s12650-021-00755-1",
+    "CorpusId": 236405483
+  },
+  "publicationVenue": {
+    "id": "c3faa921-3f7d-4435-906f-25cdb7d6a885",
+    "name": "Journal of Vision",
+    "type": "journal",
+    "alternate_names": [
+      "J Vis",
+      "Journal of Visualization"
+    ],
+    "issn": "1534-7362",
+    "alternate_issns": [
+      "1343-8875"
+    ],
+    "url": "http://www.journalofvision.org/4/6/",
+    "alternate_urls": [
+      "https://link.springer.com/journal/12650",
+      "http://journalofvision.org/",
+      "https://www.iospress.nl/html/13438875.php"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/a57349375d053dc77172f130e59faf57a20c52fb",
+  "title": "Recent advances and challenges in uncertainty visualization: a survey",
+  "abstract": null,
+  "venue": "Journal of Vision",
+  "year": 2021,
+  "referenceCount": 208,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-05-29",
+  "journal": {
+    "name": "Journal of Visualization",
+    "pages": "861 - 890",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kamal2021RecentAA,\n author = {Aasim Kamal and Parashar Dhakal and A. Javaid and V. Devabhaktuni and D. Kaur and Jack Zaientz and Robert P. Marinier},\n booktitle = {Journal of Vision},\n journal = {Journal of Visualization},\n pages = {861 - 890},\n title = {Recent advances and challenges in uncertainty visualization: a survey},\n volume = {24},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1978295291",
+      "name": "Aasim Kamal"
+    },
+    {
+      "authorId": "40795471",
+      "name": "Parashar Dhakal"
+    },
+    {
+      "authorId": "39803999",
+      "name": "A. Javaid"
+    },
+    {
+      "authorId": "2106242049",
+      "name": "V. Devabhaktuni"
+    },
+    {
+      "authorId": "145510631",
+      "name": "D. Kaur"
+    },
+    {
+      "authorId": "2401101",
+      "name": "Jack Zaientz"
+    },
+    {
+      "authorId": "144843807",
+      "name": "Robert P. Marinier"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ea51f67a9d6fb9d9f5ef790c18635404518e2ffe",
+      "title": "2020 IEEE 10th Symposium on Large Data Analysis and Visualization (LDAV)"
+    },
+    {
+      "paperId": "4ee44e7b07ce75f5a97fdf70df5ea2f1fd179883",
+      "title": "Interpretation of Deep Temporal Representations by Selective Visualization of Internally Activated Units"
+    },
+    {
+      "paperId": "c9e9e5d726c493a03218cb8cb874f49dd64d80ed",
+      "title": "Decision making with uncertainty in immersive systems"
+    },
+    {
+      "paperId": "42352ff5d5d587bf5bf4633fda10c01b10d09844",
+      "title": "An Unquantified Uncertainty Visualization Design Space During the Opioid Crisis"
+    },
+    {
+      "paperId": "23a88a7787c492fbc55c8dd6388af3b26980baa7",
+      "title": "Uncertainty Visualization of Transport Variance in a Time-Varying Ensemble Vector Field"
+    },
+    {
+      "paperId": "aa23dd1f616fce527e1bf54b471f921466301f67",
+      "title": "Decision-making with measure modeled uncertain payoffs and multiple goals"
+    },
+    {
+      "paperId": "2c2f18697a872ed3c0de9f59222181133364dd67",
+      "title": "Parallel Coordinates Based Visualization for High-Dimensional Data"
+    },
+    {
+      "paperId": "a44334677f010149228e11b487e5161a1e80ce0d",
+      "title": "Shape Decision-Making in Map-Like Visualization Design Using the Simulated Annealing Algorithm"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "9e52e8f3b0dba44b683b5e985bc5f28003011271",
+      "title": "Why Authors Don't Visualize Uncertainty"
+    },
+    {
+      "paperId": "079a467bb4a365c8712ce646c36bba9cafc70140",
+      "title": "A Structural Average of Labeled Merge Trees for Uncertainty Visualization"
+    },
+    {
+      "paperId": "24c5b4463b95d14c2927b71d37f38580124f9cb4",
+      "title": "Exhibiting Uncertainty: Visualizing Data Quality Indicators for Cultural Collections"
+    },
+    {
+      "paperId": "bcc599a30f39d059dac43f6e16b9ec2526a12cc1",
+      "title": "Visual Entropy and the Visualization of Uncertainty"
+    },
+    {
+      "paperId": "caab7a2c74c9456cf675af782fb3583be7ef4662",
+      "title": "Unified radio interferometric calibration and imaging with joint uncertainty quantification"
+    },
+    {
+      "paperId": "0d4044b914e1dbc961c88700da1440a5af29b9c2",
+      "title": "Multiple Aneurysms AnaTomy CHallenge 2018 (MATCH): uncertainty quantification of geometric rupture risk parameters"
+    },
+    {
+      "paperId": "54142bb2ad9ebd064b28501e899f1e80b309d720",
+      "title": "A Bayesian Cognition Approach to Improve Data Visualization"
+    },
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "1b912290e5f59c246d02bde861f947a9a48e10cf",
+      "title": "SURE: A method for decision-making under uncertainty"
+    },
+    {
+      "paperId": "d727299e34a8f6179cb0ad06e4fe7b22381698ce",
+      "title": "Assessing and visualizing uncertainty of 3D geological surfaces using level sets with stochastic motion"
+    },
+    {
+      "paperId": "828d65dc8d2c29791d266622faf2300ae8421c68",
+      "title": "The Fun and Function of Uncertainty: Uncertain Incentives Reinforce Repetition Decisions"
+    },
+    {
+      "paperId": "825ae04b67cd58951cdb115978e9fba6a1d5f5d9",
+      "title": "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making"
+    },
+    {
+      "paperId": "3b917537ab9866cede7c3fdf8a49a1e8503ffc8f",
+      "title": "Uncertainty visualization for variable associations analysis"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "21dbc9d30f6de811b07a0664050fdd6c4e28925f",
+      "title": "Data Tweening: Incremental Visualization of Data Transforms"
+    },
+    {
+      "paperId": "3ac1755f460535222710be85740d11b2180e4e29",
+      "title": "Towards Faithful Graph Visualizations"
+    },
+    {
+      "paperId": "0c9af5a8c19c66fe7ec57fe5dfc1e26599b74528",
+      "title": "Visual Trends Analysis in Time-Varying Ensembles"
+    },
+    {
+      "paperId": "f9994f25a2f062bb8732f73d15ebfdc90cd9f3d3",
+      "title": "Modality-Driven Classification and Visualization of Ensemble Variance"
+    },
+    {
+      "paperId": "b8afb957c4fc02266dac74734cd6f55e45bb5dd4",
+      "title": "Visual Analysis of Multi-Run Spatio-Temporal Simulations Using Isocontour Similarity for Projected Views"
+    },
+    {
+      "paperId": "beeb87fac4366d33116b8ed3473ba167052481db",
+      "title": "Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso\u2010Contours"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "887bff6b8504ed374d51ce2b4173f203df4d76a1",
+      "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data"
+    },
+    {
+      "paperId": "3a350b822522701648cd936a1a819f1ced6a3f33",
+      "title": "Screen-space silhouettes for visualizing ensembles of 3D isosurfaces"
+    },
+    {
+      "paperId": "bff86633660a4a676c9a2535254af45030c6fa98",
+      "title": "Effective Visualization of Temporal Ensembles"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "b41758f1bf9d11ee561b0769911a00820218ca4d",
+      "title": "A Framework for Uncertainty-Aware Visual Analytics in Big Data"
+    },
+    {
+      "paperId": "35f32027912c3fd6b134345ae5dff4cfe7815904",
+      "title": "CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+      "paperId": "c959b19e9afde3471b1d62f8d4faa34f780e7a51",
+      "title": "Variational circular treemaps for interactive visualization of hierarchical data"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "1c45a939418968dfb0a434797a67f099f2e5eac5",
+      "title": "TopicPanorama: A Full Picture of Relevant Topics"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "7e2c49a4f5b0889cbf639b1da582305467d7b2eb",
+      "title": "GosperMap: Using a Gosper Curve for Laying Out Hierarchical Data"
+    },
+    {
+      "paperId": "4e8d0bc039c71e0e7d7977b6855ff33f9cceb989",
+      "title": "Visual Analytics Infrastructures: From Data Management to Exploration"
+    },
+    {
+      "paperId": "fcd2834955594607bf4eafdf655a6f576e9e7121",
+      "title": "Nonparametric Models for Uncertainty Visualization"
+    },
+    {
+      "paperId": "0f79fa93dba7b897248984aa308c768384b3c6c2",
+      "title": "Gaussian mixture model based volume visualization"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "e0833220c257bdf31fd99261576cc7d4129adbc1",
+      "title": "Visualizing Flow of Uncertainty through Analytical Processes"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "f266b51eca89806d1f8e2077157e6b99dc8d6461",
+      "title": "On the faithfulness of graph visualizations"
+    },
+    {
+      "paperId": "184add91604a2c574b685f59b89f33c757ea8055",
+      "title": "Comparative Visual Analysis of 2D Function Ensembles"
+    },
+    {
+      "paperId": "3882c6a90152aa01a177146eb1a4de380ac168cb",
+      "title": "Vortex Analysis in Uncertain Vector Fields"
+    },
+    {
+      "paperId": "f0ff491d816352f7e90603834160880291a39e67",
+      "title": "Visualization of Global Correlation Structures in Uncertain 2D Scalar Fields"
+    },
+    {
+      "paperId": "c7b79cbb3cceffe7dc87c355097a82aefee6cd88",
+      "title": "Flow Radar Glyphs&#8212;Static Visualization of Unsteady Flow with Uncertainty"
+    },
+    {
+      "paperId": "022deada7847fecaee9fb530c1e7c21eda9f96fd",
+      "title": "Exploring Uncertainty in Geodemographics with Interactive Graphics"
+    },
+    {
+      "paperId": "7b9a165353df98e241529046205f64d7bc32f3b6",
+      "title": "Analysis of large-scale scalar data using hixels"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "4dd29297e3fa9cbdac2444213e93783b0ca039e5",
+      "title": "Visualization of uncertain scalar data fields using color scales and perceptually adapted noise"
+    },
+    {
+      "paperId": "08a91abf82527b4786059829b466d2e2e47ba882",
+      "title": "Probabilistic Marching Cubes"
+    },
+    {
+      "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+      "title": "The Design Space of Implicit Hierarchy Visualization: A Survey"
+    },
+    {
+      "paperId": "9cb10a9e31258d907a197f856352b0701a49dcac",
+      "title": "Pacific Visualization Symposium (PacificVis)"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "7158768b5c7f161519bbf1f97a36c242b0a61ce1",
+      "title": "Uncertainty-Aware Guided Volume Segmentation"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "06ee7111059fc242ef7f05a225a57d0d182d2b19",
+      "title": "Visualization of gridded scalar data with uncertainty in geosciences"
+    },
+    {
+      "paperId": "ea55711f8d2fc6013eeed91fe1666b277b3dfed0",
+      "title": "Comparative Visualization for Parameter Studies of Dataset Series"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "9f5c91a4c5efaa9547c6778b9da1f3e985e498cf",
+      "title": "Interactive illustrative visualization of hierarchical volume data"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "f97307c8bc159af12e49c071a562380e2c22cc03",
+      "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces"
+    },
+    {
+      "paperId": "a04042b1c970c7ed6420b59ebb80018843891e3b",
+      "title": "A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets"
+    },
+    {
+      "paperId": "b69ac4cf86224c252e45b57b69864e51075ab0d9",
+      "title": "Evaluation of Objective Uncertainty in the Visual System"
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "b6d9d6c25f5b7a3689c503e7df74e937ebd5cdb8",
+      "title": "A Survey of Uncertain Data Algorithms and Applications"
+    },
+    {
+      "paperId": "4416182788c3f176bc25ecb388873a7d02870cb8",
+      "title": "Uncertainty visualization: why might it fail?"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "f984533ca1646d477c6b79135eb58dab0b4b93b4",
+      "title": "Contouring with Uncertainty"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "1c1ba7cebe1fffa2d71c28a8ccbab3425230cb92",
+      "title": "Exploration of uncertainty in bidirectional vector fields"
+    },
+    {
+      "paperId": "a0336a5560257cb54baa2552d77c4a7a22181e71",
+      "title": "Multiple Uncertainties in Time-Variant Cosmological Particle Data"
+    },
+    {
+      "paperId": "4a386aab472ce19624573004730e651f6f15e432",
+      "title": "Visualizing Large-Scale Uncertainty in Astrophysical Data"
+    },
+    {
+      "paperId": "3ad2b31b55d3bf87a16e0c4855739756a1e0d39b",
+      "title": "Evaluation of uncertainty visualization techniques for information fusion"
+    },
+    {
+      "paperId": "ef603701794e6abd79e75ae0f521e15e1f7d05ca",
+      "title": "Visualization of Uncertainty and Reasoning"
+    },
+    {
+      "paperId": "ee792edccb2c88e927c81285344d2d88babfb86f",
+      "title": "Rainbow Color Map (Still) Considered Harmful"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "ca7e210a7f78d3fa9e9ac880a8b5381276a47725",
+      "title": "Exploratory Visualization of Multivariate Data with Variable Quality"
+    },
+    {
+      "paperId": "2f10df959646fff9c5cf726a7399eec1b6b1d009",
+      "title": "Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color."
+    },
+    {
+      "paperId": "29897749b88012e368cf9e4198dc6b996e7db899",
+      "title": "The Sectioned Density Plot"
+    },
+    {
+      "paperId": "5e33e59f05cc77e97195f1c0ec8dfdc10b9df8bd",
+      "title": "Theoretical analysis of uncertainty visualizations"
+    },
+    {
+      "paperId": "15184b3a594104a06eaafc5200d08edc2fd8fd82",
+      "title": "Statistically quantitative volume visualization"
+    },
+    {
+      "paperId": "ea4a6f7f7f80fd870c19f83fbea20029b14734ee",
+      "title": "Texture-based visualization of uncertainty in flow fields"
+    },
+    {
+      "paperId": "96abad7f66adf5888c84a2d694a1ede4c9ba0b57",
+      "title": "Visualizing Temporal Uncertainty in 3D Virtual Reconstructions"
+    },
+    {
+      "paperId": "71e23cd66b749b7b5e475c2e367706c9e50dcfa4",
+      "title": "Multivariate glyphs for multi-object clusters"
+    },
+    {
+      "paperId": "70c1e70060a4783752792b04777f30484b74aa37",
+      "title": "PlanningLines: novel glyphs for representing temporal uncertainties and their evaluation"
+    },
+    {
+      "paperId": "7cd00cf22e509f84539db32bc51488ae850d362b",
+      "title": "Visualizing Distributions from Multi-Return Lidar Data to Understand Forest Structure"
+    },
+    {
+      "paperId": "f86ecd61172c64856d57b0b439f6a653ccfee3c8",
+      "title": "Voronoi treemaps for the visualization of software metrics"
+    },
+    {
+      "paperId": "1d55ecd02b9cb91e7866aee5c4bf724514d5f1cd",
+      "title": "Can the box plot be improved"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "c023f1db1d26ff29a36ccd277732f2a4e186a8c9",
+      "title": "On visualizing uncertainty in volumetric data: techniques and their evaluation"
+    },
+    {
+      "paperId": "6d21da637b79cf31cd06fdb392bb470ca2d784b1",
+      "title": "Display of vector fields using a reaction-diffusion model"
+    },
+    {
+      "paperId": "9a61c558729a044e3895b19f02457a767f1a1709",
+      "title": "Multidimensional visual representations for underwater environmental uncertainty"
+    },
+    {
+      "paperId": "7613514280bc41fbdd982f8880c9131a9f1193df",
+      "title": "Point-based probabilistic surfaces to show surface uncertainty"
+    },
+    {
+      "paperId": "eb075b4ae7b99226af35792b727758117f59783a",
+      "title": "Using Probabilistic Demand Predictions for Traffic Flow Management Decision Support"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "194acaa749e0709ef03ab3c1eedb8f6ead371b71",
+      "title": "Animated visual vibrations as an uncertainty visualisation technique"
+    },
+    {
+      "paperId": "188a7388b4aa10ccbda71d5b0b6ea1ed70024e50",
+      "title": "Uncertainty and Variability in Point Cloud Surface Data"
+    },
+    {
+      "paperId": "f25f6c6293ac4326621c7c0b5869e90ff946083f",
+      "title": "Effectively visualizing multi-valued flow data using color and texture"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "03d09443a1f732e8a5ff2035c0519388a1b3b8a3",
+      "title": "Display of fused images: methods, interpretation, and diagnostic improvements."
+    },
+    {
+      "paperId": "fd5a74bd8e2579d0321facc5dd3e1f749d12e74c",
+      "title": "Visualizing Spatial Distribution Data Sets"
+    },
+    {
+      "paperId": "aad2c3bdea462784fc7a2c9365630e83a65ddcd8",
+      "title": "Modeling and visualizing uncertainty in continuous variables predicted using remotely sensed data"
+    },
+    {
+      "paperId": "c3273bf19fa134b44570061111c48ec60a229a7e",
+      "title": "The Certainty of Uncertainty: GIS and the Limits of Geographic Knowledge"
+    },
+    {
+      "paperId": "f719d66586300949d3893a0b47c6ef9e72017429",
+      "title": "Determining and visualizing uncertainty in estimates of fiber orientation from diffusion tensor MRI"
+    },
+    {
+      "paperId": "7cee1893d0f5004127f489d95a3df826096b0fbb",
+      "title": "Testing Popular Visualization Techniques for Representing Model Uncertainty"
+    },
+    {
+      "paperId": "6d481b4cacafbe88ca37ada7f95a6736d87a1fa4",
+      "title": "The uncertainty visualization problem in remote sensing analysis"
+    },
+    {
+      "paperId": "a56c50fa1c0bbc87b6e00c80ecbc7021b7167894",
+      "title": "Visualizing spatially varying distribution data"
+    },
+    {
+      "paperId": "581a0d1a57d139d1a3f589e50df5a31294081ef4",
+      "title": "Visualization in earth system science"
+    },
+    {
+      "paperId": "3ecfddefa7e62969e0a451b6599ea3e5dbc9d767",
+      "title": "Visualizing data with bounded uncertainty"
+    },
+    {
+      "paperId": "a490aae93a5614ba8e273bbe2da1f1a14686c054",
+      "title": "Probabilistic surfaces: point based primitives to show surface uncertainty"
+    },
+    {
+      "paperId": "64aba9f98d5e41ffbaa6c46775fb2040bd76c28a",
+      "title": "Visualizing 2D probability distributions from EOS satellite image-derived data sets: a case study"
+    },
+    {
+      "paperId": "1340e8b0c28f683530410a8df8a82ca8b9b14a5c",
+      "title": "Uncertainty propagation in models driven by remotely sensed data"
+    },
+    {
+      "paperId": "71332166d4443732a6afb6915a4d07b168af7acc",
+      "title": "Volume Rendering Data with Uncertainty Information"
+    },
+    {
+      "paperId": "07816cb16f4750229c0e8fc1846b920f45f45d04",
+      "title": "Harnessing natural textures for multivariate visualization"
+    },
+    {
+      "paperId": "7a62c48187e926c895f7ff36d1f3c6d498f435ab",
+      "title": "Procedural annotation of uncertain information"
+    },
+    {
+      "paperId": "6d72e4757b151b51e4501bad30e4043599df9b90",
+      "title": "A framework for the modelling of uncertainty between remote sensing and geographic information systems"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "04833bc649839679e7550fc515b28607ec21ad1a",
+      "title": "Data Intermixing and Multi\u2010volume Rendering"
+    },
+    {
+      "paperId": "cb3b52adde8cf7a3da307ac013bd20fd54a280fe",
+      "title": "Visualizing knowledge about virtual reconstructions of ancient architecture"
+    },
+    {
+      "paperId": "be160ee17302db2ab7f760398fe0e55d42999e03",
+      "title": "Fuzzy sets as a basis for a theory of possibility"
+    },
+    {
+      "paperId": "2f1c3fecba746a23baef96e070ec86516f718b64",
+      "title": "Ventromedial prefrontal cortex mediates guessing"
+    },
+    {
+      "paperId": "1369b938fc40e8e559807a0e6735da1e2ca4d1b5",
+      "title": "Visualization of an Imperfect World"
+    },
+    {
+      "paperId": "c7ae5fd1d068fae58a0f7d2a5b572638db74c7fc",
+      "title": "Violin plots : A box plot-density trace synergism"
+    },
+    {
+      "paperId": "381c1f6a506e94c3b540f3569f6e09bb0fbcb5c0",
+      "title": "Dissociation Of Working Memory from Decision Making within the Human Prefrontal Cortex"
+    },
+    {
+      "paperId": "e7091106882660a9dc02c91927dcacc9b8c60cd1",
+      "title": "Analysis of longitudinal data"
+    },
+    {
+      "paperId": "5e8e37fd21958fc7f7a339fffc01f8f3899749a8",
+      "title": "Visual Explanations: Images and Quantities, Evidence and Narrative"
+    },
+    {
+      "paperId": "064419c16051255d3e6b7d1e36d1fed3a524bf4e",
+      "title": "UFLOW: visualizing uncertainty in fluid flow"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "76bc336a210b0ae3be6cb9ad3101de2ac620590a",
+      "title": "Visualizing Geometric Uncertainty of Surface Interpolants"
+    },
+    {
+      "paperId": "bff4866d1dcc096ab810835504bd13c0451a8e63",
+      "title": "Visualization In Geographical Information Systems"
+    },
+    {
+      "paperId": "3fbe29b7324f96f7f7850c7311363bdb0d7fb85f",
+      "title": "Data quality issues in visualization"
+    },
+    {
+      "paperId": "aab4409aa13da3f6effb3a836ea182cc4116e610",
+      "title": "Visualization of fuzzy data using generalized animation"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "f097ca6e27dc7a31dab3621840795670aaf5082b",
+      "title": "Some Implementations of the Boxplot"
+    },
+    {
+      "paperId": "422bbfbc161b1a7e01dfd64503d108c26077ea32",
+      "title": "Opening the Box of a Boxplot"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "9aa6443860ca7c8ab8dd642b4f948d99cf6e9f30",
+      "title": "Graphical Methods for Data Analysis"
+    },
+    {
+      "paperId": "894311cb5d357bd50abb812d941da3d9ffcd1ebf",
+      "title": "Semiologie graphique : les diagrammes les r\u00e9seaux, les cartes"
+    },
+    {
+      "paperId": "75b87b3119e0ffe12af41881c3001461e1d70d5e",
+      "title": "A Generalization of Bayesian Inference"
+    },
+    {
+      "paperId": "53e85faf22cb48b9feb00ee9a281b5e30b07d947",
+      "title": "Range-Bar Charts"
+    },
+    {
+      "paperId": null,
+      "title": "System and method for data visualization using machine learning and automatic insight of outliers associated with a set of data"
+    },
+    {
+      "paperId": "84c712ee3860909d38233b46d5949804cd981bc6",
+      "title": "Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models"
+    },
+    {
+      "paperId": "cedda0040e807636452a952a33a12b9f53e0e608",
+      "title": "Bubble Treemaps for Uncertainty Visualization"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "4c08ab49881e7f1ff5f77e6f52da58a424df133b",
+      "title": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "paperId": "187c3322304050372f3f0e63f65d2ad013de7bcc",
+      "title": "Fisheye Lens Correction by Estimating 3D Location"
+    },
+    {
+      "paperId": "c001dbf2d34aa1bb55ade1284314c9e5c009358a",
+      "title": "BIVARIATE QUANTILE INTERPOLATION FOR ENSEMBLE DERIVED PROBABILITY DENSITY ESTIMATES"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "c875fcd58dc642d71539f821c843045d25396c23",
+      "title": "Visualizing Uncertainty in Predictive Models"
+    },
+    {
+      "paperId": "55c9c8321a7561fd3b579757bf04fc6a6e89a57e",
+      "title": "Visualizing Contour Distributions in 2D Ensemble Data"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "fde3bcb0f226e7af637adf989c6a13e7139020d0",
+      "title": "Interactive Visualization Techniques for Neurosurgery Planning"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "1853145560a044809924b1c22a67c4816b157a03",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": null,
+      "title": "Canadian Information Processing Society, pp"
+    },
+    {
+      "paperId": null,
+      "title": "conference on computer graphics and interactive techniques in Australasia and South East Asia"
+    },
+    {
+      "paperId": "334055d719104295867d66779667c392f90c6e92",
+      "title": "The Dempster-Shafer Theory"
+    },
+    {
+      "paperId": null,
+      "title": "Unstruct Data Sets"
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty visualization and decision making: does visualizing uncertain information change decisions"
+    },
+    {
+      "paperId": "0f8b881fb1810d80d7381e0c6f476316862376d1",
+      "title": "The Influence of Uncertainty Visualization on Decision Making: An Empirical Evaluation"
+    },
+    {
+      "paperId": "d2b69a50dd002e49a13ce5445c2eab1d4d48a82c",
+      "title": "Methods for Presenting Statistical Information: The Box Plot"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": null,
+      "title": "Envisioning information, 1990"
+    },
+    {
+      "paperId": null,
+      "title": "A typology for visualizing"
+    },
+    {
+      "paperId": "156e1511579c2a29bcd11de5705856fe0567926d",
+      "title": "Dissociable effects of d-amphetamine, chlordiazepoxide and \u03b1-flupenthixol on choice and rate measures of reinforcement in the rat"
+    },
+    {
+      "paperId": "4e0d9ed7d4c08cff49a37f4977cf40c914b3cd5e",
+      "title": "Visualization techniques for spatial probability density function data"
+    },
+    {
+      "paperId": "e00bd0af323d1f2f8748d5ceeaaa487818e009c4",
+      "title": "Uncertainty Visualization Methods in Isosurface Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "Einige brdf modelle"
+    },
+    {
+      "paperId": "9d20906184eb380d48bd7d200f4fa7c03a4ee755",
+      "title": "Uncertainty in remote sensing and GIS"
+    },
+    {
+      "paperId": null,
+      "title": "Holistic battlespace visualization: advanced concepts in information visualization and cognitive studies"
+    },
+    {
+      "paperId": "bf67ea22c417d13e7f1ef28fbdd2614fcdcdb65d",
+      "title": "A formal approach to imperfection in geographic information"
+    },
+    {
+      "paperId": "c0147b41048540b8cb461da8216cbc565dca050e",
+      "title": "Squarified Treemaps"
+    },
+    {
+      "paperId": null,
+      "title": "Dot plots"
+    },
+    {
+      "paperId": "ee0ccc30921667760c18c63129a50d8b9cd54810",
+      "title": "A review of uncertainty handling formalisms"
+    },
+    {
+      "paperId": "9ed7cf59f4293e993e75cc91fb38f2f1b15f46eb",
+      "title": "Visual explanations: Images and quantities, evidence and narrative"
+    },
+    {
+      "paperId": null,
+      "title": "imaging: science and technology. International Society for Optics and Photonics, pp"
+    },
+    {
+      "paperId": "6b7cdb0035347e8db8c504ed05d9bec9a1725aa3",
+      "title": "Comparative Visualization - Approaches and Examples"
+    },
+    {
+      "paperId": null,
+      "title": "Graphical and geographical components of data quality"
+    },
+    {
+      "paperId": null,
+      "title": "Managing uncertainty in spatial databases: putting theory into practice"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization and gis : what should we see ? what might we miss"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: a conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": null,
+      "title": "Ignorance and uncertainty: emerging paradigms Spear ME (1952) Charting statistics"
+    },
+    {
+      "paperId": "ec09378ec829b56ea5aae50eacc6f81cf9611709",
+      "title": "Dempster-Shafer Theory"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": null,
+      "title": "The inherent structure of information as a constraint to analysis: mapped thematic data as a case study"
+    },
+    {
+      "paperId": null,
+      "title": "A mathematical theory of evidence, vol 42"
+    },
+    {
+      "paperId": "9c84de18021eeab6ab57392333dfa84f1f89c2eb",
+      "title": "Fuzzy sets"
+    },
+    {
+      "paperId": null,
+      "title": "Sulla determinazione emp\u0131\u00b4rica di uma legge di distribuzione Li"
+    },
+    {
+      "paperId": null,
+      "title": "Recent advances and challenges"
+    },
+    {
+      "paperId": null,
+      "title": "Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations"
+    }
+  ]
+}

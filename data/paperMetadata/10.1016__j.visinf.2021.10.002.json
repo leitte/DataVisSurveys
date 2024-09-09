@@ -1,0 +1,463 @@
+{
+  "paperId": "fb1a57657db731298de59839c2c37889c62dbbd9",
+  "externalIds": {
+    "DBLP": "journals/vi/LiuCWZCZZ21",
+    "DOI": "10.1016/j.visinf.2021.10.002",
+    "CorpusId": 243900618
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/fb1a57657db731298de59839c2c37889c62dbbd9",
+  "title": "Visualization and visual analysis of vessel trajectory data: A survey",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2021,
+  "referenceCount": 92,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-11-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "1-10",
+    "volume": "5"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liu2021VisualizationAV,\n author = {Haiyan Liu and Xiaohui Chen and Y. Wang and Bing Zhang and Yunpeng Chen and Ying Zhao and Fangfang Zhou},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {1-10},\n title = {Visualization and visual analysis of vessel trajectory data: A survey},\n volume = {5},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2115375681",
+      "name": "Haiyan Liu"
+    },
+    {
+      "authorId": "2109198953",
+      "name": "Xiaohui Chen"
+    },
+    {
+      "authorId": "2154958527",
+      "name": "Y. Wang"
+    },
+    {
+      "authorId": "2117925044",
+      "name": "Bing Zhang"
+    },
+    {
+      "authorId": "2144862673",
+      "name": "Yunpeng Chen"
+    },
+    {
+      "authorId": "1811410987",
+      "name": "Ying Zhao"
+    },
+    {
+      "authorId": "47978638",
+      "name": "Fangfang Zhou"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8df6d8adcc62d733081ebed03d172f4a105ad552",
+      "title": "Preserving Minority Structures in Graph Sampling"
+    },
+    {
+      "paperId": "aecd6804f04ec4f37b869de7803872b830b5e55e",
+      "title": "Building navigation networks from multi-vessel trajectory data"
+    },
+    {
+      "paperId": "dfccdabb0eedf9e040e7c6e293485f6bfed3efd1",
+      "title": "AIS Data-Based for Statistics and Analysis of Maritime Traffic Dangerous Features: A Case Study of San Diego Costal Water"
+    },
+    {
+      "paperId": "cc017ff481b9d0d204c2bac4509bc00a14634ead",
+      "title": "Exploring AIS data for intelligent maritime routes extraction"
+    },
+    {
+      "paperId": "bd1f4df0698eaad2e79a62e69503cb59a9fcb470",
+      "title": "Traffic Pattern Mining and Forecasting Technologies in Maritime Traffic Service Networks: A Comprehensive Survey"
+    },
+    {
+      "paperId": "f386811048c29817d3f624eb5df63c041cfab6e1",
+      "title": "LADV: Deep Learning Assisted Authoring of Dashboard Visualizations From Images and Sketches"
+    },
+    {
+      "paperId": "0c8ee1de9ef737fa666c08a99fc97927eeeeea21",
+      "title": "Visual Analytics for Electromagnetic Situation Awareness in Radio Monitoring and Management"
+    },
+    {
+      "paperId": "95ee8df50e3b979e57c44ba53e19ccdc9bd46c3f",
+      "title": "Real-time Ship Track Association: a Benchmark and a Network-Based Method"
+    },
+    {
+      "paperId": "3d47a412ca6300d3f00da9ab5da51d0f46956f37",
+      "title": "CRISIS: Integrating AIS and Ocean Data Streams Using Semantic Web Standards for Event Detection"
+    },
+    {
+      "paperId": "a1950f41e2827e5974ddcf48bf705ab1053663eb",
+      "title": "Hub-and-spoke structure: Characterizing the global crude oil transport network with mass vessel trajectories"
+    },
+    {
+      "paperId": "c3c728b9a12c59108493275a43dc64df619811e9",
+      "title": "Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters"
+    },
+    {
+      "paperId": "3ca997d6d745a24cfadc6e2662babf5290f05792",
+      "title": "Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data"
+    },
+    {
+      "paperId": "7b3b61308897c918bb25661ddf586ca2f9f7251b",
+      "title": "A survey of visualization for smart manufacturing"
+    },
+    {
+      "paperId": "459b3a69540a8020034c982c8e992099262fb06a",
+      "title": "A Novel Similarity Measure for Clustering Vessel Trajectories Based on Dynamic Time Warping"
+    },
+    {
+      "paperId": "1deaef61632adc113c03abceff37d139cb60b550",
+      "title": "A method for simplifying ship trajectory based on improved Douglas\u2013Peucker algorithm"
+    },
+    {
+      "paperId": "20c839fb1a0fce4bdd223c840d3b7b293affd954",
+      "title": "VAUD: A Visual Analysis Approach for Exploring Spatio-Temporal Urban Data"
+    },
+    {
+      "paperId": "12fad81d448dfc1b663981090d9ed508a65439fe",
+      "title": "Maritime anomaly detection: A review"
+    },
+    {
+      "paperId": "fb74cc575dcd0d3813c487c032563f1290f10c87",
+      "title": "Mapping change in bottom trawling activity in the Mediterranean Sea through AIS data"
+    },
+    {
+      "paperId": "aff43b185cdae196c95a268bed1dcc6b1bd6b932",
+      "title": "Ship performance and navigation data compression and communication under autoencoder system architecture"
+    },
+    {
+      "paperId": "9925f632964a11d87fdbfe9da77840cb095765da",
+      "title": "Visual Analytics Approach to Vessel Behaviour Analysis"
+    },
+    {
+      "paperId": "4a75f9406b2bc407ededf651d75a052c1122d7fc",
+      "title": "Tracking the global footprint of fisheries"
+    },
+    {
+      "paperId": "a5400a6f415d65aac1312edd2ca6b7361c241f85",
+      "title": "Challenges and Opportunities with Big Data"
+    },
+    {
+      "paperId": "e74bf06d60d1907e732d249efd693c1d2b377d8b",
+      "title": "Design and evaluation of line symbolizations for origin\u2013destination flow maps"
+    },
+    {
+      "paperId": "9d13d4c7e7d37d4e635385f136d29b3b43bd4f76",
+      "title": "A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space\u2010Time Cubes"
+    },
+    {
+      "paperId": "3bff5b3c98d74d2418c370680683d76b44f8c4ab",
+      "title": "Big AIS data based spatial-temporal analyses of ship traffic in Singapore port waters"
+    },
+    {
+      "paperId": "298f3acf8f53df56aa1649af7127cddf6313637f",
+      "title": "COMPRESS"
+    },
+    {
+      "paperId": "463412d22d25c8dc494dac4ec6cc03dfc49fa7b7",
+      "title": "DOTS: An online and near-optimal trajectory simplification algorithm"
+    },
+    {
+      "paperId": "364b1c2830d785a93dda7d0abc86d9c0206a4fb9",
+      "title": "TraSeer: A visual analytics tool for vessel movements in the coastal areas"
+    },
+    {
+      "paperId": "ade8a03e2a024e4ae5c669030ee398a827f9d1c3",
+      "title": "HoNVis: Visualizing and exploring higher-order networks"
+    },
+    {
+      "paperId": "f44af232d560a5b2e110b26b4ed1cd7d32de3e69",
+      "title": "Mapping Global Shipping Density from AIS Data"
+    },
+    {
+      "paperId": "7f585a7f6bf51606f9cfa80f19ec4720532c4f19",
+      "title": "Exploiting AIS Data for Intelligent Maritime Navigation: A Comprehensive Survey From Data to Methodology"
+    },
+    {
+      "paperId": "2b02b836e9532f2ea253debbdf820878af5afdf9",
+      "title": "Visual Analysis of Multi-factor Association on Inland Waterway Accident"
+    },
+    {
+      "paperId": "5249e017d9ef091a968bb0b48cfffa03d085c4cb",
+      "title": "Online event recognition from moving vessel trajectories"
+    },
+    {
+      "paperId": "a803379a1fbf01368f170662a680afc32147a746",
+      "title": "Evaluation and comparison of anomaly detection algorithms in annotated datasets from the maritime domain"
+    },
+    {
+      "paperId": "236f5291b63f1d1da515db9691c81540b52fba19",
+      "title": "AIS Trajectories Simplification and Threshold Determination"
+    },
+    {
+      "paperId": "e360eb660eb8c7f615876d0da640eb36fb2c5a13",
+      "title": "AIS-Based Evaluation of Target Detectors and SAR Sensors Characteristics for Maritime Surveillance"
+    },
+    {
+      "paperId": "99ee4c455aa532016bb2e2386c82debafe72ea82",
+      "title": "Research on Vessel Trajectory Multi-Dimensional Compression Algorithm Based on Douglas-Peucker Theory"
+    },
+    {
+      "paperId": "17dea0969c9e6a11e24d8a21b9fadabce9c574cb",
+      "title": "Comprehensive Analysis of Automatic Identification System (AIS) Data in Regard to Vessel Movement Prediction"
+    },
+    {
+      "paperId": "0d5a76dd32bb193f6044ca9686e7c9050681575e",
+      "title": "Measuring similarity of mobile phone user trajectories\u2013 a Spatio-temporal Edit Distance method"
+    },
+    {
+      "paperId": "18f59c74b73b1bee76ec141e34511813f51ce953",
+      "title": "VAIT: A Visual Analytics System for Metropolitan Transportation"
+    },
+    {
+      "paperId": "3c760a0c20db26cc41ad23582819e50d3ce7eb3f",
+      "title": "Most discriminating segment - Longest common subsequence (MDSLCS) algorithm for dynamic hand gesture classification"
+    },
+    {
+      "paperId": "db1ebf7c0f017ad2e22cf36cda719216cd01e275",
+      "title": "Use of AIS Data to Characterise Marine Traffic Patterns and Ship Collision Risk off the Coast of Portugal"
+    },
+    {
+      "paperId": "534c361fcadc7f8c283fa839bbc90ebff4fc3d38",
+      "title": "Vessel Pattern Knowledge Discovery from AIS Data: A Framework for Anomaly Detection and Route Prediction"
+    },
+    {
+      "paperId": "433c93c3a920380649ba414983146b9958b354c7",
+      "title": "T-Watcher: A New Visual Analytic System for Effective Traffic Surveillance"
+    },
+    {
+      "paperId": "edd5f325dc5bc8a25bcb248ca17f25a8a41bcdcc",
+      "title": "Visualizing Interchange Patterns in Massive Movement Data"
+    },
+    {
+      "paperId": "cde0855cb750d15790c7dbd1f657a90fae9d2630",
+      "title": "Visual analytics of movement: An overview of methods, tools and procedures"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "ee8e87c149f8485a454edf585ac54fba6fd98d3d",
+      "title": "Overlapping community detection via bounded nonnegative matrix tri-factorization"
+    },
+    {
+      "paperId": "e0aa507a7fd9ad27dc52b5c0e894345853c331f7",
+      "title": "Spatiotemporal analysis of critical transportation links based on time geographic concepts: a case study of critical bridges in Wuhan, China"
+    },
+    {
+      "paperId": "976f46e89fd2cbad0fca275d8ca0823e67b73367",
+      "title": "Visual analytics for maritime domain awareness"
+    },
+    {
+      "paperId": "2073eb13bb94bce5bdb33146eb15663e0fff2d04",
+      "title": "A visual analytics process for maritime resource allocation and risk assessment"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "16383727a6bc9ef2244a8d40b80fbbd92219b96c",
+      "title": "A hidden Markov model approach for determining vessel activity from vessel monitoring system data"
+    },
+    {
+      "paperId": "45a89f364adc4598e37a1914719baedf944f14c6",
+      "title": "A conceptual framework and taxonomy of techniques for analyzing movement"
+    },
+    {
+      "paperId": "8a287d4c0d72b02f50584505bb1a09261d78bef0",
+      "title": "Interactive visualization of multivariate trajectory data with density maps"
+    },
+    {
+      "paperId": "f2ba775d0a4e198f08f90b266aced40fb45a6f9f",
+      "title": "Interactive visualization of streaming data with Kernel Density Estimation"
+    },
+    {
+      "paperId": "ded4b3097c92775ce93e328c048f0b49de814ba4",
+      "title": "Spatial Generalization and Aggregation of Massive Movement Data"
+    },
+    {
+      "paperId": "68081f84d631a380c5e72a7a807c80bed21b68f2",
+      "title": "Algorithms for compressing GPS trajectory data: an empirical evaluation"
+    },
+    {
+      "paperId": "12156379a10bb6b15730f76f89372b3a6c251a66",
+      "title": "Space\u2013time density of trajectories: exploring spatio-temporal patterns in movement data"
+    },
+    {
+      "paperId": "432469754e244ce2a6ca474212b16ee81dea3654",
+      "title": "Space, time and visual analytics"
+    },
+    {
+      "paperId": "6bd8eec4b83b166b36ee52666751facd3c391b69",
+      "title": "Spatio-temporal trajectory analysis of mobile objects following the same itinerary"
+    },
+    {
+      "paperId": "68d59a4d662cffe649bd228902e63f688d416d05",
+      "title": "The complex network of global cargo ship movements"
+    },
+    {
+      "paperId": "06429d3d408cb4b08a95360730bceaeda9202cc3",
+      "title": "Interactive visual clustering of large collections of trajectories"
+    },
+    {
+      "paperId": "d5d7760a0a802098e055f94a11902910107c1fd9",
+      "title": "Processing Raw Data from Global Positioning Systems without Additional Information"
+    },
+    {
+      "paperId": "d365232e913ecba4f6efb7df766c43f327466c4d",
+      "title": "ICE--visual analytics for transportation incident datasets"
+    },
+    {
+      "paperId": "4ce65de80f2c1ea86c8788d2ba12dd114409d609",
+      "title": "MAD Skills: New Analysis Practices for Big Data"
+    },
+    {
+      "paperId": "fbf77e6945b1c637d85f9af77fcd1f993c1873fb",
+      "title": "Interactive Visualization of Weather and Ship Data"
+    },
+    {
+      "paperId": "596d3b2023a97fbabb1ef5e72aa8f818312b8314",
+      "title": "Anomaly detection in sea traffic - A comparison of the Gaussian Mixture Model and the Kernel Density Estimator"
+    },
+    {
+      "paperId": "3538d05c04ce1818fc1252507c97b562ccc9a5b7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Visualization of Vessel Movements"
+    },
+    {
+      "paperId": "6fd2052523c3142df09905107cea98e7db0e572d",
+      "title": "VISAD: an interactive and visual analytical tool for the detection of behavioral anomalies in maritime traffic data"
+    },
+    {
+      "paperId": "4d50c9641a2af66e07a101b9aca1c901e3997805",
+      "title": "Spatio-temporal aggregation for visual analysis of movements"
+    },
+    {
+      "paperId": "26d9f11df7bf348eb1e4f2c00d8f7b909d1d2a73",
+      "title": "Anomaly detection for sea surveillance"
+    },
+    {
+      "paperId": "10640ea06b54c22056213ed8b2983a9a49e0c6b0",
+      "title": "Geovisualization of Dynamics, Movement and Change: Key Issues and Developing Approaches in Visualization Research"
+    },
+    {
+      "paperId": "028b3f030fa673d1086cc755c2389af247377981",
+      "title": "Spatial Cluster Detection for the Fishing Vessel Monitoring Systems"
+    },
+    {
+      "paperId": "be59fc81c617e2ec7908eba55b8dd4dee8ebd582",
+      "title": "Anomaly detection in the maritime domain"
+    },
+    {
+      "paperId": "9a1d46fa70f2ef9607feffa92eaadc2d4784aa05",
+      "title": "A Global Map of Human Impact on Marine Ecosystems"
+    },
+    {
+      "paperId": "b3d00ffd478bc3398c9088d092406ca4914781a2",
+      "title": "Automatic Identification System (AIS): Data Reliability and Human Error Implications"
+    },
+    {
+      "paperId": "35f5b4106a1dc1ba1064445d9d8f75fabdf72119",
+      "title": "Multiple model framework of adaptive extended kalman filtering for predicting vehicle location"
+    },
+    {
+      "paperId": "937252ce00161cd9ca42b962c02ea3ca2f2aa8f6",
+      "title": "Sampling Trajectory Streams with Spatiotemporal Criteria"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "a69d4283a793e7293bbf01f57877caf2a73ab87d",
+      "title": "Particle Filters for Location Estimation in Ubiquitous Computing: A Case Study"
+    },
+    {
+      "paperId": "4c4d8b60e95b58a66b303f45b8f42c5c5ba4d585",
+      "title": "Spatiotemporal Compression Techniques for Moving Point Objects"
+    },
+    {
+      "paperId": "9849ff80a6e3d0ede2f726940901c70a88cb7116",
+      "title": "An online algorithm for segmenting time series"
+    },
+    {
+      "paperId": "85efeeb25d8e363606d94c8fadaa922ba9b93a37",
+      "title": "Comparing Images Using the Hausdorff Distance"
+    },
+    {
+      "paperId": null,
+      "title": "ALGORITHMS FOR THE REDUCTION OF THE NUMBER OF POINTS REQUIRED TO REPRESENT A DIGITIZED LINE OR ITS CARICATURE"
+    },
+    {
+      "paperId": "5a8141e9f15dde50083312fb26003e23e96c7111",
+      "title": "Innovation Diffusion As a Spatial Process"
+    },
+    {
+      "paperId": "f4da1c6ec6d8b447fb28137fe8bb96846abddecc",
+      "title": "Mapping the hierarchical structure of the global shipping network by weighted ego network analysis"
+    },
+    {
+      "paperId": "c925f2100ee5a3ca8f6a828f679b94ef8e76f92a",
+      "title": "The Impact of Interactivity on Comprehending 2D and 3D Visualizations of Movement Data"
+    },
+    {
+      "paperId": "81bff81e37ac097cd05a5b9f965e51514bf43eae",
+      "title": "Visual Analytics Towards Big Data"
+    },
+    {
+      "paperId": "84aea03b2776b00b8502830c2b5df38de23eff41",
+      "title": "Encoding Travel Traces by Using Road Networks and Routing Algorithms"
+    },
+    {
+      "paperId": null,
+      "title": "Council regulation (EC) no 2371/2002 of 20 december 2002 on the conservation and sustainable exploitation of fisheries resources under the common fisheries policy"
+    },
+    {
+      "paperId": "6a62c0f05abe0516dc4cf2af5bcc8c2583a6db92",
+      "title": "Data Cleaning: Problems and Current Approaches."
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "paperId": "7e9c2a208bcace759d112dd5dcfebf93fdfa2a08",
+  "externalIds": {
+    "MAG": "2543893460",
+    "DBLP": "journals/fcsc/LuCMKLZM17",
+    "DOI": "10.1007/s11704-016-6028-y",
+    "CorpusId": 3416497
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/7e9c2a208bcace759d112dd5dcfebf93fdfa2a08",
+  "title": "Recent progress and trends in predictive visual analytics",
+  "abstract": null,
+  "venue": "Frontiers of Computer Science",
+  "year": 2016,
+  "referenceCount": 107,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-10-27",
+  "journal": {
+    "name": "Frontiers of Computer Science",
+    "pages": "192 - 207",
+    "volume": "11"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lu2016RecentPA,\n author = {Junhua Lu and Wei Chen and Yuxin Ma and Junming Ke and Zongzhuang Li and Fan Zhang and Ross Maciejewski},\n booktitle = {Frontiers of Computer Science},\n journal = {Frontiers of Computer Science},\n pages = {192 - 207},\n title = {Recent progress and trends in predictive visual analytics},\n volume = {11},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "6502430",
+      "name": "Junhua Lu"
+    },
+    {
+      "authorId": "31888526",
+      "name": "Wei Chen"
+    },
+    {
+      "authorId": "2109179271",
+      "name": "Yuxin Ma"
+    },
+    {
+      "authorId": "9943968",
+      "name": "Junming Ke"
+    },
+    {
+      "authorId": "2118207785",
+      "name": "Zongzhuang Li"
+    },
+    {
+      "authorId": "2153304480",
+      "name": "Fan Zhang"
+    },
+    {
+      "authorId": "1786514",
+      "name": "Ross Maciejewski"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "bfa0aa069dd57cdb26ee5195e03a19ed0bbfa934",
+      "title": "EasySVM: A visual analysis approach for open-box support vector machines"
+    },
+    {
+      "paperId": "f3331ec43ed2d7c8144946ca4818a06a1c7dd536",
+      "title": "egoSlider: Visual Analysis of Egocentric Network Evolution"
+    },
+    {
+      "paperId": "7e68748b06796d789a4d38345cec38c1fc610089",
+      "title": "Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration"
+    },
+    {
+      "paperId": "640c5b9127fe2b0227d037ebf1e9e9a40622c48e",
+      "title": "3D Regression Heat Map Analysis of Population Study Data"
+    },
+    {
+      "paperId": "4c8a4f659e827a3189e14f0efd00987dc4c7785f",
+      "title": "FeatureInsight: Visual support for error-driven feature ideation in text classification"
+    },
+    {
+      "paperId": "79d1c35d7a507cda78aa98bbf3b9e20e452eae0b",
+      "title": "Integrating predictive analytics into a spatiotemporal epidemic simulation"
+    },
+    {
+      "paperId": "ceb012bddf494d082b5a93b67c605dce30dbd4e8",
+      "title": "Learning Visualizations by Analogy: Promoting Visual Literacy through Visualization Morphing"
+    },
+    {
+      "paperId": "6c9bd79b7115c50ef5a52b14c75047064dfb38a3",
+      "title": "Predictive Visual Analytics using Topic Composition"
+    },
+    {
+      "paperId": "7583a4bae785762f08a0d7edb0f12e4920f0e12e",
+      "title": "A Survey of Traffic Data Visualization"
+    },
+    {
+      "paperId": "2d8dc25702721fec4e49c037ed51db3acfe26d9f",
+      "title": "Data Mining and Predictive Analytics"
+    },
+    {
+      "paperId": "bbf05a045ff754117b7a93c9972570e64d4f7f43",
+      "title": "Methodologies for Cross-Domain Data Fusion: An Overview"
+    },
+    {
+      "paperId": "4986e2f10a6103ce6fea5e6acbf0ca500d538029",
+      "title": "Using Topological Analysis to Support Event-Guided Exploration in Urban Data"
+    },
+    {
+      "paperId": "7c71cd2b89b0819f47195ea3784c2ba4eb7bc858",
+      "title": "VAET: A Visual Analytics Approach for E-Transactions Time-Series"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "e34cea7beb885be40afa8cc033dbafb8908dd60c",
+      "title": "INFUSE: Interactive Feature Selection for Predictive Modeling of High Dimensional Data"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "459a20d845550dfab7068ece63b8c399c1b7d9d1",
+      "title": "Stent Maps \u2014 Comparative Visualization for the Prediction of Adverse Events of Transcatheter Aortic Valve Implantations"
+    },
+    {
+      "paperId": "22f8bc24128c812c9c6ee7e9e2510c80f78dc611",
+      "title": "Interactive Visual Analysis of Image-Centric Cohort Study Data"
+    },
+    {
+      "paperId": "2882c1afc38a02dcc542cd642c5dfea994b68e95",
+      "title": "EvoRiver: Visual Analysis of Topic Coopetition on Social Media"
+    },
+    {
+      "paperId": "a869bec3e9f4bb28a3516a2e179695d8697f47b8",
+      "title": "The Spinel Explorer\u2014Interactive Visual Analysis of Spinel Group Minerals"
+    },
+    {
+      "paperId": "404c3777c518b8c364395518d9b9aa4e84597279",
+      "title": "Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations"
+    },
+    {
+      "paperId": "0287be7421722b2fb940370b7bdcfabcd46f5367",
+      "title": "#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media"
+    },
+    {
+      "paperId": "381f791986e897defe6fc1a0a76717c18b43a8dc",
+      "title": "City Forensics: Using Visual Elements to Predict Non-Visual City Attributes"
+    },
+    {
+      "paperId": "803c269e6c00344c6278452a7d57f076681969f0",
+      "title": "VarifocalReader \u2014 In-Depth Visual Analysis of Large Text Documents"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "8b89dcf7e0680f3e59ad550f996750f48b9cf4f4",
+      "title": "DIA2: Web-based Cyberinfrastructure for Visual Analysis of Funding Portfolios"
+    },
+    {
+      "paperId": "2d58434a5a5c92033d5c479f7ffa22822e3b9e0d",
+      "title": "Proactive Spatiotemporal Resource Allocation and Predictive Visual Analytics for Community Policing and Law Enforcement"
+    },
+    {
+      "paperId": "c5a000ec6caa5843cdd9191227b21116137b0f4a",
+      "title": "Integrating predictive analytics and social media"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "867dce5e62e6efed74851a4fc155fc984b460663",
+      "title": "Dynamic Network Visualization withExtended Massive Sequence Views"
+    },
+    {
+      "paperId": "5f5ea11ad683364c656e20355ccd6855761ab655",
+      "title": "Business Intelligence from Social Media: A Study from the VAST Box Office Challenge"
+    },
+    {
+      "paperId": "4842119a85e58240f5afe593989228173029484b",
+      "title": "PARAMO: A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records"
+    },
+    {
+      "paperId": "00d681cfff7f0224ace607e515f4ed510e792df9",
+      "title": "The Parable of Google Flu: Traps in Big Data Analysis"
+    },
+    {
+      "paperId": "a8c326f50fdd8517a20de0f4f9f9b1471b53dc88",
+      "title": "Visual Analytics for Model Selection in Time Series Analysis"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "3528780f1571c1d9d075ef4c740c8c3b44fd6956",
+      "title": "A Visual Analysis Approach for Community Detection of Multi-Context Mobile Social Networks"
+    },
+    {
+      "paperId": "7f24edace5e9f5588422cbd6ba3d57dfcf87cbdb",
+      "title": "When Google got flu wrong"
+    },
+    {
+      "paperId": "361f6799198c4a258c5dbb4c9863a521f290ff4c",
+      "title": "Visual Classifier Training for Text Document Retrieval"
+    },
+    {
+      "paperId": "afc707c20985b5f371bd375203b5322f85183feb",
+      "title": "Inter-active learning of ad-hoc classifiers for video visual analytics"
+    },
+    {
+      "paperId": "d19588ce02f032669d78d68f2e629a0a6c2a115d",
+      "title": "A Taxonomy of Dirty Time-Oriented Data"
+    },
+    {
+      "paperId": "df9016bb54c40a7b7a093c278cdf0fb6f40b2712",
+      "title": "Visual exploration of frequent patterns in multivariate time series"
+    },
+    {
+      "paperId": "b95942f0a6331f0cd826f7c4d5c1cf7c7a5251c9",
+      "title": "Guiding feature subset selection with an interactive visualization"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "81d920725fc76b063ab6b47d79e51da5136b13d8",
+      "title": "Exploring incomplete data using visualization techniques"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "05d0f1a165636e7878a9f75579775c05cc6bd635",
+      "title": "A Visual Analytics Approach for Peak\u2010Preserving Prediction of Large Seasonal Time Series"
+    },
+    {
+      "paperId": "31a816f4fef768f29772a003e534b1378611bfe6",
+      "title": "Wrangler: interactive visual specification of data transformation scripts"
+    },
+    {
+      "paperId": "c60372bd9cfa6b05d0aff9fa643796c692cda344",
+      "title": "Forecasting Hotspots\u2014A Predictive Analytics Approach"
+    },
+    {
+      "paperId": "273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+      "title": "LIBSVM: A library for support vector machines"
+    },
+    {
+      "paperId": "ca4b6c4d3e1797c89ad9a338923f4845b423af3a",
+      "title": "Towards detecting influenza epidemics by analyzing Twitter messages"
+    },
+    {
+      "paperId": "746a5e1c39f88a2fcc01d5c13425f8e986af4a21",
+      "title": "Interactive Data Integration through Smart Copy & Paste"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "101f31ce2081557cab42a0297be4479815c6a977",
+      "title": "Computing galled networks from real data"
+    },
+    {
+      "paperId": "24b0b7b24aec255fb4c362bc9f28c280b99b7dc4",
+      "title": "EnsembleMatrix: interactive visualization to support machine learning with multiple classifiers"
+    },
+    {
+      "paperId": "2b5081abd1c0a606f63c58bfcf47bea6d2075ac5",
+      "title": "Detecting influenza epidemics using search engine query data"
+    },
+    {
+      "paperId": "9b9b23188d24d56520ff7036526334cf28244034",
+      "title": "End-user programming of mashups with vegemite"
+    },
+    {
+      "paperId": "d5625adb62babcf9d69ae3d673504857cff973cd",
+      "title": "Intelligently creating and recommending reusable reformatting rules"
+    },
+    {
+      "paperId": "030af374dde521b4c2e31673dff4647adb101a26",
+      "title": "Quantifying and Comparing Features in High-Dimensional Datasets"
+    },
+    {
+      "paperId": "b6badd47b8b12799ecb3074fe9f15d0035a1efdc",
+      "title": "Toolkit support for developing and deploying sensor-based statistical models of human situations"
+    },
+    {
+      "paperId": "fb04bbcece86f1c2b01049a0d9407276d2f29469",
+      "title": "Evolutionary Feature Generation in Speech Emotion Recognition"
+    },
+    {
+      "paperId": "1462beb273725fc9310ad175b6625b5edd61f6ef",
+      "title": "Visualizing Missing Data: Graph Interpretation User Study"
+    },
+    {
+      "paperId": "22c0058a9f636fe716546018d300e61c0e80ff5b",
+      "title": "Visualization of mappings between schemas"
+    },
+    {
+      "paperId": "f5882d7b5bf97b07ae84fcd4947114c9092f9c29",
+      "title": "A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections"
+    },
+    {
+      "paperId": "7f2182862cec01d2ae143511243e7da21ae9819c",
+      "title": "Coordinating Computational and Visual Approaches for Interactive Feature Selection and Multivariate Clustering"
+    },
+    {
+      "paperId": "a3db81e35f1890511c38d685a2f57de476820518",
+      "title": "Interactive machine learning"
+    },
+    {
+      "paperId": "88654a0dd9c7b3cc58d35be07b444719d85592d6",
+      "title": "Feature Generation Using General Constructor Functions"
+    },
+    {
+      "paperId": "78dbb716be61fc1a0b123fbe63c00ba4e7c352a6",
+      "title": "Interactive machine learning: letting users build classifiers"
+    },
+    {
+      "paperId": "a949757d5a1956100a783874d8f68494654569d1",
+      "title": "Information Visualization in Data Mining and Knowledge Discovery"
+    },
+    {
+      "paperId": "05c4e4d2ca2bdbbce1d3164aafa0b16f169dd02b",
+      "title": "Gaining insights into support vector machine pattern classifiers using projection-based tour methods"
+    },
+    {
+      "paperId": "00f8a42089daf5db38c045a30b6b9e714c6b6937",
+      "title": "Visualizing the simple Baysian classifier"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "2619e07cf15de869687d1367a945500e16f9eca0",
+      "title": "Visual classification: an interactive approach to decision tree construction"
+    },
+    {
+      "paperId": "ccce1cf96f641b3581fba6f4ce2545f4135a15e3",
+      "title": "Least Squares Support Vector Machine Classifiers"
+    },
+    {
+      "paperId": "004888621a4e4cee56b6633338a89aa036cf5ae5",
+      "title": "Wrappers for Feature Subset Selection"
+    },
+    {
+      "paperId": "8cc5f500be7688053a1abc1feab8a47e5581bfc5",
+      "title": "Feature Selection for Classification"
+    },
+    {
+      "paperId": "7d4642da036febe5174da1390521444ef405c864",
+      "title": "Estimating Continuous Distributions in Bayesian Classifiers"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "757522dbc98f0b276e8cd49f5a369290d8a2bcd7",
+      "title": "An Approach to Supporting Incremental Visual Data Classification"
+    },
+    {
+      "paperId": "c925f2100ee5a3ca8f6a828f679b94ef8e76f92a",
+      "title": "The Impact of Interactivity on Comprehending 2D and 3D Visualizations of Movement Data"
+    },
+    {
+      "paperId": "62914d61a24b84fb14eeded757cbfa49e0bdbda5",
+      "title": "Position Paper : Towards Comprehensible Predictive Modeling"
+    },
+    {
+      "paperId": "28680de90489fd8a1eb862a82189d89622c7ac27",
+      "title": "Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions"
+    },
+    {
+      "paperId": "a56027785e003965023f414c69a77d6addb3d67e",
+      "title": "Predictive Visual Analytics : Approaches for Movie Ratings and Discussion of Open Research Challenges"
+    },
+    {
+      "paperId": "9fdab208fd3a2b25b86327ed8c6d9eddd268ed36",
+      "title": "Experiences from Supporting Predictive Analytics of Vehicle Traffic"
+    },
+    {
+      "paperId": "b69acfdfa72cb7112d139c715cdb7b9824e35c90",
+      "title": "Interactive Visualizations for Deep Learning"
+    },
+    {
+      "paperId": "6ec1dcdd40d596c52e75dd7b8f25025396695fef",
+      "title": "Visualizing Accuracy to Improve Predictive Model Performance"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization, the conference chair of the IEEE Pacific Visualization 2015, and a paper cochair of the IEEE Pacific Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "He is an awardee of the NSFC Excellent Young Scholars Program in"
+    },
+    {
+      "paperId": null,
+      "title": "Data integration: opportunities, challenges, and altova mapforce"
+    },
+    {
+      "paperId": null,
+      "title": "Hedge fund robots crushed human rivals"
+    },
+    {
+      "paperId": "4899c3c3d510bbd620dea37d89256dc92403daef",
+      "title": "On the relative importance of linear model and human judge(s) in combined forecasting"
+    },
+    {
+      "paperId": null,
+      "title": "UPS crunches data to make more routes more e \ufb03 cient,"
+    },
+    {
+      "paperId": null,
+      "title": "UPS crunches data to make more routes more efficient, save gas. http://www.bloomberg.com/news/articles/2013-10- 30/ups-uses-big-data-to-make-routes-more-efficient-save-gas"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "His primary research interests are in the areas of geographical visualization and visual analytics focusing on public health, dietary analysis, social media, and criminal incident reports"
+    },
+    {
+      "paperId": null,
+      "title": "The informatica data quality methodology: a framework to achieve pervasive data quality through enhanced businessit collaboration. https://www.informatica.com/downloads/7130-DQ- Methodology-wp-web"
+    },
+    {
+      "paperId": null,
+      "title": "Hypermoval: Interactive visual validation of regression models for real-time simulation"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Interaction"
+    },
+    {
+      "paperId": "51b317761a936318f5a6921f9ed688287ea0f40d",
+      "title": "A Taxonomy of Dirty Data"
+    },
+    {
+      "paperId": "6ccb34bf2122304af5cbecf54402ee3d970e43f2",
+      "title": "Induction of decision trees"
+    },
+    {
+      "paperId": "6a62c0f05abe0516dc4cf2af5bcc8c2583a6db92",
+      "title": "Data Cleaning: Problems and Current Approaches."
+    },
+    {
+      "paperId": null,
+      "title": "Random decision forests"
+    },
+    {
+      "paperId": "585bf445ec84c1d9621b2726bdcce9f544b515c8",
+      "title": "STL : A Seasonal-Trend Decomposition Procedure Based on Loess"
+    },
+    {
+      "paperId": null,
+      "title": "Fan Zhang is currently an associate professor at the Zhejiang University of Technology, China. His research interests include visual analytics and parallel computing"
+    },
+    {
+      "paperId": null,
+      "title": "Zongzhuang Li is an undergraduate student of Zhejiang University (ZJU), China. He is working on his graduation proposal in the State"
+    }
+  ]
+}

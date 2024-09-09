@@ -1,0 +1,769 @@
+{
+  "paperId": "bbe777e78a94470e62c0875b1bbd5ccc02109cdd",
+  "externalIds": {
+    "MAG": "2341138376",
+    "DBLP": "journals/sadm/Liiv10",
+    "DOI": "10.1002/sam.10071",
+    "CorpusId": 5091159
+  },
+  "publicationVenue": {
+    "id": "19c7a16a-8ffe-45d4-863e-7e1cc8a78b4d",
+    "name": "Statistical analysis and data mining",
+    "type": "journal",
+    "alternate_names": [
+      "Stat Anal Data Min",
+      "Stat anal data min",
+      "Statistical Analysis and Data Mining"
+    ],
+    "issn": "1932-1864",
+    "url": "http://www3.interscience.wiley.com/journal/112701062/home",
+    "alternate_urls": [
+      "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-1872",
+      "https://onlinelibrary.wiley.com/journal/19321872"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/bbe777e78a94470e62c0875b1bbd5ccc02109cdd",
+  "title": "Seriation and matrix reordering methods: An historical overview",
+  "abstract": "Seriation is an exploratory combinatorial data analysis technique to reorder objects into a sequence along a one\u2010dimensional continuum so that it best reveals regularity and patterning among the whole series. Unsupervised learning, using seriation and matrix reordering, allows pattern discovery simultaneously at three information levels: local fragments of relationships, sets of organized local fragments of relationships, and an overall structural pattern. This paper presents an historical overview of seriation and matrix reordering methods, several applications from the following disciplines are included in the retrospective review: archaeology and anthropology; cartography, graphics, and information visualization; sociology and sociometry; psychology and psychometry; ecology; biology and bioinformatics; cellular manufacturing; and operations research. Copyright \u00a9 2010 Wiley Periodicals, Inc. Statistical Analysis and Data Mining 3: 70\u201091, 2010",
+  "venue": "Statistical analysis and data mining",
+  "year": 2010,
+  "referenceCount": 175,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "History",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-04-01",
+  "journal": {
+    "name": "Statistical Analysis and Data Mining: The ASA Data Science Journal",
+    "volume": "3"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liiv2010SeriationAM,\n author = {I. Liiv},\n booktitle = {Statistical analysis and data mining},\n journal = {Statistical Analysis and Data Mining: The ASA Data Science Journal},\n title = {Seriation and matrix reordering methods: An historical overview},\n volume = {3},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3082140",
+      "name": "I. Liiv"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "c0ed51ac44a01990c68fdd009b09fb6e3f231ee9",
+      "title": "The History of the Cluster Heat Map"
+    },
+    {
+      "paperId": "07bdf663b7e3254f3ff2d27953b59b8d0c7933c1",
+      "title": "Finding Total and Partial Orders from Data for Seriation"
+    },
+    {
+      "paperId": "2291e8a5c0b6e565900e641637fdc487a23b97db",
+      "title": "Pattern Discovery Using Seriation and Matrix Reordering : A Unified View, Extensions and an Application to Inventory Management.Mustrite avastamine kasutades j\u00e4rjestamist ning maatriksi \u00fcmberkorrastamist: unifitseeritud vaade, edasiarendused ning rakendus ladude juhtimises"
+    },
+    {
+      "paperId": "5989b39b86b707b3300a40e2e0c2bda42ecee54a",
+      "title": "Banded structure in binary matrices"
+    },
+    {
+      "paperId": "f29171bbeec422b15a8fb2f87dd729a49a71016b",
+      "title": "Handbook of Data Visualization (Springer Handbooks of Computational Statistics)"
+    },
+    {
+      "paperId": "471482e69e7d57e08f4bd163894bb12bdbe021e5",
+      "title": "Visualization and data mining method for inventory classification"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "d8fa3fb54d973d9396a9001de5959a1684ff3b07",
+      "title": "A comparison of vertex ordering algorithms for large graph visualization"
+    },
+    {
+      "paperId": "cec9848752c5c5c4e091549e6d9e1b642eb206ed",
+      "title": "Interpreting large visual similarity matrices"
+    },
+    {
+      "paperId": "081dfb13f74c5a57966a1eabf54fdc24f0b2dafc",
+      "title": "Algorithms and Architectures of Artificial Intelligence"
+    },
+    {
+      "paperId": "077077b88d0c33c1e242e4c4de3a2920981375cc",
+      "title": "On data mining, compression, and Kolmogorov complexity"
+    },
+    {
+      "paperId": "223be42c52be42c0df854b6ea49ad9dc12f588e2",
+      "title": "Visualization and structure analysis of legislative acts: a case study on the law of obligations"
+    },
+    {
+      "paperId": "d19b4ead098c064e0e5222f77d8ae472b900d067",
+      "title": "Conformity analysis with structured query language"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "3327bd8bd3c0c9bcce53c40f5ecf70a7eb99e956",
+      "title": "Rearrangement Clustering: Pitfalls, Remedies, and Applications"
+    },
+    {
+      "paperId": "4c215523f9a874f5e4f58a8557b001ab8728b5e0",
+      "title": "Exploratory social network analysis with Pajek"
+    },
+    {
+      "paperId": "e0a0de17be8fbed3f9bbefa53f137ee69ea299e0",
+      "title": "A systematic comparison and evaluation of biclustering methods for gene expression data"
+    },
+    {
+      "paperId": "ed110ecb225cccc30f7a06191cc8d9141da0093a",
+      "title": "REARRANGEMENT OF ECOLOGICAL DATA MATRICES VIA MARKOV CHAIN MONTE CARLO SIMULATION"
+    },
+    {
+      "paperId": "f4e85453a445aa1faaa1d8d0e37e7a8d54f5d500",
+      "title": "Branch-and-Bound Applications in Combinatorial Data Analysis"
+    },
+    {
+      "paperId": "82038c93e6e803fad5804f2c82a8e74a657c4c31",
+      "title": "On the Readability of Graphs Using Node-Link and Matrix-Based Representations: A Controlled Experiment and Statistical Analysis"
+    },
+    {
+      "paperId": "a1ac6f683ad58a52d5f667dc17d9023c75782fdb",
+      "title": "PermutMatrix: a graphical environment to arrange gene expression profiles in optimal linear order"
+    },
+    {
+      "paperId": "c6310f1a566c23c722ccbaf8bcef178d95d46643",
+      "title": "Constructing and Reconstructing the Reorderable Matrix"
+    },
+    {
+      "paperId": "a4d236ceeb99e82cc4fc54396d4a25de4ab9b303",
+      "title": "An evolutionary algorithm for manufacturing cell formation"
+    },
+    {
+      "paperId": "97daa6c4abd74be7e44659695986dafc90aea0d1",
+      "title": "Two-mode clustering methods: astructuredoverview"
+    },
+    {
+      "paperId": "941b3aca6604dd9805f79ee9f345af9146ee6002",
+      "title": "Interactive cluster analysis"
+    },
+    {
+      "paperId": "68459ed4cff7692699d60218c1dc579cfe5e24c5",
+      "title": "Biclustering algorithms for biological data analysis: a survey"
+    },
+    {
+      "paperId": "e538b16a6705b5cdf8d62332ec53ffb329d284cf",
+      "title": "Effect ordering for data displays"
+    },
+    {
+      "paperId": "787df8156a928e3153df8f5752d188933c5641eb",
+      "title": "Information-theoretic co-clustering"
+    },
+    {
+      "paperId": "b262056a9692b6330c9fa6babe82d8d63682a59e",
+      "title": "Combining parallel coordinates with the reorderable matrix"
+    },
+    {
+      "paperId": "19b2c13bb3ca30eb009667e2b63ec94058cca7c2",
+      "title": "The Craft of Information Visualization: Readings and Reflections"
+    },
+    {
+      "paperId": "be48c0f93c82f653333b9aa0ec9affd99e89f6f9",
+      "title": "The rise and fall of culture history"
+    },
+    {
+      "paperId": "827e4cde9822b94f94308e7193921ee8a5a5ba61",
+      "title": "K-ary Clustering with Optimal Leaf Ordering for Gene Expression Data"
+    },
+    {
+      "paperId": "8052004002830d2406fd045e7c4566a368fe7f67",
+      "title": "Inventing Discovery Tools: Combining Information Visualization with Data Mining1"
+    },
+    {
+      "paperId": "90efe24e34fa99c23e1912bec2983702a8a9c3ea",
+      "title": "Peer influence groups: identifying dense clusters in large networks"
+    },
+    {
+      "paperId": "8b0076635ad6d06c676ec52b583d657a20db3ec5",
+      "title": "Seriation, Stratigraphy, and Index Fossils: The Backbone of Archaeological Dating"
+    },
+    {
+      "paperId": "494edba4a54b58f38689fe244d0729786c78f51d",
+      "title": "A genetic algorithm approach to cellular manufacturing systems"
+    },
+    {
+      "paperId": "c2f5832032aa0a1c516a4a3da7357357b71c971b",
+      "title": "Reordering the Reorderable Matrix as an Algorithmic Problem"
+    },
+    {
+      "paperId": "b1aba0032340dada7856599fd9940345216d88b8",
+      "title": "Biclustering of Expression Data"
+    },
+    {
+      "paperId": "cd79fd34c655f9c3a4a0e10dc6b219a9eca7cabd",
+      "title": "Seriation, Stratigraphy, and Index Fossils: The Backbone of Archaeological Dating"
+    },
+    {
+      "paperId": "a8fc70b336cf244cbac0c5a24344c17551d706aa",
+      "title": "Interaction with the Reorderable Matrix"
+    },
+    {
+      "paperId": "66b00e0935532ecdaac1e971e49e477c54462a91",
+      "title": "Formal Concept Analysis: Tutorial on formal concept analysis"
+    },
+    {
+      "paperId": "ccaf829bffd0b1a55a67a6958dcfb7af4cd16641",
+      "title": "Formal Concept Analysis: Mathematical Foundations"
+    },
+    {
+      "paperId": "8573bbb55112c1f06c43211daedacc1578e69a92",
+      "title": "Cluster analysis and display of genome-wide expression patterns."
+    },
+    {
+      "paperId": "a946388b288e8def315875634c650bab76c1ff77",
+      "title": "Seriation, Superposition, and Interdigitation: A History of Americanist Graphic Depictions of Culture Change"
+    },
+    {
+      "paperId": "77898360092fb48f806c312b2bc78f09bef13bc3",
+      "title": "Data mining"
+    },
+    {
+      "paperId": "e5e8321f656e5d37fc9a45f7673f447b662ef18f",
+      "title": "An improved neural network for manufacturing cell formation"
+    },
+    {
+      "paperId": "1c77031953f8f1d4c33f5e44b39eb29074742500",
+      "title": "Survey of similarity coefficient based methods as applied to the group technology configuration problem"
+    },
+    {
+      "paperId": "a19b88878d88b9de6381dd749cc98e2933e43157",
+      "title": "A genetic-algorithm-based heuristic for the GT cell formation problem"
+    },
+    {
+      "paperId": "dda02ba612e7f75460b4cc6ef68723a50f2a4e55",
+      "title": "Mathematical Classification and Clustering"
+    },
+    {
+      "paperId": "f45e091370319fe564bef263a39da4f995683ce4",
+      "title": "Manufacturing cell formation using similarity coefficients and a parallel genetic TSP algorithm: Formulation and comparison"
+    },
+    {
+      "paperId": "62cd30edf067b08e2654158cf4d33cd3d60618d5",
+      "title": "Computer Applications and Quantitative Methods in Archaeology, 1994"
+    },
+    {
+      "paperId": "85b8542601b20b668ab122a752592149972ac630",
+      "title": "A shop structure generator for cell formation research"
+    },
+    {
+      "paperId": "e919075b05b0ca58a702e42a006255c5a6d8e421",
+      "title": "A comparative study of cell formation in cellular manufacturing systems"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "8c0cc8a114b558cb9e3adf57c0d939f4f4b68d97",
+      "title": "Design of cellular manufacturing systems: An invited review"
+    },
+    {
+      "paperId": "f88663c4ffc3cebbc0b1fe169c830d3dd049691f",
+      "title": "DESIGNING CELLULAR MANUFACTURING SYSTEMS: BRANCH-AND-BOUND AND A\u2217 APPROACHES"
+    },
+    {
+      "paperId": "b5bb7e0ee66e1083d0a9ec1ca7407de595df0737",
+      "title": "Cell formation in manufacturing systems through simulated annealing: An experimental evaluation"
+    },
+    {
+      "paperId": "140642db1fc78b2c27bd9fcd92e5f8acbcfc242e",
+      "title": "Machine-component cell formation in group technology : a neural network approach"
+    },
+    {
+      "paperId": "bca69e0717e7461591e7f7165dd0d401b9e719c6",
+      "title": "Concept lattices and conceptual knowledge systems"
+    },
+    {
+      "paperId": "dafa7e04bd5e262269b8d92d3aebdba0eca35393",
+      "title": "A fuzzy clustering approach to manufacturing cell formation"
+    },
+    {
+      "paperId": "c653717e5b69b498754ea97fbaa88ab97911b98d",
+      "title": "Seriation problems: An overview"
+    },
+    {
+      "paperId": "1019a0bf8ad7f9eaf62c85f18b5da8f058e3fd66",
+      "title": "A Hamiltonian path approach to reordering the part-machine matrix for cellular manufacturing"
+    },
+    {
+      "paperId": "01b49b17220615610e1a5683f6a761e406f01738",
+      "title": "A branch-and-bound algorithm for solving the group technology problem"
+    },
+    {
+      "paperId": "33e411c263fed63e69a027570fd0c415800dac55",
+      "title": "A comparison of three array-based clustering techniques for manufacturing cell formation"
+    },
+    {
+      "paperId": "7166af9509ba1e78ef86177456d8bed1ab999eb9",
+      "title": "A graph partitioning procedure for machine assignment and cell formation in group technology"
+    },
+    {
+      "paperId": "3926e46090e4071d200423b6c0826643f1253105",
+      "title": "Blockmodels from the bond energy approach"
+    },
+    {
+      "paperId": "e221f7e7bbbdd43d8fed62af9ecdb8f29adf85b5",
+      "title": "Grouping efficacy: a quantitative criterion for goodness of block diagonal forms of binary matrices in group technology"
+    },
+    {
+      "paperId": "967ac3b20d0a276e01ffb0b492ce56c01db2af7e",
+      "title": "Data, Expert Knowledge and Decisions"
+    },
+    {
+      "paperId": "86966d9148891625f07976ca8185d57a62330b76",
+      "title": "Machine grouping problem in cellular manufacturing systems \u2015 an integer programming approach"
+    },
+    {
+      "paperId": "03e19db326df3e7cddda9017f095cae67ccf5035",
+      "title": "Cellular manufacturing in the U.S. industry: a survey of users"
+    },
+    {
+      "paperId": "b1f72e970defb8ba15b1decfa90d8df15d3bbe1a",
+      "title": "GROUPABIL1TY: an analysis of the properties of binary data matrices for group technology"
+    },
+    {
+      "paperId": "740160b2b9b778ad5fe4babca544cff736cb423b",
+      "title": "Data, expert knowledge and decisions"
+    },
+    {
+      "paperId": "c52f657964a8014e72d925768e2dcab23819abc5",
+      "title": "Social Network Analysis"
+    },
+    {
+      "paperId": "9bce7d102d6581bf4292b791631ef4e69fd35f56",
+      "title": "Research issues in cellular manufacturing"
+    },
+    {
+      "paperId": "dad14a7b57b6d03a70099c4cd1191ce4add21544",
+      "title": "Unclassed matrix shading and optimal ordering in hierarchical cluster analysis"
+    },
+    {
+      "paperId": "21c0f7f5a807b42bb1f7bc0b15a31d78ecfa53a1",
+      "title": "Graphs and Genes"
+    },
+    {
+      "paperId": "d49a52beb53c245c00171911f72309197f3929b8",
+      "title": "Machine-component group formation in group technology: review and extension"
+    },
+    {
+      "paperId": "5620a391944ce263065f3ebb9b7ccb07f922e414",
+      "title": "Cluster analysis algorithms for data reduction and classification of objects"
+    },
+    {
+      "paperId": "098dca62ac09a19a1c74db650b73882aae57f52e",
+      "title": "Machine-component grouping in production flow analysis: an approach using a rank order clustering algorithm"
+    },
+    {
+      "paperId": "d382b9c11e5c6a8e173fbeb442545e3be8d3e3a5",
+      "title": "Modeling By Shortest Data Description*"
+    },
+    {
+      "paperId": "36b500304865b79c226ac62d6b4ee630a3fed3ba",
+      "title": "A manual method of production flow analysis"
+    },
+    {
+      "paperId": "4cc814a8e580ed0e4ffbfd6ce1039596c9717392",
+      "title": "SERIATION USING ASYMMETRIC PROXIMITY MEASURES"
+    },
+    {
+      "paperId": "43f6753a0206225c9c2f0a122b9ed868b23a0ff6",
+      "title": "Social Structure from Multiple Networks. I. Blockmodels of Roles and Positions"
+    },
+    {
+      "paperId": "36576b0844d283a4e2ef0e02bb070868254258ad",
+      "title": "The Diclique Representation and Decomposition of Binary Relations"
+    },
+    {
+      "paperId": "ff74dceb409d16dd357c3badc783aa431c3c62d6",
+      "title": "Technical Note - Clustering a Data Array and the Traveling-Salesman Problem"
+    },
+    {
+      "paperId": "3b252bc98d2cff6afad4d27c09766a694bd7a486",
+      "title": "A computer generated aid for cluster analysis"
+    },
+    {
+      "paperId": "28122cc05d20c9df5ccc2bad0609287d9a07663b",
+      "title": "TWO ADDITIONS TO HIERARCHICAL CLUSTER ANALYSIS"
+    },
+    {
+      "paperId": "d9cb1447d3439b31fcf714e94886eaf3c7595c54",
+      "title": "Problem Decomposition and Data Reorganization by a Clustering Technique"
+    },
+    {
+      "paperId": "0777c7482057d2c624ddcca87017fbe946ca6b90",
+      "title": "Mathematics in the Archaeological and Historical Sciences"
+    },
+    {
+      "paperId": "97a6ac65c8a19e734e568442c2cd4ea832116ad6",
+      "title": "Direct Clustering of a Data Matrix"
+    },
+    {
+      "paperId": "59c3f605900a7d635fad61693f7f727101548c03",
+      "title": "Machine grouping for efficient production"
+    },
+    {
+      "paperId": "f24fe403908c3e542a30dfcfb788cdddbac8c717",
+      "title": "An Ordering Algorithm for Analysis of Data Arrays"
+    },
+    {
+      "paperId": "c91693026bdecca9a1e3e1c0a7a6aa8757764b08",
+      "title": "Seriation Method and Its Evaluation"
+    },
+    {
+      "paperId": "739f7a7c468a2ead100d064f5ebbbd37fea9b3d8",
+      "title": "Identification of Data Structures and Relationships by Matrix Reordering Techniques."
+    },
+    {
+      "paperId": "a0f20ea0ba531b5dcd79b63d55ab8dbed4a288fe",
+      "title": "Some problems and methods in statistical archaeology"
+    },
+    {
+      "paperId": "894311cb5d357bd50abb812d941da3d9ffcd1ebf",
+      "title": "Semiologie graphique : les diagrammes les r\u00e9seaux, les cartes"
+    },
+    {
+      "paperId": "823950eb6969b4b1d512206afeea5848450c31e2",
+      "title": "Incidence matrices, interval graphs and seriation in archeology."
+    },
+    {
+      "paperId": "8f62e23282521aa1e37db7de4cd9b4ba193998d2",
+      "title": "Computer analysis of chronological seriation"
+    },
+    {
+      "paperId": "29dae846c4c7f55af4c0b26e22dbb726df6efe2d",
+      "title": "Seriation of Anthropological Data: A Computer Program for Matrix\u2010Ordering"
+    },
+    {
+      "paperId": "6673d412dc7a29d796693ef60cc5dc87cbc2eb6e",
+      "title": "Principles of Numerical Taxonomy"
+    },
+    {
+      "paperId": "de29804fdeab46631a4e7e8c1672108e37e29614",
+      "title": "Chronological Ordering by Computer"
+    },
+    {
+      "paperId": "bb3e198b456ba718cec3c6f81b6a416f39a49358",
+      "title": "A Note on a Computer Program for Rearrangement of Matrices"
+    },
+    {
+      "paperId": "4b1475d9fe6de0c1cfb4e4da86a81cbd384b2145",
+      "title": "The Statistical Use of Artifact Distributions to Establish Chronological Sequence"
+    },
+    {
+      "paperId": "881d665f07bd04a8b48652616f6f306bdba45649",
+      "title": "Scale Analysis as an Instrument for the Study of Cultural Evolution"
+    },
+    {
+      "paperId": "669d3eb6f4c2a2df161f1e814ad14599ba42a6a0",
+      "title": "The \"new approach\" to production"
+    },
+    {
+      "paperId": "b0ef9dfcac214162566a054490d7776ae20a637e",
+      "title": "SCIENTIFIC PRINCIPLES OF GROUP TECHNOLOGY"
+    },
+    {
+      "paperId": "86c41a42041a86bdc76217bf8af3ba5db04e12a9",
+      "title": "Stratigraphy and Seriation"
+    },
+    {
+      "paperId": "9a933d37edca65b6ad6ce3305f1c7893145cd5da",
+      "title": "Who shall survive? : foundations of sociometry, group psychotherapy, and sociodrama"
+    },
+    {
+      "paperId": "d10d1288e373f278f2a9c97990f346282d658615",
+      "title": "Robinson's Coefficient of Agreement\u2014A Critique"
+    },
+    {
+      "paperId": "7e98ece450ee547d4ffa42beaa4477a9b32ef077",
+      "title": "A Method for Chronologically Ordering Archaeological Deposits"
+    },
+    {
+      "paperId": "43b3cba1b78e01abef3493a00b98fb2386ca951e",
+      "title": "The Place of Chronological Ordering in Archaeological Analysis"
+    },
+    {
+      "paperId": "f0983ba20b690acfb10243394d9bdbdd2088e381",
+      "title": "A Method for Analyzing the Sociomatrix"
+    },
+    {
+      "paperId": "4b9bdcaf4616641fea1669732006129f7efcefb2",
+      "title": "On the Matric Analysis of Sociometric Data"
+    },
+    {
+      "paperId": "bf6192fb18d41d53bdaae409c04c185d4fb6cfbf",
+      "title": "A Matrix Approach to the Analysis of Sociometric Data: Preliminary Report"
+    },
+    {
+      "paperId": "4c561192d042eb606c4964a107b1994517a4663a",
+      "title": "Sociogram and Sociomatrix: A Note to the Paper by Forsyth and Katz"
+    },
+    {
+      "paperId": "800a0f20203169d6630048cf7e59395b49862542",
+      "title": "Structure of Leadership-Development and Sphere of Influence"
+    },
+    {
+      "paperId": "3da41d52415966902093e5a1a9714c7996218891",
+      "title": "Minimum Description Length Principle."
+    },
+    {
+      "paperId": "0430e9a8bdb1a2893323d65127e955588f7809ba",
+      "title": "Formal Concept Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Handbooks of Computational Statistics: Data Visualization"
+    },
+    {
+      "paperId": "5d8d7c1fcbb77d77d2a86e576bd84317f8642562",
+      "title": "Paleontological Data Analysis"
+    },
+    {
+      "paperId": "0f4ccca7d290c6f7860a04b96dd3466ec8625a77",
+      "title": "Biclustering Algorithms: A Survey"
+    },
+    {
+      "paperId": "30be52853c9b07ac103cc11c8cd21dc6f78fba5a",
+      "title": "The Barycenter Heuristic and the Reorderable Matrix"
+    },
+    {
+      "paperId": "3b5e8eccf35faefea21d3bb58b85b091ea389fd1",
+      "title": "A Contribution to the History of Seriation in Archaeology"
+    },
+    {
+      "paperId": "6e34dcb3dcabd86b7c286560a6ecfc452c569e8a",
+      "title": "Matrix Visualization and Information Mining"
+    },
+    {
+      "paperId": "130fdd165e1f20291497f72208df4dece04685f0",
+      "title": "GENERALIZED ASSOCIATION PLOTS: INFORMATION VISUALIZATION VIA ITERATIVELY GENERATED CORRELATION MATRICES"
+    },
+    {
+      "paperId": "d2c0984419b6dcb37dfc07ab9181ddb547f7daf8",
+      "title": "Statistical Computing and Graphics Corrgrams: Exploratory Displays for Correlation Matrices"
+    },
+    {
+      "paperId": "ea27cb8426f88aa80ed58cb16e650f4fe36f1756",
+      "title": "PAST - PAlaeontological STatistics"
+    },
+    {
+      "paperId": "d0bd3b16d2174c3f36c5ea0cbb1921d83e2b631e",
+      "title": "Change in marine communities : an approach to statistical analysis and interpretation"
+    },
+    {
+      "paperId": null,
+      "title": "Data Management for Surveys and Trials . A Practical Primer Using EpiData . The EpiData Documentation"
+    },
+    {
+      "paperId": "f64002380a4579cbcfd1427b320d387081c3b733",
+      "title": "Combinatorial Data Analysis: Optimization by Dynamic Programming, by L. Hubert, P. Arabie, and J. Meulman"
+    },
+    {
+      "paperId": "e9c742ad8e167aababa7ec0e483f1e542689de08",
+      "title": "Czekanowski's Diagram: a Method of Multidimensional Clustering"
+    },
+    {
+      "paperId": null,
+      "title": "and M"
+    },
+    {
+      "paperId": null,
+      "title": "Numerical ecology, Amsterdam"
+    },
+    {
+      "paperId": null,
+      "title": "Mathematical Classi\ufb01cation and Clustering (Nonconvex Optimization and Its Applications)"
+    },
+    {
+      "paperId": "09998424ad1bff7a1506a50a9dd0f8df42c056c4",
+      "title": "CLUSTERING AND MULTIDIMENSIONAL SCALING IN RUSSIA (1960\u20131990): A REVIEW"
+    },
+    {
+      "paperId": "56b151ec7f2f559cb233b75e4a6360dcd7e0386d",
+      "title": "Sparse matrix reordering schemes for browsing hypertext"
+    },
+    {
+      "paperId": "8bca20b0403fbe86cf0fd4b813394698a305e89e",
+      "title": "AN OVERVIEW OF COMBINATORIAL DATA ANALYSIS"
+    },
+    {
+      "paperId": "0f602b3b49c610bc66f09c266bf801b77a0efdac",
+      "title": "Applied stochastic models and data analysis : proceedings of the sixth International Symposium"
+    },
+    {
+      "paperId": "b94baddbbd77a0723543ee74d846145ff58324e5",
+      "title": "Combinatorial Data Analysis"
+    },
+    {
+      "paperId": "735a99609fedfe3f0cd4dfb945e6a6f2b9871d2b",
+      "title": "A comparative evaluation of nine well-known algorithms for solving the cell formation problem in group technology"
+    },
+    {
+      "paperId": "5d179a4b0339ce4f3d11723252dc20f850114b97",
+      "title": "Branching algorithms for solving the group technology problem"
+    },
+    {
+      "paperId": null,
+      "title": "ART: using neural network to form machine cells"
+    },
+    {
+      "paperId": "8dfd676218c38ee46dcf32a9750951950b8bdde2",
+      "title": "The bond energy algorithm revisited"
+    },
+    {
+      "paperId": null,
+      "title": "Book review: W. Gaul and M. Schader, Eds., Data, expert knowledge and decisions, Heidelberg: Springer-Verlag, 1988, viii + 380"
+    },
+    {
+      "paperId": "ce98f27039e9f7635fa7f31fb7cbf599f4419539",
+      "title": "Block seriation problems: A unified approach. Reply to the problem of H. Garcia and J. M. Proth (Applied Stochastic Models and Data Analysis, 1, (1), 25\u201334 (1985))"
+    },
+    {
+      "paperId": "9e571f51400c7a4e4f8a3721e6a8bbbe016efafd",
+      "title": "Combinatorial Data Analysis: Optimization by Dynamic Programming"
+    },
+    {
+      "paperId": null,
+      "title": "Metod vydeleniya yader v trjohmernom predstavlenii sociologicheskih dannyh (in Russian), Opyt Izucheniya Teleradio-Zhurnalistiki i Obshhestvennogo Mneniya"
+    },
+    {
+      "paperId": null,
+      "title": "Metod determinacionnogo analiza v sluchae trjohmernogo predstavleniya sovokupnosti dannyh"
+    },
+    {
+      "paperId": null,
+      "title": "Ob opyte primeneniya metoda vydeleniya yader v trjohmernom predstavljenii sociologicheskih dannyh"
+    },
+    {
+      "paperId": "d5ae46c77f09984acc894ccd6b95272a613566c8",
+      "title": "Multidimensional clustering algorithms"
+    },
+    {
+      "paperId": "c5ecdd9f2695255d29a139fa5ce7682b3140b8ea",
+      "title": "R\u00e9organisation et repr\u00e9sentation visuelle d'une matrice de donn\u00e9es num\u00e9riques : un algorithme it\u00e9ratif"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": "41bdbe7d0fdc376c3ddcc2f07ddd2a9b44b71117",
+      "title": "Advances in Archaeological Seriation"
+    },
+    {
+      "paperId": null,
+      "title": "Fast methods for data processing (in Russian)"
+    },
+    {
+      "paperId": null,
+      "title": "Sravnitel\u2019nyi mnogomernyi analiz v ekonomich-eskih issledovanijah (in Russian)"
+    },
+    {
+      "paperId": null,
+      "title": "Rapid data analysis methods"
+    },
+    {
+      "paperId": "170c2c77d3d3852952e89e830703742dd7be5e01",
+      "title": "8 \u2013 Advances in Archaeological Seriation"
+    },
+    {
+      "paperId": null,
+      "title": "Extremal subsystems of monotonic systems III"
+    },
+    {
+      "paperId": "207cb9622c857c20b4bad6993cd23e7f8b98b62b",
+      "title": "Social structure from multiple networks: I"
+    },
+    {
+      "paperId": "927cab2d2ace6c0ad2860081d5625d41700d3396",
+      "title": "Design of cellular production systems A graph-theoretic approach"
+    },
+    {
+      "paperId": "4edb1a25e7310e32a79a725c6f5944e9c823ba84",
+      "title": "Problems of seriation using a subject by item response matrix."
+    },
+    {
+      "paperId": "ec219406ea62ee1ec513ca06ed23c566c92c7bbe",
+      "title": "On a method of ordering and clustering of objects"
+    },
+    {
+      "paperId": "171f9cc70996c70ebed2a3f2f80baefdaf693b84",
+      "title": "On incidence matrices"
+    },
+    {
+      "paperId": "95a9ca38c0a4f0cd3b863542159de23da83077bf",
+      "title": "Possibilit\u00e9s du scalogramme dans l'\u00e9tude des bronzes chinois archa\u00efques"
+    },
+    {
+      "paperId": null,
+      "title": "The extension of factor analysis to three-dimensional matrices, Contributions to Mathematical Psychology"
+    },
+    {
+      "paperId": "708fbb74c5db8be72628692c3770a374a4f1c24a",
+      "title": "A theory of data."
+    },
+    {
+      "paperId": null,
+      "title": "Nauchnye osnovy gruppovoj tehnologii (in Russian)"
+    },
+    {
+      "paperId": null,
+      "title": "Metoda grupowania na podstawie tablic prof. Czekanowskiego"
+    },
+    {
+      "paperId": "8d8402a261a29c9b151a2503f61c8d8603b5ed4f",
+      "title": "The Interrelation Matrix"
+    },
+    {
+      "paperId": null,
+      "title": "Who Shall Survive? A New Approach to the Problem of Human Inter-relations, New York"
+    },
+    {
+      "paperId": null,
+      "title": "Die pflanzenassoziation der pieninen"
+    },
+    {
+      "paperId": null,
+      "title": "Zur differentialdiagnose der Neandertalgruppe"
+    },
+    {
+      "paperId": "35f89e9f654e79f32a7a1362d998a8f11e383cd0",
+      "title": "Sequences in Prehistoric Remains"
+    },
+    {
+      "paperId": null,
+      "title": "Statistical Analysis and Data Mining DOI:10"
+    },
+    {
+      "paperId": "f4762ab5f422f164aca4ef4093fdedfe76e84af4",
+      "title": "Tallinna Pol\u00fctehnilise Instituudi Toimetised Proceedings of Tallinn Technichal University (compiler Writing, Data Processing, Programming Subjects) Some Methods to Order Objects and Variables in Data Systems"
+    }
+  ]
+}

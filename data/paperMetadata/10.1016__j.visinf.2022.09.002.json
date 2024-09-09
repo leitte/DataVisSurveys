@@ -1,0 +1,375 @@
+{
+  "paperId": "c81f9083f695664ad8f88a2d323f9a93cd3dc7cd",
+  "externalIds": {
+    "DBLP": "journals/vi/ZhangZZLS22",
+    "DOI": "10.1016/j.visinf.2022.09.002",
+    "CorpusId": 252106937
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/c81f9083f695664ad8f88a2d323f9a93cd3dc7cd",
+  "title": "Towards a better understanding of the role of visualization in online learning: A review",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2022,
+  "referenceCount": 73,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-09-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "22-33",
+    "volume": "6"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zhang2022TowardsAB,\n author = {Gefei Zhang and Zihao Zhu and Sujia Zhu and Ronghua Liang and Guodao Sun},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {22-33},\n title = {Towards a better understanding of the role of visualization in online learning: A review},\n volume = {6},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "8274456",
+      "name": "Gefei Zhang"
+    },
+    {
+      "authorId": "2112485493",
+      "name": "Zihao Zhu"
+    },
+    {
+      "authorId": "2004467452",
+      "name": "Sujia Zhu"
+    },
+    {
+      "authorId": "2070440515",
+      "name": "Ronghua Liang"
+    },
+    {
+      "authorId": "47333988",
+      "name": "Guodao Sun"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9384e431fa87d2e54215ec17ef585a636659d701",
+      "title": "BlockLens: Visual Analytics of Student Coding Behaviors in Block-Based Programming Environments"
+    },
+    {
+      "paperId": "832fc163a763489485869b6c9ac7c2ceb84c3088",
+      "title": "MUSE: Visual Analysis of Musical Semantic Sequence"
+    },
+    {
+      "paperId": "23ef973dc26a27ffc7d8b5cef9d3f82529cb5041",
+      "title": "Big data visualization using multimodal feedback in education"
+    },
+    {
+      "paperId": "e9f1e9a1e3231119597f1532520472ed10620e67",
+      "title": "Characterizing Academic Help-seeking Moods for Enrollment Performance of Institutional Online Student"
+    },
+    {
+      "paperId": "7fc13ea2ab77136973227202e853acbbbfc38af5",
+      "title": "Evaluating Effects of Background Stories on Graph Perception"
+    },
+    {
+      "paperId": "7ec86f51a93d646e5e4cf15d4ee48d9570021adc",
+      "title": "Integrating machine learning and blockchain to develop a system to veto the forgeries and provide efficient results in education sector"
+    },
+    {
+      "paperId": "be0b1870b06bb1d8c38c81fe203103073a72ad16",
+      "title": "Prediction and Visualization of Academic Procrastination in Online Learning"
+    },
+    {
+      "paperId": "6713703709eedd1edb237289f3772af3c993df27",
+      "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams"
+    },
+    {
+      "paperId": "f1c25cacf50a3f1054e459157c714edb674b97aa",
+      "title": "Problem characterization for visual analytics in MOOC learner's support monitoring: A case of Malaysian MOOC"
+    },
+    {
+      "paperId": "e5826226f46291d206e1cde169f95674645dbd25",
+      "title": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "paperId": "029f68253c36b05b7c6cf9a9ca9855e4a736b655",
+      "title": "Visual analytics of video\u2010clickstream data and prediction of learners' performance using deep learning models in MOOCs' courses"
+    },
+    {
+      "paperId": "deeb1258396d281bdcdaded26f1f1a19973f2ad2",
+      "title": "A survey of visual analytics techniques for machine learning"
+    },
+    {
+      "paperId": "15253dd1e3e0b4e9e385a4512196916cb68d1c32",
+      "title": "A Web-based Data Visualization Tool Regarding School Dropouts and User Asssesment"
+    },
+    {
+      "paperId": "0fc8e08cd023cfe53c0da59ecba6101dce162829",
+      "title": "Using Information Visualization to Promote Students' Reflection on \"Gaming the System\" in Online Learning"
+    },
+    {
+      "paperId": "7f3150307fb5f95625b688956640a2e3c95a2963",
+      "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural Network"
+    },
+    {
+      "paperId": "68d16f6b3944f081029677c3564c71373f1a4e9f",
+      "title": "Visualization and Analysis for Supporting Teachers Using Clickstream Data and Eye Movement Data"
+    },
+    {
+      "paperId": "900505b92eb227c02b001582612a7420e5d9c34a",
+      "title": "Using Process Visualization and Early Warning Based on Learning Analytics to Enhance Teaching and Learning"
+    },
+    {
+      "paperId": "82b40f6e8dde3822e17853df3d6bf2cfa4d14eff",
+      "title": "Survey on Visual Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "3ac674953d2b59a4414fbcc6a0f5fedcbb1a503d",
+      "title": "DFSeer: A Visual Analytics Approach to Facilitate Model Selection for Demand Forecasting"
+    },
+    {
+      "paperId": "49052b323767ca1653a8c6d1391038f2b1b89152",
+      "title": "ViSeq: Visual Analytics of Learning Sequence in Massive Open Online Courses"
+    },
+    {
+      "paperId": "296891e10bab55a7b219458733a4068723337fd5",
+      "title": "Predicting student performance in interactive online question pools using mouse interaction features"
+    },
+    {
+      "paperId": "13b2038fcb991111e8e125939c5e9772975f97d8",
+      "title": "Prediction in MOOCs: A Review and Future Research Directions"
+    },
+    {
+      "paperId": "87d71749f6fc9219c1fc45b484329a5faf1cb1f8",
+      "title": "Visual Analytics of Anomalous User Behaviors: A Survey"
+    },
+    {
+      "paperId": "642bd10a8bf80e34442ccd70d3951b47bbe6d55b",
+      "title": "VUC: Visualizing Daily Video Utilization to Promote Student Engagement in Online Distance Education"
+    },
+    {
+      "paperId": "e4d4e227c1c29b9e3a20537bda9a3fa32ddcb18a",
+      "title": "PeerLens: Peer-inspired Interactive Learning Path Planning in Online Question Pool"
+    },
+    {
+      "paperId": "2e4ce04baa11f6045dc396a0bb9705de4588e043",
+      "title": "Visualization of educational data mined from the moodle e-learning platform"
+    },
+    {
+      "paperId": "00f4d2c5cbc72b71589d5fbbe9ab8a2dcbcf6c07",
+      "title": "Implementation of a Customizable Algorithm Visualization Tool for E-Learning"
+    },
+    {
+      "paperId": "2ad312247a296f38cc19e1d6fbad0a69e3c8401c",
+      "title": "Design of a Tool to Support Self-Regulated Learning Strategies in MOOCs"
+    },
+    {
+      "paperId": "d634f2b4aa1c07741ed41f647280528e9cf2e6fc",
+      "title": "Visual learning analytics of educational data: A systematic literature review and research agenda"
+    },
+    {
+      "paperId": "5a0d4f928bb3192d724f160769d6bc5023b9dd7f",
+      "title": "ThreadReconstructor: Modeling Reply\u2010Chains to Untangle Conversational Text through Visual Analytics"
+    },
+    {
+      "paperId": "cbb077a5038337d0890316d83a5d99aca680c6c0",
+      "title": "Student Interactions in Online Discussion Forums: Visual Analysis with LDA Topic Models"
+    },
+    {
+      "paperId": "b8acca2b94341a4873b1f2635450a8aecc311804",
+      "title": "Flexible Learning with Semantic Visual Exploration and Sequence-Based Recommendation of MOOC Videos"
+    },
+    {
+      "paperId": "cdeb4ba63a221d710e92676f83c1b3bbf4ce99d8",
+      "title": "MessageLens: A Visual Analytics System to Support Multifaceted Exploration of MOOC Forum Discussions"
+    },
+    {
+      "paperId": "fb5f4bf0d496e988b7a1f9c43b2fdb0adffe7a98",
+      "title": "Instructor Perspectives on Comparative Heatmap Visualizations of Student Engagement with Lecture Video"
+    },
+    {
+      "paperId": "65ccd3f6542cd6075134b23e2ea08bfbbea12cc4",
+      "title": "Supporting Self-Regulated Learning with Visualizations in Online Learning Environments"
+    },
+    {
+      "paperId": "e57ebba9dbb1e50effca8b0d8eff4bdff8cc75e0",
+      "title": "VisForum: A Visual Analysis System for Exploring User Groups in Online Forums"
+    },
+    {
+      "paperId": "3a3a53dcb1a0f4e30717be404e1141011a815236",
+      "title": "edX-MAS: Model Analyzer System"
+    },
+    {
+      "paperId": "eaf83d17f49c4bd1b3b21e8fa2e8284242c651a5",
+      "title": "MOOC visual analytics: Empowering students, teachers, researchers, and platform developers of massively open online courses"
+    },
+    {
+      "paperId": "a2cedfef4f5bfb7ce34c12e94b7557c5839897ea",
+      "title": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "paperId": "2a5be957a9126781fb0a7d045f9dc69df8def676",
+      "title": "Animated narrative visualization for video clickstream data"
+    },
+    {
+      "paperId": "cda6ecde6d0b77b17a778f97d941dcdf3d1eb643",
+      "title": "PeakVizor: Visual Analytics of Peaks in Video Clickstreams from Massive Open Online Courses"
+    },
+    {
+      "paperId": "9f3448f1d1947140ecfe39ba56622738c575cbcc",
+      "title": "A Comparative Evaluation on Online Learning Approaches using Parallel Coordinate Visualization"
+    },
+    {
+      "paperId": "31302c3fc41e570820f83697e6ff05b887b4467d",
+      "title": "Introduction of learning visualisations and metacognitive support in a persuadable open learner model"
+    },
+    {
+      "paperId": "61da8de523e7cb712a7b7a8313960e00a2d5b5f7",
+      "title": "Supporting learning by considering emotions: tracking and visualization a case study"
+    },
+    {
+      "paperId": "9f55c949ed287a1e8bc864a4201140b1793de83f",
+      "title": "Creating Engaging Online Learning Material with the JSAV JavaScript Algorithm Visualization Library"
+    },
+    {
+      "paperId": "6a9d5ef6b110ef979e3496743e555bf4716f8d09",
+      "title": "Visual Analytics for MOOC Data"
+    },
+    {
+      "paperId": "10c7c57ea1821a0cd9a21ef8d67a598ec8d6066f",
+      "title": "Increasing Students\u2019 Awareness of Their Behavior in Online Learning Environments with Visualizations and Achievement Badges"
+    },
+    {
+      "paperId": "a536b008e17687ff24c276b8164285e5a58bb881",
+      "title": "Precise Effectiveness Strategy for analyzing the effectiveness of students with educational resources and activities in MOOCs"
+    },
+    {
+      "paperId": "8bfaf9d9c8e247a97b8177decda938351a035441",
+      "title": "Tap into visual analysis of customization of grouping of activities in eLearning"
+    },
+    {
+      "paperId": "6b8ede7c6674cb5986acad03a16f1973729991ba",
+      "title": "Measuring and Visualizing Students\u2019 Behavioral Engagement in Writing Activities"
+    },
+    {
+      "paperId": "65f8aa4557139be0fcedc08012544e7eac0d953a",
+      "title": "An Analysis of MOOC Discussion Forum Interactions from the Most Active Users"
+    },
+    {
+      "paperId": "36c167ea9bebe077794b0ccbf6cac88dc26f4ed8",
+      "title": "Selective reading of large online forum discussions: The impact of rating visualizations on navigation and learning"
+    },
+    {
+      "paperId": "d814f23c016a786aa4c78fb6b4480f115e647a70",
+      "title": "Visualizing patterns of student engagement and performance in MOOCs"
+    },
+    {
+      "paperId": "473597802980ea3e43c11905398287f9ecb4daef",
+      "title": "Engaging with massive online courses"
+    },
+    {
+      "paperId": "15355e8e66598003640cdcc35426d3ef1fb97164",
+      "title": "Learning about Social Learning in MOOCs: From Statistical Analysis to Generative Model"
+    },
+    {
+      "paperId": "2c67714410d62770dd019bc94d0a8a0692acf02d",
+      "title": "The effect of virtual achievements on student engagement"
+    },
+    {
+      "paperId": "08ecca51ea8e5a8169ee2e19dcc499119f377d4f",
+      "title": "Visualizing Student Histories Using Clustering and Composition"
+    },
+    {
+      "paperId": "88dfac548786f04bf180be4b7fb538bd0a632d33",
+      "title": "Visualizing user activity in open e-learning contexts: challenges and techniques for operational management"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "2de35bfabad7da674570d4168994af29d0c77e62",
+      "title": "Monitoring an Online Course With the GISMO Tool: A Case Study"
+    },
+    {
+      "paperId": "84d45bbfd7c21678d70c7711c1314fb6ba578030",
+      "title": "Visualizing trends in student performance across computer science courses"
+    },
+    {
+      "paperId": "6761d3fefb3e2981659856038d44b8b7734d4942",
+      "title": "CourseVis: A graphical student monitoring tool for supporting instructors in web-based distance courses"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "9ad15c57d39d412e0f323b9c3faaf661b0d38d8f",
+      "title": "Students' emotion extraction and visualization for engagement detection in online learning"
+    },
+    {
+      "paperId": "aa023cfa4fd010845e5659b7861bee6efbccb230",
+      "title": "A Review on Visualization of Educational Data in Online Learning"
+    },
+    {
+      "paperId": null,
+      "title": "SeqDynamics: Visual analytics for evaluating online -solving dynamics"
+    },
+    {
+      "paperId": "0405f3ef98a5ff90199b6613a5bb379f7adec07b",
+      "title": "in-Game Raw Data Collection and Visualization in the Context of the \"ThimelEdu\" Educational Game"
+    },
+    {
+      "paperId": "8b2702528ecea637691aaabef3a49abb26868664",
+      "title": "Visualizing Historical Patterns in Large Educational Datasets"
+    },
+    {
+      "paperId": "c5f4337ab395bf77e8b20fe9101c2b922fa14fb8",
+      "title": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "paperId": "5b3faa3e56f61d63db5198a77e7b463ab9b5fed0",
+      "title": "Interactive Visualization Tools to Improve Learning and Teaching in Online Learning Environments"
+    },
+    {
+      "paperId": "4fef41b38768361a247f3b96f7af2770f95b0181",
+      "title": "Visualizing Sequential Educational Datamining Patterns"
+    },
+    {
+      "paperId": "9e0d002a322f0424ec9508f4b6cca219f5f2a23b",
+      "title": "Topic-wise Classification of MOOC Discussions: A Visual Analytics Approach"
+    },
+    {
+      "paperId": "56d29d066fb3bc1d2ecbea37c84db85f881632f0",
+      "title": "A Visualization Tool for Managing and Studying Online Communications"
+    }
+  ]
+}

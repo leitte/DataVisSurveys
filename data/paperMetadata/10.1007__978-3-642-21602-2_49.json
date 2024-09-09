@@ -1,0 +1,254 @@
+{
+  "paperId": "f09c75f4e715a99f338c1aad8e41da49a9d9dd15",
+  "externalIds": {
+    "MAG": "1614386243",
+    "DBLP": "conf/hci/GaoZRMS11",
+    "DOI": "10.1007/978-3-642-21602-2_49",
+    "CorpusId": 15480190
+  },
+  "publicationVenue": {
+    "id": "a5b1a3db-6324-4978-85a5-ec777e93ffe6",
+    "name": "Interacci\u00f3n",
+    "type": "conference",
+    "alternate_names": [
+      "International Conference on Human Computer Interaction",
+      "Int Conf Human-computer Interact",
+      "Interaccio\u0301n",
+      "Int Conf Hum Comput Interact",
+      "International Conference on Human-Computer Interaction",
+      "HCI"
+    ],
+    "issn": "1657-7531",
+    "url": "http://www.hci-international.org/"
+  },
+  "url": "https://www.semanticscholar.org/paper/f09c75f4e715a99f338c1aad8e41da49a9d9dd15",
+  "title": "Performance Visualization for Large-Scale Computing Systems: A Literature Review",
+  "abstract": null,
+  "venue": "Interacci\u00f3n",
+  "year": 2011,
+  "referenceCount": 42,
+  "openAccessPdf": {
+    "url": "http://www.engr.colostate.edu/%7Eaam/pdf/conferences/133.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2011-07-09",
+  "journal": {
+    "pages": "450-460"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Gao2011PerformanceVF,\n author = {Q. Gao and Xuhui Zhang and P. Rau and A. A. Maciejewski and H. Siegel},\n booktitle = {Interacci\u00f3n},\n pages = {450-460},\n title = {Performance Visualization for Large-Scale Computing Systems: A Literature Review},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145312182",
+      "name": "Q. Gao"
+    },
+    {
+      "authorId": "2108185273",
+      "name": "Xuhui Zhang"
+    },
+    {
+      "authorId": "1740664",
+      "name": "P. Rau"
+    },
+    {
+      "authorId": "1728645",
+      "name": "A. A. Maciejewski"
+    },
+    {
+      "authorId": "1744243",
+      "name": "H. Siegel"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3db45e738a3bb85453d6e4b214b7c61b42abf58c",
+      "title": "Visualizing complex dynamics in many-core accelerator architectures"
+    },
+    {
+      "paperId": "074905cb4e3612a72694805f0deecf7a9c884e97",
+      "title": "High-level performance modeling of task-based algorithms"
+    },
+    {
+      "paperId": "5a002f5a2a017cbefa16fc08a860d3966184b583",
+      "title": "Triva: Interactive 3D visualization for performance analysis of parallel applications"
+    },
+    {
+      "paperId": "d6de1300252e54f6f6f54c3d505cdff098e642b7",
+      "title": "Stochastic robustness metric and its use for static resource allocations"
+    },
+    {
+      "paperId": "9ba10c37e6365f74b42e8a03dd2d182e90282b77",
+      "title": "Performance analysis challenges and framework for high-performance reconfigurable computing"
+    },
+    {
+      "paperId": "4ab8ed423e61c68c26d2fe3b506b61f78f03fe25",
+      "title": "Scalable Thread Visualization for Debugging Data Races in OpenMP Programs"
+    },
+    {
+      "paperId": "da77d1dfe3eb850580e5988dac7bca3d88e6f1cc",
+      "title": "Visualization of Repetitive Patterns in Event Traces"
+    },
+    {
+      "paperId": "63370ea7963294401d45d8163c531d6e9b7449a2",
+      "title": "Enterprise Network Monitoring Using Treemaps"
+    },
+    {
+      "paperId": "e9fb9c5cbd00a2e50d5f302d33fc997e7455e13a",
+      "title": "Flexible performance visualization of parallel and distributed applications"
+    },
+    {
+      "paperId": "66339dac16f4f186cd4ef026ee7bcd9a178d5078",
+      "title": "Treemaps for Workload Visualization"
+    },
+    {
+      "paperId": "24db1ba3e93f44f44d4dcec321adf097445402a8",
+      "title": "A visualization tool for analyzing cluster performance data"
+    },
+    {
+      "paperId": "c26895e69eede3d623f751408f78efb4a66ce2ef",
+      "title": "Paj\u00e9: An Extensible Environment for Visualizing Multi-threaded Programs Executions"
+    },
+    {
+      "paperId": "a19e49c707ca49c6e3458aa21fcdb005894ca6e8",
+      "title": "Paj\u00e9, an interactive visualization tool for tuning multi-threaded parallel applications"
+    },
+    {
+      "paperId": "a9877f0db4c6052d62f9cf97bdd34639ce96cef2",
+      "title": "Virtue: Performance Visualization of Parallel and Distributed Applications"
+    },
+    {
+      "paperId": "cc78bf510dd05d63060bfc3f30cccfd57cc765b7",
+      "title": "SvPablo: A multi-language architecture-independent performance analysis system"
+    },
+    {
+      "paperId": "f0949f88557bd072f739b42550d712e3e93632f0",
+      "title": "Integrated Visualization of Parallel Program Performance Data"
+    },
+    {
+      "paperId": "5178854719f27b81bc17f53f6351b4e281180f91",
+      "title": "Information visualization and information foraging"
+    },
+    {
+      "paperId": "6a9677f82aef666d76090773f74fa01196c3525f",
+      "title": "The Paradyn Parallel Performance Measurement Tool"
+    },
+    {
+      "paperId": "b3e355ab4092b10d6f6ba02a6c428a756b754fd0",
+      "title": "Performance measurement, visualization and modeling of parallel and distributed programs using the AIMS toolkit"
+    },
+    {
+      "paperId": "c2028470eef59fa923bc8a48af632698064433e8",
+      "title": "A taxonomy of program visualization systems"
+    },
+    {
+      "paperId": "c08b7328a49d1ca9429f17bde5641f6ae961d6c0",
+      "title": "What to Draw? When to Draw? An Essay on Parallel Program Visualization"
+    },
+    {
+      "paperId": "1aa9dfb2103575937c4865bb46ec82644fca6896",
+      "title": "The Visualization of Parallel Systems: An Overview"
+    },
+    {
+      "paperId": "17009a84c551a4c28179eb79df2c56d25a9f6170",
+      "title": "Parallel program visualization using SIEVE.1"
+    },
+    {
+      "paperId": "d29373806664404ef12c954f3688b96c5c678f21",
+      "title": "A performance visualization paradigm for data parallel computing"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "5192120731b6c3038302d1bc89a1230a80579a38",
+      "title": "Visualizing the performance of parallel programs"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "184dba90eab659a2fbc7b7ca964dfdaf5d447be4",
+      "title": "A Tool to Aid in the Design, Implementation, and Understanding of Matrix Algorithms for Parallel Processors"
+    },
+    {
+      "paperId": "1451c482841cd0f3d46eaf342a02f6b015dbbe4f",
+      "title": "Voyeur: graphical views of parallel programs"
+    },
+    {
+      "paperId": "56f289078d090d0ea5795a95ab6de96448c8f6f2",
+      "title": "Debugging heterogeneous distributed systems using event-based models of behavior"
+    },
+    {
+      "paperId": "1c1e96f64d6b27422fea467923402f54cc869bab",
+      "title": "Parallel processing"
+    },
+    {
+      "paperId": "94eca482dab16cf824c55fe820ca9f05eaff9964",
+      "title": "PARALLEL AND DISTRIBUTED SYSTEMS"
+    },
+    {
+      "paperId": "9b47f75ea66416e4c722b9a3d563175f40808e60",
+      "title": "Advances in Grid and Pervasive Computing, Third International Conference, GPC 2008, Kunming, China, May 25-28, 2008. Proceedings"
+    },
+    {
+      "paperId": null,
+      "title": "Modeling and simulation at the exascale for energy and the environment"
+    },
+    {
+      "paperId": "a19dc85770c32e138aa8e0fb7e621f1c836421de",
+      "title": "PARAVER: A Tool to Visualize and Analyze Parallel Code"
+    },
+    {
+      "paperId": null,
+      "title": "Measuring the robustness of a resource allocation"
+    },
+    {
+      "paperId": "72f40312d7b244143fb730077b09c3c34c2a6ac8",
+      "title": "PET, a software monitoring toolkit for performance analysis of parallel embedded applications"
+    },
+    {
+      "paperId": "cfba3d675c8cea9c4f193ad5c0d871d1c78181f6",
+      "title": "The human-computer interaction handbook: fundamentals, evolving technologies and emerging applications"
+    },
+    {
+      "paperId": "06817035bb632e0e78fa10849f0e81d742f8291b",
+      "title": "Network Performance Visualization: Insight Through Animation."
+    },
+    {
+      "paperId": "55f89b9c52b46d28e0bc375b31182bd3156831e4",
+      "title": "VAMPIR: Visualization and Analysis of MPI Resources"
+    },
+    {
+      "paperId": "3f0719defe5697d67a019a5b2174662ae8147662",
+      "title": "Transputer and occam developments : WoTUG-18"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    }
+  ]
+}

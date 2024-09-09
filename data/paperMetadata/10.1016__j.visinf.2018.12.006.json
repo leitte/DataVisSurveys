@@ -1,0 +1,764 @@
+{
+  "paperId": "33b742794fe949b6b48cfa38a3dd8709aabbec5c",
+  "externalIds": {
+    "MAG": "2951290071",
+    "DBLP": "journals/corr/abs-1809-00270",
+    "ArXiv": "1809.00270",
+    "DOI": "10.1016/J.VISINF.2018.12.006",
+    "CorpusId": 52156554
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/33b742794fe949b6b48cfa38a3dd8709aabbec5c",
+  "title": "Exploring the Limits of Complexity: A Survey of Empirical Studies on Graph Visualisation",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2018,
+  "referenceCount": 169,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-09-02",
+  "journal": {
+    "name": "ArXiv",
+    "volume": "abs/1809.00270"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Yoghourdjian2018ExploringTL,\n author = {Vahan Yoghourdjian and D. Archambault and S. Diehl and Tim Dwyer and Karsten Klein and H. Purchase and Hsiang-Yun Wu},\n booktitle = {Visual Informatics},\n journal = {ArXiv},\n title = {Exploring the Limits of Complexity: A Survey of Empirical Studies on Graph Visualisation},\n volume = {abs/1809.00270},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2279094",
+      "name": "Vahan Yoghourdjian"
+    },
+    {
+      "authorId": "2503181",
+      "name": "D. Archambault"
+    },
+    {
+      "authorId": "1680836",
+      "name": "S. Diehl"
+    },
+    {
+      "authorId": "145835767",
+      "name": "Tim Dwyer"
+    },
+    {
+      "authorId": "2056819537",
+      "name": "Karsten Klein"
+    },
+    {
+      "authorId": "32489306",
+      "name": "H. Purchase"
+    },
+    {
+      "authorId": "2702080",
+      "name": "Hsiang-Yun Wu"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0b0d051715078288d5356013707445a53f0edfa9",
+      "title": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "paperId": "a3e8d90e8490d99093236b2c4b96c4c4a5ce9ef1",
+      "title": "Interactive topic hierarchy revision for exploring a collection of online conversations"
+    },
+    {
+      "paperId": "7d0462ec453bd63db5345396e4785ac320cbad20",
+      "title": "Graph Thumbnails: Identifying and Comparing Multiple Graphs at a Glance"
+    },
+    {
+      "paperId": "9d2ab937c64793abaa4c2e95587e3e329b3dfad6",
+      "title": "A Visualization Framework and User Studies for Overloaded Orthogonal Drawings"
+    },
+    {
+      "paperId": "3161f692c61df9600b9ae9f22434253f166fa528",
+      "title": "VIGOR: Interactive Visual Exploration of Graph Query Results"
+    },
+    {
+      "paperId": "bfe19ee79aec3e5ade28486cab6c148813a94136",
+      "title": "What Would a Graph Look Like in this Layout? A Machine Learning Approach to Large Graph Visualization"
+    },
+    {
+      "paperId": "e74bf06d60d1907e732d249efd693c1d2b377d8b",
+      "title": "Design and evaluation of line symbolizations for origin\u2013destination flow maps"
+    },
+    {
+      "paperId": "2b8c22bec8a87d8d9c2fd103d7e496c086d00a87",
+      "title": "Visual Similarity Perception of Directed Acyclic Graphs: A Study on Influencing Factors"
+    },
+    {
+      "paperId": "5808d9b4b763fb7e129aa58b69d7c8a4fcaa45e7",
+      "title": "Visualizing Group Structures in Graphs: A Survey"
+    },
+    {
+      "paperId": "9d13d4c7e7d37d4e635385f136d29b3b43bd4f76",
+      "title": "A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space\u2010Time Cubes"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "f721c447323a9a3775db8cde42f98687c7dd9ce7",
+      "title": "Experimental Analysis of the Accessibility of Drawings with Few Segments"
+    },
+    {
+      "paperId": "b116a0f0909a61fa350e45500790616ec0b8c391",
+      "title": "egoComp: A node-link-based technique for visual comparison of ego-networks"
+    },
+    {
+      "paperId": "837e28df34e6a778430607eb16da37715551c780",
+      "title": "Visual Verification of Cancer Staging for Therapy Decision Support"
+    },
+    {
+      "paperId": "40b843389114060864b2da95824582248fc7c854",
+      "title": "State of the Art in Edge and Trail Bundling Techniques"
+    },
+    {
+      "paperId": "5480ae6e7bb399ecdde0bf6ba1855cca85942f77",
+      "title": "Understanding Indirect Causal Relationships in Node\u2010Link Graphs"
+    },
+    {
+      "paperId": "26ad9a738a7e4876a4d244d07600a4f13873fba3",
+      "title": "Social Media Visual Analytics"
+    },
+    {
+      "paperId": "a477b9c84aa43afcdb36dcb35b000753a5711e14",
+      "title": "Evaluating Perceptually Complementary Views for Network Exploration Tasks"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "6ea230ddd42848899fc04bb0cd9cc199709e32a9",
+      "title": "A Study On Designing Effective Introductory Materials for Information Visualization"
+    },
+    {
+      "paperId": "1a4acfba2fe96fff8fd7e2785f0cd7a425104300",
+      "title": "Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs"
+    },
+    {
+      "paperId": "18cf6e33814a9072eeb274aac7ff0735d920ba85",
+      "title": "Toward a deeper understanding of the roles of personal and business networks and market knowledge in SMEs\u2019 international performance"
+    },
+    {
+      "paperId": "22751e7eedc695b50e2f9ac404301b74aad5a075",
+      "title": "A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization"
+    },
+    {
+      "paperId": "2982a2de1d1ee26f59b60d91fdcc83f49e27ae08",
+      "title": "Comparing Node\u2010Link and Node\u2010Link\u2010Group Visualizations From An Enjoyment Perspective"
+    },
+    {
+      "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": "52605b509caf87bee3da09cf95484d783bf7ebb4",
+      "title": "Multivariate Networks: A Novel Edge Visualization Approach for Graph-based Visual Analysis Tasks"
+    },
+    {
+      "paperId": "3dd6248d77762ab53a24b27b4b314fa74b513e04",
+      "title": "Communities Found by Users -- not Algorithms: Comparing Human and Algorithmically Generated Communities"
+    },
+    {
+      "paperId": "37604354c9b5825eada66da3ccc58949cbd37974",
+      "title": "PerSoN-Vis: Visualizing Personal Social Networks (Ego Networks)"
+    },
+    {
+      "paperId": "29781f6bfffd69553fde2472265abed12e058ca0",
+      "title": "Egocentric Analysis of Dynamic Networks with EgoLines"
+    },
+    {
+      "paperId": "731d3f668e7fc377e98ac102467cc4311d247add",
+      "title": "Effects of curves on graph perception"
+    },
+    {
+      "paperId": "86970a858d82be78e932f6cd9e7cacaf04f0eaa1",
+      "title": "Can animation support the visualisation of dynamic graphs?"
+    },
+    {
+      "paperId": "e5d43f8fd42b55e912f8a60146d147c96f839f30",
+      "title": "SchemeLens: A Content-Aware Vector-Based Fisheye Technique for Navigating Large Systems Diagrams"
+    },
+    {
+      "paperId": "ea1bf0396c697e339fc95670a0fc2bf676b3ee53",
+      "title": "TrajGraph: A Graph-Based Visual Analytics Approach to Studying Urban Network Centralities Using Taxi Trajectory Data"
+    },
+    {
+      "paperId": "40897c0928556002881b74ee26b4a71d08e3b87a",
+      "title": "HOLA: Human-like Orthogonal Network Layout"
+    },
+    {
+      "paperId": "3cbbdaa60cf0b53fb9e3caa0025593774118fc11",
+      "title": "On the effective visualisation of dynamic attribute cascades"
+    },
+    {
+      "paperId": "4acb043a87313f716fab1c0595cdc8ac334c324b",
+      "title": "Representing Uncertainty in Graph Edges: An Evaluation of Paired Visual Variables"
+    },
+    {
+      "paperId": "e3fa767f858b70c58c1178370e502974ce9f4082",
+      "title": "A search-set model of path tracing in graphs"
+    },
+    {
+      "paperId": "e8fda9dc06c4dfd7b799514c030e9be7eb00648c",
+      "title": "A Tale of Two Communities: Assessing Homophily in Node-Link Diagrams"
+    },
+    {
+      "paperId": "55baf5db2277438cf04ebce46564c89bc449acb6",
+      "title": "Displaying User Behavior in the Collaborative Graph Visualization System OnGraX"
+    },
+    {
+      "paperId": "5cc088ec6f15b916ed147f77c27c01a847ba66c7",
+      "title": "Shape-Based Quality Metrics for Large Graph Visualization"
+    },
+    {
+      "paperId": "a187b50ed9098010d36fb13050b268efde29ccfc",
+      "title": "On the Readability of Boundary Labeling"
+    },
+    {
+      "paperId": "59e84821ee1e7b5f8369f192b8e6f05b150714f2",
+      "title": "Map\u2010based Visualizations Increase Recall Accuracy of Data"
+    },
+    {
+      "paperId": "d6dbae8d0a7ad716a48fecfa74c4ce455c89395e",
+      "title": "GraphUnit: Evaluating Interactive Graph Visualizations Using Crowdsourcing"
+    },
+    {
+      "paperId": "0e6bba2946248b47b39779720de66606084e5536",
+      "title": "1.5D Egocentric Dynamic Network Visualization"
+    },
+    {
+      "paperId": "6c6cd9bfc4db18c3b18b1f1d8b3de7b544717747",
+      "title": "MatrixWave: Visual Comparison of Event Sequence Data"
+    },
+    {
+      "paperId": "4c5249d7126bfd99fb0cbb8f142a9bc49396de45",
+      "title": "Tree Colors: Color Schemes for Tree-Structured Data"
+    },
+    {
+      "paperId": "9d922653bedd63aa32d3e8949ad2761e73c5c6c4",
+      "title": "Comparative Eye Tracking Study on Node-Link Visualizations of Trajectories"
+    },
+    {
+      "paperId": "d12dc51e6a76c5bd1b215bdc7fbc02dcd368eedf",
+      "title": "Visual Adjacency Lists for Dynamic Graphs"
+    },
+    {
+      "paperId": "a15fbfdb03ecf1e2b2dd06889a78bd22754fefc3",
+      "title": "Are Crossings Important for Drawing Large Graphs?"
+    },
+    {
+      "paperId": "d3f1b09219927f87ba7625a17a7bfe858eba55fb",
+      "title": "GION: Interactively Untangling Large Graphs on Wall-Sized Displays"
+    },
+    {
+      "paperId": "87bdfc6f36e044c33b251d3179d442ffd412307c",
+      "title": "A Coloring Algorithm for Disambiguating Graph and Map Drawings"
+    },
+    {
+      "paperId": "1a18fc02cdb21debf1be10958052fcef4c5efb11",
+      "title": "Octilinear Force-Directed Layout with Mental Map Preservation for Schematic Diagrams"
+    },
+    {
+      "paperId": "28326ee4eb110daf8ee6d3ba6c89acecddfa12d2",
+      "title": "A Gaze\u2010enabled Graph Visualization to Improve Graph Reading Tasks"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "7776da67aba0c34a4d65bc0028fb8c6947e90bff",
+      "title": "Structuring the space: a study on enriching node-link diagrams with visual references"
+    },
+    {
+      "paperId": "8447b8fbc4f537f7905c4d009bee2f8360cba970",
+      "title": "Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation"
+    },
+    {
+      "paperId": "f8cb37f533b57c2864bdb8605aba6410f18d2088",
+      "title": "Evaluation of Filesystem Provenance Visualization Tools"
+    },
+    {
+      "paperId": "bef52ce82c4ca05438acb27fc6dff737526d65ea",
+      "title": "DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation"
+    },
+    {
+      "paperId": "f1372189c14bc6fe54970e5ac66530658917cc22",
+      "title": "Edge Compression Techniques for Visualization of Dense Directed Graphs"
+    },
+    {
+      "paperId": "ee5979db0095c518c775f4dacaf987040a2e359a",
+      "title": "The \"Map\" in the mental map: Experimental results in dynamic graph drawing"
+    },
+    {
+      "paperId": "21e1b17c08b6f4640cab6e7321e203f7d4c29607",
+      "title": "Exploring Complex Drawings via Edge Stratification"
+    },
+    {
+      "paperId": "0b954026b40001ead505eced1ef72b1aa43fa29c",
+      "title": "Visual task solution strategies in tree diagrams"
+    },
+    {
+      "paperId": "88855928aaadcd43365fd7ea21bcf762beedf984",
+      "title": "Motif simplification: improving network visualization readability with fan, connector, and clique glyphs"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "74bb0308064d4c78233e6bed5042890ff16ed562",
+      "title": "Memorability of Visual Features in Network Diagrams"
+    },
+    {
+      "paperId": "73123dcaf5701e61a1f9e2709dc1542c29cb0288",
+      "title": "Intelligent Graph Layout Using Many Users' Input"
+    },
+    {
+      "paperId": "97b74d8c47ac2ba3f3083e657d638c98cc1c9773",
+      "title": "A User Study on Curved Edges in Graph Visualization"
+    },
+    {
+      "paperId": "1f2d508b51fce0868eef3dcd95aa1a4e3f880244",
+      "title": "Mental Map Preservation Helps User Orientation in Dynamic Graphs"
+    },
+    {
+      "paperId": "5da0aeeecc315bb97dea2377a9fe1eae68cc28d2",
+      "title": "On the Usability of Lombardi Graph Drawings"
+    },
+    {
+      "paperId": "f3c18847346af335ba75f4bc1fa8cdab49840994",
+      "title": "Perception of Animated Node\u2010Link Diagrams for Dynamic Graphs"
+    },
+    {
+      "paperId": "b05073ca7b8aa7398d341468eadf17623bd62161",
+      "title": "The mental map and memorability in dynamic graphs"
+    },
+    {
+      "paperId": "6945b953472d822b96fd2a65190f4fed9237a2d7",
+      "title": "Stereoscopic Highlighting: 2D Graph Visualization on Stereo Displays"
+    },
+    {
+      "paperId": "087490c0f593509eb5f717f7e7e7ba04653edd0b",
+      "title": "Developing and Evaluating Quilts for the Depiction of Large Layered Graphs"
+    },
+    {
+      "paperId": "3605b700c795b3b03161afc690f45e855fcf3958",
+      "title": "Evaluation of Traditional, Orthogonal, and Radial Tree Diagrams by an Eye Tracking Study"
+    },
+    {
+      "paperId": "bce0806541238ec44206e816db4bd4ddd0b2978e",
+      "title": "Visual Community Detection: An Evaluation of 2D, 3D Perspective and 3D Stereoscopic Displays"
+    },
+    {
+      "paperId": "a3456bcd730ccbb655ec7493712be85e6b9efbb4",
+      "title": "Evaluating Partially Drawn Links for Directed Graph Edges"
+    },
+    {
+      "paperId": "556874d339b329dc7fe22ebc4e2548402998314e",
+      "title": "A comparison of benchmark task and insight evaluation methods for information visualization"
+    },
+    {
+      "paperId": "0f190a6e922e813a44e8cad9116aa0d3502e6716",
+      "title": "Tablorer \u2013 An Interactive Tree Visualization System for Tablet PCs"
+    },
+    {
+      "paperId": "66ebe2bdbd1b751b817c28fab18e4db01cb5d875",
+      "title": "Dynamic Insets for Context\u2010Aware Graph Navigation"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "0269bd2ccddf36309869e37b1bfb964d7921e800",
+      "title": "An extended evaluation of the readability of tapered, animated, and textured directed-edge representations in node-link graphs"
+    },
+    {
+      "paperId": "87598f2a820ddde056a32a0b8e3dc59b72d8abcc",
+      "title": "Effective Temporal Graph Layout: A Comparative Study of Animation versus Static Display Methods"
+    },
+    {
+      "paperId": "d8765f1fbedc6f53478ba6929ab41c01be26f5aa",
+      "title": "Exploring the relative importance of crossing number and crossing angle"
+    },
+    {
+      "paperId": "b14f4d4697a709ce00849be75d6f2c96b924ef1c",
+      "title": "Improving Force-Directed Graph Drawings by Making Compromises Between Aesthetics"
+    },
+    {
+      "paperId": "85d5f4151d43cca3b43b30790725b156352bfc82",
+      "title": "Difference Map Readability for Dynamic Graphs"
+    },
+    {
+      "paperId": "3bff5ccaa2d619f612b0b4776267fdd86a67ec08",
+      "title": "The Readability of Path\u2010Preserving Clusterings of Graphs"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "1d30244895c61b6512d5e93aa63e79d7a34700ae",
+      "title": "A comparative evaluation on tree visualization methods for hierarchical structures with large fan-outs"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "c6ef51f33638de913545f8ae4f565b9edfd4fccf",
+      "title": "A Comparison of User-Generated and Automatic Graph Layouts"
+    },
+    {
+      "paperId": "2c01cd884bd2d6f768f81057c380834a8e100931",
+      "title": "Measuring Effectiveness of Graph Visualizations: A Cognitive Load Perspective"
+    },
+    {
+      "paperId": "eec62ca266afa1be07505cdb640160d9e25c8cbf",
+      "title": "Preconceptions and Individual Differences in Understanding Visual Metaphors"
+    },
+    {
+      "paperId": "3154f55015439126d4906f2fc949fc370d9e1d07",
+      "title": "A graph reading behavior: Geodesic-path tendency"
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "902702d8e3a5eed4617316e429255df7891a40e6",
+      "title": "A user study on visualizing directed edges in graphs"
+    },
+    {
+      "paperId": "790b66c3fbaedc9ccf300910258d386553442f92",
+      "title": "Improving the Readability of Clustered Social Networks using Node Duplication"
+    },
+    {
+      "paperId": "31435e2ed9b48e1659786d51594ea713f2135c84",
+      "title": "Perceptual Organization in User-Generated Graph Layouts"
+    },
+    {
+      "paperId": "baad4249d40a44d718440dfd6ce931aa48c044ab",
+      "title": "Balloon Focus: a Seamless Multi-Focus+Context Method for Treemaps"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "2104706e12b2eb6fed89a110cc8304047a9694b1",
+      "title": "Exploration of Networks using overview+detail with Constraint-based cooperative layout"
+    },
+    {
+      "paperId": "a5e6c643bbe35fa69b6d21df38850cc560be3cd9",
+      "title": "Visual Thinking with an Interactive Diagram"
+    },
+    {
+      "paperId": "855cca47ff5d9af0d3b2367b6a0a241f4f8361bf",
+      "title": "Extremes Are Better: Investigating Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "1633a6173775edc8f7d702a57d891a3db398ced2",
+      "title": "GrouseFlocks: Steerable Exploration of Graph Hierarchy Space"
+    },
+    {
+      "paperId": "f163c1e9ed62e50d45477369f8736cb64bf7ec66",
+      "title": "Effects of Crossing Angles"
+    },
+    {
+      "paperId": "fb649026b8debdc7784ca0970e025e7e9bdff473",
+      "title": "Visualizing Causal Semantics Using Animations"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "5b27c3cf064d6ee531168aa398f2f0e0a6f190f1",
+      "title": "AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets"
+    },
+    {
+      "paperId": "2860ce568c71506652616df2eaa3b6edd681ba23",
+      "title": "Using eye tracking to investigate graph layout effects"
+    },
+    {
+      "paperId": "18aa4f26c2c12b18ede61c432be92ee488ee7f90",
+      "title": "Graph Visualization Techniques for Web Clustering Engines"
+    },
+    {
+      "paperId": "eafd6773379c2fe0e839d35f9a982e11d95b5b72",
+      "title": "TreePlus: Interactive Exploration of Networks with Enhanced Tree Layouts"
+    },
+    {
+      "paperId": "8993e5852e6e137bc839ede05645100617966930",
+      "title": "Graph Signatures for Visual Analytics"
+    },
+    {
+      "paperId": "0453a1285b6c0ef64e26b5b432bc1eb536db2343",
+      "title": "How Important Is the \"Mental Map\"? - An Empirical Investigation of a Dynamic Graph Layout Algorithm"
+    },
+    {
+      "paperId": "01e3ca6d6bf1a040699d496aa0f4ab90ae7dd567",
+      "title": "ASK-GraphView: A Large Scale Graph Visualization System"
+    },
+    {
+      "paperId": "8489218a605ffd98a2cb832774985a99b4092b5c",
+      "title": "The Perceptual Scalability of Visualization"
+    },
+    {
+      "paperId": "2b09f48e8375b5bcab94d3312b037a6d93b09937",
+      "title": "Interpreting Hierarchical Structure: Evidence from Cladograms in Biology"
+    },
+    {
+      "paperId": "c35d75ff404fac1642f966caa40d67b879eba36b",
+      "title": "Exploring the Effect of Animation and Progressive Revealing on Diagrammatic Problem Solving"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "e080fea0418b40014bd99c538d0c88e0c2b4c1e3",
+      "title": "Just how dense are dense graphs in the real world?: a methodological note"
+    },
+    {
+      "paperId": "4b05da80c5e76ad4038c79aa2d633e5c9ef986c0",
+      "title": "An evaluation of pan & zoom and rubber sheet navigation with and without an overview"
+    },
+    {
+      "paperId": "24df975b35a6b4e6eb2c63b64394fcfca62c06ee",
+      "title": "Matrices or Node-Link Diagrams: Which Visual Representation is Better for Visualising Connectivity Models?"
+    },
+    {
+      "paperId": "ccd62af90006225882d5074769d66fd67657a2ff",
+      "title": "Dynamic visualization of graphs with extended labels"
+    },
+    {
+      "paperId": "331cbd2697f0d0d5a97ca48acc7640c356450fdd",
+      "title": "Layout Effects on Sociogram Perception"
+    },
+    {
+      "paperId": "82038c93e6e803fad5804f2c82a8e74a657c4c31",
+      "title": "On the Readability of Graphs Using Node-Link and Matrix-Based Representations: A Controlled Experiment and Statistical Analysis"
+    },
+    {
+      "paperId": "fdda0aea5dd7f780f5d41f985452e711d8f9d6fe",
+      "title": "Supporting Visual Queries on Medium-Sized Node\u2013Link Diagrams"
+    },
+    {
+      "paperId": "4effb869de6edd5e6e7e1ec476ab402fa9d28c55",
+      "title": "A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "66d72e81be44dade1cd3ae9bee87a1df6a562ba8",
+      "title": "Animated Visualization of Multiple Intersecting Hierarchies"
+    },
+    {
+      "paperId": "cdd3450b88e0eaa110c0a9d348c01dfc9ce41ac7",
+      "title": "Visual Scalability"
+    },
+    {
+      "paperId": "482d53cad8c510b46dd8e9e4f1e3041d4612611a",
+      "title": "User Preference of Graph Layout Aesthetics: A UML Study"
+    },
+    {
+      "paperId": "32d7c991ec2e5027308df247576b5207b1079fd1",
+      "title": "Graph drawing : 5th International Symposium, GD'97, Rome, Italy, September 18-20, 1997 : proceedings"
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "64e222131ec0bca02b671b053ec8fc294336a603",
+      "title": "Validating Graph Drawing Aesthetics"
+    },
+    {
+      "paperId": "dce23cc4424de9ff8cfe47da622d09beb7956c61",
+      "title": "The Effect of Graph Layout on Inference from Social Network Data"
+    },
+    {
+      "paperId": "16ab41bb3fedad44f87ae85d63dab2646889f349",
+      "title": "The Effect of Graph Layout on Inference from Social Network Data"
+    },
+    {
+      "paperId": "bf6ff8f93a166f68ef72699540162bb51b99fa17",
+      "title": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs"
+    },
+    {
+      "paperId": "6f043ebc69cc0e488f91032c256c22aee6798952",
+      "title": "CommViz: Visualization of semantic patterns in large social communication networks"
+    },
+    {
+      "paperId": "5d3ddd01be8f6c0d53a3eb3f0264e9196c5c8ef2",
+      "title": "Orko: Facilitating Multimodal Interaction for Visual Exploration and Analysis of Networks"
+    },
+    {
+      "paperId": "5e0ede4ea2d7941a2224647841108742bd9c186f",
+      "title": "Active Reading of Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Types of different interaction used in studies with relation to the number of nodes and the number"
+    },
+    {
+      "paperId": null,
+      "title": "264\u2013282 list of recommendations to overcome these weaknesses in future studies"
+    },
+    {
+      "paperId": null,
+      "title": "The number of nodes of static versus dynamic graphs used in studies for the period"
+    },
+    {
+      "paperId": "7ff2b1bcb37f889cc369a45590e26370a74c24f5",
+      "title": "Revisited Network Representations"
+    },
+    {
+      "paperId": "0d306edac06661c562c795c49845bea97b9e3754",
+      "title": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "paperId": "0f7b18afb2c70ff682cb2ed5de4d6d5d8cf05c7e",
+      "title": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "paperId": "07730da4d6581223dd6837714848869edd62bdaf",
+      "title": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "paperId": "e45ccc6558dd3f84b895d2dc69986c68e5624c21",
+      "title": "A User Study:"
+    },
+    {
+      "paperId": null,
+      "title": "2016.Multivariate networks: A novel edge"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "98c11f20e5b3ef000e0faab0d973070de873a0de",
+      "title": "The State of the Art in Visualizing Group Structures in Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "mention a pilot study"
+    },
+    {
+      "paperId": null,
+      "title": "2014) find 120 nodes and 2.5 density asmaximum"
+    },
+    {
+      "paperId": "99f6546e572634b87bc55497164bef865971523c",
+      "title": "Scalability Considerations for Multivariate Graph Visualization"
+    },
+    {
+      "paperId": "a263ff96bdbb1b92d1cc228ef097cbd5af81fef2",
+      "title": "On Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "pages"
+    },
+    {
+      "paperId": "fa91327491fbd5b87cf3c52470c75242587845bd",
+      "title": "Graph Drawing Aesthetics\u2014Created by Users, Not Algorithms"
+    },
+    {
+      "paperId": null,
+      "title": "2012b) use two graphswith 10 nodes"
+    },
+    {
+      "paperId": null,
+      "title": "Eindhoven, The Netherlands, September 21-23, 2011"
+    },
+    {
+      "paperId": null,
+      "title": "Visualanalysisoflargegraphs"
+    },
+    {
+      "paperId": null,
+      "title": "Ezaiza et al"
+    },
+    {
+      "paperId": null,
+      "title": "2010)mention that the largest graph size"
+    },
+    {
+      "paperId": null,
+      "title": "2006a) justify their selection of graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Discovery Project grant DP140100077"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "a15174ed603bae1b101c4655111bb511787b95b4",
+      "title": "The magical number seven plus or minus two: some limits on our capacity for processing information."
+    },
+    {
+      "paperId": "c786ac686b9eea3413e9f8b096b9a4169acc1811",
+      "title": "Ieee Transactions on Journal Name, Manuscript Id How to Display Group Information on Node-link Diagrams: an Evaluation"
+    },
+    {
+      "paperId": "1c1bb5945c32d5917c79a6b326ba49a27c4d50a3",
+      "title": "Journal of Graph Algorithms and Applications a User Study in Similarity Measures for Graph Drawing"
+    }
+  ]
+}

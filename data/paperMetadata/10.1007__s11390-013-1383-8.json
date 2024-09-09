@@ -1,0 +1,635 @@
+{
+  "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+  "externalIds": {
+    "MAG": "2071124968",
+    "DBLP": "journals/jcst/SunWLL13",
+    "DOI": "10.1007/s11390-013-1383-8",
+    "CorpusId": 15518474
+  },
+  "publicationVenue": {
+    "id": "2d2707e1-5dbb-4002-8849-876154b870a8",
+    "name": "Journal of Computational Science and Technology",
+    "type": "journal",
+    "alternate_names": [
+      "Journal of Computer Science and Technology",
+      "J Comput Sci Technol"
+    ],
+    "issn": "1881-6894",
+    "alternate_issns": [
+      "1666-6038",
+      "1000-9000"
+    ],
+    "url": "https://www.jstage.jst.go.jp/browse/jcst",
+    "alternate_urls": [
+      "https://rd.springer.com/journal/11390",
+      "https://link.springer.com/journal/11390",
+      "http://journal.info.unlp.edu.ar/",
+      "https://www.jstage.jst.go.jp/browse/jcst/list/-char/en"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/45826cc20af40f1662e6a9282f3d1c23972a992d",
+  "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges",
+  "abstract": null,
+  "venue": "Journal of Computational Science and Technology",
+  "year": 2013,
+  "referenceCount": 137,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2013-09-17",
+  "journal": {
+    "name": "Journal of Computer Science and Technology",
+    "pages": "852-867",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sun2013ASO,\n author = {Guodao Sun and Yingcai Wu and Ronghua Liang and Shixia Liu},\n booktitle = {Journal of Computational Science and Technology},\n journal = {Journal of Computer Science and Technology},\n pages = {852-867},\n title = {A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges},\n volume = {28},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47333988",
+      "name": "Guodao Sun"
+    },
+    {
+      "authorId": "121962020",
+      "name": "Yingcai Wu"
+    },
+    {
+      "authorId": "4487395",
+      "name": "Ronghua Liang"
+    },
+    {
+      "authorId": "48641970",
+      "name": "Shixia Liu"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d82829c9fd9cfba8a44efe5ba048d3332a1671fc",
+      "title": "Dynamic Programming"
+    },
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "1fdf9a918b8f549a30db2d191cb4796e6a67c99e",
+      "title": "StoryFlow: Tracking the Evolution of Stories"
+    },
+    {
+      "paperId": "bc93bfc83644e48a8d58208e31e5e605ccadf607",
+      "title": "SketchStory: Telling More Engaging Stories with Data through Freeform Sketching"
+    },
+    {
+      "paperId": "b7697236e434773af6e335ef960bfc729dfaca09",
+      "title": "Visual Analysis of Topic Competition on Social Media"
+    },
+    {
+      "paperId": "ef96938202d4b338b4b6b265c8305c7d056a5815",
+      "title": "A Deeper Understanding of Sequence in Narrative Visualization"
+    },
+    {
+      "paperId": "00e7091577e819d4a845d6ff19dd8acea7ede09b",
+      "title": "Bristle Maps: A Multivariate Abstraction Technique for Geovisualization"
+    },
+    {
+      "paperId": "9776314c9e4e729313af0cdf37798517a05a33ca",
+      "title": "Scalable Analysis of Movement Data for Extracting and Exploring Significant Places"
+    },
+    {
+      "paperId": "d06189563009bfebad417254446bfdc2d7a9d32b",
+      "title": "PIWI: Visually Exploring Graphs Based on Their Community Structure"
+    },
+    {
+      "paperId": "34430abb4c07e4a482726054c99d7cfa036041bf",
+      "title": "Visual analytics for the clustering capability of data"
+    },
+    {
+      "paperId": "8d1d366b348042ae42413ef231b065e35b44eab0",
+      "title": "A Web-based visual analytics system for real estate data"
+    },
+    {
+      "paperId": "235447def49daaf4286955530e661ec57963db36",
+      "title": "TimeSeer: Scagnostics for High-Dimensional Time Series"
+    },
+    {
+      "paperId": "cedad910833a9377c6025a60020d876433a8562f",
+      "title": "Representative Factor Generation for the Interactive Visual Analysis of High-Dimensional Data"
+    },
+    {
+      "paperId": "e0833220c257bdf31fd99261576cc7d4129adbc1",
+      "title": "Visualizing Flow of Uncertainty through Analytical Processes"
+    },
+    {
+      "paperId": "18033f6e4e5aa70bfe64a720165f53846448e7ca",
+      "title": "Interactive Level-of-Detail Rendering of Large Graphs"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "a88d7d5bed8f7b30b5ac50a1b250000ec4913f66",
+      "title": "Design Considerations for Optimizing Storyline Visualizations"
+    },
+    {
+      "paperId": "9fdd71913c16d2946599747e44aed1c792b9a51c",
+      "title": "Facilitating Discourse Analysis with Interactive Visualization"
+    },
+    {
+      "paperId": "63b3b65667a2941f3fadef8949843569cbf44f39",
+      "title": "Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization"
+    },
+    {
+      "paperId": "25520b37a2fe9e52d1af7fc4211eadf6b30760b2",
+      "title": "An Affordance-Based Framework for Human Computation and Human-Computer Collaboration"
+    },
+    {
+      "paperId": "a5878f0d3ca7be427c4e533ba234c432b99d60da",
+      "title": "SnapShot: Visualization to Propel Ice Hockey Analytics"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "bb192d3266bf60b07b1f17b16fac75d87d677178",
+      "title": "Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations"
+    },
+    {
+      "paperId": "80388bc79084340a0f0bccc4a2455c3f3c504b27",
+      "title": "Spatial Text Visualization Using Automatic Typographic Maps"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "9faae5d91c4371543ad671c1750b5344f56d88eb",
+      "title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering"
+    },
+    {
+      "paperId": "08ecca51ea8e5a8169ee2e19dcc499119f377d4f",
+      "title": "Visualizing Student Histories Using Clustering and Composition"
+    },
+    {
+      "paperId": "14cde5d0578438011c650013ef0f2b21a781ce40",
+      "title": "The DeepTree Exhibit: Visualizing the Tree of Life to Facilitate Informal Learning"
+    },
+    {
+      "paperId": "b4c917d32ba894dc4fc331eb2dbaf2ede68b4cb2",
+      "title": "Living Liquid: Design and Evaluation of an Exploratory Visualization Tool for Museum Visitors"
+    },
+    {
+      "paperId": "73123dcaf5701e61a1f9e2709dc1542c29cb0288",
+      "title": "Intelligent Graph Layout Using Many Users' Input"
+    },
+    {
+      "paperId": "9227fc354f28b88464167f8122232dddd4e66e69",
+      "title": "A Visual Analytics Approach to Multiscale Exploration of Environmental Time Series"
+    },
+    {
+      "paperId": "54093d1f277e212e41ff62b8c7af9cdb49ce9964",
+      "title": "RelEx: Visualization for Actively Changing Overlay Network Specifications"
+    },
+    {
+      "paperId": "d449c705dd7c6687d0a13fed8b86bca94d26f95e",
+      "title": "Organizing Search Results with a Reference Map"
+    },
+    {
+      "paperId": "de4c76784145c676cd10e78d03f7a3c9073a99f1",
+      "title": "RankExplorer: Visualization of Ranking Changes in Large Time Series Data"
+    },
+    {
+      "paperId": "eba8f9d8cd7a5d80593c38daa0225c16e7cda232",
+      "title": "Compressed Adjacency Matrices: Untangling Gene Regulatory Networks"
+    },
+    {
+      "paperId": "361f6799198c4a258c5dbb4c9863a521f290ff4c",
+      "title": "Visual Classifier Training for Text Document Retrieval"
+    },
+    {
+      "paperId": "0e747a87e8700a25be06a354d3ad9e861f619403",
+      "title": "Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time"
+    },
+    {
+      "paperId": "3c52292d6bb2ea2fb82a4f1b36bd2fa137466fcf",
+      "title": "Algorithms for Labeling Focus Regions"
+    },
+    {
+      "paperId": "d4c9c711aa2776f614706eb9c51ec09e89ad5f4a",
+      "title": "Toward Visualization for Games: Theory, Design Space, and Patterns"
+    },
+    {
+      "paperId": "096b94cf89cee8daccbb3011b35c14082e2d44d5",
+      "title": "Evaluating the Role of Time in Investigative Analysis of Document Collections"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "23297f92ff60d52cd734eaa76d45f87d3e1c0aea",
+      "title": "Multidimensional Projections for Visual Analysis of Social Networks"
+    },
+    {
+      "paperId": "d23649b1a193f0583e470adfc30e55ba27b5ecd1",
+      "title": "Ambiguity-Free Edge-Bundling for Interactive Graph Visualization"
+    },
+    {
+      "paperId": "a537f5d51be1ce06a579bd6826e7b5e0ffa685ff",
+      "title": "Summarizing Large-Scale Database Schema Using Community Detection"
+    },
+    {
+      "paperId": "d5de7f65822e1d79d03fe010d9b2144cde2780a3",
+      "title": "Local Affine Multidimensional Projection"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "46964f6ad55a0fd09d23460ed6455cc1606e3118",
+      "title": "Design Study of LineSets, a Novel Set Visualization Technique"
+    },
+    {
+      "paperId": "bd93ec086fbf2ace83828909c1c63293e720be67",
+      "title": "Composite Density Maps for Multivariate Trajectories"
+    },
+    {
+      "paperId": "022deada7847fecaee9fb530c1e7c21eda9f96fd",
+      "title": "Exploring Uncertainty in Geodemographics with Interactive Graphics"
+    },
+    {
+      "paperId": "17220582db679a69e8e71f10116543900a6770f7",
+      "title": "Flow Map Layout via Spiral Trees"
+    },
+    {
+      "paperId": "4b0cc2e4c85a1bd54b52efe77686b048eb844cde",
+      "title": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series"
+    },
+    {
+      "paperId": "6c8a96f2f1cc565ad78369db4d9d902b5e483707",
+      "title": "BirdVis: Visualizing and Understanding Bird Populations"
+    },
+    {
+      "paperId": "31598145ebe1f066c3ce773a6105ffd912ad98db",
+      "title": "Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization"
+    },
+    {
+      "paperId": "7aa045fb4d980a6f16a57f24d5e31cac754b1658",
+      "title": "In Situ Exploration of Large Dynamic Networks"
+    },
+    {
+      "paperId": "34923e759e3756fdf373c1749828e2c0272a2ad9",
+      "title": "Synthetic Generation of High-Dimensional Datasets"
+    },
+    {
+      "paperId": "4bd45f45817d58cc6d432a8b0724059d5d1e2f7f",
+      "title": "Visualization of Parameter Space for Image Analysis"
+    },
+    {
+      "paperId": "0f9ae35a98069f5c95c7790536664b20a74e92e7",
+      "title": "MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots"
+    },
+    {
+      "paperId": "4d47ccb37127287099bb7714068e7cebd7a84736",
+      "title": "Context-Preserving Visual Links"
+    },
+    {
+      "paperId": "746a54bbfee0c6883c61f964cad98c720d55d457",
+      "title": "Asymmetric Relations in Longitudinal Social Networks"
+    },
+    {
+      "paperId": "0f1527b252bf7224ef7354b9f3697a56a8919aed",
+      "title": "Skeleton-Based Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "087490c0f593509eb5f717f7e7e7ba04653edd0b",
+      "title": "Developing and Evaluating Quilts for the Depiction of Large Layered Graphs"
+    },
+    {
+      "paperId": "3ddb1b51ada271ba362484bb50d2edca1dcef2db",
+      "title": "VisBricks: Multiform Visualization of Large, Inhomogeneous Data"
+    },
+    {
+      "paperId": "2f7fdb0f2911bf85f5b6f04566fe6c9d37ae8526",
+      "title": "TreeNetViz: Revealing Patterns of Networks over Tree Structures"
+    },
+    {
+      "paperId": "753f679fd2dba8f34031e9fe4e8404a6e2a1d0a9",
+      "title": "Adaptive Privacy-Preserving Visualization Using Parallel Coordinates"
+    },
+    {
+      "paperId": "7a9aaf7b4b05cc24c48510fabbb22ebbb6d89247",
+      "title": "Divided Edge Bundling for Directional Network Data"
+    },
+    {
+      "paperId": "ee07f52a95e3dc7d73f4d4d7d87e33e011c50acf",
+      "title": "Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data"
+    },
+    {
+      "paperId": "42a3f2b9e5c800191f21223dc70a22774df84237",
+      "title": "Flexible Linked Axes for Multivariate Data Visualization"
+    },
+    {
+      "paperId": "2e3ee262b729a4bb8c4d3869727ef69b9007e7df",
+      "title": "DICON: Interactive Visual Analysis of Multidimensional Clusters"
+    },
+    {
+      "paperId": "2b062b51aa7fcf5f7bcdf245e28ab15dbd2e34f7",
+      "title": "Parallel Edge Splatting for Scalable Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "ba1b88bf9c09da07a8652f86fab48cbdac84b8a6",
+      "title": "Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data"
+    },
+    {
+      "paperId": "1806117feb8e131b3f8fc381a4db8d3564b97d71",
+      "title": "Benefitting InfoVis with Visual Difficulties"
+    },
+    {
+      "paperId": "fb42fd7a0cc4028c3c94c2034eee9e85e6de0e70",
+      "title": "Drawing Road Networks with Focus Regions"
+    },
+    {
+      "paperId": "2095ea3427222cb3b5bff717fcf2af5994544edb",
+      "title": "Focus+Context Metro Maps"
+    },
+    {
+      "paperId": "42cda3532edc40d44fff7848775f02da894e40c0",
+      "title": "Improved Similarity Trees and their Application to Visual Data Classification"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "b2f3ff7ba24b301f2bfeb4255e89013d36c0fb7c",
+      "title": "Product Plots"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "1f80a8df3ff79e63f6924da5b3a1ed6aec8a0e57",
+      "title": "BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers"
+    },
+    {
+      "paperId": "2a6f78fa74d214debf9d2a0d4c9d007a02d1a38a",
+      "title": "Exploratory Analysis of Time-Series with ChronoLenses"
+    },
+    {
+      "paperId": "879cea58f1713660b8e4fde0a4d9b84613f6ee70",
+      "title": "Visual Recommendations for Network Navigation"
+    },
+    {
+      "paperId": "612c62dde27eeca0ab23de006dbdef53072e0228",
+      "title": "Semantic\u2010Preserving Word Clouds by Seam Carving"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "c60372bd9cfa6b05d0aff9fa643796c692cda344",
+      "title": "Forecasting Hotspots\u2014A Predictive Analytics Approach"
+    },
+    {
+      "paperId": "8a287d4c0d72b02f50584505bb1a09261d78bef0",
+      "title": "Interactive visualization of multivariate trajectory data with density maps"
+    },
+    {
+      "paperId": "ded4b3097c92775ce93e328c048f0b49de814ba4",
+      "title": "Spatial Generalization and Aggregation of Massive Movement Data"
+    },
+    {
+      "paperId": "f634505fdb35b6cb8358dd8ea064db51a181bdc7",
+      "title": "Visual readability analysis: How to make your writings easier to read"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "bed02c1b5831c9abc93a1c87b956957eb3d515bd",
+      "title": "A Visual Backchannel for Large-Scale Events"
+    },
+    {
+      "paperId": "270640a16aec0caf4c4fc59c087567981519f4a4",
+      "title": "ManiWordle: Providing Flexible Control over Wordle"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "a0914f6d9d835536b8f83219ed821e6258fefb69",
+      "title": "Visualizations everywhere: A Multiplatform Infrastructure for Linked Visualizations"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "bd113c0d43280ab533c7cf8ad64a5785c215438c",
+      "title": "Context preserving dynamic word cloud visualization"
+    },
+    {
+      "paperId": "432469754e244ce2a6ca474212b16ee81dea3654",
+      "title": "Space, time and visual analytics"
+    },
+    {
+      "paperId": "9be54d4569ac9897b619e64e7a16a36b51224489",
+      "title": "Evolutionary hierarchical dirichlet processes for multiple correlated time-varying corpora"
+    },
+    {
+      "paperId": "f82bfd2561e442d49815d38ea8ce7173f0707aed",
+      "title": "Constrained Coclustering for Textual Documents"
+    },
+    {
+      "paperId": "bde464c8719ca9608b2e0a5b809f7fc178594cbe",
+      "title": "A Visual Analytics Approach to Understanding Spatiotemporal Hotspots"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "c1491cd884ca55acb7b7b848d4965e2ebe3c801a",
+      "title": "Scattering Points in Parallel Coordinates"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "7dbfb2233a5844193ac6854911c7447387fafa68",
+      "title": "Spatiotemporal Analysis of Sensor Logs using Growth Ring Maps"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "bc8852922f39403066381819b3bb401fd2c8e3c9",
+      "title": "Force\u2010Directed Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "38d2be9911f40e3cc486dea19e86f387fe43e741",
+      "title": "Hierarchical Pixel Bar Charts"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "e20e2f768f27dc35a14895b83ebaa3725f7f75ab",
+      "title": "Visualization Techniques for Mining Large Databases: A Comparison"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": null,
+      "title": "Xkcd 657: Movie narrative charts"
+    },
+    {
+      "paperId": "f93bee6301521bf2917b23107deae76489576700",
+      "title": "Visual Reasoning about Social Networks Using Centrality Sensitivity"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "185d2d35c0c6fa07d88b3026b5bf75ffe73839f6",
+      "title": "Visual Data Mining"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "d5cec0208e211f2a9897ecea40e7d67c5ad64176",
+      "title": "VISUALIZATION AND COMPUTER GRAPHICS"
+    },
+    {
+      "paperId": null,
+      "title": "Courier Dover Publications"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "3305b82d746ada08daa18d53a205ff20f7a4ff32",
+      "title": "Ieee Transactions on Visualization and Computer Graphics a Structure-based Distance Metric for High- Dimensional Space Exploration with Multi- Dimensional Scaling"
+    },
+    {
+      "paperId": "14db106b5663430fdce919abed550b177b4b96ce",
+      "title": "Noname manuscript No. (will be inserted by the editor) Automated Cell Classification and Visualization for Analyzing Remyelination"
+    },
+    {
+      "paperId": "512ec16c59ce79c723010acc3ea64070ee93453d",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Visizer: a Visualization Resizing Framework"
+    },
+    {
+      "paperId": "3703462f6b503dd3e60b9d032593dc83355db61e",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Automated Analytical Methods to Support Visual Exploration of High-dimensional Data"
+    },
+    {
+      "paperId": "6b2bd273c3fd3627fec48b9e0251b14563c8a3f6",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Coherent Time-varying Graph Drawing with Multifocus+context Interaction"
+    },
+    {
+      "paperId": null,
+      "title": "Her research interest mainly focuses on interactive, visual text analytics and interactive, visual graph analytics. She received her"
+    },
+    {
+      "paperId": null,
+      "title": "He is a research intern at the Internet Graphics Group, Microsoft Research Asia, Beijing, from 2013 to 2014. His research interests include information visualization and visual analytics"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "paperId": "9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+  "externalIds": {
+    "MAG": "2070921605",
+    "DBLP": "journals/vlc/PriceBS93",
+    "DOI": "10.1006/jvlc.1993.1015",
+    "CorpusId": 3163293
+  },
+  "publicationVenue": {
+    "id": "d093f67a-2c74-4b19-b16c-049f802fbce1",
+    "name": "Journal of Visual Languages and Computing",
+    "type": "journal",
+    "alternate_names": [
+      "J Vis Lang Comput"
+    ],
+    "issn": "1045-926X",
+    "alternate_issns": [
+      "1095-8533"
+    ],
+    "url": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622907/description#description",
+    "alternate_urls": [
+      "http://www.sciencedirect.com/science/journal/1045926X",
+      "https://www.journals.elsevier.com/journal-of-visual-languages-and-computing"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+  "title": "A Principled Taxonomy of Software Visualization",
+  "abstract": "Abstract In the early 1980s researchers began building systems to visualize computer programs and algorithms using newly emerging graphical workstation technology. After more than a decade of advances in interface technology, a large variety of systems has been built and many different aspects of the visualization process have been investigated. As in any new branch of a science, a taxonomy is required so that researchers can use a common language to discuss the merits of existing systems, classify new ones (to see if they really are new) and identify gaps which suggest promising areas for further development. Several authors have suggested taxonomies for these visualization systems, but they have been ad hoc and have relied on only a handful of characteristics to describe a large and diverse area of work. Another major drawback of these taxonomies is their inability to accommodate expansion: there is no clear way to add new categories when the need arises. In this paper we present a detailed taxonomy of systems for the visualization of computer software. This taxonomy was derived from an established black-box model of software and is composed of a hierarchy with six broad categories at the top and over 30 leaf-level nodes at four hierarchical levels. We describe 12 important systems in detail and apply the taxonomy to them in order to illustrate its features. After discussing each system in this context, we analyse its coverage of the categories and present a research agenda for future work in the area.",
+  "venue": "Journal of Visual Languages and Computing",
+  "year": 1993,
+  "referenceCount": 92,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "1993-09-01",
+  "journal": {
+    "name": "J. Vis. Lang. Comput.",
+    "pages": "211-266",
+    "volume": "4"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Price1993APT,\n author = {B. Price and R. Baecker and I. Small},\n booktitle = {Journal of Visual Languages and Computing},\n journal = {J. Vis. Lang. Comput.},\n pages = {211-266},\n title = {A Principled Taxonomy of Software Visualization},\n volume = {4},\n year = {1993}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "39793713",
+      "name": "B. Price"
+    },
+    {
+      "authorId": "1715312",
+      "name": "R. Baecker"
+    },
+    {
+      "authorId": "2095608995",
+      "name": "I. Small"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6d32d1f65434d4cc94bd2cee0f5a889fa29d8edd",
+      "title": "Watch what I do: programming by demonstration"
+    },
+    {
+      "paperId": "ebe0a60c3d57855ebe8059d6ceed7a3d2f999d91",
+      "title": "Three-dimensional computation visualization"
+    },
+    {
+      "paperId": "1aa9dfb2103575937c4865bb46ec82644fca6896",
+      "title": "The Visualization of Parallel Systems: An Overview"
+    },
+    {
+      "paperId": "e670d245ef8723c6549d0e5028a72711edb51665",
+      "title": "Color and sound in algorithm animation"
+    },
+    {
+      "paperId": "a24dcf0cfdacdab416f229bd82b5d97a156a508e",
+      "title": "Understanding and characterizing software visualization systems"
+    },
+    {
+      "paperId": "e50ed8b2e250824b834cb7f11759876f7d748ebd",
+      "title": "Program auralization: sound enhancements to the programming environment"
+    },
+    {
+      "paperId": "0268c4799a43dfc084bb0acd4b1be24b7168dc75",
+      "title": "Pavane: a system for declarative visualization of concurrent computations"
+    },
+    {
+      "paperId": "f731321ff9121d6edad481f4114e48609ed81b30",
+      "title": "A taxonomy of software visualization"
+    },
+    {
+      "paperId": "c445ecbb7fc41275029be2decdd7d6da5769db69",
+      "title": "Debugging parallel programs using sound"
+    },
+    {
+      "paperId": "ac3944601a2a68f68bc3549c6e97f5404d833d36",
+      "title": "A Practical Graphical Tracer for Prolog"
+    },
+    {
+      "paperId": "4324429e08b58f08e1e08408fe07ab078e39fc99",
+      "title": "The transparent Prolog machine - visualizing logic programs"
+    },
+    {
+      "paperId": "85982fb0d297076af6b182f57baf9ae06b6198a5",
+      "title": "Zeus: a system for algorithm animation and multi-view editing"
+    },
+    {
+      "paperId": "92ea5784efd995b959dea903134da85e793c9ce3",
+      "title": "Effective sounds in complex systems: the ARKOLA simulation"
+    },
+    {
+      "paperId": "a84090305f637883b4f849538ea7c945da6c12fd",
+      "title": "Using direct manipulation to build algorithm animations by demonstration"
+    },
+    {
+      "paperId": "d82cc51502356a4621f23661fd96ea1065190363",
+      "title": "Bringing icons to life"
+    },
+    {
+      "paperId": "06ca3092f1136bc3f49ff1d54999d676a503131a",
+      "title": "Oxford English Dictionary (2nd ed.)"
+    },
+    {
+      "paperId": "a5eed16b5fef1da368ae0d5603f48a8c239ee9e3",
+      "title": "Mixed Programming Mataphors in a Shared Dataspace Model of Concurrency"
+    },
+    {
+      "paperId": "850136432997aa76861bd8b5b6f65c057a336ea5",
+      "title": "Visual Knowledge Engineering"
+    },
+    {
+      "paperId": "e1ac67b06ffc09006f9a1c66c36d4fb6eb8970e1",
+      "title": "Tango: a framework and system for algorithm animation"
+    },
+    {
+      "paperId": "8f0800c118a641fd40923d0154afc37e008eb584",
+      "title": "Visualizing the execution of multi-processor real-time programs"
+    },
+    {
+      "paperId": "c426f0f3c187b195949df3b44a5e6c513f302edb",
+      "title": "Interacting with the field environment"
+    },
+    {
+      "paperId": "e5e0b1f276435005072cf07abfb149485249637e",
+      "title": "The University of Washington illustrating compiler"
+    },
+    {
+      "paperId": "6a6c523797da4c6fe58060d2ca83f9cf4da29771",
+      "title": "Taxonomies of visual programming and program visualization"
+    },
+    {
+      "paperId": "a203e3494ab5cd752483981d697f6ee44c3e9694",
+      "title": "A system for algorithm animation tutorial and user manual"
+    },
+    {
+      "paperId": "defbb553d2d1766de94f2d1bed6aa65f35fb4999",
+      "title": "A programmer's interface: a visually enhanced and animated programming environment"
+    },
+    {
+      "paperId": "0003005e6dff60b841035819b0e8b2e455c0a8db",
+      "title": "A three-dimensional representation for program execution"
+    },
+    {
+      "paperId": "76d013fae4d6bce9530ca8b477aeb78b4831dc00",
+      "title": "A declarative approach to visualizing concurrent computations"
+    },
+    {
+      "paperId": "b62dbe12558269670c18aaeeea025a0d0d96ce86",
+      "title": "Structured flowcharts outperform pseudocode: an experimental comparison"
+    },
+    {
+      "paperId": "8f9070e9d0f6233c35c5a71b1158274ca401542f",
+      "title": "The impact of structured editing on introductory computer science education: the results so far"
+    },
+    {
+      "paperId": "0cc6f6ac7459ad6ea65f8a3c39d2e588d341193b",
+      "title": "Principles of Visual Programming Systems"
+    },
+    {
+      "paperId": "a53463893ea6c0abb3e7abbf5f71104811502e1b",
+      "title": "Graphical specification of algorithm animations with ALADDIN"
+    },
+    {
+      "paperId": "1de5798f085ec5d88e8c03855d58925c956a7ae1",
+      "title": "The Transparent Prolog Machine (TPM): An Execution Model and Graphical Debugger for Logic Programming"
+    },
+    {
+      "paperId": "57529f0d1f39e10fdcedf084a25f1d023a7977e1",
+      "title": "Automatic data visualization for novice Pascal programmers"
+    },
+    {
+      "paperId": "28485b9b8a3e48a05e14d30bbb5bbabc2482407b",
+      "title": "Exploring algorithms using Balsa-II"
+    },
+    {
+      "paperId": "4bcae55774e62ed9bb40be2707c501152f15c454",
+      "title": "Understanding concurrent programming through program animation"
+    },
+    {
+      "paperId": "0d5d9c7bff298475cc2e0d0c9d06465ecd7b3d13",
+      "title": "Visual programming, programming by example, and program visualization: a taxonomy"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "609eba3ea206b1a1d26b51aebb04b714b63ca3ff",
+      "title": "Design principles for the enhanced presentation of computer program source text"
+    },
+    {
+      "paperId": "9608f7f0237aaa9fd365f6a89a1155cdabc35bcb",
+      "title": "Animating Programs Using Smalltalk"
+    },
+    {
+      "paperId": "927fba31239c3077222bf3c7ab9c393203f4a612",
+      "title": "Diagramming techniques for analysts and programmers"
+    },
+    {
+      "paperId": "029e92d61cfc87c0781dde1b47ffaafa481207f9",
+      "title": "Steps toward better debugging tools for LISP"
+    },
+    {
+      "paperId": "54466d0d62929cf3d9c780c4b2f477820669f073",
+      "title": "A system for algorithm animation"
+    },
+    {
+      "paperId": "81cfedc5df419e25f3cfd51412e40c14dfc18760",
+      "title": "Program indentation and comprehensibility"
+    },
+    {
+      "paperId": "37719b75c90f838b7c9c119727b9e79464bcec77",
+      "title": "INCENSE: A system for displaying data structures"
+    },
+    {
+      "paperId": "98f9d8427570b36201fb036ad5d34826ba34e712",
+      "title": "Personal computer networks and graphical animation: Rationale and practice for education"
+    },
+    {
+      "paperId": "df6e89d8a42b5fe7b614aaa7e485ef1551a422e2",
+      "title": "Indentation, documentation and programmer comprehension"
+    },
+    {
+      "paperId": "ba7cb4719f7dd85c0980a94286becc4826f93990",
+      "title": "An automatic formatting program for PASCAL"
+    },
+    {
+      "paperId": "ca4cd5bbfd98de067cba50325e00c2c4ae4590fb",
+      "title": "Linear flowchart generator for a structured language"
+    },
+    {
+      "paperId": "fb3e7a0d14a62d7abe6be1cb395852699394efc6",
+      "title": "Flowchart techniques for structured programming"
+    },
+    {
+      "paperId": "b438a87ff740647bc4471f8486337cec6db6b301",
+      "title": "NEATER2"
+    },
+    {
+      "paperId": "e52924efad15d1c3cd464e1e27e031dbfe722a11",
+      "title": "A programmer's description of L6"
+    },
+    {
+      "paperId": "bfaf9f138b54a6e8f1093078672ce0f8368bc280",
+      "title": "Computer-drawn flowcharts"
+    },
+    {
+      "paperId": "ca2a07571305aef0df3b042cfb76ee7f2a490e1f",
+      "title": "Software visualization as a pedagogical tool"
+    },
+    {
+      "paperId": null,
+      "title": "ANIM. Murray Hill, NJ: AT&T Bell Laboratories. a collection of ANSI C programs used to visualize programs, runs on any UNIX computer. available by anonymous ftp from research"
+    },
+    {
+      "paperId": null,
+      "title": "LogoMedia. Toronto, Canada: Department of Computer Science. Logo Programming Environment supporting audio visualization, runs on Macintosh II compatibles. available by anonymous ftp from hcrl.open.ac"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing Program Behavior Using Non-speech Audio"
+    },
+    {
+      "paperId": null,
+      "title": "From Proofs to Pictures. 14 minute colour S-VHS videotape with sound"
+    },
+    {
+      "paperId": null,
+      "title": "XTango"
+    },
+    {
+      "paperId": null,
+      "title": "TPM for Macintosh"
+    },
+    {
+      "paperId": null,
+      "title": "ObjectCenter Reference"
+    },
+    {
+      "paperId": null,
+      "title": "An Architecture for Visualising the Execution of Parallel Logic Programming"
+    },
+    {
+      "paperId": null,
+      "title": "Micro Interpreter for Knowledge Engineering (MIKE)"
+    },
+    {
+      "paperId": null,
+      "title": "TPM for Sun. Cambridge, UK: Expert Systems Ltd. Interpreter and Graphical Tracer for Prolog, runs on Sun Microsystems Machines. available from Expert Systems Ltd"
+    },
+    {
+      "paperId": null,
+      "title": "Pascal Genie. (ver. version 1.0) San Diego, CA: Chariot Software Group. Pascal programming environment with integrated structure-driven editor, runs on Macintosh Computers"
+    },
+    {
+      "paperId": null,
+      "title": "The Automatic Animation of Concurrent Programs"
+    },
+    {
+      "paperId": "55cbeb614d31b7b0b74d851b86e6f9737a95cf9c",
+      "title": "Human factors and typography for more readable programs"
+    },
+    {
+      "paperId": "f344e618fa8e5b3e52784310ddad1b9e54f0aeb4",
+      "title": "Visual Programming Environments: Paradigms and Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Diffusing Computations. 7 minute silent, colour S-VHS videotape"
+    },
+    {
+      "paperId": null,
+      "title": "The University of Washington Program Illustrator (UWPI) Common Lisp/CLX source code for an automatic Pascal algorithm animation system, runs on Unix Workstations. available by anonymous ftp from june"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Models of PARLOG Execution"
+    },
+    {
+      "paperId": null,
+      "title": "Talking and Listening to Computers"
+    },
+    {
+      "paperId": "646f70d6ddbbac98143605b3e8255cf522d5199b",
+      "title": "Animation at the interface"
+    },
+    {
+      "paperId": null,
+      "title": "A Knowledge Engineering Toolkit, part I"
+    },
+    {
+      "paperId": "bcf8fb6f02879722eebb10620f0a7e4262f3ee4f",
+      "title": "Visual Programming: Perspectives and Approaches"
+    },
+    {
+      "paperId": null,
+      "title": "Program Visualization: Static Typographic Visualization in an Interactive Environment"
+    },
+    {
+      "paperId": "1d7aa08c118dbdd6f6f0ff495042c362979d257f",
+      "title": "Algorithm animation"
+    },
+    {
+      "paperId": null,
+      "title": "CA: University of California at Berkeley. C program, runs on BSD Unix or derivatives. available with most UNIX system software"
+    },
+    {
+      "paperId": null,
+      "title": "Intensive Prolog, Associate Student Office (Course PD622)"
+    },
+    {
+      "paperId": "d998b86057fd457d19696291cc0bd49043e712ef",
+      "title": "Techniques for Algorithm Animation"
+    },
+    {
+      "paperId": "50028e5f3d42ba4e38904a14baa7b6ea87445cd9",
+      "title": "Progress report: Brown university instructional computing laboratory"
+    },
+    {
+      "paperId": "81ecd7489020252e34ff8e5e82ca98964b9b3135",
+      "title": "Literate Programming"
+    },
+    {
+      "paperId": "dc3efff8f3928bd544daaa2e89eaa62d1a8e5c96",
+      "title": "Sorting out sorting"
+    },
+    {
+      "paperId": "6f44e7d9bf6f8c298448e1746ba32c5bad30e9ad",
+      "title": "Displaying data structures for interactive debugging"
+    },
+    {
+      "paperId": "de42b848775f9fa1e4bff758ae04a54099c0c381",
+      "title": "and Machine"
+    },
+    {
+      "paperId": "744f1f7106d4dc948a8809c1fc5b5b0a355960da",
+      "title": "Two systems which produce animated representations of the execution of computer programs"
+    },
+    {
+      "paperId": null,
+      "title": "Programming Proverbs"
+    },
+    {
+      "paperId": null,
+      "title": "Experiments in On - Line Graphical Debugging : The Interrogation of Complex Data Structures ( Summary Only )"
+    },
+    {
+      "paperId": null,
+      "title": "L[6]: Part II. An Example of L[6] Programming. 16 mm black and white sound film, 30 minutes"
+    },
+    {
+      "paperId": null,
+      "title": "Collected Works (pp. 80-151)"
+    },
+    {
+      "paperId": null,
+      "title": "A Program to Draw Multi - Level Flow Charts"
+    },
+    {
+      "paperId": "85e9e1b27150bbb6455e9925efcb5731a4f425a2",
+      "title": "Planning and coding of problems for an Electronic Computing Instrument"
+    },
+    {
+      "paperId": null,
+      "title": "Proceedings of Human Factors in Computing Systems (CHI '91)"
+    }
+  ]
+}

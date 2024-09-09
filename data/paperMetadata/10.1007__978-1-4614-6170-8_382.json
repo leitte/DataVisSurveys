@@ -1,0 +1,182 @@
+{
+  "paperId": "afe76102d8b57caf8b2330d1f88b651638e3183e",
+  "externalIds": {
+    "ArXiv": "1409.5034",
+    "DBLP": "journals/corr/ZaidiMS14",
+    "MAG": "1801178958",
+    "DOI": "10.1007/978-1-4614-6170-8_382",
+    "CorpusId": 616854
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/afe76102d8b57caf8b2330d1f88b651638e3183e",
+  "title": "Analysis and Visualization of Dynamic Networks",
+  "abstract": null,
+  "venue": "Encyclopedia of Social Network Analysis and Mining",
+  "year": 2014,
+  "referenceCount": 28,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1409.5034",
+    "status": "CLOSED"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Physics",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-09-17",
+  "journal": {
+    "name": "ArXiv",
+    "volume": "abs/1409.5034"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zaidi2014AnalysisAV,\n author = {Faraz Zaidi and C. Muelder and A. Sallaberry},\n booktitle = {Encyclopedia of Social Network Analysis and Mining},\n journal = {ArXiv},\n title = {Analysis and Visualization of Dynamic Networks},\n volume = {abs/1409.5034},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "6120512",
+      "name": "Faraz Zaidi"
+    },
+    {
+      "authorId": "1726219",
+      "name": "C. Muelder"
+    },
+    {
+      "authorId": "1761813",
+      "name": "A. Sallaberry"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "18b602a1be7705ac4520508554c284d2c35a8212",
+      "title": "Clustering, Visualizing, and Navigating for Large Dynamic Graphs"
+    },
+    {
+      "paperId": "2b062b51aa7fcf5f7bcdf245e28ab15dbd2e34f7",
+      "title": "Parallel Edge Splatting for Scalable Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "87b81de77257e61c4210cef1bf4228925fa9ab98",
+      "title": "Temporal Networks"
+    },
+    {
+      "paperId": "72e7122c41d5d37f81c1fe52e2a0124213c32f52",
+      "title": "Communities and hierarchical structures in dynamic social networks: analysis and visualization"
+    },
+    {
+      "paperId": "05c24763d5db30c56154080e0e49447fae459f73",
+      "title": "Time-varying graphs and dynamic networks"
+    },
+    {
+      "paperId": "71cb48515c3ef6172aa89bd0b941709e7266ba81",
+      "title": "Detection of Overlapping Communities in Dynamical Social Networks"
+    },
+    {
+      "paperId": "48fa66a9066a1188da5385100585256974104a9b",
+      "title": "Network Analysis in the Social Sciences"
+    },
+    {
+      "paperId": "5695247683904038243b3bad043e6516ba234862",
+      "title": "Dynamic modularity in protein interaction networks predicts breast cancer outcome"
+    },
+    {
+      "paperId": "f39090f2c53c4801908328ba85c8f007620c0d59",
+      "title": "Estimating time-varying networks"
+    },
+    {
+      "paperId": "b7b939dccf77552f41c1247410a41abbf8fe431b",
+      "title": "A survey of visualization tools for biological network analysis"
+    },
+    {
+      "paperId": "855cca47ff5d9af0d3b2367b6a0a241f4f8361bf",
+      "title": "Extremes Are Better: Investigating Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "3dec15e49e90100a2d38cd8906a45c3bd2052f73",
+      "title": "Research Note - Towards Dynamic Visualization for Understanding Evolution of Digital Communication Networks"
+    },
+    {
+      "paperId": "7f08b11cfc5d2b516077e30830ee9fb995562a20",
+      "title": "The Development of Social Network Analysis: A Study in the Sociology of Science"
+    },
+    {
+      "paperId": "43c6e9f9ce7909fdc3c05b36e02531e0f009d355",
+      "title": "Tracking the ends: a dynamic protein network controls the fate of microtubule tips"
+    },
+    {
+      "paperId": "9876b78e7a559b927e987604006c1fee64031d58",
+      "title": "Tools for visually exploring biological networks"
+    },
+    {
+      "paperId": "b5676837cb725e343cadae4f2acf4a6a98480e6a",
+      "title": "Online Dynamic Graph Drawing"
+    },
+    {
+      "paperId": "0da01e46389c46ae2c8daf677a5cc783730e06c6",
+      "title": "A Dynamic Social Network Software Platform for Counter-Terrorism Decision Support"
+    },
+    {
+      "paperId": "db05bce6bf68d6b61f008150667bcaf1a514e64a",
+      "title": "An introduction to exponential random graph (p*) models for social networks"
+    },
+    {
+      "paperId": "7e8b294b8e589ba4134d1eb1ab88bc6a202e8db9",
+      "title": "Who Shall Survive"
+    },
+    {
+      "paperId": "b106a0f2e6f0ccd9142d666a2b190f67b4877096",
+      "title": "Network Analysis: Methodological Foundations (Lecture Notes in Computer Science)"
+    },
+    {
+      "paperId": "7e027afeb014d3740d2b9fbfbc1f78ce3b16597c",
+      "title": "Dynamic Network Visualization1"
+    },
+    {
+      "paperId": "d61031326150ba23f90e6587c13d99188209250e",
+      "title": "Collective dynamics of \u2018small-world\u2019 networks"
+    },
+    {
+      "paperId": "6ab10796ce5ed1b19d5454de5a3729d0e0fcbc9e",
+      "title": "Network Analysis: Methodological Foundations"
+    },
+    {
+      "paperId": "afd055e299d590df03d4fbd632a49845071567c0",
+      "title": "The Art and Science of Dynamic Network Visualization"
+    },
+    {
+      "paperId": "a828fd17399d0ec9f59801e21230e7f6391757f4",
+      "title": "Emergence of Scaling in Random Networks"
+    },
+    {
+      "paperId": null,
+      "title": "A novitiate in a period of change: An experimental and case study of social relationships"
+    },
+    {
+      "paperId": "39aadd7b9d2df7aff518ee5ce33fd16b45be8902",
+      "title": "Carnegie Mellon: Journal of Social Structure: Visualizing Social Networks Visualizing Social Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Journal of Graph Algorithms and Applications Embedding, Clustering and Coloring for Dynamic Maps 78 Hu Et Al. Embedding, Clustering and Coloring for Dynamic Maps"
+    }
+  ]
+}

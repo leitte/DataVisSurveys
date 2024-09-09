@@ -1,0 +1,344 @@
+{
+  "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+  "externalIds": {
+    "MAG": "1814571536",
+    "DBLP": "conf/kes/SilicB10",
+    "DOI": "10.1007/978-3-642-15390-7_4",
+    "CorpusId": 17289803
+  },
+  "publicationVenue": {
+    "id": "706555ea-04da-44b6-9485-9f9651fde003",
+    "name": "International Conference on Knowledge-Based Intelligent Information & Engineering Systems",
+    "type": "conference",
+    "alternate_names": [
+      "KES",
+      "International Conference on Knowledge-Based and Intelligent Information and Engineering Systems",
+      "Int Conf Knowledge-based Intell Inf  Eng Syst",
+      "Int Conf Knowledge-based Intell Inf Eng Syst"
+    ],
+    "url": "http://www.kesinternational.org/"
+  },
+  "url": "https://www.semanticscholar.org/paper/4e35f2a50cc1cd108491866e485ca165efa793bd",
+  "title": "Visualization of Text Streams: A Survey",
+  "abstract": null,
+  "venue": "International Conference on Knowledge-Based Intelligent Information & Engineering Systems",
+  "year": 2010,
+  "referenceCount": 70,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-09-08",
+  "journal": {
+    "pages": "31-43"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Silic2010VisualizationOT,\n author = {Artur Silic and B. D. Basic},\n booktitle = {International Conference on Knowledge-Based Intelligent Information & Engineering Systems},\n pages = {31-43},\n title = {Visualization of Text Streams: A Survey},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "31910039",
+      "name": "Artur Silic"
+    },
+    {
+      "authorId": "1747163",
+      "name": "B. D. Basic"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "3e326db0cd1fa3b83f9f63224f3440bc5723b417",
+      "title": "Visual analytics: how much visualization and how much analytics?"
+    },
+    {
+      "paperId": null,
+      "title": "Information Extraction: Algorithms and Prospects in a Retrieval Context"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "b3dbfa6d90f0322f6a4cff45d8b6750b01878cec",
+      "title": "Textual features for corpus visualization using correspondence analysis"
+    },
+    {
+      "paperId": "04c0806b9c4a6fbc600e7dd014d781b2640cf7ff",
+      "title": "User Engagement in Research Data Curation"
+    },
+    {
+      "paperId": "046f184210359342ef188b8bdd31683aad930808",
+      "title": "STORIES in Time: A Graph-Based Interface for News Tracking and Discovery"
+    },
+    {
+      "paperId": "db12c246207464154f8ac24bc16633400e01c056",
+      "title": "Meme-tracking and the dynamics of the news cycle"
+    },
+    {
+      "paperId": "7692fa9eb81c6be7c9a4e8344e1bbb457ea746b9",
+      "title": "Text mining and visualization tools - Impressions of emerging capabilities"
+    },
+    {
+      "paperId": "a99d14695596bd7706627732fb3717cad0c3773f",
+      "title": "Coordinated and Multiple Views for Visualizing Text Collections"
+    },
+    {
+      "paperId": "aa550882255ce8dc803700a32b9cc8849c67e70c",
+      "title": "Visualized Technique for Trend Analysis of News Articles"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "89cb6de0a78d18200adc46b073c92516df90be2d",
+      "title": "Text Visualization for Visual Text Analytics"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "4afec4162711614d69c0e167c09105560b317c7f",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "e7f6132bb7c95b6552ccae8c00c255f27c035c88",
+      "title": "Discovering interesting usage patterns in text collections: integrating text mining with visualization"
+    },
+    {
+      "paperId": "3d41c6f9bce5e663d1621eac7abbf224c762261f",
+      "title": "Sequential Document Visualization"
+    },
+    {
+      "paperId": "40276860174e3e8fc3abb894447fafb3c344bb5f",
+      "title": "NewsLab: Exploratory Broadcast News Video Analysis"
+    },
+    {
+      "paperId": "6c33d17688f772e62b0640e4e71eea41097b1b97",
+      "title": "T-Scroll: Visualizing Trends in a Time-Series of Documents for Interactive User Exploration"
+    },
+    {
+      "paperId": "bf1247294e2d30850431b27faf3a3f1b816e99e6",
+      "title": "Generating overview timelines for major events in an RSS corpus"
+    },
+    {
+      "paperId": "d1dd559a2f133bc5c8e461d3a96d78c24311d1c9",
+      "title": "Compression-based data mining of sequential data"
+    },
+    {
+      "paperId": "bfd0a4567793843ea738d56e0fbfc11db590cec2",
+      "title": "Book Reviews: Information Extraction: Algorithms and Prospects in a Retrieval Context by Marie-Francine Moens"
+    },
+    {
+      "paperId": "b309e5ba5dd1e4b1ec0d445449cce130f534e208",
+      "title": "User-directed Sentiment Analysis: Visualizing the Affective Content of Documents"
+    },
+    {
+      "paperId": "10e541776432a9c10db665e3f5b1c63bbc55203d",
+      "title": "Text Map Explorer: a Tool to Create and Explore Document Maps"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "602a685d87377f9cd0051ea6403bbf90b56c9514",
+      "title": "Content-based text mapping using multi-dimensional projections for exploration of document collections"
+    },
+    {
+      "paperId": "7a0e5002fbf02965b30c50540eabcaf6e2117e10",
+      "title": "Discovering evolutionary theme patterns from text: an exploration of temporal text mining"
+    },
+    {
+      "paperId": "daedb2a39cc641933bdf1b568e8ff2c3fa305f45",
+      "title": "Visualizing live text streams using motion and temporal pooling"
+    },
+    {
+      "paperId": "bf8d8a6421d83e7ea0f307d52f68ae765bc4e598",
+      "title": "A User's Guide to Principal Components: Jackson/User's Guide to Principal Components"
+    },
+    {
+      "paperId": "a99edf4b20c50d1cf30965c12f75b8a1a3bf513f",
+      "title": "Dynamic visualization of transient data streams"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "3a9cde15094affe0b97f71fdd82a004f69c7ae7f",
+      "title": "A Dynamic Probabilistic Model to Visualise Topic Evolution in Text Streams"
+    },
+    {
+      "paperId": "6b20af22b0734757d9ead382b201a65f9dd637cc",
+      "title": "Machine learning in automated text categorization"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "d69a63d9155eaaf678aad9a4803eee70e633a5e7",
+      "title": "Visual data mining"
+    },
+    {
+      "paperId": "65f798edabe8e385647abd384ee8b92ce11a69d1",
+      "title": "WEBSOM - Self-organizing maps of document collections"
+    },
+    {
+      "paperId": "0604cac9f8ae804ee7d111a208a92aef3d99e696",
+      "title": "Knowledge Mining With VxInsight: Discovery Through Interaction"
+    },
+    {
+      "paperId": "db9d421848dcfa43ce869bad4b3a8e1e049ee9ed",
+      "title": "TOPIC ISLANDS/sup TM/-a wavelet-based text visualization system"
+    },
+    {
+      "paperId": "90e471385e249fab2ec8c195e2b3b81acc21b592",
+      "title": "The STARLIGHT information visualization system"
+    },
+    {
+      "paperId": "14f157daceb1ef540a68f8aec39b41de4657690f",
+      "title": "Visualizing the non-visual: spatial analysis and interaction with information from text documents"
+    },
+    {
+      "paperId": "d111e38699be2510e4f1d1ac647f3340e11cd5f1",
+      "title": "Methodology matters: doing research in the behavioral and social sciences"
+    },
+    {
+      "paperId": "e4c5a8b374489c5af38bd4359f71e2155b96e5c5",
+      "title": "Self-Organizing Maps"
+    },
+    {
+      "paperId": "6d056449b563302986873b622d23aab23b482848",
+      "title": "Galaxy of news: an approach to visualizing and understanding expansive news landscapes"
+    },
+    {
+      "paperId": "1ac57524ba2d2a69c1bb6defed7352a06fd7050d",
+      "title": "Using Dynamic Time Warping to Find Patterns in Time Series"
+    },
+    {
+      "paperId": "e28a02ad268f6c06554e0ecf1d93db80b89aa06f",
+      "title": "Bead: explorations in information visualization"
+    },
+    {
+      "paperId": "eea094ba215c5a6b1b178fd3190f4e10b5d5ca98",
+      "title": "Graph drawing by force\u2010directed placement"
+    },
+    {
+      "paperId": "923dd1285fdce4835981d8b46abdb3d045ef557e",
+      "title": "A self-organizing semantic map for information retrieval"
+    },
+    {
+      "paperId": "8e17ec18f1765cbf83f2ef9a5a1941f8b55c41c0",
+      "title": "A User's Guide to Principal Components."
+    },
+    {
+      "paperId": "164125a65d42a791d2c1e108559344caef96d08b",
+      "title": "Indexing by Latent Semantic Analysis"
+    },
+    {
+      "paperId": "d5f169880e30e1f76827d72f862555d00b01bed9",
+      "title": "A vector space model for automatic indexing"
+    },
+    {
+      "paperId": "154f8a9906bcc99fca9b17aa521649b1c3734093",
+      "title": "A Nonlinear Mapping for Data Structure Analysis"
+    },
+    {
+      "paperId": "1896f3decd5bb14acfd2c0500272533b44cfda49",
+      "title": "Agent-based Visualization of Streaming Text"
+    },
+    {
+      "paperId": "8d95c8dbada3f07cbdcef7fe62e89047807a046c",
+      "title": "Milestones in the history of thematic cartography, statistica l graphics, and data visualization"
+    },
+    {
+      "paperId": "4e6cda8b16d78a90646b4447637de706f99cdcb8",
+      "title": "New Frontiers in Applied Artificial Intelligence, 21st International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2008, Wroclaw, Poland, June 18-20, 2008, Proceedings"
+    },
+    {
+      "paperId": "ace40ce1155d4db4b2a0d55d9df1fc1e22ad67c7",
+      "title": "Temporal-PEx : Similarity-based Visualization of Time Series"
+    },
+    {
+      "paperId": "274861e5841232f631d97188e0ddf38ad04561cb",
+      "title": "Graph-based Object Tracking Using Structural Pattern Recognition"
+    },
+    {
+      "paperId": "ebe0a1c4be8cc6ddc8d13089e21ea3ff6fecc74d",
+      "title": "Visualization of Text Document Corpus"
+    },
+    {
+      "paperId": "e87136eb647dd7b87739b35162b5ca8919948ee3",
+      "title": "Treemaps for space-constrained visualization of hierarchies"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Geometric approximations via coresets"
+    },
+    {
+      "paperId": "155d81d9f764de34c7234f0e3dc37a5bd297edee",
+      "title": "Concept Decompositions for Large Sparse Text Data Using Clustering"
+    },
+    {
+      "paperId": "76c33146e5d42acd647f1b9648c8b644b8a81710",
+      "title": "A Survey of Emerging Trend Detection in Textual Data Mining"
+    },
+    {
+      "paperId": "40d44fad89f4c49cf898766b7808185ba4a5a1c9",
+      "title": "Topic detection and tracking: event-based information organization"
+    },
+    {
+      "paperId": "e65d9385191c9289f5a2c5be76ac7908c0cc40aa",
+      "title": "TOPIC ISLANDS - a wavelet-based text visualization system"
+    },
+    {
+      "paperId": "4867438e85c7fce829e543418f5b5a3bbe003aee",
+      "title": "Visual Explanations"
+    },
+    {
+      "paperId": "83cc89f86b8d4e0727a50b8744f51f9919bcb7ad",
+      "title": "Self-Organizing Maps of Document Collections"
+    },
+    {
+      "paperId": null,
+      "title": "Clustering and dimensionality reduction in spire"
+    },
+    {
+      "paperId": "e3645109647b7c1620d9b248b4d2a7abb68081e9",
+      "title": "Correspondence analysis in practice"
+    },
+    {
+      "paperId": null,
+      "title": "52] http://irthoughts.wordpress.com/2007/05/03/demystifying-lsa-lsi-svd- pca-and-is-acronyms"
+    },
+    {
+      "paperId": null,
+      "title": "Microsoft pivot project"
+    }
+  ]
+}

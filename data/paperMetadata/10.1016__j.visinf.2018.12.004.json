@@ -1,0 +1,372 @@
+{
+  "paperId": "d318f1522abcff2b790f265ed4f196412f21a632",
+  "externalIds": {
+    "MAG": "2905990309",
+    "DBLP": "journals/vi/GhoshNMQM18",
+    "DOI": "10.1016/j.visinf.2018.12.004",
+    "CorpusId": 62877963
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/d318f1522abcff2b790f265ed4f196412f21a632",
+  "title": "A comprehensive review of tools for exploratory analysis of tabular industrial datasets",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2018,
+  "referenceCount": 72,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-12-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "235-253",
+    "volume": "2"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ghosh2018ACR,\n author = {Aindrila Ghosh and Mona Nashaat and James Miller and Shaikh Quader and Chad Marston},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {235-253},\n title = {A comprehensive review of tools for exploratory analysis of tabular industrial datasets},\n volume = {2},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "67131857",
+      "name": "Aindrila Ghosh"
+    },
+    {
+      "authorId": "145293513",
+      "name": "Mona Nashaat"
+    },
+    {
+      "authorId": "150154565",
+      "name": "James Miller"
+    },
+    {
+      "authorId": "51189125",
+      "name": "Shaikh Quader"
+    },
+    {
+      "authorId": "66968262",
+      "name": "Chad Marston"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5e82aada5bcc6d40e1462e70de0c935fceaba128",
+      "title": "Principal component analysis"
+    },
+    {
+      "paperId": "039ff6068331983ac0bb3d7b785d754efc2cf948",
+      "title": "Commercial Visual Analytics Systems\u2013Advances in the Big Data Analytics Field"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+      "title": "Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks"
+    },
+    {
+      "paperId": "4c0690560fc32d1d4e1e99c646e1294ce369e4a8",
+      "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification"
+    },
+    {
+      "paperId": "681660c6fbf9714e07ff9692f5b414e850a86c80",
+      "title": "Keshif: Rapid and Expressive Tabular Data Exploration for Novices"
+    },
+    {
+      "paperId": "305600f3cba8a63bad1bedeab34a299bf748754b",
+      "title": "Northstar: An Interactive Data Science System"
+    },
+    {
+      "paperId": "ead0796ee7b0bac73181087910caf93e9ed86b65",
+      "title": "RCLens: Interactive Rare Category Exploration and Identification"
+    },
+    {
+      "paperId": "679c780127ce31f2602c3cb5bb4c3ab93ff0eab8",
+      "title": "InfoNice: Easy Creation of Information Graphics"
+    },
+    {
+      "paperId": "12de191d40c9561e3b17b70df0c81ce8e0aa5023",
+      "title": "VisComposer: A Visual Programmable Composition Environment for Information Visualization"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+      "title": "The State of the Art in Sentiment Visualization"
+    },
+    {
+      "paperId": "b8dfea440f4f1a74f1ace66dd27db7e3052e61e6",
+      "title": "DataScope: Interactive visual exploratory dashboards for large multidimensional data"
+    },
+    {
+      "paperId": "57ac89c1a4babade3a771fe8cc598892bc89e4f6",
+      "title": "Adaptive Sampling for Rapidly Matching Histograms"
+    },
+    {
+      "paperId": "2d1ab0911fe6db7b8b2bdc77d6b4213d21ef1521",
+      "title": "Foresight: Recommending Visual Insights"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "58410da56a7ae9cac486ed288f1ebef9091c59a6",
+      "title": "ChartAccent: Annotation for data-driven storytelling"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "bae6018e5bcacce92309113386e2f7fa69be7847",
+      "title": "Analyza: Exploring Data with Conversation"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "4d1f39001282d5e77be6a2038673ab92389df62c",
+      "title": "DimScanner: A relation-based visual exploration approach towards data dimension inspection"
+    },
+    {
+      "paperId": "ae749d592747cafbf7455243bd864498ff9cdeca",
+      "title": "Tools for Educational Data Mining"
+    },
+    {
+      "paperId": "613b7fbfe7adaa950cd3b8643b5c12ad00879182",
+      "title": "Exploring and visualizing multidimensional data in translational research platforms"
+    },
+    {
+      "paperId": "ec2736a8644332e36516a6d08864f5f9cde8abb3",
+      "title": "Interactive Visualization of Large Data Sets"
+    },
+    {
+      "paperId": "b41761392859fdc7a4345e8b5d259c3c62c94740",
+      "title": "VisTrees: fast indexes for interactive data exploration"
+    },
+    {
+      "paperId": "f53e9e29f978bd09fe3d273c4812a0927d49fe98",
+      "title": "Dynamic Prefetching of Data Tiles for Interactive Visualization"
+    },
+    {
+      "paperId": "a36336247196aa73ca68a0a563f52c05471022d5",
+      "title": "Interacting with Large Distributed Datasets Using Sketch"
+    },
+    {
+      "paperId": "ded4bea0c3dfdd2fe9f1f0f65519a5ffbe432223",
+      "title": "TaCo: Comparative Visualization of Large Tabular Data"
+    },
+    {
+      "paperId": "c63b98fbbbd5cd42b9e2ebe14a73d4bf608b2b22",
+      "title": "Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System"
+    },
+    {
+      "paperId": "e1447ea1d9652ec6a1380b92667b2498c065216a",
+      "title": "AggreSet: Rich and Scalable Set Exploration using Visualizations of Element Aggregations"
+    },
+    {
+      "paperId": "a638bde6bd0f64af4c2c4c2673519e4cd242ffeb",
+      "title": "Data Visualization: An Exploratory Study into the Software Tools Used by Businesses."
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "e46bc3f36b68ef6cb2a2a35ffdb6e4a62b4864b3",
+      "title": "Big Data and Visualization: Methods, Challenges and Technology Progress"
+    },
+    {
+      "paperId": "16fee4f4a842540eb657fdee336bcd2d112d81da",
+      "title": "Overview of Data Exploration Techniques"
+    },
+    {
+      "paperId": "1e4709c0b8fe3bf759cd64dc1ede695d6e5316f0",
+      "title": "Deep learning applications and challenges in big data analytics"
+    },
+    {
+      "paperId": "e5c2b35639c9f6f6fdcbff20e8e84e0f62e510be",
+      "title": "Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations"
+    },
+    {
+      "paperId": "b09821a0f0c3ad63ddf9604844f99ff7e9cba506",
+      "title": "PanoramicData: Data Analysis through Pen & Touch"
+    },
+    {
+      "paperId": "b287f8baef820d2039596f13b86aff4aa1ccd7ec",
+      "title": "Footprints: A Visual Search Tool that Supports Discovery and Coverage Tracking"
+    },
+    {
+      "paperId": "5e848e0f8ab89ca821b00ed01b3cf78d6d7988b8",
+      "title": "iVisDesigner: Expressive Interactive Design of Information Visualizations"
+    },
+    {
+      "paperId": "92f36007d016049f7bf3e47a804e3a99093bcada",
+      "title": "UpSet: Visualization of Intersecting Sets"
+    },
+    {
+      "paperId": "04898ad48340372c138e23184dfab892fb5d33bc",
+      "title": "Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "dae2c3968fa06688cd99b2e024416dfcd50a36f7",
+      "title": "Lyra: An Interactive Visualization Design Environment"
+    },
+    {
+      "paperId": "b90bad831de7b112b6759fbdff00209fe6aa0320",
+      "title": "Authoring Narrative Visualizations with Ellipsis"
+    },
+    {
+      "paperId": "a603c906488330e65854edb043746a27ca6efe86",
+      "title": "VisReduce: Fast and responsive incremental information visualization of large datasets"
+    },
+    {
+      "paperId": "de5a1189daade237fc92d0ebb802242f53a9fe1c",
+      "title": "LineUp: Visual Analysis of Multi-Attribute Rankings"
+    },
+    {
+      "paperId": "f5bdb05e22c8a09b3b3d201b76551689195e6788",
+      "title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets"
+    },
+    {
+      "paperId": "bc93bfc83644e48a8d58208e31e5e605ccadf607",
+      "title": "SketchStory: Telling More Engaging Stories with Data through Freeform Sketching"
+    },
+    {
+      "paperId": "dc39c68a00e38f2993b450eb01c96e1d032ab850",
+      "title": "imMens: Real\u2010time Visual Querying of Big Data"
+    },
+    {
+      "paperId": "53c3f11a84c3c3d7284ab851db7b9b9a48e56fdb",
+      "title": "ExPlates: Spatializing Interactive Analysis to Scaffold Visual Exploration"
+    },
+    {
+      "paperId": "b14655fe4b80d5e2ee063e5d405ef6c51e95204e",
+      "title": "A survey of tools for variant analysis of next-generation genome sequencing data"
+    },
+    {
+      "paperId": "a9a84242cf78a9b277fce869f8bbfa7bfacfbc38",
+      "title": "Big Data: Issues and Challenges Moving Forward"
+    },
+    {
+      "paperId": "87fc322b992c1881854c1e2a0e36ef5b6f739071",
+      "title": "Idempotence is not a medical condition"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "4ff1f2fff62e899f4b9f507b2eb4bb297b7febc2",
+      "title": "Data and Information Visualization Methods, and Interactive Mechanisms: A Survey"
+    },
+    {
+      "paperId": "6920a43dc904b8e7d3868c9f906b10aaf3fd72b3",
+      "title": "A protocol for data exploration to avoid common statistical problems"
+    },
+    {
+      "paperId": "b6ed57495d422ad12f07b899eba926d78ad96d49",
+      "title": "Statistical challenges of high-dimensional data"
+    },
+    {
+      "paperId": "24b11e369c41137e30ed026061bcfc66855e6832",
+      "title": "Guide to Advanced Empirical Software Engineering"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "7b587c301f00a3d56166739a0ab9c9cdd74738e6",
+      "title": "Principal component analysis"
+    },
+    {
+      "paperId": "338ad2465d00c381b1e12b6f8c75e2eb9d173e25",
+      "title": "MyBrush: Brushing and Linking with Personal Agency"
+    },
+    {
+      "paperId": "69353143b97355c954f132d6c723002842cf2d37",
+      "title": "Podium: Ranking Data Using Mixed-Initiative Visual Analytics"
+    },
+    {
+      "paperId": "8c6b570c0da2ee31ba8c646302b453688e229510",
+      "title": "TACO: Visualizing Changes in Tables Over Time"
+    },
+    {
+      "paperId": "54ee592d912ff85bde5f99c2d87364bae8534937",
+      "title": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "paperId": "b64292809d4026d5ed6dbfbcbb77fcd03ffcb8f5",
+      "title": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "paperId": "7aea741d827a443a9df7ad75545b6b1c695dbd67",
+      "title": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "paperId": null,
+      "title": "Computing, cognition and the future of knowing, Whitepaper"
+    },
+    {
+      "paperId": "a963d05b9d4acd347ad528e7d098eb53d8f555a2",
+      "title": "Systematic literature reviews in software engineering - A systematic literature review"
+    },
+    {
+      "paperId": "8e8c7ed7675b1002c924fe727e4261f8cd099ce1",
+      "title": "A Survey on Multivariate Data Visualization"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    }
+  ]
+}

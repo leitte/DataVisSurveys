@@ -1,0 +1,209 @@
+{
+  "paperId": "b2ec705de807615889adc0daa343842ec227d6b5",
+  "externalIds": {
+    "MAG": "2117895438",
+    "DBLP": "journals/ivs/DodgeWL08",
+    "DOI": "10.1057/PALGRAVE.IVS.9500182",
+    "CorpusId": 12879375
+  },
+  "publicationVenue": {
+    "id": "0fd8155f-f062-4fd5-b087-891322d6f705",
+    "name": "Information Visualization",
+    "type": "journal",
+    "alternate_names": [
+      "Information Visualisation",
+      "Inf Vis"
+    ],
+    "issn": "1473-8716",
+    "alternate_issns": [
+      "1550-6037"
+    ],
+    "url": "http://www.palgrave-journals.com/ivs/index.html",
+    "alternate_urls": [
+      "http://ivi.sagepub.com/",
+      "http://csdl2.computer.org/persagen/DLPublication.jsp?acronym=IV&pubtype=p",
+      "https://journals.sagepub.com/home/ivi",
+      "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000370"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/b2ec705de807615889adc0daa343842ec227d6b5",
+  "title": "Towards a taxonomy of movement patterns",
+  "abstract": null,
+  "venue": "Information Visualization",
+  "year": 2008,
+  "referenceCount": 32,
+  "openAccessPdf": {
+    "url": "https://www.zora.uzh.ch/id/eprint/9627/10/2008_Dodge_etal_IV_2008_MoveAnalysisTaxonomy_preprint.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2008-06-01",
+  "journal": {
+    "name": "Information Visualization",
+    "pages": "240 - 252",
+    "volume": "7"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Dodge2008TowardsAT,\n author = {S. Dodge and R. Weibel and A. Lautensch\u00fctz},\n booktitle = {Information Visualization},\n journal = {Information Visualization},\n pages = {240 - 252},\n title = {Towards a taxonomy of movement patterns},\n volume = {7},\n year = {2008}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3240918",
+      "name": "S. Dodge"
+    },
+    {
+      "authorId": "145525783",
+      "name": "R. Weibel"
+    },
+    {
+      "authorId": "2840030",
+      "name": "A. Lautensch\u00fctz"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "44812b6e22f0dc28fe699aa7e834d540e4e59d7b",
+      "title": "Spatio-Temporal Databases: Flexible Querying and Reasoning"
+    },
+    {
+      "paperId": "3a15b30f1276aaf8f6f211c52f241295ce0bbe3e",
+      "title": "Mobility, Data Mining and Privacy: Geographic Knowledge Discovery"
+    },
+    {
+      "paperId": "00ffc5b3ae0b8f9440bf490f1daf11f9e06548c2",
+      "title": "Computation and visualization for understanding dynamics in geographic domains - a research agenda"
+    },
+    {
+      "paperId": "0965b57a48395255b1db8a27a6086109062cb18e",
+      "title": "Movement beyond the snapshot - Dynamic analysis of geospatial lifelines"
+    },
+    {
+      "paperId": "66975386bc8a1822059a87fc10cc891f91c4a4d6",
+      "title": "Designing Visual Analytics Methods for Massive Collections of Movement Data"
+    },
+    {
+      "paperId": "b43e627c00bdd71dc061c52d635c5beecdb66295",
+      "title": "Reporting leadership patterns among trajectories"
+    },
+    {
+      "paperId": "90e749fb9419e7201eef4747850247b2ffaf3901",
+      "title": "Computing longest duration flocks in trajectory data"
+    },
+    {
+      "paperId": "83c83f36b43733830642f3a200555e5af69ba8de",
+      "title": "Reporting flock patterns"
+    },
+    {
+      "paperId": "2d71bf0312f4c6186994410b641a667422a93338",
+      "title": "An approach to evaluating motion pattern detection techniques in spatio-temporal data"
+    },
+    {
+      "paperId": "055c2d9bdb09f7d728fa875eedd30e465ae2e6ac",
+      "title": "Mining frequent spatio-temporal sequential patterns"
+    },
+    {
+      "paperId": "02947381dc4addc11b17cb5ebfb9f409e55c707d",
+      "title": "On Discovering Moving Clusters in Spatio-temporal Data"
+    },
+    {
+      "paperId": "1d4f9ed898b3105119c0b0fe942626476d22173d",
+      "title": "Discovering relative motion patterns in groups of moving point objects"
+    },
+    {
+      "paperId": "f7205609aee062c097fb55eba601ca84598530e0",
+      "title": "Efficient detection of motion patterns in spatio-temporal data sets"
+    },
+    {
+      "paperId": "e030eb2c1611d72ba7c18ce1e0bbacf5097c58d3",
+      "title": "Temporal moving pattern mining for location-based service"
+    },
+    {
+      "paperId": "955442e78de3759d555bd09eb0a912f0ab7d42e6",
+      "title": "How to reliably estimate the tortuosity of an animal's path: straightness, sinuosity, or fractal dimension?"
+    },
+    {
+      "paperId": "07ef53fe50cb77d4f6b282954ab57b9c0104b801",
+      "title": "Analyzing Relative Motion within Groups of Trackable Moving Point Objects"
+    },
+    {
+      "paperId": "6dfdbf4f3037a0c226e80ca2bf434964ab58e791",
+      "title": "Geographic Data Mining and Knowledge Discovery"
+    },
+    {
+      "paperId": "178dc4cd8c23f07d10ffd3797d5977c76f3dde15",
+      "title": "Identifying fixations and saccades in eye-tracking protocols"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "9922d9aa363ceccf40dcee230a48ee3c9e8611ff",
+      "title": "Mining sequential patterns"
+    },
+    {
+      "paperId": "07d526e3462edd70714b31b1589bfced63203106",
+      "title": "Movement Patterns in Spatio-temporal Data"
+    },
+    {
+      "paperId": "2f2e38d029c4219bb96eb78f308402ca2af7a3b8",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "URL of the Movement Pattern Wiki: http://movementpatterns.pbwiki.com/Patterns-ofMovement"
+    },
+    {
+      "paperId": "baae9e82a05838063130fd233c9a1bca0c9eec9b",
+      "title": "Analysing point motion: spatio-temporal data mining of geospatial lifelines"
+    },
+    {
+      "paperId": "ee630a090ffde998c849fc8e7367817dc01e602f",
+      "title": "Finding REMO - Detecting Relative Motion Patterns in Geospatial Lifelines"
+    },
+    {
+      "paperId": "dceb9172df4db4fea0198f55f2f11dd2ec72288a",
+      "title": "Toward Spatio-Temporal Patterns"
+    },
+    {
+      "paperId": "432672fafe125435b43f891fa97496985a719b15",
+      "title": "Advances in Spatial and Temporal Databases"
+    },
+    {
+      "paperId": "73467ecc16582e945e12a02c83bcdee424bf2725",
+      "title": "Mining mobile trajectories"
+    },
+    {
+      "paperId": "ff2d06feadd2cad39c1dde2a18f227bfc91af0ca",
+      "title": "Time, points and space - towards a better analysis of wildlife data in GIS"
+    },
+    {
+      "paperId": "bfa5d12f4deff620b1ca80b2622793faa1d2c370",
+      "title": "Quantitative analysis of movement : measuring and modeling population redistribution in animals and plants"
+    },
+    {
+      "paperId": "b2955f9cea495cf289f462409ad9f3d3d64776d7",
+      "title": "Human Simulation of Adaptive Behavior: Interactive studies of pursuit, evasion, courtship, fighting, and play"
+    },
+    {
+      "paperId": null,
+      "title": "of the Movement Pattern Wiki"
+    }
+  ]
+}

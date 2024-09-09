@@ -1,0 +1,359 @@
+{
+  "paperId": "b1c44e300a049eac54157690ad4da39ee408afff",
+  "externalIds": {
+    "DBLP": "journals/vi/WangZWSL22",
+    "DOI": "10.1016/j.visinf.2022.09.001",
+    "CorpusId": 252151657
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/b1c44e300a049eac54157690ad4da39ee408afff",
+  "title": "Visualization and visual analysis of multimedia data in manufacturing: A survey",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2022,
+  "referenceCount": 69,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-09-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "12-21",
+    "volume": "6"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wang2022VisualizationAV,\n author = {Yunchao Wang and Zihao Zhu and Lei Wang and Guodao Sun and Ronghua Liang},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {12-21},\n title = {Visualization and visual analysis of multimedia data in manufacturing: A survey},\n volume = {6},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2158363076",
+      "name": "Yunchao Wang"
+    },
+    {
+      "authorId": "2112485493",
+      "name": "Zihao Zhu"
+    },
+    {
+      "authorId": "36547165",
+      "name": "Lei Wang"
+    },
+    {
+      "authorId": "47333988",
+      "name": "Guodao Sun"
+    },
+    {
+      "authorId": "4487395",
+      "name": "Ronghua Liang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7d6a0d2afe52edeca32a6eeca4363db6d523b624",
+      "title": "Situated Visual Analysis and Live Monitoring for Manufacturing"
+    },
+    {
+      "paperId": "3df45eb8b0c0faa5b805fd73046b7765ffc74b2e",
+      "title": "AFExplorer: Visual analysis and interactive selection of audio features"
+    },
+    {
+      "paperId": "ea6dd8494b75b735c569a11a80dddba353756474",
+      "title": "A sequential roadmap to Industry 6.0: Exploring future manufacturing trends"
+    },
+    {
+      "paperId": "64d7a221556b67731f7707909ed581cabc88df6e",
+      "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse"
+    },
+    {
+      "paperId": "f9f3a1d36d54b30ef6bdb9eeefa42c6dc1c2f9c9",
+      "title": "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports"
+    },
+    {
+      "paperId": "a181d24c3629c1815be117b44dd2c2f630f5e1c6",
+      "title": "IRVINE: A Design Study on Analyzing Correlation Patterns of Electrical Engines"
+    },
+    {
+      "paperId": "8857482765fa8500b0bdfd9c120df0e4a06416da",
+      "title": "Dynamic graph exploration by interactively linked node-link diagrams and matrix visualizations"
+    },
+    {
+      "paperId": "6bfc1f7c9b2551be477c904b8b6516b477626fb0",
+      "title": "RCDVis: interactive rare category detection on graph data"
+    },
+    {
+      "paperId": "7fc13ea2ab77136973227202e853acbbbfc38af5",
+      "title": "Evaluating Effects of Background Stories on Graph Perception"
+    },
+    {
+      "paperId": "163145c699d8bbf6c5f8c4ae84069b1c6705abbb",
+      "title": "An interactive resource value mapping tool to support the reduction of inefficiencies in smart manufacturing processes"
+    },
+    {
+      "paperId": "181b9f2174ffacf36de6dc7bdc50a7650a9fb8d5",
+      "title": "A digital-twin visualized architecture for Flexible Manufacturing System"
+    },
+    {
+      "paperId": "1a028a6801db1cffb76f6ded50dd4b78e49d3343",
+      "title": "Untidy Data: The Unreasonable Effectiveness of Tables"
+    },
+    {
+      "paperId": "bbef4ceb457f0ce098edc1b2742038764bcf7bdf",
+      "title": "Toward a Web-Based Digital Twin Thermal Power Plant"
+    },
+    {
+      "paperId": "f2bd084bb3278b29910ff72de0bc674f4f4068e8",
+      "title": "Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality"
+    },
+    {
+      "paperId": "5e826e346bf0888e106f71573b5d61bf5d142386",
+      "title": "Vinci: An Intelligent Graphic Design System for Generating Advertising Posters"
+    },
+    {
+      "paperId": "ef128b46edf70390c1861d5cea47192a7d9908c5",
+      "title": "What are Table Cartograms Good for Anyway? An Algebraic Analysis"
+    },
+    {
+      "paperId": "94785f20346fd8ac63cf387bf490eef4630e2624",
+      "title": "Explainable Artificial Intelligence for Manufacturing Cost Estimation and Machining Feature Visualization"
+    },
+    {
+      "paperId": "deeb1258396d281bdcdaded26f1f1a19973f2ad2",
+      "title": "A survey of visual analytics techniques for machine learning"
+    },
+    {
+      "paperId": "3725a0babf1c34f159e1e6c6b8c33714fd563b79",
+      "title": "VizCommender: Computing Text-Based Similarity in Visualization Repositories for Content-Based Recommendations"
+    },
+    {
+      "paperId": "b88b6e91a74c49c8e13cc56ed2df5774b64103e6",
+      "title": "Data dimensionality reduction techniques for Industry 4.0: Research results, challenges, and future research directions"
+    },
+    {
+      "paperId": "00b4217724ec58ddade1e405bdec896ef799d844",
+      "title": "Markerless cooperative augmented reality-based smart manufacturing double-check system: Case of safe PCBA inspection following automatic optical inspection"
+    },
+    {
+      "paperId": "4c85f736fc1c5404777c51e1897b7cf3a15be35c",
+      "title": "SafetyLens: Visual Data Analysis of Functional Safety of Vehicles"
+    },
+    {
+      "paperId": "8ea52e305210fa129134f14830448490cb4c7526",
+      "title": "Evolution and Emerging Trends of Sustainability in Manufacturing Based on Literature Visualization Analysis"
+    },
+    {
+      "paperId": "9bd52f3cd7e1643fb4410c370d4d83276c255279",
+      "title": "Warehouse Vis: A Visual Analytics Approach to Facilitating Warehouse Location Selection for Business Districts"
+    },
+    {
+      "paperId": "de38f60327dddafb96d79c7590f0289868629253",
+      "title": "PAVED: Pareto Front Visualization for Engineering Design"
+    },
+    {
+      "paperId": "79f6aaae4c9233bd8818ccb7cb751194293acb6a",
+      "title": "Operation Procedures of a Work-Center-Level Digital Twin for Sustainable and Smart Manufacturing"
+    },
+    {
+      "paperId": "ddf12b1f26022f1a84683a281c7ca65e1e642141",
+      "title": "Augmented Reality Training for Industrial Assembly Work - Are Projection-based AR Assistive Systems an Appropriate Tool for Assembly Training?"
+    },
+    {
+      "paperId": "971c35bcab25fbf4fd4bb6e128cf2586f0ab1d67",
+      "title": "Manufacturing big data ecosystem: A systematic literature review"
+    },
+    {
+      "paperId": "81cb383fa16e752b6209b9039ca08c01dedd94a6",
+      "title": "Machining accuracy detection of PCB hole by X-ray micro-CT."
+    },
+    {
+      "paperId": "a0d763d183d735201249c21f1afdeb025c49f112",
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data"
+    },
+    {
+      "paperId": "1706de5f285e0f07bf732a0b88c808dd908f0e3f",
+      "title": "A Visual Analysis Approach for Understanding Durability Test Data of Automotive Products"
+    },
+    {
+      "paperId": "eaedfb1462ee717ec90b226847a5f36a0323adad",
+      "title": "RSATree: Distribution-Aware Data Representation of Large-Scale Tabular Datasets for Flexible Visual Query"
+    },
+    {
+      "paperId": "2fb16285a153066be0f3887137a22ad79d9cf8a2",
+      "title": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "paperId": "59c87420fbcf6d1930a9b991be6de2a758cf1c02",
+      "title": "Smart manufacturing systems: state of the art and future trends"
+    },
+    {
+      "paperId": "57f6ad4307f05ae070c6636fc0f44a3a21713d3b",
+      "title": "Interactive Simulators for Steel Industry Safety Training"
+    },
+    {
+      "paperId": "6671bc6bb965cf713bd4334b83a7362be5fb2aa0",
+      "title": "Visualization of Steel Continuous Casting Including a New Integral Method for Post\u2010Processing Temperature Data"
+    },
+    {
+      "paperId": "7b3b61308897c918bb25661ddf586ca2f9f7251b",
+      "title": "A survey of visualization for smart manufacturing"
+    },
+    {
+      "paperId": "6a15dee7964e97a9d19ec9cf0fd9c1ad90ae8012",
+      "title": "Interactive Visualization and Industrial Ecology: Applications, Challenges, and Opportunities"
+    },
+    {
+      "paperId": "8478db377c587c69809d4e706d1134d80cdecd2c",
+      "title": "Visually enhanced situation awareness for complex manufacturing facility monitoring in smart factories"
+    },
+    {
+      "paperId": "4dbeb3e85ce8a8140c760ae080a9d2d1c379f12c",
+      "title": "CommunityDiff"
+    },
+    {
+      "paperId": "61dee6e2832ac1ad990e08aea92a26fdf02bf133",
+      "title": "Smart manufacturing based on cyber-physical systems and beyond"
+    },
+    {
+      "paperId": "03667ede128f1ad7c74b5427809f121675e80048",
+      "title": "Using an Optical Motion Sensor for Visualization and Analysis of Maintenance Work on Semiconductor Manufacturing Equipment"
+    },
+    {
+      "paperId": "675b587ae77d3e5c918d69c853fe376759b5c242",
+      "title": "Towards Big Data Visualization for Monitoring and Diagnostics of High Volume Semiconductor Manufacturing"
+    },
+    {
+      "paperId": "9f77472760c8f37a34a877f73b4a86c160ca0b94",
+      "title": "Industry use of virtual reality in product design and manufacturing: a survey"
+    },
+    {
+      "paperId": "33f9843993e6b7ff77a0f16211a4ad9427dfd9dd",
+      "title": "Visual analytics for supply network management: System design and evaluation"
+    },
+    {
+      "paperId": "a50fcd047b03976f132eb618c826d7b35f841b6f",
+      "title": "Visual Analysis of Defects in Glass Fiber Reinforced Polymers for 4DCT Interrupted In situ Tests"
+    },
+    {
+      "paperId": "d70226265a1e2530db39b56fe83d9af452564f89",
+      "title": "TimeLineCurator: Interactive Authoring of Visual Timelines from Unstructured Text"
+    },
+    {
+      "paperId": "3cf84847753ccb5e53c46711881841475258bb5d",
+      "title": "Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data"
+    },
+    {
+      "paperId": "50ab0482224df90b59f5972f28c07626d89a1fab",
+      "title": "Smart manufacturing: Past research, present findings, and future directions"
+    },
+    {
+      "paperId": "4c7ca4e5b44c6967d8da24ddf6d773371d845c73",
+      "title": "LiveGantt: Interactively Visualizing a Large Manufacturing Schedule"
+    },
+    {
+      "paperId": "aaa54f181cb5e4ce981bf514a0e9832b2791044c",
+      "title": "Visual analysis of supply network risks: Insights from the electronics industry"
+    },
+    {
+      "paperId": "5347f160db99e3c29d0854caad48fbaf8444266c",
+      "title": "A Review on Basic Data-Driven Approaches for Industrial Process Monitoring"
+    },
+    {
+      "paperId": "57a2a62c779a13b8ad0c308a59b59119e5df481a",
+      "title": "Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles"
+    },
+    {
+      "paperId": "72c4d8b64a9959ea45677ca1955d3491ef0f1c62",
+      "title": "Internet of Things (IoT): A vision, architectural elements, and future directions"
+    },
+    {
+      "paperId": "4bd45f45817d58cc6d432a8b0724059d5d1e2f7f",
+      "title": "Visualization of Parameter Space for Image Analysis"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "3133abfafb52f865e042bcfb119cc41d4ab593ed",
+      "title": "Visualization of industrial engineering data in Augmented Reality"
+    },
+    {
+      "paperId": "a599e4210c757e8fcf26539cbc1e2ff7eccf8d4b",
+      "title": "IIoT based Augmented Reality for Factory Data Collection and Visualization"
+    },
+    {
+      "paperId": "a91b9804b30daa279436977078bbc3293e5bcc7c",
+      "title": "A survey of industrial augmented reality"
+    },
+    {
+      "paperId": "7fd6632f82da088c4ffae0016ebdfdc6b052b4fa",
+      "title": "An Empirical Study of Task-Specific Limitations of the Overview+Detail Technique for Interactive Time Series Analysis"
+    },
+    {
+      "paperId": "e31b8ed89a74eb20081f546225a0440e25ecaa2e",
+      "title": "Load path visualization and fiber trajectory optimization for additive manufacturing of composites"
+    },
+    {
+      "paperId": "b5aa1d5f49825f545d77747f3ac9bf222b5ef9f6",
+      "title": "Visualization Support for Design of Manufacturing Systems and Prototypes \u2013 Lessons Learned from Two Case Studies"
+    },
+    {
+      "paperId": "977503d1132b206d29fd04c45fc52f9d49deac04",
+      "title": "Visualisation of the Digital Twin data in manufacturing by using Augmented Reality"
+    },
+    {
+      "paperId": "4527413cb1dc5f5071de2c4c20720aadfa420055",
+      "title": "A Utility-Aware Visual Approach for Anonymizing Multi-Attribute Tabular Data"
+    },
+    {
+      "paperId": "5ddd4a4dbc8c32734209ca4a074d6be551f87e89",
+      "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data"
+    },
+    {
+      "paperId": "54ee592d912ff85bde5f99c2d87364bae8534937",
+      "title": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "e5033fa797efb33185a49c3dc19befd303314995",
+      "title": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "paperId": "2f04e35a6fafe2f3c7bd340af3e50b9461930e3e",
+      "title": "Real-time Interaction with Complex Models Tutorial History of Visualization at Gm Visualization Categories Cad (source) Visualization Visualization of Complex Automotive Data"
+    }
+  ]
+}

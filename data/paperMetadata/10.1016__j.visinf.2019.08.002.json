@@ -1,0 +1,280 @@
+{
+  "paperId": "d7adee0a45ef2dbb14f0f68b117e72aa28aae212",
+  "externalIds": {
+    "MAG": "2967969499",
+    "DBLP": "journals/vi/ChenSSLCJT19",
+    "DOI": "10.1016/J.VISINF.2019.08.002",
+    "CorpusId": 204109589
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/d7adee0a45ef2dbb14f0f68b117e72aa28aae212",
+  "title": "A Survey of Multi-Space Techniques in Spatio-Temporal Simulation Data Visualization",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2019,
+  "referenceCount": 47,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-09-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "129-139",
+    "volume": "3"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2019ASO,\n author = {Xueyi Chen and Liming Shen and Ziqi Sha and Richen Liu and Siming Chen and G. Ji and Chao Tan},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {129-139},\n title = {A Survey of Multi-Space Techniques in Spatio-Temporal Simulation Data Visualization},\n volume = {3},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "153773782",
+      "name": "Xueyi Chen"
+    },
+    {
+      "authorId": "50002489",
+      "name": "Liming Shen"
+    },
+    {
+      "authorId": "152899661",
+      "name": "Ziqi Sha"
+    },
+    {
+      "authorId": "28808009",
+      "name": "Richen Liu"
+    },
+    {
+      "authorId": "1685793922",
+      "name": "Siming Chen"
+    },
+    {
+      "authorId": "35858076",
+      "name": "G. Ji"
+    },
+    {
+      "authorId": "2111727483",
+      "name": "Chao Tan"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "478e59890c9efa8c7b82f3f1b7347e2a2d7c0c6e",
+      "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities"
+    },
+    {
+      "paperId": "1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+      "title": "Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks"
+    },
+    {
+      "paperId": "258fefca538c9d1813ea8b6e04afab6e68c6d1c6",
+      "title": "Data Reduction Techniques for Simulation, Visualization and Data Analysis"
+    },
+    {
+      "paperId": "a886c77c49217a8536690b2c204b40d415bc6442",
+      "title": "Projected Field Similarity for Comparative Visualization of Multi\u2010Run Multi\u2010Field Time\u2010Varying Spatial Data"
+    },
+    {
+      "paperId": "38ccbd99e75412fc6797edb682ae6bef74e5e0b3",
+      "title": "Persistence Atlas for Critical Point Variability in Ensembles"
+    },
+    {
+      "paperId": "5f441e5c1e616fc9b6f49dbdd4f7dba70520ddd8",
+      "title": "User-defined feature comparison for vector field ensembles"
+    },
+    {
+      "paperId": "6932513a00ed9ececfb1cdb9645463c4e897ed71",
+      "title": "Comparative visualization of vector field ensembles based on longest common subsequence"
+    },
+    {
+      "paperId": "887bff6b8504ed374d51ce2b4173f203df4d76a1",
+      "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "182a0f461fc476f4373a1065a62d908ca9a6507a",
+      "title": "In Situ Eddy Analysis in a High-Resolution Ocean Climate Model"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "3785af811df05c642c8e1334d7441239c1be4a42",
+      "title": "A bottom-up scheme for user-defined feature comparison in ensemble data"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "1a029d14642cf9cbf5e5f3ac504d9e86d9140b83",
+      "title": "Visual Analytics for Complex Engineering Systems: Hybrid Visual Steering of Simulation Ensembles"
+    },
+    {
+      "paperId": "1a4c605035f8f6cb3b19eaf8bcd2ed922da61412",
+      "title": "Visual Analytics for Comparison of Ocean Model Output with Reference Data: Detecting and Analyzing Geophysical Processes Using Clustering Ensembles"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "22fd10346ffeb89c982d19c0f88bb338bd8be7d4",
+      "title": "Visual Reconciliation of Alternative Similarity Spaces in Climate Modeling"
+    },
+    {
+      "paperId": "8b0d701904f3743d6ae1398e07990d2f165407f2",
+      "title": "Future Challenges for Ensemble Visualization"
+    },
+    {
+      "paperId": "e4b3235520057cd1eeb76fdadb541b10ff7a9dd2",
+      "title": "Sparse Representation and Visualization for Direct Numerical Simulation of Premixed Combustion"
+    },
+    {
+      "paperId": "4693dbc9b11142dd6f4bdfdda2a922f1766ea091",
+      "title": "SimilarityExplorer: A Visual Inter\u2010Comparison Tool for Multifaceted Climate Data"
+    },
+    {
+      "paperId": "355101430a490abddeb65bbf4d6fc75e639ab579",
+      "title": "Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles"
+    },
+    {
+      "paperId": "57a2a62c779a13b8ad0c308a59b59119e5df481a",
+      "title": "Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "44b9bba34dd4a6046cba3fcd9f17f71ee66dde7f",
+      "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures"
+    },
+    {
+      "paperId": "5ad7b8fa20935a4723729fa5a7f48cf41162156c",
+      "title": "ParaGlide: Interactive Parameter Space Partitioning for Computer Simulations"
+    },
+    {
+      "paperId": "64dc1df6ddfb2c91b71f4fd0a2308fb0530db808",
+      "title": "Visualization and Analysis of Eddies in a Global Ocean Simulation"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "a59173fecbb6b14b4b6aa4943dca62063eca034f",
+      "title": "In\u2010situ Sampling of a Large\u2010Scale Particle Simulation for Interactive Visualization and Analysis"
+    },
+    {
+      "paperId": "3ffc589a774dde091d741f4c311e2c9dee8c9125",
+      "title": "Survey of glyph-based visualization techniques for spatial multivariate medical data"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "2d462c9dfbfa0598fab738e9db3a3bed1731fe94",
+      "title": "Interactive Visual Analysis of Multiple Simulation Runs Using the Simulation Model View: Understanding and Tuning of an Electronic Unit Injector"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "ed2fda1d0aee5e3b2ceea973d88614e6fd83bfa4",
+      "title": "Topological Landscape Ensembles for Visualization of Scalar\u2010Valued Functions"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "f97307c8bc159af12e49c071a562380e2c22cc03",
+      "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces"
+    },
+    {
+      "paperId": "07c84ed3362cfa39d5630266109794f8f20b0683",
+      "title": "Visualization of uncertainty and ensemble data: Exploration of climate modeling and weather forecast data with integrated ViSUS-CDAT systems"
+    },
+    {
+      "paperId": "29a22f428ab79623fc7e869541ba7ef7a4c63655",
+      "title": "Visual support for the understanding of simulation processes"
+    },
+    {
+      "paperId": "9727aeefff8cd06576c59106c8fa8e8ca615bd7c",
+      "title": "Interactive Visual Steering - Rapid Visual Prototyping of a Common Rail Injection System"
+    },
+    {
+      "paperId": "ebb3eea625ab67ee7f6879faed14e0099f2d81fe",
+      "title": "A Four\u2010level Focus+Context Approach to Interactive Visual Analysis of Temporal Features in Large Scientific Data"
+    },
+    {
+      "paperId": "731706e6f505ce7d5136066f682f1918318a464a",
+      "title": "Topological Landscapes: A Terrain Metaphor for Scientific Data"
+    },
+    {
+      "paperId": "0d67fe1931e68a128f25efc693a1eaa7077cafdd",
+      "title": "Interactive Feature Specification for Focus+Context Visualization of Complex Simulation Data"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "d8b06c009dec3719a4c0f2b20863ce09be3db9eb",
+      "title": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS Interactive Exploration and Analysis o"
+    }
+  ]
+}

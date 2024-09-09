@@ -1,0 +1,420 @@
+{
+  "paperId": "7dad73a647ad978f148a81f712df4c93f2c0fe88",
+  "externalIds": {
+    "DBLP": "journals/vi/XieLWD19",
+    "MAG": "2967671736",
+    "DOI": "10.1016/J.VISINF.2019.08.001",
+    "CorpusId": 201887682
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/7dad73a647ad978f148a81f712df4c93f2c0fe88",
+  "title": "A survey on visual analysis of ocean data",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2019,
+  "referenceCount": 86,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-09-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "113-128",
+    "volume": "3"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Xie2019ASO,\n author = {Cui Xie and Mingkui Li and Haoying Wang and Junyu Dong},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {113-128},\n title = {A survey on visual analysis of ocean data},\n volume = {3},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "9370608",
+      "name": "Cui Xie"
+    },
+    {
+      "authorId": "16180366",
+      "name": "Mingkui Li"
+    },
+    {
+      "authorId": "2996083",
+      "name": "Haoying Wang"
+    },
+    {
+      "authorId": "1964397",
+      "name": "Junyu Dong"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "365e1e723a36ace41878a95d3847b0f976e96c53",
+      "title": "Visualizing Confidence in Cluster-Based Ensemble Weather Forecast Analyses"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "1bd31208395dbf552f664f57b69ccec1055d76c4",
+      "title": "Analysis and Visualization of Coastal Ocean Model Data in the Cloud"
+    },
+    {
+      "paperId": "16bc4ce6cc85e2592071501b86293df3f3219bff",
+      "title": "Exploring Variability within Ensembles of Decadal Climate Predictions"
+    },
+    {
+      "paperId": "478e59890c9efa8c7b82f3f1b7347e2a2d7c0c6e",
+      "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities"
+    },
+    {
+      "paperId": "1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+      "title": "Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks"
+    },
+    {
+      "paperId": "3b917537ab9866cede7c3fdf8a49a1e8503ffc8f",
+      "title": "Uncertainty visualization for variable associations analysis"
+    },
+    {
+      "paperId": "1298f4d50c24030c1944456fdb5896b96c3a7bbf",
+      "title": "Ocean Eddy Identification and Tracking Using Neural Networks"
+    },
+    {
+      "paperId": "712361dfbebe4ae4a7d1459e7c73f9bcff442892",
+      "title": "Challenges in Visual Analysis of Ensembles"
+    },
+    {
+      "paperId": "6ac9b472b4a096d7020416b2d40511b0428ae07b",
+      "title": "Interactive visualization of high-dimensional petascale ocean data"
+    },
+    {
+      "paperId": "338905de333239cb29db765aa683d7dd0f2464df",
+      "title": "Albero: A Visual Analytics Approach for Probabilistic Weather Forecasting"
+    },
+    {
+      "paperId": "3701b366c41927bf34da059cc8b52580ab055002",
+      "title": "Development of Integrated Visual Analytic Tool with 3D Visualization"
+    },
+    {
+      "paperId": "8f00a9e60c7bdb8ac473ee7a09bf1b051b33393d",
+      "title": "Improved visual correlation analysis for multidimensional data"
+    },
+    {
+      "paperId": "18680d46fe627ab162c7d8aef56278ee9cd4ec77",
+      "title": "A framework for interactive visual analysis of heterogeneous marine data in an integrated problem solving environment"
+    },
+    {
+      "paperId": "c95ec520d8df94b8becd482860cb8a70e1f30999",
+      "title": "Web-Scale Multidimensional Visualization of Big Spatial Data to Support Earth Sciences - A Case Study with Visualizing Climate Simulation Data"
+    },
+    {
+      "paperId": "c853a534b6a73c135c24b9f7e075a0b6fbb727a2",
+      "title": "Challenges and strategies for the visual exploration of complex environmental data"
+    },
+    {
+      "paperId": "a4cbe0bb20bf65b66f12063f0cd47b97896f61ec",
+      "title": "Learning and Transferring Convolutional Neural Network Knowledge to Ocean Front Recognition"
+    },
+    {
+      "paperId": "85fc525e7b9dee4e74b0ba3b0ce7e106ebc021e6",
+      "title": "Environmental data visualisation for non-scientific contexts: Literature review and design framework"
+    },
+    {
+      "paperId": "0c9af5a8c19c66fe7ec57fe5dfc1e26599b74528",
+      "title": "Visual Trends Analysis in Time-Varying Ensembles"
+    },
+    {
+      "paperId": "5f441e5c1e616fc9b6f49dbdd4f7dba70520ddd8",
+      "title": "User-defined feature comparison for vector field ensembles"
+    },
+    {
+      "paperId": "7ffd7b7b9d21c18f4f2bc94b5607bd5815523a54",
+      "title": "Big Data in Ocean Observation: Opportunities and Challenges"
+    },
+    {
+      "paperId": "fcf62e8190ce1faad2c9efecfa31731e2b768d14",
+      "title": "Time-Varying Data Visualization Using Clustered Heatmap and Dual Scatterplots"
+    },
+    {
+      "paperId": "3e658311ee842f12968ab39fad41e6e6ce238c41",
+      "title": "A New Approach to Ocean Eddy Detection, Tracking, and Event Visualization-Application to The Northwest Pacific Ocean"
+    },
+    {
+      "paperId": "bb59dca219b1ca44a8cb29f636a8cc7d1ab29417",
+      "title": "Enhancing Exploratory Analysis by Summarizing Spatiotemporal Events Across Multiple Levels of Detail"
+    },
+    {
+      "paperId": "eda60b7c0f792809201291c62138b4c191df8f7f",
+      "title": "Interactive Colormapping: Enabling Multiple Data Range and Detailed Views of Ocean Salinity"
+    },
+    {
+      "paperId": "84e21a55d1078ed8f3debbb0f5dfd05d007c86b2",
+      "title": "Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets"
+    },
+    {
+      "paperId": "8e9a1cac6441ff097ea3cb18be1b64b2d8838470",
+      "title": "Multi-dimensional visualization of large-scale marine hydrological environmental data"
+    },
+    {
+      "paperId": "bff86633660a4a676c9a2535254af45030c6fa98",
+      "title": "Effective Visualization of Temporal Ensembles"
+    },
+    {
+      "paperId": "6f74a00367170694bc9f258308c95c5c10124470",
+      "title": "Association Analysis for Visual Exploration of Multivariate Scientific Data Sets"
+    },
+    {
+      "paperId": "182a0f461fc476f4373a1065a62d908ca9a6507a",
+      "title": "In Situ Eddy Analysis in a High-Resolution Ocean Climate Model"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "d3c5b084da0ad30d75bcc630949fa4df0243eff2",
+      "title": "A Framework for Clustering Uncertain Data"
+    },
+    {
+      "paperId": "6d795a4fb8fafdf8351add801f188c1bb6f85a67",
+      "title": "Visual Analysis of Spatio\u2010Temporal Data: Applications in Weather Forecasting"
+    },
+    {
+      "paperId": "d54eb098738b223309a6c119494e01e33a65512e",
+      "title": "3D visual analysis of seabed on smartphone"
+    },
+    {
+      "paperId": "a055aa4721936b99bed4ef26b0e5231313b3ce6a",
+      "title": "Detection of Moroccan coastal upwelling fronts in SST images using the microcanonical multiscale formalism"
+    },
+    {
+      "paperId": "66c0bc43a90ff67a06eee28a01011003702bfaf6",
+      "title": "Visualizing uncertainties in a storm surge ensemble data assimilation and forecasting system"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "1a4c605035f8f6cb3b19eaf8bcd2ed922da61412",
+      "title": "Visual Analytics for Comparison of Ocean Model Output with Reference Data: Detecting and Analyzing Geophysical Processes Using Clustering Ensembles"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "a516ffb8ff190f29a3da4f74b1d9a0eb97a1fa34",
+      "title": "Interactive visual summaries for detection and assessment of spatiotemporal patterns in geospatial time series"
+    },
+    {
+      "paperId": "2574c4899212f7e5737af32b0b1480df2cd121a9",
+      "title": "Interactive visual analytics of hydrodynamic flux for the coastal zone"
+    },
+    {
+      "paperId": "f57b6931fe1e9c73eb1c4ec0863a7ab0f65dd22d",
+      "title": "Web-based 4D visualization of marine geo-data using WebGL"
+    },
+    {
+      "paperId": "44b9bba34dd4a6046cba3fcd9f17f71ee66dde7f",
+      "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures"
+    },
+    {
+      "paperId": "b4011e54d87fdb955073264563c2eb9eec9c4162",
+      "title": "Panic Disorder and Migraine: Comorbidity, Mechanisms, and Clinical Implications"
+    },
+    {
+      "paperId": "4c807cbfa2a08386a5d5d6eac96dfd8e538b36a9",
+      "title": "Visualization of Temporal Similarity in Field Data"
+    },
+    {
+      "paperId": "9227fc354f28b88464167f8122232dddd4e66e69",
+      "title": "A Visual Analytics Approach to Multiscale Exploration of Environmental Time Series"
+    },
+    {
+      "paperId": "8c079ad7a48100d4b292c39da26696110c8a9d37",
+      "title": "Visualization for the Physical Sciences"
+    },
+    {
+      "paperId": "147f2aeec2b459b55e84eab483b30bb2cea8476a",
+      "title": "A visual analytics framework for spatio-temporal analysis and modelling"
+    },
+    {
+      "paperId": "74ea69c420967681fc16c172d10c47202d46456a",
+      "title": "A VR-Ocean system for interactive geospatial analysis and 4D visualization of the marine environment around Antarctica"
+    },
+    {
+      "paperId": "2c8fe03c968a0394bbe78f59203a0238da746b28",
+      "title": "A Survey of Ocean Simulation and Rendering Techniques in Computer Graphics"
+    },
+    {
+      "paperId": "38b6de5fb103fd5a5de213c3fae908c8503a67e6",
+      "title": "Quantifying differences in circulation patterns based on probabilistic models : IPCC AR4 multimodel comparison for the North Atlantic"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "432469754e244ce2a6ca474212b16ee81dea3654",
+      "title": "Space, time and visual analytics"
+    },
+    {
+      "paperId": "05b1f2971b399369e4501a4c7764b6f680684152",
+      "title": "Web-based spatiotemporal visualization of marine environment data"
+    },
+    {
+      "paperId": "baedd112c0630bee1d1287d8c5c2b73698824140",
+      "title": "On clustering of non-stationary meteorological time series"
+    },
+    {
+      "paperId": "863a4cc1750a1065550dbdc4ea546f63a38c211d",
+      "title": "Clustering spatial-temporal precipitation data using wavelet transform and self-organizing map neural network"
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "e221fe7a5efbd2e42c6b9fb96dc940ba2c2d5ef7",
+      "title": "GODIVA2: interactive visualization of environmental data on the Web"
+    },
+    {
+      "paperId": "8a30787b9ea87ea03cf144913a047e52517fe37b",
+      "title": "Using an implicit min/max KD-tree for doing efficient terrain line of sight calculations"
+    },
+    {
+      "paperId": "08b617df64c814c9314936226956b3d16d60444e",
+      "title": "Extensions of Parallel Coordinates for Interactive Exploration of Large Multi-Timepoint Data Sets"
+    },
+    {
+      "paperId": "a10b38465da9efbb09a3113cc3421b9e7809db6e",
+      "title": "Visual Analytics: Combining Automated Discovery with Interactive Visualizations"
+    },
+    {
+      "paperId": "cb1b640cbb02d25d4077cbce640df470a445dbce",
+      "title": "COVE: a visual environment for ocean observatory design"
+    },
+    {
+      "paperId": "6ec08ff6895488e39bea0016f405f772eef44f81",
+      "title": "Scientific Exploration in the Era of Ocean Observatories"
+    },
+    {
+      "paperId": "4dc64c57951006753b96fee09e0fecebe9146ba0",
+      "title": "A Framework for Visualization and Exploration of Events"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "96c670392b6ea921ec7cc866670efddec0c79b71",
+      "title": "Designing a visual environment for exploration of time series of remote sensing data: In search for convective clouds"
+    },
+    {
+      "paperId": "9fefa063bc6c2ee611d2109f264dc472ba56e9df",
+      "title": "Axes-based visualizations with radial layouts"
+    },
+    {
+      "paperId": "a023f195b8378d261258f30ab431c20012985dc2",
+      "title": "Tools for visual comparison of spatial development scenarios"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "9c0af605281b329d15372d0e9af6752cc52630df",
+      "title": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization system of 3D global scale meteorological data"
+    },
+    {
+      "paperId": null,
+      "title": "A preliminary study of frontal characteristics in the continental shelf of the eastern hainan island"
+    },
+    {
+      "paperId": "3391a4c50b91246bbc0fe6ef5380532af2c93309",
+      "title": "Explorative coastal oceanographic visual analytics : oceans of data"
+    },
+    {
+      "paperId": "c223f6ac5a52bac825226320934b18df41c1f826",
+      "title": "Visualization of Geospatial Time Series from Environmental Modeling Output"
+    },
+    {
+      "paperId": "b20d860acb0cff03cfbc5e3f12abbcf4afa2d599",
+      "title": "Design and Implementation of a System for Interactive Higher Dimensional Vector Field Visualization"
+    },
+    {
+      "paperId": "a5aa2189d02c9c81857b31925354445029bb63b6",
+      "title": "Spatio-temporal clustering"
+    },
+    {
+      "paperId": "f6efbe977288114d30f1706c5ca390e4064ee2e1",
+      "title": "Using Processing to Develop iCove: a Tool for Interactive Coastal Oceanographic Visualization"
+    },
+    {
+      "paperId": "627d68cb1becf2e5cfe50f1f02d92f5042e4f52b",
+      "title": "Error modeling and calibration of exteroceptive sensors for accurate mapping applications"
+    },
+    {
+      "paperId": "ec9f37c2fdc719517628753352ea85d786b7f05a",
+      "title": "Interacting with 4 D oceanographic volume data using GeoAnalytics tools"
+    },
+    {
+      "paperId": "5730dd763625e15a5ab703283bb305f48660f374",
+      "title": "ThemeRiver: Visualizing Thematic Changes in Large Document Collections"
+    },
+    {
+      "paperId": null,
+      "title": "GeoZui3D: data fusion for interpreting oceanographic data"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "66d8a01c67438d8e1f8bd441b5509b0d3d701105",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Visual Correlation Analysis of Numerical and Categorical Data on the Correlation Map"
+    },
+    {
+      "paperId": "1ed6d5c7ad0b030dc134656936c36607fb4b7344",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy 1 Interactive Visual Analysis of Heterogeneous Scientific Data across an Interface"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "paperId": "2ad61617e5aef7d6cf9fe340bc94ca4e269b6c58",
+  "externalIds": {
+    "DBLP": "journals/vi/XuSL21",
+    "MAG": "3196613560",
+    "DOI": "10.1016/j.visinf.2021.08.001",
+    "CorpusId": 239662192
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/2ad61617e5aef7d6cf9fe340bc94ca4e269b6c58",
+  "title": "A survey of volume visualization techniques for feature enhancement",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2021,
+  "referenceCount": 84,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-09-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "70-81",
+    "volume": "5"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Xu2021ASO,\n author = {Chaoqing Xu and Guodao Sun and Ronghua Liang},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {70-81},\n title = {A survey of volume visualization techniques for feature enhancement},\n volume = {5},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "71868811",
+      "name": "Chaoqing Xu"
+    },
+    {
+      "authorId": "47333988",
+      "name": "Guodao Sun"
+    },
+    {
+      "authorId": "4487395",
+      "name": "Ronghua Liang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "c342ac0ced006e60325e051277ab218bc5e95753",
+      "title": "Gaussian mixture model-based target feature extraction and visualization"
+    },
+    {
+      "paperId": "02f2368c76ea5a885165f7ee5fc146655899bea0",
+      "title": "Unsupervised Image Reconstruction for Gradient\u2010Domain Volumetric Rendering"
+    },
+    {
+      "paperId": "8b5e8e91bcaec2de998737b181bb4638e4e77553",
+      "title": "A survey on automatic infographics and visualization recommendations"
+    },
+    {
+      "paperId": "a1dbb7d180137baa16f828b41d0c617dad31ec02",
+      "title": "Deep Volumetric Ambient Occlusion"
+    },
+    {
+      "paperId": "66eaca552d9e4261bcba5011afe34a73b1fc12f9",
+      "title": "Volume Rendering"
+    },
+    {
+      "paperId": "cb67cbf0605f1785f675e97dde31adfd3c988f14",
+      "title": "Local Prediction Models for Spatiotemporal Volume Visualization"
+    },
+    {
+      "paperId": "dfc66041b88ccdfc21ae816e0ecee9e8d1ef4731",
+      "title": "Differentiable Volumetric Rendering: Learning Implicit 3D Representations Without 3D Supervision"
+    },
+    {
+      "paperId": "65fa71111d1dc5f56589f65202f0342e3402b26b",
+      "title": "ForkNet: Multi-Branch Volumetric Semantic Completion From a Single Depth Image"
+    },
+    {
+      "paperId": "89483abfa152c8ce07c3f0f41cf0819f06d73110",
+      "title": "Graph\u2010Based Transfer Function for Volume Rendering"
+    },
+    {
+      "paperId": "6915ee29be51fb6e2c15b0a96a406c6b338d335e",
+      "title": "A comprehensive survey on non-photorealistic rendering and benchmark developments for image abstraction and stylization"
+    },
+    {
+      "paperId": "8c8020caf9dc93da1fdc7cf1614cd240815be772",
+      "title": "DNN-VolVis: Interactive Volume Visualization Supported by Deep Neural Network"
+    },
+    {
+      "paperId": "36ba7cbc251f8510023142070b75f3d679fcc47f",
+      "title": "CPU Isosurface Ray Tracing of Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "3fb6589d258f1849b36b20b21b00216f0df241e0",
+      "title": "Inviwo \u2014 A Visualization System with Usage Abstraction Levels"
+    },
+    {
+      "paperId": "3cf95c0cce7b772b9bb8c5f44c5ceeba07f46d46",
+      "title": "Smooth Probabilistic Ambient Occlusion for Volume Rendering"
+    },
+    {
+      "paperId": "0ef6965e698701742185b3eb7a19a3a1bed2bb8f",
+      "title": "FeatureLego: Volume Exploration Using Exhaustive Clustering of Super-Voxels"
+    },
+    {
+      "paperId": "9e660a398dd28abea47b61ee424be3c9b6ff87e1",
+      "title": "Feature of Interest\u2010Based Direct Volume Rendering Using Contextual Saliency\u2010Driven Ray Profile Analysis"
+    },
+    {
+      "paperId": "c457a894333cf5e3d55056337fd7359f3ba2e91d",
+      "title": "Design and volume optimization of space structures"
+    },
+    {
+      "paperId": "26cf54106c32f3007ae58816ac1a693c3262e755",
+      "title": "Interactive reconstruction of Monte Carlo image sequences using a recurrent denoising autoencoder"
+    },
+    {
+      "paperId": "5a3eecb2c68a51581cad7d15e33fd03615654ed8",
+      "title": "Extinction-Optimized Volume Illumination"
+    },
+    {
+      "paperId": "15467b8ae3a385651fbee75945bc70bc8b461c07",
+      "title": "Occlusion and Slice-Based Volume Rendering Augmentation for PET-CT"
+    },
+    {
+      "paperId": "00590557208ef06f8ea61a1cf01ccf490a6e4658",
+      "title": "VAO++: Practical Volumetric Ambient Occlusion for Games"
+    },
+    {
+      "paperId": "d997beefc0922d97202789d2ac307c55c2c52fba",
+      "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
+    },
+    {
+      "paperId": "63de0ad39d807f0c256f851428f211e8d5fcd3bb",
+      "title": "Instance Normalization: The Missing Ingredient for Fast Stylization"
+    },
+    {
+      "paperId": "39e8e273b4d285ab6015831f9d356f178a10df89",
+      "title": "Efficient visibility-driven medical image visualisation via adaptive binned visibility histogram"
+    },
+    {
+      "paperId": "7fc464470b441c691d10e7331b14a525bc79b8bb",
+      "title": "3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation"
+    },
+    {
+      "paperId": "22fd3e47b4e24beea7924b46a8920db2bc2aa000",
+      "title": "Deep Shading: Convolutional Neural Networks for Screen Space Shading"
+    },
+    {
+      "paperId": "36d2fd32814b5fe28f2ee7ba5b7dcc968ebb184d",
+      "title": "Occlusion-free feature exploration for volume visualization"
+    },
+    {
+      "paperId": "03352e89b38525443e64dfaf7fa72b70cd7ec5c4",
+      "title": "A Survey of Volumetric Illumination Techniques for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "19567383ea9e7d24d398fd1b043f187c776288e6",
+      "title": "Ambient Volume Scattering"
+    },
+    {
+      "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": "0e03aa6c3c1276f292cd118fc1f3df5db3efbb9c",
+      "title": "Historygrams: Enabling Interactive Global Illumination in Direct Volume Rendering using Photon Mapping"
+    },
+    {
+      "paperId": "199c58788b4b4b4a5bc7c6fdd7f706c2982b6625",
+      "title": "Feature-Driven Data Exploration for Volumetric Rendering"
+    },
+    {
+      "paperId": "14ce200a859cd48b849540220163c1bc1e021ec4",
+      "title": "Exposure Render: An Interactive Photo-Realistic Volume Rendering Framework"
+    },
+    {
+      "paperId": "7a6e232e0a9e2a6822bac6bce1cab250b0927cbc",
+      "title": "Accumulation of local maximum intensity for feature enhanced volume rendering"
+    },
+    {
+      "paperId": "b2784be5add184fc74d2b683ab140b19de0d3401",
+      "title": "Semantics by analogy for illustrative volume visualization\u2606"
+    },
+    {
+      "paperId": "b52c589fe1cd02923d67a72e7f71fea979cacf68",
+      "title": "Automatic Transfer Functions Based on Informational Divergence"
+    },
+    {
+      "paperId": "14e204a004baf1f38c7dbc746206e30bd9720961",
+      "title": "Efficient Volume Exploration Using the Gaussian Mixture Model"
+    },
+    {
+      "paperId": "cfe9b98e7df144cd273230689266d8574b6268a4",
+      "title": "Opacity Volume Based Halo Generation for Enhancing Depth Perception"
+    },
+    {
+      "paperId": "11f6671b464d4c31ef6a655e64b609d6a1872d6f",
+      "title": "Shape-enhanced maximum intensity projection"
+    },
+    {
+      "paperId": "900930c9ecfd8fce80de9de86b65c63b05959522",
+      "title": "Visibility Histograms and Visibility-Driven Transfer Functions"
+    },
+    {
+      "paperId": "31a6120bf3cb1d1d86bcf4c09b1c64ef03d2a113",
+      "title": "Pre-Integrated Volume Rendering with Non-Linear Gradient Interpolation"
+    },
+    {
+      "paperId": "6aba33425976a953b2dea7102ae7e69efa7b2f78",
+      "title": "Per-Pixel Opacity Modulation for Feature Enhancement in Volume Rendering"
+    },
+    {
+      "paperId": "4d251a005a3906abc004fed1a0bd2767ae0759f7",
+      "title": "Depth-Enhanced Maximum Intensity Projection"
+    },
+    {
+      "paperId": "de9c7ca6c95d5b677030d6ed91ae07c89554731c",
+      "title": "Shape-based transfer functions for volume visualization"
+    },
+    {
+      "paperId": "47abff7eb1bcce9259416bf62f68285c9e9c1cf7",
+      "title": "Volume exploration using ellipsoidal Gaussian transfer functions"
+    },
+    {
+      "paperId": "196f76f38f0003aaceaf3c9e50a24917608ee1af",
+      "title": "Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation"
+    },
+    {
+      "paperId": "83c24b00fcfabe42e29b80280f66ddaa8e6c2d93",
+      "title": "Instant Volume Visualization using Maximum Intensity Difference Accumulation"
+    },
+    {
+      "paperId": "6d0a99ed1b3940bbbe5e3b0af739e659c4a9d5a6",
+      "title": "Texture-based Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "106871329a5f7109faa8663d5590ea63dbd07683",
+      "title": "Size-based Transfer Functions: A New Volume Exploration Technique"
+    },
+    {
+      "paperId": "7d113b9df785eefc0d9bf5515398f51a4beef8a4",
+      "title": "Enhancing Depth-Perception with Flexible Volumetric Halos"
+    },
+    {
+      "paperId": "bf73e0e5fb561025f0a9ea451750d3858686227d",
+      "title": "Semantic Layers for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "7f4c45a2a5a04f07c95d08f10d0c4895f6921602",
+      "title": "Feature Enhancement using Locally Adaptive Volume Rendering"
+    },
+    {
+      "paperId": "6848cc81019549a26ef6e1ec7a04ef663cccdfaa",
+      "title": "Style Transfer Functions for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "b08580d336571b741b86ba61d86f684782b13abe",
+      "title": "Illustrative Context-Preserving Exploration of Volume Data"
+    },
+    {
+      "paperId": "b329b3a56270a453ded2732fb1e3c97b9461b354",
+      "title": "Opacity Peeling for Direct Volume Rendering"
+    },
+    {
+      "paperId": "94acd6583d9843d2762216e13646c7ecda4c434d",
+      "title": "Volumetric depth peeling for medical image display"
+    },
+    {
+      "paperId": "d3c3cee5e60d5bb70f25b33f35a0907e1214f3e8",
+      "title": "GPU-Based Tiled Ray Casting Using Depth Peeling"
+    },
+    {
+      "paperId": "f4f7464e0b19ec325451c824f0d4abacf79c737c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Illustrative Context-preserving Volume Rendering"
+    },
+    {
+      "paperId": "9721cf549bbfb11fc457044daf07e18b3adae2c7",
+      "title": "High-quality lighting and efficient pre-integration for volume rendering"
+    },
+    {
+      "paperId": "dfb02f8c68b0012c20c9c0a267de09ac26a124d0",
+      "title": "Curvature-based transfer functions for direct volume rendering: methods and applications"
+    },
+    {
+      "paperId": "f594dc9aaa0a7fd03394890ddda3dd6407f34afa",
+      "title": "Depth-peeling for texture-based volume rendering"
+    },
+    {
+      "paperId": "dbcaea68a8b08f1f65412a7a00be8bbc88bface9",
+      "title": "Interactive volume illustration and feature halos"
+    },
+    {
+      "paperId": "100c710bacce0fb678372786eb39f5dcee489226",
+      "title": "Multidimensional Transfer Functions for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "4458dcc51e052ae34366f67ae8a7be9c9fb8fe19",
+      "title": "Real-Time Volume Visualization on Low-End Hardware"
+    },
+    {
+      "paperId": "079a7073acbfb90df1d6a90aec1a8531a7eca08a",
+      "title": "Volume illustration: non-photorealistic rendering of volume models"
+    },
+    {
+      "paperId": "32c58ac43149d449465059246e692052d539038a",
+      "title": "Artistic silhouettes: a hybrid approach"
+    },
+    {
+      "paperId": "201507dd4171b1664e05ded34ca30695a1e77430",
+      "title": "Enabling classification and shading for 3D texture mapping based volume rendering using OpenGL and extensions"
+    },
+    {
+      "paperId": "079c0f7e020a311e85baca1bfcd8e6af6c1ae102",
+      "title": "Local maximum intensity projection (LMIP): a new rendering method for vascular visualization."
+    },
+    {
+      "paperId": "5006654f6f27b9458878994f592464c4d12b4abc",
+      "title": "High-quality volume rendering using texture mapping hardware"
+    },
+    {
+      "paperId": "7137dff1545ad120a2cd46d3a49c6b634e773e8d",
+      "title": "A non-photorealistic lighting model for automatic technical illustration"
+    },
+    {
+      "paperId": "cc4d105686badc41b001b7d66f7ab0c53a9e36de",
+      "title": "Interactive maximum projection volume rendering"
+    },
+    {
+      "paperId": "ca7a7b1c8f0d6f34fb10db422fb5203bc2a13cfb",
+      "title": "Optical Models for Direct Volume Rendering"
+    },
+    {
+      "paperId": "05ab653c130bc4daceea20440d4a700638c31540",
+      "title": "Three-dimensional display in nuclear medicine."
+    },
+    {
+      "paperId": "90189b948a37477938a8d83d81b6737f930d7997",
+      "title": "Illumination for computer generated pictures"
+    },
+    {
+      "paperId": "4d066ba1ecc0322a9b662070d1caa993deb8d5a4",
+      "title": "Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "025a24520be2c08bce8b4e69b2713555b50d16ed",
+      "title": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "paperId": null,
+      "title": "Fiber surfaces: Generalizing isosurfaces to bivariate data"
+    },
+    {
+      "paperId": "1ff88b39aa69436b92167c59bfe6a55d4e3de4de",
+      "title": "Survey on Feature Enhanced Volume Visualization"
+    },
+    {
+      "paperId": "d91aac391aa3f2d1bb45a396c259045931724d1e",
+      "title": "A Novel Ray Casting Algorithm for the Display of Occluded Features"
+    },
+    {
+      "paperId": null,
+      "title": "Layered peeling algorithm of direct volume rendering for medical dataset"
+    },
+    {
+      "paperId": "0c95d73c7674fab2fddbd7c8b1ca198903ef4911",
+      "title": "Prospects and Current Studies on Designing Transfer Function in Volume Rendering"
+    },
+    {
+      "paperId": "b507b7ba0b7ca0699cc7b4385dbbc65990fe2de4",
+      "title": "High-Quality Pre-lntegrated Volume Rendering Using Hardware-Accelerated Pixel Shading"
+    },
+    {
+      "paperId": "44070a50f59e06882ecd3892c9e9809a30930d5d",
+      "title": "Volume rendering: display of surfaces from volume data"
+    },
+    {
+      "paperId": "72477f0c76c49ef1410c999da91fc5280cc7ff16",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Interaction-dependent Semantics for Illustrative Volume Rendering"
+    }
+  ]
+}

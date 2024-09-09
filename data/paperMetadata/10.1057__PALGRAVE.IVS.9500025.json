@@ -1,0 +1,422 @@
+{
+  "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+  "externalIds": {
+    "DBLP": "journals/ivs/Ward02",
+    "MAG": "2164455316",
+    "DOI": "10.1057/PALGRAVE.IVS.9500025",
+    "CorpusId": 6849808
+  },
+  "publicationVenue": {
+    "id": "0fd8155f-f062-4fd5-b087-891322d6f705",
+    "name": "Information Visualization",
+    "type": "journal",
+    "alternate_names": [
+      "Information Visualisation",
+      "Inf Vis"
+    ],
+    "issn": "1473-8716",
+    "alternate_issns": [
+      "1550-6037"
+    ],
+    "url": "http://www.palgrave-journals.com/ivs/index.html",
+    "alternate_urls": [
+      "http://ivi.sagepub.com/",
+      "http://csdl2.computer.org/persagen/DLPublication.jsp?acronym=IV&pubtype=p",
+      "https://journals.sagepub.com/home/ivi",
+      "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000370"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+  "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization",
+  "abstract": null,
+  "venue": "Information Visualization",
+  "year": 2002,
+  "referenceCount": 88,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2002-12-01",
+  "journal": {
+    "name": "Information Visualization",
+    "pages": "194 - 210",
+    "volume": "1"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ward2002ATO,\n author = {M. Ward},\n booktitle = {Information Visualization},\n journal = {Information Visualization},\n pages = {194 - 210},\n title = {A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization},\n volume = {1},\n year = {2002}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1685227",
+      "name": "M. Ward"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2f4632e5af08b065cce40ce866e91dc513330b8f",
+      "title": "A visualization tool for exploratory analysis of cyclic multivariate data"
+    },
+    {
+      "paperId": "b61e44e71eed805790361cab575e054f7e3f1aef",
+      "title": "Procedural Shape Generation for Multi-dimensional Data Visualization"
+    },
+    {
+      "paperId": "98fb8c2a2abe7d5cff603d332646df00c92712de",
+      "title": "Dynamic hierarchy specification and visualization"
+    },
+    {
+      "paperId": "456453eb89c251a0ee5cee104211373565175e12",
+      "title": "The sunflower visual metaphor, a new paradigm for dimensional compression"
+    },
+    {
+      "paperId": "d1338bdd9fdcf556b99ccdc79b8b6290a179a8f4",
+      "title": "Visualizing World-Wide Web search engine results"
+    },
+    {
+      "paperId": "d92e5db0a52d8496b6918929a312785ea5b4eeb3",
+      "title": "Visualisation of massive retrieved newsfeeds in interactive 3D"
+    },
+    {
+      "paperId": "a6c5c25df50087ec69329edad011430f1229f8ea",
+      "title": "Constant density visualizations of non-uniform distributions of data"
+    },
+    {
+      "paperId": "5f28ad23ffb67ba4f21aba853d397e1e22ec0ba5",
+      "title": "Reconfigurable disc trees for visualizing large hierarchical information space"
+    },
+    {
+      "paperId": "e4d3c233826a41c17b45184edd6972f8ba2c1383",
+      "title": "An interactive view for hierarchical clustering"
+    },
+    {
+      "paperId": "d4a664919e29a4c179f784166b5e15fe1e0929fe",
+      "title": "Similarity clustering of dimensions for an enhanced visualization of multidimensional data"
+    },
+    {
+      "paperId": "669282432d39d083cd072b636067e897f77fb85e",
+      "title": "Dynamic aggregation with circular visual designs"
+    },
+    {
+      "paperId": "e20a2bb60bcc4f5e2e57152ef4c72156e1cc49d9",
+      "title": "The shape of Shakespeare: visualizing text using implicit surfaces"
+    },
+    {
+      "paperId": "6375221ebf8bad2611f30d3da88d343328a32fb7",
+      "title": "The Gridfit algorithm: an efficient and effective approach to visualizing large amounts of spatial data"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "ca51193fa4ed14d95f193555d4d92b312fc0d620",
+      "title": "Information Rich Glyphs for Software Management Data"
+    },
+    {
+      "paperId": "1c725da81c5720d066fa65ea180eb5164ffe7927",
+      "title": "Visualizing information on a sphere"
+    },
+    {
+      "paperId": "84bf6b8f2ec64be531f7161c17033b1cf42d806f",
+      "title": "Domesticating Bead: adapting an information visualization system to a financial institution"
+    },
+    {
+      "paperId": "c5d2a7ddc8bd849f6c5e42965f3ce54ee85ca2f9",
+      "title": "H3: laying out large directed graphs in 3D hyperbolic space"
+    },
+    {
+      "paperId": "a4c32c63b21efd5dc9de03b6f7197eb71ad9882d",
+      "title": "On integrating visualization techniques for effective software exploration"
+    },
+    {
+      "paperId": "07dcd52be645919604658336a3d2fdcee4d9e036",
+      "title": "Metrics for effective information visualization"
+    },
+    {
+      "paperId": "45b2e6578bea5d34b83868a812e235791e5e0392",
+      "title": "Visualizing Informationon a Sphere"
+    },
+    {
+      "paperId": "fe81942e6a196f0515aed5181a3f105b1c2de943",
+      "title": "Displaying data in multidimensional relevance space with 2D visualization maps"
+    },
+    {
+      "paperId": "1bd467c0d6644508b20bc30f9305acdda0960473",
+      "title": "Multivariate visualization using metric scaling"
+    },
+    {
+      "paperId": "8e11c005dcfd213e01b9485932190a05f3b8e55b",
+      "title": "DNA visual and analytic data mining"
+    },
+    {
+      "paperId": "9f978ee96a91df502be452f708cff576f8c0dc69",
+      "title": "Visualizing customer segmentations produce by self organizing maps (case study)"
+    },
+    {
+      "paperId": "b49ce44a615146f4b2aeee478b560de9ae9bd096",
+      "title": "Color Theory and Modeling for Computer Graphics, Visualization, and Multimedia Applications"
+    },
+    {
+      "paperId": "c4295cd84de5269be3ffb0dbcecc7917584bf7ae",
+      "title": "Animating multidimensional scaling to visualize N-dimensional data sets"
+    },
+    {
+      "paperId": "e8b0d63c3af6f3113422ab8b28134a31623a8103",
+      "title": "Cheops: a compact explorer for complex hierarchies"
+    },
+    {
+      "paperId": "0f73d5a2669143d6fcbf4db0a4a9495bab115eb8",
+      "title": "A linear iteration time layout algorithm for visualising high-dimensional data"
+    },
+    {
+      "paperId": "0e5d7003928e6f1876b51d66bbb3e6da99ae8172",
+      "title": "Drawing graphs nicely using simulated annealing"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "1676d424ee8e87e0298bbfa063f6f19165ba8a26",
+      "title": "Navigating hierarchically clustered networks through fisheye and full-zoom methods"
+    },
+    {
+      "paperId": "ccd2f35c99b775da10425ace238964f53ae53817",
+      "title": "3-dimensional pliable surfaces: for the effective presentation of visual information"
+    },
+    {
+      "paperId": "424c46da5086dc08929a87cbdad1e987645881fb",
+      "title": "SDM: selective dynamic manipulation of visualizations"
+    },
+    {
+      "paperId": "3c1f91a8f020ca19026358739437c43269c818e2",
+      "title": "Towards a generative theory of diagram design"
+    },
+    {
+      "paperId": "b5a52e8ed1eff06a14163e439afc1800c8648e02",
+      "title": "IVEE: an Information Visualization and Exploration Environment"
+    },
+    {
+      "paperId": "ae2dc55f6cacd9ad29acdb4201a301a44da1def9",
+      "title": "SDM: malleable information graphics"
+    },
+    {
+      "paperId": "b82a53365160aa7dda1501b04050e3b4257e7ba6",
+      "title": "Research report: improving browsing in information by the automatic display layout"
+    },
+    {
+      "paperId": "452ef49800f6d43729814baa5b3956ae5d77eea4",
+      "title": "Research report. Interacting with huge hierarchies: beyond cone trees"
+    },
+    {
+      "paperId": "d38ce275d131fa50a78e8e5343e8ec95436b9f8e",
+      "title": "Case study. Narcissus: visualising information"
+    },
+    {
+      "paperId": "382aac73c515b7fd517f47ff8019b9f746dbc319",
+      "title": "Recursive pattern: a technique for visualizing very large amounts of data"
+    },
+    {
+      "paperId": "47f9010a847951795447889cddd9536cd34fee39",
+      "title": "Vector plots for irregular grids"
+    },
+    {
+      "paperId": "830322176475065bd6214f0ffe8df040044e8272",
+      "title": "Iconic techniques for feature visualization"
+    },
+    {
+      "paperId": "0fb0b6dbf2a5271b60f7eb837797617b13438801",
+      "title": "An empirical study of algorithms for point-feature label placement"
+    },
+    {
+      "paperId": "f7e0a1b0e4e8ff76b4fce6d0c58af46c906b80da",
+      "title": "IVEE: an environment for automatic creation of dynamic queries applications"
+    },
+    {
+      "paperId": "e4c5a8b374489c5af38bd4359f71e2155b96e5c5",
+      "title": "Self-Organizing Maps"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "e4afcd6af26a9bd971521209348130f5cd22158c",
+      "title": "VisDB: database exploration using multidimensional visualization"
+    },
+    {
+      "paperId": "5e6781abab5a0b706f09478b06c7e3b87e1587a1",
+      "title": "Glyphmaker: creating customized visualizations of complex data"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "56afe211e7c93b59ccf55f2d8d6015dffc1ed636",
+      "title": "InfoCrystal: A visual tool for information retrieval"
+    },
+    {
+      "paperId": "7b752ac19bf8029c1d7658b318354a3bb9a7a52a",
+      "title": "Navigating large networks with hierarchies"
+    },
+    {
+      "paperId": "d30b12838925969567f7d6db0910d3ee7cb7e9c5",
+      "title": "Visualizing Data"
+    },
+    {
+      "paperId": "da50a7d10d41f93378b04387b1c395637d69ae84",
+      "title": "The stream polygon-a technique for 3D vector field visualization"
+    },
+    {
+      "paperId": "1c90f1c63b47230569209011e1e4bccbbc9cf73b",
+      "title": "A tool for visualizing the topology of three-dimensional vector fields"
+    },
+    {
+      "paperId": "7d9f19b8040677be34b7855e51ca5ca0d3833bdc",
+      "title": "Shadowed hedgehogs: a technique for visualizing 2D slices of 3D vector fields"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "1bac05d782f317b235b9abcf03c0ef59dd3032f0",
+      "title": "Color icons-merging color and texture perception for integrated visualization of multiple parameters"
+    },
+    {
+      "paperId": "2f69ed0491813482acd491d661faba67ae8008b0",
+      "title": "Visualizing vector field topology in fluid flows"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "8ea4d538dc93f1d07552533e8083a91b018b1e94",
+      "title": "Moving iconic objects in scientific visualization"
+    },
+    {
+      "paperId": "6daf826c2ec5fe299378838ef9fa7c3ea8092142",
+      "title": "Exploring N-dimensional databases"
+    },
+    {
+      "paperId": "f4926d40f9266d728c8cdcc627a5d1aa43992389",
+      "title": "Shape coding of multidimensional data on a microcomputer display"
+    },
+    {
+      "paperId": "0459c77dc6d5d741f40cfdeda4b5008a39d4336c",
+      "title": "Iconographic Displays For Visualizing Multidimensional Data"
+    },
+    {
+      "paperId": "960474b333ef03c33377a76330a61adb529edd88",
+      "title": "Graphical exploratory data analysis"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "7a23ad19ae1f551d6725fdf2283c643a727f4e33",
+      "title": "Representing Points in Many Dimensions by Trees and Castles"
+    },
+    {
+      "paperId": "4f673d2ac8d2117253f93eafb6580cf5d6ac8f3c",
+      "title": "Methods for statistical data analysis of multivariate observations"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "e0901821b2fa999903c5d89bfa735702bd237717",
+      "title": "The surgical implications of physiologic patterns in myocardial infarction shock."
+    },
+    {
+      "paperId": "177622882b81454a6d71bdb3c7362d7d934183ee",
+      "title": "A SEMIGRAPHICAL METHOD FOR THE ANALYSIS OF COMPLEX PROBLEMS."
+    },
+    {
+      "paperId": null,
+      "title": "DySect: an incremental clustering algorithm. [Document included with public-domain software] retrieved from StatLib at CMU (http://lib.stat.cmu.edu"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Graph Drawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. Visualization '98 (Research Triangle Park"
+    },
+    {
+      "paperId": "e025f7eee88d6a704c19095f61cf0fa6aa32151f",
+      "title": "Screen Layout Methods for Multidimensional Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization of cyclic multivariate data Proceedings Visualization 97 Late Breaking Hot Topics"
+    },
+    {
+      "paperId": "eac3862747f3bb72cc7536c72dcd7caa05a02eba",
+      "title": "FROM PERCEPTION TO VISUALIZATION"
+    },
+    {
+      "paperId": "04be0f0d3aed33a927c855d3b81789ad6886f678",
+      "title": "Graphical Exploratory Data Analysis."
+    },
+    {
+      "paperId": "1ebb53a7e5cff86b2b42d1108a0fa81f571d8894",
+      "title": "What is projection pursuit"
+    },
+    {
+      "paperId": "a27371ed903fce0d4bae95510f8f45d717496ec9",
+      "title": "A COMPARISON OF GRAPHICAL REPRESENTATIONS OF MULTIDIMENSIONAL PSYCHIATRIC DIAGNOSTIC DATA"
+    },
+    {
+      "paperId": "60e14c66f29057263289ae58cb989f39f0329c5c",
+      "title": "Printer graphics for clustering"
+    },
+    {
+      "paperId": "693d3199569de8b55f207d009198366604213fb7",
+      "title": "A Projection Pursuit Algorithm rorExploratory DataAnalysis"
+    },
+    {
+      "paperId": null,
+      "title": "A graphic way of describing changing multivariate patterns"
+    },
+    {
+      "paperId": null,
+      "title": "Displays 2 major trends: Displays 2 major trends: 1. 1. TimeWheel TimeWheel Cont"
+    },
+    {
+      "paperId": null,
+      "title": "Linear Linear V.S. V.S. Circular Circular"
+    },
+    {
+      "paperId": null,
+      "title": "Glyph placement strategies MO Ward"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "paperId": "805e7819bec5afd9e9b31b072f935f3d6149f823",
+  "externalIds": {
+    "MAG": "2325607251",
+    "DOI": "10.1080/15230406.2016.1154804",
+    "CorpusId": 61929463
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/805e7819bec5afd9e9b31b072f935f3d6149f823",
+  "title": "Domains of uncertainty visualization research: a visual summary approach",
+  "abstract": "ABSTRACT The inherent uncertainty of geospatial data has engendered a critical research agenda addressing all facets of uncertainty visualization due to the communicative efficiency of graphical representation. To organize this broad research area, we have reviewed literature on geospatial uncertainty visualization and systematically and iteratively classified research in this field. Upon creating a classification, we developed several visual summaries over time, refining the classification and subsequent graphic as new relevant topics emerged. This visual summary extends current existing approaches to taxonomies by allowing users a quick visual overview of relevant topics in a research area at a glance. For each research paper on uncertainty visualization, this classification can be used to visually represent which domains are covered. In order to ensure that the visual summary approach and the corresponding domains developed in this article can be used reliably, we performed an inter-rater agreement task. The high agreement reveals that the domains in the classification that were identified are intuitive and can lead to objective, reproducible classifications (visual summaries) of research papers. In future research, we plan to refine the visual classification/summary approach by providing guided classification via a web interface to visually classify the entire body of literature on geospatial uncertainty visualization and visually explore any trends in research topics, how they have changed over the years, and identify sparser topics that still need to be addressed.",
+  "venue": "",
+  "year": 2017,
+  "referenceCount": 50,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "publicationDate": "2017-07-04",
+  "journal": {
+    "name": "Cartography and Geographic Information Science",
+    "pages": "296 - 309",
+    "volume": "44"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Mason2017DomainsOU,\n author = {Jennifer Smith Mason and David Retchless and A. Klippel},\n journal = {Cartography and Geographic Information Science},\n pages = {296 - 309},\n title = {Domains of uncertainty visualization research: a visual summary approach},\n volume = {44},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1790002803",
+      "name": "Jennifer Smith Mason"
+    },
+    {
+      "authorId": "2311156078",
+      "name": "David Retchless"
+    },
+    {
+      "authorId": "1725776",
+      "name": "A. Klippel"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3c9933a5b886496435c1296e5e08fe0307601990",
+      "title": "How to Assess Visual Communication of Uncertainty? A Systematic Review of Geospatial Uncertainty Visualisation User Studies"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "6c94b754c9594070c9e9dde07c5584bb75ca5a97",
+      "title": "Mapping Climate Change Uncertainty: Effects on Risk Perceptions and Decision Making"
+    },
+    {
+      "paperId": "6ba99894992fd7d4c6d8a26b7b45be2592d7d732",
+      "title": "Visualizing Uncertainty About the Future"
+    },
+    {
+      "paperId": "196c374b44ab6f41e88204b750dbd69ecfb5e0ba",
+      "title": "Adjacent versus coincident representations of geospatial uncertainty: Which promote better decisions?"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "a04042b1c970c7ed6420b59ebb80018843891e3b",
+      "title": "A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets"
+    },
+    {
+      "paperId": "95cbc9bdb44b08e6896bda94bb22df6810996bf9",
+      "title": "Visual Representations of Meta-Information"
+    },
+    {
+      "paperId": "788e6953a5d0e2b783f197213ce5e3c309341d55",
+      "title": "The Impact of User Expertise on Geographic Risk Assessment under Uncertain Conditions"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "5cd86887fef53b25c09f441f3d7e3680ffc3cafb",
+      "title": "Introduction: What is a Self\u2010Organizing Map?"
+    },
+    {
+      "paperId": "24170ddd15f6d0ad1b5d15fe9fcea2d4309c4d8b",
+      "title": "Visual analytics tools for analysis of movement data"
+    },
+    {
+      "paperId": "3ad2b31b55d3bf87a16e0c4855739756a1e0d39b",
+      "title": "Evaluation of uncertainty visualization techniques for information fusion"
+    },
+    {
+      "paperId": "d46d1fceaba03b654f42f101138f99f3387544c6",
+      "title": "Testing the effects of positional uncertainty on spatial decision\u2010making"
+    },
+    {
+      "paperId": "5e33e59f05cc77e97195f1c0ec8dfdc10b9df8bd",
+      "title": "Theoretical analysis of uncertainty visualizations"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "fbebcfd3c4ce1b561a0b4f13bda6cc2584bc397a",
+      "title": "Accounting for Spatial Uncertainty in Optimization with Spatial Decision Support Systems"
+    },
+    {
+      "paperId": "7cee1893d0f5004127f489d95a3df826096b0fbb",
+      "title": "Testing Popular Visualization Techniques for Representing Model Uncertainty"
+    },
+    {
+      "paperId": "6d72e4757b151b51e4501bad30e4043599df9b90",
+      "title": "A framework for the modelling of uncertainty between remote sensing and geographic information systems"
+    },
+    {
+      "paperId": "a95e0139d7c1f555794e5fb6078b51a0e427c04a",
+      "title": "Utilizing Graphical Formats to Convey Uncertainty in a Decision Making Task"
+    },
+    {
+      "paperId": "fbc7382c715130f1916aea00848136b35c0cdaa0",
+      "title": "Guidelines for the Display of Attribute Certainty"
+    },
+    {
+      "paperId": "916f7a2d955a2931d7d8daf821d14c3ca458d375",
+      "title": "Geostatistics: Modeling Spatial Uncertainty"
+    },
+    {
+      "paperId": "1369b938fc40e8e559807a0e6735da1e2ca4d1b5",
+      "title": "Visualization of an Imperfect World"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "47582683d9040f1299fd64b5c31a1aed44be1076",
+      "title": "Modelling Uncertainty and Spatial Dependence: Stochastic Imaging"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "4a0c1d5dc30f517bc1a330ce5c0774a4b3783977",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7",
+      "title": "Why a Diagram is (Sometimes) Worth Ten Thousand Words"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "9e463eefadbcd336c69270a299666e4104d50159",
+      "title": "A Coefficient of Agreement for Nominal Scales"
+    },
+    {
+      "paperId": "ad95dc229a93c9e2a42619f7dd2eb432cbf0ab24",
+      "title": "Beyond the Surface: Current Issues and Future Directions in Uncertainty Visualization Research"
+    },
+    {
+      "paperId": "777f67330b6815c9a1b37e2bfb8f6eb2d8a8c089",
+      "title": "Uncertain Decisions and Continuous Spaces: Outcomes Spaces and Uncertainty Visualization"
+    },
+    {
+      "paperId": "4d998c40166334ecc7c1a93cc3c0936d1d379f04",
+      "title": "Usability of Spatio-Temporal Uncertainty Visualisation Methods"
+    },
+    {
+      "paperId": "85bbeb1dd75807e89d030f6ebd61e527784ce882",
+      "title": "Article type: Advanced Review Communicating probabilistic information from climate model ensembles\u2014 lessons from numerical weather prediction"
+    },
+    {
+      "paperId": null,
+      "title": "\u201c Evaluating Implicit Visualization of Geographic Uncertainty for Public Policy Decision Support. \u201d"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "1853145560a044809924b1c22a67c4816b157a03",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "7e31b0f241b35bca5b881de1e684e8dcea223d86",
+      "title": "Self-organising maps : applications in geographic information science"
+    },
+    {
+      "paperId": "0f8b881fb1810d80d7381e0c6f476316862376d1",
+      "title": "The Influence of Uncertainty Visualization on Decision Making: An Empirical Evaluation"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": "e87136eb647dd7b87739b35162b5ca8919948ee3",
+      "title": "Treemaps for space-constrained visualization of hierarchies"
+    },
+    {
+      "paperId": "29bb189b60db0a2c3008b3d136e0d7c191be09ba",
+      "title": "Uncertainty in geographical information"
+    },
+    {
+      "paperId": "bf67ea22c417d13e7f1ef28fbdd2614fcdcdb65d",
+      "title": "A formal approach to imperfection in geographic information"
+    },
+    {
+      "paperId": "21f389aabe2491d620ce920e3bad2b12521fa025",
+      "title": "Algorithms on Strings, Trees, and Sequences - Computer Science and Computational Biology"
+    },
+    {
+      "paperId": null,
+      "title": "\u201c Managing Uncertainty in Spatial Databases: Putting Theory into Practice. \u201d"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "55e5a5a34fa5e6381c0484772f9c111909b022e3",
+      "title": "Models of uncertainty in spatial data"
+    },
+    {
+      "paperId": null,
+      "title": "Automated Cartography, Columbus, OH, September 16 \u2013 18"
+    }
+  ]
+}

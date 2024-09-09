@@ -1,0 +1,291 @@
+{
+  "paperId": "178ebca45d73be8f082ccc0197c0a252708a70de",
+  "externalIds": {
+    "DBLP": "journals/vi/KuiLLLZZ22",
+    "DOI": "10.1016/j.visinf.2022.07.004",
+    "CorpusId": 251292763
+  },
+  "publicationVenue": {
+    "id": "59345fce-7529-41a4-a0a3-e0458d6930be",
+    "name": "Visual Informatics",
+    "type": "journal",
+    "alternate_names": [
+      "Vis Informatics"
+    ],
+    "issn": "2468-502X",
+    "url": "https://www.journals.elsevier.com/visual-informatics/",
+    "alternate_urls": [
+      "https://www.journals.elsevier.com/visual-informatics",
+      "http://www.sciencedirect.com/science/journal/aip/2468502X"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/178ebca45d73be8f082ccc0197c0a252708a70de",
+  "title": "A survey of visual analytics techniques for online education",
+  "abstract": null,
+  "venue": "Visual Informatics",
+  "year": 2022,
+  "referenceCount": 51,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-08-01",
+  "journal": {
+    "name": "Vis. Informatics",
+    "pages": "67-77",
+    "volume": "6"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kui2022ASO,\n author = {Xiaoyan Kui and Naiming Liu and Qiang Liu and Jingwei Liu and Xiaoqian Zeng and Chao Zhang},\n booktitle = {Visual Informatics},\n journal = {Vis. Informatics},\n pages = {67-77},\n title = {A survey of visual analytics techniques for online education},\n volume = {6},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2057282124",
+      "name": "Xiaoyan Kui"
+    },
+    {
+      "authorId": "2143066732",
+      "name": "Naiming Liu"
+    },
+    {
+      "authorId": "2146554188",
+      "name": "Qiang Liu"
+    },
+    {
+      "authorId": "2108968693",
+      "name": "Jingwei Liu"
+    },
+    {
+      "authorId": "2180514216",
+      "name": "Xiaoqian Zeng"
+    },
+    {
+      "authorId": "2180423190",
+      "name": "Chao Zhang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9384e431fa87d2e54215ec17ef585a636659d701",
+      "title": "BlockLens: Visual Analytics of Student Coding Behaviors in Block-Based Programming Environments"
+    },
+    {
+      "paperId": "6713703709eedd1edb237289f3772af3c993df27",
+      "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams"
+    },
+    {
+      "paperId": "e5826226f46291d206e1cde169f95674645dbd25",
+      "title": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "paperId": "0fc8e08cd023cfe53c0da59ecba6101dce162829",
+      "title": "Using Information Visualization to Promote Students' Reflection on \"Gaming the System\" in Online Learning"
+    },
+    {
+      "paperId": "a8bb92305e2fd451a6bf82ba49a8ca3852848154",
+      "title": "Multimodal Analysis of Video Collections: Visual Exploration of Presentation Techniques in TED Talks"
+    },
+    {
+      "paperId": "82b40f6e8dde3822e17853df3d6bf2cfa4d14eff",
+      "title": "Survey on Visual Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "9176255ae3e246dafc6744731e827e3e465af621",
+      "title": "SeqDynamics: Visual Analytics for Evaluating Online Problem\u2010solving Dynamics"
+    },
+    {
+      "paperId": "49052b323767ca1653a8c6d1391038f2b1b89152",
+      "title": "ViSeq: Visual Analytics of Learning Sequence in Massive Open Online Courses"
+    },
+    {
+      "paperId": "e6671651b70d92e39ffc9fe6e0a3782e7bba94d7",
+      "title": "VoiceCoach: Interactive Evidence-based Training for Voice Modulation Skills in Public Speaking"
+    },
+    {
+      "paperId": "37c1226e2abe58048884ad57d00b74151f536391",
+      "title": "PerformanceVis: Visual analytics of student performance data from an introductory chemistry course"
+    },
+    {
+      "paperId": "643e3c242af6ec309ce2cc9067061ff69163160f",
+      "title": "Visual Analysis of the Time Management of Learning Multiple Courses in Online Learning Environment"
+    },
+    {
+      "paperId": "93b3f9735e72b44a2586e061bf86e5eb2b970308",
+      "title": "LearnerExp: Exploring and Explaining the Time Management of Online Learning Activity"
+    },
+    {
+      "paperId": "642bd10a8bf80e34442ccd70d3951b47bbe6d55b",
+      "title": "VUC: Visualizing Daily Video Utilization to Promote Student Engagement in Online Distance Education"
+    },
+    {
+      "paperId": "c112967c97b50537d3617b4019a2cae2b8e64243",
+      "title": "Visualizing learner engagement, performance, and trajectories to evaluate and optimize online course design"
+    },
+    {
+      "paperId": "e4d4e227c1c29b9e3a20537bda9a3fa32ddcb18a",
+      "title": "PeerLens: Peer-inspired Interactive Learning Path Planning in Online Question Pool"
+    },
+    {
+      "paperId": "b640fe51d6d30af38a0f4e56c6994b27a0de1064",
+      "title": "Investigating the Impact of a Real-time, Multimodal Student Engagement Analytics Technology in Authentic Classrooms"
+    },
+    {
+      "paperId": "4c8010a46151f49124538d17f1a0756045141acf",
+      "title": "Designing Narrative Slideshows for Learning Analytics"
+    },
+    {
+      "paperId": "fda2f874ad6bf30b97dc9a0e8ec886b3d3e36b1d",
+      "title": "Dynamics of Emotions and Network Structures in a Course forum: An Empirical Investigation in the Last four Weeks Before the Exam"
+    },
+    {
+      "paperId": "48e91cee8055ab55c38b15b9254c6b1e9bebbda4",
+      "title": "VUSphere: Visual Analysis of Video Utilization in Online Distance Education"
+    },
+    {
+      "paperId": "3717b6e1c0f12c1810af0d746c845dbf9eab5a3e",
+      "title": "Sequence Analysis in Distributed Interactive Learning Environments: Visualization and Clustering of Exploratory Behavior"
+    },
+    {
+      "paperId": "d634f2b4aa1c07741ed41f647280528e9cf2e6fc",
+      "title": "Visual learning analytics of educational data: A systematic literature review and research agenda"
+    },
+    {
+      "paperId": "7c791da49acac3f6d795e63e4878ff6ce907b8bd",
+      "title": "MeetingVis: Visual Narratives to Assist in Recalling Meeting Context and Content"
+    },
+    {
+      "paperId": "5a0d4f928bb3192d724f160769d6bc5023b9dd7f",
+      "title": "ThreadReconstructor: Modeling Reply\u2010Chains to Untangle Conversational Text through Visual Analytics"
+    },
+    {
+      "paperId": "b8acca2b94341a4873b1f2635450a8aecc311804",
+      "title": "Flexible Learning with Semantic Visual Exploration and Sequence-Based Recommendation of MOOC Videos"
+    },
+    {
+      "paperId": "ca8bdccdb7849b8fb6095b5bccfb32f4d50fc469",
+      "title": "T-Cal: Understanding Team Conversational Data with Calendar-based Visualization"
+    },
+    {
+      "paperId": "12e8c383abdefacd9364f7e782ae68efdfe59d7a",
+      "title": "ConceptScape: Collaborative Concept Mapping for Video Learning"
+    },
+    {
+      "paperId": "cdeb4ba63a221d710e92676f83c1b3bbf4ce99d8",
+      "title": "MessageLens: A Visual Analytics System to Support Multifaceted Exploration of MOOC Forum Discussions"
+    },
+    {
+      "paperId": "e57ebba9dbb1e50effca8b0d8eff4bdff8cc75e0",
+      "title": "VisForum: A Visual Analysis System for Exploring User Groups in Online Forums"
+    },
+    {
+      "paperId": "beb9ec236ffefa6d2c3b8a11360fe53b43f86d77",
+      "title": "A Smart Visual Analysis Solution for MOOC Data"
+    },
+    {
+      "paperId": "d732070b4c69e1259f78ab1f06e862df5f085d5e",
+      "title": "A System for Visualization and Analysis of Online Pedagogical Interactions"
+    },
+    {
+      "paperId": "41e684ec9e4417eb7090356d5264a5f153953b95",
+      "title": "Learning Analytics for Monitoring Students Participation Online: Visualizing Navigational Patterns on Learning Management System"
+    },
+    {
+      "paperId": "fbff9db442f5ddd6fded9095f444f3e33648a716",
+      "title": "PathViewer: Visualizing Pathways through Student Data"
+    },
+    {
+      "paperId": "72f4eade4a58383b7933f104de665644368260ec",
+      "title": "VideoMark: A video-based learning analytic technique for MOOCs"
+    },
+    {
+      "paperId": "a2cedfef4f5bfb7ce34c12e94b7557c5839897ea",
+      "title": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "paperId": "09ef3ccd9b5844d6bb2043900fa8595703bce5d3",
+      "title": "Analyzing academic discussion forum data with topic detection and data visualization"
+    },
+    {
+      "paperId": "dae380430a9777f6e6b82b007e0aa65bcdc2a2cf",
+      "title": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "paperId": "cda6ecde6d0b77b17a778f97d941dcdf3d1eb643",
+      "title": "PeakVizor: Visual Analytics of Peaks in Video Clickstreams from Massive Open Online Courses"
+    },
+    {
+      "paperId": "45ca5153edc0da46df3a8a5428a5c74200c450db",
+      "title": "An analysis of student behavior in two massive open online courses"
+    },
+    {
+      "paperId": "3ded1a7a96ea74e68f87005b7c6461532c61094f",
+      "title": "ConToVi: Multi\u2010Party Conversation Exploration using Topic\u2010Space Views"
+    },
+    {
+      "paperId": "67ae202354463975d037424d7e262c51a7d514e7",
+      "title": "ToPIN: A Visual Analysis Tool for Time-anchored Comments in Online Educational Videos"
+    },
+    {
+      "paperId": "98f21e6cd2d4a25f7573543e30e6d2e59c32f3be",
+      "title": "NetworkSeer: Visual analysis for social network in MOOCs"
+    },
+    {
+      "paperId": "6a9d5ef6b110ef979e3496743e555bf4716f8d09",
+      "title": "Visual Analytics for MOOC Data"
+    },
+    {
+      "paperId": "b9a2252d4606f182ab9491fde9460a9745440d5d",
+      "title": "A Visual Analytics Approach for e-Learning Education"
+    },
+    {
+      "paperId": "001e94f525a7642d01202a810044a3e84969216a",
+      "title": "VisMOOC: Visualizing video clickstream data from massive open online courses"
+    },
+    {
+      "paperId": "835e5206f0c7bdcc7a61ed82a2aae549e3c4088c",
+      "title": "ConVis: A Visual Text Analytic System for Exploring Blog Conversations"
+    },
+    {
+      "paperId": "d814f23c016a786aa4c78fb6b4480f115e647a70",
+      "title": "Visualizing patterns of student engagement and performance in MOOCs"
+    },
+    {
+      "paperId": "4a699c2d50e984b200603eec7127f1a3ef31fec8",
+      "title": "Understanding in-video dropouts and interaction peaks inonline lecture videos"
+    },
+    {
+      "paperId": "6d57cc344608a21163dc2a249850383305709fdd",
+      "title": "Context-based Message Expansion for Disentanglement of Interleaved Text Conversations"
+    },
+    {
+      "paperId": "ee14d78ffd3b2105248f1ae736b4ace31c8c878c",
+      "title": "Measuring and Visualizing Group Knowledge Elaboration in Online Collaborative Discussions"
+    },
+    {
+      "paperId": "c5f4337ab395bf77e8b20fe9101c2b922fa14fb8",
+      "title": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "paperId": "f55bd54bc903f9c72957012fb2c62260315f623b",
+      "title": "Semantic Spiral Timelines Used as Support for e-Learning"
+    }
+  ]
+}
