@@ -13,7 +13,7 @@ def loadPaperMetadata (filepath):
 def standardizeName (name):
     parts = name.split()
     if len(parts) > 1:
-        return f"{parts[0][0]}." + ' '.join(parts[1:])
+        return f"{parts[0][0]}. " + ' '.join(parts[1:])
     return name
 
 def createAuthorsString (authors):
