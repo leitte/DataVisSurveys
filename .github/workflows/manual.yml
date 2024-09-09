@@ -53,9 +53,6 @@ jobs:
       with:
         name: posts
         path: posts
-    - name: Deploy to Github Pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./posts
-        destination_dir: ./docs/_posts
+    - name: Deploy pages
+      run: |
+        git status
