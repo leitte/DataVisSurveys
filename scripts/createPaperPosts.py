@@ -9,9 +9,15 @@ def loadPaperMetadata (filepath):
     with open(filepath, 'r') as file:
         paperMetadata = json.load(file)
         return paperMetadata
-    
+
+def standardizeName (name):
+    parts = name.split()
+    if len(parts) > 1:
+        return f"{parts[0][0]}." + ' '.join(parts[1:])
+    return name
+
 def createAuthorsString (authors):
-    authors_string = ', '.join([author.get('name','') for author in authors[:-1]]) + (' & ' + authors[-1]['name'] if len(authors) > 1 else '')
+    authors_string = ', '.join([standardizeName(author.get('name','')) for author in authors[:-1]]) + (' & ' + standardizeName(authors[-1]['name']) if len(authors) > 1 else '')
     return authors_string
 
 npapers = 0
