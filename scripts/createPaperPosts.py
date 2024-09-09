@@ -65,5 +65,5 @@ for filename in os.listdir(directory):
 
                 npapers += 1
 
-    if npapers > 50:
-        break
+    #if npapers > 50:
+    #    break
