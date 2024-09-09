@@ -53,14 +53,17 @@ jobs:
       uses: actions/checkout@v4
       with:
         ref: gh-pages
+        path: pages
 
     - name: Archive posts
       uses: actions/upload-artifact@v4
       with:
         name: posts
-        path: docs/_posts
+        path: posts
     - name: Deploy pages
       run: |
+        cd pages
+        cp ../posts/* docs/_posts
         git status
         git config user.name "github-actions[bot]"
         git config user.email {user.id}+{user.login}@users.noreply.github.com
