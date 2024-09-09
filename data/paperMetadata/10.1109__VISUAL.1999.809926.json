@@ -1,0 +1,118 @@
+{
+  "paperId": "a1865ea2fac0350554d6f349675815464ce7fbde",
+  "externalIds": {
+    "MAG": "1575664806",
+    "DBLP": "conf/visualization/ChapmanWSB99",
+    "DOI": "10.1109/VISUAL.1999.809926",
+    "CorpusId": 40313990
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a1865ea2fac0350554d6f349675815464ce7fbde",
+  "title": "\"Whole field modelling\". Effective real-time and post-survey visualization of underwater pipelines",
+  "abstract": "The detailed underwater bathymetric data provided by Sonar Research and Development's high speed multi-frequency sonar transducer system provides new challenges in the development of interactive seabed visualization tools. The paper introduces a \"Whole Field Modelling\" system developed at Sonar Research and Development Ltd and The Department of Computer Science, University of Hull. This system provides the viewer with a new 3D underwater visualization environment that allows the user to pilot a virtual underwater vehicle around an accurate seabed model. We consider two example case studies that use the Whole Field Modelling system for visualizing sonar data. Both case studies, visualizing real time pipeline dredging and pipe restoration visualization, are implemented using real survey data.",
+  "venue": "Proceedings Visualization '99 (Cat. No.99CB37067)",
+  "year": 1999,
+  "referenceCount": 12,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "1999-10-25",
+  "journal": {
+    "name": "Proceedings Visualization '99 (Cat. No.99CB37067)",
+    "pages": "445-560"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chapman1999WholeFM,\n author = {P. Chapman and D. Wills and P. Stevens and G. Brookes},\n booktitle = {Proceedings Visualization '99 (Cat. No.99CB37067)},\n journal = {Proceedings Visualization '99 (Cat. No.99CB37067)},\n pages = {445-560},\n title = {\"Whole field modelling\". Effective real-time and post-survey visualization of underwater pipelines},\n year = {1999}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2060443170",
+      "name": "P. Chapman"
+    },
+    {
+      "authorId": "2061799809",
+      "name": "D. Wills"
+    },
+    {
+      "authorId": "2052738533",
+      "name": "P. Stevens"
+    },
+    {
+      "authorId": "144005568",
+      "name": "G. Brookes"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "03532ff79102c724153319e245313e0e06e73946",
+      "title": "Seabed visualization"
+    },
+    {
+      "paperId": "c7ec12801b53fd8fb32264aa1cf59073855fb275",
+      "title": "Panoramas of the Seafloor"
+    },
+    {
+      "paperId": "9ea2f33a53c8caed0384472dd073a80a4981c841",
+      "title": "A virtual world for an autonomous underwater vehicle"
+    },
+    {
+      "paperId": "95f138f37e6d687ca7b11410287a2765f5c995d0",
+      "title": "From virtual world to reality: designing an autonomous underwater robot"
+    },
+    {
+      "paperId": "8bc909f085839f796e9c522233e473b9a7d69d27",
+      "title": "Offshore Tidal Sands: Processes and deposits"
+    },
+    {
+      "paperId": "ed13476158d2f6d0a32f66769432debe02448c27",
+      "title": "Underwater acoustic imaging"
+    },
+    {
+      "paperId": "4345b5836bad6ea8bdb788cebd9006885483c41f",
+      "title": "Underwater imaging with a moving acoustic lens"
+    },
+    {
+      "paperId": "949c5162f1bb6dc809f4e3357aeb2deaac9b3661",
+      "title": "Imaging the ocean floor: History and state of the art"
+    },
+    {
+      "paperId": "2af628896c094832679fc9e37acd1e81377090fd",
+      "title": "Offshore Tidal Sands"
+    },
+    {
+      "paperId": "6823dca9c6c49b5e658d4b96dad0d7f9cf46f0f3",
+      "title": "Principles of underwater sound"
+    },
+    {
+      "paperId": null,
+      "title": "Undersea visualization: a tool for scientific and engineering progress. Animation and Scientific Visualization: Tools and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing harbour walls, shipwrecks and underwater pipelines using high speed multi-fkquency sonar"
+    }
+  ]
+}

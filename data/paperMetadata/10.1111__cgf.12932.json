@@ -1,0 +1,718 @@
+{
+  "paperId": "2299c45bd53819a4a4090fcd892b6cbb5d3085a8",
+  "externalIds": {
+    "MAG": "3004012868",
+    "DBLP": "journals/corr/NusratK16",
+    "ArXiv": "1605.08485",
+    "DOI": "10.1111/cgf.12932",
+    "CorpusId": 12180113
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2299c45bd53819a4a4090fcd892b6cbb5d3085a8",
+  "title": "The State of the Art in Cartograms",
+  "abstract": "Cartograms combine statistical and geographical information in thematic maps, where areas of geographical regions (e.g., countries, states) are scaled in proportion to some statistic (e.g., population, income). Cartograms make it possible to gain insight into patterns and trends in the World around us and have been very popular visualizations for geo\u2010referenced data for over a century. This Work surveys cartogram research in visualization, cartography and geometry, covering a broad spectrum of different cartogram types: from the traditional rectangular and table cartograms, to Dorling and diffusion cartograms. A particular focus is the study of the major cartogram dimensions: statistical accuracy, geographical accuracy, and topological accuracy. We review the history of cartograms, describe the algorithms for generating them, and consider task taxonomies. We also review quantitative and qualitative evaluations, and we use these to arrive at design guidelines and research challenges.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 164,
+  "openAccessPdf": {
+    "url": "https://repository.arizona.edu/bitstream/10150/621282/1/star.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-05-27",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Nusrat2016TheSO,\n author = {S. Nusrat and S. Kobourov},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Cartograms},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "32314279",
+      "name": "S. Nusrat"
+    },
+    {
+      "authorId": "9374807",
+      "name": "S. Kobourov"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d7409eff9d13f1bfcf706e98a98f4f7fe4b1e0bb",
+      "title": "Election"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "007afb25b651340751ac04b41662429c16b23808",
+      "title": "Quantitative Measures for Cartogram Generation Techniques"
+    },
+    {
+      "paperId": "c75bbf04d1f9c7b110e021ba0b10b1e3d974ed70",
+      "title": "Evaluating Cartogram Effectiveness"
+    },
+    {
+      "paperId": "e129bb6b6ead127b8b1d2180bd8de34a70e457a4",
+      "title": "Mosaic Drawings and Cartograms"
+    },
+    {
+      "paperId": "849bb43ccd271183a3d0bceda5751866b7122f84",
+      "title": "Cartograms via mathematical morphology"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "65500caa26ed8e76473936a246a1b9f64ac40b22",
+      "title": "The changing face of global fisheries\u2014The 1950s vs. the 2000s"
+    },
+    {
+      "paperId": "2bc643ba02ca7dbd04312aca1e8f4ef6317e16ad",
+      "title": "Improved grid map layout by point set matching"
+    },
+    {
+      "paperId": "4f0a1ec809af878ad719bfd201f17c6878b10efa",
+      "title": "A fast, free-form rubber-sheet algorithm for contiguous area cartograms"
+    },
+    {
+      "paperId": "23e65246b28fa62b58aae61d2220a1d6c6cc53d7",
+      "title": "An Optimized Rubber-Sheet Algorithm for Continuous Area Cartograms"
+    },
+    {
+      "paperId": "df5e4a0479ed7b75128d1738c1f105cd14747fdb",
+      "title": "The World of Organic Agriculture \u2013 Density-equalizingMap"
+    },
+    {
+      "paperId": "7f0f6cc6d731debabe6bad23aed5eae2d96153ff",
+      "title": "Rediscovering the World: Map Transformations of Human and Physical Space"
+    },
+    {
+      "paperId": "e2ebd140bf05e9c6ba9dcdae18b00ed4b516e696",
+      "title": "Evolution Strategies for Optimizing Rectangular Cartograms"
+    },
+    {
+      "paperId": "be20f7efb7e93da1b84d55c7c716be6ec9279f8b",
+      "title": "World citation and collaboration networks: uncovering the role of geography in science"
+    },
+    {
+      "paperId": "5439db08a8476ae7740e5bda977c3205fba459a4",
+      "title": "Cartograms showing China's population and wealth distribution"
+    },
+    {
+      "paperId": "d175c5bfcac175ae9b43242e150923fa29d1d209",
+      "title": "Computing Cartograms with Optimal Complexity"
+    },
+    {
+      "paperId": "5ce82784f28f6b9acc7e2f720e063fa59bb6550d",
+      "title": "Circular-arc cartograms"
+    },
+    {
+      "paperId": "4b94030b666eeb952ca38644ee3d1fe56597918d",
+      "title": "Linear-Time Algorithms for Hole-free Rectilinear Proportional Contact Graph Representations"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "489b6d98b810c7cd1091912b5ec5bc8d254a313b",
+      "title": "Interacting with maps: The science and practice of cartographic interaction"
+    },
+    {
+      "paperId": "d2bb27ecde6ffb058a3500006c47db965112c49e",
+      "title": "Orthogonal Cartograms with Few Corners Per Face"
+    },
+    {
+      "paperId": "715eae334f9c1b57de35a0bf86a8db26fd3ea65e",
+      "title": "Mapping the climate: guidance on appropriate techniques to map climate variables and their uncertainty"
+    },
+    {
+      "paperId": "0ae5b49ae6b2e704e28ac34002c30c567865c214",
+      "title": "Empirical study of cartograms"
+    },
+    {
+      "paperId": "06b50b893dd4b142a4059f3250bb876d61dd205e",
+      "title": "Understanding the Demographics of Twitter Users"
+    },
+    {
+      "paperId": "7e49e96c1e3b74fb59fc53144d73b1236b2cb8cc",
+      "title": "Area Cartograms: Their Use and Creation"
+    },
+    {
+      "paperId": "8be81b03d1c1aaba8ecd57bbfa19e48616a179fb",
+      "title": "Comparing different levels of interaction constraints for deriving visual problem isomorphs"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "67f95c5bc33ce3a8e13a3ca7bee90a4825c3d0eb",
+      "title": "Area-Preserving Subdivision Schematization"
+    },
+    {
+      "paperId": "55d3281f6b34c50df975b7261044689bf73ec610",
+      "title": "Crowdsourcing graphical perception: using mechanical turk to assess visualization design"
+    },
+    {
+      "paperId": "13c727ddf546029acd8fe32d9a4d870aa0478e3f",
+      "title": "Principles of Map Design"
+    },
+    {
+      "paperId": "d780e420c421fe4c9e79e68408558017260e110d",
+      "title": "Effectiveness of Cartogram for the Representation of Spatial Data"
+    },
+    {
+      "paperId": "4388f1c86a4edb246100f598273ab5595e5f01dd",
+      "title": "Introduction: Cognitive Issues in Geographic Information Visualization"
+    },
+    {
+      "paperId": "2050a20aeefa3956bbaf1f6fd3f01e418f9bdf37",
+      "title": "A less\u2010is\u2010more approach to geovisualization \u2013 enhancing knowledge construction across multidisciplinary teams"
+    },
+    {
+      "paperId": "f27b8cc446f3e6de3ad545ec6137276ef8b9dbd9",
+      "title": "Doctor and researcher Hans Rosling shows the best stats you've ever seen (19:50)"
+    },
+    {
+      "paperId": "5dc52e3e970afd65e7b7fa995c4504aece5f2ac5",
+      "title": "Carto\u2010SOM: cartogram creation using self\u2010organizing maps"
+    },
+    {
+      "paperId": "c574a59be3f79f2459653eaf5bb648281fbf1426",
+      "title": "Are we in the midst of the sixth mass extinction? A view from the world of amphibians"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "76f19986422379860ba7304474b6299b9ad35bab",
+      "title": "Orthogonal Drawings for Plane Graphs with Specified Face Areas"
+    },
+    {
+      "paperId": "7871b2b1db30c1b691c31be849f8bf9b0c19361b",
+      "title": "Optimal BSPs and rectilinear cartograms"
+    },
+    {
+      "paperId": "fa1432c4a4587af3d9ce73641d7da55c1b4695ac",
+      "title": "Worldmapper: The World as You've Never Seen it Before"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "6013996efadd0061e9696c736d2cc55a78dd6991",
+      "title": "The role of the airline transportation network in the prediction and predictability of global epidemics"
+    },
+    {
+      "paperId": "395b1133be996947f82dea5c25ef8cabf92500a4",
+      "title": "A New Algorithm for Continuous Area Cartogram Construction with Triangulation of Regions and Restriction on Bearing Changes of Edges"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "1e2c4ddcee55e2b98f7a9b765171ade8e162d912",
+      "title": "On rectilinear duals for vertex-weighted plane graphs"
+    },
+    {
+      "paperId": "b94d06d3d10d5a714913a5bfa8034d6bbab9da1f",
+      "title": "Medial-axis-based cartograms"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "8aee6626d87ec899a61831a4cee46d271b2aaa45",
+      "title": "RecMap: Rectangular Map Approximations"
+    },
+    {
+      "paperId": "950bc330fba0d18c9d2abcf98206d59bdbaa7970",
+      "title": "On rectangular cartograms"
+    },
+    {
+      "paperId": "858e674c5e28e4b088ba9cdef8ee90bb202288e8",
+      "title": "Visualizing abstract data on maps"
+    },
+    {
+      "paperId": "4b9b3792224e85512136b88b4d527e63bb3d09ff",
+      "title": "Thematic Cartography and Geographic Visualization"
+    },
+    {
+      "paperId": "b166ea6ff36b040ca97d413c6c0be7161ed7b811",
+      "title": "The global distribution and population at risk of malaria: past, present, and future."
+    },
+    {
+      "paperId": "0fdf263e1073260e30d746409d526a2483bc771c",
+      "title": "Thirty Five Years of Computer Cartograms"
+    },
+    {
+      "paperId": "567a6b0d759d9dc2d5e3fc2df5180dc42fcf531c",
+      "title": "Oxford International Student's Atlas"
+    },
+    {
+      "paperId": "119a01498142f86d3b81b9e70976547dd4c18642",
+      "title": "Visualizing Geographic Information: VisualPoints vs CartoDraw"
+    },
+    {
+      "paperId": "b005647bf614c5b4d9f8bbfb64178092042f0d1c",
+      "title": "Commentary on \"A History of Twentieth-Century American Academic Cartography\" by Robert McMaster and Susanna McMaster"
+    },
+    {
+      "paperId": "370f6d8fe3c788909cfcbfdf826111bb0268e45f",
+      "title": "A History of Twentieth-Century American Academic Cartography"
+    },
+    {
+      "paperId": "b24a2111cafe6bde672c779c6b13d7be99d7a9f1",
+      "title": "Thematic Cartography and Visualization"
+    },
+    {
+      "paperId": "f86f41e872cb8aec6e878795a91880c89faf8ef1",
+      "title": "Continuous cartogram construction"
+    },
+    {
+      "paperId": "ad2fa9d39e086c547de9c6f284b8a7a2ccf0489c",
+      "title": "Learning and remembering from thematic maps of familiar regions"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "5985842a5188a5f6401320d815004feb7c59e329",
+      "title": "A New Social Atlas of Britain"
+    },
+    {
+      "paperId": "36c96f3837b9c345b4d10916c48647d0cc0c7c5d",
+      "title": "Learning from Cartograms: The Effects of Region Familiarity"
+    },
+    {
+      "paperId": "e96c5840cc80dc79e2b084380fe722c0ac17218d",
+      "title": "A New Social Atlas of Britain"
+    },
+    {
+      "paperId": "3e63a4b90624f0020988326fff8a2d0c19a64007",
+      "title": "A combinatorial approach to cartograms"
+    },
+    {
+      "paperId": "4e8325462fa907c13e5be8dc4b5fe911f4e65f41",
+      "title": "Visual cues - practical data visualization"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "ee262b2490272ee7f094b3d3c16358c895641f46",
+      "title": "An efficiently computable metric for comparing polygonal shapes"
+    },
+    {
+      "paperId": "f9d07c724b0ca90453bc48317867dc09db947cf2",
+      "title": "The relative effectiveness of the noncontiguous cartogram"
+    },
+    {
+      "paperId": "c0c8d24d4c63d06ddfa532bc601091ca1cb04e68",
+      "title": "Global geocancerology : a world geography of human cancers"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "e1ef0403873e217818a8ff657c4ca634d63312a5",
+      "title": "AN ALGORITHM TO CONSTRUCT CONTINUOUS AREA CARTOGRAMS"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "464e6ffa17a16b73de4c938306935b025f30da28",
+      "title": "Judgments of Circle Sizes on Statistical Maps"
+    },
+    {
+      "paperId": "0a564b6328d8039c271497e36a36e327dcf05d2a",
+      "title": "A Polyfocal Projection for Statistical Surfaces"
+    },
+    {
+      "paperId": "7f1b5ba2d254f275c7c2a026d353b6cbb93842f1",
+      "title": "NONCONTIGUOUS AREA CARTOGRAMS"
+    },
+    {
+      "paperId": "9c844f65b598cecbfc25fb60c33d51a33bb23d3a",
+      "title": "A CONTINUOUS TRANSFORMATION USEFUL FOR DISTRICTING"
+    },
+    {
+      "paperId": "0fc8f6e7aee5f02ef9c7e9da467685dfabd57f6b",
+      "title": "THE RELATIVE EFFECTIVENESS OF SOME COMMON GRADUATED POINT SYMBOLS IN THE PRESENTATION OF QUANTITATIVE DATA"
+    },
+    {
+      "paperId": "53bd32fbb2ef255ea260c6fb1517e72f86123583",
+      "title": "A TECHNIQUE FOR THE CONSTRUCTION OF QUANTITATIVE CARTOGRAMS BY PHYSICAL ACCRETION MODELS"
+    },
+    {
+      "paperId": "dc055815a9ab2186dd32559152f60fe8445a2801",
+      "title": "AREA CARTOGRAM OF THE SMSA POPULATION OF THE UNITED STATES1"
+    },
+    {
+      "paperId": "e58e4e1e5a423b80040729b5f63339af811ad938",
+      "title": "THE JUDGMENT OF SIZE."
+    },
+    {
+      "paperId": "aaeeac9e1296f012302ed5bfd319d3e8ed8c17e1",
+      "title": "National atlas of disease mortality in the United Kingdom."
+    },
+    {
+      "paperId": "f0900659864232d610eacda07089c40a2befa5c6",
+      "title": "National Atlas of Disease Mortality in the United Kingdom."
+    },
+    {
+      "paperId": "f9594df8b034a6305d2bae424baac04c31cf9f69",
+      "title": "The Geographical Study of Agricultural Land Use"
+    },
+    {
+      "paperId": "3ac241c19071de24318392245f4a38ad4ecb82aa",
+      "title": "On the psychophysical law."
+    },
+    {
+      "paperId": "7b155ee8149b9b5f530d79e12c3fb6f8837a658d",
+      "title": "TOWARD A UNITY OF CARTOGRAPHICAL FORMS AND GEOGRAPHICAL CONTENT"
+    },
+    {
+      "paperId": "1108a9def1f03620db9695b94f34e84a92d9e100",
+      "title": "The Distortion of Angles in General Cartography."
+    },
+    {
+      "paperId": "14d3b11165921d93eac3e476b9ce7395d5c06bc6",
+      "title": "Historical Development of the Graphical Representation of Statistical Data"
+    },
+    {
+      "paperId": "fc4f7dae35fbd4e0a87a1de1a9fb1eb9e93d34c4",
+      "title": "The Rectangular Statistical Cartogram"
+    },
+    {
+      "paperId": "243662da58099d8f4cf41b2d63febe182801855c",
+      "title": "Graphic Comparisons by Bars, Squares, Circles, and Cubes"
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:13)"
+    },
+    {
+      "paperId": "ff69c15ae585d48d8931e272f3dbf8e4ad599874",
+      "title": "Making Maps A Visual Guide To Map Design For Gis"
+    },
+    {
+      "paperId": "a918626505090f2caeb7227e8c4a1097034eb816",
+      "title": "Task Taxonomy for Cartograms"
+    },
+    {
+      "paperId": "e7504154cd7822747b78ccf4ad54223f4d21aa25",
+      "title": "Analyzing the Evolution of the Internet"
+    },
+    {
+      "paperId": "f67b4aaa0d1fc4c62eaabd98591a167cd49f699d",
+      "title": "Identifying Approaches to Usability Evaluation"
+    },
+    {
+      "paperId": "85c77e6e90d2b72ea24a289ab04057557ee70b72",
+      "title": "The Use of Cartograms in School Cartography"
+    },
+    {
+      "paperId": null,
+      "title": "World population map \u2013 a cartogram for the classroom"
+    },
+    {
+      "paperId": "353f255836d3758b40966ccec0efd14e3d26a706",
+      "title": "Cartograms of self-organizing maps to explore user-generated content"
+    },
+    {
+      "paperId": "21b62809f4e040030d2c0aa2bfac240d7883643e",
+      "title": "Table Cartograms"
+    },
+    {
+      "paperId": "9d6c741996922f8450c390264f6638c109287155",
+      "title": "Thematic map design"
+    },
+    {
+      "paperId": null,
+      "title": "fooledby-county-maps-Cartograms-accurately-show-Democratic-strength-in-Virginia"
+    },
+    {
+      "paperId": null,
+      "title": "How to visualise social structure"
+    },
+    {
+      "paperId": null,
+      "title": "The Electoral Map \u2013 Presidential Race Ratings and Swing States \u2013 NYTimes. http://elections.nytimes.com/2012/ ratings/electoral-map"
+    },
+    {
+      "paperId": null,
+      "title": "News census: Maps show migration trends"
+    },
+    {
+      "paperId": "2b2282ad2b97035ef601b09b0b4c8954d04bbb65",
+      "title": "Techniques for Statistical Data Visualization in GIS"
+    },
+    {
+      "paperId": "48688a4654c0295f825b61618ed9b7ffebe75887",
+      "title": "Area cartograms in building product model visualization: A case study on the presentation of non-spatial object properties in spatial context with anamorphic maps"
+    },
+    {
+      "paperId": "704359002b52178dc3e192f722060785419b1f15",
+      "title": "Quantitative Geography"
+    },
+    {
+      "paperId": null,
+      "title": "Using Cartograms in Disease Mapping"
+    },
+    {
+      "paperId": "6680403e91b1ce129016c52f7c354ffad8a4cded",
+      "title": "Re-Drawing the World : An Approach towards a gridded World Population Cartogram"
+    },
+    {
+      "paperId": null,
+      "title": "Europe goes to the polls"
+    },
+    {
+      "paperId": null,
+      "title": "TED Talk: Insights on HIV, in stunning data visuals"
+    },
+    {
+      "paperId": null,
+      "title": "A Map of Olympic Medals \u2013 NYTimes"
+    },
+    {
+      "paperId": null,
+      "title": "TED talk: The news about the news"
+    },
+    {
+      "paperId": null,
+      "title": "WP-08] Presidential Election: Winners by County \u2013 The Washington Post"
+    },
+    {
+      "paperId": "c550c3fc66e062aafb02ce0cadb2563ee046f470",
+      "title": "The world of organic agriculture: statistics and emerging trends."
+    },
+    {
+      "paperId": "c83fe321173d25f329cde83680d6d93d07d7ef92",
+      "title": "A Linear Programming Approach to Rectangular Cartograms"
+    },
+    {
+      "paperId": "c14ed692cb0411d84b1a104b991b6a673d74f3fe",
+      "title": "Rectangular cartogram computation with sea regions"
+    },
+    {
+      "paperId": "7698472ef0dc015922ff604fdf80f63d1742a2c6",
+      "title": "From The Cover: Diffusion-based method for producing density-equalizing maps."
+    },
+    {
+      "paperId": "2fe65de6c1df8811100a4fc570ca00798bc4d395",
+      "title": "CartoDraw: a fast algorithm for generating contiguous cartograms"
+    },
+    {
+      "paperId": null,
+      "title": "15 [NYT06] Election News \u2013 NYTimes"
+    },
+    {
+      "paperId": "504ddac2323951b15c45d4bc4bf6687d58dc5e88",
+      "title": "A magnifying glass"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "d0375dbbe2aa5850ae6f484df182019fa341d297",
+      "title": "The guardian"
+    },
+    {
+      "paperId": "63d24a6beea71b32457d6a84fdef65b7e691e3a7",
+      "title": "The Evolution of The Internet"
+    },
+    {
+      "paperId": null,
+      "title": "Cartogram types"
+    },
+    {
+      "paperId": "4e056a5a3811b68ed793c22f4d6f7879d4e44c3c",
+      "title": "GEOGRAPHIC VISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "Using animation to improve the communicative aspect of cartograms"
+    },
+    {
+      "paperId": "848f793e98dbcb6b15f94c101f7c56f7b8427beb",
+      "title": "Constructing continuous cartograms: a constraint-based approach"
+    },
+    {
+      "paperId": "3d1a734c8fd84b494d42f72f53494b7b5f17be59",
+      "title": "Election news."
+    },
+    {
+      "paperId": null,
+      "title": "Westermann Kartographie"
+    },
+    {
+      "paperId": "ee029a8f5428e5d067fb60f85dfd0d77584dd5fc",
+      "title": "NUMERICAL METHODS IN THE COMPILATION OF TRANSFORMED IMAGES"
+    },
+    {
+      "paperId": null,
+      "title": "Comparing thematic map types and region familiarity on recall and inferencing"
+    },
+    {
+      "paperId": null,
+      "title": "From computer cartography to spatial visualization: A new cartogram algorithm"
+    },
+    {
+      "paperId": "b17b43357c96b40e3fa3b61b86925a8451714d51",
+      "title": "Hexagon Mosaic Maps for Display of Univariate and Bivariate Geographical Data"
+    },
+    {
+      "paperId": null,
+      "title": "Cartogram: a microcomputer program for the interactive construction of contiguous value-by-area cartograms. Master's thesis"
+    },
+    {
+      "paperId": "0f00e955ad2ac754fa8afda006400b4df2f880a6",
+      "title": "Transformations of maps to investigate clusters of disease."
+    },
+    {
+      "paperId": "4a666975224d08719bd65a4849d3a4248be51575",
+      "title": "\u201cMagnifying-Glass\u201d Azimuthal Map Projections"
+    },
+    {
+      "paperId": "db12ca2cbfa2a039a94f2e963da2c26b0d59c6b7",
+      "title": "Recognition of Areal Units on Topological Cartograms"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "98beffd2a20bea28b72c9c2135bd4b78dabf68d3",
+      "title": "The atlas of Canada and the world"
+    },
+    {
+      "paperId": "9efed484fb2ebf6b1abee3cc8e40475a46a426aa",
+      "title": "Communication Aspects of Value-by-Area Cartograms"
+    },
+    {
+      "paperId": "d9fffd6fd4f5e5d210e83b316c8744f3ba6989e7",
+      "title": "THE AREA ADJUSTED MAP. AN EPIDEMIOLOGIC DEVICE."
+    },
+    {
+      "paperId": "39e9788daeb90f60a79ccaa1b3efcd279e510013",
+      "title": "Agricultural Maps in National Atlases"
+    },
+    {
+      "paperId": "d849080d6e790fb66c7c2e9eaab22fa7236ef0d5",
+      "title": "A rough survey of the grassland vegetation in the Netherlands."
+    },
+    {
+      "paperId": null,
+      "title": "Geographical distribution of malaria in Brazil"
+    },
+    {
+      "paperId": null,
+      "title": "UK1] Election 2015 results mapped: 2015 full list. http:// www.telegraph.co.uk/news/general-election-2015/ 11584325/full-results-map-uk-2015"
+    },
+    {
+      "paperId": null,
+      "title": "Bivariate cartograms. http://indiemapper.com/app/ learnmore.php?l=bivariate_cartogram"
+    },
+    {
+      "paperId": null,
+      "title": "U.S. election results \u2013 2012 election \u2013 Los"
+    },
+    {
+      "paperId": null,
+      "title": "Map of the Week 6 (October 21-27): A Cartogram of the World\u2019s Population"
+    },
+    {
+      "paperId": null,
+      "title": "Digital library for publication: The State of the Art in Cartograms"
+    },
+    {
+      "paperId": null,
+      "title": "I hate your favorite election map"
+    },
+    {
+      "paperId": null,
+      "title": ") . 15 [ Pro 10 ] Protovis \u2013 Dorling Cartograms"
+    },
+    {
+      "paperId": null,
+      "title": "States Where Insured Could Renew Plans Before Change by Obama"
+    },
+    {
+      "paperId": null,
+      "title": "Cart: Computer software for making cartograms"
+    },
+    {
+      "paperId": null,
+      "title": ") . 2 , 5 , 11 , 12 , 17 [ Bai 08 ] 1911 cartogram : \u201c apportionment map \u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Using cartograms to learn about Latin American Demographics"
+    },
+    {
+      "paperId": null,
+      "title": "Perceptual scaling of map symbols. https://makingmaps. net/2007/08/28/perceptual-scaling-of-map- symbols"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "paperId": "a763ed227167afb70ec83fd4a5595271fd998e48",
+  "externalIds": {
+    "DBLP": "journals/cgf/RodriguezGGMMPS14",
+    "MAG": "1816080730",
+    "DOI": "10.1111/cgf.12280",
+    "CorpusId": 15735483
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a763ed227167afb70ec83fd4a5595271fd998e48",
+  "title": "State\u2010of\u2010the\u2010Art in Compressed GPU\u2010Based Direct Volume Rendering",
+  "abstract": "Great advancements in commodity graphics hardware have favoured graphics processing unit (GPU)\u2010based volume rendering as the main adopted solution for interactive exploration of rectilinear scalar volumes on commodity platforms. Nevertheless, long data transfer times and GPU memory size limitations are often the main limiting factors, especially for massive, time\u2010varying or multi\u2010volume visualization, as well as for networked visualization on the emerging mobile devices. To address this issue, a variety of level\u2010of\u2010detail (LOD) data representations and compression techniques have been introduced. In order to improve capabilities and performance over the entire storage, distribution and rendering pipeline, the encoding/decoding process is typically highly asymmetric, and systems should ideally compress at data production time and decompress on demand at rendering time. Compression and LOD pre\u2010computation does not have to adhere to real\u2010time constraints and can be performed off\u2010line for high\u2010quality results. In contrast, adaptive real\u2010time rendering from compressed representations requires fast, transient and spatially independent decompression. In this report, we review the existing compressed GPU volume rendering approaches, covering sampling grid layouts, compact representation models, compression techniques, GPU rendering architectures and fast decoding techniques.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2014,
+  "referenceCount": 143,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-09-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "33"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Balsa2014StateoftheArtIC,\n author = {Marcos Balsa and E. Gobbetti and Jose A. Iglesias-Guitian and Maxim Makhinya and F. Marton and R. Pajarola and S. Suter},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State\u2010of\u2010the\u2010Art in Compressed GPU\u2010Based Direct Volume Rendering},\n volume = {33},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144051446",
+      "name": "Marcos Balsa"
+    },
+    {
+      "authorId": "1708999",
+      "name": "E. Gobbetti"
+    },
+    {
+      "authorId": "2023703487",
+      "name": "Jose A. Iglesias-Guitian"
+    },
+    {
+      "authorId": "1717020",
+      "name": "Maxim Makhinya"
+    },
+    {
+      "authorId": "1685719",
+      "name": "F. Marton"
+    },
+    {
+      "authorId": "1690186",
+      "name": "R. Pajarola"
+    },
+    {
+      "authorId": "48845379",
+      "name": "S. Suter"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e8c4d92317d0e920b9ac18993eb8db408a3e4200",
+      "title": "PCA-based Seeding for Improved Vector Quantization"
+    },
+    {
+      "paperId": "1583030b5a9a7fcfc07d58a8ee53b60ea6357f56",
+      "title": "An analysis of scalable GPU-based ray-guided volume rendering"
+    },
+    {
+      "paperId": "3924e77568ee035086975d4e6f36464a1acd070b",
+      "title": "TAMRESH \u2013 Tensor Approximation Multiresolution Hierarchy for Interactive Volume Visualization"
+    },
+    {
+      "paperId": "509f4a29499687ff1f0e3af5a00c0149aee66448",
+      "title": "An Adaptive Prediction-Based Approach to Lossless Compression of Floating-Point Volume Data"
+    },
+    {
+      "paperId": "005de7993edf311f02e4d3ab9ef90563469af7d4",
+      "title": "Adaptive scalable texture compression"
+    },
+    {
+      "paperId": "76d04f6dfe3b9af6cc2135d47fa65caa0fc5a864",
+      "title": "Time-Varying Data Visualization Using Functional Representations"
+    },
+    {
+      "paperId": "257be80e53a8c04eb6ef159afccb729c4391685a",
+      "title": "An Efficient Compressed Volume Rendering Algorithm Based on GPU"
+    },
+    {
+      "paperId": "282b182cddbd5dd403fed0e80ac9df55cdc5fecd",
+      "title": "Interactive Multiscale Tensor Reconstruction for Multiresolution Volume Visualization"
+    },
+    {
+      "paperId": "0963bab2168c952a9477c4dc2b98937ed80c36aa",
+      "title": "A Smart Compression Scheme for GPU-Accelerated Volume Rendering of Time-Varying Data"
+    },
+    {
+      "paperId": "0fb6afe3655a7bd7c383ec58addf0b1474893b5f",
+      "title": "Demand-driven volume rendering of terascale EM data"
+    },
+    {
+      "paperId": "25602685f5e9b9c80e78fdcd0924da0154a20c4f",
+      "title": "Real-Time Rendering of Temporal Volumetric Data on a GPU"
+    },
+    {
+      "paperId": "a3cd6592422d6a4573e2564a96aa066b738ada2d",
+      "title": "Efficient implementation and evaluation of wavelet packet for 3D medical image segmentation"
+    },
+    {
+      "paperId": "26d3a65bea304f795b218f781bcd2500dd9a88e7",
+      "title": "Feature-Preserving Volume Data Reduction and Focus+Context Visualization"
+    },
+    {
+      "paperId": "9e1a66dcc53643baa0a088722b5fa1886d1024c5",
+      "title": "A Content-based Classified Hierarchical Vector Quantization Algorithm for Volume Compression"
+    },
+    {
+      "paperId": "9f01053c228ecdd59aef7896e5a96e2ea20569f3",
+      "title": "Application of Tensor Approximation to Multiscale Volume Feature Representations"
+    },
+    {
+      "paperId": "cc9c23f426119642bdd2e0e36590439672d067e9",
+      "title": "Sparse and Redundant Representations - From Theory to Applications in Signal and Image Processing"
+    },
+    {
+      "paperId": "733388fe135b316d38fb4d9a859780b4d8d97207",
+      "title": "Efficient volume rendering on the body centered cubic lattice using box splines"
+    },
+    {
+      "paperId": "47e12ba28733a9ab14bd231a80e5144557416063",
+      "title": "View-dependent exploration of massive volumetric models on\u00a0large-scale light field displays"
+    },
+    {
+      "paperId": "e2782f232ab4c7ffada144e20470fc1fc61d8a9b",
+      "title": "Split-Voxel: A Simple Discontinuity-Preserving Voxel Representation for Volume Rendering"
+    },
+    {
+      "paperId": "b5f8b3ac2feceea5a4d746f5d9d10a26a1c88384",
+      "title": "A GPU-Supported Lossless Compression Scheme for Rendering Time-Varying Volume Data"
+    },
+    {
+      "paperId": "18a1a63282e1c6bc2851ff435551444a11a5b81d",
+      "title": "Dictionaries for Sparse Representation Modeling"
+    },
+    {
+      "paperId": "a27e8212035e26e68128c893e5b0e0148ddd177d",
+      "title": "Recursive Least Squares Dictionary Learning Algorithm"
+    },
+    {
+      "paperId": "e69ea3631ac88bc91cee839290186420a34d71a7",
+      "title": "Mapping High-Fidelity Volume Rendering for Medical Imaging to CPU, GPU and Many-Core Architectures"
+    },
+    {
+      "paperId": "ccd1282aea3cc7c3d40300d82472fc5f9f54cb8e",
+      "title": "Online Learning for Matrix Factorization and Sparse Coding"
+    },
+    {
+      "paperId": "87e43e9eba01a4eb03436c9946bf6aa031a5d5af",
+      "title": "Tensor Decompositions and Applications"
+    },
+    {
+      "paperId": "5c007aa55eeb248fdb017093d5a441d3bbe3e07c",
+      "title": "BTF Compression via Sparse Tensor Decomposition"
+    },
+    {
+      "paperId": "768fc7ae409776c62af6ad86ff8adbcd722cec00",
+      "title": "Scan-based wavelet transform for huge 3D volume data"
+    },
+    {
+      "paperId": "fa491290803327596eaee32cc6d70786c363e652",
+      "title": "Out-of-core volume rendering for time-varying fields using a space-partitioning time (SPT) tree"
+    },
+    {
+      "paperId": "5b2ff5d88c87ac4af9dd18ef9bbcac4e0fa8ac09",
+      "title": "GigaVoxels: ray-guided streaming for efficient and detailed voxel rendering"
+    },
+    {
+      "paperId": "9950cf95ac95bfd60bd95d035521ff633a93c999",
+      "title": "Coherent multiresolution isosurface ray tracing"
+    },
+    {
+      "paperId": "d2a46e0c87a489e450fc3baadfa27a22127b31c0",
+      "title": "Modeling and Visualization Approaches for Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "4b64b07aa5249d2436811050be5255c1c87da782",
+      "title": "Importance-Driven Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "c41d7eb6bf85b5c060ed07185f147b89d494b578",
+      "title": "Smooth Mixed-Resolution GPU Volume Rendering"
+    },
+    {
+      "paperId": "88d50dd8554d2a4ebb91746db94b4216c858b237",
+      "title": "Real-Time Massive Model Rendering"
+    },
+    {
+      "paperId": "81514d6e52e4970849cddcb642eac762802a24aa",
+      "title": "A single-pass GPU ray casting framework for interactive out-of-core rendering of massive volumetric datasets"
+    },
+    {
+      "paperId": "8d027ea91b4eef2a61827fdc04a7895614834ddf",
+      "title": "Technical strategies for massive model visualization"
+    },
+    {
+      "paperId": "6268081e99fcdedfb9278f3e4879f83fd37fc95f",
+      "title": "Multi-resolution Volume Rendering of Large Time-Varying Data using Video-based Compression"
+    },
+    {
+      "paperId": "5c0faf3e3c1c0cf167db0da846b5081a1d51a5e9",
+      "title": "Practical Box Splines for Reconstruction on the Body Centered Cubic Lattice"
+    },
+    {
+      "paperId": "26c64ed665f49858e9e0a0dcc1285bcfb28f072f",
+      "title": "Transform Coding for Hardware-accelerated Volume Rendering"
+    },
+    {
+      "paperId": "0d0932201b6300b3604aac30b9bf77027ed1f724",
+      "title": "Massive-Model Rendering Techniques: A Tutorial"
+    },
+    {
+      "paperId": "d62ff7cb7ced249e52d75385008bf3c973b23dac",
+      "title": "ETC2: texture compression using invalid combinations"
+    },
+    {
+      "paperId": "62fcfe4fd1648b456ce2a1c6bdfe4a165f04b145",
+      "title": "Two-stage compression for fast volume rendering of time-varying scalar data"
+    },
+    {
+      "paperId": "83b522f4bfa5db7f7d34f839475af7d078107634",
+      "title": "$rm K$-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation"
+    },
+    {
+      "paperId": "343c2bfa123fd8408735f9111cbb8668c7df5109",
+      "title": "Enhancing the Interactive Visualization of Procedurally Encoded Multifield Data with Ellipsoidal Basis Functions"
+    },
+    {
+      "paperId": "d9353dbacdc545ae5d1e6b642542ea8b65999a83",
+      "title": "Visualization of large scale time-varying scientific data"
+    },
+    {
+      "paperId": "cb1c6837e93434cdaf4e9433ca201df1f33010ae",
+      "title": "Real-time volume graphics"
+    },
+    {
+      "paperId": "b4a1e8cd808b66f538db3d507fb6a46e8608da88",
+      "title": "Multiresolution Interblock Interpolation in Direct Volume Rendering"
+    },
+    {
+      "paperId": "f0ab75e4f5318fa701800506f113e823f1e1b122",
+      "title": "Prefiltered Gaussian reconstruction for high-quality rendering of volumetric data sampled on a body-centered cubic grid"
+    },
+    {
+      "paperId": "80a2f4777163b1f6de685cf22aa41fe0ca3e509b",
+      "title": "GPU-based 3D wavelet reconstruction with tileboarding"
+    },
+    {
+      "paperId": "3140197b2b01ad70790c8a50790a908a85f0deba",
+      "title": "A hardware architecture for multi-resolution volume rendering"
+    },
+    {
+      "paperId": "40d12f10c3ab845e54246f026a05e23a8c391905",
+      "title": "Out-of-core tensor approximation of multi-dimensional matrices of visual data"
+    },
+    {
+      "paperId": "66fc42ccc26ee2dce9dd3f4bbe4b054e0df1b537",
+      "title": "A multiresolution volume rendering framework for large-scale time-varying data visualization"
+    },
+    {
+      "paperId": "c8797708379cd4cadc8bc9523b74f3125d6d09b0",
+      "title": "GPU-based object-order ray-casting for large datasets"
+    },
+    {
+      "paperId": "a2d84bf48ab4938c4224206056ced529ccd1fee2",
+      "title": "Eurographics-ieee Vgtc Symposium on Visualization (2005) High-quality Rendering of Compressed Volume Data Formats"
+    },
+    {
+      "paperId": "d967af407859a6e1f5614dc77fc5ef95fb4c2d65",
+      "title": "Wavelet coding of volumetric medical images with high throughput and operability"
+    },
+    {
+      "paperId": "96e2bf5c7db5151304ea3f693ac5290e0f373e55",
+      "title": "Transfer function based adaptive decompression for volume rendering of large medical data sets"
+    },
+    {
+      "paperId": "463a6dab6506abde28784299e4f46cb91bedb2a9",
+      "title": "Multidimensional volume visualization for PC-based microsurgical simulation system"
+    },
+    {
+      "paperId": "674233845fd063adb88b1d43d46732a68b4c7445",
+      "title": "GPU-based frequency domain volume rendering"
+    },
+    {
+      "paperId": "62a1b0f82c46349be47accd966543c6ebb306343",
+      "title": "Advanced techniques for high-quality multi-resolution volume rendering"
+    },
+    {
+      "paperId": "611f1199b485149332f5d91117e51b4f770d00cd",
+      "title": "Compression domain volume rendering"
+    },
+    {
+      "paperId": "31da935161133a5491b497c1bf0510b5195991e7",
+      "title": "High dimensional direct rendering of time-varying volumetric data"
+    },
+    {
+      "paperId": "a0f1555150a8c6294083e563454507aed587decc",
+      "title": "Real-time volume rendering of time-varying data using a fragment-shader compression approach"
+    },
+    {
+      "paperId": "2ca69ba25f7c701ff1016d1b9ea4aa8875af24f4",
+      "title": "Out\u2010of\u2010core compression and decompression of large n\u2010dimensional scalar fields"
+    },
+    {
+      "paperId": "1c9b763ecf4834c99b4aa475eccd99e61c6414bf",
+      "title": "Texture compression using low-frequency signal modulation"
+    },
+    {
+      "paperId": "ba8bb02e402c61b7bf44dd6b4fa046b48b200431",
+      "title": "Lossy-to-lossless compression of medical volumetric data using three-dimensional integer wavelet transforms"
+    },
+    {
+      "paperId": "d398cf04eb1eff11096b143410e5801b84f366fa",
+      "title": "Wavelet coding of volumetric medical datasets"
+    },
+    {
+      "paperId": "251236b8808537b7bb83da4c1414b184fd1862ba",
+      "title": "Space-time points: 4D splatting on efficient grids"
+    },
+    {
+      "paperId": "0ed80af62b58972735bc2b519cdc05b728f99dec",
+      "title": "Interactive rendering of large volume data sets"
+    },
+    {
+      "paperId": "e61b588eb3a9e4ce7cc5e3038f5b7d4e0abd8a7d",
+      "title": "Texture hardware assisted rendering of time-varying volume data"
+    },
+    {
+      "paperId": "d539977aedbdadbea27f2f0042e68be7c4d31036",
+      "title": "Optimal regular volume sampling"
+    },
+    {
+      "paperId": "46db3ada0980b2d513b73fcef5383d6b6c63cffe",
+      "title": "Real-time decompression and visualization of animated volume data"
+    },
+    {
+      "paperId": "d291e5bf7cc908a38076788597ebb172dbd12ff5",
+      "title": "Rapid High Quality Compression of Volume Data for Visualization"
+    },
+    {
+      "paperId": "e3b3a763da03112947f362bd13ef9df2bc9c60c2",
+      "title": "Multiresolution volume visualization with a texture-based octree"
+    },
+    {
+      "paperId": "05e7d88387ac7484397e329456535b0c8c665a16",
+      "title": "Level-of-Detail Volume Rendering via 3D Textures"
+    },
+    {
+      "paperId": "9ac332cc8f453a0e693cf63cb210559dc59aba7c",
+      "title": "Combining fractal image compression and vector quantization"
+    },
+    {
+      "paperId": "6e299b14a6217926114000ba0b60552ec466288a",
+      "title": "Wavelet Based 3D Compression for Very Large Volume Data Supporting Fast Random Access"
+    },
+    {
+      "paperId": "1e7e0d21e73b08105b36057c70aa82eabe34bf61",
+      "title": "Multiresolution techniques for interactive texture-based volume visualization"
+    },
+    {
+      "paperId": "3d6c45c26621092fe2751574e9a60e58b4c8a0f4",
+      "title": "An efficient wavelet-based compression method for volume rendering"
+    },
+    {
+      "paperId": "d07a7772a5e8b101fc93027c4ab172c5967e09d1",
+      "title": "Wavelet based 3D compression with fast random access for very large volume data"
+    },
+    {
+      "paperId": "6049fe1be4859a42efaa83e5c0e2e0535f8af1ac",
+      "title": "Forward sequential algorithms for best basis selection"
+    },
+    {
+      "paperId": "bd9583b5c11b81af3650d89028414009c7a9481c",
+      "title": "Wavelet\u2010Based 3D Compression Scheme for Interactive Visualization of Very Large Volume Data"
+    },
+    {
+      "paperId": "3798975c7688aff9e527487d765fcd5c6476912c",
+      "title": "Integrated volume compression and visualization"
+    },
+    {
+      "paperId": "6ab9fe51fbad0e58b86cab893940db2f8cd69cda",
+      "title": "Compression Domain Volume Rendering for Distributed Environments"
+    },
+    {
+      "paperId": "7f527b505041a1cf4be98332c6f908bc6ef5d155",
+      "title": "Two methods for wavelet-based volume rendering"
+    },
+    {
+      "paperId": "7b128c116c92681176320285ee45476bca115ca0",
+      "title": "Fractal Volume Compression"
+    },
+    {
+      "paperId": "3fa3fc60286d103bfc801abf305d763c3ad47550",
+      "title": "Direct rendering of Laplacian pyramid compressed volume data"
+    },
+    {
+      "paperId": "22fc03738309af6d196dd830fefeb3cf27d8463c",
+      "title": "Compression domain rendering of time-resolved volume data"
+    },
+    {
+      "paperId": "51a1d601b4c2172c54b442cbffeee7e18a5c593c",
+      "title": "Volume Rendering of DCT-Based Compressed 3D Scalar Data"
+    },
+    {
+      "paperId": "d97116e47a1d6b4b3d482d258584286c5336284a",
+      "title": "Lossless compression of volume data"
+    },
+    {
+      "paperId": "fe762884b98cfa1dd810c04f5ea29887ed6e20b2",
+      "title": "A multiresolution framework for volume rendering"
+    },
+    {
+      "paperId": "51aa13bcb40918bf313163b301efe71ef3d8c58c",
+      "title": "Fast volume rendering using a shear-warp factorization of the viewing transformation"
+    },
+    {
+      "paperId": "2722ff77fb6ec2a950147e30ecf693014c3d51a3",
+      "title": "Fast volume rendering of compressed data"
+    },
+    {
+      "paperId": "8d29eb39f08e4d5a74555f6280051919cddafe1b",
+      "title": "Fourier volume rendering"
+    },
+    {
+      "paperId": "07ad1c0ec4bb78ef4067139d8920cc399e00df9a",
+      "title": "Volume data and wavelet transforms"
+    },
+    {
+      "paperId": "401cf2043f651cb22d8e78092f90a0820647c309",
+      "title": "Vector quantization for volume rendering"
+    },
+    {
+      "paperId": "9cdb704a23621cab99f069e4a60c7a0d7e2f5dcc",
+      "title": "Towards a comprehensive volume visualization system"
+    },
+    {
+      "paperId": "a6f45066d0d884dbd1ee1b511a96fbb1f37a41c2",
+      "title": "Volume rendering using the Fourier projection-slice theorem"
+    },
+    {
+      "paperId": "3a36b46562c4f9b152e1d6d0914e9e36dab75922",
+      "title": "A Fourier Technique for Volume Rendering"
+    },
+    {
+      "paperId": "5eb809208d7295a5494fdee094debf0fe607228c",
+      "title": "Fast reprojection of volume data"
+    },
+    {
+      "paperId": "c8a975d7d75f4e31d79c7032f23c3581e7a09f54",
+      "title": "Multidimensional digital signal processing"
+    },
+    {
+      "paperId": "c0e3d65d43d49a88148be0865c11cd281da790b9",
+      "title": "Multidimensional Digital Signal Processing"
+    },
+    {
+      "paperId": "9241ea3d8cb85633d314ecb74b31567b8e73f6af",
+      "title": "Least squares quantization in PCM"
+    },
+    {
+      "paperId": "478deaeeeadd545579ba4f041c755257e48be599",
+      "title": "Image Compression Using Block Truncation Coding"
+    },
+    {
+      "paperId": null,
+      "title": "submitted to COMPUTER GRAPHICS Forum"
+    },
+    {
+      "paperId": "623546126181da48837c5cbb206276cf4154f49e",
+      "title": "A GPU-based Multiresolution Pipeline for Compressed Volume Rendering"
+    },
+    {
+      "paperId": "a7b22b28d707c1a4758e8b5c3d7ab0bc9b9dc8f5",
+      "title": "A Survey of Compressed GPU-Based Direct Volume Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "Her research covers the application of mathematical frameworks to compression, feature extraction, and visualization of volume data"
+    },
+    {
+      "paperId": "c56c1c04569b9b19411abfd6f73a7b137faa3877",
+      "title": "COVRA A compression-domain output-sensitive volume rendering architecture based on a sparse representation of voxel blocks"
+    },
+    {
+      "paperId": null,
+      "title": "Maxim Makhinya Researcher at the Visualization and Multimedia Lab at the University of Zurich, Switzerland"
+    },
+    {
+      "paperId": null,
+      "title": "Iglesias Guiti\u00e1n Post-doctoral researcher at the Graphics and Imaging Lab at the University of Zaragoza, Spain. This work was done while at the Visual Computing group at the CRS4 research center"
+    },
+    {
+      "paperId": "cb5dd43be62e169085c689c58a859be4a9f32640",
+      "title": "A Survey of VQ Codebook Generation"
+    },
+    {
+      "paperId": "17232713ba3c8f9134d43acfdfc48f0352829303",
+      "title": "Application-Driven Compression for Visualizing Large-Scale Time-Varying Data"
+    },
+    {
+      "paperId": "2b805fe6fe52e483a0c6a7218822ca778d6b4e11",
+      "title": "Giga-Voxel Rendering from Compressed Data on a Display Wall"
+    },
+    {
+      "paperId": "68443c083a0167dc88494a12c1487d2b7a4a8b5a",
+      "title": "Multiscale Time Activity Data Exploration via Temporal Clustering Visualization Spreadsheet"
+    },
+    {
+      "paperId": "1aba8d75a94e63bfb8ec810f00b8ef9e4596e443",
+      "title": "GPU-Based Volume Ray-Casting with Advanced Illumination"
+    },
+    {
+      "paperId": "fdf0dd6aa27773100e6b2eb4e7210d6978d0c48e",
+      "title": "S3Dc: A 3Dc-based Volume Compression Algorithm"
+    },
+    {
+      "paperId": "831159d20432178e3968fed7c51255d7a5e128f8",
+      "title": "Hierarchical Tensor Approximation of Multi-Dimensional Visual Data"
+    },
+    {
+      "paperId": "6d967531d3b286e0e88dc78603217c42ab9872ee",
+      "title": "BCC-Splines: Generalization of B-Splines for the Body-Centered Cubic Lattice"
+    },
+    {
+      "paperId": "fab8f4ca69e43907034d457212761d085dd02223",
+      "title": "Synthesis Lectures on Computer Graphics and Animation"
+    },
+    {
+      "paperId": "0f8a3be4ff334853a7f164a05c228b456f3ac8c6",
+      "title": "Lossless Volume Data Compression Schemes"
+    },
+    {
+      "paperId": "93c5dfd0497a9c0dc5d2e40739e313db3e2b50ae",
+      "title": "Sequential Data Compression of Very Large Data in Volume Rendering"
+    },
+    {
+      "paperId": "9d713f1f79554a28b9788c0299cb07d34d782022",
+      "title": "Geometric Approximation via Coresets"
+    },
+    {
+      "paperId": "08c16cd4edfee1296f1d07b085475f6a608ece98",
+      "title": "Sublinear\u2010time approximation algorithms for clustering via random sampling"
+    },
+    {
+      "paperId": "ba34a5452c9dbf096e20ec291ee8a996662b91dd",
+      "title": "Adaptive Sampling in Single Pass, GPU-based Raycasting of Multiresolution Volumes"
+    },
+    {
+      "paperId": "01667556786492e555be9e0981821b3d5a908331",
+      "title": "GPU-Assisted Raycasting for Cosmological Adaptive Mesh Refinement Simulations"
+    },
+    {
+      "paperId": "f18efe42a768510e417a3d0dce681dd24e2cad69",
+      "title": "Wavelet coding of volumetric medical images for high throughput and operability"
+    },
+    {
+      "paperId": "f6e0fb4c77906bc23fe59a8f848ce62ba9687181",
+      "title": "K-SVD : An Algorithm for Designing of Overcomplete Dictionaries for Sparse Representation"
+    },
+    {
+      "paperId": "cb94b2730e654e67d9e3615623161137dd1432a2",
+      "title": "A Framework for Rendering Large Time-Varying Data Using Wavelet-Based Time-Space Partitioning (WTSP) Tree"
+    },
+    {
+      "paperId": null,
+      "title": "Ext texture compression s3tc"
+    },
+    {
+      "paperId": "9f08c95fe200f7baf196a28a13bea268b1f9a07d",
+      "title": "Compression and Accelerated Rendering of Time-Varying Volume Data"
+    },
+    {
+      "paperId": "262cf34dc0baba1c71be2d90014d152a5e5691ad",
+      "title": "Integration of Volume Visualization and Compression: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Senior researcher in the Visual Computing group at the CRS4 research center. He holds a Laurea (M.Sc.) degree (1999) in Computer Engineering from the University of Padua, Italy"
+    },
+    {
+      "paperId": null,
+      "title": "System and method for fixed-rate block-based image compression with inferred pixel values"
+    },
+    {
+      "paperId": null,
+      "title": "His current research interests include out-of-core data processing, multiresolution modeling and time-critical rendering"
+    },
+    {
+      "paperId": null,
+      "title": "State-of-the-Art in Compressed GPU-Based DVR"
+    },
+    {
+      "paperId": "e60f5f53b476d8f3dc1d9b9dced3def1e550905a",
+      "title": "Efficient Data Structures for Volume Rendering of Wavelet-Compressed Data"
+    },
+    {
+      "paperId": null,
+      "title": "His research spans a wide range of topics from interactive 3D computer graphics and geometry processing to high-performance scientific visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Enrico"
+    },
+    {
+      "paperId": "7c46799502bebfe6a9ae0f457b7b8b92248ec260",
+      "title": "An Algorithm for Vector Quantizer Design"
+    },
+    {
+      "paperId": null,
+      "title": "OpenGL (4.3 & ES 3) Registry"
+    },
+    {
+      "paperId": "83a072b7736174db9bec8cd79f0eb878bd73ee86",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Statistical Approach to Volume Data Quality Assessment"
+    },
+    {
+      "paperId": null,
+      "title": "Appendix A: STAR Authors Marcos Balsa Rodr\u00edguez Marie Curie Early Stage Researcher in the Visual Computing group of the CRS4 research center"
+    },
+    {
+      "paperId": null,
+      "title": "He holds a Ph.D. degree (2012) in computer science from the University of Zurich. His research interests include volume visualization and parallel data rendering"
+    }
+  ]
+}

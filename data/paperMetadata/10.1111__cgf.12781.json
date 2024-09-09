@@ -1,0 +1,358 @@
+{
+  "paperId": "6275549f94dc466921fda4115361688222158be4",
+  "externalIds": {
+    "DBLP": "journals/cgf/ScopignoCPCD17",
+    "MAG": "2176048765",
+    "DOI": "10.1111/cgf.12781",
+    "CorpusId": 26690232
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6275549f94dc466921fda4115361688222158be4",
+  "title": "Digital Fabrication Techniques for Cultural Heritage: A Survey",
+  "abstract": "Digital fabrication devices exploit basic technologies in order to create tangible reproductions of 3D digital models. Although current 3D printing pipelines still suffer from several restrictions, accuracy in reproduction has reached an excellent level. The manufacturing industry has been the main domain of 3D printing applications over the last decade. Digital fabrication techniques have also been demonstrated to be effective in many other contexts, including the consumer domain. The Cultural Heritage is one of the new application contexts and is an ideal domain to test the flexibility and quality of this new technology. This survey overviews the various fabrication technologies, discussing their strengths, limitations and costs. Various successful uses of 3D printing in the Cultural Heritage are analysed, which should also be useful for other application contexts. We review works that have attempted to extend fabrication technologies in order to deal with the specific issues in the use of digital fabrication in the Cultural Heritage. Finally, we also propose areas for future research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 71,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Art",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Materials Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-01-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Scopigno2017DigitalFT,\n author = {Roberto Scopigno and Paolo Cignoni and N. Pietroni and M. Callieri and M. Dellepiane},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Digital Fabrication Techniques for Cultural Heritage: A Survey},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2067182954",
+      "name": "Roberto Scopigno"
+    },
+    {
+      "authorId": "1738697",
+      "name": "Paolo Cignoni"
+    },
+    {
+      "authorId": "3283805",
+      "name": "N. Pietroni"
+    },
+    {
+      "authorId": "1787254",
+      "name": "M. Callieri"
+    },
+    {
+      "authorId": "2674152",
+      "name": "M. Dellepiane"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4a7ef3fcd12ee4f8c631ec7de4fed8d996d169f9",
+      "title": "Computational hydrographic printing"
+    },
+    {
+      "paperId": "5bef43fbdcc2c4a594de73b66f6ac1295aab73ef",
+      "title": "Texture Mapping Real\u2010World Objects with Hydrographics"
+    },
+    {
+      "paperId": "f49ac754a3ce33dd2cd509265d66be36bcc9590f",
+      "title": "Automatic Production of Tailored Packaging for Fragile Archaeological Artifacts"
+    },
+    {
+      "paperId": "3b727405443a013ce3cedd6f60b0bf32027a515b",
+      "title": "Dual joints for 3D-structures"
+    },
+    {
+      "paperId": "d73dfabbd13378da392c28572eb7ebfc99e8a955",
+      "title": "Appearance-mimicking surfaces"
+    },
+    {
+      "paperId": "61a2f539fe46300cdc05515911a54f95bf4e457e",
+      "title": "Interlocking Pieces for Printing Tangible Cultural Heritage Replicas"
+    },
+    {
+      "paperId": "a7f54e286ac15283ae70b9358722d1f33578735d",
+      "title": "WirePrint: 3D printed previews for fast prototyping"
+    },
+    {
+      "paperId": "411e4b750d52f48e346519709d8a38a8a5f3eb72",
+      "title": "3D Printing for Cultural Heritage: Preservation, Accessibility, Research and Education"
+    },
+    {
+      "paperId": "77fa04841f5db5b9f409bec53bee9e647c2212b7",
+      "title": "Wire mesh design"
+    },
+    {
+      "paperId": "aaea9a094eb48ed2c6599365534e428877262498",
+      "title": "Designing inflatable structures"
+    },
+    {
+      "paperId": "c3625c6e772958032d7c014c643674727cbc4e95",
+      "title": "Build-to-last"
+    },
+    {
+      "paperId": "6bcfb513bba6e1d3c64ee4212cbbe2d8e884e247",
+      "title": "PackMerger: A 3D Print Volume Optimizer"
+    },
+    {
+      "paperId": "182481a4af70272b30a0faf1d47161918fd46661",
+      "title": "Bas-Relief Modeling from Normal Images with Intuitive Styles"
+    },
+    {
+      "paperId": "d8c4e5cb9044fce95352b6295c774aaee3328804",
+      "title": "Topographical scanning and reproduction of near-planar surfaces of paintings"
+    },
+    {
+      "paperId": "53a0d0a10946e527ef9cdd094a73f4b7e58b5817",
+      "title": "Field-aligned mesh joinery"
+    },
+    {
+      "paperId": "56612d549ab6dbe82d570af8b1b58d9df19ad3bd",
+      "title": "The Treatment of Tullio Lombardo\u2019s Adam: A New Approach to the Conservation of Monumental Marble Sculpture"
+    },
+    {
+      "paperId": "25dc67f6cbd30c0791e3f33aa6612d1b7e8080cc",
+      "title": "3D-Printing Spatially Varying BRDFs"
+    },
+    {
+      "paperId": "9c8447777efbd86f9774694507a170160cc60837",
+      "title": "25 years virtual reconstructions: Current challenges and the comeback of physical models"
+    },
+    {
+      "paperId": "c6ce3193b7f6f1cf56af677eb8d6bce037332c9c",
+      "title": "Fabricating translucent materials using continuous pigment mixtures"
+    },
+    {
+      "paperId": "157a797adf11c82b47430765ab515fc86929c901",
+      "title": "Bi-scale appearance fabrication"
+    },
+    {
+      "paperId": "6da650303ae1eff6f3a0701b43d4b6db6fbe14c2",
+      "title": "Fabricating BRDFs at high spatial resolution using wave optics"
+    },
+    {
+      "paperId": "3bc0232a478a7df7a35b5d3622deb4c403076738",
+      "title": "Fabrication\u2010aware Design with Intersecting Planar Pieces"
+    },
+    {
+      "paperId": "b713830e96b862efa4313b4d87ce5cb0d3c62b3c",
+      "title": "Combining X-ray micro-CT technology and 3D printing for the digital preservation and study of a 19th century cantonese chess piece with intricate internal structure"
+    },
+    {
+      "paperId": "6e88e326343af9b34074bdae95893bc5b7848dc9",
+      "title": "Parametric 3D-fitted Frames for Packaging Heritage Artefacts"
+    },
+    {
+      "paperId": "f4bdf63dd85f93c1ec15676b1b0a93425a2e0fdb",
+      "title": "Chopper"
+    },
+    {
+      "paperId": "cc991c1f97227cce333de9437619bf9c39f26e72",
+      "title": "FROM REAL TO...\"REAL\". A REVIEW OF GEOMATIC AND RAPID PROTOTYPING TECHNIQUES FOR SOLID MODELLING IN CULTURAL HERITAGE FIELD"
+    },
+    {
+      "paperId": "a49aa79d8c5e482905999a7425a682c260263dd7",
+      "title": "Computer-Aided Design of Tactile Models - Taxonomy and Case Studies"
+    },
+    {
+      "paperId": "c56660e825512cbf8d1c56ecb577648da8acd789",
+      "title": "Investigating effective support mounts for fans during display by exploring new technologies"
+    },
+    {
+      "paperId": "515069e91436169a0ad6d6b499a25584245a5d65",
+      "title": "crdbrd: Shape Fabrication by Sliding Planar Slices"
+    },
+    {
+      "paperId": "89c7029ba17b467fb106c67b94f7dcd8067a1d95",
+      "title": "Slices: a shape-proxy based on planar sections"
+    },
+    {
+      "paperId": "711bb1f38e159ca5594df233add205313f27fa84",
+      "title": "High-quality tactile paintings"
+    },
+    {
+      "paperId": "9eb75541ff84a99e271836c217103dda93c999a9",
+      "title": "Making burr puzzles from 3D models"
+    },
+    {
+      "paperId": "58b91750ca6cdeb1d9cef4ec62f8614c01824534",
+      "title": "A geometric study of v-style pop-ups: theories and algorithms"
+    },
+    {
+      "paperId": "dbe4e2f1a2fbda0d9e60228787cf73fc1a1e0b52",
+      "title": "Preserving detailed features in digital bas-relief making"
+    },
+    {
+      "paperId": "a87db4701d71ea58f73959823ab6802a3b28b3a8",
+      "title": "Popup: automatic paper architectures from 3D models"
+    },
+    {
+      "paperId": "2402fb31de88f76a55c65f57e155ff7044adbd32",
+      "title": "Physical reproduction of materials with specified subsurface scattering"
+    },
+    {
+      "paperId": "8f63d0448a426d9b92026ae8edd94ef7772389e8",
+      "title": "Printing spatially-varying reflectance"
+    },
+    {
+      "paperId": "488075cf23e7ec1dbda19d6bc1d051dec98b4587",
+      "title": "Fabricating microgeometry for custom surface reflectance"
+    },
+    {
+      "paperId": "c6a3d7e5b40816401e515f5df035ab9dce588162",
+      "title": "Bas-Relief Generation Using Adaptive Histogram Equalization"
+    },
+    {
+      "paperId": "5cd2153b1c3dc1c45b1f28d24907dcc59854abe4",
+      "title": "3D Enhanced Model from Multiple Data Sources for the Analysis of the Cylinder Seal of Ibni-Sharrum"
+    },
+    {
+      "paperId": "8f1aa09caba7d96c2eb0aac1d9a991d3d9e0f53a",
+      "title": "Color Enhancement for Rapid Prototyping"
+    },
+    {
+      "paperId": "304ead525922382c23b391a3db613348d1f54251",
+      "title": "Tangible Heritage: Production of Astrolabes on a Laser Engraver"
+    },
+    {
+      "paperId": "9c582ff506616af22c4bcb332ecbce9b5316bcb1",
+      "title": "3D restitution, restoration and prototyping of a medieval damaged skull"
+    },
+    {
+      "paperId": "c0b4e9dac398454b3d0ce8dbe7b4070a269199d0",
+      "title": "Rethinking Algorithms for Games: Towards High-Fidelity Effects in Interactive Environments"
+    },
+    {
+      "paperId": "fdd14b7c29b837fca71c54d0ee16de83594fb296",
+      "title": "Papercraft Models using Generalized Cylinders"
+    },
+    {
+      "paperId": "67aa2cf15f88989047276c71f5c1247d4e28d303",
+      "title": "Digital bas-relief from 3D scenes"
+    },
+    {
+      "paperId": "9e7af23bf122773a981d58a601b2ce83c22f2a5a",
+      "title": "Plushie: an interactive design system for plush toys"
+    },
+    {
+      "paperId": "12802657a95067c490e9c05d8d46d7867197c724",
+      "title": "Automatic Generation of Bas-reliefs from 3D Shapes"
+    },
+    {
+      "paperId": "cc860dd28547adadd64eb99bdc0f0f548fd2c05a",
+      "title": "Paper craft models from meshes"
+    },
+    {
+      "paperId": "795ad107b20971ad3fee18834cbb9f5a808fffbd",
+      "title": "Creating Accessible Science Museums With User-Activated Environmental Audio Beacons (Ping!)"
+    },
+    {
+      "paperId": "15c1d7aea3dd6c0fada700877ef5f71d14573b36",
+      "title": "Digital representation and multimodal presentation of archeological graffiti at Pompei"
+    },
+    {
+      "paperId": "75fb2ca7365ea42ef3663087dc343fcfc84f9f1b",
+      "title": "Facial reconstruction of a wrapped Egyptian mummy using MDCT."
+    },
+    {
+      "paperId": "ee9f28dee1fc793e83376c860c7727082ba40b88",
+      "title": "Making papercraft toys from meshes using strip-based approximate unfolding"
+    },
+    {
+      "paperId": "cbeb127bffdcb08dc80ab801e314b771558276df",
+      "title": "Computer-Assisted Generation of Bas-and High-Reliefs"
+    },
+    {
+      "paperId": null,
+      "title": "Cornell creative machines lab : 3 D printing of cuneiform tablets"
+    },
+    {
+      "paperId": "c687eb79a8b7c12af23034e361f1abfca0aca033",
+      "title": "Real-time bas-relief generation from a 3D mesh"
+    },
+    {
+      "paperId": "cbbb6a6e4a17a4aed43e064e83d5d21f2cd924c5",
+      "title": "Re-engineering Watt: A case study and best practice recommendations for 3D colour laser scans and 3D printing in museum artefact documentation"
+    },
+    {
+      "paperId": null,
+      "title": "From stereoscopy to tactile photography"
+    },
+    {
+      "paperId": null,
+      "title": "Reversible integration on dancer with cembali by A. Canova"
+    },
+    {
+      "paperId": "4cc9c783fdba0d5d12a42f58bd6bc81049a4546b",
+      "title": "Design and Optimization of Orthogonally Intersecting Planar Surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Restoration of a fruit bowl with a leg using 3D technologies"
+    },
+    {
+      "paperId": null,
+      "title": "Digital and physical replica of the Kazafani boat (exhibited during the exhibition crossroads of civilizations, at the Smithsonian museum, in collaboration with the department of antiquities"
+    },
+    {
+      "paperId": "71777a9648ea148e654286c015b9846ce1bd1335",
+      "title": "Developing printable content: A repository for printable teaching models"
+    },
+    {
+      "paperId": null,
+      "title": "Application of high-resolution scanning systems for virtual moulds and replaces of sculptural works"
+    },
+    {
+      "paperId": null,
+      "title": "Virtex: A Multisensory Approach for Exhibiting Valuable Objects"
+    },
+    {
+      "paperId": null,
+      "title": "Finding solutions to the problems of complex art packing"
+    },
+    {
+      "paperId": null,
+      "title": "The Mouldmaker\u2019s Hand-book"
+    },
+    {
+      "paperId": "560c873798199a08a42a13a98d3d61786742732e",
+      "title": "Noname manuscript No. (will be inserted by the editor) Shape Enhancement for Rapid Prototyping"
+    },
+    {
+      "paperId": "afc06909d3048e43c1aaece20441834841e434df",
+      "title": "Ieee International Conference on Shape Modeling and Applications (smi) 2009 Feature Sensitive Bas Relief Generation"
+    },
+    {
+      "paperId": null,
+      "title": "123D make"
+    },
+    {
+      "paperId": null,
+      "title": "Transforming tactile models of works of art in speaking models. More info"
+    }
+  ]
+}

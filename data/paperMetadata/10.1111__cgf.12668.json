@@ -1,0 +1,717 @@
+{
+  "paperId": "e90a7f2393859a4fc4dcbefa2793a561e6865d2d",
+  "externalIds": {
+    "DBLP": "journals/cgf/PintusPYWGR16",
+    "MAG": "1935189976",
+    "DOI": "10.1111/cgf.12668",
+    "CorpusId": 6558660
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/e90a7f2393859a4fc4dcbefa2793a561e6865d2d",
+  "title": "A Survey of Geometric Analysis in Cultural Heritage",
+  "abstract": "We present a review of recent techniques for performing geometric analysis in cultural heritage (CH) applications. The survey is aimed at researchers in the areas of computer graphics, computer vision and CH computing, as well as to scholars and practitioners in the CH field. The problems considered include shape perception enhancement, restoration and preservation support, monitoring over time, object interpretation and collection analysis. All of these problems typically rely on an understanding of the structure of the shapes in question at both a local and global level. In this survey, we discuss the different problem forms and review the main solution methods, aided by classification criteria based on the geometric scale at which the analysis is performed and the cardinality of the relationships among object parts exploited during the analysis. We finalize the report by discussing open problems and future perspectives.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 160,
+  "openAccessPdf": {
+    "url": "https://discovery.ucl.ac.uk/1477618/1/pintus15geometry-lowres.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Art",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Pintus2016ASO,\n author = {R. Pintus and Kazim Pal and Ying Yang and T. Weyrich and E. Gobbetti and H. Rushmeier},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Geometric Analysis in Cultural Heritage},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2552503",
+      "name": "R. Pintus"
+    },
+    {
+      "authorId": "32461353",
+      "name": "Kazim Pal"
+    },
+    {
+      "authorId": "2118771247",
+      "name": "Ying Yang"
+    },
+    {
+      "authorId": "1784306",
+      "name": "T. Weyrich"
+    },
+    {
+      "authorId": "1708999",
+      "name": "E. Gobbetti"
+    },
+    {
+      "authorId": "1690595",
+      "name": "H. Rushmeier"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "53dfa4c7c09c27ecd83a013af6fe27e952b6cf53",
+      "title": "Partial matching of 3D cultural heritage objects using panoramic views"
+    },
+    {
+      "paperId": "2525c6d93b68b3b61c38c24e60001deaa7a94c42",
+      "title": "An overview of partial 3D object retrieval methodologies"
+    },
+    {
+      "paperId": "3c248a16a2a0cdbf29f8ed27412049104922e3b4",
+      "title": "Mont\u2019e Scan"
+    },
+    {
+      "paperId": "f44d3ec5dc22847c2409e28129de1a7966087fb1",
+      "title": "On Computing Mapping of 3D Objects"
+    },
+    {
+      "paperId": "1060f9de7c431521100831e0cdf81917a0a9a3b5",
+      "title": "Geometric Analysis in Cultural Heritage"
+    },
+    {
+      "paperId": "0d73237764948cd59f60cf94b55e71cbe12b8dc4",
+      "title": "Towards Automated 3D Reconstruction of Defective Cultural Heritage Objects"
+    },
+    {
+      "paperId": "f42bf28fd9023032f35bba00ba2c83013e0cb7dc",
+      "title": "A graph-based optimization algorithm for fragmented image reassembly"
+    },
+    {
+      "paperId": "c0658543a684ae5664856a05722e97faeb42cde3",
+      "title": "Hyper3D: 3D graphics software for examining cultural artifacts"
+    },
+    {
+      "paperId": "78852966af47552b4e240d9fd1de5c91e989c84c",
+      "title": "A Discrete Approach for Pairwise Matching of Archaeological Fragments"
+    },
+    {
+      "paperId": "b06bb84cf40e70b14201ed1b924c1198bbcf57ea",
+      "title": "A New Quantitative Method for the Non-Invasive Documentation of Morphological Damage in Paintings Using RTI Surface Normals"
+    },
+    {
+      "paperId": "1270e8fbd7fee5f552e3bb2ff9e652e4325efe46",
+      "title": "Pairwise matching of 3D fragments using fast fourier transform"
+    },
+    {
+      "paperId": "1b85c49bb01ef3bfbe4eb36dc31c11e232986ad5",
+      "title": "Content\u2010aware surface parameterization for interactive restoration of historical documents"
+    },
+    {
+      "paperId": "fa62744050e11da95e65eac06d30dd913c933123",
+      "title": "Fisher Encoding of Adaptive Fast Persistent Feature Histograms for Partial Retrieval of 3D Pottery Objects"
+    },
+    {
+      "paperId": "17b73c2a2d404ec48d67bd15f9d7e781a380036f",
+      "title": "Quick and dirty: streamlined 3D scanning in archaeology"
+    },
+    {
+      "paperId": "02cce2bff71bb0c09f73f391588e23297c9539f7",
+      "title": "Structure-aware shape processing"
+    },
+    {
+      "paperId": "fcf0c039f5586dbd086bd01aee530ca720232cbd",
+      "title": "Portrait sculptures of Augustus: Categorization via local shape comparison"
+    },
+    {
+      "paperId": "628d0a7f94df295d2330f03980c278cd81c8eba0",
+      "title": "Improving the digitization of shape and color of 3D artworks in a cluttered environment"
+    },
+    {
+      "paperId": "482602a1b8aeaf6b08fc2e126e474ccb40bbf768",
+      "title": "Evaluation of the relief line and the contour line on Greek red-figure vases using reflectance transformation imaging and three-dimensional laser scanning confocal microscopy"
+    },
+    {
+      "paperId": "bcf145b00e39ede512edf747e5dcc5b64cd14998",
+      "title": "Classical Sculpture Analysis via Shape Comparison"
+    },
+    {
+      "paperId": "56b8551dd87c8885b3dd36d75da945b594aabc75",
+      "title": "3D Object Partial Matching Using Panoramic Views"
+    },
+    {
+      "paperId": "5a2660029570d661a9181c8db86265266b308d0c",
+      "title": "Customers' Activity Recognition in Intelligent Retail Environments"
+    },
+    {
+      "paperId": "3a81ea76d2f1f496dfe3be903f50a0d81883bfa1",
+      "title": "Symmetry in 3D Geometry: Extraction and Applications"
+    },
+    {
+      "paperId": "74b095d3d6fa3cd4485cc5db57b80f0118c65089",
+      "title": "Vectorization of 3D-Characters by Integral Invariant Filtering of High-Resolution Triangular Meshes"
+    },
+    {
+      "paperId": "dbfe8d38d20896fe80bc0b8d39cb14e8cbbf11a1",
+      "title": "3D reconstruction for damaged documents: imaging of the great parchment book"
+    },
+    {
+      "paperId": "3659ba7e8094c3f6124f369c0430f6bca40eff0d",
+      "title": "Automatic photometric restoration of historical photographic negatives"
+    },
+    {
+      "paperId": "782f8350457691c22f9d24b3da7381360b06cb58",
+      "title": "Computerized assembly of neurocranial fragments based on surface extrapolation"
+    },
+    {
+      "paperId": "779070b4100c1d12f17f25130baba8a3ab01ee66",
+      "title": "Unwrapping Highly-Detailed 3d Meshes of Rotationally Symmetric Man-Made Objects"
+    },
+    {
+      "paperId": "584b7c93901c1b70e15923b9c0a528ecf6938585",
+      "title": "3D DIGITIZATION AND MAPPING OF HERITAGE MONUMENTS AND COMPARISON WITH HISTORICAL DRAWINGS"
+    },
+    {
+      "paperId": "9961dd3b1a565eb1c5a28a82d0a34fa09e45c93a",
+      "title": "A Method for Virtual Anastylosis: The Case of the Arch of Titus at the Circus Maximus in Rome"
+    },
+    {
+      "paperId": "b5ef43b69723e32c65af304df3a69cbf37e42ad6",
+      "title": "SURVEY METHODS FOR EARTHQUAKE DAMAGES IN THE \"CAMERA DEGLI SPOSI\" OF MANTEGNA (MANTOVA)"
+    },
+    {
+      "paperId": "81ae21ada461a7c61280af2ffeeb2351e8b91d0b",
+      "title": "Interactive Exploration and Flattening of Deformed Historical Documents"
+    },
+    {
+      "paperId": "7fa47cd57014519d345ae4d999a6c99cac65e5dc",
+      "title": "A novel approach to evaluate masonry arch stability on the basis of limit analysis theory and non-destructive geometric characterization"
+    },
+    {
+      "paperId": "e7a7cb4fadf68b0b603476703a1ec436cc1700fd",
+      "title": "Snap-to-fit, a haptic 6 DOF alignment tool for virtual assembly"
+    },
+    {
+      "paperId": "11c7fbf96cf34ee6145dca0b51c89af86cb972d2",
+      "title": "Computer-based, automatic recording and illustration of complex archaeological artifacts"
+    },
+    {
+      "paperId": "fd8eb545780bb2a72995ccb614529e15e5edd41f",
+      "title": "Technical Section: Virtual reconstruction of archeological vessels using expert priors and intrinsic differential geometry information"
+    },
+    {
+      "paperId": "d8c7a2f492d21bb572b2ec50302d4f01b136eb3f",
+      "title": "Archaeological fragment characterization and 3D reconstruction based on projective GPU depth maps"
+    },
+    {
+      "paperId": "b713830e96b862efa4313b4d87ce5cb0d3c62b3c",
+      "title": "Combining X-ray micro-CT technology and 3D printing for the digital preservation and study of a 19th century cantonese chess piece with intricate internal structure"
+    },
+    {
+      "paperId": "6e88e326343af9b34074bdae95893bc5b7848dc9",
+      "title": "Parametric 3D-fitted Frames for Packaging Heritage Artefacts"
+    },
+    {
+      "paperId": "570bf61cb4fee485418e2280a2db960cf84eda16",
+      "title": "Analyzing and simulating fracture patterns of theran wall paintings"
+    },
+    {
+      "paperId": "6df79836d840cf9d7503b153b7f5188b1ee55031",
+      "title": "Automatic archaeological fragment reconstruction using hierarchical depth maps"
+    },
+    {
+      "paperId": "e67483387f6a4fdeee32c2992bab1e603815f15f",
+      "title": "The Pottery Informatics Query Database: A New Method for Mathematic and Quantitative Analyses of Large Regional Ceramic Datasets"
+    },
+    {
+      "paperId": "6c6bbbb2ac9bf435a8ce5c8dd8bfe67122a1d514",
+      "title": "Archeological excavation monitoring using dense stereo matching techniques"
+    },
+    {
+      "paperId": "814f3429488a79c1550c161b82ce12c552fe13cf",
+      "title": "Fragmented skull modeling using heat kernels"
+    },
+    {
+      "paperId": "6eacd187c0bcf855136dba73af6641ff5ad365df",
+      "title": "Tools for Virtual Reassembly of Fresco Fragments"
+    },
+    {
+      "paperId": "7c944eed0aef745655906cc22e0bfbfe390fe4c6",
+      "title": "MeshLab as a complete open tool for the integration of photos and color with high-resolution 3D geometry data"
+    },
+    {
+      "paperId": "30a50c2426f79dcac6e33cf257d01858902acbde",
+      "title": "An Interactive Local Flattening Operator to Support Digital Investigations on Artwork Surfaces"
+    },
+    {
+      "paperId": "68704bf1aab65060c6539626916e2af13261c419",
+      "title": "The \u201cGuerriero di Castiglione\u201d: reconstructing missing elements with integrated non-destructive 3D modelling techniques"
+    },
+    {
+      "paperId": "b798b98fbe0a89153341da4db699c500ea1ba78d",
+      "title": "An automatic assembly and completion framework for fragmented skulls"
+    },
+    {
+      "paperId": "a4bf49389f82d4ae2da61cb5bfd89dd90cea2ee7",
+      "title": "Learning how to match fresco fragments"
+    },
+    {
+      "paperId": "72e4a131287353cf223bf90b4979fb14f5b8bfdf",
+      "title": "Reassembling Thin Artifacts of Unknown Geometry"
+    },
+    {
+      "paperId": "00d95d33acd7ed7486b68ebee31d29ec9d253191",
+      "title": "Preserving the Khmer Smile: Classifying and Restoring the Faces of Bayon"
+    },
+    {
+      "paperId": "ab572daa1124b4ddec393398eb3b8acc340596fa",
+      "title": "Global Consistency in the Automatic Assembly of Fragmented Artefacts"
+    },
+    {
+      "paperId": "c98e54063be436f580702fb0f7a46d544b0aec6f",
+      "title": "Documentation and Interpretation of an Archeological Excavation: an Experience with Dense Stereo Reconstruction Tools"
+    },
+    {
+      "paperId": "2a54398f5e4f6a2a0cbf26dd18486cfd1a2fd1a0",
+      "title": "Computerized morphological classification of ceramics"
+    },
+    {
+      "paperId": "1f019eccc864fd601a5249d885476a27b4355208",
+      "title": "Non-local Shape Descriptor: A New Similarity Metric for Deformable Multi-modal Registration"
+    },
+    {
+      "paperId": "08855767fc59b8effac28a3ccdebf8d4433be26b",
+      "title": "Flights into the past: full-waveform airborne laser scanning data for archaeological investigation"
+    },
+    {
+      "paperId": "2ed7a3639238f2250c1fb2e0cd9121e7b7ec4b34",
+      "title": "Symmetry and template guided completion of damaged skulls"
+    },
+    {
+      "paperId": "87b7b7d8a6422997c6f74811e47c17b3e42d3281",
+      "title": "Prominent Field for Shape Processing and Analysis of\u00a0Archaeological Artifacts"
+    },
+    {
+      "paperId": "f43678c70ab83b92b62e55fad57a25d186e9b77d",
+      "title": "Digital Imaging for Cultural Heritage Preservation: Analysis, Restoration, and Reconstruction of Ancient Artworks"
+    },
+    {
+      "paperId": "3bfc414504076ed0b9029627fede42bd08049385",
+      "title": "3D Models for Cultural Heritage: Beyond Plain Visualization"
+    },
+    {
+      "paperId": "976682d2cc5f171798a345878b5f3b9c3ce27d9b",
+      "title": "Photogrammetric 3D modelling and mechanical analysis of masonry arches: An approach based on a discontinuous model of voussoirs"
+    },
+    {
+      "paperId": "8f70ff652946a0175e460d546214ed0ff16a89b7",
+      "title": "3D data classification based on mid-level geometric features"
+    },
+    {
+      "paperId": "025e36749d1d17f8788e28b6343cc38da7d48513",
+      "title": "Skull Assembly and Completion Using Template-Based Surface Matching"
+    },
+    {
+      "paperId": "d24544f5aa6d1d9195929fc56f5969c2ca13f11f",
+      "title": "Local Shape Descriptors, a Survey and Evaluation"
+    },
+    {
+      "paperId": "70354af27e5474ee9ca4c2636509798dfddc3846",
+      "title": "Semantic 3D Media and Content: Surface partial matching and application to archaeology"
+    },
+    {
+      "paperId": "803f610237e83b5fbb30999d5e96d97940b2342c",
+      "title": "Proposing features for the reconstruction of marble plates of ephesos"
+    },
+    {
+      "paperId": "0a4998a8396feafa127778963b2a268888ea1eb0",
+      "title": "Multi-feature matching of fresco fragments"
+    },
+    {
+      "paperId": "855dc16964e37b6c6ad4c2deb9e1f059590ebb29",
+      "title": "Detecting Shape Similarities in 3D Pottery Repositories"
+    },
+    {
+      "paperId": "fc68c55d765adaf2e4106c114b2b692506eb4de7",
+      "title": "Rollouts of Fine Ware Pottery using High Resolution 3D Meshes"
+    },
+    {
+      "paperId": "0276eefdc1354cc9a3eb7bc3fe33de400743812b",
+      "title": "GigaMesh and Gilgamesh ? 3D Multiscale Integral Invariant Cuneiform Character Extraction"
+    },
+    {
+      "paperId": "e0a8e08e1130552c5daecbf70096a5a991ccd7ff",
+      "title": "Semi-Automatic Geometry-Driven Reassembly of Fractured Archeological Objects"
+    },
+    {
+      "paperId": "294689a27d1e8d67bbdcaa5d1f7e36f6afccb0c3",
+      "title": "Geometric Morphometrics for Provenance Determination of Gallo-Roman White Clay Figurines"
+    },
+    {
+      "paperId": "d2e66d2786719e23eb7686ba51c5b30ef3fc61ea",
+      "title": "Illuminating the past: state of the art"
+    },
+    {
+      "paperId": "26ad3882d61333d4a20f2e6d47e3aafb627d2333",
+      "title": "ArcheoTUI\u2014Driving virtual reassemblies with tangible 3D interaction"
+    },
+    {
+      "paperId": "437edcd7f3ca32c8b3cf8bf6641c9d26d32e88ef",
+      "title": "Virtual reconstruction of archaeological vessels using expert priors & surface markings"
+    },
+    {
+      "paperId": "a2db5daa1f51492125ba9f89da9dc0da768a2d2e",
+      "title": "Modelling masonry arches shape using terrestrial laser scanning data and nonparametric methods"
+    },
+    {
+      "paperId": "71dd56435f3e274ef9c8a2ac1b9705f92ef8d4f2",
+      "title": "Optimized image sampling for view and light interpolation"
+    },
+    {
+      "paperId": "3292d6f6375eb935789487fff6b32dfa933f5c7b",
+      "title": "Niabara - The Western Solomon Islands War Canoe at the British Museum - 3D Documentation, Virtual Reconstruction and Digital Repatriation"
+    },
+    {
+      "paperId": "036f7f0e4c3493917218551e24c968ddfe54b361",
+      "title": "e-Restoration of Faces Appearing In Cultural Heritage Artefacts"
+    },
+    {
+      "paperId": "2cbe3968e7a9a7030e555be46faf9760fac01d09",
+      "title": "Computer Vision and Computer Graphics Analysis of Paintings and Drawings: An Introduction to the Literature"
+    },
+    {
+      "paperId": "5e77efae9c61bd58930990fbf01469c7591a3c88",
+      "title": "Digital anastylosis of the Octagon in Ephesos"
+    },
+    {
+      "paperId": "9c4fe7e2d415038b9141bb0f8582b25255933ff5",
+      "title": "The use of 3D-laser scanning in assessing the safety of masonry vaults\u2014A case study on the church of Saint-Jacobs"
+    },
+    {
+      "paperId": "769e73fb5dc8d0215d3ae9ea1835fee9ac58623a",
+      "title": "Photo Repair and 3D Structure from Flatbed Scanners"
+    },
+    {
+      "paperId": "5cd2153b1c3dc1c45b1f28d24907dcc59854abe4",
+      "title": "3D Enhanced Model from Multiple Data Sources for the Analysis of the Cylinder Seal of Ibni-Sharrum"
+    },
+    {
+      "paperId": "8f1aa09caba7d96c2eb0aac1d9a991d3d9e0f53a",
+      "title": "Color Enhancement for Rapid Prototyping"
+    },
+    {
+      "paperId": "195685df9887f983293a187a1bd57060afcc2d78",
+      "title": "Demarcating curves for shape illustration"
+    },
+    {
+      "paperId": "9c582ff506616af22c4bcb332ecbce9b5316bcb1",
+      "title": "3D restitution, restoration and prototyping of a medieval damaged skull"
+    },
+    {
+      "paperId": "2eeaed3c11fed4039d07eb77d17e6d2762378c86",
+      "title": "A new system to acquire and restore document shape and content"
+    },
+    {
+      "paperId": "ba2c68056c955939a10c9bc5d5b85cd44b95db8d",
+      "title": "A system for high-volume acquisition and matching of fresco fragments: reassembling Theran wall paintings"
+    },
+    {
+      "paperId": "ba64d941da0ca1af0e50382cf5c9bf991fb182ef",
+      "title": "Computational reconstruction of ancient artifacts"
+    },
+    {
+      "paperId": "3701dec7ce18dc7b9ae9768c3954aa856925aa12",
+      "title": "3D scanning technology as a standard archaeological tool for pottery analysis: practice and theory"
+    },
+    {
+      "paperId": "a2eb59e2141035c0b118ad02143ae594c68d22af",
+      "title": "Digital photogrammetry, GPR and computational analysis of structural damages in a mediaeval bridge"
+    },
+    {
+      "paperId": "0b62716360314ccda268482c5cd116b076ac4e51",
+      "title": "Using 3D Scanning to Analyze a Proposal for the Attribution of a Bronze Horse to Leonardo da Vinci"
+    },
+    {
+      "paperId": "be093b79947b64a8de922f7350a946915d42ea3d",
+      "title": "Restoring 2D Content from Distorted Documents"
+    },
+    {
+      "paperId": "a81255780ebdcc0f168f255df79ec4f3b38d088a",
+      "title": "3D Modeling and Section Properties of Ancient Irregular Timber Structures by Means of Digital Photogrammetry"
+    },
+    {
+      "paperId": "b7191d14f27253f4bccc00aaf854348fe17b681d",
+      "title": "Using 3D scanning to monitor wood deformations and to evaluate preservation strategies"
+    },
+    {
+      "paperId": "5feb23e3c01c12c797b271fa5cd2a1f2f096130f",
+      "title": "Matching Local Self-Similarities across Images and Videos"
+    },
+    {
+      "paperId": "e8a5a230eeffa0aa6dd3a5e2d8311e6fd4fbcba8",
+      "title": "Digital Terrain Modelling for Archaeological Interpretation within Forested Areas using Full-Waveform Laserscanning"
+    },
+    {
+      "paperId": "d041cf3f523532780ce69d7e1d5d923e6b2f5adb",
+      "title": "New Reflection Transformation Imaging Methods for Rock Art and Multiple-Viewpoint Display"
+    },
+    {
+      "paperId": "4f882f78f99f79f3efad5e7c3f6b7e58bf64b193",
+      "title": "Image\u2010based 3D Modelling: A Review"
+    },
+    {
+      "paperId": "6f83f66ab523cb298dd8503f452f2708697a39c8",
+      "title": "Using talking heads for real-time virtual videophone in wireless networks"
+    },
+    {
+      "paperId": "112a466292a57d4f7a06809f2a9cb1f649d86555",
+      "title": "Reassembling fractured objects by geometric matching"
+    },
+    {
+      "paperId": "425e0f52775154c8c8c5cfa90e0131b8402625d5",
+      "title": "Reconstructing a thule whalebone house using 3D imaging"
+    },
+    {
+      "paperId": "bf7f87dd8ef98236f2d5ed3bbf3f7efe332d3f3d",
+      "title": "Reflection Transformation Imaging and Virtual Representations of Coins from the Hospice of the Grand St. Bernard"
+    },
+    {
+      "paperId": "9d1673c2e9d970000f82e390bb340b61da517307",
+      "title": "Geometric and photometric restoration of distorted documents"
+    },
+    {
+      "paperId": "905e7eec98887874ba34250c6bdbf107b89433bb",
+      "title": "The potential of airborne lidar for detection of archaeological features under woodland canopies"
+    },
+    {
+      "paperId": "7891e0f1f9f23be6fa21cbf4e9ef2630f9fe1045",
+      "title": "Inspection, 3D modelling, and rapid prototyping of cultural heritage by means of a 3D optical digitiser"
+    },
+    {
+      "paperId": "fe1a77e91afb027e3ce257d7f3e5287081c67290",
+      "title": "Control of structural problems in cultural heritage monuments using close-range photogrammetry and computer methods"
+    },
+    {
+      "paperId": "9c842b2926fd60b9e6ff80fee28c65e7c1ae5f1d",
+      "title": "A non-local algorithm for image denoising"
+    },
+    {
+      "paperId": "8a03e6b7599dc27ed8cf9527117097e3b92838c4",
+      "title": "3D Laser Scanning For Recording and Monitoring Rock Art Erosion"
+    },
+    {
+      "paperId": "a9503598fe39670cbf86de4d0865dd35b2d3bc99",
+      "title": "Identifying technologies used in Cultural Heritage"
+    },
+    {
+      "paperId": "6a2f35544e53855d76399cb3156bfe3d22896741",
+      "title": "An environment for the analysis and reconstruction of archaeological objects"
+    },
+    {
+      "paperId": "5d786e5579c76cd325fd23f438aab3ac0383a43e",
+      "title": "3D orientation of archaeological fragments coming from a Gothic spire"
+    },
+    {
+      "paperId": "9f851bb077b310fd0940e1188e53488e930b236a",
+      "title": "Image restoration of arbitrarily warped documents"
+    },
+    {
+      "paperId": "d3d9b4929be6812e3cd8c15fd729b249ff96b822",
+      "title": "Alignment of multiple non-overlapping axially symmetric 3D datasets"
+    },
+    {
+      "paperId": "ff5d7c227e79553ed3665e0b11d04da71e20b64d",
+      "title": "Bayesian assembly of 3D axially symmetric shapes from fragments"
+    },
+    {
+      "paperId": "48618359d60fdda3a8cffa0153d1a2e27cb59cfb",
+      "title": "Digital restoration using volumetric scanning"
+    },
+    {
+      "paperId": "fe26cde1bf766fdd179169e894aab93fe20dff25",
+      "title": "Visualization and 3D data processing in the David restoration"
+    },
+    {
+      "paperId": "1286d5b384fd82945dc4accb2f3ef6c1e0cbf556",
+      "title": "Michelangelo's Florence Piet\u00e0"
+    },
+    {
+      "paperId": "af3b96afc35486190fe17e09e52a006e357e585e",
+      "title": "Virtual Vessel Reconstruction from a Fragment?s Profile"
+    },
+    {
+      "paperId": "cd4e873e43e760a7794e861a4460cfe3cf7fde63",
+      "title": "On the automatic assemblage of arbitrary broken solid artefacts"
+    },
+    {
+      "paperId": "25391135edacdf1d4a33a6ab7b72d746e920727c",
+      "title": "Polynomial texture maps"
+    },
+    {
+      "paperId": "492a6f3c789dfafd0421ab79659b696235c25122",
+      "title": "Virtual Archaeologist: Assembling the Past"
+    },
+    {
+      "paperId": "028d48094a9a634e3350fa8ee20d797e8dea47ac",
+      "title": "The digital Michelangelo project: 3D scanning of large statues"
+    },
+    {
+      "paperId": "0df8c5c059e4a2629e5dd8c22a1a857dcdc2b10c",
+      "title": "Emerging Trends in Virtual Heritage"
+    },
+    {
+      "paperId": "f1aaa2e794f4eda9d2bbaaecee9ab5d35512e809",
+      "title": "Efficient algorithms for local and global accessibility shading"
+    },
+    {
+      "paperId": "b7ce42b4f9386880b371065c3b3c58a7d9d9e591",
+      "title": "Photometric Stereo: A Reflectance Map Technique For Determining Surface Orientation From Image Intensity"
+    },
+    {
+      "paperId": "cd38ad87459650ed82c9b2fc3e5c5dddadef35cf",
+      "title": "Prehistoric bedrock features: recent advances in 3D characterization and geometrical analyses"
+    },
+    {
+      "paperId": null,
+      "title": "YCBA Pope bust scanning project"
+    },
+    {
+      "paperId": "d658b585a2f035ac9d787c8e3d9704629fcd0974",
+      "title": "Virtual unrolling and information recovery from scanned scrolled historical documents"
+    },
+    {
+      "paperId": "ea6e515d3d2aee4261b1bc0dee1b5b5a3413f955",
+      "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice"
+    },
+    {
+      "paperId": null,
+      "title": "Multimedia Tools and Applications Eurographics Workshop on 3D Object Retrieval"
+    },
+    {
+      "paperId": null,
+      "title": "Siggraph Course"
+    },
+    {
+      "paperId": null,
+      "title": "I X"
+    },
+    {
+      "paperId": "299d4a9b27c6b8c1c4205feb2919a2361891e945",
+      "title": "Virtual reconstruction of archeological vessels using expert priors and intrinsic differential geometry information"
+    },
+    {
+      "paperId": "cab5592f5affa367d1a18edaf4817a9c0b4e26a7",
+      "title": "New Trends in Image Analysis and Processing \u2013 ICIAP 2013"
+    },
+    {
+      "paperId": null,
+      "title": "In International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences XL-5/W2"
+    },
+    {
+      "paperId": "33cb49ba0166d9a69927b821f706a3e5273c8e2b",
+      "title": "A Complete Morphological Study of the Right Hand of Bronzo \"A\" DI Riace"
+    },
+    {
+      "paperId": "f36fbbf1397c701c13a4b56591d3d558d6c7dfd4",
+      "title": "3D Sutra: Processing of Scanned Sutra Inscriptions in China for Analysis, Interpretation and Visualization"
+    },
+    {
+      "paperId": "3fb82bab204d29345ccb14e6a754322db13f3764",
+      "title": "3D Sutra: Processing of Scanned Sutra Inscriptions in China for Analysis, Interpretation and Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "A practical framework for assembling fragmented objects. paper submitted to IEEE Computer Graphics and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Ef\ufb01cient solution to the 3D problem of automatic wall paintings reassembly"
+    },
+    {
+      "paperId": null,
+      "title": "Interpreting in 3D"
+    },
+    {
+      "paperId": "96cc9a20f412975ab0f63789ea3c6516935a0398",
+      "title": "New Visualization Techniques for Cuneiform Texts and Sealings"
+    },
+    {
+      "paperId": "640c3a48a5362d7d5671df03dcd873d6a072de31",
+      "title": "nnovative uses of 3 D digital technologies to assist the restoration f a fragmented terracotta statue"
+    },
+    {
+      "paperId": null,
+      "title": "Encountering Genius: Houdon\u2019s"
+    },
+    {
+      "paperId": "a01de2a0d74b197ec5c660eb82207e9d126361d3",
+      "title": "3D Content-Based Retrieval in Artwork Databases"
+    },
+    {
+      "paperId": "3792b0a90b1c244501d46839b6b868f280d3a0c4",
+      "title": "3 D scanning technology as a standard archaeological tool for pottery analysis : practice and theory"
+    },
+    {
+      "paperId": "bda90be0a2951a2f14a21fcf441b9bbbde6e47cc",
+      "title": "Proceedings of the 9th International Conference on Virtual Reality"
+    },
+    {
+      "paperId": "e4502154810fd594b9dd612d71a9a9bd9486f97d",
+      "title": "Developing a Framework for Acquisition, Preservation, and Dissemination of 3D Documents"
+    },
+    {
+      "paperId": "d0fae80eb1fa2b2bb7fd84efad210a55428b880b",
+      "title": "IMAGE-BASED 3 D MODELLING : A REVIEW"
+    },
+    {
+      "paperId": null,
+      "title": "Image-based 3D modelling: Ar e v i e w .The Photogrammetric Record"
+    },
+    {
+      "paperId": "41105fb8515f9e351e891d1eabb31679a6a781c8",
+      "title": "on Pattern Analysis and Machine Intelligence"
+    },
+    {
+      "paperId": null,
+      "title": "H. of the 6th International conference on Virtual Reality, Archaeology and Intelligent Cultural Heritage"
+    },
+    {
+      "paperId": null,
+      "title": "3D puzzling of archeological fragments"
+    },
+    {
+      "paperId": "4a2b2b972458315ec3e8575ea6aef7e3e6b37c7d",
+      "title": "Building a Digital Model of Michelangelo's Florentine Piet\u00e0"
+    },
+    {
+      "paperId": "ade80128e751701e14621fc2e4efedbb4fdb1c02",
+      "title": "Reconstruction of Three-Dimensional Objects through Matching of Their Parts"
+    },
+    {
+      "paperId": "299c488953a4aca22967072ba5dd379a84e7461a",
+      "title": "Digital geometry processing"
+    },
+    {
+      "paperId": "c097fe806841e86208c54cebbbd27dcf8a02af8f",
+      "title": "Automatic replication and recording of museum artifacts"
+    },
+    {
+      "paperId": null,
+      "title": "HAPE : Digital shape repository. More info"
+    }
+  ]
+}

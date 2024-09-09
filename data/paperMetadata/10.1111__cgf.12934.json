@@ -1,0 +1,665 @@
+{
+  "paperId": "719c6dfb8e43dcb37dc9e542d7c26be296a7053b",
+  "externalIds": {
+    "DBLP": "journals/cgf/LjungKGHHY16",
+    "MAG": "2415961718",
+    "DOI": "10.1111/cgf.12934",
+    "CorpusId": 2693017
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/719c6dfb8e43dcb37dc9e542d7c26be296a7053b",
+  "title": "State of the Art in Transfer Functions for Direct Volume Rendering",
+  "abstract": "A central topic in scientific visualization is the transfer function (TF) for volume rendering. The TF serves a fundamental role in translating scalar and multivariate data into color and opacity to express and reveal the relevant features present in the data studied. Beyond this core functionality, TFs also serve as a tool for encoding and utilizing domain knowledge and as an expression for visual design of material appearances. TFs also enable interactive volumetric exploration of complex data. The purpose of this state\u2010of\u2010the\u2010art report (STAR) is to provide an overview of research into the various aspects of TFs, which lead to interpretation of the underlying data through the use of meaningful visual representations. The STAR classifies TF research into the following aspects: dimensionality, derived attributes, aggregated attributes, rendering aspects, automation, and user interfaces. The STAR concludes with some interesting research challenges that form the basis of an agenda for the development of next generation TF tools and methodologies.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 147,
+  "openAccessPdf": {
+    "url": "https://liu.diva-portal.org/smash/get/diva2:954156/FULLTEXT01",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ljung2016StateOT,\n author = {P. Ljung and J. Kr\u00fcger and E. Gr\u00f6ller and Markus Hadwiger and C. Hansen and A. Ynnerman},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State of the Art in Transfer Functions for Direct Volume Rendering},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2665467",
+      "name": "P. Ljung"
+    },
+    {
+      "authorId": "2245043670",
+      "name": "J. Kr\u00fcger"
+    },
+    {
+      "authorId": "1725803",
+      "name": "E. Gr\u00f6ller"
+    },
+    {
+      "authorId": "1761518",
+      "name": "Markus Hadwiger"
+    },
+    {
+      "authorId": "2316061127",
+      "name": "C. Hansen"
+    },
+    {
+      "authorId": "2318290734",
+      "name": "A. Ynnerman"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6f74a00367170694bc9f258308c95c5c10124470",
+      "title": "Association Analysis for Visual Exploration of Multivariate Scientific Data Sets"
+    },
+    {
+      "paperId": "fc5fcc17dbc30b8ff428d747931d3efb679cbe99",
+      "title": "Visualizing Tensor Normal Distributions at Multiple Levels of Detail"
+    },
+    {
+      "paperId": "8b6e29cf53130e536758ec767da9f23b848c1467",
+      "title": "Intuitive Exploration of Volumetric Data Using Dynamic Galleries"
+    },
+    {
+      "paperId": "18f46e2e3cee0484d445e7838886d73305919d13",
+      "title": "Learning Probabilistic Transfer Functions: A Comparative Study of Classifiers"
+    },
+    {
+      "paperId": "bfa4bdbccdf3afc33994719abee08ea2ca8fc248",
+      "title": "Rule\u2010Enhanced Transfer Function Generation for Medical Volume Visualization"
+    },
+    {
+      "paperId": "bdc06f4bb5ca24594dfbf4eba2704c2a0bf8a6ed",
+      "title": "Exploring Brushlet Based 3D Textures in Transfer Function Specification for Direct Volume Rendering of Abdominal Organs"
+    },
+    {
+      "paperId": "186deea6be76314e04e20121dd703d4d53777030",
+      "title": "The ParaView Guide: A Parallel Visualization Application"
+    },
+    {
+      "paperId": "8e36e7c5ab0a54340d9fbecb15875d6c489117ff",
+      "title": "Boundary Aware Reconstruction of Scalar Fields"
+    },
+    {
+      "paperId": "b41b36808eb27d08837e5057780c0f926bda2255",
+      "title": "Visualization of Brain Microstructure Through Spherical Harmonics Illumination of High Fidelity Spatio-Angular Fields"
+    },
+    {
+      "paperId": "1cb6ce85e0e1fe2ff2c8d78463aa90c3c403dc33",
+      "title": "Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering"
+    },
+    {
+      "paperId": "dc5a31bad0058a9ef212805f74c9005271d8635b",
+      "title": "Multivariate volume visualization through dynamic projections"
+    },
+    {
+      "paperId": "d52ddfbcb0527533ea98771d8b6068c884f218b2",
+      "title": "GuideME: Slice\u2010guided Semiautomatic Multivariate Exploration of Volumes"
+    },
+    {
+      "paperId": "cbf8b14ee70dd7d481049803b8b128f7df78c0f9",
+      "title": "InSpectr: Multi\u2010Modal Exploration, Visualization, and Analysis of Spectral Data"
+    },
+    {
+      "paperId": "5dc54691a036968c4e3580421fc53c4fd945b7f6",
+      "title": "Transfer Function Map"
+    },
+    {
+      "paperId": "100c5000cc4568aabe1129d34dea0cd2ffff622a",
+      "title": "Local WYSIWYG volume visualization"
+    },
+    {
+      "paperId": "50d7bbe29f244cb1ea5d37d01e95408937c3cc25",
+      "title": "Transfer function design based on user selected samples for intuitive multivariate volume exploration"
+    },
+    {
+      "paperId": "cd8b537ffde024203812a0d80eb070622207bafc",
+      "title": "Information Theory-Based Automatic Multimodal Transfer Function Design"
+    },
+    {
+      "paperId": "b3296829c12f3c8c3f203e8fdfff6d2dca65a2a8",
+      "title": "Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms"
+    },
+    {
+      "paperId": "9b96845b84f3c77831f875a5640aa3bfb9a7eb16",
+      "title": "Technical Section: Transfer function combinations"
+    },
+    {
+      "paperId": "14ce200a859cd48b849540220163c1bc1e021ec4",
+      "title": "Exposure Render: An Interactive Photo-Realistic Volume Rendering Framework"
+    },
+    {
+      "paperId": "d5a458096c2f655d76162f233928aaa7b9e37d78",
+      "title": "Automating Transfer Function Design with Valley Cell\u2010Based Clustering of 2D Density Plots"
+    },
+    {
+      "paperId": "79f529ffaf3abe74470ed08d4552f3ec723d546b",
+      "title": "Importance Driven Automatic Color Design for Direct Volume Rendering"
+    },
+    {
+      "paperId": "969e536a17068988a0c2cae5524d37a7e505c67e",
+      "title": "Peritoneal Dialysis-Related Peritonitis Due to Staphylococcus aureus: A Single-Center Experience over 15 Years"
+    },
+    {
+      "paperId": "44ec045a1992ac4a303431e6735fc9980716636e",
+      "title": "Volume Analysis Using Multimodal Surface Similarity"
+    },
+    {
+      "paperId": "a3a562ce1c94a79183794f411342231629729955",
+      "title": "WYSIWYG (What You See is What You Get) Volume Visualization"
+    },
+    {
+      "paperId": "7b9a165353df98e241529046205f64d7bc32f3b6",
+      "title": "Analysis of large-scale scalar data using hixels"
+    },
+    {
+      "paperId": "14e204a004baf1f38c7dbc746206e30bd9720961",
+      "title": "Efficient Volume Exploration Using the Gaussian Mixture Model"
+    },
+    {
+      "paperId": "53523c2e6a22ee1554ed87378dab212e9d31463c",
+      "title": "Skeleton Cuts\u2014An Efficient Segmentation Method for Volume Rendering"
+    },
+    {
+      "paperId": "efdc2ed062d26b36a75384b3adc98c7760736476",
+      "title": "Visualizing the Positional and Geometrical Variability of Isosurfaces in Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "95f969aaf51a01e63c6799cd32c18ee33c04a5e4",
+      "title": "Multi-dimensional transfer function design based on flexible dimension projection embedded in parallel coordinates"
+    },
+    {
+      "paperId": "900930c9ecfd8fce80de9de86b65c63b05959522",
+      "title": "Visibility Histograms and Visibility-Driven Transfer Functions"
+    },
+    {
+      "paperId": "def6332512a3a5c50cf5305e9a8e5cc63a18435b",
+      "title": "Spatial Conditioning of Transfer Functions Using Local Material Distributions"
+    },
+    {
+      "paperId": "a36ca5a1dfd5f74555856907b9a822479de99a3d",
+      "title": "Interactive Vector Field Feature Identification"
+    },
+    {
+      "paperId": "a075d0d0ce767e27bd84ba56f1c79722f637fdea",
+      "title": "Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets"
+    },
+    {
+      "paperId": "fd4c78e0d08c6d930270f3fd5f124d025e7121ef",
+      "title": "Multi-dimensional Reduction and Transfer Function Design using Parallel Coordinates"
+    },
+    {
+      "paperId": "84b4d21fd21222a1f9ee27f5db47074aa723ea11",
+      "title": "A Survey of Transfer Functions Suitable for Volume Rendering"
+    },
+    {
+      "paperId": "de9c7ca6c95d5b677030d6ed91ae07c89554731c",
+      "title": "Shape-based transfer functions for volume visualization"
+    },
+    {
+      "paperId": "0afefdcc3f24f5e4a67463b102e9dd9fa5eb9a5b",
+      "title": "Volume visualization based on statistical transfer-function spaces"
+    },
+    {
+      "paperId": "28342517d06e7c982920252295e0a5910bd0b630",
+      "title": "Direct volume rendering by transfer function morphing"
+    },
+    {
+      "paperId": "673e50327a689219fffe16b84ae697ef643f13b7",
+      "title": "Automatic Transfer Function Generation Using Contour Tree Controlled Residue Flow Model and Color Harmonics"
+    },
+    {
+      "paperId": "97a08e7b8196c5df23ef09df9b66e2648a81bccf",
+      "title": "The Occlusion Spectrum for Volume Classification and Visualization"
+    },
+    {
+      "paperId": "98831fa2300b1c54b9639891971ea69795f7efcc",
+      "title": "A Visual Approach to Efficient Analysis and Quantification of Ductile Iron and Reinforced Sprayed Concrete"
+    },
+    {
+      "paperId": "196f76f38f0003aaceaf3c9e50a24917608ee1af",
+      "title": "Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation"
+    },
+    {
+      "paperId": "002b8ace1cbda398379858a5eada85d100a110a1",
+      "title": "Distribution-Driven Visualization of Volume Data"
+    },
+    {
+      "paperId": "83c24b00fcfabe42e29b80280f66ddaa8e6c2d93",
+      "title": "Instant Volume Visualization using Maximum Intensity Difference Accumulation"
+    },
+    {
+      "paperId": "e17a1326cccf097b643d54064a88323af3e1d0d6",
+      "title": "Semiautomatic Transfer Function Initialization for Abdominal Visualization Using Self-Generating Hierarchical Radial Basis Function Networks"
+    },
+    {
+      "paperId": "66717e69cb0ff4d5680b90adc09c8311494f5c03",
+      "title": "Moment curves"
+    },
+    {
+      "paperId": "2024180f5cce0ad525699b83e1ef053917056738",
+      "title": "Visibility-driven transfer functions"
+    },
+    {
+      "paperId": "106871329a5f7109faa8663d5590ea63dbd07683",
+      "title": "Size-based Transfer Functions: A New Volume Exploration Technique"
+    },
+    {
+      "paperId": "881f9e5d8a577a93dea91855b9f04c8c17a4c674",
+      "title": "The Seismic Analyzer: Interpreting and Illustrating 2D Seismic Data"
+    },
+    {
+      "paperId": "6d0a99ed1b3940bbbe5e3b0af739e659c4a9d5a6",
+      "title": "Texture-based Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "df3ac61dc274bc3aebf5e47887cc0e879879cc9d",
+      "title": "Information-based Transfer Functions for Multimodal Visualization"
+    },
+    {
+      "paperId": "78b4c458ef54314259a64fc9ae587dd9aaf33385",
+      "title": "Stroke-Based Transfer Function Design"
+    },
+    {
+      "paperId": "b8544c5c10309f62686b294d9c3f77b2a75cca0b",
+      "title": "Volume visualization and exploration through flexible transfer function design"
+    },
+    {
+      "paperId": "eeec367a1c7a04b4ec9ba66070beb3fc19245d72",
+      "title": "Output-Sensitive 3D Line Integral Convolution"
+    },
+    {
+      "paperId": "ea927988a89a00a5cb1695cf7f42f03828f2f2fe",
+      "title": "LiveSync++: enhancements of an interaction metaphor"
+    },
+    {
+      "paperId": "b5d34d11db4ffc8320200534eae211d8d076aa1f",
+      "title": "Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation"
+    },
+    {
+      "paperId": "bf73e0e5fb561025f0a9ea451750d3858686227d",
+      "title": "Semantic Layers for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "7a5d1d0a7e7265f16ed0c1ea5694f5e21433a4b5",
+      "title": "Classification for Volume Rendering of Industrial CT Based on Minimum Cross Entropy"
+    },
+    {
+      "paperId": "b02cf6bbb456153d8f29d057adfa630cafe70439",
+      "title": "Efficient Ambient and Emissive Tissue Illumination using Local Occlusion in Multiresolution Volume Rendering"
+    },
+    {
+      "paperId": "5703e7299aeaabe2dcfa5cf86a348eb931fc3256",
+      "title": "Interactive Transfer Function Design Based on Editing Direct Volume Rendered Images"
+    },
+    {
+      "paperId": "6848cc81019549a26ef6e1ec7a04ef663cccdfaa",
+      "title": "Style Transfer Functions for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "f96fc3b64bc1925daa975e0f9ba5e04599edd541",
+      "title": "A software tool for interactive generation, representation, and systematical storage of transfer functions for 3D medical images"
+    },
+    {
+      "paperId": "b1695af9220797bb9a804c7b89ed2a9bcecdb023",
+      "title": "Classification for Volume Rendering of Industrial CT Based on Moment of Histogram"
+    },
+    {
+      "paperId": "70c7779eb0eb453e2f7954a9d7f168b486398da8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Design of Multi-dimensional Transfer Functions Using Dimensional Reduction"
+    },
+    {
+      "paperId": "06d07cbc852d40d5d49f5e3441916cf426a5a36a",
+      "title": "MICCAI"
+    },
+    {
+      "paperId": "1c994052806ce323cf888268d5417ae8339a77c0",
+      "title": "Two-Level Interaction Transfer Function Design Combining Boundary Emphasis, Manual Specification and Evolutive Generation"
+    },
+    {
+      "paperId": "6335f367f01f764c5b79f143a46ecabdd5cc7a74",
+      "title": "Topology-Controlled Volume Rendering"
+    },
+    {
+      "paperId": "a4c1f32745a86e369c9d04a577c0e8eadf44c5f7",
+      "title": "Local Histograms for Design of Transfer Functions in Direct Volume Rendering"
+    },
+    {
+      "paperId": "b08580d336571b741b86ba61d86f684782b13abe",
+      "title": "Illustrative Context-Preserving Exploration of Volume Data"
+    },
+    {
+      "paperId": "4b8c15676573f80ed4d04efae79381d9292e7c0b",
+      "title": "General Adaptive Transfer Functions Design for Volume Rendering by Using Neural Networks"
+    },
+    {
+      "paperId": "748d890fc1f8e1afce15d0ab4f58a9da5d82eb0a",
+      "title": "High-Level User Interfaces for Transfer Function Design with Semantics"
+    },
+    {
+      "paperId": "1f84fc6dba4699283c89487a8815e967979b07e0",
+      "title": "ClearView: An Interactive Context Preserving Hotspot Visualization Technique"
+    },
+    {
+      "paperId": "cb1c6837e93434cdaf4e9433ca201df1f33010ae",
+      "title": "Real-time volume graphics"
+    },
+    {
+      "paperId": "a174cbc8a3364f40e9c2cd51f3cd1dd5c2cb8ed6",
+      "title": "HDR VolVis: high dynamic range volume visualization"
+    },
+    {
+      "paperId": "240e9c62cd4a6211a631a3649ff8fe0e1ebfbeac",
+      "title": "Automating Transfer Function Design for Volume Rendering Using Hierarchical Clustering of Material Boundaries"
+    },
+    {
+      "paperId": "7276372b4685c49c1f4fc394fb3fd0ab5fc9db3a",
+      "title": "Visualization of boundaries in volumetric data sets using LH histograms"
+    },
+    {
+      "paperId": "1d6473d2a6be62c8d7000f87f39d8e782b5222d9",
+      "title": "VolumeShop: an interactive system for direct volume illustration"
+    },
+    {
+      "paperId": "ff0499f9e9a6490de1a131fd71add6d438f39b11",
+      "title": "High dynamic range volume visualization"
+    },
+    {
+      "paperId": "a1d1d88ef4bae2776ad3882b40322b36c16bead9",
+      "title": "Illustration and photography inspired visualization of flows and volumes"
+    },
+    {
+      "paperId": "15184b3a594104a06eaafc5200d08edc2fd8fd82",
+      "title": "Statistically quantitative volume visualization"
+    },
+    {
+      "paperId": "52e18c46777f2976d378574e333d26551e75cfe6",
+      "title": "Example-based volume illustrations"
+    },
+    {
+      "paperId": "18446a20de8521b151c1a3fa457e685581d8a7ee",
+      "title": "Two-Level Interaction Approach for Transfer Function Specification"
+    },
+    {
+      "paperId": "45b47c1ee8a55f16530b5b146f5131f9a23f8b38",
+      "title": "Real\u2010Time Ray\u2010Casting and Advanced Shading of Discrete Isosurfaces"
+    },
+    {
+      "paperId": "41e6082f38e5990a315400a8a937b9cee85197a6",
+      "title": "Introducing topological attributes for objective-based visualization of simulated datasets"
+    },
+    {
+      "paperId": "f4f7464e0b19ec325451c824f0d4abacf79c737c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Illustrative Context-preserving Volume Rendering"
+    },
+    {
+      "paperId": "a00372636bc260b68e6296d80cd195307bcf685a",
+      "title": "Spatialized Transfer Functions"
+    },
+    {
+      "paperId": "2e0af57f7389b7e436a7f62ebdcf194348a914cb",
+      "title": "An intelligent system approach to higher-dimensional classification of volume data"
+    },
+    {
+      "paperId": "3ae7ac85271a3e9257d3e560b830fd1d5997e53f",
+      "title": "Importance-driven volume rendering"
+    },
+    {
+      "paperId": "cb6bdd91754e6028d7daa9f4f9693260dee77f3d",
+      "title": "Multi-dimensional transfer functions for interactive 3D flow visualization"
+    },
+    {
+      "paperId": "68f979ecd5da7cb7e4efb38580ead36391c05089",
+      "title": "A cluster-space visual interface for arbitrary dimensional classification of volume data"
+    },
+    {
+      "paperId": "0f9f586fc8788e981dc13b51b88cec55e40e3e04",
+      "title": "Transfer Functions on a Logarithmic Scale for Volume Rendering"
+    },
+    {
+      "paperId": "ded4f45a29544976e4dc0cdd35cf5ffbb23be411",
+      "title": "Computed Cleansing for Virtual Colonoscopy Using a Three-Material Transition Model"
+    },
+    {
+      "paperId": "5a273c125cbd95b86e4107d09ccbcbfd7ccc4d9a",
+      "title": "High-quality two-level volume rendering of segmented data sets on consumer graphics hardware"
+    },
+    {
+      "paperId": "dfb02f8c68b0012c20c9c0a267de09ac26a124d0",
+      "title": "Curvature-based transfer functions for direct volume rendering: methods and applications"
+    },
+    {
+      "paperId": "0c34e7461e87e16c26daf28ddbab51bfc9aee499",
+      "title": "A novel interface for higher-dimensional classification of volume data"
+    },
+    {
+      "paperId": "74316fb3f2fd52d2d90770fa3e7ae84e22302340",
+      "title": "ISpace: interactive volume data classification techniques using independent component analysis"
+    },
+    {
+      "paperId": "100c710bacce0fb678372786eb39f5dcee489226",
+      "title": "Multidimensional Transfer Functions for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "0daa0ea273964d3ec80dba883219c3086a770dc9",
+      "title": "Direct Volume Rendering of Photographic Volumes Using Multi-Dimensional Color-Based Transfer Functions"
+    },
+    {
+      "paperId": "010b46ac958ca100ac3afb0df4974e7a1b8c7036",
+      "title": "Designing Effective Transfer Functions for Volume Rendering from Photographic Volumes"
+    },
+    {
+      "paperId": "1cf2e31b7e31752ff5d4e5d837bdd894cd8edc14",
+      "title": "Fast Visualization of Object Contours by Non\u2010Photorealistic Volume Rendering"
+    },
+    {
+      "paperId": "4097403c8002547765214bad1ab00982782b03e5",
+      "title": "An Attempt for Coloring Multichannel MR Imaging Data"
+    },
+    {
+      "paperId": "40fbf8a8aa3ae46318ee176a24c3c423f2a97255",
+      "title": "The Transfer Function Bake-Off"
+    },
+    {
+      "paperId": "c33a36793bd432c590e71f40b48ae8215b743045",
+      "title": "A spreadsheet interface for visualization exploration"
+    },
+    {
+      "paperId": "d08de1ea7d1a5a32ca2219b3ccad3be2e6dfb280",
+      "title": "Volume Data Mining Using 3D Field Topology Analysis"
+    },
+    {
+      "paperId": "eb7e21c3ba70924c9575fdad678308de7abd1223",
+      "title": "Strategies for Direct Volume Rendering of Diffusion Tensor Fields"
+    },
+    {
+      "paperId": "45d392a313eba59b7f0e955308b7db380a2914e6",
+      "title": "Hue-balls and lit-tensors for direct volume rendering of diffusion tensor fields"
+    },
+    {
+      "paperId": "2cfdf47959dd932be71d93512141430df54f7abe",
+      "title": "Automating transfer function design for comprehensible volume rendering based on 3D field topology analysis"
+    },
+    {
+      "paperId": "1c385d7cfc061de2c5fa2edd5a027b71bd7491cb",
+      "title": "Image-based transfer function design for data exploration in volume visualization"
+    },
+    {
+      "paperId": "498200ac973d4a1667910b543175942c0483625a",
+      "title": "Semi-automatic generation of transfer functions for direct volume rendering"
+    },
+    {
+      "paperId": "563db6fd165a131a4ee082d9022d352300d7af3d",
+      "title": "Coloring voxel-based objects for virtual endoscopy"
+    },
+    {
+      "paperId": "5e08db679c57cae0144a0794d4af95fe0ad7f3c2",
+      "title": "Multiresolution Representation and Visualization of Volume Data"
+    },
+    {
+      "paperId": "9d7285aeebabb2d63f724ac3e25a1e8813146060",
+      "title": "Design Galleries: A General Approach to Setting Parameters for Computer Graphics and Animation"
+    },
+    {
+      "paperId": "7957217ce49a3bd656f9793b5e5a348640dbe61a",
+      "title": "Generation of transfer functions with stochastic search techniques"
+    },
+    {
+      "paperId": "1d04afb8b872b359846b5168170fcaba4c0a49e4",
+      "title": "A rule-based tool for assisting colormap selection"
+    },
+    {
+      "paperId": "ca7a7b1c8f0d6f34fb10db422fb5203bc2a13cfb",
+      "title": "Optical Models for Direct Volume Rendering"
+    },
+    {
+      "paperId": "ca9ae828055fe6077adaa1fa67f2ddd01dc10b38",
+      "title": "Volume rendering"
+    },
+    {
+      "paperId": "1daaace5526aeec3c2e099a5f2431ba48a2a43c0",
+      "title": "Ray tracing volume densities"
+    },
+    {
+      "paperId": null,
+      "title": "ImageVis3D: An interactive visualization software system for large-scale volume data"
+    },
+    {
+      "paperId": "9e6cced006b09dfc5d97eb6c931d494627acba24",
+      "title": "Abstracting Attribute Space for Transfer Function Exploration and Design"
+    },
+    {
+      "paperId": null,
+      "title": "Adaptive volume rendering for ultrasound color flow diagnostic imaging, Apr"
+    },
+    {
+      "paperId": "f3774757b07de8d5765e9ff4ef4cb621c2e24f1b",
+      "title": "Modified Dendrogram of Attribute Space for Multidimensional Transfer Function Design"
+    },
+    {
+      "paperId": "39cd181e06c1c2545f4e570bc5e3e027241f4938",
+      "title": "Illustrative Flow Visualization: State of the Art, Trends and Challenges"
+    },
+    {
+      "paperId": "53fdc63adf9c6d0a3f7458a106021c23ace90e1a",
+      "title": "VisIt: An End-User Tool for Visualizing and Analyzing Very Large Data"
+    },
+    {
+      "paperId": "d7801422d1e07499d2262f36328e4bca7ba7ca1a",
+      "title": "Texture-enhanced Direct Volume Rendering"
+    },
+    {
+      "paperId": "9a26a06a65f7baf71b6ab06a2d614c17b13f4e73",
+      "title": "Display of Surfaces from Volume Data Display of Surfaces from Volume Data"
+    },
+    {
+      "paperId": "159b3321cddc9215f0dc460fc9fc11283065916c",
+      "title": "Temporal Styles for Time-Varying Volume Data"
+    },
+    {
+      "paperId": "75c951d1a1ba1eddaac2c909d766e55c928a6e58",
+      "title": "Interpolating and Downsampling RGBA Volume Data"
+    },
+    {
+      "paperId": null,
+      "title": "Poster presented at 3D Data Processing, Visualization, and Transmission"
+    },
+    {
+      "paperId": "dc16fed8f381163f0f61dfb217d0bd35c973d8d4",
+      "title": "Illustrative Rendering of Seismic Data"
+    },
+    {
+      "paperId": null,
+      "title": "A Tri-Space Visualization Interface for Analyzing Time-Varying Multivariate Volume Data"
+    },
+    {
+      "paperId": "509c52461a72128582c5b15c8a85dc3a4048ab23",
+      "title": "Transfer Function Specification for the Visualization of Medical Data"
+    },
+    {
+      "paperId": "1a7991cd53ccb0e28285434be81f0ee0c2463d3b",
+      "title": "Distance-based transfer function design: Specification Methods and Applications"
+    },
+    {
+      "paperId": "cfa54a8261c09c6637b75968b079364b703e0464",
+      "title": "Multi-Dimensional Transfer Function Design Using Sorted Histograms"
+    },
+    {
+      "paperId": null,
+      "title": "The \u03b1-histogram: Using Spatial Coherence to Enhance Histograms and Transfer Function Design"
+    },
+    {
+      "paperId": "dc1cdfc639280809a68934c2f6d83a58354ffd2e",
+      "title": "Topological volume skeletonization and its application to transfer function design"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "f8ad21aed6647ba45e5afe121ea00a2b82fbc42f",
+      "title": "Visualization Viewpoints"
+    },
+    {
+      "paperId": "0ccfeb478ffdd603d98fddcf48a1e35f64bb2dd4",
+      "title": "Automatic Adjustment of Transfer Functions for 3D Volume Visualization"
+    },
+    {
+      "paperId": "a53677a6d519e4d73d3d47b5290216d36d042546",
+      "title": "Mastering Transfer Function Specification by using VolumePro Technology"
+    },
+    {
+      "paperId": "ea3a2e842ff0c64505e47f4835d7085e890331d6",
+      "title": "Curvature-Based Transfer Functions for Direct Volume Rendering"
+    },
+    {
+      "paperId": "8192ad6b3882d7e710a9713f6ed8a6abcd944ac0",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates"
+    },
+    {
+      "paperId": "75bb9e13c022e6785482737a66ba6e498b83bb01",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Extending and Simplifying Transfer Function Design in Medical Volume Rendering Using Local Histograms"
+    },
+    {
+      "paperId": "72477f0c76c49ef1410c999da91fc5280cc7ff16",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Interaction-dependent Semantics for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "be2c9b3309fda28305918d13a242e303c6891545",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Importance-driven Feature Enhancement in Volume Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Improving the Quality of Multi-resolution Volume Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "Hierarchical exploration c 2016 The Author(s) Computer Graphics Forum c 2016 The Eurographics Association and"
+    }
+  ]
+}

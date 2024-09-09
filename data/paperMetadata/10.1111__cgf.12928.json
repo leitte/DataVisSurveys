@@ -1,0 +1,665 @@
+{
+  "paperId": "43376a5473dbdc1db2bed70e3c7bae6d15f79e33",
+  "externalIds": {
+    "MAG": "2467187082",
+    "DBLP": "journals/cgf/KroneKLBBPHV16",
+    "DOI": "10.1111/cgf.12928",
+    "CorpusId": 4988469
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/43376a5473dbdc1db2bed70e3c7bae6d15f79e33",
+  "title": "Visual Analysis of Biomolecular Cavities: State of the Art",
+  "abstract": "In this report we review and structure the branch of molecular visualization that is concerned with the visual analysis of cavities in macromolecular protein structures. First the necessary background, the domain terminology, and the goals of analytical reasoning are introduced. Based on a comprehensive collection of relevant research works, we present a novel classification for cavity detection approaches and structure them into four distinct classes: grid\u2010based, Voronoi\u2010based, surface\u2010based, and probe\u2010based methods. The subclasses are then formed by their combinations. We match these approaches with corresponding visualization technologies starting with direct 3D visualization, followed with non\u2010spatial visualization techniques that for example abstract the interactions between structures into a relational graph, straighten the cavity of interest to see its profile in one view, or aggregate the time sequence into a single contour plot. We also discuss the current state of methods for the visual analysis of cavities in dynamic data such as molecular dynamics simulations. Finally, we give an overview of the most common tools that are actively developed and used in the structural biology and biochemistry research. Our report is concluded by an outlook on future challenges in the field.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 144,
+  "openAccessPdf": {
+    "url": "https://hal.science/hal-01400464/file/author-copy.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Chemistry",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Krone2016VisualAO,\n author = {M. Krone and B. Kozl\u00edkov\u00e1 and N. Lindow and M. Baaden and D. Baum and J. Parulek and H. Hege and I. Viola},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Visual Analysis of Biomolecular Cavities: State of the Art},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145564548",
+      "name": "M. Krone"
+    },
+    {
+      "authorId": "1746714",
+      "name": "B. Kozl\u00edkov\u00e1"
+    },
+    {
+      "authorId": "2318070",
+      "name": "N. Lindow"
+    },
+    {
+      "authorId": "1947243",
+      "name": "M. Baaden"
+    },
+    {
+      "authorId": "47508005",
+      "name": "D. Baum"
+    },
+    {
+      "authorId": "1801506",
+      "name": "J. Parulek"
+    },
+    {
+      "authorId": "145292959",
+      "name": "H. Hege"
+    },
+    {
+      "authorId": "1736888",
+      "name": "I. Viola"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5244cbc75a51026c80bad2d50d52a9176ebac0b8",
+      "title": "Visualization of Biomolecular Structures: State of the Art Revisited"
+    },
+    {
+      "paperId": "761ee39bea6b08958c62222c6d5ee6c01f375aff",
+      "title": "CAVER: Algorithms for Analyzing Dynamics of Tunnels in Macromolecules"
+    },
+    {
+      "paperId": "8d19befe100b24016d57114616c6cf93a7d23ed1",
+      "title": "Accelerated visualization of transparent molecular surfaces in molecular dynamics"
+    },
+    {
+      "paperId": "08edb37dc048dcde7a659ae0b8c4e186adfff24c",
+      "title": "GPU Accelerated Finding of Channels and Tunnels for a Protein Molecule"
+    },
+    {
+      "paperId": "accc68b5d2d4b989e163884e5345d1ad825085d7",
+      "title": "Real-Time Molecular Visualization Supporting Diffuse Interreflections and Ambient Occlusion"
+    },
+    {
+      "paperId": "ddff9f8f98645c5033a69848235f19adb26571ff",
+      "title": "AnimoAminoMiner: Exploration of Protein Tunnels and their Properties in Molecular Dynamics"
+    },
+    {
+      "paperId": "833e9084ec1b814bf9c37d7e0601a806a6e7eabd",
+      "title": "Ligand Binding Mechanism in Steroid Receptors: From Conserved Plasticity to Differential Evolutionary Constraints."
+    },
+    {
+      "paperId": "cd5e67a7511379c0c6cfe48a2877a079f64f9831",
+      "title": "PrinCCes: Continuity-based geometric decomposition and systematic visualization of the void repertoire of proteins."
+    },
+    {
+      "paperId": "a192c7b6d8be447fbe421af9546b410489e71b1a",
+      "title": "A Pipeline To Enhance Ligand Virtual Screening: Integrating Molecular Dynamics and Fingerprints for Ligand and Proteins"
+    },
+    {
+      "paperId": "657f164d7a91bbc20d56a887e4d9d12c835e8d27",
+      "title": "MoleCollar and Tunnel Heat Map Visualizations for Conveying Spatio\u2010Temporo\u2010Chemical Properties Across and Along Protein Voids"
+    },
+    {
+      "paperId": "306a874d0fe332c419b133a175a857671ae2f8bd",
+      "title": "NPDock: a web server for protein\u2013nucleic acid docking"
+    },
+    {
+      "paperId": "4f0e7ab4f488d7704d3ea682b90a89cca931d373",
+      "title": "Visualization of Biomolecular Structures: State of the Art"
+    },
+    {
+      "paperId": "a6ea18e28922b959a18af56bce84a668c000619b",
+      "title": "BetaCavityWeb: a webserver for molecular voids and channels"
+    },
+    {
+      "paperId": "b1f1e52837a8c4c601f55c13b535ebe9deb0b0fb",
+      "title": "CHEXVIS: a tool for molecular channel extraction and visualization"
+    },
+    {
+      "paperId": "ffe8c1eb4958f301f85033c4f1971aa3cb38d8ec",
+      "title": "MegaMol\u2014A Prototyping Framework for Particle-Based Visualization"
+    },
+    {
+      "paperId": "b89c7d0fcad24e3eaf146ba5673f94dc1ba7d5ed",
+      "title": "Principal Component Analysis reveals correlation of cavities evolution and functional motions in proteins."
+    },
+    {
+      "paperId": "3377276276e54748c2f1c0535c8cd27539493f45",
+      "title": "Epock: rapid analysis of protein pocket dynamics"
+    },
+    {
+      "paperId": "dd97d41b7f50c86f9c55504af02d3b41347386ff",
+      "title": "Ligand Excluded Surface: A New Type of Molecular Surface"
+    },
+    {
+      "paperId": "6be26a6d23b7a6d689e3b5e5df981459c597293d",
+      "title": "A real-time proximity querying algorithm for haptic-based molecular docking."
+    },
+    {
+      "paperId": "213e6841dec54dfe3ca3eedf345def4cf1832859",
+      "title": "Visualising intrinsic disorder and conformational variation in protein ensembles."
+    },
+    {
+      "paperId": "dcba0425235c37c8055a66ded86a905b1232f57d",
+      "title": "POVME 2.0: An Enhanced Tool for Determining Pocket Shape and Volume Characteristics"
+    },
+    {
+      "paperId": "4a47a60ea862b9b8e90dfe130669e7af6b536942",
+      "title": "Search strategies and evaluation in protein-protein docking: principles, advances and challenges."
+    },
+    {
+      "paperId": "753bcaa3c6d7ea5248e364f0c8b68b9ed3ad34bf",
+      "title": "MIMTool: A Tool for Drawing Molecular Interaction Maps"
+    },
+    {
+      "paperId": "17f6f5737dd2de3f4876fbc1761e8f549f6c5015",
+      "title": "YASARA View\u2014molecular graphics for all devices\u2014from smartphones to workstations"
+    },
+    {
+      "paperId": "60336ed2217beb62405b607223f4db4cbf986bc0",
+      "title": "Ensemble Generation and the Influence of Protein Flexibility on Geometric Tunnel Prediction in Cytochrome P450 Enzymes"
+    },
+    {
+      "paperId": "a7199959bd2838946fb2fc7f5ce3ba3df5960911",
+      "title": "KVFinder: steered identification of protein cavities as a PyMOL plugin"
+    },
+    {
+      "paperId": "7960cc8f8eb623ff431cd1978b5201ba47d2424b",
+      "title": "Comparative Visualization of Molecular Surfaces Using Deformable Models"
+    },
+    {
+      "paperId": "c8f80f3adf7a6fad26b7a7eeadb63921c54dae80",
+      "title": "CAVER Analyst 1.0: graphic tool for interactive visualization and analysis of tunnels and channels in protein structures"
+    },
+    {
+      "paperId": "a1d9a0bcf5c62deb3a8221d24e66661878da47d5",
+      "title": "Efficient Characterization of Protein Cavities within Molecular Simulation Trajectories: trj_cavity."
+    },
+    {
+      "paperId": "853778df2b840926dd0082c476c3af805dc3f01c",
+      "title": "Visual Analysis of Dynamic Protein Cavities and Binding Sites"
+    },
+    {
+      "paperId": "177e59f7ec8543a64229bd83ca9e4acc6c242b85",
+      "title": "Targeting protein-protein interaction by small molecules."
+    },
+    {
+      "paperId": "dcd054976ebf79c52d03747baedeaa533cf9b1f1",
+      "title": "Development and tuning of an original search engine for patent libraries in medicinal chemistry"
+    },
+    {
+      "paperId": "937f39e91fb2469f5d71b69fc2568556ff38fc9c",
+      "title": "Visual cavity analysis in molecular simulations"
+    },
+    {
+      "paperId": "2b4be4c58bcbe96cea187d16a5262625c24aa292",
+      "title": "Exploring cavity dynamics in biomolecular systems"
+    },
+    {
+      "paperId": "e75b29fcf7c38b23eca482379df47cb2305e0c8b",
+      "title": "Exploring cavity dynamics in biomolecular systems"
+    },
+    {
+      "paperId": "373ba7009a1f95711b63b9b1c3970a35ee70de96",
+      "title": "MOLE 2.0: advanced approach for analysis of biomacromolecular channels"
+    },
+    {
+      "paperId": "2492cd7f06f582e003c4d30ecc213bdfa2f17700",
+      "title": "Interactive Extraction and Tracking of Biomolecular Surface Features"
+    },
+    {
+      "paperId": "2e74926054c7798b4cc14778b61b3bb71a58eba6",
+      "title": "TRAPP: A Tool for Analysis of Transient Binding Pockets in Proteins"
+    },
+    {
+      "paperId": "823fba082ad68182da7c37601caa64f5de4eddc4",
+      "title": "MoMA-LigPath: a web server to simulate protein\u2013ligand unbinding"
+    },
+    {
+      "paperId": "32e9da7cef64ceba99c10a5852d52d081fb4bb24",
+      "title": "8th German Conference on Chemoinformatics"
+    },
+    {
+      "paperId": "341d3c44172ddffcb56596bbb8bedaa6a0349424",
+      "title": "Local functional descriptors for surface comparison based binding prediction"
+    },
+    {
+      "paperId": "82ebc6696c7ced01601270d03ecb90aa90eeb606",
+      "title": "Implicit surfaces for interactive graph based cavity analysis of molecular simulations"
+    },
+    {
+      "paperId": "210843782ca2ad7c4bb95cd81794d64acd828c8b",
+      "title": "Dynamic channels in biomolecular systems: Path analysis and visualization"
+    },
+    {
+      "paperId": "ccda65d82cf4c4079947358837858b3e769b67ed",
+      "title": "CAVER 3.0: A Tool for the Analysis of Transport Pathways in Dynamic Protein Structures"
+    },
+    {
+      "paperId": "cb29087c98a7f5135d17f697ca0d9823450c25f6",
+      "title": "Tunnels and Voids in Molecules via Voronoi Diagram"
+    },
+    {
+      "paperId": "842ecf92f797c98e1528e37f1c661afce951170b",
+      "title": "MOLEonline 2.0: interactive web-based analysis of biomacromolecular channels"
+    },
+    {
+      "paperId": "318147688d6674442fed0b24a46e4ce59c5e7112",
+      "title": "Object-space ambient occlusion for molecular dynamics"
+    },
+    {
+      "paperId": "7b54a979245f7cbad3f480ef2f4fc280a786bbc7",
+      "title": "Parallel Contour-Buildup algorithm for the molecular surface"
+    },
+    {
+      "paperId": "85c55800756db251bc5e49596aa0807687905aab",
+      "title": "MDpocket: open-source cavity detection and characterization on molecular dynamics trajectories"
+    },
+    {
+      "paperId": "6f44821048d3c77d15f531c53ca5c4d9957b0be3",
+      "title": "Voronoi-Based Extraction and Visualization of Molecular Paths"
+    },
+    {
+      "paperId": "3eac43491482e28b2e46ca0eb07def7e94596093",
+      "title": "Pocketome: an encyclopedia of small-molecule binding sites in 4D"
+    },
+    {
+      "paperId": "aa26553bd00f4b2c51d6df67202135166a90d949",
+      "title": "Identification of cavities on protein surface using multiple computational approaches for drug binding site prediction"
+    },
+    {
+      "paperId": "0cd999bd7782d99c2340cf54102a10a8a360f570",
+      "title": "Interactive Exploration of Protein Cavities"
+    },
+    {
+      "paperId": "40bc9c90818bb504c1bf3204b8b17c65031771f8",
+      "title": "dxTuber: detecting protein cavities, tunnels and clefts based on protein and solvent dynamics."
+    },
+    {
+      "paperId": "7e4d3e108b92434999786a83d51bdaa1e8b6753b",
+      "title": "Molecular docking: a powerful approach for structure-based drug discovery."
+    },
+    {
+      "paperId": "02a4f8dab476ff73025d7db90b539c2d1c16e2d8",
+      "title": "Encoding Molecular Motions in Voxel Maps"
+    },
+    {
+      "paperId": "f50e489f55e78f0a47ed5d0547caae7a405c6932",
+      "title": "Voroprot: an interactive tool for the analysis and visualization of complex geometric features of protein structure"
+    },
+    {
+      "paperId": "54d00576b26896e0acf09f931cfc1fb7f6615fe9",
+      "title": "POVME: an algorithm for measuring binding-pocket volumes."
+    },
+    {
+      "paperId": "e39ffff163dc8643fa3b66d5c5305346a6249080",
+      "title": "Understanding protein non-folding."
+    },
+    {
+      "paperId": "014aaec1afa70d8cb71b769f67f8797ff6dea610",
+      "title": "3V: cavity, channel and cleft volume calculator and extractor"
+    },
+    {
+      "paperId": "4277a04b6a64fc9378807ca3ed9bfa22eb25a0cb",
+      "title": "Measuring properties of molecular surfaces using ray casting"
+    },
+    {
+      "paperId": "4dcf091062bb89729d9b48d3144fb85de725120d",
+      "title": "Detection of multiscale pockets on protein surfaces using mathematical morphology"
+    },
+    {
+      "paperId": "aa352803d5fc2f64c14a85899d1c671f5bdbdbcc",
+      "title": "McVol - A program for calculating protein volumes and identifying cavities by a Monte Carlo algorithm"
+    },
+    {
+      "paperId": "9b5c8a3997f469b7deeb0e98fc825171b1d9519b",
+      "title": "Navigating molecular worms inside chemical labyrinths"
+    },
+    {
+      "paperId": "23e921d062d109e6d6201ec415f32e4d8712f661",
+      "title": "Predicting Protein Ligand Binding Sites by Combining Evolutionary Sequence Conservation and 3D Structure"
+    },
+    {
+      "paperId": "edbe3816dfca69eaa5c9e358c5b29218defd1faf",
+      "title": "Multi-Scale Surface Descriptors"
+    },
+    {
+      "paperId": "931199a12855b653d825ba85b03e60ff11b189e1",
+      "title": "MetaPocket: a meta approach to improve protein ligand binding site prediction."
+    },
+    {
+      "paperId": "73f83c08eeea349312fa047be0da46b57205cfa6",
+      "title": "PoreWalker: A Novel Tool for the Identification and Characterization of Channels in Transmembrane Proteins from Their Three-Dimensional Structure"
+    },
+    {
+      "paperId": "d9ca92602df178bf86f6d427d99de3edf03f51c8",
+      "title": "Fpocket: An open source platform for ligand pocket detection"
+    },
+    {
+      "paperId": "07de19b1ac3c1741334f802ed3431d5d44d89d1b",
+      "title": "HotSpot Wizard: a web server for identification of hot spots in protein engineering"
+    },
+    {
+      "paperId": "0692e3d94e040591a523ac9564ebe01fdeb8a03d",
+      "title": "SITEHOUND-web: a server for ligand binding site identification in protein structures"
+    },
+    {
+      "paperId": "852f0399092dda98328f06ea332b6e75c781f30f",
+      "title": "Development of new indices to evaluate protein-protein interfaces: assembling space volume, assembling space distance, and global shape descriptor."
+    },
+    {
+      "paperId": "90a473c2f069636f769c56a3acac971017644d13",
+      "title": "Finding and characterizing tunnels in macromolecules with application to ion channels and pores."
+    },
+    {
+      "paperId": "a5911d17b649ade78b3e695faa36430a2d65f2bd",
+      "title": "Identifying and Characterizing Binding Sites and Assessing Druggability"
+    },
+    {
+      "paperId": "da4c3cef9b079d051bfd62d770aef5ca57b0d5b4",
+      "title": "Molecular docking algorithms."
+    },
+    {
+      "paperId": "efe47368c7fc1453ba7b6cd1a6fdfda62acf507f",
+      "title": "HOLLOW: Generating Accurate Representations of Channel and Interior Surfaces in Molecular Structures"
+    },
+    {
+      "paperId": "1a0e4d13135e3ba8a9b38d85357317a84ca6d866",
+      "title": "MolAxis: Efficient and accurate identification of channels in macromolecules"
+    },
+    {
+      "paperId": "2ee3309547d1afb332f24a6b3c2e6313956bcc5f",
+      "title": "MOLE: a Voronoi diagram-based explorer of molecular channels, pores, and tunnels."
+    },
+    {
+      "paperId": "10704d745e6c63089d35d837517f1684f99fc8dc",
+      "title": "Molecular Surface Abstraction"
+    },
+    {
+      "paperId": "ad0ca46608149e73a40cd28ff0b6b0074b2b6193",
+      "title": "Functional Classification of Protein Kinase Binding Sites Using Cavbase"
+    },
+    {
+      "paperId": "c33943627552568bec08207fc82a25c3f385eb61",
+      "title": "Predicting functionally important residues from sequence conservation"
+    },
+    {
+      "paperId": "e2f6ecc371540d783bb89c1a5b60892ddf49bd10",
+      "title": "PocketPicker: analysis of ligand binding-sites with shape descriptors"
+    },
+    {
+      "paperId": "5a9d1cc1b39bfb2e2390cb355b16fe21a99aa950",
+      "title": "New Method for Fast and Accurate Binding\u2010site Identification and Analysis"
+    },
+    {
+      "paperId": "78597d4989a7f7f892067637dd3271e60569b087",
+      "title": "DisProt: the Database of Disordered Proteins"
+    },
+    {
+      "paperId": "8a7ee9e0645ffbdb8ab8e4f8a38965982f44332d",
+      "title": "LIGSITEcsc: predicting ligand binding sites using the Connolly surface and degree of conservation"
+    },
+    {
+      "paperId": "9d822781bf526307181394d705c0146dcc972c45",
+      "title": "Travel depth, a new shape descriptor for macromolecules: application to ligand binding."
+    },
+    {
+      "paperId": "6da9f50043a50b663c131eeb2081d8ec711500a6",
+      "title": "Ambient Occlusion and Edge Cueing for Enhancing Real Time Molecular Visualization"
+    },
+    {
+      "paperId": "9ef3e8c1aff62e3d966f5fa36b11cbc7cca5b075",
+      "title": "Segmenting molecular surfaces"
+    },
+    {
+      "paperId": "f9a490fcde8bd02b4e11dd1a2d10270b3a18680c",
+      "title": "CASTp: computed atlas of surface topography of proteins with structural and topographical mapping of functionally annotated residues"
+    },
+    {
+      "paperId": "fca1f1deec7d62e2b4a13267c584f4daeb28e617",
+      "title": "CAVER: a new tool to explore routes from protein clefts, pockets and cavities"
+    },
+    {
+      "paperId": "7a68b8264f7f5c2eacc04fa9f9ce96aca1fd31a9",
+      "title": "Molecular interaction maps of bioregulatory networks: a general rubric for systems biology."
+    },
+    {
+      "paperId": "9685df3fe9b76820df2d5d6540457aeb989f3204",
+      "title": "Pocketome via Comprehensive Identification and Classification of Ligand Binding Envelopes*"
+    },
+    {
+      "paperId": "75d7370ef7e3cad37e2cbd107270fd9c6d24a0bd",
+      "title": "Q-SiteFinder: an energy-based method for the prediction of protein-ligand binding sites"
+    },
+    {
+      "paperId": "06e8355591a5aeddba3e5d7e519d636d7b4666a6",
+      "title": "Multi-modal perceptualization of volumetric data and its application to molecular docking"
+    },
+    {
+      "paperId": "895860c6083736508d2541900cdf0960eb11592f",
+      "title": "UCSF Chimera\u2014A visualization system for exploratory research and analysis"
+    },
+    {
+      "paperId": "002a36359ab0680fac3dd492a113475b5e782ae0",
+      "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks."
+    },
+    {
+      "paperId": "1b4e7359562b005cfe58d48bcf9e35f1597a667e",
+      "title": "CAPRI: A Critical Assessment of PRedicted Interactions"
+    },
+    {
+      "paperId": "3b38915c0a0378d52010a2b03d1d6558c08c5871",
+      "title": "Fast prediction and visualization of protein binding pockets with PASS"
+    },
+    {
+      "paperId": "2115e13b3025865d6d3525d7ad509367ecaa54a0",
+      "title": "MolSurfer: two-dimensional maps for navigating three-dimensional structures of proteins."
+    },
+    {
+      "paperId": "9ef44a0c860c2a266740d986721ae7a9328c867f",
+      "title": "On the Definition and the Construction of Pockets in Macromolecules"
+    },
+    {
+      "paperId": "19c9157bc46cede9780dc8295640c210d9e7c87a",
+      "title": "Identifification of Substrate Channels and Protein Cavities"
+    },
+    {
+      "paperId": "a803be1582cc6b23c136133a75d3eb59f5a75651",
+      "title": "Analytical shape computation of macromolecules: II. Inaccessible cavities in proteins"
+    },
+    {
+      "paperId": "ee92042d437ea972326860177a69e9b2b360ad55",
+      "title": "Analytical shape computation of macromolecules: I. molecular area and volume through alpha shape"
+    },
+    {
+      "paperId": "9baf1118505cf95892b5b340f7d024f661b600a3",
+      "title": "Anatomy of protein pockets and cavities: Measurement of binding site geometry and implications for ligand design"
+    },
+    {
+      "paperId": "a33985cdfb079c3cc09119f5e88b809a07f904af",
+      "title": "LIGSITE: automatic and efficient detection of potential small molecule-binding sites in proteins."
+    },
+    {
+      "paperId": "47d56eb4f006789f5de4f77163627d44d028818f",
+      "title": "A novel method for structure-based prediction of ion channel conductance properties."
+    },
+    {
+      "paperId": "ec5d56f5571589013d8ac849e6429521896ad7c0",
+      "title": "HOLE: a program for the analysis of the pore dimensions of ion channel structural models."
+    },
+    {
+      "paperId": "1e8919249f37a64e93412cde071a0adcd8ba2942",
+      "title": "Reduced surface: an efficient way to compute molecular surfaces."
+    },
+    {
+      "paperId": "521027c14a7ef622a4f03106799706d0824e192a",
+      "title": "VMD: visual molecular dynamics."
+    },
+    {
+      "paperId": "8d536526f5d8769a5db4cdd5fe70d43efd933f25",
+      "title": "SURFNET: a program for visualizing molecular surfaces, cavities, and intermolecular interactions."
+    },
+    {
+      "paperId": "625ddfe164e3a25405672ecc1ca17d05353ff182",
+      "title": "GROMACS: A message-passing parallel molecular dynamics implementation"
+    },
+    {
+      "paperId": "5040760ffaf96a0b808b32d007d052dd6804d4ad",
+      "title": "The double cubic lattice method: Efficient approaches to numerical integration of surface area and volume and to dot surface contouring of molecular assemblies"
+    },
+    {
+      "paperId": "382f340998c317ea872a5d6fac697906e9c2d019",
+      "title": "Measuring proteins and voids in proteins"
+    },
+    {
+      "paperId": "8e7f629d330c1f1f62ec4d032e17304db1acf10f",
+      "title": "Three-dimensional alpha shapes"
+    },
+    {
+      "paperId": "3f4ed494004fcf38a912ee6ef766ec3ed817dff8",
+      "title": "Detection, delineation, measurement and display of cavities in macromolecular structures."
+    },
+    {
+      "paperId": "07e68b4117ec8549b6edd55443a1fe66e0971400",
+      "title": "The pore dimensions of gramicidin A."
+    },
+    {
+      "paperId": "4e736af6921f187975e724da48cca1ce291461e2",
+      "title": "POCKET: a computer graphics method for identifying and displaying protein cavities and their surrounding amino acids."
+    },
+    {
+      "paperId": "894ba975e22105b6598ea35ec503c4240223f451",
+      "title": "A very fast program for visualizing protein surfaces, channels and cavities."
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "14328caba8040965c653548707d3a2f53f223cb8",
+      "title": "Einfluss der Configuration auf die Wirkung der Enzyme"
+    },
+    {
+      "paperId": "b8fc8f67739949839dc9d241184141b2138edcd2",
+      "title": "Ligand tunnels in T. brucei and human CYP51: Insights for parasite-specific drug design."
+    },
+    {
+      "paperId": null,
+      "title": "MOL D EVELOPMENT T EAM : Jmol: an open-source Java viewer for chemical structures in 3d, 2009"
+    },
+    {
+      "paperId": "a9952b9a0482721ca1d90a2a97d430c4427de466",
+      "title": "Software tools for identification, visualization and analysis of protein tunnels and channels."
+    },
+    {
+      "paperId": "07df6b3c3fe6f01604dde8222cf48de811a6c01b",
+      "title": "Extraction of Robust Voids and Pockets in Proteins"
+    },
+    {
+      "paperId": "e040885cd33f933f356ff8f60783acfd3ed1a7c5",
+      "title": "Fast Visualization of Gaussian Density Surfaces for Molecular Dynamics and Particle System Trajectories"
+    },
+    {
+      "paperId": null,
+      "title": "Engineering of Protein Tunnels: Keyhole-lock-key Model for Catalysis by the Enzymes with Buried Active Sites"
+    },
+    {
+      "paperId": "030f31353a3d25e99fedd6bac72f990b42d61fd3",
+      "title": "Fast Surface-Based Travel Depth Estimation Algorithm for Macromolecule Surface Shape Description"
+    },
+    {
+      "paperId": "93f725b2285a881ab9dc58a4c57c75b36d1e11b5",
+      "title": "Ambient Occlusion Opacity Mapping for Visualization of Internal Molecular Structure"
+    },
+    {
+      "paperId": "76e1dcee27d9038f3b4be863c37d3fe37fd04f98",
+      "title": "Roll: a new algorithm for the detection of protein pockets and cavities with a rolling probe sphere"
+    },
+    {
+      "paperId": "d28cd635aac2961fcfe3d26706238f05aea661c0",
+      "title": "Computation of Tunnels in Protein Molecules using Delaunay Triangulation"
+    },
+    {
+      "paperId": "ca5cb4e0826b424adb81cbb4f2e3c88c391a4075",
+      "title": "Influence of cultivation temperature on the ligninolytic activity of selected fungal strains"
+    },
+    {
+      "paperId": "c2d0d6ab4930dfaf079942a83d16a3aa367ddfd7",
+      "title": "Computing and Displaying Intermolecular Negative Volume for Docking"
+    },
+    {
+      "paperId": "47d21716d170f0e25732b0b59a7fae703352ad94",
+      "title": "A path planning approach for computing large-amplitude motions of flexible molecules"
+    },
+    {
+      "paperId": "92ee6c35618e564c757758857aadbc74be7029a9",
+      "title": "Intersurf: dynamic interface between proteins."
+    },
+    {
+      "paperId": null,
+      "title": "PyMOL: An Open-Source Molecular Graphics Tool"
+    },
+    {
+      "paperId": "e1c37acdb8c5e31bb6395e1f8bf218ecfb06ade7",
+      "title": "Q-fit: A probabilistic method for docking molecular fragments by sampling low energy conformational space"
+    },
+    {
+      "paperId": "45b98fcf47aa90099d3c921f68c3404af98d7b56",
+      "title": "The PyMOL Molecular Graphics System"
+    },
+    {
+      "paperId": "548fe25043edbe4539c68550383875466ed0d777",
+      "title": "The Protein Data Bank"
+    },
+    {
+      "paperId": "3d1bffbc290a8baeb2da60b1be85e9f2f05196c0",
+      "title": "Deformable Smooth Surface Design"
+    },
+    {
+      "paperId": "d967d9550f831a8b3f5cb00f8835a4c866da60ad",
+      "title": "Rapidly-exploring random trees : a new tool for path planning"
+    },
+    {
+      "paperId": "92c1ff460b467e8f65402dd6b22e14539cee48c8",
+      "title": "The contour-buildup algorithm to calculate the analytical molecular surface."
+    },
+    {
+      "paperId": "f9fc96e85449edbe48734ad94f91e0cfe6e3bd22",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Accelerated Visualization of Dynamic Molecular Surfaces"
+    },
+    {
+      "paperId": "0e6ef2809bad0965b3df599b05be1e6d859d5543",
+      "title": "Electronic Reprint Biological Crystallography the Protein Data Bank Biological Crystallography the Protein Data Bank"
+    },
+    {
+      "paperId": null,
+      "title": "JSmol: JavaScript-Based Molecular Viewer From Jmol, 2013"
+    }
+  ]
+}

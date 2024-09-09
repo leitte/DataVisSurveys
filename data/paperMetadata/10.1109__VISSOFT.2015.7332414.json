@@ -1,0 +1,249 @@
+{
+  "paperId": "0e051d099049577e65c1d191ef2356f0df9b0953",
+  "externalIds": {
+    "MAG": "2111419659",
+    "DBLP": "conf/vissoft/BasitHK15",
+    "DOI": "10.1109/VISSOFT.2015.7332414",
+    "CorpusId": 17149586
+  },
+  "publicationVenue": {
+    "id": "74f205c9-3a50-4243-a717-32ef84991aa1",
+    "name": "IEEE Working Conference on Software Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Softw Underst Anal",
+      "IEEE Work Conf Softw Vis",
+      "VISSOFT",
+      "Visualizing Software for Understanding and Analysis"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/0e051d099049577e65c1d191ef2356f0df9b0953",
+  "title": "A survey on goal-oriented visualization of clone data",
+  "abstract": "Comprehending software clones is necessary for a number of activities in software development. The comprehension of software clones is challenged by the sheer volume of data and the complexity of the information content in that data. Visualization, or visual data analysis, takes advantage of human cognitive skills to discover unstructured insights from the visual presentations of complex and voluminous data. In this paper, we survey the existing literature on visualization of software clones. We gather the insights provided, and put that information in context of actual information needs systematically derived from the clone management goals. This framework allows us to better understand the role a visualization may play in achieving a specific user goal, identify potential gaps between existing types of visualization and information needs, and find complementary non-redundant subsets of visualizations for each user goal.",
+  "venue": "IEEE Working Conference on Software Visualization",
+  "year": 2015,
+  "referenceCount": 45,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2015-09-01",
+  "journal": {
+    "name": "2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT)",
+    "pages": "46-55"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Basit2015ASO,\n author = {H. A. Basit and Muhammad Hammad and R. Koschke},\n booktitle = {IEEE Working Conference on Software Visualization},\n journal = {2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT)},\n pages = {46-55},\n title = {A survey on goal-oriented visualization of clone data},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2076259",
+      "name": "H. A. Basit"
+    },
+    {
+      "authorId": "1409270430",
+      "name": "Muhammad Hammad"
+    },
+    {
+      "authorId": "1704279",
+      "name": "R. Koschke"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f54f689bb1f348d477b7b8ce45a51a26865bb52b",
+      "title": "What do we need to know about clones? deriving information needs from user goals"
+    },
+    {
+      "paperId": "9efe29ac7cd62b733aa230b47884673743d4bec6",
+      "title": "Analysis and visualization for clone refactoring"
+    },
+    {
+      "paperId": "37d22d6b415d1b9dfd86639c9daf73de9f1fa497",
+      "title": "Visual Clone Analysis with SolidSDD"
+    },
+    {
+      "paperId": "2c6537223b262df97d7fb411d99bb2667be28d45",
+      "title": "The vision of software clone management: Past, present, and future (Keynote paper)"
+    },
+    {
+      "paperId": "bef52ce82c4ca05438acb27fc6dff737526d65ea",
+      "title": "DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation"
+    },
+    {
+      "paperId": "7f069ac5897dbe9d16b7edeb2efd056fe0fbd58e",
+      "title": "Software clone detection: A systematic review"
+    },
+    {
+      "paperId": "aa32f7fc6af06e037af57085cf8ac0a1855eb80f",
+      "title": "Inferring Repository File Structure Modifications Using Nearest-Neighbor Clone Detection"
+    },
+    {
+      "paperId": "8c7a5be08b9c7e8fa41b89adc1f261fd4720b2a4",
+      "title": "Using edge bundle views for clone visualization"
+    },
+    {
+      "paperId": "317d643838f777c9a74f846966b68b86d156091f",
+      "title": "Visual support for porting large code bases"
+    },
+    {
+      "paperId": "8d3694bde628cec38e117f0bc2c8929dbf27c1f9",
+      "title": "Exploring Large-Scale System Similarity Using Incremental Clone Detection and Live Scatterplots"
+    },
+    {
+      "paperId": "3f7125601ee81af85906ba40badf5a5b536b1f8b",
+      "title": "VisCad: flexible code clone analysis support for NiCad"
+    },
+    {
+      "paperId": "5f8146346ed070b92397d09505b9f22c0e235aaa",
+      "title": "Analyzing web service similarity using contextual clones"
+    },
+    {
+      "paperId": "112fefe9be016dbda576594e1e83b8aef5900fff",
+      "title": "Efficiently handling clone data: RCF and cyclone"
+    },
+    {
+      "paperId": "2fa58d3ba8632bc2a3555ecf017716ff4eba1424",
+      "title": "Visualizing the evolution of code clones"
+    },
+    {
+      "paperId": "fb35f65339c4f1bbe9c0bd25f09f83e65e436d51",
+      "title": "Comparison and evaluation of code clone detection techniques and tools: A qualitative approach"
+    },
+    {
+      "paperId": "54df765ebd6668f1a60d7cc8da9106422edad6c7",
+      "title": "Query-based filtering and graphical view generation for clone analysis"
+    },
+    {
+      "paperId": "eec29f03d5360d8eb24ca9a70a40b295a51e8a70",
+      "title": "Cascaded treemaps: examining the visibility and stability of structure in treemaps"
+    },
+    {
+      "paperId": "6831641c2a1610a9dc33d9fc3292235443d31020",
+      "title": "Applying a Code Clone Detection Method to Domain Analysis of Device Drivers"
+    },
+    {
+      "paperId": "0cc24d8308665874bddf5cb874c7fb122c249666",
+      "title": "SoftGUESS: Visualization and Exploration of Code Clones in Context"
+    },
+    {
+      "paperId": "990460b0286e1b236a0798c089dc4b13e90c951b",
+      "title": "Very-Large Scale Code Clone Analysis and Visualization of Open Source Programs Using Distributed CCFinder: D-CCFinder"
+    },
+    {
+      "paperId": "c0038bdc3e7d188520cdac1ed72b88a78a857f53",
+      "title": "Visualizing and Understanding Code Duplication in Large Software Systems"
+    },
+    {
+      "paperId": "f1dd04024afc9f7fa0f3c9e9dfbf74dbc73902f3",
+      "title": "Visualizing Clone Cohesion and Coupling"
+    },
+    {
+      "paperId": "1a9cd65cd803cc9523e6ab551dcf33bf3f61f0c0",
+      "title": "Visualization of clone detection results"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "531c174de0474a8309a9b3be36b3ec04b011e0ab",
+      "title": "A survey on tree edit distance and related problems"
+    },
+    {
+      "paperId": "f465306c10e0616bb03bd1b38f95ce4900ca495b",
+      "title": "Effective Clone Detection Without Language Barriers"
+    },
+    {
+      "paperId": "a909663091890b42a17ec8c0e66f293b2c9cf6c9",
+      "title": "Visualization of Graphs and Trees for Software Analysis"
+    },
+    {
+      "paperId": "7be1fda63061bc3ceaa007a35f14c00755450447",
+      "title": "Insights into system-wide code duplication"
+    },
+    {
+      "paperId": "7454f744baaf8e08b33b8f63f6ca8488909e1eaf",
+      "title": "Polymetric Views - A Lightweight Visual Approach to Reverse Engineering"
+    },
+    {
+      "paperId": "98e810ed098a651e0ba8cbb63d2d926d4eebdf9b",
+      "title": "CCFinder: A Multilinguistic Token-Based Code Clone Detection System for Large Scale Source Code"
+    },
+    {
+      "paperId": "09ec25b52531e8d92f53f1b97d12bdb2f9433a61",
+      "title": "A task oriented view of software visualization"
+    },
+    {
+      "paperId": "602c744e97407b033857d2af6c0f6b7c2d635c95",
+      "title": "Tracking structural evolution using origin analysis"
+    },
+    {
+      "paperId": "448ce207fdc0fd8e4301630456f34802b4eff34a",
+      "title": "Dotplot Patterns: A Literal Look at Pattern Languages"
+    },
+    {
+      "paperId": "af2821bc1828ab01bf4722459030c65d169ddc65",
+      "title": "Visualizing textual redundancy in legacy source"
+    },
+    {
+      "paperId": "0e48f7fb11eca258d2bb3c343e9ac9cc5fab57ce",
+      "title": "Seesoft-A Tool For Visualizing Line Oriented Software Statistics"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": null,
+      "title": "Ontology alignment using bestmatch clone detection"
+    },
+    {
+      "paperId": null,
+      "title": "Software Clone Management Towards Industrial Application"
+    },
+    {
+      "paperId": "b0f7cc4bd225f5bf3c159d85c5288d7a02ec6f6e",
+      "title": "Continuous quality control of long lived software systems"
+    },
+    {
+      "paperId": "9ca9b3d7d11169f7462f2a07271957a8a112b3ed",
+      "title": "Software evolution visualization"
+    },
+    {
+      "paperId": "7bcbd9498c630e1454e46d764fbaf4643c628818",
+      "title": "Using Code Normalization for Fighting Self-Mutating Malware"
+    },
+    {
+      "paperId": "b1cbd1792d0e7f6f3e91d2b9045b383fefe66dc0",
+      "title": "The Software Similarity Problem in Malware Analysis"
+    },
+    {
+      "paperId": "479b770d93411cbaaa3888cd77e09e71d8c211f2",
+      "title": "Survey of Research on Software Clones"
+    },
+    {
+      "paperId": "dff4304926e1b58f68c36e0d2ce6c23d6243f982",
+      "title": "Gemini: Code Clone Analysis Tool"
+    },
+    {
+      "paperId": "4a52c923f1ffcdd3e331d6c565718be9f1dddad5",
+      "title": "Published online in Wiley Online Library (wileyonlinelibrary.com). DOI: 10.1002/smr.579 Clone evolution: a systematic review"
+    }
+  ]
+}

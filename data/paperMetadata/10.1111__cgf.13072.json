@@ -1,0 +1,1105 @@
+{
+  "paperId": "5244cbc75a51026c80bad2d50d52a9176ebac0b8",
+  "externalIds": {
+    "DBLP": "journals/cgf/KozlikovaKFLBBV17",
+    "MAG": "2549327495",
+    "DOI": "10.1111/cgf.13072",
+    "CorpusId": 4979299
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/5244cbc75a51026c80bad2d50d52a9176ebac0b8",
+  "title": "Visualization of Biomolecular Structures: State of the Art Revisited",
+  "abstract": "Structural properties of molecules are of primary concern in many fields. This report provides a comprehensive overview on techniques that have been developed in the fields of molecular graphics and visualization with a focus on applications in structural biology. The field heavily relies on computerized geometric and visual representations of three\u2010dimensional, complex, large and time\u2010varying molecular structures. The report presents a taxonomy that demonstrates which areas of molecular visualization have already been extensively investigated and where the field is currently heading. It discusses visualizations for molecular structures, strategies for efficient display regarding image quality and frame rate, covers different aspects of level of detail and reviews visualizations illustrating the dynamic aspects of molecular simulation data. The survey concludes with an outlook on promising and important research topics to foster further success in the development of tools that help to reveal molecular secrets.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 253,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.13072",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Chemistry",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-12-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kozl\u00edkov\u00e12017VisualizationOB,\n author = {B. Kozl\u00edkov\u00e1 and M. Krone and M. Falk and N. Lindow and M. Baaden and D. Baum and I. Viola and J. Parulek and H. Hege},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Visualization of Biomolecular Structures: State of the Art Revisited},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1746714",
+      "name": "B. Kozl\u00edkov\u00e1"
+    },
+    {
+      "authorId": "145564548",
+      "name": "M. Krone"
+    },
+    {
+      "authorId": "143946602",
+      "name": "M. Falk"
+    },
+    {
+      "authorId": "2318070",
+      "name": "N. Lindow"
+    },
+    {
+      "authorId": "1947243",
+      "name": "M. Baaden"
+    },
+    {
+      "authorId": "47508005",
+      "name": "D. Baum"
+    },
+    {
+      "authorId": "1736888",
+      "name": "I. Viola"
+    },
+    {
+      "authorId": "1801506",
+      "name": "J. Parulek"
+    },
+    {
+      "authorId": "145292959",
+      "name": "H. Hege"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "43376a5473dbdc1db2bed70e3c7bae6d15f79e33",
+      "title": "Visual Analysis of Biomolecular Cavities: State of the Art"
+    },
+    {
+      "paperId": "8b7b8227fe13ad48213d21afb8d27ee5e77ba1a8",
+      "title": "Immersive Molecular Visualization with Omnidirectional Stereoscopic Ray Tracing and Remote Rendering"
+    },
+    {
+      "paperId": "8d19befe100b24016d57114616c6cf93a7d23ed1",
+      "title": "Accelerated visualization of transparent molecular surfaces in molecular dynamics"
+    },
+    {
+      "paperId": "94f9d4fc5e812114df0236c55c26e55961fcedbb",
+      "title": "High quality illustrative effects for molecular rendering"
+    },
+    {
+      "paperId": "accc68b5d2d4b989e163884e5345d1ad825085d7",
+      "title": "Real-Time Molecular Visualization Supporting Diffuse Interreflections and Ambient Occlusion"
+    },
+    {
+      "paperId": "b37fecb5a04621388c4cb8cdf558575a5d166f2d",
+      "title": "A Transcriptional Signature of Fatigue Derived from Patients with Primary Sj\u00f6gren\u2019s Syndrome"
+    },
+    {
+      "paperId": "cf7e17593b8cfb60ef1a3b622d31d65d858ca219",
+      "title": "Multi-scale Visualization of Molecular Architecture Using Real-Time Ambient Occlusion in Sculptor"
+    },
+    {
+      "paperId": "6fdfcaaf74e0912d91703e425d7ff597d6069c5c",
+      "title": "Ab initio interactive molecular dynamics on graphical processing units (GPUs)."
+    },
+    {
+      "paperId": "eba4f7b57df07167182d926ab4701bb4e4bbefc2",
+      "title": "Instant Visualization of Secondary Structures of Molecular Models"
+    },
+    {
+      "paperId": "7a1c9cb43ad1579ab7daaf5f496da5cf4e452a9d",
+      "title": "cellVIEW: a Tool for Illustrative and Multi-Scale Rendering of Large Biomolecular Datasets"
+    },
+    {
+      "paperId": "af4f16a2078567874d05daff2bda8d6959ee0b7d",
+      "title": "MoFlow: visualizing conformational changes in molecules as molecular flow improves understanding"
+    },
+    {
+      "paperId": "9a754f0ab4920133a4aa442ad7d4a56cecbb405e",
+      "title": "Imaging the Ultrafast Photoelectron Transfer Process in Alizarin-TiO2"
+    },
+    {
+      "paperId": "b809de3d19d7da1195ded489149cd20d7c165c31",
+      "title": "An Accurate Model for Biomolecular Helices and Its Application to Helix Visualization"
+    },
+    {
+      "paperId": "b3aacefe4edb80b8e654f474a235e4ce8a56003a",
+      "title": "Remote visualization of dynamic molecular data using WebGL"
+    },
+    {
+      "paperId": "3e614bc9130f040972bb0b626883582ea592d453",
+      "title": "Visualization of Particle\u2010based Data with Transparency and Ambient Occlusion"
+    },
+    {
+      "paperId": "657f164d7a91bbc20d56a887e4d9d12c835e8d27",
+      "title": "MoleCollar and Tunnel Heat Map Visualizations for Conveying Spatio\u2010Temporo\u2010Chemical Properties Across and Along Protein Voids"
+    },
+    {
+      "paperId": "65ae00da1fdfad411aa9230087e45e46933945db",
+      "title": "44 Predicting and exploring complex nucleic acids architectures through a coarse-grained model"
+    },
+    {
+      "paperId": "f7c486cf1da410f17978f3c0d462c77e28662cf3",
+      "title": "Three-dimensional representations of complex carbohydrates and polysaccharides--SweetUnityMol: a video game-based computer graphic software."
+    },
+    {
+      "paperId": "ee4ec6194f9445e7c9128d88350c900634671afa",
+      "title": "NGL Viewer: a web application for molecular visualization"
+    },
+    {
+      "paperId": "4f0e7ab4f488d7704d3ea682b90a89cca931d373",
+      "title": "Visualization of Biomolecular Structures: State of the Art"
+    },
+    {
+      "paperId": "3f254f11b9e578687ec5bdef8deacb0b7577d950",
+      "title": "Coverage-based opacity estimation for interactive Depth of Field in molecular visualization"
+    },
+    {
+      "paperId": "741ef02e800a3ff6a6fae6bbfaa27ac7e6439225",
+      "title": "Illustrative Timelapse: A technique for illustrative visualization of particle-based simulations"
+    },
+    {
+      "paperId": "924315e84347a2cc81270972ea34f9ec740da25b",
+      "title": "New ways to boost molecular dynamics simulations"
+    },
+    {
+      "paperId": "ffe8c1eb4958f301f85033c4f1971aa3cb38d8ec",
+      "title": "MegaMol\u2014A Prototyping Framework for Particle-Based Visualization"
+    },
+    {
+      "paperId": "efad3eef23737265360adbe4d18b979ad9478673",
+      "title": "3Dmol.js: molecular visualization with WebGL"
+    },
+    {
+      "paperId": "dd97d41b7f50c86f9c55504af02d3b41347386ff",
+      "title": "Ligand Excluded Surface: A New Type of Molecular Surface"
+    },
+    {
+      "paperId": "20e4eadb02bd2307ed1e47f9defce1cfb6c3b53f",
+      "title": "Anton 2: Raising the Bar for Performance and Programmability in a Special-Purpose Molecular Dynamics Supercomputer"
+    },
+    {
+      "paperId": "1b3340b6d9c24e5f227eb6a3df5b42d176910520",
+      "title": "cellPACK: A Virtual Mesoscope to Model and Visualize Structural Systems Biology"
+    },
+    {
+      "paperId": "272fb1da2a1bb2d6740095d11693c815ff1dbcf2",
+      "title": "How round is a protein? Exploring protein structures for globularity using conformal mapping"
+    },
+    {
+      "paperId": "e7cc16a5ad26b4e2568d34d8b32a10a9a6d903e3",
+      "title": "Characterizing Molecular Interactions in Chemical Systems"
+    },
+    {
+      "paperId": "31fe4321d7d86fb4c119e9056e2a42ddf777102a",
+      "title": "Visual analysis for space-time aggregation of biomolecular simulations."
+    },
+    {
+      "paperId": "079a269c999170c202b1d4a5b18092f48967058f",
+      "title": "Density based visualization for molecular simulation."
+    },
+    {
+      "paperId": "09f43a120f4c1a50f6d009b1683b4d05e2d40fe5",
+      "title": "Methodologies for the analysis of instantaneous lipid diffusion in MD simulations of large membrane systems."
+    },
+    {
+      "paperId": "213e6841dec54dfe3ca3eedf345def4cf1832859",
+      "title": "Visualising intrinsic disorder and conformational variation in protein ensembles."
+    },
+    {
+      "paperId": "2b1d65275e0d50851dcb8e7ec159d26130c81f7b",
+      "title": "RiboVision suite for visualization and analysis of ribosomes."
+    },
+    {
+      "paperId": "e374795af57fb40bfee8e2bc37c6f11824d976cc",
+      "title": "Interactively illustrating polymerization using three-level model fusion"
+    },
+    {
+      "paperId": "ae14aefad7c21dd68d3fe89c244df24620f1660e",
+      "title": "A guide to the visual analysis and communication of biomolecular structural data"
+    },
+    {
+      "paperId": "bb7414bc5b0188e0c6607092026658e0dfe9cc47",
+      "title": "Continuous Levels\u2010of\u2010Detail and Visual Abstraction for Seamless Molecular Visualization"
+    },
+    {
+      "paperId": "5b4e746d653b6f1a734cfe2f611378c3c3c05b29",
+      "title": "Visualization of molecular structures using state-of-the-art techniques in WebGL"
+    },
+    {
+      "paperId": "17f6f5737dd2de3f4876fbc1761e8f549f6c5015",
+      "title": "YASARA View\u2014molecular graphics for all devices\u2014from smartphones to workstations"
+    },
+    {
+      "paperId": "f2ac0ad6f379a5b92bbb0efc2361c458ef092058",
+      "title": "NetworkViewer: visualizing biochemical reaction networks with embedded rendering of molecular interaction rules"
+    },
+    {
+      "paperId": "e2a502de05e3b23a56edcf3b439c25389bd0ba86",
+      "title": "Illustrative Visualization of Molecular Reactions using Omniscient Intelligence and Passive Agents"
+    },
+    {
+      "paperId": "53879d20c75d661125d909a2734d7c0976e9b24d",
+      "title": "RBF Volume Ray Casting on Multicore and Manycore CPUs"
+    },
+    {
+      "paperId": "c8f80f3adf7a6fad26b7a7eeadb63921c54dae80",
+      "title": "CAVER Analyst 1.0: graphic tool for interactive visualization and analysis of tunnels and channels in protein structures"
+    },
+    {
+      "paperId": "1f61e44c4a1987dc80ce61c924fbd49300820d93",
+      "title": "Interactive chemical reactivity exploration."
+    },
+    {
+      "paperId": "4ee5598a7ea981df492b0b678bca04cc5dded348",
+      "title": "iview: an interactive WebGL visualizer for protein-ligand complex"
+    },
+    {
+      "paperId": "787c00121f025082d3ae844923de7340c77ecf46",
+      "title": "Statistical tests to identify appropriate types of nucleotide sequence recoding in molecular phylogenetics"
+    },
+    {
+      "paperId": "00f4dc8341f5ed40ee46fe9a9a3c86531d801695",
+      "title": "Atomistic Visualization of Mesoscopic Whole\u2010Cell Simulations Using Ray\u2010Casted Instancing"
+    },
+    {
+      "paperId": "98b18df87962493610d0f62bc067dfa6046f3fa6",
+      "title": "Fast Blending Scheme for Molecular Surface Representation"
+    },
+    {
+      "paperId": "6b80ca543608de74d4f2eb05434488867da956b1",
+      "title": "GPU-accelerated molecular visualization on petascale supercomputing platforms"
+    },
+    {
+      "paperId": "ac0983159e9dea8053bb9e998096de8b12d397b3",
+      "title": "From biochemical reaction networks to 3D dynamics in the cell: The ZigCell3D modeling, simulation and visualisation framework"
+    },
+    {
+      "paperId": "ecccda8f446351c9b2e9e14f4e7daba2308bac59",
+      "title": "Network visualization of conformational sampling during molecular dynamics simulation."
+    },
+    {
+      "paperId": "da10ae967c8aa7bceb0abfa2f9f072fb4d46f8b6",
+      "title": "2012 IEEE Visualization Contest Winner: Visualizing Polarization Domains in Barium Titanate"
+    },
+    {
+      "paperId": "d8a98d24d4f0977cd1e45251fb5d24ab93718409",
+      "title": "Visualizing Motional Correlations in Molecular Dynamics using Geometric Deformations"
+    },
+    {
+      "paperId": "37379b3dcc8aa089119a88e5a9c728cb216b1d85",
+      "title": "Rendering Molecular Surfaces using Order-Independent Transparency"
+    },
+    {
+      "paperId": "7ffbaa4b065fe548ab80a089aea541401e449826",
+      "title": "A general and Robust Ray-Casting-Based Algorithm for Triangulating Surfaces at the Nanoscale"
+    },
+    {
+      "paperId": "cffdfc635b8d2d056787922a27fefab3312bb0be",
+      "title": "JSmol and the Next-Generation Web-Based Representation of 3D Molecular Structure as Applied to Proteopedia"
+    },
+    {
+      "paperId": "1f296212ba57d19607d9e45bbcf06293476e1d9f",
+      "title": "Game On, Science - How Video Game Technology May Help Biologists Tackle Visualization Challenges"
+    },
+    {
+      "paperId": "7c60cb83209cfab864db2ad6e5088f89f86c8f30",
+      "title": "Lattice microbes: High\u2010performance stochastic simulation method for the reaction\u2010diffusion master equation"
+    },
+    {
+      "paperId": "210843782ca2ad7c4bb95cd81794d64acd828c8b",
+      "title": "Dynamic channels in biomolecular systems: Path analysis and visualization"
+    },
+    {
+      "paperId": "dd944567fd5930aa7f35d80bcebfbbf7f847a289",
+      "title": "Ab initio quantum chemistry for protein structures."
+    },
+    {
+      "paperId": "39e74ffa4cbf4d053e0b03b839e8699246185663",
+      "title": "Bendix: intuitive helix geometry analysis and abstraction"
+    },
+    {
+      "paperId": "e3ad973cbaaae8e28aa237c13fc5328ed4eb752d",
+      "title": "Avogadro: an advanced semantic chemical editor, visualization, and analysis platform"
+    },
+    {
+      "paperId": "87672b7a4a1ce7b26bb18f3bb9010d78d8d7966a",
+      "title": "The picture book of quantum mechanics"
+    },
+    {
+      "paperId": "5689db42cf346876c9e475151032173abe31d2fb",
+      "title": "Interactive Rendering of Materials and Biological Structures on Atomic and Nanoscopic Scale"
+    },
+    {
+      "paperId": "e72732b69bbb3f216deb9a5e03aabdf5f2fa98d0",
+      "title": "Advances in Human-Protein Interaction - Interactive and Immersive Molecular Simulations"
+    },
+    {
+      "paperId": "8685b8c83690f51068cd2e0885b4f711fb5a4d90",
+      "title": "Long-Lived Electronic Coherence in Dissipative Exciton Dynamics of Light-Harvesting Complexes"
+    },
+    {
+      "paperId": "24d5fa1f771a0cd811ec2efacd6b6977de904190",
+      "title": "Implicit representation of molecular surfaces"
+    },
+    {
+      "paperId": "318147688d6674442fed0b24a46e4ce59c5e7112",
+      "title": "Object-space ambient occlusion for molecular dynamics"
+    },
+    {
+      "paperId": "7b54a979245f7cbad3f480ef2f4fc280a786bbc7",
+      "title": "Parallel Contour-Buildup algorithm for the molecular surface"
+    },
+    {
+      "paperId": "271c6f7d4df274c7be3fed0d509ab6948fcf2180",
+      "title": "RuleBender: Integrated visualization for biochemical rule-based modeling"
+    },
+    {
+      "paperId": "f54900de2a4f3de6eeba3a5dac0cdb6b82d27880",
+      "title": "Visualization of anisotropic contact potentials within protein structures"
+    },
+    {
+      "paperId": "63a071f6bea461b1336e22f0e1e20e591699638f",
+      "title": "GPU\u2010accelerated atom and dynamic bond visualization using hyperballs: A unified algorithm for balls, sticks, and hyperboloids"
+    },
+    {
+      "paperId": "122e5633f956cc758c4fe36fab571b853a37e64c",
+      "title": "Illustrative Molecular Visualization with Continuous Abstraction"
+    },
+    {
+      "paperId": "e80ab03ecbf7937b508c81de4eb33c38204eb296",
+      "title": "NCIPLOT: a program for plotting non-covalent interaction regions."
+    },
+    {
+      "paperId": "02a4f8dab476ff73025d7db90b539c2d1c16e2d8",
+      "title": "Encoding Molecular Motions in Voxel Maps"
+    },
+    {
+      "paperId": "868530774cbcfec3e796613d1eeb49e028774417",
+      "title": "GPU-powered tools boost molecular visualization"
+    },
+    {
+      "paperId": "00c8e67846e85b1fcfd923ef469dadfea363fb37",
+      "title": "Electronic quantum fluxes during pericyclic reactions exemplified for the Cope rearrangement of semibullvalene."
+    },
+    {
+      "paperId": "10a7563328583313e06436e7954f786403475f92",
+      "title": "GPU-accelerated visualization of protein dynamics in ribbon mode"
+    },
+    {
+      "paperId": "35e0e589dfe62378a942bb4d4d069eec88e3a187",
+      "title": "Gabedit\u2014A graphical user interface for computational chemistry softwares"
+    },
+    {
+      "paperId": "8a648d7951fb106dfdcd8d526db884cb4080fbd7",
+      "title": "Quantum aspects of life"
+    },
+    {
+      "paperId": "3e9e50205bb2c5f8c6d1f7c8fc1d8fd166c77af2",
+      "title": "Animating the model figure."
+    },
+    {
+      "paperId": "01e0a71c38ab7ed358f56a57f4297887f5decfd9",
+      "title": "Immersive Molecular Visualization and Interactive Modeling with Commodity Hardware"
+    },
+    {
+      "paperId": "112e4cb77b4eb171d735796030c5b9486d706b93",
+      "title": "Intuitive representation of surface properties of biomolecules using BioBlender"
+    },
+    {
+      "paperId": "94de94d8b4d816930e1302fda36877c57e333498",
+      "title": "Genome3D: A viewer-model framework for integrating and visualizing multi-scale epigenomic information within a three-dimensional genome"
+    },
+    {
+      "paperId": "016fcb3bf7821eb0c316e82bd506102aa67f8cf3",
+      "title": "BioNetCAD: design, simulation and experimental validation of synthetic biochemical networks"
+    },
+    {
+      "paperId": "ec3663c3dd906d596aa83ff223923d090d2bf91a",
+      "title": "Rule-based spatial modeling with diffusing, geometrically constrained molecules"
+    },
+    {
+      "paperId": "703c9deb35c767c90bcd62fc3d6b0290077d99b1",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Coherent Culling and Shading for Large Molecular Dynamics Visualization"
+    },
+    {
+      "paperId": "e39ffff163dc8643fa3b66d5c5305346a6249080",
+      "title": "Understanding protein non-folding."
+    },
+    {
+      "paperId": "c54c667b7848a3617d9d4663ae4f96f8b9450e17",
+      "title": "Revealing noncovalent interactions."
+    },
+    {
+      "paperId": "fd25a7d96815da99cda52856c843b17684acec86",
+      "title": "3D visualization of concentrations from stochastic agent-based signal transduction simulations"
+    },
+    {
+      "paperId": "f1aae9185d2b27e140dcbe7f7d45a14003b87635",
+      "title": "Detailed Simulations of Cell Biology with Smoldyn 2.1"
+    },
+    {
+      "paperId": "435efad46539d2a0a4d2eaa7d4076f95109c2252",
+      "title": "The Machinery of Life.Second Edition.ByDavid S. Goodsell. Copernicus Books. New York: Springer. $25.00. xii + 167 p.; ill.; index. ISBN: 978\u20100\u2010387\u201084924\u20109. 2009."
+    },
+    {
+      "paperId": "f7ce644b20029e1dace027b723952727df1382e9",
+      "title": "Interactive Visualization of Molecular Surface Dynamics"
+    },
+    {
+      "paperId": "63117b300a0b0ecd7fb9e525a58fa936009ff074",
+      "title": "Concerted quantum effects of electronic and nuclear fluxes in molecules"
+    },
+    {
+      "paperId": "e3e818cf9a7309594e1bb86300a982537ccfcff1",
+      "title": "Visualisation of cyclic and multi-branched molecules with VMD."
+    },
+    {
+      "paperId": "0a6b6a5ba7ca77252f02dcf960456770abf83e6e",
+      "title": "The Systems Biology Graphical Notation"
+    },
+    {
+      "paperId": "087055155ca53f1002e40b22902abe67be02511b",
+      "title": "TinkerCell: modular CAD tool for synthetic biology"
+    },
+    {
+      "paperId": "0c9e59bfc97fe12ee9a4a9fbb81001695c7bf373",
+      "title": "BioVEC: a program for biomolecule visualization with ellipsoidal coarse-graining."
+    },
+    {
+      "paperId": "e50be5eb2b207fc331b04f76b65e46b77c3cd4c8",
+      "title": "Triangulation of molecular surfaces"
+    },
+    {
+      "paperId": "5bd63c0cbe542131cfb1f158899ce365c8e6361f",
+      "title": "Optimized data transfer for time-dependent, GPU-based glyphs"
+    },
+    {
+      "paperId": "84fb436077cd9a4b981c2332e53640d44a24b1df",
+      "title": "Visualization of signal transduction processes in the crowded environment of the cell"
+    },
+    {
+      "paperId": "4fe65a4e546ae11bcc61a86b6dbf737e9c0cbcba",
+      "title": "ProteinShader: illustrative rendering of macromolecules"
+    },
+    {
+      "paperId": "6fdffca45e305a973301e2dc6c67f260cdd1cf7c",
+      "title": "Global-to-local representation and visualization of molecular surfaces using deformable models"
+    },
+    {
+      "paperId": "e5040ade02472de8c347e223a59731ba062524f0",
+      "title": "High performance computation and interactive display of molecular orbitals on GPUs and multi-core CPUs"
+    },
+    {
+      "paperId": "25fb82622558008922bb0a1de17db23ec872459d",
+      "title": "Virtual Cell modelling and simulation software environment."
+    },
+    {
+      "paperId": "9d09905d3c3827b7e2887d452bce67e3d0ba36a1",
+      "title": "MetaMol: high-quality visualization of molecular skin surface."
+    },
+    {
+      "paperId": "6e0253a99a8b0dc07ed5d38f00a4567f2350c6b1",
+      "title": "Interactions between neuronal fusion proteins explored by molecular dynamics."
+    },
+    {
+      "paperId": "e15023cfc1dfc565c4d9e8074cfee5ebf8ec08a6",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Visual Abstractions of Solvent Pathlines near Protein Cavities"
+    },
+    {
+      "paperId": "0c63f648a264f69ed5dd7d15ff491e3b69efc107",
+      "title": "Visualization of Molecular Orbitals and the Related Electron Densities."
+    },
+    {
+      "paperId": "fafcca7b0cfca65484c7e35fb52f758ab5529f08",
+      "title": "GPU\u2010based Fast Ray Casting for a Large Number of Metaballs"
+    },
+    {
+      "paperId": "0e5b35416aaad4286e07c8b5afc0c78ad894b676",
+      "title": "Molecular Graphics of Convex Body Fluids."
+    },
+    {
+      "paperId": "f1ca05ccb2393a72c8608f7d26aa85e2be6ea45c",
+      "title": "Coarse-grained models of protein folding: toy models or predictive tools?"
+    },
+    {
+      "paperId": "b5fe5453e46d935417a5f9c2839adde722a88d32",
+      "title": "Two-Level Approach to Efficient Visualization of Protein Dynamics"
+    },
+    {
+      "paperId": "10704d745e6c63089d35d837517f1684f99fc8dc",
+      "title": "Molecular Surface Abstraction"
+    },
+    {
+      "paperId": "6e114421c29ceac25c00d255ee931d9341b605d8",
+      "title": "Visualization software for molecular assemblies."
+    },
+    {
+      "paperId": "abc4b72aa0492f9e9a9776c2d2495f1ebea2c79a",
+      "title": "Mapping Complicated Surfaces onto a Sphere"
+    },
+    {
+      "paperId": "eafd01453b6d03844dc3d57ada6cb21241627a91",
+      "title": "An algebraic spline model of molecular surfaces"
+    },
+    {
+      "paperId": "d64f64829ca2b04ec3fab50d58b7f5c83c95c1a3",
+      "title": "Stochastic simulation of chemical kinetics."
+    },
+    {
+      "paperId": "2e07bfe92e7b0f5d95017521ee8917a73ff1faa5",
+      "title": "Molecular Animation of Cell Death Mediated by the Fas Pathway"
+    },
+    {
+      "paperId": "0df010c2512c7c70ddd3033c08eead3275585334",
+      "title": "Efficient molecular surface generation using level-set methods."
+    },
+    {
+      "paperId": "aefdf26123fa58d6475318cd8ebef5f55df9bffd",
+      "title": "View-Dependent Rendering of Large-Scale Molecular Models using Level of Detail"
+    },
+    {
+      "paperId": "6da9f50043a50b663c131eeb2081d8ec711500a6",
+      "title": "Ambient Occlusion and Edge Cueing for Enhancing Real Time Molecular Visualization"
+    },
+    {
+      "paperId": "213c067c531d7aca0cb4bc3a27496e9ca8659ed9",
+      "title": "Image enhancement by unsharp masking the depth buffer"
+    },
+    {
+      "paperId": "efba6e4ad898c2d406c1dec4c37f047dd59c39e6",
+      "title": "Nucleic acid visualization with UCSF Chimera"
+    },
+    {
+      "paperId": "8d3353f6802053ea9edb5c76d099aba99eec884f",
+      "title": "Molecular dynamics: survey of methods for simulating the activity of proteins."
+    },
+    {
+      "paperId": "4f8e0250851049ea87a8c8b2834c1c6407574e94",
+      "title": "BALLView: a tool for research and education in molecular modeling"
+    },
+    {
+      "paperId": "6aa65499e9bc7a9d55bb2d97ca639ceeadf98454",
+      "title": "Meshing skin surfaces with certified topology"
+    },
+    {
+      "paperId": "41502c06e4882707aa4210153bd8237ad63c6ed2",
+      "title": "Quality mesh generation for molecular skin surfaces using restricted union of balls"
+    },
+    {
+      "paperId": "4abee5a867c4abb97e4de80a1b339b20fb120e46",
+      "title": "Coarse-grained normal mode analysis in structural biology."
+    },
+    {
+      "paperId": "979dd1c8160ec5327bb176f5a072f181159c170e",
+      "title": "Finding gas diffusion pathways in proteins: application to O2 and H2 transport in CpI [FeFe]-hydrogenase and the role of packing defects."
+    },
+    {
+      "paperId": "ee9fab315cf314603fcadccedb79a243deaf9f27",
+      "title": "Line drawings from 3D models"
+    },
+    {
+      "paperId": "7fc9ad95032ac729f864c16b8df5a4adf5877619",
+      "title": "Hardware-Accelerated Glyphs for Mono- and Dipoles in Molecular Dynamics Visualization"
+    },
+    {
+      "paperId": "33e451dc7d217763a3d7c26fb230470a7006052b",
+      "title": "Coarse-grained models for proteins."
+    },
+    {
+      "paperId": "cdb335e16aa0940c332431853be8c9f47e6a82cb",
+      "title": "TexMol: interactive visual exploration of large flexible multi-component molecular complexes"
+    },
+    {
+      "paperId": "895860c6083736508d2541900cdf0960eb11592f",
+      "title": "UCSF Chimera\u2014A visualization system for exploratory research and analysis"
+    },
+    {
+      "paperId": "2e030370c60a0853f842f8c45b5e340553a2600b",
+      "title": "Visualization of complex molecular ribbon structures at interactive rates"
+    },
+    {
+      "paperId": "5f4d18b02ace56d84fb1d0dc9435b49c2aa4724c",
+      "title": "ProteinShop: A tool for interactive protein manipulation and steering"
+    },
+    {
+      "paperId": "7857f2ebc4859af1b5da9ff532ab1afed5a734d4",
+      "title": "Interactive 3D protein structure visualization using virtual reality"
+    },
+    {
+      "paperId": "7593a60b2b2589ffe9628f35bc71380c25032363",
+      "title": "The structure of deoxyribose nucleic acid."
+    },
+    {
+      "paperId": "9f9cf62eb68c2c6917b343b2e2633e1cacbdb1d5",
+      "title": "Parallel Coordinates: Visual Multidimensional Geometry and Its Applications"
+    },
+    {
+      "paperId": "e4637271b2a6ab6b1819c2c546919fca3a458d38",
+      "title": "CellDesigner: a process diagram editor for gene-regulatory and biochemical networks"
+    },
+    {
+      "paperId": "002a36359ab0680fac3dd492a113475b5e782ae0",
+      "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks."
+    },
+    {
+      "paperId": "8334c1601a9fddf5a90f172e98248093b8610657",
+      "title": "Interactive protein manipulation"
+    },
+    {
+      "paperId": "d62608505bfd59c39456f07f3c6c60adfb00f30d",
+      "title": "Liquid\u2013vapor oscillations of water in hydrophobic nanopores"
+    },
+    {
+      "paperId": "c15dc9c1ed35f2d6373ec5dfa026f85db50b9754",
+      "title": "A structure for deoxyribose nucleic acid. 1953."
+    },
+    {
+      "paperId": "0c3d89c8658191289ee16ebbdb332e3e61164f46",
+      "title": "Cyrus Levinthal, the Kluge and the origins of interactive molecular graphics."
+    },
+    {
+      "paperId": "2536f5d926ae731be1a5899378d5d952b52d3904",
+      "title": "Visualizing dynamic molecular conformations"
+    },
+    {
+      "paperId": "2bf81facbe3f67a15f182697659efebf676df754",
+      "title": "Molecular Surface Modeling and Meshing"
+    },
+    {
+      "paperId": "a01877d8d956146b58f34071be3efc2bdeecf20c",
+      "title": "Implicit Objects in Computer Graphics"
+    },
+    {
+      "paperId": "baa0868d3aef2308e558698efb388fcb87fc08c7",
+      "title": "Viewpoint Entropy: A New Tool for Obtaining Good Views of Molecules"
+    },
+    {
+      "paperId": "751b22018fb55794e735eaf62daf645b9abea351",
+      "title": "Representing thermal vibrations and uncertainty in molecular surfaces"
+    },
+    {
+      "paperId": "692157214c61fe7ec198472ce2ac42d647dda5a2",
+      "title": "Semantic depth of field"
+    },
+    {
+      "paperId": "b09095b5e8e339a9396717722533db090ba38910",
+      "title": "A system for interactive molecular dynamics simulation"
+    },
+    {
+      "paperId": "8f5ea97b4744c75c62ca30941cb3783c405f6a3d",
+      "title": "MOLEKEL: An Interactive Molecular Graphics Tool"
+    },
+    {
+      "paperId": "65ae1101fb9148c307c8f359747a5c450eef65e1",
+      "title": "Monte Carlo Methods for Simulating Realistic Synaptic Microphysiology Using MCell"
+    },
+    {
+      "paperId": "b2673704dd92f2c8c05611783abda768c3766ac6",
+      "title": "Single-particle electron cryo-microscopy: towards atomic resolution"
+    },
+    {
+      "paperId": "2917cce8355afda179f8a5cbfe786c70a44ac84b",
+      "title": "Molden: a pre- and post-processing program for molecular and electronic structures*"
+    },
+    {
+      "paperId": "77fb45022ee03b960818529512b7aefb6a4e8eda",
+      "title": "Kernel functions in convolution surfaces: a comparative analysis"
+    },
+    {
+      "paperId": "94496ee631237f285db5939fd69967f3290be04e",
+      "title": "An Ambient Light Illumination Model"
+    },
+    {
+      "paperId": "86afe671ad3143796b57512859f71d594a44656b",
+      "title": "Understanding molecular simulation: from algorithms to applications"
+    },
+    {
+      "paperId": "1e8919249f37a64e93412cde071a0adcd8ba2942",
+      "title": "Reduced surface: an efficient way to compute molecular surfaces."
+    },
+    {
+      "paperId": "f9cd6b9f98e5880d2601d6fd00184528cb60eb96",
+      "title": "MOLMOL: a program for display and analysis of macromolecular structures."
+    },
+    {
+      "paperId": "521027c14a7ef622a4f03106799706d0824e192a",
+      "title": "VMD: visual molecular dynamics."
+    },
+    {
+      "paperId": "50f20150eb2cf9e1745c6a64f6dab98851288fdb",
+      "title": "MDScope - a visual computing environment for structural biology"
+    },
+    {
+      "paperId": "793b4d2f5c2e3ceb53946e94f2ea2ff1d5dc1522",
+      "title": "RASMOL: biomolecular graphics for all."
+    },
+    {
+      "paperId": "98274d85705f16223e7e0b41e47e521f9c265995",
+      "title": "A Gaussian Description of Molecular Shape"
+    },
+    {
+      "paperId": "8e7f629d330c1f1f62ec4d032e17304db1acf10f",
+      "title": "Three-dimensional alpha shapes"
+    },
+    {
+      "paperId": "da805d2de6cc932d7815bd30875d5b3c0e0ca248",
+      "title": "Computing smooth molecular surfaces"
+    },
+    {
+      "paperId": "f1aaa2e794f4eda9d2bbaaecee9ab5d35512e809",
+      "title": "Efficient algorithms for local and global accessibility shading"
+    },
+    {
+      "paperId": "35e491b39f7bfb0660fe35ceba9a4d29f95bbae8",
+      "title": "ICM\u2014A new method for protein modeling and design: Applications to docking and structure prediction from the distorted native conformation"
+    },
+    {
+      "paperId": "8d7fe36ce37821c75e33182edff544abb6324b66",
+      "title": "Sculpting proteins interactively: Continual energy minimization embedded in a graphical modeling system"
+    },
+    {
+      "paperId": "a27087636a2708771f654fa175f406c63a9272be",
+      "title": "General atomic and molecular electronic structure system"
+    },
+    {
+      "paperId": "5d9a4b5a63d0dc06f0e0f9873188c738de2d0ddb",
+      "title": "Molecular illustration in black and white."
+    },
+    {
+      "paperId": "ee2c0f0df052ef3cc97ff34391cee9d6e312df7b",
+      "title": "PixelFlow: high-speed rendering using image composition"
+    },
+    {
+      "paperId": "d997e3ee7304bcd5b0b6f126477196096b084a83",
+      "title": "RIBBONS 2.0"
+    },
+    {
+      "paperId": "11652a246836e6eb3db2de9de6bfeeb9c8825dd5",
+      "title": "Comprehensible rendering of 3-D shapes"
+    },
+    {
+      "paperId": "dc24c4c43b34ba93f4b32982d57532f9f892a03a",
+      "title": "Pixel-planes 5: a heterogeneous multiprocessor graphics system using processor-enhanced memories"
+    },
+    {
+      "paperId": "39cdc1959345b2de0071d7e2c7b64f4d53a70133",
+      "title": "NMR of proteins and nucleic acids"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "f479c8eb07a5132f4f1e68e7105642fe4f9630b1",
+      "title": "Algorithm for ribbon models of proteins"
+    },
+    {
+      "paperId": "c35e295083fcabf5a65a7b39e3586463e40360c2",
+      "title": "Computer graphics representation of levels of organization in tobacco mosaic virus structure."
+    },
+    {
+      "paperId": "ae22eac46f5d0c80d22c81cee03555c50ae0ded8",
+      "title": "Analytical molecular surface calculation"
+    },
+    {
+      "paperId": "217f9dc0067af8dbc005a0a44024541a7b5c6132",
+      "title": "A Generalization of Algebraic Surface Drawing"
+    },
+    {
+      "paperId": "90959f80bc2cc3acd5c6f5bd279be7d1a6a3abaa",
+      "title": "Atoms in molecules"
+    },
+    {
+      "paperId": "81d79eebd219994e0d4ec9dc66f51ac42a10bb97",
+      "title": "An Introduction to X-Ray Crystallography"
+    },
+    {
+      "paperId": "ae680485e7fcf15091b67cad3aaf17d58d4ce375",
+      "title": "A discussion of the solution for the best rotation to relate two sets of vectors"
+    },
+    {
+      "paperId": "fb8cc7214937e0e8ae7a504c033918205cab7353",
+      "title": "Models of light reflection for computer synthesized pictures"
+    },
+    {
+      "paperId": "7605256b5fb9325a4d7c3bb675ee3787080bab1c",
+      "title": "Areas, volumes, packing and protein structure."
+    },
+    {
+      "paperId": "90189b948a37477938a8d83d81b6737f930d7997",
+      "title": "Illumination for computer generated pictures"
+    },
+    {
+      "paperId": "3d106941dc87a6da2e29f8d584b59b8b30de569e",
+      "title": "The interpretation of protein structures: estimation of static accessibility."
+    },
+    {
+      "paperId": "74a6e1bfea92bb41db9988c55f93c6cd37a2055a",
+      "title": "An Introduction to X-ray Crystallography"
+    },
+    {
+      "paperId": "fbbd790f3e025458b487c463fd59c5ad32f912b8",
+      "title": "A New System of Chemical Philosophy"
+    },
+    {
+      "paperId": "efa6691ccf7a9419af18c9c95c0510a2915901a2",
+      "title": "Stereochemistry of polypeptide chain configurations."
+    },
+    {
+      "paperId": "9ed2c546db34b6204750d438c27628349c3b1c31",
+      "title": "Bibliography on Molecular and Crystal Structure Models"
+    },
+    {
+      "paperId": "305f99848fc99e2f41b94319852211638eb0b009",
+      "title": "The pleated sheet, a new layer configuration of polypeptide chains."
+    },
+    {
+      "paperId": "06c9338ff571e6543c97ec39260f6a279ab79fa0",
+      "title": "The structure of proteins; two hydrogen-bonded helical configurations of the polypeptide chain."
+    },
+    {
+      "paperId": "2f9272aeb384ae30cce42163ce5d0837063832e2",
+      "title": "Zur Quantenmechanik der Sto\u00dfvorg\u00e4nge"
+    },
+    {
+      "paperId": "02094fa1a55bff43dcfc05f513eb9b6ad3fb05cb",
+      "title": "Quantenmechanik"
+    },
+    {
+      "paperId": "0627973f0333d76729396cb787ef9c98ac16a100",
+      "title": "A New System"
+    },
+    {
+      "paperId": null,
+      "title": "Digital facsimile: gallica.bnf.fr/ ark:/12148/btv1b86069987, (Online, Sep 2016)"
+    },
+    {
+      "paperId": null,
+      "title": "Supporting Information Additional Supporting Information may be found in the online version of this article at the publisher\u2019s web site: Timeline c (cid:3)"
+    },
+    {
+      "paperId": null,
+      "title": "Strena, Seu de Nive Sexangula . Fran-cofurti ad Moenum, 1611"
+    },
+    {
+      "paperId": "82e14f4755de49f444d0162674343c531df3a5d6",
+      "title": "Life On The Edge The Coming Of Age Of Quantum Biology"
+    },
+    {
+      "paperId": "44e10237624b68c1eca4b8a70e6370eb05739859",
+      "title": "On the Reproducibility of Line Integral Convolution for Real-Time Illustration of Molecular Surface Shape and Salient Regions"
+    },
+    {
+      "paperId": "649badf0f08116be76fa62dd306bd9cc292415c5",
+      "title": "State-of-the-Art and Perspectives of Geometric and Implicit Modeling for Molecular Surfaces"
+    },
+    {
+      "paperId": "c412dbacf325875d1f43dccafc7083b0d8acc091",
+      "title": "Life on the Edge: The Coming of Age of Quantum Biology"
+    },
+    {
+      "paperId": "9595d3a539c687905998384a75229de8c34887d6",
+      "title": "MCell"
+    },
+    {
+      "paperId": "9307eb9b686adb707c213e05ea96976814b815a2",
+      "title": "Visualization of Energy Conversion Processes in a Light Harvesting Organelle at Atomic Detail"
+    },
+    {
+      "paperId": "3e55d3755bad9911f82c2c095106ddceb4fe1062",
+      "title": "Interactive Molecular Dynamics: Scaling up to Large Systems"
+    },
+    {
+      "paperId": "03c55d4804374cf914c459d2ae8b88bd4542a5d4",
+      "title": "UNCERTAINTY CLASSIFICATION AND VISUALIZATION OF MOLECULAR INTERFACES"
+    },
+    {
+      "paperId": "9d25398f0a7e7815ca2675560615ce64463970e8",
+      "title": "PointAO - Improved Ambient Occlusion for Point-based Visualization"
+    },
+    {
+      "paperId": "e040885cd33f933f356ff8f60783acfd3ed1a7c5",
+      "title": "Fast Visualization of Gaussian Density Surfaces for Molecular Dynamics and Particle System Trajectories"
+    },
+    {
+      "paperId": "e1c66cb1b24c92470bcb850c6e0b415c7439b02e",
+      "title": "Real-Time Metaball Ray Casting with Fragment Lists"
+    },
+    {
+      "paperId": "268c29ddbfb12081c7e673a34b52416ade597edb",
+      "title": "Automated Illustration of Molecular Flexibility"
+    },
+    {
+      "paperId": "9c110bdd8bb582b96ab5498ba4bc1972e95371fe",
+      "title": "Interactive Exploration of Polymer-Solvent Interactions"
+    },
+    {
+      "paperId": "43f3d3fa29dbf31b191a5db4949f7fd339d10d90",
+      "title": "Visual Analysis of Quantum Physics Data"
+    },
+    {
+      "paperId": "307302b23db602a7ab31e89a01043f56b3506a4c",
+      "title": "Personalized View Selection of 3D Molecular Proteins"
+    },
+    {
+      "paperId": "3d57cdb9275ff4fefffc42feef59db32bbf76bd5",
+      "title": "GPU-accelerated computation and interactive display of molecular orbitals"
+    },
+    {
+      "paperId": "94f7b587d98f9c567080e9b6549e3424c2d932e6",
+      "title": "A list-based method for fast generation of molecular surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Semichem Inc., Shawnee Mission, KS"
+    },
+    {
+      "paperId": null,
+      "title": "GaussView Version 5"
+    },
+    {
+      "paperId": "eadf516431cd7783e76c277f1fd97c0476934ab3",
+      "title": "Screen Space Ambient Occlusion"
+    },
+    {
+      "paperId": "218feeeeed5f37940a02b137a099d60ee02000b9",
+      "title": "amira: A Highly Interactive System for Visual Data Analysis"
+    },
+    {
+      "paperId": "4bef6a41ea8bebf5c2562fdd1f97fd939a51f706",
+      "title": "Microbial cell modeling via reacting diffusive particles"
+    },
+    {
+      "paperId": "d00b264cc123ffd6212fd7ff806c3839f9f26f82",
+      "title": "Advanced visual quantum mechanics"
+    },
+    {
+      "paperId": "0a6df52ea19f5fbac8a6be80cc42f224941fc40b",
+      "title": "Splatting Illuminated Ellipsoids with Depth Correction"
+    },
+    {
+      "paperId": "ccd1754a840119a3c6f1a6c5bbd04ef466496177",
+      "title": "A Guide to Molecular Mechanics and Quantum Chemical Calculations"
+    },
+    {
+      "paperId": "541d7495f76aa6f63a5c98a0bb2d7bc1436456bc",
+      "title": "AstexViewer: a visualisation aid for structure-based drug design."
+    },
+    {
+      "paperId": null,
+      "title": "PyMOL: An open-source molecular graphics tool. CCP4 Newsletter"
+    },
+    {
+      "paperId": "5def4a348745e9d99e4e49518e8fc3298138b275",
+      "title": "Atomistic vs. Continuous Representations in Molecular Biology"
+    },
+    {
+      "paperId": "3d1bffbc290a8baeb2da60b1be85e9f2f05196c0",
+      "title": "Deformable Smooth Surface Design"
+    },
+    {
+      "paperId": "19886b9a70d6f0b664ddf271b59a430f728f1352",
+      "title": "Visualization of Molecules with Positional Uncertainty"
+    },
+    {
+      "paperId": "686ca508a0d0ddcba0beb3cec672e32b3b239ea7",
+      "title": "Real time surface reconstruction for moving molecular fragments."
+    },
+    {
+      "paperId": "a996621d08c535df22ebf654aefd362788f60df1",
+      "title": "Linearly Scalable Computation of Smooth Molecular Surfaces"
+    },
+    {
+      "paperId": "886dc042a3db9f22ae30b01852c7b2f04a3d05b0",
+      "title": "An Introduction to X-ray Crystallography by Michael M. Woolfson"
+    },
+    {
+      "paperId": "92c1ff460b467e8f65402dd6b22e14539cee48c8",
+      "title": "The contour-buildup algorithm to calculate the analytical molecular surface."
+    },
+    {
+      "paperId": null,
+      "title": "Biochemistry"
+    },
+    {
+      "paperId": "26f968036ef44cddf88eae4c37f5198bc8950faf",
+      "title": "The Machinery of Life"
+    },
+    {
+      "paperId": "d848e0df740036b3c8b10371b4624a1599d39191",
+      "title": "The anatomy and taxonomy of protein structure."
+    },
+    {
+      "paperId": "53f9e646c3b3ff0c90f72b94b671126dfe644f94",
+      "title": "Macromolecular shape and surface maps by solvent exclusion."
+    },
+    {
+      "paperId": null,
+      "title": "Quantisierung als Eigenwertproblem vierte Mitteilung"
+    },
+    {
+      "paperId": "7f429f9c849c2b50ca6695b5292a0281ea6e685b",
+      "title": "The Atom And The Bohr Theory Of Its Structure"
+    },
+    {
+      "paperId": "f9fc96e85449edbe48734ad94f91e0cfe6e3bd22",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Accelerated Visualization of Dynamic Molecular Surfaces"
+    },
+    {
+      "paperId": "5e7da49e2c979279168bf642e20255073b645038",
+      "title": "Eurographics Symposium on Point-based Graphics (2006) Gpu-based Ray-casting of Quadratic Surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Trait\u0131\u00e9 de la lumi\u00e8re"
+    },
+    {
+      "paperId": null,
+      "title": "Molecular Maya Toolkit -mMaya"
+    },
+    {
+      "paperId": null,
+      "title": "High performance computation c (cid:3)"
+    },
+    {
+      "paperId": null,
+      "title": "Trait\u0131\u00b4e de la lumi`ere. Pierre van der Aa, Leiden, 1690."
+    },
+    {
+      "paperId": null,
+      "title": "Over de continuiteit van den gas-en vloeistoftoestand"
+    },
+    {
+      "paperId": null,
+      "title": "Chemcraft-graphical program for working with quantum chemistry results"
+    },
+    {
+      "paperId": null,
+      "title": "Molecule of the month. pdb101. rcsb.org/motm"
+    },
+    {
+      "paperId": null,
+      "title": "Jmol: an open-source Java viewer for chemical structures in 3D"
+    }
+  ]
+}

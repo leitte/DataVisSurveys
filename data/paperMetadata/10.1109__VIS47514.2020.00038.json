@@ -1,0 +1,215 @@
+{
+  "paperId": "9e7235b7dab3b5edf307084f829610e35ded6fc0",
+  "externalIds": {
+    "ArXiv": "2009.00750",
+    "MAG": "3081950739",
+    "DBLP": "conf/visualization/IslamBLBI20",
+    "DOI": "10.1109/VIS47514.2020.00038",
+    "CorpusId": 221446610
+  },
+  "publicationVenue": {
+    "id": "c581dc3f-8f95-42b6-9fe8-0bef02dc2ed9",
+    "name": "Visual ..",
+    "type": "conference",
+    "alternate_names": [
+      "Verl\u00e4ssliche Informationssysteme",
+      "VISUAL",
+      "International Conference on Visual Information and Information Systems",
+      "Visual",
+      "Int Conf Vis Inf Inf Syst",
+      "IEEE Vis Conf",
+      "Vis ",
+      "IEEE Visualization Conference",
+      "VIS"
+    ],
+    "issn": "2519-8645",
+    "alternate_issns": [
+      "1576-7868",
+      "2746-6477",
+      "1133-0422"
+    ],
+    "url": "http://www.thinkmind.org/index.php?event=VISUAL&view=event",
+    "alternate_urls": [
+      "https://www.journal.untar.ac.id/index.php/visual",
+      "http://ieeevis.org/year/2021/welcome",
+      "http://lisi.insa-lyon.fr/~laurini/visual/",
+      "http://visual.gi/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/9e7235b7dab3b5edf307084f829610e35ded6fc0",
+  "title": "Visualizing Information on Watch Faces: A Survey with Smartwatch Users",
+  "abstract": "People increasingly wear smartwatches that can track a wide variety of data. However, it is currently unknown which data people consume and how it is visualized. To better ground research on smartwatch visualization, it is important to understand the current use of these representation types on smartwatches, and to identify missed visualization opportunities. We present the findings of a survey with 237 smartwatch wearers, and assess the types of data and representations commonly displayed on watch faces. We found a predominant display of health & fitness data, with icons accompanied by text being the most frequent representation type. Combining these results with a further analysis of online searches of watch faces and the data tracked on smartwatches that are not commonly visualized, we discuss opportunities for visualization research. Supplementary material is available at https://osf.io/nwy2r/.",
+  "venue": "Visual ..",
+  "year": 2020,
+  "referenceCount": 29,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2009.00750",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2020-09-01",
+  "journal": {
+    "name": "2020 IEEE Visualization Conference (VIS)",
+    "pages": "156-160"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Islam2020VisualizingIO,\n author = {Alaul Islam and A. Bezerianos and Bongshin Lee and Tanja Blascheck and Petra Isenberg},\n booktitle = {Visual ..},\n journal = {2020 IEEE Visualization Conference (VIS)},\n pages = {156-160},\n title = {Visualizing Information on Watch Faces: A Survey with Smartwatch Users},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1922377689",
+      "name": "Alaul Islam"
+    },
+    {
+      "authorId": "34790289",
+      "name": "A. Bezerianos"
+    },
+    {
+      "authorId": "49132427",
+      "name": "Bongshin Lee"
+    },
+    {
+      "authorId": "1718278",
+      "name": "Tanja Blascheck"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0d1cd0819a0a682f47e8192565c7abb9344aebec",
+      "title": "Watch+Strap: Extending Smartwatches with Interactive StrapDisplays"
+    },
+    {
+      "paperId": "cf04b997dd38a18973f3e32f0a6de4934e3ba2a9",
+      "title": "Continuous stress detection using the sensors of commercial smartwatch"
+    },
+    {
+      "paperId": "381848a8092dd1e500afdad19daa270e6e9b7be3",
+      "title": "Gait Analysis Using Smartwatches"
+    },
+    {
+      "paperId": "e99c780619f0155f9b401818b4b792a401a7129f",
+      "title": "Improving heart rate variability measurements from consumer smartwatches with machine learning"
+    },
+    {
+      "paperId": "a91face58ac52b67b62dd0c17625e381f6c8522b",
+      "title": "Glanceable Visualization: Studies of Data Comparison Performance on Smartwatches"
+    },
+    {
+      "paperId": "6f8ddb093268e04e9a662f66fab40dbed91f4dfb",
+      "title": "Detection of energy inefficiencies in Android wear watch faces"
+    },
+    {
+      "paperId": "aefe9c51b4fa08189d994ac478c5f953e87464e5",
+      "title": "Sensors and Functionalities of Non-Invasive Wrist-Wearable Devices: A Review"
+    },
+    {
+      "paperId": "c8b021e896ae4ae9a65ffd3715dfc3e4428cf1fa",
+      "title": "Watch Your Smartwatch"
+    },
+    {
+      "paperId": "2fd1df88da1c1a54117aa0509a46c4c17f55e809",
+      "title": "Emotion-recognition using smart watch accelerometer data: preliminary findings"
+    },
+    {
+      "paperId": "75c53421619e9dc95eac5b7079815f681d87daef",
+      "title": "Data representations for in-situ exploration of health and fitness data"
+    },
+    {
+      "paperId": "019533ad9e34cb0718f99eb3cfe62ec82c582d60",
+      "title": "Situating Wearables: Smartwatch Use in Context"
+    },
+    {
+      "paperId": "865ff8ca4976dc70ef180bb2bb46afd4a6380cfd",
+      "title": "Always On(line)?: User Experience of Smartwatches and their Role within Multi-Device Ecologies"
+    },
+    {
+      "paperId": "e1cea5ec932c99fddab2b8aeb885b694027ce5dc",
+      "title": "Quantifying Sources and Types of Smartwatch Usage Sessions"
+    },
+    {
+      "paperId": "4915b5a5b8bb5b5df39a56341d7ca9a6e2303d0f",
+      "title": "Exploring the design space of glanceable feedback for physical activity trackers"
+    },
+    {
+      "paperId": "4d8812de352e86cf8d9e60efead798d1135387c8",
+      "title": "Visual parameters impacting reaction times on smartwatches"
+    },
+    {
+      "paperId": "2a5460188510ce7e9c728fa54f405f2f020c1d04",
+      "title": "Feasibility analysis of wearables for use by airline crew"
+    },
+    {
+      "paperId": "9508762477c897fbd687b0b29226ef73ce140dc8",
+      "title": "Smartwatch in vivo"
+    },
+    {
+      "paperId": "70abfcb9f40759e6e4d06d68b33dcb98271c7aaa",
+      "title": "Keeping Watch: Exploring Wearable Technology Designs for K-12 Teachers"
+    },
+    {
+      "paperId": "accd71a32d123564436233b3ac715697678e25b1",
+      "title": "Characterization of early smartwatch apps"
+    },
+    {
+      "paperId": "5d76d630f3fb4f2f47d558c2de4e39dce14fdf87",
+      "title": "A smartwatch-based medication adherence system"
+    },
+    {
+      "paperId": "8abd9b813fce5db629bf8d569e91057da3536d22",
+      "title": "\"It's kind of like an extra screen for my phone\": Understanding Everyday Uses of Consumer Smart Watches"
+    },
+    {
+      "paperId": null,
+      "title": "Facer - thousands of free watch faces for apple watch, samsung gear s3, huawei watch, and more. https://www.facer.io"
+    },
+    {
+      "paperId": "a13394d0258301b5e7e048e2c29a85d8e8bb05e2",
+      "title": "Real-time Eating Detection Using a Smartwatch"
+    },
+    {
+      "paperId": "a76a62105f6378e62e8718ea0bda22aef2a20572",
+      "title": "Challenges in Displaying Health Data on Small Smartwatch Screens"
+    },
+    {
+      "paperId": "78b2539e6318e4675c8bfba0a8bac854b1bbff97",
+      "title": "A Survey on Sleep Visualizations for Fitness Trackers"
+    },
+    {
+      "paperId": "ecad9d7725113aae50e9d50871be54aca4b39908",
+      "title": "G-Sparks: Glanceable Sparklines on Smartwatches"
+    },
+    {
+      "paperId": "90a2eeab13418f5038ac145f9336c94af6a481f3",
+      "title": "Active Self-Tracking and Visualization of Subjective Experience using VAS and Time Spirals on a Smartwatch"
+    },
+    {
+      "paperId": "e61e418b1936ae0529d11b0a435d33c0c04771df",
+      "title": "Research and Markets\u53d1\u5e03\u81ea\u65cb\u7535\u5b50\u5b66\u534a\u5bfc\u4f53\u624b\u518c"
+    },
+    {
+      "paperId": null,
+      "title": "Apple watch user guide -version 1"
+    }
+  ]
+}

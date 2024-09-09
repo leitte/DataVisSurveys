@@ -1,0 +1,260 @@
+{
+  "paperId": "47487ee3c961b1bec90b1d2958bc562f2409c1c2",
+  "externalIds": {
+    "DBLP": "conf/ieeevast/CottamLW12",
+    "MAG": "1983438351",
+    "DOI": "10.1109/VAST.2012.6400552",
+    "CorpusId": 12064406
+  },
+  "publicationVenue": {
+    "id": "fb46f230-8676-408e-abe1-5460c6bcbb37",
+    "name": "IEEE Conference on Visual Analytics Science and Technology",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Anal Sci Technol",
+      "IEEE Conf Vis Anal Sci Technol",
+      "Visual Analytics Science and Technology",
+      "VAST"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/47487ee3c961b1bec90b1d2958bc562f2409c1c2",
+  "title": "Watch this: A taxonomy for dynamic data visualization",
+  "abstract": "Visualizations embody design choices about data access, data transformation, visual representation, and interaction. To interpret a static visualization, a person must identify the correspondences between the visual representation and the underlying data. These correspondences become moving targets when a visualization is dynamic. Dynamics may be introduced in a visualization at any point in the analysis and visualization process. For example, the data itself may be streaming, shifting subsets may be selected, visual representations may be animated, and interaction may modify presentation. In this paper, we focus on the impact of dynamic data. We present a taxonomy and conceptual framework for understanding how data changes influence the interpretability of visual representations. Visualization techniques are organized into categories at various levels of abstraction. The salient characteristics of each category and task suitability are discussed through examples from the scientific literature and popular practices. Examining the implications of dynamically updating visualizations warrants attention because it directly impacts the interpretability (and thus utility) of visualizations. The taxonomy presented provides a reference point for further exploration of dynamic data visualization techniques.",
+  "venue": "IEEE Conference on Visual Analytics Science and Technology",
+  "year": 2012,
+  "referenceCount": 48,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "publicationDate": "2012-10-14",
+  "journal": {
+    "name": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "pages": "193-202"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Cottam2012WatchTA,\n author = {Joseph A. Cottam and A. Lumsdaine and C. Weaver},\n booktitle = {IEEE Conference on Visual Analytics Science and Technology},\n journal = {2012 IEEE Conference on Visual Analytics Science and Technology (VAST)},\n pages = {193-202},\n title = {Watch this: A taxonomy for dynamic data visualization},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2049027",
+      "name": "Joseph A. Cottam"
+    },
+    {
+      "authorId": "143962909",
+      "name": "A. Lumsdaine"
+    },
+    {
+      "authorId": "38656397",
+      "name": "C. Weaver"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "cc61e166410e73bdc6b901563cbd0927f6f09694",
+      "title": "A visual display of sociotechnical data"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "1115c7a8554030c8531b21ccf8fce2a3a557e962",
+      "title": "Visualize This: The FlowingData Guide to Design, Visualization, and Statistics"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "7ae136f880de66339e6ff1d6c3b54fdfbcdd4025",
+      "title": "The F\u00f6ppl-von K\u00e1rm\u00e1n equations for plates with incompatible strains"
+    },
+    {
+      "paperId": "85d5f4151d43cca3b43b30790725b156352bfc82",
+      "title": "Difference Map Readability for Dynamic Graphs"
+    },
+    {
+      "paperId": "dac5bcc26ab15ab41449efac49af01488c67a15f",
+      "title": "Visual anecdote"
+    },
+    {
+      "paperId": "3d69778fb9321937ce7d0cea9642be04a7aa1c28",
+      "title": "We Feel Fine: An Almanac of Human Emotion"
+    },
+    {
+      "paperId": "25e7ca0e7342c2c7a8d1ba29cf008f9d3b4c7dae",
+      "title": "code_swarm: A Design Study in Organic Software Visualization"
+    },
+    {
+      "paperId": "4f9eb7616ab23b8daef10d1d976c833cb5984f26",
+      "title": "A Time Model for Time\u2010Varying Visualization"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "61f37c8c894d88371a7c6888dd2c18117b9a6a8c",
+      "title": "HDPV: interactive, faithful, in-vivo runtime state visualization for C/C++ and Java"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "b42741e55087c2aac177292eb513e44267dc4d5a",
+      "title": "Phosphor: explaining transitions in the user interface using afterglow effects"
+    },
+    {
+      "paperId": "86f8a8d30568b916312442b97621ac7b81a5c96a",
+      "title": "Improving aviation safety with information visualization: a flight simulation study"
+    },
+    {
+      "paperId": "00d52ad69f539e0419d6f3e42ff16d48e5dfc241",
+      "title": "Visualizing knowledge domains"
+    },
+    {
+      "paperId": "175871d433c58bbd91abca1b0f6d538bfeadcbfa",
+      "title": "Time-Varying Data Visualization Using Information Flocking Boids"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "6cbce689ac193bc11553940c77b15ea05549e0fc",
+      "title": "Image based flow visualization"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "4340cfe961259da73e461a3005b32c00250123c9",
+      "title": "Visualization Tools for Free Flight Air-Traffic Management"
+    },
+    {
+      "paperId": "38595b3b57a341dae1c1bfa846669cf5a90df8aa",
+      "title": "Visualizing the stock market"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": null,
+      "title": "Zugmonitor: So p\u00fcnktlich ist die bahn. zugmonitor.sueddeutsche.de"
+    },
+    {
+      "paperId": null,
+      "title": "National Aeronautics and Space Administration (NASA). Perpetual ocean. svs.gsfc.nasa.gov/vis/a000000/a003800/a003827"
+    },
+    {
+      "paperId": null,
+      "title": "New York Times Labs. Project Cascade. nytlabs .com/projects/cascade.html"
+    },
+    {
+      "paperId": null,
+      "title": "Dynamic Diagrams. Digital Orrery. www.dynamicdiagrams.com/work/orrery"
+    },
+    {
+      "paperId": null,
+      "title": "Digg: Arc. www.visualcomplexity.com/vc/project.cfm?id=585"
+    },
+    {
+      "paperId": null,
+      "title": "The sexsperience 1000. sexperienceuk.channel4.com/the-sexperience-1000"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing amsterdam sms messages. sandbox .aaronkoblin.com/projects/amsterdam/index.html"
+    },
+    {
+      "paperId": null,
+      "title": "Wind map. hint.fm/wind"
+    },
+    {
+      "paperId": "2716ecc96daf5ac9dedd8805845a2691df968f92",
+      "title": "Visual Methods for Analyzing Time-Oriented Data"
+    },
+    {
+      "paperId": null,
+      "title": "Design and the Elastic Mind, chapter The New York Talk Exchange. The Museum of Modern Art"
+    },
+    {
+      "paperId": null,
+      "title": "Britain from Above, chapter Taxis in London. Pavilion"
+    },
+    {
+      "paperId": null,
+      "title": "Gapminder: World. www.gapminder.org/world"
+    },
+    {
+      "paperId": "864c0bfd5e30959b41bfcca30099e97ca015e3f6",
+      "title": "A taxonomy of temporal data visualization techniques"
+    },
+    {
+      "paperId": "55862da6f1fd9f61aa133844d8013faa371c316b",
+      "title": "Trends in Cognitive Sciences , Vol . 9 No . 1 January 2005 16 Change blindness : Past , present , and future"
+    },
+    {
+      "paperId": null,
+      "title": "Designing Better Maps: A Guide for Gis Users"
+    },
+    {
+      "paperId": "55a50dd2c99576350b16dd1dede50ad0f05114af",
+      "title": "CubeView: A System for Traffic Data Visualization"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Say It With Charts"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "paperId": "25a3504ff7660800648caacaa6281311c58fa8e3",
+  "externalIds": {
+    "MAG": "2968896088",
+    "DBLP": "conf/visualization/KimOHKBK19",
+    "ArXiv": "1908.06922",
+    "DOI": "10.1109/VISUAL.2019.8933773",
+    "CorpusId": 201070085
+  },
+  "publicationVenue": {
+    "id": "c581dc3f-8f95-42b6-9fe8-0bef02dc2ed9",
+    "name": "Visual ..",
+    "type": "conference",
+    "alternate_names": [
+      "Verl\u00e4ssliche Informationssysteme",
+      "VISUAL",
+      "International Conference on Visual Information and Information Systems",
+      "Visual",
+      "Int Conf Vis Inf Inf Syst",
+      "IEEE Vis Conf",
+      "Vis ",
+      "IEEE Visualization Conference",
+      "VIS"
+    ],
+    "issn": "2519-8645",
+    "alternate_issns": [
+      "1576-7868",
+      "2746-6477",
+      "1133-0422"
+    ],
+    "url": "http://www.thinkmind.org/index.php?event=VISUAL&view=event",
+    "alternate_urls": [
+      "https://www.journal.untar.ac.id/index.php/visual",
+      "http://ieeevis.org/year/2021/welcome",
+      "http://lisi.insa-lyon.fr/~laurini/visual/",
+      "http://visual.gi/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/25a3504ff7660800648caacaa6281311c58fa8e3",
+  "title": "Thumbnails for Data Stories: A Survey of Current Practices",
+  "abstract": "When people browse online news, small thumbnail images accompanying links to articles attract their attention and help them to decide which articles to read. As an increasing proportion of online news can be construed as data journalism, we have witnessed a corresponding increase in the incorporation of visualization in article thumbnails. However, there is little research to support alternative design choices for visualization thumbnails, which include resizing, cropping, simplifying, and embellishing charts appearing within the body of the associated article. We therefore sought to better understand these design choices and determine what makes a visualization thumbnail inviting and interpretable. This paper presents our findings from a survey of visualization thumbnails collected online and from conversations with data journalists and news graphics designers. Our study reveals that there exists an uncharted design space, one that is in need of further empirical study. Our work can thus be seen as a first step toward providing structured guidance on how to design thumbnails for data stories.",
+  "venue": "Visual ..",
+  "year": 2019,
+  "referenceCount": 37,
+  "openAccessPdf": {
+    "url": "http://arxiv.org/pdf/1908.06922",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "History",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "History",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2019-08-19",
+  "journal": {
+    "name": "2019 IEEE Visualization Conference (VIS)",
+    "pages": "116-120"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kim2019ThumbnailsFD,\n author = {Hwiyeon Kim and J. Oh and Yunha Han and Sungahn Ko and M. Brehmer and Bum Chul Kwon},\n booktitle = {Visual ..},\n journal = {2019 IEEE Visualization Conference (VIS)},\n pages = {116-120},\n title = {Thumbnails for Data Stories: A Survey of Current Practices},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1456152238",
+      "name": "Hwiyeon Kim"
+    },
+    {
+      "authorId": "2110911647",
+      "name": "J. Oh"
+    },
+    {
+      "authorId": "150348180",
+      "name": "Yunha Han"
+    },
+    {
+      "authorId": "39324835",
+      "name": "Sungahn Ko"
+    },
+    {
+      "authorId": "2086011",
+      "name": "M. Brehmer"
+    },
+    {
+      "authorId": "145276140",
+      "name": "Bum Chul Kwon"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7d0462ec453bd63db5345396e4785ac320cbad20",
+      "title": "Graph Thumbnails: Identifying and Comparing Multiple Graphs at a Glance"
+    },
+    {
+      "paperId": "327655416cb3f92ff58a4dde64166c340c654b97",
+      "title": "Frames and Slants in Titles of Visualizations on Controversial Topics"
+    },
+    {
+      "paperId": "f8aa975d358a29bc1713b3fe349c1d65965802a9",
+      "title": "Data-Driven Storytelling Techniques : Analysis of a Curated Collection of Visual Stories"
+    },
+    {
+      "paperId": "199b0a6b91aaeee400d15b8f48f794eb626534c6",
+      "title": "Evaluating Data-Driven Stories and Storytelling Tools *"
+    },
+    {
+      "paperId": "58410da56a7ae9cac486ed288f1ebef9091c59a6",
+      "title": "ChartAccent: Annotation for data-driven storytelling"
+    },
+    {
+      "paperId": "fc53fa77027ffe2b368738b82a5704bcef00ea89",
+      "title": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "paperId": "152cf1c319f17d7d66c3c38317f2c3488d33528b",
+      "title": "To Click or Not To Click: Automatic Selection of Beautiful Thumbnails from Videos"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "e6827b0da9876b2a1fbc802f859bacd6373a1f2e",
+      "title": "Acquired Codes of Meaning in Data Visualization and Infographics: Beyond Perceptual Primitives"
+    },
+    {
+      "paperId": "c1e7531c1145a85f6cdb3483ebd56a3d0c141d6d",
+      "title": "Presentation-Oriented Visualization Techniques"
+    },
+    {
+      "paperId": "5eadee94223b03cd848ac671928918ace2da5a96",
+      "title": "An Evaluation of the Impact of Visual Embellishments in Bar Charts"
+    },
+    {
+      "paperId": "bc2e8d144aefcf16331a6338cd626a10aaae81d1",
+      "title": "Infographic Aesthetics: Designing for the First Impression"
+    },
+    {
+      "paperId": "9e43e9f2d19f25ad43f84bb5fefff9ca7bac492c",
+      "title": "ISOTYPE Visualization: Working Memory, Performance, and Engagement with Pictographs"
+    },
+    {
+      "paperId": "acc395bf1ffb02141c10870fc2fed82bef0bdf45",
+      "title": "How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "651125ca22947e95e5be6206c3056988b850266a",
+      "title": "Swifter: improved online video scrubbing"
+    },
+    {
+      "paperId": "5a95c4fedd7d2eab19b51e512d1ff4b6de8a49d0",
+      "title": "LiveThumbs: a visual aid for web page revisitation"
+    },
+    {
+      "paperId": "b3416b849b67e07b2c8bacca5c63ebbbb3193f8c",
+      "title": "An Empirical Study on Using Visual Embellishments in Visualization"
+    },
+    {
+      "paperId": "50fc6e1002d365c21fb6d372f76b332b04e26af3",
+      "title": "Graphical Overlays: Using Layered Elements to Aid Chart Reading"
+    },
+    {
+      "paperId": "db7f9331b5dccdbed7ff6e0589aa543f025f9ab7",
+      "title": "Evaluating the Effect of Style in Information Visualization"
+    },
+    {
+      "paperId": "db1e5177f79e2bc86455f68cd2b3bf13da20171b",
+      "title": "\"You've got video\": increasing clickthrough when sharing enterprise video with email"
+    },
+    {
+      "paperId": "1806117feb8e131b3f8fc381a4db8d3564b97d71",
+      "title": "Benefitting InfoVis with Visual Difficulties"
+    },
+    {
+      "paperId": "d9c8a774a7cfd3f93ca5d1c80e192bba0ade6f77",
+      "title": "On the role of design in information visualization"
+    },
+    {
+      "paperId": "6b50aa1874d3cb3472def2bb7e06c7dca3a405a4",
+      "title": "A comparison of visual and textual page previews in judging the helpfulness of web pages"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "d3f57de48dbbe4a56b6b1b0465b7be719c943d70",
+      "title": "Visual snippets: summarizing web pages for search and revisitation"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "aa8f038f53923a9556968e512cc5b9f07e8cd935",
+      "title": "Improving relevance judgment of web search results with image excerpts"
+    },
+    {
+      "paperId": "d15ca38d2fb1250222132b5bf3fed8d249bcac45",
+      "title": "The Effect of Aesthetic on the Usability of Data Visualization"
+    },
+    {
+      "paperId": "f8cfb495f8f95747572864364394b14a209b5c27",
+      "title": "Faster document navigation with space-filling thumbnails"
+    },
+    {
+      "paperId": "3100547742bff53b360f592717330f69401ad866",
+      "title": "Summary thumbnails: readable overviews for small screen web browsers"
+    },
+    {
+      "paperId": "df94ebff0290bfcb4bed05e2ab1693d42fdec97d",
+      "title": "Automatic thumbnail cropping and its effectiveness"
+    },
+    {
+      "paperId": "93190958c5707bb4de9fddcdc00d7ae8bb3fbb01",
+      "title": "Do thumbnail previews help users make better relevance decisions about web search results?"
+    },
+    {
+      "paperId": "aebf1f76fbb8fa6c06cd3e8abf879c39477e02bb",
+      "title": "Using thumbnails to search the Web"
+    },
+    {
+      "paperId": "792a3361cae567b8680bbc815d8239e41b9d3a6a",
+      "title": "Data mountain: using spatial memory for document management"
+    },
+    {
+      "paperId": "e215760e9f4e1fbac2435ff9181d7aefaebe7c81",
+      "title": "Data-Driven Storytelling"
+    },
+    {
+      "paperId": "ca84cb6f64625e76d677e7739a5a7b89b9b7b78e",
+      "title": "How People Recognise Previously Seen Web Pages from Titles, URLs and Thumbnails"
+    }
+  ]
+}

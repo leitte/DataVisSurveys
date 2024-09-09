@@ -1,0 +1,729 @@
+{
+  "paperId": "4df178a90aa3fc8051695d7965a1a8015d0cca2a",
+  "externalIds": {
+    "DBLP": "journals/cgf/AlsallakhMAHMR16",
+    "MAG": "2180041965",
+    "DOI": "10.1111/cgf.12722",
+    "CorpusId": 11276011
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/4df178a90aa3fc8051695d7965a1a8015d0cca2a",
+  "title": "The State\u2010of\u2010the\u2010Art of Set Visualization",
+  "abstract": "Sets comprise a generic data model that has been used in a variety of data analysis problems. Such problems involve analysing and visualizing set relations between multiple sets defined over the same collection of elements. However, visualizing sets is a non\u2010trivial problem due to the large number of possible relations between them. We provide a systematic overview of state\u2010of\u2010the\u2010art techniques for visualizing different kinds of set relations. We classify these techniques into six main categories according to the visual representations they use and the tasks they support. We compare the categories to provide guidance for choosing an appropriate technique for a given problem. Finally, we identify challenges in this area that need further research and propose possible directions to address these challenges. Further resources on set visualization are available at http://www.setviz.net.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 163,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.12722",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Alsallakh2016TheSO,\n author = {B. Alsallakh and L. Micallef and W. Aigner and H. Hauser and S. Miksch and P. Rodgers},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State\u2010of\u2010the\u2010Art of Set Visualization},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2410669",
+      "name": "B. Alsallakh"
+    },
+    {
+      "authorId": "1771451",
+      "name": "L. Micallef"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    },
+    {
+      "authorId": "145693817",
+      "name": "H. Hauser"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    },
+    {
+      "authorId": "2199392",
+      "name": "P. Rodgers"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "26cf0e50f5439ae8b30f157b8b1f869d56ad5ab0",
+      "title": "Visualization of bipartite relations between graphs and sets"
+    },
+    {
+      "paperId": "ee1734af6c4fce802fe621732bea9ad8eb938f82",
+      "title": "Bicentric Diagrams: Design of a Graph-Based Relational Set Visualization Technique"
+    },
+    {
+      "paperId": "21ea5865eec7296a2c9c9f637f41c54ecbc59c89",
+      "title": "Visualization of arc and plasma flow patterns for advanced material processing"
+    },
+    {
+      "paperId": "8616f667541e15194f80efe51ba6fe70dc7ebf81",
+      "title": "OnSet: A Visualization Technique for Large-scale Binary Set Data"
+    },
+    {
+      "paperId": "23605bd2e7867c58417fa3d1acbaa2c8250ede24",
+      "title": "eulerForce: Force-directed layout for Euler diagrams"
+    },
+    {
+      "paperId": "53c302d74c5b52fe13b82c119c60954202dc8900",
+      "title": "SEEM: a scalable visualization for comparing multiple large sets of attributes for malware analysis"
+    },
+    {
+      "paperId": "92f36007d016049f7bf3e47a804e3a99093bcada",
+      "title": "UpSet: Visualization of Intersecting Sets"
+    },
+    {
+      "paperId": "9d383a973434b177e086237083a336502dd100d5",
+      "title": "How Should We Use Colour in Euler Diagrams?"
+    },
+    {
+      "paperId": "1aae9f4edd05d65360733fb1659f3d2405be6d6e",
+      "title": "Set space diagrams"
+    },
+    {
+      "paperId": "5bed7d79f3937694647f5ce30796df053ef54be7",
+      "title": "Points of view: Sets and intersections"
+    },
+    {
+      "paperId": "5e185929743deb5ea45bedfbe35e5296ea9aaa1d",
+      "title": "The Impact of Shape on the Perception of Euler Diagrams"
+    },
+    {
+      "paperId": "3cbef79d00957d81cb0d4fa35eaf171e31678989",
+      "title": "Visualizing Sets: An Empirical Comparison of Diagram Types"
+    },
+    {
+      "paperId": "afd13d67fa3613ce24072c91df7489e67b2fe7b2",
+      "title": "Evaluating the Impact of Clutter in Euler Diagrams"
+    },
+    {
+      "paperId": "01c63eb1276e5ef690ff08a6333e743491c8994a",
+      "title": "A Framework for Heterogeneous Reasoning in Formal and Informal Domains"
+    },
+    {
+      "paperId": "b431b453c90eafa53e08b4ddeb5a36d93972e6b4",
+      "title": "eulerAPE: Drawing Area-Proportional 3-Venn Diagrams Using Ellipses"
+    },
+    {
+      "paperId": "8de9ecbcc09c752e533e02339f53d536c5b5c4f2",
+      "title": "SchemaLine: Timeline Visualization for Sensemaking"
+    },
+    {
+      "paperId": "540178da1e3a5b2b7a04002b55431e38b243a9b6",
+      "title": "eXamine: Exploring annotated modules in networks"
+    },
+    {
+      "paperId": "777f6256a2062125793c1abf3b7dca5eaaff5d49",
+      "title": "Computing the Region Areas of Euler Diagrams Drawn with Three Ellipses"
+    },
+    {
+      "paperId": "120100391281518a1a3c47c4ab4bfeb4ef7d64d0",
+      "title": "On the drawability of 3D Venn and Euler diagrams"
+    },
+    {
+      "paperId": "4b47002f92137b6f4f67e741c49575dd39bd7168",
+      "title": "Comparative Exploration of Document Collections: a Visual Analytics Approach"
+    },
+    {
+      "paperId": "626a11539ab02756d93fedb8d4be11046344371e",
+      "title": "A survey of Euler diagrams"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "200817544a5db24945b8be773a0412474eb49ea0",
+      "title": "See what you want to see: visual user-driven approach for hybrid recommendation"
+    },
+    {
+      "paperId": "9390f7c9205b9dcdb7ff1e2acf16621264673ba5",
+      "title": "A Potential Field Function for Overlapping Point Set and Graph Cluster Visualization"
+    },
+    {
+      "paperId": "e606c9b49a125f68bf688ce6e5f366c70c316b21",
+      "title": "Visualizing Fuzzy Overlapping Communities in Networks"
+    },
+    {
+      "paperId": "b52ba00f519bea027817749346a608b41c36dcbc",
+      "title": "Radial Sets: Interactive Visual Analysis of Large Overlapping Sets"
+    },
+    {
+      "paperId": "c8738e37ff1e4cc2b5235a84c439eabeaa6e5719",
+      "title": "Understanding Interfirm Relationships in Business Ecosystems with Interactive Visualization"
+    },
+    {
+      "paperId": "809b78319b2306b2001c4c08aa6e04966dcd0483",
+      "title": "KelpFusion: A Hybrid Set Visualization Technique"
+    },
+    {
+      "paperId": "776fb3bc9792b24bab56aaa333277fe62a308814",
+      "title": "Metasearch Result Visualization: An Exploratory Study"
+    },
+    {
+      "paperId": "83d7f107b7c55b919e0ea6ac2bb2578ded76fe5d",
+      "title": "Colored Spanning Graphs for Set Visualization"
+    },
+    {
+      "paperId": "bfda15d48e2f3f8e1e61be782b76ad2fc54ea7a6",
+      "title": "Visualization of Frequent Itemsets with Nested Circular Layout and Bundling Algorithm"
+    },
+    {
+      "paperId": "1e4e9dd6d11b0c7ec2f96f6fd0e7a9388c96d74d",
+      "title": "Visual Analysis of Set Relations in a Graph"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "51c86550000572c7449f743ac4a0a65295ae2e24",
+      "title": "Tissue-Specific Transcriptomics in the Field Cricket Teleogryllus oceanicus"
+    },
+    {
+      "paperId": "9e7f60abf67ffe65d8c98ddbe765b909b045d7e8",
+      "title": "Does the Orientation of an Euler Diagram Affect User Comprehension?"
+    },
+    {
+      "paperId": "8c43cf12a46ec78e41a92d2f1f52564b5a9f7569",
+      "title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "827850470b8633b5c78dd318d91c2b39c82d8124",
+      "title": "Visual analytics methods for categoric spatio-temporal data"
+    },
+    {
+      "paperId": "570dd641ad234951e450c8bbfc8b54e9f0d697fb",
+      "title": "Insights into p53 transcriptional function via genome-wide chromatin occupancy and gene expression analysis"
+    },
+    {
+      "paperId": "c573d64471b0d98fa96a16851daedfd1dfb93201",
+      "title": "Speedith: A Diagrammatic Reasoner for Spider Diagrams"
+    },
+    {
+      "paperId": "8ef8dc6bb5b28a4af856c099a98d0f89d0d43f49",
+      "title": "Wellformedness Properties in Euler Diagrams: Which Should Be Used?"
+    },
+    {
+      "paperId": "53ff1b913fd8d0eccac10a4aa6c7e47787d1fba9",
+      "title": "Diabelli: A Heterogeneous Proof System"
+    },
+    {
+      "paperId": "1ee9993b7ccf4851e2837dc6709dc6dcf1799713",
+      "title": "Kelp Diagrams: Point Set Membership Visualization"
+    },
+    {
+      "paperId": "443b9e7d5cbb9e21f1042fb84a11f5c1bc8b42c2",
+      "title": "Automatically drawing Euler diagrams with circles"
+    },
+    {
+      "paperId": "5e5d91192ff105c1607c75bb74c8d752c05e5b4d",
+      "title": "Visualizing set-valued attributes in parallel with equal-height histograms"
+    },
+    {
+      "paperId": "a239e96a3249b06b11d19c0b6e5b2aa5ad98757f",
+      "title": "Exact and Approximate Area-Proportional Circular Venn and Euler Diagrams"
+    },
+    {
+      "paperId": "4d47ccb37127287099bb7714068e7cebd7a84736",
+      "title": "Context-Preserving Visual Links"
+    },
+    {
+      "paperId": "46964f6ad55a0fd09d23460ed6455cc1606e3118",
+      "title": "Design Study of LineSets, a Novel Set Visualization Technique"
+    },
+    {
+      "paperId": "d1ade16ee9de5236ebac65be8234657b6df87917",
+      "title": "SketchSet: Creating Euler diagrams using pen or mouse"
+    },
+    {
+      "paperId": "12d4c1d3d8a7ca18b24fcfc8dd52576335141785",
+      "title": "Visualizing Ontologies: A Case Study"
+    },
+    {
+      "paperId": "ac1520dffcb16bf9156927494b55206c994b563c",
+      "title": "Recognising Sketches of Euler Diagrams Augmented with Graphs"
+    },
+    {
+      "paperId": "a506dcf920da4bc3eb5070b2b338ba4c652cc691",
+      "title": "Visualizing the Effects of Logically Combined Filters"
+    },
+    {
+      "paperId": "35a7c473b7950ebc4539e695b89d201f1d6ca146",
+      "title": "Probably Good Diagrams for Learning: Representational Epistemic Recodification of Probability Theory"
+    },
+    {
+      "paperId": "53f05cdde84d93471a9d734f6d906b3e7945beaf",
+      "title": "Drawing Euler Diagrams with Circles: The Theory of Piercings"
+    },
+    {
+      "paperId": "960ad662c2bb454d69006492cc3f52d1550de55d",
+      "title": "Visualizing Graphs and Clusters as Maps"
+    },
+    {
+      "paperId": "ffa9c32f5961b4ce2e0685737d33a83a85cf76a2",
+      "title": "Untangling Euler Diagrams"
+    },
+    {
+      "paperId": "64b157a7416b19ff17f3214c6e5c4c962c8af22a",
+      "title": "Drawing Area-Proportional Venn-3 Diagrams with Convex Polygons"
+    },
+    {
+      "paperId": "3d3936c3eb8b7c6d88905c5608b2e4fb8c413e8f",
+      "title": "Path-based supports for hypergraphs"
+    },
+    {
+      "paperId": "eec51a198cfc532fdac1cb848ebc5dd8beea6ae7",
+      "title": "Disk Diagram: An Interactive Visualization Technique of Fuzzy Set Operations for the Analysis of Fuzzy Data"
+    },
+    {
+      "paperId": "0fefb6c9d05e5cdec8ea737b9ce87c6b7db98062",
+      "title": "A new weaving technique for handling overlapping regions"
+    },
+    {
+      "paperId": "bd4557d9f76c62a20e980886d63a7d85ab54defb",
+      "title": "Setting the bar for set-valued attributes"
+    },
+    {
+      "paperId": "727f2f6ba6547d271b44fba253069196b2e43c19",
+      "title": "GMap: Visualizing graphs and clusters as maps"
+    },
+    {
+      "paperId": "e8d5076ec7c2d2400a5399922b6add5032f3c9b9",
+      "title": "Collaborative Web Search: Who, What, Where, When, and Why"
+    },
+    {
+      "paperId": "efa924d99c4a4fff3dc915d5f179f0983f4855cc",
+      "title": "Visualizing and specifying ontologies using diagrammatic logics"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "a79bc9836516c337b108558d48ccf9a44b45638d",
+      "title": "Fully Automatic Visualisation of Overlapping Sets"
+    },
+    {
+      "paperId": "19354fa38583808bb24fbf8ca18956932d06573d",
+      "title": "Probabilistic retrieval and visualization of biologically relevant microarray experiments"
+    },
+    {
+      "paperId": "9b20cd8a2aa3199f21059a497a55a9f55d151767",
+      "title": "Evolutionary dynamics in set structured populations"
+    },
+    {
+      "paperId": "c9a618aa41b34ba413d9ae942975f918865c7f7f",
+      "title": "A hybrid space-filling and force-directed layout method for visualizing multiple-category graphs"
+    },
+    {
+      "paperId": "93c20e6a249e3ef6ce70b167c3a3d64d4b68defa",
+      "title": "Subdivision Drawings of Hypergraphs"
+    },
+    {
+      "paperId": "5387bba9091d8512571c8e71a5e8fd4a6baa1c83",
+      "title": "Euler diagram generation"
+    },
+    {
+      "paperId": "32ba32a4cd591e2cd5817446fd58b57c6483dcaa",
+      "title": "Interactive Visual Analysis of Set-Typed Data"
+    },
+    {
+      "paperId": "4347c8fa695f79479c754d1c604905c28faa817b",
+      "title": "Visual Analysis of Bipartite Biological Networks"
+    },
+    {
+      "paperId": "a3e5ab28f1301bbddbcf7666dbe188073d386d85",
+      "title": "General Euler Diagram Generation"
+    },
+    {
+      "paperId": "30596bb0963a747ee58e98f290b8f2efcb7b7fb3",
+      "title": "Evaluating and generalizing constraint diagrams"
+    },
+    {
+      "paperId": "3a2450702d3bec3594ea529c91263358569d1fbf",
+      "title": "Visualise Undrawable Euler Diagrams"
+    },
+    {
+      "paperId": "6654cae22d186dd62a09822f0ed3037f6baa3be3",
+      "title": "KMVQL: a visual query interface based on Karnaugh map"
+    },
+    {
+      "paperId": "b9066e3e0a6bbc580c23f1eda4689eef67b71a5f",
+      "title": "Visualizing set concordance with permutation matrices and fan diagrams"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "7f81a87f8d9ba5da21fa1bc85b4c95102a6f72df",
+      "title": "Evaluating the Comprehension of Euler Diagrams"
+    },
+    {
+      "paperId": "a22862aeeedefa49f548de533127591a3399dd7e",
+      "title": "The Basic Theorem on Labelled Line Diagrams of Finite Concept Lattices"
+    },
+    {
+      "paperId": "f4b9c7dd8d7dd65eeba5028de9bd43c915352bff",
+      "title": "Chronic kidney disease care delivered by US family medicine and internal medicine trainees: results from an online survey"
+    },
+    {
+      "paperId": "53727e7991e88578ea699d21353cb8b0bd2e7e3e",
+      "title": "Visualization of areas of interest in software architecture diagrams"
+    },
+    {
+      "paperId": "78c100ea83b6b341408f05836d3e793a958a5572",
+      "title": "IPSep-CoLa: An Incremental Procedure for Separation Constraint Layout of Graphs"
+    },
+    {
+      "paperId": "05ace99fb93ff3bd0df447b622e7ac6d55b1e77b",
+      "title": "Parallel Sets: interactive exploration and visual analysis of categorical data"
+    },
+    {
+      "paperId": "6325eeb57a5447b6a5305ae97b823d5a65b97c6b",
+      "title": "Automated Layout of Small Lattices Using Layer Diagrams"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "18e38e64c9de45611cb8fb932b502ffd2ec92b4c",
+      "title": "Constructing Area-Proportional Venn and Euler Diagrams with Three Circles"
+    },
+    {
+      "paperId": "0f8630542466afd37b61d50ad6a8d4e65eea63ed",
+      "title": "Towards a General Solution to Drawing Area-Proportional Euler Diagrams"
+    },
+    {
+      "paperId": "4a2fce0110704139b887fe0aa0c2f078836a78b5",
+      "title": "A Survey of Reasoning Systems Based on Euler Diagrams"
+    },
+    {
+      "paperId": "c841e83215f489b61ed7f3ab22b4d122348f3d2a",
+      "title": "MetaCrystal: visual interface for meta searching"
+    },
+    {
+      "paperId": "cfbfe9996316618da631e4b12aefe64ed247c765",
+      "title": "Concept Lattices for Information Visualization: Can Novices Read Line-Diagrams?"
+    },
+    {
+      "paperId": "1a8ed9d4067c4cb9c7421cb8d2a7adc7d219bbc8",
+      "title": "Drawing Area-Proportional Venn and Euler Diagrams"
+    },
+    {
+      "paperId": "ecab18214e782c65387d6f2695ba577cb575dc65",
+      "title": "Layout metrics for Euler diagrams"
+    },
+    {
+      "paperId": "04359c319641c44ecb500e065acef6c68d079770",
+      "title": "Visualizing and exploring large networked information spaces with matrix browser"
+    },
+    {
+      "paperId": "605693d2222c327115b0cb77a9f82a83f5785d49",
+      "title": "Matrix browser: visualizing and exploring large networked information spaces"
+    },
+    {
+      "paperId": "f3ad0152e1f06805df8db09d1fe379a5657711b3",
+      "title": "Generating Euler Diagrams"
+    },
+    {
+      "paperId": "3feb78d8846c6c5694aa7b42fcd68183c9889834",
+      "title": "Spider Diagrams: A Diagrammatic Reasoning System"
+    },
+    {
+      "paperId": "53692bc97691ab74b04dfa1aec1266f2d5e688b0",
+      "title": "Visualizing association rules with interactive mosaic plots"
+    },
+    {
+      "paperId": "9469aeb9e6a7b06d39e9dbd34bdcd7fdc5fbe35d",
+      "title": "Exploring categorical data: interactive mosaic plots"
+    },
+    {
+      "paperId": "ba26aaa05bc4be5b062874786af556611a5e20d1",
+      "title": "Effective Diagrammatic Communication: Syntactic, Semantic and Pragmatic Issues"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "56afe211e7c93b59ccf55f2d8d6015dffc1ed636",
+      "title": "InfoCrystal: A visual tool for information retrieval"
+    },
+    {
+      "paperId": "be61827f45f151a967eba27c58b7826d8e230d49",
+      "title": "Common region: A new principle of perceptual grouping"
+    },
+    {
+      "paperId": "90335fe03ae633e0b32030747159018ab7a6c923",
+      "title": "Similarity measures in scientometric research: The Jaccard index versus Salton's cosine formula"
+    },
+    {
+      "paperId": "d1f05c559c11029051c097d7bec2e5e7aa716258",
+      "title": "Theory and Applications of Correspondence Analysis"
+    },
+    {
+      "paperId": "28de8b73647f1b97335d83df7d46ff9a42492115",
+      "title": "Search asymmetry: a diagnostic for preattentive processing of separable features."
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "f718309706172d6fb1e89f583927274f9a4cdf4f",
+      "title": "Features of Similarity"
+    },
+    {
+      "paperId": "a0924e4ed176eec97af3cda1bf2f99c98ca24622",
+      "title": "A Note on the Historical Development of Logic Diagrams: Leibniz, Euler and Venn"
+    },
+    {
+      "paperId": "23045299013e8738bc8eff73827ef8de256aef66",
+      "title": "Measures of the Amount of Ecologic Association Between Species"
+    },
+    {
+      "paperId": "c6688c195b3f30267f4a832605e4d8904de9bd64",
+      "title": "Principles Of Gestalt Psychology"
+    },
+    {
+      "paperId": "d008114cce1d122d63f89f14e9badc38dcefe815",
+      "title": "Faceted Search"
+    },
+    {
+      "paperId": null,
+      "title": "Of\ufb01cial languages in Africa, 2010"
+    },
+    {
+      "paperId": null,
+      "title": "Autism diagnosis accuracy\u2014Visualization redesign"
+    },
+    {
+      "paperId": null,
+      "title": "Concept lattice, 2006"
+    },
+    {
+      "paperId": "40bd9ddb72cab1028915d3453fc9ed4d6d6d5888",
+      "title": "Generating and Navigating Large Euler Diagrams"
+    },
+    {
+      "paperId": "7d1df7e51a048b1897fa0cf37aeee6171bd553ca",
+      "title": "An inverse distance-based potential field function for overlapping point set visualization"
+    },
+    {
+      "paperId": "d936beca72d967e0192da2ec1bc493821fd86a9d",
+      "title": "Towards a Visualization of Multi-faceted Search Results"
+    },
+    {
+      "paperId": "ba2b9dc416b8f023a97e0a6cfe8919bf665d3af7",
+      "title": "Well-matchedness in Euler Diagrams"
+    },
+    {
+      "paperId": "80a14e3262987bc5baa062158c5635f611fa3388",
+      "title": "Drawing Area-Proportional Euler Diagrams Representing Up To Three Sets"
+    },
+    {
+      "paperId": "472c443406414f61d9e4a60fadb6ce1b639254c8",
+      "title": "Journal of Visual Languages and Computing Special Issue on Visualization and Reasoning Using Euler Diagrams"
+    },
+    {
+      "paperId": "a71737a811860622dc4866f623a616ba131bb367",
+      "title": "Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "Venn Diagram Plotter, Biological MS Data and Software Distribution Center"
+    },
+    {
+      "paperId": "f5f784fd1ba95135e6e48a4a286482ff92af98ce",
+      "title": "Multi-Attribute Glyphs on Venn Diagrams to Represent Quantities and Aid Visual Decoding"
+    },
+    {
+      "paperId": "2d7eb183dafabaf1e74e165b0c79546e641f3242",
+      "title": "Facettice: Integrating Faceted Navigation and Concept Lattices for Visual Data Exploration"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "1dc1eebcb9bf3750d944aa5a52ef7aec3faa5c25",
+      "title": "Inductively Generating Euler Diagrams"
+    },
+    {
+      "paperId": "9a12ff2efb9780324c588bc62b6b710d51c239df",
+      "title": "Analyzing Affiliation Networks"
+    },
+    {
+      "paperId": "2bf887ffa317d8c5745479a4e0963a13ccf079eb",
+      "title": "BMC Bioinformatics BioMed Central Methodology article VennMaster: Area-proportional Euler diagrams for functional GO"
+    },
+    {
+      "paperId": "6905a637f63b3950af14a7cb35b3374c74ad2b4b",
+      "title": "Generating and drawing area-proportional Euler and Venn diagrams"
+    },
+    {
+      "paperId": "780494dfdf1194f6a6bd63358a93a648b33f948b",
+      "title": "BiblioViz: a system for visualizing bibliography information"
+    },
+    {
+      "paperId": "35ccc6361918daa442bf64cf8414ee8f2ce45e66",
+      "title": "Drawing bipartite graphs as anchored maps"
+    },
+    {
+      "paperId": "9fefd208cb57875570265ffd1394b6a285e65dbc",
+      "title": "Spider Diagrams"
+    },
+    {
+      "paperId": "4200cb5c0650c96a42ff9438a3bf69700020de63",
+      "title": "Visualization of Sets"
+    },
+    {
+      "paperId": "69d9b89612308d8d8aca53a23cd468886d45132c",
+      "title": "How to draw a hypergraph"
+    },
+    {
+      "paperId": null,
+      "title": "The State-of-the-Art of Set Visualization graphical methods"
+    },
+    {
+      "paperId": null,
+      "title": "An Elementary Mathematical Theory of Classification and Prediction"
+    },
+    {
+      "paperId": "43a0503e38b4c47a5b794c04439299bd78310189",
+      "title": "Laws of organization in perceptual forms."
+    },
+    {
+      "paperId": "6bc6c8781e0a35e08288d1070494315f7696e78f",
+      "title": "Beitr\u00e4ge zur Begr\u00fcndung der transfiniten Mengenlehre"
+    },
+    {
+      "paperId": "1c63a5d9dcc73066398ee48285ff8cb20c8b00a0",
+      "title": "Journal of Graph Algorithms and Applications on Planar Supports for Hypergraphs 534 Buchin Et Al. on Planar Supports for Hypergraphs"
+    },
+    {
+      "paperId": "2d8c72efe51b48fcefe62830c6b30698b26ba53b",
+      "title": ". On the diagrammatic and mechanical representation of propositions and reasonings"
+    },
+    {
+      "paperId": null,
+      "title": "(A4) Find/Select elements in a set with a speci\ufb01c set membership degree: e.g. elements exclusive to the set or that also belong to two other sets"
+    },
+    {
+      "paperId": null,
+      "title": "Formal Concept Analysis , vol. 284"
+    },
+    {
+      "paperId": null,
+      "title": "C4) Analyse the set memberships for elements having certain attribute values: e.g. \ufb01nd out if these elements appear more frequently or less often in certain sets/subsets"
+    },
+    {
+      "paperId": null,
+      "title": "\u2229 \u222a (B5) Analyse intersection relations: e.g. \ufb01nd out if a certain pair of sets overlap, or if a certain group of sets overlap (i.e. have a non-empty intersection)"
+    },
+    {
+      "paperId": null,
+      "title": "Limited scalability due to edge crossings. No representation of set relations in element-set diagrams"
+    },
+    {
+      "paperId": null,
+      "title": "B12) Analyse and compare set exclusiveness: e.g. \ufb01nd out if A contains more exclusive elements than B , or more elements shared with 1, 2 or 3 other sets"
+    },
+    {
+      "paperId": null,
+      "title": "(A3) Find/Select elements based on their set memberships: e.g."
+    },
+    {
+      "paperId": null,
+      "title": "B9) Identify the set with the largest/smallest number of pair-wise set intersections"
+    },
+    {
+      "paperId": null,
+      "title": "B13) Highlight speci\ufb01c sets, subsets or set relations: e.g. to emphasize them, and deemphasize the remaining data"
+    },
+    {
+      "paperId": null,
+      "title": "Limited in the set relations they can represent. Revealed membership patterns are sensitive to ordering"
+    },
+    {
+      "paperId": null,
+      "title": "C5) Create a new set out of elements that have certain attribute values: this set represents a query on the elements based on their attributes"
+    },
+    {
+      "paperId": null,
+      "title": "http://www."
+    },
+    {
+      "paperId": null,
+      "title": "B11) Analyse and compare set similarities: e.g. \ufb01nd out which pairs of sets exhibit high or low similarity according to some similarity measure"
+    },
+    {
+      "paperId": null,
+      "title": "C3) Compare the attribute values between two sets or subsets"
+    },
+    {
+      "paperId": null,
+      "title": "Twitter Venn"
+    },
+    {
+      "paperId": null,
+      "title": "Often limited in the number of elements and sets. Undesired layout artefacts (overlaps, crossing, shapes, etc.)"
+    },
+    {
+      "paperId": null,
+      "title": "Wikimedia Commons: Official languages in Africa"
+    },
+    {
+      "paperId": null,
+      "title": "B3) Analyse inclusion hierarchies: e.g. \ufb01nd out if A is included in B , and B in turn is included in C (and so on)"
+    },
+    {
+      "paperId": null,
+      "title": "Find a proper pub . [ Online ( Jul . 2015 ) ]"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "paperId": "f21d49c97a3dd2d40d6ad527c9ca1898038d7eaa",
+  "externalIds": {
+    "DBLP": "conf/visualization/WilliamsRH92",
+    "MAG": "2130773579",
+    "DOI": "10.1109/VISUAL.1992.235207",
+    "CorpusId": 29374351
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/f21d49c97a3dd2d40d6ad527c9ca1898038d7eaa",
+  "title": "The state of the art of visual languages for visualization",
+  "abstract": "Data flow visual language systems are being used to provide sophisticated environments for the visualization of scientific data. These systems are evolving rapidly and are beginning to encompass related technologies such as distributed computing and user interface development systems. A hierarchical classification of the components and issues involved is presented, giving an understanding of the design decisions and trade-offs that the developers of these systems are making. The component categories can be used as a framework for discussing where interoperability of competing visual programming environments might occur and what the future holds for these systems.<<ETX>>",
+  "venue": "Proceedings Visualization '92",
+  "year": 1992,
+  "referenceCount": 7,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "1992-10-19",
+  "journal": {
+    "name": "Proceedings Visualization '92",
+    "pages": "202-209"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Williams1992TheSO,\n author = {C. Williams and J. Rasure and C. Hansen},\n booktitle = {Proceedings Visualization '92},\n journal = {Proceedings Visualization '92},\n pages = {202-209},\n title = {The state of the art of visual languages for visualization},\n year = {1992}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "32792003",
+      "name": "C. Williams"
+    },
+    {
+      "authorId": "145515212",
+      "name": "J. Rasure"
+    },
+    {
+      "authorId": "2082432403",
+      "name": "C. Hansen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "00ac60e4671744ebeb8b6387d1e525d9c52edddf",
+      "title": "An architecture for a scientific visualization system"
+    },
+    {
+      "paperId": "98f333120f54225747f6198ca38341ab06da56a9",
+      "title": "Scientific visualization: techniques and applications"
+    },
+    {
+      "paperId": "e1a95365f93dfc170e804c10e8167bef483ea877",
+      "title": "Open environment for image processing and software development"
+    },
+    {
+      "paperId": "e80e4f8bd3c1f17c7bb049f09da3f4d0f0f7a6bd",
+      "title": "A dataflow toolkit for visualization"
+    },
+    {
+      "paperId": "6a6c523797da4c6fe58060d2ca83f9cf4da29771",
+      "title": "Taxonomies of visual programming and program visualization"
+    },
+    {
+      "paperId": "e01828e7b762257d70bc122e38d6b274e5d140cb",
+      "title": "The application visualization system: a computational environment for scientific visualization"
+    },
+    {
+      "paperId": "ac4ef0501de665e87b37dba7151dd4ffa1de817c",
+      "title": "User-interface tools: introduction and survey"
+    }
+  ]
+}

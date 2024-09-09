@@ -1,0 +1,789 @@
+{
+  "paperId": "0b4adb0f63e7a969d8775b091b35b1ab3df80027",
+  "externalIds": {
+    "DBLP": "journals/cgf/PreimBCIR16",
+    "MAG": "2466884089",
+    "DOI": "10.1111/cgf.12927",
+    "CorpusId": 10159356
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/0b4adb0f63e7a969d8775b091b35b1ab3df80027",
+  "title": "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data",
+  "abstract": "This survey provides an overview of perceptually motivated techniques for the visualization of medical image data, including physics\u2010based lighting techniques as well as illustrative rendering that incorporate spatial depth and shape cues. Additionally, we discuss evaluations that were conducted in order to study the perceptual effects of these visualization techniques as compared to conventional techniques. These evaluations assessed depth and shape perception with depth judgment, orientation matching, and related tasks. This overview of existing techniques and their evaluation serves as a basis for defining the evaluation process of medical visualizations and to discuss a research agenda.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 179,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01310290/file/Preim_2016_SPM.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Preim2016ASO,\n author = {B. Preim and Alexandra Baer and D. Cunningham and Tobias Isenberg and T. Ropinski},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Perceptually Motivated 3D Visualization of Medical Image Data},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "3305357",
+      "name": "Alexandra Baer"
+    },
+    {
+      "authorId": "1790148",
+      "name": "D. Cunningham"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    },
+    {
+      "authorId": "1703058",
+      "name": "T. Ropinski"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f279374aec77799f108dc7b20fef1aa02d09a4dc",
+      "title": "Modern Statistical Methods for HCI"
+    },
+    {
+      "paperId": "9b3c94bc79665d1c3d94592dff9654167a346077",
+      "title": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization"
+    },
+    {
+      "paperId": "16c89032f3c15d65ddbdd83ffc035d8b3c3b6ca6",
+      "title": "Illustrative Visualization of Vascular Models for Static 2D Representations"
+    },
+    {
+      "paperId": "7d89365e319c99e3d7277b71fa775aa235de6b73",
+      "title": "An experimental study on the effects of shading in 3D perception of volumetric models"
+    },
+    {
+      "paperId": "1b3425d81ef915566678e550b9596b9e57c68e01",
+      "title": "Exploration of the Brain\u2019s White Matter Structure through Visual Abstraction and Multi-Scale Local Fiber Tract Contraction"
+    },
+    {
+      "paperId": "c31576ffbb5ff008631a15d92218f87067b3bea3",
+      "title": "A Survey of Illustrative Visualization Techniques for Diffusion-Weighted MRI Tractography"
+    },
+    {
+      "paperId": "0883d93515ba705899e0130aabee798066a600c8",
+      "title": "Visual Enhancement of MR Angiography Images to Facilitate Planning of Arteriovenous Malformation Interventions"
+    },
+    {
+      "paperId": "7eef7111dc02d313037ad250868b97dc436906a9",
+      "title": "Interactive Illustrative Line Styles and Line Style Transfer Functions for Flow Visualization"
+    },
+    {
+      "paperId": "d7d0d182a7875d6baef1298604fa60e90fbbce66",
+      "title": "Feature Lines for Illustrating Medical Surface Models: Mathematical Background and Survey"
+    },
+    {
+      "paperId": "cc099e34ef1e7d5be4d61347396c15166fef5574",
+      "title": "Towards analyzing eye tracking data for evaluating interactive visualization systems"
+    },
+    {
+      "paperId": "1522954e2a0bb97534d3f6c85eebdef3d4a9f9f7",
+      "title": "Using Global Illumination in Volume Visualization of Rheumatoid Arthritis CT Data"
+    },
+    {
+      "paperId": "4589cd540251cccbf5b018c138cafe6ad40b863d",
+      "title": "A Comparative User Study of a 2D and an Autostereoscopic 3D Display for a Tympanoplastic Surgery"
+    },
+    {
+      "paperId": "bed7527e1fbf4e86653c506e121594836a5077e4",
+      "title": "Improved interventional X-ray appearance"
+    },
+    {
+      "paperId": "6fb79c47cf42900225a36dfcff0af6b357a298b3",
+      "title": "A Comparative Perceptual Study of Soft-Shadow Algorithms"
+    },
+    {
+      "paperId": "4d2ebe10dbc424c670ea39b841c77f7b5aae9d7e",
+      "title": "Adaptive Surface Visualization of Vessels with Animated Blood Flow"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "c8a2211706b0e835e86002bcb0cb2a9d86d6d08f",
+      "title": "An Evaluation of Depth Enhancing Perceptual Cues for Vascular Volume Visualization in Neurosurgery"
+    },
+    {
+      "paperId": "03352e89b38525443e64dfaf7fa72b70cd7ec5c4",
+      "title": "A Survey of Volumetric Illumination Techniques for Interactive Volume Rendering"
+    },
+    {
+      "paperId": "01e4c2a7479e9031c0f694cb816a286c4b346768",
+      "title": "Image Statistics in Visual Computing"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "2c2ae95e653627d6737c8b3222cbd099fe689680",
+      "title": "Evaluation of Depth of Field for depth perception in DVR"
+    },
+    {
+      "paperId": "83fd5fdc305dcdb2dd3e341b738e292ae5e72cfe",
+      "title": "Illustrative visualization of cardiac and aortic blood flow from 4D MRI data"
+    },
+    {
+      "paperId": "9cb4b8c18e88e31c531ba683cc1ec9a1cdb47bad",
+      "title": "The Effect of Expertise on Eye Movement Behaviour in Medical Image Perception"
+    },
+    {
+      "paperId": "ae5ff64d414972667c21c3442f339b967b4bb45a",
+      "title": "Streamlines for Illustrative Real\u2010Time Rendering"
+    },
+    {
+      "paperId": "6c4877823f96190f22cce80272daf7435489afb2",
+      "title": "LineAO - Improved Three-Dimensional Line Rendering"
+    },
+    {
+      "paperId": "5222519cbdd3009ec2e87d1a561d838b0a39dc1e",
+      "title": "A Perceptual-Statistics Shading Model"
+    },
+    {
+      "paperId": "3b668c9e6ad5515ba62cbec6b1de7f7eb5074c1a",
+      "title": "Structure-Aware Lighting Design for Volume Visualization"
+    },
+    {
+      "paperId": "637bc6e2898fa3abf6b70d2bd220b78cc28319d1",
+      "title": "Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making"
+    },
+    {
+      "paperId": "f2ebe4b63b98a8822deda81835e0234eed2c11fb",
+      "title": "Visual Exploration of Simulated and Measured Blood Flow"
+    },
+    {
+      "paperId": "4a17aa732215298a09de4b8e1560faa322ef1deb",
+      "title": "Fast Illustrative Visualization of Fiber Tracts"
+    },
+    {
+      "paperId": "1cebe60a16941a9a9c505ffed0205435b6e05414",
+      "title": "Visualization in Medicine and Life Sciences II - Progress and New Challenges"
+    },
+    {
+      "paperId": "33ee612edb580cf3d8141eae10c6ca5b9d66cb61",
+      "title": "Evaluation of Artery Visualizations for Heart Disease Diagnosis"
+    },
+    {
+      "paperId": "e21c9eeedc4c14566fc2e115882446d034c7baff",
+      "title": "About the Influence of Illumination Models on Image Comprehension in Direct Volume Rendering"
+    },
+    {
+      "paperId": "4b7db4ccd2ad66c6213a9deeccef82931206abd4",
+      "title": "Image Plane Sweep Volume Illumination"
+    },
+    {
+      "paperId": "12ed7aa240003e79e946222cc3273a7e28ad0d9e",
+      "title": "Experimental Design: From User Studies to Psychophysics"
+    },
+    {
+      "paperId": "22b3fad8ddb3cc147d9ec227066b8b49bca10a32",
+      "title": "Illustrative Line Styles for Flow Visualization"
+    },
+    {
+      "paperId": "bd8fa87ffd1feb48b67e4d0218c26cccae4a1e2a",
+      "title": "Chromatic shadows for improved perception"
+    },
+    {
+      "paperId": "dbcde081fe9f3b3c9b5b82fee19a35f79a0e48a0",
+      "title": "Expertise Differences in the Comprehension of Visualizations: a Meta-Analysis of Eye-Tracking Research in Professional Domains"
+    },
+    {
+      "paperId": "17b0bbccb31e191628700232d3eafb1c7a1a7c0e",
+      "title": "Visual Perception from a Computer Graphics Perspective"
+    },
+    {
+      "paperId": "d02272aa3cf34c1194107f3f9ac5b7df34f090fa",
+      "title": "Perceptual Evaluation of Ghosted View Techniques for the Exploration of Vascular Structures and Embedded Flow"
+    },
+    {
+      "paperId": "9fcf3f8e6e7f72da32448467f681e4eb4b2de77d",
+      "title": "Sensation and Perception I"
+    },
+    {
+      "paperId": "3ffc589a774dde091d741f4c311e2c9dee8c9125",
+      "title": "Survey of glyph-based visualization techniques for spatial multivariate medical data"
+    },
+    {
+      "paperId": "629c5d46ea3001c96d1ad6872da1c9369d4b5d39",
+      "title": "Exploration of 4D MRI Blood Flow using Stylistic Visualization"
+    },
+    {
+      "paperId": "795bdadbc29297941e21bcb2a7a74cf56bc1ff91",
+      "title": "Perceptual enhancement of two-level volume rendering"
+    },
+    {
+      "paperId": "d928357740d0047a5e44f825211bf1b0e2b4ec59",
+      "title": "Real-time ambient occlusion and halos with Summed Area Tables"
+    },
+    {
+      "paperId": "9a07493970af8b8252b08542369460c888131167",
+      "title": "Adapted Surface Visualization of Cerebral Aneurysms with Embedded Blood Flow Information"
+    },
+    {
+      "paperId": "3e09862d139b63463d05ac914b031cc04c33edf8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 a Multidirectional Occlusion Shading Model for Direct Volume Rendering"
+    },
+    {
+      "paperId": "a3f8dcf41de79a3503bded1915252f14ffa6680f",
+      "title": "Perceptually-motivated shape exaggeration"
+    },
+    {
+      "paperId": "18302611127923415e883155c253777662716498",
+      "title": "Depth cues in human visual perception and their realization in 3D displays"
+    },
+    {
+      "paperId": "4d251a005a3906abc004fed1a0bd2767ae0759f7",
+      "title": "Depth-Enhanced Maximum Intensity Projection"
+    },
+    {
+      "paperId": "bd645899dcd0145145ddc579ce5ad7404e542e18",
+      "title": "Volume Illustration of Muscle from Diffusion Tensor Images"
+    },
+    {
+      "paperId": "03fc4faa7f851544359f39e3cf79f0650495d94a",
+      "title": "Depth-Dependent Halos: Illustrative Rendering of Dense Line Data"
+    },
+    {
+      "paperId": "f18dff37545729f68b3477a5e4bb674b96a55d16",
+      "title": "How well do line drawings depict shape?"
+    },
+    {
+      "paperId": "83c24b00fcfabe42e29b80280f66ddaa8e6c2d93",
+      "title": "Instant Volume Visualization using Maximum Intensity Difference Accumulation"
+    },
+    {
+      "paperId": "2032cd2ee336194c5c01d31049b0dc2fdc50f643",
+      "title": "Multiscale 3D reference visualization"
+    },
+    {
+      "paperId": "23d8ead7d9581c3702a8f5db95b5fe4b9a5d6da8",
+      "title": "Optimization-based interactive motion synthesis"
+    },
+    {
+      "paperId": "f24e201b8b5dce4664dfa23062c05af8bd139436",
+      "title": "Effective visualization of complex vascular structures using a non-parametric vessel detection method"
+    },
+    {
+      "paperId": "67be58fa9fc4d97dcf7f5f995fa9dde6d2fd4296",
+      "title": "A Comparison of the Perceptual Benefits of Linear Perspective and Physically-Based Illumination for Display of Dense 3D Streamtubes"
+    },
+    {
+      "paperId": "41a9875c11fba9493b6eb794ca91867040c90f4d",
+      "title": "Hardware-Accelerated Illustrative Medical Surface Visualization with Extended Shading Maps"
+    },
+    {
+      "paperId": "62fe600e89b0b2ef2bcb212418dfc073e7cee137",
+      "title": "The assumed light direction for perceiving shape from shading"
+    },
+    {
+      "paperId": "4bb2e8915512571266a86a752effb04f76589854",
+      "title": "Illustrative visualization: new technology or useless tautology?"
+    },
+    {
+      "paperId": "415c0a0a28036943503ebeced532d6ff2a0257b8",
+      "title": "Where do people draw lines?"
+    },
+    {
+      "paperId": "342aa6280b4f45bad96dbe29c664306c54170798",
+      "title": "SIGGRAPH 2008 SpaceTime - Second Life exhibition"
+    },
+    {
+      "paperId": "3db9b23fc9383e4f2ff16991dfa2a55211602e86",
+      "title": "Perception-aware Depth Cueing for Illustrative Vascular Visualization"
+    },
+    {
+      "paperId": "abc733330bc69c8502770b5fa26c7fc09ad8a84c",
+      "title": "The Role of Perception for Computer Graphics"
+    },
+    {
+      "paperId": "348d3d24fa595f481cf560057a412a19d3bff2be",
+      "title": "State-of-the-Art of the Role of Perception for Computer Graphics"
+    },
+    {
+      "paperId": "ee3913c3d9d1bfc25bf8e805015f515ab51d89af",
+      "title": "Sketching reality: Realistic interpretation of architectural designs"
+    },
+    {
+      "paperId": "b66934c31fce54a7e782afb7bfecfc39e2dc73c9",
+      "title": "Toward a Perceptual Theory of Flow Visualization"
+    },
+    {
+      "paperId": "9086d42018a476dcc8dfb318447d9e03bc072f86",
+      "title": "Visual computing for medicine"
+    },
+    {
+      "paperId": "d829ea2491a21d7a2c93ef6863c489fee5968219",
+      "title": "Contextual Anatomic Mimesis Hybrid In-Situ Visualization Method for Improving Multi-Sensory Depth Perception in Medical Augmented Reality"
+    },
+    {
+      "paperId": "7d113b9df785eefc0d9bf5515398f51a4beef8a4",
+      "title": "Enhancing Depth-Perception with Flexible Volumetric Halos"
+    },
+    {
+      "paperId": "1957bc15b5c2a7834610d4b96e263450fdad06f9",
+      "title": "Grid With a View: Optimal Texturing for Perception of Layered Surface Shape"
+    },
+    {
+      "paperId": "b02cf6bbb456153d8f29d057adfa630cafe70439",
+      "title": "Efficient Ambient and Emissive Tissue Illumination using Local Occlusion in Multiresolution Volume Rendering"
+    },
+    {
+      "paperId": "6848cc81019549a26ef6e1ec7a04ef663cccdfaa",
+      "title": "Style Transfer Functions for Illustrative Volume Rendering"
+    },
+    {
+      "paperId": "98ad0a519302b9606eb7d8671a23c124c145cc5f",
+      "title": "Using NPR to evaluate perceptual shape cues in dynamic environments"
+    },
+    {
+      "paperId": "d7c05cd0dcf6d5d2beaeaed7ba011bf16536eb72",
+      "title": "Apparent ridges for line drawing"
+    },
+    {
+      "paperId": "0774a972aee4c780ba97c319bc530d429552d5a9",
+      "title": "Near-optimal character animation with continuous control"
+    },
+    {
+      "paperId": "890ecd39cb38402329f9f193cb2bc759fc052ce9",
+      "title": "Evaluation of perception performance in neck dissection planning using eye tracking and attention landscapes"
+    },
+    {
+      "paperId": "2c1e8fffe64d118d00fa91e7f30981e53bab48a7",
+      "title": "Lines of Curvature for Polyp Detection in Virtual Colonoscopy"
+    },
+    {
+      "paperId": "6463e13514c6e984a12c26c7b16e279dd412b9d8",
+      "title": "Real-Time Illustration of Vascular Structures"
+    },
+    {
+      "paperId": "309b0e745deccafcca9acc974e9d0ede8accdfba",
+      "title": "Brain structure visualization using spectral fiber clustering"
+    },
+    {
+      "paperId": "a829a926c0eca312b163c89f0a9d4d02e5f32832",
+      "title": "Visually Supporting Depth Perception in Angiography Imaging"
+    },
+    {
+      "paperId": "837a315227c821eea2e8843ebeaf481e7e53466a",
+      "title": "Exaggerated shading for depicting shape and detail"
+    },
+    {
+      "paperId": "e82d437846cd69adbac9504ae04014c00d1c1fea",
+      "title": "Retro-rendering with vector-valued light: producing local illumination from the transport equation"
+    },
+    {
+      "paperId": "c39e49205ec51a7d5ea52afc4006c8d97f4de747",
+      "title": "Perceiving Illumination Inconsistencies in Scenes"
+    },
+    {
+      "paperId": "dae3fdce13afd2e6a22591b5990577b07708a39a",
+      "title": "Interactive volume rendering of thin thread structures within multivalued scientific data sets"
+    },
+    {
+      "paperId": "88815b76a0635fa79e26af361ac180f9d2d8da89",
+      "title": "Specular reflections and the perception of shape."
+    },
+    {
+      "paperId": "a2da928d29db054f50b3ec547e2d4131288e5205",
+      "title": "Ridge-valley lines on meshes via implicit surface fitting"
+    },
+    {
+      "paperId": "30373015d69e0881797a709ae0951c4c94ae21c6",
+      "title": "View Direction, Surface Orientation and Texture Orientation for Perception of Surface Shape"
+    },
+    {
+      "paperId": "5a273c125cbd95b86e4107d09ccbcbfd7ccc4d9a",
+      "title": "High-quality two-level volume rendering of segmented data sets on consumer graphics hardware"
+    },
+    {
+      "paperId": "dfb02f8c68b0012c20c9c0a267de09ac26a124d0",
+      "title": "Curvature-based transfer functions for direct volume rendering: methods and applications"
+    },
+    {
+      "paperId": "df3e0b80e353b511cd7a2805aae10dc9d82c56e4",
+      "title": "Vicinity shading for enhanced perception of volumetric data"
+    },
+    {
+      "paperId": "912fbb41da6f656335114adcdb8953a23430b8d2",
+      "title": "Heart-muscle fiber reconstruction from diffusion tensor MRI"
+    },
+    {
+      "paperId": "2c53121edf5f076a94df5a43ae107f596407d140",
+      "title": "Smart 3d Visualizations in Clinical Applications"
+    },
+    {
+      "paperId": "c04025b3b7651e349b4d233b58528dc9995dfacc",
+      "title": "Suggestive contours for conveying shape"
+    },
+    {
+      "paperId": "caea26298cdfed34ea92412a8a62c65bd30d06c5",
+      "title": "A Developer's Guide to Silhouette Algorithms for Polygonal Models"
+    },
+    {
+      "paperId": "a29ad0ac8c17e11a93ddd2dd169bd74d68b49a43",
+      "title": "Nonphotorealistic Rendering of Medical Volume Data"
+    },
+    {
+      "paperId": "9915582867ce80444038321ab08482068a427acb",
+      "title": "Real-world illumination and the perception of surface reflectance properties."
+    },
+    {
+      "paperId": "12592917a2a70e25794a6cffa9452138cb8dc0e8",
+      "title": "A Model for Volume Lighting and Modeling"
+    },
+    {
+      "paperId": "e150fb65f7491c253f48e5b823a28bbadae3dc9d",
+      "title": "CPR - curved planar reformation"
+    },
+    {
+      "paperId": "0b04d8d3daee56dfe15ead60d128f3c49bf5e30c",
+      "title": "Maximum entropy light source placement"
+    },
+    {
+      "paperId": "14d66ade25702805291aa44c44622b400493dcf7",
+      "title": "Automatic Lighting Design using a Perceptual Quality Metric"
+    },
+    {
+      "paperId": "fd9618036eb8215d12c18a0ac438ac96a2bb8b98",
+      "title": "Volume Illustration: Nonphotorealistic Rendering of Volume Models"
+    },
+    {
+      "paperId": "034a9e0555b9cce6b8fd629a541a5acd36a0ba06",
+      "title": "Information limitations in perception of shape from texture"
+    },
+    {
+      "paperId": "079a7073acbfb90df1d6a90aec1a8531a7eca08a",
+      "title": "Volume illustration: non-photorealistic rendering of volume models"
+    },
+    {
+      "paperId": "01d793361fdb5e71be84c49d1b1a36a23ca79a15",
+      "title": "Line direction matters: an argument for the use of principal directions in 3D line drawings"
+    },
+    {
+      "paperId": "cc219f04d8e563c264404e61577d0aff561788c3",
+      "title": "Medical image perception: evaluating the role of experience"
+    },
+    {
+      "paperId": "b153cb472b3da95c81451b2fb2c0d685b79415f5",
+      "title": "Depth Discrimination from Shading under Diffuse Lighting"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "39ab8d3c069d45bf040424289b85959fe55d2e12",
+      "title": "An anchoring theory of lightness perception."
+    },
+    {
+      "paperId": "86d21c2d53ce6a193ceb688bacbbb4ffec09a6cb",
+      "title": "Shape from Shading: A Survey"
+    },
+    {
+      "paperId": "eb3e74581bf38e8471d295017e0309751adc55dd",
+      "title": "Observer biases in the 3D interpretation of line drawings"
+    },
+    {
+      "paperId": "7137dff1545ad120a2cd46d3a49c6b634e773e8d",
+      "title": "A non-photorealistic lighting model for automatic technical illustration"
+    },
+    {
+      "paperId": "45830ddb075befe5b016c8d2a670a6579d0ee735",
+      "title": "Visualizing 3D Flow"
+    },
+    {
+      "paperId": "5ba45956c6d5fa530124fbf2f86f132701012a8f",
+      "title": "Strategies for effectively visualizing 3D flow with volume LIC"
+    },
+    {
+      "paperId": "f2db9c27ef09052606b331fb92c1911bfcc0a21b",
+      "title": "The Bas-Relief Ambiguity"
+    },
+    {
+      "paperId": "f8efe42c8197658a1288e80dc011f9b3c2be708e",
+      "title": "Conveying the 3D Shape of Smoothly Curving Transparent Surfaces via Texture"
+    },
+    {
+      "paperId": "30fe0db5ac4036962d7b6851755619a8094d2226",
+      "title": "Illustrating transparent surfaces with curvature-directed strokes"
+    },
+    {
+      "paperId": "53590abe830cb01637bee073c999ed730d8304de",
+      "title": "The partial-occlusion effect: utilizing semitransparency in 3D human-computer interaction"
+    },
+    {
+      "paperId": "988383e00a85e958e87685141c33115947a9ade0",
+      "title": "Enhancing transparent skin surfaces with ridge and valley lines"
+    },
+    {
+      "paperId": "3ae926ffb8d93875f116d1e2ad5acea83a65a3db",
+      "title": "Contrast as a depth cue"
+    },
+    {
+      "paperId": "97520e490586b54b1c340607ff9c1190795f48a8",
+      "title": "The Brain: A Neuroscience Primer"
+    },
+    {
+      "paperId": "0c6b682dc1597fb9621c29fcd605c1cfb0757256",
+      "title": "Surface perception in pictures"
+    },
+    {
+      "paperId": "377dc9e8bff80d9c3746b1c76efead378289f5f8",
+      "title": "Perceiving spatial relationships in computer-generated images"
+    },
+    {
+      "paperId": "9935e1055286fefbd91b08c969b93e3b1d4fceb6",
+      "title": "On the Tyranny of Hypothesis Testing in the Social Sciences"
+    },
+    {
+      "paperId": "11652a246836e6eb3db2de9de6bfeeb9c8825dd5",
+      "title": "Comprehensible rendering of 3-D shapes"
+    },
+    {
+      "paperId": "7085b6daecc2aefdb9c30283f69ce21d7b0780ca",
+      "title": "Solid shape"
+    },
+    {
+      "paperId": "5c7e58c003f63572ec2716c5325d8cd4e9a1dea7",
+      "title": "Parts of Visual Objects: An Experimental Test of the Minima Rule"
+    },
+    {
+      "paperId": "c09c7da1982f91b7f7d9a1e74a34944d40277c60",
+      "title": "Minimodularity and the perception of layout."
+    },
+    {
+      "paperId": "c0618755ac97246fc01953eba6b1223920d5ddcd",
+      "title": "Perception of shape from shading"
+    },
+    {
+      "paperId": "37d84de220949939a7f477f226db61c9671fc6bd",
+      "title": "The Chromostereoscopic Process: A Novel Single Image Stereoscopic Process"
+    },
+    {
+      "paperId": "413e36dfe5c1373af324b64f054514458e7f1cc5",
+      "title": "Visual orientation and spatial frequency discrimination: a comparison of single neurons and behavior."
+    },
+    {
+      "paperId": "f625761f04b1cf52814e7c297b24d29a03aa250b",
+      "title": "Perception of surface curvature and direction of illumination from patterns of shading."
+    },
+    {
+      "paperId": "f58401606a9069bf9a18d4192fb34f0b64fadcbc",
+      "title": "Light Source Position in the Perception of Object Shape"
+    },
+    {
+      "paperId": "1752b71637321db1e70a6d26e4190cfb5ddf0c06",
+      "title": "Vision: A Computational Investigation into the Human Representation and Processing of Visual Information"
+    },
+    {
+      "paperId": "3f93683dc2ad7a435f6ae88600391fe91c908c96",
+      "title": "Slant-tilt: The visual encoding of surface orientation"
+    },
+    {
+      "paperId": "9bf58c1ad6f16fa65660ddfc303f5124e39004fd",
+      "title": "The Visual Interpretation of Surface Contours"
+    },
+    {
+      "paperId": "8999355e47248bc60f5768fc2168fd28295b5f27",
+      "title": "Textons, the elements of texture perception, and their interactions"
+    },
+    {
+      "paperId": "1dade378b258a877033327a6a5308ac40c826c86",
+      "title": "The haloed line effect for hidden line elimination."
+    },
+    {
+      "paperId": "28d49bc05afc9bbbfd04211fc357f2111bd2067c",
+      "title": "On the Limits of Fourier Decompositions in Visual Texture Perception"
+    },
+    {
+      "paperId": "37a608c85cf95a8203d88c242d7fd0d9489d31d5",
+      "title": "SHAPE FROM SHADING: A METHOD FOR OBTAINING THE SHAPE OF A SMOOTH OPAQUE OBJECT FROM ONE VIEW"
+    },
+    {
+      "paperId": "c5f5311fa1f34159ab3a0a1d58da51cd0340a640",
+      "title": "Receptive fields and functional architecture of monkey striate cortex"
+    },
+    {
+      "paperId": "5b1a74ec6d91160e536ba4629e44d5ebd0a69789",
+      "title": "XLII.\u2014On the Conversion of Relief by Inverted Vision"
+    },
+    {
+      "paperId": "4d31c31ea8081305952f48202e5485ab763c09b7",
+      "title": "Fair Statistical Communication in HCI"
+    },
+    {
+      "paperId": "e9f95fa6a4089275f0d8cd368ff31bb0f5a7e543",
+      "title": "Visualization and Processing of Higher Order Descriptors for Multi-Valued Data"
+    },
+    {
+      "paperId": "2b74a97f90c02d82a3b2330ebe744ca286771028",
+      "title": "Comparative Evaluation of Feature Line Techniques for Shape Depiction"
+    },
+    {
+      "paperId": null,
+      "title": "CUNNINGHAM D"
+    },
+    {
+      "paperId": "03d61200ee1c065ee008d5c5e63ffde7db0a72ca",
+      "title": "Vessel Visualization with Volume Rendering"
+    },
+    {
+      "paperId": "8568dbdf9c9c28bd57e20ea26e696c6809a7766f",
+      "title": "Uncertainty Visualization of Brain Fibers"
+    },
+    {
+      "paperId": "c5ac87df5d6e0e6b6de2f745284835c2a368b0f7",
+      "title": "It's the Effect Size, Stupid What effect size is and why it is important"
+    },
+    {
+      "paperId": "14c91f9f0cf3e91bd7e6968e01f3ebedfc47f503",
+      "title": "Consistency and Variability Among Latent Print Examiners as Revealed by Eye Tracking Methodologies"
+    },
+    {
+      "paperId": null,
+      "title": "STEFANUCCI J"
+    },
+    {
+      "paperId": "f1082a993f4dc36e659fcaac4f1da0753e552f0a",
+      "title": "Volume composition and evaluation using eye-tracking data"
+    },
+    {
+      "paperId": "b5eab90d8147c9e766ee5ae2a78853b8f14f9d6a",
+      "title": "Bimodal perception of audio-visual material properties for virtual environments"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. Three-Dimensional Imaging, Visualization, and Display Technologies"
+    },
+    {
+      "paperId": "20ca72aa096642ae02c741f4867d8d56b8a1c591",
+      "title": "Illustration-Inspired Depth Enhanced Volumetric Medical Visualization"
+    },
+    {
+      "paperId": "52df763d69ed5fe609a4a88f07e97a6cfaadf59f",
+      "title": "VISION A Computational Investigation into the Human Representation and Processing of Visual Information"
+    },
+    {
+      "paperId": null,
+      "title": "ROERDINK J"
+    },
+    {
+      "paperId": "310f945620e89e0d91aeeda1ab4488015dda3b7a",
+      "title": "3D Visualization of Vasculature: An Overview"
+    },
+    {
+      "paperId": "0ba45406389cfc74284cc57aa52c3dff9d6f66ca",
+      "title": "Visualization of the fibrous structure of the heart"
+    },
+    {
+      "paperId": "9f379d9a4e5bd50d2866096204f458f688da66a3",
+      "title": "Atlas of Invertebrate Anatomy"
+    },
+    {
+      "paperId": "fee98165ce9408ff39a330ce5c6eb601f0b9bddc",
+      "title": "The Guild handbook of scientific illustration"
+    },
+    {
+      "paperId": "44070a50f59e06882ecd3892c9e9809a30930d5d",
+      "title": "Volume rendering: display of surfaces from volume data"
+    },
+    {
+      "paperId": "77edba2366cc2105db65be919293961e9cae9ffd",
+      "title": "On the perception of shape from shading"
+    },
+    {
+      "paperId": null,
+      "title": "Colour Constancy: Support to a Vector Model for the Perception of Illumination"
+    },
+    {
+      "paperId": "4971bec3386a33fa6c3850abf3d358e7143dff8b",
+      "title": "The Ecological Approach to Visual Perception"
+    },
+    {
+      "paperId": "d05cdb8a04ed602409c28ca21b0f01f9ff8ce5a1",
+      "title": "Elements of psychophysics"
+    },
+    {
+      "paperId": "2131e73b2404b3564935db93ba11eb45d30554c6",
+      "title": "The perception of the visual world."
+    },
+    {
+      "paperId": "62aa0f87d29e0fb660d76b66a10880042d412f11",
+      "title": "Book Reviews: The Perception of the Visual World"
+    },
+    {
+      "paperId": "100bab01ac8cf5869ec518900465541fc134e570",
+      "title": "The Natural Way To Draw"
+    },
+    {
+      "paperId": "f9935f53618110df82ec26caede33cfae5d41a9c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Combining Silhouettes, Surface, and Volume Rendering for Surgery Education and Planning"
+    },
+    {
+      "paperId": "be2c9b3309fda28305918d13a242e303c6891545",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Importance-driven Feature Enhancement in Volume Visualization"
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "50d4267690596bf4cec82c4e3dcd2ed83c598f39",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Dti in Context: Illustrating Brain Fiber Tracts in Situ"
+    },
+    {
+      "paperId": "48ffc584d516c94765893d283a9a2259de7bcdcc",
+      "title": "Universit\u00e4t Des Saarlandes Fachrichtung 6.1 \u2013 Mathematik Perspective Shape from Shading: Ambiguity Analysis and Numerical Approximations Perspective Shape from Shading: Ambiguity Analysis and Numerical Approximations"
+    },
+    {
+      "paperId": "3a45ad2a68ae3f9b1863b0d5ae2ae98561cbccd4",
+      "title": "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Conveying Shape with Texture: experimental"
+    },
+    {
+      "paperId": "075a2b20b90162bf54785acb920caafcf722f0de",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Perceptually Based Depth-ordering Enhancement for Direct Volume Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "application and , there was Depth Perception with Chromatic Shadows. The depth perception experiment from [SPV11] served to compare three lighting conditions in their effect on depth judgment"
+    },
+    {
+      "paperId": "7c1c0e1e9fc57e6be38c7ebc8d60221177c3521b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 a Directional Occlusion Shading Model for Interactive Direct Volume Rendering"
+    }
+  ]
+}

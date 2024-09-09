@@ -1,0 +1,156 @@
+{
+  "paperId": "e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+  "externalIds": {
+    "DBLP": "conf/ieeevast/ZhangSBMSPWLK12",
+    "MAG": "2065873970",
+    "DOI": "10.1109/vast.2012.6400554",
+    "CorpusId": 15208379
+  },
+  "publicationVenue": {
+    "id": "fb46f230-8676-408e-abe1-5460c6bcbb37",
+    "name": "IEEE Conference on Visual Analytics Science and Technology",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Anal Sci Technol",
+      "IEEE Conf Vis Anal Sci Technol",
+      "Visual Analytics Science and Technology",
+      "VAST"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+  "title": "Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems",
+  "abstract": "Visual analytics (VA) system development started in academic research institutions where novel visualization techniques and open source toolkits were developed. Simultaneously, small software companies, sometimes spin-offs from academic research institutions, built solutions for specific application domains. In recent years we observed the following trend: some small VA companies grew exponentially; at the same time some big software vendors such as IBM and SAP started to acquire successful VA companies and integrated the acquired VA components into their existing frameworks. Generally the application domains of VA systems have broadened substantially. This phenomenon is driven by the generation of more and more data of high volume and complexity, which leads to an increasing demand for VA solutions from many application domains. In this paper we survey a selection of state-of-the-art commercial VA frameworks, complementary to an existing survey on open source VA tools. From the survey results we identify several improvement opportunities as future research directions.",
+  "venue": "IEEE Conference on Visual Analytics Science and Technology",
+  "year": 2012,
+  "referenceCount": 15,
+  "openAccessPdf": {
+    "url": "https://kops.uni-konstanz.de/bitstreams/d1d58e74-6114-40a4-873d-0bf5c852cbc5/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2012-10-14",
+  "journal": {
+    "name": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "pages": "173-182"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zhang2012VisualAF,\n author = {Leishi Zhang and A. Stoffel and M. Behrisch and S. Mittelst\u00e4dt and Tobias Schreck and Ren\u00e9 Pompl and S. Weber and Holger Last and D. Keim},\n booktitle = {IEEE Conference on Visual Analytics Science and Technology},\n journal = {2012 IEEE Conference on Visual Analytics Science and Technology (VAST)},\n pages = {173-182},\n title = {Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1562571406",
+      "name": "Leishi Zhang"
+    },
+    {
+      "authorId": "144017549",
+      "name": "A. Stoffel"
+    },
+    {
+      "authorId": "144075157",
+      "name": "M. Behrisch"
+    },
+    {
+      "authorId": "2222702",
+      "name": "S. Mittelst\u00e4dt"
+    },
+    {
+      "authorId": "1706471",
+      "name": "Tobias Schreck"
+    },
+    {
+      "authorId": "2099865532",
+      "name": "Ren\u00e9 Pompl"
+    },
+    {
+      "authorId": "40563215",
+      "name": "S. Weber"
+    },
+    {
+      "authorId": "21522299",
+      "name": "Holger Last"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6eb81060e83ea3e4a101d1fdf49138f4acfb2db2",
+      "title": "Tag-Cloud Drawing: Algorithms for Cloud Visualization"
+    },
+    {
+      "paperId": "81957286d692030cc7f1572debbb046edf11a43b",
+      "title": "VizQL: a language for query, analysis and visualization"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "bb90cf1a2fa6e6d083233b6b31ef775b9b1437e3",
+      "title": "The InfoVis Toolkit"
+    },
+    {
+      "paperId": "1007154e3408bcacb34165379fcdcd1a38298dd3",
+      "title": "Building Highly-Coordinated Visualizations in Improvise"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "2b2ba9b0022ff45939527836a150959fe388ee23",
+      "title": "From Data Mining to Knowledge Discovery: An Overview"
+    },
+    {
+      "paperId": "0277ecd8ddf248f4056238618dee7cd937643698",
+      "title": "Comparison of open-source visual analytics toolkits"
+    },
+    {
+      "paperId": "e07caa68266c10e1255eb3036cbbbba620e7b2fe",
+      "title": "Magic Quadrant for Business Intelligence Platforms"
+    },
+    {
+      "paperId": null,
+      "title": "Java Universal Network/Graph Framework"
+    },
+    {
+      "paperId": null,
+      "title": "The business intelligence product survey"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "1] http://in-spire.pnnl.gov"
+    },
+    {
+      "paperId": null,
+      "title": "http://radar.oreilly.com/2012/01/what-is-big-data.html"
+    }
+  ]
+}

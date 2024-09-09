@@ -1,0 +1,598 @@
+{
+  "paperId": "7d53f6d57c130c6d3a0b345e4af00133bad3e1f9",
+  "externalIds": {
+    "DBLP": "journals/cgf/WangT17",
+    "MAG": "2281349958",
+    "DOI": "10.1111/cgf.12800",
+    "CorpusId": 37865417
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/7d53f6d57c130c6d3a0b345e4af00133bad3e1f9",
+  "title": "Graphs in Scientific Visualization: A Survey",
+  "abstract": "Graphs represent general node\u2010link diagrams and have long been utilized in scientific visualization for data organization and management. However, using graphs as a visual representation and interface for navigating and exploring scientific data sets has a much shorter history, yet the amount of work along this direction is clearly on the rise in recent years. In this paper, we take a holistic perspective and survey graph\u2010based representations and techniques for scientific visualization. Specifically, we classify these representations and techniques into four categories, namely partition\u2010wise, relationship\u2010wise, structure\u2010wise and provenance\u2010wise. We survey related publications in each category, explaining the roles of graphs in related work and highlighting their similarities and differences. At the end, we reexamine these related publications following the graph\u2010based visualization pipeline. We also point out research trends and remaining challenges in graph\u2010based representations and techniques for scientific visualization.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 135,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-01-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wang2017GraphsIS,\n author = {Chaoli Wang and Jun Tao},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Graphs in Scientific Visualization: A Survey},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "40505818",
+      "name": "Chaoli Wang"
+    },
+    {
+      "authorId": "2117237969",
+      "name": "Jun Tao"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6f74a00367170694bc9f258308c95c5c10124470",
+      "title": "Association Analysis for Visual Exploration of Multivariate Scientific Data Sets"
+    },
+    {
+      "paperId": "34a1533f64194b471c95f0937ebc971cc0a50ebb",
+      "title": "Mining Graphs for Understanding Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "ea1bf0396c697e339fc95670a0fc2bf676b3ee53",
+      "title": "TrajGraph: A Graph-Based Visual Analytics Approach to Studying Urban Network Centralities Using Taxi Trajectory Data"
+    },
+    {
+      "paperId": "a0e833912ff3cedfff101fa66bf928885ac3ecce",
+      "title": "MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering"
+    },
+    {
+      "paperId": "4986e2f10a6103ce6fea5e6acbf0ca500d538029",
+      "title": "Using Topological Analysis to Support Event-Guided Exploration in Urban Data"
+    },
+    {
+      "paperId": "0997eece772e19649153cd6ec3ee19cd5390406f",
+      "title": "Structural Analysis of Multivariate Point Clouds Using Simplicial Chains"
+    },
+    {
+      "paperId": "d63138214ea69e8662c3678cd310fc93b3e9f753",
+      "title": "Visual Exploration of Sparse Traffic Trajectory Data"
+    },
+    {
+      "paperId": "3e208726bc6e0f73615d824af92bdfed8ac72b0a",
+      "title": "Joint Contour Nets"
+    },
+    {
+      "paperId": "64007d5b852080930f94d5f65e19689276cbc70a",
+      "title": "A Graph-Based Interface for VisualAnalytics of 3D Streamlines and Pathlines"
+    },
+    {
+      "paperId": "f914352479a35f2f6bf1ab558533a0130200ce82",
+      "title": "Visualization and correction of automated segmentation, tracking and lineaging from 5-D stem cell image sequences"
+    },
+    {
+      "paperId": "b40773e67725b3dd45f990f1e510db99b2b68bb4",
+      "title": "Extended Branch Decomposition Graphs: Structural Comparison of Scalar Data"
+    },
+    {
+      "paperId": "c99384bc73838c5aaa0a1d9979ac1a2029dfc981",
+      "title": "Hierarchical opacity optimization for sets of 3D line fields"
+    },
+    {
+      "paperId": "b826fa77fd43e1893b0ca820b6709e661818fe1a",
+      "title": "Three-Dimensional Mean-Shift Edge Bundling for the Visualization of Functional Connectivity in the Brain"
+    },
+    {
+      "paperId": "baabc46b8c2c999722c8faffec18d2db949816ee",
+      "title": "Activity Detection in Scientific Visualization"
+    },
+    {
+      "paperId": "9b4bdab7a4d4a04032a0eeb7fd402a1703ed57fc",
+      "title": "A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks"
+    },
+    {
+      "paperId": "4391f610f175bd32ebbdbbfb53873bb8ff3228e8",
+      "title": "Extracting rate changes in transcriptional regulation from MEDLINE abstracts"
+    },
+    {
+      "paperId": "cad94fd51e632770b946f8d07555117adac09e58",
+      "title": "Graph-based seed scheduling for out-of-core FTLE and pathline computation"
+    },
+    {
+      "paperId": "89067e65ca5cce1086b93e405ad6ea5c2e5eea15",
+      "title": "Visual Traffic Jam Analysis Based on Trajectory Data"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "85930b1abe7f2bc412445a88c4ee0b9285f4aa7c",
+      "title": "Detecting Symmetry in Scalar Fields Using Augmented Extremum Graphs"
+    },
+    {
+      "paperId": "730279d63b5af9c5af516933d6e14d3771fcaaf6",
+      "title": "An Information-Aware Framework for Exploring Multivariate Data Sets"
+    },
+    {
+      "paperId": "004692ea2d224edb1511eb45e4a23238eccd824d",
+      "title": "Visualization of Morse Connection Graphs for Topologically Rich 2D Vector Fields"
+    },
+    {
+      "paperId": "ca74e026cd6b830651dd47414ee6a4587195713f",
+      "title": "neuroMAP \u2014 Interactive graph-visualization of the fruit fly's neural circuit"
+    },
+    {
+      "paperId": "2a9f7d4d016815e7e988e7fda7bce0247ed8e864",
+      "title": "VisNEST \u2014 Interactive analysis of neural activity data"
+    },
+    {
+      "paperId": "12290fcbec6c325a907aab26e5cedeead44d452b",
+      "title": "iTree: Exploring time-varying data using indexable tree"
+    },
+    {
+      "paperId": "44b408f83a9864dfa0a6a28669fe966f67cb0893",
+      "title": "FlowGraph: A compound hierarchical graph for flow field exploration"
+    },
+    {
+      "paperId": "3924e77568ee035086975d4e6f36464a1acd070b",
+      "title": "TAMRESH \u2013 Tensor Approximation Multiresolution Hierarchy for Interactive Volume Visualization"
+    },
+    {
+      "paperId": "8cc31a72836f52f9b967f0f9702b0751ec6f8541",
+      "title": "Towards Multifield Scalar Topology Based on Pareto Optimality"
+    },
+    {
+      "paperId": "ec144f8ecd5db683fd2baf4d07f57ce3d7085d59",
+      "title": "Scalable Parallel Feature Extraction and Tracking for Large Time-varying 3D Volume Data"
+    },
+    {
+      "paperId": "19db6d15e9bfee5c638cf28c7f3b291ddbcedd4d",
+      "title": "Flow-guided file layout for out-of-core pathline computation"
+    },
+    {
+      "paperId": "8e93c175e2924d1752b10a008114c3ee39790579",
+      "title": "On the use of graph search techniques for the analysis of extreme-scale combustion simulation data"
+    },
+    {
+      "paperId": "235cb5ae655a6ef6e8bc83f55e7cc89794115f87",
+      "title": "Interactive exploration of large-scale time-varying data using dynamic tracking graphs"
+    },
+    {
+      "paperId": "ceb4fd64ac5df3d183b323628f61c1d0693ec861",
+      "title": "Visualizing Nuclear Scission through a Multifield Extension of Topological Analysis"
+    },
+    {
+      "paperId": "b3296829c12f3c8c3f203e8fdfff6d2dca65a2a8",
+      "title": "Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms"
+    },
+    {
+      "paperId": "82ebc6696c7ced01601270d03ecb90aa90eeb606",
+      "title": "Implicit surfaces for interactive graph based cavity analysis of molecular simulations"
+    },
+    {
+      "paperId": "210843782ca2ad7c4bb95cd81794d64acd828c8b",
+      "title": "Dynamic channels in biomolecular systems: Path analysis and visualization"
+    },
+    {
+      "paperId": "b1cdb1a17aec9cdd8dc23e8cc8bd69407b193a8b",
+      "title": "Robust Morse Decompositions of Piecewise Constant Vector Fields"
+    },
+    {
+      "paperId": "e6a7d803b668f3ed94e0b8f27028800d25650f6f",
+      "title": "A flow-guided file layout for out-of-core streamline computation"
+    },
+    {
+      "paperId": "e2ec1206c72f5d09b3dca9daee67a24dd9d337b2",
+      "title": "TransGraph: Hierarchical Exploration of Transition Relationships in Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "5616ad07bdadd6dfe6f58c9461f5123e1634b3a4",
+      "title": "Towards Robust Topology of Sparsely Sampled Data"
+    },
+    {
+      "paperId": "83ce1d4ae5f203284c8d84d5837b3a011a29bfb9",
+      "title": "Symmetry in Scalar Field Topology"
+    },
+    {
+      "paperId": "43713bc101894aee57a60530df19ebca9a6ecbc8",
+      "title": "Topological Spines: A Structure-preserving Visual Representation of Scalar Fields"
+    },
+    {
+      "paperId": "c2b707751dd71f5c3b509b804a56cb4732a348cc",
+      "title": "Load-Balanced Parallel Streamline Generation on Large Scale Vector Fields"
+    },
+    {
+      "paperId": "3519add893934bac5cf334d0719d953746136513",
+      "title": "Feature-Based Statistical Analysis of Combustion Simulation Data"
+    },
+    {
+      "paperId": "282b182cddbd5dd403fed0e80ac9df55cdc5fecd",
+      "title": "Interactive Multiscale Tensor Reconstruction for Multiresolution Volume Visualization"
+    },
+    {
+      "paperId": "807f66375e0fc95e51d2a48bb430729411e8a9d1",
+      "title": "Interactive, Graph-based Visual Analysis of High-dimensional, Multi-parameter Fluorescence Microscopy Data in Toponomics"
+    },
+    {
+      "paperId": "7cfb371a99aed545a8dd1d6f07b766715b80533b",
+      "title": "MDMap: A system for data-driven layout and exploration of molecular dynamics simulations"
+    },
+    {
+      "paperId": "98883bdd6ffdd919dff957db19af53b0ceb8ff58",
+      "title": "Metrics for comparing explicit representations of interconnected biological networks"
+    },
+    {
+      "paperId": "79e39069363c63263419a1fcc7c206200f628114",
+      "title": "Technical Section: Error-controlled real-time cut updates for multi-resolution volume rendering"
+    },
+    {
+      "paperId": "8dab8ae89290c0ddebe21836b9dd5b2cb236f719",
+      "title": "Stable Morse Decompositions for Piecewise Constant Vector Fields on Surfaces"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "13f8d78f22e7d19b6f9d09ed4dcd6dfb9173005f",
+      "title": "Analyzing information transfer in time-varying multivariate data"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "838bb8489c5cb1e1c5f4636ca0e3585f542eb978",
+      "title": "Automatic Animation for Time\u2010Varying Data Visualization"
+    },
+    {
+      "paperId": "bf49993508814f1d9fdbb7cee76a8fa9c82486b4",
+      "title": "AniViz: A Template-Based Animation Tool for Volume Visualization"
+    },
+    {
+      "paperId": "ed2fda1d0aee5e3b2ceea973d88614e6fd83bfa4",
+      "title": "Topological Landscape Ensembles for Visualization of Scalar\u2010Valued Functions"
+    },
+    {
+      "paperId": "9f5c91a4c5efaa9547c6778b9da1f3e985e498cf",
+      "title": "Interactive illustrative visualization of hierarchical volume data"
+    },
+    {
+      "paperId": "e659bd80f6184cb8653641481e570a49d1665974",
+      "title": "Flow Web: a graph based user interface for 3D flow field exploration"
+    },
+    {
+      "paperId": "b4d2bd6313d1575122f2a292455cc04e9cd608dc",
+      "title": "Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data"
+    },
+    {
+      "paperId": "673e50327a689219fffe16b84ae697ef643f13b7",
+      "title": "Automatic Transfer Function Generation Using Contour Tree Controlled Residue Flow Model and Color Harmonics"
+    },
+    {
+      "paperId": "eab189ba36f5b64885cd5309d3934d5068e80aff",
+      "title": "Knowledge Assisted Visualization: Steady visualization of the dynamics in fluids using \u03b5-machines"
+    },
+    {
+      "paperId": "7574ee8284643917a10b788aea791d6ffed0813f",
+      "title": "Semi\u2010Automatic Time\u2010Series Transfer Functions via Temporal Clustering and Sequencing"
+    },
+    {
+      "paperId": "fa491290803327596eaee32cc6d70786c363e652",
+      "title": "Out-of-core volume rendering for time-varying fields using a space-partitioning time (SPT) tree"
+    },
+    {
+      "paperId": "ee6cc50936806c9fec119dddee7aeb2ccb4537bb",
+      "title": "Massively parallel volume rendering using 2\u20133 swap image compositing"
+    },
+    {
+      "paperId": "c4ab7cbd3bf635b4bedea79fe6e58037cae0842d",
+      "title": "Surface Extraction from Multi-field Particle Volume Data Using Multi-dimensional Cluster Visualization"
+    },
+    {
+      "paperId": "2013afbaa2e2201a8441d9e9935ea0b332dad990",
+      "title": "Relation-Aware Volume Exploration Pipeline"
+    },
+    {
+      "paperId": "c482579789f9492bd8d24fc5513c8b6ca8362a81",
+      "title": "Brushing of Attribute Clouds for the Visualization of Multivariate Data"
+    },
+    {
+      "paperId": "7eac116ad43d284e4ec340d12d5ff2324202e677",
+      "title": "Interactive Comparison of Scalar Fields Based on Largest Contours with Applications to Flow Visualization"
+    },
+    {
+      "paperId": "5149117665691f1e6195e2e3a7efb8ad696ec4c5",
+      "title": "Ontology-Based Visualization of Hierarchical Neuroanatomical Structures"
+    },
+    {
+      "paperId": "6ff6268fc6e19c4bfbbedb66d6eeb8d0cf70b477",
+      "title": "Interactive Storyboard for Overall Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "9f6385f99ed4ac6d9b845f07aea734c4543f3b46",
+      "title": "Parallel hierarchical visualization of large time-varying 3D vector fields"
+    },
+    {
+      "paperId": "ed7b73b26ce4a7e9d577183b52d893811e1d732f",
+      "title": "Visual Analysis of the Air Pollution Problem in Hong Kong"
+    },
+    {
+      "paperId": "731706e6f505ce7d5136066f682f1918318a464a",
+      "title": "Topological Landscapes: A Terrain Metaphor for Scientific Data"
+    },
+    {
+      "paperId": "43ddeec46d8447ef48667f07ef3ea51a25318398",
+      "title": "Provenance for Visualizations: Reproducibility and Beyond"
+    },
+    {
+      "paperId": "763bb7f54ede35d109edd9661feac43b25d30514",
+      "title": "Robust on-line computation of Reeb graphs: simplicity and speed"
+    },
+    {
+      "paperId": "ddc63b5a2e19337dd7fb8d89412390c3c617873b",
+      "title": "Vector Field Editing and Periodic Orbit Extraction Using Morse Decomposition"
+    },
+    {
+      "paperId": "aa461d4619d1f62a074201fb3a06cec2c56ab2b5",
+      "title": "Story Telling for Presentation in Volume Visualization"
+    },
+    {
+      "paperId": "6335f367f01f764c5b79f143a46ecabdd5cc7a74",
+      "title": "Topology-Controlled Volume Rendering"
+    },
+    {
+      "paperId": "2acdd5b340ea3749f12a9224738a88a7da480bd0",
+      "title": "Provenance and Annotation for Visual Exploration Systems"
+    },
+    {
+      "paperId": "c497af40467aef6c5fb5a16aff32f4d5ceb73d77",
+      "title": "LOD Map - A Visual Interface for Navigating Multiresolution Volume Visualization"
+    },
+    {
+      "paperId": "b1b815b58d235099a91602225bde0f2539d6eaa2",
+      "title": "Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data"
+    },
+    {
+      "paperId": "2274f947cd8455073cb17fa09b60a7dd287ea8b4",
+      "title": "Multi-variate, Time Varying, and Comparative Visualization with Contextual Cues"
+    },
+    {
+      "paperId": "bcc3c02af8efae5a710f4bb53dbdd6067237773a",
+      "title": "VisTrails: enabling interactive multiple-view visualizations"
+    },
+    {
+      "paperId": "472a1bdde29c17c82e17fe0ffd738038daf52a14",
+      "title": "Hierarchical navigation interface: leveraging multiple coordinated views for level-of-detail multiresolution volume rendering of large scientific data sets"
+    },
+    {
+      "paperId": "41e6082f38e5990a315400a8a937b9cee85197a6",
+      "title": "Introducing topological attributes for objective-based visualization of simulated datasets"
+    },
+    {
+      "paperId": "e0d070b2762befb26c8ce7645637f304aa08d08c",
+      "title": "Maximizing adaptivity in hierarchical topological models"
+    },
+    {
+      "paperId": "10169ad8cad89112acfee47b6e04312be3d114c1",
+      "title": "A parallel multiresolution volume rendering algorithm for large data visualization"
+    },
+    {
+      "paperId": "38c920a597f7747cfa920e3c3078cb6f88da6482",
+      "title": "Simplifying flexible isosurfaces using local geometric measures"
+    },
+    {
+      "paperId": "44b1b3b74b6db52d6b86c5f3cb14d051497a3f14",
+      "title": "Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields"
+    },
+    {
+      "paperId": "0ed80af62b58972735bc2b519cdc05b728f99dec",
+      "title": "Interactive rendering of large volume data sets"
+    },
+    {
+      "paperId": "177beb17b9e81898de239090c657739a8b390268",
+      "title": "A model for the visualization exploration process"
+    },
+    {
+      "paperId": "afc2b18c439d2815d328ea753a7b44fd4823de1c",
+      "title": "Hierarchical Representation of Time-Varying Volume Data with \"4th-root-of-2\" Subdivision and Quadrilinear B-Spline Wavelets"
+    },
+    {
+      "paperId": "73424af479181bc572ee414289ba91d1f86d072a",
+      "title": "Visualization and interaction techniques for the exploration of vascular structures"
+    },
+    {
+      "paperId": "da7c925be1d3d26c120a9d39465b110464d2d902",
+      "title": "Visualization Exploration and Encapsulation via a Spreadsheet-Like Interface"
+    },
+    {
+      "paperId": "e3b3a763da03112947f362bd13ef9df2bc9c60c2",
+      "title": "Multiresolution volume visualization with a texture-based octree"
+    },
+    {
+      "paperId": "c3eab9705e52c3d7a87e28a28b73c2f015cdead5",
+      "title": "Visualizing Visualizations: User Interfaces for Managing and Exploring Scientific Visualization Data"
+    },
+    {
+      "paperId": "1f64a00131efd4441a79f94238a4ebbbef5230ad",
+      "title": "Computing contour trees in all dimensions"
+    },
+    {
+      "paperId": "a9a5070ab50166c68c9238ae032d552e18e0735d",
+      "title": "A fast volume rendering algorithm for time-varying fields using a time-space partitioning (TSP) tree"
+    },
+    {
+      "paperId": "1e7e0d21e73b08105b36057c70aa82eabe34bf61",
+      "title": "Multiresolution techniques for interactive texture-based volume visualization"
+    },
+    {
+      "paperId": "f828c655dbcefeb80821cc7788ed82f7ec49215e",
+      "title": "Image graphs-a novel approach to visual data exploration"
+    },
+    {
+      "paperId": "c7d4b18ba523fc5cdf00eee4a17b27372fc9c700",
+      "title": "Isosurface extraction in time-varying fields using a temporal hierarchical index tree"
+    },
+    {
+      "paperId": "2e4e71e08fc0b6721b1a17f3e27331d75d7f5d7c",
+      "title": "Volume animation using the skeleton tree"
+    },
+    {
+      "paperId": "aa782291810836b3f597be94f6746f0e6cb0f0fe",
+      "title": "Tracking and Visualizing Turbulent 3D Features"
+    },
+    {
+      "paperId": "22781d72fe8cfe25eb8a59b67941f0bec3c9b4c6",
+      "title": "Multiresolution video"
+    },
+    {
+      "paperId": "3fa3fc60286d103bfc801abf305d763c3ad47550",
+      "title": "Direct rendering of Laplacian pyramid compressed volume data"
+    },
+    {
+      "paperId": "74d627701ac69c9931efd1099b80f9458f989f18",
+      "title": "Multi-dimensional trees for controlled volume rendering and compression"
+    },
+    {
+      "paperId": "c4ee4f7a2342ae1adf7b5f2f48fe9251f8677dd5",
+      "title": "Visualizing features and tracking their evolution"
+    },
+    {
+      "paperId": "5eb43161ac9c9effb20500388f1394a10ccf19ee",
+      "title": "Parallel volume rendering using binary-swap compositing"
+    },
+    {
+      "paperId": "bafe8c518a8cebdbf5ee98015443625e71039c11",
+      "title": "Octrees for faster isosurface generation"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "a705619680ca88e79c88accbe9f0dbe81f93b165",
+      "title": "Hierarchical splatting: a progressive refinement algorithm for volume rendering"
+    },
+    {
+      "paperId": "1476d6be67255dfb19a0b053ba4d226fec349193",
+      "title": "Efficient ray tracing of volume data"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": "6b8d5564d45da38b0cc78c3825f4828c0a43e255",
+      "title": "Geometric modeling using octree encoding"
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:2)"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "19820f23208b2e3d998d3775c96bc2c41a47c02e",
+      "title": "A Graph-Based Interface for Visual Analytics of 3D Streamlines and Pathlines."
+    },
+    {
+      "paperId": "e403f0912674191f40423655ed87b13c9ac6f920",
+      "title": "Scientific Storytelling Using Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Interactive multiscale tensor reconstruction for c 2016 The Authors Computer Graphics Forum c 2016 The Eurographics Association and John Wiley & Sons Ltd. multiresolution volume visualization"
+    },
+    {
+      "paperId": "17232713ba3c8f9134d43acfdfc48f0352829303",
+      "title": "Application-Driven Compression for Visualizing Large-Scale Time-Varying Data"
+    },
+    {
+      "paperId": "ed919f222ad30d4fe1718673aeb3715b7a4ce6c9",
+      "title": "Flexible isosurfaces: Simplifying and displaying scalar topology using the contour tree"
+    },
+    {
+      "paperId": "f8815e2031f90aac82bd69cdd2afdfaba5a65ce9",
+      "title": "Steady Visualization of the Dynamics in Fluids Using-Machines"
+    },
+    {
+      "paperId": "310f945620e89e0d91aeeda1ab4488015dda3b7a",
+      "title": "3D Visualization of Vasculature: An Overview"
+    },
+    {
+      "paperId": "b0da82ffbe10a73f42da5d675da11b6da7d6ef2b",
+      "title": "Time-varying contour topology"
+    },
+    {
+      "paperId": "7fab5f40d39099eeb1d53ba58f4676299bb4eaca",
+      "title": "Multi-Resolution computation and presentation of Contour Trees"
+    },
+    {
+      "paperId": null,
+      "title": "UCRL-PROC-208680"
+    },
+    {
+      "paperId": "cb94b2730e654e67d9e3615623161137dd1432a2",
+      "title": "A Framework for Rendering Large Time-Varying Data Using Wavelet-Based Time-Space Partitioning (WTSP) Tree"
+    },
+    {
+      "paperId": "d91aac85789b36bbe12e4b119dd6d033c65d5ef4",
+      "title": "Topological manipulation of isosurfaces"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Compression and accelerated rendering of time-varying data"
+    },
+    {
+      "paperId": "0142228a8190677cb43d8a662581dfb375d610e4",
+      "title": "The contour spectrum"
+    },
+    {
+      "paperId": "1d6e55cfb0a61ddd6cc326aeeac513f553e565c9",
+      "title": "Relative neighborhood graphs and their relatives"
+    },
+    {
+      "paperId": "5228585b4b0464b9f770a636f8755c13c07537f2",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Topological Approach to Simplification of Three-dimensional Scalar Functions"
+    },
+    {
+      "paperId": "d8b06c009dec3719a4c0f2b20863ce09be3db9eb",
+      "title": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS Interactive Exploration and Analysis o"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing cells and their connectivity graphs for CompuCell3D"
+    }
+  ]
+}

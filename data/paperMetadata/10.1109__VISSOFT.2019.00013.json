@@ -1,0 +1,329 @@
+{
+  "paperId": "0a874f70bfe9924ea94fa319fcaffc0ee55c9c68",
+  "externalIds": {
+    "MAG": "3047807556",
+    "DBLP": "conf/vissoft/BeduTP19",
+    "DOI": "10.1109/VISSOFT.2019.00013",
+    "CorpusId": 208038537
+  },
+  "publicationVenue": {
+    "id": "74f205c9-3a50-4243-a717-32ef84991aa1",
+    "name": "IEEE Working Conference on Software Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Softw Underst Anal",
+      "IEEE Work Conf Softw Vis",
+      "VISSOFT",
+      "Visualizing Software for Understanding and Analysis"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/0a874f70bfe9924ea94fa319fcaffc0ee55c9c68",
+  "title": "A Tertiary Systematic Literature Review on Software Visualization",
+  "abstract": "Software visualization (SV) allows us to visualize different aspects and artifacts related to software, thus helping engineers understanding its underlying design and functionalities in a more efficient and faster way. In this paper, we conducted a tertiary systematic literature review to identify, classify, and evaluate the current state of the art on software visualization from 48 software visualization secondary studies, following three perspectives: publication trends, software visualization topics and techniques, and issues related to research field. Hence, we summarized the main findings among popular sub-fields of SV, identifying potential research directions and fifteen shared recommendations for developers, instructors and researchers. Our main findings are the lack of rigorous evaluation or theories support to assess SV tools effectiveness, the disconnection between tool design and their scope, and the dispersal of the research community.",
+  "venue": "IEEE Working Conference on Software Visualization",
+  "year": 2019,
+  "referenceCount": 65,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2019-09-01",
+  "journal": {
+    "name": "2019 Working Conference on Software Visualization (VISSOFT)",
+    "pages": "33-44"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bedu2019ATS,\n author = {Laure Bedu and Olivier Tinh and F\u00e1bio Petrillo},\n booktitle = {IEEE Working Conference on Software Visualization},\n journal = {2019 Working Conference on Software Visualization (VISSOFT)},\n pages = {33-44},\n title = {A Tertiary Systematic Literature Review on Software Visualization},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1414239530",
+      "name": "Laure Bedu"
+    },
+    {
+      "authorId": "1414413237",
+      "name": "Olivier Tinh"
+    },
+    {
+      "authorId": "145400424",
+      "name": "F\u00e1bio Petrillo"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a9882a092fa3f419da669fb2e4b5b63da53fd377",
+      "title": "A systematic literature review of student engagement in software visualization: a theoretical perspective"
+    },
+    {
+      "paperId": "ff7688558e7e8ad8ebf6e54992aa706e74d20c0e",
+      "title": "A systematic literature review of software visualization evaluation"
+    },
+    {
+      "paperId": "35a06cfee4918aefc153f8d963afc08dabf65c3d",
+      "title": "Theoretical Underpinnings of Learner Engagement in Software Visualization System: A Systematic Literature Review Protocol"
+    },
+    {
+      "paperId": "ae6bc53e0a337ee9bdb1270f0e8f24c56731f4b3",
+      "title": "Program comprehension through reverse\u2010engineered sequence diagrams: A systematic review"
+    },
+    {
+      "paperId": "d55a599c1b2013efd8c9a1e2e7d0c3d348033c90",
+      "title": "Visual augmentation of source code editors: A systematic mapping study"
+    },
+    {
+      "paperId": "cb54d401ebcf25aa6815aaff09e63f1260a55706",
+      "title": "A systematic mapping study of information visualization for software product line engineering"
+    },
+    {
+      "paperId": "ff027289a99c3b38383f390ca175d409ee5501c6",
+      "title": "Survey of Software Visualization Systems to Teach Message-Passing Concurrency in Secondary School"
+    },
+    {
+      "paperId": "91eab6b53e66cd7bc4edd752a363e1d11c7ab94c",
+      "title": "Highlights of Practical Applications of Cyber-Physical Multi-Agent Systems"
+    },
+    {
+      "paperId": "0d56d0dfc3f3e841625a7d0be56a955b32b3cac3",
+      "title": "On the pragmatic design of literature studies in software engineering: an experience-based guideline"
+    },
+    {
+      "paperId": "ff09571cef18f930838990454d765c2956f44332",
+      "title": "Software visualization today: systematic literature review"
+    },
+    {
+      "paperId": "92061300061adab381acce59d780780331d8e8b5",
+      "title": "Visualization for Software Product Lines: A Systematic Mapping Study"
+    },
+    {
+      "paperId": "518a29a21239b2c013bd7dbf592bd1c9949ad5a7",
+      "title": "Towards Actionable Visualisation in Software Development"
+    },
+    {
+      "paperId": "bae8d8dc7e18f4373302736b964cfd48c575638e",
+      "title": "Learning principles in program visualizations: A systematic literature review"
+    },
+    {
+      "paperId": "e4f26c1c3d1ed79d781359915f12b3e26acb342a",
+      "title": "Software evolution visualization techniques and methods - a systematic review"
+    },
+    {
+      "paperId": "0e051d099049577e65c1d191ef2356f0df9b0953",
+      "title": "A survey on goal-oriented visualization of clone data"
+    },
+    {
+      "paperId": "2bd576ce574df33c834b6032962cd5ae0be5299f",
+      "title": "Guidelines for conducting systematic mapping studies in software engineering: An update"
+    },
+    {
+      "paperId": "9587608c5179fbdff1792528617ab77b9a795648",
+      "title": "To Enlighten Hidden Facts in The Code: A Review of Software Visualization Metaphors"
+    },
+    {
+      "paperId": "259c8762cb179e2d39ff54ee04a9799e3eacfee2",
+      "title": "Validation of the City Metaphor in Software Visualization"
+    },
+    {
+      "paperId": "a4a164c67e1272b7ca2a2ec31e9b56c784fefc47",
+      "title": "Are visualization tools used in programming education?: by whom, how, why, and why not?"
+    },
+    {
+      "paperId": "423b59b027448f1f1278c7a842598979d0e2dbdf",
+      "title": "Information Visualization for Agile Software Development"
+    },
+    {
+      "paperId": "17b728df2bcb30df432d07d18e6d5bfe73bc7063",
+      "title": "Validation of Software Visualization Tools: A Systematic Mapping Study"
+    },
+    {
+      "paperId": "175ceba4ed0e28221910de91dbac05e9a80a3abc",
+      "title": "A systematic review of software architecture visualization techniques"
+    },
+    {
+      "paperId": "55518bd64f914c22f0be829d5bbe5cc1887a1538",
+      "title": "An information visualization feature model for supporting the selection of software visualizations"
+    },
+    {
+      "paperId": "5a5ba2f233e4d66d290525a53018c1594b486cea",
+      "title": "Software evolution visualization: A systematic mapping study"
+    },
+    {
+      "paperId": "502e805f63d1f055db67c9e04d45402323e12ff8",
+      "title": "A Review of Generic Program Visualization Systems for Introductory Programming Education"
+    },
+    {
+      "paperId": "7f714a6def35b98aa94d1f6a8e0026d4e023ec08",
+      "title": "On the reliability of mapping studies in software engineering"
+    },
+    {
+      "paperId": "80229040005774394ae5b27707fde23bb259b691",
+      "title": "Visualization techniques for application in interactive product configuration"
+    },
+    {
+      "paperId": "4610f73a31700f1e0c204cec92aa5000b090b3eb",
+      "title": "Visualization of the Static Aspects of Software: A Survey"
+    },
+    {
+      "paperId": "31291e8658eba2c25a03875e3d002844b6c90ebc",
+      "title": "Algorithm Visualization: The State of the Field"
+    },
+    {
+      "paperId": "6a5d94ad6790f491dc50e81b8863619e39290157",
+      "title": "Mental imagery and software visualization in high-performance software development teams"
+    },
+    {
+      "paperId": "47ec8bbce427c27a8cdea5422c4ff093534afb7e",
+      "title": "Evaluation of software visualization tools: Lessons learned"
+    },
+    {
+      "paperId": "62f0edeb73caf7acc2f82edf0e93e56c0565039c",
+      "title": "A Survey of Successful Evaluations of Program Visualization and Algorithm Animation Systems"
+    },
+    {
+      "paperId": "aa0dea79c852eda53c2ebb85068f2a7612cb1aa0",
+      "title": "An update to experimental models for validating computer technology"
+    },
+    {
+      "paperId": "42f6fc803b52c395a624284f3a7390e7799d7b0e",
+      "title": "A Systematic Survey of Program Comprehension through Dynamic Analysis"
+    },
+    {
+      "paperId": "80cd9f15a2e6fbfe5d6072d1753be937a2b0332b",
+      "title": "Classifying desirable features of software visualization tools for corrective maintenance"
+    },
+    {
+      "paperId": "064a53675b617aa7d7fccd9248c1eb17fc16b43f",
+      "title": "A Survey Paper on Software Architecture Visualization"
+    },
+    {
+      "paperId": "466664210db83e552301a823cf8b02ab2a43d4b5",
+      "title": "Requirements of Software Visualization Tools: A Literature Survey"
+    },
+    {
+      "paperId": "6d66544346882b9d38e4142ab2dd1f54ae89c67a",
+      "title": "Visualization Techniques for Program Comprehension - A Literature Review"
+    },
+    {
+      "paperId": "f5eaaca66ed6af208a2dd2a6bb86e8e2f5de9c91",
+      "title": "A Framework for Software Architecture Visualisation Assessment"
+    },
+    {
+      "paperId": "3d5805cdba4adc71e874ba58584c61796e51b6da",
+      "title": "The Paradox of Software Visualization"
+    },
+    {
+      "paperId": "a7462f3cfef980fb42d7aa0079ffecd22d0189c2",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": "bfee588886929b4f872af2a4f62d3177a856a656",
+      "title": "On the use of visualization to support awareness of human activities in software development: a survey and a framework"
+    },
+    {
+      "paperId": "7454f744baaf8e08b33b8f63f6ca8488909e1eaf",
+      "title": "Polymetric Views - A Lightweight Visual Approach to Reverse Engineering"
+    },
+    {
+      "paperId": "4758865275b87e4a8aabc7a182b5962a5bfab82a",
+      "title": "Exploring the role of visualization and engagement in computer science education"
+    },
+    {
+      "paperId": "79837a841f1d4b6cedf09b9c287fec0844a85036",
+      "title": "Software visualization in software maintenance, reverse engineering, and re-engineering: a research survey"
+    },
+    {
+      "paperId": "e3c2003d9dea25fb81e7fcf9aee0a3b00494eccf",
+      "title": "Documenting software systems with views III: towards a task-oriented classification of program visualization techniques"
+    },
+    {
+      "paperId": "09ec25b52531e8d92f53f1b97d12bdb2f9433a61",
+      "title": "A task oriented view of software visualization"
+    },
+    {
+      "paperId": "1e1d68d9fba7b2955daf124690a858d376c61a74",
+      "title": "A taxonomy of computer architecture visualizations"
+    },
+    {
+      "paperId": "4f6a3faf3648df03850def7a3bd24023d4b0a27b",
+      "title": "Software visualization tools: survey and analysis"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "c2028470eef59fa923bc8a48af632698064433e8",
+      "title": "A taxonomy of program visualization systems"
+    },
+    {
+      "paperId": "9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+      "title": "A Principled Taxonomy of Software Visualization"
+    },
+    {
+      "paperId": "0a33a800f5a1a591f8a4a61de5e2687b26db18dc",
+      "title": "Comprehension and Recall of Miniature Programs"
+    },
+    {
+      "paperId": "19ff6fd2a9b1e462d2914d6e56b77ffb9c0023e0",
+      "title": "Past, Present, and Future of 3D Software Visualization - A Systematic Literature Analysis"
+    },
+    {
+      "paperId": "69d650790bf1084ecc4108380dc933e9fb7dcdc1",
+      "title": "Visualization and Evolution of Software Architectures"
+    },
+    {
+      "paperId": "6b60dd4cac27ac7b0f28012322146967c2a388ca",
+      "title": "An Overview of 3D Software Visualization"
+    },
+    {
+      "paperId": "57213769ff9ee095c7d0476430d33e7e07fc11be",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": "00b7aa47752f9d8229b7845397cdf1938373a0b5",
+      "title": "Please address correspondence to"
+    },
+    {
+      "paperId": "667fef9a3de1490176c9f3c41ad9320a3b010b6e",
+      "title": "Re View"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Application program maintenance study: Report to our respondents"
+    },
+    {
+      "paperId": null,
+      "title": "First International Symposium on Empirical Software Engineering and Measurement Applying Systematic Reviews to Diverse Study Types: An Experience Report"
+    },
+    {
+      "paperId": null,
+      "title": "E2 - Papers focusing on a unique tool, technique, not broad enough"
+    },
+    {
+      "paperId": null,
+      "title": "E1 - Conference proceedings, e-books, slideshows, or formats different from"
+    },
+    {
+      "paperId": null,
+      "title": "I3 - Studies providing a state of the art, taxonomy, review on SV, or any sub-\ufb01eld"
+    }
+  ]
+}

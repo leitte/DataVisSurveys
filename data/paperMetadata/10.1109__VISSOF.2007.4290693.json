@@ -1,0 +1,366 @@
+{
+  "paperId": "466664210db83e552301a823cf8b02ab2a43d4b5",
+  "externalIds": {
+    "DBLP": "conf/vissoft/KienleM07",
+    "MAG": "2038457881",
+    "DOI": "10.1109/VISSOF.2007.4290693",
+    "CorpusId": 6243322
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/466664210db83e552301a823cf8b02ab2a43d4b5",
+  "title": "Requirements of Software Visualization Tools: A Literature Survey",
+  "abstract": "Our objective is to identify requirements (i.e., quality attributes and functional requirements) for software visualization tools. We especially focus on requirements for research tools that target the domains of visualization for software maintenance, reengineering, and reverse engineering. The requirements are identified with a comprehensive literature survey based on relevant publications in journals, conference proceedings, and theses. The literature survey has identified seven quality attributes (i.e., rendering scalability, information scalability, interoperability, customizability, interactivity, usability, and adoptability) and seven functional requirements (i.e., views, abstraction, search, filters, code proximity, automatic layouts, and undo/history). The identified requirements are useful for researchers in the software visualization field to build and evaluate tools, and to reason about the domain of software visualization.",
+  "venue": "2007 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis",
+  "year": 2007,
+  "referenceCount": 78,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2007-06-24",
+  "journal": {
+    "name": "2007 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis",
+    "pages": "2-9"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kienle2007RequirementsOS,\n author = {H. Kienle and H. M\u00fcller},\n booktitle = {2007 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis},\n journal = {2007 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis},\n pages = {2-9},\n title = {Requirements of Software Visualization Tools: A Literature Survey},\n year = {2007}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2643436",
+      "name": "H. Kienle"
+    },
+    {
+      "authorId": "2151194858",
+      "name": "H. M\u00fcller"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "400cd1e798804ad75b38e23a6d7d702455bf822e",
+      "title": "Comprehensive software understanding with SEXTANT"
+    },
+    {
+      "paperId": "3d5805cdba4adc71e874ba58584c61796e51b6da",
+      "title": "The Paradox of Software Visualization"
+    },
+    {
+      "paperId": "7db47f2501fb079d5e6dfe78728b7fbf2c1525f5",
+      "title": "Incremental maintenance of software artifacts"
+    },
+    {
+      "paperId": "909036a3005204e20f3bd915c263ad9c9a24b53b",
+      "title": "Browsing software architectures with LSEdit"
+    },
+    {
+      "paperId": "815cbdc73b0a697834862cd66c41156ad642e2e5",
+      "title": "Theories, Methods and Tools in Program Comprehension: Past, Present and Future"
+    },
+    {
+      "paperId": "bfee588886929b4f872af2a4f62d3177a856a656",
+      "title": "On the use of visualization to support awareness of human activities in software development: a survey and a framework"
+    },
+    {
+      "paperId": "6ef7dacdde57ba7a00f040933d9db3598a81dbe0",
+      "title": "A survey of trace exploration tools and techniques"
+    },
+    {
+      "paperId": "24e0fe9fd2263bb92d532edb21170c8517fb42b6",
+      "title": "Reuse in reverse engineering"
+    },
+    {
+      "paperId": "8d831a18a3aa0c2efa976c423f6c0b12ca568dce",
+      "title": "Unifying artifacts and activities in a visual tool for distributed software development teams"
+    },
+    {
+      "paperId": "c9382574e6a868fe45aa9cc09d19c0f5fadbd652",
+      "title": "Evidence-based software engineering"
+    },
+    {
+      "paperId": "5b6019abe27cbbef508678479bba1df9b1322b54",
+      "title": "4th international workshop on adoption-centric software engineering"
+    },
+    {
+      "paperId": "db7390ae8daad5e1eb029d1cc1cfc65a6866178b",
+      "title": "Customizing lotus notes to build software engineering tools"
+    },
+    {
+      "paperId": "8973d6abb119d523ae8a4f9cc2f7b62f015312d4",
+      "title": "A survey of external representations employed in object-oriented programming environments"
+    },
+    {
+      "paperId": "7454f744baaf8e08b33b8f63f6ca8488909e1eaf",
+      "title": "Polymetric Views - A Lightweight Visual Approach to Reverse Engineering"
+    },
+    {
+      "paperId": "8bf06d347685389f1f178debdee6dd25858cc775",
+      "title": "EVolve: an open extensible software visualization framework"
+    },
+    {
+      "paperId": "79837a841f1d4b6cedf09b9c287fec0844a85036",
+      "title": "Software visualization in software maintenance, reverse engineering, and re-engineering: a research survey"
+    },
+    {
+      "paperId": "c6e234e41637656ba43762e52e00a0d1072dfbeb",
+      "title": "Semantic grep: regular expressions + relational abstraction"
+    },
+    {
+      "paperId": "510dab209216edfebb077b1b067459c8470bb25c",
+      "title": "Constraining software evolution"
+    },
+    {
+      "paperId": "613619a6b9fda25de521fcde4d74d61adff754b7",
+      "title": "Fused data-centric visualizations for software evolution environments"
+    },
+    {
+      "paperId": "09ec25b52531e8d92f53f1b97d12bdb2f9433a61",
+      "title": "A task oriented view of software visualization"
+    },
+    {
+      "paperId": "463b8e843a86ad44cfe7f433f234b11570b24fd5",
+      "title": "Modeling Object-Oriented Software for Reverse Engineering and Refactoring"
+    },
+    {
+      "paperId": "e76e4c1ef3cbbfbb6f8536662650eb72849986f0",
+      "title": "Displaying dependence graphs: a hierarchical approach"
+    },
+    {
+      "paperId": "65fac06809abea5d8ad02e85b691fec5e6e55f68",
+      "title": "An overview of BLOOM"
+    },
+    {
+      "paperId": "cbcff7bc828abd582da31650b5cda8a817899e42",
+      "title": "Software Visualization for Reverse Engineering"
+    },
+    {
+      "paperId": "8632099344ca16d69ff03e5105ae752d0997dfc7",
+      "title": "Graphs in Software Visualization - Introduction"
+    },
+    {
+      "paperId": "0bb40b460dea7eca56ebae4dd3976ff45302e1f2",
+      "title": "Adoption of reverse engineering tools: a cognitive perspective and methodology"
+    },
+    {
+      "paperId": "4f6a3faf3648df03850def7a3bd24023d4b0a27b",
+      "title": "Software visualization tools: survey and analysis"
+    },
+    {
+      "paperId": "dfe66c8247014272a9b078cd1a87769701b651f2",
+      "title": "G/sup SEE/: a Generic Software Exploration Environment"
+    },
+    {
+      "paperId": "82341f3442fe147278439f2f3b162f2a67ba253c",
+      "title": "Reverse architecting: an industrial experience report"
+    },
+    {
+      "paperId": "53e43479e945ec365fe3527d1096f2a6bf937c5c",
+      "title": "Reverse engineering: a roadmap"
+    },
+    {
+      "paperId": "9be4e3baaa2e3ae20095b7d8c35759790cbc4f15",
+      "title": "Re-targetability in software tools"
+    },
+    {
+      "paperId": "f7df1503695ebe3ca75b5609f8b9a7e72a203979",
+      "title": "A semantic foundation for architectural reengineering and interchange"
+    },
+    {
+      "paperId": "c2d81b95e31ba8eb4454cdf2447366804843efbf",
+      "title": "Customizing a Fisheye View Algorithm to Preserve the Mental Map"
+    },
+    {
+      "paperId": "b892a759a32c0952dd57cdf5cdff0777715a60be",
+      "title": "A basis for evaluation of commercial software"
+    },
+    {
+      "paperId": "4a0524dddd1f194130541788ead7b01f78ee39a8",
+      "title": "Requirements for integrating software architecture and reengineering models: CORUM II"
+    },
+    {
+      "paperId": "5f505b82727e0708ab32aeb1ef8203a793950ec7",
+      "title": "Evaluating architectural extractors"
+    },
+    {
+      "paperId": "ea9d3e92711821e88e54d1b39e404ec08eaffe1c",
+      "title": "An evaluation of reverse engineering tool capabilities"
+    },
+    {
+      "paperId": "7b20c2ef90d26a9174c87fe05d7539fea0d0555b",
+      "title": "An architecture for interoperable program understanding tools"
+    },
+    {
+      "paperId": "20398e8050d8d1b96348210a802f240c1484292f",
+      "title": "A Reverse-Engineering Environment Framework"
+    },
+    {
+      "paperId": "2200d1de052d1b71878c00c5be7d1932a648661d",
+      "title": "How do program understanding tools affect how programmers understand programs?"
+    },
+    {
+      "paperId": "a80a07cb89ee1aaedeb2a5bd1d9090521ad3c0c5",
+      "title": "Coming Attractions in Program Understanding"
+    },
+    {
+      "paperId": "cb7b612ee4ed20b889e4d84855ec5bd44529b5db",
+      "title": "On designing an experiment to evaluate a reverse engineering tool"
+    },
+    {
+      "paperId": "5be44aed3a2037d18cafa55a17f9e25db3472de5",
+      "title": "Tool support for architecture analysis and design"
+    },
+    {
+      "paperId": "f0babf7401ae4a52750411c1f185de84f3b96ca1",
+      "title": "Identification of Dynamic Comprehension Processes During Large Scale Maintenance"
+    },
+    {
+      "paperId": "166f1b479c001905911b9ff5a5a6e5c09078d746",
+      "title": "On inserting program understanding technology into the software change process"
+    },
+    {
+      "paperId": "dd49aa18d79fb673be2c0599fd97c1ea9de706ab",
+      "title": "An Engine for the 3D Visualization of Program Information"
+    },
+    {
+      "paperId": "46f8a8d6e6bd4814ac4b77c610c01c3932597d44",
+      "title": "Requirements for information system reverse engineering support"
+    },
+    {
+      "paperId": "e569f3e62bab58257e2ae2f32d438c47514174c4",
+      "title": "Why looking isn't always seeing: readership skills and graphical programming"
+    },
+    {
+      "paperId": "9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+      "title": "A Principled Taxonomy of Software Visualization"
+    },
+    {
+      "paperId": "cb4141e10463608167c5e353d16101d41879bb66",
+      "title": "A framework for abstract 3D visualization"
+    },
+    {
+      "paperId": "3257cd42b03eba9924267cb7fe4065897bb62206",
+      "title": "From program comprehension to tool requirements for an industrial environment"
+    },
+    {
+      "paperId": "5dea97874bce5c0b05676404d9865aadbec492fb",
+      "title": "Integrated Hypertext and Program Understanding Tools"
+    },
+    {
+      "paperId": "ca8e2e2ca5b01455c6efd5efb819678833e613f2",
+      "title": "Edge: An extendible graph editor"
+    },
+    {
+      "paperId": "4dfc1a0b16f4c8ad44522925d4d730f7f4ab0a40",
+      "title": "An interface description language for graph editors"
+    },
+    {
+      "paperId": "4a6e77716a298650dda87925689eac904119f63b",
+      "title": "Automatic graph drawing and readability of diagrams"
+    },
+    {
+      "paperId": "ef9647e909df5dc363366f91063309dd93609f2d",
+      "title": "Building reverse engineering tools with software components"
+    },
+    {
+      "paperId": null,
+      "title": "Creating software engineering tools that are useable, useful, and actually used"
+    },
+    {
+      "paperId": "5dfbf6d15c47637fa5d62e27f9b26c59fc249ab3",
+      "title": "Using Quality Models in Software Package Selection"
+    },
+    {
+      "paperId": null,
+      "title": "On the challenges of  adopting ROTS software"
+    },
+    {
+      "paperId": null,
+      "title": "Tool adoption: A software developer's perspective"
+    },
+    {
+      "paperId": "a3c6ba4dc3c77e98d664f4264b428d18adc28900",
+      "title": "Assessing the usefulness of the TKSee software exploration tool"
+    },
+    {
+      "paperId": "05edbd1be9a3f75443c26e8bef4d90271180aa1d",
+      "title": "Chapter 4 Graphs in Software Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Designing a  component-based framework for a domain independnet visualization tool"
+    },
+    {
+      "paperId": "69d3f79064b6cdbc8b5e65a7a05cc1725f3c148c",
+      "title": "The Moose Reengineering Environment"
+    },
+    {
+      "paperId": "e536669f342aa447d6dd9d4a93c3be4526a38795",
+      "title": "Exchange format bibliography"
+    },
+    {
+      "paperId": "eb7a00f109def17397e1b2f65429a24b9dca7cf0",
+      "title": "Strategies for Studying Maintenance"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "04385f66d8ed1bab64027e492c1ddec24d92cc44",
+      "title": "Cognitive design elements to support the construction of a mental model during software exploration"
+    },
+    {
+      "paperId": "6bc499fb37fa6430947a77a677e7950d278370e9",
+      "title": "The reverse engineering notebook"
+    },
+    {
+      "paperId": "bbb9a237eb0cb75812d05c2d6428253bb1627a56",
+      "title": "Software architecture in practice"
+    },
+    {
+      "paperId": "202bc19c7c97bb501d3d91d376b716166f803ece",
+      "title": "A cognitive framework for describing and evaluating software exploration tools"
+    },
+    {
+      "paperId": "6e8b76eda989dfd706679a34b34ce54b0fcedbc1",
+      "title": "Structural Redocumentation: A Case Study"
+    },
+    {
+      "paperId": "c9eea33646a4d49fc1e5f555129e2bfea05c4231",
+      "title": "The Graph Visualization System daVinci - A User Interface for Applications"
+    },
+    {
+      "paperId": "aaa044bb9ef6253fb9996ac2f7b1371db29cda33",
+      "title": "Difficulties in integrating multiview development systems"
+    },
+    {
+      "paperId": null,
+      "title": "Edge: An extensible graph editor . Software-Practice and Experience"
+    },
+    {
+      "paperId": "54c19f0584001ddf363fb7c077e5e09f78bed011",
+      "title": "Journal of Software Maintenance and Evolution: Research and Practice Dimensions of Reengineering Environment Infrastructures"
+    },
+    {
+      "paperId": "d93f582d0f1ee6a599d34c9089e5ba16d323997c",
+      "title": "Journal of Software Maintenance and Evolution: Research and Practice Graph-based Tools for Re-engineering"
+    },
+    {
+      "paperId": "5abffe4250a3e35beed96f6eac2f57083c492f0d",
+      "title": "Centrum Voor Wiskunde En Informatica Reportrapport an Object-oriented Design for Graph Visualization an Object-oriented Design for Graph Visualization"
+    }
+  ]
+}

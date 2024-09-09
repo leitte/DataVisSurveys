@@ -1,0 +1,894 @@
+{
+  "paperId": "9226434c818fa94eb3ea0ce7ca7378dc504c4551",
+  "externalIds": {
+    "DBLP": "journals/cgf/FaridulPCSRKT16",
+    "MAG": "2113540472",
+    "DOI": "10.1111/cgf.12671",
+    "CorpusId": 13038481
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/9226434c818fa94eb3ea0ce7ca7378dc504c4551",
+  "title": "Colour Mapping: A Review of Recent Methods, Extensions and Applications",
+  "abstract": "The objective of colour mapping or colour transfer methods is to recolour a given image or video by deriving a mapping between that image and another image serving as a reference. These methods have received considerable attention in recent years, both in academic literature and industrial applications. Methods for recolouring images have often appeared under the labels of colour correction, colour transfer or colour balancing, to name a few, but their goal is always the same: mapping the colours of one image to another. In this paper, we present a comprehensive overview of these methods and offer a classification of current solutions depending not only on their algorithmic formulation but also their range of applications. We also provide a new dataset and a novel evaluation technique called \u2018evaluation by colour mapping roundtrip\u2019. We discuss the relative merit of each class of techniques through examples and show how colour mapping solutions can have been applied to a diverse range of problems.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 205,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-02-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Faridul2016ColourMA,\n author = {H. Faridul and T. Pouli and Christel Chamaret and J. Stauder and E. Reinhard and Dmitry Kuzovkin and A. Tr\u00e9meau},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Colour Mapping: A Review of Recent Methods, Extensions and Applications},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3345327",
+      "name": "H. Faridul"
+    },
+    {
+      "authorId": "1763977",
+      "name": "T. Pouli"
+    },
+    {
+      "authorId": "2765755",
+      "name": "Christel Chamaret"
+    },
+    {
+      "authorId": "144374769",
+      "name": "J. Stauder"
+    },
+    {
+      "authorId": "145020548",
+      "name": "E. Reinhard"
+    },
+    {
+      "authorId": "2737775",
+      "name": "Dmitry Kuzovkin"
+    },
+    {
+      "authorId": "1704567",
+      "name": "A. Tr\u00e9meau"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0aa29099a0afca6a46df4ab6c9db8cd99ccaddc4",
+      "title": "Gaussian Mixture Models"
+    },
+    {
+      "paperId": "78139c3671f809b9d726f81a8e82c2240753c485",
+      "title": "Encyclopedia of Biometrics"
+    },
+    {
+      "paperId": "7b43deee105945eb1951a1435eedd6eed33c2f32",
+      "title": "Descriptor-Based Image Colorization and Regularization"
+    },
+    {
+      "paperId": "ae609f34701f88b38c83c2e1fdb2445c1d7d98ee",
+      "title": "Data-Driven Color Manifolds"
+    },
+    {
+      "paperId": "2611e2502864ace363f6decbaec591a25c8e4544",
+      "title": "Optimal Transportation for Example-Guided Color Transfer"
+    },
+    {
+      "paperId": "9a737bf5e26723615fc3efbe61808b82889ce8cf",
+      "title": "Exemplar-based colorization in RGB color space"
+    },
+    {
+      "paperId": "1dc21b10cec9e891c9b5109d9e8b5e579a2116b4",
+      "title": "Goethe's Theory of Colours: Translated from the German, with Notes"
+    },
+    {
+      "paperId": "a46fc7672f34514dd7d1456e394542c8e836435d",
+      "title": "Illumination and device invariant image stitching"
+    },
+    {
+      "paperId": "4d439e84ce0be39e3b7653116c1d887d95d39437",
+      "title": "Illuminant Aware Gamut\u2010Based Color Transfer"
+    },
+    {
+      "paperId": "b7a6fe351cf30ba67affecd2e35a739bb0a1e993",
+      "title": "A Survey of Color Mapping and its Applications"
+    },
+    {
+      "paperId": "01e4c2a7479e9031c0f694cb816a286c4b346768",
+      "title": "Image Statistics in Visual Computing"
+    },
+    {
+      "paperId": "ffeef5b41728749589de6962fce3aa67afa98e22",
+      "title": "Approximate Cross Channel Color Mapping from Sparse Color Correspondences"
+    },
+    {
+      "paperId": "1fa304d9d9ea80a35bd21e6b6154dff03dd054b7",
+      "title": "A sparse control model for image and video editing"
+    },
+    {
+      "paperId": "c3c18a4cd8f0d7dbc111c0889d883cbf4db7c88e",
+      "title": "Learning and Applying Color Styles From Feature Films"
+    },
+    {
+      "paperId": "df27b03823b99e82fb06db16faed2a6f24366e66",
+      "title": "Combustion Waves on the Point Set Surface"
+    },
+    {
+      "paperId": "fffe1da7d986cd782537118f697f2c3018b6f793",
+      "title": "Manifold alignment based color transfer for multiview image stitching"
+    },
+    {
+      "paperId": "1857b7c8c27e5af03c739ac6a8f142c7f320d75d",
+      "title": "Optimizing color consistency in photo collections"
+    },
+    {
+      "paperId": "88dd14d67acfd542a707f3515bab25268585c8b0",
+      "title": "Example-based video color grading"
+    },
+    {
+      "paperId": "e66ace7910e2d8f8846ab353f7bf6fb3c9a3038d",
+      "title": "Local color transfer between images using dominant colors"
+    },
+    {
+      "paperId": "d91e26f579d7a780a5935e5dfd3aba145c6171f5",
+      "title": "Joint Depth Map and Color Consistency Estimation for Stereo Images with Different Illuminations and Cameras"
+    },
+    {
+      "paperId": "680f8555cb41a4163fbeb25059b6c912e91bb3dd",
+      "title": "Saliency-Guided Consistent Color Harmonization"
+    },
+    {
+      "paperId": "be5e1beb223933b1ac918d2b6b5853b3b0d7479e",
+      "title": "Content\u2010Based Colour Transfer"
+    },
+    {
+      "paperId": "c4f92ac717d8a6ca571f5337a82018a7c47f19dc",
+      "title": "A New In-Camera Imaging Model for Color Computer Vision and Its Application"
+    },
+    {
+      "paperId": "cb56ae6256f5ff8ec1cad88aa4c40ddb700ac0d9",
+      "title": "Image colorization using similar images"
+    },
+    {
+      "paperId": "b61d31ff4fe4383e7511b8b261971e39a357b48d",
+      "title": "Fast and Stable Color Balancing for Images and Augmented Reality"
+    },
+    {
+      "paperId": "ec505b43cc86b2eed24e19c103a0b7dfdfc89d55",
+      "title": "Epitome for Automatic Image Colorization"
+    },
+    {
+      "paperId": "93645da0bb06ad54d6668b07a699d7d27a360ac3",
+      "title": "Qualitative and quantitative comparisons of multispectral night vision colorization techniques"
+    },
+    {
+      "paperId": "e9f206db3019a11133550e437e3662b9b3401e82",
+      "title": "Real-Time Infrared and Visible Image Fusion System and Fusion Image Evaluation"
+    },
+    {
+      "paperId": "ccb40b0930216a540097518f34c0c28f6acb312c",
+      "title": "NoRM: No\u2010Reference Image Quality Metric for Realistic Image Synthesis"
+    },
+    {
+      "paperId": "cbd597e806e6f5fee9fba5e848ae389265677cf5",
+      "title": "3D Material Style Transfer"
+    },
+    {
+      "paperId": "2a958856b81ee6cb52dc877ade3f8c0c26fa105c",
+      "title": "Kernel based color estimation for night vision imagery"
+    },
+    {
+      "paperId": "52ebeff4130db5929679e5dd0935998715f02a83",
+      "title": "A New No-reference Method for Color Image Quality Assessment"
+    },
+    {
+      "paperId": "17b0873bab6b5fe7e3203c22514c2b418524529d",
+      "title": "Progress in color night vision"
+    },
+    {
+      "paperId": "01f1e860cebd587e1651ebf7953265d06263e1da",
+      "title": "Optimization of Sparse Color Correspondences for Color Mapping"
+    },
+    {
+      "paperId": "c2abf60e2378c4934ca233556bfc751c67a1108e",
+      "title": "Investigating human color harmony preferences using unsupervised machine learning"
+    },
+    {
+      "paperId": "b466b8e786be2dc2ffb88298db3e30060ee5e829",
+      "title": "Semantic colorization with internet images"
+    },
+    {
+      "paperId": "12ed7aa240003e79e946222cc3273a7e28ad0d9e",
+      "title": "Experimental Design: From User Studies to Psychophysics"
+    },
+    {
+      "paperId": "abb2572ab50c81ee64df6527fda108831c81a301",
+      "title": "Robust Color Correction for Stereo"
+    },
+    {
+      "paperId": "a570fea8e7c9aba77ea1105a77e421eca5e560c9",
+      "title": "Salient object detection by composition"
+    },
+    {
+      "paperId": "618d9855e9665baa94f85736188a4432d3297594",
+      "title": "Adaptive camera-based color mapping for mixed-reality applications"
+    },
+    {
+      "paperId": "6be65a473a19f9aa3d6a6c87e428ff90d954ed9f",
+      "title": "Augmenting full colour-fused multi-band night vision imagery with synthetic imagery in real-time"
+    },
+    {
+      "paperId": "c802c5f223d294d58600f80f8c83517e9acb5e68",
+      "title": "Non-rigid dense correspondence with applications for image enhancement"
+    },
+    {
+      "paperId": "3aa700c7b1d57e6e3609aa601013d67c1ad0c784",
+      "title": "Tonal stabilization of video"
+    },
+    {
+      "paperId": "b69d13c6a1b848c7f4816a73fbdb1d396a03928c",
+      "title": "HDR-VDP-2: a calibrated visual metric for visibility and quality predictions in all luminance conditions"
+    },
+    {
+      "paperId": "0e6e94055a6c0533b1edd47f3367f80afcb3894a",
+      "title": "Color compatibility from large datasets"
+    },
+    {
+      "paperId": "6324e35287e670a1e723a68554cad0ebda971789",
+      "title": "A Variational Model for Histogram Transfer of Color Images"
+    },
+    {
+      "paperId": "d3b0c0d2958bd1692c96f426e110446328d8248d",
+      "title": "Colour Spaces for Colour Transfer"
+    },
+    {
+      "paperId": "de8c0ebd5adef1d2d0bf43f4d6107dd977e6750e",
+      "title": "A New Method for Color Image Quality Assessment"
+    },
+    {
+      "paperId": "d5078f0495ec51c34f6dabb4d9d0194be9eddd62",
+      "title": "Progressive color transfer for images of arbitrary dynamic range"
+    },
+    {
+      "paperId": "2392620e93d38d5d86fe243db435f0eb21736355",
+      "title": "Histogram-offset-based color correction for multi-view video coding"
+    },
+    {
+      "paperId": "fe2dcdb4c39fd519c7a44bb29a7655237475f91f",
+      "title": "Data-driven image color theme enhancement"
+    },
+    {
+      "paperId": "e19e1be48ad15a25bfaee63d60382083f905cfa3",
+      "title": "Diffusion maps for edge-aware image editing"
+    },
+    {
+      "paperId": "f6afe5d7911a5a26c1dab88ce3206f6f380aed54",
+      "title": "Image composition with color harmonization"
+    },
+    {
+      "paperId": "41765f1f10bf2830c7749d8672eeabcb028381ae",
+      "title": "The Generalized PatchMatch Correspondence Algorithm"
+    },
+    {
+      "paperId": "1225b70178cc3e26119a990c6fb20d46d1542497",
+      "title": "Instant Propagation of Sparse Edits on Images and Videos"
+    },
+    {
+      "paperId": "ce8aebbf53c9e5a8d3864b38a0bf79c2fbde3423",
+      "title": "Fast color correction for multi-view video by modeling spatio-temporal variation"
+    },
+    {
+      "paperId": "1e6bc9d9fd8e834af92eb4b635491a8b3cb51be6",
+      "title": "Iterative colour correction of multicamera systems using corresponding feature points"
+    },
+    {
+      "paperId": "2d27bc174c30444c5d0939defbcda734af824e05",
+      "title": "Performance evaluation of color correction approaches for automatic multi-view image and video stitching"
+    },
+    {
+      "paperId": "3772406abe6960b0bbbf25e1fb56ee3f544fcc9d",
+      "title": "Non-Photorealistic Rendering and the science of art"
+    },
+    {
+      "paperId": "d5d027d0a562fc010a228ea4ea819bf3f345ea61",
+      "title": "Progressive histogram reshaping for creative color transfer and tone reproduction"
+    },
+    {
+      "paperId": "9866b5a822977101deffa4a69b1a44b823b8e830",
+      "title": "Simulating Low-Cost Cameras for Augmented Reality Compositing"
+    },
+    {
+      "paperId": "ac351c56cd3a8ca8ef412e86bda268cef9bb078b",
+      "title": "User\u2010Controllable Color Transfer"
+    },
+    {
+      "paperId": "028021c0717eb46861f07d61fd6edee2d5b871e7",
+      "title": "Fast natural color mapping for night-time imagery"
+    },
+    {
+      "paperId": "0e30b091724854b10b9ccea1600d29a615d7a2b4",
+      "title": "High quality color calibration for multi-camera systems with an omnidirectional color checker"
+    },
+    {
+      "paperId": "120ad99778c848f541d612fb9c7b299be4a6b78c",
+      "title": "An Improved Method for Color Harmonization"
+    },
+    {
+      "paperId": "7fd89d13508e4bba173eaf08f71ba2fa86e3e5ca",
+      "title": "Gradient\u2010Preserving Color Transfer"
+    },
+    {
+      "paperId": "e75652e1fbf55b82a5721484a8454e2fe2d9c1c6",
+      "title": "Image and Video Abstraction by Anisotropic Kuwahara Filtering"
+    },
+    {
+      "paperId": "1dd3bf7b02bb60c789fc442d14fa0be3c785a0c0",
+      "title": "A Robust Algorithm for Color Correction between Two Stereo Images"
+    },
+    {
+      "paperId": "5e9f6ceb6eb8d53dc05eebf866c89fe1ec54d581",
+      "title": "Color Correction Preprocessing for Multiview Video Coding"
+    },
+    {
+      "paperId": "668594460afea2d155faf541456eaaac29adf27b",
+      "title": "Piecewise-consistent color mappings of images acquired under various conditions"
+    },
+    {
+      "paperId": "db047400eea6ed7189bdd6deb76ff6884c70117b",
+      "title": "Automatic colorization of grayscale images using multiple images on the web"
+    },
+    {
+      "paperId": "744293fb92aa3dde3a5001885cf61eb7165eb95b",
+      "title": "PatchMatch: a randomized correspondence algorithm for structural image editing"
+    },
+    {
+      "paperId": "22c5a5c9031f8f1464b9a88eef99e500f744903e",
+      "title": "Selective color transfer with multi-source images"
+    },
+    {
+      "paperId": "3596cc61267bdae97bb1df9b01a8e9a1b8dca450",
+      "title": "Natural Image Statistics - A Probabilistic Approach to Early Computational Vision"
+    },
+    {
+      "paperId": "43937677d52229b4949949cf07c5a873cfdbc6e3",
+      "title": "Structure and Hue Similarity for Color Image Quality Assessment"
+    },
+    {
+      "paperId": "13eadac6d0b1affc1b6af15dd5f7bb0aebefb21f",
+      "title": "Color Harmonization for Videos"
+    },
+    {
+      "paperId": "b10d53d69b9e791feb9877329b7e9ebb7661efe2",
+      "title": "Automatic Image Colorization Via Multimodal Predictions"
+    },
+    {
+      "paperId": "77584fe37d971b45cccf4ce5762704921199e004",
+      "title": "Example\u2010based Multiple Local Color Transfer by Strokes"
+    },
+    {
+      "paperId": "69c865437257dda06aca00e3f77a508912213bcf",
+      "title": "Histogram-Based Prefiltering for Luminance and Chrominance Compensation of Multiview Video"
+    },
+    {
+      "paperId": "067d9e36b6a541e21e6ee4a14580064a399a4aa5",
+      "title": "Finding paths through the world's photos"
+    },
+    {
+      "paperId": "dbde9da5619d17276569f8c992c1fdbe1074a803",
+      "title": "Dynamic range independent image quality assessment"
+    },
+    {
+      "paperId": "c01c6689d633c73c8db74dd3a696c190b1c2863c",
+      "title": "AppProp: all-pairs appearance-space edit propagation"
+    },
+    {
+      "paperId": "c4c49c6adbef0054d9c0273b68c7f70f6dadf435",
+      "title": "Color Imaging: Fundamentals and Applications"
+    },
+    {
+      "paperId": "6c589d87de72920637d746f488d21099a1a55114",
+      "title": "Color correction for multi-view video using energy minimization of view networks"
+    },
+    {
+      "paperId": "43394c18b6648c89f38b290d32c8c0b1efd8a65e",
+      "title": "Motion estimation based color transfer and its application to color video compression"
+    },
+    {
+      "paperId": "10d986726000e7038b21f6b8a856765127b1d593",
+      "title": "Robust Radiometric Calibration and Vignetting Correction"
+    },
+    {
+      "paperId": "6d9f7f8a5b618ccb980754b21f85ae2d7d21f189",
+      "title": "Method for applying daytime colors to nighttime imagery in realtime"
+    },
+    {
+      "paperId": "f63a835a7e356a4a04dd7c0d64ca0e0f043d5d1f",
+      "title": "Image-Based Rendering and Synthesis"
+    },
+    {
+      "paperId": "45540a9c76b6bd3aa8688c7dbfc91b3c1d6f5ee6",
+      "title": "Multiview Video Coding Using View Interpolation and Color Correction"
+    },
+    {
+      "paperId": "5276705d71e3dac961ab5d06b86a7b806cc9af64",
+      "title": "Recovering Surface Layout from an Image"
+    },
+    {
+      "paperId": "1391aaf43a33393706aa4a0b393f01bd55e6dc29",
+      "title": "Color night vision based on color transfer in YUV color space"
+    },
+    {
+      "paperId": "7c2517f714a9015cf1673f9f7d2e024cb2be7230",
+      "title": "Soft Color Segmentation and Its Applications"
+    },
+    {
+      "paperId": "bfd25e5360414e39eedd88c27da22f3d7701bb0b",
+      "title": "Automatic Panoramic Image Stitching using Invariant Features"
+    },
+    {
+      "paperId": "49319a0a2ff1f5aa6bbf2cfd09e2bb724ee22479",
+      "title": "Video watercolorization using bidirectional texture advection"
+    },
+    {
+      "paperId": "787874fedd7384be5b04530bf9334cb58e0c1bd1",
+      "title": "Automated colour grading using colour distribution transfer"
+    },
+    {
+      "paperId": "085385fbe21313efd650968b0c423303f9061943",
+      "title": "Using Photographs to Enhance Videos of a Static Scene"
+    },
+    {
+      "paperId": "cf8a012db6337b19a3ed2a010aeb4cbc1cd0c064",
+      "title": "Colorizing Biomedical Images Based on Color Transfer"
+    },
+    {
+      "paperId": "ff85aa39c86b57e045e045537ac32813522375fd",
+      "title": "Applying daytime colors to night-time imagery with an efficient color transfer method"
+    },
+    {
+      "paperId": "746d5ec819b74c0d59a8be42fc8823235e1bcd75",
+      "title": "Real-time color transfer system for low-light level visible and infrared images in YUV color space"
+    },
+    {
+      "paperId": "82e188187b6e398ddc7ada7ab313e4c6b5917c9f",
+      "title": "A Content-Adaptive Multi-View Video Color Correction Algorithm"
+    },
+    {
+      "paperId": "53fc0415e0d00f9691994a49b8232a1cc2dfad5f",
+      "title": "An efficient PCA-based color transfer method"
+    },
+    {
+      "paperId": "66cd88ad83d937c22d03d4833dc1d1d0346636a5",
+      "title": "Visual and infrared dual-band false color image fusion method motivated by Land\u2019s experiment"
+    },
+    {
+      "paperId": "61d0af20ad1d80a453f87dba8d1f791fbff8c10c",
+      "title": "Example-Based Color Transformation of Image and Video Using Basic Color Categories"
+    },
+    {
+      "paperId": "10fb269f1121e958631e402a99d006d9e20b35ca",
+      "title": "An effective algorithm for image sequence color transfer"
+    },
+    {
+      "paperId": "a31e9d09d90261fc68acffe097df592cfdcb7706",
+      "title": "Photo tourism: exploring photo collections in 3D"
+    },
+    {
+      "paperId": "e9d41f3e7af234b05102148e1ab72d30713cc0e5",
+      "title": "Manga colorization"
+    },
+    {
+      "paperId": "1bf3ad795c2452addc2621664948fd3144c82bb7",
+      "title": "Interactive local adjustment of tonal values"
+    },
+    {
+      "paperId": "24295f6dfa2f2d1b32faf3548f49e86539af1d12",
+      "title": "Color harmonization"
+    },
+    {
+      "paperId": "7e8f44a0298ebfe8020e385a8f3f5d1a239cffdd",
+      "title": "Color transfer in correlated color space"
+    },
+    {
+      "paperId": "9ad3179098eb9ac7f0c81bf89b6bdcde91752880",
+      "title": "SURF: Speeded Up Robust Features"
+    },
+    {
+      "paperId": "1e7312678ea3c3a2da6e9a1a56f16b5ef60cf6d2",
+      "title": "Fast image and video colorization using chrominance blending"
+    },
+    {
+      "paperId": "96ce21f78e9ad84426b5c5540471f55fc054e0c5",
+      "title": "A scene-referred color transfer for pleasant imaging on display"
+    },
+    {
+      "paperId": "9961a1be6390725c728865a79d29a643bfebe7bb",
+      "title": "An adaptive edge detection based colorization algorithm and its applications"
+    },
+    {
+      "paperId": "b1158b6090698e0ada0a5d254f6b774d06bdc492",
+      "title": "Ensuring color consistency across multiple cameras"
+    },
+    {
+      "paperId": "ae89592317675c9c7642a3976c3a064cef736f92",
+      "title": "Geometric context from a single image"
+    },
+    {
+      "paperId": "55f8eeae9077de2ef24c721b9dd8774cd8a2d151",
+      "title": "N-dimensional probability density function transfer and its application to color transfer"
+    },
+    {
+      "paperId": "80bbd7bb367fef9170adfde83378b8631fd6a25e",
+      "title": "Fusion of visible and infrared imagery for night color vision"
+    },
+    {
+      "paperId": "9dd469fb72c8958796250649dcbf0db7b21adb36",
+      "title": "Color transfer based remote sensing image fusion using non-separable wavelet frame transform"
+    },
+    {
+      "paperId": "1cf76473e293e5dc8af0a1bfacae76e96cf48641",
+      "title": "Transfer color to night vision images"
+    },
+    {
+      "paperId": "2669dfa874d87e29a357a286b93068e6874f129b",
+      "title": "New method to quality evaluation for image fusion using gray relational analysis"
+    },
+    {
+      "paperId": "bd7011cebeefb4f20a8a63e046cdadd22cd09635",
+      "title": "Multi-sensor image fusion and its applications"
+    },
+    {
+      "paperId": "165604ea83e9ead134b9f24aba3150a4caec2a8e",
+      "title": "Example-Based Color Stylization of Images"
+    },
+    {
+      "paperId": "40bb05c3f65fbce3d0b3f56a401892ddca164cd0",
+      "title": "Colorization by example"
+    },
+    {
+      "paperId": "6f1d7d584b39b423151488832b98880c6c7391cd",
+      "title": "Local color transfer via probabilistic segmentation by expectation-maximization"
+    },
+    {
+      "paperId": "eb55a884b2bc117480d2c376111ac70d610d83e1",
+      "title": "Color Style Transfer Techniques using Hue, Lightness and Saturation Histogram Matching"
+    },
+    {
+      "paperId": "1359f68b27a966f42740fecdac3cf57ca1af1cdd",
+      "title": "Night vision devices"
+    },
+    {
+      "paperId": "c25d626c3b0713a6a5fd70309168f857afc05e6c",
+      "title": "Predicting visible differences in high dynamic range images: model and its calibration"
+    },
+    {
+      "paperId": "9b80d7498e1197870e72da035c8079a76d3e58a6",
+      "title": "Coloring night-vision imagery with statistical properties of natural colors by using image segmentation and histogram matching"
+    },
+    {
+      "paperId": "91d990d80f339cc771684a1e09f9e5b76b2e360e",
+      "title": "Color histogram specification by histogram warping"
+    },
+    {
+      "paperId": "e1dfff8cff33ede3564a35724632bddc5b8619b1",
+      "title": "A fast and efficient fuzzy color transfer method"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38",
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints"
+    },
+    {
+      "paperId": "c48185ca0c1b1f96a0e9a9d6bb704ac5061a4a74",
+      "title": "Example-based color stylization based on categorical perception"
+    },
+    {
+      "paperId": "bad97714e7b7ca4f8e49dd1fefc05e7d9bea6658",
+      "title": "Colorization using optimization"
+    },
+    {
+      "paperId": "8999529133992a31acee7aa09b01697aa65c9f92",
+      "title": "Interactive Digital Photomontage"
+    },
+    {
+      "paperId": "28077cc8f499bba7036b2a31ebc88a0fd9c9542a",
+      "title": "Unsupervised colorization of black-and-white cartoons"
+    },
+    {
+      "paperId": "98710be7919d015878f7b29d99c588d1358d48a4",
+      "title": "Image and video based painterly animation"
+    },
+    {
+      "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40",
+      "title": "Image quality assessment: from error visibility to structural similarity"
+    },
+    {
+      "paperId": "c8d87b2f7bbca3852dc1baf2bb34055c5c73a7e8",
+      "title": "Mapping colour in image stitching applications"
+    },
+    {
+      "paperId": "04b9371a27e50400c3defa5b9a4918903507fe77",
+      "title": "Image registration with global and local luminance alignment"
+    },
+    {
+      "paperId": "ee0484275d673224579923e217738315baf81736",
+      "title": "Intrinsic spectral blueshifts in rapidly rotating stars"
+    },
+    {
+      "paperId": "6327caf546ef6e47b9b05735cc5ec572733cb756",
+      "title": "Natural colour mapping for multiband nightvision imagery"
+    },
+    {
+      "paperId": "e41ba5dc12c79a64dfa905c0328f95976252ffe0",
+      "title": "The Elements of Statistical Learning"
+    },
+    {
+      "paperId": "7a2a610d4a2cb51364cc5d8b12fa3d1e0436ecd5",
+      "title": "Accurate 3D image colour histogram transformation"
+    },
+    {
+      "paperId": "aab9adeb0f2296be8da3de6fb77f0e96f45c3d2d",
+      "title": "Free Viewpoint Television (FTV)"
+    },
+    {
+      "paperId": "3100e2aee81fe840cb5a7eca38903a0ad0e5d1b7",
+      "title": "Colour correction for panoramic imaging"
+    },
+    {
+      "paperId": "8f8a79e3a8845220efbf0c4d78d0870bb7c51753",
+      "title": "Color design support system considering color harmony"
+    },
+    {
+      "paperId": "d5c6edb53dc41f298f145041cd2c53e40e3acf2b",
+      "title": "Transferring color to greyscale images"
+    },
+    {
+      "paperId": "8da5d20ad02700a764019ebf1c8ccf10191e3243",
+      "title": "Stylization and abstraction of photographs"
+    },
+    {
+      "paperId": "74f4ecc3e4e5b91fbb54330b285ed5214afe2001",
+      "title": "Mean Shift: A Robust Approach Toward Feature Space Analysis"
+    },
+    {
+      "paperId": "d2f78c2b2b325d72f359d4c797c9aab6a8e60942",
+      "title": "A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms"
+    },
+    {
+      "paperId": "442a79321e5f1925ce6de1a7af28e05bf3731314",
+      "title": "Eliminating ghosting and exposure artifacts in image mosaics"
+    },
+    {
+      "paperId": "17e4635f8bf38eaeb411d0752515833d374221b1",
+      "title": "The development of the CIE 2000 Colour Difference Formula"
+    },
+    {
+      "paperId": "f3a11158e9d8bdfdf07dca756335c084fce0123e",
+      "title": "Color Transfer between Images"
+    },
+    {
+      "paperId": "923562d216386a88947d40da310d94bbb1376a41",
+      "title": "Image Analogies"
+    },
+    {
+      "paperId": "bd7d18aee6f43baeda78eea356d2a6497c07c8f7",
+      "title": "Deriving intrinsic images from image sequences"
+    },
+    {
+      "paperId": "c88cced6e6e1edd1180d78ba776df05a664cc33d",
+      "title": "Visual comfort of binocular and 3D displays"
+    },
+    {
+      "paperId": "0e341b2a181f71dea088dbba800e70262f91a79e",
+      "title": "Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition"
+    },
+    {
+      "paperId": "cf6e9ac3e3b887a704516be875ce1f39cd5b7d9e",
+      "title": "Painterly rendering for video and interaction"
+    },
+    {
+      "paperId": "0d98527012fb49a89ab47c395cd5eed3f5edea0b",
+      "title": "Evaluation of Operator Performance Using True Color and Artificial Color in Natural Scene Perception."
+    },
+    {
+      "paperId": "b02f474196fb9bd61fa3d418a7ba8ac500e8d422",
+      "title": "Feature Detection with Automatic Scale Selection"
+    },
+    {
+      "paperId": "78b4f65c167185f18b573433e5f3e8814acf656f",
+      "title": "Statistics of cone responses to natural images: implications for visual coding"
+    },
+    {
+      "paperId": "f835978a33a86219a5e93852b2fe03c8aabba13e",
+      "title": "Painterly rendering with curved brush strokes of multiple sizes"
+    },
+    {
+      "paperId": "fa347eca07935cf836bf4f8d359da9eb642b557b",
+      "title": "Object-Oriented Color Matching by Image Clustering"
+    },
+    {
+      "paperId": "40064ed4de01e9c66a5d827463850816d1f681cc",
+      "title": "Processing images and video for an impressionist effect"
+    },
+    {
+      "paperId": "32abfd9b98468d07657dcfdf29447574a9145637",
+      "title": "Fusion of visible and thermal imagery improves situational awareness"
+    },
+    {
+      "paperId": "ef05b72c9e5b267811d4a069fb1d8038f0e36bbd",
+      "title": "Shape indexing using approximate nearest-neighbour search in high-dimensional spaces"
+    },
+    {
+      "paperId": "b288673205c479d0a019d45f85c2716fe1f85096",
+      "title": "Non-parametric Local Transforms for Computing Visual Correspondence"
+    },
+    {
+      "paperId": "51455c5a87c03aec4cbb5aff78a0ab0ca6505770",
+      "title": "Paint by numbers: abstract image representations"
+    },
+    {
+      "paperId": "84f91e09a4805a3cc0c7b2c4d47736e51c7546da",
+      "title": "Categorical color perception of Japanese observers: Comparison with that of Americans"
+    },
+    {
+      "paperId": "e370db55a0873a5c4ef2421af311c589b668d775",
+      "title": "The Development and Application of Colorization"
+    },
+    {
+      "paperId": "4f37468a95ccc62debb9e5a4cb0d73489ca61190",
+      "title": "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography"
+    },
+    {
+      "paperId": "d36efb9ad91e00faa334b549ce989bfae7e2907a",
+      "title": "Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper"
+    },
+    {
+      "paperId": "a9407584b7641f70bf0882e495ddef561d0ee62b",
+      "title": "Basic Color Terms: Their Universality and Evolution"
+    },
+    {
+      "paperId": "b727d5be34668ee0a3e4d7faa7068513f7ca6d94",
+      "title": "Universals in color naming and memory."
+    },
+    {
+      "paperId": "498f6ae7614fc91b6a9dbd97bd96ed824260f880",
+      "title": "Multi Sensor Image Fusion And Its Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Coloring night-vision imagery with statistical c (cid:2) 2015 The Authors Forum c (cid:2)"
+    },
+    {
+      "paperId": null,
+      "title": "Towards Understanding the Role of Colour Information in Scene Perception Using c (cid:2)"
+    },
+    {
+      "paperId": "27d6d68cbb8d91cc68b67295c6f747ca108ad4e6",
+      "title": "Variational Exemplar-Based Image Colorization"
+    },
+    {
+      "paperId": null,
+      "title": "CUNNINGHAM D"
+    },
+    {
+      "paperId": null,
+      "title": "Probabilistic color-by-numbers: Suggesting pattern colorizations using factor graphs"
+    },
+    {
+      "paperId": "8ba67d675eca237ff4fb96f77b7d365e30c2f963",
+      "title": "Automated Colorization of Segmented Images Based on Color Harmony"
+    },
+    {
+      "paperId": "f43b82e8c5d9f9d27f2d1c49780b563fd20d975e",
+      "title": "Image Statistics and their Applications in Computer Graphics"
+    },
+    {
+      "paperId": "f01779d504492206c09b642f58e789f0875d899d",
+      "title": "Flow-Based Image Abstraction"
+    },
+    {
+      "paperId": "d159d783fff7dd8a116b129ef07359e14231b4fc",
+      "title": "From: Stiles, W"
+    },
+    {
+      "paperId": null,
+      "title": "HOYER P"
+    },
+    {
+      "paperId": null,
+      "title": "JOHNSON G"
+    },
+    {
+      "paperId": "f5a9bcfa6ba95f7f4d6f83e6081edb7f586e6fab",
+      "title": "Colour correction for multiple-camera system by using correspondences"
+    },
+    {
+      "paperId": "7d22396f94fa2ba4306125c9d2e2ba5ed75d2d3f",
+      "title": "Fully automatic coloring of grayscale images"
+    },
+    {
+      "paperId": "34949854f35a4727dd8a70d313ddb6b201dd9c2c",
+      "title": "Colour Transfer by Feature Based Histogram Registration"
+    },
+    {
+      "paperId": "0cbac369890c4567a4771d5212811fe2c6537653",
+      "title": "Fast Colorization Using Edge and Gradient Constrains"
+    },
+    {
+      "paperId": "afda91461b71be17bfbb44f5ca87a3bae44f7e64",
+      "title": "Uniform color transfer"
+    },
+    {
+      "paperId": "80792171f87ff0fa3c4bf9c094315ea147255237",
+      "title": "Automatic Color Calibration for Large Camera Arrays"
+    },
+    {
+      "paperId": null,
+      "title": "LEVOY M"
+    },
+    {
+      "paperId": "89ebe76bb7165af03635f16f7baa441bc291e22c",
+      "title": "Coding Approaches for End-To-End 3D TV Systems"
+    },
+    {
+      "paperId": "a8155dbd1544d9df9dc6b79527957fcc47484b51",
+      "title": "Color Correction Methods with Application to Digital Projection Environments"
+    },
+    {
+      "paperId": "b32d671fe71eb34a056990a0936d07d8cfd117c5",
+      "title": "Real-time color blending of rendered and captured video"
+    },
+    {
+      "paperId": "f5caab10be9730b2283b6abfbfc3fefd14ce8caa",
+      "title": "Model-Based Free-Viewpoint Video Acquisition, Rendering and Encoding"
+    },
+    {
+      "paperId": "4e4504e867e867f8b2bc366b75e036686582e5bf",
+      "title": "Image Recoloring Induced by Palette Color Associations"
+    },
+    {
+      "paperId": "55a3d3231f046db009a5e63af59c42d808af1226",
+      "title": "Practical calibrations for a real-time digital omnidirectional camera"
+    },
+    {
+      "paperId": "9d444a7d485c7e16125883e3b663c8d785bd1e65",
+      "title": "\u00a9 2001 Kluwer Academic Publishers. Printed in the Netherlands. 5 A Primer on Binocular Rivalry, Including Current Controversies"
+    },
+    {
+      "paperId": "4d954ec7f1091cb1d6b18b1b1e656d583e7a1353",
+      "title": "Image Features from Phase Congruency"
+    },
+    {
+      "paperId": "91f5a0ad73890d041dbe34a937be22151000b0b2",
+      "title": "Kunst der Farbe"
+    },
+    {
+      "paperId": null,
+      "title": "EASTLAKE C"
+    },
+    {
+      "paperId": "ad967c33442eba19e8012d1c79efa969a5814839",
+      "title": "Eurographics Symposium on Rendering (2007) Jan Kautz and Sumanta Pattanaik (Editors) Natural Image Colorization"
+    },
+    {
+      "paperId": null,
+      "title": "VeriVide"
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "paperId": "f8f1f34509412edc8e50aa071f52f20431759d33",
+  "externalIds": {
+    "DBLP": "journals/cgf/MwalongoKRE16",
+    "MAG": "2462029449",
+    "DOI": "10.1111/cgf.12929",
+    "CorpusId": 3083222
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/f8f1f34509412edc8e50aa071f52f20431759d33",
+  "title": "State\u2010of\u2010the\u2010Art Report in Web\u2010based Visualization",
+  "abstract": "In this report, we review the current state of the art of web\u2010based visualization applications. Recently, an increasing number of web\u2010based visualization applications have emerged. This is due to the fact that new technologies offered by modern browsers greatly increased the capabilities for visualizations on the web. We first review these technical aspects that are enabling this development. This includes not only improvements for local rendering like WebGL and HTML5, but also infrastructures like grid or cloud computing platforms. Another important factor is the transfer of data between the server and the client. Therefore, we also discuss advances in this field, for example methods to reduce bandwidth requirements like compression and other optimizations such as progressive rendering and streaming. After establishing these technical foundations, we review existing web\u2010based visualization applications and prototypes from various application domains. Furthermore, we propose a classification of these web\u2010based applications based on the technologies and algorithms they employ. Finally, we also discuss promising application areas that would benefit from web\u2010based visualization and assess their feasibility based on the existing approaches.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 181,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Mwalongo2016StateoftheArtRI,\n author = {Finian Mwalongo and M. Krone and G. Reina and T. Ertl},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {State\u2010of\u2010the\u2010Art Report in Web\u2010based Visualization},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3022186",
+      "name": "Finian Mwalongo"
+    },
+    {
+      "authorId": "145564548",
+      "name": "M. Krone"
+    },
+    {
+      "authorId": "145239001",
+      "name": "G. Reina"
+    },
+    {
+      "authorId": "2282476883",
+      "name": "T. Ertl"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2182b5778bfd91df1f0d77a3baf0513b6ccf4036",
+      "title": "Space-time Visualization of Dynamics in Lagrangian Coherent Structures of Time-dependent 2D Vector Fields"
+    },
+    {
+      "paperId": "a0fee5de431ae67e17766a0854b47991063aed92",
+      "title": "Real-time raster projection for web maps"
+    },
+    {
+      "paperId": "dc2c188468f3f041b4ebf2e36089279c8632e4e1",
+      "title": "Visualization of 2D unsteady flow using streamline-based concepts in space-time"
+    },
+    {
+      "paperId": "178f0a4d0ac960c80a83100f1d60eca7759ac473",
+      "title": "Digital Earth and Future Earth"
+    },
+    {
+      "paperId": "7a1c9cb43ad1579ab7daaf5f496da5cf4e452a9d",
+      "title": "cellVIEW: a Tool for Illustrative and Multi-Scale Rendering of Large Biomolecular Datasets"
+    },
+    {
+      "paperId": "44c0ac5ff44796dbfecea9d20534e64a7566d40b",
+      "title": "Interactive dynamical visualization of big data arrays in grid"
+    },
+    {
+      "paperId": "d144b83b890ecc2fe30ce03416e86ddd6678a0c7",
+      "title": "Integrating WebRTC and X3DOM: bridging the gap between communications and graphics"
+    },
+    {
+      "paperId": "a73014c289a80815574c8c47a2297c7b80e0c140",
+      "title": "Fast decompression for web-based view-dependent 3D rendering"
+    },
+    {
+      "paperId": "b3aacefe4edb80b8e654f474a235e4ce8a56003a",
+      "title": "Remote visualization of dynamic molecular data using WebGL"
+    },
+    {
+      "paperId": "7cd5f349b1db5ef966f9e69b91a4ff61d7dab44b",
+      "title": "Preparing and evaluating geospatial data models using X3D encodings for web 3D geovisualization services"
+    },
+    {
+      "paperId": "8f44c8974774de5b05668a3a568c7f8b6ed1e003",
+      "title": "webVis/instant3DHub: visual computing as a service infrastructure to deliver adaptive, secure and scalable user centric data visualisation"
+    },
+    {
+      "paperId": "fd1d3012c881dd9198f7d6b15f63e7a8462ebef6",
+      "title": "The X3D geospatial component: X3DOM implementation of GeoOrigin, GeoLocation, GeoViewpoint, and GeoPositionInterpolator nodes"
+    },
+    {
+      "paperId": "483fc681068f80598c297783fd7f8f8504478b76",
+      "title": "Urban data visualisation in a web browser"
+    },
+    {
+      "paperId": "02043698fc2b63f155d87fe3c0533fe762e20e1d",
+      "title": "Volumetric texture data compression scheme for transmission"
+    },
+    {
+      "paperId": "308a865a2a37cac4d9dcd8d604d56c3fd7d745bd",
+      "title": "A 3D collaborative editor using WebGL and WebRTC"
+    },
+    {
+      "paperId": "6d795a4fb8fafdf8351add801f188c1bb6f85a67",
+      "title": "Visual Analysis of Spatio\u2010Temporal Data: Applications in Weather Forecasting"
+    },
+    {
+      "paperId": "7f1d542b436e423ccac18b7b0dc220b9b9a5418c",
+      "title": "A Survey of Interactive Remote Rendering Systems"
+    },
+    {
+      "paperId": "ee4ec6194f9445e7c9128d88350c900634671afa",
+      "title": "NGL Viewer: a web application for molecular visualization"
+    },
+    {
+      "paperId": "b0b427a45fdc05156d28dd2b28791b656cf6f2ee",
+      "title": "Visual analysis of biological data-knowledge networks"
+    },
+    {
+      "paperId": "f4074fae26ecc38f2e529a54f36fbed50173bfc6",
+      "title": "An updated performance comparison of virtual machines and Linux containers"
+    },
+    {
+      "paperId": "8f310774b3a6f8b0df65094640611fc708c5878b",
+      "title": "A web-based solution for 3D medical image visualization"
+    },
+    {
+      "paperId": "a00ef3691810b8440e874e07dc0b85297ab1bb59",
+      "title": "Viral DNA replication: new insights and discoveries from large scale computational analysis"
+    },
+    {
+      "paperId": "efad3eef23737265360adbe4d18b979ad9478673",
+      "title": "3Dmol.js: molecular visualization with WebGL"
+    },
+    {
+      "paperId": "8863fc0aa86d21bd2f54e22874ec00a2b261374c",
+      "title": "Design and Evaluation of Interactive Proofreading Tools for Connectomics"
+    },
+    {
+      "paperId": "533c433b860a46c03abf932333825a6820c2cf18",
+      "title": "LPM: lightweight progressive meshes towards smooth transmission of Web3D media over internet"
+    },
+    {
+      "paperId": "e7e66691e011a9e91aa8a54146ef61bc8b62f5ab",
+      "title": "PolyChrome: A Cross-Device Framework for Collaborative Web Visualization"
+    },
+    {
+      "paperId": "7777d299e7b4217fc4b80234994b5a68b3031199",
+      "title": "Fixed-Rate Compressed Floating-Point Arrays"
+    },
+    {
+      "paperId": "cd214f2ba9018a436df5aaeeb56163f528b8d3a4",
+      "title": "A Web platform for the interactive visualization and analysis of the 3D fractal dimension of MRI data"
+    },
+    {
+      "paperId": "05c94d469289a45ec021107913727b69d2b00be5",
+      "title": "New Research in Multimedia and Internet Systems - Proceedings of the 9th International Conference MISSI 2014, Wroc\u0142aw, Poland, 17-19 September 2014"
+    },
+    {
+      "paperId": "2b97725fae905b435fff4545c8f3edccbc9d73dc",
+      "title": "Integration of X3D geospatial in a data driven web application"
+    },
+    {
+      "paperId": "842bfa429d943cca1c95cf51086bc595dd5ab0ce",
+      "title": "Enhancing the plant layout design process using X3DOM and a scalable web3D service architecture"
+    },
+    {
+      "paperId": "449061d1ed74650b15ce4fc21fbeb52fc3656753",
+      "title": "Blast: a binary large structured transmission format for the web"
+    },
+    {
+      "paperId": "8cb4842b3875c1b26dd5bb5eb0146fbb5c442b3f",
+      "title": "SRC - a streamable format for generalized web-based 3D data transmission"
+    },
+    {
+      "paperId": "5b4e746d653b6f1a734cfe2f611378c3c3c05b29",
+      "title": "Visualization of molecular structures using state-of-the-art techniques in WebGL"
+    },
+    {
+      "paperId": "4504b39cdbc2eede9813847ce7139f540761f8fc",
+      "title": "Progressive streaming of compressed 3D graphics in a web browser"
+    },
+    {
+      "paperId": "21cef9c24e1b81df01954715375f5a44c03ab3f3",
+      "title": "Web3D Visualization of High Detail and Complex 3D-mesh Caves Models"
+    },
+    {
+      "paperId": "9448b2ffd88e36dadc3a4bb3cb64e2594689fdb7",
+      "title": "A Full GPU Virtualization Solution with Mediated Pass-Through"
+    },
+    {
+      "paperId": "5ead872ad3705ac1cf1b4fc64298b15c85f8b638",
+      "title": "FluidDiagrams: Web-Based Information Visualisation using JavaScript and WebGL"
+    },
+    {
+      "paperId": "b04898eaf36c3aee9d10f51e9bace9a09ce9cf14",
+      "title": "3D graphics on the web: A survey"
+    },
+    {
+      "paperId": "53879d20c75d661125d909a2734d7c0976e9b24d",
+      "title": "RBF Volume Ray Casting on Multicore and Manycore CPUs"
+    },
+    {
+      "paperId": "13fca7f5bfe41747aa57004ea42c146fe8acd337",
+      "title": "Browser-based medical visualization system"
+    },
+    {
+      "paperId": "5e6f91ce74dbdb0fe99642b07639b52561076064",
+      "title": "Online"
+    },
+    {
+      "paperId": "f57b6931fe1e9c73eb1c4ec0863a7ab0f65dd22d",
+      "title": "Web-based 4D visualization of marine geo-data using WebGL"
+    },
+    {
+      "paperId": "16e21e5c888a9cedb74ff89ef04d6fb1a911da25",
+      "title": "GPU virtualization for high performance general purpose computing on the ESX hypervisor"
+    },
+    {
+      "paperId": "875d90d4f66b07f90687b27ab304e04a3f666fc2",
+      "title": "Docker: lightweight Linux containers for consistent development and deployment"
+    },
+    {
+      "paperId": "4ee5598a7ea981df492b0b678bca04cc5dded348",
+      "title": "iview: an interactive WebGL visualizer for protein-ligand complex"
+    },
+    {
+      "paperId": "1542217d221c3638247194345a570a83ce7f03fa",
+      "title": "Cloud-based simulations on Google Exacycle reveal ligand-modulation of GPCR activation pathways"
+    },
+    {
+      "paperId": "1721b72f2708aea261c26e76474d00b573119c04",
+      "title": "ScatterBlogs2: Real-Time Monitoring of Microblog Messages through User-Guided Filtering"
+    },
+    {
+      "paperId": "8576e986dde8495099565893ec5b2338033920c0",
+      "title": "The POP Buffer: Rapid Progressive Clustering by Geometry Quantization"
+    },
+    {
+      "paperId": "64ea279d7c1fe005c475fa968a0b1c9eab9fe006",
+      "title": "RESTful Web APIs"
+    },
+    {
+      "paperId": "53d8f35c599a6bd7e73233c43b26f5ba5bf44661",
+      "title": "Fast, Progressive Loading of Binary-Encoded Declarative-3D Web Content"
+    },
+    {
+      "paperId": "9350d52a9317c45f79ce69a8b0442df4f14f5164",
+      "title": "Cloud gaming: architecture and performance"
+    },
+    {
+      "paperId": "126aed670e0b91b41440aef326bfec59ebda24c3",
+      "title": "Fast delivery of 3D web content: a case study"
+    },
+    {
+      "paperId": "d93d6378596c5a0e7e7cd241718045594c7118af",
+      "title": "Streaming compressed 3D data on the web using JavaScript and WebGL"
+    },
+    {
+      "paperId": "56975ff4d221e3f302686c31a1f805207575eda6",
+      "title": "Web-based visual analysis for high-throughput genomics"
+    },
+    {
+      "paperId": "dc39c68a00e38f2993b450eb01c96e1d032ab850",
+      "title": "imMens: Real\u2010time Visual Querying of Big Data"
+    },
+    {
+      "paperId": "2f0525cb97b2d2411dda4bcd6f052cad49e3f4ac",
+      "title": "How to adapt applications for the Cloud environment"
+    },
+    {
+      "paperId": "ee850df92f3ed2de0c3589b073edc802b3a2fcab",
+      "title": "Cloud Computing: Concepts, Technology & Architecture"
+    },
+    {
+      "paperId": "5f1250bb88bcb7a05a6ffc2289b8064dd10780f7",
+      "title": "SciDB: A Database Management System for Applications with Complex Analytics"
+    },
+    {
+      "paperId": "de25d3b8394e7df23bdd153c2db9473da6c4be3a",
+      "title": "GamingAnywhere: an open cloud gaming system"
+    },
+    {
+      "paperId": "d80ad71fe1b526751bd14e76713b1aa9e4330df7",
+      "title": "Global analyses of Ceratocystis cacaofunesta mitochondria: from genome to proteome"
+    },
+    {
+      "paperId": "9c70d43118407ca1d1336673b999d7e5389bb69c",
+      "title": "Efficient visualization of 3D models by web browser"
+    },
+    {
+      "paperId": "f175686e27d0a5166101b3f0075aeeeefd5f13ba",
+      "title": "On implementation of GPU virtualization using PCI pass-through"
+    },
+    {
+      "paperId": "8d09067b3f10550fc7c65b546d8e27668facd059",
+      "title": "Visualization of Electrostatic Dipoles in Molecular Dynamics of Metal Oxides"
+    },
+    {
+      "paperId": "66865b6edcd99d3b5acdd62a4a60a11e1b935891",
+      "title": "IaaS Cloud Architecture: From Virtualized Datacenters to Federated Cloud Infrastructures"
+    },
+    {
+      "paperId": "9fa0eea8b436b25d335ed0eee16bff7af82d3bc9",
+      "title": "The brewing storm in cloud gaming: A measurement study on cloud to end-user latency"
+    },
+    {
+      "paperId": "f12a1bc61a848130df19b55e59a09085913e2897",
+      "title": "Cloud-Based Desktop Services for Thin Clients"
+    },
+    {
+      "paperId": "1fb4d85ebae0b7daf59456daed7b1143e2df007a",
+      "title": "Protein data bank"
+    },
+    {
+      "paperId": "9186d30dec986bf60852f5b2ead843b4b3603875",
+      "title": "Parallel Surface Reconstruction for Particle\u2010Based Fluids"
+    },
+    {
+      "paperId": "0a634cff26675b06808bacaef590c906f1f177d7",
+      "title": "A web interface for 3D visualization and interactive segmentation of medical images"
+    },
+    {
+      "paperId": "071f8b26afd40ca765149ee37925b3e7cfd6e791",
+      "title": "MEDX3DOM: MEDX3D for X3DOM"
+    },
+    {
+      "paperId": "7d6a5a801549c2e148ab54be51a4a4cb718aae67",
+      "title": "Using images and explicit binary container for efficient and incremental delivery of declarative 3D scenes on the web"
+    },
+    {
+      "paperId": "da1189b994a1880ca509c73ea3423c08ea784617",
+      "title": "High-Performance Volume Rendering on the Ubiquitous WebGL Platform"
+    },
+    {
+      "paperId": "b8c0320c7a0ed15d958a79f9d77d0f7a27ddc8ac",
+      "title": "A System for Query Based Analysis and Visualization"
+    },
+    {
+      "paperId": "3e7450fa47108648091c704a8185df23d4466745",
+      "title": "ScatterBlogs: Geo-spatial document analysis"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "0558e3ed14af7fe68879eaeabcd107f7280f9623",
+      "title": "Measuring the latency of cloud gaming systems"
+    },
+    {
+      "paperId": "7da913f041a2ad5e923f86256c13774029768dbd",
+      "title": "Streakline visualization of the structures in the near wake of a circular cylinder in sinusoidally oscillating flow"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "487b787e6ca2368aff7941c86e39941db83c5087",
+      "title": "The NIST Definition of Cloud Computing"
+    },
+    {
+      "paperId": "275845c0946fdcc02a6177c1f156caea24eca941",
+      "title": "SP 800-145. The NIST Definition of Cloud Computing"
+    },
+    {
+      "paperId": "4f6c2a34cdd5708767aae79951e0761c97fd77e7",
+      "title": "REST: From Research to Practice"
+    },
+    {
+      "paperId": "5a1df60eb027944b04812f2a919295c9b4ea8619",
+      "title": "Interactive visualization of volumetric data with WebGL in real-time"
+    },
+    {
+      "paperId": "7413d690bb6b0e6bd982384af92f87b8ab8a5335",
+      "title": "Dynamic and interactive aspects of X3DOM"
+    },
+    {
+      "paperId": "2552bcb5b518f2d0f883e2647213bc4115f14832",
+      "title": "Remote visualization of large datasets with MIDAS and ParaViewWeb"
+    },
+    {
+      "paperId": "3e375c8d996b8c46c83b9d3f72732d7477e5fd86",
+      "title": "Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center"
+    },
+    {
+      "paperId": "6a7f34970ece556019431dde42daa4982bfcc13d",
+      "title": "The WebSocket Protocol"
+    },
+    {
+      "paperId": "7b6180c7d0264e18309de70ffaaef7afcf707c2b",
+      "title": "Efficient High-Quality Volume Rendering of SPH Data"
+    },
+    {
+      "paperId": "49b52212e91833fc5fad709ee6e14177fed9152f",
+      "title": "REST in Practice - Hypermedia and Systems Architecture"
+    },
+    {
+      "paperId": "d670efa90dd34ab60df4a6b3c6903f04e278a567",
+      "title": "A GPGPU Transparent Virtualization Component for High Performance Computing Clouds"
+    },
+    {
+      "paperId": "ebd342793ee80999119cf163f5774d649fc0c928",
+      "title": "Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences"
+    },
+    {
+      "paperId": "5fc1f08770685506ed3a4dc65507159f2ce05e65",
+      "title": "REST in Practice"
+    },
+    {
+      "paperId": "6ac7c40898812cde4fac75aea25e38ed59533ede",
+      "title": "A scalable architecture for the HTML5/X3D integration model X3DOM"
+    },
+    {
+      "paperId": "e9050975b0da50a49adf910e6ce34e6b4d644a9e",
+      "title": "SpiderGL: a JavaScript 3D graphics library for next-generation WWW"
+    },
+    {
+      "paperId": "b926c54ae168915b3ef189b6d1070eaf3fef1e64",
+      "title": "Visualization methods for molecular studies on the web platform"
+    },
+    {
+      "paperId": "b3c9e90dae4ab6e6817e5c07647397a62217f6fd",
+      "title": "XML3D: interactive 3D graphics for the web"
+    },
+    {
+      "paperId": "03c7355211f80f7e415fdeb544520776a3d4b0d1",
+      "title": "Data warehousing and analytics infrastructure at facebook"
+    },
+    {
+      "paperId": "027a3a5d2612ac8a38b34d1154c96bb8e53febca",
+      "title": "Data transport between visualization web services for medical image analysis"
+    },
+    {
+      "paperId": "bd7b840f63fe51af78bd0657db6d3ffe2009cde3",
+      "title": "RESTful web services: principles, patterns, emerging technologies"
+    },
+    {
+      "paperId": "5deef74e922df23a636a3fd4e33c119247de8d30",
+      "title": "A view of cloud computing"
+    },
+    {
+      "paperId": "bfc4bd2992e88ee53307e5e37fd42f550590efe0",
+      "title": "Peer-to-peer support for low-latency Massively Multiplayer Online Games in the cloud"
+    },
+    {
+      "paperId": "3fb6b971c1019700f299c519868aa70d91d96ffd",
+      "title": "Exploring the Millennium Run - Scalable Rendering of Large-Scale Cosmological Datasets"
+    },
+    {
+      "paperId": "5b9c21826a213857fbfe91f42ee423e0ad0af32b",
+      "title": "High-Performance Cloud Computing: A View of Scientific Applications"
+    },
+    {
+      "paperId": "c60b8b6f6459eabff6ab26fa80a7b16a128bdb79",
+      "title": "X3DOM: a DOM-based HTML5/X3D integration model"
+    },
+    {
+      "paperId": "a9d11c8371a3608aab9996c742e7c12bd3562b25",
+      "title": "The Eucalyptus Open-Source Cloud-Computing System"
+    },
+    {
+      "paperId": "5bd63c0cbe542131cfb1f158899ce365c8e6361f",
+      "title": "Optimized data transfer for time-dependent, GPU-based glyphs"
+    },
+    {
+      "paperId": "b7f78e04efe10c5c5642ead4d9d8f4e615bfd3fe",
+      "title": "GViM: GPU-accelerated virtual machines"
+    },
+    {
+      "paperId": "470d0c66cc08ed77c21345e606eaff80dea9fb18",
+      "title": "A digital archiving system and distributed server-side processing of large datasets"
+    },
+    {
+      "paperId": "da354da489d2a9b13098f5308435c54a42724129",
+      "title": "GPU virtualization on VMware's hosted I/O architecture"
+    },
+    {
+      "paperId": "689c5bc661d54a5a79c0e9141fc69faf2de5a5b3",
+      "title": "A Web Services Architecture for Visualization"
+    },
+    {
+      "paperId": "c50a7f1850d1770fe728b8e42200e463ca669896",
+      "title": "Cloud Computing and Grid Computing 360-Degree Compared"
+    },
+    {
+      "paperId": "ac61b330ba682e14c789d1c4e07abc18be024d3a",
+      "title": "Query-Driven Visualization of Time-Varying Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "b6962a92a5635c35687cdb3cf3b7e3569960d544",
+      "title": "Service-oriented visualization applied to medical data analysis"
+    },
+    {
+      "paperId": "e0ed8f47642c8e1aae2455dd4d842f0fc497d16b",
+      "title": "Restful web services vs. \"big\"' web services: making the right architectural decision"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "064889c07e367261b6c911808db5943fd36506b5",
+      "title": "Studies in Health Technology and Informatics"
+    },
+    {
+      "paperId": "5dbae188ae982e2ad1c82de82657da79ed4a7746",
+      "title": "Globus Toolkit Version 4: Software for Service-Oriented Systems"
+    },
+    {
+      "paperId": "eb9e98e998778d5b5aaa62b3e3cde361012d5605",
+      "title": "Query-driven visualization of large data sets"
+    },
+    {
+      "paperId": "3a31e91357b9fe0f2ba3a62a3e8ec592a9a24427",
+      "title": "Scientific data management in the coming decade"
+    },
+    {
+      "paperId": "e18e26bb29a73453235020991a42aa5f76a60b8b",
+      "title": "Visualization in grid computing environments"
+    },
+    {
+      "paperId": "5be8c2375c383fa7d57af21ab7da40e2e939e466",
+      "title": "Grid-Enabled Visualization with GVK"
+    },
+    {
+      "paperId": "1d67297c03bac2835b9d0c7d999897ae5e6303bf",
+      "title": "The Anatomy of the Grid: Enabling Scalable Virtual Organizations"
+    },
+    {
+      "paperId": "a78474948ac07879d628e25dc012bf75f6f308c1",
+      "title": "Mechanisms of visual attention in the human cortex."
+    },
+    {
+      "paperId": "f54d571e934f8b8005ae74fb5a1db0034469b857",
+      "title": "The Grid 2: Blueprint for a New Computing Infrastructure"
+    },
+    {
+      "paperId": "bd774373346ee9aa0c17208d075a589a516573a8",
+      "title": "Efficient implementation of progressive meshes"
+    },
+    {
+      "paperId": "7b09bcfc1b96ab6dc92571e056c0c0fdb4fd387a",
+      "title": "Visualization over the World Wide Web and its application to environmental data"
+    },
+    {
+      "paperId": "3ef9ee4ae5b1ec44768111162e2942b3664e72a4",
+      "title": "Progressive meshes"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": "9e1abc3e1556f938d45f8ae47e9be01059361df2",
+      "title": "WebGL-Enabled Remote Visualization of Smoothed Particle Hydrodynamics Simulations"
+    },
+    {
+      "paperId": "8d717f344d376de0ced0ab523629b4471cc40771",
+      "title": "Using WebGL as an Interactive Visualization Medium: Our Experience Developing SplatterJs"
+    },
+    {
+      "paperId": null,
+      "title": "NVIDIA GRID: graphics accelerated VDI with the visual performance of a workstation, 2013"
+    },
+    {
+      "paperId": null,
+      "title": "NVIDIA: Shared Virtual GPU (vGPU) Technology"
+    },
+    {
+      "paperId": null,
+      "title": "W3C: HTML Canvas 2D Context"
+    },
+    {
+      "paperId": "46986761273a5c0edb0a0f9885d33921a8a8e88b",
+      "title": "Fast Encoding of Huge 3D Data Sets in Lossless PNG Format"
+    },
+    {
+      "paperId": "734a690e963903f56ee38feb915cd0f1f00ab62d",
+      "title": "Neuroimaging in the Browser using the X Toolkit"
+    },
+    {
+      "paperId": null,
+      "title": "X EN S ERVER"
+    },
+    {
+      "paperId": null,
+      "title": "W3C: HTML5: A vocabulary and associated APIs for HTML and XHTML"
+    },
+    {
+      "paperId": "4dee976011bd6f18b2e2ae82bf1a589e9d5c628e",
+      "title": "RESTful Web Services: Principles, Patterns and Emerging Technologies"
+    },
+    {
+      "paperId": "21b5a39d1aff182916ccd3e792d6d697bf4b3a19",
+      "title": "Splatterplots: Overcoming Overdraw in Scatter Plots"
+    },
+    {
+      "paperId": null,
+      "title": "JSmol: JavaScript-Based Molecular Viewer From Jmol"
+    },
+    {
+      "paperId": "6442f14d36b17b428611bb3130f170d327539698",
+      "title": "Three.js Framework"
+    },
+    {
+      "paperId": "091a2c6854368291a751aac56cd0358bc81419e9",
+      "title": "XML3D - Interactive 3D Graphics for the Web"
+    },
+    {
+      "paperId": "589aad8290edce3395fb3d7dfb0a12e12398640d",
+      "title": "Visualization of Very Large 3 D Volumes on Mobile Devices and WebGL"
+    },
+    {
+      "paperId": "a5f8ab7a4fc0d8686c14beb4a390f285cf1050ff",
+      "title": "On the Finite-Time Scope for Computing Lagrangian Coherent Structures from Lyapunov Exponents"
+    },
+    {
+      "paperId": null,
+      "title": "Cesium - WebGL"
+    },
+    {
+      "paperId": "8d1a06d6beddfc44c861a781c42a6986b8c0a864",
+      "title": "3D mesh viewer using HTML5 technology"
+    },
+    {
+      "paperId": "af2a2ff9ca3696a9a52b1df7e635ef2e37a2b848",
+      "title": "ParaViewWeb : A Web Framework for 3 D Visualization and Data Processing"
+    },
+    {
+      "paperId": "d642c70e93422fde5c0e79349d00e16cb2048e5c",
+      "title": "On the Finite-Time Scope for Computing Lagrangian Coherent Structures from Lyapunov Exponents"
+    },
+    {
+      "paperId": "2d7a3fab7b1193595e49f4f070dbf12dd6d8651f",
+      "title": "Serviceable visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "GRANCE T.: SP 800-145"
+    },
+    {
+      "paperId": "482465eeb1e26121cea85320ede2be43498f64a0",
+      "title": "International Conference on Computational Science , ICCS 2010 Flexible delivery of visualization software and services"
+    },
+    {
+      "paperId": null,
+      "title": "Jmol: an open-source Java viewer for chemical structures in 3D"
+    },
+    {
+      "paperId": "674caad8ee03e0a3e44fa261cf2d5da6a12f189a",
+      "title": "MedX3D: Standards Enabled Desktop Medical 3D"
+    },
+    {
+      "paperId": "2fdaa7ec281df111e042a65889af0d1ff8577657",
+      "title": "Service\u2010oriented approach to collaborative visualization"
+    },
+    {
+      "paperId": "58f7287d9be81ee18dc871a2a0333e5b358457df",
+      "title": "Cloud Computing for parallel Scientific HPC Applications: Feasibility of Running Coupled Atmosphere-"
+    },
+    {
+      "paperId": "0d97064c7ef2e2326c512d149556c364f5c838f8",
+      "title": "X3D: Extensible 3D Graphics for Web Authors"
+    },
+    {
+      "paperId": null,
+      "title": "): An Object-oriented Approach to 3D Graphics. Kitware"
+    },
+    {
+      "paperId": "b55f5e82bc80c4178bf0ad907155e40abf765750",
+      "title": "skML a Markup Language for Distributed Collaborative Visualization"
+    },
+    {
+      "paperId": "58327dc55950918b0de2310f862877f4d1b0ee54",
+      "title": "Visualisation on the Grid: A Web Service Approach"
+    },
+    {
+      "paperId": null,
+      "title": "2970 of Lecture Notes in Computer Science"
+    },
+    {
+      "paperId": "9438aa83eb8218b7e6e3891ad7bc2b388e35bc33",
+      "title": "The Physiology of the Grid An Open Grid Services Architecture for Distributed Systems Integration"
+    },
+    {
+      "paperId": "d855009ee43ec979acbd32b36be372ba05f4123f",
+      "title": "SOAP: Cross Platform Web Services Development Using XML"
+    },
+    {
+      "paperId": "4611c5b9599ad9ce6251ff4675fddf4fb1e30ed8",
+      "title": "Programming Web services with SOAP"
+    },
+    {
+      "paperId": "5a105b583f5873190a5698f207231db3f5071e5d",
+      "title": "Remote 3D Visualization using Image-Streaming Techniques"
+    },
+    {
+      "paperId": "49fc9782483bc311c2bd1b902dfb32bcd99ff2d3",
+      "title": "Architectural Styles and the Design of Network-based Software Architectures\"; Doctoral dissertation"
+    },
+    {
+      "paperId": "8b60ee0b50fd7fc23d1d62128fbe3e4bf10e0bd1",
+      "title": "A Framework for Interactive Hardware Accelerated Remote 3D-Visualization"
+    },
+    {
+      "paperId": "f414d9a3becd606acc18730a51542f3d55e0ad9f",
+      "title": "The GRID: Blueprint for a New Computing Infrastructure"
+    },
+    {
+      "paperId": "548fe25043edbe4539c68550383875466ed0d777",
+      "title": "The Protein Data Bank"
+    },
+    {
+      "paperId": "c29faf282f8f5274336609409367252c06f58c0b",
+      "title": "Texture-based Volume Visualization for Multiple Users on the World Wide Web"
+    },
+    {
+      "paperId": "132d851cac14cf634c4fac03c9f09ca670ad1bc4",
+      "title": "Medical volume rendering over the WWW using VRML and JAVA."
+    },
+    {
+      "paperId": "bcadd90361def32eadfd756b33d3b24bb9fd5dd5",
+      "title": "The visualization toolkit (2nd ed.): an object-oriented approach to 3D graphics"
+    },
+    {
+      "paperId": "5ddace5df1572b89abf99737e896e14b1bcd6c27",
+      "title": "A Prototype for a WWW-based Visualization Service"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: A conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": "f9fc96e85449edbe48734ad94f91e0cfe6e3bd22",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Accelerated Visualization of Dynamic Molecular Surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "pv - WebGL protein viewer"
+    },
+    {
+      "paperId": null,
+      "title": "NVIDIA: NVIDIA GRID PC Streaming Service, 2015"
+    },
+    {
+      "paperId": null,
+      "title": "LZ4 - Extremely Fast Compression"
+    },
+    {
+      "paperId": null,
+      "title": "BabylonJS - 3D engine based on WebGL/Web Audio and JavaScript"
+    },
+    {
+      "paperId": null,
+      "title": "KHRONOS: WebGL 1.0 specification"
+    },
+    {
+      "paperId": null,
+      "title": "W3C: WebRTC 1.0: Real-time Communication Between Browsers"
+    },
+    {
+      "paperId": null,
+      "title": "Typed Array Speci\ufb01cation"
+    }
+  ]
+}

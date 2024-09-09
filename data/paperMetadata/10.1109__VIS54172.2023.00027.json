@@ -1,0 +1,317 @@
+{
+  "paperId": "340be3133f1876157a429c198c932a78ed91ea35",
+  "externalIds": {
+    "DBLP": "conf/visualization/BattleO23",
+    "ArXiv": "2307.06551",
+    "DOI": "10.1109/VIS54172.2023.00027",
+    "CorpusId": 259847546
+  },
+  "publicationVenue": {
+    "id": "c581dc3f-8f95-42b6-9fe8-0bef02dc2ed9",
+    "name": "Visual ..",
+    "type": "conference",
+    "alternate_names": [
+      "Verl\u00e4ssliche Informationssysteme",
+      "VISUAL",
+      "International Conference on Visual Information and Information Systems",
+      "Visual",
+      "Int Conf Vis Inf Inf Syst",
+      "IEEE Vis Conf",
+      "Vis ",
+      "IEEE Visualization Conference",
+      "VIS"
+    ],
+    "issn": "2519-8645",
+    "alternate_issns": [
+      "1576-7868",
+      "2746-6477",
+      "1133-0422"
+    ],
+    "url": "http://www.thinkmind.org/index.php?event=VISUAL&view=event",
+    "alternate_urls": [
+      "https://www.journal.untar.ac.id/index.php/visual",
+      "http://ieeevis.org/year/2021/welcome",
+      "http://lisi.insa-lyon.fr/~laurini/visual/",
+      "http://visual.gi/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/340be3133f1876157a429c198c932a78ed91ea35",
+  "title": "What Exactly is an Insight? A Literature Review",
+  "abstract": "Insights are often considered the ideal outcome of visual analysis sessions. However, there is no single definition of what an insight is. Some scholars define insights as correlations, while others define them as hypotheses or aha moments. This lack of a clear definition can make it difficult to build visualization tools that effectively support insight discovery. In this paper, we contribute a comprehensive literature review that maps the landscape of existing insight definitions. We summarize key themes regarding how insight is defined, with the goal of helping readers identify which definitions of insight align closely with their research and tool development goals. Based on our review, we also suggest interesting research directions, such as synthesizing a unified formalism for insight and connecting theories of insight to other critical concepts in visualization research.",
+  "venue": "Visual ..",
+  "year": 2023,
+  "referenceCount": 58,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2307.06551",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-07-13",
+  "journal": {
+    "name": "2023 IEEE Visualization and Visual Analytics (VIS)",
+    "pages": "91-95"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Battle2023WhatEI,\n author = {L. Battle and Alvitta Ottley},\n booktitle = {Visual ..},\n journal = {2023 IEEE Visualization and Visual Analytics (VIS)},\n pages = {91-95},\n title = {What Exactly is an Insight? A Literature Review},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2230578",
+      "name": "L. Battle"
+    },
+    {
+      "authorId": "2149059",
+      "name": "Alvitta Ottley"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d4a313494333f759a1af1a59cc736bba2e9e2a34",
+      "title": "A Grammar\u2010Based Approach for Applying Visualization Taxonomies to Interaction Logs"
+    },
+    {
+      "paperId": "a59c95774ceb1753076d73952b17f566d56a967c",
+      "title": "An Evaluation-Focused Framework for Visualization Recommendation Algorithms"
+    },
+    {
+      "paperId": "e21447d542b08f26aa4c7e0954b9a55b3a54e97a",
+      "title": "Survey on the Analysis of User Interactions and Visualization Provenance"
+    },
+    {
+      "paperId": "c5231a723acacd09d61590711deb07f8527a7fad",
+      "title": "Characterizing the Quality of Insight by Interactions: A Case Study"
+    },
+    {
+      "paperId": "ceb03a229088540a3512d2c77ec193d4c754cb76",
+      "title": "ggplot2"
+    },
+    {
+      "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+      "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+    },
+    {
+      "paperId": "e64bcef159629e960a29aa6e89f3003aa9b953fa",
+      "title": "InsideInsights: Integrating Data\u2010Driven Reporting in Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "0416ef91e40d444a0bb6c79acaa6a23a3a38082c",
+      "title": "Towards a Unified Representation of Insight in Human-in-the-Loop Analytics: A User Study"
+    },
+    {
+      "paperId": "a979f050861b341c3bf4eb7be12d5ee0d87b44d0",
+      "title": "Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "bc20a69c20b5c2cb69d908f9a788158abc2b7290",
+      "title": "Beagle: Automated Extraction and Interpretation of Visualizations from the Web"
+    },
+    {
+      "paperId": "d5ffdc4ef467f3e058c171337ef78b13d8cd33f5",
+      "title": "How Progressive Visualizations Affect Exploratory Analysis"
+    },
+    {
+      "paperId": "2d1ab0911fe6db7b8b2bdc77d6b4213d21ef1521",
+      "title": "Foresight: Recommending Visual Insights"
+    },
+    {
+      "paperId": "e57bf28b32346e3e97da0bab925b5c831dcb3b30",
+      "title": "Controlling False Discoveries During Interactive Data Exploration"
+    },
+    {
+      "paperId": "1a44d0c0527d129f07caad29a038b269e1ba5acc",
+      "title": "Task Cube: A three-dimensional conceptual space of user tasks in visualization design and evaluation"
+    },
+    {
+      "paperId": "661c6e68b21e805453f69b5e5533be6451970150",
+      "title": "A Grounded Theory Study on the Language of Data Visualization Principles and Guidelines"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "54553b25297220a89536c1da9f6e92ead79aed69",
+      "title": "Characterizing Visualization Insights from Quantified Selfers' Personal Data Presentations"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "a52e3ca91f12c7144b23954bda615c78d6c78192",
+      "title": "An insight- and task-based methodology for evaluating spatiotemporal visual analytics"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "c9bb54273deed29a285c571c6db73f51327c1f54",
+      "title": "Examining the Use of a Visual Analytics System for Sensemaking Tasks: Case Studies with Domain Experts"
+    },
+    {
+      "paperId": "556874d339b329dc7fe22ebc4e2548402998314e",
+      "title": "A comparison of benchmark task and insight evaluation methods for information visualization"
+    },
+    {
+      "paperId": "9c2ff7c4992240c56afec5e24eaa7be12597052e",
+      "title": "CommentSpace: structured support for collaborative visual analysis"
+    },
+    {
+      "paperId": "5082ba362b83821dd663de2d15eed205f46982b9",
+      "title": "Connecting the dots in visual analysis"
+    },
+    {
+      "paperId": "591eaf6a53f97161887d0422a04d5cea7c241569",
+      "title": "To Score or Not to Score? Tripling Insights for Participatory Design"
+    },
+    {
+      "paperId": "2b309cf37cc7aeb570963bba82f545112905d60f",
+      "title": "Recovering Reasoning Processes from User Interactions"
+    },
+    {
+      "paperId": "d2c402db33ae1ac29ddf56ac46cfcc6edfc0abb6",
+      "title": "Toward effective insight management in visual analytics systems"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "141eb9bf9d2bca3498a500590bfabfebb8f78ff8",
+      "title": "Visual analytics for complex concepts using a human cognition model"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "024144dfe9faacd35cf9f082766b732acda16de1",
+      "title": "Understanding and characterizing insights: how do people gain insights using information visualization?"
+    },
+    {
+      "paperId": "48a165c4b0fd4081c338ac990612d7fa30304f7f",
+      "title": "Creativity support tools: accelerating discovery and innovation"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "ae2fe393bab3f112b4144315bface65083f51927",
+      "title": "Recommendations"
+    },
+    {
+      "paperId": "12b5b00c293ce9e4c4458046f1f178ef858c7c35",
+      "title": "Interactive Visual Synthesis of Analytic Knowledge"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "8052004002830d2406fd045e7c4566a368fe7f67",
+      "title": "Inventing Discovery Tools: Combining Information Visualization with Data Mining1"
+    },
+    {
+      "paperId": null,
+      "title": "A programmatic definition of visualization insights"
+    },
+    {
+      "paperId": "031b4611d3f56fa2e6704ba7f1a57be9a9a9a235",
+      "title": "Bridging from Goals to Tasks with Design Study Analysis Reports"
+    },
+    {
+      "paperId": "0519b00016f7765ef1028fcf2181cb6fb226a0cf",
+      "title": "Creative problem solving in digital space using visual analytics"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Promoting Insight-Based Evaluation of Visualizations: From Contest to Benchmark Repository"
+    },
+    {
+      "paperId": "79aa748e48e8a1d1de3f9eb7cbb81ca50ecad87f",
+      "title": "A Relational Model of Data Large Shared Data Banks"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    }
+  ]
+}

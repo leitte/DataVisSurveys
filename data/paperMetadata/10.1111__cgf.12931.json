@@ -1,0 +1,590 @@
+{
+  "paperId": "a1bed5a7d137d41538f57562b6d14dbd8e9af2d0",
+  "externalIds": {
+    "DBLP": "journals/cgf/KoCAYCMBJRE16",
+    "MAG": "2417648990",
+    "DOI": "10.1111/cgf.12931",
+    "CorpusId": 12597448
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a1bed5a7d137d41538f57562b6d14dbd8e9af2d0",
+  "title": "A Survey on Visual Analysis Approaches for Financial Data",
+  "abstract": "Market participants and businesses have made tremendous efforts to make the best decisions in a timely manner under varying economic and business circumstances. As such, decision\u2010making processes based on Financial data have been a popular topic in industries. However, analyzing Financial data is a non\u2010trivial task due to large volume, diversity and complexity, and this has led to rapid research and development of visualizations and visual analytics systems for Financial data exploration. Often, the development of such systems requires researchers to collaborate with Financial domain experts to better extract requirements and challenges in their tasks. Work to systematically study and gather the task requirements and to acquire an overview of existing visualizations and visual analytics systems that have been applied in Financial domains with respect to real\u2010world data sets has not been completed. To this end, we perform a comprehensive survey of visualizations and visual analytics. In this work, we categorize Financial systems in terms of data sources, applied automated techniques, visualization techniques, interaction, and evaluation methods. For the categorization and characterization, we utilize existing taxonomies of visualization and interaction. In addition, we present task requirements extracted from interviews with domain experts in order to help researchers design better systems with detailed goals.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 125,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ko2016ASO,\n author = {Sungahn Ko and Isaac Cho and S. Afzal and Calvin Yau and Junghoon Chae and A. Malik and Kaethe Beck and Yun Jang and W. Ribarsky and D. Ebert},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey on Visual Analysis Approaches for Financial Data},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "39324835",
+      "name": "Sungahn Ko"
+    },
+    {
+      "authorId": "2374697",
+      "name": "Isaac Cho"
+    },
+    {
+      "authorId": "2194062",
+      "name": "S. Afzal"
+    },
+    {
+      "authorId": "46250660",
+      "name": "Calvin Yau"
+    },
+    {
+      "authorId": "2678057",
+      "name": "Junghoon Chae"
+    },
+    {
+      "authorId": "2599852",
+      "name": "A. Malik"
+    },
+    {
+      "authorId": "2208393582",
+      "name": "Kaethe Beck"
+    },
+    {
+      "authorId": "144844038",
+      "name": "Yun Jang"
+    },
+    {
+      "authorId": "49907592",
+      "name": "W. Ribarsky"
+    },
+    {
+      "authorId": "33449182",
+      "name": "D. Ebert"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a132044c69c28e6c54db450f911b7c54320fb686",
+      "title": "Integrated visual analysis of patterns in time series and text data - Workflow and application to financial data analysis"
+    },
+    {
+      "paperId": "e83e4207a5cf6288c960acdf21bf41d1090f7c56",
+      "title": "Visualizing large-scale structure of a million-firms economic network"
+    },
+    {
+      "paperId": "6be907f96e046f89824a7ff775d47e86efb97b6b",
+      "title": "The Application of Visual Analytics to Financial Stability Monitoring"
+    },
+    {
+      "paperId": "847b5bd2c576e4257f0c88f7e7a334f1449144f6",
+      "title": "Data and dimension reduction for visual financial performance analysis"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "1c5bd76e2dc063fb1403f6c00b989aa608283bf7",
+      "title": "Using Visual Analytics to Enhance Data Exploration and Knowledge Discovery in Financial Systemic Risk Analysis: The Multivariate Density Estimator"
+    },
+    {
+      "paperId": "83ffc9892e4e49da7f5291addeba0cda4be6ecc5",
+      "title": "An Economist's Guide to Visualizing Data"
+    },
+    {
+      "paperId": "355b628d4b123b3a7d5df8bf5b0ad67bb22a1b20",
+      "title": "Financial Visualization Case Study: Correlating Financial Timeseries and Discrete Events to Support Investment Decisions"
+    },
+    {
+      "paperId": "5276ad59e54e4936bf98c0f3bd43bd3e384a05fb",
+      "title": "Technical Analysis of Stock Trends"
+    },
+    {
+      "paperId": "c9d8cbb3346bf775e778c69e5d54362b3ad20a3b",
+      "title": "RiskVA: A visual analytics system for consumer credit risk analysis"
+    },
+    {
+      "paperId": "4b960691049550beeb247108cc89d801274e4b69",
+      "title": "Sphere-based Information Visualization: Challenges and Benefits"
+    },
+    {
+      "paperId": "635b9e0b519898d691172e6fb81225c3b90e2508",
+      "title": "MarketAnalyzer: An Interactive Visual Analytics System for Analyzing Competitive Advantage Using Point of Sale Data"
+    },
+    {
+      "paperId": "9bd986af20623ce74722e7d59a7df8a3b1bef69d",
+      "title": "Twitter Mood as a Stock Market Predictor"
+    },
+    {
+      "paperId": "9fe8d3060bfeb24b48816291d925a0ef9881c4f9",
+      "title": "Visual signatures for financial time series"
+    },
+    {
+      "paperId": "2c78d4b219b464b5dc075ed7464f22fdbac35734",
+      "title": "Fuzzy Clustering of the Self-Organizing Map: Some Applications on Financial Time Series"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "d3e7018cab162e17c16432a145e6793ecba4d6c3",
+      "title": "Sovereign debt monitor: A visual Self-organizing maps approach"
+    },
+    {
+      "paperId": "64455a166143c76c2af4c4b3d219742b681b1ea3",
+      "title": "An Experimental Study of Financial Portfolio Selection with Visual Analytics for Decision Support"
+    },
+    {
+      "paperId": "3373535433a2d54bd2a547abd8baaa431f7d3e43",
+      "title": "Visual market sector analysis for financial time series data"
+    },
+    {
+      "paperId": "594933289c704a148c4e0189e6f0b3bc1a225c07",
+      "title": "Money's eyes: the visual preparation of financial markets"
+    },
+    {
+      "paperId": "e498784edf2c02fe0b228479f88120f08b381cb6",
+      "title": "Twitter mood predicts the stock market"
+    },
+    {
+      "paperId": "771139c7dd67ad807232d4c2437dd51317305832",
+      "title": "A visual analytics system for financial time-series data"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "b0a7653daa5206316ff0b08d551fb0b3365b947e",
+      "title": "Tile-based parallel coordinates and its application in financial visualization"
+    },
+    {
+      "paperId": "b3754b67f12a9f0fdeb440f45df70454773ad636",
+      "title": "FinVis: Applied visual analytics for personal financial planning"
+    },
+    {
+      "paperId": "66445dc8b0a182b79809d507e69f036a61aab1fc",
+      "title": "Visual analysis of graphs with multiple connected components"
+    },
+    {
+      "paperId": "27acb73bb44dde512042bbe72e0cfa5e6d528afd",
+      "title": "A Visualization Approach for Frauds Detection in Financial Market"
+    },
+    {
+      "paperId": "834d3def447312d5b3eec272c43d0afd1467a62c",
+      "title": "Visual Analysis of Mutual Fund Performance"
+    },
+    {
+      "paperId": "126a44d403ee68b52e557d0349b6ace0314e935e",
+      "title": "Evaluating the relationship between user interaction and financial visual analysis"
+    },
+    {
+      "paperId": "a5c1d8e0be7a9fdad7334dbcb5bbdc68200bbb01",
+      "title": "Particle-based Sampling and Meshing of Surfaces in Multimaterial Volumes"
+    },
+    {
+      "paperId": "821e1213cb29a6745cd56542828a4194fbea1ee3",
+      "title": "Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation"
+    },
+    {
+      "paperId": "869924f0a7cd8c0dcde737e897430b901885a60a",
+      "title": "Visualizing Time-Dependent Data in Multivariate Hierarchic Plots - Design and Evaluation of an Economic Application"
+    },
+    {
+      "paperId": "9c789a2e47447e34a7d05d72dce2fa71da1cd963",
+      "title": "Visual Analytics on the Financial Market: Pixel-based Analysis and Comparison of Long-Term Investments"
+    },
+    {
+      "paperId": "8fc6159f672e3530d5c6fbc9d3bcbde77ffc3f5c",
+      "title": "Visualization of Financial Trends Using Chance Discovery Methods"
+    },
+    {
+      "paperId": "3e0313bb3d1ad90dda65ae255edb0898de1bd7b4",
+      "title": "Visual analysis and exploration of complex corporate shareholder networks"
+    },
+    {
+      "paperId": "1621102af68d93b8c43a9db409fdec0ccb0abb12",
+      "title": "Trajectory-based visual analysis of large financial time series data"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "a70f7e571ece7f667ed7223e61a70deff802c462",
+      "title": "WireVis: Visualization of Categorical, Time-Varying Data From Financial Transactions"
+    },
+    {
+      "paperId": "a194363c0b5b6954a19ea2441ae45920873f1bb4",
+      "title": "Visual Exploration and Discovery of Atypical Behavior in Financial Time Series Data using Two-Dimensional Colormaps"
+    },
+    {
+      "paperId": "4d137ff9be7e5749ed1c5bc515ece2e733a2e72a",
+      "title": "Applying Animation to the Visual Analysis of Financial Time-Dependent Data"
+    },
+    {
+      "paperId": "46b147dd915a56234d8e9d637640740561ddb94f",
+      "title": "Visual analytics for model-based policy analysis: exploring rapid changes in commodities markets"
+    },
+    {
+      "paperId": "0b0c2d2f8d7af3024e6aabe50c2c7f04f5442ede",
+      "title": "Force-Directed Methods for Generic Placement"
+    },
+    {
+      "paperId": "3e699cf091d75dc64ea4278a56d71859a163924b",
+      "title": "Task-at-hand interface for change detection in stock market data"
+    },
+    {
+      "paperId": "75e1bf2c5d4b7bdffc002290262c2a12d3995e90",
+      "title": "Regular TreeMap layouts for visual analysis of hierarchical data"
+    },
+    {
+      "paperId": "20faa2ef4bb4e84b1d68750cda28d0a45fb16075",
+      "title": "Clustering of time series data - a survey"
+    },
+    {
+      "paperId": "881432678bdd51fe8887ca1fb29736cf313a316f",
+      "title": "Importance-driven visualization layouts for large time series data"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "f12a6c03a7925653d191b96575a7dbce4fd590c9",
+      "title": "Interactive visualization of high dimensional marketing data in the financial industry"
+    },
+    {
+      "paperId": "c7a3a52375c8aa222ed4b4d12eee823f9a7d1a8a",
+      "title": "Visualising Changes in Fund Manager Holdings in Two and a Half-Dimensions"
+    },
+    {
+      "paperId": "aea3e7f04289a619f63927cd6764327b36b6326f",
+      "title": "Matrix Zoom: A Visual Interface to Semi-External Graphs"
+    },
+    {
+      "paperId": "a085d0cae21f2ebf58ff75af73c7566b5d955c3f",
+      "title": "Finding trading patterns in stock market data"
+    },
+    {
+      "paperId": "b1b9938681f5490adbdc0bbb86ca3238632d5dd8",
+      "title": "Using MoneyTree to represent financial data"
+    },
+    {
+      "paperId": "a8b0972a6f98d26f7cc1d03bb7a12a60795399b0",
+      "title": "FundExplorer: supporting the diversification of mutual fund portfolios using context treemaps"
+    },
+    {
+      "paperId": "6e85b92eb6afecf4e5ca9473e9ecc8f7d5153bc6",
+      "title": "Bimodal visualisation: a financial trading case study"
+    },
+    {
+      "paperId": "636d5c1cb65b1ae6da1cdae1964745614f457ffc",
+      "title": "Visualising a fund manager flow graph with columns and worms"
+    },
+    {
+      "paperId": "8969e4f93d50098b09f5bc21b42d30838883b245",
+      "title": "Applied Multivariate Data Analysis"
+    },
+    {
+      "paperId": "c688294e3460ab178a34165753de5a24e8adfda3",
+      "title": "Emerging trends in business analytics"
+    },
+    {
+      "paperId": "21e34174748ff8ed2186603b784b3eeb8125b12f",
+      "title": "E-R modeling and visualization of large mutual fund data"
+    },
+    {
+      "paperId": "fdccde9d4fae5f126b4acd7239fc43e948041a66",
+      "title": "Pixel bar charts: a new technique for visualizing large multi-attribute data sets without aggregation"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "bb2e4b886b5e295238912406c62479e649f8d076",
+      "title": "Visualizing time-varying correlations across stock markets"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "2ddc0966c51ab538c514bc67c9198458a0a18dab",
+      "title": "An interactive framework for visualizing foreign currency exchange options"
+    },
+    {
+      "paperId": "38595b3b57a341dae1c1bfa846669cf5a90df8aa",
+      "title": "Visualizing the stock market"
+    },
+    {
+      "paperId": "e854885e41b6754177d0892129a8215b7e467c23",
+      "title": "Modern Multidimensional Scaling: Theory and Applications"
+    },
+    {
+      "paperId": "00234901de8a4db6ebb08681e01abb7d92ac9ba3",
+      "title": "Visual Explorations in Finance"
+    },
+    {
+      "paperId": "d90f00a1997c2e4fc3400465acfa91beb22e5ccc",
+      "title": "The NASD Regulation Advanced-Detection System (ADS)"
+    },
+    {
+      "paperId": "1c725da81c5720d066fa65ea180eb5164ffe7927",
+      "title": "Visualizing information on a sphere"
+    },
+    {
+      "paperId": "84bf6b8f2ec64be531f7161c17033b1cf42d806f",
+      "title": "Domesticating Bead: adapting an information visualization system to a financial institution"
+    },
+    {
+      "paperId": "45b2e6578bea5d34b83868a812e235791e5e0392",
+      "title": "Visualizing Informationon a Sphere"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "0cb2527ce53fa7b472413940f3b4c71867d7e198",
+      "title": "Competitive Intelligence: How to Gather Analyze and Use Information to Move Your Business to the Top"
+    },
+    {
+      "paperId": "aedadee34d4375febc924023e658ad0cac2f07e3",
+      "title": "Financial Viewpoints: using point-of-view to enable understanding of information"
+    },
+    {
+      "paperId": "5c7465bc2d319f4ce965bf23a923d5c1c6c35b65",
+      "title": "Applied Multivariate Data Analysis."
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "03c4edfb06cfa0b1d58db18e40d3931196cda750",
+      "title": "The self-organizing map"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "c6dc094fe1aec8883b238b5414af7c1f96b0b6de",
+      "title": "Technical Analysis of the Futures Markets: A Comprehensive Guide to Trading Methods and Applications"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "c6688c195b3f30267f4a832605e4d8904de9bd64",
+      "title": "Principles Of Gestalt Psychology"
+    },
+    {
+      "paperId": null,
+      "title": "A visualization c (cid:13) 2016TheAuthor(s) ComputerGraphicsForum c (cid:13)"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "13415197345fba3f11683ac9f860becabfa78123",
+      "title": "Financevis . netA Visual Survey of Financial Data Visualizations"
+    },
+    {
+      "paperId": "5905c4755010385ead79459500aaad2129faaae8",
+      "title": "Clustering and visualization of bankruptcy trajectory using self-organizing map"
+    },
+    {
+      "paperId": "6d5008486cdbfb31ac2a5a2c571e804c3ed895c1",
+      "title": "Big data : evolution, components, challenges and opportunities"
+    },
+    {
+      "paperId": "4ecc55e1c3ff1cee41f21e5b0a3b22c58d04c9d6",
+      "title": "Stock Prediction Using Twitter Sentiment Analysis"
+    },
+    {
+      "paperId": "cadb4952f03d328c0e780b6e1ec204a0188ea7e8",
+      "title": "A Novel Explorative Visualization Tool for Financial Time Series Data Analysis"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "bb53bf2f2699efa160b09ba6ae3b863beae28174",
+      "title": "E-business Ecosystem and its Evolutionary Path: The Case of the Alibaba Group in China"
+    },
+    {
+      "paperId": "6a15c57a98654d70132c2a4cc388a0abc7838378",
+      "title": "Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Financial markets in motion: Visualising stock price and news interactions during the 2008 global financial crisis"
+    },
+    {
+      "paperId": null,
+      "title": "KEIM D"
+    },
+    {
+      "paperId": "e62776c62bc35ee9b5a645f8503f92a1b1683e30",
+      "title": "StockViz: Analyzing the Trend of Stocks in Major Auto, Oil, Consumer, and Technology Companies"
+    },
+    {
+      "paperId": "9491eb56c3a7743e34d6c705bf0fafa36fa80275",
+      "title": "Enhancing Business Intelligence Quality with Visualization: An Experiment on Stakeholder Network Analysis"
+    },
+    {
+      "paperId": "9c5f37b31a9e271722baf008b9a6b440ecbfa119",
+      "title": "NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change"
+    },
+    {
+      "paperId": null,
+      "title": "Multidimensional Data Visualization Techniques for Financial Performance Data: A Review"
+    },
+    {
+      "paperId": "26f178dbb00630ce19cccb9840ea12dbe31801be",
+      "title": "A Survey of Clustering Data Mining Techniques"
+    },
+    {
+      "paperId": "2290802a3d0ba4325fbb37d129285ff016e45c8b",
+      "title": "Evaluating the Use of a Visual Approach to Business Stakeholder Analysis"
+    },
+    {
+      "paperId": "099b54ffe20b1a50b007b4e7b947087a73b021c8",
+      "title": "Survey on dimension reduction techniques"
+    },
+    {
+      "paperId": "4920e164fbda1aae717ead2075cba70baa58e670",
+      "title": "The Fish-eye Visualization of Foreign Currency Exchange Data Streams"
+    },
+    {
+      "paperId": "157a1cb155ea34d33eacce0c870e8d6fd60a6c13",
+      "title": "Visualization of Stock Market Charts"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "fbe98a31b34677294e1d60cf5a57a870d51e8eb5",
+      "title": "Assessing The Feasibility Of Self-organizing Maps For Data Mining Financial Information"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "e507ad65b2a3b8370687e1c6eac0f1bebc34bb83",
+      "title": "Technical Analysis of the Financial Markets"
+    },
+    {
+      "paperId": "347ed38a9e3631a0e76819f6b2c256dc9f2645cb",
+      "title": "Business Information Visualization"
+    },
+    {
+      "paperId": "783206832b83a9f6c4a0d3fb38af5341fa5e8e03",
+      "title": "Visual Explorations in Finance with Self-Organizing Maps"
+    },
+    {
+      "paperId": "b126ac0837bccf4710671c8a3c726491ab786caf",
+      "title": "'Circle Segments': A Technique for Visually Exploring Large Multidimensional Data Sets"
+    },
+    {
+      "paperId": "8c1a45b9c55094d9819d785e40e253381484a3aa",
+      "title": "Adapting Treemaps to Stock Portfolio Visualization"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "db3a261581521f007af8d6aa267b5dfcf73591e2",
+      "title": "A Heuristic for Graph Drawing"
+    },
+    {
+      "paperId": "ac8ab51a86f1a9ae74dd0e4576d1a019f5e654ed",
+      "title": "Some methods for classification and analysis of multivariate observations"
+    },
+    {
+      "paperId": "777010281e4ad7feef46bcbd8c1e3fcdf467ec57",
+      "title": "Some methods for classi cation and analysis of multivariate observations"
+    },
+    {
+      "paperId": null,
+      "title": "BAZINET A"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    },
+    {
+      "paperId": null,
+      "title": "R5 Forecast future trends based on user selected data ranges"
+    },
+    {
+      "paperId": null,
+      "title": "R6 Provide functions for data cleaning, data shaping, and result customization for presentation"
+    },
+    {
+      "paperId": null,
+      "title": "R3 Allow interaction methods for drill-down and comparison"
+    },
+    {
+      "paperId": null,
+      "title": "R1 Provide ample information including historical and contextual data in order to help users \ufb01nd historical and recurring patterns, and causes of events"
+    },
+    {
+      "paperId": null,
+      "title": "R4 Present whether an anomaly (if detected automatically) is statistically signi\ufb01cant and statistically signi\ufb01cant ranges"
+    },
+    {
+      "paperId": null,
+      "title": "R2 Support users with automated techniques for detecting patterns, trends, and anomalies"
+    },
+    {
+      "paperId": null,
+      "title": "Wolrd bank data"
+    }
+  ]
+}

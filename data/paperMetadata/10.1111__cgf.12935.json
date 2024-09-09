@@ -1,0 +1,537 @@
+{
+  "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+  "externalIds": {
+    "MAG": "2998190557",
+    "DBLP": "journals/cgf/BehrischBRSF16",
+    "DOI": "10.1111/cgf.12935",
+    "CorpusId": 17729142
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/48bcabe046fa2c574b32b2d57189d6249a61453c",
+  "title": "Matrix Reordering Methods for Table and Network Visualization",
+  "abstract": "This survey provides a description of algorithms to reorder visual matrices of tabular data and adjacency matrix of Networks. The goal of this survey is to provide a comprehensive list of reordering algorithms published in different fields such as statistics, bioinformatics, or graph theory. While several of these algorithms are described in publications and others are available in software libraries and programs, there is little awareness of what is done across all fields. Our survey aims at describing these reordering algorithms in a unified manner to enable a wide audience to understand their differences and subtleties. We organize this corpus in a consistent manner, independently of the application or research field. We also provide practical guidance on how to select appropriate algorithms depending on the structure and size of the matrix to reorder, and point to implementations when available.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 116,
+  "openAccessPdf": {
+    "url": "https://www.pure.ed.ac.uk/ws/files/37069720/Behrisch2016matrixordering.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Behrisch2016MatrixRM,\n author = {M. Behrisch and Benjamin Bach and N. Riche and Tobias Schreck and Jean-Daniel Fekete},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Matrix Reordering Methods for Table and Network Visualization},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144075157",
+      "name": "M. Behrisch"
+    },
+    {
+      "authorId": "34564063",
+      "name": "Benjamin Bach"
+    },
+    {
+      "authorId": "1692395",
+      "name": "N. Riche"
+    },
+    {
+      "authorId": "1706471",
+      "name": "Tobias Schreck"
+    },
+    {
+      "authorId": "144381703",
+      "name": "Jean-Daniel Fekete"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "20850aaca20ab376b8aeeb0bfc0257767dc76a00",
+      "title": "Handbook of Data Visualization"
+    },
+    {
+      "paperId": "7d71034ee8f09ef2b544fbadaa8843d63c58b267",
+      "title": "Separating the wheat from the chaff: identifying relevant and similar performance data with visual analytics"
+    },
+    {
+      "paperId": "18e0ed4960722d01b30b622da7da5b9aea382f91",
+      "title": "Reorder.js: A JavaScript Library to Reorder Tables and Networks"
+    },
+    {
+      "paperId": "c9835cc3455a23f9dbf9ab5f6b7a43642296c340",
+      "title": "Empirical evaluation of dissimilarity measures for 3D object retrieval with application to multi-feature retrieval"
+    },
+    {
+      "paperId": "e5c2b35639c9f6f6fdcbff20e8e84e0f62e510be",
+      "title": "Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations"
+    },
+    {
+      "paperId": "d3650c6161b199129cd9cbc79b04e153142e24bc",
+      "title": "The Bandwidths of a Matrix. A Survey of Algorithms"
+    },
+    {
+      "paperId": "49662b4c21d179088e57f72774919cf9487cc66b",
+      "title": "A hybrid metaheuristic for the cyclic antibandwidth problem"
+    },
+    {
+      "paperId": "cd3369ed6fc1fba36eb451a56989c24b638b0364",
+      "title": "COMBat: Visualizing co-occurrence of annotation terms"
+    },
+    {
+      "paperId": "91d2880d6aac313d0becac9231bf41406bc230ed",
+      "title": "Matrix Reordering Using Multilevel Graph Coarsening for ILU Preconditioning"
+    },
+    {
+      "paperId": "b73a20b661fc594de98131fda359e8f739fa34ca",
+      "title": "Visual Matrix Clustering of Social Networks"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "1740baf8badf00239ae1cb7512c850db6e14d18a",
+      "title": "Variable neighborhood search with ejection chains for the antibandwidth problem"
+    },
+    {
+      "paperId": "e7fdec3e7a94ea59be29fb596c9989328348359a",
+      "title": "Biclustering: Methods, Software and Application"
+    },
+    {
+      "paperId": "bbe777e78a94470e62c0875b1bbd5ccc02109cdd",
+      "title": "Seriation and matrix reordering methods: An historical overview"
+    },
+    {
+      "paperId": "9b10fe5a342eed421b07a25176d556b5123b6e1e",
+      "title": "Antibandwidth and cyclic antibandwidth of meshes and hypercubes"
+    },
+    {
+      "paperId": "c0ed51ac44a01990c68fdd009b09fb6e3f231ee9",
+      "title": "The History of the Cluster Heat Map"
+    },
+    {
+      "paperId": "648a08ae6692bde622eb6ddfd554930d8b4ac15f",
+      "title": "Overlapping Matrix Pattern Visualization: A Hypergraph Approach"
+    },
+    {
+      "paperId": "7eee285127586136e77adaf6c71a6e6ef1def108",
+      "title": "Parallel GPU Implementation of Iterative PCA Algorithms"
+    },
+    {
+      "paperId": "745016f395229f025b4d984796894581430e312c",
+      "title": "Heuristic Implementation of Dynamic Programming for Matrix Permutation Problems in Combinatorial Data Analysis"
+    },
+    {
+      "paperId": "796be37706f1d34f9f6b5bb91e5614685f8d3e72",
+      "title": "A toolbox for bicluster analysis in R"
+    },
+    {
+      "paperId": "3ccf052a90c6ac47e4274f98acc4d59223dba996",
+      "title": "Getting Things in Order: An Introduction to the R Package seriation"
+    },
+    {
+      "paperId": "aa60f3ea90f423cd06e523c57c38ba822bd13251",
+      "title": "ZAME: Interactive Large-Scale Graph Visualization"
+    },
+    {
+      "paperId": "d8fa3fb54d973d9396a9001de5959a1684ff3b07",
+      "title": "A comparison of vertex ordering algorithms for large graph visualization"
+    },
+    {
+      "paperId": "cec9848752c5c5c4e091549e6d9e1b642eb206ed",
+      "title": "Interpreting large visual similarity matrices"
+    },
+    {
+      "paperId": "07b111097131f10b7677aab5f366ff2228ed5c1d",
+      "title": "Optimal leaf ordering of complete binary trees"
+    },
+    {
+      "paperId": "198a8507c7b26f89419430ed51f1c7675e5fa6c7",
+      "title": "Eigensolver Methods for Progressive Multidimensional Scaling of Large Data"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "881727485cc76d093bf54556b67eeb8ef9222162",
+      "title": "Branch-and-bound applications in combinatorial data analysis"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "e0a0de17be8fbed3f9bbefa53f137ee69ea299e0",
+      "title": "A systematic comparison and evaluation of biclustering methods for gene expression data"
+    },
+    {
+      "paperId": "f44c5d713af40e514b2f2cfb9c72a1589b96d813",
+      "title": "The Grammar of Graphics (Statistics and Computing)"
+    },
+    {
+      "paperId": "64d8c8099fef68bdfd7bab4c57b9c5e5f5aa21a6",
+      "title": "Drawing graphs by eigenvectors: theory and practice"
+    },
+    {
+      "paperId": "b147dea4a9b10f18838836eb28cc857ba0c30211",
+      "title": "Optimal Least-Squares Unidimensional Scaling: Improved Branch-and-Bound Procedures and Comparison to Dynamic Programming"
+    },
+    {
+      "paperId": "da66e90984213821f8cc5f08d13c71be4cb85005",
+      "title": "Collaborative filtering based on iterative principal component analysis"
+    },
+    {
+      "paperId": "a1ac6f683ad58a52d5f667dc17d9023c75782fdb",
+      "title": "PermutMatrix: a graphical environment to arrange gene expression profiles in optimal linear order"
+    },
+    {
+      "paperId": "2477164f929851a6c6f01897bf8a0354a087f365",
+      "title": "Improved biclustering of microarray data demonstrated through systematic performance tests"
+    },
+    {
+      "paperId": "683603e31c4c792a183cf7634fc01f72b85a7846",
+      "title": "Optimizing the Ordering of Tables With Evolutionary Computation"
+    },
+    {
+      "paperId": "07ef558dfffbf852d42ccac10b2f7a0b24605ab6",
+      "title": "Preparing Graduate Students to Teach Statistics"
+    },
+    {
+      "paperId": "4effb869de6edd5e6e7e1ec476ab402fa9d28c55",
+      "title": "A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations"
+    },
+    {
+      "paperId": "68459ed4cff7692699d60218c1dc579cfe5e24c5",
+      "title": "Biclustering algorithms for biological data analysis: a survey"
+    },
+    {
+      "paperId": "1c7fb64038d7afb25a74b95d1518e7cc116c67e3",
+      "title": "Experiments on the minimum linear arrangement problem"
+    },
+    {
+      "paperId": "68cdbd8a6e64104a239758b15111b413aedfb0bc",
+      "title": "Robust singular value decomposition analysis of microarray data"
+    },
+    {
+      "paperId": "e538b16a6705b5cdf8d62332ec53ffb329d284cf",
+      "title": "Effect ordering for data displays"
+    },
+    {
+      "paperId": "2de975652951a58e004a11c5041ad7a36f9fc91b",
+      "title": "Chained Lin-Kernighan for Large Traveling Salesman Problems"
+    },
+    {
+      "paperId": "0c1b6c569f976c9542b33b0dcea72a1d3af6089b",
+      "title": "Extracting Conserved Gene Expression Motifs from Gene Expression Data"
+    },
+    {
+      "paperId": "a779658bc3a5839a9ecf913ca0b1e173c1b2a3a0",
+      "title": "Corrgrams"
+    },
+    {
+      "paperId": "08ce30ab502d2c933c6424cd4bea2ad82016797e",
+      "title": "ACE: a fast multiscale eigenvectors computation for drawing huge graphs"
+    },
+    {
+      "paperId": "20f511ab51666c844abf42547ed11c9a70377217",
+      "title": "A survey of graph layout problems"
+    },
+    {
+      "paperId": "6ce13c1b8554bb01b7df7c6b81dde4e35b29c4cc",
+      "title": "A Multi-scale Algorithm for the Linear Arrangement Problem"
+    },
+    {
+      "paperId": "bd014331774ef7becae11a3c8af5005b3a75630d",
+      "title": "The Boost Graph Library - User Guide and Reference Manual"
+    },
+    {
+      "paperId": "b80a3e1a89714724f5b3aba96a586c1e7d01c3d7",
+      "title": "Toward the Optimal Preconditioned Eigensolver: Locally Optimal Block Preconditioned Conjugate Gradient Method"
+    },
+    {
+      "paperId": "c2f5832032aa0a1c516a4a3da7357357b71c971b",
+      "title": "Reordering the Reorderable Matrix as an Algorithmic Problem"
+    },
+    {
+      "paperId": "b1aba0032340dada7856599fd9940345216d88b8",
+      "title": "Biclustering of Expression Data"
+    },
+    {
+      "paperId": "a8fc70b336cf244cbac0c5a24344c17551d706aa",
+      "title": "Interaction with the Reorderable Matrix"
+    },
+    {
+      "paperId": "2318d12cc59d2873b257878f003fa9b4bdcffa35",
+      "title": "A Spectral Algorithm for Seriation and the Consecutive Ones Problem"
+    },
+    {
+      "paperId": "8573bbb55112c1f06c43211daedacc1578e69a92",
+      "title": "Cluster analysis and display of genome-wide expression patterns."
+    },
+    {
+      "paperId": "e8190b0e83f1e71cfce15897d02029ab2ac82d93",
+      "title": "The effect of spatial arrangement on judgments and errors in interpreting graphs"
+    },
+    {
+      "paperId": "16503260198405c4face68a75de9621dedc42926",
+      "title": "FOCUS: the interactive table for product comparison and selection"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "07445a574e323ee3ce047c8e28949201387ee11f",
+      "title": "Edge crossings in drawings of bipartite graphs"
+    },
+    {
+      "paperId": "3d41015569bf4299ac83451c3f42b13a02ce29fb",
+      "title": "A Technique for Drawing Directed Graphs"
+    },
+    {
+      "paperId": "ff60960ac6ab950bed9ec17bdc9842d2fb954896",
+      "title": "Fast Algorithms for Geometric Traveling Salesman Problems"
+    },
+    {
+      "paperId": "10bc147a650918e3e3b41d097189b6843fb46c8c",
+      "title": "Seriation and Multidimensional Scaling: A Data Analysis Approach to Scaling Asymmetric Proximity Matrices"
+    },
+    {
+      "paperId": "e84e48988f11346cfe8846d52b1cd019baef3fbc",
+      "title": "A FORTRAN program for profile and wavefront reduction"
+    },
+    {
+      "paperId": "c2797a58f589cdcb5f5cd8fab981633fda965a18",
+      "title": "An algorithm for profile and wavefront reduction of sparse matrices"
+    },
+    {
+      "paperId": "05fbbff290f2edd4cb82723e5a0c34c5ef9e5d59",
+      "title": "On Some Variants of the Bandwidth Minimization Problem"
+    },
+    {
+      "paperId": "de3d89374809a709ce9b4587a35903e76e2c05f0",
+      "title": "Matrix reorganization and dynamic programming: Applications to paired comparisons and unidimensional seriation"
+    },
+    {
+      "paperId": "28a2bec279ffc2990a0524739b621adc2f1e5363",
+      "title": "A linear time implementation of the reverse Cuthill-McKee algorithm"
+    },
+    {
+      "paperId": "95af99ac3a56ade5416659123b7d57514a808636",
+      "title": "Comparative Analysis of the Cuthill\u2013McKee and the Reverse Cuthill\u2013McKee Ordering Algorithms for Sparse Matrices"
+    },
+    {
+      "paperId": "b4de57ae3efa070b26e63eeca624b04954e4d78f",
+      "title": "An algorithm for reducing the bandwidth and profile of a sparse matrix"
+    },
+    {
+      "paperId": "05e423832ec8bfc06b6331a23bb153d8a1a93c28",
+      "title": "Some Simple Applications of the Travelling Salesman Problem"
+    },
+    {
+      "paperId": "3f6bf74373a0607a73fd057072e59d965c1b02a4",
+      "title": "An algorithm for clustering relational data with applications to social network analysis and comparison with multidimensional scaling"
+    },
+    {
+      "paperId": "b1d1402d92a1167221c319bc8f3529342e83174d",
+      "title": "Correspondence Analysis: A Neglected Multivariate Method"
+    },
+    {
+      "paperId": "1d2760389e873155e94c013a99d88e327b05c2f9",
+      "title": "SOME APPLICATIONS OF GRAPH THEORY AND RELATED NON\u2010METRIC TECHNIQUES TO PROBLEMS OF APPROXIMATE SERIATION: THE CASE OF SYMMETRIC PROXIMITY MEASURES"
+    },
+    {
+      "paperId": "c3e63e30e1a841576f2f481cdc228e5786a73247",
+      "title": "THE DETERMINATION OF THE UNDERLYING DIMENSIONALITY OF AN EMPIRICALLY OBTAINED MATRIX OF PROXIMITIES."
+    },
+    {
+      "paperId": "ff74dceb409d16dd357c3badc783aa431c3c62d6",
+      "title": "Technical Note - Clustering a Data Array and the Traveling-Salesman Problem"
+    },
+    {
+      "paperId": "28122cc05d20c9df5ccc2bad0609287d9a07663b",
+      "title": "TWO ADDITIONS TO HIERARCHICAL CLUSTER ANALYSIS"
+    },
+    {
+      "paperId": "d9cb1447d3439b31fcf714e94886eaf3c7595c54",
+      "title": "Problem Decomposition and Data Reorganization by a Clustering Technique"
+    },
+    {
+      "paperId": "0777c7482057d2c624ddcca87017fbe946ca6b90",
+      "title": "Mathematics in the Archaeological and Historical Sciences"
+    },
+    {
+      "paperId": "97a6ac65c8a19e734e568442c2cd4ea832116ad6",
+      "title": "Direct Clustering of a Data Matrix"
+    },
+    {
+      "paperId": "f24fe403908c3e542a30dfcfb788cdddbac8c717",
+      "title": "An Ordering Algorithm for Analysis of Data Arrays"
+    },
+    {
+      "paperId": "896e3a8ec16672d0312783c43b556ce14631f72d",
+      "title": "An automatic reordering scheme for simultaneous equations derived from network systems"
+    },
+    {
+      "paperId": "739f7a7c468a2ead100d064f5ebbbd37fea9b3d8",
+      "title": "Identification of Data Structures and Relationships by Matrix Reordering Techniques."
+    },
+    {
+      "paperId": "4f3caa5573b4c1ebef7c3ee6b9f7643e689c858e",
+      "title": "Reducing the bandwidth of sparse symmetric matrices"
+    },
+    {
+      "paperId": "894311cb5d357bd50abb812d941da3d9ffcd1ebf",
+      "title": "Semiologie graphique : les diagrammes les r\u00e9seaux, les cartes"
+    },
+    {
+      "paperId": "2aff7488b6afb706ebcf0b48e53610e116986a9d",
+      "title": "MULTIPLE CLUSTERS, TYPES, AND DIMENSIONS FROM ITERATIVE INTERCOLUMNAR CORRELATIONAL ANALYSIS."
+    },
+    {
+      "paperId": "4f99ecac7a32630f193963820f1c0a2fbaaa0bc5",
+      "title": "Matrix bandwidth minimization"
+    },
+    {
+      "paperId": "3560872ea095b308b008b7918a6067e4a54b3d33",
+      "title": "STATISTICAL METHODS OF TIME SEQUENCING."
+    },
+    {
+      "paperId": "434aba6f252ea1322c0e84d4f8e97b9468ca7fb8",
+      "title": "Optimal Assignments of Numbers to Vertices"
+    },
+    {
+      "paperId": "9af87b4ae914fbd639728ea41a8296059c864ac0",
+      "title": "A Method for Solving Traveling-Salesman Problems"
+    },
+    {
+      "paperId": "7e98ece450ee547d4ffa42beaa4477a9b32ef077",
+      "title": "A Method for Chronologically Ordering Archaeological Deposits"
+    },
+    {
+      "paperId": "880e80bbbaea8fdfc4390505bed6cdc8e10cb3e5",
+      "title": "NetworkX"
+    },
+    {
+      "paperId": null,
+      "title": "Infrastructure for seriation , r package version 1.0-14"
+    },
+    {
+      "paperId": null,
+      "title": "An ef\ufb01cient metaheuristic approach for solving a class of matrix optimization problems"
+    },
+    {
+      "paperId": null,
+      "title": "Corrplot: Visualization of a correlation matrix , r package version 0.73"
+    },
+    {
+      "paperId": "27a84020d6e011f449a61a2e3e6e3d316e4a9ac0",
+      "title": "The News Auditor: Visual Exploration of Clusters of Stories"
+    },
+    {
+      "paperId": "62d24a84d61bf20d6740a24ad6426cefc525725b",
+      "title": "Boost C++ Library\u306e\u7d39\u4ecb"
+    },
+    {
+      "paperId": "79d9bca23e42549252421a7fe8b27498682007df",
+      "title": "Applications of multidimensional scaling to graph drawing"
+    },
+    {
+      "paperId": "d476e49eb398f664169f490fa9722703e495c9d8",
+      "title": "A Toolbox for Bicluster Analysis in"
+    },
+    {
+      "paperId": "0f4ccca7d290c6f7860a04b96dd3466ec8625a77",
+      "title": "Biclustering Algorithms: A Survey"
+    },
+    {
+      "paperId": "30be52853c9b07ac103cc11c8cd21dc6f78fba5a",
+      "title": "The Barycenter Heuristic and the Reorderable Matrix"
+    },
+    {
+      "paperId": "e25d8e60bf43d622226c4dc891fb0c2e1a46cb24",
+      "title": "Sparse Matrix Reordering Algorithms for Cluster Identification"
+    },
+    {
+      "paperId": "512a11920f959de7f020a78a30b61f394c8642e9",
+      "title": "GENOMIC DATA ANALYSIS"
+    },
+    {
+      "paperId": "130fdd165e1f20291497f72208df4dece04685f0",
+      "title": "GENERALIZED ASSOCIATION PLOTS: INFORMATION VISUALIZATION VIA ITERATIVELY GENERATED CORRELATION MATRICES"
+    },
+    {
+      "paperId": null,
+      "title": "Fast optimal leaf ordering for hierarchical clustering"
+    },
+    {
+      "paperId": "f70287f66b013ee9e4431d48f4c8248fdfe9c4c4",
+      "title": "Plaid models for gene expression data"
+    },
+    {
+      "paperId": "af24e927c8939fcb34d3608b97166c467b317846",
+      "title": "Pajek - Program for Large Network Analysis"
+    },
+    {
+      "paperId": "8d223e5b2317b3160d542abf9156194eba377ff3",
+      "title": "Fundamentals of matrix computations"
+    },
+    {
+      "paperId": "fdeeb3316bf9666c00cf357e874279f3a96efe4d",
+      "title": "Multidimensional similarity structure analysis"
+    },
+    {
+      "paperId": "e31e003016cc6a22dd4ef165c673fc4f42ea5b72",
+      "title": "Th\u00e9orie matricielle de la graphique"
+    },
+    {
+      "paperId": "1c26083af7b1457af0c34e90e708fe5e32c8d207",
+      "title": "DECORANA - A FORTRAN program for detrended correspondence analysis and reciprocal averaging."
+    },
+    {
+      "paperId": "32b5178547b79d384afad2c7abb6c64f1697617c",
+      "title": "Algebraic connectivity of graphs"
+    },
+    {
+      "paperId": "ef464385f1f6a655b3774ac553dd9ba21a09b2d0",
+      "title": "Computer implementation of the finite element method"
+    },
+    {
+      "paperId": "c69e66a7c4568ab25976bc8435f3ad9decca25a9",
+      "title": "Journal of Graph Algorithms and Applications Graph Drawing by High-dimensional Embedding"
+    },
+    {
+      "paperId": null,
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Transform the data into intermediate objects, such as distance matrices, Laplacian matrices, or Eigenvector spaces"
+    }
+  ]
+}

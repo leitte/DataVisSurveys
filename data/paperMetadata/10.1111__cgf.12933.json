@@ -1,0 +1,1086 @@
+{
+  "paperId": "75d25d94c31302a04432891f94088a19ab65a484",
+  "externalIds": {
+    "DBLP": "journals/cgf/HeineLHIFSHG16",
+    "MAG": "2475195788",
+    "DOI": "10.1111/cgf.12933",
+    "CorpusId": 6234148
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/75d25d94c31302a04432891f94088a19ab65a484",
+  "title": "A Survey of Topology\u2010based Methods in Visualization",
+  "abstract": "This paper presents the state of the art in the area of topology\u2010based visualization. It describes the process and results of an extensive annotation for generating a definition and terminology for the field. The terminology enabled a typology for topological models which is used to organize research results and the state of the art. Our report discusses relations among topological models and for each model describes research results for the computation, simplification, visualization, and application. The paper identifies themes common to subfields, current frontiers, and unexplored territory in this research area.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2016,
+  "referenceCount": 251,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-06-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "35"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Heine2016ASO,\n author = {Christian Heine and H. Leitte and M. Hlawitschka and F. Iuricich and L. Floriani and G. Scheuermann and H. Hagen and Christoph Garth},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Topology\u2010based Methods in Visualization},\n volume = {35},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145356585",
+      "name": "Christian Heine"
+    },
+    {
+      "authorId": "2459145",
+      "name": "H. Leitte"
+    },
+    {
+      "authorId": "1855443",
+      "name": "M. Hlawitschka"
+    },
+    {
+      "authorId": "2206165",
+      "name": "F. Iuricich"
+    },
+    {
+      "authorId": "1715008",
+      "name": "L. Floriani"
+    },
+    {
+      "authorId": "1810101",
+      "name": "G. Scheuermann"
+    },
+    {
+      "authorId": "144031802",
+      "name": "H. Hagen"
+    },
+    {
+      "authorId": "1979642",
+      "name": "Christoph Garth"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "b9f9d6d8a310e51fb4e4e5a28600df5a60b483f6",
+      "title": "2D Vector field approximation using linear neighborhoods"
+    },
+    {
+      "paperId": "614539f8b3328a0024368cb263911553d7280f91",
+      "title": "Hybrid Data-Parallel Contour Tree Computation"
+    },
+    {
+      "paperId": "f19fb142ce78bd80e9820ef3b68aedd63326a51d",
+      "title": "Space\u2010Time Bifurcation Lines for Extraction of 2D Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "d1dc8e4d475a5af615fc2d970c589d64d6c80908",
+      "title": "Critical Point Cancellation in 3D Vector Fields: Robustness and Discussion"
+    },
+    {
+      "paperId": "5fdf82800a1871f42e2998fa685044eb9c8e7b55",
+      "title": "Finite-Time Lyapunov Exponents and Lagrangian Coherent Structures in Uncertain Unsteady Flows"
+    },
+    {
+      "paperId": "24a6479add011bc30637084fca345854a81f928b",
+      "title": "09302 Abstracts Collection - New Developments in the Visualization and Processing of Tensor Fields"
+    },
+    {
+      "paperId": "4a66fa9ef1ceb5691ba1f4b05dd3d07003d0ee8f",
+      "title": "Building Construction Sets by Tiling Grammar Simplification"
+    },
+    {
+      "paperId": "d62d7d71894e50fb6b218d659ab77c990d75ce1a",
+      "title": "Topology-inspired Galilean invariant vector field analysis"
+    },
+    {
+      "paperId": "3ae7e6153f40bfe338a1e4219663715ba00ed693",
+      "title": "Rethinking sensitivity analysis of nuclear simulations with topology"
+    },
+    {
+      "paperId": "f61608c88647fa63b79cb7b9548f858e9a447430",
+      "title": "From numerics to combinatorics: a survey of topological methods for vector field visualization"
+    },
+    {
+      "paperId": "3fc122d74f77e255d7c3f8b330b2fe5d36c60074",
+      "title": "Understanding hotspots: a topological visual analytics approach"
+    },
+    {
+      "paperId": "55c5613fb72541993d1cda44a6190900805d954f",
+      "title": "Contour trees of uncertain terrains"
+    },
+    {
+      "paperId": "ea9fa89d27dce5ecb2eb5446d18e8cd6047238c5",
+      "title": "Topologically-consistent simplification of discrete Morse complex"
+    },
+    {
+      "paperId": "59092b50d1d6cd386e2be5508f2d32dd08316b23",
+      "title": "Multivariate topology simplification"
+    },
+    {
+      "paperId": "0a3a08f7f52a774bd376c05c53d6b5817dc319b0",
+      "title": "Robustness-Based Simplification of 2D Steady and Unsteady Vector Fields"
+    },
+    {
+      "paperId": "f0a9673f53c6d731ff8b3a77ac0282173fd9880b",
+      "title": "2D Vector field approximation using linear neighborhoods"
+    },
+    {
+      "paperId": "b1daa449c6e9881c64da4dacd1f72eb041d95bd9",
+      "title": "Persistent Homology for the Evaluation of Dimensionality Reduction Schemes"
+    },
+    {
+      "paperId": "e92309c5544d709b19b222c79bf422a191942de0",
+      "title": "Contour Tree Depth Images For Large Data Visualization"
+    },
+    {
+      "paperId": "b4350290b4458b09f501d9169042234401a91c56",
+      "title": "A Comparison of Joint Contour Nets and Pareto Sets"
+    },
+    {
+      "paperId": "3e9f3e3f3cba4914e723eee83dd6c84bdaf4bb2a",
+      "title": "Computing and Visualizing Time-Varying Merge Trees for High-Dimensional Data"
+    },
+    {
+      "paperId": "72638eb5d3044d3852c53c6a45ed091b6e504ebb",
+      "title": "Morse complexes for shape segmentation and homological analysis: discrete models and algorithms"
+    },
+    {
+      "paperId": "541f390e64cb3075e1dfeca6336cd0c1bd2acb5a",
+      "title": "Application of Pareto sets in quality control of series production in car manufacturing"
+    },
+    {
+      "paperId": "9ed606b83d852611b1026d182ff047bd2fe31164",
+      "title": "Decomposition and Simplification of Multivariate Data using Pareto Sets"
+    },
+    {
+      "paperId": "0997eece772e19649153cd6ec3ee19cd5390406f",
+      "title": "Structural Analysis of Multivariate Point Clouds Using Simplicial Chains"
+    },
+    {
+      "paperId": "f814d951e910cc82685c617fe18753df67756338",
+      "title": "In-Situ Feature Extraction of Large Scale Combustion Simulations Using Segmented Merge Trees"
+    },
+    {
+      "paperId": "01a7386da9e97c319d22d3cdbee6ec2c11e2a6e3",
+      "title": "Avoiding the Global Sort: A Faster Contour Tree Algorithm"
+    },
+    {
+      "paperId": "6c8fafe1cb99d97f832a221915e4d897b0bb8fee",
+      "title": "Conforming Morse-Smale Complexes"
+    },
+    {
+      "paperId": "e7cc16a5ad26b4e2568d34d8b32a10a9a6d903e3",
+      "title": "Characterizing Molecular Interactions in Chemical Systems"
+    },
+    {
+      "paperId": "737ca9cb72d538ed39d4fca9fdf31fef6c5dc308",
+      "title": "Fast and Memory-Efficienty Topological Denoising of 2D and 3D Scalar Fields"
+    },
+    {
+      "paperId": "190e43a5a78143bd87af0f2e1fa1959c3affbe88",
+      "title": "A combined geometrical and topological simplification hierarchy for terrain analysis"
+    },
+    {
+      "paperId": "1ef14af0a44a0d6b990bc7966fa712ca4d0c4794",
+      "title": "Efficient computation and simplification of discrete morse decompositions on triangulated terrains"
+    },
+    {
+      "paperId": "141ef9bc9d02faff3ca6fb4c0a01670a1892a9af",
+      "title": "Visualizing the stability of critical points in uncertain scalar fields"
+    },
+    {
+      "paperId": "8b7039c27cbae86ac849e8ea641c46fe3884e1d4",
+      "title": "Mandatory Critical Points of 2D Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "a167c50d44cd7cc449964815919bc97abdb60872",
+      "title": "Distributed Contour Trees"
+    },
+    {
+      "paperId": "11479e59d622b73d4300909dce8a9f7a8e8b5ba7",
+      "title": "The Natural Helmholtz-Hodge Decomposition for Open-Boundary Flow Analysis"
+    },
+    {
+      "paperId": "c5a126527d911d66f96c5f11b1482af53b5a658f",
+      "title": "Time Line Cell Tracking for the Approximation of Lagrangian Coherent Structures with Subgrid Accuracy"
+    },
+    {
+      "paperId": "85930b1abe7f2bc412445a88c4ee0b9285f4aa7c",
+      "title": "Detecting Symmetry in Scalar Fields Using Augmented Extremum Graphs"
+    },
+    {
+      "paperId": "355101430a490abddeb65bbf4d6fc75e639ab579",
+      "title": "Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles"
+    },
+    {
+      "paperId": "68c73871c33aaf2aae7b053a6ae99af98369741e",
+      "title": "Joint Contour Nets: Computation and properties"
+    },
+    {
+      "paperId": "67d5904d79b3e6f7a9256afd1d97009a1c057f0d",
+      "title": "Interactive comparison of multifield scalar data based on largest contours"
+    },
+    {
+      "paperId": "8854d016d47e15e93acea844cb526d17985a9928",
+      "title": "A primal/dual representation for discrete Morse complexes on tetrahedral meshes"
+    },
+    {
+      "paperId": "1dc9950e4d145c39df8ece893eba35277a8641b6",
+      "title": "Visualizing Robustness of Critical Points for 2D Time\u2010Varying Vector Fields"
+    },
+    {
+      "paperId": "97008ea84620319ec200f4ee0645e3448a3e1444",
+      "title": "dPSO\u2010Vis: Topology\u2010based Visualization of Discrete Particle Swarm Optimization"
+    },
+    {
+      "paperId": "8cc31a72836f52f9b967f0f9702b0751ec6f8541",
+      "title": "Towards Multifield Scalar Topology Based on Pareto Optimality"
+    },
+    {
+      "paperId": "fa6a1a560fec7c9b81651296886975b435fb5ed2",
+      "title": "Clear and Compress: Computing Persistent Homology in Chunks"
+    },
+    {
+      "paperId": "72ab91ab7fb68da99fac1b3b687036f99ce0c4f8",
+      "title": "Visualizing nD Point Clouds as Topological Landscape Profiles to Guide Local Data Analysis"
+    },
+    {
+      "paperId": "60f6af6da79152ee08b25a580577c09eba261315",
+      "title": "A Time-Dependent Vector Field Topology Based on Streak Surfaces"
+    },
+    {
+      "paperId": "bbba6dc7a25be1611d69eedc9370859a8819bd17",
+      "title": "Distributed merge trees"
+    },
+    {
+      "paperId": "34974ec623b14a9e567327f5b4a68f861adb6a6a",
+      "title": "Computing Reeb Graphs as a Union of Contour Trees"
+    },
+    {
+      "paperId": "235cb5ae655a6ef6e8bc83f55e7cc89794115f87",
+      "title": "Interactive exploration of large-scale time-varying data using dynamic tracking graphs"
+    },
+    {
+      "paperId": "38261368df8e50c2280caeb3ccd060dc65427549",
+      "title": "Computing Morse-Smale Complexes with Accurate Geometry"
+    },
+    {
+      "paperId": "ceb4fd64ac5df3d183b323628f61c1d0693ec861",
+      "title": "Visualizing Nuclear Scission through a Multifield Extension of Topological Analysis"
+    },
+    {
+      "paperId": "085f24f3c3b001c0a29cb9cf9d6f4e893c6f8c85",
+      "title": "A hybrid parallel algorithm for computing and tracking level set topology"
+    },
+    {
+      "paperId": "2df590e04900b0db344122d33d682d010e2307f2",
+      "title": "Augmented Topological Descriptors of Pore Networks for Material Science"
+    },
+    {
+      "paperId": "b63ab9a95d96e3f6aa68f9640f22b057cfe6d449",
+      "title": "Multivariate Data Analysis Using Persistence-Based Filtering and Topological Signatures"
+    },
+    {
+      "paperId": "d8f44d25fbcdac3a739b5ef8f0b0885513c96ece",
+      "title": "Extraction of Dominant Extremal Structures in Volumetric Data Using Separatrix Persistence"
+    },
+    {
+      "paperId": "e59097950e85e26de95afb12628e80f01d21d2f6",
+      "title": "Topological cacti: Visualizing contour-based statistics"
+    },
+    {
+      "paperId": "6b3e006c0575e9042cf6a63c2021e4b8d9707edf",
+      "title": "Efficient Computation of Combinatorial Feature Flow Fields"
+    },
+    {
+      "paperId": "a987a88d7021c5c1b4d03285d030d6c1098e78f0",
+      "title": "Direct Feature Visualization Using Morse-Smale Complexes"
+    },
+    {
+      "paperId": "021e3c23d8ec64a8c2a90aa3ccb7189b4d6583f8",
+      "title": "Dimension-independent multi-resolution Morse complexes"
+    },
+    {
+      "paperId": "14d0faa1e9e3e33c400176a33c657992ab332a88",
+      "title": "Statistical topological data analysis using persistence landscapes"
+    },
+    {
+      "paperId": "55ee91cbe2d984b66425ef9b2880c5b527b4b77f",
+      "title": "A Deterministic O(mlogm)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$O(m \\log {m})$$\\end{document} Time Algorithm f"
+    },
+    {
+      "paperId": "2b8bda2e84be335887c6875c217f52bddf2e0770",
+      "title": "A Quantized Boundary Representation of 2D Flows"
+    },
+    {
+      "paperId": "8a458587113c242e931aa05adb9ac18e4bc601d1",
+      "title": "Nearly Recurrent Components in 3D Piecewise Constant Vector Fields"
+    },
+    {
+      "paperId": "5f3c4a463aebe2623e32bd422b5ef0c618655604",
+      "title": "Parallel Computation of 3D Morse\u2010Smale Complexes"
+    },
+    {
+      "paperId": "b1cdb1a17aec9cdd8dc23e8cc8bd69407b193a8b",
+      "title": "Robust Morse Decompositions of Piecewise Constant Vector Fields"
+    },
+    {
+      "paperId": "e035424dcccc6a09e3b054a02ece9e63b0b88ab6",
+      "title": "Probabilistic Local Features in Uncertain Vector Fields with Spatial Correlation"
+    },
+    {
+      "paperId": "efdb30c6b72c42f93dfc3cc8e9e19e708068b0e1",
+      "title": "Topology Verification for Isosurface Extraction"
+    },
+    {
+      "paperId": "47a1564228da38e022700f861f6ee86997366020",
+      "title": "Morse Set Classification and Hierarchical Refinement Using Conley Index"
+    },
+    {
+      "paperId": "db666bf7c42912de57e5d0f97f88a8e4ebaa61fe",
+      "title": "Topological Methods in Data Analysis and Visualization III, Theory, Algorithms, and Applications"
+    },
+    {
+      "paperId": "e0df487e7e4b5030cc94fca21a8ed33243b64f59",
+      "title": "A benchmark for evaluating FTLE computations"
+    },
+    {
+      "paperId": "83ce1d4ae5f203284c8d84d5837b3a011a29bfb9",
+      "title": "Symmetry in Scalar Field Topology"
+    },
+    {
+      "paperId": "4888ae42cc8ce20103fbd7a559b2fad3889296e6",
+      "title": "A Scale Space Based Persistence Measure for Critical Points in 2D Scalar Fields"
+    },
+    {
+      "paperId": "43713bc101894aee57a60530df19ebca9a6ecbc8",
+      "title": "Topological Spines: A Structure-preserving Visual Representation of Scalar Fields"
+    },
+    {
+      "paperId": "f6c950f6f80bd8cdeabb95c53c9433587cafe2c4",
+      "title": "Asymmetric Tensor Field Visualization for Surfaces"
+    },
+    {
+      "paperId": "5616ad07bdadd6dfe6f58c9461f5123e1634b3a4",
+      "title": "Towards Robust Topology of Sparsely Sampled Data"
+    },
+    {
+      "paperId": "c65652dc7e36ae032e2553a2a6a316a5203f579f",
+      "title": "Visualization of Topological Structures in Area-Preserving Maps"
+    },
+    {
+      "paperId": "54fbfc38cbcf0dfbbf3016b1d7940fc9ce057511",
+      "title": "Drawing Contour Trees in the Plane"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "6a84d3e584759c15495879492479f2dd6c3f2e47",
+      "title": "Dimension-independent simplification and refinement of Morse complexes"
+    },
+    {
+      "paperId": "5d6f1f7cb7dba34ccabcd18934dce49a7fdbe17b",
+      "title": "Hierarchical Line Integration"
+    },
+    {
+      "paperId": "f864be26484e118ab5ad29b02fe095c768f120a9",
+      "title": "Reeb Graphs: Approximation and Persistence"
+    },
+    {
+      "paperId": "3ea84836cf39735319894e35b21b94793b50d97e",
+      "title": "Complete Tensor Field Topology on 2D Triangulated Manifolds embedded in 3D"
+    },
+    {
+      "paperId": "3f0614c2ccc558afc2455735f3e8ab10d20e62a2",
+      "title": "Stable Feature Flow Fields"
+    },
+    {
+      "paperId": "8dab8ae89290c0ddebe21836b9dd5b2cb236f719",
+      "title": "Stable Morse Decompositions for Piecewise Constant Vector Fields on Surfaces"
+    },
+    {
+      "paperId": "f32fefe7f08cd6b80830cb18a8f38f60e622de3c",
+      "title": "Coherent Structures of Characteristic Curves in Symmetric Second Order Tensor Fields"
+    },
+    {
+      "paperId": "06757abcc7dc6ea549b1049d9ff5a7fe0956d2a8",
+      "title": "Topological Features in 2D Symmetric Higher\u2010Order Tensor Fields"
+    },
+    {
+      "paperId": "df106d21697305170900330b6babf8cdfe431bd6",
+      "title": "Closed stream lines in uncertain vector fields"
+    },
+    {
+      "paperId": "860fe48b811281876a94c77e09697df27f503a4b",
+      "title": "Edge maps: Representing flow with bounded error"
+    },
+    {
+      "paperId": "8d10f81f832aba47211052c44cdd53d84eb83010",
+      "title": "Uncertain topology of 3D vector fields"
+    },
+    {
+      "paperId": "fafd5f516ec6ffd182d7171d78d7dfb7ab0d60dd",
+      "title": "Enhanced Topology-Sensitive Clustering by Reeb Graph Shattering"
+    },
+    {
+      "paperId": "61bc124f3d82a486ac516bab13c579219103378a",
+      "title": "Two-stage framework for a topology-based projection and visualization of classified document collections"
+    },
+    {
+      "paperId": "53fe2d0492053b4a7f806ff7d83f694fdd5c25e1",
+      "title": "Visual Exploration of High Dimensional Scalar Functions"
+    },
+    {
+      "paperId": "6fa4e193ba6d93bbf19ed34a3f4d3a159e14031d",
+      "title": "Analysis of Recurrent Patterns in Toroidal Magnetic Fields"
+    },
+    {
+      "paperId": "cfa4732ff71f86b51451befdbca9c885a76b54fa",
+      "title": "Multiresolution morse triangulations"
+    },
+    {
+      "paperId": "da8eaa6dd7aca7e5d4e2acaa66ec0f9ba884587f",
+      "title": "Feature Tracking Using Reeb Graphs"
+    },
+    {
+      "paperId": "ed2fda1d0aee5e3b2ceea973d88614e6fd83bfa4",
+      "title": "Topological Landscape Ensembles for Visualization of Scalar\u2010Valued Functions"
+    },
+    {
+      "paperId": "1b6ab170fcbf192abfdd5837d1e0ef202ac0bc97",
+      "title": "Topology Aware Stream Surfaces"
+    },
+    {
+      "paperId": "c44876df083c357817cb28a3ae74aba4c19cc9b2",
+      "title": "Time\u2010Dependent 2\u2010D Vector Field Topology: An Approach Inspired by Lagrangian Coherent Structures"
+    },
+    {
+      "paperId": "072d1f8877f606389a2bcdb02cbb8a3f6771cab5",
+      "title": "Introduction to Focus Issue: Lagrangian Coherent Structures."
+    },
+    {
+      "paperId": "90c0da18d06b18dd76a33f310c312263e4aa2eed",
+      "title": "I/O-Efficient Contour Tree Simplification"
+    },
+    {
+      "paperId": "ad6eeb8a523848c8d66167af24eefd6e08ed5162",
+      "title": "Applying Manifold Learning to Plotting Approximate Contour Trees"
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "7eac116ad43d284e4ec340d12d5ff2324202e677",
+      "title": "Interactive Comparison of Scalar Fields Based on Largest Contours with Applications to Flow Visualization"
+    },
+    {
+      "paperId": "3b73d2de9f55eb455526c61f5559e5b3598d4d29",
+      "title": "A Practical Approach to Morse-Smale Complex Computation: Scalability and Generality"
+    },
+    {
+      "paperId": "7f622154657f72fa9b1e394002ded6b77f69bb73",
+      "title": "Describing shapes by geometrical-topological properties of real functions"
+    },
+    {
+      "paperId": "87ccc0bddef08c6b8d045a4d1f746e5e0b3f6696",
+      "title": "Efficient Morse Decompositions of Vector Fields"
+    },
+    {
+      "paperId": "36eaf7d4db2653769b39ff7927c38e812f3eba87",
+      "title": "Reeb spaces of piecewise linear mappings"
+    },
+    {
+      "paperId": "5dc43f3ef8b4310bc292c565f4bfafff6b4b783c",
+      "title": "Lagrangian Visualization of Flow\u2010Embedded Surface Structures"
+    },
+    {
+      "paperId": "ed845fc0e535de377be45fa0a9de6cea99c53ff6",
+      "title": "Server-centric Web frameworks: An overview"
+    },
+    {
+      "paperId": "575cf289eb5b7fe69c5d6f69d55a5e122832dd0e",
+      "title": "Reeb graphs for shape analysis and applications"
+    },
+    {
+      "paperId": "40f3186222a7b35838bb84d9d939b8d951bef766",
+      "title": "Tensor Lines in Tensor Fields of Arbitrary Order"
+    },
+    {
+      "paperId": "2dc0fad5bf4c160469571dc505fae3721b082439",
+      "title": "Efficient Computation and Visualization of Coherent Structures in Fluid Flow Applications"
+    },
+    {
+      "paperId": "9a1a1a607ada282ff71b0b1b30f3b2010f7bc8db",
+      "title": "Topologically Clean Distance Fields"
+    },
+    {
+      "paperId": "5298fcd227c49f275ad28dad172e4cfbf7455a34",
+      "title": "Efficient Visualization of Lagrangian Coherent Structures by Filtered AMR Ridge Extraction"
+    },
+    {
+      "paperId": "d2f54a8757e47b3ea39f95dca15508b5d3b65560",
+      "title": "Topological Visualization of Brain Diffusion MRI Data"
+    },
+    {
+      "paperId": "731706e6f505ce7d5136066f682f1918318a464a",
+      "title": "Topological Landscapes: A Terrain Metaphor for Scientific Data"
+    },
+    {
+      "paperId": "a92eb85ca2faecc5271625a129fc6a35691e6327",
+      "title": "Efficient Computation of Morse-Smale Complexes for Three-dimensional Scalar Functions"
+    },
+    {
+      "paperId": "763bb7f54ede35d109edd9661feac43b25d30514",
+      "title": "Robust on-line computation of Reeb graphs: simplicity and speed"
+    },
+    {
+      "paperId": "ddf7f6917a3b81f0ba45dba96e60d96a452b5c38",
+      "title": "Photo clip art"
+    },
+    {
+      "paperId": "099666baf89279f29556c8f047e007bffe2bf888",
+      "title": "Topological feature extraction and tracking"
+    },
+    {
+      "paperId": "8444d779c53a96968b04be5f8fb04e3e055abd84",
+      "title": "Computation of Localized Flow for Steady and Unsteady Vector Fields and Its Applications"
+    },
+    {
+      "paperId": "74aaaa869c21a8de95ef624d4d0490730f1fee43",
+      "title": "Computing Two-Dimensional Global Invariant Manifolds in Slow-fast Systems"
+    },
+    {
+      "paperId": "a578654e383bbe605345414ebd0d26642dfc4041",
+      "title": "Modeling and visualization of time-varying topology transitions guided by Hyper Reeb Graph structures"
+    },
+    {
+      "paperId": "6335f367f01f764c5b79f143a46ecabdd5cc7a74",
+      "title": "Topology-Controlled Volume Rendering"
+    },
+    {
+      "paperId": "d51ed917ee3bc259545c48e582d4cbb64001c1e9",
+      "title": "Visualization of Barrier Tree Sequences"
+    },
+    {
+      "paperId": "69c712bb113bd06b6c5d6d71f5f3a24f5b243336",
+      "title": "Vines and vineyards by updating persistence in linear time"
+    },
+    {
+      "paperId": "91363db33dd5997965fa4b43ad546d1a749af009",
+      "title": "Definition and properties of Lagrangian coherent structures from finite-time Lyapunov exponents in two-dimensional aperiodic flows"
+    },
+    {
+      "paperId": "0544d7de4343b25989adde0865abbf246943b5a8",
+      "title": "Extracting higher order critical points and topological simplification of 3D vector fields"
+    },
+    {
+      "paperId": "f7c042d5159037ed5b875e8df4950c5d487a97dd",
+      "title": "Strategy for seeding 3D streamlines"
+    },
+    {
+      "paperId": "a7eb97818c0b61832a47f80ce383d7a892ba6631",
+      "title": "Topological lines in 3D tensor fields and discriminant Hessian factorization"
+    },
+    {
+      "paperId": "1e5af29077169f4cbbe38f4cef01877faa1bbf63",
+      "title": "Topological methods for 2D time-dependent vector fields based on stream lines and path lines"
+    },
+    {
+      "paperId": "9692bf98024c68a589b6e874cfc191507d2067cd",
+      "title": "Subdomain aware contour trees and contour evolution in time-dependent scalar fields"
+    },
+    {
+      "paperId": "49f57ed8b3c4b7609bb7fe240073c5db91197f7e",
+      "title": "Implementing time-varying contour trees"
+    },
+    {
+      "paperId": "376cc87bb6efc93b0c5c9169f8ba50f8cd49eaf9",
+      "title": "Simple and optimal output-sensitive construction of contour trees using monotone paths"
+    },
+    {
+      "paperId": "aa0615ecb90c3f6a1aed52c473ad62369b0417ff",
+      "title": "Tracking of vector field singularities in unstructured 3D time-dependent datasets"
+    },
+    {
+      "paperId": "af1c7570470652760a4ea80a86406d7ceb991868",
+      "title": "Visualization of intricate flow structures for vortex breakdown analysis"
+    },
+    {
+      "paperId": "66a4b394d417af0bf70ffc486dfcf56cb2a15df4",
+      "title": "Topological lines in 3D tensor fields"
+    },
+    {
+      "paperId": "c01b2bec5b9bbb3139baac78bac67538b31e4717",
+      "title": "Local and global comparison of continuous functions"
+    },
+    {
+      "paperId": "8ff295ac3dd10e1a9f9e7267e9019a366afac421",
+      "title": "Investigating swirl and tumble flow with a comparison of visualization techniques"
+    },
+    {
+      "paperId": "0e1a47553d9fbe3083b91a9797c1faa047be0667",
+      "title": "Topological Construction and Visualization of Higher Order 3D Vector Fields"
+    },
+    {
+      "paperId": "57747fdee6d24233c962c0d0f0a0fe11b1fabc23",
+      "title": "Visualization of Multivariate Density Estimates With Level Set Trees"
+    },
+    {
+      "paperId": "d9203520cf3d910452b78d98a9353eb0cbd96dd7",
+      "title": "A topological hierarchy for functions on triangulated surfaces"
+    },
+    {
+      "paperId": "5422e2badb35001854e3c21bce122283bde8eacc",
+      "title": "Time-varying reeb graphs for continuous space-time data"
+    },
+    {
+      "paperId": "d5fa39d94d5eccb3b06133041bda186ef3007cda",
+      "title": "Boundary switch connectors for topological visualization of complex 3D vector fields"
+    },
+    {
+      "paperId": "d9fc856341cd7d0e126e1943586161d972a8f00d",
+      "title": "Surface techniques for vortex visualization"
+    },
+    {
+      "paperId": "8f1ff3416dd5a4c81d2c88e2ff9bf2abc82014fa",
+      "title": "Topological segmentation in three-dimensional vector fields"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "44b1b3b74b6db52d6b86c5f3cb14d051497a3f14",
+      "title": "Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields"
+    },
+    {
+      "paperId": "e1abdac0ac8e2834f96f59ce018a95bcb8e180cd",
+      "title": "Combining topological simplification and topology preserving compression for 2D vector fields"
+    },
+    {
+      "paperId": "ebae053c2145cb86351f675515a5c04bc968a64c",
+      "title": "Parallel Computation of the Topology of Level Sets"
+    },
+    {
+      "paperId": "8ad65501dab7322aafac663d3c7dfb7b48bedd05",
+      "title": "Morse-smale complexes for piecewise linear 3-manifolds"
+    },
+    {
+      "paperId": "cb33fa0e8dd8082bceae25a39caedec93765b15e",
+      "title": "Feature Flow Fields"
+    },
+    {
+      "paperId": "05f9d61f5851df9282a12738797fe2f2c0c21262",
+      "title": "The Safari interface for visualizing time-dependent volume data using iso-surfaces and contour spectra"
+    },
+    {
+      "paperId": "3f2cf272204ce4274e230b11e636846e6382fe77",
+      "title": "Computing singularities of 3D vector fields with geometric algebra"
+    },
+    {
+      "paperId": "566d80de430ca7f9b477650a1aa6864e01dd25dc",
+      "title": "Locating Closed Streamlines in 3D Vector Fields"
+    },
+    {
+      "paperId": "34a0706bcdf8a1899e3d8c73698e8ab55455d9b8",
+      "title": "Lagrangian coherent structures from approximate velocity data"
+    },
+    {
+      "paperId": "c38ef430ea8f0d9ce4129bf598289374b8ae1e9d",
+      "title": "Topology tracking for the visualization of time-dependent two-dimensional flows"
+    },
+    {
+      "paperId": "21328e85c442458cab4fdb2faf979687725b6487",
+      "title": "Barrier Trees of Degenerate Landscapes"
+    },
+    {
+      "paperId": "09509d7de5e6ad751a8e463c6f56049e9c032ae4",
+      "title": "Tracking Closed Streamlines in Time Dependent Planar Flows"
+    },
+    {
+      "paperId": "ca705388cae6023ecab59ab359b76c8d611ec188",
+      "title": "Continuous topology simplification of planar vector fields"
+    },
+    {
+      "paperId": "de1d767ce10b24c10aea513404498fe09dfcd72e",
+      "title": "Tensor Topology Tracking: A Visualization Method for Time\u2010Dependent 2D Symmetric Tensor Fields"
+    },
+    {
+      "paperId": "70deefae79091024772a4cfff9e119712b599b53",
+      "title": "Hierarchical morse complexes for piecewise linear 2-manifolds"
+    },
+    {
+      "paperId": "e165378f39af059f3caa28aa1f18ccd6e7fdb502",
+      "title": "Vector and Tensor Field Topology Simplification on Irregular Grids"
+    },
+    {
+      "paperId": "45f0ffcd0eed72d8f8bb66f37437a8734b0ddd6e",
+      "title": "Detection and Visualization of Closed Streamlines in Planar Flows"
+    },
+    {
+      "paperId": "cb672955f60bc279474efeed238a4756f0059a4b",
+      "title": "Topological Persistence and Simplification"
+    },
+    {
+      "paperId": "4cecfa4bbb8eb7bcf97d8f8a2d1950c4c37c93a8",
+      "title": "A topology simplification method for 2D vector fields"
+    },
+    {
+      "paperId": "d08de1ea7d1a5a32ca2219b3ccad3be2e6dfb280",
+      "title": "Volume Data Mining Using 3D Field Topology Analysis"
+    },
+    {
+      "paperId": "75ba747d260ad785748168ec4bcd4be6ef831991",
+      "title": "Multi-level topology for flow visualization"
+    },
+    {
+      "paperId": "1f64a00131efd4441a79f94238a4ebbbef5230ad",
+      "title": "Computing contour trees in all dimensions"
+    },
+    {
+      "paperId": "aeda2c8d1b8092e5c656dd947fcff985e1825a78",
+      "title": "Feature comparisons of 3-D vector fields using earth mover's distance"
+    },
+    {
+      "paperId": "4806cfcd9ba2ff26e25678b7b40e9a73f0e27e3c",
+      "title": "Collapsing flow topology using area metrics"
+    },
+    {
+      "paperId": "7d8683c57ce15604a942480a81f215853fce619c",
+      "title": "Feature Extraction of Separation and Attachment Lines"
+    },
+    {
+      "paperId": "745c07291390ad937b7ea7fd59c4d78d6c0fe867",
+      "title": "Visualizing Nonlinear Vector Field Topology"
+    },
+    {
+      "paperId": "524e9b92d11b9a318c6a1bf95b001bd452ae90f3",
+      "title": "Morse Theory for Cell Complexes"
+    },
+    {
+      "paperId": "5d3b5b1b42b23e627c0aa7dafb95cd911412c1d9",
+      "title": "Visualization of higher order singularities in vector fields"
+    },
+    {
+      "paperId": "6be14181f79a9ba064cdd6164637289fb9d4a93d",
+      "title": "Contour trees and small seed sets for isosurface traversal"
+    },
+    {
+      "paperId": "4d846013effb882e0667e49556902703457d0aeb",
+      "title": "Algorithms for Extracting Correct Critical Points and Constructing Topological Graphs from Discrete Geographical Elevation Data"
+    },
+    {
+      "paperId": "07bc555609fbd5bfef70e24ca8d960c2b6fe1d2b",
+      "title": "The topology of symmetric, second-order tensor fields"
+    },
+    {
+      "paperId": "c4ee4f7a2342ae1adf7b5f2f48fe9251f8677dd5",
+      "title": "Visualizing features and tracking their evolution"
+    },
+    {
+      "paperId": "9e856df74c5ecfc7ef5002be5fb3d7f1915f84d9",
+      "title": "Tools for Computing Tangent Curves and Topological Graphs"
+    },
+    {
+      "paperId": "b0cdbb240bafdeac8df7b4dec904537e403a53a2",
+      "title": "Trekking in the Alps Without Freezing or Getting Tired"
+    },
+    {
+      "paperId": "f66b659746ce62ab88b120bca1c9dc77310a2cf2",
+      "title": "Constructing a Reeb graph automatically from cross sections"
+    },
+    {
+      "paperId": "1c90f1c63b47230569209011e1e4bccbbc9cf73b",
+      "title": "A tool for visualizing the topology of three-dimensional vector fields"
+    },
+    {
+      "paperId": "7dee7eaee30a7881dcc355eb3ad83f0db545fd0d",
+      "title": "Surface coding based on Morse theory"
+    },
+    {
+      "paperId": "5e66dbce5020f9843ec8e485f4c135b5cc587bb3",
+      "title": "Simulation of simplicity: a technique to cope with degenerate cases in geometric algorithms"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": "59dcfe06c614d6f7fe6be24bf498f7fd50dc18cd",
+      "title": "Computer/Art-Depolarization and Unification"
+    },
+    {
+      "paperId": "70e3da6c426ca384f78f77474cbbf00a436038a2",
+      "title": "Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields"
+    },
+    {
+      "paperId": "c921124bb0f540927f5ba56f54a5f05c3e261d0c",
+      "title": "Critical Points and Curvature for Embedded Polyhedral Surfaces"
+    },
+    {
+      "paperId": "db20361777801d0409938de6c25355f22e4061b8",
+      "title": "Hybrid techniques for real-time radar simulation"
+    },
+    {
+      "paperId": null,
+      "title": "c (cid:13) 2016TheAuthor(s) ComputerGraphicsForum c (cid:13)"
+    },
+    {
+      "paperId": null,
+      "title": "The Author(s)"
+    },
+    {
+      "paperId": "78e7f0d6f02eeed764494df6d2efca95bc2e2a73",
+      "title": "A Comparison of Pareto Sets and Jacobi Sets"
+    },
+    {
+      "paperId": "ceec898d561f96b03cd33c4702a46c662a101be0",
+      "title": "Extracting Jacobi Structures in Reeb Spaces"
+    },
+    {
+      "paperId": "2eb58be7c66f97b95ddda01d1dd3a4689a997d78",
+      "title": "Toward the Extraction of Saddle Periodic Orbits"
+    },
+    {
+      "paperId": "5deac9118b5645c2ad8fd7d0b37f1c6c9e32f8f0",
+      "title": "Robust Detection of Singularities in Vector Fields"
+    },
+    {
+      "paperId": "f4623aceefcc37dc046cbb5332bb341374249964",
+      "title": "Notes on the Simplification of the Morse-Smale Complex"
+    },
+    {
+      "paperId": "875e43970ec7f126a87d4219a1ae93fd2bfe66f2",
+      "title": "A CONTOUR TREE BASED VISUALIZATION FOR EXPLORING DATA WITH UNCERTAINTY"
+    },
+    {
+      "paperId": "453c46f0e1891cc3cca901cb95921639e5c1b633",
+      "title": "Beyond Topology: A Lagrangian Metaphor to Visualize the Structure of 3D Tensor Fields"
+    },
+    {
+      "paperId": "63e4989e19dbba5aa4a567d9198af759676d6156",
+      "title": "A Variance Based FTLE-Like Method for Unsteady Uncertain Vector Fields"
+    },
+    {
+      "paperId": "e6c17097a80cf8b67c1cb170ec10ce88f355c853",
+      "title": "2D Asymmetric Tensor Field Topology"
+    },
+    {
+      "paperId": "8f20cb7681b33e39ccf0c70022059332bf2f008c",
+      "title": "Combinatorial Vector Field Topology in Three Dimensions"
+    },
+    {
+      "paperId": "5cc8e4a5318401977b72cae7dd6de9983671a8ad",
+      "title": "Combinatorial 2D Vector Field Topology Extraction and Simplification"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "632ae552cfb839f79e56222ed0930bccef133c67",
+      "title": "Simplification of Jacobi Sets"
+    },
+    {
+      "paperId": "adf3ac8f7a5d345587e6f82681080108bb20cb94",
+      "title": "On the Extraction of Long-living Features in Unsteady Fluid Flows"
+    },
+    {
+      "paperId": "2b1fecba2b3907e4aad24e9c06409995d4a9806a",
+      "title": "Topological Methods in Data Analysis and Visualization"
+    },
+    {
+      "paperId": "69a6f9826a46076b9cc74f37d544b346d82cee42",
+      "title": "Visualizing Contour Trees within Histograms"
+    },
+    {
+      "paperId": "2be304dec13dd751d6ac0af0cdd2dffdf03f60a2",
+      "title": "Field Topology in the Context of Separation and Attachment of Flows"
+    },
+    {
+      "paperId": "57e64c2c1e56591342070d843d07cbce83151e09",
+      "title": "Visualization of Uncertain Contour Trees"
+    },
+    {
+      "paperId": "ed919f222ad30d4fe1718673aeb3715b7a4ce6c9",
+      "title": "Flexible isosurfaces: Simplifying and displaying scalar topology using the contour tree"
+    },
+    {
+      "paperId": "2c58e171f5587210e5daf8d23f6d3564beaba30b",
+      "title": "Isocontour based Visualization of Time-varying Scalar Fields"
+    },
+    {
+      "paperId": "ce09df64584417a62bfc2c6851eb783b41528a6d",
+      "title": "Flow Topology Beyond Skeletons: Visualization of Features in Recirculating Flow"
+    },
+    {
+      "paperId": "86e42c9a6a7b7926832f0f535c4ec014f34c1ffe",
+      "title": "Visualizing global manifolds during the transition to chaos in the Lorenz system"
+    },
+    {
+      "paperId": "d4e38a2bde6e56aff1c40c2c72429570a166dd82",
+      "title": "Localized Finite-time Lyapunov Exponent for Unsteady Flow Analysis"
+    },
+    {
+      "paperId": "d9141197095d7a1f34090db1f523353e3811b50b",
+      "title": "Visualizing Lagrangian Coherent Structures and Comparison to Vector Field Topology"
+    },
+    {
+      "paperId": "283b32ffc5892544b790e413a74c6ed66c7dfd08",
+      "title": "Extraction of Separation Manifolds using Topological Structures in Flow Cross Sections"
+    },
+    {
+      "paperId": "5f881f7f626a93460da1c253876a9f9412dc5833",
+      "title": "Topology Based Selection and Curation of Level Sets"
+    },
+    {
+      "paperId": "deddc275460c4cde814200cae344dd51db9fbcf4",
+      "title": "Visualization of Coherent Structures in Transient 2D Flows"
+    },
+    {
+      "paperId": "c7f0eafbe7289813bcc2fc28908e1cd7a19935bb",
+      "title": "Representing Interpolant Topology for Contour Tree Computation"
+    },
+    {
+      "paperId": "6722de65167834ffedd10a46808ed420f89641ae",
+      "title": "Bringing Topology-Based Flow Visualization to the Application Domain"
+    },
+    {
+      "paperId": "f3ac1b0201b6328afeddcb66875c096e9d589937",
+      "title": "The TOPORRERY: computation and presentation of multi-resolution topology"
+    },
+    {
+      "paperId": "36d8449e95a36baf7261a86631ba2c5ade1f0a74",
+      "title": "Topology-Based Methods in Visualization II"
+    },
+    {
+      "paperId": "fe9e6445ef64bb694e546e8f8afcd917ac97dc3d",
+      "title": "Visual Analysis of Biomolecular Surfaces"
+    },
+    {
+      "paperId": "f1af7f53ae1c4d58709b281ad217345b4ae4f87b",
+      "title": "Computation of Localized Flow for Steady and Unsteady Vector Fields and Its Applications"
+    },
+    {
+      "paperId": "b0da82ffbe10a73f42da5d675da11b6da7d6ef2b",
+      "title": "Time-varying contour topology"
+    },
+    {
+      "paperId": "7fab5f40d39099eeb1d53ba58f4676299bb4eaca",
+      "title": "Multi-Resolution computation and presentation of Contour Trees"
+    },
+    {
+      "paperId": "dc1cdfc639280809a68934c2f6d83a58354ffd2e",
+      "title": "Topological volume skeletonization and its application to transfer function design"
+    },
+    {
+      "paperId": "17e24688f6d92248a61cc49c02fdc91c17b50362",
+      "title": "Grid-independent Detection of Closed Stream Lines in 2D Vector Fields"
+    },
+    {
+      "paperId": "b868e58dd2e9d6c245ef9439b0fe97f01e8de26c",
+      "title": "Foundations of Computational Mathematics: Minneapolis, 2002: Jacobi Sets"
+    },
+    {
+      "paperId": null,
+      "title": "15th IEEE Visualization 2004 Conference (VIS 2004)"
+    },
+    {
+      "paperId": "04918479b2e8e87a3f4962177e7bf1d386f854b9",
+      "title": "Using Feature Flow Fields for Topological Comparison of Vector Fields"
+    },
+    {
+      "paperId": "da88d4698e0b15eddde7b26fbece7e9f08f9aa14",
+      "title": "THOROUGH INSIGHTS BY ENHANCED VISUALIZATION OF FLOW TOPOLOGY"
+    },
+    {
+      "paperId": "29d8b461fd6f5ef2aa828152e39fa695f6642217",
+      "title": "Enhancing the Visualization of Characteristic Structures in Dynamical Systems"
+    },
+    {
+      "paperId": "0142228a8190677cb43d8a662581dfb375d610e4",
+      "title": "The contour spectrum"
+    },
+    {
+      "paperId": "aa49dfb46401ec5c3c05349b6cffc20dff0daff6",
+      "title": "Largest contour segmentation: a tool for the localization of spots in confocal images."
+    },
+    {
+      "paperId": null,
+      "title": "Dynamics\u2013the Geometry of Behavior: Global behavior (2nd edition)"
+    },
+    {
+      "paperId": null,
+      "title": "HOLMES P.: Nonlinear Oscillations"
+    },
+    {
+      "paperId": null,
+      "title": "Sur les points singuliers d'une forme de Pfaff completement int\u00e9grable ou d'une fonction num\u00e9rique. Computes Rendus de L'Acad\u00e9mie des S\u00e9ances"
+    },
+    {
+      "paperId": "3ba84c5b03ce0c84566cd9d4187c3f00bf9556a7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Visualization Methods for Vortex Rings and Vortex Breakdown Bubbles"
+    },
+    {
+      "paperId": "95644b75944249fbe87871baa8650b27a7500bb4",
+      "title": "Ieee Transactions on Pattern Analysis and Machine Intelligence Theory and Algorithms for Constructing Discrete Morse Complexes from Grayscale Digital Images"
+    },
+    {
+      "paperId": "eced9508a59c3d1605ce08629893443aa2224d22",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics 1 Streamline Embedding for 3d Vector Field Exploration"
+    },
+    {
+      "paperId": "489f44ec06d5bc003c16ec486820596f2752dd18",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 toward a Lagrangian Vector Field Topology"
+    },
+    {
+      "paperId": "b768cffc3d2eecdad6bf2dfd9f345a449cc59af7",
+      "title": "Eurographics Symposium on Point-based Graphics (2007) Topological Methods for the Analysis of High Dimensional Data Sets and 3d Object Recognition"
+    },
+    {
+      "paperId": "1bd152c08b95a53a9efc8084a2ec1df1cc4c7aac",
+      "title": "Persistent Homology \u2014 a Survey"
+    },
+    {
+      "paperId": "27e37b69a6466690058f12e772ddc0f6136e11ac",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Topology-based Smoothing of 2d Scalar Fields with C -continuity"
+    },
+    {
+      "paperId": "d8b06c009dec3719a4c0f2b20863ce09be3db9eb",
+      "title": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS Interactive Exploration and Analysis o"
+    },
+    {
+      "paperId": null,
+      "title": "A Survey of Topology-based application domain"
+    },
+    {
+      "paperId": "994a846174eba2196a5829a19f280ffbab760130",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Flexible and Topologically Localized Segmentation"
+    }
+  ]
+}

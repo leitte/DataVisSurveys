@@ -1,0 +1,283 @@
+{
+  "paperId": "4e472d26ef016bc4aa7e0a28b5ba5700321e4bb6",
+  "externalIds": {
+    "DBLP": "conf/visualization/YoshizumiCCGGJM20",
+    "MAG": "3084042015",
+    "ArXiv": "2009.03390",
+    "DOI": "10.1109/VIS47514.2020.00017",
+    "CorpusId": 221534475
+  },
+  "publicationVenue": {
+    "id": "c581dc3f-8f95-42b6-9fe8-0bef02dc2ed9",
+    "name": "Visual ..",
+    "type": "conference",
+    "alternate_names": [
+      "Verl\u00e4ssliche Informationssysteme",
+      "VISUAL",
+      "International Conference on Visual Information and Information Systems",
+      "Visual",
+      "Int Conf Vis Inf Inf Syst",
+      "IEEE Vis Conf",
+      "Vis ",
+      "IEEE Visualization Conference",
+      "VIS"
+    ],
+    "issn": "2519-8645",
+    "alternate_issns": [
+      "1576-7868",
+      "2746-6477",
+      "1133-0422"
+    ],
+    "url": "http://www.thinkmind.org/index.php?event=VISUAL&view=event",
+    "alternate_urls": [
+      "https://www.journal.untar.ac.id/index.php/visual",
+      "http://ieeevis.org/year/2021/welcome",
+      "http://lisi.insa-lyon.fr/~laurini/visual/",
+      "http://visual.gi/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/4e472d26ef016bc4aa7e0a28b5ba5700321e4bb6",
+  "title": "A Review of Geospatial Content in IEEE Visualization Publications",
+  "abstract": "Geospatial analysis is crucial for addressing many of the world\u2019s most pressing challenges. Given this, there is immense value in improving and expanding the visualization techniques used to communicate geospatial data. In this work, we explore this important intersection \u2013 between geospatial analytics and visualization \u2013 by examining a set of recent IEEE VIS Conference papers (a selection from 2017-2019) to assess the inclusion of geospatial data and geospatial analyses within these papers. After removing the papers with no geospatial data, we organize the remaining literature into geospatial data domain categories and provide insight into how these categories relate to VIS Conference paper types. We also contextualize our results by investigating the use of geospatial terms in IEEE Visualization publications over the last 30 years. Our work provides an understanding of the quantity and role of geospatial subject matter in recent IEEE VIS publications and supplies a foundation for future meta-analytical work around geospatial analytics and geovisualization that may shed light on opportunities for innovation.",
+  "venue": "Visual ..",
+  "year": 2020,
+  "referenceCount": 38,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2009.03390",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2020-09-07",
+  "journal": {
+    "name": "2020 IEEE Visualization Conference (VIS)",
+    "pages": "51-55"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Yoshizumi2020ARO,\n author = {Alexander Yoshizumi and Megan M. Coffer and Elyssa L. Collins and Mollie D. Gaines and Xiaojie Gao and K. Jones and I. McGregor and K. Mcquillan and Vinicius Perin and Laura M. Tomkins and Thomas J. Worm and Laura G. Tateosian},\n booktitle = {Visual ..},\n journal = {2020 IEEE Visualization Conference (VIS)},\n pages = {51-55},\n title = {A Review of Geospatial Content in IEEE Visualization Publications},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "150928876",
+      "name": "Alexander Yoshizumi"
+    },
+    {
+      "authorId": "108749234",
+      "name": "Megan M. Coffer"
+    },
+    {
+      "authorId": "107707502",
+      "name": "Elyssa L. Collins"
+    },
+    {
+      "authorId": "1932049868",
+      "name": "Mollie D. Gaines"
+    },
+    {
+      "authorId": "48268603",
+      "name": "Xiaojie Gao"
+    },
+    {
+      "authorId": "31909251",
+      "name": "K. Jones"
+    },
+    {
+      "authorId": "153625423",
+      "name": "I. McGregor"
+    },
+    {
+      "authorId": "1572748179",
+      "name": "K. Mcquillan"
+    },
+    {
+      "authorId": "120250150",
+      "name": "Vinicius Perin"
+    },
+    {
+      "authorId": "118280789",
+      "name": "Laura M. Tomkins"
+    },
+    {
+      "authorId": "108474542",
+      "name": "Thomas J. Worm"
+    },
+    {
+      "authorId": "2933005",
+      "name": "Laura G. Tateosian"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ed736ee1d4a334bec2c045bf3f7f102b4c141474",
+      "title": "Semantics-Space-Time Cube: A Conceptual Framework for Systematic Analysis of Texts in Space and Time"
+    },
+    {
+      "paperId": "a51e212a3c3da8fe137874c7f8f69f4810e97130",
+      "title": "SmartCube: An Adaptive Data Management Architecture for the Real-Time Visualization of Spatiotemporal Datasets"
+    },
+    {
+      "paperId": "df957d363c28097085c6bc55200d31353338d22a",
+      "title": "AirVis: Visual Analytics of Air Pollution Propagation"
+    },
+    {
+      "paperId": "ce5ea84e8f70b4964aa1d9f09490fce434ffe4e4",
+      "title": "Towards Quantifying Multiple View Layouts in Visualisation as Seen from Research Publications"
+    },
+    {
+      "paperId": "4e0cb6df015a3d77f393af5bb5f2ab6f53611979",
+      "title": "Time Varying Predominance Tag Maps"
+    },
+    {
+      "paperId": "561fd62741e7acee3f2330c33abac41b35164531",
+      "title": "Sabrina: Modeling and Visualization of Financial Data over Time with Incremental Domain Knowledge"
+    },
+    {
+      "paperId": "33cf35057b2a4c41bd27d3cb60380f6206afee7f",
+      "title": "COPE: Interactive Exploration of Co-Occurrence Patterns in Spatial Time Series"
+    },
+    {
+      "paperId": "16bc4ce6cc85e2592071501b86293df3f3219bff",
+      "title": "Exploring Variability within Ensembles of Decadal Climate Predictions"
+    },
+    {
+      "paperId": "c7df81b52c570d120c05eb7571612ee7809f09b5",
+      "title": "Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows Over Time"
+    },
+    {
+      "paperId": "0670b47127aeb70ecb52beb4559d5e3317204d34",
+      "title": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots"
+    },
+    {
+      "paperId": "3ca997d6d745a24cfadc6e2662babf5290f05792",
+      "title": "Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data"
+    },
+    {
+      "paperId": "fa0d40850802b94b08a27f00ef7d2a3d94549f30",
+      "title": "Interactive 3D Visual Analysis of Atmospheric Fronts"
+    },
+    {
+      "paperId": "9ba8056003502fb09e8af330705daeca073df27e",
+      "title": "Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks"
+    },
+    {
+      "paperId": "9bea21f70ae6b9cc9e8f785fbbc45fa138441055",
+      "title": "Open Practices in Visualization Research : Opinion Paper"
+    },
+    {
+      "paperId": "b089adf30a6ccc0da62c784185c29dcedba7a3c8",
+      "title": "VRGE: An Immersive Visualization Application for the Geosciences"
+    },
+    {
+      "paperId": "48e91cee8055ab55c38b15b9254c6b1e9bebbda4",
+      "title": "VUSphere: Visual Analysis of Video Utilization in Online Distance Education"
+    },
+    {
+      "paperId": "b63fa5ccd89ef07aed8ffefc647f654261f3e48d",
+      "title": "A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden"
+    },
+    {
+      "paperId": "00d3c7acf90df81138edc4b06afaa1ea5a0fe9ca",
+      "title": "Mapping and Visualizing Deep-Learning Urban Beautification"
+    },
+    {
+      "paperId": "bc020245f438cb0023f2caf2b193542f9f214c22",
+      "title": "CRICTO: Supporting Sensemaking through Crowdsourced Information Schematization"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "24e40004361b96904d7c33031bf10f71d3f7280a",
+      "title": "Revealing Patterns and Trends of Mass Mobility Through Spatial and Temporal Abstraction of Origin-Destination Movement Data"
+    },
+    {
+      "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+      "title": "A Systematic Review of Experimental Studies on Data Glyphs"
+    },
+    {
+      "paperId": "c75bbf04d1f9c7b110e021ba0b10b1e3d974ed70",
+      "title": "Evaluating Cartogram Effectiveness"
+    },
+    {
+      "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+      "title": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "paperId": "30888222967a942a3af72ef135548ecc574b7c02",
+      "title": "A Survey of Multiple Tree Visualisation"
+    },
+    {
+      "paperId": "024d68a8768e78684c49b016f8cc1b3a34d01b58",
+      "title": "Geospatial Anchoring of Encyclopedia Articles"
+    },
+    {
+      "paperId": "76f56f5f2435b65e4631a442f12681faa7a2c7ac",
+      "title": "Case Study: Visualizing Visualization"
+    },
+    {
+      "paperId": "5c0eeee1ee8499b3924e80cbb7f499aebd566eb0",
+      "title": "Does the Difference between Information and Scientific Visualization Really Matter?"
+    },
+    {
+      "paperId": "1868aaef6f7e23baba1c8f06c2c2c54b37f0aeea",
+      "title": "Research Challenges in Geovisualization"
+    },
+    {
+      "paperId": "29bee125e958c764b40cde13b0233471012dee1c",
+      "title": "Globe Browsing: Contextualized Spatio-Temporal Planetary Surface Visualization"
+    },
+    {
+      "paperId": "55e2f55a0911071224866f7723fc2eaae44019ce",
+      "title": "Visualizing Big Data Outliers Through Distributed Aggregation"
+    },
+    {
+      "paperId": "af51815c63470b0e11edf5fb532335ef95d46539",
+      "title": "ARIES: Enabling Visual Exploration and Organization of Art Image Collections"
+    },
+    {
+      "paperId": "853501cffacf6b161dcaf548a2858fe1536b3f8d",
+      "title": "Clustering Trajectories by Relevant Parts for Air Traffic Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Toward a deeper understanding of visualization through keyword analysis"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "aca69107fc46a8138434715a3fda50d541dd57fa",
+      "title": "\u201c80% of All Information is Geospatially Referenced\u201d??? Towards a Research Framework: Using the Semantic Web for (In)Validating this Famous Geo Assertion"
+    },
+    {
+      "paperId": "58b1340e61e6eca5a59045d9c4923951e44ac965",
+      "title": "A Visual Survey of Tree Visualization"
+    },
+    {
+      "paperId": "0e57b0d2bd82b00b32b89c319577d553f21c34a1",
+      "title": "International Journal of Geographical Information Science"
+    }
+  ]
+}

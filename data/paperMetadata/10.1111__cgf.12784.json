@@ -1,0 +1,413 @@
+{
+  "paperId": "f1d39e889f320daa6014862838700be0cca007aa",
+  "externalIds": {
+    "MAG": "2286660955",
+    "DBLP": "journals/cgf/PretoriusKE17",
+    "DOI": "10.1111/cgf.12784",
+    "CorpusId": 26367101
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/f1d39e889f320daa6014862838700be0cca007aa",
+  "title": "A Survey of Visualization for Live Cell Imaging",
+  "abstract": "Live cell imaging is an important biomedical research paradigm for studying dynamic cellular behaviour. Although phenotypic data derived from images are difficult to explore and analyse, some researchers have successfully addressed this with visualization. Nonetheless, visualization methods for live cell imaging data have been reported in an ad hoc and fragmented fashion. This leads to a knowledge gap where it is difficult for biologists and visualization developers to evaluate the advantages and disadvantages of different visualization methods, and for visualization researchers to gain an overview of existing work to identify research priorities. To address this gap, we survey existing visualization methods for live cell imaging from a visualization research perspective for the first time. Based on recent visualization theory, we perform a structured qualitative analysis of visualization methods that includes characterizing the domain and data, abstracting tasks, and describing visual encoding and interaction design. Based on our survey, we identify and discuss research gaps that future work should address: the broad analytical context of live cell imaging; the importance of behavioural comparisons; links with dynamic data visualization; the consequences of different data modalities; shortcomings in interactive support; and, in addition to analysis, the value of the presentation of phenotypic data and insights to other stakeholders.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2017,
+  "referenceCount": 87,
+  "openAccessPdf": {
+    "url": "http://eprints.whiterose.ac.uk/91447/1/visualisation-live-cell-imaging-v5.0.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-01-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Pretorius2017ASO,\n author = {A. J. Pretorius and I. Khan and R. Errington},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {A Survey of Visualization for Live Cell Imaging},\n volume = {36},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "30845108",
+      "name": "A. J. Pretorius"
+    },
+    {
+      "authorId": "71182637",
+      "name": "I. Khan"
+    },
+    {
+      "authorId": "2367193",
+      "name": "R. Errington"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "bed15a67bd79c92c31bb9772e8500d9062b9b4b9",
+      "title": "Interactive Procedural Modelling of Coherent Waterfall Scenes"
+    },
+    {
+      "paperId": "31f2430d620471a4fa0deed9d56d582f7d7aea29",
+      "title": "Glyph-Based Video Visualization for Semen Analysis"
+    },
+    {
+      "paperId": "c4c1e28f27da54aec8ca5b0362969bc633269486",
+      "title": "Two routes to senescence revealed by real-time analysis of telomerase-negative single lineages"
+    },
+    {
+      "paperId": "87693092a14f3e56015da013b1f6909a217d1d28",
+      "title": "The nested blocks and guidelines model"
+    },
+    {
+      "paperId": "49461b60e67b74fd3d76a83123fbb9d64846dee6",
+      "title": "Cell lineage visualisation"
+    },
+    {
+      "paperId": "f914352479a35f2f6bf1ab558533a0130200ce82",
+      "title": "Visualization and correction of automated segmentation, tracking and lineaging from 5-D stem cell image sequences"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "330796afeb8b458cb6d94f77982c6ffa96a26eb0",
+      "title": "Designing Visualizations For Biological Data"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "d13eae483cbe9f081a49391807f3f3b4db441e94",
+      "title": "A novel single-cell screening platform reveals proteome plasticity during yeast stress responses"
+    },
+    {
+      "paperId": "cde0855cb750d15790c7dbd1f657a90fae9d2630",
+      "title": "Visual analytics of movement: An overview of methods, tools and procedures"
+    },
+    {
+      "paperId": "2fe215b06b5b29c4e2a385d975ba256b787e0ba7",
+      "title": "Overview of Live\u2010Cell Imaging: Requirements and Methods Used"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "4def31ac7af95e44d88383a512cdc909c9b63da5",
+      "title": "Similarity analysis of cell movements in video microscopy"
+    },
+    {
+      "paperId": "84a4793f74b11da812d445c656c106c9c017ca43",
+      "title": "Imaging, quantification and visualization of spatio-temporal patterning in mESC colonies under different culture conditions"
+    },
+    {
+      "paperId": "304a25c41e5cc668fa33d02c773b6686e750cd67",
+      "title": "HiTSEE KNIME: a visualization tool for hit selection and analysis in high-throughput screening experiments for the KNIME platform"
+    },
+    {
+      "paperId": "80803cb840ed88b28a8cfb11794e946018eb4b78",
+      "title": "Workflow and Metrics for Image Quality Control in Large-Scale High-Content Screens"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "d8b26b82e6abf4eae011e43b8172c569f0d82d18",
+      "title": "Vertebrate neural stem cell segmentation, tracking and lineaging with validation and editing"
+    },
+    {
+      "paperId": "04c300e0f88662c345bf137293f0ecb6178e8534",
+      "title": "HiTSEE: A visualization tool for hit selection and analysis in high-throughput screening experiments"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "281ad7e99ddeba38cd837a57364376e0208c8fd7",
+      "title": "Interoperability of time series cytometric data: A cross platform approach for modeling tumor heterogeneity"
+    },
+    {
+      "paperId": "761e5ea2bc84eb2942fe6bb8bd2c69914504305f",
+      "title": "Phenomics: the next challenge"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "7afad793cae5cda711e04bd1d6dd6aa13143f555",
+      "title": "Revealing the Origin and Nature of Drug Resistance of Dynamic Tumour Systems"
+    },
+    {
+      "paperId": "50cc8dd825103c97204ff58a7c5da09c70bb128c",
+      "title": "CellCognition: time-resolved phenotype annotation in high-throughput live cell imaging"
+    },
+    {
+      "paperId": "d388d2a7516794e4f02e5ecb9e230f16d3da1157",
+      "title": "Visualization of image data from cells to organisms"
+    },
+    {
+      "paperId": "89985ef4409596e5f929f46439b0cfac4f8739c8",
+      "title": "Automatic identification and clustering of chromosome phenotypes in a genome wide RNAi screen by time-lapse imaging."
+    },
+    {
+      "paperId": "040b4f257b8b048ffb0e61e5ee4a8d16ce2d32da",
+      "title": "Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes"
+    },
+    {
+      "paperId": "e297c73f2cdb82e7e6ec6e322682212938e38068",
+      "title": "Visualizing and quantifying the differential cleavages of the eukaryotic translation initiation factors eIF4GI and eIF4GII in the enterovirus\u2010infected cell"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "1197ebab49eb67a39bed9c8cb7d78ee187a2f631",
+      "title": "Actin\u2010like protein 1 (ALP1) is a component of dynamic, high molecular weight complexes in Toxoplasma gondii"
+    },
+    {
+      "paperId": "c5000b0d1f5a675cc086fbb52f8d4e7539d9771c",
+      "title": "What Does the User Want to See? What do the Data Want to Be?"
+    },
+    {
+      "paperId": "a5d81b1fdfa007c3d88658ea4da1a3c30c268a36",
+      "title": "A novel view on stem cell development: analysing the shape of cellular genealogies"
+    },
+    {
+      "paperId": "8c401f7b441e8ee32c0f1b02bfc877f3f8bc6c35",
+      "title": "Continuous single-cell imaging of blood generation from haemogenic endothelium"
+    },
+    {
+      "paperId": "6b37b398b21109535e6b16b8d3e60a4e310a1890",
+      "title": "Reconstruction of Zebrafish Early Embryonic Development by Scanned Light Sheet Microscopy"
+    },
+    {
+      "paperId": "2e14d5736174492b5a6c2e17bc11407e27f367b8",
+      "title": "CellProfiler Analyst: data exploration and analysis software for complex image-based screens"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "9a3b0cd3c589277366dc30b4063be5675b48ae3e",
+      "title": "Robust single particle tracking in live cell time-lapse sequences"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "fe0b786e23ef70d82127293d28eabf24f7b23b03",
+      "title": "Integration of information and volume visualization for analysis of cell lineage and gene expression during embryogenesis"
+    },
+    {
+      "paperId": "03d6b6fcd95343b3c17a5fa357c4b3df10408416",
+      "title": "High throughput microscopy: from raw images to discoveries"
+    },
+    {
+      "paperId": "101b6131d20e51ac409ed94ee641cbec7212271b",
+      "title": "High-throughput screening assays for the identification of chemical probes."
+    },
+    {
+      "paperId": "a37473b030751378f4d66599d5d109c75ca71d01",
+      "title": "Image-based chemical screening."
+    },
+    {
+      "paperId": "3683c852eb75f702bc4507863933e9a91dd1ebfe",
+      "title": "Cellular and molecular mechanisms of border cell migration analyzed using time-lapse live-cell imaging."
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "212ca8c401ef23ceb3d492a77d5043b89cde6924",
+      "title": "ProgeniDB: A Novel Cell Lineage Database for Generation Associated Phenotypic Behavior in Cell-based Assays"
+    },
+    {
+      "paperId": "a2e75b7d9727b7ea7cefb4060d93ac75813e3c48",
+      "title": "CellProfiler: image analysis software for identifying and quantifying cell phenotypes"
+    },
+    {
+      "paperId": "fa757b408ec78abdd4487046c28fd55027a601e8",
+      "title": "Dynamic proteomics in individual human cells uncovers widespread cell-cycle dependence of nuclear proteins"
+    },
+    {
+      "paperId": "b54cd7414656b9754f37b40a59e6684959996477",
+      "title": "Tracking in molecular bioimaging"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "3ab2b44a507c2bf0adfbfbd136af77dd082e7a8f",
+      "title": "Automated Cell Lineage Construction: A Rapid Method to Analyze Clonal Development Established with Murine Neural Progenitor Cells"
+    },
+    {
+      "paperId": "520b0e8c0f865556bf80b3ee8bce3442ae8b1a2d",
+      "title": "Fluorescence microscopy today"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "20cd469eb445217aa19246dc1a00016d74d391f5",
+      "title": "Visualizing Biological Pathways: Requirements Analysis, Systems Evaluation and Research Agenda"
+    },
+    {
+      "paperId": "2809d4876e34b8c64fc1783fe6a0a278770505b0",
+      "title": "A survey of data provenance in e-science"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "3034740037833451e5b537bb650316f642cb0d1c",
+      "title": "Visualizing telomere dynamics in living mammalian cells using PNA probes"
+    },
+    {
+      "paperId": "db1bb4146a71b01dc5063ff39918dfc5e40c3529",
+      "title": "Ontologies: Formalising biological knowledge for bioinformatics."
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "86aa05a4a38d81d95afe31daa6e339237562bd41",
+      "title": "A Survey of Dimension Reduction Techniques"
+    },
+    {
+      "paperId": "a411f6a0e6473137ac1a538f7cee65722fa3584f",
+      "title": "Gene Ontology: tool for the unification of biology"
+    },
+    {
+      "paperId": "57d96f3f12961ef50cbcf91cdfccfce33ffa7b01",
+      "title": "Time-resolved analysis and visualization of dynamic processes in living cells."
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": null,
+      "title": "YMPOSIUM ON B IOLOGICAL D ATA V ISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "ETWORK OF E"
+    },
+    {
+      "paperId": null,
+      "title": "Dickinson and Company"
+    },
+    {
+      "paperId": null,
+      "title": "http://www.zeiss.com/microscopy/"
+    },
+    {
+      "paperId": null,
+      "title": "ORPORATION L IFE S CIENCES"
+    },
+    {
+      "paperId": "451f842388dd238ca80c7529b2909edfa757a02f",
+      "title": "Imaging proteins inside cells with fluorescent tags."
+    },
+    {
+      "paperId": "e403f0912674191f40423655ed87b13c9ac6f920",
+      "title": "Scientific Storytelling Using Visualization"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "BMC Bioinformatics BioMed Central Methodology article Statistical and visual differentiation of subcellular imaging"
+    },
+    {
+      "paperId": "3ba85d1d5a060d052ca768f134261444da51501a",
+      "title": "An infrastructure for high-throughput microscopy: instrumentation, informatics, and integration."
+    },
+    {
+      "paperId": "099b54ffe20b1a50b007b4e7b947087a73b021c8",
+      "title": "Survey on dimension reduction techniques"
+    },
+    {
+      "paperId": "2161c7ef62f324d43d434181e7ab4b01e8ed7ea8",
+      "title": "Fluorescence microscopy"
+    },
+    {
+      "paperId": "2597d1ca29c40f87160aef23ab3dac74ffda0da9",
+      "title": "Quantitative motion analysis and visualization of cellular structures."
+    },
+    {
+      "paperId": "b209e6c965805537a0fe305617a4c28ab3e9e2ba",
+      "title": "Designing with a 2 1/2-D Attitude"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Time-resolved Computer Graphics"
+    }
+  ]
+}

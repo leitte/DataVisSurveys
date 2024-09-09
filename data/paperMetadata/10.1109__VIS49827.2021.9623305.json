@@ -1,0 +1,282 @@
+{
+  "paperId": "c6cb5b48e042c8358cbfc203c527cf0779020f89",
+  "externalIds": {
+    "ArXiv": "2107.13936",
+    "DBLP": "journals/corr/abs-2107-13936",
+    "DOI": "10.1109/VIS49827.2021.9623305",
+    "CorpusId": 236493768
+  },
+  "publicationVenue": {
+    "id": "c581dc3f-8f95-42b6-9fe8-0bef02dc2ed9",
+    "name": "Visual ..",
+    "type": "conference",
+    "alternate_names": [
+      "Verl\u00e4ssliche Informationssysteme",
+      "VISUAL",
+      "International Conference on Visual Information and Information Systems",
+      "Visual",
+      "Int Conf Vis Inf Inf Syst",
+      "IEEE Vis Conf",
+      "Vis ",
+      "IEEE Visualization Conference",
+      "VIS"
+    ],
+    "issn": "2519-8645",
+    "alternate_issns": [
+      "1576-7868",
+      "2746-6477",
+      "1133-0422"
+    ],
+    "url": "http://www.thinkmind.org/index.php?event=VISUAL&view=event",
+    "alternate_urls": [
+      "https://www.journal.untar.ac.id/index.php/visual",
+      "http://ieeevis.org/year/2021/welcome",
+      "http://lisi.insa-lyon.fr/~laurini/visual/",
+      "http://visual.gi/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/c6cb5b48e042c8358cbfc203c527cf0779020f89",
+  "title": "Towards a Survey on Static and Dynamic Hypergraph Visualizations",
+  "abstract": "Leveraging hypergraph structures to model advanced processes has gained much attention over the last few years in many areas, ranging from protein-interaction in computational biology to image retrieval using machine learning. Hypergraph models can provide a more accurate representation of the underlying processes while reducing the overall number of links compared to regular representations. However, interactive visualization methods for hypergraphs and hypergraph-based models have rarely been explored or systematically analyzed. This paper reviews the existing research landscape for hypergraph and hypergraph model visualizations and assesses the currently employed techniques. We provide an overview and a categorization of proposed approaches, focusing on performance, scalability, interaction support, successful evaluation, and the ability to represent different underlying data structures, including a recent demand for a temporal representation of interaction networks and their improvements beyond graph-based methods. Lastly, we discuss the strengths and weaknesses of the approaches and give an insight into the future challenges arising in this emerging research field.",
+  "venue": "Visual ..",
+  "year": 2021,
+  "referenceCount": 46,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2107.13936",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2021-07-29",
+  "journal": {
+    "name": "2021 IEEE Visualization Conference (VIS)",
+    "pages": "81-85"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Fischer2021TowardsAS,\n author = {M. Fischer and A. Frings and D. Keim and Daniel Seebacher},\n booktitle = {Visual ..},\n journal = {2021 IEEE Visualization Conference (VIS)},\n pages = {81-85},\n title = {Towards a Survey on Static and Dynamic Hypergraph Visualizations},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2113447516",
+      "name": "M. Fischer"
+    },
+    {
+      "authorId": "100740564",
+      "name": "A. Frings"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    },
+    {
+      "authorId": "3471557",
+      "name": "Daniel Seebacher"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3f90726f112102b33d767bebd86b9950d3a38b88",
+      "title": "Analyzing Dynamic Hypergraphs with Parallel Aggregated Ordered Hypergraph Visualization"
+    },
+    {
+      "paperId": "c829cba7580e727062e58fb6ade747e21d4db815",
+      "title": "Analyzing brain data by sex: Are we asking the right question?"
+    },
+    {
+      "paperId": "135b0f8f12b1ac8d986f297a70383bf251c2490a",
+      "title": "MetroSets: Visualizing Sets as Metro Maps"
+    },
+    {
+      "paperId": "eab5b1440233796a4ec68b6b31af87d1350ed18b",
+      "title": "Multiscale Snapshots: Visual Analysis of Temporal Summaries in Dynamic Graphs"
+    },
+    {
+      "paperId": "5bf9453efa5bb90e36ee41110fb6714038ccd78c",
+      "title": "Visual Analytics for Temporal Hypergraph Model Exploration"
+    },
+    {
+      "paperId": "d00d41d206325b394ef6ce73c72e425d47aac375",
+      "title": "Set Streams: Visual Exploration of Dynamic Overlapping Sets"
+    },
+    {
+      "paperId": "3904f1b90cec1290a23bb2431cbaf7d00763af10",
+      "title": "Analyzing, Exploring, and Visualizing Complex Networks via Hypergraphs using SimpleHypergraphs.jl"
+    },
+    {
+      "paperId": "c0a96cb13fa9c427315e57e990678de19d5813c0",
+      "title": "Dynamic Hypergraph Neural Networks"
+    },
+    {
+      "paperId": "ed93e1bb2cfaf3338885cefff8434351026b0c90",
+      "title": "Multilevel Visualisation of Topic Dependency Modelsfor Assessment Design and Delivery: A Hypergraph Based Approach"
+    },
+    {
+      "paperId": "09a11d23023f5d432e87768f9b6d41f30b4a7309",
+      "title": "A survey on visualization approaches for exploring association relationships in graph data"
+    },
+    {
+      "paperId": "a45266c801b59005e01b6a8196ade8f0203dc0ac",
+      "title": "The State of the Art in Multilayer Network Visualization"
+    },
+    {
+      "paperId": "997c22d112a94cd5d2794c3a5c5704aa0b948e24",
+      "title": "Using Dynamic Hypergraphs to Reveal the Evolution of the Business Network of a 17th Century French Woman Merchant"
+    },
+    {
+      "paperId": "510d98681e5e85fb1265513728f16e2543ae1b4b",
+      "title": "Hypergraph Neural Networks"
+    },
+    {
+      "paperId": "da6c687b8c37424c24304cc812a470a0d9e5d356",
+      "title": "Hypergraph Drawing by Force-Directed Placement"
+    },
+    {
+      "paperId": "67c3d0522cc96b8171f56e4465877e9f8003fdb4",
+      "title": "Networks of Collaborations: Hypergraph Modeling and Visualisation"
+    },
+    {
+      "paperId": "6b699d822aa729b5480d2ce9de0c0bb7be595ea0",
+      "title": "Influence Maximization in Social Media Networks Using Hypergraphs"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "0916556e1e17b668dbe4940f8b1feddc5f475a37",
+      "title": "Hypergraph Based Feature Selection Technique for Medical Diagnosis"
+    },
+    {
+      "paperId": "eb4f2748440abca3e7e3b8ef54d88fbc3ec5bf3f",
+      "title": "TimeSets: Timeline visualization with set relations"
+    },
+    {
+      "paperId": "4df178a90aa3fc8051695d7965a1a8015d0cca2a",
+      "title": "The State\u2010of\u2010the\u2010Art of Set Visualization"
+    },
+    {
+      "paperId": "17a9c0512fe352990ef3b4849433e86da803f0d2",
+      "title": "An Uncertainty-Aware Approach for Exploratory Microblog Retrieval"
+    },
+    {
+      "paperId": "0064989323d38092794ef414ed7710cb64f8a5e5",
+      "title": "Hyperscape: visualization for complex biological networks"
+    },
+    {
+      "paperId": "809b78319b2306b2001c4c08aa6e04966dcd0483",
+      "title": "KelpFusion: A Hybrid Set Visualization Technique"
+    },
+    {
+      "paperId": "1e4e9dd6d11b0c7ec2f96f6fd0e7a9388c96d74d",
+      "title": "Visual Analysis of Set Relations in a Graph"
+    },
+    {
+      "paperId": "1ee9993b7ccf4851e2837dc6709dc6dcf1799713",
+      "title": "Kelp Diagrams: Point Set Membership Visualization"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "31e0a61349134d047bd5637dca560fb19338f0ae",
+      "title": "Hypergraph visualization and enrichment statistics: how the EGAN paradigm facilitates organic discovery from big data"
+    },
+    {
+      "paperId": "23ff0d661dd9493f41147302d4f9f0fe2f9beaa3",
+      "title": "Protein\u2010protein interactions: Making sense of networks via graph\u2010theoretic modeling"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "738b80f954fac9cdf4fce7bfb75b8a54034f53e2",
+      "title": "Visualizing software artifacts using hypergraphs"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "bcb6433a6b5b1ecd44b3f0f3381c96e7d97b4b03",
+      "title": "Hypergraphs and Cellular Networks"
+    },
+    {
+      "paperId": "648a08ae6692bde622eb6ddfd554930d8b4ac15f",
+      "title": "Overlapping Matrix Pattern Visualization: A Hypergraph Approach"
+    },
+    {
+      "paperId": "545f98b3591afb9e08e5b6e3b6b4036bba03c583",
+      "title": "Analysis of a large-scale weighted network of one-to-one human communication"
+    },
+    {
+      "paperId": "5c2830349353eeaa6c3769d2ef7a7b68cb2859f7",
+      "title": "Hypergraph planarity and the complexity of drawing venn diagrams"
+    },
+    {
+      "paperId": "290d41225942d3763449dc7c586758161666239a",
+      "title": "Visual Analytics Framework for the Assessment of Temporal Hypergraph Prediction Models"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "and G"
+    },
+    {
+      "paperId": "045c3e4ac22c18c75d6494fe1677d340acd459b1",
+      "title": "Signaling hypergraphs."
+    },
+    {
+      "paperId": null,
+      "title": "Beyond Graphs"
+    },
+    {
+      "paperId": "adf1609b3377b760375cb7c1f4ea59fdbae9cfa0",
+      "title": "A Novel Radial Visualization Approach for Undirected Hypergraphs"
+    },
+    {
+      "paperId": null,
+      "title": "Hypergraph-based bone dataset visualization"
+    },
+    {
+      "paperId": "9cd9f832dead2be84d0e7e908c6b43c9b9b88809",
+      "title": "Study of network security evaluation based on attack graph model"
+    },
+    {
+      "paperId": "689f7d018a6d38fa2c8e03ba0668f30e6cf8d290",
+      "title": "Drawing Hypergraphs in the Subset Standard"
+    },
+    {
+      "paperId": "69d9b89612308d8d8aca53a23cd468886d45132c",
+      "title": "How to draw a hypergraph"
+    },
+    {
+      "paperId": "cd39f475d805c5eb0e0e52d51ce72fce041493f8",
+      "title": "Hypergraphs: Combinatorics of Finite Sets"
+    }
+  ]
+}
