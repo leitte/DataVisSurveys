@@ -7,7 +7,7 @@ authors: A. Kamal, P. Dhakal, A. Javaid, V. Devabhaktuni, D. Kaur, J. Zaientz & 
 venue: "Journal of Vision"
 doi: 10.1007/s12650-021-00755-1
 categories:
-  - survey
   - uncertainty
+  - survey
 ---
 

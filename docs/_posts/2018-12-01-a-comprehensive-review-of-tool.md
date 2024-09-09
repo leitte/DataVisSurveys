@@ -7,7 +7,7 @@ authors: A. Ghosh, M. Nashaat, J. Miller, S. Quader & C. Marston
 venue: "Visual Informatics"
 doi: 10.1016/j.visinf.2018.12.004
 categories:
-  - graph
   - review
+  - graph
 ---
 

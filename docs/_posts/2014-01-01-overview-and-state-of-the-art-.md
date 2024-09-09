@@ -8,5 +8,6 @@ venue: "Scientific Visualization"
 doi: 10.1007/978-1-4471-6497-5_1
 categories:
   - uncertainty
+  - survey
 ---
 
