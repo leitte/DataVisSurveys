@@ -42,6 +42,7 @@ for filename in os.listdir(directory):
                 file.write('---\n')
                 #yaml.dump(data, file)
                 file.write(f"layout: post\n")
+                file.write("excerpt_image: NO_EXCERPT_IMAGE\n")
                 file.write(f"title: \"{paperMetadata['title']}\"\n")
                 file.write(f"date: {date}\n")
                 authors = createAuthorsString(paperMetadata['authors'])
