@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import yaml
 
@@ -9,6 +10,8 @@ def loadPaperMetadata (filepath):
         paperMetadata = json.load(file)
         return paperMetadata
 
+npapers = 0
+
 for filename in os.listdir(directory):
     filepath = os.path.join(directory, filename)
 
@@ -18,9 +21,25 @@ for filename in os.listdir(directory):
         if paperMetadata:
             print(paperMetadata['title'])
             data = {
-                'title': paperMetadata['title']
+                'layout': 'post',
+                'title': paperMetadata['title'],
+                'date': paperMetadata['publicationDate']
             }
-            with open('posts/mypost.yaml', 'w') as file:
-                yaml.dump(data, file)
+            title_short = re.sub(r'[^a-zA-Z0-9-]', '', paperMetadata['title'][:30].lower().replace(' ','-'))
+            date = paperMetadata['publicationDate'] if paperMetadata['publicationDate'] else f"{paperMetadata['year']}-01-01"
+            filename = f"{date}-{title_short}"
+            with open(f'posts/{filename}.md', 'w') as file:
+                file.write('---\n')
+                #yaml.dump(data, file)
+                file.write(f"layout: post\n")
+                file.write(f"title: \"{paperMetadata['title']}\"\n")
+                file.write(f"date: {date}\n")
+                file.write('---\n')
+                abstract = paperMetadata.get('abstract','')
+                file.write(abstract.strip() if abstract else "")
+                file.write('\n')
 
-    break
+                npapers += 1
+
+    if npapers > 10:
+        break
