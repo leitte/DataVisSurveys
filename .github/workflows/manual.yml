@@ -31,8 +31,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: Checkout repository
-      uses: actions/checkout@v4
+
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
     - name: Set up Python
@@ -48,18 +47,19 @@ jobs:
         pwd
         mkdir posts
         python scripts/createPaperPosts.py
+
+    - name: Checkout GitHub Pages branch
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+
     - name: Archive posts
       uses: actions/upload-artifact@v4
       with:
         name: posts
-        path: posts
+        path: docs/_posts
     - name: Deploy pages
       run: |
-        git checkout gh-pages || git checkout -b gh-pages
-
-        cp posts/* docs/_posts/
-
         git add .
         git commit -m "Add new files to gh-pages"
-
         git push origin gh-pages
