@@ -1,0 +1,145 @@
+{
+  "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+  "externalIds": {
+    "DBLP": "journals/tvcg/IsenbergHKIXSSC17",
+    "MAG": "2528997906",
+    "DOI": "10.1109/TVCG.2016.2615308",
+    "CorpusId": 2832463,
+    "PubMed": "28113510"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+  "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications",
+  "abstract": "We have created and made available to all a dataset with information about every paper that has appeared at the IEEE Visualization (VIS) set of conferences: InfoVis, SciVis, VAST, and Vis. The information about each paper includes its title, abstract, authors, and citations to other papers in the conference series, among many other attributes. This article describes the motivation for creating the dataset, as well as our process of coalescing and cleaning the data, and a set of three visualizations we created to facilitate exploration of the data. This data is meant to be useful to the broad data visualization community to help understand the evolution of the field and as an example document collection for text data visualization research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 11,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2017-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2199-2206",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Isenberg2017VispubdataorgAM,\n author = {Petra Isenberg and Florian Heimerl and Steffen Koch and Tobias Isenberg and Panpan Xu and Charles D. Stolper and M. Sedlmair and Jian Chen and Torsten M\u00f6ller and J. Stasko},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2199-2206},\n title = {Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "2018838",
+      "name": "Florian Heimerl"
+    },
+    {
+      "authorId": "34520778",
+      "name": "Steffen Koch"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    },
+    {
+      "authorId": "49080140",
+      "name": "Panpan Xu"
+    },
+    {
+      "authorId": "3245569",
+      "name": "Charles D. Stolper"
+    },
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": null,
+      "name": "Jian Chen"
+    },
+    {
+      "authorId": "2282477008",
+      "name": "Torsten M\u00f6ller"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "20fb1bb9664185079f30278028beea334d8bcaac",
+      "title": "Visualization of Publication Impact"
+    },
+    {
+      "paperId": "62bea5feeadf6e6ba98e43c77e9d342ca5dd0f57",
+      "title": "CiteRivers: Visual Analytics of Citation Patterns"
+    },
+    {
+      "paperId": "bdde2a071e7cf3effccd7144921e21dc2b716860",
+      "title": "Ethnicity Sensitive Author Disambiguation Using Semi-supervised Learning"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "960e8c61ec269677486c45c14175c19c393a1978",
+      "title": "The VAST Challenge: history, scope, and outcomes: An introduction to the Special Issue"
+    },
+    {
+      "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+      "title": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "beb6475b664ae1d63157738329388f32b5e5169f",
+      "title": "ParsCit: an Open-source CRF Reference String Parsing Package"
+    },
+    {
+      "paperId": "c71e22fe30146c75addffcb317f678d94ac42a98",
+      "title": "D-Dupe: An Interactive Tool for Entity Resolution in Social Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Promoting Insight-Based Evaluation of Visualizations: From Contest to Benchmark Repository"
+    },
+    {
+      "paperId": "b2f8876482c97e804bb50a5e2433881ae31d0cdd",
+      "title": "Binary codes capable of correcting deletions, insertions, and reversals"
+    }
+  ]
+}

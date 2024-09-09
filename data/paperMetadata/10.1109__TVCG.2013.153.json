@@ -1,0 +1,284 @@
+{
+  "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+  "externalIds": {
+    "MAG": "2015755066",
+    "DBLP": "journals/tvcg/SedlmairMT13",
+    "DOI": "10.1109/TVCG.2013.153",
+    "CorpusId": 12351728,
+    "PubMed": "24051830"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+  "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices",
+  "abstract": "To verify cluster separation in high-dimensional data, analysts often reduce the data with a dimension reduction (DR) technique, and then visualize it with 2D Scatterplots, interactive 3D Scatterplots, or Scatterplot Matrices (SPLOMs). With the goal of providing guidance between these visual encoding choices, we conducted an empirical data study in which two human coders manually inspected a broad set of 816 scatterplots derived from 75 datasets, 4 DR techniques, and the 3 previously mentioned scatterplot techniques. Each coder scored all color-coded classes in each scatterplot in terms of their separability from other classes. We analyze the resulting quantitative data with a heatmap approach, and qualitatively discuss interesting scatterplot examples. Our findings reveal that 2D scatterplots are often 'good enough', that is, neither SPLOM nor interactive 3D adds notably more cluster separability with the chosen DR technique. If 2D is not good enough, the most promising approach is to use an alternative DR technique in 2D. Beyond that, SPLOM occasionally adds additional value, and interactive 3D rarely helps but often hurts in terms of poorer class separation and usability. We summarize these results as a workflow model and implications for design. Our results offer guidance to analysts during the DR exploration process.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 52,
+  "openAccessPdf": {
+    "url": "http://eprints.cs.univie.ac.at/3992/4/sedlmair2013infovis.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2634-2643",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sedlmair2013EmpiricalGO,\n author = {M. Sedlmair and T. Munzner and Melanie Tory},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2634-2643},\n title = {Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "1732016",
+      "name": "T. Munzner"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f840c119af9153780f9b5971415b9ed2a631bf36",
+      "title": "Constructing Grounded Theory"
+    },
+    {
+      "paperId": "f39513e269cf53d3e17e4dd02d9b4733034cafdf",
+      "title": "Visual pattern discovery using random projections"
+    },
+    {
+      "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+      "title": "A Taxonomy of Visual Cluster Separation Factors"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "830af6d0f17baae2d3f6e40030911878b8b053e9",
+      "title": "Two-Way Multidimensional Scaling: A Review"
+    },
+    {
+      "paperId": "1550c985a82fdf5170110630f1d139f5a4649767",
+      "title": "Evaluating Benchmarks of Population Status for Pacific Salmon"
+    },
+    {
+      "paperId": "04c671b9fec766f898dca2bca0e0da342bdd82af",
+      "title": "Confessions from a grounded theory PhD: experiences and lessons learnt"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "a075d0d0ce767e27bd84ba56f1c79722f637fdea",
+      "title": "Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "c61a2e18a71dc1e46f9c330bb569d20ab2e31049",
+      "title": "Differential gene expression analysis in human monocyte-derived macrophages: impact of cigarette smoke on host defence."
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "45165421c11a627e560b4338e3ecca07308131aa",
+      "title": "Comparing Dot and Landscape Spatializations for Visual Memory Differences"
+    },
+    {
+      "paperId": "54b4241b021594cdb20091c95f121f75653ffc36",
+      "title": "An Object-Oriented Framework for Robust Multivariate Analysis"
+    },
+    {
+      "paperId": "23125bf3abb346747152b617c589a100aed05ae9",
+      "title": "Effects of animation, user-controlled interactions, and multiple static views in understanding 3D structures"
+    },
+    {
+      "paperId": "b7af71fa8ed76d325a9c6beda9fb8cd8f95bdd07",
+      "title": "Learning a Parametric Embedding by Preserving Local Structure"
+    },
+    {
+      "paperId": "c0aaf4735fca8b60ff755aacb64c8c437b674578",
+      "title": "Glimmer: Multilevel MDS on the GPU"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "d48a28cb9b85d749e421d059d01a33b067887b2b",
+      "title": "Spatialization Design: Comparing Points and Landscapes"
+    },
+    {
+      "paperId": "cd14d9e1adc5c9271d59783e5198d17195464bcc",
+      "title": "Designing and Conducting Mixed Methods Research"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "2eef217606f11b80bd7cbb18716c30f7bc371a9a",
+      "title": "Visual quality metrics"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "37b48bbce4e66c55e598a3f4f78a237c7b604563",
+      "title": "Browsing a document collection represented in two- and three-dimensional virtual information space"
+    },
+    {
+      "paperId": "3671e5d693560e6dfc24912b00ae77929c14f1a4",
+      "title": "Metabolomics spectral formatting, alignment and conversion tools (MSFACTs)"
+    },
+    {
+      "paperId": "414e617decaaa8ce519e5616d38935d11b0b7e0e",
+      "title": "Principal Component Analysis"
+    },
+    {
+      "paperId": "ed1ddfbad3197e7b7fb42de3eb5785ee22e206b8",
+      "title": "Evaluating the effectiveness of spatial memory in 2D and 3D physical and virtual environments"
+    },
+    {
+      "paperId": "750555d3989b82a5ec1fe06c338f1dc592e6c897",
+      "title": "The Use of 2D and 3D Displays for Shape-Understanding versus Relative-Position Tasks"
+    },
+    {
+      "paperId": "0bbc806dca4cbfed91fdde403915a5186d96d951",
+      "title": "3D or not 3D?: evaluating the effect of the third dimension in a document management system"
+    },
+    {
+      "paperId": "9d16c547d15a08091e68c86a99731b14366e3f0d",
+      "title": "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering"
+    },
+    {
+      "paperId": "87960b3e8a0804123b6ef9237fd8ebdc6872c363",
+      "title": "Mapping semantic information in virtual space: dimensions, variance and individual differences"
+    },
+    {
+      "paperId": "e854885e41b6754177d0892129a8215b7e467c23",
+      "title": "Modern Multidimensional Scaling: Theory and Applications"
+    },
+    {
+      "paperId": "5c6cde0f4f17dc45aa2092ea835ef3ba87fe89ca",
+      "title": "Implications of Graphics Enhancements for the Visualization of Scientific Data: Dimensional Integrality, Stereopsis, Motion, and Mesh"
+    },
+    {
+      "paperId": "9f4fcb32eeceb872ccdfe9774c1541d514575826",
+      "title": "Using a Landscape Methaphor to Represent a Corpus of Documents"
+    },
+    {
+      "paperId": "ab21376e43ac90a4eafd14f0f02a0c87502b6bbf",
+      "title": "THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS"
+    },
+    {
+      "paperId": "8418ad904333e6b38c4c39cef16ab7747f6286ed",
+      "title": "A Behavioral Investigation of Dimensionality Reduction"
+    },
+    {
+      "paperId": "f9058288b07de70f4f9275b5bdeacf82dfe7d2dd",
+      "title": "Human Cluster Evaluation and Formal Quality Measures: A Comparative Study"
+    },
+    {
+      "paperId": "c93e63eed07c779fc3b4eeb64387f1dcc413b88c",
+      "title": "Dimensionality Reduction in the Wild : Gaps and Guidance"
+    },
+    {
+      "paperId": null,
+      "title": "Xmdv data repository"
+    },
+    {
+      "paperId": null,
+      "title": "Statistical Data and Software Help"
+    },
+    {
+      "paperId": null,
+      "title": "VisuMap Technologies Inc. VisuMap Data Repository"
+    },
+    {
+      "paperId": null,
+      "title": "University of California Irvine (UCI) Machine Learning Repository"
+    },
+    {
+      "paperId": "2309f7c5dad934f2adc2c5a066eba8fc2d8071ec",
+      "title": "Dimensionality Reduction: A Comparative Review"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "870dd95840efea64c266f72f2497a50905f5f9c0",
+      "title": "Constructing grounded theory : a practical guide through qualitative analysis"
+    },
+    {
+      "paperId": "7c2d517f398ed0776725f1dc7e3e6b1f9d71ae75",
+      "title": "Empirical Study of a 3D Visualization for Information Retrieval Tasks"
+    },
+    {
+      "paperId": "b209e6c965805537a0fe305617a4c28ab3e9e2ba",
+      "title": "Designing with a 2 1/2-D Attitude"
+    },
+    {
+      "paperId": "3b90c3a5b8cf16ca9f7df06d2e1765ffc4dd1b4d",
+      "title": "An Evaluation of Cone Trees"
+    },
+    {
+      "paperId": "0633803de14f3e28fc58ff27e14d793a90ca5a39",
+      "title": "Spatial metaphors for browsing large data archives"
+    },
+    {
+      "paperId": "25075e27b0df6f2be5a8c519171bdabd1c3ed817",
+      "title": "Content Analysis: An Introduction to Its Methodology"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    }
+  ]
+}

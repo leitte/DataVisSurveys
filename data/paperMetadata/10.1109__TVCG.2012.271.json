@@ -1,0 +1,340 @@
+{
+  "paperId": "8d17f8f51084efe7628193cdc9d659834de78ff0",
+  "externalIds": {
+    "DBLP": "journals/tvcg/MaguireRSDC12",
+    "MAG": "2049652219",
+    "DOI": "10.1109/TVCG.2012.271",
+    "CorpusId": 9350966,
+    "PubMed": "26357169"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/8d17f8f51084efe7628193cdc9d659834de78ff0",
+  "title": "Taxonomy-Based Glyph Design&#8212;with a Case Study on Visualizing Workflows of Biological Experiments",
+  "abstract": "Glyph-based visualization can offer elegant and concise presentation of multivariate information while enhancing speed and ease in visual search experienced by users. As with icon designs, glyphs are usually created based on the designers' experience and intuition, often in a spontaneous manner. Such a process does not scale well with the requirements of applications where a large number of concepts are to be encoded using glyphs. To alleviate such limitations, we propose a new systematic process for glyph design by exploring the parallel between the hierarchy of concept categorization and the ordering of discriminative capacity of visual channels. We examine the feasibility of this approach in an application where there is a pressing need for an efficient and effective means to visualize workflows of biological experiments. By processing thousands of workflow records in a public archive of biological experiments, we demonstrate that a cost-effective glyph design can be obtained by following a process of formulating a taxonomy with the aid of computation, identifying visual channels hierarchically, and defining application-specific abstraction and metaphors.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 63,
+  "openAccessPdf": {
+    "url": "https://ora.ox.ac.uk/objects/uuid:611a7988-2ba9-4f01-8df0-f6688a01bdc8/files/m06532ba5c7f5ec3297e1119cdfe99888",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2012-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2603-2612",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Maguire2012TaxonomyBasedGD,\n author = {E. Maguire and P. Rocca-Serra and Susanna-Assunta Sansone and J. Davies and Min Chen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2603-2612},\n title = {Taxonomy-Based Glyph Design&#8212;with a Case Study on Visualizing Workflows of Biological Experiments},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2725072",
+      "name": "E. Maguire"
+    },
+    {
+      "authorId": "1397958214",
+      "name": "P. Rocca-Serra"
+    },
+    {
+      "authorId": "1760490",
+      "name": "Susanna-Assunta Sansone"
+    },
+    {
+      "authorId": "2227919412",
+      "name": "J. Davies"
+    },
+    {
+      "authorId": "12134086",
+      "name": "Min Chen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "a60820b4671d0f4f169c802e5fdddc920192ab60",
+      "title": "Gene Expression Omnibus (GEO)"
+    },
+    {
+      "paperId": "b3416b849b67e07b2c8bacca5c63ebbbb3193f8c",
+      "title": "An Empirical Study on Using Visual Embellishments in Visualization"
+    },
+    {
+      "paperId": "a8cb443549f89e0789ace38863061eb966af19bb",
+      "title": "Taxonomy in Biology and Visualization"
+    },
+    {
+      "paperId": "fc3da030b1a588dd87a233f9ee4324bf7c90d65e",
+      "title": "Toward interoperable bioscience data"
+    },
+    {
+      "paperId": "3ffc589a774dde091d741f4c311e2c9dee8c9125",
+      "title": "Survey of glyph-based visualization techniques for spatial multivariate medical data"
+    },
+    {
+      "paperId": "2cc1b4abe6874b81f2616ad377e58d761e0e28a3",
+      "title": "Visual Computing in Biology and Medicine"
+    },
+    {
+      "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+      "title": "An Information-theoretic Framework for Visualization"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "6039cf1e8c4542516d977631d9f82c5c6bc50fd7",
+      "title": "SBGN-ED \u2013 a tool for editing, validating, and translating of SBGN maps"
+    },
+    {
+      "paperId": "947d520c8b726686bd6ddd348269846292e8a947",
+      "title": "Faculty Opinions recommendation of ISA software suite: supporting standards-compliant experimental annotation and enabling curation at the community level."
+    },
+    {
+      "paperId": "58d4032b44f68cf5d034fda2ac0f21554f8b97d4",
+      "title": "ISA software suite: supporting standards-compliant experimental annotation and enabling curation at the community level"
+    },
+    {
+      "paperId": "0829bf15b7f23af85c0184b10237fe72975c9a09",
+      "title": "GenoCAD for iGEM: a grammatical approach to the design of standard-compliant constructs"
+    },
+    {
+      "paperId": "0a6b6a5ba7ca77252f02dcf960456770abf83e6e",
+      "title": "The Systems Biology Graphical Notation"
+    },
+    {
+      "paperId": "4c495843bc52d7f33a5cf6544dc4bfaba16297b6",
+      "title": "Visualizing Temporal Dynamics at the Genomic and Metabolic Level"
+    },
+    {
+      "paperId": "a12150d059d5fe574deed693b6a380bcc434bb65",
+      "title": "Glyph-based Overviews of Large Datasets in Structural Bioinformatics"
+    },
+    {
+      "paperId": "05d99812e875610a629b9fd4cce6785ca8a4c4f3",
+      "title": "Diffusion Tensor Visualization with Glyph Packing"
+    },
+    {
+      "paperId": "eb5d924f99745fa8eb2c6f0f8248ef758ca30e4c",
+      "title": "VANTED: A system for advanced data analysis and visualization in the context of biological networks"
+    },
+    {
+      "paperId": "0fab0f8b3ff7b56369e855bdd9f20983147da382",
+      "title": "The effect of data-relatedness in interactive glyphs"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "bf12813b219ce0730f123bbd3e9c9227d0934f0b",
+      "title": "Visual objects in context"
+    },
+    {
+      "paperId": "0145eb17c46c1d6472e75f115f23dcfeabaf96fc",
+      "title": "VisualIDs"
+    },
+    {
+      "paperId": "0d7778ca87866779f33d4e05b55c7ca3cdcc7803",
+      "title": "Visual feature integration theory: past, present, and future."
+    },
+    {
+      "paperId": "788484a456dd8fa7c19876d8eadacd68af315b55",
+      "title": "Automatic Taxonomy Generation: Issues and Possibilities"
+    },
+    {
+      "paperId": "b3e00a34e7fbe2070749ae122328ea4aca61fb06",
+      "title": "Exploring the effects of icon characteristics on user performance: the role of icon concreteness, complexity, and distinctiveness."
+    },
+    {
+      "paperId": "dd3616da6fc9ab6c75e3cbd6e0eb154459b08fb8",
+      "title": "A Structural Account of Global and Local Processing"
+    },
+    {
+      "paperId": "e20a2bb60bcc4f5e2e57152ef4c72156e1cc49d9",
+      "title": "The shape of Shakespeare: visualizing text using implicit surfaces"
+    },
+    {
+      "paperId": "ca51193fa4ed14d95f193555d4d92b312fc0d620",
+      "title": "Information Rich Glyphs for Software Management Data"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "830322176475065bd6214f0ffe8df040044e8272",
+      "title": "Iconic techniques for feature visualization"
+    },
+    {
+      "paperId": "290a93514dda8d0dda62a5f76f54348843b097fc",
+      "title": "Familiarity and pop-out in visual search"
+    },
+    {
+      "paperId": "5e6781abab5a0b706f09478b06c7e3b87e1587a1",
+      "title": "Glyphmaker: creating customized visualizations of complex data"
+    },
+    {
+      "paperId": "6e0d5e12e813532f8814b6d79e2c89210126785a",
+      "title": "Electrophysiological correlates of feature analysis during visual search."
+    },
+    {
+      "paperId": "7a9d3f911a8f865f041c11dfa25c66887b2304a8",
+      "title": "Guided search: an alternative to the feature integration model for visual search."
+    },
+    {
+      "paperId": "0775f31d17d29bd2ac090fa74625dfd761bf4b63",
+      "title": "Visual search and stimulus similarity."
+    },
+    {
+      "paperId": "577b037c6f4201ff9da43afdc1b2e8b1ed37c130",
+      "title": "Visual search for targets defined by combinations of color, shape, and size: An examination of the task constraints on feature and conjunction searches"
+    },
+    {
+      "paperId": "cebcd5de11040c7546d55e83fd22d4e996f554a6",
+      "title": "Handbook of the normal distribution"
+    },
+    {
+      "paperId": "c3de1eb7416b30a7f15e69efb527bbef05bfc3c4",
+      "title": "Psychological issues in the use of icons in command menus"
+    },
+    {
+      "paperId": "7831654304f6f4a0ebdbc50921bf71acd99c3d97",
+      "title": "The order of visual processing: \u201cTop-down,\u201d \u201cbottom-up,\u201d or \u201cmiddle-out\u201d"
+    },
+    {
+      "paperId": "e2eef466573de571ad5621e4780dc0a465b9a253",
+      "title": "Hierarchical structure in perceptual representation"
+    },
+    {
+      "paperId": "c6d8bbb029e900c65b88243a0fa193090932639a",
+      "title": "Picture-word differences in decision latency: An analysis of single and dual memory models"
+    },
+    {
+      "paperId": "9f7d9abb2277e924a291033d5c3d1195989e80ff",
+      "title": "Forest before trees: The precedence of global features in visual perception"
+    },
+    {
+      "paperId": "4d50f143fefcaaf54823f24608097db645a3a150",
+      "title": "Similarity of rectangles: An analysis of subjective dimensions"
+    },
+    {
+      "paperId": "0531a18f4bd61b5340b87d5215cde318e3e4818a",
+      "title": "Abstraction of visual patterns."
+    },
+    {
+      "paperId": "4e2350b37b3a5c213ca6bc5f58ffad837f1d4dc8",
+      "title": "A multicomponent theory of the perception of briefly exposed visual displays"
+    },
+    {
+      "paperId": "56d60f66f130ac86742caefc2467e9437582af3c",
+      "title": "Multivariate Data Glyphs: Principles and Practice"
+    },
+    {
+      "paperId": "b92f8640c89ee23050a5cd8e0c2b9e94572fa456",
+      "title": "Pictograms, icons & signs : a guide to information graphics"
+    },
+    {
+      "paperId": "4c42029336beddfd16df1906c1b1c0930d125f30",
+      "title": "The Effect of Data-Relatedness in Interactive Glyphs"
+    },
+    {
+      "paperId": "fb19d28f3b0d96e65036fde8a0adc9bf1c4bbe46",
+      "title": "Modeling the role of salience in the allocation of overt visual attention"
+    },
+    {
+      "paperId": "612c4af73895bb5dd3f885609b2151b36a0b2149",
+      "title": "Sign design guide : a guide to inclusive signage"
+    },
+    {
+      "paperId": "cc9344f7ef22f27ec864fdc492e781cdfc81b407",
+      "title": "KEGG: Kyoto Encyclopedia of Genes and Genomes"
+    },
+    {
+      "paperId": "dbc13fb5e4b859a31c47f4cfae7aef816d41f6fc",
+      "title": "The use of icons and labels in an end user application program: An empirical study of learning and retention"
+    },
+    {
+      "paperId": "b5fd6166cf2264100a403e1fda019d9e9c5c6303",
+      "title": "Toward a Perceptual Science of Multidimensional Data Visualization : Bertin and Beyond"
+    },
+    {
+      "paperId": "74257ff0d6645ab73650fdc9faaf8fe1a6a430b5",
+      "title": "Feature analysis in early vision: evidence from search asymmetries."
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": "eeefb824cfb3dfe80fcf287b88ad2677ba261650",
+      "title": "The role of graphics in item selection from menus"
+    },
+    {
+      "paperId": "9a9de3667e158b0b669e8c5bb9cb60443e1c2f1c",
+      "title": "The Relation Between Stimulus Analyzability and Perceived Dimensional Structure1"
+    },
+    {
+      "paperId": "6aa75ed64a0d5016821b42a96a723c35ec490587",
+      "title": "Focused attention in the perception and retrieval of multidimensional stimuli"
+    },
+    {
+      "paperId": "7026ea596ff1aaff20e92e56d3ef89038547b619",
+      "title": "The free classification of analyzable and unanalyzable stimuli"
+    },
+    {
+      "paperId": "2e65ddd55eb055a8b20eea3730163897fa02e761",
+      "title": "The effects of target specification on objects fixated during visual search."
+    },
+    {
+      "paperId": "4d5c98293448497d071d4e73d38189e6d9fb0f81",
+      "title": "Attention and the metric structure of the stimulus space."
+    },
+    {
+      "paperId": "08c3b9a76206d244c28290e39bf7e8c6e0b14796",
+      "title": "The information available in brief visual presentations."
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    }
+  ]
+}

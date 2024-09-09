@@ -1,0 +1,390 @@
+{
+  "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+  "externalIds": {
+    "MAG": "1992743299",
+    "DBLP": "journals/tvcg/0001ICSM13",
+    "DOI": "10.1109/TVCG.2013.126",
+    "CorpusId": 6415534,
+    "PubMed": "24051849"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/678308404c590cf6ed4e190d7fa895398af7e7a1",
+  "title": "A Systematic Review on the Practice of Evaluating Visualization",
+  "abstract": "We present an assessment of the state and historic development of evaluation practices as reported in papers published at the IEEE Visualization conference. Our goal is to reflect on a meta-level about evaluation in our community through a systematic understanding of the characteristics and goals of presented evaluations. For this purpose we conducted a systematic review of ten years of evaluations in the published papers using and extending a coding scheme previously established by Lam et al. [2012]. The results of our review include an overview of the most common evaluation goals in the community, how they evolved over time, and how they contrast or align to those of the IEEE Information Visualization conference. In particular, we found that evaluations specific to assessing resulting images and algorithm performance are the most prevalent (with consistently 80-90% of all papers since 1997). However, especially over the last six years there is a steady increase in evaluation methods that include participants, either by evaluating their performances and subjective feedback or by evaluating their work practices and their improved analysis and reasoning capabilities using visual tools. Up to 2010, this trend in the IEEE Visualization conference was much more pronounced than in the IEEE Information Visualization conference which only showed an increasing percentage of evaluation through user performance and experience testing. Since 2011, however, also papers in IEEE Information Visualization show such an increase of evaluations of work practices and analysis as well as reasoning using visual tools. Further, we found that generally the studies reporting requirements analyses and domain-specific work practices are too informally reported which hinders cross-comparison and lowers external validity.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 76,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-00846775/file/Isenberg_2013_SRP.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review",
+    "MetaAnalysis",
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2818-2827",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Isenberg2013ASR,\n author = {Tobias Isenberg and Petra Isenberg and Jing Chen and M. Sedlmair and Torsten M\u00f6ller},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2818-2827},\n title = {A Systematic Review on the Practice of Evaluating Visualization},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "47740650",
+      "name": "Jing Chen"
+    },
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "2282477008",
+      "name": "Torsten M\u00f6ller"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8a523973e08d08fb6b1c01971b0ab881d09553b3",
+      "title": "Data from Paper \u201cFalse-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant\u201d"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "24c6576bfea2d1003a4784630b1ec1f1d5567d4e",
+      "title": "Evaluation of Multivariate Visualization on a Multivariate Task"
+    },
+    {
+      "paperId": "f016233585dc41d0c7dba51a90dea28ff9415714",
+      "title": "WYSIWYP: What You See Is What You Pick"
+    },
+    {
+      "paperId": "7a33cbcf00e3f4d6e42189af16c33b42ad12c2ae",
+      "title": "Human Computation in Visualization: Using Purpose Driven Games for Robust Evaluation of Visualization Algorithms"
+    },
+    {
+      "paperId": "4f9b3a53523d3f70dbf1ebca801a3655084d15a9",
+      "title": "Why ask why?: considering motivation in visualization evaluation"
+    },
+    {
+      "paperId": "c2c8586b064b487c373139a91fabb3171d1cea0d",
+      "title": "Toward mixed method evaluations of scientific visualizations and design process as an evaluation tool"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "efdb30c6b72c42f93dfc3cc8e9e19e708068b0e1",
+      "title": "Topology Verification for Isosurface Extraction"
+    },
+    {
+      "paperId": "7175d174b186c81b3b03cb47d8f60bc88efe21f0",
+      "title": "\"Yours is better!\": participant response bias in HCI"
+    },
+    {
+      "paperId": "3afd37e24c8ad7c00d7125f2a24449284e509f25",
+      "title": "Sample size in usability studies"
+    },
+    {
+      "paperId": "2ebedc1a50511090a830dbead05830aeacdb2968",
+      "title": "Multi-Touch Table System for Medical Visualization: Application to Orthopedic Surgery Planning"
+    },
+    {
+      "paperId": "97f21770ecec245331ed96c67b95b018fe2e2b49",
+      "title": "GPU-Based Interactive Cut-Surface Extraction From High-Order Finite Element Fields"
+    },
+    {
+      "paperId": "1f80a8df3ff79e63f6924da5b3a1ed6aec8a0e57",
+      "title": "BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "c25343caafb67258fed65f8c0354798a456c3fff",
+      "title": "Understanding the New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis"
+    },
+    {
+      "paperId": "cf74a9948d26c2e4c9423c668130c6736353e57f",
+      "title": "Information visualization evaluation in large companies: Challenges, experiences and recommendations"
+    },
+    {
+      "paperId": "2cbda03176924b74176f9b798988ef9838f2b3d8",
+      "title": "Publication Manual of the American Psychological Association"
+    },
+    {
+      "paperId": "67fbacfa99690644329cda993fc729f6be5a3c32",
+      "title": "Into the wild: challenges and opportunities for field trial methods"
+    },
+    {
+      "paperId": "539828086a6816c5c0b6b5664e454b0e44ca8ea0",
+      "title": "Articulated Planar Reformation for Change Visualization in Small Animal Imaging"
+    },
+    {
+      "paperId": "134228e2b8bd4a65c7b32f7915d7324850feb4c6",
+      "title": "World Lines"
+    },
+    {
+      "paperId": "9014bc79259548e65d70aa3343b7db130efb2394",
+      "title": "Superquadric Glyphs for Symmetric Second-Order Tensors"
+    },
+    {
+      "paperId": "c188cbc3c09097836a05ec8d5dad21864e02f4cf",
+      "title": "A Guide to Scientific Evaluation in Information Visualization"
+    },
+    {
+      "paperId": "80950ada76a8a4c6086529c7730b5e256a4ce130",
+      "title": "An invitation to reproducible computational research."
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "1f298ff0ef5073c2c7170320114cd017bde14959",
+      "title": "Verifiable Visualization for Isosurface Extraction"
+    },
+    {
+      "paperId": "3f6e94751255c31b675910a8621ad88f49d0cd27",
+      "title": "BrainGazer - Visual Queries for Neurobiology Research"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "90ce27fb57174f708c0f2e1fc1e4e350cfc38bc3",
+      "title": "Integrating Statistics and Visualization for Exploratory Power: From Long-Term Case Studies to Design Guidelines"
+    },
+    {
+      "paperId": "4fe14332894ab15ab01dde810222d6372aafee7e",
+      "title": "Demand Characteristics and the Concept of Quasi-Controls1"
+    },
+    {
+      "paperId": "af2e3c0827cceb4cf52f71d866ea0bf7a0561a7d",
+      "title": "Qualitative Research: A Guide to Design and Implementation"
+    },
+    {
+      "paperId": "56f29a21e5b6583fb448cdc048896a6eae72fb17",
+      "title": "Estimating Crossing Fibers: A Tensor Decomposition Approach"
+    },
+    {
+      "paperId": "7f9b9d6f881747d2b4d843b0b56de3d626c12fe4",
+      "title": "The Need for Verifiable Visualization"
+    },
+    {
+      "paperId": "988d7779cb110a374f1e259e5da7e1b32ae6fc45",
+      "title": "Using Visual Design Experts in Critique-Based Evaluation of 2D Vector Visualization Methods"
+    },
+    {
+      "paperId": "bb3789b227a4876624de86bb5acd50d104471edf",
+      "title": "Scientific Sketching for Collaborative VR Visualization Design"
+    },
+    {
+      "paperId": "6d8d6bf7f410cb0d582f1b156e924a9fdb516e8d",
+      "title": "Visualization Criticism"
+    },
+    {
+      "paperId": "ad3fe16611312d4e58f7a7f90a21a7230f5ec6f6",
+      "title": "Usability evaluation considered harmful (some of the time)"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "47af0f93948efac676fcde8150c337578352c7ca",
+      "title": "Evaluation"
+    },
+    {
+      "paperId": "88fa9dda1aeb4e8673a2a9ed4b431c0195a1a728",
+      "title": "Visualization Criticism - The Missing Link Between Information Visualization and Art"
+    },
+    {
+      "paperId": "09b71bc8d83e2583319b5bd42838e6c4ffa0bd70",
+      "title": "Fast and Efficient Compression of Floating-Point Data"
+    },
+    {
+      "paperId": "3cb39216f39ddc5f793cf2575c810d1e3c395200",
+      "title": "Writing narrative literature reviews for peer-reviewed journals: secrets of the trade."
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "b54020f991e9a0425b23a2870646376096f4d214",
+      "title": "Evaluating information visualisations"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "4aaad3a6dc23f13b0a4350890fb35026e5dc9558",
+      "title": "Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "57b89240ec2ba1eb867eaca6367262b6ab7c65d2",
+      "title": "Participatory IT Design: Designing for Business and Workplace Realities"
+    },
+    {
+      "paperId": "6cf9b60524d0e5cf9cbed913ca72af1b1ce78cf1",
+      "title": "Artistic Collaboration in Designing VR Visualizations"
+    },
+    {
+      "paperId": "a39ce620ae2c9855b27cbc81208ce5eb802409ff",
+      "title": "Verification and validation in computational engineering and science: basic concepts"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "5ad927abb83891464963bb774ef005cd70595d06",
+      "title": "Designer-critiqued comparison of 2D vector visualization methods: a pilot study"
+    },
+    {
+      "paperId": "4ad76bc6be0ca9fe26520195346ed67233433be9",
+      "title": "User Studies: Why, How, and When?"
+    },
+    {
+      "paperId": "aaa834be37717373308836fe2bf4c22d23de2ccd",
+      "title": "How to Design and Report Experiments"
+    },
+    {
+      "paperId": "509fc6259ea106ecd215909fc6af728063582e25",
+      "title": "Power analysis for experimental research"
+    },
+    {
+      "paperId": "598ad2d70370dd947b84ed3de2b0d81c1404040a",
+      "title": "Interaction Design: Beyond Human-Computer Interaction"
+    },
+    {
+      "paperId": "4d06a4ef319ece32bd9d21b2e10ef663685d32f7",
+      "title": "Evaluating visualizations: using a taxonomic guide"
+    },
+    {
+      "paperId": "8a14ca1d4004b7f03a1eabf70353a87bd7d1e10d",
+      "title": "Empirical studies of information visualization: a meta-analysis"
+    },
+    {
+      "paperId": "0e10a17a2e8d0b56989c5b2e1e6e881e885ac6c6",
+      "title": "Empirical evaluation of information visualizations: an introduction"
+    },
+    {
+      "paperId": "d111e38699be2510e4f1d1ac647f3340e11cd5f1",
+      "title": "Methodology matters: doing research in the behavioral and social sciences"
+    },
+    {
+      "paperId": "8c2e962f004a36850deb55c97e338329c39d538a",
+      "title": "Evaluation of visualization software"
+    },
+    {
+      "paperId": "2cc7be3d5161e865807e13de7975c9d77fbd2815",
+      "title": "The earth is round (p < .05)"
+    },
+    {
+      "paperId": "b4ab807782ab8f68952cace10717dff891031a7d",
+      "title": "Validation, verification and evaluation"
+    },
+    {
+      "paperId": "501e496146b04f42e3e6a49aabd29fb909083007",
+      "title": "Heuristic evaluation of user interfaces"
+    },
+    {
+      "paperId": "21ac70b681c534cd6e7cd2a5155a0789828451f7",
+      "title": "The Logic of Scientific Discovery"
+    },
+    {
+      "paperId": "18c50dc7ca4b426828d4ec1e04e596bc10e0744f",
+      "title": "Imagery paradigms: how vulnerable are they to experimenters' expectations?"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Artifacts in Behavioral Research: Robert Rosenthal and Ralph L. Rosnow's Classic Books"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "f2e5d5887faeb71ec47fbd8b03dfed3e812545e2",
+      "title": "What's Wrong With Statistical Tests--And Where We Go From Here."
+    },
+    {
+      "paperId": "25075e27b0df6f2be5a8c519171bdabd1c3ed817",
+      "title": "Content Analysis: An Introduction to Its Methodology"
+    },
+    {
+      "paperId": null,
+      "title": "UE User Experience: This code includes evaluations that elicit subjective feedback and opinions on a visualization (tool)"
+    },
+    {
+      "paperId": null,
+      "title": "AP Algorithm Performance: Evaluations in this category quantitatively study the performance or quality of visualization algorithms"
+    }
+  ]
+}

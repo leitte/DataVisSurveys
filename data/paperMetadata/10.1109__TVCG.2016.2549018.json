@@ -1,0 +1,497 @@
+{
+  "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+  "externalIds": {
+    "MAG": "2318229606",
+    "DBLP": "journals/tvcg/FuchsIBK17",
+    "DOI": "10.1109/TVCG.2016.2549018",
+    "CorpusId": 26628405,
+    "PubMed": "27046902"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+  "title": "A Systematic Review of Experimental Studies on Data Glyphs",
+  "abstract": "We systematically reviewed 64 user-study papers on data glyphs to help researchers and practitioners gain an informed understanding of tradeoffs in the glyph design space. The glyphs we consider are individual representations of multi-dimensional data points, often meant to be shown in small-multiple settings. Over the past 60 years many different glyph designs were proposed and many of these designs have been subjected to perceptual or comparative evaluations. Yet, a systematic overview of the types of glyphs and design variations tested, the tasks under which they were analyzed, or even the study goals and results does not yet exist. In this paper we provide such an overview by systematically sampling and tabulating the literature on data glyph studies, listing their designs, questions, data, and tasks. In addition we present a concise overview of the types of glyphs and their design characteristics analyzed by researchers in the past, and a synthesis of the study results. Based on our meta analysis of all results we further contribute a set of design implications and a discussion on open research directions.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 104,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01378429/file/Fuchs_2017_ASR-authorversion.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-07-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1863-1879",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Fuchs2017ASR,\n author = {Johannes Fuchs and Petra Isenberg and A. Bezerianos and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1863-1879},\n title = {A Systematic Review of Experimental Studies on Data Glyphs},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "46691823",
+      "name": "Johannes Fuchs"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "34790289",
+      "name": "A. Bezerianos"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "51dd728f20f87c95a4113052826c35519f65918b",
+      "title": "Glyph-Based Comparative Visualization for Diffusion Tensor Fields"
+    },
+    {
+      "paperId": "02cd4377f61d71c233e3ef6459cb69855fc0aebd",
+      "title": "Metaphoric Transfer Effect in Information Visualization Using Glyphs"
+    },
+    {
+      "paperId": "de5a105806b5f58697b6b9749f2bd03f449928dd",
+      "title": "Exploring the Effect of Word-Scale Visualizations on Reading Behavior"
+    },
+    {
+      "paperId": "9bee764831c8e5ce00dd5d30a816810c4ec6e1f7",
+      "title": "The Influence of Contour on Similarity Perception of Star Glyphs"
+    },
+    {
+      "paperId": "52b002a86fbb0f8c39ab28d991417a40f3d1eeab",
+      "title": "AudioMetro: directing search for sound designers through content-based cues"
+    },
+    {
+      "paperId": "b433863c75d62fc3710ed1d6e8b83a7d9b913b42",
+      "title": "Evaluation of MILSTD 2525 Glyph Features in a Visual Search Paradigm"
+    },
+    {
+      "paperId": "cbf8b14ee70dd7d481049803b8b128f7df78c0f9",
+      "title": "InSpectr: Multi\u2010Modal Exploration, Visualization, and Analysis of Spectral Data"
+    },
+    {
+      "paperId": "0b775f76648483cf8c89d2f220f83f5acfbcff4a",
+      "title": "Task-driven evaluation of aggregation in time series visualization"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "bacd2337ebfdee6555aec7b648d865e0f63a5c10",
+      "title": "GlyphLink: An interactive visualization approach for semantic graphs"
+    },
+    {
+      "paperId": "a0ab52a4714cb98c788e9d43f3b219ce76374f74",
+      "title": "Evaluation of the Presence of a Face Search Advantage in Chernoff Faces"
+    },
+    {
+      "paperId": "e007a5c6bea23dd5002b97c3606ba468b296030b",
+      "title": "Representing Flow Patterns by Using Streamlines with Glyphs"
+    },
+    {
+      "paperId": "764f3c8f4659e4c9c363664a5e8777905c8a6f73",
+      "title": "Visual Search Efficiency for Features in Chernoff Faces"
+    },
+    {
+      "paperId": "b17d4eed6971d6f425b0942b705c0d71cac4ff27",
+      "title": "Gestaltlines"
+    },
+    {
+      "paperId": "04fb470bc852b6c41fd18625d6321f2717674375",
+      "title": "Evaluation of alternative glyph designs for time series data in a small multiple setting"
+    },
+    {
+      "paperId": "88855928aaadcd43365fd7ea21bcf762beedf984",
+      "title": "Motif simplification: improving network visualization readability with fan, connector, and clique glyphs"
+    },
+    {
+      "paperId": "d9a666a1301a6650b09ff0276baa2c35657f9b4c",
+      "title": "Glyph sorting: Interactive visualization for multi-dimensional data"
+    },
+    {
+      "paperId": "f38b97b5623814a389bda16041df776c82e60b16",
+      "title": "The Generalized Sensitivity Scatterplot"
+    },
+    {
+      "paperId": "8c43cf12a46ec78e41a92d2f1f52564b5a9f7569",
+      "title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing"
+    },
+    {
+      "paperId": "8d17f8f51084efe7628193cdc9d659834de78ff0",
+      "title": "Taxonomy-Based Glyph Design&#8212;with a Case Study on Visualizing Workflows of Biological Experiments"
+    },
+    {
+      "paperId": "bbbf9d6d9891e69258704ec5155fec5bb57873ab",
+      "title": "Evaluation of multivariate visualizations: a case study of refinements and user experience"
+    },
+    {
+      "paperId": "32380b69d5203b18fec5d9834e2db254b401212a",
+      "title": "Distance Visualization for Interactive 3D Implant Planning"
+    },
+    {
+      "paperId": "f2477dd0981e5e4dff0119ad00e6654f50a4b9de",
+      "title": "Evaluation of Trend Localization with Multi-Variate Visualizations"
+    },
+    {
+      "paperId": "807f66375e0fc95e51d2a48bb430729411e8a9d1",
+      "title": "Interactive, Graph-based Visual Analysis of High-dimensional, Multi-parameter Fluorescence Microscopy Data in Toponomics"
+    },
+    {
+      "paperId": "12ed7aa240003e79e946222cc3273a7e28ad0d9e",
+      "title": "Experimental Design: From User Studies to Psychophysics"
+    },
+    {
+      "paperId": "ab02ad77e4aa29e0e6c702e77e914b1e3b9537f7",
+      "title": "An Evaluation of Visualization Techniques to Illustrate Statistical Deformation Models"
+    },
+    {
+      "paperId": "3ffc589a774dde091d741f4c311e2c9dee8c9125",
+      "title": "Survey of glyph-based visualization techniques for spatial multivariate medical data"
+    },
+    {
+      "paperId": "4477803f5ad530ebb54cf6333d422faa668e8266",
+      "title": "Visualizing web search results using glyphs: Design and evaluation of a flower metaphor"
+    },
+    {
+      "paperId": "695633506382a5f6732639baa9b8e3ff0c5c9a29",
+      "title": "An evaluation of methods for encoding multiple 2D spatial data"
+    },
+    {
+      "paperId": "f8f943e2fa76c020e5176cbc46bacdcfd029b5db",
+      "title": "Comparing benchmark task and insight evaluation methods on timeseries graph visualizations"
+    },
+    {
+      "paperId": "2acd7a2e58e383e6c1f199695097ce172dd265e5",
+      "title": "Colour-Enhanced Star Plot Glyphs: Can Salient Shape Characteristics Be Overcome?"
+    },
+    {
+      "paperId": "1063965d4ccdca57d2fd21642263ee0bcbeb500c",
+      "title": "Evaluation of glyph-based multivariate scalar volume visualization techniques"
+    },
+    {
+      "paperId": "7db58cbdd837e002a5b25e963a53532080a54dba",
+      "title": "Critical design and realization aspects of glyph-based 3D data visualization"
+    },
+    {
+      "paperId": "2f7608818fc0881ad98b9b3f206b76a9b40d4e92",
+      "title": "Visualizing Multivariate Networks: A Hybrid Approach"
+    },
+    {
+      "paperId": "aba858420babbaf5d6d65cb3df5cc7699c9aad1a",
+      "title": "The Face Symbol: Research Issues and Cartographic Potential"
+    },
+    {
+      "paperId": "ebfb7be0d359df169aaed709f1ab91ce0b8f04b5",
+      "title": "Using Visual Cues of Contact to Improve Interactive Manipulation of Virtual Objects in Industrial Assembly/Maintenance Simulations"
+    },
+    {
+      "paperId": "4d68fb8d7e6886f6d895f9a20f4d295294537dcb",
+      "title": "Interactive Visualization of Intercluster Galaxy Structures in the Horologium-Reticulum Supercluster"
+    },
+    {
+      "paperId": "a114cbd592a49637ef22e00026efcaaced82a473",
+      "title": "Surface Glyphs for Efficient Visualization of Spatial Multivariate Data"
+    },
+    {
+      "paperId": "b904f814d4d408a04b13fcbd67ec21a286da2c13",
+      "title": "Visualizing intersecting surfaces with nested-surface techniques"
+    },
+    {
+      "paperId": "67ac2e1cd7af86c3b2c0d34a618a4a6631e2881c",
+      "title": "Simple 3D glyphs for spatial multivariate data"
+    },
+    {
+      "paperId": "71e23cd66b749b7b5e475c2e367706c9e50dcfa4",
+      "title": "Multivariate glyphs for multi-object clusters"
+    },
+    {
+      "paperId": "70c1e70060a4783752792b04777f30484b74aa37",
+      "title": "PlanningLines: novel glyphs for representing temporal uncertainties and their evaluation"
+    },
+    {
+      "paperId": "0fab0f8b3ff7b56369e855bdd9f20983147da382",
+      "title": "The effect of data-relatedness in interactive glyphs"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "31dcbe5c9e87b230d693ddfe70a2f8b49474349f",
+      "title": "Single complex glyphs versus multiple simple glyphs"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "d16022a3b76dd7d3975b06eb90f097b975cdedd5",
+      "title": "Value and Relation Display for Interactive Exploration of High Dimensional Datasets"
+    },
+    {
+      "paperId": "0bdc8155b9361091a31e7ba3afc827df3cd6fc18",
+      "title": "Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets"
+    },
+    {
+      "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+      "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": "fb702a069ca07f7136d46f6040e7ce9add31f1c6",
+      "title": "Does organisation by similarity assist image browsing?"
+    },
+    {
+      "paperId": "b61e44e71eed805790361cab575e054f7e3f1aef",
+      "title": "Procedural Shape Generation for Multi-dimensional Data Visualization"
+    },
+    {
+      "paperId": "299c1b95f971c500b4c2467a0df949e834badabd",
+      "title": "Experimental analysis of the effectiveness of features in Chernoff faces"
+    },
+    {
+      "paperId": "4b0a01fa5cdb3d612bebaf2e89b5558234cc1e1d",
+      "title": "Using shape to visualize multivariate data"
+    },
+    {
+      "paperId": null,
+      "title": "Large Datasets at a Glance: Combining Textures and Colors in Scientific Visualization"
+    },
+    {
+      "paperId": "ca51193fa4ed14d95f193555d4d92b312fc0d620",
+      "title": "Information Rich Glyphs for Software Management Data"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "5e6781abab5a0b706f09478b06c7e3b87e1587a1",
+      "title": "Glyphmaker: creating customized visualizations of complex data"
+    },
+    {
+      "paperId": "1bac05d782f317b235b9abcf03c0ef59dd3032f0",
+      "title": "Color icons-merging color and texture perception for integrated visualization of multiple parameters"
+    },
+    {
+      "paperId": "2ec3605ed8fcf8d0674d050863946eba0cfdcf1e",
+      "title": "The Display of Multivariate Information: An Experimental Study of an Information Integration Task"
+    },
+    {
+      "paperId": "d764b99d6037bb385733e7ddafc6d53ddf9c04d0",
+      "title": "Visual Display Representation of Multidimensional Systems: The Effect of System Structure: And Display Integrality"
+    },
+    {
+      "paperId": "4054fbff9f3c98208640ec593fea842b5db356f9",
+      "title": "Classification of Multidimensional Data under Time Constraints: Evaluating Digital and Configural Display Representations"
+    },
+    {
+      "paperId": "5a51df1d3b5180889a5af2a4cae8ae94724ef8cc",
+      "title": "Information integration and the object display An interaction of task demands and display superiority"
+    },
+    {
+      "paperId": "425f239a11ddbc0ddafc30a7fab812866092e650",
+      "title": "A Perceptual Study of the Flury-Riedwyl Faces for Graphically Displaying Multivariate Data"
+    },
+    {
+      "paperId": "01747f0d3eb9a3665cec2564065948ae4c6d823b",
+      "title": "Graphic Representation of Judgmental Information"
+    },
+    {
+      "paperId": "59e22adeeec60fceb1b0bfebb3c0a195c11f0a1a",
+      "title": "Methods for the graphic representation of systems simulated data"
+    },
+    {
+      "paperId": "5c7c1208b4039e010846c92b3ba04877e068032b",
+      "title": "On the Perceptual Salience of Features of Chernoff Faces for Representing Multivariate Data"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "edcd1b8530bcfc7a18248980a704695f65a7101c",
+      "title": "Human Judgment Accuracy, Multidimensional Graphics, and Humans Versus Models"
+    },
+    {
+      "paperId": "36d66f31998d4360d00f21ae3d7fef50ee8395aa",
+      "title": "Performance-based evaluation of graphic displays for nuclear power plant control rooms"
+    },
+    {
+      "paperId": "015d54efba61811d9c6cb751091ce1a24b1c2842",
+      "title": "An experimental evaluation of multivariate graphical point representations"
+    },
+    {
+      "paperId": "f2f0e2c8da081d78de1a0821c38946252bcb50e7",
+      "title": "The Effect of Complexity on Interpreting \"Chernoff\" Faces"
+    },
+    {
+      "paperId": "dec1aca00f4daec77b11dc4c39ed74f5742983b3",
+      "title": "Graphical Representation of Multivariate Data by Means of Asymmetrical Faces"
+    },
+    {
+      "paperId": "dfdf90bfeeaf065c90e2a6e5ad8f890d9a44a06f",
+      "title": "Facial Representation of Multivariate Data"
+    },
+    {
+      "paperId": "4af08d91a02bc30092d7084fc607c72639cfe1c5",
+      "title": "Communicating Financial Information Through Multidimensional Graphics"
+    },
+    {
+      "paperId": "1e49e945548cb36f082f7d43a28b189361851bfe",
+      "title": "The Face as a Data Display"
+    },
+    {
+      "paperId": "f85f1edbd268f3208c5e69f7ecf10f7a5cb0b444",
+      "title": "Effect on Classification Error of Random Permutations of Features in Representing Multivariate Data by Faces"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "e0901821b2fa999903c5d89bfa735702bd237717",
+      "title": "The surgical implications of physiologic patterns in myocardial infarction shock."
+    },
+    {
+      "paperId": "177622882b81454a6d71bdb3c7362d7d934183ee",
+      "title": "A SEMIGRAPHICAL METHOD FOR THE ANALYSIS OF COMPLEX PROBLEMS."
+    },
+    {
+      "paperId": "5521849729aaa387cfeef0d12d3c91170d7bbfd0",
+      "title": "Visualization analysis & design"
+    },
+    {
+      "paperId": "1683038d4db75e6df226318d6c1b3890be947f3b",
+      "title": "Glyph-Based Multi-field Visualization"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": "bd65faeaf30b8895c7384b67dfda5d91fc9cec31",
+      "title": "Visualizing the Semantic Structure in Classical Music Works"
+    },
+    {
+      "paperId": "56d60f66f130ac86742caefc2467e9437582af3c",
+      "title": "Multivariate Data Glyphs: Principles and Practice"
+    },
+    {
+      "paperId": "3bdba13b8223f6cfd19ee85164eae5e9577f24be",
+      "title": "Star Plots How Shape Characteristics Influence Classification Tasks 1"
+    },
+    {
+      "paperId": null,
+      "title": "AUTHOR VERSION: THE FINAL VERSION OF THIS ARTICLE WILL APPEAR IN IEEE TVCG"
+    },
+    {
+      "paperId": "166c140584afb66c8ab72197ee30058587cbe21c",
+      "title": "Visualizing Network Security Events Using Compound Glyphs from a Service-Oriented Perspective"
+    },
+    {
+      "paperId": "b2c1cc037013fbbc8a0a4ed8f14de96ef698d6dc",
+      "title": "Beautiful Evidence"
+    },
+    {
+      "paperId": "4c42029336beddfd16df1906c1b1c0930d125f30",
+      "title": "The Effect of Data-Relatedness in Interactive Glyphs"
+    },
+    {
+      "paperId": "c571556b67f231566a11edd1678debdb9bdd6136",
+      "title": "An Empirical Evaluation of Chernoff Faces, Star Glyphs, and Spatial Visualisations for Binary Data"
+    },
+    {
+      "paperId": "4c29d17d98e3afba9d8b00bdaf63da8820a73dde",
+      "title": "A field guide to digital color"
+    },
+    {
+      "paperId": "3117940d09b49bbae919ff12a56f9301f349f6df",
+      "title": "Visual Search Processes and the Multivariate Point Symbol"
+    },
+    {
+      "paperId": "d8bcb1d94f6acb985ac1db311b0e25707f15a8d3",
+      "title": "Comparison of Chernoff-type face and non-graphical methods for clustering multivariate observations"
+    },
+    {
+      "paperId": "a11cdecfcebc701b4d445d615c3487cc62f8f552",
+      "title": "Performance of Snow Flakes, Suns, and Factorial Suns in the Graphical Representation of Multivariate Data"
+    },
+    {
+      "paperId": "bf74252a1c3f90470432212f7932c1066c0da54c",
+      "title": "A method for constructing Chernoff faces oriented toward interval estimates of the parameters"
+    },
+    {
+      "paperId": "04be0f0d3aed33a927c855d3b81789ad6886f678",
+      "title": "Graphical Exploratory Data Analysis."
+    },
+    {
+      "paperId": "4b00f3d49850a3f3b7968770242a3d558d7b7a7e",
+      "title": "COMPARISONS OF SEVERAL GRAPHICAL METHODS FOR REPRESENTING MULTIVARIATE DATA"
+    },
+    {
+      "paperId": "4a5166771e3a4ae123a0856533a5e9fe00e1e33b",
+      "title": "INVESTIGATING THE SPACE OF CHERNOFF FACES"
+    },
+    {
+      "paperId": "a27371ed903fce0d4bae95510f8f45d717496ec9",
+      "title": "A COMPARISON OF GRAPHICAL REPRESENTATIONS OF MULTIDIMENSIONAL PSYCHIATRIC DIAGNOSTIC DATA"
+    },
+    {
+      "paperId": "e0bf9e7ee9df517206fb678709bcee179d58f666",
+      "title": "A MULTIVARIATE GRAPHIC DISPLAY FOR REGIONAL ANALYSIS"
+    },
+    {
+      "paperId": null,
+      "title": "Zwillingsuntersuchung \u20ac  uber die erblichkeit einiger anthropologischer ma\u00dfe und konstitutionsindices"
+    },
+    {
+      "paperId": "a36a11fe61261ea6950239a5991f51ef223a4699",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Results of a User Study on 2d Hurricane Visualization"
+    },
+    {
+      "paperId": "67ce02640eb62b50fb19ce38b7a367e9ae61ba4a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 an Evaluation of Glyph Perception for Real Symmetric Traceless Tensor Properties"
+    }
+  ]
+}

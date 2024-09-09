@@ -1,0 +1,401 @@
+{
+  "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Roth13",
+    "MAG": "2014964183",
+    "DOI": "10.1109/TVCG.2013.130",
+    "CorpusId": 15013945,
+    "PubMed": "24051802"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+  "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization",
+  "abstract": "Proposals to establish a 'science of interaction' have been forwarded from Information Visualization and Visual Analytics, as well as Cartography, Geovisualization, and GIScience. This paper reports on two studies to contribute to this call for an interaction science, with the goal of developing a functional taxonomy of interaction primitives for map-based visualization. A semi-structured interview study first was conducted with 21 expert interactive map users to understand the way in which map-based visualizations currently are employed. The interviews were transcribed and coded to identify statements representative of either the task the user wished to accomplish (i.e., objective primitives) or the interactive functionality included in the visualization to achieve this task (i.e., operator primitives). A card sorting study then was conducted with 15 expert interactive map designers to organize these example statements into logical structures based on their experience translating client requests into interaction designs. Example statements were supplemented with primitive definitions in the literature and were separated into two sorting exercises: objectives and operators. The objective sort suggested five objectives that increase in cognitive sophistication (identify, compare, rank, associate, & delineate), but exhibited a large amount of variation across participants due to consideration of broader user goals (procure, predict, & prescribe) and interaction operands (space-alone, attributes-in-space, & space-in-time; elementary & general). The operator sort suggested five enabling operators (import, export, save, edit, & annotate) and twelve work operators (reexpress, arrange, sequence, resymbolize, overlay, pan, zoom, reproject, search, filter, retrieve, & calculate). This taxonomy offers an empirically-derived and ecologically-valid structure to inform future research and design on interaction.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 83,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Geography",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2356-2365",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Roth2013AnET,\n author = {R. Roth},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2356-2365},\n title = {An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34723971",
+      "name": "R. Roth"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "a51d38b4a221afcf7d909ec06013b077a99102ac",
+      "title": "VISUAL THINKING"
+    },
+    {
+      "paperId": "405f960a999207e75acc3c039080bcd38fe38d37",
+      "title": "Cartographic Interaction Primitives: Framework and Synthesis"
+    },
+    {
+      "paperId": "489b6d98b810c7cd1091912b5ec5bc8d254a313b",
+      "title": "Interacting with maps: The science and practice of cartographic interaction"
+    },
+    {
+      "paperId": "a021f932f4458cb3d1255603d20a3490fdfad04a",
+      "title": "Card Sorting For Cartographic Research and Practice"
+    },
+    {
+      "paperId": "8be81b03d1c1aaba8ecd57bbfa19e48616a179fb",
+      "title": "Comparing different levels of interaction constraints for deriving visual problem isomorphs"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "bed9464c7e6dc35ef0fb2781cbc23249a086296a",
+      "title": "Topologically Characterized Movement Patterns: A Cognitive Assessment"
+    },
+    {
+      "paperId": "6c8b372c3dc846770a2bbda9388d700cae67539e",
+      "title": "How Maps Work"
+    },
+    {
+      "paperId": "9321b126f41307fba504e9f7633a8522df850a97",
+      "title": "Needs Assessment for the Design of Information Synthesis Visual Analytics Tools"
+    },
+    {
+      "paperId": "b9306237ed226d049ff0e84a53a33fcde53321e8",
+      "title": "The usability of computerized card sorting: a comparison of three applications by researchers and end users"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "6405093b39d8e7d9d35d70ff6bce4bdf3fc332be",
+      "title": "The use and reporting of cluster analysis in health psychology: a review."
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "a080ca658613b80c6b3593f5ea12d8f297a88116",
+      "title": "Exploratory spatio-temporal visualization: an analytical review"
+    },
+    {
+      "paperId": "d3cccc1f1d710c9accf4171fb7f3a7a95cd4c084",
+      "title": "Which comes first, usability or utility?"
+    },
+    {
+      "paperId": "909e386bb9513ad46b38bb01d1327c121b6ba55e",
+      "title": "Cluster Analysis"
+    },
+    {
+      "paperId": "3d6e713d5cf65e66657b5af8a509a3df2f72cde3",
+      "title": "Promoting universal usability with multi-layer interface design"
+    },
+    {
+      "paperId": "4d09bb03725f242a7b89c3a473664753e5f379e8",
+      "title": "Interactivity Types in Geographic Visualization"
+    },
+    {
+      "paperId": "6344393e23b8ec5b8c803fb3ff8d7acc4da1d33b",
+      "title": "An evolving cognitive-semiotic approach to geographic visualization and knowledge construction"
+    },
+    {
+      "paperId": "aa1dc7f879b00a485b4eae9029fc33d7b071d317",
+      "title": "Geospatial Information Visualization User Interface Issues"
+    },
+    {
+      "paperId": "1868aaef6f7e23baba1c8f06c2c2c54b37f0aeea",
+      "title": "Research Challenges in Geovisualization"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "dcc6aa7a99697bd11eb9eb64bea347f0e56e4ba7",
+      "title": "Measuring Cluster Similarity across Methods"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "39b3cca4045fc2493af2c3dbf7475758e0a0c522",
+      "title": "Constructing knowledge from multivariate spatiotemporal data: integrating geographical visualization with knowledge discovery in database methods"
+    },
+    {
+      "paperId": "b9b42450d2de1564f4e4f02aed198c00632c9561",
+      "title": "Visualization of relationships between spatial patterns in time by cartographic animation"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "d9e3273f86678f6532f2c91ecb762fa8065debc0",
+      "title": "The sorting techniques: a tutorial paper on card sorts, picture sorts and item sorts"
+    },
+    {
+      "paperId": "ff7379539fef64772fda918d2a5c2577b2a2b6aa",
+      "title": "Exploratory cartographic visualization: advancing the agenda"
+    },
+    {
+      "paperId": "35ab65a775e638a0589a27426cc0f4e5eab96ee2",
+      "title": "Exploring spatial data representation with dynamic graphics"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "c222f0b1dbfbb4081598e650fb6f10fbca0f9ba9",
+      "title": "The trouble with computers: Usefulness, usability and productivity"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6c83f65c6f2c1197d9325536cedcc7b1ec238337",
+      "title": "Trouble with Computers: Usefulness, Usability, and Productivity"
+    },
+    {
+      "paperId": "bff4866d1dcc096ab810835504bd13c0451a8e63",
+      "title": "Visualization In Geographical Information Systems"
+    },
+    {
+      "paperId": "abb99746f14064e67a08594820abcac11c6a1b1a",
+      "title": "How a Cockpit Remembers Its Speeds"
+    },
+    {
+      "paperId": "b030159952e2e17eee5cb992f1c97ff57a356eae",
+      "title": "It's About Time: A Conceptual Framework for the Representation of Temporal Dynamics in Geographic Information Systems"
+    },
+    {
+      "paperId": "a3b72b811e7ef604fcedb788e848883e8ffbcf76",
+      "title": "Qualitative Data Analysis: An Expanded Sourcebook"
+    },
+    {
+      "paperId": "7437849b1b57be8d6919f886ef57cef0f68ef905",
+      "title": "On Distinguishing Work Tasks and Enabling Tasks"
+    },
+    {
+      "paperId": "c49b57d400bb11d7191f9768fcad305b13d359e3",
+      "title": "How Maps Work"
+    },
+    {
+      "paperId": "b7a340cd9b59fcc866d648f4846564c4f1d004e9",
+      "title": "The role of German work psychology in the design of artifacts"
+    },
+    {
+      "paperId": "64cf599b336d4f03016aefc8017667f48777e24e",
+      "title": "Groupware: some issues and experiences"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "82f8fbc66004ac438ac742c1ad6016d07d1ae037",
+      "title": "The keystroke-level model for user performance time with interactive systems"
+    },
+    {
+      "paperId": "1abb835694f93afe6335aa7a5fd6effe075b99d5",
+      "title": "Response time in man-computer conversational transactions"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Cartographic interaction: What we know and what we need to know"
+    },
+    {
+      "paperId": "02ce27ba5d945105719b7f592df2433d3598b63b",
+      "title": "Interactive data visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Card Sorting: A Definitive Guide"
+    },
+    {
+      "paperId": null,
+      "title": "Warfel, Card Sorting: A Definitive Guide, Published Online (Accessed 4 September 2010)"
+    },
+    {
+      "paperId": null,
+      "title": "Card Sorting: How Many Users to Test"
+    },
+    {
+      "paperId": null,
+      "title": "Keynote Address: Systems of thought"
+    },
+    {
+      "paperId": null,
+      "title": "Card Sorting: Designing Usable Categories . Brooklyn, NY"
+    },
+    {
+      "paperId": "002e253f193af637704a0145e1524f4ac4868244",
+      "title": "CHAPTER 42 Interactive Maps for Exploring Spatial Data"
+    },
+    {
+      "paperId": "b2a17eebfa0b0eaa41516f2d8630c087176d5f18",
+      "title": "Facilitating Interaction for Geovisualization"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "95d1e74d6740c979449c25c3a07bd2ff5d39e6ad",
+      "title": "Universal usability: a research agenda for human\u2014computer interaction to empower every citizen"
+    },
+    {
+      "paperId": "b10569bebba592a8762c0638d89e1e899dd1f5b6",
+      "title": "Interaction Tools to Support Knowledge Discovery: A Case Study Using Data Explorer and Tcl/Tk"
+    },
+    {
+      "paperId": "bfd523471963a51dff33bcc9d6dc4a91d3f00e62",
+      "title": "Monitoring Change: Characteristics of Dynamic Geo-spatial Phenomena for Visual Exploration"
+    },
+    {
+      "paperId": "ff1e6a1f0d6aaf1e3ed779fa727982cfbcd6a7b2",
+      "title": "Cartography and GIS: Facilitating collaboration I"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Universal analytical GIS operations: A task-oriented systematization of data structure-independent GIS functionality"
+    },
+    {
+      "paperId": null,
+      "title": "Putting time on the map: Dynamic displays in data visualization and GIS"
+    },
+    {
+      "paperId": "bc4a39592e2a15afb7c6cf3802368d6a8f62e11d",
+      "title": "Visualization in modern cartography"
+    },
+    {
+      "paperId": "361530b7b1438b3287cdef2a0b57f206ae9cf8e3",
+      "title": "Usability engineering"
+    },
+    {
+      "paperId": null,
+      "title": "Appendix B: Taxonomy of visualization goals,\" in Visual Cues: Practical Data Visualization"
+    },
+    {
+      "paperId": "60aea8a338428f68b54bf3d6279d5bb369810d33",
+      "title": "A PATTERN IDENTIFICATION APPROACH TO CARTOGRAPHIC VISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Idioms: A conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": "5f05b9dcdc2bb7c3c45553e6f4f58c4342dad8d2",
+      "title": "The psychology of human-computer interaction"
+    },
+    {
+      "paperId": null,
+      "title": "exact information"
+    },
+    {
+      "paperId": null,
+      "title": "Calculate : Finally, the calculate operator describes interactions that derive new information about map features of interest (Fig. 5O)"
+    },
+    {
+      "paperId": null,
+      "title": "objective applied to the space-in-time operand orders map features according to temporal proximity (i.e., \u2018first\u2019"
+    }
+  ]
+}

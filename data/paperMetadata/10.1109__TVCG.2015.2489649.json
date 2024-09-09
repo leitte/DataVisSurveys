@@ -1,0 +1,542 @@
+{
+  "paperId": "a8004ae2a5cc422721e3bfd999d0399bd5bbeb39",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ZhouH16",
+    "MAG": "1830709933",
+    "DOI": "10.1109/TVCG.2015.2489649",
+    "CorpusId": 5810468,
+    "PubMed": "26513793"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/a8004ae2a5cc422721e3bfd999d0399bd5bbeb39",
+  "title": "A Survey of Colormaps in Visualization",
+  "abstract": "Colormaps are a vital method for users to gain insights into data in a visualization. With a good choice of colormaps, users are able to acquire information in the data more effectively and efficiently. In this survey, we attempt to provide readers with a comprehensive review of colormap generation techniques and provide readers a taxonomy which is helpful for finding appropriate techniques to use for their data and applications. Specifically, we first briefly introduce the basics of color spaces including color appearance models. In the core of our paper, we survey colormap generation techniques, including the latest advances in the field by grouping these techniques into four classes: procedural methods, user-study based methods, rule-based methods, and data-driven methods; we also include a section on methods that are beyond pure data comprehension purposes. We then classify colormapping techniques into a taxonomy for readers to quickly identify the appropriate techniques they might use. Furthermore, a representative set of visualization techniques that explicitly discuss the use of colormaps is reviewed and classified based on the nature of the data in these applications. Our paper is also intended to be a reference of colormap choices for readers when they are faced with similar data and/or tasks.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2016,
+  "referenceCount": 118,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-08-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2051-2069",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zhou2016ASO,\n author = {Liang Zhou and C. Hansen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2051-2069},\n title = {A Survey of Colormaps in Visualization},\n volume = {22},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2157580292",
+      "name": "Liang Zhou"
+    },
+    {
+      "authorId": "2316061127",
+      "name": "C. Hansen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ea0dc5f1199ea49ca6272a3e853dcdf8e91e8d0d",
+      "title": "Efficient Contrast Effect Compensation with Personalized Perception Models"
+    },
+    {
+      "paperId": "44e2be9fdfff27f12bc467996f5ca7c625e0e1db",
+      "title": "A survey and task-based quality assessment of static 2D colormaps"
+    },
+    {
+      "paperId": "186deea6be76314e04e20121dd703d4d53777030",
+      "title": "The ParaView Guide: A Parallel Visualization Application"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "4c5249d7126bfd99fb0cbb8f142a9bc49396de45",
+      "title": "Tree Colors: Color Schemes for Tree-Structured Data"
+    },
+    {
+      "paperId": "f12b410eab604196409529d621a27c16b2f9da91",
+      "title": "Data Visualization: Principles and Practice, Second Edition"
+    },
+    {
+      "paperId": "1ae1450ee3357ac7a55a0f7e2342c094ac016def",
+      "title": "Methods for Compensating Contrast Effects in Information Visualization"
+    },
+    {
+      "paperId": "d52ddfbcb0527533ea98771d8b6068c884f218b2",
+      "title": "GuideME: Slice\u2010guided Semiautomatic Multivariate Exploration of Volumes"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "3a8a9cd20f1d1dae2e5a442f143d108e609ff4f8",
+      "title": "A provably-robust sampling method for generating colormaps of large data"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "084bcf324945df49e01c28b721e66ea7f43cf4d8",
+      "title": "Noise-Based Volume Rendering for the Visualization of Multivariate Volumetric Data"
+    },
+    {
+      "paperId": "355101430a490abddeb65bbf4d6fc75e639ab579",
+      "title": "Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles"
+    },
+    {
+      "paperId": "bffb7d98749b9cb7701bfd1950c9435eb76d3f59",
+      "title": "Perceptually Driven Visibility Optimization for Categorical Data Visualization"
+    },
+    {
+      "paperId": "040ad282a2596645cea974e7671fd2242b773cb3",
+      "title": "Selecting Semantically\u2010Resonant Colors for Data Visualization"
+    },
+    {
+      "paperId": "60f6af6da79152ee08b25a580577c09eba261315",
+      "title": "A Time-Dependent Vector Field Topology Based on Streak Surfaces"
+    },
+    {
+      "paperId": "6ba801c551f42711efce2b09c15f9ff3de914191",
+      "title": "Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "82b544b32cb92c8767f7d3c126f9c3a3f584d54b",
+      "title": "Selecting Coherent and Relevant Plots in Large Scatterplot Matrices"
+    },
+    {
+      "paperId": "79f529ffaf3abe74470ed08d4552f3ec723d546b",
+      "title": "Importance Driven Automatic Color Design for Direct Volume Rendering"
+    },
+    {
+      "paperId": "3907cab797bab11cee1c42902525f85914eba3c3",
+      "title": "Vismon: Facilitating Analysis of Trade\u2010Offs, Uncertainty, and Sensitivity In Fisheries Management Decision Making"
+    },
+    {
+      "paperId": "3cf7be8f647cb2ded2ff3de4cd23890db594a270",
+      "title": "GreenVis: Energy-Saving Color Schemes for Sequential Data Visualization on OLED Displays"
+    },
+    {
+      "paperId": "33ee612edb580cf3d8141eae10c6ca5b9d66cb61",
+      "title": "Evaluation of Artery Visualizations for Heart Disease Diagnosis"
+    },
+    {
+      "paperId": "e881108e0db888482e4801798f87d36e04393c00",
+      "title": "FoamVis: Visualization of 2D Foam Simulation Data"
+    },
+    {
+      "paperId": "6caaf5b7083f32762dd03e81f68c4af35caf708b",
+      "title": "Tuner: Principled Parameter Finding for Image Segmentation Algorithms Using Visual Response Surface Exploration"
+    },
+    {
+      "paperId": "746a54bbfee0c6883c61f964cad98c720d55d457",
+      "title": "Asymmetric Relations in Longitudinal Social Networks"
+    },
+    {
+      "paperId": "91c4feed222413238c894553c2933c860d392427",
+      "title": "Exploring Collections of Tagged Text for Literary Scholarship"
+    },
+    {
+      "paperId": "122e5633f956cc758c4fe36fab571b853a37e64c",
+      "title": "Illustrative Molecular Visualization with Continuous Abstraction"
+    },
+    {
+      "paperId": "6a738d0e196d413d11498a82adba9c0f4d78d20e",
+      "title": "Using color in visualization: A survey"
+    },
+    {
+      "paperId": "7405a170d7ae1a69f15c7872c11d3b7913c1718d",
+      "title": "CheckViz: Sanity Check and Topological Clues for Linear and Non\u2010Linear Mappings"
+    },
+    {
+      "paperId": "ca17f1e976e49c868b211e4bd65a6f6b361e382a",
+      "title": "Interactive seismic interpretation with piecewise global energy minimization"
+    },
+    {
+      "paperId": "f2ba775d0a4e198f08f90b266aced40fb45a6f9f",
+      "title": "Interactive visualization of streaming data with Kernel Density Estimation"
+    },
+    {
+      "paperId": "fe2dcdb4c39fd519c7a44bb29a7655237475f91f",
+      "title": "Data-driven image color theme enhancement"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "ea55711f8d2fc6013eeed91fe1666b277b3dfed0",
+      "title": "Comparative Visualization for Parameter Studies of Dataset Series"
+    },
+    {
+      "paperId": "086699da0528ed47463cea3108851bd3dc5ba715",
+      "title": "An Analysis of Power Consumption in a Smartphone"
+    },
+    {
+      "paperId": "2d47931792d9dc1e752551f56fe477d085555f39",
+      "title": "Space\u2010in\u2010Time and Time\u2010in\u2010Space Self\u2010Organizing Maps for Exploring Spatiotemporal Patterns"
+    },
+    {
+      "paperId": "78cc2c83aa52a6b01aa31e5eff9f7793081328e6",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Real-time Temporal-coherent Color Contrast Enhancement for Dichromats"
+    },
+    {
+      "paperId": "84b4d21fd21222a1f9ee27f5db47074aa723ea11",
+      "title": "A Survey of Transfer Functions Suitable for Volume Rendering"
+    },
+    {
+      "paperId": "6e480adc7d01cd9700325311f5158826369c1cd6",
+      "title": "Diverging Color Maps for Scientific Visualization"
+    },
+    {
+      "paperId": "257258102dcf9c1baf7d934264ebcc3703267ed0",
+      "title": "SpRay: A visual analytics approach for gene expression data"
+    },
+    {
+      "paperId": "40c16c9fde25ef038e5f95b59a75aff11f64c962",
+      "title": "Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "aa4dc282682a63c907e7b57784188a4b625e7a71",
+      "title": "A Physiologically-based Model for Simulation of Color Vision Deficiency"
+    },
+    {
+      "paperId": "5980209c4cf603008c123006b98fecd192bcc535",
+      "title": "Parameter Sensitivity Visualization for DTI Fiber Tracking"
+    },
+    {
+      "paperId": "7dbfb2233a5844193ac6854911c7447387fafa68",
+      "title": "Spatiotemporal Analysis of Sensor Logs using Growth Ring Maps"
+    },
+    {
+      "paperId": "b70fd0d341a856872144ba8159033eac433a01cc",
+      "title": "Escaping RGBland: Selecting colors for statistical graphics"
+    },
+    {
+      "paperId": "f8c3b0d7c1d293ffdfa6c4ad3142c902435633d5",
+      "title": "Energy Aware Color Sets"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "94f3e69fbfc3d8d7c2208f49eaa7d1f4988172d6",
+      "title": "Glyph-Based SPECT Visualization for the Diagnosis of Coronary Artery Disease"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "f14b2b53f582c01bf575df2a41f73c8835e1da5f",
+      "title": "Color Design for Illustrative Visualization"
+    },
+    {
+      "paperId": "51fa7fa6c329b8d4993a4fd9cddf9d09717dba2e",
+      "title": "An Efficient Naturalness-Preserving Image-Recoloring Method for Dichromats"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "6ca764136e70b603b5849e457c8afa02a0594750",
+      "title": "Harmonic Colormaps for Volume Visualization"
+    },
+    {
+      "paperId": "001f363a315f2e1d6412889b1d9f1f51e5dcd409",
+      "title": "Task-Driven Color Coding"
+    },
+    {
+      "paperId": "797d0a0a197ba1e02331663942cba1957ee229dd",
+      "title": "Visualization of Gene Combinations"
+    },
+    {
+      "paperId": "46b00df80d34df8237fc8653997c3e1f96729c60",
+      "title": "Animation of Orthogonal Texture Patterns for Vector Field Visualization"
+    },
+    {
+      "paperId": "097749c130c1cf35b8b9c236916de3b0455ffce0",
+      "title": "Generating Color Palettes using Intuitive Parameters"
+    },
+    {
+      "paperId": "11dbcc3b66789b2791b1d1a780692df32c5fc120",
+      "title": "Data Visualization : Principles and Practice"
+    },
+    {
+      "paperId": "e5df3e9f37f8cf0a80415e8a9dc21a5862e6634b",
+      "title": "Geographically Weighted Visualization: Interactive Graphics for Scale-Varying Exploratory Analysis"
+    },
+    {
+      "paperId": "f59837e660cb14de95b73241cdfe2f031f466d86",
+      "title": "There is More to Color Scales than Meets the Eye: A Review on the Use of Color in Visualization"
+    },
+    {
+      "paperId": "bab47db3e8f549e8ba1cc207c41701be425e4709",
+      "title": "See What You Know: Analyzing Data Distribution to Improve Density Map Visualization"
+    },
+    {
+      "paperId": "ee792edccb2c88e927c81285344d2d88babfb86f",
+      "title": "Rainbow Color Map (Still) Considered Harmful"
+    },
+    {
+      "paperId": "a9232b2ba10b7fe457a96a86de73e4cac88f9927",
+      "title": "Techniques for Fusion of Multimodal Images: Application to Breast Imaging"
+    },
+    {
+      "paperId": "24295f6dfa2f2d1b32faf3548f49e86539af1d12",
+      "title": "Color harmonization"
+    },
+    {
+      "paperId": "f1ee1729e5947fed09eea16ebaaa92abaa91c4f0",
+      "title": "Visualizing information on mobile devices"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "b9e0a0adf6be60db53e10adc1cb37c4e0e485e3e",
+      "title": "ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps"
+    },
+    {
+      "paperId": "2937ab9fb68c335674914528a1bf2a39d5c60a09",
+      "title": "Face-based luminance matching for perceptual colormap generation"
+    },
+    {
+      "paperId": "52e58df4bf26bb506e661dcc5af4e5b0fb119407",
+      "title": "Meet iCAM: A Next-Generation Color Appearance Model"
+    },
+    {
+      "paperId": "8d8d0a2d534c3cee59e7e325c07c94d5869a67ca",
+      "title": "The \"Which Blair project\": a quick visual method for evaluating perceptual color maps"
+    },
+    {
+      "paperId": "0e341b2a181f71dea088dbba800e70262f91a79e",
+      "title": "Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition"
+    },
+    {
+      "paperId": "c74656e282c614be9e3a49cab84674197f65e37d",
+      "title": "Task-based color scale design"
+    },
+    {
+      "paperId": "6c90134dbe9ebcf9be5af397c52d197f2a720b00",
+      "title": "Data visualization: the end of the rainbow"
+    },
+    {
+      "paperId": "bd7a98c1eaf3d7f83335629e80040138f0eecfc4",
+      "title": "Computerized simulation of color appearance for dichromats."
+    },
+    {
+      "paperId": "e573253e95f4203d9e752fce5497914806c608a2",
+      "title": "Choosing effective colours for data visualization"
+    },
+    {
+      "paperId": "bdd62403a487199d350851e2d398d24b4c3d1038",
+      "title": "A Perceptual Colour Segmentation Algorithm"
+    },
+    {
+      "paperId": "058e2e38420b61d8d870590d971d4e7d1cd078c2",
+      "title": "How not to lie with visualization"
+    },
+    {
+      "paperId": "1d04afb8b872b359846b5168170fcaba4c0a49e4",
+      "title": "A rule-based tool for assisting colormap selection"
+    },
+    {
+      "paperId": "7ec8b55d7ce95ab16d08a5fe5b0bc3727ae9be7b",
+      "title": "Guidelines for use of the perceptual dimensions of color for mapping and visualization"
+    },
+    {
+      "paperId": "c6d856af0498b1cc9067bafcb17b827d925ac188",
+      "title": "Visual Evaluation and Evolution of the RLAB Color Space"
+    },
+    {
+      "paperId": "647195a8ade1d38071912030493b82d988dbe0cf",
+      "title": "Revised colour\u2010appearance model for related and unrelated colours"
+    },
+    {
+      "paperId": "217c2da9f9e77834acad4e1dbde9c8ed49a193a1",
+      "title": "Half a century of research on the Stroop effect: an integrative review."
+    },
+    {
+      "paperId": "4c8307620f9e23c332c4023bc501c2dbbb3fcefc",
+      "title": "Spline-based color sequences for univariate, bivariate and trivariate mapping"
+    },
+    {
+      "paperId": "39d99a7d37a1e2d29d9b55c080cb32d7340035f1",
+      "title": "Color\u2010appearance model and chromatic\u2010adaptation transform"
+    },
+    {
+      "paperId": "1a762922b27e3221a35926155b936cdfee010610",
+      "title": "Color sequences for univariate maps: theory, experiments and principles"
+    },
+    {
+      "paperId": "b8b095b7ab5c704ffadb853d41881325e38d4b1c",
+      "title": "The Generation of Color Sequences for Univariate and Bivariate Mapping"
+    },
+    {
+      "paperId": "4d082b58ff17a20b50ed1028f7b6742bf629e35c",
+      "title": "Color display in ultrasonography."
+    },
+    {
+      "paperId": "645c9bf8285ba71cf0d74b76767da1ddd4c140f2",
+      "title": "A Theory for Coloring Bivariate Statistical Maps"
+    },
+    {
+      "paperId": "25e0d93ca47d86510d6a0f9cda9ae3594f3d05b2",
+      "title": "Color Science: Concepts and Methods, Quantitative Data and Formulas"
+    },
+    {
+      "paperId": "abd5f1270a4bc00657b72a166ff1e6c78938a6fc",
+      "title": "Visual Sensitivities to Color Differences in Daylight"
+    },
+    {
+      "paperId": "0a4fad14e45493254f24fabce7e205a2ec3d58d3",
+      "title": "A Pigment Color System and Notation"
+    },
+    {
+      "paperId": "12688b70ba5c8741e7a4d2717d20f6865de8cd7b",
+      "title": "ColorCAT: Guided Design of Colormaps for Combined Analysis Tasks"
+    },
+    {
+      "paperId": null,
+      "title": "Color - CAT : Guided Design of Colormaps for Combined Analysis Tasks , \u201d in Eurographics Conference on Visualization ( EuroVis )Short Papers"
+    },
+    {
+      "paperId": null,
+      "title": "Seg3D: Volumetric Image Segmentation and Visualization"
+    },
+    {
+      "paperId": "ef65035d6d88d8aa5d3851b1563868d847a093ce",
+      "title": "Color Appearance Models"
+    },
+    {
+      "paperId": "cdee34d3471148ee75f76fcd0aeb995effa8669a",
+      "title": "Using Patterns to Encode Color Information for Dichromats"
+    },
+    {
+      "paperId": "11456c8c21cd2b740561b6b82516fd61ce125051",
+      "title": "Data Driven Color Mapping"
+    },
+    {
+      "paperId": "53fdc63adf9c6d0a3f7458a106021c23ace90e1a",
+      "title": "VisIt: An End-User Tool for Visualizing and Analyzing Very Large Data"
+    },
+    {
+      "paperId": "bd65faeaf30b8895c7384b67dfda5d91fc9cec31",
+      "title": "Visualizing the Semantic Structure in Classical Music Works"
+    },
+    {
+      "paperId": "78a8c8f52637b679b6697b905e7439a98936735b",
+      "title": "Volume Visualization on Mobile Devices"
+    },
+    {
+      "paperId": "a8e5bb99ec688e393eb13bf66fa4a2ab7e8fa7ae",
+      "title": "Enhancing Visual Exploration by Appropriate Color Coding"
+    },
+    {
+      "paperId": "4c29d17d98e3afba9d8b00bdaf63da8820a73dde",
+      "title": "A field guide to digital color"
+    },
+    {
+      "paperId": "527e46818a747b0ad43287fcf5fe27571c15dd08",
+      "title": "The CIECAM02 Color Appearance Model"
+    },
+    {
+      "paperId": "c23638eb61823699c077de19e4c36d569ac492cd",
+      "title": "Color use guidelines for data representation"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "bfe1cb633a262abe6eed7bbc0430147289bc89ab",
+      "title": "The CIE 1997 Interim Colour Appearance Model (Simple Version), CIECAM97s"
+    },
+    {
+      "paperId": "43d206dab334ae792bc9c26d41f59bddf7684901",
+      "title": "Color Use Guidelines for Mapping and Visualization"
+    },
+    {
+      "paperId": "b39ddcb807fb3fd9375d3ee3d9b64d88c53d0785",
+      "title": "Color scales for image data"
+    },
+    {
+      "paperId": "a6176eb522bfe4e1babb464e0ce00a405c6add80",
+      "title": "The Development of Process-Printed Munsell Charts for Selecting Map Colors"
+    },
+    {
+      "paperId": null,
+      "title": "Recommendations on Uniform Color Spaces, Color-difference Equations, Psychometric Color Terms, series CIE publication"
+    },
+    {
+      "paperId": "2648e587093c35a715e127e6ff770aba70b0feec",
+      "title": "The C.I.E. colorimetric standards and their use"
+    },
+    {
+      "paperId": "18a865f584a295c3f98d2c0fdea2ccc751d7519d",
+      "title": "Atlas of the Munsell color system"
+    },
+    {
+      "paperId": "c9fd8827aa392a07c70f100ea07b55b9f6539ba7",
+      "title": "Ieee Computer Graphics and Applications 7 Collaboration-specifi C Color-map Design Color-map Design"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www.computer.org/publications/dlib"
+    }
+  ]
+}

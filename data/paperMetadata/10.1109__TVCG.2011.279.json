@@ -1,0 +1,581 @@
+{
+  "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+  "externalIds": {
+    "MAG": "2058203255",
+    "DBLP": "journals/tvcg/LamBIPC12",
+    "DOI": "10.1109/TVCG.2011.279",
+    "CorpusId": 1943669,
+    "PubMed": "22144529"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+  "title": "Empirical Studies in Information Visualization: Seven Scenarios",
+  "abstract": "We take a new, scenario-based look at evaluation in information visualization. Our seven scenarios, evaluating visual data analysis and reasoning, evaluating user performance, evaluating user experience, evaluating environments and work practices, evaluating communication through visualization, evaluating visualization algorithms, and evaluating collaborative data analysis were derived through an extensive literature review of over 800 visualization publications. These scenarios distinguish different study goals and types of research questions and are illustrated through example studies. Through this broad survey and the distillation of these scenarios, we make two contributions. One, we encapsulate the current practices in the information visualization research community and, two, we provide a different approach to reaching decisions about what might be the most effective evaluation of a given information visualization. Scenarios can be used to choose appropriate research questions and goals and the provided examples can be consulted for guidance on how to design one's own study.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 124,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-00932606/file/Lam_2012_ESI.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1520-1536",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lam2012EmpiricalSI,\n author = {Heidi Lam and E. Bertini and Petra Isenberg and C. Plaisant and Sheelagh Carpendale},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1520-1536},\n title = {Empirical Studies in Information Visualization: Seven Scenarios},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "8358143",
+      "name": "Heidi Lam"
+    },
+    {
+      "authorId": "1519978914",
+      "name": "E. Bertini"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "1764846",
+      "name": "C. Plaisant"
+    },
+    {
+      "authorId": "96301418",
+      "name": "Sheelagh Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "59002e3c7257921b1650a2b2e6c12cc97815b870",
+      "title": "Empirical Studies in Information Visualization"
+    },
+    {
+      "paperId": "fb1a0b02ff189168e1d9c3252bbb9b752a8a32d8",
+      "title": "\uc758\uc0ac \uac04\ud638\uc0ac communication"
+    },
+    {
+      "paperId": "cf74a9948d26c2e4c9423c668130c6736353e57f",
+      "title": "Information visualization evaluation in large companies: Challenges, experiences and recommendations"
+    },
+    {
+      "paperId": "f4b3460525e498f8963ff6c5c46924320a70ad61",
+      "title": "Experimental and Quasi-Experimental Designs"
+    },
+    {
+      "paperId": "a327ff9a45994a0e8ff49da44d6cd2e893ebe74b",
+      "title": "A closer look at note taking in the co-located collaborative visual analytics process"
+    },
+    {
+      "paperId": "fec8c8c69f53b4a5222666062c1b59c992c1353f",
+      "title": "An exploratory study of co-located collaborative visual analytics around a tabletop display"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "55d3281f6b34c50df975b7261044689bf73ec610",
+      "title": "Crowdsourcing graphical perception: using mechanical turk to assess visualization design"
+    },
+    {
+      "paperId": "788a83aa4c1e7f058d9ef50430dd33dc9af475ce",
+      "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
+    },
+    {
+      "paperId": "3b452cd6e8c04166824f5c3d4b8a26190b16459f",
+      "title": "Finding comparable temporal categorical records: A similarity measure with an interactive visualization"
+    },
+    {
+      "paperId": "cf5384bd592fcb369c91d689836fe2f71665d35b",
+      "title": "Evaluating visual analytics systems for investigative analysis: Deriving design principles from a case study"
+    },
+    {
+      "paperId": "e8eef01b77a9fd8f5eb9cbae3b84e2d53317a473",
+      "title": "Exemplar-based Visualization of Large Document Corpus (InfoVis2009-1115)"
+    },
+    {
+      "paperId": "f748d6f58f3cf24e0f31c7074875e08354679686",
+      "title": "Constructing Overview + Detail Dendrogram-Matrix Views"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "5776d126d4743723d75ba58efa862b095f2e061e",
+      "title": "CoCoNutTrix: Collaborative Retrofitting for Information Visualization"
+    },
+    {
+      "paperId": "fd786212e2398d698b1547e505c8ab613b2a268d",
+      "title": "Advancing User-Centered Evaluation of Visual Analytic Environments through Contests"
+    },
+    {
+      "paperId": "90ce27fb57174f708c0f2e1fc1e4e350cfc38bc3",
+      "title": "Integrating Statistics and Visualization for Exploratory Power: From Long-Term Case Studies to Design Guidelines"
+    },
+    {
+      "paperId": "f7642e2794d6d26a968322ac6461c7d4d52d80d9",
+      "title": "Collaborative synthesis of visual analytic results"
+    },
+    {
+      "paperId": "746a90962ed1555cae8d2580124c4445c00b42eb",
+      "title": "EMDialog: Bringing Information Visualization into the Museum"
+    },
+    {
+      "paperId": "8a6d41ac480f90d937d500a6a230c99832721792",
+      "title": "Density Displays for Data Stream Monitoring"
+    },
+    {
+      "paperId": "ad3fe16611312d4e58f7a7f90a21a7230f5ec6f6",
+      "title": "Usability evaluation considered harmful (some of the time)"
+    },
+    {
+      "paperId": "2de9b67cabf99432a4d4a7b278a98afdb42c3d6d",
+      "title": "Crowdsourcing user studies with Mechanical Turk"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "80c1561ea178251dcab1cb7fbc8820870fd19a88",
+      "title": "Qualitative analysis of visualization: a building design field study"
+    },
+    {
+      "paperId": "2480c1e6d170e196f73f535172f373539ea70d51",
+      "title": "Increasing the utility of quantitative empirical studies for meta-analysis"
+    },
+    {
+      "paperId": "8d2646551387dc7fe57101d23fd0deeceb8eb075",
+      "title": "BELIV'08: Beyond time and errors: novel evaluation methods for information visualization"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "186be3a2dacb7bfa79246f03bc8ef5197a1f75a9",
+      "title": "HCI Remixed: Reflections on Works That Have Influenced the HCI Community"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "d48a28cb9b85d749e421d059d01a33b067887b2b",
+      "title": "Spatialization Design: Comparing Points and Landscapes"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "b33df64f8a2d5af848caad4823d5721435091627",
+      "title": "Activity Analysis Using Spatio-Temporal Trajectory Volumes in Surveillance Applications"
+    },
+    {
+      "paperId": "59a3b7060e53d8cadf19e4e9301653302346bfa5",
+      "title": "Stories in GeoTime"
+    },
+    {
+      "paperId": "fde033c2f9025287bf020dda5a3d555dc2f1e176",
+      "title": "From Mice to Men - 24 Years of Evaluation in CHI"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "219d3c4f6d21c63f09db6ab9e233a855b42985d6",
+      "title": "Visual Exploration and Analysis of Historic Hotel Visits"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "8489218a605ffd98a2cb832774985a99b4092b5c",
+      "title": "The Perceptual Scalability of Visualization"
+    },
+    {
+      "paperId": "20068cceee74aea33e12aeeea5415e667d85b162",
+      "title": "Effects of 2D geometric transformations on visual memory"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "4aaad3a6dc23f13b0a4350890fb35026e5dc9558",
+      "title": "Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "5001c6f726a7114bb4baf9bde8df3f47671dd44a",
+      "title": "The Effects of Collaboration and System Transparency on CIVE Usage: An Empirical Study and Model"
+    },
+    {
+      "paperId": "c7a3a52375c8aa222ed4b4d12eee823f9a7d1a8a",
+      "title": "Visualising Changes in Fund Manager Holdings in Two and a Half-Dimensions"
+    },
+    {
+      "paperId": "6698736f7c4b1fcc92ace8080569577bf808b7d2",
+      "title": "Evaluating computer-supported cooperative work: models and frameworks"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "ad1c3a983575021a653720dd98e36b0943ef4382",
+      "title": "Uncovering Clusters in Crowded Parallel Coordinates Visualizations"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "2977f897462f5da6127e5695fb4205cd0da43741",
+      "title": "Artifacts of the Presence Era: Using Information Visualization to Create an Evocative Souvenir"
+    },
+    {
+      "paperId": "d14a4cc2178e47981fef85dabd5461d2cea23ceb",
+      "title": "Visualizing Roles of Variables in Program Animation"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "7501009d6f3a1aeca1ab9c09ec0c2f78a9a10ad2",
+      "title": "Multiple Foci Visualisation of Large Hierarchies with FlexTree"
+    },
+    {
+      "paperId": "337ca4aff694ba7e71bf9f6affbad08f845832a1",
+      "title": "Task analysis for groupware usability evaluation: Modeling shared-workspace tasks with the mechanics of collaboration"
+    },
+    {
+      "paperId": "ad3d9bd8c6c66fbd0e0dc064b6d2af3011711a23",
+      "title": "3D reconstruction and visualization [Guest Editors\u00bf Introduction]"
+    },
+    {
+      "paperId": "4739d78509b1f2f1089b132dadf0ac272f36d47b",
+      "title": "Between aesthetics and utility: designing ambient information visualizations"
+    },
+    {
+      "paperId": "e231922637b13338ea0045fbce23ec38e9f695a7",
+      "title": "Application of Information Visualization Techniques to the Design of a Mathematical Mindtool: A Usability Study"
+    },
+    {
+      "paperId": "4ad76bc6be0ca9fe26520195346ed67233433be9",
+      "title": "User Studies: Why, How, and When?"
+    },
+    {
+      "paperId": "5502dac9a28bf1812dcca23d77c5118f5e1007ec",
+      "title": "Research design: qualitative, quantitative, and mixed methods approaches"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "77fea1f1b7aaf3c18de466f7ed68e01ffca87218",
+      "title": "A framework for role-based specification and evaluation of awareness support in synchronous collaborative applications"
+    },
+    {
+      "paperId": "fd050885225b052df0fe35cc002f50a13ba381c1",
+      "title": "Groupware walkthrough: adding context to groupware usability evaluation"
+    },
+    {
+      "paperId": "e0d956201eb116d6ea63fc6a94db534097351a89",
+      "title": "Filtering and Brushing with Motion"
+    },
+    {
+      "paperId": "4a1d7908a3791a295c3dec8a35472a5bf7bb6bdc",
+      "title": "The state of the art in automating usability evaluation of user interfaces"
+    },
+    {
+      "paperId": "980c64e113b0e4da452bfa66f52376b71afbab13",
+      "title": "Heuristic Evaluation of Groupware Based on the Mechanics of Collaboration"
+    },
+    {
+      "paperId": "e6a95a4d82ba0256b21896e9c83796e6ec0dace0",
+      "title": "Reading of electronic documents: the usability of linear, fisheye, and overview+detail interfaces"
+    },
+    {
+      "paperId": "be6a11284b9941cf2fd1ca7896938524ae693ff3",
+      "title": "Extracting usability information from user interface events"
+    },
+    {
+      "paperId": "8a14ca1d4004b7f03a1eabf70353a87bd7d1e10d",
+      "title": "Empirical studies of information visualization: a meta-analysis"
+    },
+    {
+      "paperId": "68495d9ccd1fd088d45feddd086580a2f130e02e",
+      "title": "Turning pictures into numbers: extracting and generating information from complex visualizations"
+    },
+    {
+      "paperId": "b9457013585a119f1b15a59a700bdf9fcf4d8efb",
+      "title": "Collaborative geographic visualization: enabling shared understanding of environmental processes"
+    },
+    {
+      "paperId": "c91a34768e15928f431092c82c052a7b07efe9b0",
+      "title": "The mechanics of collaboration: developing low cost usability evaluation methods for shared workspaces"
+    },
+    {
+      "paperId": "cfb8177a23c93018ad033b32af8649c4c17e8f5b",
+      "title": "A review of groupware evaluations"
+    },
+    {
+      "paperId": "0f8c72e16b800559266c99d0c4efcac82baced11",
+      "title": "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory"
+    },
+    {
+      "paperId": "fbe65ec11f5102899eb931c176f9639f3bd1d6ab",
+      "title": "Viewing personal history records: A comparison of tabular format and graphical presentation using LifeLines"
+    },
+    {
+      "paperId": "792a3361cae567b8680bbc815d8239e41b9d3a6a",
+      "title": "Data mountain: using spatial memory for document management"
+    },
+    {
+      "paperId": "142d23fd6bbdca45cbfca7766e17dea3bfbfab61",
+      "title": "Designing the user interface strategies for effective human-computer interaction"
+    },
+    {
+      "paperId": "d111e38699be2510e4f1d1ac647f3340e11cd5f1",
+      "title": "Methodology matters: doing research in the behavioral and social sciences"
+    },
+    {
+      "paperId": "3bfd0214d58d7b580e0d5ddd1ae1678d3550915f",
+      "title": "Situated evaluation for cooperative systems"
+    },
+    {
+      "paperId": "2a7f69f9620f1f7f7103330d92a3175bbc24b8ee",
+      "title": "Group Cognition"
+    },
+    {
+      "paperId": null,
+      "title": "Usability.net. Usability.net methods. Website"
+    },
+    {
+      "paperId": "e46e4864c9600be31ed8bfb861126e26a74ac1d9",
+      "title": "Requirements for a MDE System to Support Collaborative In-Car Communication Diagnostics"
+    },
+    {
+      "paperId": "bb3295f52855f35a1cc6a029c8a999ea8743dd6e",
+      "title": "Evaluation Comes in Many Guises"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Inspection of Multivariate Graphs"
+    },
+    {
+      "paperId": "15cb20d5fbbbcce792074e5f131697ac3f613c69",
+      "title": "Observing Collaboration: Group-Centered Design"
+    },
+    {
+      "paperId": "64b4a10fedc6931ca1a39a97e38dd7768c4a4b6c",
+      "title": "Perception and cognition."
+    },
+    {
+      "paperId": null,
+      "title": "JOURNAL SUBMISSION data graphics"
+    },
+    {
+      "paperId": "5bb08546f578f6cf8d7b2c020609e8b3847eb534",
+      "title": "Human-Centered Aspects"
+    },
+    {
+      "paperId": "f5ab0e2b592baab7f6e34dceb9a6b02195a6406d",
+      "title": "Modeling user emotion in interactive play environments: a fuzzy physiological approach"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "f67a51df347cb11ed937b5291a20893bc0294757",
+      "title": "Experimental and quasiexperimental designs"
+    },
+    {
+      "paperId": "30ef8e360489669f4af46cb5f99b1040c1e71ec9",
+      "title": "Adapting the Locales Framework for Heuristic Evaluation of Groupware"
+    },
+    {
+      "paperId": "6796d7959151ab46d4be9220e59cad6078c1b158",
+      "title": "The Contribution of Thumbnail Image, Mouse-over Text and Spatial Location Memory to Web Page Retrieval in 3D"
+    },
+    {
+      "paperId": "17685cac9e483bb7f468878805b4732ee1674530",
+      "title": "Qualitative research diaries."
+    },
+    {
+      "paperId": "0ae7f2e312b682a3ba5e99c4ec233d1483e4d543",
+      "title": "Basics of qualitative research : techniques and procedures for developing grounded theory"
+    },
+    {
+      "paperId": "7440e08695998c6d3b29a32240b95373f5ee2a64",
+      "title": "Thoughts on User Studies: Why, How and When"
+    },
+    {
+      "paperId": "4fa7d101ba2e0b57fc178a7f8b4a9434ac6c7824",
+      "title": "Why CSCW applications fail: problems in the design and evaluationof organizational interfaces"
+    },
+    {
+      "paperId": "7c35f7cb23f9fb774cba4ba378e66faf6944083d",
+      "title": "Who Is 'Interested'?"
+    },
+    {
+      "paperId": "5873c511c175c8d5255d38a2d61a96b69f8a0e79",
+      "title": "British Columbia."
+    },
+    {
+      "paperId": null,
+      "title": "Picking suitable scenarios : scenario in Section 6 give information on evaluation questions and foci"
+    },
+    {
+      "paperId": null,
+      "title": "a scientist at INRIA, Saclay, France in the research group"
+    },
+    {
+      "paperId": null,
+      "title": "Considering applicable approaches : the scenario descriptions list possible methods and reference examples of where they have been applied"
+    },
+    {
+      "paperId": null,
+      "title": "Knowledge management: Evaluate how effectively does the system support management of knowledge generated in the sense-making loop"
+    },
+    {
+      "paperId": null,
+      "title": "Algorithm performance: Study ef\ufb01ciency and performance of the algorithm that renders the visualization"
+    },
+    {
+      "paperId": null,
+      "title": "received her PhD from the University of Calgary in 2009 and her Diplom-degree in Computational Visualistics from the University of Magdeburg in 2004"
+    },
+    {
+      "paperId": null,
+      "title": "Evaluation metrics development: Propose new evaluation metrics"
+    },
+    {
+      "paperId": null,
+      "title": "analytics with a focus scenarios. She is can most effectively analyzing large and complex data sets on as touch-screens or tabletops"
+    },
+    {
+      "paperId": null,
+      "title": "Adoption: Observe how a visualization is adopted after deployment"
+    },
+    {
+      "paperId": null,
+      "title": "Potential usage: Solicit users\u2019 opinions on how the visualization may be useful"
+    },
+    {
+      "paperId": null,
+      "title": "Algorithm quality: Evaluate algorithms when compared to accepted gold standards such as human judgments"
+    },
+    {
+      "paperId": null,
+      "title": "Casual information acquisition: Study how users casually acquire information, especially in ambient displays"
+    },
+    {
+      "paperId": null,
+      "title": "possible evaluation foci, outcomes, and questions"
+    },
+    {
+      "paperId": null,
+      "title": "Proposed Evaluation Methodologies"
+    },
+    {
+      "paperId": null,
+      "title": "Collaboration: Evaluate how visualization supports collaboration activities"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization-analytical operation: Study how visualization affects users\u2019 performance of simple visual tasks"
+    },
+    {
+      "paperId": null,
+      "title": "People\u2019s work\ufb02ow"
+    },
+    {
+      "paperId": null,
+      "title": "Knowledge discovery: Study how the visualization supports knowledge discovery"
+    },
+    {
+      "paperId": null,
+      "title": "Creating evaluation design and planned analyses : methods and examples provide background literature which can inspire designing evaluation methods for one\u2019s own study"
+    },
+    {
+      "paperId": null,
+      "title": "Usability/Effectiveness"
+    }
+  ]
+}

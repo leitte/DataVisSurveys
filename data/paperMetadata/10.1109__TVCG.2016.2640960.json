@@ -1,0 +1,1246 @@
+{
+  "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+  "externalIds": {
+    "DBLP": "journals/tvcg/LiuMWBP17",
+    "MAG": "2323909273",
+    "DOI": "10.1109/TVCG.2016.2640960",
+    "CorpusId": 745262,
+    "PubMed": "28113321"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/2f456ab2eb4945b7333bce952b4c18dc04873b43",
+  "title": "Visualizing High-Dimensional Data: Advances in the Past Decade",
+  "abstract": "Massive simulations and arrays of sensing devices, in combination with increasing computing resources, have generated large, complex, high-dimensional datasets used to study phenomena across numerous fields of study. Visualization plays an important role in exploring such datasets. We provide a comprehensive survey of advances in high-dimensional data visualization that focuses on the past decade. We aim at providing guidance for data practitioners to navigate through a modular view of the recent advances, inspiring the creation of new visualizations along the enriched visualization pipeline, and identifying future opportunities for visualization research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 289,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-03-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1249-1268",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liu2017VisualizingHD,\n author = {Shusen Liu and D. Maljovec and Bei Wang and P. Bremer and Valerio Pascucci},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1249-1268},\n title = {Visualizing High-Dimensional Data: Advances in the Past Decade},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47130096",
+      "name": "Shusen Liu"
+    },
+    {
+      "authorId": "2196851",
+      "name": "D. Maljovec"
+    },
+    {
+      "authorId": "2115279817",
+      "name": "Bei Wang"
+    },
+    {
+      "authorId": "145466013",
+      "name": "P. Bremer"
+    },
+    {
+      "authorId": "1685087",
+      "name": "Valerio Pascucci"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "3ed6a3f327907f82e3863424b74c0f3ad2719c19",
+      "title": "Fast and Exact Fiber Surfaces for Tetrahedral Meshes"
+    },
+    {
+      "paperId": "cb8941edf4e3d81ae38b1c2d3136450600b6639e",
+      "title": "Clustering"
+    },
+    {
+      "paperId": "e8f5c4ea17950473163afdef9c65c307d17e9da0",
+      "title": "Contour forests: Fast multi-threaded augmented contour trees"
+    },
+    {
+      "paperId": "27b2f3b891fb53119452e3c73f26e5e166841acc",
+      "title": "Parallel peak pruning for scalable SMP contour tree computation"
+    },
+    {
+      "paperId": "614539f8b3328a0024368cb263911553d7280f91",
+      "title": "Hybrid Data-Parallel Contour Tree Computation"
+    },
+    {
+      "paperId": "75d25d94c31302a04432891f94088a19ab65a484",
+      "title": "A Survey of Topology\u2010based Methods in Visualization"
+    },
+    {
+      "paperId": "f61608c88647fa63b79cb7b9548f858e9a447430",
+      "title": "From numerics to combinatorics: a survey of topological methods for vector field visualization"
+    },
+    {
+      "paperId": "39cfc24b44b34e02bd93fd8083614c1f8e8c9652",
+      "title": "A comparative study between RadViz and Star Coordinates"
+    },
+    {
+      "paperId": "e3639496ab0f36177c144bebb233bc72ae334b4a",
+      "title": "Off the Radar: Comparative Evaluation of Radial Visualization Solutions for Composite Indicators"
+    },
+    {
+      "paperId": "64127f38bc06c98e5390e80897960e59adb0766d",
+      "title": "The Data Context Map: Fusing Data and Attributes into a Unified Display"
+    },
+    {
+      "paperId": "f315c4419e1a3da051b1a298fff33d1f413a5081",
+      "title": "TimeSpan: Using Visualization to Explore Temporal Multi-dimensional Data of Stroke Patients"
+    },
+    {
+      "paperId": "85c40d18d6f08b10ec65da0c3873a8b8c1656c68",
+      "title": "Optimal Sets of Projections of High-Dimensional Data"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "bb55809bfee34e6b2ca26186383df3971a4a867b",
+      "title": "InterAxis: Steering Scatterplot Axes via Observation-Level Interaction"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "b27c6a00b8522ca4251b962e1f8c4e00974ebd59",
+      "title": "Analyzing simulation-based PRA data through traditional and topological clustering: A BWR station blackout case study"
+    },
+    {
+      "paperId": "c593d9ccd65842c969ff33958e657eaa9e39bd6d",
+      "title": "Convergence between Categorical Representations of Reeb Space and Mapper"
+    },
+    {
+      "paperId": "ea9fa89d27dce5ecb2eb5446d18e8cd6047238c5",
+      "title": "Topologically-consistent simplification of discrete Morse complex"
+    },
+    {
+      "paperId": "59092b50d1d6cd386e2be5508f2d32dd08316b23",
+      "title": "Multivariate topology simplification"
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration"
+    },
+    {
+      "paperId": "481e7c4ef6d9d9e84295d3210de0cc7ccb324428",
+      "title": "Skeletons for distributed topological computation"
+    },
+    {
+      "paperId": "b1daa449c6e9881c64da4dacd1f72eb041d95bd9",
+      "title": "Persistent Homology for the Evaluation of Dimensionality Reduction Schemes"
+    },
+    {
+      "paperId": "82e5b2ad7f571b1cfd3154115ee125b472b2b19f",
+      "title": "Visualnostics: Visual Guidance Pictograms for Analyzing Projections of High\u2010dimensional Data"
+    },
+    {
+      "paperId": "2856696cf0bb309b4f4395f5e7d7d4bc8f6ad0cd",
+      "title": "Visual Exploration of High\u2010Dimensional Data through Subspace Analysis and Dynamic Projections"
+    },
+    {
+      "paperId": "b4350290b4458b09f501d9169042234401a91c56",
+      "title": "A Comparison of Joint Contour Nets and Pareto Sets"
+    },
+    {
+      "paperId": "3e9f3e3f3cba4914e723eee83dd6c84bdaf4bb2a",
+      "title": "Computing and Visualizing Time-Varying Merge Trees for High-Dimensional Data"
+    },
+    {
+      "paperId": "907686252b56f093832edce09e0162c244cbbf84",
+      "title": "Distance between extremum graphs"
+    },
+    {
+      "paperId": "76d5c74135a72af4b9ea366e2713ee873ff368ca",
+      "title": "$$\\mathrm{ND}^2\\mathrm{AV}$$ND2AV: N-dimensional data analysis and visualization analysis for the National Ignition Campaign"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "0997eece772e19649153cd6ec3ee19cd5390406f",
+      "title": "Structural Analysis of Multivariate Point Clouds Using Simplicial Chains"
+    },
+    {
+      "paperId": "9ed606b83d852611b1026d182ff047bd2fe31164",
+      "title": "Decomposition and Simplification of Multivariate Data using Pareto Sets"
+    },
+    {
+      "paperId": "5161631879f932dcf66b57941156587814e4ad27",
+      "title": "A Mountaintop View Requires Minimal Sorting: A Faster Contour Tree Algorithm"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "04898ad48340372c138e23184dfab892fb5d33bc",
+      "title": "Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets"
+    },
+    {
+      "paperId": "dc5a31bad0058a9ef212805f74c9005271d8635b",
+      "title": "Multivariate volume visualization through dynamic projections"
+    },
+    {
+      "paperId": "3e208726bc6e0f73615d824af92bdfed8ac72b0a",
+      "title": "Joint Contour Nets"
+    },
+    {
+      "paperId": "599b73c2801eeb31e4fb4d468b5cffe06a9c1b26",
+      "title": "Distortion\u2010Guided Structure\u2010Driven Interactive Exploration of High\u2010Dimensional Data"
+    },
+    {
+      "paperId": "eff310b4b3157499c9252bd8dd6fc8fc5df8abe5",
+      "title": "Measuring the Distance Between Merge Trees"
+    },
+    {
+      "paperId": "6b7b2f8202f46f1bdd70844372642f0cd0870afa",
+      "title": "CD8 T-cell reactivity to islet antigens is unique to type 1 while CD4 T-cell reactivity exists in both type 1 and type 2 diabetes."
+    },
+    {
+      "paperId": "5fc5b0ef05b2225cbb9e6a061cdedcfc8dff349c",
+      "title": "Explainers: Expert Explorations with Crafted Projections"
+    },
+    {
+      "paperId": "ab32e4505078a84a8218e9e262321122e960df1c",
+      "title": "GPLOM: The Generalized Plot Matrix for Visualizing Multidimensional Multivariate Data"
+    },
+    {
+      "paperId": "e296f327f86527ef0d2a9087b30a3678463342c5",
+      "title": "Semantics of Directly Manipulating Spatializations"
+    },
+    {
+      "paperId": "1ab210a6974b4a9e356636505a53cca624d129e3",
+      "title": "Orthographic Star Coordinates"
+    },
+    {
+      "paperId": "de5a1189daade237fc92d0ebb802242f53a9fe1c",
+      "title": "LineUp: Visual Analysis of Multi-Attribute Rankings"
+    },
+    {
+      "paperId": "b1ddd6986673f3d86650124795d99a3afa2de95a",
+      "title": "Dimension Projection Matrix/Tree: Interactive Subspace Visual Exploration and Analysis of High Dimensional Data"
+    },
+    {
+      "paperId": "730279d63b5af9c5af516933d6e14d3771fcaaf6",
+      "title": "An Information-Aware Framework for Exploring Multivariate Data Sets"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "c80724f257eaca80af3abe9942e3f3003c81fa07",
+      "title": "Sparse Subspace Clustering: Algorithm, Theory, and Applications"
+    },
+    {
+      "paperId": "44ef1f1981e4b9e244f4b16942ac5dfb7fb2ac26",
+      "title": "Analyzing Dynamic Probabilistic Risk Assessment Data through Topology-Based Clustering"
+    },
+    {
+      "paperId": "e3f89fd339facf4000cc26b67ee7c09dfa1a4a4c",
+      "title": "Visualizing the quality of dimensionality reduction"
+    },
+    {
+      "paperId": "728bfa7eaae5eb194baab21e8ec2d1ee6b7707a1",
+      "title": "Progressive High\u2010Quality Response Surfaces for Visually Guided Sensitivity Analysis"
+    },
+    {
+      "paperId": "8cc31a72836f52f9b967f0f9702b0751ec6f8541",
+      "title": "Towards Multifield Scalar Topology Based on Pareto Optimality"
+    },
+    {
+      "paperId": "72ab91ab7fb68da99fac1b3b687036f99ce0c4f8",
+      "title": "Visualizing nD Point Clouds as Topological Landscape Profiles to Guide Local Data Analysis"
+    },
+    {
+      "paperId": "235447def49daaf4286955530e661ec57963db36",
+      "title": "TimeSeer: Scagnostics for High-Dimensional Time Series"
+    },
+    {
+      "paperId": "f38b97b5623814a389bda16041df776c82e60b16",
+      "title": "The Generalized Sensitivity Scatterplot"
+    },
+    {
+      "paperId": "31cfef70ac1f758ee22c733de125e1de1d73f8c8",
+      "title": "TripAdvisor^{N-D}: A Tourism-Inspired High-Dimensional Space Exploration Framework with Overview and Detail"
+    },
+    {
+      "paperId": "ceb4fd64ac5df3d183b323628f61c1d0693ec861",
+      "title": "Visualizing Nuclear Scission through a Multifield Extension of Topological Analysis"
+    },
+    {
+      "paperId": "cedad910833a9377c6025a60020d876433a8562f",
+      "title": "Representative Factor Generation for the Interactive Visual Analysis of High-Dimensional Data"
+    },
+    {
+      "paperId": "085f24f3c3b001c0a29cb9cf9d6f4e893c6f8c85",
+      "title": "A hybrid parallel algorithm for computing and tracking level set topology"
+    },
+    {
+      "paperId": "067401467c4cf8dd03615ef67efe2e7bcc199da7",
+      "title": "Visual Steering and Verification of Mass Spectrometry Data Factorization in Air Quality Research"
+    },
+    {
+      "paperId": "b63ab9a95d96e3f6aa68f9640f22b057cfe6d449",
+      "title": "Multivariate Data Analysis Using Persistence-Based Filtering and Topological Signatures"
+    },
+    {
+      "paperId": "b227a4959d92ef1fec2f67f4273e77bd87dacc42",
+      "title": "A Data-Driven Approach to Hue-Preserving Color-Blending"
+    },
+    {
+      "paperId": "4944d910711bfb1b08dacb557cc238143eb4524d",
+      "title": "Topology exploration with hierarchical landscapes"
+    },
+    {
+      "paperId": "7e038b36cf270ea5ed03389c9693afe9b144a385",
+      "title": "Geometry-preserving topological landscapes"
+    },
+    {
+      "paperId": "ba1da03c19a2e96080a80cfb2248f220e9875d67",
+      "title": "3D Scatterplot Navigation"
+    },
+    {
+      "paperId": "f5a8f59c62665b8a0df193da6c453d6a78f975d7",
+      "title": "Subspace search and visualization to make sense of alternative clusterings in high-dimensional data"
+    },
+    {
+      "paperId": "f39513e269cf53d3e17e4dd02d9b4733034cafdf",
+      "title": "Visual pattern discovery using random projections"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "b7e3840baec19c7909c91d14cd3ea656df38bb1d",
+      "title": "iLAMP: Exploring high-dimensional spacing through backward multidimensional projection"
+    },
+    {
+      "paperId": "14c73c196a71282909f57b39007e86bc4c81fdc6",
+      "title": "Exploration of High-Dimensional Scalar Function for Nuclear Reactor Safety Analysis and Visualization"
+    },
+    {
+      "paperId": "e59097950e85e26de95afb12628e80f01d21d2f6",
+      "title": "Topological cacti: Visualizing contour-based statistics"
+    },
+    {
+      "paperId": "82b544b32cb92c8767f7d3c126f9c3a3f584d54b",
+      "title": "Selecting Coherent and Relevant Plots in Large Scatterplot Matrices"
+    },
+    {
+      "paperId": "14d0faa1e9e3e33c400176a33c657992ab332a88",
+      "title": "Statistical topological data analysis using persistence landscapes"
+    },
+    {
+      "paperId": "3ebc551dfea6cf763721af47f0e4f590025c4ac3",
+      "title": "Expanding the Frontiers of Visual Analytics and Visualization"
+    },
+    {
+      "paperId": "b19d27e1bda4d039f9eaf2b2eb9d47f75abe9d75",
+      "title": "Sparse Subspace Clustering: Algorithm, Theory, and Applications"
+    },
+    {
+      "paperId": "202e8bcbd41e7faddbf7d8ee85f9c39e4ef05fc4",
+      "title": "Progressive parallel coordinates"
+    },
+    {
+      "paperId": "bcbccd8e20ba65dc8ba8997ef03dba9bb507d96f",
+      "title": "Pointwise local pattern exploration for sensitivity analysis"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "0f9ae35a98069f5c95c7790536664b20a74e92e7",
+      "title": "MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots"
+    },
+    {
+      "paperId": "5616ad07bdadd6dfe6f58c9461f5123e1634b3a4",
+      "title": "Towards Robust Topology of Sparsely Sampled Data"
+    },
+    {
+      "paperId": "6caaf5b7083f32762dd03e81f68c4af35caf708b",
+      "title": "Tuner: Principled Parameter Finding for Image Segmentation Algorithms Using Visual Response Surface Exploration"
+    },
+    {
+      "paperId": "ee07f52a95e3dc7d73f4d4d7d87e33e011c50acf",
+      "title": "Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data"
+    },
+    {
+      "paperId": "42a3f2b9e5c800191f21223dc70a22774df84237",
+      "title": "Flexible Linked Axes for Multivariate Data Visualization"
+    },
+    {
+      "paperId": "2e3ee262b729a4bb8c4d3869727ef69b9007e7df",
+      "title": "DICON: Interactive Visual Analysis of Multidimensional Clusters"
+    },
+    {
+      "paperId": "592d1bae5f4bfecbc45aaad4e31efe84deadcb93",
+      "title": "Features in Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "ba1b88bf9c09da07a8652f86fab48cbdac84b8a6",
+      "title": "Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data"
+    },
+    {
+      "paperId": "f5a3caa7599f738f3b7a2be0322df45e52e7b9f2",
+      "title": "Branching and Circular Features in High Dimensional Data"
+    },
+    {
+      "paperId": "43713bc101894aee57a60530df19ebca9a6ecbc8",
+      "title": "Topological Spines: A Structure-preserving Visual Representation of Scalar Fields"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "d5de7f65822e1d79d03fe010d9b2144cde2780a3",
+      "title": "Local Affine Multidimensional Projection"
+    },
+    {
+      "paperId": "9a5565e828aa3c9c43f04eac120cbd8876108eab",
+      "title": "Visualization of High-Dimensional Point Clouds Using Their Density Distribution's Topology"
+    },
+    {
+      "paperId": "54fbfc38cbcf0dfbbf3016b1d7940fc9ce057511",
+      "title": "Drawing Contour Trees in the Plane"
+    },
+    {
+      "paperId": "d935f9f8ce07cc79cd530f7c44281c17644389ac",
+      "title": "A User-Assisted Approach to Visualizing Multidimensional Images"
+    },
+    {
+      "paperId": "6a84d3e584759c15495879492479f2dd6c3f2e47",
+      "title": "Dimension-independent simplification and refinement of Morse complexes"
+    },
+    {
+      "paperId": "240b2dec16a8b6ce3da9c186d9a8777a83027d23",
+      "title": "The State of the Art in Topology\u2010Based Visualization of Unsteady Flow"
+    },
+    {
+      "paperId": "4dd29297e3fa9cbdac2444213e93783b0ca039e5",
+      "title": "Visualization of uncertain scalar data fields using color scales and perceptually adapted noise"
+    },
+    {
+      "paperId": "5d6f1f7cb7dba34ccabcd18934dce49a7fdbe17b",
+      "title": "Hierarchical Line Integration"
+    },
+    {
+      "paperId": "f864be26484e118ab5ad29b02fe095c768f120a9",
+      "title": "Reeb Graphs: Approximation and Persistence"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "c4ef42095e7922ac5e6d0090df6908293707e947",
+      "title": "Structural Decomposition Trees"
+    },
+    {
+      "paperId": "89c2dfdf091bc1d6e625ef9bfdf16230e1254afa",
+      "title": "Piece wise Laplacian\u2010based Projection for Interactive Data Exploration and Organization"
+    },
+    {
+      "paperId": "bf0c56dc9d99721146a41654d2b1581ea9dfe31b",
+      "title": "Visualizing High\u2010Dimensional Structures by Dimension Ordering and Filtering using Subspace Analysis"
+    },
+    {
+      "paperId": "4303d1427be55ec36793b5c1f3500332c1d5b548",
+      "title": "Topology\u2010based Visualization of Transformation Pathways in Complex Chemical Systems"
+    },
+    {
+      "paperId": "be732c7e090cba524c701f6052ae124770fef536",
+      "title": "A Framework for Exploring Multidimensional Data with 3D Projections"
+    },
+    {
+      "paperId": "fe1671754bd7d30a4b6968d9668c952517fcae9d",
+      "title": "Visualization of Time\u2010Series Data in Parameter Space for Understanding Facial Dynamics"
+    },
+    {
+      "paperId": "38f07c61ebe84a6a105f5453559f581809e8bbfa",
+      "title": "Topology based data analysis identifies a subgroup of breast cancers with a unique mutational profile and excellent survival"
+    },
+    {
+      "paperId": "923ac70f23161f463eb0cd1f20d0933ccbe1967f",
+      "title": "Improving the visual analysis of high-dimensional datasets using quality measures"
+    },
+    {
+      "paperId": "e98e2828e12b26bfb848e35a10c268a301344a7c",
+      "title": "Flow-based scatterplots for sensitivity analysis"
+    },
+    {
+      "paperId": "31f515024cd8b6bf92c2ad802887eae17a3f2884",
+      "title": "Finding and visualizing relevant subspaces for clustering high-dimensional astronomical data using connected morphological operators"
+    },
+    {
+      "paperId": "23b41a95efdbccccce9e8626942f9c2b9239b311",
+      "title": "A visual analytics approach to model learning"
+    },
+    {
+      "paperId": "3373535433a2d54bd2a547abd8baaa431f7d3e43",
+      "title": "Visual market sector analysis for financial time series data"
+    },
+    {
+      "paperId": "61c14da66bbbd0bec82d80064e97dcd1d5093f2c",
+      "title": "Visual exploration of classification models for risk assessment"
+    },
+    {
+      "paperId": "53fe2d0492053b4a7f806ff7d83f694fdd5c25e1",
+      "title": "Visual Exploration of High Dimensional Scalar Functions"
+    },
+    {
+      "paperId": "1e177b43a71ab7d2af1e8181a706309605a4435d",
+      "title": "Two-Phase Mapping for Projecting Massive Data Sets"
+    },
+    {
+      "paperId": "42390a25f9296a0d749aeded46c6a43ef7e74128",
+      "title": "Stacking Graphic Elements to Avoid Over-Plotting"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "de409fc60209245b215465d31ef00a21ebfc2531",
+      "title": "Pargnostics: Screen-Space Metrics for Parallel Coordinates"
+    },
+    {
+      "paperId": "e04ffd89850b878c5e5410cc9984b491215c5c1b",
+      "title": "Matching Visual Saliency to Confidence in Plots of Uncertain Data"
+    },
+    {
+      "paperId": "ed2fda1d0aee5e3b2ceea973d88614e6fd83bfa4",
+      "title": "Topological Landscape Ensembles for Visualization of Scalar\u2010Valued Functions"
+    },
+    {
+      "paperId": "35f10ea3ce493603593b739a6e20ca4d8f42b95f",
+      "title": "Techniques for Precision-Based Visual Analysis of Projected Data"
+    },
+    {
+      "paperId": "3e3e33c1fdc382b61f3292425ee957cd0d4ab543",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Supporting Exploratory Analysis with the Select & Slice Table"
+    },
+    {
+      "paperId": "3e326db0cd1fa3b83f9f63224f3440bc5723b417",
+      "title": "Visual analytics: how much visualization and how much analytics?"
+    },
+    {
+      "paperId": "34705882d4349925c69876f9214103821f5c80ca",
+      "title": "Visual analysis of high dimensional point clouds using topological landscapes"
+    },
+    {
+      "paperId": "15fc93d91c4abd0b5ea343cabb51694e486c820d",
+      "title": "Interactive local clustering operations for high dimensional data in parallel coordinates"
+    },
+    {
+      "paperId": "072d1f8877f606389a2bcdb02cbb8a3f6771cab5",
+      "title": "Introduction to Focus Issue: Lagrangian Coherent Structures."
+    },
+    {
+      "paperId": "b5f0262da6635251e4a5467c92249bfa065050f0",
+      "title": "Pairwise Display of High-Dimensional Information via Eulerian Tours and Hamiltonian Decompositions"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "c1491cd884ca55acb7b7b848d4965e2ebe3c801a",
+      "title": "Scattering Points in Parallel Coordinates"
+    },
+    {
+      "paperId": "40c16c9fde25ef038e5f95b59a75aff11f64c962",
+      "title": "Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "8842b3b26b95710c72cb9a15424e3ca3ef930d6d",
+      "title": "Conjunctive Visual Forms"
+    },
+    {
+      "paperId": "ad6eeb8a523848c8d66167af24eefd6e08ed5162",
+      "title": "Applying Manifold Learning to Plotting Approximate Contour Trees"
+    },
+    {
+      "paperId": "d8da386294456959f1f69c13a91e954a6faf2893",
+      "title": "Visualization of Multi\u2010Variate Scientific Data"
+    },
+    {
+      "paperId": "8f96ed80ecdef882034213d4dfe5aafb785004e2",
+      "title": "Mathematical Foundations of Scientific Visualization, Computer Graphics, and Massive Data Exploration"
+    },
+    {
+      "paperId": "8b2cfb770c79fba5fdfd49e86fabfa9b084b4fc1",
+      "title": "Efficient and Adaptive Rendering of 2\u2010D Continuous Scatterplots"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "9ea7417f17f683b38b27efad78e97b6dc5318fcb",
+      "title": "Persistent Cohomology and Circular Coordinates"
+    },
+    {
+      "paperId": "9ae57932c6a02f8de40a966123beb2e8d390b9ab",
+      "title": "Quality assessment of dimensionality reduction: Rank-based criteria"
+    },
+    {
+      "paperId": "2e5ac878942de3433b1b0ccca04212f2e7a05ab9",
+      "title": "A Flexible Approach for the Statistical Visualization of Ensemble Data."
+    },
+    {
+      "paperId": "a4b603ca6aaaa18968e08ac1b0ee093db8a99a6b",
+      "title": "Topology and data"
+    },
+    {
+      "paperId": "8280952620fce39b75e57726860455ccdb95b7a9",
+      "title": "Generating hypotheses of trends in high-dimensional data skeletons"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "3b73d2de9f55eb455526c61f5559e5b3598d4d29",
+      "title": "A Practical Approach to Morse-Smale Complex Computation: Scalability and Generality"
+    },
+    {
+      "paperId": "821e1213cb29a6745cd56542828a4194fbea1ee3",
+      "title": "Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation"
+    },
+    {
+      "paperId": "7f622154657f72fa9b1e394002ded6b77f69bb73",
+      "title": "Describing shapes by geometrical-topological properties of real functions"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "575cf289eb5b7fe69c5d6f69d55a5e122832dd0e",
+      "title": "Reeb graphs for shape analysis and applications"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "731706e6f505ce7d5136066f682f1918318a464a",
+      "title": "Topological Landscapes: A Terrain Metaphor for Scientific Data"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "a92eb85ca2faecc5271625a129fc6a35691e6327",
+      "title": "Efficient Computation of Morse-Smale Complexes for Three-dimensional Scalar Functions"
+    },
+    {
+      "paperId": "65520e3e42c482b31b6c2b0e38d7d11a47869b7f",
+      "title": "Intelligent Visual Analytics Queries"
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "cad0bff789bb0e626245b21a47791ef76a9cd5c2",
+      "title": "Barcodes: The persistent topology of data"
+    },
+    {
+      "paperId": "763bb7f54ede35d109edd9661feac43b25d30514",
+      "title": "Robust on-line computation of Reeb graphs: simplicity and speed"
+    },
+    {
+      "paperId": "00a11102a3fa32c5ac3b9f530a76465610ed0a35",
+      "title": "Value and Relation Display: Interactive Visual Exploration of Large Data Sets with Hundreds of Dimensions"
+    },
+    {
+      "paperId": "ab3996398a13f58a50c5646a5defebd36aa3636a",
+      "title": "Pixnostics: Towards Measuring the Value of Visualization"
+    },
+    {
+      "paperId": "52bfdcaf96cc27f9430b568190456b1eb27e2395",
+      "title": "High-Dimensional Visual Analytics: Interactive Exploration Guided by Pairwise Views of Point Distributions"
+    },
+    {
+      "paperId": "ca7e210a7f78d3fa9e9ac880a8b5381276a47725",
+      "title": "Exploratory Visualization of Multivariate Data with Variable Quality"
+    },
+    {
+      "paperId": "90a6ec14c0ca86f07f56932a2cc66b6c4eb6b726",
+      "title": "Outlier-Preserving Focus+Context Visualization in Parallel Coordinates"
+    },
+    {
+      "paperId": "2f10df959646fff9c5cf726a7399eec1b6b1d009",
+      "title": "Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color."
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "4aaad3a6dc23f13b0a4350890fb35026e5dc9558",
+      "title": "Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework"
+    },
+    {
+      "paperId": "8ca86e941da7254613a5d03dd7a6c36886fadc1d",
+      "title": "Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning)"
+    },
+    {
+      "paperId": "3b8365fe1cab2acb34d93ad285d4114f7f95f2dc",
+      "title": "Opening the black box - data driven visualization of neural networks"
+    },
+    {
+      "paperId": "f206e82be5e386cf068445d74533b9226e3c3b0a",
+      "title": "A note on space-filling visualizations and space-filling curves"
+    },
+    {
+      "paperId": "1a48a894c393c7a44bd8eab0326936a925019777",
+      "title": "Revealing structure within clustered parallel coordinates displays"
+    },
+    {
+      "paperId": "38ce79c6dfc26b1f6c9b7f18a1c012428b3c70b0",
+      "title": "Parallel sets: visual analysis of categorical data"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "838011abc7f7e6dfdb1aac194236a552ee0f3acb",
+      "title": "An interactive 3D integration of parallel coordinates and star glyphs"
+    },
+    {
+      "paperId": "6f74dac0632474dba0a0c8df2525fa2960fd2ed7",
+      "title": "Topology-based simplification for feature extraction from 3D scalar fields"
+    },
+    {
+      "paperId": "aa0ebabd99da5fb367c9e7746ed5ff6f9de03d3a",
+      "title": "Stability of Persistence Diagrams"
+    },
+    {
+      "paperId": "376cc87bb6efc93b0c5c9169f8ba50f8cd49eaf9",
+      "title": "Simple and optimal output-sensitive construction of contour trees using monotone paths"
+    },
+    {
+      "paperId": "984bf9d391b7e7f069e5f5021ccdee7a1f8aa506",
+      "title": "Subspace selection for clustering high-dimensional data"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "ad1c3a983575021a653720dd98e36b0943ef4382",
+      "title": "Uncovering Clusters in Crowded Parallel Coordinates Visualizations"
+    },
+    {
+      "paperId": "f10d32b741e910a5a55286a75167dc71f63fc049",
+      "title": "Steerable, Progressive Multidimensional Scaling"
+    },
+    {
+      "paperId": "f5882d7b5bf97b07ae84fcd4947114c9092f9c29",
+      "title": "A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections"
+    },
+    {
+      "paperId": "d16022a3b76dd7d3975b06eb90f097b975cdedd5",
+      "title": "Value and Relation Display for Interactive Exploration of High Dimensional Datasets"
+    },
+    {
+      "paperId": "57747fdee6d24233c962c0d0f0a0fe11b1fabc23",
+      "title": "Visualization of Multivariate Density Estimates With Level Set Trees"
+    },
+    {
+      "paperId": "06bb5771e6b8a9356c5f4ae28c98b4397c043349",
+      "title": "A tutorial on support vector regression"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "d9203520cf3d910452b78d98a9353eb0cbd96dd7",
+      "title": "A topological hierarchy for functions on triangulated surfaces"
+    },
+    {
+      "paperId": "7f2182862cec01d2ae143511243e7da21ae9819c",
+      "title": "Coordinating Computational and Visual Approaches for Interactive Feature Selection and Multivariate Clustering"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "105a664faf69bea516399b0be34f440e528bffcf",
+      "title": "Visualization of labeled data using linear transformations"
+    },
+    {
+      "paperId": "0bdc8155b9361091a31e7ba3afc827df3cd6fc18",
+      "title": "Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets"
+    },
+    {
+      "paperId": "e2214963dc378ebcd22d677ea78f89fdcd67f815",
+      "title": "Mapping Nominal Values to Numbers for Effective Visualization"
+    },
+    {
+      "paperId": "72aeb3493eeaa0cdae85bda0e79ccdbdf047c0a1",
+      "title": "Improving hybrid MDS with pivot-based searching"
+    },
+    {
+      "paperId": "30febe8b5ea6e6e55c545d5cc45d1ca437b0021f",
+      "title": "GGobi: evolving from XGobi into an extensible framework for interactive data visualization"
+    },
+    {
+      "paperId": "109d14980902476bb1d4a2109966b493334ab17a",
+      "title": "PaintingClass: interactive construction, visualization and exploration of decision trees"
+    },
+    {
+      "paperId": "e11b2403a0b8ad3b4a747ce6fc915a8aee04eb6b",
+      "title": "Principal Component Analysis"
+    },
+    {
+      "paperId": "a11d6a90126d97d61d85098c8731c6f6d781e5ca",
+      "title": "The Nonlinear Statistics of High-Contrast Patches in Natural Images"
+    },
+    {
+      "paperId": "1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+      "title": "From Visual Data Exploration to Visual Data Mining: A Survey"
+    },
+    {
+      "paperId": "8ad65501dab7322aafac663d3c7dfb7b48bedd05",
+      "title": "Morse-smale complexes for piecewise linear 3-manifolds"
+    },
+    {
+      "paperId": "88816ae492956f3004daa41357166f1181c0c1bf",
+      "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation"
+    },
+    {
+      "paperId": "f5a8d51775f1ffcfeb8658dd6ebceaf655620f52",
+      "title": "Hierarchical Morse\u2014Smale Complexes for Piecewise Linear 2-Manifolds \n\n"
+    },
+    {
+      "paperId": "f317cfcca9329f83e131554b6169c32fdea7a521",
+      "title": "Barrier Trees on Poset-Valued Landscapes"
+    },
+    {
+      "paperId": "6aa08a7c0108346b5d0be3065e9718de08b70d14",
+      "title": "InterRing: an interactive tool for visually navigating and manipulating hierarchical structures"
+    },
+    {
+      "paperId": "2c44f5de063ce51c694d032838b53a63c3afdc4a",
+      "title": "A hybrid layout algorithm for sub-quadratic multidimensional scaling"
+    },
+    {
+      "paperId": "b9dcb0d963892fbe325df775dc358cdef035a809",
+      "title": "Multiscale visualization using data cubes"
+    },
+    {
+      "paperId": "5ccd96e5761cf5ac2d08aa1ae3e9d4273fa0728b",
+      "title": "A radial focus+context visualization for multi-dimensional functions"
+    },
+    {
+      "paperId": "a490aae93a5614ba8e273bbe2da1f1a14686c054",
+      "title": "Probabilistic surfaces: point based primitives to show surface uncertainty"
+    },
+    {
+      "paperId": "d9a45135b99bcf8a87af560732e1368bce1d4e64",
+      "title": "Query, analysis, and visualization of hierarchically structured data using Polaris"
+    },
+    {
+      "paperId": "1ced25ed510608fddc7c7cc02a5f98cece8d8595",
+      "title": "Visualizing scalar volumetric data with uncertainty"
+    },
+    {
+      "paperId": "fdccde9d4fae5f126b4acd7239fc43e948041a66",
+      "title": "Pixel bar charts: a new technique for visualizing large multi-attribute data sets without aggregation"
+    },
+    {
+      "paperId": "3c58166098c07f2efe30651446a0f4f19b9b7ce9",
+      "title": "Random projection in dimensionality reduction: applications to image and text data"
+    },
+    {
+      "paperId": "0299a2eb5fa80e98948fcba6b0810aa684692262",
+      "title": "A survey of visualizations for high-dimensional data mining"
+    },
+    {
+      "paperId": "774db16a3f25a73ceda9e6ab4d5a8b8f3c40605d",
+      "title": "The X-tree : An Index Structure for High-Dimensional Data"
+    },
+    {
+      "paperId": "f0a3e1752e1146da927adc24ae07144ab2e744ec",
+      "title": "Nonlinear dimensionality reduction by locally linear embedding."
+    },
+    {
+      "paperId": "3537fcd0ff99a3b3cb3d279012df826358420556",
+      "title": "A global geometric framework for nonlinear dimensionality reduction."
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "7a62c48187e926c895f7ff36d1f3c6d498f435ab",
+      "title": "Procedural annotation of uncertain information"
+    },
+    {
+      "paperId": "8d175af9835a7af36bca9c7b82a787e66ac0a502",
+      "title": "Visualizing high-dimensional predictive model quality"
+    },
+    {
+      "paperId": "b2ba6ffe08b4f992630816ef661cf6383d1a293e",
+      "title": "Structure-Based Brushes: A Mechanism for Navigating Hierarchically Organized Data and Information Spaces"
+    },
+    {
+      "paperId": "1f64a00131efd4441a79f94238a4ebbbef5230ad",
+      "title": "Computing contour trees in all dimensions"
+    },
+    {
+      "paperId": "ae2db85b770157b221230d28dc6b4b0dd6b2f960",
+      "title": "Entropy-based subspace clustering for mining numerical data"
+    },
+    {
+      "paperId": "8e11c005dcfd213e01b9485932190a05f3b8e55b",
+      "title": "DNA visual and analytic data mining"
+    },
+    {
+      "paperId": "e20e2f768f27dc35a14895b83ebaa3725f7f75ab",
+      "title": "Visualization Techniques for Mining Large Databases: A Comparison"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "382aac73c515b7fd517f47ff8019b9f746dbc319",
+      "title": "Recursive pattern: a technique for visualizing very large amounts of data"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "e4afcd6af26a9bd971521209348130f5cd22158c",
+      "title": "VisDB: database exploration using multidimensional visualization"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "e04108dc293c9cd7cabf32ee1524eaab0d4641b3",
+      "title": "Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis"
+    },
+    {
+      "paperId": "414baf6989a5e9f13c406ca7b5da876a820a96b8",
+      "title": "On Gradient Dynamical Systems"
+    },
+    {
+      "paperId": "ea5b2a0c3b31e46a62760e7c893b2f237f401ea3",
+      "title": "Jacobi Fiber Surfaces for Bivariate Reeb Space Computation"
+    },
+    {
+      "paperId": "6d94919ce172c97a3c8e070994d36a480957bd5e",
+      "title": "Perception-Based Evaluation of Projection Methods for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Topological analysis of atlantic ocean data using joint contour net"
+    },
+    {
+      "paperId": null,
+      "title": "Revealing the fog-of-war: A visualizationdirected , uncertainty-aware approach for exploring high-dimensional data"
+    },
+    {
+      "paperId": "fe2ba3b511947e1042b87d2fd9d9ba6b756e77d3",
+      "title": "On Computationally-Enhanced Visual Analysis of Heterogeneous Data and Its Application in Biomedical Informatics"
+    },
+    {
+      "paperId": "ceec898d561f96b03cd33c4702a46c662a101be0",
+      "title": "Extracting Jacobi Structures in Reeb Spaces"
+    },
+    {
+      "paperId": "f4623aceefcc37dc046cbb5332bb341374249964",
+      "title": "Notes on the Simplification of the Morse-Smale Complex"
+    },
+    {
+      "paperId": "ca8f89f6c96fc37b1f1655413893553e17283e6f",
+      "title": "Visual Exploration of High-Dimensional Data : Subspace Analysis through Dynamic Projections"
+    },
+    {
+      "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+      "title": "State of the Art of Parallel Coordinates"
+    },
+    {
+      "paperId": "21b5a39d1aff182916ccd3e792d6d697bf4b3a19",
+      "title": "Splatterplots: Overcoming Overdraw in Scatter Plots"
+    },
+    {
+      "paperId": "b8b98573950349d394614d7324ab67e7ded00358",
+      "title": "A Structure-Based Distance Metric for High-Dimensional Space Exploration with Multi-Dimensional Scaling."
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "15ecef22524c2cb650fed2357e0d0b7feefe1625",
+      "title": "Stress Maps: Analysing Local Phenomena in Dimensionality Reduction Based Visualisations"
+    },
+    {
+      "paperId": "48cc2d0477a40d9f9c2f7331888e8a881b0f7a80",
+      "title": "Principal Curves"
+    },
+    {
+      "paperId": "2c2c6609400dcabafd420e18e68a11e994a34e75",
+      "title": "A TUTORIAL ON SUBSPACE CLUSTERING"
+    },
+    {
+      "paperId": null,
+      "title": "She is currently a Research Scientist at the Scientific Computing and Imaging Institute, University of Utah"
+    },
+    {
+      "paperId": "f3ac1b0201b6328afeddcb66875c096e9d589937",
+      "title": "The TOPORRERY: computation and presentation of multi-resolution topology"
+    },
+    {
+      "paperId": "6722de65167834ffedd10a46808ed420f89641ae",
+      "title": "Bringing Topology-Based Flow Visualization to the Application Domain"
+    },
+    {
+      "paperId": "2c58e171f5587210e5daf8d23f6d3564beaba30b",
+      "title": "Isocontour based Visualization of Time-varying Scalar Fields"
+    },
+    {
+      "paperId": "3652ed98f34b2f98779778258e9119ca6e11bb0a",
+      "title": "Computational Topology: An Introduction"
+    },
+    {
+      "paperId": "56d60f66f130ac86742caefc2467e9437582af3c",
+      "title": "Multivariate Data Glyphs: Principles and Practice"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "374c8ef7124c6d60b313574ceb5562c65e0b79be",
+      "title": "The properties of high-dimensional data spaces: implications for exploring gene and protein expression data"
+    },
+    {
+      "paperId": "25abd683b75e059738f8c0321f082daecb9bd401",
+      "title": "Design and Evaluation of Tiled Parallel Coordinate Visualization of Multichannel EEG Data"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "8e8c7ed7675b1002c924fe727e4261f8cd099ce1",
+      "title": "A Survey on Multivariate Data Visualization"
+    },
+    {
+      "paperId": "35e1a75ea2f4fe9344b2e624103f755594885d31",
+      "title": "Topology for Computing (Cambridge Monographs on Applied and Computational Mathematics)"
+    },
+    {
+      "paperId": "7fab5f40d39099eeb1d53ba58f4676299bb4eaca",
+      "title": "Multi-Resolution computation and presentation of Contour Trees"
+    },
+    {
+      "paperId": "1ac1072e320d0e5774006eaab0d636aa97ef58a5",
+      "title": "Sparse multidimensional scaling using land-mark points"
+    },
+    {
+      "paperId": "b2250565dd23a5288e55d3ae459fbff2d280911b",
+      "title": "A Flexible Approach for Visual Data Mining"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "6a3c1f85826a77d80e1c7b3b3812af30c54cc256",
+      "title": "Star Coordinates: A Multi-dimensional Visualization Technique with Uniform Treatment of Dimensions"
+    },
+    {
+      "paperId": "63c68278418b69f60b4814fae8dd15b1b1854295",
+      "title": "High-Dimensional Data Analysis: The Curses and Blessings of Dimensionality"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "b126ac0837bccf4710671c8a3c726491ab786caf",
+      "title": "'Circle Segments': A Technique for Visually Exploring Large Multidimensional Data Sets"
+    },
+    {
+      "paperId": null,
+      "title": "Visualizing High-Dimensional Data:Advances in the Past Decade dimensional data visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Parallel coordinates. In Human-Machine Interactive Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Sur les points singuliers d'une forme de pfaff completement intergrable ou d'une fonction numerique [on the singular points of a complete integral pfaff form or of a numerical function"
+    },
+    {
+      "paperId": "de1f2d5fe39cf7bea6251d13cef3927b159addae",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 a Screen Space Quality Method for Data Abstraction"
+    },
+    {
+      "paperId": "44ae152a69566a66c1daf9c251a0615b601bca51",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Splatting the Lines in Parallel Coordinates"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "b154acf777a52db46263ae2b3bb827694226b23b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Hypermoval: Interactive Visual Validation of Regression Models for Real-time Simulation"
+    },
+    {
+      "paperId": "1bd152c08b95a53a9efc8084a2ec1df1cc4c7aac",
+      "title": "Persistent Homology \u2014 a Survey"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "d61257da8fb90f4c4db4365faea63684b11833fc",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Illuminated 3d Scatterplots"
+    },
+    {
+      "paperId": "eddf4ad5c65a2d9074aef0937cb5856f9d8fe1c0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Illustrative Parallel Coordinates"
+    },
+    {
+      "paperId": "329c3e4acf8f32ba459f35850405ff7316aede86",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Visual Clustering in Parallel Coordinates"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Abstract Jacobi Sets of Multiple Morse Functions"
+    },
+    {
+      "paperId": "66d8a01c67438d8e1f8bd441b5509b0d3d701105",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Visual Correlation Analysis of Numerical and Categorical Data on the Correlation Map"
+    },
+    {
+      "paperId": "8192ad6b3882d7e710a9713f6ed8a6abcd944ac0",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates"
+    }
+  ]
+}

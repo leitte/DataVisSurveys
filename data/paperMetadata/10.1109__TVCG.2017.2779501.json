@@ -1,0 +1,1582 @@
+{
+  "paperId": "1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+  "externalIds": {
+    "MAG": "2771576151",
+    "DBLP": "journals/tvcg/RautenhausBSHKM18",
+    "DOI": "10.1109/TVCG.2017.2779501",
+    "CorpusId": 34982665,
+    "PubMed": "29990196"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1f22d71ff9fdfd8cbbde96fff469624fd767372b",
+  "title": "Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks",
+  "abstract": "This article surveys the history and current state of the art of visualization in meteorology, focusing on visualization techniques and tools used for meteorological data analysis. We examine characteristics of meteorological data and analysis tasks, describe the development of computer graphics methods for visualization in meteorology from the 1960s to today, and visit the state of the art of visualization techniques and tools in operational weather forecasting and atmospheric research. We approach the topic from both the visualization and the meteorological side, showing visualization techniques commonly used in meteorological practice, and surveying recent studies in visualization research aimed at meteorological applications. Our overview covers visualization techniques from the fields of display design, 3D visualization, flow dynamics, feature-based visualization, comparative visualization and data fusion, uncertainty and ensemble visualization, interactive visual analysis, efficient rendering, and scalability and reproducibility. We discuss demands and challenges for visualization research targeting meteorological data analysis, highlighting aspects in demonstration of benefit, interactive visual analysis, seamless visualization, ensemble visualization, 3D visualization, and technical issues.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2018,
+  "referenceCount": 371,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3268-3296",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Rautenhaus2018VisualizationIM,\n author = {M. Rautenhaus and M. B\u00f6ttinger and S. Siemen and Robert R. Hoffman and R. Kirby and M. Mirzargar and N. R\u00f6ber and R. Westermann},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3268-3296},\n title = {Visualization in Meteorology\u2014A Survey of Techniques and Tools for Data Analysis Tasks},\n volume = {24},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3384437",
+      "name": "M. Rautenhaus"
+    },
+    {
+      "authorId": "2806765",
+      "name": "M. B\u00f6ttinger"
+    },
+    {
+      "authorId": "51063062",
+      "name": "S. Siemen"
+    },
+    {
+      "authorId": "2058075011",
+      "name": "Robert R. Hoffman"
+    },
+    {
+      "authorId": "6682167",
+      "name": "R. Kirby"
+    },
+    {
+      "authorId": "2503138",
+      "name": "M. Mirzargar"
+    },
+    {
+      "authorId": "2789330",
+      "name": "N. R\u00f6ber"
+    },
+    {
+      "authorId": "145491004",
+      "name": "R. Westermann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "365e1e723a36ace41878a95d3847b0f976e96c53",
+      "title": "Visualizing Confidence in Cluster-Based Ensemble Weather Forecast Analyses"
+    },
+    {
+      "paperId": "5c4e16a29a371fdfd4e022a73a8a7b5fc56fa372",
+      "title": "A GPU-Accelerated Approach for Feature Tracking in Time-Varying Imagery Datasets"
+    },
+    {
+      "paperId": "af5fdbaa190247e8c3377405e1f66bb98ecec8a2",
+      "title": "Uncertainty Visualization by Representative Sampling from Prediction Ensembles"
+    },
+    {
+      "paperId": "ab746f0c419b936a1464d9f895da01d2d5d56749",
+      "title": "Minding the Weather: How Expert Forecasters Think"
+    },
+    {
+      "paperId": "3a32ee927c166496cff1e6a215246aa5a84096ab",
+      "title": "Visual simulation of clouds"
+    },
+    {
+      "paperId": "621c3666cd6160025265b773618324ca78425464",
+      "title": "Evolution of a Long-Track Violent Tornado within a Simulated Supercell"
+    },
+    {
+      "paperId": "b4f72c48bd5b53c32aaa0b089887b13bc07dd191",
+      "title": "Exploring Applications of Eye Tracking in Operational Meteorology Research"
+    },
+    {
+      "paperId": "e637a0e054163b2b8064cdd871052c88744f105c",
+      "title": "Simulation and visualization of the cyclonic storm chapala over the arabian sea: a case study"
+    },
+    {
+      "paperId": "2e3dae43a606f9a657b67d2e46fbb65f3e37d29e",
+      "title": "MiKlip - a National Research Project on Decadal Climate Prediction"
+    },
+    {
+      "paperId": "f9994f25a2f062bb8732f73d15ebfdc90cd9f3d3",
+      "title": "Modality-Driven Classification and Visualization of Ensemble Variance"
+    },
+    {
+      "paperId": "d38be5c5894355a9d2bb4c84b5680a7a2be89924",
+      "title": "Visualization of a simulated long-track EF5 tornado embedded within a supercell thunderstorm"
+    },
+    {
+      "paperId": "edc96d9d15ba940b011d9cf21de55f5d9fc9ff0d",
+      "title": "Enhancing Scatterplots with Multi\u2010Dimensional Focal Blur"
+    },
+    {
+      "paperId": "beeb87fac4366d33116b8ed3473ba167052481db",
+      "title": "Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso\u2010Contours"
+    },
+    {
+      "paperId": "5fdf82800a1871f42e2998fa685044eb9c8e7b55",
+      "title": "Finite-Time Lyapunov Exponents and Lagrangian Coherent Structures in Uncertain Unsteady Flows"
+    },
+    {
+      "paperId": "9121c6fb8dde67a4f6c99baedcbca833d5ac1d55",
+      "title": "Critical Points of Gaussian\u2010Distributed Scalar Fields on Simplicial Grids"
+    },
+    {
+      "paperId": "cfb93be9d861d7e892b5dca8959bf75f9a6f955b",
+      "title": "Visualizing Volcanic Clouds in the Atmosphere and Their Impact on Air Traffic"
+    },
+    {
+      "paperId": "3a350b822522701648cd936a1a819f1ced6a3f33",
+      "title": "Screen-space silhouettes for visualizing ensembles of 3D isosurfaces"
+    },
+    {
+      "paperId": "6932513a00ed9ececfb1cdb9645463c4e897ed71",
+      "title": "Comparative visualization of vector field ensembles based on longest common subsequence"
+    },
+    {
+      "paperId": "9f6630e406e926de2ba02c32c92ebb3d50c4c54c",
+      "title": "Guidance for representing uncertainty on global temperature change maps"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "0a227a19cd2c8d5ad6a2eaa815c80795711adbbe",
+      "title": "Visually Comparing Weather Features in Forecasts"
+    },
+    {
+      "paperId": "fc3faf5b9d4635e8a99fd2929162bf49135ad091",
+      "title": "Non-expert interpretations of hurricane forecast uncertainty visualizations"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "5355bcc49732bc71674e872097257c95f9e9a3ac",
+      "title": "ParaView Catalyst: Enabling In Situ Data Analysis and Visualization"
+    },
+    {
+      "paperId": "6216b01c39ea2789a8510194f951161bd39b3f66",
+      "title": "Multiresolution visualization of digital earth data via hexagonal box-spline wavelets"
+    },
+    {
+      "paperId": "f6a322174272df74d55e743616e9d5811badf26d",
+      "title": "Review: visual analytics of climate networks"
+    },
+    {
+      "paperId": "d6ba12d11a44e326e534083dff80296b47c95077",
+      "title": "ESMValTool (v1.0) \u2013 a community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP"
+    },
+    {
+      "paperId": "35e4b2d62ff35ade25f89c09e22a65b1279756e9",
+      "title": "The quiet revolution of numerical weather prediction"
+    },
+    {
+      "paperId": "9ab606620d0b7741cdeb57e2ae874ff904a2a4d9",
+      "title": "Diffusion Maps for dimensionality reduction and visualization of meteorological data"
+    },
+    {
+      "paperId": "ad36b07233905c32d777b22caf9e755163a3ada2",
+      "title": "Forecast Verification and Visualization based on Gaussian Mixture Model Co\u2010estimation"
+    },
+    {
+      "paperId": "8a39e68b0d4202abf7e29874bb40062ec212c216",
+      "title": "Bridging Theory with Practice: An Exploratory Study of Visualization Use and Design for Climate Model Comparison"
+    },
+    {
+      "paperId": "e587906bd49e7e743fc2ca307b6724fdb9d195a1",
+      "title": "The LAGRANTO Lagrangian analysis tool \u2013 version 2.0"
+    },
+    {
+      "paperId": "a8e7dafb3a4380cb85f1f85815e504fc1a6b51fd",
+      "title": "Three-dimensional visualization of ensemble weather forecasts \u2013 Part 1: The visualization tool Met.3D (version 1.0)"
+    },
+    {
+      "paperId": "62ad3a6402aebf8ca154a608fe736c985ac60c3a",
+      "title": "Three-dimensional visualization of ensemble weather forecasts \u2013 Part 2: Forecasting warm conveyor belt situations for aircraft-based field campaigns"
+    },
+    {
+      "paperId": "e2c1651f29ee264fa1b72ab378b83ea9a36cd98a",
+      "title": "IWAL\u2013An Interactive Weather Analysis Laboratory"
+    },
+    {
+      "paperId": "92390ab2ff0be928cd47393e712c0064acc6f65b",
+      "title": "Directional Texture for Visualization - New Technique and Application Study"
+    },
+    {
+      "paperId": "a2b3c21cee1dfc2d8e8df783e1ca9408dcca5538",
+      "title": "Graphics processing unit-based dynamic volume rendering for typhoons on a virtual globe"
+    },
+    {
+      "paperId": "a4b0dc61fb7b382a86344aa61b59b377bcb175a2",
+      "title": "Visual Analytics for Correlation\u2010Based Comparison of Time Series Ensembles"
+    },
+    {
+      "paperId": "4e2c33b2a2c4afcdebb4ab73853a658dc78b8c76",
+      "title": "Visualizing Time\u2010Specific Hurricane Predictions, with Uncertainty, from Storm Path Ensembles"
+    },
+    {
+      "paperId": "6d795a4fb8fafdf8351add801f188c1bb6f85a67",
+      "title": "Visual Analysis of Spatio\u2010Temporal Data: Applications in Weather Forecasting"
+    },
+    {
+      "paperId": "663d4cd574249d58b81d4618b91fdad0ff2cd4ff",
+      "title": "ManUniCast: a real\u2010time weather and air\u2010quality forecasting portal and app for teaching"
+    },
+    {
+      "paperId": "f0c86e351486798e50ec4a986df906fcf60c2f1c",
+      "title": "Interactive Fusion and Tracking For Multi\u2010Modal Spatial Data Visualization"
+    },
+    {
+      "paperId": "cb579eb21b99070b2ededdb2150914e4ed30238e",
+      "title": "Topology-Based Analysis for Multimodal Atmospheric Data of Volcano Eruptions"
+    },
+    {
+      "paperId": "9a7ac43043049d8559e0df637ec240534aecc3b0",
+      "title": "Statistical Methods in the Atmospheric Sciences (3rd Edition), Daniel S. Wilks : book review"
+    },
+    {
+      "paperId": "29777d6f6ad0d0e5665d36e54220a23d28645ee5",
+      "title": "Visualization of 2D Uncertainty in Decadal Climate Predictions"
+    },
+    {
+      "paperId": "b2ecb51388baa0c933aba32688914401501dc8c1",
+      "title": "MEVA - An Interactive Visualization Application for Validation of Multifaceted Meteorological Data with Multiple 3D Devices"
+    },
+    {
+      "paperId": "03d3387123cd1410367e035f6cd7529054098e4b",
+      "title": "Somewhere Over the Rainbow: How to Make Effective Use of Colors in Meteorological Visualizations"
+    },
+    {
+      "paperId": "b22c81bf168894fb3be014a275a67bad5cf9dbae",
+      "title": "Flow\u2010dependent verification of the ECMWF ensemble over the Euro\u2010Atlantic sector"
+    },
+    {
+      "paperId": "01efbfc8efe08d611f3305690b04f423617a9b80",
+      "title": "Visualization and Analysis of Climate Simulation Performance Data"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "22fd10346ffeb89c982d19c0f88bb338bd8be7d4",
+      "title": "Visual Reconciliation of Alternative Similarity Spaces in Climate Modeling"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "4c23afa1e945df21cc2ad32ef09ae2ccb9f65eee",
+      "title": "Visual analytics of large-scale climate model data"
+    },
+    {
+      "paperId": "91821d1bf17fa1b3206c2fb2d2552e05f8693732",
+      "title": "Multi-Scale Trend Visualization of Long-Term Temperature Data Sets"
+    },
+    {
+      "paperId": "b35a4554c19b6c6c10390d9c8ce90b4159c562b1",
+      "title": "Web-based visual analytics for extreme scale climate science"
+    },
+    {
+      "paperId": "e3641e5cc3392f84999ef633cf5548b2b30cbc6b",
+      "title": "Scientific Visualization: Uncertainty, Multifield, Biomedical, and Scalable Visualization"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "8b0d701904f3743d6ae1398e07990d2f165407f2",
+      "title": "Future Challenges for Ensemble Visualization"
+    },
+    {
+      "paperId": "141ef9bc9d02faff3ca6fb4c0a01670a1892a9af",
+      "title": "Visualizing the stability of critical points in uncertain scalar fields"
+    },
+    {
+      "paperId": "4693dbc9b11142dd6f4bdfdda2a922f1766ea091",
+      "title": "SimilarityExplorer: A Visual Inter\u2010Comparison Tool for Multifaceted Climate Data"
+    },
+    {
+      "paperId": "5fe563fda5523a4075076c3d165c8b40679ab02c",
+      "title": "Exascale Storage Systems - An Analytical Study of Expenses"
+    },
+    {
+      "paperId": "08e79111595fb865f6c073a855e86affb7b4c9f2",
+      "title": "Early warnings of extreme winds using the ECMWF Extreme Forecast Index"
+    },
+    {
+      "paperId": "a71994163bc3906daf3d59d8193eb56227402b48",
+      "title": "Concept and workflow for 3D visualization of atmospheric data in a virtual reality environment for analytical approaches"
+    },
+    {
+      "paperId": "ccc79a9d5fcca0b9d574b366b29a4d38beb7fa3b",
+      "title": "Scalable Lagrangian-Based Attribute Space Projection for Multivariate Unsteady Flow Data"
+    },
+    {
+      "paperId": "aea59bea2ff01558c8e78b192b5de2ca2107f888",
+      "title": "Surface boxplots"
+    },
+    {
+      "paperId": "54e7ec2efe13712a9c1c8dd67c7cf3d02684a305",
+      "title": "Images for Data Analysis: The Role of Visualization in Climate Research Processes"
+    },
+    {
+      "paperId": "26a48719d8e6b4c97480af90d1139037069b12e8",
+      "title": "Visualizing large 3D geodesic grid data with massively distributed GPUs"
+    },
+    {
+      "paperId": "ea5b4dad6c30fd45cafc7c59f7665e80178896e7",
+      "title": "An ensemble based turbulence forecasting system"
+    },
+    {
+      "paperId": "87875d43de79aefcaece94769b51d79ae72471b1",
+      "title": "A system for large-scale visualization of streaming Doppler data"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "fbe46c3ddf1d1491182f8cb15df76df61683e381",
+      "title": "Integration of Google Maps/Earth with microscale meteorology models and data visualization"
+    },
+    {
+      "paperId": "6d9637864944f0637cfba372fa66ebe61b0dfb63",
+      "title": "An Exploration Framework to Identify and Track Movement of Cloud Systems"
+    },
+    {
+      "paperId": "6202fbf92467dea1bd8500068fbfec0304341154",
+      "title": "Coupled Ensemble Flow Line Advection and Analysis"
+    },
+    {
+      "paperId": "d9d3fa89bb87784b208cbe7a1f9b953cd79ce762",
+      "title": "Visualizing the Variability of Gradients in Uncertain 2D Scalar Fields"
+    },
+    {
+      "paperId": "a434ede16e46db0d779a55a2b2c5401ad3298528",
+      "title": "Ultrascale Visualization of Climate Data"
+    },
+    {
+      "paperId": "e007a5c6bea23dd5002b97c3606ba468b296030b",
+      "title": "Representing Flow Patterns by Using Streamlines with Glyphs"
+    },
+    {
+      "paperId": "f288c2685fcb4a474e55f05fdebe9638965b2994",
+      "title": "Feature Tracking and Visualization of the Madden-Julian Oscillation in Climate Simulation"
+    },
+    {
+      "paperId": "79b1d1fad2ed63b222cf399617e8667d334205ce",
+      "title": "Climate and carbon cycle changes from 1850 to 2100 in MPI\u2010ESM simulations for the Coupled Model Intercomparison Project phase 5"
+    },
+    {
+      "paperId": "2f15237d0b2bcc930150d00b4d44ce15316da7c3",
+      "title": "The Advantages of Predictive Interval Forecasts for Non\u2010Expert Users and the Impact of Visualizations"
+    },
+    {
+      "paperId": "0adc9392a1d9b54d8c79c58e535373d6b351513c",
+      "title": "Atmospheric predictability revisited"
+    },
+    {
+      "paperId": "1cb04c3cfb0970970a66259370cdcc8d05065759",
+      "title": "Interactive Ray Casting of Geodesic Grids"
+    },
+    {
+      "paperId": "fcd2834955594607bf4eafdf655a6f576e9e7121",
+      "title": "Nonparametric Models for Uncertainty Visualization"
+    },
+    {
+      "paperId": "c86a77b2aa21f21ec6c46f2e8bd75712c8a81186",
+      "title": "Atmospheric component of the MPI\u2010M Earth System Model: ECHAM6"
+    },
+    {
+      "paperId": "2ba79232938808fe51f317e978be916bfc758f08",
+      "title": "Automated thunderstorm tracking: utilization of three-dimensional lightning and radar data"
+    },
+    {
+      "paperId": "740be8b8010fa784816ff26e65176ba0fd8adafb",
+      "title": "The potential for skill across the range of the seamless weather\u2010climate prediction problem: a stimulus for our science"
+    },
+    {
+      "paperId": "52288afb463a9080eac5f2f52aca3474d74acf71",
+      "title": "Advanced Visualizations of Scale Interactions of Tropical Cyclone Formation and Tropical Waves"
+    },
+    {
+      "paperId": "1ad8c94961888430202f5969a43cde08f69f77ef",
+      "title": "Operational Weather Forecasting"
+    },
+    {
+      "paperId": "0f387bb49edeb86272428575ac5e84e7010a5f60",
+      "title": "Interactive Immersion Learning: Flying through Weather Data onboard the GEOpod"
+    },
+    {
+      "paperId": "78defc7ed82587fedc917cd59dd895b3b8183325",
+      "title": "Technical Section: Surface-based flow visualization"
+    },
+    {
+      "paperId": "2f2543f8b42dbaf5b8cfd32c0b724049ceefc2ef",
+      "title": "Development of a Web-based visualization platform for climate research using Google Earth"
+    },
+    {
+      "paperId": "38f609e72cbd2a5ed3edc5a90f00b3cbf4191904",
+      "title": "A Multiscale Nonhydrostatic Atmospheric Model Using Centroidal Voronoi Tesselations and C-Grid Staggering"
+    },
+    {
+      "paperId": "946ac1a0325c8919dd0fbf9c91b88964557d8fad",
+      "title": "The Top 10 Challenges in Extreme-Scale Visual Analytics"
+    },
+    {
+      "paperId": "36829aba62d1e82639d55878d5f0f0a9ff4f0ac6",
+      "title": "Geometric Quantification of Features in Large Flow Fields"
+    },
+    {
+      "paperId": "301b608879d7310aa32adea19c5ebed5b3ce2155",
+      "title": "Automatic Stream Surface Seeding: A Feature Centered Approach"
+    },
+    {
+      "paperId": "8a4c1d315512d925183d8fc334a72a139495af5e",
+      "title": "Visualizing 2D Flows with Animated Arrow Plots"
+    },
+    {
+      "paperId": "5095d908e2e6dfa07c203c1a5d38028da9e6521a",
+      "title": "Visualizing Model Data Using a Fast Approximation of a Radiative Transfer Model"
+    },
+    {
+      "paperId": "2d58652eb66a4a92591637180a7da98375fdfdb7",
+      "title": "Detection, tracking and event localization of jet stream features in 4-D atmospheric data"
+    },
+    {
+      "paperId": "c0d162fd50d3defddd89b13884857401bf6e3b50",
+      "title": "Automated Processing of Doppler Radar Data for Severe Weather Warnings"
+    },
+    {
+      "paperId": "b658095e6cdd6752ecfdf60ee0b9edfd3abfd3b7",
+      "title": "Interactive Visual Exploration and Analysis of Multivariate Simulation Data"
+    },
+    {
+      "paperId": "7a3f087248da82292382a2065ac111efcbbf508d",
+      "title": "Climate model simulation visualization from a visual studies perspective"
+    },
+    {
+      "paperId": "7fea93f000ea91a9251937c725a93a21919f031f",
+      "title": "Zonal Jets as Meridional Transport Barriers in the Subtropical and Polar Lower Stratosphere"
+    },
+    {
+      "paperId": "6d845fec2cf138996a163a089527a2bd0cf0deab",
+      "title": "NOAA's Future Ensemble-Based Hurricane Forecast Products"
+    },
+    {
+      "paperId": "0aef41446770a62eb3d83216d7103d2c87d339a3",
+      "title": "Tropical cyclone track forecasting techniques \u2015 A review"
+    },
+    {
+      "paperId": "a52031ee8bf179b10dcd53496b91bcca7b697488",
+      "title": "Designing a better weather display"
+    },
+    {
+      "paperId": "fc2872143c206b51a3cf990db1093e911fec3049",
+      "title": "Operational Convective-Scale Numerical Weather Prediction with the COSMO Model: Description and Sensitivities"
+    },
+    {
+      "paperId": "0c515961c9b49c993c609b37ae1a242193706a7a",
+      "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "8f139348479770ca63cb8b1d0b9e58dcb92954bc",
+      "title": "Coupling Advanced Modeling and Visualization to Improve High-Impact Tropical Weather Prediction"
+    },
+    {
+      "paperId": "83c841815fbbba00740f67dfa2f0b90bae83482b",
+      "title": "Statistical analysis of an LES shallow cumulus cloud ensemble using a cloud tracking algorithm"
+    },
+    {
+      "paperId": "715eae334f9c1b57de35a0bf86a8db26fd3ea65e",
+      "title": "Mapping the climate: guidance on appropriate techniques to map climate variables and their uncertainty"
+    },
+    {
+      "paperId": "cd9bf1f4674513c1b42ec9fc263e7ee61d16da40",
+      "title": "Exploratory Visualization for Weather Data Verification"
+    },
+    {
+      "paperId": "5dfe804a4da91c8afb878f6ca7062746b86a25a3",
+      "title": "Information Visualization in Climate Research"
+    },
+    {
+      "paperId": "825bb69be14bc37094fdc0b37eac2b13143aa117",
+      "title": "Bivariate colour maps for visualizing climate data"
+    },
+    {
+      "paperId": "d83cad67cba4b554c0cee119c185e5b311305b80",
+      "title": "The Cognitive Science of Visual-Spatial Displays: Implications for Design"
+    },
+    {
+      "paperId": "a429773fba6a2d34af4c48fab9bf942919bee0fb",
+      "title": "Curve Density Estimates"
+    },
+    {
+      "paperId": "bca260025c013aeb18624d667f47886e92b27531",
+      "title": "A Gradient\u2010Based Comparison Measure for Visual analysis of Multifield Data"
+    },
+    {
+      "paperId": "efdc2ed062d26b36a75384b3adc98c7760736476",
+      "title": "Visualizing the Positional and Geometrical Variability of Isosurfaces in Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "fe3d2b5e63c1c0972c1217ea0f50c3df9173c5ec",
+      "title": "Lagrangian Coherent Structure Analysis of Terminal Winds Detected by Lidar. Part I: Turbulence Structures"
+    },
+    {
+      "paperId": "99dfb1a7cb6a57d8547147614fc7eca9c4469a74",
+      "title": "Python: An Ecosystem for Scientific Computing"
+    },
+    {
+      "paperId": "367f531f5b29f1952bfa90685f4109f4cee9864c",
+      "title": "Utility of Hovm\u00f6ller diagrams to diagnose Rossby wave trains"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "06ee7111059fc242ef7f05a225a57d0d182d2b19",
+      "title": "Visualization of gridded scalar data with uncertainty in geosciences"
+    },
+    {
+      "paperId": "838bb8489c5cb1e1c5f4636ca0e3585f542eb978",
+      "title": "Automatic Animation for Time\u2010Varying Data Visualization"
+    },
+    {
+      "paperId": "d3eef1678905a4d4bcf3e6d1b083e85eb5ecddaf",
+      "title": "Objective identification, typing and tracking of the complete life\u2010cycles of cyclonic features at high spatial resolution"
+    },
+    {
+      "paperId": "58a88178df5a73f0313f2ab56ae043760155e2b8",
+      "title": "Over Two Decades of Integration\u2010Based, Geometric Flow Visualization"
+    },
+    {
+      "paperId": "2b8eaf2b70ccaff9023b1009671d12eb9bfe77d6",
+      "title": "Ensemble-Based Forecast Uncertainty Analysis of Diverse Heavy Rainfall Events"
+    },
+    {
+      "paperId": "6e6b6369b2585f0d0d851d97e8a58a28ed7cf0ac",
+      "title": "Swedish Road Weather Visualization"
+    },
+    {
+      "paperId": "38417202db769bc4bbe891c223cbc0fa67d3e1f5",
+      "title": "Evaluating Climate Visualization: An Information Visualization Approach"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "1d5bdb95e6e5bda87f45afedc81f46f4debe74b4",
+      "title": "Application of uncertainty visualization methods to meteorological trajectories"
+    },
+    {
+      "paperId": "710fc3ac5d849558ffb6bfb2bd8df043cd089829",
+      "title": "A New Three-Dimensional Visualization System for Combining Aircraft and Radar Data and Its Application to RICO Observations"
+    },
+    {
+      "paperId": "76686c718a25462474636f82984c2c364fa1a346",
+      "title": "Exploration of Climate Data Using Interactive Visualization"
+    },
+    {
+      "paperId": "2d1211c926e41a5e269e4d6cc96f1b5c2f411adb",
+      "title": "The Flexible Climate Data Analysis Tools (CDAT) for Multi-model Climate Simulation Data"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "0397f6fdbe3e2220c663ced7dbaa8a859cc84d90",
+      "title": "Understanding Climate Change Patterns with Multivariate Geovisualization"
+    },
+    {
+      "paperId": "b903c04aa29ef86c2ea04055a6969fc2ba096bc4",
+      "title": "Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates"
+    },
+    {
+      "paperId": "776bf349f0e83edd3357c4eca91ee12ecaafe2a9",
+      "title": "Visual Exploration of Climate Variability Changes Using Wavelet Analysis"
+    },
+    {
+      "paperId": "827a922409f2c8d5503feef97eafbd352cdf3b4f",
+      "title": "Geospatial visualization using hardware accelerated real-time volume rendering"
+    },
+    {
+      "paperId": "bedc4ee403e440d44e7231d79f7508c1dd53b2fb",
+      "title": "A Survey of Radial Methods for Information Visualization"
+    },
+    {
+      "paperId": "75d7ef7de2c3ac721caeaa144a8178b6b371738e",
+      "title": "Inertial Particle Dynamics in a Hurricane"
+    },
+    {
+      "paperId": "fbf77e6945b1c637d85f9af77fcd1f993c1873fb",
+      "title": "Interactive Visualization of Weather and Ship Data"
+    },
+    {
+      "paperId": "07c84ed3362cfa39d5630266109794f8f20b0683",
+      "title": "Visualization of uncertainty and ensemble data: Exploration of climate modeling and weather forecast data with integrated ViSUS-CDAT systems"
+    },
+    {
+      "paperId": "f47d736e23561fefef90790155580f37ef7b05bf",
+      "title": "Correlation study of time-varying multivariate climate data sets"
+    },
+    {
+      "paperId": "c254f3d8f57aa01c9c84aca161b5c87db4fc9873",
+      "title": "A statistical approach to the life cycle analysis of cumulus clouds selected in a virtual reality environment"
+    },
+    {
+      "paperId": "713ab1e039ab56ffe37b1d084900db1c4cc70539",
+      "title": "Visualization of A-Train vertical profiles using Google Earth"
+    },
+    {
+      "paperId": "fdca17d5e918aebdde48ffd5c59e5b7a3bcebf03",
+      "title": "Operational Forecaster Uncertainty Needs and Future Roles"
+    },
+    {
+      "paperId": "5d3d222646a3cd48462497f542c8d722eb9ca258",
+      "title": "Hypothesis Generation in Climate Research with Interactive Visual Data Exploration"
+    },
+    {
+      "paperId": "c482579789f9492bd8d24fc5513c8b6ca8362a81",
+      "title": "Brushing of Attribute Clouds for the Visualization of Multivariate Data"
+    },
+    {
+      "paperId": "8f1368827636ca64c55b8168b8695da086236675",
+      "title": "EULAG, a computational model for multiscale flows"
+    },
+    {
+      "paperId": "4599a4954b8b47b61c3b38685df006479b9e9c11",
+      "title": "McIDAS-V: a powerful data analysis and visualization tool for multi and hyperspectral environmental satellite data"
+    },
+    {
+      "paperId": "d37f19b495a192118b83a86eac246f986061e7f6",
+      "title": "Development and propagation of severe thunderstorms in the Upper Danube catchment area: Towards an integrated nowcasting and forecasting system using real-time data and high-resolution simulations"
+    },
+    {
+      "paperId": "f984533ca1646d477c6b79135eb58dab0b4b93b4",
+      "title": "Contouring with Uncertainty"
+    },
+    {
+      "paperId": "3681e9b56e6bfb4f0a58206221ac6aa244cfa7bb",
+      "title": "The Effect of Uncertainty Visualizations on Decision Making in Weather Forecasting"
+    },
+    {
+      "paperId": "965531e32776b212fd7eb1041462a0bb9c6442cd",
+      "title": "The Paraview Guide"
+    },
+    {
+      "paperId": "70a495c2cc877839b910916533f8d90f32fb4ad2",
+      "title": "Visual exploration and evaluation of climate-related simulation data"
+    },
+    {
+      "paperId": "7a2056e081c482a942ff332fdb06270db684c126",
+      "title": "Multifield visualization using local statistical complexity"
+    },
+    {
+      "paperId": "ed7b73b26ce4a7e9d577183b52d893811e1d732f",
+      "title": "Visual Analysis of the Air Pollution Problem in Hong Kong"
+    },
+    {
+      "paperId": "6998dec98526ad1406e12bd500c50f879a62d721",
+      "title": "Texture-based feature tracking for effective time-varying data visualization"
+    },
+    {
+      "paperId": "96ae32ebc806154d260cb60001ff90d08bb4ac1f",
+      "title": "Atmospheric data access for the geospatial user community"
+    },
+    {
+      "paperId": "cd933c1917011cea4511f304c0239a2524d45b82",
+      "title": "The use of the multi-model ensemble in probabilistic climate projections"
+    },
+    {
+      "paperId": "13ad1389be65fc8da383fd9e606fec7fdde62655",
+      "title": "Interactive desktop analysis of high resolution simulations: application to turbulent plume dynamics and current sheet formation"
+    },
+    {
+      "paperId": "4170ac638736037bcdb1c2d0c8accb36378569d6",
+      "title": "The Prediction of Extratropical Storm Tracks by the ECMWF and NCEP Ensemble Prediction Systems"
+    },
+    {
+      "paperId": "e9d69ece1271676fe5610912259d2fabb4b90f9f",
+      "title": "GPU-based Dynamic Flow Visualization for Climate Research Applications"
+    },
+    {
+      "paperId": "0fa03fae28e9733393d917fc845fd628c1569a9b",
+      "title": "Statistical Methods in the Atmospheric Sciences"
+    },
+    {
+      "paperId": "b4287fe078276fc01c5d14ff1f7b83fc31decd50",
+      "title": "Application of the NCEP Ensemble Prediction System to Medium-Range Forecasting in South Africa: New Products, Benefits, and Challenges"
+    },
+    {
+      "paperId": "f906c04a9da88d04d9af103a3b3fc5f8e1351288",
+      "title": "Synthetic Satellite Imagery in the Lokal-Modell"
+    },
+    {
+      "paperId": "8b6e0d5b5428b60b1dd04e153aa752dd8bbbb4c2",
+      "title": "An Atmospheric Visual Analysis and Exploration System"
+    },
+    {
+      "paperId": "b1b815b58d235099a91602225bde0f2539d6eaa2",
+      "title": "Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data"
+    },
+    {
+      "paperId": "1d507441721b853aa750a78d72367478f3553d34",
+      "title": "Natural Textures for Weather Data Visualization"
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "4409ff79812d6b1d27f1de2e31fca351f2a918ab",
+      "title": "Towards quantifying uncertainty in transient climate change"
+    },
+    {
+      "paperId": "9b8a4a4a28f7581ad5cc26726b11496445e48190",
+      "title": "Interpolation and visualization for advected scalar fields"
+    },
+    {
+      "paperId": "77c39e7522ff44d8785dd169b4e62a3d69eacd31",
+      "title": "Weather Forecasting with Ensemble Methods"
+    },
+    {
+      "paperId": "82d1de4e630d06bab81e424f8cfe96f4003fc7c3",
+      "title": "Feature tracking in VR for cumulus cloud life-cycle studies"
+    },
+    {
+      "paperId": "c5292e55a1a4501887509288243dd309f2404ddb",
+      "title": "Learning Storm Dynamics with a Virtual Thunderstorm"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "1650168679fb388681ca8575d005fa6c2ba99809",
+      "title": "Efficient Rendering of Atmospheric Phenomena"
+    },
+    {
+      "paperId": "8bbf9ed89df343436ad8eed1c9556d193ec71b6f",
+      "title": "Center for Ocean-Land-Atmosphere Studies"
+    },
+    {
+      "paperId": "f08db0000a273803f5179a31217ae9001c669e74",
+      "title": "Methods for the visualization of clustered climate data"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "ce26c3b68a9051ab3d8d33ca3c71bbaeeb5f0312",
+      "title": "Visually accurate multi-field weather visualization"
+    },
+    {
+      "paperId": "0248f91dbb110d57a82494d2957d7be2db6bb2c4",
+      "title": "Early detection of abnormal weather conditions using a probabilistic extreme forecast index"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "a1cfa319f378190bdf9fd31bb610cb1d1e5c8aa7",
+      "title": "Large operational user of visualization"
+    },
+    {
+      "paperId": "14d2af99f6ab745f7f9496e73c6f1987582615e6",
+      "title": "Simulation of cloud dynamics on graphics hardware"
+    },
+    {
+      "paperId": "505ef236eddf4cb4bb469063e1d3505a497e9a79",
+      "title": "Scientific visualization in virtual reality - interaction techniques and application development"
+    },
+    {
+      "paperId": "4b8e891a6ceb99c949828c3fdfdf89955df6a019",
+      "title": "A case study on multiresolution visualization of local rainfall from weather radar measurements"
+    },
+    {
+      "paperId": "14bb316c334568c94f1bbd49fa111ddb1b78ec4d",
+      "title": "The abalone interpolation: a visual interpolation procedure for the calculation of cloud movement"
+    },
+    {
+      "paperId": "59864c3774e7d599ffc42f80661890b94ebec09e",
+      "title": "An efficient system for collaboration in tele-immersive environments"
+    },
+    {
+      "paperId": "19d48f2d8b666bd376edfafcc61f80860d0cc325",
+      "title": "Use of medium\u2010range ensembles at the Met Office I: PREVIN \u2013a system for the production of probabilistic forecast information from the ECMWF EPS"
+    },
+    {
+      "paperId": "82157c9831c0d4f53bb7eced23945a450d1163dd",
+      "title": "Volume Rendering Multivariate Data to Visualize Meteorological Simulations: A Case Study"
+    },
+    {
+      "paperId": "c00880e4a4dba279ced2dbd5b5ddd16c0e0b87ea",
+      "title": "The MetVR case study: meteorological visualization in an immersive virtual environment"
+    },
+    {
+      "paperId": "153c82141d2f871d8e6b2ece32f8dd8919a841a0",
+      "title": "Using VisAD to build tools for visualizing and analyzing remotely sensed data"
+    },
+    {
+      "paperId": "1705dd0f4f371d8a38f15c20fee527b3f5357f53",
+      "title": "Using Streaming and Parallelization Techniques for 3D Visualization in a High-Performance Computing and Networking Environment"
+    },
+    {
+      "paperId": "e198379059148d72a853edaccdb6f5c82111a033",
+      "title": "Two methods for cloud visualisation from weather simulation data"
+    },
+    {
+      "paperId": "20a65edf583e6bc93c6c21d980767de79863999b",
+      "title": "Summarizing multiple aspects of model performance in a single diagram"
+    },
+    {
+      "paperId": "a999d556007e2782c470dd3948b91676f37b7261",
+      "title": "Real\u2010Time Cloud Rendering"
+    },
+    {
+      "paperId": "5a387c692b25997dce4df7df364ffb1373d8f0bf",
+      "title": "Vector fields simplification-a case study of visualizing climate modeling and simulation data sets"
+    },
+    {
+      "paperId": "28f77cc1db290bc964ade98d71af890224f1c177",
+      "title": "Multi-resolution visualization techniques for nested weather models"
+    },
+    {
+      "paperId": "0ad6793477ceb2fa2c0b97859a6f015e873bf3af",
+      "title": "Unsteady Flow Visualization by Animating Evenly\u2010Spaced Streamlines"
+    },
+    {
+      "paperId": "f943d46af873a6c6b681b2896c540e7928465425",
+      "title": "Visualizing Sparse Gridded Data Sets"
+    },
+    {
+      "paperId": "10ec9e3e9559b0e3f477fb8ce31d578424b69ce7",
+      "title": "A simple, efficient method for realistic animation of clouds"
+    },
+    {
+      "paperId": "be62f068f5261a7c047115225a78c1480db09f86",
+      "title": "Meteorology meets computer graphics - a look at a wide range of weather visualisations for diverse audiences"
+    },
+    {
+      "paperId": "4ba652d0ca1dfa2d8339560d17154f25dd57bd9a",
+      "title": "Air Apparent. How meteorologists learned to map, predict and dramatize weather."
+    },
+    {
+      "paperId": "375f68588990d5f0699b33fc6f77151c3af42104",
+      "title": "3D visualization development at NOAA forecast systems laboratory"
+    },
+    {
+      "paperId": "5674806abb734b2c201ff315f2ef67caa75e6910",
+      "title": "Statistical methods for interpreting Monte Carlo ensemble forecasts"
+    },
+    {
+      "paperId": "8d91f3bcd7d93898899ce0a48159c70263765477",
+      "title": "Tubing: An Alternative to Clustering for the Classification of Ensemble Forecasts"
+    },
+    {
+      "paperId": "cec0353aadfed9be99a0d6ff8cc189e05fc79810",
+      "title": "The Man computer Interactive Data Access System: 25 Years of Interactive Processing"
+    },
+    {
+      "paperId": "95a6a4c6643eb97a8898eb635783ef7fec9f0667",
+      "title": "Data level comparison of wind tunnel and computational fluid dynamics data"
+    },
+    {
+      "paperId": "37a7dfd1f5dbda1680600ece833e2e3231957adf",
+      "title": "Task-specific visualization design: a case study in operational weather forecasting"
+    },
+    {
+      "paperId": "6c30456766de6d8a1f89aaaf85b4f0bc33537355",
+      "title": "VisAD: connecting people to computations and people to people"
+    },
+    {
+      "paperId": "20b7d06cfff1e9fd2b501f3366594d9147178003",
+      "title": "Objective fronts"
+    },
+    {
+      "paperId": "f89187070a8eca76dc7a08739501829c253f9798",
+      "title": "Objective identification of frontal wave cyclones"
+    },
+    {
+      "paperId": "f8e1b3bcee316203b4aa843efd5f581bc16849dc",
+      "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics"
+    },
+    {
+      "paperId": "5cec94a54010288cc151054dc9e18326866c2012",
+      "title": "A Synoptic Evaluation of the NCEP Ensemble"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "c719f19bdc560eeb435f631ffed13afec31519c7",
+      "title": "Weather forecasting for the 1996 Olympics"
+    },
+    {
+      "paperId": "c25674342ffe0dd1abdb96326efd865b67ed5878",
+      "title": "Exploring Coupled Atmosphere-Ocean Models Using Vis5D"
+    },
+    {
+      "paperId": "5b586a807ccc9f3ffc86bfe600c97357e99999d5",
+      "title": "An extended data-flow architecture for data analysis and visualization"
+    },
+    {
+      "paperId": "6407d6d9e1adfec764f4fe96c8f2c9082c7a2aef",
+      "title": "Interactive Visualization of Earth and Space Science Computations"
+    },
+    {
+      "paperId": "0f06bf410d7c5498fdebae3e12e692af52f91ff6",
+      "title": "Some Considerations in Using Color in Meteorological Displays"
+    },
+    {
+      "paperId": "fea68f034804f4f7ec17137c8813cd3a4fd1fa00",
+      "title": "Visualization for climate modeling"
+    },
+    {
+      "paperId": "f0318e6cfc87986b0498067110217eee7b97e9e1",
+      "title": "Display of scientific data structures for algorithm visualization"
+    },
+    {
+      "paperId": "db9297ed7c42773e927d6739463389033c4b6476",
+      "title": "Visualizing wind velocities by advecting cloud textures"
+    },
+    {
+      "paperId": "089e8963ae1d78b5650c9e69e4156a052cb4a3eb",
+      "title": "Use of Reduced Gaussian Grids in Spectral Models"
+    },
+    {
+      "paperId": "dba84a2c4e3c75d5c80d64d4c099df46725da833",
+      "title": "The VIS-5D system for easy interactive visualization"
+    },
+    {
+      "paperId": "02e75ec60d56257ab6eabaef2dfe33c20c44c3ee",
+      "title": "Visualizing Meteorological Data"
+    },
+    {
+      "paperId": "ba8ddfcb7abe79278c213f9f5504dea38720c077",
+      "title": "A Study of the Evolution of a Numerically Modeled Severe Storm"
+    },
+    {
+      "paperId": "83bc865b6608ea5dbf6081ee21c4bd43f5f94c05",
+      "title": "Application of the 4-D McIDAS to a Model Diagnostic Study of the Presidents' Day Cyclone"
+    },
+    {
+      "paperId": "cf19452b9a433e14b5ebab756c4db0bfc6867aea",
+      "title": "Visualizing large data sets in the earth sciences"
+    },
+    {
+      "paperId": "e01828e7b762257d70bc122e38d6b274e5d140cb",
+      "title": "The application visualization system: a computational environment for scientific visualization"
+    },
+    {
+      "paperId": "9561cd2e5e79119a8c4f67a52973e7e619f9f582",
+      "title": "Interactivity is the key"
+    },
+    {
+      "paperId": "29bb59b86760fe21ad0a3498bd93caccb7073399",
+      "title": "NUMERICAL WEATHER PREDICTION: A vision of the future"
+    },
+    {
+      "paperId": "26c4ec8c9bc744adec0e1332a2dfa579c7d2f1ee",
+      "title": "Applications of computer graphics to the visualization of meteorological data"
+    },
+    {
+      "paperId": "e07b76e78e479d6dd4c0525ec99d1c5b98586091",
+      "title": "Four-Dimensional Imaging for Meteorological Applications"
+    },
+    {
+      "paperId": "a64b8f45edcf80d5c9ba46d1c94e243eb713e6b1",
+      "title": "Stereo Animation for Very Large Data Bases: Case Study- Meteorology"
+    },
+    {
+      "paperId": "10ae4ad8083ad1e7bd82d4be80ebe6b072bc78aa",
+      "title": "The predictability of weather and climate"
+    },
+    {
+      "paperId": "28f4f68e5e4444fefd613bec808e9a134347f293",
+      "title": "Computer-generated imagery for 4-D meteorological data"
+    },
+    {
+      "paperId": "ff4d1d72a8e92dfce88f6f0925365a0fc4797d00",
+      "title": "Meteorological Data Fields \u201cIn Perspective\u201d"
+    },
+    {
+      "paperId": "6a54f3283cf4ae0d85cbd9e9d73ef906c3e3dd6d",
+      "title": "Animated Graphics in Meteorological Research and Presentations"
+    },
+    {
+      "paperId": "8dc4b2fa4e42184ba415c0f04a5023b2b15944b7",
+      "title": "McIDAS III - A modern interactive data access and analysis system. [Man computer Interactive Data Access System]"
+    },
+    {
+      "paperId": "946ad5d962b2f8db91249b1b90ae5f3703a7cd77",
+      "title": "Atmospheric predictability experiments with a large numerical model"
+    },
+    {
+      "paperId": "7a08dc2cb41df186841fde02def9a3e5d3269c7e",
+      "title": "Artificial stereo presentation of meteorological data fields"
+    },
+    {
+      "paperId": "1580400435240473c3db6e69485620f6a72356cf",
+      "title": "Stereographic observations from geosynchronous satellites - An important new tool for the atmospheric sciences"
+    },
+    {
+      "paperId": "caa66be45eb8a4ba1d6aa98b2cfb3db2eb6ea686",
+      "title": "The Wind Boxplot: An Improved Wind Rose"
+    },
+    {
+      "paperId": "9ceea019060c08504070e750f2867ccf38b2a16f",
+      "title": "The McIdas System"
+    },
+    {
+      "paperId": "2b6d14120c5425981cdac4f623e1f3db0db1eed0",
+      "title": "Better than a wind rose"
+    },
+    {
+      "paperId": "482d96c8a5dbf06ba73b7b913daad9843e3b13b7",
+      "title": "Depicting Stochastic Dynamic Forecasts"
+    },
+    {
+      "paperId": "513208b8115e53a906f7fbfd5a2381720b2b656a",
+      "title": "The application of CRT contour analysis to general circulation experiments"
+    },
+    {
+      "paperId": "8e953ed408a6d0e7ec36c7b15c4fe187b0c92beb",
+      "title": "NCAR global General Circulation Model of the atmosphere"
+    },
+    {
+      "paperId": "cb548a89ce564e53a579f389dcfa842b33f2ccfa",
+      "title": "Probability Predictions of Geostrophic Winds"
+    },
+    {
+      "paperId": "a18fc0ed012f2323a35166e22405bf315d4972b8",
+      "title": "ON THE STANDARD VECTOR-DEVIATION WIND ROSE"
+    },
+    {
+      "paperId": "6c73a362a9563161fcca3ddc7c4473991597ae8a",
+      "title": "INTERNATIONAL STANDARD PROJECTIONS FOR METEOROLOGICAL CHARTS"
+    },
+    {
+      "paperId": "2ba30818ea3d4e7d4447971a31acaa41d2721d91",
+      "title": "PART III: DYNAMICS AND NUMERICAL PROCEDURES"
+    },
+    {
+      "paperId": "ada88e5fe5782c70b02b72ab463e0fed811d5608",
+      "title": "The ensemble forecasting"
+    },
+    {
+      "paperId": "d3e1bfffe2aa740b2a80408d9b54dc8f9fc8089c",
+      "title": "Robust Detection and Visualization of Jet-Stream Core Lines in Atmospheric Flow"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "9c0af605281b329d15372d0e9af6752cc52630df",
+      "title": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "paperId": null,
+      "title": "NVIDIA IndeX"
+    },
+    {
+      "paperId": null,
+      "title": "Koninklijk Nederlands Meteorologisch Instituut"
+    },
+    {
+      "paperId": null,
+      "title": "NOAA Paci\ufb01c Marine Environmental Laboratory"
+    },
+    {
+      "paperId": null,
+      "title": "Meteo France Int\u2018l. SYNERGIE web"
+    },
+    {
+      "paperId": null,
+      "title": "Unidata"
+    },
+    {
+      "paperId": null,
+      "title": "MathWorks, Inc"
+    },
+    {
+      "paperId": null,
+      "title": "Met.3D contributors"
+    },
+    {
+      "paperId": null,
+      "title": "Harris Geospatial Solutions"
+    },
+    {
+      "paperId": null,
+      "title": "Meteorology and Oceanography Domain Working Group"
+    },
+    {
+      "paperId": null,
+      "title": "Earth: A global map of wind, weather, and ocean conditions. 2017"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE Visualization 2004"
+    },
+    {
+      "paperId": "4591de641fa2f6e2d85d1ee8ed8c889bb277fd7c",
+      "title": "Data Compression for Climate Data"
+    },
+    {
+      "paperId": "f2b5287d2d3b9f47ba69fb252a6960129abd48fc",
+      "title": "Reducing the Analytical Bottleneck for Domain Scientists: Lessons from a Climate Data Visualization Case Study"
+    },
+    {
+      "paperId": null,
+      "title": "GlobalClimate&WeatherModelingBranch.Ensemblepublicationanddocumentationpage"
+    },
+    {
+      "paperId": "85b12db12cb1210ea1e210766c68ee09648eb68e",
+      "title": "Interactive 3D visualization of ensemble weather forecasts"
+    },
+    {
+      "paperId": "29018286e06fa87628d8e1551d084767dc6c60d9",
+      "title": "The ICON (ICOsahedral Non\u2010hydrostatic) modelling framework of DWD and MPI\u2010M: Description of the non\u2010hydrostatic dynamical core"
+    },
+    {
+      "paperId": "20306b43ee13cb0488a901a92db80565aad9882b",
+      "title": "Visual analytics of multi-sensor weather information georeferenciation of Doppler weather radar and weather stations"
+    },
+    {
+      "paperId": "83613ab48ebbf28fb373bccc648f65f65485c760",
+      "title": "Vismate: Interactive visual analysis of station-based observation data on climate changes"
+    },
+    {
+      "paperId": "d3546f00f6e6513cfd63ab7b8b43076c1469df4c",
+      "title": "Doppler Radar Observations - Weather Radar, Wind Profiler, Ionospheric Radar, and Other Advanced Applications"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "\u201c3D exploration of weather data in combination with IASI l2 products for better understanding of potential applications,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Avizo climatology pro\ufb01le tutorial by DKRZ"
+    },
+    {
+      "paperId": null,
+      "title": "ober, Visualization of Data Using SimVis in the Context of Earth System and Climate Research, Deutsches Klimarechenzentrum"
+    },
+    {
+      "paperId": null,
+      "title": "Avizo climatology profile tutorial by DKRZ. http://www.dkrz.de/pdfs/ docs/Getting started with Avizo Green 8.1.pdf"
+    },
+    {
+      "paperId": null,
+      "title": "Paraview Tutorial -For the visualization of Earth-and Climate Science Data, Deutsches Klimarechenzentrum, Bundesstrasse 45a"
+    },
+    {
+      "paperId": "55c9c8321a7561fd3b579757bf04fc6a6e89a57e",
+      "title": "Visualizing Contour Distributions in 2D Ensemble Data"
+    },
+    {
+      "paperId": "cc5ba4e5e657900733d32ed393bdcc4123a2d52d",
+      "title": "UV-CDAT: Analyzing Climate Datasets from a User's Perspective"
+    },
+    {
+      "paperId": "ee56c8c2ca778d6b87a2461f0450050032c6e08d",
+      "title": "Visualizing Uncertainty in Predicted Hurricane Tracks"
+    },
+    {
+      "paperId": "f3678be5afc1eabe73590cfe582a74f7ab8724ce",
+      "title": "Visualization of Urban Micro-Climate Simulations"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE SciVis Contest 2014 Team"
+    },
+    {
+      "paperId": "55c53808708363870a5dc01820ac4e7dbd183549",
+      "title": "Climate Change 2013: The Physical Science Basis"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cecCharts service,\u201d"
+    },
+    {
+      "paperId": "ef5b5327b27d5ab40cc683b7762ae1f1f9359ce4",
+      "title": "Geoscientific Model Development A web service based tool to plan atmospheric research flights"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "73489ebdc62d29f0aa1fee3658ed6e751243d43c",
+      "title": "Practical Application of Parallel Coordinates for Climate Model Analysis"
+    },
+    {
+      "paperId": "6b26e53923f8668380143ada330f3586e7a50804",
+      "title": "The VAPOR Visualization Application"
+    },
+    {
+      "paperId": "4c1d5927eff6c60109dc8c67b0c84409f5dd7267",
+      "title": "The ParaView Visualization Application"
+    },
+    {
+      "paperId": "c0fca9ec46631fe62b08b67e9d7807799ebb6a4d",
+      "title": "Progressive Data Access for Regular Grids"
+    },
+    {
+      "paperId": "3d556023a47e3b86b80f6431b6550966d2257dd3",
+      "title": "European Centre for Medium-Range Weather Forecasts"
+    },
+    {
+      "paperId": "632d0acd1adde9f8d3dc2e1b68d691278ad750d3",
+      "title": "A survey of cloud lighting and rendering techniques"
+    },
+    {
+      "paperId": "85bbeb1dd75807e89d030f6ebd61e527784ce882",
+      "title": "Article type: Advanced Review Communicating probabilistic information from climate model ensembles\u2014 lessons from numerical weather prediction"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "c3c6c981ec35e3618d9cb98f78d9f888c128f6b4",
+      "title": "Virtual Globe visualization of ash-aviation encounters, with the special case of the 1989 Redoubt-KLM incident"
+    },
+    {
+      "paperId": "a76aa8e98c8d5adf6e111f378c0f6a72df6b039d",
+      "title": "A tropical cyclone application for virtual globes"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cNew clustering products,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cExploration of severe weather events in virtual reality environments: Lessons learned from interactive 3D visualization of meteorological models,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cHerausforderungen in der Interpretation und Kommunikation von probabilistischen Vorhersagen,\u201d"
+    },
+    {
+      "paperId": "72758c5bc858894768e66b209fb2b81e655f19a9",
+      "title": "Real-time, rapidly updating severe weather products for virtual globes"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cUse of ECMWF\u2019s ensemble vertical pro\ufb01les at the Hungarian meteorological service,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cProbabilistic mar.ing cubes,\u201d"
+    },
+    {
+      "paperId": "8f185ed91febdec0799289551ae259b3e70eec15",
+      "title": "Thinking about the weather: How display salience and knowledge affect performance in a graphic inference task."
+    },
+    {
+      "paperId": "a487cb66269c14993373b0e72bb9849af4fc8108",
+      "title": "Thunderstorm Strike Probability Nowcasting"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMetview 4\u2014ECMWF\u2019s latest generation meteorological workstation,\u201d"
+    },
+    {
+      "paperId": "ef5145c1ca6858ba3ef719fa2c488a17898477e6",
+      "title": "Interactive and Realistic Visualization System for Earth-Scale Clouds"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cIDV at 5: New features and future,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cGrundlagen der Ensembletechnik und Wahrscheinlichkeitsaussagen,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cNutzung von Ensemble-Prognosen im Vorher-sagedienst,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTracking fronts and extra-tropical cyclones,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Das meteorologische Visualisierungs- und Produktionssystem NinJo"
+    },
+    {
+      "paperId": "4931e11d5dba0bf3a102d394931778c673b8b049",
+      "title": "Visualization of Climate and Climate Change Data : An Overview"
+    },
+    {
+      "paperId": "dec9e8e52ba8d6e7a93da8304179a842603d3f67",
+      "title": "Evaluation of a Scalable In-Situ Visualization System Approach in a Parallelized Computational Fluid Dynamics Application"
+    },
+    {
+      "paperId": "124381ad1bd45b5cb88dbbdba8500d2410066f41",
+      "title": "A Description of the Advanced Research WRF Version 3"
+    },
+    {
+      "paperId": null,
+      "title": "Meteorology Today , 9th ed. Paci\ufb01c Grove, CA, USA: Brooks Cole, Jul"
+    },
+    {
+      "paperId": null,
+      "title": "Guidelines on Communicating Forecast Uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDiana\u2014An opensource production and visualisation package,\u201d"
+    },
+    {
+      "paperId": "dd0a06e07740f98de9b720e6c3d9ca86029c8a70",
+      "title": "Computer-Aided Visualization in Meteorology"
+    },
+    {
+      "paperId": "68a776ca5a7fc06893cdcf7effb33d36b3d360ed",
+      "title": "Vortex detection in a simulated supercell thunderstorm"
+    },
+    {
+      "paperId": "00e4e3d1affc1452ed920389110be5e44a2cb209",
+      "title": "The Real Time Mission Monitor - A Situational Awareness Tool For Managing Experiment Assets"
+    },
+    {
+      "paperId": null,
+      "title": "Visuelles Data Mining und Visualisierungsdesign f\u20ac  ur die Klimaforschung"
+    },
+    {
+      "paperId": null,
+      "title": "Observing Systems for Atmospheric Composition: Satellite, Air-craft, Sensor Web and Ground-Based Observational Methods and Strategies"
+    },
+    {
+      "paperId": "4676ec376afc1275ced5d97da735ab304324dd3e",
+      "title": "Visualization of structured nonuniform grids"
+    },
+    {
+      "paperId": "a600d75efcb9948e27b92ccdb91e50a4984b4aea",
+      "title": "EVOLVING IDV -- CREATING BETTER TOOLS FOR THE COMMUNITY"
+    },
+    {
+      "paperId": "bfd087c2bb76feccf2c0ff8b1cfc6d08ecc78103",
+      "title": "Predictability of Weather and Climate: Predictability from a forecast provider's perspective"
+    },
+    {
+      "paperId": "0929bad0099de5970aef9f6c24e36997b8ae93af",
+      "title": "Visualization in Weather and Climate Research"
+    },
+    {
+      "paperId": "beeb0f3c9cccbd00ffcdec12a57c38509a8a9921",
+      "title": "NAG's IRIS Explorer"
+    },
+    {
+      "paperId": "218feeeeed5f37940a02b137a099d60ee02000b9",
+      "title": "amira: A Highly Interactive System for Visual Data Analysis"
+    },
+    {
+      "paperId": "3d61ceb7679454a803421046fad5ce0f8aae059d",
+      "title": "AVS and AVS/Express"
+    },
+    {
+      "paperId": "da4909ea88a286007cd88993dfea5b1925ad720c",
+      "title": "Vis5D, Cave5D, and VisAD"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cOverview of meteorological workstation development in Europe,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Fundamentals of Atmospheric Modeling , 2nd ed. Cambridge, U.K."
+    },
+    {
+      "paperId": "061f9d58c7872384cce00a6db715ae2dd746a43f",
+      "title": "High-quality animation of 2D steady vector fields"
+    },
+    {
+      "paperId": "104e4e8519a541e5ba02f9454624579438301939",
+      "title": "An example of a virtual reality learning environment"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe synoptic environment of the 11 April 2001 central plains tornado outbreak viewed in three dimensions,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe use of D3D when examining tropical cyclones,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cOperational applications of three dimensional air parcel trajectories using AWIPS D3D,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cD3D: Overview, update, and future plans,\u201d"
+    },
+    {
+      "paperId": "b45e8c403fc172bdf97990e8592dfc2fa1b74e54",
+      "title": "User Guide to ECMWF forecast products"
+    },
+    {
+      "paperId": null,
+      "title": "Advanced flow representations applied to wind visualization"
+    },
+    {
+      "paperId": "3c7a9cfdd1db7b99963adb7542e722f526b59bdb",
+      "title": "Animation meteorologischer Daten f\u00fcr Massenmedien"
+    },
+    {
+      "paperId": "9c43c314463a5bc83be157452059c9cfcee76cdd",
+      "title": "Where Weather Meets the Eye - A Case Study on a Wide Range of Meteorological Visualizations for Diverse Audiences"
+    },
+    {
+      "paperId": "34b766d42d0bc29529f6dc2c1be67763dd58751a",
+      "title": "A visualization system for operational meteorological use"
+    },
+    {
+      "paperId": "b6c487e558fc3ca1c641ba2fdcbec6a60da04b5f",
+      "title": "3D Visualization in Daily Operation at the DWD"
+    },
+    {
+      "paperId": "2ce15ee7aaeb46541c00376b9007d4c914aea18b",
+      "title": "Visualisierung als Werkzeug zur Analyse von Klimasimulationsdaten"
+    },
+    {
+      "paperId": "9ba5a79a75b2ae0b4b11dbe56be37e904871e90f",
+      "title": "THREE-DIMENSIONAL VISUALIZATION FOR SUPPORT OF OPERATIONAL FORECASTING AT THE 1996 CENTENNIAL OLYMPIC GAMES"
+    },
+    {
+      "paperId": "8b15ba829f82787a92c97026d41a925e9d33a027",
+      "title": "Creating Evenly-Spaced Streamlines of Arbitrary Density"
+    },
+    {
+      "paperId": "447b8158cec61df8d22ea3a79087564523873d34",
+      "title": "Visualisierung meteorologischer Daten"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMeteorological data visualisation using IBM visualisation data explorer,\u201d"
+    },
+    {
+      "paperId": "4e23c1028f510c8c8424a7f788688ddf1fab8fa7",
+      "title": "4-D display of meteorological data"
+    },
+    {
+      "paperId": "d4a85d2cab20e7d65ac6de3a8f772e6fca368251",
+      "title": "Principles of meteorological analysis"
+    },
+    {
+      "paperId": "0873e4b94666986b5e0a6aaddd5c2852a3455789",
+      "title": "Upper winds over the world: Part I. The frequency distribution of winds at a point in the free air"
+    },
+    {
+      "paperId": "37a179aeba48354bd3b97e38abb206626b4010b2",
+      "title": "P1.10 D3D UPDATE: IS IT BEING USED?"
+    },
+    {
+      "paperId": "a36a11fe61261ea6950239a5991f51ef223a4699",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Results of a User Study on 2d Hurricane Visualization"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "7d0fb84861a7fda4a120c992f33b2d62b04cef7c",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Automatic Detection and Visualization of Distinctive Structures in 3d Unsteady Multi-fields"
+    },
+    {
+      "paperId": null,
+      "title": "VISUALIZATION IN METEOROLOGY\u2014A SURVEY OF TECHNIQUES AND TOOLS FOR DATA"
+    },
+    {
+      "paperId": null,
+      "title": "SciVis contest 2017: Visualization of clouds and atmospheric processes"
+    },
+    {
+      "paperId": null,
+      "title": "IBL software engineering"
+    },
+    {
+      "paperId": null,
+      "title": "World Meteorological Organization. Manual on the global data-processing and forecasting system"
+    },
+    {
+      "paperId": null,
+      "title": "Global Climate & Weather Modeling Branch"
+    },
+    {
+      "paperId": null,
+      "title": "University of Hawaii at Manoa. The Generic Mapping Tools"
+    }
+  ]
+}

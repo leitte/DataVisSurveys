@@ -1,0 +1,408 @@
+{
+  "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+  "externalIds": {
+    "MAG": "2073800769",
+    "DBLP": "journals/tvcg/BrehmerM13",
+    "DOI": "10.1109/TVCG.2013.124",
+    "CorpusId": 1898069,
+    "PubMed": "24051804"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+  "title": "A Multi-Level Typology of Abstract Visualization Tasks",
+  "abstract": "The considerable previous work characterizing visualization usage has focused on low-level tasks or interactions and high-level tasks, leaving a gap between them that is not addressed. This gap leads to a lack of distinction between the ends and means of a task, limiting the potential for rigorous analysis. We contribute a multi-level typology of visualization tasks to address this gap, distinguishing why and how a visualization task is performed, as well as what the task inputs and outputs are. Our typology allows complex tasks to be expressed as sequences of interdependent simpler tasks, resulting in concise and flexible descriptions for tasks of varying complexity and scope. It provides abstract rather than domain-specific descriptions of tasks, so that useful comparisons can be made between visualization systems targeted at different application domains. This descriptive power supports a level of analysis required for the generation of new designs, by guiding the translation of domain-specific problems into abstract tasks, and for the qualitative evaluation of visualization usage. We demonstrate the benefits of our approach in a detailed case study, comparing task descriptions from our typology to those derived from related work. We also discuss the similarities and differences between our typology and over two dozen extant classification systems and theoretical frameworks from the literatures of visualization, human-computer interaction, information retrieval, communications, and cartography.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 84,
+  "openAccessPdf": {
+    "url": "http://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2376-2385",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Brehmer2013AMT,\n author = {M. Brehmer and T. Munzner},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2376-2385},\n title = {A Multi-Level Typology of Abstract Visualization Tasks},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2086011",
+      "name": "M. Brehmer"
+    },
+    {
+      "authorId": "1732016",
+      "name": "T. Munzner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+      "title": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
+    },
+    {
+      "paperId": "31f1a77f563a59e06618da383ec22e2d06b936ed",
+      "title": "The User Puzzle&#8212;Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": "405f960a999207e75acc3c039080bcd38fe38d37",
+      "title": "Cartographic Interaction Primitives: Framework and Synthesis"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "f099042d531da712fd1d76c0a4acb7bf873292b1",
+      "title": "The four-level nested model revisited: blocks and guidelines"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "4b0c019c63a8e12c61418ad30a5f074cc76efe4a",
+      "title": "Analysis within and between graphs: observed user strategies in immunobiology visualization"
+    },
+    {
+      "paperId": "76e9caf4a707115d363cf238764d6b38dcb2efcf",
+      "title": "Strategies for crowdsourcing social data analysis"
+    },
+    {
+      "paperId": "2c24b6742dd461372db0440474d9f3e52fecd255",
+      "title": "Exploring how and why people use visualizations in casual contexts: Modeling user goals and regulated motivations"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "7c3da93a1b6d4e496b325b991a5a51c9bd10a756",
+      "title": "Characterizing the intelligence analysis process: Informing visual analytics design through a longitudinal field study"
+    },
+    {
+      "paperId": "556874d339b329dc7fe22ebc4e2548402998314e",
+      "title": "A comparison of benchmark task and insight evaluation methods for information visualization"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "5c0d649c1b2ad406bdf3c8d7d5d473545f71f8b0",
+      "title": "The information flaneur: a fresh look at information seeking"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "5cba6753f58ae04056b711d8a7399d9ab8933007",
+      "title": "Discovery is never by chance: designing for (un)serendipity"
+    },
+    {
+      "paperId": "90ce27fb57174f708c0f2e1fc1e4e350cfc38bc3",
+      "title": "Integrating Statistics and Visualization for Exploratory Power: From Long-Term Case Studies to Design Guidelines"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "d06666816202d808cfbfa8c4ddfebb8c1e51adb2",
+      "title": "Patterns of coordination in Improvise visualizations"
+    },
+    {
+      "paperId": "7b8d86fcc8fcde959becdf698778d88d7cb28ddf",
+      "title": "Information Visualization: Design for Interaction (2nd Edition)"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "4fdf98ca739598636fa9d65bed0fd6701d9fb7fe",
+      "title": "A taxonomy of tasks for guiding the evaluation of multidimensional visualizations"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "69441f971efcf25c26d2d1ced6e127c7821c7cfe",
+      "title": "BEST PAPER: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "8d9416e1364c1d9f7269e70d029988dc00cc5da4",
+      "title": "The Humane Interface: New Directions for Designing Interactive Systems"
+    },
+    {
+      "paperId": "5c59c684260130d4fd435b0da729e01a13358c75",
+      "title": "Making sense of graphs: Critical factors influencing comprehension and instructional implications."
+    },
+    {
+      "paperId": "7ead315ffe71f95abce19fa77631b8dc951e0a8e",
+      "title": "Distributed cognition: toward a new foundation for human-computer interaction research"
+    },
+    {
+      "paperId": "9e0e3e873fad442cf477777e041a43a96d475625",
+      "title": "Understanding and facilitating the browsing of electronic text"
+    },
+    {
+      "paperId": "23b7ac33fd679d43b3a7df16c68862dfc7d303af",
+      "title": "Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "319c6098f7f94cf24c5c637b718e721449fd4a70",
+      "title": "The Visual Design and Control of Trellis Display"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "2a6680acf199910f14a61da5a25240d6b9c18bea",
+      "title": "Image-Browser Taxonomy and Guidelines for Designers"
+    },
+    {
+      "paperId": "d4f7411d0e836b583f2a5050761ae9a4961dae0e",
+      "title": "On Distinguishing Epistemic from Pragmatic Action"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "c208009e90e8cfafd31df97aba4166d801fb5682",
+      "title": "A Task-Based Cognitive Model for User-Network Interaction: Defining a Task Taxonomy to Guide the Interface Designer"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "85d5164d33e47b744cece039c0e0bf54ca1cea9d",
+      "title": "Task-analytic approach to the automated design of graphic presentations"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "64f16f68d835c0a948f9b3701e0113852a53f551",
+      "title": "The Play Theory of Mass Communication"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "7267f1915bea74bbfaad4309a79fc2a32f4dac29",
+      "title": "Hierarchical Clustering and Tagging of Mostly Disconnected Data"
+    },
+    {
+      "paperId": "bd34c3eb1c96301edde61a74e4deedce5dacf77a",
+      "title": "Developing an Extended Task Framework for Exploratory Data Analysis Along the Structure of Time"
+    },
+    {
+      "paperId": "422494a3c7e6bdbc6e467aebbc2f101f5c3d5f1b",
+      "title": "The Psychology of Everyday Things"
+    },
+    {
+      "paperId": "0f5cdc3bfc6f7179c02d3ecd88c0f9541eb59f28",
+      "title": "The User Puzzle - Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": null,
+      "title": "An empirically-derived taxonomy of cartographic interaction primitives"
+    },
+    {
+      "paperId": null,
+      "title": "Exploratory search: From finding to understanding"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "1291d96078bed9f7656004087b1b0e0767a72bed",
+      "title": "Virtual Reality Visualization of 3-D Electromagnetic Fields"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "0df4c63386e580c328444303f285788da9747e8a",
+      "title": "Typologies and Taxonomies: An Introduction to Classification Techniques, by Kennet D. Bailey"
+    }
+  ]
+}

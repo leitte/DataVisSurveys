@@ -1,0 +1,345 @@
+{
+  "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SchulzNHS13",
+    "MAG": "2023468127",
+    "DOI": "10.1109/TVCG.2013.120",
+    "CorpusId": 15065829,
+    "PubMed": "24051803"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/966f1485f34e48b3531bf9092bde884bcef56cb0",
+  "title": "A Design Space of Visualization Tasks",
+  "abstract": "Knowledge about visualization tasks plays an important role in choosing or building suitable visual representations to pursue them. Yet, tasks are a multi-faceted concept and it is thus not surprising that the many existing task taxonomies and models all describe different aspects of tasks, depending on what these task descriptions aim to capture. This results in a clear need to bring these different aspects together under the common hood of a general design space of visualization tasks, which we propose in this paper. Our design space consists of five design dimensions that characterize the main aspects of tasks and that have so far been distributed across different task descriptions. We exemplify its concrete use by applying our design space in the domain of climate impact research. To this end, we propose interfaces to our design space for different user roles (developers, authors, and end users) that allow users of different levels of expertise to work with it.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 67,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2366-2375",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Schulz2013ADS,\n author = {Hans-J\u00f6rg Schulz and T. Nocke and M. Heitzler and H. Schumann},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2366-2375},\n title = {A Design Space of Visualization Tasks},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "37120614",
+      "name": "Hans-J\u00f6rg Schulz"
+    },
+    {
+      "authorId": "1690838",
+      "name": "T. Nocke"
+    },
+    {
+      "authorId": "3261778",
+      "name": "M. Heitzler"
+    },
+    {
+      "authorId": "143789114",
+      "name": "H. Schumann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+      "title": "A Task Taxonomy for Network Evolution Analysis"
+    },
+    {
+      "paperId": "6d85efd3b102027a0abcfcd9c50a0739fdd7f1f5",
+      "title": "The Five Ws for Information Visualization with Application to Healthcare Informatics"
+    },
+    {
+      "paperId": "63b242c49faa76e50715bb2cc255fcc86892c5c6",
+      "title": "Capturing the Design Space of Sequential Space-Filling Layouts"
+    },
+    {
+      "paperId": "62006164f80cc863c6cb683ea65d0e056b906794",
+      "title": "Note-taking in co-located collaborative visual analytics: Analysis of an observational study"
+    },
+    {
+      "paperId": "91f8994c6e7cd8c94134cccf6833bcd31f60c056",
+      "title": "Model-Driven Design for the Visual Analysis of Heterogeneous Data"
+    },
+    {
+      "paperId": "9afdc10a8e8323942137f1e6a6a57e12fd8dfc77",
+      "title": "Understanding user intentions in Pervasive Computing Environment"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "d36a726f827ae6e09aa1d633c255ece1d058b227",
+      "title": "User-Oriented Graph Visualization Taxonomy: A Data-Oriented Examination of Visual Features"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "de1dc293dc69ee2e1e68da3f5871046488762fce",
+      "title": "Towards a Unifying Visualization Ontology"
+    },
+    {
+      "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+      "title": "The Design Space of Implicit Hierarchy Visualization: A Survey"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "b82fdfcc95aa1fd70c49c74a2e58797c91f81cf2",
+      "title": "ComVis: A Coordinated Multiple Views System for Prototyping New Visualization Technology"
+    },
+    {
+      "paperId": "f95843b8c2a6246e3ba1be0cdd26c650f64c10d1",
+      "title": "Bringing semantics to visualization services"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "70a495c2cc877839b910916533f8d90f32fb4ad2",
+      "title": "Visual exploration and evaluation of climate-related simulation data"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "4fdf98ca739598636fa9d65bed0fd6701d9fb7fe",
+      "title": "A taxonomy of tasks for guiding the evaluation of multidimensional visualizations"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "4859c987fc1974002dbb8841165367df126aaffe",
+      "title": "Relationships between precipitation and surface temperature"
+    },
+    {
+      "paperId": "75219893823d5d5f4242682ce1b3548b02c90044",
+      "title": "Framework for spatial visual design of abstract information"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "36a740e7f7e4dad38705022bc4235bda1cd12b93",
+      "title": "Building an Ontology of Visualization"
+    },
+    {
+      "paperId": "69441f971efcf25c26d2d1ced6e127c7821c7cfe",
+      "title": "BEST PAPER: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "30febe8b5ea6e6e55c545d5cc45d1ca437b0021f",
+      "title": "GGobi: evolving from XGobi into an extensible framework for interactive data visualization"
+    },
+    {
+      "paperId": "4d06a4ef319ece32bd9d21b2e10ef663685d32f7",
+      "title": "Evaluating visualizations: using a taxonomic guide"
+    },
+    {
+      "paperId": "959ccd3ab68827fdcbd057d126d1154a9755e540",
+      "title": "GADGET/IV: a taxonomic approach to semi-automatic design of information visualization applications using modular visualization environment"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "5bc398287b755128287f2489e5c60a444b5c6485",
+      "title": "TADEUS: seamless development of task-based and user-oriented interfaces"
+    },
+    {
+      "paperId": "ea165c50063bb01c87f867b2596014a0e5ffbc45",
+      "title": "Task Analysis for Information Visualization"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "55df821c8d5ac78b5e55c630863302496189764a",
+      "title": "ConcurTaskTrees: A Diagrammatic Notation for Specifying Task Models"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "c430e684e5f99874cb8abb49cc89812193ab4bfa",
+      "title": "Data characterization for automatically visualizing heterogeneous information"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "f00268519f3080992e05947674c320c340230206",
+      "title": "Interactive Visualisation Artifacts: How can Abstractions Inform Design?"
+    },
+    {
+      "paperId": "ba2e217829c2f2892bae304bed83ea25295cfb79",
+      "title": "E3: Towards the Metrication of Graphical Presentation Techniques for Large Data Sets"
+    },
+    {
+      "paperId": "cbed07b76b3387946ab76c3bce77cab10103bf61",
+      "title": "AutoVisual: rule-based design of interactive multivariate visualizations"
+    },
+    {
+      "paperId": "4e8325462fa907c13e5be8dc4b5fe911f4e65f41",
+      "title": "Visual cues - practical data visualization"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "85d5164d33e47b744cece039c0e0bf54ca1cea9d",
+      "title": "Task-analytic approach to the automated design of graphic presentations"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "1d5eceebc40c57731a5375b67966e84151a639d7",
+      "title": "A methodology for scientific data visualisation: choosing representations based on a natural scene paradigm"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "f4f3234cb6bd146872453d00e26a4741e216dc95",
+      "title": "Interaction Taxonomy for Tracking of User Actions in Visual Analytics Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Sensemaking processes of intelligence analysts and possible leverage points as identi\ufb01ed through cognitive task analysis"
+    },
+    {
+      "paperId": "250b25d40f365297e9843be6308421ecab4d530f",
+      "title": "Goals of Analysis for Visualization and Visual Data Mining Tasks"
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": "80ddc6af54a6dc309d60f9b9de4552440fb7bb52",
+      "title": "A Unified Taxonomic Framework for Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "APVIS\u201903"
+    },
+    {
+      "paperId": "f024750dea958eaee5fa52d385bb50c0af4c6a7b",
+      "title": "A Meta-Taxonomy for Diagram Research"
+    },
+    {
+      "paperId": "9fed91b27fb76e2c0fc7f65f05e366bde7e7bbef",
+      "title": "The Language of Graphics: A Framework for the Analysis of Syntax and Meaning in Maps, Charts and Diagrams"
+    },
+    {
+      "paperId": "b7d3e641d03942da97023d38c413b7fc141133ba",
+      "title": "A Task-Model for Text Corpus Analysis in Knowledge Management"
+    },
+    {
+      "paperId": "5f20c416016fbb7a3d9832c6e5b5e288b020e983",
+      "title": "The Dimensions of Context-Space"
+    },
+    {
+      "paperId": null,
+      "title": "The five W's: An old tool for the new task of task analysis"
+    },
+    {
+      "paperId": "9aa7b2d0f45ea3401149e3d06c0107e9dbaa8bb7",
+      "title": "Cases, scripts, and information-seeking strategies: On the design of interactive information retrieval systems"
+    },
+    {
+      "paperId": "9143ce3e6ae3f59d83b0b90cebacd6fdde41fb16",
+      "title": "An Intelligent System for Task-specific Visualization Assistance"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": "57b39446efb7aaa4cc0d44930ac1330c22adfe63",
+      "title": "The Correlation between Temperature and Precipitation in the United States and Europe"
+    },
+    {
+      "paperId": null,
+      "title": "compound tasks"
+    }
+  ]
+}

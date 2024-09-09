@@ -1,0 +1,453 @@
+{
+  "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+  "externalIds": {
+    "MAG": "2154391837",
+    "DBLP": "journals/tvcg/AhnPS14",
+    "DOI": "10.1109/TVCG.2013.238",
+    "CorpusId": 1158298,
+    "PubMed": "24434218"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+  "title": "A Task Taxonomy for Network Evolution Analysis",
+  "abstract": "Visualization has proven to be a useful tool for understanding network structures. Yet the dynamic nature of social media networks requires powerful visualization techniques that go beyond static network diagrams. To provide strong temporal network visualization tools, designers need to understand what tasks the users have to accomplish. This paper describes a taxonomy of temporal network visualization tasks. We identify the 1) entities, 2) properties, and 3) temporal features, which were extracted by surveying 53 existing temporal network visualization systems. By building and examining the task taxonomy, we report which tasks are well covered by existing systems and make suggestions for designing future visualization tools. The feedback from 12 network analysts helped refine the taxonomy.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 94,
+  "openAccessPdf": {
+    "url": "http://hcil.cs.umd.edu/trs/2011-09/2011-09.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-03-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "365-376",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ahn2014ATT,\n author = {Jae-wook Ahn and C. Plaisant and B. Shneiderman},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {365-376},\n title = {A Task Taxonomy for Network Evolution Analysis},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "41077280",
+      "name": "Jae-wook Ahn"
+    },
+    {
+      "authorId": "1764846",
+      "name": "C. Plaisant"
+    },
+    {
+      "authorId": "1740403",
+      "name": "B. Shneiderman"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "abea4af3ee2a8990966a37bf774b26a60c1f4ea7",
+      "title": "Visually Exploring Social Participation in Encyclopedia of Life"
+    },
+    {
+      "paperId": "b63088f825a78919fa9a10c2ee5ef565459d5268",
+      "title": "Network Analysis: Methodological Foundations"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "5ab329742d9463c2333914a2ce61a17c4afc2872",
+      "title": "SAVE: Sensor anomaly visualization engine"
+    },
+    {
+      "paperId": "7aa045fb4d980a6f16a57f24d5e31cac754b1658",
+      "title": "In Situ Exploration of Large Dynamic Networks"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "12ff296848c4d87c9fc611d2a731f36b44c0eeea",
+      "title": "Sociology. Social scientists wade into the tweet stream."
+    },
+    {
+      "paperId": "755b1d77b7e1436dce7fafeb17e3e7c4f1fa38aa",
+      "title": "LifeFlow: visualizing an overview of event sequences"
+    },
+    {
+      "paperId": "f26be70934c46adcb60e16c94cd015e0442e0dcd",
+      "title": "Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors"
+    },
+    {
+      "paperId": "40313709a1b51e9fe9dbd37cd8a228d06022fff0",
+      "title": "Peaks and persistence: modeling the shape of microblog conversations"
+    },
+    {
+      "paperId": "8ac24fd7e191a15f54e2dd67b41109ddda4654dc",
+      "title": "Event-Based Concepts for User-Driven Visualization"
+    },
+    {
+      "paperId": "83d0c5d07dc604c71ea9313ce1c109b3c9fd3ea8",
+      "title": "Detecting Novel Discrepancies in Communication Networks"
+    },
+    {
+      "paperId": "cabeeb786af33ffc821802d9327ad8161e7b8624",
+      "title": "Modeling the temporal evolution of an online cancer forum"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "effa683ec6111aaf4b4d29ab2fb26b832844d9e1",
+      "title": "Networks: An Introduction"
+    },
+    {
+      "paperId": "91cba251832a4fa38765d127763fbbe5e34c3569",
+      "title": "Protovis: A Graphical Toolkit for Visualization"
+    },
+    {
+      "paperId": "415832e83741f105731003616935321506b8c221",
+      "title": "Concurrent partnerships and HIV prevalence disparities by race: linking science and public health practice."
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "6d090855f2afd16b02f713367d58cc4fb3085a2a",
+      "title": "Cell phone mini challenge award: Intuitive social network graphs visual analytics of cell phone data using mobivis and ontovis"
+    },
+    {
+      "paperId": "22a2b0346fdc8cf3be5f083b8d161773d07cd3ba",
+      "title": "Cell phone Mini Challenge: Node-link animation award animating multivariate dynamic social networks"
+    },
+    {
+      "paperId": "fa63fef103ea0abf6be78bd3d9a56ed41f43ae31",
+      "title": "Award: Efficient toolkit integration solving the cell phone calls challenge with the Prajna Project"
+    },
+    {
+      "paperId": "47ce8a836cdae23154a548a6c0ce23aa552416c5",
+      "title": "Interactive poster - SocialRank: An ego- and time-centric workflow for relationship identification"
+    },
+    {
+      "paperId": "13db81c7508667ea5b9c31cb282a09b1392cb9c3",
+      "title": "Cell phone mini challenge award: Social network accuracy\u2014 exploring temporal communication in mobile call graphs"
+    },
+    {
+      "paperId": "d784dafdc55fc3fea333693f1a12a5546ed504af",
+      "title": "VAST 2008 Challenge: Introducing mini-challenges"
+    },
+    {
+      "paperId": "88659a25acb87f61fe5e3139ffe7786477955a4e",
+      "title": "Aligning temporal data by sentinel events: discovering patterns in electronic health records"
+    },
+    {
+      "paperId": "033b65df3aa498114696e82969d824fac108d1b1",
+      "title": "Visual analysis of dynamic group membership in temporal social networks"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "d5c5bfa7d5229b928b4606e7977e11abe4b1427f",
+      "title": "Visual Analysis of Dynamic Networks with Geological Clustering"
+    },
+    {
+      "paperId": "6f1e82099f7e924647b20346ed17feea80892e76",
+      "title": "Towards Visual Exploration of Topic Shifts"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "a0df4c9b5614417326d21f5d595f5a727e8b3a36",
+      "title": "Quantifying social group evolution"
+    },
+    {
+      "paperId": "82ec7b2555c844ed47b303313e767ad114999d04",
+      "title": "The Evolution of Inventor Networks in the silicon Valley and Boston Regions"
+    },
+    {
+      "paperId": "34832ea0d959d58d24d4a1c0be7b1c8f9e0c623f",
+      "title": "Exploring auction databases through interactive visualization"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "01c3c86c5d68765438c7e191c054c5f9750f4073",
+      "title": "Balancing Systematic and Flexible Exploration of Social Networks"
+    },
+    {
+      "paperId": "987bf5df4cfdc54bc6e941c9fa6e7016333c6ccb",
+      "title": "Processing: programming for the media arts"
+    },
+    {
+      "paperId": "bacecff57019c9a4424963053feffecff94b6ba6",
+      "title": "Analyzing Actors and Their Discussion Topics by Semantic Social Network Analysis"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "3da612622a69c6999098f7d9b455a859ec0036fc",
+      "title": "Experimental study on evaluation of multidimensional information visualization techniques"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "3f633fb2a2efb38619c429cb174e1670b0c25f46",
+      "title": "Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "5b73370f4c1fd503fea97ae48533b6d516737cf5",
+      "title": "Interactive pattern search in time series"
+    },
+    {
+      "paperId": "c42fa361f0235a71ca34930f821d3c09608cd4a8",
+      "title": "Exploring InfoVis Publication History with Tulip"
+    },
+    {
+      "paperId": "eb877cb4839816418139b12c979487cc238f982f",
+      "title": "Inferring and visualizing social networks on Internet relay chat"
+    },
+    {
+      "paperId": "e26f4028e79f00cb90ef748eef54a666892ebb48",
+      "title": "Dynamic Query Tools for Time Series Data Sets: Timebox Widgets for Interactive Exploration"
+    },
+    {
+      "paperId": "0e0f9729dbfd50bba1bc504f487fc5a1dec4c097",
+      "title": "Visualizing evolving networks: minimum spanning trees versus pathfinder networks"
+    },
+    {
+      "paperId": "08b39cbabc2c5b764a85a0193296f83e23a62934",
+      "title": "Finding and evaluating community structure in networks."
+    },
+    {
+      "paperId": "18bb3164dff96dd5326b816a703bfa5564b28f7d",
+      "title": "Visual unrolling of network evolution and the analysis of dynamic discourse"
+    },
+    {
+      "paperId": "894b7897dc2143c5e8db666766cf59637a7c7b82",
+      "title": "Network motifs: simple building blocks of complex networks."
+    },
+    {
+      "paperId": "1b5ba0e160b6d42e03429bb2edda786f1e7b0718",
+      "title": "Time Matters: On Theory and Method"
+    },
+    {
+      "paperId": "55df821c8d5ac78b5e55c630863302496189764a",
+      "title": "ConcurTaskTrees: A Diagrammatic Notation for Specifying Task Models"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "01f4112e9ce1cca76c152ffd8836fcb18f7cfc63",
+      "title": "A morphological analysis of the design space of input devices"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "22411e7403b62f46d1e4b28ca773114cc0a76900",
+      "title": "The design space of input devices"
+    },
+    {
+      "paperId": "c52f657964a8014e72d925768e2dcab23819abc5",
+      "title": "Social Network Analysis"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "53283039aabcbf3faa05ff889c10a9dd3a050c8f",
+      "title": "Whistle-Blowing: The Perils of Professional Dissent"
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www.computer.org/publications/dlib"
+    },
+    {
+      "paperId": "f442d73d3ea5640958f3f22757af5f3fa132d040",
+      "title": "MatrixFlow: Temporal Network Visual Analytics to Track Symptom Evolution during Disease Progression"
+    },
+    {
+      "paperId": "8b9dbe037465bf9a06aa27848cc63795839b48a2",
+      "title": "The Dynamics of Web-Based Community Safety Groups : Lessons Learned from the Nation of Neighbors"
+    },
+    {
+      "paperId": "eb41a092cdef22cf247487b7d2e51c563bf4a98d",
+      "title": "Shape Identification in Temporal Data Sets"
+    },
+    {
+      "paperId": "7af631074fc67376cc7d292c0ec2ce5b343b88b4",
+      "title": "AIS Transactions on Human-Computer Interaction"
+    },
+    {
+      "paperId": null,
+      "title": "An Empirically-Derived Taxonomy of Cartographic Interaction Primitives"
+    },
+    {
+      "paperId": "792f69d000c8c951bda5bea901b49df1540020fd",
+      "title": "In the Limelight Over Time: Temporalities of Network Centrality"
+    },
+    {
+      "paperId": "b74554e0f7b0c05e0eb9cc25da17ef7c06d06817",
+      "title": "Analyzing Social Media Networks with NodeXL: Insights from a Connected World"
+    },
+    {
+      "paperId": null,
+      "title": "Modeling User Acceptance of Internal Microblogging at Work"
+    },
+    {
+      "paperId": null,
+      "title": "Bajec Twitter Lyrics"
+    },
+    {
+      "paperId": null,
+      "title": "EmailTime: Visual Analytics of Emails"
+    },
+    {
+      "paperId": "766b26e37336af9a58c787c8e558ceea7d9c7ede",
+      "title": "The Spread of Obesity in a Large Social Network over 32 Years"
+    },
+    {
+      "paperId": null,
+      "title": "McInerny The Evolution of the Origin of Species, http://www.itsbeenreal.co.uk/index.php?/on-going/ about"
+    },
+    {
+      "paperId": null,
+      "title": "The Births, Marriages and Deaths of London's Digital Creative Agencies"
+    },
+    {
+      "paperId": null,
+      "title": "Vespignani Exposing Contact Patterns"
+    },
+    {
+      "paperId": null,
+      "title": "fm Spring Graph"
+    },
+    {
+      "paperId": null,
+      "title": "Arikan Growth of a Twitter Graph, http://burak-arikan.com/ growth-of-a-twitter-graph"
+    },
+    {
+      "paperId": "b8c05f793543df1edcb08ffdd8a53b889eeb7ba1",
+      "title": "Analyzing the Dynamics of Community Formation Using Brokering Activities"
+    },
+    {
+      "paperId": null,
+      "title": "Baker Email Map, http://christopherbaker.net/projects/ mymap"
+    },
+    {
+      "paperId": null,
+      "title": "Arikan Transactions graph, http://turbulence.org/Works/ mypocket/graph/images"
+    },
+    {
+      "paperId": "afd055e299d590df03d4fbd632a49845071567c0",
+      "title": "The Art and Science of Dynamic Network Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Stamen Design, Backchannel, http://stamen.com/projects/ backchannel"
+    },
+    {
+      "paperId": null,
+      "title": "Dalton Micro Fashion Network: Color, http:// plw.media.mit.edu/people/arikan"
+    },
+    {
+      "paperId": null,
+      "title": "Enron Offers an Unlikely Boost to E-Mail Surveillance"
+    },
+    {
+      "paperId": null,
+      "title": "Temporal Visualization and Analysis of Social Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Genetic Programming Treevisualizer, http:// www.geneffects.com/genetic-programming"
+    },
+    {
+      "paperId": null,
+      "title": "Network Dynamics and Field Evolution : The Growth of Interorganizational Collaboration in the Life Sciences"
+    },
+    {
+      "paperId": null,
+      "title": "Infovis 2003 Contest -General Tasks Applicable to Most Trees"
+    },
+    {
+      "paperId": "497db5f0789c4bac7d27905527c5ffdebacab5d3",
+      "title": "Information Dynamics in the Networked World"
+    },
+    {
+      "paperId": null,
+      "title": "Cheswick Internet Mapping Project"
+    },
+    {
+      "paperId": null,
+      "title": "Bork Biology in Four Dimensions"
+    },
+    {
+      "paperId": "622abda156dc7c481ff8ab9b9910ec8821d4d175",
+      "title": "Social Network Analysis: Methods and Applications"
+    }
+  ]
+}

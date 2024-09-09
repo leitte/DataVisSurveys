@@ -1,0 +1,214 @@
+{
+  "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+  "externalIds": {
+    "MAG": "2171892642",
+    "DBLP": "journals/tvcg/BeckKW16",
+    "DOI": "10.1109/TVCG.2015.2467757",
+    "CorpusId": 16156736,
+    "PubMed": "26529698"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/695df5787a48097acc4447d4aa0c78137bdeca3b",
+  "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis",
+  "abstract": "Bibliographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2016,
+  "referenceCount": 35,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-01-31",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "180-189",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Beck2016VisualAA,\n author = {Fabian Beck and Sebastian Koch and D. Weiskopf},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {180-189},\n title = {Visual Analysis and Dissemination of Scientific Literature Collections with SurVis},\n volume = {22},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "46905197",
+      "name": "Fabian Beck"
+    },
+    {
+      "authorId": "1849993064",
+      "name": "Sebastian Koch"
+    },
+    {
+      "authorId": "69863469",
+      "name": "D. Weiskopf"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "62bea5feeadf6e6ba98e43c77e9d342ca5dd0f57",
+      "title": "CiteRivers: Visual Analytics of Citation Patterns"
+    },
+    {
+      "paperId": "3ff6f9ab411a2a7769d20910a34111cf1367512f",
+      "title": "Rethinking User Interfaces for Feature Location"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "f5bdb05e22c8a09b3b3d201b76551689195e6788",
+      "title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets"
+    },
+    {
+      "paperId": "339194638736eca3229ea2252f110b53aeff17d6",
+      "title": "Exploring Scholarly Data with Rexplore"
+    },
+    {
+      "paperId": "dd2ee089a6626d8d31a3219d1d529d25e02d45df",
+      "title": "Visual monitoring of numeric variables embedded in source code"
+    },
+    {
+      "paperId": "1a9483b429df8d381a9362e4175c376fdeee8cbd",
+      "title": "In situ understanding of performance bottlenecks through visually augmented code"
+    },
+    {
+      "paperId": "4652f8f15f24278c513e8089a61e059f62ae7ab5",
+      "title": "Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "60c494327a4080cff5381c64fd76c2d971fb3371",
+      "title": "Citeology: visualizing paper genealogy"
+    },
+    {
+      "paperId": "746a54bbfee0c6883c61f964cad98c720d55d457",
+      "title": "Asymmetric Relations in Longitudinal Social Networks"
+    },
+    {
+      "paperId": "31e2f7c599cd5cd621f13932186db352be4d8eea",
+      "title": "PaperVis: Literature Review Made Easy"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "e3df511dcd7bfc42068dff8a60d78c77dbfe255e",
+      "title": "Iterative Integration of Visual Insights during Scalable Patent Search and Analysis"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "7f9816bcc615c83ca4ada0eef415032761de60f6",
+      "title": "Augmenting the exploration of digital libraries with web-based visualizations"
+    },
+    {
+      "paperId": "3107bd18418e9e69635c0c297767a67ac2c9ddba",
+      "title": "Iterative integration of visual insights during patent search and analysis"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "7ca9aaf0f560003226cf7dc0b2f7558325b40b6e",
+      "title": "CiteWiz: A Tool for the Visualization of Scientific Citation Networks"
+    },
+    {
+      "paperId": "003f5138da166126d27ebba9b44aca449a041d39",
+      "title": "INSYDER: a content-based visual-information-seeking system for the Web"
+    },
+    {
+      "paperId": "4bc2d01056336caee7fecb3230f38b6bec7ce591",
+      "title": "TileBars: visualization of term distribution information in full text information access"
+    },
+    {
+      "paperId": "98c11f20e5b3ef000e0faab0d973070de873a0de",
+      "title": "The State of the Art in Visualizing Group Structures in Graphs"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+      "title": "State of the Art of Performance Visualization"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "7638c0dd4dbc791ec64b009467db7733ecf19d98",
+      "title": "State-of-the-Art of Visualization for Eye Tracking Data"
+    },
+    {
+      "paperId": "a71737a811860622dc4866f623a616ba131bb367",
+      "title": "Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "A quasi-systematic review on software visualization approaches for software reuse"
+    },
+    {
+      "paperId": "1efd94a501a2c913a2355918af5d053a00dcccb2",
+      "title": "VisIRR: Interactive Visual Information Retrieval and Recommendation for Large-scale Document Data"
+    },
+    {
+      "paperId": "437f93d518436bb3e5e90c36086551e6cfc6550c",
+      "title": "CiteVis : Exploring Conference Paper Citation Data Visually"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "b2c1cc037013fbbc8a0a4ed8f14de96ef698d6dc",
+      "title": "Beautiful Evidence"
+    },
+    {
+      "paperId": "1e190415f17b195cfdcfdd168c13836672ea11fa",
+      "title": "Visualization Viewpoints"
+    },
+    {
+      "paperId": null,
+      "title": "Modern information retrieval , volume 463"
+    }
+  ]
+}

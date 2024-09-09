@@ -1,0 +1,506 @@
+{
+  "paperId": "ec84a2f5011afb9c39ba96e046848bb1b0ffd1ff",
+  "externalIds": {
+    "DBLP": "journals/tvcg/BhatiaNPB13a",
+    "MAG": "1967421663",
+    "DOI": "10.1109/TVCG.2012.316",
+    "CorpusId": 3041521,
+    "PubMed": "23744268"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/ec84a2f5011afb9c39ba96e046848bb1b0ffd1ff",
+  "title": "The Helmholtz-Hodge Decomposition&#x2014;A Survey",
+  "abstract": "The Helmholtz-Hodge Decomposition (HHD) describes the decomposition of a flow field into its divergence-free and curl-free components. Many researchers in various communities like weather modeling, oceanology, geophysics, and computer graphics are interested in understanding the properties of flow representing physical phenomena such as incompressibility and vorticity. The HHD has proven to be an important tool in the analysis of fluids, making it one of the fundamental theorems in fluid dynamics. The recent advances in the area of flow analysis have led to the application of the HHD in a number of research communities such as flow visualization, topological analysis, imaging, and robotics. However, because the initial body of work, primarily in the physics communities, research on the topic has become fragmented with different communities working largely in isolation often repeating and sometimes contradicting each others results. Additionally, different nomenclature has evolved which further obscures the fundamental connections between fields making the transfer of knowledge difficult. This survey attempts to address these problems by collecting a comprehensive list of relevant references and examining them using a common terminology. A particular focus is the discussion of boundary conditions when computing the HHD. The goal is to promote further research in the field by creating a common repository of techniques to compute the HHD as well as a large collection of example applications in a broad range of areas.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 106,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2013-08-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1386-1404",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bhatia2013TheHD,\n author = {H. Bhatia and Gregory Norgard and Valerio Pascucci and P. Bremer},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1386-1404},\n title = {The Helmholtz-Hodge Decomposition&#x2014;A Survey},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144992420",
+      "name": "H. Bhatia"
+    },
+    {
+      "authorId": "21571150",
+      "name": "Gregory Norgard"
+    },
+    {
+      "authorId": "1685087",
+      "name": "Valerio Pascucci"
+    },
+    {
+      "authorId": "145466013",
+      "name": "P. Bremer"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5fd00097991c312342a35ca5b635adc811f2aaf8",
+      "title": "Comments on the \"Meshless Helmholtz-Hodge Decomposition\""
+    },
+    {
+      "paperId": "0efd34c4cc8854d734dc11ff4931b9f0b61cee0a",
+      "title": "Regularisation of the Helmholtz decomposition and its application to geomagnetic field modelling"
+    },
+    {
+      "paperId": "7d5436149a44fce88169218b60c0fc708e81dc7c",
+      "title": "Finite volume method"
+    },
+    {
+      "paperId": "7d9f6661ab9a195ee5d55dfbccc620b9555f8ed2",
+      "title": "Optimizing coordinate choice for locomoting systems"
+    },
+    {
+      "paperId": "0bdd62b291f45574d76c4092b7af0bfef487fa53",
+      "title": "Singular point detection using Discrete Hodge Helmholtz Decomposition in fingerprint images"
+    },
+    {
+      "paperId": "2bf4170ff37a694f4468872e50187e9f3abc2aae",
+      "title": "Meshless Helmholtz-Hodge Decomposition"
+    },
+    {
+      "paperId": "dacefdc387b04ab017f2925722097aba1712e562",
+      "title": "The Neumann Problem and Helmholtz Decomposition in Convex Domains"
+    },
+    {
+      "paperId": "c49b50322ab56080b0e781a401b8fd13118aeda0",
+      "title": "Spatial reasoning for robot navigation using the Helmholtz-Hodge decomposition of omnidirectional optical flow"
+    },
+    {
+      "paperId": "348bffb2d85794d3b7d2db3688cb4d8bda46b35e",
+      "title": "On Helmholtz decompositions and their generalizations\u2014An overview"
+    },
+    {
+      "paperId": "04a1079f1205ab0f782ba214443e897a0d7d7d87",
+      "title": "4D MAP Image Reconstruction Incorporating Organ Motion"
+    },
+    {
+      "paperId": "d8c6493bf5a5d88143b2c047102430c700f2c60a",
+      "title": "Physically-based fluid animation: A survey"
+    },
+    {
+      "paperId": "b5e02309462600d857ade27385bf877fbd09ca65",
+      "title": "Fluid Simulation for Computer Graphics"
+    },
+    {
+      "paperId": "08f07e546e2086f25b820f451d07f20bb4710315",
+      "title": "Refined error estimates for matrix-valued radial basis functions"
+    },
+    {
+      "paperId": "170976415e6fbec4197845f9448516e1ac349f2f",
+      "title": "Design of tangent vector fields"
+    },
+    {
+      "paperId": "1710bdb0ccaa647a4a1c7533b21e8be45360b49b",
+      "title": "A primal formulation for the Helmholtz decomposition"
+    },
+    {
+      "paperId": "8444d779c53a96968b04be5f8fb04e3e055abd84",
+      "title": "Computation of Localized Flow for Steady and Unsteady Vector Fields and Its Applications"
+    },
+    {
+      "paperId": "85f9204814b3dd7d2c9207b25297f90d463d4810",
+      "title": "A second order accurate projection method for the incompressible Navier-Stokes equations on non-graded adaptive grids"
+    },
+    {
+      "paperId": "42e794f44294c624e8237023efecd1a579a8ac45",
+      "title": "A supra-convergent finite difference scheme for the variable coefficient Poisson equation on non-graded grids"
+    },
+    {
+      "paperId": "7eb50f284c9ec4fde2816355513138851ccf708c",
+      "title": "Helmholtz decomposition coupling rotational to irrotational flow of a viscous fluid"
+    },
+    {
+      "paperId": "da77845b9a18e7f8a3616782471af51041f71227",
+      "title": "Edge subdivision schemes and the construction of smooth vector fields"
+    },
+    {
+      "paperId": "3b92e8c578dd3164b43ecbc6aa08669c6625b86c",
+      "title": "Divergence-free and curl-free wavelets in two dimensions and three dimensions: application to turbulent flows"
+    },
+    {
+      "paperId": "9c8586edc04c927831e9db75a33c8a732c8fc9a4",
+      "title": "Energy transfers in forced MHD turbulence"
+    },
+    {
+      "paperId": "6f25c6b36c6f2eb83f82fd9d9aefcc7f9b9e987b",
+      "title": "Applications of the Discrete Hodge Helmholtz Decomposition to Image and Video Processing"
+    },
+    {
+      "paperId": "50d176a68ea2088d6256ef192a5fdf7a27f41f5e",
+      "title": "Smoothed particle hydrodynamics"
+    },
+    {
+      "paperId": "3fb5215f75744974f53b811c8fa2dacb54f52850",
+      "title": "Efficient Hodge-Helmholtz decomposition of motion fields"
+    },
+    {
+      "paperId": "a79d7fbb46b4eb5047c0b9c810a83f1f002fe1c3",
+      "title": "Stability of approximate projection methods on cell-centered grids"
+    },
+    {
+      "paperId": "a3d92b21d0adfe83e4eb0088fa74622653ef6e51",
+      "title": "Turbulence convection and oscillations in the sun"
+    },
+    {
+      "paperId": "9903e6c9c6462b91e37cc64ec161c88f20f2ba58",
+      "title": "Physically Based Rendering: From Theory to Implementation"
+    },
+    {
+      "paperId": "a940c15e292246600c8191974a89307da373299a",
+      "title": "Simulating water and smoke with an octree data structure"
+    },
+    {
+      "paperId": "c3fe748222d7ce71969bd5d583aaece971fd3abc",
+      "title": "Gerris: a tree-based adaptive solver for the incompressible Euler equations in complex geometries"
+    },
+    {
+      "paperId": "7f57184d2f61fea65c996cd7417c9d78b7e7b42c",
+      "title": "On the application of the Helmholtz\u2013Hodge decomposition in projection methods for incompressible flows with general boundary conditions"
+    },
+    {
+      "paperId": "d2d6c7e2f19a889dcc54293df2e1260988563448",
+      "title": "Discrete multiscale vector field decomposition"
+    },
+    {
+      "paperId": "e639823c770866c62d34ecb691dfdfc53d84c732",
+      "title": "Vector Calculus and the Topology of Domains in 3-Space"
+    },
+    {
+      "paperId": "37b2e6afef82476c5511f119d1b00766faf8f7d1",
+      "title": "Visual simulation of smoke"
+    },
+    {
+      "paperId": "a7e0fb9e9be532fef795788ee268e7080885566d",
+      "title": "A Galerkin implementation of the generalized Helmholtz decomposition of vorticity formulations"
+    },
+    {
+      "paperId": "978a511ca30a6c5af90456800efb5548ddad4e6f",
+      "title": "Accurate projection methods for the incompressible Navier\u2014Stokes equations"
+    },
+    {
+      "paperId": "c8b05994ca1acb51e28385857a5c5cbe59a755e9",
+      "title": "A Simple Fluid Solver Based on the FFT"
+    },
+    {
+      "paperId": "60369906bed9c9b22cc908bfc007576e65c16e5b",
+      "title": "Sur une m\u00e9thode de projection vectorielle pour la r\u00e9solution des \u00e9quations de Navier-Stokes"
+    },
+    {
+      "paperId": "20103f8ae16617a20d17f69b7e3e9a6b5fd71f6c",
+      "title": "Stable fluids"
+    },
+    {
+      "paperId": "5c0304bcab882b8965b1708bcd58d8167566aad5",
+      "title": "An SPH Projection Method"
+    },
+    {
+      "paperId": "0e482a41c7dde8c15a31ed906505b4d4c8de0782",
+      "title": "Vector potentials in three-dimensional non-smooth domains"
+    },
+    {
+      "paperId": "05d594522b3fec95a0166a187394aaf49bc0297a",
+      "title": "Modeling the motion of a hot, turbulent gas"
+    },
+    {
+      "paperId": "669958d7cd6b5581339c1116fa4e9241f12daa28",
+      "title": "A Numerical Method for Solving Incompressible Viscous Flow Problems"
+    },
+    {
+      "paperId": "b901d6ea5927fd1aef6952db96e0f83e09c05045",
+      "title": "Realistic Animation of Liquids"
+    },
+    {
+      "paperId": "3199f1457dd068f9382fedbf99819bdfa59a8446",
+      "title": "Depicting fire and other gaseous phenomena using diffusion processes"
+    },
+    {
+      "paperId": "772eab351e3f04f1567c7f02c86e83b54506942d",
+      "title": "Projection method I: convergence and numerical boundary layers"
+    },
+    {
+      "paperId": "c7e58b26076f2d847680d7e9628f0a12949b30c5",
+      "title": "Generalized Hermite interpolation via matrix-valued conditionally positive definite functions"
+    },
+    {
+      "paperId": "b45dd83b51edc56c3ef5317188603f09111f7002",
+      "title": "A Second-Order Projection Method for Variable- Density Flows*"
+    },
+    {
+      "paperId": "df23b3b4197baf410aee2f8ec01087dbf24d2ded",
+      "title": "Unique tomographic reconstruction of vector fields using boundary data"
+    },
+    {
+      "paperId": "38701178499316d84bb6e3426a63269ee2d49ca2",
+      "title": "Helmholtz decomposition of surface electric current in electromagnetic scattering problems"
+    },
+    {
+      "paperId": "b7f4bda9a2fffe0130fd65125aeaa3f1754e7130",
+      "title": "Tomographic reconstruction of vector fields"
+    },
+    {
+      "paperId": "5b38d5e3bb395c7053a39d2ee134f171f70aa961",
+      "title": "A second-order projection method for the incompressible navier-stokes equations"
+    },
+    {
+      "paperId": "5905e29c3b2981c1cb882c79ad39d3c680ffd911",
+      "title": "Tomographic Reconstruction of 2-D Vector Fields: Application to Flow Imaging"
+    },
+    {
+      "paperId": "4d6ffa8958fac32a5b72c9bc22ee84aabc91b5a4",
+      "title": "A second-order accurate pressure correction scheme for viscous incompressible flow"
+    },
+    {
+      "paperId": "fc97caf7a45df77f1e229ef8d01e20c918e789c5",
+      "title": "Helmholtz's theorem revisited"
+    },
+    {
+      "paperId": "bb89f86d2dd4e63e38807c6cd8f2b8483361a498",
+      "title": "Helmholtz decomposition revisited: Vorticity generation and trailing edge condition"
+    },
+    {
+      "paperId": "1823d1648b72172b3bea1a7cf9effa41bea68573",
+      "title": "Interpretations from Helmholtz\u2019 theorem in classical electromagnetism"
+    },
+    {
+      "paperId": "37bfd1868f18f14f1a8591941392ad2a40d8204b",
+      "title": "Helmholtz theorem for antisymmetric second\u2010rank tensor fields and electromagnetism with magnetic monopoles"
+    },
+    {
+      "paperId": "0fa4572d41603d2c1d9f01e9dcb9664002a61b77",
+      "title": "Application of a Fractional-Step Method to Incompressible Navier-Stokes Equations"
+    },
+    {
+      "paperId": "e26c10791af86bc2b5bfaad61f684fed6f5ed5b9",
+      "title": "Differential forms as a basis for vector analysis\u2014with applications to electrodynamics"
+    },
+    {
+      "paperId": "2903528a211d33b3a611061f9059ab3c496d8262",
+      "title": "On orthogonal expansions of the space of vector functions which are square-summable over a given domain and the vector analysis operators"
+    },
+    {
+      "paperId": "bad1ae776b77532b3a4e324583ea284100fab492",
+      "title": "An L_r-theorem of the Helmholtz decomposition of vector fields"
+    },
+    {
+      "paperId": "93035abddc6f34b87c4388aacd53aed3eca64996",
+      "title": "A numerical approach to the testing of the fission hypothesis."
+    },
+    {
+      "paperId": "fa47296cb251b4e798e02b0ad53c9a88418292c0",
+      "title": "Introduction to the principles of electromagnetism"
+    },
+    {
+      "paperId": "b271a023d3ed0328507187539225a750ac514caf",
+      "title": "The Mathematical Theory of Viscous Incompressible Flow"
+    },
+    {
+      "paperId": "5282452497561ccd70efc602fc86e984c017b361",
+      "title": "Mathematical Methods for Physicists (Second Edition)"
+    },
+    {
+      "paperId": "87810596ba3923895063fdc672bfc7217af1e1ea",
+      "title": "On the Convergence of Discrete Approximations to the Navier-Stokes Equations"
+    },
+    {
+      "paperId": "3d89984bf27d6e57aab9623f04e64a720de38cf8",
+      "title": "Numerical solution of the Navier-Stokes equations"
+    },
+    {
+      "paperId": "45247727390a12a450d62a5b99c45b77c9abad7f",
+      "title": "Mathematical Methods for Physicists"
+    },
+    {
+      "paperId": "9b08739fa22583b5fbb49a97bdff5ff57399d076",
+      "title": "On the solution of nonlinear hyperbolic differential equations by finite differences"
+    },
+    {
+      "paperId": "2900a36387efc2ee90ed756d7e67431fa45697ae",
+      "title": "The Theory and Applications of Harmonic Integrals"
+    },
+    {
+      "paperId": "b7d5641795a0bb54108d67dc54c906df9e3fbb64",
+      "title": "\u00dcber die Zerlegung unendlicher Vektorfelder"
+    },
+    {
+      "paperId": null,
+      "title": "Learning Divergence-Free and Curl- Free Vector Fields with Matrix-Valued Kernels"
+    },
+    {
+      "paperId": "ea8c61f7f34bb1eda178c5ad17b1856913d53758",
+      "title": "Using the multi-living agent concept to investigate complex information systems"
+    },
+    {
+      "paperId": null,
+      "title": "Direct Numerical Simulation of Turbulence Using Divergence-Free Wavelets"
+    },
+    {
+      "paperId": "96f8ccd93aa742e6d8cfaca20a4b77cdafbc7553",
+      "title": "Realistic Solar Convection Simulations"
+    },
+    {
+      "paperId": "f1af7f53ae1c4d58709b281ad217345b4ae4f87b",
+      "title": "Computation of Localized Flow for Steady and Unsteady Vector Fields and Its Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Submitted to: Applied and Computational Harmonic Analysis Orthogonal Helmholtz decomposition in arbitrary dimension using divergence-free and curl-free wavelets"
+    },
+    {
+      "paperId": "2b0a073ff00d6a5fdc01cd8861883e28bfb22652",
+      "title": "Cardiac video analysis using Hodge-Helmholtz field decomposition"
+    },
+    {
+      "paperId": "ae1804d9c5f96df79ef49903b910c67bc5b8b26e",
+      "title": "Divergence-free and curl-free wavelets in 2D and 3D, application to turbulent flows"
+    },
+    {
+      "paperId": "c96a942814255aedc528ff3631cf4113c8163c58",
+      "title": "Computing null divergence velocity field using smoothed particle hydrodynamics"
+    },
+    {
+      "paperId": null,
+      "title": "Helio- and Astero-Seismology: Towards a Golden Future"
+    },
+    {
+      "paperId": null,
+      "title": "Velocity Field Decomposition in 3D Numerical Simulations of Solar Turbulent Convection"
+    },
+    {
+      "paperId": "d37ad77c8da2e5c3b767b2ab452694c75ba65e3e",
+      "title": "On Learning Vector \u2212 Valued Functions"
+    },
+    {
+      "paperId": "54b5c444a4a15939fc1011983500eec74b97fe8c",
+      "title": "Identifying Vector Field Singularities Using a Discrete Hodge Decomposition"
+    },
+    {
+      "paperId": null,
+      "title": "Quantitative Seismology. Univ. Science Books"
+    },
+    {
+      "paperId": "9d2de7cafd327284bf61a94e7f2634c54af23e70",
+      "title": "Variational Approach to Vector Field Decomposition"
+    },
+    {
+      "paperId": null,
+      "title": "A Vector Projection Method for Solving the Navier-Stokes Equations Comptes Rendus de l'Acade\u00b4mie des Sciences -Series IIB -Mechanics-Physics-Astronomy"
+    },
+    {
+      "paperId": "ff046edb7d9751327633d8a168b89a8ddf933ef7",
+      "title": "Introduction to Electrodynamics"
+    },
+    {
+      "paperId": "153e251089baf71f95d0b06e8adc215b23a34bdb",
+      "title": "Convolution backprojection formulas for 3-D vector tomography with application to MRI"
+    },
+    {
+      "paperId": "ddc04b7634b0d72d2deec2e9bf23da32cfd93715",
+      "title": "Hodge Decomposition - A Method for Solving Boundary Value Problems"
+    },
+    {
+      "paperId": null,
+      "title": "Potential Representation of Incompressible Vector Fields"
+    },
+    {
+      "paperId": "3655c3a273f1c012329e3b8111b3e8375186234b",
+      "title": "Gr\u00f6bli's Solution of the Three-Vortex Problem"
+    },
+    {
+      "paperId": "641fb477f23a388dbee9ab69092387220acc7b75",
+      "title": "2. The Finite Volume Element Method"
+    },
+    {
+      "paperId": null,
+      "title": "Manifolds, Tensor Analysis and Applications Applied Math. Science"
+    },
+    {
+      "paperId": "7b843dedc932e3378046da1bd0baf37a69da00eb",
+      "title": "A finite difference galerkin formulation for the incompressible Navier-Stokes equations\u2606"
+    },
+    {
+      "paperId": "7a4f89e2ef1dade92360326b98f59797707bee78",
+      "title": "A mathematical introduction to fluid mechanics"
+    },
+    {
+      "paperId": "efe92534eb2855f5b8928a3653bc63b47cb80a5d",
+      "title": "On the Fundamental Equations of Electromagnetism"
+    },
+    {
+      "paperId": "00021f14a02740a3ada3b9e090dce979f5003e43",
+      "title": "Numerical Calculation of Time\u2010Dependent Viscous Incompressible Flow of Fluid with Free Surface"
+    },
+    {
+      "paperId": "c3b963df3bfc7eb7b9ce27b2a731ee19aa212305",
+      "title": "Harmonic fields in Riemannian manifolds"
+    },
+    {
+      "paperId": "757dd5fbc67d8f2591eb2077180af74c1797fcd1",
+      "title": "Methods of Mathematical Physics"
+    },
+    {
+      "paperId": "bf97d9bb9844580aa85b852ba62a8d5d9586c23e",
+      "title": "The method of orthogonal projection in potential theory"
+    },
+    {
+      "paperId": null,
+      "title": "Hydrodynamics, sixth ed"
+    },
+    {
+      "paperId": "afc8abfc81017ab6aefa808695f032fea002904f",
+      "title": "LXIII. On Integrals of the hydrodynamical equations, which express vortex-motion"
+    },
+    {
+      "paperId": "3e75c0acaca4fdd29f813c9a9fcbc5cc49712647",
+      "title": "\u00dcber Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen."
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www.computer.org/publications/dlib"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+  "externalIds": {
+    "DBLP": "journals/tvcg/WangHLS19",
+    "MAG": "2816876164",
+    "DOI": "10.1109/TVCG.2018.2853721",
+    "CorpusId": 51610265,
+    "PubMed": "29994615"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+  "title": "Visualization and Visual Analysis of Ensemble Data: A Survey",
+  "abstract": "Over the last decade, ensemble visualization has witnessed a significant development due to the wide availability of ensemble data, and the increasing visualization needs from a variety of disciplines. From the data analysis point of view, it can be observed that many ensemble visualization works focus on the same facet of ensemble data, use similar data aggregation or uncertainty modeling methods. However, the lack of reflections on those essential commonalities and a systematic overview of those works prevents visualization researchers from effectively identifying new or unsolved problems and planning for further developments. In this paper, we take a holistic perspective and provide a survey of ensemble visualization. Specifically, we study ensemble visualization works in the recent decade, and categorize them from two perspectives: (1) their proposed visualization techniques; and (2) their involved analytic tasks. For the first perspective, we focus on elaborating how conventional visualization techniques (e.g., surface, volume visualization techniques) have been adapted to ensemble data; for the second perspective, we emphasize how analytic tasks (e.g., comparison, clustering) have been performed differently for ensemble data. From the study of ensemble visualization literature, we have also identified several research trends, as well as some future research opportunities.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 128,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2853-2872",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wang2019VisualizationAV,\n author = {Junpeng Wang and Subhashis Hazarika and Cheng Li and Han-Wei Shen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2853-2872},\n title = {Visualization and Visual Analysis of Ensemble Data: A Survey},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1685265234",
+      "name": "Junpeng Wang"
+    },
+    {
+      "authorId": "29710529",
+      "name": "Subhashis Hazarika"
+    },
+    {
+      "authorId": "2133092736",
+      "name": "Cheng Li"
+    },
+    {
+      "authorId": "39073212",
+      "name": "Han-Wei Shen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "365e1e723a36ace41878a95d3847b0f976e96c53",
+      "title": "Visualizing Confidence in Cluster-Based Ensemble Weather Forecast Analyses"
+    },
+    {
+      "paperId": "c3f372c32e721c861d51c0ff78542e01de9f1560",
+      "title": "Reprint of: Mahalanobis, P.C. (1936) \"On the Generalised Distance in Statistics.\""
+    },
+    {
+      "paperId": "f76caa942edec71360dbf9cde5f863f93842d340",
+      "title": "A Statistical Direct Volume Rendering Framework for Visualization of Uncertain Data"
+    },
+    {
+      "paperId": "af5fdbaa190247e8c3377405e1f66bb98ecec8a2",
+      "title": "Uncertainty Visualization by Representative Sampling from Prediction Ensembles"
+    },
+    {
+      "paperId": "4089d6560ddce51c82f6001412774763cc840ec6",
+      "title": "Statistical visualization and analysis of large data using a value-based spatial distribution"
+    },
+    {
+      "paperId": "571ceceae756f6ea628e4dca2863fd10295fd580",
+      "title": "Range likelihood tree: A compact and effective representation for visual exploration of uncertain data sets"
+    },
+    {
+      "paperId": "acac2f5c7e25ccc80bc5f75c96b94d736f3e140c",
+      "title": "Efficient distribution-based feature search in multi-field datasets"
+    },
+    {
+      "paperId": "f9994f25a2f062bb8732f73d15ebfdc90cd9f3d3",
+      "title": "Modality-Driven Classification and Visualization of Ensemble Variance"
+    },
+    {
+      "paperId": "0c9af5a8c19c66fe7ec57fe5dfc1e26599b74528",
+      "title": "Visual Trends Analysis in Time-Varying Ensembles"
+    },
+    {
+      "paperId": "5f441e5c1e616fc9b6f49dbdd4f7dba70520ddd8",
+      "title": "User-defined feature comparison for vector field ensembles"
+    },
+    {
+      "paperId": "b8afb957c4fc02266dac74734cd6f55e45bb5dd4",
+      "title": "Visual Analysis of Multi-Run Spatio-Temporal Simulations Using Isocontour Similarity for Projected Views"
+    },
+    {
+      "paperId": "beeb87fac4366d33116b8ed3473ba167052481db",
+      "title": "Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso\u2010Contours"
+    },
+    {
+      "paperId": "5fdf82800a1871f42e2998fa685044eb9c8e7b55",
+      "title": "Finite-Time Lyapunov Exponents and Lagrangian Coherent Structures in Uncertain Unsteady Flows"
+    },
+    {
+      "paperId": "c95614a36b3bb4d6f549e59c22a3af0b8f8dc9dd",
+      "title": "Evaluating Shape Alignment via Ensemble Visualization"
+    },
+    {
+      "paperId": "887bff6b8504ed374d51ce2b4173f203df4d76a1",
+      "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data"
+    },
+    {
+      "paperId": "3a350b822522701648cd936a1a819f1ced6a3f33",
+      "title": "Screen-space silhouettes for visualizing ensembles of 3D isosurfaces"
+    },
+    {
+      "paperId": "6932513a00ed9ececfb1cdb9645463c4e897ed71",
+      "title": "Comparative visualization of vector field ensembles based on longest common subsequence"
+    },
+    {
+      "paperId": "e312bd7309d6af20fdfd28d4eec8249e6c699a9a",
+      "title": "Visualizing the variations of ensemble of isosurfaces"
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "bff86633660a4a676c9a2535254af45030c6fa98",
+      "title": "Effective Visualization of Temporal Ensembles"
+    },
+    {
+      "paperId": "59c249dc8dedde7b19bb8f7556e29396caae906e",
+      "title": "Accurate Interactive Visualization of Large Deformations and Variability in Biomedical Image Ensembles"
+    },
+    {
+      "paperId": "23ccb88336e20bfc9a6e2c28de19efba51ea2816",
+      "title": "Isosurface Visualization of Data with Nonparametric Models for Uncertainty"
+    },
+    {
+      "paperId": "9948a2f60438ad9b2ff2699de359d997db44896d",
+      "title": "Interactive visual steering of hierarchical simulation ensembles"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "3785af811df05c642c8e1334d7441239c1be4a42",
+      "title": "A bottom-up scheme for user-defined feature comparison in ensemble data"
+    },
+    {
+      "paperId": "af61a65826c89e38fe44ab66f03f5e686ded6ce9",
+      "title": "Visual verification of space weather ensemble simulations"
+    },
+    {
+      "paperId": "65f9ce6ef9de57a05bcd679adbcfdea6f391d995",
+      "title": "Cylindrical acceleration structures for large hexahedral volume visualization"
+    },
+    {
+      "paperId": "b26f204cfcd6e5a499f81c6372e01b47f4b76635",
+      "title": "Ensemble visualization for cyber situation awareness of network security data"
+    },
+    {
+      "paperId": "a4b0dc61fb7b382a86344aa61b59b377bcb175a2",
+      "title": "Visual Analytics for Correlation\u2010Based Comparison of Time Series Ensembles"
+    },
+    {
+      "paperId": "4e2c33b2a2c4afcdebb4ab73853a658dc78b8c76",
+      "title": "Visualizing Time\u2010Specific Hurricane Predictions, with Uncertainty, from Storm Path Ensembles"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "1a029d14642cf9cbf5e5f3ac504d9e86d9140b83",
+      "title": "Visual Analytics for Complex Engineering Systems: Hybrid Visual Steering of Simulation Ensembles"
+    },
+    {
+      "paperId": "f92f78b0b038510733f042a0e9edbd5552461d70",
+      "title": "Scalable Computation of Stream Surfaces on Large Scale Vector Fields"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "22fd10346ffeb89c982d19c0f88bb338bd8be7d4",
+      "title": "Visual Reconciliation of Alternative Similarity Spaces in Climate Modeling"
+    },
+    {
+      "paperId": "decd023b42469f2ea1d7eefad43393defa6f2771",
+      "title": "Ovis: A Framework for Visual Analysisof Ocean Forecast Ensembles"
+    },
+    {
+      "paperId": "8b0d701904f3743d6ae1398e07990d2f165407f2",
+      "title": "Future Challenges for Ensemble Visualization"
+    },
+    {
+      "paperId": "8b7039c27cbae86ac849e8ea641c46fe3884e1d4",
+      "title": "Mandatory Critical Points of 2D Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "4693dbc9b11142dd6f4bdfdda2a922f1766ea091",
+      "title": "SimilarityExplorer: A Visual Inter\u2010Comparison Tool for Multifaceted Climate Data"
+    },
+    {
+      "paperId": "9ea71311fe9e9c961800b22e5d101b966885246d",
+      "title": "Parametric sensitivity and calibration for the Kain-Fritsch convective parameterization scheme in the WRF model"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "57a2a62c779a13b8ad0c308a59b59119e5df481a",
+      "title": "Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles"
+    },
+    {
+      "paperId": "6202fbf92467dea1bd8500068fbfec0304341154",
+      "title": "Coupled Ensemble Flow Line Advection and Analysis"
+    },
+    {
+      "paperId": "76409faddbc31ce7928a3cf0d96731de99c6d820",
+      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction"
+    },
+    {
+      "paperId": "355101430a490abddeb65bbf4d6fc75e639ab579",
+      "title": "Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles"
+    },
+    {
+      "paperId": "3d4267cdfe13635483fca43aa7043b76434cb2b8",
+      "title": "Characterizing and Visualizing Predictive Uncertainty in Numerical Ensembles Through Bayesian Model Averaging"
+    },
+    {
+      "paperId": "d9d3fa89bb87784b208cbe7a1f9b953cd79ce762",
+      "title": "Visualizing the Variability of Gradients in Uncertain 2D Scalar Fields"
+    },
+    {
+      "paperId": "44b9bba34dd4a6046cba3fcd9f17f71ee66dde7f",
+      "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures"
+    },
+    {
+      "paperId": "fcd2834955594607bf4eafdf655a6f576e9e7121",
+      "title": "Nonparametric Models for Uncertainty Visualization"
+    },
+    {
+      "paperId": "0f79fa93dba7b897248984aa308c768384b3c6c2",
+      "title": "Gaussian mixture model based volume visualization"
+    },
+    {
+      "paperId": "3882c6a90152aa01a177146eb1a4de380ac168cb",
+      "title": "Vortex Analysis in Uncertain Vector Fields"
+    },
+    {
+      "paperId": "e035424dcccc6a09e3b054a02ece9e63b0b88ab6",
+      "title": "Probabilistic Local Features in Uncertain Vector Fields with Spatial Correlation"
+    },
+    {
+      "paperId": "184add91604a2c574b685f59b89f33c757ea8055",
+      "title": "Comparative Visual Analysis of 2D Function Ensembles"
+    },
+    {
+      "paperId": "f0ff491d816352f7e90603834160880291a39e67",
+      "title": "Visualization of Global Correlation Structures in Uncertain 2D Scalar Fields"
+    },
+    {
+      "paperId": "db4f394875cf36aec463dae2e2b18c987b7d0aa0",
+      "title": "Uncertainty visualization in HARDI based on ensembles of ODFs"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "1092a5e62d08269c9c630ac5a1ee7e6f2c36d9b1",
+      "title": "Exploring ensemble visualization"
+    },
+    {
+      "paperId": "372dfa3043d79c4bd1e9865df7501b2d66843de8",
+      "title": "Instant visitation maps for interactive visualization of uncertain particle trajectories"
+    },
+    {
+      "paperId": "9cc11308ee56689e29534f10d1b1036245cd4bd1",
+      "title": "Comparative visualization of ensembles using ensemble surface slicing"
+    },
+    {
+      "paperId": "7b9a165353df98e241529046205f64d7bc32f3b6",
+      "title": "Analysis of large-scale scalar data using hixels"
+    },
+    {
+      "paperId": "c7b79cbb3cceffe7dc87c355097a82aefee6cd88",
+      "title": "Flow Radar Glyphs&#8212;Static Visualization of Unsteady Flow with Uncertainty"
+    },
+    {
+      "paperId": "0c515961c9b49c993c609b37ae1a242193706a7a",
+      "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "08a91abf82527b4786059829b466d2e2e47ba882",
+      "title": "Probabilistic Marching Cubes"
+    },
+    {
+      "paperId": "efdc2ed062d26b36a75384b3adc98c7760736476",
+      "title": "Visualizing the Positional and Geometrical Variability of Isosurfaces in Uncertain Scalar Fields"
+    },
+    {
+      "paperId": "df106d21697305170900330b6babf8cdfe431bd6",
+      "title": "Closed stream lines in uncertain vector fields"
+    },
+    {
+      "paperId": "8d10f81f832aba47211052c44cdd53d84eb83010",
+      "title": "Uncertain topology of 3D vector fields"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "2d462c9dfbfa0598fab738e9db3a3bed1731fe94",
+      "title": "Interactive Visual Analysis of Multiple Simulation Runs Using the Simulation Model View: Understanding and Tuning of an Electronic Unit Injector"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "ea55711f8d2fc6013eeed91fe1666b277b3dfed0",
+      "title": "Comparative Visualization for Parameter Studies of Dataset Series"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "2f3670d89c450a54ead0093ded4994b6a8025e82",
+      "title": "Uncertain 2D Vector Field Topology"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "cd7a63405069c684a386b1cef163c8dfbd1a71de",
+      "title": "Toward visual analysis of ensemble data sets"
+    },
+    {
+      "paperId": "f97307c8bc159af12e49c071a562380e2c22cc03",
+      "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces"
+    },
+    {
+      "paperId": "07c84ed3362cfa39d5630266109794f8f20b0683",
+      "title": "Visualization of uncertainty and ensemble data: Exploration of climate modeling and weather forecast data with integrated ViSUS-CDAT systems"
+    },
+    {
+      "paperId": "70a495c2cc877839b910916533f8d90f32fb4ad2",
+      "title": "Visual exploration and evaluation of climate-related simulation data"
+    },
+    {
+      "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+      "title": "Pattern Recognition and Machine Learning"
+    },
+    {
+      "paperId": "05ace99fb93ff3bd0df447b622e7ac6d55b1e77b",
+      "title": "Parallel Sets: interactive exploration and visual analysis of categorical data"
+    },
+    {
+      "paperId": "77c39e7522ff44d8785dd169b4e62a3d69eacd31",
+      "title": "Weather Forecasting with Ensemble Methods"
+    },
+    {
+      "paperId": "5ded7041735fb06052d23c995af399b10953dd87",
+      "title": "Visualizing spatial multivalue data"
+    },
+    {
+      "paperId": "12d12737392094d031b1e760894655117684603a",
+      "title": "Comparative flow visualization"
+    },
+    {
+      "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40",
+      "title": "Image quality assessment: from error visibility to structural similarity"
+    },
+    {
+      "paperId": "92bb2c1e7a0620a684600be5a4b2f236a72241da",
+      "title": "Gaussian transfer functions for multi-field volume visualization"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "eb126c45ce38264285a5a10caf3f0795ae85443f",
+      "title": "Estimating the Cluster Tree of a Density by Analyzing the Minimal Spanning Tree of a Sample"
+    },
+    {
+      "paperId": "581a0d1a57d139d1a3f589e50df5a31294081ef4",
+      "title": "Visualization in earth system science"
+    },
+    {
+      "paperId": "3fa5f8ec7c8d43b88d6fa80c2e39fa217047d438",
+      "title": "Modelling and visualising the heart"
+    },
+    {
+      "paperId": "1ced25ed510608fddc7c7cc02a5f98cece8d8595",
+      "title": "Visualizing scalar volumetric data with uncertainty"
+    },
+    {
+      "paperId": "64aba9f98d5e41ffbaa6c46775fb2040bd76c28a",
+      "title": "Visualizing 2D probability distributions from EOS satellite image-derived data sets: a case study"
+    },
+    {
+      "paperId": "e7091106882660a9dc02c91927dcacc9b8c60cd1",
+      "title": "Analysis of longitudinal data"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86",
+      "title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    },
+    {
+      "paperId": "83257ffd0352c0e7e3185278acdd923f35158830",
+      "title": "On the identification of a vortex"
+    },
+    {
+      "paperId": "b68c52648fafac17e301d0a4077aebe53ba11c17",
+      "title": "A review of techniques for parameter sensitivity analysis of environmental models"
+    },
+    {
+      "paperId": "4e1d2fdcd44cc416e44b6186c1f7c23cc1200b7c",
+      "title": "Eddies, streams, and convergence zones in turbulent flows"
+    },
+    {
+      "paperId": "84c712ee3860909d38233b46d5949804cd981bc6",
+      "title": "Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models"
+    },
+    {
+      "paperId": "d3e1bfffe2aa740b2a80408d9b54dc8f9fc8089c",
+      "title": "Robust Detection and Visualization of Jet-Stream Core Lines in Atmospheric Flow"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "9c0af605281b329d15372d0e9af6752cc52630df",
+      "title": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "paperId": "fbc08ace87672a8a9259a8b3a753fe38f91b0375",
+      "title": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "paperId": "187c3322304050372f3f0e63f65d2ad013de7bcc",
+      "title": "Fisheye Lens Correction by Estimating 3D Location"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "88e05a076ece3f9878f57e613a121fe5a61d95cc",
+      "title": "CORRELATION VISUALIZATION FOR STRUCTURAL UNCERTAINTY ANALYSIS"
+    },
+    {
+      "paperId": "55c9c8321a7561fd3b579757bf04fc6a6e89a57e",
+      "title": "Visualizing Contour Distributions in 2D Ensemble Data"
+    },
+    {
+      "paperId": "dac582da168d2e0bdef32b84de436f7704cbcc8f",
+      "title": "Extraction and Visual Analysis of Seismic Horizon Ensembles"
+    },
+    {
+      "paperId": "ee56c8c2ca778d6b87a2461f0450050032c6e08d",
+      "title": "Visualizing Uncertainty in Predicted Hurricane Tracks"
+    },
+    {
+      "paperId": "987dfe939f6010805ffb622b481cffbec6c08d91",
+      "title": "Interactive Visual Analysis of Families of Surfaces: An Application to Car Race and Car Setup"
+    },
+    {
+      "paperId": "44da4713fcf0a4ee7a8323737e678b3faec42d2e",
+      "title": "Ultrascale Visualization In Situ Visualization for Large-Scale Combustion Simulations"
+    },
+    {
+      "paperId": "8096fe77e22ee54d829861642ac71064d866b913",
+      "title": "Dynamic Time Warping Algorithm Review"
+    },
+    {
+      "paperId": "945c05d471ef987e387f5fedf00c167181da8c8e",
+      "title": "Comprehensive Survey on Distance/Similarity Measures between Probability Density Functions"
+    },
+    {
+      "paperId": "4e0d9ed7d4c08cff49a37f4977cf40c914b3cd5e",
+      "title": "Visualization techniques for spatial probability density function data"
+    },
+    {
+      "paperId": "fa97c2238a16e9226f386ecffe22095e3d3d9dff",
+      "title": "On the generalized distance in statistics"
+    },
+    {
+      "paperId": null,
+      "title": "Temporal Trend Analysis : reveal how a single member, some members, or all members evolve over time"
+    },
+    {
+      "paperId": null,
+      "title": "Feature Extraction : extract geometric (e.g., vortex, eddy) or topological (e.g., source, saddle, sink point) features from the uncertain \ufb01eld of ensemble data"
+    },
+    {
+      "paperId": "1ed6d5c7ad0b030dc134656936c36607fb4b7344",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy 1 Interactive Visual Analysis of Heterogeneous Scientific Data across an Interface"
+    },
+    {
+      "paperId": "ea27df276ea857dafa717179bef65944b61bf5fb",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Uncertainty-aware Multidimensional Ensemble Data Visualization and Exploration"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "48bb1f00acc50e98b9334ac31a068c464f8d16a1",
+      "title": "University of"
+    },
+    {
+      "paperId": null,
+      "title": "areas include distribution based data analysis, and interactive data manipulation"
+    },
+    {
+      "paperId": null,
+      "title": "Clustering : divide members or ensembles of objects into separate groups, where similar members or ensembles are in the same group"
+    },
+    {
+      "paperId": null,
+      "title": "He received his Bachelors degree in Computer Science from the National Institute of Technology,"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cNational hurricane center, uncertainty cone,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Department of Energy\u2019s Early Career Principal Investigator Award"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cScienti\ufb01c visualization contest 2016,\u201d"
+    }
+  ]
+}

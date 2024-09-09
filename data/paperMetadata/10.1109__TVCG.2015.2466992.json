@@ -1,0 +1,270 @@
+{
+  "paperId": "bdbc9d4c28db711aa308a3cb5a0fd5a6acafa8fc",
+  "externalIds": {
+    "MAG": "1892979790",
+    "DBLP": "journals/tvcg/JohanssonF16",
+    "DOI": "10.1109/TVCG.2015.2466992",
+    "CorpusId": 11031805,
+    "PubMed": "26529719"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bdbc9d4c28db711aa308a3cb5a0fd5a6acafa8fc",
+  "title": "Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research",
+  "abstract": "The parallel coordinates technique is widely used for the analysis of multivariate data. During recent decades significant research efforts have been devoted to exploring the applicability of the technique and to expand upon it, resulting in a variety of extensions. Of these many research activities, a surprisingly small number concerns user-centred evaluations investigating actual use and usability issues for different tasks, data and domains. The result is a clear lack of convincing evidence to support and guide uptake by users as well as future research directions. To address these issues this paper contributes a thorough literature survey of what has been done in the area of user-centred evaluation of parallel coordinates. These evaluations are divided into four categories based on characterization of use, derived from the survey. Based on the data from the survey and the categorization combined with the authors' experience of working with parallel coordinates, a set of guidelines for future research directions is proposed.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2016,
+  "referenceCount": 50,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-01-31",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "579-588",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Johansson2016EvaluationOP,\n author = {J. Johansson and C. Forsell},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {579-588},\n title = {Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research},\n volume = {22},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144487771",
+      "name": "J. Johansson"
+    },
+    {
+      "authorId": "35194018",
+      "name": "C. Forsell"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b443c6c47a5263a7902c8207bf0a40707234412a",
+      "title": "Ranking Visualizations of Correlation Using Weber's Law"
+    },
+    {
+      "paperId": "cd3c60466d8d30a8e907285545cd5d9056656109",
+      "title": "Cupid: Cluster-Based Exploration of Geometry Generators with Parallel Coordinates and Radial Trees"
+    },
+    {
+      "paperId": "0ebf7481ffe67e361a08e0312e5a084258f242cf",
+      "title": "An Edge-Bundling Layout for Interactive Parallel Coordinates"
+    },
+    {
+      "paperId": "cddc9b452b4ee60801287c4b1ad8faa3eb21d83e",
+      "title": "On the usability of three-dimensional display in parallel coordinates: Evaluating the efficiency of identifying two-dimensional relationships"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "157c00af365c7c2b33f8c2863337dc2bdcad2388",
+      "title": "Force-Directed Parallel Coordinates"
+    },
+    {
+      "paperId": "1f39878046b38a422f644f0df2aa1c69e71ce22a",
+      "title": "P3D: A parallel 3D coordinate visualization for advanced network scans"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "ee68c113def84b847c41be19294cc2f05f821889",
+      "title": "Tracing Tuples Across Dimensions: A Comparison of Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "202e8bcbd41e7faddbf7d8ee85f9c39e4ef05fc4",
+      "title": "Progressive parallel coordinates"
+    },
+    {
+      "paperId": "42a3f2b9e5c800191f21223dc70a22774df84237",
+      "title": "Flexible Linked Axes for Multivariate Data Visualization"
+    },
+    {
+      "paperId": "022deada7847fecaee9fb530c1e7c21eda9f96fd",
+      "title": "Exploring Uncertainty in Geodemographics with Interactive Graphics"
+    },
+    {
+      "paperId": "c86c4701782a34a4b51bc9f553d3c1bec74c077a",
+      "title": "Evaluation of a Bundling Technique for Parallel Coordinates"
+    },
+    {
+      "paperId": "c81156f8dade399fda8b6d4ba0fc10548350a118",
+      "title": "Evaluation of Parallel Coordinates for Interactive Alarm Filtering"
+    },
+    {
+      "paperId": "15fc93d91c4abd0b5ea343cabb51694e486c820d",
+      "title": "Interactive local clustering operations for high dimensional data in parallel coordinates"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "869ebe1217fbf8131bc8efc1d4fd98ccc9bed895",
+      "title": "Many-to-Many Relational Parallel Coordinates Displays"
+    },
+    {
+      "paperId": "6bf703874706ba2b5cc1b6e49f9d1ae59ff1ce5f",
+      "title": "Visual Perception of Parallel Coordinate Visualizations"
+    },
+    {
+      "paperId": "46da2caf6df03d356550e6865553a935c00cddc4",
+      "title": "Perceiving Patterns in Parallel Coordinates: Determining Thresholds for Identification of Relationships"
+    },
+    {
+      "paperId": "d15ca38d2fb1250222132b5bf3fed8d249bcac45",
+      "title": "The Effect of Aesthetic on the Usability of Data Visualization"
+    },
+    {
+      "paperId": "18edbc465ea8e3ec5114beab74398ce9354fb9e0",
+      "title": "Task-based evaluation of multirelational 3D and standard 2D parallel coordinates"
+    },
+    {
+      "paperId": "816d5c75b786ae82c37616467b2b091ec4fe7cbe",
+      "title": "Revealing Structure in Visualizations of Dense 2D and 3D Parallel Coordinates"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "3da612622a69c6999098f7d9b455a859ec0036fc",
+      "title": "Experimental study on evaluation of multidimensional information visualization techniques"
+    },
+    {
+      "paperId": "1a48a894c393c7a44bd8eab0326936a925019777",
+      "title": "Revealing structure within clustered parallel coordinates displays"
+    },
+    {
+      "paperId": "c9e5db551f639db9df0e6d0cc3cd3715641cab01",
+      "title": "Exploring highly structured data: a comparative study of stardinates and parallel coordinates"
+    },
+    {
+      "paperId": "3e13dd94dd4c7c677588537267a4e878be1a483b",
+      "title": "3-dimensional display for clustered multi-relational parallel coordinates"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "faf75dbdd0825406d8480a28056ef7bd6e416987",
+      "title": "Using curves to enhance parallel coordinate visualisations"
+    },
+    {
+      "paperId": "b262056a9692b6330c9fa6babe82d8d63682a59e",
+      "title": "Combining parallel coordinates with the reorderable matrix"
+    },
+    {
+      "paperId": "4ad76bc6be0ca9fe26520195346ed67233433be9",
+      "title": "User Studies: Why, How, and When?"
+    },
+    {
+      "paperId": "3bb666738673a5c752c86d372351b16ce8317cb9",
+      "title": "Angular brushing of extended parallel coordinates"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "688bdd4c68b0b75224d5edf504b5bca4505b0c78",
+      "title": "Visualizing the behaviour of higher dimensional dynamical systems"
+    },
+    {
+      "paperId": "1f15c7b8621e093f2eb3c23505d8d3944cae2638",
+      "title": "When Users Want What's not Best for Them"
+    },
+    {
+      "paperId": "83bb37a06a964fe4af17002e1a546be78e01431e",
+      "title": "Hyperdimensional Data Analysis Using Parallel Coordinates"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "e516a9b691b1f4b8ee48158610dae4390eb8a2e3",
+      "title": "Experimental Human Computer Interaction A Practical Guide With Visual Examples"
+    },
+    {
+      "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+      "title": "State of the Art of Parallel Coordinates"
+    },
+    {
+      "paperId": "49027555a225710a08b0eaca855716361fb8ed61",
+      "title": "Parallel-Coordinates Art"
+    },
+    {
+      "paperId": null,
+      "title": "Pro-ceedings"
+    },
+    {
+      "paperId": "befb20f6897350313fb508411ba871d0368fa926",
+      "title": "Higher Order Parallel Coordinates"
+    },
+    {
+      "paperId": "c0ca690b908ef945f5be33de199c67a9bc61b741",
+      "title": "Ergonomic requirements for office work with visual display terminals (VDTs) \u2014"
+    },
+    {
+      "paperId": "a5ca8718661cfb2b65d61bf30605e05349aedf7b",
+      "title": "Visualizing the behavior of higher dimensional dynamical systems"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "3016ee968980ea62e0d24b7c9b67c08c0b509b02",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Parallel Coordinates Style Interface for Exploratory Volume Visualization"
+    },
+    {
+      "paperId": "8d3d0202efc560569db01897afc4bb80ee33bc63",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Tiled Parallel Coordinates for the Visualization of Time-varying Multichannel Eeg Data"
+    }
+  ]
+}

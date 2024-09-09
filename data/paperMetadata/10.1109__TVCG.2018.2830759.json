@@ -1,0 +1,554 @@
+{
+  "paperId": "5e97a7054199d4f79635b1003ff457d65ed9171f",
+  "externalIds": {
+    "MAG": "2801516600",
+    "DBLP": "journals/tvcg/WindhagerFSGDMM19",
+    "DOI": "10.1109/TVCG.2018.2830759",
+    "CorpusId": 25109240,
+    "PubMed": "29994026"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/5e97a7054199d4f79635b1003ff457d65ed9171f",
+  "title": "Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges",
+  "abstract": "After decades of digitization, large cultural heritage collections have emerged on the web, which contain massive stocks of content from galleries, libraries, archives, and museums. This increase in digital cultural heritage data promises new modes of analysis and increased levels of access for academic scholars and casual users alike. Going beyond the standard representations of search-centric and grid-based interfaces, a multitude of approaches has recently started to enable visual access to cultural collections, and to explore them as complex and comprehensive information spaces by the means of interactive visualizations. In contrast to conventional web interfaces, we witness a widening spectrum of innovative visualization types specially designed for rich collections from the cultural heritage sector. This new class of information visualizations gives rise to a notable diversity of interaction and representation techniques while lending currency and urgency to a discussion about principles such as serendipity, generosity, and criticality in connection with visualization design. With this survey, we review information visualization approaches to digital cultural heritage collections and reflect on the state of the art in techniques and design choices. We contextualize our survey with humanist perspectives on the field and point out opportunities for future research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 112,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/8703191/08352050.pdf",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "History",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "History",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Art",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "History",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-06-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2311-2330",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Windhager2019VisualizationOC,\n author = {F. Windhager and P. Federico and G\u00fcnther Schreder and Katrin Glinka and M. D\u00f6rk and S. Miksch and E. Mayr},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2311-2330},\n title = {Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3112363",
+      "name": "F. Windhager"
+    },
+    {
+      "authorId": "145674284",
+      "name": "P. Federico"
+    },
+    {
+      "authorId": "3074114",
+      "name": "G\u00fcnther Schreder"
+    },
+    {
+      "authorId": "2722449",
+      "name": "Katrin Glinka"
+    },
+    {
+      "authorId": "3271672",
+      "name": "M. D\u00f6rk"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    },
+    {
+      "authorId": "1991475",
+      "name": "E. Mayr"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "50f2f7166a89e1ef628ab372edc53df77109b9fa",
+      "title": "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents"
+    },
+    {
+      "paperId": "b17195fa5e4d38f056affd451c0af022424419a4",
+      "title": "Visual Text Analysis in Digital Humanities"
+    },
+    {
+      "paperId": "dcf092735357326730153f88a284623f98e096cd",
+      "title": "artVIS: an interactive visualization for painting collections"
+    },
+    {
+      "paperId": "aed1029a8fff9d67046579b282c9c57cb0032e04",
+      "title": "Preserving Our Heritage: Perspectives from Antiquity to the Digital Age"
+    },
+    {
+      "paperId": "0e31ad3f098ad358fa4523be3ba2d6f02c425870",
+      "title": "Inline Co-Evolution between Users and Information Presentation for Data Exploration"
+    },
+    {
+      "paperId": "3ce42705648062781940febc0fa406436aa4097d",
+      "title": "Regarding Value in Digital Serendipitous Interactions"
+    },
+    {
+      "paperId": "41de1d0e496b9d1a147ecb6113ab51b82d6fdade",
+      "title": "Linked Information Visualization for Linked Open Government Data. A Visual Synthetics Approach to Governmental Data and Knowledge Collections"
+    },
+    {
+      "paperId": "14646f476f63a04059d43733deb32ac13b6c262a",
+      "title": "The Loupe: tangible augmented reality for learning to look at Ancient Greek art"
+    },
+    {
+      "paperId": "0701cc35d5f6525e69e75a89bea739882e4f5b74",
+      "title": "A collaborative, ontological and information visualization model approach in a centralized rock art heritage platform"
+    },
+    {
+      "paperId": "258b4483d5cb1c5ae3b272dffc8e5923015d98a4",
+      "title": "Direct visualization techniques for the analysis of image data: the slice histogram and the growing entourage plot"
+    },
+    {
+      "paperId": "a877eb4afbf47aa1001ca34cb09a9aa2d08eacfe",
+      "title": "Using Data Visualisation to Tell Stories about Collections"
+    },
+    {
+      "paperId": "d7d14214eb2c3715a92fbd421a32d83971f4b5ab",
+      "title": "User Categories for Digital Cultural Heritage"
+    },
+    {
+      "paperId": "8f8c5d739ead500cc4ad6e294d8c8eb2b149e028",
+      "title": "Sifting through visual arts collections"
+    },
+    {
+      "paperId": "7f096d1a586083dea3b130ba2dbd68c78a552631",
+      "title": "Diving in at the Deep End: The Value of Alternative In-Situ Approaches for Systematic Library Search"
+    },
+    {
+      "paperId": "a2c78aba67d1e4cd29a6f2671855b36060377068",
+      "title": "Visualising cultural data : exploring digital collections through timeline visualisations"
+    },
+    {
+      "paperId": "be6e6ef76e5fd06236b59032a585ccaeeb4fa46d",
+      "title": "Speculative Practices: Utilizing InfoVis to Explore Untapped Literary Collections"
+    },
+    {
+      "paperId": "92a21509a2af6c7fd06d4c6dfa02ea8d04e87511",
+      "title": "Interactive Visual Profiling of Musicians"
+    },
+    {
+      "paperId": "c9c0855dc06aff122d0fde9ccf9c604983988515",
+      "title": "VAiRoma: A Visual Analytics System for Making Sense of Places, Times, and Events in Roman History"
+    },
+    {
+      "paperId": "e4b3eb206109f7bae0bf0e96381a63d91edc0b56",
+      "title": "Visual Encodings of Temporal Uncertainty: A Comparative User Study"
+    },
+    {
+      "paperId": "a3153209277cf230b8bcceeb2e785fae1f4bdd29",
+      "title": "Peripleo: a tool for exploring heterogenous data through the dimensions of space and time"
+    },
+    {
+      "paperId": "534bbd88cc1bc86bb84a65baf69e086a8122cf77",
+      "title": "DIVE into the event-based browsing of linked historical media"
+    },
+    {
+      "paperId": "87069f73bd1f2328ad5398b4d0b5ac236cb9a1fd",
+      "title": "Zen and the Art of Linked Data"
+    },
+    {
+      "paperId": "f3463c392a408ea959fdc3f46f913b4d10e14a27",
+      "title": "Visualizing cultural digital resources using social network analysis"
+    },
+    {
+      "paperId": "fe0d5a2f6d5ba13906ac5ed2e82817986e9c4106",
+      "title": "More Than Telling a Story: Transforming Data into Visually Shared Stories"
+    },
+    {
+      "paperId": "1592f7b4fc6fff4a0ea947b8519ac83d8f28f6a5",
+      "title": "Visual metaphors for semantic cultural heritage"
+    },
+    {
+      "paperId": "51fa7c573fcc98b05c2d15685d64463c40d57cff",
+      "title": "Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature"
+    },
+    {
+      "paperId": "e957b46f305a8e08d39ccd466b1a17f373df9063",
+      "title": "\u201cMaking my own luck\u201d: Serendipity strategies and how to support them in digital information environments"
+    },
+    {
+      "paperId": "8b30282dbff7945a2edc10aa42a6ecceec491e73",
+      "title": "A network framework of cultural history"
+    },
+    {
+      "paperId": "78057e2a4c13cf11be33a960598bb5fe8a581f37",
+      "title": "HistoGraph -- A Visualization Tool for Collaborative Analysis of Networks from Historical Social Multimedia Collections"
+    },
+    {
+      "paperId": "1cf3628373268b062f37816783726d2f149090fe",
+      "title": "FacetScape: A Visualization for Exploring the Search Space"
+    },
+    {
+      "paperId": "e6030d8a5138dab07348d4f4f7ba530ce8ceacb6",
+      "title": "Linked Data for Libraries, Archives and Museums"
+    },
+    {
+      "paperId": "c9b9f8741e84e22f0cf7268ea4eb6468acefba75",
+      "title": "ArtVis: combining advanced visualisation and tangible interaction for the exploration, analysis and browsing of digital artwork collections"
+    },
+    {
+      "paperId": "dd64d0a9730b3f6ef4c4218374398a32a0a61488",
+      "title": "Highly interactive and natural user interfaces: enabling visual analysis in historical lexicography"
+    },
+    {
+      "paperId": "efce98fc271a9e166d4745fcebf3d3bd6655eb4d",
+      "title": "Interactive visualization for curatorial analysis of large digital collection"
+    },
+    {
+      "paperId": "415b7fc4ee6c31dd9798b6534e3640637ad36bd6",
+      "title": "Visualizing Digital Collections"
+    },
+    {
+      "paperId": "8695530ef32fb633b3e194cee3257986eaa5efe0",
+      "title": "Geo-Temporal Interpretation of Archival Collections with Neatline"
+    },
+    {
+      "paperId": "500913d9a13b51362c33f190e3122caee7641599",
+      "title": "Vis4Heritage: Visual Analytics Approach on Grotto Wall Painting Degradations"
+    },
+    {
+      "paperId": "af7147b84a0b0f2c3b4ffd0f860f66f1074f2964",
+      "title": "Weaving data, slicing views: a design approach to creating visual access for digital archival collections"
+    },
+    {
+      "paperId": "8f785066daa570753ba42171e5ece4e89d017de5",
+      "title": "Known Unknowns: Representing Uncertainty in Historical Time"
+    },
+    {
+      "paperId": "80ef609f79b0cafc431581eb45c295ce690c46bf",
+      "title": "Connecting the Smithsonian American Art Museum to the Linked Data Cloud"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "c28e359d89f3c7c83ce72b2e9f0916d50b70a698",
+      "title": "Blended shelf: reality-based presentation and exploration of library collections"
+    },
+    {
+      "paperId": "7d2a252b1dad4b2e7dcf5775a4a47749a714ea31",
+      "title": "Critical InfoVis: exploring the politics of visualization"
+    },
+    {
+      "paperId": "b4c917d32ba894dc4fc331eb2dbaf2ede68b4cb2",
+      "title": "Living Liquid: Design and Evaluation of an Exploratory Visualization Tool for Museum Visitors"
+    },
+    {
+      "paperId": "faf4df33f52e25b65696de744fc0ada855f8fc12",
+      "title": "Viewshare and the Kress Collection: Creating, Sharing, and Rapidly Prototyping Visual Interfaces to Cultural Heritage Collection Data"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "bb7ee45d7814a6818bbfb3ed84d2f06bf7e4806c",
+      "title": "Cultural Heritage Cube. A Conceptual Framework for Visual Exhibition Exploration"
+    },
+    {
+      "paperId": "868a2248015617f85073e95e52c782f2ac449359",
+      "title": "Investigative analysis across documents and drawings: visual analytics for archaeologists"
+    },
+    {
+      "paperId": "2b326d1da93a843e70776713e5fef89534145314",
+      "title": "The bohemian bookshelf: supporting serendipitous book discoveries through information visualization"
+    },
+    {
+      "paperId": "b3bb181ed15839fb2a84b5d31ae8bd9d969bc4b2",
+      "title": "Browsing museum image collections on a multi-touch table"
+    },
+    {
+      "paperId": "e49f1aa9b6efc6ddbe756f52a4022c3c1d65a3f9",
+      "title": "Similarity-Based Visualization for Image Browsing Revisited"
+    },
+    {
+      "paperId": "537a94e3250153310f5920dce370df08612f7fa7",
+      "title": "Visualization Rhetoric: Framing Effects in Narrative Visualization"
+    },
+    {
+      "paperId": "e24dd7377d6920ff0ee396a4aebd1d69eca2e970",
+      "title": "Cultural Analytics in Large-Scale Visualization Environments"
+    },
+    {
+      "paperId": "1d29eb54991dea510777d08b38795b322bab6cbd",
+      "title": "Revisiting 3D information landscapes for the display of art historical web content"
+    },
+    {
+      "paperId": "c43adf4179d7aba694d5e51d3be5ee3d5c8307ec",
+      "title": "Designing map-based visualizations for collection understanding"
+    },
+    {
+      "paperId": "f4935bfaafdf7a210a3af87b9723da3067c23146",
+      "title": "Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "5c0d649c1b2ad406bdf3c8d7d5d473545f71f8b0",
+      "title": "The information flaneur: a fresh look at information seeking"
+    },
+    {
+      "paperId": "2d7090599550f8734f2fe07b048285e3486bd8b6",
+      "title": "Humanities Approaches to Interface Theory"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "99ab2355abcd053f8b35fc33f1e74696dbd2442f",
+      "title": "Browsing Large Image Datasets through Voronoi Diagrams"
+    },
+    {
+      "paperId": "df6b604d1352d4bd81604730f9000d7a29574384",
+      "title": "Beyond virtual museums: experiencing immersive virtual reality in real museums"
+    },
+    {
+      "paperId": "3b713c885e1e593bd5e030e6931bcea8469a365b",
+      "title": "Exploring the digital commons: an approach to the visualisation of large heritage datasets"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "ad91fe9586ee6a4841ffdd12eaf11a5179edb3c0",
+      "title": "Chance Encounters in the Digital Library"
+    },
+    {
+      "paperId": "5631f0e3973a974f82985c414e5476faf6422631",
+      "title": "Information Retrieval in Cultural Heritage"
+    },
+    {
+      "paperId": "dcab1a97fe755e06dc85611a86fb50fc87f16fc5",
+      "title": "SKOS Simple Knowledge Organization System Reference"
+    },
+    {
+      "paperId": "c2334b6f6fd5620fac422d65f6a4a2ee5028eaf0",
+      "title": "Towards the Big Picture: Enriching 3D Models with Information Visualisation and Vice Versa"
+    },
+    {
+      "paperId": "e5430d8e3b302f5d55ae8766e5bd316b02539fe0",
+      "title": "Computational linguistics for metadata building (CLiMB): using text mining for the automatic identification, categorization, and disambiguation of subject terms for image metadata"
+    },
+    {
+      "paperId": "746a90962ed1555cae8d2580124c4445c00b42eb",
+      "title": "EMDialog: Bringing Information Visualization into the Museum"
+    },
+    {
+      "paperId": "917274b20ef17b24da6880e9b07a350791f3efee",
+      "title": "Design of information landscapes for cultural heritage content"
+    },
+    {
+      "paperId": "bf00ca9a26aa7eb4e363ee2f11e546a8abae144a",
+      "title": "Recoding the Museum: Digital Heritage and the Technologies of Change"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "4831b835c41ad0a936b28ccfa6c3a19be440f28d",
+      "title": "Exploring digital libraries: integrating browsing, searching, and visualization"
+    },
+    {
+      "paperId": "e0c450efbe12bd639d1f8135e123b9fd31a6f89c",
+      "title": "The Scope and Definitions of Heritage: From Tangible to Intangible"
+    },
+    {
+      "paperId": "ae77d40af092aede2ad925604c6560ff4addfd20",
+      "title": "Exploratory Analysis of Spatial and Temporal Data: A Systematic Approach"
+    },
+    {
+      "paperId": "d03570fa34d8a0aca44465e13568b2e155c67528",
+      "title": "New Ways to Search, Navigate and Use Multimedia Museum Collections over the Web"
+    },
+    {
+      "paperId": "341cdeaa454682a79c8a2074f552001bed8108bc",
+      "title": "The concept(s) of culture"
+    },
+    {
+      "paperId": "16cb4efc6edb47d184ffca9f4c747191b0a3c816",
+      "title": "Collection understanding [visualization tools in information retrieval]"
+    },
+    {
+      "paperId": "ac67c8906390452402692c554fb2c4cf1fbd7fc5",
+      "title": "Serendipity and information seeking: an empirical study"
+    },
+    {
+      "paperId": "cc567eaafc6696b68b4386e9d6a8f1f6a4e944a7",
+      "title": "Previews and overviews in digital libraries: Designing surrogates to support visual information seeking"
+    },
+    {
+      "paperId": "6e29a07906289012958cfa8d05d466cea1f050a1",
+      "title": "Culture and Power: The Sociology of Pierre Bourdieu"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "9262874df7e8381c13074919429bca1421020874",
+      "title": "Culture, a critical review of concepts and definitions"
+    },
+    {
+      "paperId": "af51815c63470b0e11edf5fb532335ef95d46539",
+      "title": "ARIES: Enabling Visual Exploration and Organization of Art Image Collections"
+    },
+    {
+      "paperId": "fd72698f8448124c445734304592e56b475bf0d7",
+      "title": "One view is not enough: High-level visualizations of a large cultural collection"
+    },
+    {
+      "paperId": "a74e97d94afba382c2847fe4dce711f835db0fbc",
+      "title": "Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections"
+    },
+    {
+      "paperId": "d3e8499bd45aba7fe07ed2c80baad33f609eea7b",
+      "title": "Classification Schemes for Visualization of Uncertainty in Digital Hypothetical Reconstruction"
+    },
+    {
+      "paperId": "7aad99ed7f80ba68a6077774e5db92f531a6bc84",
+      "title": "Individual Differences in Exploration and Content Curation Activities within a Cultural Heritage Digital Library"
+    },
+    {
+      "paperId": "d7ad06417c84c6ffac84a72e61ddc29ee8b164d5",
+      "title": "Cognitive-Based Visualization of Semantically Structured Cultural Heritage Data"
+    },
+    {
+      "paperId": "797696f03aa230b3e64a16e093e033225b513a37",
+      "title": "Just Looking Around: Supporting Casual Users Initial Encounters with Digital Cultural Heritage"
+    },
+    {
+      "paperId": "27a91b9db2d28a36aa0b521535a921cff979b611",
+      "title": "Revealing cultural collections over time"
+    },
+    {
+      "paperId": "4c6a67161fba4cec8a46177b845589f92328ae1a",
+      "title": "Deconstructing Bricolage: Interactive Online Analysis of Compiled Texts with Factotum"
+    },
+    {
+      "paperId": "7f2c2a95d87611ea3ea40d44d1be9715e38438ee",
+      "title": "A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data"
+    },
+    {
+      "paperId": "40e9d6939e54b230038ba164cd58dd18d820a8a4",
+      "title": "The Design Space of Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "3619a23de0e251a5fc007eb8e8c7b2cb6a82d615",
+      "title": "It doesn't compare to being there : in-situ vs. remote exploration of museum collections"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "b10acbf30c4278467aebf86317c55425668050d9",
+      "title": "Visual Exploration of Australian Prints and Printmaking"
+    },
+    {
+      "paperId": "406a0f8e1cb1957b4794f357b03118cd8c5388f3",
+      "title": "Search or Browse? Casual Information Access to a Cultural Heritage Collection"
+    },
+    {
+      "paperId": "7d4f73b4719b7e9d2c4a6106cc80c652aa8100a8",
+      "title": "Performative Materiality and Theoretical Approaches to Interface"
+    },
+    {
+      "paperId": "24e980cfd15e3eaf6aafa4f261dedc2b51318156",
+      "title": "Quantifying Culture: Four Types of Value in Visualisation"
+    },
+    {
+      "paperId": "7384a7bf34aab72bcfe0d5886220a82bcc8369d7",
+      "title": "GeoTemCo: Comparative Visualization of Geospatial-Temporal Data with Clutter Removal Based on Dynamic Delaunay Triangulations"
+    },
+    {
+      "paperId": "9b0631681707a2d78d1a73e5d68bdc65990d9a15",
+      "title": "How to deal with massively heterogeneous cultural heritage data - lessons learned in CultureSampo"
+    },
+    {
+      "paperId": "e0fe227ff7a3822f5c0bd41cc566f1a472cc22f2",
+      "title": "Humanities Approaches to Graphical Display"
+    },
+    {
+      "paperId": "23e68ebdab72e6e776ac2b496409cd9fc39a9f11",
+      "title": "In Search of Novel Ways To Design Large Cultural Web Sites"
+    },
+    {
+      "paperId": "f51f5122cd75b4d9430ee6ce231a93d754b4993a",
+      "title": "Timelines, temporal resolution, temporal zoom and time geography"
+    },
+    {
+      "paperId": "5152a81f02877b278e9a44515613a272b467e98a",
+      "title": "Not by genes alone: How culture transformed human evolution."
+    },
+    {
+      "paperId": "8caefda9c77e6c82aa23be3736973dd2939be049",
+      "title": "The evolution of cultural evolution"
+    },
+    {
+      "paperId": "7f80865065b626d1b2cbaed3979838a932083956",
+      "title": "EXPLODING CANONS: The Anthropology of Museums"
+    },
+    {
+      "paperId": "7952293fcb44e972f9d5546bcd4e265f1c3da3f8",
+      "title": "The design of browsing and berrypicking techniques for the online search interface"
+    },
+    {
+      "paperId": "16044c27b62d4fff8d1f5c2d7f83c7355c2dc3d6",
+      "title": "Keywords: A Vocabulary of Culture and Society"
+    },
+    {
+      "paperId": "f83c20bd03ba5f5c459f72312beb7748d41716bb",
+      "title": "Open Images. Risk or opportunity for art collections in the digital age"
+    }
+  ]
+}

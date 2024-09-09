@@ -1,0 +1,394 @@
+{
+  "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+  "externalIds": {
+    "DBLP": "journals/tvcg/0001ISCM17",
+    "MAG": "3151836074",
+    "ArXiv": "1408.3297",
+    "DOI": "10.1109/TVCG.2016.2598827",
+    "CorpusId": 14189572,
+    "PubMed": "27875191"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+  "title": "Visualization as Seen through its Research Paper Keywords",
+  "abstract": "We present the results of a comprehensive multi-pass analysis of visualization paper keywords supplied by authors for their papers published in the IEEE Visualization conference series (now called IEEE VIS) between 1990-2015. From this analysis we derived a set of visualization topics that we discuss in the context of the current taxonomy that is used to categorize papers and assign reviewers in the IEEE VIS reviewing process. We point out missing and overemphasized topics in the current taxonomy and start a discussion on the importance of establishing common visualization terminology. Our analysis of research topics in visualization can, thus, serve as a starting point to (a) help create a common vocabulary to improve communication among different visualization sub-groups, (b) facilitate the process of understanding differences and commonalities of the various research sub-fields in visualization, (c) provide an understanding of emerging new research trends, (d) facilitate the crucial step of finding the right reviewers for research submissions, and (e) it can eventually lead to a comprehensive taxonomy of visualization research. One additional tangible outcome of our work is an online query tool (http://keyvis.org/) that allows visualization researchers to easily browse the 3952 keywords used for IEEE VIS papers since 1990 to find related work or make informed keyword choices.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 77,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1408.3297",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-08-13",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "771-780",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Isenberg2014VisualizationAS,\n author = {Petra Isenberg and Tobias Isenberg and M. Sedlmair and Jian Chen and Torsten M\u00f6ller},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {771-780},\n title = {Visualization as Seen through its Research Paper Keywords},\n volume = {23},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "145322699",
+      "name": "Tobias Isenberg"
+    },
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": null,
+      "name": "Jian Chen"
+    },
+    {
+      "authorId": "2282477008",
+      "name": "Torsten M\u00f6ller"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "650b19e2b024ad454a228dd5fb50402eefbd09f8",
+      "title": "How are they different? A quantitative domain comparison of information visualization and data visualization (2000\u20132014)"
+    },
+    {
+      "paperId": "5a9cb3e09fee24830417cf25d2a8a53f01f77ce5",
+      "title": "A text visualization method for cross-domain research topic mining"
+    },
+    {
+      "paperId": "2f2961362355e45fa014ca0bb8ce4495aedf8824",
+      "title": "Thinking fast and slow."
+    },
+    {
+      "paperId": "355b14565b6bcb23963d63dd1a3d7845793a19cc",
+      "title": "Why do journals ask for keywords"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "df09e5e57d7c3b2cabe321d27d9d058fb4238e39",
+      "title": "A co-word analysis of library and information science in China"
+    },
+    {
+      "paperId": "c064b8dff03dcefdbb54e8d50264954fe018db09",
+      "title": "Trends in computer science research"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "d366e956e36fa989c7a666183acf72582a24ab02",
+      "title": "Data Clustering"
+    },
+    {
+      "paperId": "52d081c48df96c10c10aed225668827a0d16139e",
+      "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment"
+    },
+    {
+      "paperId": "df6f22df007b31c6b6d3e9645df30d1b112e51e0",
+      "title": "Visualizing the Topical Structure of the Medical Sciences: A Self-Organizing Map Approach"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "25520b37a2fe9e52d1af7fc4211eadf6b30760b2",
+      "title": "An Affordance-Based Framework for Human Computation and Human-Computer Collaboration"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "dc50627feef176184bab12ecb744c5b252589b29",
+      "title": "An application of co-word analysis and bibliometric maps for detecting the most highlighting themes in the consumer behaviour research from a longitudinal perspective"
+    },
+    {
+      "paperId": "883c2ecac064b9c9e17e19f6c24e79f820d07690",
+      "title": "A co-word analysis of digital library field in China"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "6ea309d1f8f6f979bc315e55ed1e63e6c2bbfd98",
+      "title": "A co-word analysis of digital library field in China"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "e6e6655532a18f56e84b1a4611587ac046408bc1",
+      "title": "The Visualization Handbook"
+    },
+    {
+      "paperId": "9be8168f8bb6ffa1de6884c953c2986154bff41c",
+      "title": "Bibliometrics and Citation Analysis; from the Science Citation Index to Cybermetrics"
+    },
+    {
+      "paperId": "b6cff498d0220af24571212aeb6f98315857c41b",
+      "title": "An investigation of distance education in North American research literature using co-word analysis"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "9fc917624b4ba980fe5e455f30a60888c09653e9",
+      "title": "PARADIGMS"
+    },
+    {
+      "paperId": "364621a63b45f31acb6548e0130dc82222cf7c51",
+      "title": "Handbook of Qualitative Research"
+    },
+    {
+      "paperId": "671c64d7eb51c1fca396679a7b80f2d86524ab1b",
+      "title": "The metrics of science and technology"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "cdec7d8affbb07f53061b1bd786c1558c3b6ff7a",
+      "title": "Knowledge Discovery Through Co-Word Analysis"
+    },
+    {
+      "paperId": "bd24420218cac6f5039c7a40189568ff4fae6048",
+      "title": "Software Engineering as Seen through Its Research Literature: A Study in Co-Word Analysis"
+    },
+    {
+      "paperId": "8f0a621a74c871372a23d8064377105ca9a60877",
+      "title": "Software engineering as seen through its research literature"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "31e3b9e125f4bdc9055752c8285b28997fb99ff1",
+      "title": "Co-word analysis as a tool for describing the network of interactions between basic and technological research: The case of polymer chemsitry"
+    },
+    {
+      "paperId": "8b0295e38f6750b5a794bb71a87743575cf4503f",
+      "title": "The dynamics of research in the psychology of work from 1973 to 1987: From the study of companies to the study of professions"
+    },
+    {
+      "paperId": "8c9808c9174041f130ed233aca7b727148f38f8e",
+      "title": "Creativity and Conformity in Science: Titles, Keywords and Co-word Analysis"
+    },
+    {
+      "paperId": "dfc2e81a2bb0bbe8a8eedf888f451e91a2dd0cd4",
+      "title": "Policy and the mapping of scientific change: A co-word analysis of research into environmental acidification"
+    },
+    {
+      "paperId": "4f64f876751bc17b1a06f704776934741ab008d9",
+      "title": "Mapping the dynamics of science and technology"
+    },
+    {
+      "paperId": "424f6fc1464362250db033dbffc92ea1d5a27069",
+      "title": "\"Sources of information on specific subjects\" by S.C. Bradford"
+    },
+    {
+      "paperId": "dc37457e56b06db0bd03a945e8850967decbb53d",
+      "title": "Visualization"
+    },
+    {
+      "paperId": "8eced091ab3e3fd0b1747896cff082711c510d4a",
+      "title": "Hierarchical Grouping to Optimize an Objective Function"
+    },
+    {
+      "paperId": "1fafe7f3ccbb2933b7456d89baa19939aeaf9698",
+      "title": "An Ordination of the Upland Forest Communities of Southern Wisconsin"
+    },
+    {
+      "paperId": null,
+      "title": "Precision conference solution"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. BELIV"
+    },
+    {
+      "paperId": null,
+      "title": "hal-01055309, version 1 -12 Aug"
+    },
+    {
+      "paperId": null,
+      "title": "Thesaurus FAQs Web site: http://www.computer.org/portal/web/tandc/Thesaurus-FAQ"
+    },
+    {
+      "paperId": "f24e9890c449cf4d87a9825556f0a1f0f39b220d",
+      "title": "Visualization on Interactive Surfaces: A Research Overview"
+    },
+    {
+      "paperId": "437f93d518436bb3e5e90c36086551e6cfc6550c",
+      "title": "CiteVis : Exploring Conference Paper Citation Data Visually"
+    },
+    {
+      "paperId": null,
+      "title": "2013 IEEE Taxonomy, version 1.0"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+      "title": "Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": null,
+      "title": ") keyword # slope SE p-val. keyword # slope SE p-val. keyword # slope SE"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": null,
+      "title": "Historical trends for 15 most frequently used keywords for each of the author, expert, and PCS datasets"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "1998 IEEE Approved Indexing Key-word List"
+    },
+    {
+      "paperId": null,
+      "title": "Annotated bibliography of the visualization conference proceedings"
+    },
+    {
+      "paperId": "7ee0b07598a59f7077788c0004e2a8186e5e629c",
+      "title": "THE INSTITUTEOF ELECTRICAL AND ELECTRONICS ENGINEERS,INC."
+    },
+    {
+      "paperId": null,
+      "title": "A8 parallel coord."
+    },
+    {
+      "paperId": null,
+      "title": "P8 scalability issues , streaming data , data warehousing, database visualization and data mining"
+    },
+    {
+      "paperId": null,
+      "title": "P9 time-varying data"
+    },
+    {
+      "paperId": null,
+      "title": "P11 quantitative eval. , qualitative eval. , laboratory studies, metrics & benchmarks"
+    },
+    {
+      "paperId": null,
+      "title": "P5 graph/network data , visual knowledge discovery , coordinated & multiple views, time series data, text & document data, data clustering, visual knowledge represent., hierarchy data,"
+    },
+    {
+      "paperId": null,
+      "title": "P6 collaborative & distributed visualization , large & high-res displays ,"
+    },
+    {
+      "paperId": null,
+      "title": "RR n\u00b0"
+    },
+    {
+      "paperId": null,
+      "title": "P13 data transformation and representation"
+    },
+    {
+      "paperId": null,
+      "title": "Isenberg"
+    },
+    {
+      "paperId": null,
+      "title": "P10 illustrative visualization , animation , visualization for the masses,"
+    },
+    {
+      "paperId": null,
+      "title": "P4 multidimen. data ,"
+    },
+    {
+      "paperId": null,
+      "title": "INSPEC terms: These index terms are automatically derived [33] either using the same IEEE taxonomy (controlled) or without constraints (non-controlled)"
+    },
+    {
+      "paperId": null,
+      "title": "E9 interpolation , sampling , grids & lattices"
+    },
+    {
+      "paperId": null,
+      "title": "A6 geovisualization , spatio-temporal data"
+    },
+    {
+      "paperId": null,
+      "title": "P7 intelligence analysis , situational awareness , emergency/disaster management, knowledge externalization, network security and intrusion, time critical applications"
+    },
+    {
+      "paperId": null,
+      "title": "Inria"
+    },
+    {
+      "paperId": null,
+      "title": "Author-assigned keywords: Keywords freely assigned by the authors to their research paper. We collected this data manually from paper PDFs as"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE terms"
+    }
+  ]
+}

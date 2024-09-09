@@ -1,0 +1,446 @@
+{
+  "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+  "externalIds": {
+    "DBLP": "journals/tvcg/HullmanQCKK19",
+    "MAG": "2891628559",
+    "DOI": "10.1109/TVCG.2018.2864889",
+    "CorpusId": 51920450,
+    "PubMed": "30207956"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+  "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation",
+  "abstract": "Understanding and accounting for uncertainty is critical to effectively reasoning about visualized data. However, evaluating the impact of an uncertainty visualization is complex due to the difficulties that people have interpreting uncertainty and the challenge of defining correct behavior with uncertainty information. Currently, evaluators of uncertainty visualization must rely on general purpose visualization evaluation frameworks which can be ill-equipped to provide guidance with the unique difficulties of assessing judgments under uncertainty. To help evaluators navigate these complexities, we present a taxonomy for characterizing decisions made in designing an evaluation of an uncertainty visualization. Our taxonomy differentiates six levels of decisions that comprise an uncertainty visualization evaluation: the behavioral targets of the study, expected effects from an uncertainty visualization, evaluation goals, measures, elicitation techniques, and analysis approaches. Applying our taxonomy to 86 user studies of uncertainty visualizations, we find that existing evaluation practice, particularly in visualization research, focuses on Performance and Satisfaction-based measures that assume more predictable and statistically-driven judgment behavior than is suggested by research on human judgment and decision making. We reflect on common themes in evaluation practice concerning the interpretation and semantics of uncertainty, the use of confidence reporting, and a bias toward evaluating performance as accuracy rather than decision quality. We conclude with a concrete set of recommendations for evaluators designed to reduce the mismatch between the conceptualization of uncertainty in visualization versus other fields.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 91,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-01-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "903-913",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hullman2019InPO,\n author = {J. Hullman and X. Qiao and M. Correll and Alex Kale and Matthew Kay},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {903-913},\n title = {In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3159918",
+      "name": "J. Hullman"
+    },
+    {
+      "authorId": "2052305566",
+      "name": "X. Qiao"
+    },
+    {
+      "authorId": "11192438",
+      "name": "M. Correll"
+    },
+    {
+      "authorId": "144946284",
+      "name": "Alex Kale"
+    },
+    {
+      "authorId": "3835122",
+      "name": "Matthew Kay"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "83f599d31fd781ddfb069a6c00c17101857b12b6",
+      "title": "Distributions"
+    },
+    {
+      "paperId": "25459caf19614fde5e1b82deac7cb9496d7c1c9b",
+      "title": "Why Most Published Research Findings Are False"
+    },
+    {
+      "paperId": "8477b1d6dc387baf92e9d3bc1afa0081fe641cb7",
+      "title": "Value-Suppressing Uncertainty Palettes"
+    },
+    {
+      "paperId": "825ae04b67cd58951cdb115978e9fba6a1d5f5d9",
+      "title": "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making"
+    },
+    {
+      "paperId": "fa237f1b22b0b0f139e07b9cffba34318e96b3e5",
+      "title": "Guidelines for Evaluating and Expressing the Uncertainty of Nist Measurement Results"
+    },
+    {
+      "paperId": "e87f3d9e989144f447dca4143589d7fca4db6909",
+      "title": "Increasing Users' Confidence in Uncertain Data by Aggregating Data from Multiple Sources"
+    },
+    {
+      "paperId": "5c313fdf7cbb67a85ad51d521ae83f510141dd76",
+      "title": "Uncertainty Visualization for Mobile and Wearable Devices Based Activity Recognition Systems"
+    },
+    {
+      "paperId": "64bf619713725ac39cc0cf2690f639fc0fbda37a",
+      "title": "Communicating Local Climate Risks Online Through an Interactive Data Visualization"
+    },
+    {
+      "paperId": "a551ecabef8e429cf51e268d5e3fe8bb3c7e1856",
+      "title": "Evaluating the effect of visually represented geodata uncertainty on decision-making: systematic review, lessons learned, and recommendations"
+    },
+    {
+      "paperId": "62b8d556b65be47d3a03798c4abcf5fbfe9558cb",
+      "title": "Why Evaluating Uncertainty Visualization is Error Prone"
+    },
+    {
+      "paperId": "581cac29eb0dea13d4905c11e3fe6904ff9dee1a",
+      "title": "High Numerates Count Icons and Low Numerates Process Large Areas in Pictographs: Results of an Eye\u2010Tracking Study"
+    },
+    {
+      "paperId": "45d6a177618c36f8f133c98558e59bc21361ce7c",
+      "title": "Evaluating the impact of visualization of wildfire hazard upon decision-making under uncertainty"
+    },
+    {
+      "paperId": "e75957f41a092a1a7b436375b949d205972d3474",
+      "title": "When (ish) is My Bus?: User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"
+    },
+    {
+      "paperId": "ac3600e68f7ef9e971f4eb3bd5bf44f5fd6f7237",
+      "title": "Signatures of a Statistical Computation in the Human Sense of Confidence"
+    },
+    {
+      "paperId": "e4b3eb206109f7bae0bf0e96381a63d91edc0b56",
+      "title": "Visual Encodings of Temporal Uncertainty: A Comparative User Study"
+    },
+    {
+      "paperId": "0406c3b350227b7f59356b75f1d45e1825f6931d",
+      "title": "Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences about Reliability of Variable Ordering"
+    },
+    {
+      "paperId": "b89761b24fe5bc53f9366de1074fd018cd0cfc41",
+      "title": "Exploring the Use of an Information Visualization Tool for Decision Support under Uncertainty and Risk"
+    },
+    {
+      "paperId": "164deac33d4377e7d00fa21c8ef465528aff1b01",
+      "title": "The influence of different graphical displays on nonexpert decision making under uncertainty."
+    },
+    {
+      "paperId": "2f2961362355e45fa014ca0bb8ce4495aedf8824",
+      "title": "Thinking fast and slow."
+    },
+    {
+      "paperId": "074ec716e8c481514f0c15e2714306b444dda0a1",
+      "title": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error"
+    },
+    {
+      "paperId": "3c9933a5b886496435c1296e5e08fe0307601990",
+      "title": "How to Assess Visual Communication of Uncertainty? A Systematic Review of Geospatial Uncertainty Visualisation User Studies"
+    },
+    {
+      "paperId": "2460eac7b3342fb4929dc5e88332b4d81da0bdf5",
+      "title": "Relation between Belief and Performance in Perceptual Decision Making"
+    },
+    {
+      "paperId": "d47c01ca6e1dc29f2204508c243283cf5864ef4a",
+      "title": "Lay understanding of probability distributions"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "96e2d1620e5c152989a902f56606ce17dae7613c",
+      "title": "Computation and visualization of uncertainty in surgical navigation"
+    },
+    {
+      "paperId": "c229de812acf3ee44c0ee2fa47f43938aeaadd52",
+      "title": "Decisions With Uncertainty: The Glass Half Full"
+    },
+    {
+      "paperId": "2ef1b98f005c5d59e4ac334c3ec7a26c9504f54b",
+      "title": "Intuitive visualization of vehicle distance, velocity and risk potential in rear-view camera applications"
+    },
+    {
+      "paperId": "b4fa787605d7f8634a8d47d41cdbcecd552d93f2",
+      "title": "Risk maps for liver surgery"
+    },
+    {
+      "paperId": "836b2ae1e8693b230cdd5fc7a15e2a809f278291",
+      "title": "Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "a63a933d80f9201c3b0595aec0ec0a42761e93f1",
+      "title": "Navigating the Landscape of Data Literacy: It IS Complex."
+    },
+    {
+      "paperId": "3653af802014a20a2f7e1b49bb7b29c8ca71cc3c",
+      "title": "Bar graphs depicting averages are perceptually misinterpreted: The within-the-bar bias"
+    },
+    {
+      "paperId": "35325ea1f687bd683e16dbed1fa51d402bd30a75",
+      "title": "Uncertainty forecasts improve weather-related decisions and attenuate the effects of forecast error."
+    },
+    {
+      "paperId": "a04042b1c970c7ed6420b59ebb80018843891e3b",
+      "title": "A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "9e309c04e06d27c843f90d4ca6dca9322e33a87c",
+      "title": "Uncertainty Forecasts Improve Decision Making Among Nonexperts"
+    },
+    {
+      "paperId": "4416182788c3f176bc25ecb388873a7d02870cb8",
+      "title": "Uncertainty visualization: why might it fail?"
+    },
+    {
+      "paperId": "2b60f5a4400a0d6073e2006888b7c530387336d1",
+      "title": "Ensemble-space visualization improves perception of 3D state of molecular dynamics simulation"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "4a386aab472ce19624573004730e651f6f15e432",
+      "title": "Visualizing Large-Scale Uncertainty in Astrophysical Data"
+    },
+    {
+      "paperId": "b5d34d11db4ffc8320200534eae211d8d076aa1f",
+      "title": "Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation"
+    },
+    {
+      "paperId": "4510b3b019dcd35c49c542d1e8cb2132286d8bf5",
+      "title": "The Effect of Probabilistic Information on Threshold Forecasts"
+    },
+    {
+      "paperId": "e9c4f13493b33d87f8b8c121c21f55579c6343bc",
+      "title": "\u300cCompleting the Forecast : Characterizing and Communicating Uncertainty for Better Decisions Using Weather and Climate Forecasts\u300d, National Research Council\u8457, The National Academies Press, 2006\u5e74, 112\u9801, 25.88\u30c9\u30eb, ISBN-13:978-0-309-10255-1(\u672c\u3060\u306a)"
+    },
+    {
+      "paperId": "c646229a10912a36d38a0602a19c976e1b7dbfb2",
+      "title": "Uncertain Judgements: Eliciting Experts' Probabilities"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "5e33e59f05cc77e97195f1c0ec8dfdc10b9df8bd",
+      "title": "Theoretical analysis of uncertainty visualizations"
+    },
+    {
+      "paperId": "55a6d74d06ccf4aa62f1dddb6b628327ffa94abd",
+      "title": "Displaying Uncertainty: Investigating the Effects of Display Format and Specificity"
+    },
+    {
+      "paperId": "1102df06d8372cdceaa98ad835c72efcf6748f36",
+      "title": "Researchers misunderstand confidence intervals and standard error bars."
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "7cee1893d0f5004127f489d95a3df826096b0fbb",
+      "title": "Testing Popular Visualization Techniques for Representing Model Uncertainty"
+    },
+    {
+      "paperId": "7e783f9fe1aceb6dd2c1fc7430627a239aa100f6",
+      "title": "Visualizing Data Certainty: A Case Study Using Graduated Circle Maps"
+    },
+    {
+      "paperId": "0c091c13627117f916a5449cfff708930b8f5467",
+      "title": "The effects of experience and task difficulty on accuracy and confidence assessments of auditors"
+    },
+    {
+      "paperId": "b004dd664e8cfb0d76fc555c0faff09093eb1c8b",
+      "title": "Evaluating the Perception of Uncertainty in Alternative Visualization Strategies"
+    },
+    {
+      "paperId": "fbc7382c715130f1916aea00848136b35c0cdaa0",
+      "title": "Guidelines for the Display of Attribute Certainty"
+    },
+    {
+      "paperId": "68709f7225b7550aa9466972cd47bb3bb4d904da",
+      "title": "Dynamic display of spatial data-reliability: does it benefit the map user?"
+    },
+    {
+      "paperId": "79eb75a1a22ef7774623dd574cf066cf5492c22f",
+      "title": "Coping with Uncertainty: A Naturalistic Decision-Making Analysis"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "49045496d186fec8ba8348a752de2a16b1739ef5",
+      "title": "How to Improve Bayesian Reasoning Without Instruction: Frequency Formats"
+    },
+    {
+      "paperId": "8acf3b30fd8f665c6ae0f8408b6900cc80fefa02",
+      "title": "Experimental Economics"
+    },
+    {
+      "paperId": "61fcf106d54ddef26871ac06809bee3eddb055be",
+      "title": "Uncertainty Assessment Accuracy and Resource Allocation Outcomes: An Empirical Test of a Presumed Relation"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "cfc7d274aa9c39453851816a93d5a629058e65bb",
+      "title": "Graphical Communication of Uncertain Quantities to Nontechnical People"
+    },
+    {
+      "paperId": "2daaf5c34d456a3ba739cfb16293f97561d3a301",
+      "title": "Prospect theory: An analysis of decision under risk Econometrica 47"
+    },
+    {
+      "paperId": "dbdb10f066b857baa6e129f49b8d832c3f6267ae",
+      "title": "Judgment under Uncertainty: Heuristics and Biases"
+    },
+    {
+      "paperId": "4140e7481c2599604b14fcd04625274022583631",
+      "title": "Availability: A heuristic for judging frequency and probability"
+    },
+    {
+      "paperId": "894fc603f9b16e775f95045fb805b5d7e6935944",
+      "title": "BELIEF IN THE LAW OF SMALL NUMBERS"
+    },
+    {
+      "paperId": "a7e042d81bf76190441620f3d4303b7998c29d79",
+      "title": "Risk, Ambiguity, and the Savage Axioms: Reply"
+    },
+    {
+      "paperId": null,
+      "title": "Animated hypothetical outcome plots help untrained observers judge trends in ambiguous data. Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "2a0f80bee7fb34f15d6e4daf3e134be476439271",
+      "title": "Imagining Replications: Graphical Prediction & Discrete Visualizations Improve Recall & Estimation of Effect Uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "End-user development for interactive data analytics: Uncertainty, correlation and user con\ufb01dence"
+    },
+    {
+      "paperId": "4a050fb3cba56d571a454397224ddd79c16dd91f",
+      "title": "Why I am not a Bayesian"
+    },
+    {
+      "paperId": "3969731b77090aba72d71792ad5a4c0f6bf40b80",
+      "title": "Foundations Of Statistics"
+    },
+    {
+      "paperId": "8ebb4985ae84278fc5e87457a30603b9a0064981",
+      "title": "Towards Ecological Validity in Evaluating Uncertainty"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "964ea62f73fd0ca76b1c5bd0deca7472709c0be5",
+      "title": "The perception of visual uncertainty representation by non-experts"
+    },
+    {
+      "paperId": "282d508060a20b305f83fc47ebadf944bd2d9eab",
+      "title": "Evaluating implicit visualization of uncertainty for public policy decision"
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty visualizations: Helping decision makers become more aware of uncertainty and its implications"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": null,
+      "title": "Representing uncertainty: Does it help people make better decisions"
+    },
+    {
+      "paperId": "9148565cd7053cea2841bb49328afc4fef179815",
+      "title": "Simple Heuristics That Make Us Smart"
+    },
+    {
+      "paperId": null,
+      "title": "T. I. O. for Standardization (ISO)"
+    },
+    {
+      "paperId": "1cecef2fdea0ab22329bf8f595a36137122f321e",
+      "title": "Decision making under ignorance: Arguing with yourself"
+    },
+    {
+      "paperId": null,
+      "title": "Ambiguity Aversion and Comparative Ignorance"
+    },
+    {
+      "paperId": null,
+      "title": "In\ufb02uences on the appropriateness of con\ufb01-dence in judgment: Practice, effort, information, and decision-making"
+    },
+    {
+      "paperId": null,
+      "title": "Concepts in judgment and decision research-anderson,"
+    },
+    {
+      "paperId": "acb334e412783d624768876e5c944e0f043afca0",
+      "title": "Ambiguity and choice in organizations"
+    },
+    {
+      "paperId": null,
+      "title": "Rational man\u2018s behavior in the presence of risk: Critique of the postulates and axioms of the american school"
+    }
+  ]
+}

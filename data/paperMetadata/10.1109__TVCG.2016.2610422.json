@@ -1,0 +1,706 @@
+{
+  "paperId": "50f2f7166a89e1ef628ab372edc53df77109b9fa",
+  "externalIds": {
+    "DBLP": "journals/tvcg/FedericoHKM17",
+    "MAG": "2520079880",
+    "DOI": "10.1109/TVCG.2016.2610422",
+    "CorpusId": 19572047,
+    "PubMed": "27654646"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/50f2f7166a89e1ef628ab372edc53df77109b9fa",
+  "title": "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents",
+  "abstract": "The increasingly large number of available writings describing technical and scientific progress, calls for advanced analytic tools for their efficient analysis. This is true for many application scenarios in science and industry and for different types of writings, comprising patents and scientific articles. Despite important differences between patents and scientific articles, both have a variety of common characteristics that lead to similar search and analysis tasks. However, the analysis and visualization of these documents is not a trivial task due to the complexity of the documents as well as the large number of possible relations between their multivariate attributes. In this survey, we review interactive analysis and visualization approaches of patents and scientific articles, ranging from exploration tools to sophisticated mining methods. In a bottom-up approach, we categorize them according to two aspects: (a) data type (text, citations, authors, metadata, and combinations thereof), and (b) task (finding and comparing single entities, seeking elementary relations, finding complex patterns, and in particular temporal patterns, and investigating connections between multiple behaviours). Finally, we identify challenges and research directions in this area that ask for future investigations.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 157,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2017-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2179-2198",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Federico2017ASO,\n author = {P. Federico and Florian Heimerl and Steffen Koch and S. Miksch},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2179-2198},\n title = {A Survey on Visual Approaches for Analyzing Scientific Literature and Patents},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145674284",
+      "name": "P. Federico"
+    },
+    {
+      "authorId": "2018838",
+      "name": "Florian Heimerl"
+    },
+    {
+      "authorId": "34520778",
+      "name": "Steffen Koch"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "62bea5feeadf6e6ba98e43c77e9d342ca5dd0f57",
+      "title": "CiteRivers: Visual Analytics of Citation Patterns"
+    },
+    {
+      "paperId": "5a9cb3e09fee24830417cf25d2a8a53f01f77ce5",
+      "title": "A text visualization method for cross-domain research topic mining"
+    },
+    {
+      "paperId": "86771ac716f579ed387d9a9e8b3b2a40bc98809c",
+      "title": "VEGAS: Visual influEnce GrAph Summarization on Citation Networks"
+    },
+    {
+      "paperId": "fb4c094627830522b51dc2ece41406634e143d33",
+      "title": "Visual exploration of relationships between document clusters"
+    },
+    {
+      "paperId": "7b5956d72712563470bd4fd84324d6c935f36686",
+      "title": "A Visualization of Research Papers Based on the Topics and Citation Network"
+    },
+    {
+      "paperId": "731d9a81b16a833f006728273988b2e621bcbf5c",
+      "title": "Visual Assessment of Alleged Plagiarism Cases"
+    },
+    {
+      "paperId": "0e6bba2946248b47b39779720de66606084e5536",
+      "title": "1.5D Egocentric Dynamic Network Visualization"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "e7b2a439c6396817e48411160d5b9814c0b6182c",
+      "title": "A literature review on the state-of-the-art in patent analysis"
+    },
+    {
+      "paperId": "4b47002f92137b6f4f67e741c49575dd39bd7168",
+      "title": "Comparative Exploration of Document Collections: a Visual Analytics Approach"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "f17a900e4b662a16fc8b36bd0b2776ca4d59299f",
+      "title": "Web-based Demonstration of Semantic Similarity Detection Using Citation Pattern Visualization for a Cross Language Plagiarism Case"
+    },
+    {
+      "paperId": "87f862e234e594dab4e61dea7701a3abdffd89a5",
+      "title": "CitNetExplorer: A new software tool for analyzing and visualizing citation networks"
+    },
+    {
+      "paperId": "9b4bdab7a4d4a04032a0eeb7fd402a1703ed57fc",
+      "title": "A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks"
+    },
+    {
+      "paperId": "b52ba00f519bea027817749346a608b41c36dcbc",
+      "title": "Radial Sets: Interactive Visual Analysis of Large Overlapping Sets"
+    },
+    {
+      "paperId": "67c91611ab6fdac1fe3c85e9e90d4b726f9761c7",
+      "title": "UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization"
+    },
+    {
+      "paperId": "f5bdb05e22c8a09b3b3d201b76551689195e6788",
+      "title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets"
+    },
+    {
+      "paperId": "74994aaddccffe70a779cc14df1cc2d6f7f6caea",
+      "title": "HierarchicalTopics: Visually Exploring Large Text Collections Using Topic Hierarchies"
+    },
+    {
+      "paperId": "339194638736eca3229ea2252f110b53aeff17d6",
+      "title": "Exploring Scholarly Data with Rexplore"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "e04daf1ce928d857024d07198258bb0524f253a9",
+      "title": "Adaptive Semantic Visualization for Bibliographic Entries"
+    },
+    {
+      "paperId": "9650dbe79d34498113371770dcdb48f1bd7c9711",
+      "title": "Maps of Computer Science"
+    },
+    {
+      "paperId": "9d608113a6243b1a694ba6951ef9fc1d507d1ad7",
+      "title": "Mapping Scientific Frontiers: The Quest for Knowledge Visualization"
+    },
+    {
+      "paperId": "4652f8f15f24278c513e8089a61e059f62ae7ab5",
+      "title": "Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization"
+    },
+    {
+      "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+      "title": "Seeing beyond reading: a survey on visual text analytics"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "1864746588f24832bbbff0c91f49c59ffc9d2f37",
+      "title": "Scholarly network similarities: How bibliographic coupling networks, citation networks, cocitation networks, topical networks, coauthorship networks, and coword networks relate to each other"
+    },
+    {
+      "paperId": "f9e867c7bc3ec5eea85f688ccb9112387053867a",
+      "title": "iVisClustering: An Interactive Visual Document Clustering via Topic Modeling"
+    },
+    {
+      "paperId": "ea5f228caaf7283edd51a0b85ed961358d766d98",
+      "title": "Termite: visualization techniques for assessing textual topic models"
+    },
+    {
+      "paperId": "5e5d91192ff105c1607c75bb74c8d752c05e5b4d",
+      "title": "Visualizing set-valued attributes in parallel with equal-height histograms"
+    },
+    {
+      "paperId": "cf9b4048f1945e3b9703bc128284f6e6b30de70d",
+      "title": "Interactive graph matching and visual comparison of graphs and clustered graphs"
+    },
+    {
+      "paperId": "98e3e60d90d421c1c29018911d6ede0160d68fcc",
+      "title": "Interpretation and trust: designing model-driven visualizations for text analysis"
+    },
+    {
+      "paperId": "60c494327a4080cff5381c64fd76c2d971fb3371",
+      "title": "Citeology: visualizing paper genealogy"
+    },
+    {
+      "paperId": "df2a0ae3b2516e627fd411fef9147986c525e01a",
+      "title": "Interactive exploration of geospatial network visualization"
+    },
+    {
+      "paperId": "6e039630df48d7f063f7ed8790c8ba116e454308",
+      "title": "TopicNets: Visual Analysis of Large Text Corpora with Topic Modeling"
+    },
+    {
+      "paperId": "5b667d9e286f48b90f607b1714785dd4f0bafc75",
+      "title": "G-PARE: A visual analytic tool for comparative analysis of uncertain graphs"
+    },
+    {
+      "paperId": "89e434fd07177eb3ceba3b9f461b2f1be57462ee",
+      "title": "Visual social network analytics for relationship discovery in the enterprise"
+    },
+    {
+      "paperId": "8df85054bc99278c835a7e7556dbd1ff37dc29d8",
+      "title": "ParallelTopics: A probabilistic approach to exploring document collections"
+    },
+    {
+      "paperId": null,
+      "title": "Orion: A system for modeling, transformation and visualization of multidimensional heterogeneous networks"
+    },
+    {
+      "paperId": "46964f6ad55a0fd09d23460ed6455cc1606e3118",
+      "title": "Design Study of LineSets, a Novel Set Visualization Technique"
+    },
+    {
+      "paperId": "beff63e57ca30f6c8b010a4d03c7bd5a07e0eca7",
+      "title": "INVISQUE: Technology and Methodologies for Interactive Information Visualization and Analytics in Large Library Collections"
+    },
+    {
+      "paperId": "01b05a1821f5ca69707b441d2464a4302aa6041c",
+      "title": "Visualization of the technology evolution in smart grid"
+    },
+    {
+      "paperId": "405cf33afc69d733528e3a0291fc9105713e9aa9",
+      "title": "Predicting Researchers' Future Activities Using Visualization System for Co-authorship Networks"
+    },
+    {
+      "paperId": "a4b7f404c8720af2be18e2a924e9ab2f3988b788",
+      "title": "CyBiS: A Novel Interface for Searching Scientific Documents"
+    },
+    {
+      "paperId": "180babcd2a948f30317d1e74da55bd8937b4710a",
+      "title": "Media Map: A Multilingual Document Map with a Design Interface"
+    },
+    {
+      "paperId": "31e2f7c599cd5cd621f13932186db352be4d8eea",
+      "title": "PaperVis: Literature Review Made Easy"
+    },
+    {
+      "paperId": "612c62dde27eeca0ab23de006dbdef53072e0228",
+      "title": "Semantic\u2010Preserving Word Clouds by Seam Carving"
+    },
+    {
+      "paperId": "4cd8cfee239b17707594db3cfbc073b9bdd402d6",
+      "title": "Atlas of Science: Visualizing What We Know"
+    },
+    {
+      "paperId": "b77b20e9e6a3477db37d66f002d352075ffe2454",
+      "title": "Katy B\u00f6rner: Atlas of science: visualizing what we know"
+    },
+    {
+      "paperId": "e3df511dcd7bfc42068dff8a60d78c77dbfe255e",
+      "title": "Iterative Integration of Visual Insights during Scalable Patent Search and Analysis"
+    },
+    {
+      "paperId": "d3d30a821dbdf72b2b52f7f52a8f07ca9428d70e",
+      "title": "Current Challenges in Patent Information Retrieval"
+    },
+    {
+      "paperId": "4932964127efa8c7225667e150e43732933bebdc",
+      "title": "SIMPLE: Interactive Analytics on Patent Data"
+    },
+    {
+      "paperId": "61bc124f3d82a486ac516bab13c579219103378a",
+      "title": "Two-stage framework for a topology-based projection and visualization of classified document collections"
+    },
+    {
+      "paperId": "969bb9556a5cca3725664884255a9dfbd9f9c2e3",
+      "title": "New Approach to the Visualization of International Scientific Collaboration"
+    },
+    {
+      "paperId": "267bb449a4d53fc3eb2e71f26adde0ace26a00e7",
+      "title": "Discovering Novelty in Gene Data: From Sequential Patterns to Visualization"
+    },
+    {
+      "paperId": "2414202fed2bca9417c6e10539150cb302506672",
+      "title": "Multilevel Compression of Random Walks on Networks Reveals Hierarchical Organization in Large Integrated Systems"
+    },
+    {
+      "paperId": "2f10e56f8e2c3155548a2bf4bbffef96bcfd262b",
+      "title": "TAKE Scientist's Workbench: Semantic Search and Citation-Based Visual Navigation in Scholar Papers"
+    },
+    {
+      "paperId": "2228d6cce7605b8d2d3ca3505a8b31326d50428e",
+      "title": "Visualization and Language Processing for Supporting Analysis across the Biomedical Literature"
+    },
+    {
+      "paperId": "7a02ffa71ebf1be233fda1da2352f8c57bf9f44b",
+      "title": "Review of the state-of-the-art in patent information and forthcoming evolutions in intelligent patent informatics"
+    },
+    {
+      "paperId": "edea882e8294537c76e16339ce32c2dd96753025",
+      "title": "Software survey: VOSviewer, a computer program for bibliometric mapping"
+    },
+    {
+      "paperId": "7f9816bcc615c83ca4ada0eef415032761de60f6",
+      "title": "Augmenting the exploration of digital libraries with web-based visualizations"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "b80e2b47d1a36cae33d4881ea29f9c59be5c62f4",
+      "title": "Visualizing the Intellectual Structure with Paper-Reference Matrices"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "672e76d4c4d16132abb56fe2284e6c3c2927e5f2",
+      "title": "Visual overviews for discovering key papers and influences across research fronts"
+    },
+    {
+      "paperId": "02d5d78498a68ef102296546e7791fcaeceac4f1",
+      "title": "FacetLens: exposing trends and relationships to support sensemaking within faceted datasets"
+    },
+    {
+      "paperId": "3514b60bdde2bbde93f80f193fbc41893b289262",
+      "title": "Mapping Change in Large Networks"
+    },
+    {
+      "paperId": "7692fa9eb81c6be7c9a4e8344e1bbb457ea746b9",
+      "title": "Text mining and visualization tools - Impressions of emerging capabilities"
+    },
+    {
+      "paperId": "3a5dc71097588dfbc166a50aedc72946d88637a3",
+      "title": "A 3D treemap approach for analyzing the classificatory distribution in patent portfolios"
+    },
+    {
+      "paperId": "20e41a217b49b827b04258d096eda1cfba1d6a36",
+      "title": "Detecting emerging research fronts based on topological measures in citation networks of scientific publications"
+    },
+    {
+      "paperId": "98668aae995f85665b272e48548e7c706e1687ff",
+      "title": "Visual Analysis Tool for Bipartite Networks"
+    },
+    {
+      "paperId": "a9c9cb9d1e7694cf90aa61141232b4c04ec23ece",
+      "title": "113 Years of Physical Review: Using Flow Maps to Show Temporal and Topical Citation Patterns"
+    },
+    {
+      "paperId": "4ecf251c278035225d8befdfe19cbe96b4f1afb9",
+      "title": "20 Years of Four HCI Conferences: A Visual Exploration"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "7ca9aaf0f560003226cf7dc0b2f7558325b40b6e",
+      "title": "CiteWiz: A Tool for the Visualization of Scientific Citation Networks"
+    },
+    {
+      "paperId": "164f7422f2dfa481179ed34f6e180b0bb60f4174",
+      "title": "Maps of random walks on complex networks reveal community structure"
+    },
+    {
+      "paperId": "044882a25c7d6b3dd4744416f396c262b5faa470",
+      "title": "On Visualization of Cocitation Networks"
+    },
+    {
+      "paperId": "8efd14b18ad0b99840cf1f2b6b01886fc820a257",
+      "title": "Taxonomy visualization in support of the semi-automatic validation and optimization of organizational schemas"
+    },
+    {
+      "paperId": "91532eb199e1a6cca8df3203f2e78799767dcea0",
+      "title": "Unsupervised prediction of citation influences"
+    },
+    {
+      "paperId": "37651442fe40fc8e7c45930c4ec20bea4ca6086a",
+      "title": "Delineating the citation impact of scientific discoveries"
+    },
+    {
+      "paperId": "7e9937993488df7c04c19667d3ce325b1b2501dd",
+      "title": "Patent citation network in nanotechnology (1976\u20132004)"
+    },
+    {
+      "paperId": "fd9b7a37922f929b68e186ba104b5d6d04dc9f13",
+      "title": "NetLens: Iterative Exploration of Content-Actor Network Data"
+    },
+    {
+      "paperId": "4e223a2bd3948eb5aae86f70b5e3678d911bafc1",
+      "title": "Analysis and Visualization of Co-authorship Networks for Understanding Academic Collaboration and Knowledge Domain of Individual Researchers"
+    },
+    {
+      "paperId": "d5f37d8f2134c6c9a6240c89ada6b5a9e83281be",
+      "title": "Sensemaking tools for understanding research literatures: Design, implementation and user evaluation"
+    },
+    {
+      "paperId": "75cf13f35bb4456270c1c7cb835e234d42b90af4",
+      "title": "Web site design with the patron in mind: A step-by-step guide for libraries"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "b81fc317118c11ed8def2e6914aa068d6a1286eb",
+      "title": "An index to quantify an individual's scientific research output"
+    },
+    {
+      "paperId": "6d043d90f70b55dba81ade0251ea1d2e42994c59",
+      "title": "Community mining tool using bibliography data"
+    },
+    {
+      "paperId": "7dfe36249ed1e1897d0bcb55f3622c98052f0aec",
+      "title": "Understanding research trends in conferences using paperLens"
+    },
+    {
+      "paperId": "0c090dfd027f2aec285037beb4917879f9f1f40e",
+      "title": "ActiveGraph: A digital library visualization tool"
+    },
+    {
+      "paperId": "9ccb6831abc27c16ddc9080ab8f21952215e4353",
+      "title": "IN-SPIRE InfoVis 2004 Contest Entry"
+    },
+    {
+      "paperId": "76f56f5f2435b65e4631a442f12681faa7a2c7ac",
+      "title": "Case Study: Visualizing Visualization"
+    },
+    {
+      "paperId": "97fab30a0c8d0fbc1305bf1aa537db150c286667",
+      "title": "Major Information Visualization Authors, Papers and Topics in the ACM Library"
+    },
+    {
+      "paperId": "4ad5cf5f193ec055095f47076ebf1961d28dfd85",
+      "title": "Exploring and Visualizing the History of InfoVis"
+    },
+    {
+      "paperId": "c42fa361f0235a71ca34930f821d3c09608cd4a8",
+      "title": "Exploring InfoVis Publication History with Tulip"
+    },
+    {
+      "paperId": "719ac7e106556a0ed8748773560c4a34b3b2a8ed",
+      "title": "Citiviz: A Visual User Interface to the CITIDEL System"
+    },
+    {
+      "paperId": "e3af5145d007bdd4573ea7a95dd8bd51f8be4f5c",
+      "title": "Getting to more abstract places using the metro map metaphor"
+    },
+    {
+      "paperId": "1fc2b31988cc0e7bdda796bb97316dac5960bffb",
+      "title": "Examining the evolution and distribution of patent classifications"
+    },
+    {
+      "paperId": "1903c8b9dc5a32646f2b7aec3c96bb9aca09c805",
+      "title": "Searching for intellectual turning points: Progressive knowledge domain visualization"
+    },
+    {
+      "paperId": "477372a29670b2733cd0427bada7e0477229e745",
+      "title": "User-controlled mapping of significant literatures"
+    },
+    {
+      "paperId": "31e38a5a39dabc9557b2c6dfb3cdf3354a46fa22",
+      "title": "The world of geography: Visualizing a knowledge domain with cartographic means"
+    },
+    {
+      "paperId": "e5c2e265fce2f4e85cc4f995ad80e14e7a297b90",
+      "title": "Historiographic Mapping of Knowledge Domains Literature"
+    },
+    {
+      "paperId": "b31dbf0d39067d7924cd242425fde114fc7bab33",
+      "title": "Mapping topics and topic bursts in PNAS"
+    },
+    {
+      "paperId": "0e0f9729dbfd50bba1bc504f487fc5a1dec4c097",
+      "title": "Visualizing evolving networks: minimum spanning trees versus pathfinder networks"
+    },
+    {
+      "paperId": "dfab8a68d29bb0d9da9bdb4d60bb1393fe684c62",
+      "title": "GraphAEL: Graph Animations with Evolving Layouts"
+    },
+    {
+      "paperId": "11ef82ee47386e552669025c9b6b648a8b8fd03e",
+      "title": "Real-time author co-citation mapping for online searching"
+    },
+    {
+      "paperId": "c3a12ba9eca9d893b3f27dd5258ad24cece66a72",
+      "title": "Co-Citation Count vs Correlation for Influence Network Visualization"
+    },
+    {
+      "paperId": "7ca4a882cbd9c8f6a958c95f7c1b305e048cb453",
+      "title": "Time line visualization of research fronts"
+    },
+    {
+      "paperId": "23922a229012ff8353d2814c1723fd01e607ccee",
+      "title": "The rising landscape: A visual exploration of superstring revolutions in physics"
+    },
+    {
+      "paperId": "6f82f352af6dd1280e0df94bfc4fe602c6333cac",
+      "title": "DIVA: a visualization system for exploring document databases for technology forecasting"
+    },
+    {
+      "paperId": "74d95ea402006c831cba18c6b9103a7768a2bd81",
+      "title": "Visualization of Bibliographic Networks with a Reshaped Landscape Metaphor"
+    },
+    {
+      "paperId": "a4d96c65252f2497280f29345b338df490367231",
+      "title": "Interactive visualization of multiple query results"
+    },
+    {
+      "paperId": "f7566f1797eb36429acbb09e581d6b2918a50760",
+      "title": "Foundations of Statistical Natural Language Processing"
+    },
+    {
+      "paperId": "721811ee338cdc4a6583bbf202e049e9e7436154",
+      "title": "Visualizing a Knowledge Domain's Intellectual Structure"
+    },
+    {
+      "paperId": "077f66c3374b4b0e3a649c764072e3f00007e2b0",
+      "title": "Analysis of Patent Databases Using VxInsight"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "28c52c221d1062000f5f44136425664118a51013",
+      "title": "Visualizing digital library search results with categorical and hierarchical axes"
+    },
+    {
+      "paperId": "132095e9df1b990fed7e624ac57ac8833dfb16ac",
+      "title": "Self organization of a massive document collection"
+    },
+    {
+      "paperId": "eb82d3035849cd23578096462ba419b53198a556",
+      "title": "The PageRank Citation Ranking : Bringing Order to the Web"
+    },
+    {
+      "paperId": "2f2a2e5bf046cfe076a62a102117b74cae0e788e",
+      "title": "Visualizing Science by Citation Mapping"
+    },
+    {
+      "paperId": "4746c7c6abdda58955b790ea1557f9514601a7ef",
+      "title": "Visualising Semantic Spaces and Author Co-Citation Networks in Digital Libraries"
+    },
+    {
+      "paperId": "0604cac9f8ae804ee7d111a208a92aef3d99e696",
+      "title": "Knowledge Mining With VxInsight: Discovery Through Interaction"
+    },
+    {
+      "paperId": "81212c1bf32af765dbdc30c43448356f30c7e0dc",
+      "title": "BIVTECI: a bibliographic visualization tool"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "42a61e87069a29711442dbab237003337084ac06",
+      "title": "Visualizing search results: some alternatives to query-document similarity"
+    },
+    {
+      "paperId": "4bc2d01056336caee7fecb3230f38b6bec7ce591",
+      "title": "TileBars: visualization of term distribution information in full text information access"
+    },
+    {
+      "paperId": "4ead8a80ca7309095a912139cf28a1e55e0fa5df",
+      "title": "An organic user interface for searching citation links"
+    },
+    {
+      "paperId": "eb92f125a7ecc358abae3a07c551407b73701c74",
+      "title": "Visualization of a Document Collection: The VIBE System"
+    },
+    {
+      "paperId": "c0e58874505200845b7a76b04f6903dc9e2fa30c",
+      "title": "A Co-Citation Model of a Scientific Specialty: A Longitudinal Study of Collagen Research"
+    },
+    {
+      "paperId": "7f22202148915002c8e53f204ac19b340f55fc20",
+      "title": "A Concept for the Exploratory Visualization of Patent Network Dynamics"
+    },
+    {
+      "paperId": "7f2c2a95d87611ea3ea40d44d1be9715e38438ee",
+      "title": "A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data"
+    },
+    {
+      "paperId": "ea67efe9866b245ea2b0bbb526239fbd7070f635",
+      "title": "An Introduction to Information Retrieval"
+    },
+    {
+      "paperId": "c3fa677bccda4d16ef96a26512520361760bb38e",
+      "title": "Visualization to Facilitate Structured Exploration of Published Findings in Rat Brain Connectivity"
+    },
+    {
+      "paperId": "f0a855627b08ba82af985d221fbe1962bd2919a3",
+      "title": "A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks."
+    },
+    {
+      "paperId": "a9ee8f1d90ad7685f08dc0ab6678728aeb901641",
+      "title": "Large-Scale Examination of Academic Publications Using Statistical Models"
+    },
+    {
+      "paperId": null,
+      "title": "Exploring emerging technologies using patent data and patent classification"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": "7595d27fe17dcfb04b59b4f1d79c8705f933a44a",
+      "title": "CiteSpace II:Detecting and Visualizing Emerging Trends and Transient Patterns in Scientific Literature"
+    },
+    {
+      "paperId": null,
+      "title": "Search User Interfaces, 1st ed"
+    },
+    {
+      "paperId": "f27fcf98754a876574db367af271a68322b67cf4",
+      "title": "Utilization of Semantic Annotations in Interactive User Interfaces for Large Documents"
+    },
+    {
+      "paperId": "84b374bd46b3fefa27559d6b6f1ec77070cebacc",
+      "title": "Timeline and Crossmap Visualization of Patents"
+    },
+    {
+      "paperId": "780494dfdf1194f6a6bd63358a93a648b33f948b",
+      "title": "BiblioViz: a system for visualizing bibliography information"
+    },
+    {
+      "paperId": "a7ce5d57da34fac3ef776be1d0fbaa70d92b68af",
+      "title": "CircleView : Scalable Visualization and Navigation of Citation Networks"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cGist icons: Seeing meaning in large bodies of literature,\u201d"
+    },
+    {
+      "paperId": "b199f2e751c4fa1515c50dab284e27493e07faa2",
+      "title": "InfoVis 2004 Contest: WilmaScope Graph Visualisation"
+    },
+    {
+      "paperId": "ace432ff204eed4e1ae0b0c1eab2eaa78ae15e73",
+      "title": "InfoVisExplorer"
+    },
+    {
+      "paperId": "c9ebf0d7ba518f835b57eace8374dc448e062ea1",
+      "title": "A cartographic approach to visualizing conference abstracts"
+    },
+    {
+      "paperId": "20616600117bbd191ae1b54acbde78d2b300c37c",
+      "title": "Analysis of Patent Databases Using VxlnsightTM"
+    },
+    {
+      "paperId": "1254c99a381d1f9d6abb23c74be060e4e7876985",
+      "title": "Book Reviews: Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"
+    },
+    {
+      "paperId": "ef5ea7214480e63635ff24fd21019fc92b03b739",
+      "title": "Speech and language processing: an introduction to natural language processing"
+    },
+    {
+      "paperId": "dacf37a3ece20404a9c7a544899ddbfcf5aea304",
+      "title": "Visualizing a Discipline: An Author Co-Citation Analysis of Information Science, 1972-1995"
+    },
+    {
+      "paperId": "e92a90fa434b6fc737dfacd31fab208375e1d979",
+      "title": "To See, or Not to See: Is That the Query?"
+    },
+    {
+      "paperId": "ff8559fe96ca4ef7357f514580472b96a94041af",
+      "title": "Multi-Dimensional Comparative Visualization for Patent Landscaping"
+    },
+    {
+      "paperId": null,
+      "title": "A SURVEY ON VISUAL APPROACHES FOR ANALYZING SCIENTIFIC LITERATURE"
+    }
+  ]
+}

@@ -1,0 +1,1589 @@
+{
+  "paperId": "05271ef13a79f2efc8f5206ecf41194b410d77f6",
+  "externalIds": {
+    "DBLP": "journals/tvcg/LiuWCDOEJK19",
+    "MAG": "2801605877",
+    "DOI": "10.1109/TVCG.2018.2834341",
+    "CorpusId": 51614209,
+    "PubMed": "29993887"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/05271ef13a79f2efc8f5206ecf41194b410d77f6",
+  "title": "Bridging Text Visualization and Mining: A Task-Driven Survey",
+  "abstract": "Visual text analytics has recently emerged as one of the most prominent topics in both academic research and the commercial world. To provide an overview of the relevant techniques and analysis tasks, as well as the relationships between them, we comprehensively analyzed 263 visualization papers and 4,346 mining papers published between 1992-2017 in two fields: visualization and text mining. From the analysis, we derived around 300 concepts (visualization techniques, mining techniques, and analysis tasks) and built a taxonomy for each type of concept. The co-occurrence relationships between the concepts were also extracted. Our research can be used as a stepping-stone for other researchers to 1) understand a common set of concepts used in this research topic; 2) facilitate the exploration of the relationships between visualization techniques, mining techniques, and analysis tasks; 3) understand the current practice in developing visual text analytics tools; 4) seek potential research opportunities by narrowing the gulf between visualization and mining techniques based on the analysis tasks; and 5) analyze other interdisciplinary research areas in a similar way. We have also contributed a web-based visualization tool for analyzing and understanding research trends and opportunities in visual text analytics.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 373,
+  "openAccessPdf": {
+    "url": "http://kops.uni-konstanz.de/bitstreams/a30782dd-db1d-4dac-ae33-8ac2391fc900/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-07-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2482-2504",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liu2019BridgingTV,\n author = {Shixia Liu and Xiting Wang and C. Collins and Wenwen Dou and Fangxin Ouyang and Mennatallah El-Assady and Liu Jiang and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2482-2504},\n title = {Bridging Text Visualization and Mining: A Task-Driven Survey},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "48641970",
+      "name": "Shixia Liu"
+    },
+    {
+      "authorId": "2108045320",
+      "name": "Xiting Wang"
+    },
+    {
+      "authorId": "144406618",
+      "name": "C. Collins"
+    },
+    {
+      "authorId": "1778084",
+      "name": "Wenwen Dou"
+    },
+    {
+      "authorId": "2055882464",
+      "name": "Fangxin Ouyang"
+    },
+    {
+      "authorId": "1401917601",
+      "name": "Mennatallah El-Assady"
+    },
+    {
+      "authorId": "2343630",
+      "name": "Liu Jiang"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b916d27090b2f8d31dfb5d72627c0e56a7f829ca",
+      "title": "Interactive Visual Alignment of Medieval Text Versions"
+    },
+    {
+      "paperId": "50f2f7166a89e1ef628ab372edc53df77109b9fa",
+      "title": "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents"
+    },
+    {
+      "paperId": "b17195fa5e4d38f056affd451c0af022424419a4",
+      "title": "Visual Text Analysis in Digital Humanities"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "724e4e56ea04cb48067a89e5793079b05b54d608",
+      "title": "Improving Learning-from-Crowds through Expert Validation"
+    },
+    {
+      "paperId": "c1ce753417f7d2cbce9d81f67d441cd1f4d4ac56",
+      "title": "MEmbER: Max-Margin Based Embeddings for Entity Retrieval"
+    },
+    {
+      "paperId": "69a56cdc940e53ad5953ad62d14c195950dbbc80",
+      "title": "Stacking Bagged and Boosted Forests for Effective Automated Classification"
+    },
+    {
+      "paperId": "a835d69f5b14e865db81bf4b651b79a93cdba875",
+      "title": "Privileged Matrix Factorization for Collaborative Filtering"
+    },
+    {
+      "paperId": "49fd2cb67a7864168ff097aaeb62a38fcd6be7af",
+      "title": "Improved Deep Embedded Clustering with Local Structure Preservation"
+    },
+    {
+      "paperId": "be6f7ff9724de39139a9a0bcb1cf73874fc7b5c0",
+      "title": "Quantifying the Informativeness of Similarity Measurements"
+    },
+    {
+      "paperId": "a38bb9badba14cc12c597dd77fdd63767614cbc4",
+      "title": "Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network"
+    },
+    {
+      "paperId": "49edf7f0dbad8b8c101af9ef95c72f62f545591e",
+      "title": "Efficient Correlated Topic Modeling with Topic Embedding"
+    },
+    {
+      "paperId": "050def4b28f1d704c88d49e48419bd30b3fadc13",
+      "title": "Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance\u2010Based Abstraction"
+    },
+    {
+      "paperId": "ec2f7b61f26b26ed1ec4b897dc6ecdc9e9b03cef",
+      "title": "Interactive Ambiguity Resolution of Named Entities in Fictional Literature"
+    },
+    {
+      "paperId": "45c52b20a2c45bb5d3a94a6038262c4181b47452",
+      "title": "Integrating Visual Analytics Support for Grounded Theory Practice in Qualitative Text Analysis"
+    },
+    {
+      "paperId": "804bc1c59322d2ce61811c9422c8b90baabb7b9d",
+      "title": "NEREx: Named\u2010Entity Relationship Exploration in Multi\u2010Party Conversations"
+    },
+    {
+      "paperId": "437b896f3f63aa6721fb624b4f9f7690253e531c",
+      "title": "Word-Sized Graphics for Scientific Texts"
+    },
+    {
+      "paperId": "8a6d2e134b3b2df6291af8e36e126ae55d50649c",
+      "title": "Revisiting Recurrent Networks for Paraphrastic Sentence Embeddings"
+    },
+    {
+      "paperId": "61a9f78bd184c0f95ffcbc10997d6b88a50be2c3",
+      "title": "Collaborative Metric Learning"
+    },
+    {
+      "paperId": "854a5b9340e840b22d18a5c17ef5105afe51f873",
+      "title": "Exploring controversy via sentiment divergences of aspects in reviews"
+    },
+    {
+      "paperId": "b039a7df6d54cb13a9bd9293f42b6c4025458012",
+      "title": "CQAVis: Visual Text Analytics for Community Question Answering"
+    },
+    {
+      "paperId": "3fda64d0ca468c6fe5294672cf9ad030dda5b226",
+      "title": "Visualizing Rank Time Series of Wikipedia Top-Viewed Pages"
+    },
+    {
+      "paperId": "0e4acfc7c431d02d138b8d664e3c0a5a81a507a8",
+      "title": "Bayesian inference on random simple graphs with power law degree distributions"
+    },
+    {
+      "paperId": "6db294e9309349d82df47a912ccc47eab1dc1358",
+      "title": "Sequence Modeling via Segmentations"
+    },
+    {
+      "paperId": "369add06272337538007b9c57c72b4ce748c2015",
+      "title": "Probabilistic Non-Negative Matrix Factorization and Its Robust Extensions for Topic Modeling"
+    },
+    {
+      "paperId": "7b84889a5770eb0d09e556be65f2a5c4238ed00c",
+      "title": "Spectral Clustering with Brainstorming Process for Multi-View Data"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "001198d3ef0d304718cfd64ff241d0133adcf928",
+      "title": "Adverse Drug Reaction Prediction with Symbolic Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": "24a966b6b2c63b62076bd4f548d74399fc3b1a4f",
+      "title": "Variational Policy for Guiding Point Processes"
+    },
+    {
+      "paperId": "9f9750f94e1e3fb92d6c9ab3ec4b518279596b87",
+      "title": "Aggressive Sampling for Multi-class to Binary Reduction with Applications to Text Classification"
+    },
+    {
+      "paperId": "41491f0eabfebf45b4ab11f23f84b3d6658ca915",
+      "title": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "paperId": "88caa4a0253a8b0076176745ebc072864eab66e1",
+      "title": "Language Modeling with Gated Convolutional Networks"
+    },
+    {
+      "paperId": "f20940246416b610cac2f13c79d891366e52602b",
+      "title": "A Generalized Stochastic Variational Bayesian Hyperparameter Learning Framework for Sparse Spectrum Gaussian Process Regression"
+    },
+    {
+      "paperId": "b301dc972b3f0a97ea3424ee26c1143b7c710a12",
+      "title": "Improving Multi-Document Summarization via Text Classification"
+    },
+    {
+      "paperId": "28c0443142b3996a53e51289e4e9bb1c5e8778fb",
+      "title": "GameFlow: Narrative Visualization of NBA Basketball Games"
+    },
+    {
+      "paperId": "4bfc26d1f7ddd1a03311d18250971eb9b4043ee2",
+      "title": "A Survey on Visual Analytics of Social Media Data"
+    },
+    {
+      "paperId": "f70325211251305f1a4d6de3064f216b360c3a78",
+      "title": "Geometric Dirichlet Means Algorithm for topic inference"
+    },
+    {
+      "paperId": "a275f6092e9569dfd0edcf9a8937e700309cdede",
+      "title": "Latent Tree Analysis"
+    },
+    {
+      "paperId": "aafbb3a1dcd9d83ae2e35e12d3305c7263cf3f8c",
+      "title": "How ideas flow across multiple social groups"
+    },
+    {
+      "paperId": "5b82807fadeb86b36befd10de2ef49c87a7a1d29",
+      "title": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "paperId": "1d9730b4c458ab9d33e57fc68f58dbcbd82cfc8a",
+      "title": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "paperId": "4bfcde0a32efcb828d7c2bef5494a40c9f87ceb4",
+      "title": "D-Map: Visual analysis of ego-centric information diffusion patterns in social media"
+    },
+    {
+      "paperId": "09f0885d1727a0b82300e94856e0be2f2f72561c",
+      "title": "Sentiment Domain Adaptation with Multiple Sources"
+    },
+    {
+      "paperId": "c65ecfd126f8218df9d589c5e4b6eca4dfd45ad4",
+      "title": "Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning"
+    },
+    {
+      "paperId": "a58faf545f6434402ee383bac5766a1d0cfc3182",
+      "title": "CSE: Conceptual Sentence Embeddings based on Attention Model"
+    },
+    {
+      "paperId": "08bbae0615a197c5f13da527097bdd8eef100dbe",
+      "title": "Bi-Transferring Deep Neural Networks for Domain Adaptation"
+    },
+    {
+      "paperId": "25312b9dfaff44ee6c41aaf3e3f3e4cf6677efc7",
+      "title": "Domain Adaptation for Authorship Attribution: Improved Structural Correspondence Learning"
+    },
+    {
+      "paperId": "d9595f9acec303c7ad06eeae8a054743cbaf21ce",
+      "title": "Detecting Rumors from Microblogs with Recurrent Neural Networks"
+    },
+    {
+      "paperId": "6b0355ffdd9130eb6ce0be3dbf338286507cd64b",
+      "title": "Topic- and Time-Oriented Visual Text Analysis"
+    },
+    {
+      "paperId": "dda206b0d6e0e3c600a5c5f25d4d09ded00bbdfc",
+      "title": "Can Twitter Save Lives? A Broad-Scale Study on Visual Social Media Analytics for Public Safety"
+    },
+    {
+      "paperId": "e3e20428e83d1232bf7a098e9235a63085fc2436",
+      "title": "Interactive Exploration of Student Generated Content presented in Blogs"
+    },
+    {
+      "paperId": "561b8ba3551c6ff4298fa4d138a40b7e4eb14012",
+      "title": "TextDNA: Visualizing Word Usage with Configurable Colorfields"
+    },
+    {
+      "paperId": "3ded1a7a96ea74e68f87005b7c6461532c61094f",
+      "title": "ConToVi: Multi\u2010Party Conversation Exploration using Topic\u2010Space Views"
+    },
+    {
+      "paperId": "2888d59d68aa4ddb527be98e19edfe1d76c829ac",
+      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation"
+    },
+    {
+      "paperId": "aa22c781e64f5ebafb790486f1b8a6308236b414",
+      "title": "Hidden Topic Sentiment Model"
+    },
+    {
+      "paperId": "777563f8daa0d725d740e4a8e47f747de9d04cc8",
+      "title": "Predicting Attitude and Actions of Twitter Users"
+    },
+    {
+      "paperId": "20bf6f7ea017ca99c1fc047aa8f3eb671ca81be5",
+      "title": "Topic Modeling of Document Metadata for Visualizing Collaborations over Time"
+    },
+    {
+      "paperId": "1b08b4cf92b6df5fecfce5c42509bd90a0a10521",
+      "title": "MultiConVis: A Visual Text Analytics System for Exploring a Collection of Online Conversations"
+    },
+    {
+      "paperId": "677b98bd43669b0de75d184fbb83d43369590190",
+      "title": "Identifying Sentiment Words Using an Optimization Model with L1 Regularization"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "62bea5feeadf6e6ba98e43c77e9d342ca5dd0f57",
+      "title": "CiteRivers: Visual Analytics of Citation Patterns"
+    },
+    {
+      "paperId": "36ed936d92d9c38ee4ef9e758c04305fbd9203c3",
+      "title": "VisOHC: Designing Visual Analytics for Online Health Communities"
+    },
+    {
+      "paperId": "401e308fac9bbbef98af02b3a6810f267d4c2d05",
+      "title": "Task-Driven Comparison of Topic Models"
+    },
+    {
+      "paperId": "c9c0855dc06aff122d0fde9ccf9c604983988515",
+      "title": "VAiRoma: A Visual Analytics System for Making Sense of Places, Times, and Events in Roman History"
+    },
+    {
+      "paperId": "be6e6ef76e5fd06236b59032a585ccaeeb4fa46d",
+      "title": "Speculative Practices: Utilizing InfoVis to Explore Untapped Literary Collections"
+    },
+    {
+      "paperId": "d848153907388cc64cdc8de37cd4a8f8a8515999",
+      "title": "Exploring Evolving Media Discourse Through Event Cueing"
+    },
+    {
+      "paperId": "78aa7470a95d03c3616f727ea2cc4d91248b83d5",
+      "title": "Poemage: Visualizing the Sonic Topology of a Poem"
+    },
+    {
+      "paperId": "d70226265a1e2530db39b56fe83d9af452564f89",
+      "title": "TimeLineCurator: Interactive Authoring of Visual Timelines from Unstructured Text"
+    },
+    {
+      "paperId": "78239dfacd6e2d3c348d110838fcee09fb1e568f",
+      "title": "Online Visual Analytics of Text Streams"
+    },
+    {
+      "paperId": "17a9c0512fe352990ef3b4849433e86da803f0d2",
+      "title": "An Uncertainty-Aware Approach for Exploratory Microblog Retrieval"
+    },
+    {
+      "paperId": "4c8a4f659e827a3189e14f0efd00987dc4c7785f",
+      "title": "FeatureInsight: Visual support for error-driven feature ideation in text classification"
+    },
+    {
+      "paperId": "38f46ed878f68263f549cab0e16b7bd7ff078973",
+      "title": "DemographicVis: Analyzing demographic information based on user generated content"
+    },
+    {
+      "paperId": "a46a9898c8376f09cd26f95541e7cb6cc19ea8cf",
+      "title": "Morphable Word Clouds for Time-Varying Text Data Visualization"
+    },
+    {
+      "paperId": "0889019b395890f57bfae3ce7d8391649ae68de4",
+      "title": "Word Embedding Based Correlation Model for Question/Answer Matching"
+    },
+    {
+      "paperId": "9f8c74232445271f6a384c0dfdaf61e34d68ce91",
+      "title": "IncreSTS: Towards Real-Time Incremental Short Text Summarization on Comment Streams from Social Network Services"
+    },
+    {
+      "paperId": "976ac6f1d38e6c45d203ba421a1ded8d38477252",
+      "title": "KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge"
+    },
+    {
+      "paperId": "0d3b6bd5eed7194c1a4daac68d6e28a495ed8231",
+      "title": "TOPTRAC: Topical Trajectory Pattern Mining"
+    },
+    {
+      "paperId": "b8ee771b6c469d5e48ca0f0ffb0e354aa2d73c3a",
+      "title": "At the interface of computational linguistics and statistics"
+    },
+    {
+      "paperId": "731d9a81b16a833f006728273988b2e621bcbf5c",
+      "title": "Visual Assessment of Alleged Plagiarism Cases"
+    },
+    {
+      "paperId": "2e24be497932dcc1b9a17948c997f83c3ae4622a",
+      "title": "ThemeDelta: Dynamic Segmentations over Temporal Topic Models"
+    },
+    {
+      "paperId": "d52c7055797f63daedddb7a75e7ca9711afabae2",
+      "title": "SentiCompass: Interactive visualization for exploring and comparing the sentiments of time-varying twitter data"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "a925892c520f2bda9d274bd64789130106392242",
+      "title": "Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding"
+    },
+    {
+      "paperId": "eba36ac75bf22edf9a1bfd33244d459c75b98305",
+      "title": "Recurrent Convolutional Neural Networks for Text Classification"
+    },
+    {
+      "paperId": "ef2ab98100d0a6d27b1f04e396719c1ef6c7f378",
+      "title": "Planned Protest Modeling in News and Social Media"
+    },
+    {
+      "paperId": "7046b3cddc25104d083f79ba82950c918f0c0525",
+      "title": "Exploring Topical Lead-Lag across Corpora"
+    },
+    {
+      "paperId": "7c71cd2b89b0819f47195ea3784c2ba4eb7bc858",
+      "title": "VAET: A Visual Analytics Approach for E-Transactions Time-Series"
+    },
+    {
+      "paperId": "72e8b9953d44c02c51a876ba13745e29471c9a62",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "19206fb1d34201e21abe29dd2455a7a9833be588",
+      "title": "SocialHelix: visual analysis of sentiment divergence in social media"
+    },
+    {
+      "paperId": "b287f8baef820d2039596f13b86aff4aa1ccd7ec",
+      "title": "Footprints: A Visual Search Tool that Supports Discovery and Coverage Tracking"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "2882c1afc38a02dcc542cd642c5dfea994b68e95",
+      "title": "EvoRiver: Visual Analysis of Topic Coopetition on Social Media"
+    },
+    {
+      "paperId": "0287be7421722b2fb940370b7bdcfabcd46f5367",
+      "title": "#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media"
+    },
+    {
+      "paperId": "803c269e6c00344c6278452a7d57f076681969f0",
+      "title": "VarifocalReader \u2014 In-Depth Visual Analysis of Large Text Documents"
+    },
+    {
+      "paperId": "8b89dcf7e0680f3e59ad550f996750f48b9cf4f4",
+      "title": "DIA2: Web-based Cyberinfrastructure for Visual Analysis of Funding Portfolios"
+    },
+    {
+      "paperId": "bffe23d44eec0324f1be57877f05b06c379e77d5",
+      "title": "Overview: The Design, Adoption, and Analysis of a Visual Document Mining Tool for Investigative Journalists"
+    },
+    {
+      "paperId": "3a988347788f70de0298f812cbe027fc41d521a0",
+      "title": "How Hierarchical Topics Evolve in Large Text Corpora"
+    },
+    {
+      "paperId": "1c45a939418968dfb0a434797a67f099f2e5eac5",
+      "title": "TopicPanorama: A Full Picture of Relevant Topics"
+    },
+    {
+      "paperId": "c5a000ec6caa5843cdd9191227b21116137b0f4a",
+      "title": "Integrating predictive analytics and social media"
+    },
+    {
+      "paperId": "81fb38104594d0a90fb0effdfd5b58fc16efaebf",
+      "title": "Multi-model semantic interaction for text analytics"
+    },
+    {
+      "paperId": "1a5f09f00466ab11fbab73ff35f5809af3737934",
+      "title": "PEARL: An interactive visual analytic tool for understanding personal emotion style derived from social media"
+    },
+    {
+      "paperId": "357a3cc4e91ac19f23f782c77a4a2ab8f083993f",
+      "title": "SigniTrend: scalable detection of emerging topics in textual streams by hashed significance thresholds"
+    },
+    {
+      "paperId": "30a1e82f7876a93d0ea8eda46a515df00bd6f9ae",
+      "title": "Semantic visualization for spherical representation"
+    },
+    {
+      "paperId": "b610fa9c23b2f28ed32a6307430ee1679005be25",
+      "title": "Large-scale high-precision topic modeling on twitter"
+    },
+    {
+      "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+      "title": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "paperId": "b0e51bccdf068fc2a7fc57d7f237e5b79731c22f",
+      "title": "Hierarchical multi-label classification of social text streams"
+    },
+    {
+      "paperId": "b75fa925ff1a10335c3e43a06391fef3c0956088",
+      "title": "Learning similarity functions for topic detection in online reputation monitoring"
+    },
+    {
+      "paperId": "e0cae64816a9525eaeeeb5be6dfd1e74d1a1ba91",
+      "title": "Direct Semantic Analysis for Social Image Classification"
+    },
+    {
+      "paperId": "02e711b0cd9337850d7d22868845be9e24f11b26",
+      "title": "Cross-View Feature Learning for Scalable Social Image Analysis"
+    },
+    {
+      "paperId": "835e5206f0c7bdcc7a61ed82a2aae549e3c4088c",
+      "title": "ConVis: A Visual Text Analytic System for Exploring Blog Conversations"
+    },
+    {
+      "paperId": "4b47002f92137b6f4f67e741c49575dd39bd7168",
+      "title": "Comparative Exploration of Document Collections: a Visual Analytics Approach"
+    },
+    {
+      "paperId": "dc28147b4b57613b38bd160e61a8ad852b4c0776",
+      "title": "Networks of Names: Visual Exploration and Semi\u2010Automatic Tagging of Social Networks from Newspaper Articles"
+    },
+    {
+      "paperId": "0f1ff516d722a8dc680b71fcd6c46ebeb9e819b9",
+      "title": "A study on human-generated tag structures to inform tag cloud layout"
+    },
+    {
+      "paperId": "ec43d37aad744150af144d27a08b0b097607e712",
+      "title": "Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article]"
+    },
+    {
+      "paperId": "df69a5099fc88102643f8fbeeee639072b7fdc2d",
+      "title": "NewsViews: an automated pipeline for creating custom geovisualizations for news"
+    },
+    {
+      "paperId": "efa59670a46c571c14e88c3f045a9c38ff354f7f",
+      "title": "EmailMap: Visualizing Event Evolution and Contact Interaction within Email Archives"
+    },
+    {
+      "paperId": "17cfcd74f663ac6aad06b84573fcb3dc66f279bb",
+      "title": "WeiboEvents: A Crowd Sourcing Weibo Visual Analytic System"
+    },
+    {
+      "paperId": "492d3efbced2eb4372a3183201cf6a7454c3b7a0",
+      "title": "Improving government services with social media feedback"
+    },
+    {
+      "paperId": "bdbd5a8487ccec41d303ea09ee598f432084f258",
+      "title": "A Novel Two-Step Method for Cross Language Representation Learning"
+    },
+    {
+      "paperId": "b7697236e434773af6e335ef960bfc729dfaca09",
+      "title": "Visual Analysis of Topic Competition on Social Media"
+    },
+    {
+      "paperId": "67c91611ab6fdac1fe3c85e9e90d4b726f9761c7",
+      "title": "UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization"
+    },
+    {
+      "paperId": "74994aaddccffe70a779cc14df1cc2d6f7f6caea",
+      "title": "HierarchicalTopics: Visually Exploring Large Text Collections Using Topic Hierarchies"
+    },
+    {
+      "paperId": "1721b72f2708aea261c26e76474d00b573119c04",
+      "title": "ScatterBlogs2: Real-Time Monitoring of Microblog Messages through User-Guided Filtering"
+    },
+    {
+      "paperId": "f5bdb05e22c8a09b3b3d201b76551689195e6788",
+      "title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": "04578ac05defc05e7547a4411eade337cbbb828c",
+      "title": "Exploring entities in text with descriptive non-photorealistic rendering"
+    },
+    {
+      "paperId": "d3d91612a8331b8b5196922eeb2374ecfb95311a",
+      "title": "Understanding Twitter data with TweetXplorer"
+    },
+    {
+      "paperId": "703f2fc65c340d385a0dfd90fb237b3b2ece9e3c",
+      "title": "Information cartography: creating zoomable, large-scale maps of information"
+    },
+    {
+      "paperId": "e0a34aee9b142fa8ef0e54d5b098b6a3408ec232",
+      "title": "Rule\u2010based Visual Mappings \u2013 with a Case Study on Poetry Visualization"
+    },
+    {
+      "paperId": "aa1378b8921b23bb665f06cabe936641b4769a00",
+      "title": "Augmenting Visualization with Natural Language Translation of Interaction: A Usability Study"
+    },
+    {
+      "paperId": "d7814fbeb2302a8527242a4d90cb374384266b1b",
+      "title": "Fingerprint Matrices: Uncovering the dynamics of social networks in prose literature"
+    },
+    {
+      "paperId": "afd19bf74b913eaa4138f41bb8f502120d9f1f7b",
+      "title": "Google+Ripples: a native visualization of information flow"
+    },
+    {
+      "paperId": "99081dfd6a41da7e716577e03a3ec2cc5340e338",
+      "title": "Co-training and visualizing sentiment evolvement for tweet events"
+    },
+    {
+      "paperId": "d05b74a72d9799498958143a3255a76edb91470e",
+      "title": "Real-time recommendation of diverse related articles"
+    },
+    {
+      "paperId": "c9ad3344c3f109d62cfcafacece402bc1a3d1deb",
+      "title": "Contextifier: automatic generation of annotated stock visualizations"
+    },
+    {
+      "paperId": "17b75af0c5412ed2560e03d074b2bf275cec52d0",
+      "title": "Quantity estimation in visualizations of tagged text"
+    },
+    {
+      "paperId": "9650dbe79d34498113371770dcdb48f1bd7c9711",
+      "title": "Maps of Computer Science"
+    },
+    {
+      "paperId": "8a052a3fd71791e5adddde74a270ffd8fce9adf3",
+      "title": "Optimizing temporal topic segmentation for intelligent text visualization"
+    },
+    {
+      "paperId": "0e786533e291e0a726f508cd4122db18df4a4ca4",
+      "title": "Visualizing recommendations to support exploration, transparency and controllability"
+    },
+    {
+      "paperId": "77fc711b989e0c73a0f64bc07d797941a0f6819f",
+      "title": "LinkedVis: exploring social and semantic career recommendations"
+    },
+    {
+      "paperId": "5fb8ba2e3967e079c57aa703bf216c168ea8104f",
+      "title": "Model-based machine learning"
+    },
+    {
+      "paperId": "06905e7ab351540209b621faaed1d3f3c27ad74b",
+      "title": "Word storms: multiples of word clouds for visual comparison of documents"
+    },
+    {
+      "paperId": "9fdd71913c16d2946599747e44aed1c792b9a51c",
+      "title": "Facilitating Discourse Analysis with Interactive Visualization"
+    },
+    {
+      "paperId": "80388bc79084340a0f0bccc4a2455c3f3c504b27",
+      "title": "Spatial Text Visualization Using Automatic Typographic Maps"
+    },
+    {
+      "paperId": "d449c705dd7c6687d0a13fed8b86bca94d26f95e",
+      "title": "Organizing Search Results with a Reference Map"
+    },
+    {
+      "paperId": "361f6799198c4a258c5dbb4c9863a521f290ff4c",
+      "title": "Visual Classifier Training for Text Document Retrieval"
+    },
+    {
+      "paperId": "0e747a87e8700a25be06a354d3ad9e861f619403",
+      "title": "Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time"
+    },
+    {
+      "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+      "title": "Seeing beyond reading: a survey on visual text analytics"
+    },
+    {
+      "paperId": "096b94cf89cee8daccbb3011b35c14082e2d44d5",
+      "title": "Evaluating the Role of Time in Investigative Analysis of Document Collections"
+    },
+    {
+      "paperId": "e91b8ab2deab0b4f6d90cb4aea1ee64dca3da334",
+      "title": "Relative N-gram signatures: Document visualization at the level of character N-grams"
+    },
+    {
+      "paperId": "346b0227d2ff22c2a6704a98cc1132008d895923",
+      "title": "Spatiotemporal social media analytics for abnormal event detection and examination using seasonal-trend decomposition"
+    },
+    {
+      "paperId": "50334619ec5b9fb38094146dd06eb91bff3078ae",
+      "title": "LeadLine: Interactive visual analysis of text data through event identification and exploration"
+    },
+    {
+      "paperId": "293d0cafa10b6f6c8674a9538762864749dd9e27",
+      "title": "The Deshredder: A visual analytic approach to reconstructing shredded documents"
+    },
+    {
+      "paperId": "ce9e490b2653ae02df12113feb564f7ec61a868f",
+      "title": "WORDGRAPH: Keyword-in-Context Visualization for NETSPEAK's Wildcard Search"
+    },
+    {
+      "paperId": "c2ed51cbee5364ef712dbfe8af40c879d829b8da",
+      "title": "Storytelling in entity networks to support intelligence analysts"
+    },
+    {
+      "paperId": "3ea7596190b145335624bc88a3d983987d35cd45",
+      "title": "Adaptive context features for toponym resolution in streaming news"
+    },
+    {
+      "paperId": "5a429ad71366a1fe93dd17733e1b00bc9bd8d5d3",
+      "title": "Metro maps of science"
+    },
+    {
+      "paperId": "2180bc6e0819b7a4cbeb83063d047f9fd4f152f6",
+      "title": "See-to-retrieve: efficient processing of spatio-visual keyword queries"
+    },
+    {
+      "paperId": "64010747416300277316cb017753ca41d9107d3b",
+      "title": "MoodLens: an emoticon-based sentiment analysis system for chinese tweets"
+    },
+    {
+      "paperId": "f8b345f1203f153087fe23b56afad286dccb8da4",
+      "title": "Cross Language Text Classification via Subspace Co-regularized Multi-view Learning"
+    },
+    {
+      "paperId": "5c5e5f1d4bf37dee8c78bff26567ae7f080918b6",
+      "title": "The World's Languages Explorer: Visual Analysis of Language Features in Genealogical and Areal Contexts"
+    },
+    {
+      "paperId": "f9e867c7bc3ec5eea85f688ccb9112387053867a",
+      "title": "iVisClustering: An Interactive Visual Document Clustering via Topic Modeling"
+    },
+    {
+      "paperId": "ca5f84991b078e77b9e130e7260928e51a4d623c",
+      "title": "Rolled\u2010out Wordles: A Heuristic Method for Overlap Removal of 2D Data Representatives"
+    },
+    {
+      "paperId": "9ea1ec5c64c4006ca7f70da9fe2395a645d631e1",
+      "title": "Conceptual Recurrence Plots: Revealing Patterns in Human Discourse"
+    },
+    {
+      "paperId": "ea5f228caaf7283edd51a0b85ed961358d766d98",
+      "title": "Termite: visualization techniques for assessing textual topic models"
+    },
+    {
+      "paperId": "79c994f292981e3369cfeda902bd9440b90598fa",
+      "title": "FatFonts: combining the symbolic and visual aspects of numbers"
+    },
+    {
+      "paperId": "da37d96e04e3051b9099fc8708d5d8bc31411196",
+      "title": "The semantics of clustering: analysis of user-generated spatializations of text documents"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "98e3e60d90d421c1c29018911d6ede0160d68fcc",
+      "title": "Interpretation and trust: designing model-driven visualizations for text analysis"
+    },
+    {
+      "paperId": "551182f526260f36db5b19df1d50c2e804c60418",
+      "title": "V-model: a new innovative model to chronologically visualize narrative clinical texts"
+    },
+    {
+      "paperId": "60891b83d1cb97c5dcac3ef2972013da0dafcb13",
+      "title": "Collective context-aware topic models for entity disambiguation"
+    },
+    {
+      "paperId": "95333c403081ccd6001f568fa0aaf92d4f90e429",
+      "title": "Analysis and visualization of temporal changes in bloggers' activities and interests"
+    },
+    {
+      "paperId": "1456063599d9c34665a97730b84350397436c35f",
+      "title": "TIARA: Interactive, Topic-Based Visual Text Summarization and Analysis"
+    },
+    {
+      "paperId": "e7650b2cd8ffe1e73c306e61944d99b73b070e48",
+      "title": "SensePlace2: GeoTwitter analytics support for situational awareness"
+    },
+    {
+      "paperId": "8df85054bc99278c835a7e7556dbd1ff37dc29d8",
+      "title": "ParallelTopics: A probabilistic approach to exploring document collections"
+    },
+    {
+      "paperId": "4b0cc2e4c85a1bd54b52efe77686b048eb844cde",
+      "title": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "81f72b3ca5d19ce45f2e57422f456ca96007a65f",
+      "title": "Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers"
+    },
+    {
+      "paperId": "47c7d54316dcf7ff3746a11570a83ed9c078e1cf",
+      "title": "Cross-language web page classification via dual knowledge transfer using nonnegative matrix tri-factorization"
+    },
+    {
+      "paperId": "d81d6c8d8d3b9aed7b9d2ff60d799844c1e45e93",
+      "title": "Mining topics on participations for community discovery"
+    },
+    {
+      "paperId": "fbca49d8c25634ba5a31fe30c0b04bab9475edfe",
+      "title": "Heterogeneous Domain Adaptation Using Manifold Alignment"
+    },
+    {
+      "paperId": "31e2f7c599cd5cd621f13932186db352be4d8eea",
+      "title": "PaperVis: Literature Review Made Easy"
+    },
+    {
+      "paperId": "612c62dde27eeca0ab23de006dbdef53072e0228",
+      "title": "Semantic\u2010Preserving Word Clouds by Seam Carving"
+    },
+    {
+      "paperId": "91c4feed222413238c894553c2933c860d392427",
+      "title": "Exploring Collections of Tagged Text for Literary Scholarship"
+    },
+    {
+      "paperId": "83ad6897b136c454451f29f7b506b81427647300",
+      "title": "ReadN'Karaoke: visualizing prosody in children's books for expressive oral reading"
+    },
+    {
+      "paperId": "1cf2f8804eaa3050b6e8da58ed241eb490143f27",
+      "title": "Twitinfo: aggregating and visualizing microblogs for event exploration"
+    },
+    {
+      "paperId": "e3df511dcd7bfc42068dff8a60d78c77dbfe255e",
+      "title": "Iterative Integration of Visual Insights during Scalable Patent Search and Analysis"
+    },
+    {
+      "paperId": "2e1008648e8f8c4800e966ec8ed500dfb205ae7e",
+      "title": "Learning to model relatedness for news recommendation"
+    },
+    {
+      "paperId": "6bcc9dff9825b0995f101ede291d2e90686db535",
+      "title": "STREAMIT: Dynamic visualization and interactive exploration of text streams"
+    },
+    {
+      "paperId": "1c9dd6c683e43520a52f34d1f76fccd8b8261c35",
+      "title": "Visualizing dynamic data with maps"
+    },
+    {
+      "paperId": "9fea2a251d036ac2aa22f0efaff8f5f640a24313",
+      "title": "Multimodal summarization of complex sentences"
+    },
+    {
+      "paperId": "8d38732c4bec239bd5f5db4fa8a1d102bc0e03f8",
+      "title": "VizCept: Supporting synchronous collaboration for constructing visualizations in intelligence analysis"
+    },
+    {
+      "paperId": "3200c4fb541b412dde33e003f70c4bbc80fd8b8f",
+      "title": "Understanding text corpora with multiple facets"
+    },
+    {
+      "paperId": "6bb95722545823848b7a49cd56cecadb1b1d9c4f",
+      "title": "Real-time aggregation of Wikipedia data for visual analytics"
+    },
+    {
+      "paperId": "5f037dbfb295a1d93892d74e84ffe753bf10f5f6",
+      "title": "Diamonds in the rough: Social media visual analytics for journalistic inquiry"
+    },
+    {
+      "paperId": "61bc124f3d82a486ac516bab13c579219103378a",
+      "title": "Two-stage framework for a topology-based projection and visualization of classified document collections"
+    },
+    {
+      "paperId": "f634505fdb35b6cb8358dd8ea064db51a181bdc7",
+      "title": "Visual readability analysis: How to make your writings easier to read"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "270640a16aec0caf4c4fc59c087567981519f4a4",
+      "title": "ManiWordle: Providing Flexible Control over Wordle"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "bd113c0d43280ab533c7cf8ad64a5785c215438c",
+      "title": "Context preserving dynamic word cloud visualization"
+    },
+    {
+      "paperId": "9be54d4569ac9897b619e64e7a16a36b51224489",
+      "title": "Evolutionary hierarchical dirichlet processes for multiple correlated time-varying corpora"
+    },
+    {
+      "paperId": "f82bfd2561e442d49815d38ea8ce7173f0707aed",
+      "title": "Constrained Coclustering for Textual Documents"
+    },
+    {
+      "paperId": "11e1cf683728bdb06a5d4cb1da754b8e9976c28e",
+      "title": "Finding business information by visualizing enterprise document activity"
+    },
+    {
+      "paperId": "35158962fd49cb109c5a14e29fa61ffb7d77e08a",
+      "title": "iChase: supporting exploration and awareness of editing activities on Wikipedia"
+    },
+    {
+      "paperId": "7560870d43cd7f30bf0d978c45ecda4b9aa6fe75",
+      "title": "Exploring web scale language models for search query processing"
+    },
+    {
+      "paperId": "07a813d7de9ac072ed970217024a51a835433654",
+      "title": "WikipediaViz: Conveying article quality for casual Wikipedia readers"
+    },
+    {
+      "paperId": "6c683aeddb0a5c603819738339ecc433bdef479e",
+      "title": "Principles and Tools for Collaborative Entity-Based Intelligence Analysis"
+    },
+    {
+      "paperId": "ca1b2d6b7e8860cd8db8bea76cf88a042986b9c7",
+      "title": "Aspect-level news browsing: understanding news events from multiple viewpoints"
+    },
+    {
+      "paperId": "090c06bd0fd61c26907ce330b77e77ff47665954",
+      "title": "What's being said near \u201cMartha\u201d? Exploring name entities in literary text collections"
+    },
+    {
+      "paperId": "d596bb1c53971ded99d002b390419cd64f40d29b",
+      "title": "Describing story evolution from dynamic information streams"
+    },
+    {
+      "paperId": "38df4fe2bc318706cd106ee7db46f1f794b644bf",
+      "title": "Visual opinion analysis of customer feedback data"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "7472c904447935a896f112b2d60d3edca3cc10ae",
+      "title": "Mapping Text with Phrase Nets"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "e8eef01b77a9fd8f5eb9cbae3b84e2d53317a473",
+      "title": "Exemplar-based Visualization of Large Document Corpus (InfoVis2009-1115)"
+    },
+    {
+      "paperId": "2b2b87922d343d22c4872f2047f6ff6f88de6a43",
+      "title": "Distance dependent Chinese restaurant processes"
+    },
+    {
+      "paperId": "2d9736122d61e544fd122546aa81fad219de2b20",
+      "title": "Fast Forward: LSAView: A Tool for Visual Exploration of Latent Semantic Modeling."
+    },
+    {
+      "paperId": "f92ff4d85b2b33c26aaa8fd7175bf51ea4b1ef06",
+      "title": "Successful enterprise resource planning implementation: taxonomy of critical factors"
+    },
+    {
+      "paperId": "27953211588ac1bb33107653ed3e2d17fbd624bc",
+      "title": "Effective query expansion for federated search"
+    },
+    {
+      "paperId": "db12c246207464154f8ac24bc16633400e01c056",
+      "title": "Meme-tracking and the dynamics of the news cycle"
+    },
+    {
+      "paperId": "c36dc28619b5d4461a4674e9b0ffde6ad0b6684e",
+      "title": "Topic-link LDA: joint models of topic and author community"
+    },
+    {
+      "paperId": "3d388d22289521ba5b13095098d82000e3eb108f",
+      "title": "The Chinese Room: Visualization and Interaction to Understand and Correct Ambiguous Machine Translation"
+    },
+    {
+      "paperId": "14941da95f6b88a6b59fc45634904763ea4e882e",
+      "title": "DocuBurst: Visualizing Document Content using Language Structure"
+    },
+    {
+      "paperId": "62565909c930212b8236f519b8b0ac23df5c4a90",
+      "title": "Understanding user's query intent with wikipedia"
+    },
+    {
+      "paperId": "5a38b4e59f377a4a90b697f3eb7331d48dead65c",
+      "title": "So you know you're getting the best possible information: a tool that increases Wikipedia credibility"
+    },
+    {
+      "paperId": "24c29acaaee298762e8089910e61753a9f73a2ef",
+      "title": "Conversation clusters: grouping conversation topics through human-computer dialog"
+    },
+    {
+      "paperId": "5ce7694f61ab3e7101c08a795e858aee4d174c2c",
+      "title": "A multimedia interface for facilitating comparisons of opinions"
+    },
+    {
+      "paperId": "a3124650908b88c9b2e03b0add30464ef77c11ce",
+      "title": "A Survey of Text Mining Techniques and Applications"
+    },
+    {
+      "paperId": "10d6987cba3dfb696990df7f1f5727a38b98e78e",
+      "title": "Information, Divergence and Risk for Binary Experiments"
+    },
+    {
+      "paperId": "5b5d595be10fa6933bf43db4dbc9b8bf29330941",
+      "title": "Visual evaluation of text features for document summarization and analysis"
+    },
+    {
+      "paperId": "fb9cdd0e8524fe401561c5e9cf2976bde0189480",
+      "title": "Narratives: A visualization to track narrative events as they develop"
+    },
+    {
+      "paperId": "92147b5c1f1d70546201a152e0ceebce94607978",
+      "title": "Entity-based collaboration tools for intelligence analysis"
+    },
+    {
+      "paperId": "b607f972b674596d5d0127dac0c8388d124c67f2",
+      "title": "VisGets: Coordinated Visualizations for Web-based Information Exploration and Discovery"
+    },
+    {
+      "paperId": "33f5010a1762f73f2f85ffe16f5ed8f7119178d5",
+      "title": "Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "3306edb7be3a90db31b38af1fe9aefb61beb226c",
+      "title": "HiPP: A Novel Hierarchical Point Placement Strategy and its Application to the Exploration of Document Collections"
+    },
+    {
+      "paperId": "d2658b49c9cba95ec997a0341fa1ce7a4cb7f557",
+      "title": "Multi-document summarization via sentence-level semantic analysis and symmetric matrix factorization"
+    },
+    {
+      "paperId": "d2274871c9e73057994f8f5ae5af13ed3815041a",
+      "title": "Exploring blog archives with interactive visualization"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "ca5bf510afe6796b9b8230ae13bba7e20f3e964d",
+      "title": "Visualizing historical content of web pages"
+    },
+    {
+      "paperId": "c3c7bb20082b334cb67c857819d360afe1799c6e",
+      "title": "Topic modeling with network regularization"
+    },
+    {
+      "paperId": "f48fe19272f80a2c48dba63a8e7a6f99c6540a20",
+      "title": "Topigraphy: visualization for large-scale tag clouds"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "7798a7a34b9699c0bb19c83b22c76c4b2081866e",
+      "title": "Managing a document-based information space"
+    },
+    {
+      "paperId": "3d41c6f9bce5e663d1621eac7abbf224c762261f",
+      "title": "Sequential Document Visualization"
+    },
+    {
+      "paperId": "7539e1abb223923dc6913e0acdc356e814decd85",
+      "title": "Interactive Visual Exploration of a Large Spatio-temporal Dataset: Reflections on a Geovisualization Mashup."
+    },
+    {
+      "paperId": "474178dae941d135190ba98cfb7c3aa67924b09b",
+      "title": "Literature Fingerprinting: A New Method for Visual Literary Analysis"
+    },
+    {
+      "paperId": "1ee52b767dcda2974303997f70ae0ce21f43669f",
+      "title": "Point Placement by Phylogenetic Trees and its Application to Visual Analysis of Document Collections"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "5dfdd109be166ae6c33eb2749258225c06d0ddd3",
+      "title": "A semantic approach to contextual advertising"
+    },
+    {
+      "paperId": "806bac8a6adf3ba6af3366e77618cab488a81d9c",
+      "title": "An interactive algorithm for asking and incorporating feature feedback into support vector machines"
+    },
+    {
+      "paperId": "bb7d7dfad94e6a94bf0926fd28e6a0dd7d13b278",
+      "title": "Advances on natural language processing"
+    },
+    {
+      "paperId": "d21fd2e72c0267b9212b5acafd851eb0f868821a",
+      "title": "BlogScope: spatio-temporal analysis of the blogosphere"
+    },
+    {
+      "paperId": "2a22469466d4c44dfb23605d59122291bc77bb44",
+      "title": "Visualizing the Performance of Computational Linguistics Algorithms"
+    },
+    {
+      "paperId": "b90d922ff07d0eb8d77b8687aba7f55bd3926436",
+      "title": "Hierarchical Dirichlet Processes"
+    },
+    {
+      "paperId": "8dfe281c15f7b783bb0f3429a3e86847e9c1b6d1",
+      "title": "A Novel Visualization Model for Web Search Results"
+    },
+    {
+      "paperId": "464ab73f4a618d3a1a672c39ea84565ef2151f78",
+      "title": "A mixture model for contextual text mining"
+    },
+    {
+      "paperId": "34ddfe4d4fbf4afa586220a21a921478c8dfab35",
+      "title": "Minimal test collections for retrieval evaluation"
+    },
+    {
+      "paperId": "e3346ebd6ff6d7cab4e0f175cc254f276a072e5c",
+      "title": "Semantic search via XML fragments: a high-precision approach to IR"
+    },
+    {
+      "paperId": null,
+      "title": "Dynamic topic models"
+    },
+    {
+      "paperId": "1f8bd13b367b7b3e5a0fc55781eceb346c46a314",
+      "title": "Visualizing tags over time"
+    },
+    {
+      "paperId": "515dc2789c8e03112880d33e94f8f3e5c4a46508",
+      "title": "Image classification for mobile web browsing"
+    },
+    {
+      "paperId": "248f6ea3037d4e530e5e2084471aca63f2b515c2",
+      "title": "Contrasting portraits of email practices: visual approaches to reflection and analysis"
+    },
+    {
+      "paperId": "2592e6a4906637a34ae909ec8a52f0eeb29ee0a8",
+      "title": "Visualizing email content: portraying relationships from conversational histories"
+    },
+    {
+      "paperId": "f8cfb495f8f95747572864364394b14a209b5c27",
+      "title": "Faster document navigation with space-filling thumbnails"
+    },
+    {
+      "paperId": "6fc5fdae585e2c4876e077274fbdd17cc9987cfa",
+      "title": "Interactive multimedia summaries of evaluative text"
+    },
+    {
+      "paperId": "321581d7c5141b2722d401d09fc38bfedbfef71b",
+      "title": "Turning the bucket of text into a pipe"
+    },
+    {
+      "paperId": "5ff0cf0877f8dd232d848c5b0d918584dbd4edfd",
+      "title": "Controlling overlap in content-oriented XML retrieval"
+    },
+    {
+      "paperId": "ff304304fddfb4de368b45894c20f44fdab817d5",
+      "title": "Evaluating machine learning for information extraction"
+    },
+    {
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9",
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling"
+    },
+    {
+      "paperId": "1fb53788bd052bc09e727aaab8d381b8ff9a201d",
+      "title": "Web-a-where: geotagging web content"
+    },
+    {
+      "paperId": "9b7769158ebcb1f6907980d68203c7d3fecc00e6",
+      "title": "Evaluating high accuracy retrieval techniques"
+    },
+    {
+      "paperId": "8f60079b816823ba644c4fed254b886d1ca15ef4",
+      "title": "Interactive treemapswith detail on demand to support information search in documents"
+    },
+    {
+      "paperId": "e1d66ee9d69a221a52e790b18838ae179ea33b18",
+      "title": "Web taxonomy integration using support vector machines"
+    },
+    {
+      "paperId": "7151f607403425f283bcb226f37742e9d3b40ce8",
+      "title": "Automatic detection of fragments in dynamically generated web pages"
+    },
+    {
+      "paperId": "a99edf4b20c50d1cf30965c12f75b8a1a3bf513f",
+      "title": "Dynamic visualization of transient data streams"
+    },
+    {
+      "paperId": "2ced30a83693ac2a44b5b837e59e9c031d0ca65e",
+      "title": "Domain-independent text segmentation using anisotropic diffusion and dynamic programming"
+    },
+    {
+      "paperId": "a4de2914822d034cae7241a0ef3e91113731fe32",
+      "title": "Combining document representations for known-item search"
+    },
+    {
+      "paperId": "0f66ae3575cd750ec24fd89d5b5f6c17fcf40e22",
+      "title": "Query type classification for web document retrieval"
+    },
+    {
+      "paperId": "66a6dde6a6a20f77ce52cb2464a52777837bd81e",
+      "title": "Document clustering based on non-negative matrix factorization"
+    },
+    {
+      "paperId": "a46b1fe633d6f533a0c26e2f3fe909ced0f686b7",
+      "title": "Improving pseudo-relevance feedback in web information retrieval using web page segmentation"
+    },
+    {
+      "paperId": "6991606a1a9d5c285af385ee9159fd46cc14048e",
+      "title": "Table extraction using conditional random fields"
+    },
+    {
+      "paperId": "6c2b28f9354f667cd5bd07afc0471d8334430da7",
+      "title": "A Neural Probabilistic Language Model"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "2f7f81529c67e9d98722f4ee17fe3808f0752b5e",
+      "title": "Novelty and redundancy detection in adaptive filtering"
+    },
+    {
+      "paperId": "5a2f67e76b5a870ff8ad8bfe3b2276a0511831be",
+      "title": "Using sampled data and regression to merge search engine results"
+    },
+    {
+      "paperId": "decf799682a402b9ee50b9d6c0267f6c545a7031",
+      "title": "Two-stage language models for information retrieval"
+    },
+    {
+      "paperId": "72e5f9705d282581c9c722451819d4e72ca68a26",
+      "title": "Knowledge-supported graphical illustration of texts"
+    },
+    {
+      "paperId": "e1ca9b6a4171642c69262fe88695a5c7a1672b99",
+      "title": "Topic-sensitive PageRank"
+    },
+    {
+      "paperId": "a4d96c65252f2497280f29345b338df490367231",
+      "title": "Interactive visualization of multiple query results"
+    },
+    {
+      "paperId": "d8c4d80458fb3680cf16bbb409940fb169f323bc",
+      "title": "Models for metasearch"
+    },
+    {
+      "paperId": "f24347599bb62f4214f5655a1d3270884b0e648c",
+      "title": "XIRQL: a query language for information retrieval in XML documents"
+    },
+    {
+      "paperId": "04819c299c8567d7849ebb26417c06ab9624b41b",
+      "title": "Visualization components for persistent conversations"
+    },
+    {
+      "paperId": "01cbff216f2888f96151fb490338af40a09a0c30",
+      "title": "Spectral Relaxation for K-means Clustering"
+    },
+    {
+      "paperId": "8d70449bc26fc0f9058d4c7f58c601b8055690c4",
+      "title": "Lighthouse: showing the way to relevant information"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "522e223eb8c7e851515316418bff6c43f4cbbb98",
+      "title": "Using Visualization to Detect Plagiarism in Computer Science Classes"
+    },
+    {
+      "paperId": "da7d8f3d6f6e09d2be7235bd167909291ae053ac",
+      "title": "Question-answering by predictive annotation"
+    },
+    {
+      "paperId": "e25c81719351ea0cdac5a075868c363b36e239c7",
+      "title": "Latent semantic space: iterative scaling improves precision of inter-document similarity measurement"
+    },
+    {
+      "paperId": "01445eee139ab468d5eb80c36fa074743d1cbd00",
+      "title": "Automatic animation of discussions in USENET"
+    },
+    {
+      "paperId": "448aa9b04905e421a8ef6e864c183f7ca6a7bb45",
+      "title": "Advances in domain independent linear text segmentation"
+    },
+    {
+      "paperId": "bc34c28ee40356b4d7bbe7be7d173a2436a89688",
+      "title": "Fast and effective text mining using linear-time document clustering"
+    },
+    {
+      "paperId": "9ce8903d523139e117061eed1b7a62f6fb367e68",
+      "title": "Multi-faceted insight through interoperable visual information analysis paradigms"
+    },
+    {
+      "paperId": "e20a2bb60bcc4f5e2e57152ef4c72156e1cc49d9",
+      "title": "The shape of Shakespeare: visualizing text using implicit surfaces"
+    },
+    {
+      "paperId": "88336268a6618b95fa21d6ef9ca0725c897066b7",
+      "title": "Information foraging models of browsers for very large document spaces"
+    },
+    {
+      "paperId": "e7d8a014788be2224828f71774b83a1bdf12a663",
+      "title": "Integrated multi scale text retrieval visualization"
+    },
+    {
+      "paperId": "72ccd65b0d2fb09cebc3bb886902c2beb3235afc",
+      "title": "Visualizing the results of multimedia Web search engines"
+    },
+    {
+      "paperId": "ef8fe767d61adffdfcbe0792632a104b60937a71",
+      "title": "DEPICT: Documents Evaluated as Pictures. Visualizing information using context vectors and self-organizing maps"
+    },
+    {
+      "paperId": "6eb1d363810b190319db75011b2b9d5bdf05ea00",
+      "title": "Visualizing information retrieval results: a demonstration of the TileBar interface"
+    },
+    {
+      "paperId": "52b7bf3ba59b31f362aa07f957f1543a29a4279e",
+      "title": "Support-Vector Networks"
+    },
+    {
+      "paperId": "4bc2d01056336caee7fecb3230f38b6bec7ce591",
+      "title": "TileBars: visualization of term distribution information in full text information access"
+    },
+    {
+      "paperId": "56afe211e7c93b59ccf55f2d8d6015dffc1ed636",
+      "title": "InfoCrystal: A visual tool for information retrieval"
+    },
+    {
+      "paperId": "5d24afe3a62331ebfad400c3fec77c836d2b99db",
+      "title": "Word Space"
+    },
+    {
+      "paperId": "d7ad112871da732fb55048bb684ea1f4f2f1039b",
+      "title": "Visualization for the document space"
+    },
+    {
+      "paperId": "f0dfedc63598f532827a40b532bb3ff2e870bffb",
+      "title": "CyteGuide: Visual Guidance for Hierarchical Single-Cell Analysis"
+    },
+    {
+      "paperId": "5b20ab877b21d3d83251dd4d1fffbd848ffd1557",
+      "title": "Visual Diagnosis of Tree Boosting Methods"
+    },
+    {
+      "paperId": "9fa681c3be3edbb447ac837a7546935a40a6bb07",
+      "title": "PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cProgressivelearningoftopicmodelingparameters:Avisualana-lyticsframework,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Machine Learning for Text . Berlin, Germany"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "c5f4337ab395bf77e8b20fe9101c2b922fa14fb8",
+      "title": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "paperId": "1de90476e9c4f016ed9a68a7653bb35fcc41aefc",
+      "title": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "paperId": "0f4cfa8fea4047d20217255964169ade91547fcc",
+      "title": "Averaged Collapsed Variational Bayes Inference"
+    },
+    {
+      "paperId": "4ef2676a91a2f0e75f1eea0f5ef455a8a21e6b8f",
+      "title": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text"
+    },
+    {
+      "paperId": "0018f63a5c85043bfec3171bef5b2e3e01d48abd",
+      "title": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "paperId": "b940dbda66d4911ab476345258b0ea7530fb5730",
+      "title": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "paperId": "2c4ca6594cd7bb34cfb2c78660105b4ce1d123af",
+      "title": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "paperId": "5d9caa55940a8f6bd602d1f9d0da8da8da231e4f",
+      "title": "Scalable inuence maximization for multiple products in continuous-time diffusion networks"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cLearningbilingualwordembeddingswith(almost)nobilin-gualdata,\u201din"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTemplateinductionoverunstruc-tured email corpora,\u201d"
+    },
+    {
+      "paperId": "739787de4a67827d1e52b5fa669f562340cc14c3",
+      "title": "Covariance-based Clustering in Multivariate and Functional Data Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cIdentifying search key-words for \ufb01nding relevant social media posts,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cData por-traits and intermediary topics: Encouraging exploration of politically diverse pro\ufb01les,\u201d"
+    },
+    {
+      "paperId": "a6c4709a50d3fdc8087f900ffc26479a32e3d5e6",
+      "title": "Exploratory Text Analysis using Lexical Episode Plots"
+    },
+    {
+      "paperId": "c91817fcbde7006b3cbc993a3a6db81928ce40f8",
+      "title": "Document visualization: an overview of current research"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSimilarity preserving snip-pet-based visualization of web search results,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cCatStream: Cate-gorising tweets for user pro\ufb01ling and stream \ufb01ltering,\u201d"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": "7e7f932ec6449475a6904f35a7f1211d4bbb8bb6",
+      "title": "I-SI : Scalable Architecture of Analyzing Latent Topical-Level Information From Social Media Data"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSemantic wordi\ufb01cation of document collections,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSpatio-temporal anomaly detection through visual analysis of geolocated Twittermessages,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cExploring \ufb02ow, factors, and outcomes of temporal event sequences with the out\ufb02ow visualization,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTheNETSPEAKWORDGRAPH:Visualizingkey-wordsincontext,\u201din"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTIARA: A visual exploratory text analytic system,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Christopher Collins received the PhD from the University of Toronto"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+      "title": "Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSocial in\ufb02uence analysis in large-scale networks,\u201d"
+    },
+    {
+      "paperId": "e64ca297ac9f52ecedb2e066ad17c05e9f70ef0c",
+      "title": "Knowing the User's Every Move \u2013 User Activity Tracking for Website Usability Evaluation and Implicit Interaction"
+    },
+    {
+      "paperId": null,
+      "title": "Pattern Recognition and Machine Learning . Berlin, Germany"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMailexplorer\u2014spatialandtemporalexplorationofelectronicmail,\u201din"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cWeb-page classi\ufb01cation through summarization,\u201d"
+    },
+    {
+      "paperId": "5730dd763625e15a5ab703283bb305f48660f374",
+      "title": "ThemeRiver: Visualizing Thematic Changes in Large Document Collections"
+    },
+    {
+      "paperId": "9d1896f86c8d504cf8822468e84534a9d671095a",
+      "title": "Principles of Data Mining"
+    },
+    {
+      "paperId": "f330f1f472f860212b980bb9be81eff884f7f0e1",
+      "title": "Classification using String Kernels"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cText \ufb01ltering by boosting naive bayes classi\ufb01ers,\u201d"
+    },
+    {
+      "paperId": "e65d9385191c9289f5a2c5be76ac7908c0cc40aa",
+      "title": "TOPIC ISLANDS - a wavelet-based text visualization system"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEffectiveretrievalwithdistributedcollections,\u201din"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cProjections for ef\ufb01cient document clustering,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualization of largeanswers in textdatabases,\u201d"
+    },
+    {
+      "paperId": "fa7307fd2b58659962ffa8c8f70095ddd9f0631e",
+      "title": "WWW 2009 MADRID! Track: Search / Session: Ads and Query Expansion Exploiting Web Search Engines to Search Structured Databases"
+    },
+    {
+      "paperId": "9024991a67a21cf0861989d49c9a774711110bec",
+      "title": "WWW 2009 MADRID! Track: Search / Session: Query Categorization Unsupervised Query Categorization using Automatically-Built Concept Graphs"
+    },
+    {
+      "paperId": "8f7536e7b2735181c8d0d09e1e6ab16df9d3da24",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Visualization of Uncertainty in Lattices to Support Decision-making"
+    },
+    {
+      "paperId": "2624bfb188c23daeb9b4215c9dba6c5981fba24c",
+      "title": "Dynamically Evolving, Large-scale Information Systems"
+    },
+    {
+      "paperId": null,
+      "title": "an assistant professor with the University of North Carolina at Charlotte"
+    },
+    {
+      "paperId": null,
+      "title": "BRIDGING TEXT VISUALIZATION AND MINING: A TASK-DRIVEN SURVEY"
+    },
+    {
+      "paperId": null,
+      "title": "New Power BI custom visuals enable browsing and analyzing collections of text"
+    },
+    {
+      "paperId": null,
+      "title": "received the BS and PhD degrees from Tsinghua University. She is now an associate researcher with Microsoft Research Asia"
+    }
+  ]
+}

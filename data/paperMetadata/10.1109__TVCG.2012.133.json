@@ -1,0 +1,502 @@
+{
+  "paperId": "a8da840d0541ee532c8d7eb85ad00fa4f379a726",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Moreland13",
+    "MAG": "2014703509",
+    "DOI": "10.1109/TVCG.2012.133",
+    "CorpusId": 2277704,
+    "PubMed": "22665724"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/a8da840d0541ee532c8d7eb85ad00fa4f379a726",
+  "title": "A Survey of Visualization Pipelines",
+  "abstract": "The most common abstraction used by visualization libraries and applications today is what is known as the visualization pipeline. The visualization pipeline provides a mechanism to encapsulate algorithms and then couple them together in a variety of ways. The visualization pipeline has been in existence for over 20 years, and over this time many variations and improvements have been proposed. This paper provides a literature review of the most prevalent features of visualization pipelines and some of the most recent research directions.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 109,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-03-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "367-378",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Moreland2013ASO,\n author = {K. Moreland},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {367-378},\n title = {A Survey of Visualization Pipelines},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "143801546",
+      "name": "K. Moreland"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "186deea6be76314e04e20121dd703d4d53777030",
+      "title": "The ParaView Guide: A Parallel Visualization Application"
+    },
+    {
+      "paperId": "f581a61674f4cfd4c6edfe8df1d95b22543621b8",
+      "title": "PISTON: A Portable Cross-Platform Framework for Data-Parallel Visualization Operators"
+    },
+    {
+      "paperId": "966a0aa94ef3021ebf405f1f35bf855a39a263a5",
+      "title": "A distributed data-parallel framework for analysis and visualization algorithm development"
+    },
+    {
+      "paperId": "d8e521e0438c93c8f7cea0ca9368d2e70a929e7e",
+      "title": "Parallel visualization on large clusters using MapReduce"
+    },
+    {
+      "paperId": "0552e358d5c3ecc608a19bc8ab87860f590b34de",
+      "title": "Dax Toolkit: A proposed framework for data analysis and visualization at Extreme Scale"
+    },
+    {
+      "paperId": "15d0a3c411b23ba62a383e2ff58d6571c21f49c3",
+      "title": "The ParaView Coprocessing Library: A scalable, general purpose in situ visualization library"
+    },
+    {
+      "paperId": "8541610a197a9e7edfae07f27ec3023e5d9367f2",
+      "title": "Examples of in transit visualization"
+    },
+    {
+      "paperId": "ef5a6a843ec0c0317f36713d71129b0ea64ba26c",
+      "title": "Liszt: A domain specific language for building portable mesh-based PDE solvers"
+    },
+    {
+      "paperId": "4cce7b86f9ba8f3cc9b08f8451787fc41140df4f",
+      "title": "GPU Computing Gems Jade Edition"
+    },
+    {
+      "paperId": "2689df33eec46521d6ef0718ceca022097bbeff1",
+      "title": "Streamline Integration Using MPI-Hybrid Parallelism on a Large Multicore Architecture"
+    },
+    {
+      "paperId": "4eaa8dd450a657ceb9b7824866c5f19bab02284a",
+      "title": "Parallel computational steering and analysis for HPC applications using a paraview interface and the HDF5 DSM virtual file driver"
+    },
+    {
+      "paperId": "a10b7a2c80e2bae49d46b980ed03c074fe36bb2a",
+      "title": "The International Exascale Software Project roadmap"
+    },
+    {
+      "paperId": "fb490e4feffddcfbbbc29e5380d442bd3a65573a",
+      "title": "Mayavi: 3D Visualization of Scientific Data"
+    },
+    {
+      "paperId": "35fdb340a9b531f537ca79f5b406ba9d9afd888f",
+      "title": "Multi-GPU volume rendering using MapReduce"
+    },
+    {
+      "paperId": "f2edcc0f651376f5acb80d282ed4887e55107b43",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Streaming-enabled Parallel Dataflow Architecture for Multicore Systems"
+    },
+    {
+      "paperId": "3b639b6e5d93355db845a18ae0a181c0746b2c77",
+      "title": "Extreme Scaling of Production Visualization Software on Diverse Architectures"
+    },
+    {
+      "paperId": "dcd1728ac89bda655d37991577c864d00454a8ed",
+      "title": "Analyses of multi-level and multi-component compressed bitmap indexes"
+    },
+    {
+      "paperId": "31df67e36b7b4f19578728921d63e650e6cf141f",
+      "title": "Interactive remote large-scale data visualization via prioritized multi-resolution streaming"
+    },
+    {
+      "paperId": "9beb6a2b6b71820edfbd14726095fbe48944fcd2",
+      "title": "Scalable computation of streamlines on very large datasets"
+    },
+    {
+      "paperId": "002b8ace1cbda398379858a5eada85d100a110a1",
+      "title": "Distribution-Driven Visualization of Volume Data"
+    },
+    {
+      "paperId": "a485fc2504993d2e5a01bba659f097bfc4264615",
+      "title": "FastBit: interactively searching massive data"
+    },
+    {
+      "paperId": "cc7e81e92a1db20d0ccde689947374465d916a81",
+      "title": "Distributed data-parallel computing using a high-level programming language"
+    },
+    {
+      "paperId": "b2af354df54ecc5227fb355a37df46f978b52e86",
+      "title": "Using Provenance to Support Real-Time Collaborative Design of Workflows"
+    },
+    {
+      "paperId": "9dcf8175a0456ec12e32f8eed3e8d2bc7b6b53f7",
+      "title": "High performance multivariate visual data exploration for extremely large data"
+    },
+    {
+      "paperId": "5567763901de3aa4f30c6abc026b66a8f2944cbc",
+      "title": "Analysis of fragmentation in shock physics simulation"
+    },
+    {
+      "paperId": "1cc85952c8588a17fa086d94ae1493a3b0413872",
+      "title": "VisComplete: Automating Suggestions for Visualization Pipelines"
+    },
+    {
+      "paperId": "ac61b330ba682e14c789d1c4e07abc18be024d3a",
+      "title": "Query-Driven Visualization of Time-Varying Adaptive Mesh Refinement Data"
+    },
+    {
+      "paperId": "6706fd56a928fe05bec1166576dddcda904a6110",
+      "title": "Visualizing Temporal Patterns in Large Multivariate Data using Modified Globbing"
+    },
+    {
+      "paperId": "ac8ff9f478466d5c6aa1222b2a516f9c6808afc0",
+      "title": "BioImageXD - Free Microscopy Image Processing Software"
+    },
+    {
+      "paperId": "b87632469176403f71ce8d7554d9bbd4c324fb40",
+      "title": "Visualization and parallel I/O at extreme scale"
+    },
+    {
+      "paperId": "3ac939c4ada416858e1c1bff9e6f18aaa98323f3",
+      "title": "Pig latin: a not-so-foreign language for data processing"
+    },
+    {
+      "paperId": "83676cd1f771caa126f92802a07add2c6160c332",
+      "title": "Large scale visualization on the Cray XT3 using ParaView."
+    },
+    {
+      "paperId": "2d587391d2592f3c56b1ce74f5c8abc0b0612678",
+      "title": "Querying and Creating Visualizations by Analogy"
+    },
+    {
+      "paperId": "aeff355ab39155029eab0d7346aec6a90dbf55d2",
+      "title": "Scout: a data-parallel programming language for graphics processors"
+    },
+    {
+      "paperId": "43ddeec46d8447ef48667f07ef3ea51a25318398",
+      "title": "Provenance for Visualizations: Reproducibility and Beyond"
+    },
+    {
+      "paperId": "8189ad573e579b03ba8046e6affd51fbb58d8339",
+      "title": "Architectural challenges and solutions for petascale postprocessing"
+    },
+    {
+      "paperId": "623f6df793a0665f89ee05d50253b860621ac4b9",
+      "title": "Optimization Strategies Using Hybrid MPI+OpenMP Parallelization for Large-Scale Data Visualization on Earth Simulator"
+    },
+    {
+      "paperId": "0285db69c4658ed0749ed943c81a27472148b1a5",
+      "title": "Time Dependent Processing in a Parallel Pipeline Architecture"
+    },
+    {
+      "paperId": "baf8582ff45acdd526b4fb5445b931a6fb98351c",
+      "title": "Parallel unstructured volume rendering in ParaView"
+    },
+    {
+      "paperId": "38d129ff3769a4f84f45e34b83bdf0cba2f5d72b",
+      "title": "A modular extensible visualization system architecture for culled prioritized data streaming"
+    },
+    {
+      "paperId": "2ee2d455ee35b1de109846a316e96a07e3b0f698",
+      "title": "Concurrent Visualization in a Production Supercomputing Environment"
+    },
+    {
+      "paperId": "707cc7d4cb730a23e4f38155242bd273b03f0977",
+      "title": "Methods and framework for visualizing higher-order finite elements"
+    },
+    {
+      "paperId": "eb9e98e998778d5b5aaa62b3e3cde361012d5605",
+      "title": "Query-driven visualization of large data sets"
+    },
+    {
+      "paperId": "1a88656a4fdb9989b503a8622273b5d8b9c4b64b",
+      "title": "A contract based system for large data visualization"
+    },
+    {
+      "paperId": "bcc3c02af8efae5a710f4bb53dbdd6067237773a",
+      "title": "VisTrails: enabling interactive multiple-view visualizations"
+    },
+    {
+      "paperId": "f0d69f238f88796875b1a951131e6351d541ad90",
+      "title": "OsiriX: An Open-Source Software for Navigating in Multidimensional DICOM Images"
+    },
+    {
+      "paperId": "2e9cb6926ab7019ba71df46402e1dedd2ec5e0c7",
+      "title": "From cluster to wall with VTK"
+    },
+    {
+      "paperId": "177beb17b9e81898de239090c657739a8b390268",
+      "title": "A model for the visualization exploration process"
+    },
+    {
+      "paperId": "c898f0d3b018e52b49794d0e72839772e28cb506",
+      "title": "Large-Scale Data Visualization Using Parallel Data Streaming"
+    },
+    {
+      "paperId": "287ce96d149142c1f93e25df1d87df7ad5a6f7bf",
+      "title": "External memory algorithms and data structures: dealing with massive data"
+    },
+    {
+      "paperId": "78a7504b16d817cd06d9b714e5d853de65c545b0",
+      "title": "MPI versus MPI+OpenMP on the IBM SP for the NAS Benchmarks"
+    },
+    {
+      "paperId": "48301eb65a407760b518bc2242b0c83e0e995ac8",
+      "title": "A Picture is Worth a Thousand Lines of Code"
+    },
+    {
+      "paperId": "6d8d44986efc1c641a08ceeab8941d53ae565838",
+      "title": "Scalable Rendering on PC Clusters"
+    },
+    {
+      "paperId": "c165b40b7e582ff41eb9cfb6af2747f7c0e0c19f",
+      "title": "Interactive Simulation and Visualization"
+    },
+    {
+      "paperId": "506cbf1cce42a13648787c6dfe3cc7425cc74b47",
+      "title": "Large field visualization with demand-driven calculation"
+    },
+    {
+      "paperId": "34ad605d14a5ba0db2018f00fca873e738b94775",
+      "title": "A multi-threaded streaming pipeline architecture for large structured data sets"
+    },
+    {
+      "paperId": "28e8ae8a9d1d9ce522b53bb7a5b2a7cbfcd25ff8",
+      "title": "Interactive out-of-core isosurface extraction"
+    },
+    {
+      "paperId": "0b8ceb2acf4c8ae6fc750b273ff2692b2935e283",
+      "title": "Simulation steering with SCIRun in a distributed environment"
+    },
+    {
+      "paperId": "f8e1b3bcee316203b4aa843efd5f581bc16849dc",
+      "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics"
+    },
+    {
+      "paperId": "9e62ba2a6919e547f4b2bc0aa5258a50439aaab1",
+      "title": "Application-controlled demand paging for out-of-core visualization"
+    },
+    {
+      "paperId": "f0c1d622e8eed86038712160551e3d0f418050ca",
+      "title": "FEL: the Field Encapsulation Library"
+    },
+    {
+      "paperId": "56cc64d474dd9f3d87560a0db81d3e14e6146e54",
+      "title": "SCIRun: A Scientific Programming Environment for Computational Steering"
+    },
+    {
+      "paperId": "5b586a807ccc9f3ffc86bfe600c97357e99999d5",
+      "title": "An extended data-flow architecture for data analysis and visualization"
+    },
+    {
+      "paperId": "74fffd8d900e5fd5d0b632ee5e779d894f174e39",
+      "title": "IRIS Explorer: a framework for investigation"
+    },
+    {
+      "paperId": "01f62647beadaccff689f6c643783f78a9f6549a",
+      "title": "A visual programming interface for an image processing environment"
+    },
+    {
+      "paperId": "8ca3e5ab1e7c6b7dbe0c34121e4fc356efe18144",
+      "title": "A sorting classification of parallel rendering"
+    },
+    {
+      "paperId": "a770c3d0fd74804bafea766c9446586d705f3783",
+      "title": "Visualization in Scientific Computing"
+    },
+    {
+      "paperId": "ad083cfca5a8006bd46b627194d238d2998f2afb",
+      "title": "Data shaders"
+    },
+    {
+      "paperId": "f57d9bf3208c4bad288f64bc673e36829de3f454",
+      "title": "VISAGE: an object-oriented scientific visualization system"
+    },
+    {
+      "paperId": "00ac60e4671744ebeb8b6387d1e525d9c52edddf",
+      "title": "An architecture for a scientific visualization system"
+    },
+    {
+      "paperId": "a93ef71aa373a625bd103466edeb304f96b4270a",
+      "title": "CONDOR: constraint-based dataflow"
+    },
+    {
+      "paperId": "13a0f386c363151cf68faa0c799f1b74d002bfa2",
+      "title": "A scientific visualization synthesizer"
+    },
+    {
+      "paperId": "95fb01a51fb89adfa2026b804851491026fae0e5",
+      "title": "Datavis: a visual programming language for scientific visualization"
+    },
+    {
+      "paperId": "7ef6a4804bc32d6799c7f72c6e17ca634dcf244e",
+      "title": "A visual language for image processing"
+    },
+    {
+      "paperId": "ccd1699b0725939928a5fa8753125ab3f3608603",
+      "title": "Building block shaders"
+    },
+    {
+      "paperId": "e80e4f8bd3c1f17c7bb049f09da3f4d0f0f7a6bd",
+      "title": "A dataflow toolkit for visualization"
+    },
+    {
+      "paperId": "e01828e7b762257d70bc122e38d6b274e5d140cb",
+      "title": "The application visualization system: a computational environment for scientific visualization"
+    },
+    {
+      "paperId": "88a32f0546fccb673225fd2fcc4d9918e7a42298",
+      "title": "Local adaptive mesh refinement for shock hydrodynamics"
+    },
+    {
+      "paperId": "013d01f986166b5509dea4b52a22836a418cb6e3",
+      "title": "ConMan: a visual programming language for interactive graphics"
+    },
+    {
+      "paperId": "d92f735b0773b4e697e7e72798eccae2f647acd6",
+      "title": "Marching cubes: A high resolution 3D surface construction algorithm"
+    },
+    {
+      "paperId": "99420c862eff9f31c58d94dda99d37ae0a5c6f9e",
+      "title": "Shade Trees"
+    },
+    {
+      "paperId": "dc08af1c25c3a0aa04e1919651f8b64b008e0e30",
+      "title": "Hybrid Parallelism for Volume Rendering on Large-, Multi-, and Many-Core Systems"
+    },
+    {
+      "paperId": "215ba41bcfb1b53084ab25bdfeb68bdea1df57c2",
+      "title": "Thrust: A Productivity-Oriented Library for CUDA"
+    },
+    {
+      "paperId": "85b9e373d9ad1042cf13dc64421562dd2e609771",
+      "title": "Architectures and Technology for Extreme Scale Computing Report from the Workshop Node Architecture and Power Reduction Strategies"
+    },
+    {
+      "paperId": "9e0e22ae4c7bc19a9128a93be9954f5b0e078791",
+      "title": "In situ data processing for extreme-scale computing"
+    },
+    {
+      "paperId": "68e96c178faaedf0f94fa22535e1f1042c72619c",
+      "title": "Designing a Parallel Dataflow Architecture for Streaming Large-Scale Visualization on Heterogeneous Platforms"
+    },
+    {
+      "paperId": "2fbc608085cb8c9876029f274516b82411ed6dc0",
+      "title": "Scientific Discovery at the Exascale"
+    },
+    {
+      "paperId": null,
+      "title": "VisTrails Documentation, Univ. of Utah"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe Paraview Tutorial, Version 3.10,\u201d"
+    },
+    {
+      "paperId": "e5a563c8b2fda1859a2c88812d93cec7dbf7e901",
+      "title": "The opportunities and challenges of exascale computing"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cGetting Data into Visit,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "The VTK User\u2019s Guide, 11th ed"
+    },
+    {
+      "paperId": "c8fe4c9b331a5218d02861778b696e28ee744a97",
+      "title": "Parallel Visualization and Analysis with ParaView on a Cray XT4"
+    },
+    {
+      "paperId": null,
+      "title": "VolView 3.2 User Manual"
+    },
+    {
+      "paperId": "02b5673308f3bb9797e766d5ed7595755710f1c4",
+      "title": "Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching"
+    },
+    {
+      "paperId": "d4ee1ba75e636817e964085ce0098911c1297f65",
+      "title": "Assessing and Improving Large Scale Parallel Volume Rendering on the IBM Blue Gene"
+    },
+    {
+      "paperId": "3e34e4ca2dc82cdbc0f7c20dd86a52331901adf7",
+      "title": "Parallel Analysis and Visualization on Cray Compute Node Linux"
+    },
+    {
+      "paperId": null,
+      "title": "Lecture Notes in Computer Science"
+    },
+    {
+      "paperId": "627be67feb084f1266cfc36e5aed3c3e7e6ce5f0",
+      "title": "MapReduce: simplified data processing on large clusters"
+    },
+    {
+      "paperId": "dd0a30e9d2322702ccd80f3ea944779028ca1538",
+      "title": "2007 4th IEEE International Symposium on Biomedical Imaging: From Nano to Macro"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization and Knowledge Discovery Report from the DOE/ASCR Workshop Visual Analysis and Data Exploration at Extreme Scale"
+    },
+    {
+      "paperId": "48189f578bdd573b308b37621dc1fe747bb6d2a9",
+      "title": "The ITK Software Guide"
+    },
+    {
+      "paperId": "4ed737359bef21a14adfb539606f8342ce0cfff2",
+      "title": "3D Slicer"
+    },
+    {
+      "paperId": "ebcb37a8d641a942b957dab511ed78575c14d09b",
+      "title": "A Parallel Approach for Efficiently Visualizing Extremely Large, Time-Varying Datasets"
+    },
+    {
+      "paperId": null,
+      "title": "IRIS Explorer User\u2019s Guide"
+    },
+    {
+      "paperId": null,
+      "title": "Explorer User's Guide, The Numerical Algorithms Group, Ltd"
+    },
+    {
+      "paperId": "2120bc6a2d4db03918e7b38ebf3b46f817614483",
+      "title": "Simulation Steering with Scirun in a Distributed Memory Environment"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAn Image Synthesizer,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "SCIRun Development Team, SCIRun User Guide"
+    }
+  ]
+}

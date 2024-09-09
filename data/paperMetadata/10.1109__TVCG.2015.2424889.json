@@ -1,0 +1,208 @@
+{
+  "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+  "externalIds": {
+    "DBLP": "journals/tvcg/KerracherKC15",
+    "MAG": "2165284015",
+    "DOI": "10.1109/TVCG.2015.2424889",
+    "CorpusId": 9720823,
+    "PubMed": "26340039"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+  "title": "A Task Taxonomy for Temporal Graph Visualisation",
+  "abstract": "By extending and instantiating an existing formal task framework, we define a task taxonomy and task design space for temporal graph visualisation. We discuss the process involved in their generation, and describe how the design space can be `sliced and diced' into multiple overlapping task categories, requiring distinct visual techniques for their support. The approach addresses deficiencies in the task literature, offering domain independence, greater task coverage, and unambiguous task specification. The taxonomy and design space capture tasks for temporal graphs, and also static graphs, multivariate graphs, and graph comparison, and will be of value in the design and evaluation of temporal graph visualisation systems.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2015,
+  "referenceCount": 33,
+  "openAccessPdf": {
+    "url": "https://napier-repository.worktribe.com/preview/1886141/paper.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2015-10-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1160-1172",
+    "volume": "21"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kerracher2015ATT,\n author = {Natalie Kerracher and J. Kennedy and K. Chalmers},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1160-1172},\n title = {A Task Taxonomy for Temporal Graph Visualisation},\n volume = {21},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3051911",
+      "name": "Natalie Kerracher"
+    },
+    {
+      "authorId": "1977511",
+      "name": "J. Kennedy"
+    },
+    {
+      "authorId": "34207575",
+      "name": "K. Chalmers"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "479a2e984bfa40c3df5bf8b5779c4e16be7666c0",
+      "title": "Visualizing Dynamic Quantitative Data in Hierarchies - TimeEdgeTrees: Attaching Dynamic Weights to Tree Edges"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "da3f8baa3e063d267c7c0abbcf2930b9255b807a",
+      "title": "A Task Taxonomy for Network Evolution Analysis"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "b7b388085b22e7e5c9d4559578b228b057ff6c3e",
+      "title": "Matching Application Requirements with Dynamic Graph Visualization Profiles"
+    },
+    {
+      "paperId": "8ee551c47b26834fe493a12145e222ceadc1c59a",
+      "title": "NetVisia: Heat Map & Matrix Visualization of Dynamic Social Network Statistics & Content"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "87598f2a820ddde056a32a0b8e3dc59b72d8abcc",
+      "title": "Effective Temporal Graph Layout: A Comparative Study of Animation versus Static Display Methods"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "855cca47ff5d9af0d3b2367b6a0a241f4f8361bf",
+      "title": "Extremes Are Better: Investigating Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "603455af3c8088e0dc1df5e75db67864b88cb624",
+      "title": "The Value of Information Visualization"
+    },
+    {
+      "paperId": "033b65df3aa498114696e82969d824fac108d1b1",
+      "title": "Visual analysis of dynamic group membership in temporal social networks"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "bacecff57019c9a4424963053feffecff94b6ba6",
+      "title": "Analyzing Actors and Their Discussion Topics by Semantic Social Network Analysis"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "54c9911a37e11fb1239e7ea857f966777f09d1ed",
+      "title": "Visualization of graphs with associated timeseries data"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "82038c93e6e803fad5804f2c82a8e74a657c4c31",
+      "title": "On the Readability of Graphs Using Node-Link and Matrix-Based Representations: A Controlled Experiment and Statistical Analysis"
+    },
+    {
+      "paperId": "7f039de04cf24488e41be54cbc7c4e7002684596",
+      "title": "Exploring the computing literature using temporal graph visualization"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "b030159952e2e17eee5cb992f1c97ff57a356eae",
+      "title": "It's About Time: A Conceptual Framework for the Representation of Temporal Dynamics in Geographic Information Systems"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "40e9d6939e54b230038ba164cd58dd18d820a8a4",
+      "title": "The Design Space of Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "1853145560a044809924b1c22a67c4816b157a03",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "766b26e37336af9a58c787c8e558ceea7d9c7ede",
+      "title": "The Spread of Obesity in a Large Social Network over 32 Years"
+    },
+    {
+      "paperId": null,
+      "title": "Biological Visualisation"
+    },
+    {
+      "paperId": null,
+      "title": "Prof. Jessie"
+    }
+  ]
+}
