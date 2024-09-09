@@ -55,4 +55,11 @@ jobs:
         path: posts
     - name: Deploy pages
       run: |
-        git status
+        git checkout gh-pages || git checkout -b gh-pages
+
+        cp posts/* docs/_posts/
+
+        git add .
+        git commit -m "Add new files to gh-pages"
+
+        git push origin gh-pages
