@@ -1,0 +1,533 @@
+{
+  "paperId": "5475bf20e09918b963da73cb66a504fb6d6f6c8c",
+  "externalIds": {
+    "DBLP": "journals/tvcg/TovanichHFI21",
+    "MAG": "2998537990",
+    "DOI": "10.1109/TVCG.2019.2963018",
+    "CorpusId": 209671317,
+    "PubMed": "31899429"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/5475bf20e09918b963da73cb66a504fb6d6f6c8c",
+  "title": "Visualization of Blockchain Data: A Systematic Review",
+  "abstract": "We present a systematic review of visual analytics tools used for the analysis of blockchains-related data. The blockchain concept has recently received considerable attention and spurred applications in a variety of domains. We systematically and quantitatively assessed 76 analytics tools that have been proposed in research as well as online by professionals and blockchain enthusiasts. Our classification of these tools distinguishes (1) target blockchains, (2) blockchain data, (3) target audiences, (4) task domains, and (5) visualization types. Furthermore, we look at which aspects of blockchain data have already been explored and point out areas that deserve more investigation in the future.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 112,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-02426339/file/blockchain_visualization_review_revised.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-12-30",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3135-3152",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tovanich2019VisualizationOB,\n author = {Natkamon Tovanich and Nicolas Heulot and Jean-Daniel Fekete and Petra Isenberg},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3135-3152},\n title = {Visualization of Blockchain Data: A Systematic Review},\n volume = {27},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "150250086",
+      "name": "Natkamon Tovanich"
+    },
+    {
+      "authorId": "2373826",
+      "name": "Nicolas Heulot"
+    },
+    {
+      "authorId": "144381703",
+      "name": "Jean-Daniel Fekete"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e389423b8f8695533e4a52dfdd76ae88f265248e",
+      "title": "Blockchain"
+    },
+    {
+      "paperId": "9e3bdfb3d518b1057170d6dddf8bbdfe93b81303",
+      "title": "Understanding Ethereum via Graph Analysis"
+    },
+    {
+      "paperId": "49ea86eda8570f9ab8d482e8e5dcc2b26bc41ebc",
+      "title": "The Anti-Social System Properties: Bitcoin Network Data Analysis"
+    },
+    {
+      "paperId": "3ed54ad1341128020ab3739598d34c857d31b9b1",
+      "title": "Visualizing and Analyzing Entity Activity on the Bitcoin Network"
+    },
+    {
+      "paperId": "fa2dcb4adcdd5120504dc4935611ae94d2d73d1a",
+      "title": "BlockchainDB - Towards a Shared Database on Blockchains"
+    },
+    {
+      "paperId": "42e88920449b26265a9539b3a5389db26a099322",
+      "title": "Analysis of blockchain technology in the mobility sector"
+    },
+    {
+      "paperId": "5259d84b7ef95cf542f08b0abcfbeedbbc5ccdc1",
+      "title": "BitVis: An Interactive Visualization System for Bitcoin Accounts Analysis"
+    },
+    {
+      "paperId": "04b805999f4055e9087f7d927cd0af44866a1022",
+      "title": "Blockchain Technology in Healthcare: A Comprehensive Review and Directions for Future Research"
+    },
+    {
+      "paperId": "883c58d25ea3d4e9e78cedc8e2fd53b2a3964f8f",
+      "title": "Progressive Data Analysis and Visualization (Dagstuhl Seminar 18411)"
+    },
+    {
+      "paperId": "fefb32be7249b51326abcbde6a4ac58186830f19",
+      "title": "Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations"
+    },
+    {
+      "paperId": "e231f7aae1250e7498513e277399ccac911bddb2",
+      "title": "BitExTract: Interactive Visualization for Extracting Bitcoin Exchange Intelligence"
+    },
+    {
+      "paperId": "e5b699334b5b007970ff0d50d1083161c69c37dd",
+      "title": "BiVA: Bitcoin Network Visualization & Analysis"
+    },
+    {
+      "paperId": "2e82b8539af92b4af1f5c1c59dcce9d31dcefccc",
+      "title": "Blockchain technology and its relationships to sustainable supply chain management"
+    },
+    {
+      "paperId": "305edd92f237f8e0c583a809504dcec7e204d632",
+      "title": "Blockchain challenges and opportunities: a survey"
+    },
+    {
+      "paperId": "3e37e740783be2c7c1f5efd15f23ca6de6e5a02c",
+      "title": "Analyzing Preferential Attachment in Peer-to-Peer BITCOIN Networks"
+    },
+    {
+      "paperId": "eebf6e978bc778c623002c2d0694fa7f78929818",
+      "title": "Monitoring Blockchains with Self-Organizing Maps"
+    },
+    {
+      "paperId": "4b58eb29731240bcc5308448ad431769a6e66557",
+      "title": "The Bitcoin Big Bang"
+    },
+    {
+      "paperId": "d91b043afc3b63510d0ef6e7f203369f9536d5fe",
+      "title": "Visual emulation for Ethereum's virtual machine"
+    },
+    {
+      "paperId": "556eb19760f2a358785eadbf89f55e794cb03277",
+      "title": "Tendrils of Crime: Visualizing the Diffusion of Stolen Bitcoins"
+    },
+    {
+      "paperId": "cfa092829c4c7a42ec77ab6844661e1dae082172",
+      "title": "Analytical Tools for Blockchain: Review, Taxonomy and Open Challenges"
+    },
+    {
+      "paperId": "6932199a3a7208825a35c6fe0a6d08cc9cb326d1",
+      "title": "Offline constraints in online drug marketplaces: An exploratory analysis of a cryptomarket trade network."
+    },
+    {
+      "paperId": "9fe1ebcfc1383405599e1aee900a1012d561f029",
+      "title": "Analysis of the Bitcoin blockchain: socio-economic factors behind the adoption"
+    },
+    {
+      "paperId": "a6d951e52f60edc4328021cc262bbc6c8ab5bc8d",
+      "title": "Toward Open Data Blockchain Analytics: A Bitcoin Perspective"
+    },
+    {
+      "paperId": "ddcd3dbc427ce867cfd4d7bbb9e4b1b3f5d06f19",
+      "title": "An Analysis of Bitcoin Laundry Services"
+    },
+    {
+      "paperId": "561612ef8c1a9d6f3682e9a80968d4b457e042b4",
+      "title": "Exploring Entity Behavior on the Bitcoin Blockchain"
+    },
+    {
+      "paperId": "c937ef8321842899ae8bab84ed94a8093d546a67",
+      "title": "Seeing is understanding: anomaly detection in blockchains with visualized features"
+    },
+    {
+      "paperId": "aea5e016836f685f65f48ec6a82d4382fa46ee96",
+      "title": "BlockSci: Design and applications of a blockchain analysis platform"
+    },
+    {
+      "paperId": "5f87beaaa1546c6048639459ced3182088dd9be3",
+      "title": "Go with the -Bitcoin- Flow, with Visual Analytics"
+    },
+    {
+      "paperId": "be8995f38d0b4ee6046796f2bdc1e5cb8ad9b4b6",
+      "title": "Long Transaction Chains and the Bitcoin Heartbeat"
+    },
+    {
+      "paperId": "6072c815623578f42b2f2936c1579ba365eaeb10",
+      "title": "A general framework for blockchain analytics"
+    },
+    {
+      "paperId": "46ea9bb6969e3be4d7dcb35ccb824a9c8fe99e32",
+      "title": "Study on Blockchain Visualization"
+    },
+    {
+      "paperId": "59230229b0a6eb52c272d92d2392f9735997a350",
+      "title": "Blockchain explorer: An analytical process and investigation environment for bitcoin"
+    },
+    {
+      "paperId": "edf941c4e9d9df352ba34ecf4632bccf67ebb0bd",
+      "title": "An Analysis of Bitcoin OP_RETURN Metadata"
+    },
+    {
+      "paperId": "b886a87282abc768186f57e327e4361664148ee0",
+      "title": "A Bayesian approach to identify Bitcoin users"
+    },
+    {
+      "paperId": "c0be9ca43b620286cfe49451ca6371a12e0d9fc5",
+      "title": "Data Analysis of Digital Currency Networks: Namecoin Case Study"
+    },
+    {
+      "paperId": "efe573cbfa7f4de4fd31eda183fefa8a7aa80888",
+      "title": "Blockchain beyond bitcoin"
+    },
+    {
+      "paperId": "35ce7c6e65f77e1b09dfc38243c10023642b9e46",
+      "title": "Where Is Current Research on Blockchain Technology?\u2014A Systematic Review"
+    },
+    {
+      "paperId": "d88b5ea155abf19dde6a454b811391dd30f6c655",
+      "title": "Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph"
+    },
+    {
+      "paperId": "0f0467f6c3fca6364260915fc4b6362d1325c07b",
+      "title": "Visualizing Dynamic Bitcoin Transaction Patterns"
+    },
+    {
+      "paperId": "76e7f49b7f8eccff8dc2a7cea66982612355082c",
+      "title": "The Unreasonable Effectiveness of Address Clustering"
+    },
+    {
+      "paperId": "6d8a9820f32036e2e330bd6c8a1f7b060a865091",
+      "title": "Analyzing the Bitcoin Network: The First Four Years"
+    },
+    {
+      "paperId": "d4c8616fa592f2413be82e030dcc1c3bfb7c7ded",
+      "title": "Bitconeview: visualization of flows in the bitcoin transaction graph"
+    },
+    {
+      "paperId": "9584863217908a530f7bc1bff2e9e19f423d8204",
+      "title": "SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies"
+    },
+    {
+      "paperId": "97fddbbfd681bce9eeb8e0a013353b4d5b2ba0db",
+      "title": "Blockchain: Blueprint for a New Economy"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "a189869cdc8499c65e2bd67b8d3daa90e01e0f7d",
+      "title": "Bitcoin: Technical Background and Data Analysis"
+    },
+    {
+      "paperId": "e4b92eccc5bc7ededff579232f5bed5186bf8302",
+      "title": "Deanonymisation of Clients in Bitcoin P2P Network"
+    },
+    {
+      "paperId": "63a074bdc40c2c91ca566c24a86b0a787fe6ae04",
+      "title": "The Bitcoin transaction graph anonymity"
+    },
+    {
+      "paperId": "3e987181514405756e0e4ca71e6ef0457749a840",
+      "title": "Evaluating User Privacy in Bitcoin"
+    },
+    {
+      "paperId": "94c56c0910e96c978aa536a6cfc71bccfaa2cf35",
+      "title": "Quantitative Analysis of the Full Bitcoin Transaction Graph"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "89e12ff6fe2576c6d3fcdd0ebe4a1d0ac6d49089",
+      "title": "An Analysis of Anonymity in the Bitcoin System"
+    },
+    {
+      "paperId": "6bb95722545823848b7a49cd56cecadb1b1d9c4f",
+      "title": "Real-time aggregation of Wikipedia data for visual analytics"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "638f2e5d0888198158cc18c3ae96827c348b20d0",
+      "title": "How to time-stamp a digital document"
+    },
+    {
+      "paperId": "c0bbf268f5b914ac67489e082aca79de12394dae",
+      "title": "A Systematic Review of Online Bitcoin Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Cryptocurrency market capitalizations"
+    },
+    {
+      "paperId": null,
+      "title": "Erasmus Mundus joint master\u2019s"
+    },
+    {
+      "paperId": null,
+      "title": "Bitcoin Forum, Accessed: August, 2019"
+    },
+    {
+      "paperId": null,
+      "title": "WalletExplorer.com: smart Bitcoin block explorer, Accessed: August, 2019"
+    },
+    {
+      "paperId": null,
+      "title": "Dragonchain - Blockchain as a service for enterprises and developers"
+    },
+    {
+      "paperId": "9301b63e3d86f9a02a3d65b3e6d58d610b21656d",
+      "title": "Considerations for Visualizing Comparison"
+    },
+    {
+      "paperId": "885355295a3b8829578982e79e5796f11225f204",
+      "title": "Visualizing Bitcoin Flows of Ransomware: WannaCry One Week Later"
+    },
+    {
+      "paperId": "2dc3f16404739c153ce6d45bf370e295623f6714",
+      "title": "Consortium Blockchains: Overview, Applications and Challenges"
+    },
+    {
+      "paperId": null,
+      "title": "Mastering Bitcoin: Programming the Open Blockchain , 2nd"
+    },
+    {
+      "paperId": "5f1e5a159aab1dcff0a0425f843c5b6244800989",
+      "title": "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World"
+    },
+    {
+      "paperId": null,
+      "title": "On public and private blockchains"
+    },
+    {
+      "paperId": "3c50bb6cc3f5417c3325a36ee190e24f0dc87257",
+      "title": "ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "b7f039f3e24404dfdae60547ec1a26df671675aa",
+      "title": "A Fistful of Bitcoins Characterizing Payments Among Men with No Names"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cInter-active data exploration with \u201cbig data tukey plots\u201d,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Black ops of TCP/IP"
+    },
+    {
+      "paperId": "4e9ec92a90c5d571d2f1d496f8df01f0a8f38596",
+      "title": "Bitcoin: A Peer-to-Peer Electronic Cash System"
+    },
+    {
+      "paperId": "a1129ce4f1a6e555dcb0c9b4436e5b82e6f11964",
+      "title": "Input"
+    },
+    {
+      "paperId": null,
+      "title": "Tracking air quality trends with SAS/GRAPH"
+    },
+    {
+      "paperId": "fcc58b43fe133e98025bc616fbddd96393ae48c7",
+      "title": "Improving the Efficiency and Reliability of Digital Time-Stamping"
+    },
+    {
+      "paperId": null,
+      "title": "Bit\ufb02y gmbh"
+    },
+    {
+      "paperId": null,
+      "title": "Statoshi.info"
+    },
+    {
+      "paperId": null,
+      "title": "The ethereum nodes explorer"
+    },
+    {
+      "paperId": null,
+      "title": "BitListen"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE TVCG SURVEY PAPER - REVISED VERSION"
+    },
+    {
+      "paperId": null,
+      "title": "BTC.com"
+    },
+    {
+      "paperId": null,
+      "title": "CoinDesk, Inc."
+    },
+    {
+      "paperId": null,
+      "title": "BitBonkers, BitBonkers"
+    },
+    {
+      "paperId": null,
+      "title": "CoinMarketCap OpCo"
+    },
+    {
+      "paperId": null,
+      "title": "Ethereum network status"
+    },
+    {
+      "paperId": null,
+      "title": "Elliptic Enterprises Limited, The Bitcoin Big Bang , Ac-cessed: August, 2019"
+    },
+    {
+      "paperId": null,
+      "title": "Coin Dance"
+    },
+    {
+      "paperId": null,
+      "title": "The Dogecoin Project"
+    },
+    {
+      "paperId": null,
+      "title": "BitBonkers -A Bitcoin blockchain transaction visualisation"
+    },
+    {
+      "paperId": null,
+      "title": "Johoe's bitcoin mempool statistics"
+    },
+    {
+      "paperId": null,
+      "title": "Katana Cryptographic Ltd."
+    },
+    {
+      "paperId": null,
+      "title": "ethernodes.org"
+    },
+    {
+      "paperId": null,
+      "title": "TradeBlock"
+    },
+    {
+      "paperId": null,
+      "title": "Federal bitcoin"
+    },
+    {
+      "paperId": null,
+      "title": "Symphony of blockchains: 3D blockchain explorer"
+    },
+    {
+      "paperId": null,
+      "title": "BitcoinWisdom"
+    },
+    {
+      "paperId": null,
+      "title": "Accessed"
+    },
+    {
+      "paperId": null,
+      "title": "The Linux Foundation, Hyperledger -Open Source Blockchain Technologies"
+    },
+    {
+      "paperId": null,
+      "title": "BitForce5"
+    },
+    {
+      "paperId": null,
+      "title": "Plantoids: Blockchain-based life forms"
+    },
+    {
+      "paperId": null,
+      "title": "Dash Is Digital Cash You Can Spend Anywhere"
+    },
+    {
+      "paperId": null,
+      "title": "chainFlyer"
+    },
+    {
+      "paperId": null,
+      "title": "Enterprise Ethereum Alliance, Enterprise Ethereum Al-liance"
+    },
+    {
+      "paperId": null,
+      "title": "Namecoin"
+    },
+    {
+      "paperId": null,
+      "title": "Litecoin -Open source P2P digital currency"
+    },
+    {
+      "paperId": null,
+      "title": "BitInfoCharts"
+    },
+    {
+      "paperId": null,
+      "title": "TX highway"
+    },
+    {
+      "paperId": null,
+      "title": "Wizbit realtime bitcoin globe"
+    },
+    {
+      "paperId": null,
+      "title": "EtherView"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "paperId": "1affad49d3aaa259c7fe41faa3c6f739ce482178",
+  "externalIds": {
+    "ArXiv": "2008.01645",
+    "MAG": "3047311878",
+    "DBLP": "journals/tvcg/FujiwaraSSNYM21",
+    "DOI": "10.1109/TVCG.2020.3028889",
+    "CorpusId": 220961615,
+    "PubMed": "33026990"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1affad49d3aaa259c7fe41faa3c6f739ce482178",
+  "title": "A Visual Analytics Framework for Reviewing Multivariate Time-Series Data with Dimensionality Reduction",
+  "abstract": "Data-driven problem solving in many real-world applications involves analysis of time-dependent multivariate data, for which dimensionality reduction (DR) methods are often used to uncover the intrinsic structure and features of the data. However, DR is usually applied to a subset of data that is either single-time-point multivariate or univariate time-series, resulting in the need to manually examine and correlate the DR results out of different data subsets. When the number of dimensions is large either in terms of the number of time points or attributes, this manual task becomes too tedious and infeasible. In this paper, we present MulTiDR, a new DR framework that enables processing of time-dependent multivariate data as a whole to provide a comprehensive overview of the data. With the framework, we employ DR in two steps. When treating the instances, time points, and attributes of the data as a 3D array, the first DR step reduces the three axes of the array to two, and the second DR step visualizes the data in a lower-dimensional space. In addition, by coupling with a contrastive learning method and interactive visualizations, our framework enhances analysts' ability to interpret DR results. We demonstrate the effectiveness of our framework with four case studies using real-world datasets.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 61,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2008.01645",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-08-02",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1601-1611",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Fujiwara2020AVA,\n author = {Takanori Fujiwara and Shilpika and Naohisa Sakamoto and J. Nonaka and Keiji Yamamoto and K. Ma},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1601-1611},\n title = {A Visual Analytics Framework for Reviewing Multivariate Time-Series Data with Dimensionality Reduction},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2070522051",
+      "name": "Takanori Fujiwara"
+    },
+    {
+      "authorId": "41022949",
+      "name": "Shilpika"
+    },
+    {
+      "authorId": "145883949",
+      "name": "Naohisa Sakamoto"
+    },
+    {
+      "authorId": "2489735",
+      "name": "J. Nonaka"
+    },
+    {
+      "authorId": "48522473",
+      "name": "Keiji Yamamoto"
+    },
+    {
+      "authorId": "1707383",
+      "name": "K. Ma"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "311d7fed687056e529c5ebcf842348931e9a896d",
+      "title": "Deep Inductive Graph Representation Learning"
+    },
+    {
+      "paperId": "eeab539846ade5ba94cc3c93167962985aea6a7a",
+      "title": "Comparative Visual Analytics for Assessing Medical Records with Sequence Embedding"
+    },
+    {
+      "paperId": "20e4ceabf686e56687f4c645abe320c236f7eab8",
+      "title": "A Visual Analytics Framework for Reviewing Streaming Performance Data"
+    },
+    {
+      "paperId": "07eeda7772b5ea1e1309c90dc2deef5defc50a45",
+      "title": "MELA: A Visual Analytics Tool for Studying Multifidelity HPC System Logs"
+    },
+    {
+      "paperId": "9ce56d7037aa41a1bfe5c4072fdb2c9738df1c80",
+      "title": "Visual analytics of urban transportation from a bike-sharing and taxi perspective"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "2b61001c5d927fad8d64118747e1a6e22c82e9c5",
+      "title": "Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning"
+    },
+    {
+      "paperId": "11e54eeb213e2d51be405455fcaf49909cdaf2d8",
+      "title": "An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data"
+    },
+    {
+      "paperId": "7479be78e6fe0597b5dc8dacafd02f276e3e858c",
+      "title": "Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical Records"
+    },
+    {
+      "paperId": "a9643c2746ec3579b04456e04d3b6125cd75926b",
+      "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis"
+    },
+    {
+      "paperId": "7b3b61308897c918bb25661ddf586ca2f9f7251b",
+      "title": "A survey of visualization for smart manufacturing"
+    },
+    {
+      "paperId": "d99437de9821c819ce1dd752220f663c1f56a8ae",
+      "title": "Contrastive Multivariate Singular Spectrum Analysis"
+    },
+    {
+      "paperId": "0d561d8b0a11cba249e40b8d42a1d671aca7b372",
+      "title": "TTHRESH: Tensor Compression for Multidimensional Visual Data"
+    },
+    {
+      "paperId": "576d9ccbeafb51da093db84de9b0b9253a5f3061",
+      "title": "A Visual Analytics Approach for Equipment Condition Monitoring in Smart Factories of Process Industry"
+    },
+    {
+      "paperId": "78fbba2fe03d8c3f15f7cd5d4e6d2c6ee8452267",
+      "title": "A visual analytics system for optimizing the performance of large-scale networks in supercomputing systems"
+    },
+    {
+      "paperId": "3a288c63576fc385910cb5bc44eaea75b442e62e",
+      "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction"
+    },
+    {
+      "paperId": "ac469d36498a54ecaa129c6ef4dc09745bfa3b03",
+      "title": "The role of big data analytics in Internet of Things"
+    },
+    {
+      "paperId": "9d13d4c7e7d37d4e635385f136d29b3b43bd4f76",
+      "title": "A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space\u2010Time Cubes"
+    },
+    {
+      "paperId": "59fbacc43655c7538bddc80f126aafc42775e50a",
+      "title": "A visual analytics system for brain functional connectivity comparison across individuals, groups, and time points"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "9cacbc50b5a94e28b9de139c6c3abd1f00bd632f",
+      "title": "Medical Internet of Things and Big Data in Healthcare"
+    },
+    {
+      "paperId": "3db4436a64ccae91adfe809cb90073e93dd39ebc",
+      "title": "Visualizing Time-Dependent Data Using Dynamic t-SNE"
+    },
+    {
+      "paperId": "b29e5be7987216cb1aaf46c6927ff216e048240a",
+      "title": "Functional Data Analysis"
+    },
+    {
+      "paperId": "64d2e7b2178d2106b7274a6e1d0e6d456a36f222",
+      "title": "Visual Analysis of Cloud Computing Performance Using Behavioral Lines"
+    },
+    {
+      "paperId": "dcb401a9ff0ff14300e181c6fcd35479b719725d",
+      "title": "Internet of Things and Big Data Analytics for Smart and Connected Communities"
+    },
+    {
+      "paperId": "8b2224af1129dad01d4eed083e7bce4f97fc9af3",
+      "title": "Temporal MDS Plots for Analysis of Multivariate Data"
+    },
+    {
+      "paperId": "3cf84847753ccb5e53c46711881841475258bb5d",
+      "title": "Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data"
+    },
+    {
+      "paperId": "a0e833912ff3cedfff101fa66bf928885ac3ecce",
+      "title": "MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering"
+    },
+    {
+      "paperId": "7e68748b06796d789a4d38345cec38c1fc610089",
+      "title": "Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration"
+    },
+    {
+      "paperId": "90dd764ac87f47a7df06c491a84389eef572c65b",
+      "title": "Design, implementation and validation of a novel open framework for agile development of mobile health applications"
+    },
+    {
+      "paperId": "569518638ad7ec69003a990dfc929efa91006e11",
+      "title": "mHealthDroid: A Novel Framework for Agile Development of Mobile Health Applications"
+    },
+    {
+      "paperId": "0a4c78e6a6fb4c51266dd2842988f14a1ef39811",
+      "title": "Visualizing dimensionally-reduced data: interviews with analysts and a characterization of task sequences"
+    },
+    {
+      "paperId": "981e9e108c5f6316e84c8bf38101c6222e82103e",
+      "title": "Contact Patterns among High School Students"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "18bdc78571825b2cf66f18a0f52f3d218d02fb16",
+      "title": "Linear dimensionality reduction: survey, insights, and generalizations"
+    },
+    {
+      "paperId": "b047f788c7b87eb9706acc249f6a5228dd746a38",
+      "title": "Time-aware visualization of document collections"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "b1b9aa047dbfb219588b26705dc23ddc44808d78",
+      "title": "A survey of multilinear subspace learning for tensor data"
+    },
+    {
+      "paperId": "87e43e9eba01a4eb03436c9946bf6aa031a5d5af",
+      "title": "Tensor Decompositions and Applications"
+    },
+    {
+      "paperId": "9ae57932c6a02f8de40a966123beb2e8d390b9ab",
+      "title": "Quality assessment of dimensionality reduction: Rank-based criteria"
+    },
+    {
+      "paperId": "342fe6a6338e73fd4d34c4f37f41e3bbad274dd2",
+      "title": "Networks"
+    },
+    {
+      "paperId": "6179b2232c635008fed0f5ea0c8c5c82ccd1bdda",
+      "title": "Towards a standardized notation and terminology in multiway analysis"
+    },
+    {
+      "paperId": "0638b36f53212b68bac0a9160b5afaf10ef2b806",
+      "title": "Hierarchical relations among three-way methods"
+    },
+    {
+      "paperId": "757cb62e3d1c0643c9f83bf57d45e427bd76e235",
+      "title": "Analysis of individual differences in multidimensional scaling via an n-way generalization of \u201cEckart-Young\u201d decomposition"
+    },
+    {
+      "paperId": "6661789de63b3cebe2eafdd7e9e7a316ad1f0b8f",
+      "title": "Some mathematical notes on three-mode factor analysis"
+    },
+    {
+      "paperId": "ae6718c01bfb308e1ac95fb2fca875b5bac6008e",
+      "title": "La VALSE: Scalable Log Visualization for Fault Characterization in Supercomputers"
+    },
+    {
+      "paperId": "4b79e084aed74598a305b3551f5379456be55d09",
+      "title": "Voila: Visual Anomaly Detection and Monitoring with Streaming Spatiotemporal Data"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "9964d3689324a2456611f34bcbef5681a9ba9330",
+      "title": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "paperId": "2ea84fa7467d1e10d54b28fc8c6a0860f435e258",
+      "title": "Big Healthcare Data Analytics: Challenges and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Designing progressive and 10 To appear in IEEE Transactions on Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "4842c920d133093b900b948ad199cd320c16557c",
+      "title": "Overview of the K computer System"
+    },
+    {
+      "paperId": null,
+      "title": "and M"
+    },
+    {
+      "paperId": "e080cf7852cdd3e43703e9b4cf47e6bd36f42681",
+      "title": "Multivariate Singular Spectrum Analysis"
+    },
+    {
+      "paperId": "2309f7c5dad934f2adc2c5a066eba8fc2d8071ec",
+      "title": "Dimensionality Reduction: A Comparative Review"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "c5b28cae82b14417f1250e58bb241367248e827d",
+      "title": "Foundations of the PARAFAC procedure: Models and conditions for an \"explanatory\" multi-model factor analysis"
+    },
+    {
+      "paperId": "3aedefc2d53fa963cffff9e5847d451ad3bf9b4e",
+      "title": "2015 Ieee International Conference on Big Data (big Data) Revealing the Fog-of-war: a Visualization-directed, Uncertainty-aware Approach for Exploring High-dimensional Data"
+    },
+    {
+      "paperId": null,
+      "title": "The supplementary materials: Videos, source code, datasets"
+    },
+    {
+      "paperId": null,
+      "title": "Air quality system data mart"
+    }
+  ]
+}

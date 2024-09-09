@@ -1,0 +1,565 @@
+{
+  "paperId": "93c19e2949c095ecda7040201818e259d13fa33e",
+  "externalIds": {
+    "ArXiv": "2207.07998",
+    "DBLP": "journals/corr/abs-2207-07998",
+    "DOI": "10.1109/TVCG.2022.3209460",
+    "CorpusId": 250627665,
+    "PubMed": "36166549"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/93c19e2949c095ecda7040201818e259d13fa33e",
+  "title": "No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization",
+  "abstract": "There has been substantial growth in the use of JSON-based grammars, as well as other standard data serialization languages, to create visualizations. Each of these grammars serves a purpose: some focus on particular computational tasks (such as animation), some are concerned with certain chart types (such as maps), and some target specific data domains (such as ML). Despite the prominence of this interface form, there has been little detailed analysis of the characteristics of these languages. In this study, we survey and analyze the design and implementation of 57 JSON-style DSLs for visualization. We analyze these languages supported by a collected corpus of examples for each DSL (consisting of 4395 instances) across a variety of axes organized into concerns related to domain, conceptual model, language relationships, affordances, and general practicalities. We identify tensions throughout these areas, such as between formal and colloquial specifications, among types of users, and within the composition of languages. Through this work, we seek to support language implementers by elucidating the choices, opportunities, and tradeoffs in visualization DSL design.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 124,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2207.07998",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-07-16",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "160-170",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Mcnutt2022NoGT,\n author = {A. Mcnutt},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {160-170},\n title = {No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "150022510",
+      "name": "A. Mcnutt"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "c398d622e5fbf77ed47aa833eb5c2e8bfa76a71a",
+      "title": "Technical Dimensions of Programming Systems"
+    },
+    {
+      "paperId": "52e447d88b5b744e613337b31a0063392e930ec6",
+      "title": "How accessible is my visualization? Evaluating visualization accessibility with Chartability"
+    },
+    {
+      "paperId": "21aab13690c46c7da6add894bc91d1eef9b0c772",
+      "title": "Varv: Reprogrammable Interactive Software as a Declarative Data Structure"
+    },
+    {
+      "paperId": "8053cf91e3eda8b000d776cd66ffdc04c1989d52",
+      "title": "Cicero: A Declarative Grammar for Responsive Visualization"
+    },
+    {
+      "paperId": "1a653f4cc1c44f4e67ef65fda8a70542f1451389",
+      "title": "Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels"
+    },
+    {
+      "paperId": "aa84b0ce050b95cfb9bcaede6ae790f1cbcc0b36",
+      "title": "Gosling: A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization"
+    },
+    {
+      "paperId": "db237c65ad4edd2086ddd37455455492c5a8e4c7",
+      "title": "Atlas: Grammar-based Procedural Generation of Data Visualizations"
+    },
+    {
+      "paperId": "dfc59d086c305362e8940993a343e82eeff011f9",
+      "title": "Integrating Computing through Task-Specific Programming for Disciplinary Relevance"
+    },
+    {
+      "paperId": "6f08ca4624ad7a3acb297d39fd8aeb556785b432",
+      "title": "On Designing Applied DSLs for Non-Programming Experts in Evolving Domains"
+    },
+    {
+      "paperId": "d34bcf4c7084d9ec5252e6c498a52d596642711e",
+      "title": "VizLinter: A Linter and Fixer Framework for Data Visualization"
+    },
+    {
+      "paperId": "e694dcd61bfb633b21248243ed4e15aaf33e3128",
+      "title": "A Genre-Specific Game Description Language for Game Boy RPGs"
+    },
+    {
+      "paperId": "40c8d0b02ccf5add72f92d11aed5be54a2fb332c",
+      "title": "Gemini2: Generating Keyframe-Oriented Animated Transitions Between Statistical Graphics"
+    },
+    {
+      "paperId": "07aba347fa86e382dcad94c380d5cdde0ae8768f",
+      "title": "Interactive Data Comics"
+    },
+    {
+      "paperId": "033b4bc59878fbba05f21ca52607150e184968a4",
+      "title": "On the Potential of Zines as a Medium for Visualization"
+    },
+    {
+      "paperId": "79718bedd948d65b5192c379ed9e22157432d02d",
+      "title": "AniVis: Generating Animated Transitions Between Statistical Charts with a Tree Model"
+    },
+    {
+      "paperId": "a98f5e38dbc0f6b6277adba9756cb08dc6c24a7b",
+      "title": "A Modular Domain-Specific Language for Interactive 3D Visualization"
+    },
+    {
+      "paperId": "25d6d7b14278b2cb2737ba44f64b785f8ae9f805",
+      "title": "Special Interest Group on Visualization Grammars"
+    },
+    {
+      "paperId": "41789a195fd35e405ee887b83fd9c97ca825f724",
+      "title": "A Grammar of Digital Fabrication Machines"
+    },
+    {
+      "paperId": "2014f0975363fe79f4eaff258006e338afa6a137",
+      "title": "Glinda: Supporting Data Science with Live Programming, GUIs and a Domain-specific Language"
+    },
+    {
+      "paperId": "d2fc8b56fa3597eb963241fe558ab4a68d81b795",
+      "title": "danceON: Culturally Responsive Creative Computing"
+    },
+    {
+      "paperId": "ef128b46edf70390c1861d5cea47192a7d9908c5",
+      "title": "What are Table Cartograms Good for Anyway? An Algebraic Analysis"
+    },
+    {
+      "paperId": "adb8a5f071bd9a965be8c8f99c88f41a74a2360c",
+      "title": "Designing for Interactive Exploratory Data Analysis Requires Theories of Graphical Inference"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "b2d040647eef20a1ec2ec15e62883f91f87e1016",
+      "title": "Integrated Visualization Editing via Parameterized Declarative Templates"
+    },
+    {
+      "paperId": "eefb1f2dc8460acb8e6cd4d2c22afb3d17a1879e",
+      "title": "Visception: An interactive visual framework for nested visualization design"
+    },
+    {
+      "paperId": "9e464806ab8049d7c655561dc358a8bac797f995",
+      "title": "Domain-Specific Language Techniques for Visual Computing: A Comprehensive Study"
+    },
+    {
+      "paperId": "a19f86616372f9b24f8877becd36ddd2568751c2",
+      "title": "Engaging Pre-Service Teachers in Front-End Design: Developing Technology for a Social Studies Classroom"
+    },
+    {
+      "paperId": "6099feb5eb536f3666614565b1bda5b701d40be2",
+      "title": "B2: Bridging Code and Interactive Visualization in Computational Notebooks"
+    },
+    {
+      "paperId": "942f59cfb977a76def1190ca487543dfdc26b8ef",
+      "title": "StructGraphics: Flexible Visualization Design through Data-Agnostic and Reusable Graphical Structures"
+    },
+    {
+      "paperId": "ed13b13e317f6fba239711be728dd802d2c9047d",
+      "title": "Representing Real-Time Multi-User Collaboration in Visualizations"
+    },
+    {
+      "paperId": "dfaf5d156422b5e97b1cc476272cf3e0e39347d9",
+      "title": "Gemini: A Grammar and Recommender System for Animated Transitions in Statistical Graphics"
+    },
+    {
+      "paperId": "048189c29159ceae2c6f1a97069bc1dba2a503e3",
+      "title": "P6: A Declarative Language for Integrating Machine Learning in Visual Analytics"
+    },
+    {
+      "paperId": "b6c83b3013ed792d26f3fa329e103fadeb302d39",
+      "title": "Encodable: Configurable Grammar for Visualization Components"
+    },
+    {
+      "paperId": "5593676873d799a4727123a2cbffb231d3b4eb80",
+      "title": "NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries"
+    },
+    {
+      "paperId": "342536c7d1d0369dff1e5e0f1d5876a8dc63042c",
+      "title": "Lyra 2: Designing Interactive Visualizations by Demonstration"
+    },
+    {
+      "paperId": "42f0bb955fc1ce1ce8fa5b3c7cb364092be5610a",
+      "title": "The Design Space of Computational Notebooks: An Analysis of 60 Systems in Academia and Industry"
+    },
+    {
+      "paperId": "a93e326080e4edf7dc0b5b67188506c993f03a32",
+      "title": "Kyrix-S: Authoring Scalable Scatterplot Visualizations of Big Data"
+    },
+    {
+      "paperId": "8308379582a8b5b34afa92d2052823d59a9f20fc",
+      "title": "The State of the Art in Map\u2010Like Visualization"
+    },
+    {
+      "paperId": "5564c984a22cd46f9cae02fbe38184ccb1136769",
+      "title": "Canis: A High\u2010Level Language for Data\u2010Driven Chart Animations"
+    },
+    {
+      "paperId": "598769f64664dda5da2ff188c6bdd3dc9ae76bc9",
+      "title": "GoTree: A Grammar of Tree Visualizations"
+    },
+    {
+      "paperId": "ed585b684af4437c5a9e24b287aeba73e96e17f4",
+      "title": "Augmenting Static Visualizations with PapARVis Designer"
+    },
+    {
+      "paperId": "658c4f07d852fd17b51783c00480446fb003c985",
+      "title": "VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors"
+    },
+    {
+      "paperId": "4e3e3ad7f5403bc2f759e37ad0bf161f3b1780aa",
+      "title": "P4: Portable Parallel Processing Pipelines for Interactive Information Visualization"
+    },
+    {
+      "paperId": "e2b6ec35bd2f195387def5906797643ebbd91516",
+      "title": "Bacat\u00e1: Notebooks for DSLs, Almost for Free"
+    },
+    {
+      "paperId": "166bc6dc8d7202cda0096eab824aac976fa77317",
+      "title": "VRIA: A Web-Based Framework for Creating Immersive Analytics Experiences"
+    },
+    {
+      "paperId": "64243ed743f570ae0ed171d82b5d97f06ede7a39",
+      "title": "Surfacing Visualization Mirages"
+    },
+    {
+      "paperId": "8b6cc1f7e5a6350ae9d6f990064d0bc9f808cbe0",
+      "title": "A Probabilistic Grammar of Graphics"
+    },
+    {
+      "paperId": "cbd0b7a68758787fb0bfad125d6e450c52475d2c",
+      "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization"
+    },
+    {
+      "paperId": "b0c8b08dcb94752d5d96f88a9b1bcd58bcc9154f",
+      "title": "Making data visualization more efficient and effective: a survey"
+    },
+    {
+      "paperId": "a512fb45d5d77c0bb0649178c410b8c1a884f4ac",
+      "title": "Deck.gl: Large-scale Web-based Visual Analytics Made Easy"
+    },
+    {
+      "paperId": "1c41971ff895ed88697b72ade53f511e42c30d08",
+      "title": "Critical Reflections on Visualization Authoring Systems"
+    },
+    {
+      "paperId": "b39498c78b491ebaedf1a7e8cbb76df774f0dfde",
+      "title": "Sketch-n-Sketch: Output-Directed Programming for SVG"
+    },
+    {
+      "paperId": "925fa819231a3c4cde4a81076905ae03f6fe736c",
+      "title": "Tea: A High-level Language and Runtime System for Automating Statistical Analysis"
+    },
+    {
+      "paperId": "676f5e8eeb55b23caeb5bbd57ade94a2fbc0ba05",
+      "title": "Declarative Data Analytics: A Survey"
+    },
+    {
+      "paperId": "1809c8d21f72568e5373b32bbd2c4af7927169a6",
+      "title": "DXR: A Toolkit for Building Immersive Data Visualizations"
+    },
+    {
+      "paperId": "18378e20eaa65f67cd5989dbcc2013ab14b28afc",
+      "title": "A Declarative Rendering Model for Multiclass Density Maps"
+    },
+    {
+      "paperId": "064b6f6a7b8ce00ff0d2a631d6ec9d3022bf3646",
+      "title": "Design Exposition with Literate Visualization"
+    },
+    {
+      "paperId": "4a16ab800f866b38e665f97fe6f5d8ee77201fdc",
+      "title": "A Declarative Grammar of Flexible Volume Visualization Pipelines"
+    },
+    {
+      "paperId": "ae73a9f746ff4cec129a3bbe29e5586099274970",
+      "title": "Altair: Interactive Statistical Visualizations for Python"
+    },
+    {
+      "paperId": "b855568e17378c6847e3875f7f58c1e139660aa6",
+      "title": "Atom: A Grammar for Unit Visualizations"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "ca555c321577acd4e243378b33cb12d6df51df22",
+      "title": "Adapting a Conversational Text Generator for Online Chatbot Messaging"
+    },
+    {
+      "paperId": "4fca64e6dc4e803d3ed904c04c6845a9e6adc53e",
+      "title": "Idyll: A Markup Language for Authoring and Publishing Interactive Articles on the Web"
+    },
+    {
+      "paperId": "1947846db9707a11d289f73891a6a7ae00244791",
+      "title": "SetCoLa: High-Level Constraints for Graph Layout"
+    },
+    {
+      "paperId": "ac30a12a67a3d3da5f08ea5eed1fa1bb0bca6841",
+      "title": "ECharts: A declarative framework for rapid construction of web-based visualization"
+    },
+    {
+      "paperId": "12a327895756710ad3ce4b78bc0143bbcad9a4b5",
+      "title": "Augmenting Code with In Situ Visualizations to Aid Program Understanding"
+    },
+    {
+      "paperId": "7ae0cff2354014fc3051ba401f1be04dbf354639",
+      "title": "GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "8e0b65a2908055cbac3ab0c29fb2fc21e16c0053",
+      "title": "Foundations of JSON Schema"
+    },
+    {
+      "paperId": "a5d560ef928d0b9f6df2710c4ce66240ed6802b7",
+      "title": "Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization"
+    },
+    {
+      "paperId": "32e7d3850bbf8b5cc56dfeed6d2a8eaf992748a8",
+      "title": "Tracery: An Author-Focused Generative Text Tool"
+    },
+    {
+      "paperId": "625a134c619492b7d99d9b6d89e3dc5e08a4cca2",
+      "title": "Grammar Zoo: A corpus of experimental grammarware"
+    },
+    {
+      "paperId": "005804e4eaef2a2986d6f1e864dbb7b8dc80bccd",
+      "title": "ViSlang: A System for Interpreted Domain-Specific Languages for Scientific Visualization"
+    },
+    {
+      "paperId": "847976a5526bbdf2f9995121e1d71de81edae776",
+      "title": "An Algebraic Process for Visualization Design"
+    },
+    {
+      "paperId": "5b322c010b6f9766dde4525dd5b4be3161d1ed64",
+      "title": "Declarative interaction design for data visualization"
+    },
+    {
+      "paperId": "786dab3ac51e64cb0e27c46974cbf9d74a1d542a",
+      "title": "Data Visualization in Sociology."
+    },
+    {
+      "paperId": "befb28484716491fa8e06454a3b92c14ed4ed039",
+      "title": "The Case for Data Visualization Management Systems"
+    },
+    {
+      "paperId": "0850cf5b422c2b93ad081cdf10651fa3dec9ac37",
+      "title": "Diderot: a parallel DSL for image analysis and visualization"
+    },
+    {
+      "paperId": "e9399861426542b884f6324aea19a8981b6f9327",
+      "title": "Language composition untangled"
+    },
+    {
+      "paperId": "57403986109cbba643e4d806515b2bd3896b31ea",
+      "title": "Software variability: the design space of configuration languages"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "4c5ec021b5b4a8e27a3fbb1e0c1b5a08f64fffb5",
+      "title": "The four Rs of programming language design"
+    },
+    {
+      "paperId": "59e145dfef77797b57b28d71b019c2e8b6dd9f01",
+      "title": "Languages as libraries"
+    },
+    {
+      "paperId": "0fd10062dd192c7590be924331cc8242709f7519",
+      "title": "Domain Specific Languages"
+    },
+    {
+      "paperId": "b77d04d06b8befa4ebcf285101922bf05c5e8ccd",
+      "title": "A Layered Grammar of Graphics"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "56e6b5300b555e84d7c86d86c40be1762cb9bca3",
+      "title": "Client-side data visualization"
+    },
+    {
+      "paperId": "879a08552c953deba1f920908ad5da4ea802828a",
+      "title": "Tweet!"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "81957286d692030cc7f1572debbb046edf11a43b",
+      "title": "VizQL: a language for query, analysis and visualization"
+    },
+    {
+      "paperId": "1da0b10ba41a613f76843e22b332fc019aa4ff9e",
+      "title": "When and how to develop domain-specific languages"
+    },
+    {
+      "paperId": "f2253b1faab086e13644764cb65f735df4f50425",
+      "title": "An Overview of the GXL Graph Exchange Language"
+    },
+    {
+      "paperId": "8dc3b9f1f22277556fe0e52b12216bf6e149801a",
+      "title": "Domain-specific languages: an annotated bibliography"
+    },
+    {
+      "paperId": "56e807efe7af12ee5b84db02dc4ecb0e09834ab0",
+      "title": "The computer scientist as toolsmith II"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "a1f7a38113b93b6ac2fa979811b17a821d7937bb",
+      "title": "Special Feature: Epigrams on programming"
+    },
+    {
+      "paperId": null,
+      "title": "Rolf Kristensen"
+    },
+    {
+      "paperId": null,
+      "title": "Colorless Green Graphs Sleep Furiously: a Conversation with Leland"
+    },
+    {
+      "paperId": null,
+      "title": "WebCola. https://github.com/tgdwyer/WebCola. Viewed 3/5/2022"
+    },
+    {
+      "paperId": "3705965d9e798360f2ff684a91d3086398844d8d",
+      "title": "Is Usability Evaluation of DSL Still a Trending Topic?"
+    },
+    {
+      "paperId": "d7d1e4bd4ffba0cea1fc08fa051d920c43d623c1",
+      "title": "CFGConf: Supporting high level requirements for visualizing Control Flow Graphs"
+    },
+    {
+      "paperId": "dd29fc6491d7166d972b04e1c3d41265053a8700",
+      "title": "Highcharts"
+    },
+    {
+      "paperId": null,
+      "title": "Glisp"
+    },
+    {
+      "paperId": null,
+      "title": "Design Choices"
+    },
+    {
+      "paperId": "e3fed22b5255b3d773f33456bc4b1dad5f1bcf82",
+      "title": "Data Theater: A Live Programming Environment for Prototyping Data-Driven Explorable Explanations"
+    },
+    {
+      "paperId": null,
+      "title": "Navigating the Wide World of Data Visualization Libraries"
+    },
+    {
+      "paperId": "d0527fdc486080dd4a0e196ab04a16edd4f82795",
+      "title": "VR-Viz: Visualization system for data visualization in VR"
+    },
+    {
+      "paperId": "414cb3c6cede070ab2c18d236895277d9c171828",
+      "title": "Graph Markup Language (GraphML)"
+    },
+    {
+      "paperId": null,
+      "title": "Media for Thinking the Unthinkable"
+    },
+    {
+      "paperId": "5223947b210e07b43885c03e3a4bb015a51bfc21",
+      "title": "\u042f\u0437\u044b\u043a \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 Directed Graph Markup Language"
+    },
+    {
+      "paperId": null,
+      "title": "When And How To Develop IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS"
+    },
+    {
+      "paperId": "aa3017e02f2f8f31ddfd52c819a9f20df36e0d30",
+      "title": "CHAPTER 5 \u2013 Notational Systems\u2014The Cognitive Dimensions of Notations Framework"
+    },
+    {
+      "paperId": null,
+      "title": "10th Rule of Programming"
+    },
+    {
+      "paperId": null,
+      "title": "greenspun"
+    },
+    {
+      "paperId": "12b03af504d0960334c77567dab38791bf0f739a",
+      "title": "AND T"
+    },
+    {
+      "paperId": null,
+      "title": "Design Guidelines for Domain Specific Languages"
+    },
+    {
+      "paperId": null,
+      "title": "Modern, Open Source SVG Charts"
+    },
+    {
+      "paperId": null,
+      "title": "Mark Types"
+    },
+    {
+      "paperId": null,
+      "title": "XML/SWF Charts"
+    },
+    {
+      "paperId": null,
+      "title": "Antv-spec"
+    },
+    {
+      "paperId": null,
+      "title": "Execution Model : How the language is implemented"
+    },
+    {
+      "paperId": null,
+      "title": "Extensible : Whether and how the language can be extended, e.g. by end users, through an API, etc"
+    },
+    {
+      "paperId": null,
+      "title": "This is the author\u2019s version of the article"
+    }
+  ]
+}

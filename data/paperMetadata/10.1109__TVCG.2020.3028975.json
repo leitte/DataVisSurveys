@@ -1,0 +1,505 @@
+{
+  "paperId": "c3c33709f3c9a9ef0793d28a154b40d1b1c3dc27",
+  "externalIds": {
+    "DBLP": "journals/tvcg/YousefJ21",
+    "MAG": "3091852516",
+    "DOI": "10.1109/TVCG.2020.3028975",
+    "CorpusId": 222317303,
+    "PubMed": "33044932"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/c3c33709f3c9a9ef0793d28a154b40d1b1c3dc27",
+  "title": "A Survey of Text Alignment Visualization",
+  "abstract": "Text alignment is one of the fundamental techniques text-related domains like natural language processing, computational linguistics, and digital humanities. It compares two or more texts with each other aiming to find similar textual patterns, or to estimate in general how different or similar the texts are. Visualizing alignment results is an essential task, because it helps researchers getting a comprehensive overview of individual findings and the overall pattern structure. Different approaches have been developed to visualize and help making sense of these patterns depending on text size, alignment methods, and, most importantly, the underlying research tasks demanding for alignment. On the basis of those tasks, we reviewed existing text alignment visualization approaches, and discuss their advantages and drawbacks. We finally derive design implications and shed light on related future challenges.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 107,
+  "openAccessPdf": {
+    "url": "https://findresearcher.sdu.dk/ws/files/179900945/A_Survey_of_Text_Alignment_Visualization.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Linguistics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-10-12",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1149-1159",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Yousef2020ASO,\n author = {Tariq Yousef and S. J\u00e4nicke},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1149-1159},\n title = {A Survey of Text Alignment Visualization},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2076999476",
+      "name": "Tariq Yousef"
+    },
+    {
+      "authorId": "1762398",
+      "name": "S. J\u00e4nicke"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "062533cd5075f8a0024948bbd817e8927a4ccb47",
+      "title": "An Interactive Visualization for the Analysis of Annotated Text Variance in the Legendary Der Heiligen Leben, Redaktion"
+    },
+    {
+      "paperId": "5f9b38d84959e3276715b7230c12c4ee8795955a",
+      "title": "Ugarit: Translation Alignment Visualization"
+    },
+    {
+      "paperId": "97f3b13f6a4f1587cb3dae8ab64abfddbae9f580",
+      "title": "HyperHamlet: A Database of Quotations from and Allusions to Shakespeare's Most Famous Tragedy"
+    },
+    {
+      "paperId": "d52679c853796879337bbf52702ea68bca6e41f6",
+      "title": "eComparatio \u2013 a Software Tool for Automatic Text Comparison"
+    },
+    {
+      "paperId": "1d64cab3982987959f068eb9d67ca7dad1fab82a",
+      "title": "Visualizing Collation Results"
+    },
+    {
+      "paperId": "3ee7156af52e17abbd979561754490a4250573f8",
+      "title": "\u2018A Brief Discourse of Rebellion and Rebels\u2019 by George North: A Newly Uncovered Manuscript Source for Shakespeare's Plays. By Dennis McCarthy and June Schlueter"
+    },
+    {
+      "paperId": "a76da470c26d677193601a11afe42407d2b79543",
+      "title": "Unsupervised identification of text reuse in early Chinese literature"
+    },
+    {
+      "paperId": "5ad37f14f42125cd3cdc0326d59e4d227a2468ed",
+      "title": "Aligning Text and Document Illustrations: Towards Visually Explainable Digital Humanities"
+    },
+    {
+      "paperId": "30dd8abedc54c8217d9261d05f8681bac62559c0",
+      "title": "Shakespeare and Quotation"
+    },
+    {
+      "paperId": "3dff85fe0f08f7df545487a1908b2946b63f0ad9",
+      "title": "\"A Brief Discourse of Rebellion and Rebels\" by George North: A Newly Uncovered Manuscript Source for Shakespeare's Plays"
+    },
+    {
+      "paperId": "fa0abba0925e5318c54a2c9c159aaef5a4b8b75d",
+      "title": "Casual Shakespeare: Three Centuries of Verbal Echoes"
+    },
+    {
+      "paperId": "b916d27090b2f8d31dfb5d72627c0e56a7f829ca",
+      "title": "Interactive Visual Alignment of Medieval Text Versions"
+    },
+    {
+      "paperId": "6b9ae17bc3d8d65112df335a3cfc700b9d65db28",
+      "title": "Machine Translation"
+    },
+    {
+      "paperId": "0ccc82b74890478854505cd95ddd30e51c6cf661",
+      "title": "MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization"
+    },
+    {
+      "paperId": "0664f14b15bba2050201103415d3e8f3568fc879",
+      "title": "Shakespeare\u2019s Plays"
+    },
+    {
+      "paperId": "d6e9da04d8a9fbd3e0d4d5116877c60878ce5221",
+      "title": "Version Variation Visualization (VVV): Case Studies on the Hebrew Haggadah in English"
+    },
+    {
+      "paperId": "af1322580b13907d690f5d371d880a4e39b6edfd",
+      "title": "Constructive Visual Analytics for Text Similarity Detection"
+    },
+    {
+      "paperId": "d81ca0830371042939742f4e037e75b4e1dc12da",
+      "title": "Digital Scholarly Editing : Theories and Practices"
+    },
+    {
+      "paperId": "6d3043853f02ba450645b06959455c83827caa25",
+      "title": "Bi-text Alignment of Movie Subtitles for Spoken English-Arabic Statistical Machine Translation"
+    },
+    {
+      "paperId": "401e308fac9bbbef98af02b3a6810f267d4c2d05",
+      "title": "Task-Driven Comparison of Topic Models"
+    },
+    {
+      "paperId": "4e643e07e1a2dfba5982394a515fc9d48f48a811",
+      "title": "Real-Time Audio-to-Score Alignment of Music Performances Containing Errors and Arbitrary Repeats and Skips"
+    },
+    {
+      "paperId": "f5ad13fc5e4c11c244305163c21779c20305b3c0",
+      "title": "TRAViz: A Visualization for Variant Graphs"
+    },
+    {
+      "paperId": "8a9376675d960ea76d5f8449f2871c4adf8854c9",
+      "title": "Visualizations for Text Re-use"
+    },
+    {
+      "paperId": "dcf20279e003ef36d8d18b2e2a0605c3a5402a01",
+      "title": "ShakerVis: Visual analysis of segment variation of German translations of Shakespeare\u2019s Othello"
+    },
+    {
+      "paperId": "b2ec94d60b4894e7df0bbacde56fe9e1d34e3327",
+      "title": "Computer-supported collation of modern manuscripts: CollateX and the Beckett Digital Manuscript Project"
+    },
+    {
+      "paperId": "731d9a81b16a833f006728273988b2e621bcbf5c",
+      "title": "Visual Assessment of Alleged Plagiarism Cases"
+    },
+    {
+      "paperId": "59ac98f3910dad473e7771ac61f796a038f1708f",
+      "title": "Weakly-Supervised Alignment of Video with Text"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "cfb353785d6eb6049e772655553593d95fa090a3",
+      "title": "Exploring the Placement and Design of Word-Scale Visualizations"
+    },
+    {
+      "paperId": "2017d0679cc215f8b8d9d4158cfbfe3649f9328a",
+      "title": "Detecting and modeling local text reuse"
+    },
+    {
+      "paperId": "327849f47d0e9b709556b685d005eb8931142666",
+      "title": "Citation-based Plagiarism Detection"
+    },
+    {
+      "paperId": "220151abd126aabf06edee86a7754eb59e6539af",
+      "title": "Pivot-based multilingual dictionary building using Wiktionary"
+    },
+    {
+      "paperId": "ec94e2351a5b92b3da188f7793134ecfc79b5a97",
+      "title": "Designing Close and Distant Reading Visualizations for Text Re-use"
+    },
+    {
+      "paperId": "64fb79d3ef63e2a3169093e3ffd9b53cb1d84bb6",
+      "title": "Beyond the tree of texts: Building an empirical model of scribal variation through graph analysis of texts and stemmata"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "cf9e7b04d92319b25779858888f552b85a86f78f",
+      "title": "Developing a New Integrated Editing Platform for Source Documents in Classics"
+    },
+    {
+      "paperId": "93ba34f6422614cfb9650700f95c6a5a035b9c72",
+      "title": "Perseids collaborative platform for annotating text re-uses of fragmentary authors"
+    },
+    {
+      "paperId": "169dde2e0e163779155db1b94393302084686a6d",
+      "title": "Creating an Improved Version Using Noisy OCR from Multiple Editions"
+    },
+    {
+      "paperId": "72fe53ea760855f159aea27e698edf45fc39c9d0",
+      "title": "Text Reuse Detection using a Composition of Text Similarity Measures"
+    },
+    {
+      "paperId": "ce9e490b2653ae02df12113feb564f7ec61a868f",
+      "title": "WORDGRAPH: Keyword-in-Context Visualization for NETSPEAK's Wildcard Search"
+    },
+    {
+      "paperId": "31598145ebe1f066c3ce773a6105ffd912ad98db",
+      "title": "Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization"
+    },
+    {
+      "paperId": "2cd7660fd6be488024418c4e8ae0f3da07af6eb5",
+      "title": "A Fast Alignment Scheme for Automatic OCR Evaluation of Books"
+    },
+    {
+      "paperId": "25413929c563b106c5e84e618005b9603f41f609",
+      "title": "Comparative evaluation of text- and citation-based plagiarism detection approaches using guttenplag"
+    },
+    {
+      "paperId": "7062dd156d6b26525052f3e99ca8637191355d33",
+      "title": "An Introduction to Bibliographical and Textual Studies"
+    },
+    {
+      "paperId": "67c49ffe84906c6370fc39fb78a7edfa6d6d40cb",
+      "title": "Improving OCR Accuracy for Classical Critical Editions"
+    },
+    {
+      "paperId": "2fc8a563eece7b1a4235738460d7a87b58c3a5c7",
+      "title": "A data structure for representing multi-version texts online"
+    },
+    {
+      "paperId": "f3cb3cda4baf2e1e819ad8a3535f9f2f1fe1854d",
+      "title": "ALINE: a WYSIWYG protein-sequence alignment editor for publication-quality alignments."
+    },
+    {
+      "paperId": "29b7da5511dee3615fc1d2889d7756652c551cc9",
+      "title": "Finding text reuse on the web"
+    },
+    {
+      "paperId": "97a42ad4fc9975367d98028291f99845cd6db794",
+      "title": "Text-image alignment for historical handwritten documents"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "74dd9d19963969a8119b546f36ff32e7ed76548c",
+      "title": "Building a dynamic lexicon from a digital library"
+    },
+    {
+      "paperId": "4c48ea33226e07bf31a735b420933b1097833be0",
+      "title": "Improving Statistical Machine Translation Efficiency by Triangulation"
+    },
+    {
+      "paperId": "744919a8bec55d80a7f070c3960cf974c9fef411",
+      "title": "Using the Stockholm TreeAligner"
+    },
+    {
+      "paperId": "e26f9da1ada4bb13ba937c8b8bcb938d741bb1e4",
+      "title": "Machine Translation by Triangulation: Making Effective Use of Multi-Parallel Corpora"
+    },
+    {
+      "paperId": "932ebc75ac76ab3828dfdf42c451e2b46d189f3b",
+      "title": "Similarity measures for tracking information flow"
+    },
+    {
+      "paperId": "34dab59a43882aafc915904042bc0409caf159a3",
+      "title": "On the evolution of clusters of near-duplicate Web pages"
+    },
+    {
+      "paperId": "b9e0a0adf6be60db53e10adc1cb37c4e0e485e3e",
+      "title": "ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps"
+    },
+    {
+      "paperId": "193bfa5dbb1a55628a70d9d94cd8f585c471925f",
+      "title": "The Versioning Machine"
+    },
+    {
+      "paperId": "ca5d01967f2c68e5bb9fcf1196f080e140ee0b28",
+      "title": "Library"
+    },
+    {
+      "paperId": "14d46d1d2f7cd38f68f9fc68726b45db57e327b9",
+      "title": "Bioinformatics: Sequence and Genome Analysis"
+    },
+    {
+      "paperId": "522e223eb8c7e851515316418bff6c43f4cbbb98",
+      "title": "Using Visualization to Detect Plagiarism in Computer Science Classes"
+    },
+    {
+      "paperId": "027224cecc5cc50f664e7fd249bd4f4545397b96",
+      "title": "Manual Annotation of Translational Equivalence: The Blinker Project"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "a0b61625e60a419bd5ea1d892047a65a73d9f0c4",
+      "title": "Text-Translation Alignment"
+    },
+    {
+      "paperId": "5d7cf89392ce857475f8e699e11f8ac3c60dab47",
+      "title": "Aligning Sentences in Parallel Corpora"
+    },
+    {
+      "paperId": "a1066659ec1afee9dce586f6f49b7d44527827e1",
+      "title": "A Statistical Approach to Machine Translation"
+    },
+    {
+      "paperId": "e573fa8304843db5dffabfd2b93859e2def519d9",
+      "title": "A Rationale of Textual Criticism"
+    },
+    {
+      "paperId": "40c5441aad96b366996e6af163ca9473a19bb9ad",
+      "title": "Identification of common molecular subsequences."
+    },
+    {
+      "paperId": "0ae47348a378307514411560e6db99df8bbf6222",
+      "title": "The statistical approach"
+    },
+    {
+      "paperId": "006de89469c93b083e7d990e2118efd9127615b9",
+      "title": "Participatory Visualization Design as an Approach to Minimize the Gap between Research and Application"
+    },
+    {
+      "paperId": null,
+      "title": "Juxtacommons"
+    },
+    {
+      "paperId": null,
+      "title": "A user guide to juxta commons"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Information Fusion of Spatio-Temporal Multi-Modal Data in Sports"
+    },
+    {
+      "paperId": "30fb8b7e6a1db64e4819fe310d33b5055ab1121d",
+      "title": "Between Innovation and Conservation: The Narrow Path of User Interface Design for Digital Scholarly Editions"
+    },
+    {
+      "paperId": "27ebc2029ac79ecba728fdc3dfe0a7749b23c352",
+      "title": "TexTile: A Pixel-Based Focus+Context Tool For Analyzing Variants Across Multiple Text Scales"
+    },
+    {
+      "paperId": "4fbd0920f8a2acdd6a7c149a8c5bde4f2d77d012",
+      "title": "LERA - Explorative Analyse komplexer Textvarianten in Editionsphilologie und Diskursanalyse"
+    },
+    {
+      "paperId": "fd984d650966f60bff7fa61b040e422105147e12",
+      "title": "AnnotateVis : Combining Traditional Close Reading with Visual Text Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "and M"
+    },
+    {
+      "paperId": "f5bdcd710b6e7152fb27b8d1d85c71f9f3f71cc7",
+      "title": "CATview - Supporting the Investigation of Text Genesis of Large Manuscripts by an Overall Interactive Visualization Tool"
+    },
+    {
+      "paperId": "e7e6fe560004e07701d9faf10ddb9b2d5866ea14",
+      "title": "Computer supported collation of modern manuscripts: CollateX and the Beckett Digital Manuscript Project"
+    },
+    {
+      "paperId": "5c35b2a89e2c07867803c4071e268ad97f2af2ae",
+      "title": "Towards a Historical Text Re-use Detection"
+    },
+    {
+      "paperId": "5ebef5315090c61d6ee01a0a45ba1acbb65594e0",
+      "title": "Audio-to-text alignment for speech recognition with very limited resources"
+    },
+    {
+      "paperId": "8db125d8777ea0337b8c4d92a18f271be54e4826",
+      "title": "Translation Arrays: Exploring Cultural Heritage Texts Across Languages"
+    },
+    {
+      "paperId": "27a84020d6e011f449a61a2e3e6e3d316e4a9ac0",
+      "title": "The News Auditor: Visual Exploration of Clusters of Stories"
+    },
+    {
+      "paperId": null,
+      "title": "Translation Sorting: Eddy and Viv in Translation Arrays"
+    },
+    {
+      "paperId": "9cbf2d9f0e0a28f6fc004bd31f0ea20bcaf1aea4",
+      "title": "Computer-Supported Collation with CollateX"
+    },
+    {
+      "paperId": "113ac2d7abafef43dec91b7580eac7b7593eb233",
+      "title": "Japanese-Chinese Phrase Alignment Using Common Chinese Characters Information"
+    },
+    {
+      "paperId": null,
+      "title": "Welcome to the collation"
+    },
+    {
+      "paperId": null,
+      "title": "Bitext Alignment , vol. 4. 05"
+    },
+    {
+      "paperId": "6166950a0f4d33812ed6c5e48d951cf370c4e74c",
+      "title": "Subtitle-free Movie to Script Alignment"
+    },
+    {
+      "paperId": "fd13749266dad81983e479c55ff97a35af427d7b",
+      "title": "Context-driven automatic bilingual movie subtitle alignment"
+    },
+    {
+      "paperId": "8107c335d7eee78c71265fffc5abb7c488141e02",
+      "title": "Overview of the 1st international competition on plagiarism detection"
+    },
+    {
+      "paperId": "524e2fa6371e2a97818f336626a037f73a8dae49",
+      "title": "Improved Sentence Alignment for Movie Subtitles"
+    },
+    {
+      "paperId": "a8cd4009c4a2d92b49625179e0a35677ccb75606",
+      "title": "Word-Based Alignment, Phrase-Based Translation: What\u2019s the Link?"
+    },
+    {
+      "paperId": null,
+      "title": "Meter: Measuring text reuse"
+    },
+    {
+      "paperId": "1756503d08a3bbbe1635e6c64c327e1251a1023e",
+      "title": "Multiple Alignment Using Hidden Markov Models"
+    },
+    {
+      "paperId": "967f32841955b72f358190436baa5510839d9ab3",
+      "title": "A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins"
+    },
+    {
+      "paperId": null,
+      "title": "Kitab project"
+    },
+    {
+      "paperId": null,
+      "title": "Intra-language text alignment using ialigner"
+    },
+    {
+      "paperId": null,
+      "title": "Variance viewer"
+    },
+    {
+      "paperId": null,
+      "title": "Word alignment of divan-e-hafez"
+    },
+    {
+      "paperId": "d09479127402e2c8a61f314a3aae316190b3cafe",
+      "title": "Significant Word-based Text Alignment for Text Reuse Detection"
+    },
+    {
+      "paperId": "84d0ff016746ffb702c2a0c6745184021226261e",
+      "title": "A Distant Reading Visualization for Variant Graphs"
+    },
+    {
+      "paperId": "7b6d3a55ec6b2098ba2f8811e3fa41994a14e80a",
+      "title": "Visualizing Variation in Classical Text with Force Directed Storylines"
+    },
+    {
+      "paperId": null,
+      "title": "Ducat citation alignment 1.3.0"
+    },
+    {
+      "paperId": null,
+      "title": "BIOINFORMATICS APPLICATIONS NOTE Jalview Version 2\u2014a multiple sequence alignment editor and analysis workbench"
+    },
+    {
+      "paperId": null,
+      "title": "Textual Criticism Analysis - King Lear by William Shake-speare, 2008"
+    }
+  ]
+}

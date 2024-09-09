@@ -1,0 +1,553 @@
+{
+  "paperId": "2c55ad8e3b7270141818090d53f9e7b0b4842229",
+  "externalIds": {
+    "MAG": "3015495516",
+    "DBLP": "journals/tvcg/ZollmannLGLMR21",
+    "DOI": "10.1109/TVCG.2020.2986247",
+    "CorpusId": 215732686,
+    "PubMed": "32275601"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/2c55ad8e3b7270141818090d53f9e7b0b4842229",
+  "title": "Visualization Techniques in Augmented Reality: A Taxonomy, Methods and Patterns",
+  "abstract": "In recent years, the development of Augmented Reality (AR) frameworks made AR application development widely accessible to developers without AR expert background. With this development, new application fields for AR are on the rise. This comes with an increased need for visualization techniques that are suitable for a wide range of application areas. It becomes more important for a wider audience to gain a better understanding of existing AR visualization techniques. In this article we provide a taxonomy of existing works on visualization techniques in AR. The taxonomy aims to give researchers and developers without an in-depth background in Augmented Reality the information to successively apply visualization techniques in Augmented Reality environments. We also describe required components and methods and analyze common patterns.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 116,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2020-04-08",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3808-3825",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zollmann2020VisualizationTI,\n author = {S. Zollmann and T. Langlotz and R. Grasset and Wei Hong Lo and Shohei Mori and H. Regenbrecht},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3808-3825},\n title = {Visualization Techniques in Augmented Reality: A Taxonomy, Methods and Patterns},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3109238",
+      "name": "S. Zollmann"
+    },
+    {
+      "authorId": "1817225",
+      "name": "T. Langlotz"
+    },
+    {
+      "authorId": "3437894",
+      "name": "R. Grasset"
+    },
+    {
+      "authorId": "153021694",
+      "name": "Wei Hong Lo"
+    },
+    {
+      "authorId": "153312182",
+      "name": "Shohei Mori"
+    },
+    {
+      "authorId": "1745309",
+      "name": "H. Regenbrecht"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f86136cea73ded57661e98b3c93c27574570e468",
+      "title": "MARVisT: Authoring Glyph-Based Visualization in Mobile Augmented Reality"
+    },
+    {
+      "paperId": "4fdfc1958c4744e11731c518e8b188c2fe7f024b",
+      "title": "Designing Augmented Reality Applications for Personal Health Decision-Making"
+    },
+    {
+      "paperId": "4d91341df29992875818de050ba5a21de8593710",
+      "title": "Indirect Augmented Reality Browser for GIS Data"
+    },
+    {
+      "paperId": "b4a83aa63d51b79f9ad8aab1d9b50153b173178e",
+      "title": "Revisiting Trends in Augmented Reality Research: A Review of the 2nd Decade of ISMAR (2008\u20132017)"
+    },
+    {
+      "paperId": "26558f9b2f07432afac878dc4608ceab47e5a5f9",
+      "title": "Beyond Halo and Wedge: visualizing out-of-view objects on head-mounted virtual and augmented reality devices"
+    },
+    {
+      "paperId": "508ec04b51cc66a64a08bc8ed11a38df5412546f",
+      "title": "D-ball: virtualized sports in diminished reality"
+    },
+    {
+      "paperId": "212a40d382ee56ab94ab27b964544c7dc06c7ca9",
+      "title": "Visual Coherence in Mixed Reality: A Systematic Enquiry"
+    },
+    {
+      "paperId": "89eb2c7b571db2100e01c043fa6005d1fb9417e2",
+      "title": "Occlusion Leak Compensation for Optical See-Through Displays Using a Single-Layer Transmissive Spatial Light Modulator"
+    },
+    {
+      "paperId": "2df0f4eff00cb2aec3096c4ca3b340dd6873a8a2",
+      "title": "Occlusion handling using semantic segmentation and visibility-based rendering for mixed reality"
+    },
+    {
+      "paperId": "37c07e4d5b96a89e2e819b4d4ba4777fd79ed938",
+      "title": "Towards Pervasive Augmented Reality: Context-Awareness in Augmented Reality"
+    },
+    {
+      "paperId": "d4fa650d5796548bcdee1475c7d0f7e2749eb9f0",
+      "title": "HORUS EYE: See the Invisible Bird and Snake Vision for Augmented Reality Information Visualization"
+    },
+    {
+      "paperId": "57dbad90bc353e9dd479bc3967cdfb850964cfce",
+      "title": "Pre-attentive Features in Natural Augmented Reality Visualizations"
+    },
+    {
+      "paperId": "3f7e87a47ee8d7d56cba93405b49b4001c024207",
+      "title": "Use of Random Dot Pattern for Achieving X-Ray Vision with Stereoscopic Augmented Reality Displays"
+    },
+    {
+      "paperId": "2bc92605b61bcf4dfc684395998f459db3d4fb85",
+      "title": "Real-Time Radiometric Compensation for Optical See-Through Head-Mounted Displays"
+    },
+    {
+      "paperId": "97343c7ba1c4ed8ea59827cc00e46897d72b133c",
+      "title": "OverLay: Practical Mobile Augmented Reality"
+    },
+    {
+      "paperId": "77e7e78215181b605664fbb9a6fa4b7be6b092a1",
+      "title": "Image-based X-ray visualization techniques for spatial understanding in outdoor augmented reality"
+    },
+    {
+      "paperId": "8199c758501bbc5bca82c41d6e5dc150887341b3",
+      "title": "Visibility-based blending for real-time applications"
+    },
+    {
+      "paperId": "d45a610c1614e5d59c8302add1b4c8f7e8991d9b",
+      "title": "Half-diminished reality image using three RGB-D sensors for remote control robots"
+    },
+    {
+      "paperId": "fdb70d8a90b99b1c7629dbc707908b74c8b3abb1",
+      "title": "Relevance-Based Visualization to Improve Surgeon Perception"
+    },
+    {
+      "paperId": "f6fbcff6474ac57d46e92dd816dac62eaa7bb63c",
+      "title": "The use of surrounding visual context in handheld AR: device vs. user perspective rendering"
+    },
+    {
+      "paperId": "7cb7efb041a7f9d5534bec72e6a878d83db0e056",
+      "title": "FlyAR: Augmented Reality Supported Micro Aerial Vehicle Navigation"
+    },
+    {
+      "paperId": "2aa2251f10de9d8f62af2355e1bc9f0ff8c723d8",
+      "title": "Global Localization from Monocular SLAM on a Mobile Phone"
+    },
+    {
+      "paperId": "0a8f1e7fcccb3f7f3545406be14b8aae547af7f1",
+      "title": "Adaptive ghosted views for Augmented Reality"
+    },
+    {
+      "paperId": "60369ae4fff73e721690c4349a5cf79de8147dd7",
+      "title": "[Paper] Diminished Reality for AR Marker Hiding Based on Image Inpainting with Reflection of Luminance Changes"
+    },
+    {
+      "paperId": "62e5fb67d1ddc3a8201a7b6d6dd3c2ef8adc67e4",
+      "title": "Dynamic compact visualizations for augmented reality"
+    },
+    {
+      "paperId": "3a166119a25ece2e1f0610de4865027619a7abbf",
+      "title": "Multi-view augmented reality for underground exploration"
+    },
+    {
+      "paperId": "74c83cd8fb697ab3599ff9a81d23b29b0429ab17",
+      "title": "Poster: Lifted road map view on windshield display"
+    },
+    {
+      "paperId": "4e3b6c9f66864336133f118e3308c7f6cf3ff8a0",
+      "title": "Improving relative depth judgments in augmented reality with auxiliary augmentations"
+    },
+    {
+      "paperId": "08e1912e2d397f5a6ee2d15c643236e42ccc908a",
+      "title": "Dense depth maps from sparse models and image coherence for augmented reality"
+    },
+    {
+      "paperId": "886700f0fba9005960a88b7724fe2b9dd0fc1543",
+      "title": "Interactive 4D overview and detail visualization in augmented reality"
+    },
+    {
+      "paperId": "b73833e117062275ddd48cb55f9c70694ad40010",
+      "title": "Image-driven view management for augmented reality browsers"
+    },
+    {
+      "paperId": "195bdd9e603da551604685f54a9eb45ef8133f11",
+      "title": "Comprehensible and Interactive Visualizations of GIS Data in Augmented Reality"
+    },
+    {
+      "paperId": "d4ccebc0c935450724b68194e0449d6a541b4d0a",
+      "title": "Collaborative Augmented Reality Application for Information Visualization Support"
+    },
+    {
+      "paperId": "13a4a3f0ffe7e81bcca5dda4fd31a5f839234389",
+      "title": "User interface design for military AR applications"
+    },
+    {
+      "paperId": "0ca83c9f0ff452cbd72cb4d18d24d300022c8414",
+      "title": "Directing attention and influencing memory with visual saliency modulation"
+    },
+    {
+      "paperId": "aa9ac96ea53899ecc7b1a55d2f41a19481ff8b5c",
+      "title": "An Augmented Reality X-Ray system based on visual saliency"
+    },
+    {
+      "paperId": "9dbcef0e7e0edb7c5039b1fae59f960cc0c99c0d",
+      "title": "Image-based ghostings for single layer occlusions in augmented reality"
+    },
+    {
+      "paperId": "604b73ea3b68c87f8d8d78963eaefb53d273f55d",
+      "title": "On-line visualization of underground structures using context features"
+    },
+    {
+      "paperId": "db5b0202e1de96f151a3efb36f68aeb332cf2eea",
+      "title": "Perceptual issues in augmented reality revisited"
+    },
+    {
+      "paperId": "9cca39a4786308ebc41b56b17c93a63d7474b8f8",
+      "title": "Visualization of off-screen objects in mobile augmented reality"
+    },
+    {
+      "paperId": "9866b5a822977101deffa4a69b1a44b823b8e830",
+      "title": "Simulating Low-Cost Cameras for Augmented Reality Compositing"
+    },
+    {
+      "paperId": "eae0d25e48db99a93f9e2001e56b91266af097dc",
+      "title": "Evaluating depth perception of photorealistic mixed reality visualizations for occluded objects in outdoor environments"
+    },
+    {
+      "paperId": "6ef234d70bde3e53b6b786625e0b809eedbba778",
+      "title": "Real-time panoramic mapping and tracking on mobile phones"
+    },
+    {
+      "paperId": "2bb3d231fd11d55e0388b8ae91a42bfc8e674983",
+      "title": "More than meets the eye: An engineering study to empirically examine the blending of real and virtual color spaces"
+    },
+    {
+      "paperId": "a7e9f0f2f3f2b6d61eed30d5f9a655d71bcc38e0",
+      "title": "Importance masks for revealing occluded objects in augmented reality"
+    },
+    {
+      "paperId": "80c4e4595aa06c7f3c75b22a3cc502a714e19319",
+      "title": "Egocentric space-distorting visualizations for rapid environment exploration in mobile mixed reality"
+    },
+    {
+      "paperId": "4c3ebccc58fc97593720292c95842037b2b9e372",
+      "title": "Augmented touch without visual obtrusion"
+    },
+    {
+      "paperId": "44c9f67c40a6abfdb80b5cdda6de8fe7c939dd4a",
+      "title": "SiteLens: situated visualization techniques for urban site visits"
+    },
+    {
+      "paperId": "52580b896c44d57c6f562d620f4af4c4f6de6061",
+      "title": "Improving Spatial Perception for Augmented Reality X-Ray Vision"
+    },
+    {
+      "paperId": "429b01df853c6695e59199405129cfec6e4d2c3a",
+      "title": "Indoor vs. Outdoor Depth Perception for Mobile Augmented Reality"
+    },
+    {
+      "paperId": "01f18503450fdb9952a016edec4bfbe954d0418e",
+      "title": "Explosion Diagrams in Augmented Reality"
+    },
+    {
+      "paperId": "991ada999b278c409419ecad2d4640c980507658",
+      "title": "Comprehensible Visualization for Augmented Reality"
+    },
+    {
+      "paperId": "d36d9671ed289700d5aaaae3dd0aabb83adcd272",
+      "title": "Occlusion registration in video-based augmented reality"
+    },
+    {
+      "paperId": "b9eaa8d2fad0dc2ea4e5411ce2eee46c0c28b5a5",
+      "title": "An information layout method for an optical see-through head mounted display focusing on the viewability"
+    },
+    {
+      "paperId": "3600890a1e810e1cd7a3d215825944ff05d25539",
+      "title": "Virtual redlining for civil engineering in real environments"
+    },
+    {
+      "paperId": "93611a7f0f51fe7db35893a6fad8b92eeb025d36",
+      "title": "Pose tracking from natural features on mobile phones"
+    },
+    {
+      "paperId": "d1baa7bf1dd81422c86954447b8ad570539f93be",
+      "title": "Trends in augmented reality tracking, interaction and display: A review of ten years of ISMAR"
+    },
+    {
+      "paperId": "e19cf8bb8e739a4386b5cd4466107a0306b12c1b",
+      "title": "Robust and unobtrusive marker tracking on mobile phones"
+    },
+    {
+      "paperId": "d829ea2491a21d7a2c93ef6863c489fee5968219",
+      "title": "Contextual Anatomic Mimesis Hybrid In-Situ Visualization Method for Improving Multi-Sensory Depth Perception in Medical Augmented Reality"
+    },
+    {
+      "paperId": "264efe89e9ceaef4276b8d69d9ffe3340f8216f5",
+      "title": "Interactive Focus and Context Visualization for Augmented Reality"
+    },
+    {
+      "paperId": "59a2793b12cc05533468dba546a28c5f7f98bbca",
+      "title": "Parallel Tracking and Mapping for Small AR Workspaces"
+    },
+    {
+      "paperId": "d97aac257457261f726ddc38b1bc82de1ab93016",
+      "title": "pq-space Based Non-Photorealistic Rendering for Augmented Reality"
+    },
+    {
+      "paperId": "dd7c7b27593adc2db9648d89116d1399f222bd1a",
+      "title": "Using time-of-flight range data for occlusion handling in augmented reality"
+    },
+    {
+      "paperId": "b4d29277bc26fa6aa795f67d6543805d8255c288",
+      "title": "Laparoscopic Virtual Mirror New Interaction Paradigm for Monitor Based Augmented Reality"
+    },
+    {
+      "paperId": "5c4b08b135ff81f29f8422d5e2bcb83f0568858e",
+      "title": "Augmented reality as a comparison tool in automotive industry"
+    },
+    {
+      "paperId": "cdbc94106fa5fce3b5898c57fdce45cabbabe046",
+      "title": "Handling Occlusions in Real-time Augmented Reality : Dealing with Movable Real and Virtual Objects"
+    },
+    {
+      "paperId": "21a63cd51e5f25268e26a32a8756fa8316e9ee60",
+      "title": "Attention funnel: omnidirectional 3D cursor for mobile augmented reality platforms"
+    },
+    {
+      "paperId": "d97b26d13859295ce4ab8d616a176b1017700eed",
+      "title": "Visualization methods for outdoor see-through vision"
+    },
+    {
+      "paperId": "a1f3a70ef2cc84fbb9a78d0e25c2495b9790adb3",
+      "title": "Real-Time Video Annotations for Augmented Reality"
+    },
+    {
+      "paperId": "a3291ebb5b609f7c7623e841b189961fa7ef7abb",
+      "title": "Pictorial depth cues for outdoor augmented reality"
+    },
+    {
+      "paperId": "29cb055788b2b53ff2cf5db900ac4ef3a344503c",
+      "title": "ARVino - outdoor augmented reality visualisation of viticulture GIS data"
+    },
+    {
+      "paperId": "abd1ff923d29cd05e3d663a904f66a9262a68422",
+      "title": "Feature congestion: a measure of display clutter"
+    },
+    {
+      "paperId": "aa377a9c15893632aab2f80995621e5962955e66",
+      "title": "A study of depth visualization techniques for virtual annotations in augmented reality"
+    },
+    {
+      "paperId": "7669b915baba36d38e266de7012183959bd2dc99",
+      "title": "Realistic occlusion effects in mirror-based co-located augmented reality systems"
+    },
+    {
+      "paperId": "2e17d5a1901c6f1a8d6bf86906cf5ebe0864fc65",
+      "title": "Occlusion handling for medical augmented reality using a volumetric phantom model"
+    },
+    {
+      "paperId": "7cae0aa91f742bab0b1114ff1965ab0f076e48be",
+      "title": "Interactive tools for virtual x-ray vision in mobile augmented reality"
+    },
+    {
+      "paperId": "569e8b9a46266bc4a103b9025d3c6e5cbf9b1b6d",
+      "title": "Outdoor see-through vision utilizing surveillance cameras"
+    },
+    {
+      "paperId": "15636c62ca49e44e7dd1adf6bf1bcd2e36c30436",
+      "title": "Through the looking glass: the use of lenses as an interface tool for Augmented Reality interfaces"
+    },
+    {
+      "paperId": "c7b5ff61a0bbf6391f62b4806b645d60c3ad197e",
+      "title": "Multiview paraperspective projection model for diminished reality"
+    },
+    {
+      "paperId": "93ae34af130488aa426ca5877e31aff5ee66fa54",
+      "title": "Evaluating label placement for augmented reality view management"
+    },
+    {
+      "paperId": "fc6e0b6dcf3aaa7ad861c512c57cc7308436efee",
+      "title": "Resolving multiple occluded layers in augmented reality"
+    },
+    {
+      "paperId": "d129f7077e105c3f2317790ce6be8feac798bbd3",
+      "title": "Information-rich virtual environments: theory, tools, and research agenda"
+    },
+    {
+      "paperId": "38f858048d45bd8043d7d0be945e1e02767f773a",
+      "title": "Detecting dynamic occlusion in front of static backgrounds for AR scenes"
+    },
+    {
+      "paperId": "9437fa99472b0bc398903b60d445a414fdaa07b2",
+      "title": "Reality"
+    },
+    {
+      "paperId": "86f3569a045736a60fff6ef8ebc10f1c97349f85",
+      "title": "Augmented-reality visualizations guided by cognition: perceptual heuristics for combining visible and obscured information"
+    },
+    {
+      "paperId": "11035becfa4b6d71dac0d647abf78d201bf05417",
+      "title": "View management for virtual and augmented reality"
+    },
+    {
+      "paperId": "408b6295e901e3e6d96b55a69ca6f6eda762891e",
+      "title": "Recent Advances in Augmented Reality"
+    },
+    {
+      "paperId": "b3c4c934ecd427e9fff563fba229dbc8b527a34e",
+      "title": "Information filtering for mobile augmented reality"
+    },
+    {
+      "paperId": "c2c68c061f2c11391f623047331bc665bc8f0444",
+      "title": "A semi-automatic method for resolving occlusion in augmented reality"
+    },
+    {
+      "paperId": "0cd13c9a33adb96c1b14f722c3cd4dff2e02c333",
+      "title": "Mediated Reality"
+    },
+    {
+      "paperId": "fe83d42038d02cf46a0dea2b0d997f86c751a08b",
+      "title": "Formalizing the Design, Evaluation, and Application of Interaction Techniques for Immersive Virtual Environments"
+    },
+    {
+      "paperId": "dc9404cb021d7f859271de89aec145dd8b0fee87",
+      "title": "A touring machine: Prototyping 3D mobile augmented reality systems for exploring the urban environment"
+    },
+    {
+      "paperId": "4fdc075d1cc14d64c11c3c860e86a082b761f4a0",
+      "title": "A Survey of Augmented Reality"
+    },
+    {
+      "paperId": "e74b584f9eab05605e94bb850f86c8f7991b9ac0",
+      "title": "How the eye measures reality and virtual reality"
+    },
+    {
+      "paperId": "656f949cb7ee64e20a3bf69e449c5d93a4277b39",
+      "title": "Interactive Occlusion and Automatic Object Placement for Augmented Reality"
+    },
+    {
+      "paperId": "b4842ed8336b888d39b3df5f62fddc3ebeaf9723",
+      "title": "A taxonomy of see-through tools"
+    },
+    {
+      "paperId": "21d3e6dcfb3ac93c1124f09118bb636e959728af",
+      "title": "Cutaways and ghosting: satisfying visibility constraints in dynamic 3D illustrations"
+    },
+    {
+      "paperId": "0bbee958655fbc9ffe0689909a3ed89d260ae55d",
+      "title": "Merging virtual objects with the real world: seeing ultrasound imagery within the patient"
+    },
+    {
+      "paperId": "4a7d0aba748299ea6bb858c0c6ed95b485bb8f8c",
+      "title": "A Systematic Review of the Convergence of Augmented Reality, Intelligent Virtual Agents, and the Internet of Things"
+    },
+    {
+      "paperId": "49c3cc0dac4a56ea684dd89243b362410507f31a",
+      "title": "Mixed Reality Book"
+    },
+    {
+      "paperId": null,
+      "title": "on Amplifying"
+    },
+    {
+      "paperId": "e16b4067eed3d2bd7c28518ded0177593eafc425",
+      "title": "Embedded Data Representations"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cConstructaide: Analyzing and visualizing construction sites through photographs and building models,\u201d"
+    },
+    {
+      "paperId": "173593861e877c27708449c0c7f1b57730c508a5",
+      "title": "Visuo-Haptic Mixed Reality with Unobstructed Tool-Hand Integration"
+    },
+    {
+      "paperId": "9c0493378461f5c420b730aece4f134a77f4a0fc",
+      "title": "Visualization Techniques for Augmented Reality"
+    },
+    {
+      "paperId": null,
+      "title": "Bifocal Display . Aarhus, Denmark: The Interaction Design Foundation"
+    },
+    {
+      "paperId": "c663fea5f3f48dc967d1ef9e48628a6ae48d654f",
+      "title": "A Useful Visualization Technique: A Literature Review for Augmented Reality and its Application, limitation & future direction"
+    },
+    {
+      "paperId": "baa7578afb6cf5f78e72d7d7b4ab70aafaa7c749",
+      "title": "A Practical Approach for Intraoperative Contextual In-Situ Visualization"
+    },
+    {
+      "paperId": "9f2be26bfe18a676ade5ba2390428f074eec4eaa",
+      "title": "Dark Matter Method for Correct Augmented Reality Occlusion Relationships"
+    },
+    {
+      "paperId": null,
+      "title": "Spatial augmented reality: merging real and virtual worlds"
+    },
+    {
+      "paperId": null,
+      "title": "Videoorbits on eye tap devices for deliberately diminished reality or altering the visual perception of rigid planar patches of a real world scene"
+    },
+    {
+      "paperId": "e413ec0b3b52471fff7876b79f021e3c11dc7751",
+      "title": "Abstraction in Interactive Computational Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: a conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualization On the Usage of Context for"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cInteractive grouping of taxonomy.\u201d"
+    }
+  ]
+}

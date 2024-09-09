@@ -1,0 +1,913 @@
+{
+  "paperId": "e77b4791d10754841f9a05630f4f414b19312e0a",
+  "externalIds": {
+    "MAG": "2923131006",
+    "DBLP": "journals/tvcg/IvsonMQSC20",
+    "DOI": "10.1109/TVCG.2019.2907583",
+    "CorpusId": 89621160,
+    "PubMed": "30932840"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/e77b4791d10754841f9a05630f4f414b19312e0a",
+  "title": "A Systematic Review of Visualization in Building Information Modeling",
+  "abstract": "Building Information Modeling (BIM) employs data-rich 3D CAD models for large-scale facility design, construction, and operation. These complex datasets contain a large amount and variety of information, ranging from design specifications to real-time sensor data. They are used by architects and engineers for various analysis and simulations throughout a facility's life cycle. Many techniques from different visualization fields could be used to analyze these data. However, the BIM domain still remains largely unexplored by the visualization community. The goal of this article is to encourage visualization researchers to increase their involvement with BIM. To this end, we present the results of a systematic review of visualization in current BIM practice. We use a novel taxonomy to identify main application areas and analyze commonly employed techniques. From this domain characterization, we highlight future research opportunities brought forth by the unique features of BIM. For instance, exploring the synergies between scientific and information visualization to integrate spatial and non-spatial data. We hope this article raises awareness to interesting new challenges the BIM domain brings to the visualization community.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 206,
+  "openAccessPdf": {
+    "url": "https://eprints.whiterose.ac.uk/146384/1/author_TVCG2907583.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-10-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3109-3127",
+    "volume": "26"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ivson2020ASR,\n author = {Paulo Ivson and A. Moreira and F. Queiroz and W. Santos and W. Celes},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3109-3127},\n title = {A Systematic Review of Visualization in Building Information Modeling},\n volume = {26},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "23919460",
+      "name": "Paulo Ivson"
+    },
+    {
+      "authorId": "2064061962",
+      "name": "A. Moreira"
+    },
+    {
+      "authorId": "145955886",
+      "name": "F. Queiroz"
+    },
+    {
+      "authorId": "29403472",
+      "name": "W. Santos"
+    },
+    {
+      "authorId": "40800206",
+      "name": "W. Celes"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "c60b87f44b6e2ad84e30ce1c7b774c1b80887b61",
+      "title": "Immersive analytics"
+    },
+    {
+      "paperId": "1809c8d21f72568e5373b32bbd2c4af7927169a6",
+      "title": "DXR: A Toolkit for Building Immersive Data Visualizations"
+    },
+    {
+      "paperId": "283e5ec2649d834016fc70c4aa01d7aa75c7ee7a",
+      "title": "Diffusion of Building Information Modeling Functions in the Construction Industry"
+    },
+    {
+      "paperId": "78cc35247872bd664870c896fe3a2a18be546618",
+      "title": "Data visualization and analysis of energy flow on a multi-zone building scale"
+    },
+    {
+      "paperId": "8ebffd2d60a1a8f8f4fbbc62775c43cf19fb8902",
+      "title": "Usability evaluation of a web-based tool for supporting holistic building energy management"
+    },
+    {
+      "paperId": "d12507dee25f8dcbc5d26749f9bdfd74a441844d",
+      "title": "The adoption of 4D BIM in the UK construction industry: an innovation diffusion approach"
+    },
+    {
+      "paperId": "1696aab0de79d6234660f8a8439137cc0ca4ce10",
+      "title": "Database-Supported and Web-Based Visualization for Daily 4D BIM"
+    },
+    {
+      "paperId": "fe2d3c012af89c57a59adb2469cb4a809c42fbfe",
+      "title": "Hybrid Sankey diagrams: Visual analysis of multidimensional data for understanding resource use"
+    },
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "ed55ee96d9fefa8bf2752b729cdcdb97bb3f44ce",
+      "title": "Integrated CAD and GIS\u2013Based Framework to Support Construction Planning: Case Study"
+    },
+    {
+      "paperId": "12279ec996d6107131e197c1811f5ce9fe38988c",
+      "title": "Automated Schedule and Progress Updating of IFC-Based 4D BIMs"
+    },
+    {
+      "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+      "title": "A Systematic Review of Experimental Studies on Data Glyphs"
+    },
+    {
+      "paperId": "6ca45937c8cfe2f7b0191c328cf2d87d9697a933",
+      "title": "Automated Schedule Updates Using As-Built Data and a 4D Building Information Model"
+    },
+    {
+      "paperId": "985e65392d3faa6085cf923372365d29375c2919",
+      "title": "BIM application to building energy performance visualisation and management: Challenges and potential"
+    },
+    {
+      "paperId": "7071d79cbc442fabfc9bd7d958de162bf355ec02",
+      "title": "Planning, Monitoring and Control of Mechanics Projects by the BIM"
+    },
+    {
+      "paperId": "001c5e02ad3edf91d973dc5ef7741aae51c6e7e5",
+      "title": "IFC BIM-Based Facility Management Approach to Optimize Data Collection for Corrective Maintenance"
+    },
+    {
+      "paperId": "370e6587c7f6d7aae8ad87f544483616aa9e541b",
+      "title": "An investigation into the implementation of Building Information Modeling in the Middle East"
+    },
+    {
+      "paperId": "68137ddc6d3257bb63212a704f4b1fc69c143aaf",
+      "title": "As built case studies for BIM as conflicts detection and documentation tool"
+    },
+    {
+      "paperId": "8c42833f281e10d716000c17d25ca8f0663766d9",
+      "title": "Visualization, Information Modeling, and Simulation: Grand Challenges in the Construction Industry"
+    },
+    {
+      "paperId": "b5a681767253dcf4ee9c5ecb5685bd2f4bf47534",
+      "title": "Implementation of an interoperable process to optimise design and construction phases of a residential building: A BIM Pilot Project"
+    },
+    {
+      "paperId": "8bfb63f12ec6b629b4d5843075960ba455c04596",
+      "title": "Supporting building owners and facility managers in the validation and visualisation of asset information models (AIM) through open standards and open technologies"
+    },
+    {
+      "paperId": "ff38b9fa72d912a19b447f7030b6968b90a9d953",
+      "title": "Structural sustainability appraisal in BIM"
+    },
+    {
+      "paperId": "a8004ae2a5cc422721e3bfd999d0399bd5bbeb39",
+      "title": "A Survey of Colormaps in Visualization"
+    },
+    {
+      "paperId": "d35a7c3027a5ad10d3f0025e1197293bd1982d5a",
+      "title": "Surveying the extent and use of 4D BIM in the UK"
+    },
+    {
+      "paperId": "8a3f9f653a0c205f7726596b0c6ce6b8ce3ee9ab",
+      "title": "Design and Evaluation of an Integrated Visualization Platform to Support Corrective Maintenance of HVAC Problem-Related Work Orders"
+    },
+    {
+      "paperId": "7d1af04d0c00918692026deba86b82a01498a7f0",
+      "title": "Research Opportunities"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "3a94d4f65fb994806ef233a9abee766b692015c9",
+      "title": "LiteVis: Integrated Visualization for Simulation-Based Decision Support in Lighting Design"
+    },
+    {
+      "paperId": "ec6c6c727e05fd2860f704ff3c442dc83bc59bba",
+      "title": "A framework to integrate object-oriented physical modelling with building information modelling for building thermal simulation"
+    },
+    {
+      "paperId": "14cfaa39d2b635dc885acadee6a6b96bb3378729",
+      "title": "BPOpt: A framework for BIM-based performance optimization"
+    },
+    {
+      "paperId": "4ad82d94f9780374cba4deda89e6d79734b0f608",
+      "title": "Patterns and trends in Building Information Modeling (BIM) research: A Latent Semantic Analysis"
+    },
+    {
+      "paperId": "8596b998d95cc664b3a46249101130670e08001a",
+      "title": "BIM-based decision-support method for master planning of sustainable large-scale developments"
+    },
+    {
+      "paperId": "080d9a48d47287de70e0b8a4de02d933375639bf",
+      "title": "Formalized knowledge of construction sequencing for visual monitoring of work-in-progress via incomplete point clouds and low-LoD 4D BIMs"
+    },
+    {
+      "paperId": "76d11135e84de8e8159a5bbd583611d28e60d883",
+      "title": "Enhancing environmental sustainability over building life cycles through green BIM: A review"
+    },
+    {
+      "paperId": "1833ddaf1ad9299698b0de2a4b0366f2e0e4184f",
+      "title": "Appearance-based material classification for monitoring of operation-level construction progress using 4D BIM and site photologs"
+    },
+    {
+      "paperId": "52c7c9a03e60b5711607fb5629c904ade8dc5e9b",
+      "title": "BIM-Based Construction Scheduling Method Using Optimization Theory for Reducing Activity Overlaps"
+    },
+    {
+      "paperId": "7d95fd345c3f57237f19ef4a0d60d5090fffadb0",
+      "title": "Demystifying Construction Project Time-Effort Distribution Curves: BIM and Non-BIM Comparison"
+    },
+    {
+      "paperId": "6d0bfb6d906fb65bdbcfed3e087493b3259bf95c",
+      "title": "Applicability of 4D modeling for resource allocation in mega liquefied natural gas plant construction"
+    },
+    {
+      "paperId": "a4cc470330046f03aeb8617e1a87882ae3240ff6",
+      "title": "BIM-based fall hazard identification and prevention in construction safety planning"
+    },
+    {
+      "paperId": "c20ed84f0af6ac35aa2875a92a3eb5358ff30a01",
+      "title": "Specifying complex visualization configurations with hierarchically nested mapping rule sets"
+    },
+    {
+      "paperId": "fbde0ec7f7b47f3183f6004e4f8261f5e8aa1a94",
+      "title": "A concept for automated construction progress monitoring using BIM-based geometric constraints and photogrammetric point clouds"
+    },
+    {
+      "paperId": "52f556b99da76ca7c597d1a0b274805fa6314d8a",
+      "title": "Four Experiments on the Perception of Bar Charts"
+    },
+    {
+      "paperId": "4c7ca4e5b44c6967d8da24ddf6d773371d845c73",
+      "title": "LiveGantt: Interactively Visualizing a Large Manufacturing Schedule"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "750f35310d538582afce3f65aedc5a662923953e",
+      "title": "User-centred design for collaborative 4D modelling"
+    },
+    {
+      "paperId": "7ae555426be996e51dad60c4944b69afe806da4f",
+      "title": "A BIM-based construction quality management model and its applications"
+    },
+    {
+      "paperId": "5b62e24a64e5898379666cb6af4c5972bcf4eaf6",
+      "title": "Building Information Modeling (BIM) application framework: The process of expanding from 3D to computable nD"
+    },
+    {
+      "paperId": "e801666eff1da3cc176601551400d73cf416879e",
+      "title": "Tracking of secondary and temporary objects in structural concrete work"
+    },
+    {
+      "paperId": "b945e931be19f0d4dbdb38c5e1d70220d4d40eb0",
+      "title": "Evaluation of visualization techniques for use by facility operators during monitoring tasks"
+    },
+    {
+      "paperId": "d35344a207854dfcd6e7cc4ddbc548676958177c",
+      "title": "Design for maintenance accessibility using BIM tools"
+    },
+    {
+      "paperId": "c7fa605bc49ffbe35cb1d20893ceed2d6e10c220",
+      "title": "Tracking the Built Status of MEP Works: Assessing the Value of a Scan-vs-BIM System"
+    },
+    {
+      "paperId": "9e0f5f6d9809367c1277ffc598dee508892f11c5",
+      "title": "Visualization in 4D Construction Management Software: A Review of Standards and Guidelines"
+    },
+    {
+      "paperId": "5d71882c94c41b3fc387c276cab4d5a9ead74d05",
+      "title": "A relationship-based and object-oriented software for monitoring management during geotechnical excavation"
+    },
+    {
+      "paperId": "eb596650a5bbd88395196ce3675396782d320477",
+      "title": "Automated Productivity-Based Schedule Animation: Simulation-Based Approach to Time-Cost Trade-Off Analysis"
+    },
+    {
+      "paperId": "0eed7214931c76bf67fe4c812ff46fee18715b6b",
+      "title": "Developing BIM-assisted as-built schedule management system for general contractors"
+    },
+    {
+      "paperId": "30048e4367b8b4691ecc87508d93f1abb3b2762d",
+      "title": "Building Information Modeling (BIM) for existing buildings \u2014 Literature review and future needs"
+    },
+    {
+      "paperId": "dd9ba2f2d38e51c71e2d15b83bc8a30317898815",
+      "title": "Lessons learnt from customization of a BIM tool for a design-build company"
+    },
+    {
+      "paperId": "2866330f3c51d47db7af82b0a7f0f8ad2c780eee",
+      "title": "BIM implementation throughout the UK construction project lifecycle: An analysis"
+    },
+    {
+      "paperId": "7577a17ad9f50294363bf006dbe7d16dae1bac40",
+      "title": "Designing adapted visualization for collaborative 4D applications"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "4c48cfc374410b2e550b68a7b6c8c4c4eca4aa9d",
+      "title": "4D CAD model updating using image processing-based construction progress monitoring"
+    },
+    {
+      "paperId": "6ca54071d3deb6faa7f66449ca1458ab313c41cd",
+      "title": "Generating construction schedules through automatic data extraction using open BIM (building information modeling) technology"
+    },
+    {
+      "paperId": "bad6697924a270f877a92fadd56af71c92299697",
+      "title": "Drilling into complex 3D models with gimlenses"
+    },
+    {
+      "paperId": "021a308bc8ffa1bce51f07b233b95a32f96d947b",
+      "title": "A conceptual framework for integrating building information modeling with augmented reality"
+    },
+    {
+      "paperId": "a018570142b8d54e56a0f4807ac6478c77e49e61",
+      "title": "Grand Challenges in Data and Information Visualization for the Architecture, Engineering, Construction, and Facility Management Industries"
+    },
+    {
+      "paperId": "14a2deb9a317b877f1c0e06a23eae3af4daf0efe",
+      "title": "Research trends and opportunities of augmented reality applications in architecture, engineering, and construction"
+    },
+    {
+      "paperId": "e5a1e9a4ba5891d808214010d6e6ed1d1964327e",
+      "title": "Augmented Reality in built environment: Classification and implications for future research"
+    },
+    {
+      "paperId": "aa3467dd7a10673cc99a121e26783a6c66778b38",
+      "title": "A Survey of Interaction Techniques for Interactive 3D Environments"
+    },
+    {
+      "paperId": "96ef8da3000ea759776fcf7d66ab73b3c52002b1",
+      "title": "Development of a 4D object-based system for visualizing the risk information of construction projects"
+    },
+    {
+      "paperId": "46a1cfec48c660357cda5a65ce82ba5e13ca3bad",
+      "title": "Automated construction progress measurement using a 4D building information model and 3D data"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "7601409b17b7f26422c658b4b364a1588fb6177e",
+      "title": "Building information modelling (BIM): now and beyond"
+    },
+    {
+      "paperId": "69fe8effbfb0d4ea73be6649e9edf1ce9f864007",
+      "title": "BIM Handbook: A guide to Building Information Modeling for owners, managers, designers, engineers and contractors"
+    },
+    {
+      "paperId": "2c81f686bd8e70eb6c1e5e9615575e2e48cc88e5",
+      "title": "Model-Based Groupware Solution for Distributed Real-Time Collaborative 4D Planning through Teamwork"
+    },
+    {
+      "paperId": "dc13dc323b6ed2ee9924dc705358d6c191f37f4f",
+      "title": "Interactive Visualization of Generalized Virtual 3D City Models using Level\u2010of\u2010Abstraction Transitions"
+    },
+    {
+      "paperId": "dfea28f8ddfad32d81cbc531f9f75595ea11bd3e",
+      "title": "The IFC Standard - A Review of History, Development, and Standardization"
+    },
+    {
+      "paperId": "18a82f2f3625dc7f773e88575da250879afb9403",
+      "title": "Application Areas and Data Requirements for BIM-Enabled Facilities Management"
+    },
+    {
+      "paperId": "ea1653322a6aadc93bbcdd1089c1965675b48fb0",
+      "title": "Construction safety and digital design: A review"
+    },
+    {
+      "paperId": "9bd586094d38401f250b723507b5f5769cd6b10e",
+      "title": "The Effect of Colour and Transparency on the Perception of Overlaid Grids"
+    },
+    {
+      "paperId": "70841a757764de84af011b615f8e7dabcc45d1f4",
+      "title": "Integrated visualized time control system for repetitive construction projects"
+    },
+    {
+      "paperId": "6f267cb1a9925fc3305a6228caa5bb492a7341c6",
+      "title": "Visual Req calculation tool for green building evaluation in Taiwan"
+    },
+    {
+      "paperId": "140de88c472d470342d7c9b1b0d130224dc561fd",
+      "title": "Temporal distortion for animated transitions"
+    },
+    {
+      "paperId": "1693f7d2b25f6350e793e0eac8d85d6c659e0a46",
+      "title": "A framework of information visualization for multi-system construction"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "6a738d0e196d413d11498a82adba9c0f4d78d20e",
+      "title": "Using color in visualization: A survey"
+    },
+    {
+      "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+      "title": "The Design Space of Implicit Hierarchy Visualization: A Survey"
+    },
+    {
+      "paperId": "c51bb1f8504c7b1f40c253ce64309c3cd723a7e0",
+      "title": "BIM- and 4D-based integrated solution of analysis and management for conflicts and structural safety problems during construction: 2. Development and site trials"
+    },
+    {
+      "paperId": "be02a04343e62d4b999bec73b42f7bbb249314eb",
+      "title": "3D/4D CAD Applicability for Life-Cycle Facility Management"
+    },
+    {
+      "paperId": "6d56d2604e51ce6702159196522e3d19676f146d",
+      "title": "Building information modeling for sustainable design and LEED\u00ae rating analysis"
+    },
+    {
+      "paperId": "54df507b3bc8be04412a8137d7fa7ac1b70749e9",
+      "title": "On the use of open bim and 4d visualisation in a predictive life cycle management system for construction works"
+    },
+    {
+      "paperId": "7e4b5e8813387e3e0fbbaeb5399453d4e434b358",
+      "title": "Integrated Sequential As-Built and As-Planned Representation with D4AR Tools in Support of Decision-Making Tasks in the AEC/FM Industry"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "7797dad409ed86330a37225a4b400d67981178b2",
+      "title": "Improved link system between schedule data and 3D object in 4D CAD system by using WBS code"
+    },
+    {
+      "paperId": "abd66592bdc948b8382cf0b8fd7a1fb7caeaee63",
+      "title": "Cochrane Handbook for Systematic Reviews of Interventions"
+    },
+    {
+      "paperId": "53fa7682102985dcfe864780a348d2409f33f356",
+      "title": "Building Information Modeling in Architecture, Engineering, and Construction: Emerging Research Directions and Trends"
+    },
+    {
+      "paperId": "0ab0537f9439c6939ff2f6859188586076159a92",
+      "title": "A Case Study of Applying Virtual Prototyping in Construction"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "d17ba05a781868a1a67b28b5b5e69f5d4e385209",
+      "title": "210 King Street: a dataset for integrated performance assessment"
+    },
+    {
+      "paperId": "1df3c84d2ad13e1dbf2adc8631aad1847b5bae20",
+      "title": "An evaluation of the applicability of 4D CAD on construction projects"
+    },
+    {
+      "paperId": "db080fe9481fa099e6fc986ff1f917369a4deded",
+      "title": "Focus+Context Route Zooming and Information Overlay in 3D Urban Environments"
+    },
+    {
+      "paperId": "e574a9781725bcd0f71e0e4d933f9dbc652664e1",
+      "title": "Interactive Coordinated Multiple-View Visualization of Biomechanical Motion Data"
+    },
+    {
+      "paperId": "2878da03b36c93946cf0ef5afd57b436a9745144",
+      "title": "Systematic procedure of determining an ideal color scheme on 4D models"
+    },
+    {
+      "paperId": "f16bbc503a60d490f74a7deb7084acfcc4fd9abb",
+      "title": "A numerical simulation tool for predicting the impact of outdoor thermal environment on building energy performance"
+    },
+    {
+      "paperId": "bedc4ee403e440d44e7231d79f7508c1dd53b2fb",
+      "title": "A Survey of Radial Methods for Information Visualization"
+    },
+    {
+      "paperId": "ff2a48d3fd6962bc66b0742f8746a68729464ef1",
+      "title": "Annotation in Design Processes: Classification of Approaches"
+    },
+    {
+      "paperId": "70510ff915ea06065f6af0e4b94af72530a65cbe",
+      "title": "Enhancing visualization of 4D CAD model compared to conventional methods"
+    },
+    {
+      "paperId": "10acb5b246fe93a775fd1a14495e08db6bb56844",
+      "title": "An Evaluation of Space Time Cube Representation of Spatiotemporal Patterns"
+    },
+    {
+      "paperId": "7f172ce3b8638b1dea296ec9124032b2263ee633",
+      "title": "Building information modelling framework: A research and delivery foundation for industry stakeholders"
+    },
+    {
+      "paperId": "3fdb8fadeb74958b3920dafe5b5af291f7d3d35e",
+      "title": "BIM and Construction Management: Proven Tools, Methods, and Workflows"
+    },
+    {
+      "paperId": "add6888a52a032716a8fbcb993be9da11b270956",
+      "title": "Visualizing high-rise building construction strategies using linear scheduling and 4D CAD"
+    },
+    {
+      "paperId": "4fbebb3b01918dc7d95f2e1f5e68abc35e55dcd1",
+      "title": "Building information model based energy/exergy performance assessment in early design stages"
+    },
+    {
+      "paperId": "7446295df4e90a427edbfc8cbd789e27478fbc7e",
+      "title": "A review of overview+detail, zooming, and focus+context interfaces"
+    },
+    {
+      "paperId": "3514b60bdde2bbde93f80f193fbc41893b289262",
+      "title": "Mapping Change in Large Networks"
+    },
+    {
+      "paperId": "34241d4c3826fb25df6ea98f3919e4acde8494ea",
+      "title": "Multi-Focused Geospatial Analysis Using Probes"
+    },
+    {
+      "paperId": "4b9a27619efd1cbf9ef927ea59c398e9e8a82d40",
+      "title": "Areas of Application for 3D and 4D Models on Construction Projects"
+    },
+    {
+      "paperId": "886ecfd186b5b7ed9fbdb4b563ff62f65efb3747",
+      "title": "Automated generation of interactive 3D exploded view diagrams"
+    },
+    {
+      "paperId": "54e6014eaf40abab6bba56578cf97c84a4c9c194",
+      "title": "Benefits and lessons learned of implementing building virtual design and construction (VDC) technologies for coordination of mechanical, electrical, and plumbing (MEP) systems on a large healthcare project"
+    },
+    {
+      "paperId": "db00d9d7ceafa13a8d9ce2efd40df8b8a3d94ad2",
+      "title": "Linear scheduling and 4D visualization"
+    },
+    {
+      "paperId": "7f4388e0d3618a3989def809f82a91cebcd40889",
+      "title": "BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors"
+    },
+    {
+      "paperId": "9c37ad25bcf3e0120ebf82408a286fccadae8754",
+      "title": "RFID+4D CAD for Progress Management of Structural Steel Works in High-Rise Buildings"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "2a5a64b5a740c8379ef2bd81f0c2d4e6ae66c1d8",
+      "title": "Comparison of PubMed, Scopus, Web of Science, and Google Scholar: strengths and weaknesses"
+    },
+    {
+      "paperId": "6fce8fcfe85c57fe730cfdaab4e0d2c79b571411",
+      "title": "Multi-visualization of the Cooperative Context in Building Construction Activity A Model-Based Approach to design AEC-specific Visualization Interfaces"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "f43a864e3787e47fe28117c7dcba79753868b822",
+      "title": "Can smooth view transitions facilitate perceptual constancy in node-link diagrams?"
+    },
+    {
+      "paperId": "a81c7073eae3f58c452bace7722eee9ee68c2c04",
+      "title": "Application of line\u2010of\u2010balance and 4D CAD for lean planning"
+    },
+    {
+      "paperId": "0b803b837f084579de9d6a19979e50834ed1f68b",
+      "title": "A Visualization System for Space-Time and Multivariate Patterns (VIS-STAMP)"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "dcbe3b0681fce83b8d7c04a6f3dacc6c3521a0a1",
+      "title": "Maintenance management: literature review and directions"
+    },
+    {
+      "paperId": "55bdaa9d27ed595e2ccf34b3a7847020cc9c946c",
+      "title": "Performing systematic literature reviews in software engineering"
+    },
+    {
+      "paperId": "5f3d1106094be3017046d7953c2a71e7f4559124",
+      "title": "Systematic Reviews in the Social Sciences: A Practical Guide"
+    },
+    {
+      "paperId": "ec80f692ec0cf96df13d62245358f0fce4470d03",
+      "title": "Visualisation in architecture, engineering and construction (AEC)"
+    },
+    {
+      "paperId": "740d614b5d4b309c0311ce47c0e7fd1e1a8d5528",
+      "title": "Collaborative work model under distributed construction environments"
+    },
+    {
+      "paperId": "7f74e8bc1bcb9c41cb47c4786e8213e5bede50d6",
+      "title": "Spatial Data Analysis: Theory and Practice"
+    },
+    {
+      "paperId": "77512161bf7666a6bcf3d9ddc7dabadd69190010",
+      "title": "The product model and Fourth Dimension project"
+    },
+    {
+      "paperId": "1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+      "title": "From Visual Data Exploration to Visual Data Mining: A Survey"
+    },
+    {
+      "paperId": "b9e0a0adf6be60db53e10adc1cb37c4e0e485e3e",
+      "title": "ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps"
+    },
+    {
+      "paperId": "b6000c3456d4d89462b0171c558aac8c94b7f34c",
+      "title": "Feasibility study of 4D CAD in commercial construction"
+    },
+    {
+      "paperId": "e0d956201eb116d6ea63fc6a94db534097351a89",
+      "title": "Filtering and Brushing with Motion"
+    },
+    {
+      "paperId": "46a448f4233b4a28107f55573c6b9018b8eee443",
+      "title": "Drawing graphs: methods and models"
+    },
+    {
+      "paperId": "850cd481573926c4d018503edf17050af332067d",
+      "title": "Snap-together visualization: can users construct and operate coordinated visualizations?"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "324d5ec7cc2c6626a9217468af40f6f168e7369d",
+      "title": "Abstract data visualisation in the built environment"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "4606fd591d92c57395338d20daf612eb29039ae4",
+      "title": "Trends in information visualisation in construction"
+    },
+    {
+      "paperId": "ca5c6127f3bbdc23a82fffdc3ed29b4ba458b685",
+      "title": "Generating, evaluating and visualizing construction schedules with CAD tools"
+    },
+    {
+      "paperId": "9eb860c9d6206462eb2ddedb03463296ee9c3d6e",
+      "title": "Scheduling with Computer-Interpretable Construction Method Models"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "fab76326faf0c509dcebd264b4bf9b2f649707d4",
+      "title": "CasCADe: A Novel 4D Visualization System for Virtual Construction Planning"
+    },
+    {
+      "paperId": null,
+      "title": "Open datasets"
+    },
+    {
+      "paperId": null,
+      "title": "Symposium on Simulation for Architecture and Urban Design"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cOpen funding calls,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Scopus digital library"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDatabase of analyzed articles from a systematic review of visualization in building information modeling,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "BuildingSMART - Technical Vision"
+    },
+    {
+      "paperId": null,
+      "title": "Kit IFC examples"
+    },
+    {
+      "paperId": "a8b4b9d3cf6fb429e1db89b7557480c5c438ae6a",
+      "title": "Potential of big visual data and building information modeling for construction performance analytics: An exploratory study"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "ae2734ea56ed8bf1e12f8e36432649802f163b0f",
+      "title": "Visualization technology-based construction safety management: A review"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cIncorporating building information modeling (BIM) into the super high-rise industrialized housing project: A case study,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe application and exploration of the TSTL in construction management based on BIM,\u201d"
+    },
+    {
+      "paperId": "f7e7a8a8c1a9adbb311f3a15059e670c1e7e2cb1",
+      "title": "4D CAD models to support the coordination of construction activities between contractors"
+    },
+    {
+      "paperId": "5521849729aaa387cfeef0d12d3c91170d7bbfd0",
+      "title": "Visualization analysis & design"
+    },
+    {
+      "paperId": "6582572a2d3c7f2b4a3d19a4b3b4f4ff08e8aee7",
+      "title": "BIM2MAR: An Efficient BIM Translation to Mobile Augmented Reality Applications"
+    },
+    {
+      "paperId": "8bf44e0cf18f5f272bd6c49dfe35bb65aef337da",
+      "title": "Comparative visualization of construction schedules"
+    },
+    {
+      "paperId": "975fd85c57769a63ebf38e3c0504aa007c13fb7a",
+      "title": "Glyph-based Visualization: Foundations, Design Guidelines, Techniques and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cConstruction 2025. Industrial Strategy: Government and industry in partnership,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEngagement of facilitiesmanagementindesignstagethroughBIM:Frameworkandacasestudy,\u201d"
+    },
+    {
+      "paperId": "752b4919e56e57391213737f92620aede978619e",
+      "title": "Virtual Reality Applications in Project Management Scheduling"
+    },
+    {
+      "paperId": "b6d02627fe708fd1dc2eafc100aca8fda88c954a",
+      "title": "Sensor-enabled Cubicles for Occupant-centric Capture of Building Performance Data"
+    },
+    {
+      "paperId": "1709585fcd09468b59040ab0200312b3fe19d1ba",
+      "title": "An Immersive Virtual Reality Mock-Up for Design Review of Hospital Patient Rooms"
+    },
+    {
+      "paperId": "72b31e9937fd82a1ce83453a82ec5a15d39ce38d",
+      "title": "Applicability of 4D CAD in Civil Engineering Construction: Case Study of a Cable-Stayed Bridge Project"
+    },
+    {
+      "paperId": "1358d1cccca07425a4310f1d3eb193c5660af177",
+      "title": "THE PERCEIVED VALUE OF BUILDING INFORMATION MODELING IN THE U . S . BUILDING INDUSTRY"
+    },
+    {
+      "paperId": "ccd37bb2b0369d70fbbcf67f68b374f6be420a7a",
+      "title": "Exchange Model and Exchange Object Concepts for Implementation of National BIM Standards"
+    },
+    {
+      "paperId": "aeb2234d133f8fdba021c003f9ddd236eacb7664",
+      "title": "TOWARD A UNIFIED REPRESENTATION SYSTEM OF PERFORMANCE-RELATED DATA"
+    },
+    {
+      "paperId": null,
+      "title": "Now You See It: Simple Visualization Techniques for Quantitative Analysis"
+    },
+    {
+      "paperId": "2782e457566e2434bf9416f78fbeee4cff713d25",
+      "title": "Generation of a construction planning from a 3D CAD model"
+    },
+    {
+      "paperId": null,
+      "title": "\u201c3Dand4Dmodelingfordesign and construction coordination: Issues and lessons learned,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Integrated project delivery: A guide"
+    },
+    {
+      "paperId": "c2c47a0d93d990be9fe21e9b1c7d8109c3a68345",
+      "title": "Visual Exploration of Complex Time-Varying Graphs"
+    },
+    {
+      "paperId": "884bc23b8c215070b794f7254e06135ee8ddeca7",
+      "title": "Moving beyond the fourth dimension with an IFC-based single project database"
+    },
+    {
+      "paperId": "e8f243de4370414e4a143ebec1558bc57aaf6f9d",
+      "title": "Moving beyond the fourth dimension with an IFC-based single project database"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "91f7b20f26396f39cb856861021b8d757c85c61e",
+      "title": "Visualization of construction planning information"
+    },
+    {
+      "paperId": null,
+      "title": "Tollis,GraphDrawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "Scienti\ufb01c Visualization . New Jersey, USA"
+    },
+    {
+      "paperId": "114aebe860a0a5a7275f945d0197220fc563217b",
+      "title": "Interactive 4D-CAD"
+    },
+    {
+      "paperId": "0b33cc1a20a19a786520fff75fbfa953c213c40f",
+      "title": "Cartography: Visualization of Spatial Data"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cFour-dimensional modeling in design and construction,\u201d"
+    },
+    {
+      "paperId": "65752cea972b6bf4172e09bea71b75ffa1009329",
+      "title": "Object-Oriented Modeling and Design"
+    },
+    {
+      "paperId": "be2c9b3309fda28305918d13a242e303c6891545",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Importance-driven Feature Enhancement in Volume Visualization"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Q2. What are the project life-cycle phases where each use case applies?"
+    },
+    {
+      "paperId": null,
+      "title": "Q4. What are the pros and cons of the current methods for visualizing this information?"
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Q3. What kinds of information are required by each use case?"
+    },
+    {
+      "paperId": null,
+      "title": "Open IFC model repository"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": null,
+      "title": "Q5. What are the unique aspects of BIM that challenge visualization research?"
+    }
+  ]
+}

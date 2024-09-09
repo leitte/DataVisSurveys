@@ -1,0 +1,404 @@
+{
+  "paperId": "d176b31778bfe7e607e5353f109021eeec4a6b69",
+  "externalIds": {
+    "DBLP": "journals/tvcg/DillerSW24",
+    "DOI": "10.1109/TVCG.2022.3227999",
+    "CorpusId": 254519821,
+    "PubMed": "37015488"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/d176b31778bfe7e607e5353f109021eeec4a6b69",
+  "title": "Visual Cue Based Corrective Feedback for Motor Skill Training in Mixed Reality: A Survey",
+  "abstract": "When learning a motor skill it is helpful to get corrective feedback from an instructor. This will support the learner to execute the movement correctly. With modern technology, it is possible to provide this feedback via mixed reality. In most cases, this involves visual cues to help the user understand the corrective feedback. We analyzed recent research approaches utilizing visual cues for feedback in mixed reality. The scope of this article is visual feedback for motor skill learning, which involves physical therapy, exercise, rehabilitation etc. While some of the surveyed literature discusses therapeutic effects of the training, this article focuses on visualization techniques. We categorized the literature from a visualization standpoint, including visual cues, technology and characteristics of the feedback. This provided insights into how visual feedback in mixed reality is applied in the literature and how different aspects of the feedback are related. The insights obtained can help to better adjust future feedback systems to the target group and their needs. This article also provides a deeper understanding of the characteristics of the visual cues in general and promotes future, more detailed research on this topic.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 79,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/4359476/09978915.pdf",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-12-09",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3121-3134",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Diller2022VisualCB,\n author = {Florian Diller and G. Scheuermann and Alexander Wiebel},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3121-3134},\n title = {Visual Cue Based Corrective Feedback for Motor Skill Training in Mixed Reality: A Survey},\n volume = {30},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2195598981",
+      "name": "Florian Diller"
+    },
+    {
+      "authorId": "1810101",
+      "name": "G. Scheuermann"
+    },
+    {
+      "authorId": "1842762",
+      "name": "Alexander Wiebel"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "26478fd6051d2668c4712ae49ff530f9b691a88b",
+      "title": "Review of Microsoft HoloLens Applications over the Past Five Years"
+    },
+    {
+      "paperId": "8c5df07fa3ee43880b64753ff551b65153aa56b6",
+      "title": "Differentiation among bio- and augmented- feedback in technologically assisted rehabilitation"
+    },
+    {
+      "paperId": "3c06803e862be841517c40d5e22a4dd552e50996",
+      "title": "A real-time feedback system of strength training with motion capture and head mounted display"
+    },
+    {
+      "paperId": "95783e0c97df3f2de9297b41e4a5412556dc8108",
+      "title": "Full-Body Motion Recognition in Immersive- Virtual-Reality-Based Exergame"
+    },
+    {
+      "paperId": "9d1e25673cbce60930a165793f7fb2919fb71d2f",
+      "title": "Mixed and Augmented Reality Applications in the Sport Industry"
+    },
+    {
+      "paperId": "cd63cc74f3525ddcd62972fcbbaa40f3968a78e5",
+      "title": "Adaptive Rehabilitation Bots in Serious Games \u2020"
+    },
+    {
+      "paperId": "a1b3a777f5900f94852aa4ff91d6bf7e9f144287",
+      "title": "Perspective Matters: Design Implications for Motion Guidance in Mixed Reality"
+    },
+    {
+      "paperId": "32c35c47795b8a5e9b23b9707448296221899051",
+      "title": "Reactive Video: Adaptive Video Playback Based on User Motion for Supporting Physical Activity"
+    },
+    {
+      "paperId": "7cdb0f6ae90a3d1c0270d19ba855d22648c6e71e",
+      "title": "What, How, and Why are Visual Assets Used in Industrial Augmented Reality? A Systematic Review and Classification in Maintenance, Assembly, and Training (From 1997 to 2019)"
+    },
+    {
+      "paperId": "f692d42553bd0b9c6fdd2799885fb78096cda9cc",
+      "title": "Exploring serious games for stroke rehabilitation: a scoping review"
+    },
+    {
+      "paperId": "27f77d4400718c801e3fc450b4af8bea5b69517d",
+      "title": "An Exploratory Study of Augmented Reality Presence for Tutoring Machine Tasks"
+    },
+    {
+      "paperId": "fb927f5f83e165dddafa29a01354be73ca8144c5",
+      "title": "BodyLights: Open-Ended Augmented Feedback to Support Training Towards a Correct Exercise Execution"
+    },
+    {
+      "paperId": "847fe80b1a2eba5a41a421b1e2f88c24f4bdf9c3",
+      "title": "Feedback Design in Targeted Exercise Digital Biofeedback Systems for Home Rehabilitation: A Scoping Review"
+    },
+    {
+      "paperId": "edb5a02a6905e6c89b34ec2da851889f3e39bde2",
+      "title": "EVA: EVAluating at-home rehabilitation exercises using augmented reality and low-cost sensors"
+    },
+    {
+      "paperId": "41463ebb81dbc87b8b81d8e08b4cb1b8ababeca7",
+      "title": "The validity and usability of an eight marker model for avatar-based biofeedback gait training."
+    },
+    {
+      "paperId": "9ac315c15802817bc44a9123be1e00ac43b782ed",
+      "title": "Virtual Reality Applications for Neurological Disease: A Review"
+    },
+    {
+      "paperId": "eb44a421ecd7492324973ff3406da2fba477f1c3",
+      "title": "BalletVR: a Virtual Reality System for Ballet Arm Positions Training"
+    },
+    {
+      "paperId": "951a174b8d6ed5ad9c243b3c5f3722c79636f80b",
+      "title": "Muscle Synergies in Response to Biofeedback-Driven Gait Adaptations in Children With Cerebral Palsy"
+    },
+    {
+      "paperId": "542738e28b3fe7f9bb39517b6260647ff0a7c262",
+      "title": "Superimposing 3D Virtual Self + Expert Modeling for Motor Learning: Application to the Throw in American Football"
+    },
+    {
+      "paperId": "aadec696a0ccb4aa107823c5d552fc2cd744d937",
+      "title": "Superimposed Skilled Performance in a Virtual Mirror Improves Motor Performance and Cognitive Representation of a Full Body Motor Action"
+    },
+    {
+      "paperId": "80aa79f5f0911d79238625d06dc05b10cb1ccbb6",
+      "title": "Slackliner 2.0: Real-time Training Assistance through Life-size Feedback"
+    },
+    {
+      "paperId": "067cf15af399af9b73c148e495ac9e2d596470cc",
+      "title": "Review of the Augmented Reality Systems for Shoulder Rehabilitation"
+    },
+    {
+      "paperId": "8c9fe9c3591abc93bd1a256f055f3d7bb493f98e",
+      "title": "Welcoming a Holographic Virtual Coach for Balance Training at Home: Two Focus Groups with Older Adults"
+    },
+    {
+      "paperId": "98f4ffb6b0c5d79e0e735f1f061db025a50c9bdd",
+      "title": "The Effect of Narrow Field of View and Information Density on Visual Search Performance in Augmented Reality"
+    },
+    {
+      "paperId": "47703f64f3a8d40c65740e1c803e941852683471",
+      "title": "VR-based Batter Training System with Motion Sensing and Performance Visualization"
+    },
+    {
+      "paperId": "494877fe0b63e1f84f55a8976df6823bee416113",
+      "title": "A Real-Time Projection System for Golf Training using Virtual Shadow"
+    },
+    {
+      "paperId": "104bda5ecf946ebcea7f2b23f8fd65cf521cf9a3",
+      "title": "InterPoser: Visualizing Interpolated Movements for Bouldering Training"
+    },
+    {
+      "paperId": "bc8c42f105bb1e60a93c432c494545bd702943df",
+      "title": "Juggling 4.0: Learning Complex Motor Skills with Augmented Reality Through the Example of Juggling"
+    },
+    {
+      "paperId": "c249b6f10dc3ce86e0399e7a7c5c6e4dbf31aa6e",
+      "title": "Validation of wearable visual feedback for retraining foot progression angle using inertial sensors and an augmented reality headset"
+    },
+    {
+      "paperId": "2aed26db71d107f20ebbf4fc132784ae47db430e",
+      "title": "Projection-Based AR: Effective Visual Feedback in Gait Rehabilitation"
+    },
+    {
+      "paperId": "b7e06145821a4dce0b630e6dedcd659a17cf9a0f",
+      "title": "State of the Art of Sports Data Visualization"
+    },
+    {
+      "paperId": "d668c2a5abb54d8ff6a82dafb26c6cd9e43ccb01",
+      "title": "Combining skeletal tracking and virtual reality for game-based fall prevention training for the elderly"
+    },
+    {
+      "paperId": "ef92ea16b3c28fb9b1fa9b284b7e6ea45ff511fd",
+      "title": "Augmented Reality Visualization of Joint Movements for Physical Examination and Rehabilitation"
+    },
+    {
+      "paperId": "a713337a48d89531b96fdcb70e5e12f4e91c22a0",
+      "title": "ClimbVis: Investigating In-situ Visualizations for Understanding Climbing Movements by Demonstration"
+    },
+    {
+      "paperId": "706f24ec4d978d55296be780491ad9ccaabd9905",
+      "title": "A systematic review of the application of interactive virtual reality to sport"
+    },
+    {
+      "paperId": "224c0cedffa36ba8668c48a78f98ce78c13a3acf",
+      "title": "Assistance System for Rehabilitation and Valuation of Motor Skills"
+    },
+    {
+      "paperId": "fdf6c8cf1524b9ca1ed6d2bfcb6aae1a6945caf6",
+      "title": "Joint angles tracking for rehabilitation at home using inertial sensors: a feasibility study"
+    },
+    {
+      "paperId": "26ed5ed4a1a695eb402b2edbd622116e2cc3432e",
+      "title": "Retargeting Video Tutorials Showing Tools With Surface Contact to Augmented Reality"
+    },
+    {
+      "paperId": "78bc727104e2c7748563b5d55a46a26ece07b92d",
+      "title": "My Tai-Chi coaches: an augmented-learning tool for practicing Tai-Chi Chuan"
+    },
+    {
+      "paperId": "2e4ce1a7c1ea6dacf25d6ee84273f878c4d63bff",
+      "title": "The impact of latency on perceptual judgments and motor performance in closed-loop interaction in virtual reality"
+    },
+    {
+      "paperId": "98f8524de6a34679dd137584c025c74589e9aa7e",
+      "title": "Onebody: Remote Posture Guidance System using First Person View in Virtual Environment"
+    },
+    {
+      "paperId": "c2d88dd208251fc2da6d9e019f345521b035d6b5",
+      "title": "Correcting Exercise Form Using Body Tracking"
+    },
+    {
+      "paperId": "600bce3214458278dd3e139f1aa27faf704824b3",
+      "title": "betaCube: Enhancing Training for Climbing by a Self-Calibrating Camera-Projection Unit"
+    },
+    {
+      "paperId": "015c1dce712fe363ba9f6f273b297feff6f8badb",
+      "title": "SleeveAR: Augmented Reality for Rehabilitation using Realtime Feedback"
+    },
+    {
+      "paperId": "8248ce37b948dff6c76c81b1471558183602c732",
+      "title": "AR-Arm: Augmented Visualization for Guiding Arm Movement in the First-Person Perspective"
+    },
+    {
+      "paperId": "2ffb7332250a63785b2ccedc0a67c89fbdb2dc47",
+      "title": "Dual Camera Magic Lens for Handheld AR Sketching"
+    },
+    {
+      "paperId": "c457aad7152b060d1444a4c2a796d9f73c3fbb5d",
+      "title": "Experiences from using snowballing and database searches in systematic literature studies"
+    },
+    {
+      "paperId": "36ac574bf482934b069a3244363e32605a097b9a",
+      "title": "Physio@Home: Exploring Visual Guidance and Feedback Techniques for Physiotherapy Exercises"
+    },
+    {
+      "paperId": "5f6c6fe473f2a5d8c62dd2dc8c7e54898ba89caa",
+      "title": "Mixed Reality"
+    },
+    {
+      "paperId": "0961e2650b3a62a1d198a046bef5f0700ab8c08f",
+      "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering"
+    },
+    {
+      "paperId": "50ec632bf7ae4906d6a03ca6a08fa12be58ea1ce",
+      "title": "The role of strategies in motor learning"
+    },
+    {
+      "paperId": "b5a21478eb655a48d2a2456748ad8a989ef23838",
+      "title": "Applying educational psychology in coaching athletes"
+    },
+    {
+      "paperId": "4cadb91e4bcd2c99113a58269b47b4029e6806d5",
+      "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration"
+    },
+    {
+      "paperId": "45cd85a4c05c0c295e4569e08f20a6f3268e6390",
+      "title": "Effectiveness and efficiency of search methods in systematic reviews of complex evidence: audit of primary sources"
+    },
+    {
+      "paperId": "f98acba3e1e152ba3d02235d4e34c521f9ca9e70",
+      "title": "The basics of electromyography"
+    },
+    {
+      "paperId": "34c0410aaaed15350e3c576ad2bc327e8a444c65",
+      "title": "The power of feedback."
+    },
+    {
+      "paperId": "dc36b5f516ef6c181bcccc9df587f1ef2bb8511d",
+      "title": "Advances in the application of information technology to sport performance"
+    },
+    {
+      "paperId": "82e60d68b36420f10ef4b8ea49780581ec34b7be",
+      "title": "Interlimb coordination: Learning and transfer under different feedback conditions"
+    },
+    {
+      "paperId": "07c53b38c9d0589d727526e24b0a2fbd7309b68d",
+      "title": "Motor Learning and Performance"
+    },
+    {
+      "paperId": "a3834cc2d5035aa479de6f5f04ad2bcf6d1f87ea",
+      "title": "Instructional Effects of Cues, Participation, and Corrective Feedback: A Quantitative Synthesis"
+    },
+    {
+      "paperId": "ff9a028bca773cc6e7757d63cdbf97af4d41e711",
+      "title": "Mirror Therapy in Stroke Rehabilitation: Current Perspectives"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAugmented reality assisted training,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cUse of virtual reality-based training in different \ufb01elds of rehabilitation: A systematic review and meta-analysis,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cErlernen des Vorw \u20ac artszyklus beim Laufen durch erh \u20ac ohtes Feedback. Ein Vergleich des kinetischen Feedbacks und dem Videofeedback der kontrollgruppe,\u201d"
+    },
+    {
+      "paperId": "03af7badb9d25ded77e4c0a236e18bfed82324c9",
+      "title": "AR based Self-sports Learning System using Decayed Dynamic TimeWarping Algorithm"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSelf-training sys-tem for tennis shots with motion feature assessment and visualization,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDesign of an AR-supported system for skill training,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTakes tutu to ballet: Designing visual and verbal feedback for augmented mirrors,\u201d"
+    },
+    {
+      "paperId": "864ec05f152c365372eff9a8e7422bd242eda69b",
+      "title": "Immersion revisited: A review of existing definitions of immersion and their relation to different theories of presence"
+    },
+    {
+      "paperId": "b0e7aa472085e04db8544f1ad4c97979eff4edfd",
+      "title": "Dictionary of Computer Science"
+    },
+    {
+      "paperId": null,
+      "title": "Augmented Reality: Principles and Practice . Boston, MA, USA"
+    },
+    {
+      "paperId": "a6a253a96745907de9ee3c41b419f5746720e768",
+      "title": "Development and Evaluation of a Mixed Reality System for Stroke Rehabilitation"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVirtual reality and serious games in health-care,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDe\ufb01ning exergames & exergaming,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEnhancing the home \ufb01tness experience,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVirtual reality and full scale modelling\u2013A large mixed reality system for participatory design,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAugmented reality: Aclassofdisplaysonthereality-virtualitycontinuum,\u201d"
+    },
+    {
+      "paperId": "a254d0be0d2af8e497c99e03d1b22ae91e09992f",
+      "title": "Motor Skills and Learning Strategies"
+    },
+    {
+      "paperId": null,
+      "title": "Human Performance . Monterey, CA, USA"
+    }
+  ]
+}

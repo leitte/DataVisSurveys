@@ -1,0 +1,649 @@
+{
+  "paperId": "3ac2c37b57a37e10f5994c2fc00a86ed9588a661",
+  "externalIds": {
+    "DBLP": "journals/tvcg/WeidnerBADSKGBR23",
+    "DOI": "10.1109/TVCG.2023.3247072",
+    "CorpusId": 257130227,
+    "PubMed": "37027741"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/3ac2c37b57a37e10f5994c2fc00a86ed9588a661",
+  "title": "A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays",
+  "abstract": "Augmented Reality (AR) and Virtual Reality (VR) are pushing from the labs towards consumers, especially with social applications. These applications require visual representations of humans and intelligent entities. However, displaying and animating photo-realistic models comes with a high technical cost while low-fidelity representations may evoke eeriness and overall could degrade an experience. Thus, it is important to carefully select what kind of avatar to display. This article investigates the effects of rendering style and visible body parts in AR and VR by adopting a systematic literature review. We analyzed 72 papers that compare various avatar representations. Our analysis includes an outline of the research published between 2015 and 2022 on the topic of avatars and agents in AR and VR displayed using head-mounted displays, covering aspects like visible body parts (e.g., hands only, hands and head, full-body) and rendering style (e.g., abstract, cartoon, realistic); an overview of collected objective and subjective measures (e.g., task performance, presence, user experience, body ownership); and a classification of tasks where avatars and agents were used into task domains (physical activity, hand interaction, communication, game-like scenarios, and education/training). We discuss and synthesize our results within the context of today's AR and VR ecosystem, provide guidelines for practitioners, and finally identify and present promising research opportunities to encourage future research of avatars and agents in AR/VR environments.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 138,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-02-22",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2596-2606",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Weidner2023ASR,\n author = {Florian Weidner and Gerd Boettcher and S. A. Arboleda and Chenyao Diao and Luljeta Sinani and Christian Kunert and Christoph Gerhardt and W. Broll and Alexander Raake},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2596-2606},\n title = {A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays},\n volume = {29},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "48794560",
+      "name": "Florian Weidner"
+    },
+    {
+      "authorId": "2209530398",
+      "name": "Gerd Boettcher"
+    },
+    {
+      "authorId": "1609147295",
+      "name": "S. A. Arboleda"
+    },
+    {
+      "authorId": "2209464118",
+      "name": "Chenyao Diao"
+    },
+    {
+      "authorId": "2209500330",
+      "name": "Luljeta Sinani"
+    },
+    {
+      "authorId": "1452341732",
+      "name": "Christian Kunert"
+    },
+    {
+      "authorId": "2209305606",
+      "name": "Christoph Gerhardt"
+    },
+    {
+      "authorId": "1782404",
+      "name": "W. Broll"
+    },
+    {
+      "authorId": "2165167967",
+      "name": "Alexander Raake"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a04d1f4c23ddf705d4b5d602e1323bed312df15a",
+      "title": "QuickVR: A standard library for virtual embodiment in unity"
+    },
+    {
+      "paperId": "3335ff9fb4ab0d3f1ed73921f13ab584dc6a720c",
+      "title": "Feeling close to a Crab-Thing in virtual reality: Does avatar appearance always matter in forming meaningful connections? A case study"
+    },
+    {
+      "paperId": "449291c6c7104372cfd2c5f5239852fd84b9b290",
+      "title": "\u201cIt\u2019s Just Part of Me:\u201d Understanding Avatar Diversity and Self-presentation of People with Disabilities in Social Virtual Reality"
+    },
+    {
+      "paperId": "9a53c626f92a242da998ef9b1a023bd0e15e4361",
+      "title": "Exploring the user-avatar relationship in videogames: A systematic review of the Proteus effect"
+    },
+    {
+      "paperId": "ff967a46608474a17cebf06c515f51486c3e9d5a",
+      "title": "The Effect of Virtual Human Rendering Style on User Perceptions of Visual Cues"
+    },
+    {
+      "paperId": "2e668538ed9b9c4577b9b5d53db3d7a3a3efe7eb",
+      "title": "Proxemics for Human-Agent Interaction in Augmented Reality"
+    },
+    {
+      "paperId": "429ca18acb033705872eec86f00c3d33623c772f",
+      "title": "Visual Fidelity Effects on Expressive Self-avatar in Virtual Reality: First Impressions Matter"
+    },
+    {
+      "paperId": "ea62ddd5edbc8b64e191c5bae49569f57dc63ba3",
+      "title": "HeadBox: A Facial Blendshape Animation Toolkit for the Microsoft Rocketbox Library"
+    },
+    {
+      "paperId": "d72f9a01993a76e6e95d26d3b521ff83032771d1",
+      "title": "Do You Need Another Hand? Investigating Dual Body Representations During Anisomorphic 3D Manipulation"
+    },
+    {
+      "paperId": "8aff28366b6e321abd7984906cca99f2899325fe",
+      "title": "The Impact of Embodiment and Avatar Sizing on Personal Space in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "2de12d6540373f031b0077d90faa4318b8eea7d2",
+      "title": "Midfrontal Theta Transcranial Alternating Current Stimulation Facilitates Motor Coordination in Dyadic Human\u2013Avatar Interactions"
+    },
+    {
+      "paperId": "7ca0f75bc9746bb1bef74eac8f7f523f5402515a",
+      "title": "A Survey on Applications of Digital Human Avatars toward Virtual Co-presence"
+    },
+    {
+      "paperId": "3f021a29970306fe7b5d7aa0cace9dc1f9ebf146",
+      "title": "Eye Tracking Analytics for Mental States Assessment \u2013 A Review*"
+    },
+    {
+      "paperId": "f80cf44b4c03eac807eb995fe098c2e47db9e91a",
+      "title": "Effects of Avatar Appearance and Locomotion on Co-Presence in Virtual Reality Collaborations"
+    },
+    {
+      "paperId": "09f17544dc3d82377fe7b06b9da3c760f47d6552",
+      "title": "Avatars for Teleconsultation: Effects of Avatar Embodiment Techniques on User Perception in 3D Asymmetric Telepresence"
+    },
+    {
+      "paperId": "b84940dd051ecad432eea2755aad9ba01ac586a9",
+      "title": "Being an Avatar \u201cfor Real\u201d: A Survey on Virtual Embodiment in Augmented Reality"
+    },
+    {
+      "paperId": "017b2377ceca04cd3dc9317bec4c5fc770d776cf",
+      "title": "A Systematic Review of Physiological Measurements, Factors, Methods, and Applications in Virtual Reality"
+    },
+    {
+      "paperId": "5fb39aa40bdd13cf573c2705d8cc587f71b471f4",
+      "title": "\u201cI'm in his belly!\u201d: Children's Responses to Different Types of Characters in Virtual Reality"
+    },
+    {
+      "paperId": "edf2368d5cc6d98178be1ea3616b7902e42425f5",
+      "title": "Working Together on Diverse Tasks: A Longitudinal Study on Individual Workload, Presence and Emotional Recognition in Collaborative Virtual Environments"
+    },
+    {
+      "paperId": "5bbe906deff7238bb72fdb1ee790b2c92f25f00d",
+      "title": "Evaluation of the impact of different levels of self-representation and body tracking on the sense of presence and embodiment in immersive VR"
+    },
+    {
+      "paperId": "07e963cc154dbf9dfba0b5beebef3aa0e1ef8462",
+      "title": "Pedagogical Agents in Educational VR: An in the Wild Study"
+    },
+    {
+      "paperId": "474b4022c9dfb57c0fd7321628cf0e01a7376484",
+      "title": "Enhancing Virtual Walking Sensation Using Self-Avatar in First-Person Perspective and Foot Vibrations"
+    },
+    {
+      "paperId": "ab8109c9d97ec35fbe27dfdc7217c36b94d82fb1",
+      "title": "The Influence of Avatar Representation on Interpersonal Communication in Virtual Social Environments"
+    },
+    {
+      "paperId": "31d50530a6f1dc0f5975361ff73306569809ad5e",
+      "title": "The Impact of Avatar Appearance, Perspective and Context on Gait Variability and User Experience in Virtual Reality"
+    },
+    {
+      "paperId": "1e0e2c65ce55ef89f88a7d4e9a993378b4dd5060",
+      "title": "Avatar Embodiment. A Standardized Questionnaire"
+    },
+    {
+      "paperId": "bfa9213e59755a49a11c848d54f2e5dcfe631ddb",
+      "title": "X\u2010person asymmetric interaction in virtual and augmented realities"
+    },
+    {
+      "paperId": "629aa8e2b029b35b64434ac28afc534ac57db115",
+      "title": "Influence of Hand Representation Design on Presence and Embodiment in Virtual Environment"
+    },
+    {
+      "paperId": "c5213724b5a822b8dbfb3bc25971b908b8a82953",
+      "title": "MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library"
+    },
+    {
+      "paperId": "0da2983201b64acba5ddd4380ccb39353ef958d4",
+      "title": "Facial expressions contribute more than body movements to conversational outcomes in avatar-mediated virtual environments"
+    },
+    {
+      "paperId": "9795229e654943526f0ef452cae8888e2f632035",
+      "title": "The Rocketbox Library and the Utility of Freely Available Rigged Avatars"
+    },
+    {
+      "paperId": "c142bef0e2fe9ec07dd04c1e8fbeb2a7fa913673",
+      "title": "The Impact of Missing Fingers in Virtual Reality"
+    },
+    {
+      "paperId": "e7bc387b16212e51d9c6a50745bdd0615628fc63",
+      "title": "How Avatars Influence User Behavior: A Review on the Proteus Effect in Virtual Environments and Video Games"
+    },
+    {
+      "paperId": "756273ba6fc1b337456e054300e318fa85ed06da",
+      "title": "Trick the body trick the mind: avatar representation affects the perception of available action possibilities in virtual reality"
+    },
+    {
+      "paperId": "3a62fe0bb64fcbd51265c3b323c413db29e74465",
+      "title": "Point-cloud avatars to improve spatial communication in immersive collaborative virtual environments"
+    },
+    {
+      "paperId": "07ae35a9538a586f72fba49db8413741272d9634",
+      "title": "Eye fixations and electrodermal activity during low\u2010budget virtual reality embodiment"
+    },
+    {
+      "paperId": "f98bb9b68c58495caa7b7691592f3b88294a8ba8",
+      "title": "Erratum to the Physical-Virtual Patient Simulator: A Physical Human Form With Virtual Appearance and Behavior."
+    },
+    {
+      "paperId": "fdb73d402fa9d81fc1c78ef097cbaaac8e2f42c9",
+      "title": "Avatar- and self-related processes and problematic gaming: A systematic review."
+    },
+    {
+      "paperId": "b93cf632919c3ddf2a7efcd161bf03fe288761de",
+      "title": "Do You Feel Like Passing Through Walls?: Effect of Self-Avatar Appearance on Facilitating Realistic Behavior in Virtual Environments"
+    },
+    {
+      "paperId": "1647da4920cc72c5b408adbcda76fcfa40a6e261",
+      "title": "Effects of Locomotion Style and Body Visibility of a Telepresence Avatar"
+    },
+    {
+      "paperId": "0368fec26099cceaf9472a2110546308112a9647",
+      "title": "Effects of Virtual Hand Representation on Interaction and Embodiment in HMD-based Virtual Environments Using Controllers"
+    },
+    {
+      "paperId": "7a4ee85a2c11e8ff011fe72613e81160c1ca0ba4",
+      "title": "Effects of volumetric capture avatars on social presence in immersive virtual environments"
+    },
+    {
+      "paperId": "d657132407e3fe3192c019bb1447302cbe5820f3",
+      "title": "The Effects of Avatar Visibility on Behavioral Response with or without Mirror-Visual Feedback in Virtual Environments"
+    },
+    {
+      "paperId": "1c8e38974ae12d0c3b32a1493cb24e76bb47dcda",
+      "title": "Avatar and Sense of Embodiment: Studying the Relative Preference Between Appearance, Control and Point of View"
+    },
+    {
+      "paperId": "b10b6a1d0311b9fd5ba0f62cc58bfd6610a83fd3",
+      "title": "Using Facial Animation to Increase the Enfacement Illusion and Avatar Self-Identification"
+    },
+    {
+      "paperId": "3a0dd47fb6e999a1a636542b54a7f6fdbbb2e4c6",
+      "title": "Embedding Conversational Agents into AR: Invisible or with a Realistic Human Body?"
+    },
+    {
+      "paperId": "9e60b5deebedd3c47d0eaf3a3b7105e8e890b96b",
+      "title": "Effect of Avatar Appearance on Detection Thresholds for Remapped Hand Movements"
+    },
+    {
+      "paperId": "da8fec2616880729531cbfbad74f4a76e7795c7d",
+      "title": "Social presence and place illusion are affected by photorealism in embodied VR"
+    },
+    {
+      "paperId": "0513e78a564c41f48a5a4b5f1caf8cd47314973e",
+      "title": "Nonverbal synchrony in virtual reality"
+    },
+    {
+      "paperId": "63ddc85b8c5711c5b5c1b090de44191c6e49d5c1",
+      "title": "The Effect of Presence and Appearance of Guides in Virtual Reality Exhibitions"
+    },
+    {
+      "paperId": "cd6288770cdc7ad1ebe4372ce1ddb970c6e5e585",
+      "title": "Is Photorealism Important for Perception of Expressive Virtual Humans in Virtual Reality?"
+    },
+    {
+      "paperId": "e30e96f1b8c0f69df39562c3103ad626b6bf3d76",
+      "title": "Effects of a Virtual Human Appearance Fidelity Continuum on Visual Attention in Virtual Reality"
+    },
+    {
+      "paperId": "a3ef75dde2715144884404c8699cf377db89bcd1",
+      "title": "Avatar Selection for Live Performance in Virtual Reality: A Case Study"
+    },
+    {
+      "paperId": "abac6ea6d9578a775a7863f60e128e352a66b5da",
+      "title": "Development of a Questionnaire to Measure Immersion in Video Media: The Film IEQ"
+    },
+    {
+      "paperId": "81f26afde5b0e6c9c4b00bdd8ac1ae4f72ac3684",
+      "title": "A gender matching effect in learning with pedagogical agents in an immersive virtual reality science simulation"
+    },
+    {
+      "paperId": "1d537d9ef32d2e12cd60ea1f551000d0671af8c9",
+      "title": "Exploring Virtual Agents for Augmented Reality"
+    },
+    {
+      "paperId": "afcda17864c0044e7169786e92d363fc3b8633ac",
+      "title": "Virtual Hand Realism Affects Object Size Perception in Body-Based Scaling"
+    },
+    {
+      "paperId": "81ab746dc5f769340687f4242e874736643a3891",
+      "title": "Evaluating Teacher Avatar Appearances in Educational VR"
+    },
+    {
+      "paperId": "e601112b517854e634137f32111a1561b196f093",
+      "title": "The Effect of Avatar Appearance on Social Presence in an Augmented Reality Remote Collaboration"
+    },
+    {
+      "paperId": "a63a597bfa3f0d4207975a3903b239ac8d311dc8",
+      "title": "Embodying an Extra Virtual Body in Augmented Reality"
+    },
+    {
+      "paperId": "158650208237c0ce5f0b9140f72b46a2ade47688",
+      "title": "Effect of Full Body Avatar in Augmented Reality Remote Collaboration"
+    },
+    {
+      "paperId": "93b6c4a6b3aa53d5165e014ecbc21acf0f4121a4",
+      "title": "From Robot to Virtual Doppelganger: Impact of Visual Fidelity of Avatars Controlled in Third-Person Perspective on Embodiment and Behavior in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "6d6b3698f77fb083a5825536cd37a9d35916f03e",
+      "title": "Training in IVR: investigating the effect of instructor design on social presence and performance of the VR user"
+    },
+    {
+      "paperId": "6ad86927dd5f25039016e3d9478af91e999e999c",
+      "title": "The doctor\u2019s digital double: how warmth, competence, and animation promote adherence intention"
+    },
+    {
+      "paperId": "925a2f7d015f3a36e03adf06daa32c98a448ddbe",
+      "title": "Up to the Finger Tip: The Effect of Avatars on Mid-Air Pointing Accuracy in Virtual Reality"
+    },
+    {
+      "paperId": "45ea73b996afbdb901072e8e3550271bff30c7e7",
+      "title": "A Systematic Review of Social Presence: Definition, Antecedents, and Implications"
+    },
+    {
+      "paperId": "f8965050267a45b5fb3341471284ea7fa7ef33cb",
+      "title": "Eye-Tracking Measures in Aviation: A Selective Literature Review"
+    },
+    {
+      "paperId": "7c1915ff1cf3ad36e2603466ca681f1301ace809",
+      "title": "The effects of appearance and motion of virtual characters on emotional reactivity"
+    },
+    {
+      "paperId": "e10cffa8fb4c96cbd91b973a7662b152346cf49c",
+      "title": "Touch with foreign hands: the effect of virtual hand appearance on visual-haptic integration"
+    },
+    {
+      "paperId": "efca4581bea3fce35445450f1bd4f9a25949511b",
+      "title": "Virtually Being Einstein Results in an Improvement in Cognitive Task Performance and a Decrease in Age Bias"
+    },
+    {
+      "paperId": "84b12be710310b1b8e10684afea571c622530a2c",
+      "title": "Illusory body ownership of an invisible body interpolated between virtual hands and feet via visual-motor synchronicity"
+    },
+    {
+      "paperId": "af5a71cd9dcde6e19c7430c9ea8c0f3c42f9844f",
+      "title": "Communication Behavior in Embodied Virtual Reality"
+    },
+    {
+      "paperId": "c5d5cc16602b35a64cedfede3b20536e21859ba0",
+      "title": "Physical Keyboards in Virtual Reality: Analysis of Typing Performance and Effects of Avatar Hands"
+    },
+    {
+      "paperId": "4f555c41efe906ff4eecc75d3d0cd4a589ff5c51",
+      "title": "The Impact of Avatar Personalization and Immersion on Virtual Body Ownership, Presence, and Emotional Response"
+    },
+    {
+      "paperId": "4e2dbb58b684719a814326a8d20e1bd63abbcbba",
+      "title": "Any \u201cBody\u201d There? Avatar Visibility Effects in a Virtual Reality Game"
+    },
+    {
+      "paperId": "2bf90107b58760a84aceb8136f70ff18cf514b1e",
+      "title": "Effects of Hand Representations for Typing in Virtual Reality"
+    },
+    {
+      "paperId": "9a8661522f60b5b040eb08a54a0d26a81eaee2ec",
+      "title": "The Effect of Realistic Appearance of Virtual Characters in Immersive Environments - Does the Character's Personality Play a Role?"
+    },
+    {
+      "paperId": "ed53113518be6d89cd9e6996f3cf07e9b35b8bd5",
+      "title": "The impact of self-avatars on trust and collaboration in shared virtual environments"
+    },
+    {
+      "paperId": "af12c1c949261c586bc286f5e42b35994cb49190",
+      "title": "Using a Single RGB Frame for Real Time 3D Hand Pose Estimation in the Wild"
+    },
+    {
+      "paperId": "fc7c7cd1a68053a74f9aa0e51ee6d3e68be6af89",
+      "title": "The effect of avatar realism in immersive social virtual realities"
+    },
+    {
+      "paperId": "c6b88825ba855311d80cc30a848527a402772710",
+      "title": "The impact of avatar-owner visual similarity on body ownership in immersive virtual reality"
+    },
+    {
+      "paperId": "cefe3e0c1b4a5dbc56d5e5ea363f2e724e7e2eeb",
+      "title": "Effects of virtual arm representations on interaction in virtual environments"
+    },
+    {
+      "paperId": "ac63cd353aff1fe7a9d3f1420d2b8ad743e28296",
+      "title": "RealME: the influence of body and hand representations on body ownership and presence"
+    },
+    {
+      "paperId": "30e30c4ae81d367e19cad3da3750fdf1b48b8f97",
+      "title": "\"Where's Pinky?\": The Effects of a Reduced Number of Fingers in Virtual Reality"
+    },
+    {
+      "paperId": "78701cef323eba0bcfc00725766482cd85b49240",
+      "title": "Don't stand so close to me: investigating the effect of control on the appeal of virtual humans using immersion and a proximity-based behavioral task"
+    },
+    {
+      "paperId": "93441c4652ce573cc878e5bca4d61c908517d33e",
+      "title": "Alpha IVBO - Construction of a Scale to Measure the Illusion of Virtual Body Ownership"
+    },
+    {
+      "paperId": "2cf862b4879135967319dd208991841c6c6f714e",
+      "title": "\"These are not my hands!\": Effect of Gender on the Perception of Avatar Hands in Virtual Reality"
+    },
+    {
+      "paperId": "47c90efc658de217c928738b2d52c0cd31f2dc48",
+      "title": "Virtual race transformation reverses racial in-group bias"
+    },
+    {
+      "paperId": "cfe330424abbf11f0415b0bd1cf471249ebe1583",
+      "title": "A Psychophysical Experiment Regarding Components of the Plausibility Illusion"
+    },
+    {
+      "paperId": "b84bfdfc80e3096fba2993eca2380dcedbdff5d2",
+      "title": "Influence of avatar appearance on presence in social VR"
+    },
+    {
+      "paperId": "32080a734be57704919af90b011bf7fd9e5f36e2",
+      "title": "Effect of hand-avatar in a selection task using a tablet as input device in an immersive virtual environment"
+    },
+    {
+      "paperId": "e8f12fd8a42f59c2d33d6190124e3dfb24cc513d",
+      "title": "Avatar anthropomorphism and acrophobia"
+    },
+    {
+      "paperId": "4c00afe82676f223b395b8a53c4c8972f93ebd8c",
+      "title": "The Effects of Indirect Real Body Cues of Irrelevant Parts on Virtual Body Ownership and Presence"
+    },
+    {
+      "paperId": "a41a22b6e2fe8a102839610d57977c837b2c18b1",
+      "title": "Review of augmented reality agent in education"
+    },
+    {
+      "paperId": "f7d057b57d73c55c6d19d9ac72585e56bb0a6ce0",
+      "title": "Need a hand?: how appearance affects the virtual hand illusion"
+    },
+    {
+      "paperId": "b6787db7022453309b6adde9ec467d2737d57e0c",
+      "title": "Avatar Types Matter: Review of Avatar Literature for Performance Purposes"
+    },
+    {
+      "paperId": "edc6713d661ae21004a4a2b675305ebe1b0f0fba",
+      "title": "Evaluation of the effect of a virtual avatar's representation on distance perception in immersive virtual environments"
+    },
+    {
+      "paperId": "876e00760d163b7d99de5c32d2c3f597144314e7",
+      "title": "The role of interaction in virtual embodiment: Effects of the virtual hand representation"
+    },
+    {
+      "paperId": "09e16ee8baf19548c59c4080b052b17323d22571",
+      "title": "Interpersonal Communication Satisfaction Inventory"
+    },
+    {
+      "paperId": "0f5a32181478bea11ccc5b0ac463469ef67ed2da",
+      "title": "Publishing not perishing: how research students transition from novice to knowledgeable using systematic quantitative literature reviews"
+    },
+    {
+      "paperId": "19648e750aae72c0f4ccc15371f05721a0b69d66",
+      "title": "Dyadic interactions with avatars in immersive virtual environments: high fiving"
+    },
+    {
+      "paperId": "b311c18cd6a3d569285d5f8d6a066c6de4b501a9",
+      "title": "The effect of avatar model in stepping off a ledge in an immersive virtual environment"
+    },
+    {
+      "paperId": "af7b3323c7f3b80c3da6c0be78a85475aad1354a",
+      "title": "A review of empirical evidence on different uncanny valley hypotheses: support for perceptual mismatch as one road to the valley of eeriness"
+    },
+    {
+      "paperId": "3a23b651b84528c46849b904c119b3b27ec50dda",
+      "title": "Influence of avatar realism on stressful situation in VR"
+    },
+    {
+      "paperId": "42fb29d947ccc0a864e4ab15292465dc1a93c8b8",
+      "title": "Avatar anthropomorphism and illusion of body ownership in VR"
+    },
+    {
+      "paperId": "dc9484e25429a86fe65dbb451ee7cdd6f1c37fe3",
+      "title": "Owning an Overweight or Underweight Body: Distinguishing the Physical, Experienced and Virtual Body"
+    },
+    {
+      "paperId": "8c1b7bb0fc69ece31778db3393a0e4594fbec71e",
+      "title": "Appealing Virtual Humans"
+    },
+    {
+      "paperId": "cb54f6dbf6f678b487822273b440e0d26a444b7f",
+      "title": "Avatars"
+    },
+    {
+      "paperId": "a4828a8524cb61ad6765b2de1110979c65078c77",
+      "title": "Augmented Reality for Maintenance and Repair (ARMAR)"
+    },
+    {
+      "paperId": "31b2fbf8a1e78adc6713abe54035bb2f132118f1",
+      "title": "The Proteus Effect: The Effect of Transformed Self-Representation on Behavior"
+    },
+    {
+      "paperId": "fcb719ddcb11ed708ffda98122154376f9737c07",
+      "title": "Nasa-Task Load Index (NASA-TLX); 20 Years Later"
+    },
+    {
+      "paperId": "9c4230f57112ee254dfe80e4fb3b1eaa9a76aba6",
+      "title": "The Effect of Behavioral Realism and Form Realism of Real-Time Avatar Faces on Verbal Disclosure, Nonverbal Disclosure, Emotion Recognition, and Copresence in Dyadic Interaction"
+    },
+    {
+      "paperId": "72bb12707969ce9779c5229b7d3a480a2571471b",
+      "title": "The Independent and Interactive Effects of Embodied-Agent Appearance and Behavior on Self-Report, Cognitive, and Behavioral Markers of Copresence in Immersive Virtual Environments"
+    },
+    {
+      "paperId": "869e2ab53160cca6a3e7d8650d753edad19e0562",
+      "title": "The Cambridge Handbook of Multimedia Learning: Principles of Multimedia Learning Based on Social Cues : Personalization, Voice, and Image Principles"
+    },
+    {
+      "paperId": "e469f4ea694e7f1873886c6059bda116ff92b68d",
+      "title": "Using Presence Questionnaires in Reality"
+    },
+    {
+      "paperId": "fd324bb169f8776e32f7ae76c24abdd6e7511b7c",
+      "title": "Measuring Presence in Virtual Environments: A Presence Questionnaire"
+    },
+    {
+      "paperId": "79596de8da82cbb219e88b45c808b052606f765d",
+      "title": "SUS: A 'Quick and Dirty' Usability Scale"
+    },
+    {
+      "paperId": "0543a8a6e1d57deead06199b5876e6ea21defacb",
+      "title": "Simulator Sickness Questionnaire: An enhanced method for quantifying simulator sickness."
+    },
+    {
+      "paperId": "6d4c4d3908ec678615d355dab2331e5dd48b4ed0",
+      "title": "Utilizing the Proteus Effect to Improve Performance Using Avatars in Virtual Reality"
+    },
+    {
+      "paperId": "9f3e1b001250ab96aa77621f767835ab20d80ef0",
+      "title": "Influence of Visual Appearance of Agents on Presence, Attractiveness, and Agency in Virtual Reality"
+    },
+    {
+      "paperId": "efa0119886ff123a282e708c07f96a0837cf65da",
+      "title": "Introduction to \u201cAdvances in Longitudinal HCI Research\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Feels like team spirit"
+    },
+    {
+      "paperId": "91896a012351a1caa40947841919ff07c6a78730",
+      "title": "Effects of Likeness and Synchronicity on the Ownership Illusion over a Moving Virtual Robotic Arm and Hand"
+    },
+    {
+      "paperId": "4a7d0aba748299ea6bb858c0c6ed95b485bb8f8c",
+      "title": "A Systematic Review of the Convergence of Augmented Reality, Intelligent Virtual Agents, and the Internet of Things"
+    },
+    {
+      "paperId": null,
+      "title": "Intel"
+    },
+    {
+      "paperId": "2c122689416c1e4dbb5cc53940fe8a6302562272",
+      "title": "Measuring the Uncanny Valley Effect"
+    },
+    {
+      "paperId": "cd908303511cb5142665a3c408082696d5664afb",
+      "title": "Measuring Actual Behaviors in HCI Research - A call to Action and an Example"
+    },
+    {
+      "paperId": "81492405488c5e8f5ca8f2b113c4415f053b31b3",
+      "title": "Review of eye-related measures of drivers\u2019 mental workload"
+    },
+    {
+      "paperId": null,
+      "title": "Vnect : real - time 3 d human pose estimation with a single RGB camera"
+    },
+    {
+      "paperId": "fcd419230a6bf5f0a47217b9193bff2c38b74bce",
+      "title": "Being Inside the Quantum Atom"
+    },
+    {
+      "paperId": "869f95148302f61e4ca02ec11fcffea7839e9712",
+      "title": "AttrakDiff: Ein Fragebogen zur Messung wahrgenommener hedonischer und pragmatischer Qualit\u00e4t"
+    },
+    {
+      "paperId": null,
+      "title": "Limit the visual distraction of an avatar or agent during learning or educational applications as it can potentially impair the learning outcome (cf. Sect. 4.5)"
+    },
+    {
+      "paperId": null,
+      "title": "use a generic realistic full-body or a generic realistic hands-only visualizations (cf. High-level findings (1), (2) and (3))"
+    },
+    {
+      "paperId": null,
+      "title": "Realistic rendering styles are especially preferable for communication (cf. High-level findings (4))"
+    },
+    {
+      "paperId": null,
+      "title": "The user should have agency over visible body parts (keywords: movement congruence or behavioral fidelity)"
+    },
+    {
+      "paperId": null,
+      "title": "For engaging content, such as games or easy/routine tasks, realistic rendering is not essential, but control fidelity is (cf. Sect. 4.4)"
+    },
+    {
+      "paperId": null,
+      "title": "2605 AGENTS IN AR & VR."
+    },
+    {
+      "paperId": null,
+      "title": "Defining and measuring social presence"
+    },
+    {
+      "paperId": null,
+      "title": "Realistic hands are beneficial for hand interaction (cf. Sect. 4.2)"
+    }
+  ]
+}

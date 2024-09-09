@@ -1,0 +1,437 @@
+{
+  "paperId": "6d13e77d3abe7ffd37d1e7e72c618f33a636e007",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SaffoBCSRYD24",
+    "DOI": "10.1109/TVCG.2023.3327368",
+    "CorpusId": 264489345,
+    "PubMed": "37878454"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6d13e77d3abe7ffd37d1e7e72c618f33a636e007",
+  "title": "Unraveling the Design Space of Immersive Analytics: A Systematic Review",
+  "abstract": "Immersive analytics has emerged as a promising research area, leveraging advances in immersive display technologies and techniques, such as virtual and augmented reality, to facilitate data exploration and decision-making. This paper presents a systematic literature review of 73 studies published between 2013-2022 on immersive analytics systems and visualizations, aiming to identify and categorize the primary dimensions influencing their design. We identified five key dimensions: <inline-graphic xlink:href=\"tvcg-saffo-3327368-graphic-1-source.tif\"/> Academic Theory and Contribution, <inline-graphic xlink:href=\"tvcg-saffo-3327368-graphic-2-source.tif\"/> Immersive Technology, <inline-graphic xlink:href=\"tvcg-saffo-3327368-graphic-3-source.tif\"/> Data, <inline-graphic xlink:href=\"tvcg-saffo-3327368-graphic-4-source.tif\"/> Spatial Presentation, and <inline-graphic xlink:href=\"tvcg-saffo-3327368-graphic-5-source.tif\"/> Visual Presentation. Academic Theory and Contribution assess the motivations behind the works and their theoretical frameworks. Immersive Technology examines the display and input modalities, while Data dimension focuses on dataset types and generation. Spatial Presentation discusses the environment, space, embodiment, and collaboration aspects in IA, and Visual Presentation explores the visual elements, facet and position, and manipulation of views. By examining each dimension individually and cross-referencing them, this review uncovers trends and relationships that help inform the design of immersive systems visualizations. This analysis provides valuable insights for researchers and practitioners, offering guidance in designing future immersive analytics systems and shaping the trajectory of this rapidly evolving field. A free copy of this paper and all supplemental materials are available at osf.io/5ewaj.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 87,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-10-25",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "495-506",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Saffo2023UnravelingTD,\n author = {David Saffo and Sara Di Bartolomeo and Tarik Crnovrsanin and Laura South and Justin T. Raynor and Caglar Yildirim and Cody Dunne},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {495-506},\n title = {Unraveling the Design Space of Immersive Analytics: A Systematic Review},\n volume = {30},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "66700656",
+      "name": "David Saffo"
+    },
+    {
+      "authorId": "51235635",
+      "name": "Sara Di Bartolomeo"
+    },
+    {
+      "authorId": "3297219",
+      "name": "Tarik Crnovrsanin"
+    },
+    {
+      "authorId": "2047942134",
+      "name": "Laura South"
+    },
+    {
+      "authorId": "46190416",
+      "name": "Justin T. Raynor"
+    },
+    {
+      "authorId": "1665148290",
+      "name": "Caglar Yildirim"
+    },
+    {
+      "authorId": "34889063",
+      "name": "Cody Dunne"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e4293c3b46e941432b4494f82feecbd1e52d1efb",
+      "title": "Doom or Deliciousness: Challenges and Opportunities for Visualization in the Age of Generative Models"
+    },
+    {
+      "paperId": "ed982db9297a99cde751e49420782cb4297ec18b",
+      "title": "Through Their Eyes and In Their Shoes: Providing Group Awareness During Collaboration Across Virtual Reality and Desktop Platforms"
+    },
+    {
+      "paperId": "8ae45b286e02a9f0d26783ddb956f7998d3da727",
+      "title": "DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces"
+    },
+    {
+      "paperId": "c62b3f8c22409247eb2db88d743fc20f7dd2f834",
+      "title": "Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving"
+    },
+    {
+      "paperId": "6dc4ca040c54c13d9622c6bba66087ef7f055b84",
+      "title": "SPARVIS: Combining Smartphone and Augmented Reality for Visual Data Analytics"
+    },
+    {
+      "paperId": "3f9840f544ecefe26c999ccfae56254a5c4b9dd9",
+      "title": "X-Space: A Tool for Extending Mixed Reality Space from Web2D Visualization Anywhere"
+    },
+    {
+      "paperId": "7a97e8110dd459a0d80f67c283f41d264cde9929",
+      "title": "Immersive WYSIWYG virtual meteorological sandbox"
+    },
+    {
+      "paperId": "dce2a5c89c6dee7f382fc527f1d5116c9ff13ccc",
+      "title": "XVCollab: An Immersive Analytics Tool for Asymmetric Collaboration across the Virtuality Spectrum"
+    },
+    {
+      "paperId": "2af53480b1f6a07a0059cfe2a47da81920fb3f32",
+      "title": "Virtual Reality Sonification Training System Can Improve a Novice's Forehand Return of Serve in Tennis"
+    },
+    {
+      "paperId": "946c919b27159f36375ccebc3b17a9fc8a829a07",
+      "title": "Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization"
+    },
+    {
+      "paperId": "5d1acab1160961088ff89883b5fd8dada3affe7c",
+      "title": "Visual Comparison of Networks in VR"
+    },
+    {
+      "paperId": "3438bf68d2e4428c292fc12b193d46872a941bb3",
+      "title": "Immersive Analytics with Abstract 3D Visualizations: A Survey"
+    },
+    {
+      "paperId": "6b49d073d2f7c24464b1f7121f43c5557aa66ef6",
+      "title": "opticARe - Augmented Reality Mobile Patient Monitoring in Intensive Care Units"
+    },
+    {
+      "paperId": "19a911606218a89dec6958201bbd7e9719abcc4e",
+      "title": "GazeMOOC: A Gaze Data Driven Visual Analytics System for MOOC with XR Content"
+    },
+    {
+      "paperId": "b12cf24498de2e6fd6207248e9de8633b69b861b",
+      "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics"
+    },
+    {
+      "paperId": "76809b5a9ffcf8de48f3fa1606bfd4d67cbf8979",
+      "title": "VRGaitAnalytics: Visualizing Dual Task Cost for VR Gait Assessment"
+    },
+    {
+      "paperId": "7b209a91983666478abac77189ed89541990548d",
+      "title": "An Overview of Immersive Data Visualisation Methods Using Type by Task Taxonomy"
+    },
+    {
+      "paperId": "8d0b657b1aa35c6395f016ef59ffaae49a19f4aa",
+      "title": "FaraPy: An Augmented Reality Feedback System for Facial Paralysis using Action Unit Intensity Estimation"
+    },
+    {
+      "paperId": "b097bd2c9e6db1825180849b0a6474f948241743",
+      "title": "3D Volume Visualization and Screen-based Interaction with Dynamic Ray Casting on Autostereoscopic Display"
+    },
+    {
+      "paperId": "692993f22a2f996c088865bd6385decfd6cb51d7",
+      "title": "What's the Situation with Situated Visualization? A Survey and Perspectives on Situatedness"
+    },
+    {
+      "paperId": "e75a384cdc0da9c38634f2150e232fed9634a9d2",
+      "title": "Perception! Immersion! Empowerment!: Superpowers as Inspiration for Visualization"
+    },
+    {
+      "paperId": "498109a3444a8e28ad497ffed87de4d322660e53",
+      "title": "SecondSight: A Framework for Cross-Device Augmented Reality Interfaces"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "611b23de2fcecfd9761fe439a6d650d9e8a713e2",
+      "title": "STREAM: Exploring the Combination of Spatially-Aware Tablets with Augmented Reality Head-Mounted Displays for Immersive Analytics"
+    },
+    {
+      "paperId": "f2bd084bb3278b29910ff72de0bc674f4f4068e8",
+      "title": "Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality"
+    },
+    {
+      "paperId": "6504db2b2cdcbdb4308e7df83a477c75c5b097e4",
+      "title": "MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis"
+    },
+    {
+      "paperId": "9fd1e9025cd7f170aa137ea4600e0f662a0301d5",
+      "title": "Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "c36698c83737ebeaf2f4569fb583add94054dbc2",
+      "title": "Visualizing Planetary Spectroscopy through Immersive On-site Rendering"
+    },
+    {
+      "paperId": "6ad17c65c483919cdbd86c915b3d43d01ce7b95c",
+      "title": "Remote and Collaborative Virtual Reality Experiments via Social VR Platforms"
+    },
+    {
+      "paperId": "290882178c4ddace19fd7037c73d51867c3bb6e9",
+      "title": "The State of the Art of Spatial Interfaces for 3D Visualization"
+    },
+    {
+      "paperId": "db19d1e20454614282f9a1b5f920be3e2985c812",
+      "title": "Towards Sailing supported by Augmented Reality: Motivation, Methodology and Perspectives"
+    },
+    {
+      "paperId": "d472624d1ab5298e0d7bc5151cf416bb55dc3440",
+      "title": "DataHop: Spatial Data Exploration in Virtual Reality"
+    },
+    {
+      "paperId": "ecbbefd43973385624c07f82167d96affa975339",
+      "title": "The Anatomical Edutainer"
+    },
+    {
+      "paperId": "6b1c78ffe9c4b4573dee075e35b81f7686c0a92e",
+      "title": "Touch and Beyond: Comparing Physical and Virtual Reality Visualizations"
+    },
+    {
+      "paperId": "26f5a52ebddea5ccc70ed2492e3211202c2318d3",
+      "title": "Personal Augmented Reality for Information Visualization on Large Interactive Displays"
+    },
+    {
+      "paperId": "3dd9bc052e56712742c08cb8aa4f2e417a09c67b",
+      "title": "Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality"
+    },
+    {
+      "paperId": "bf1a229b312ebe09df667f832fa4605a36cc4439",
+      "title": "RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching"
+    },
+    {
+      "paperId": "f86136cea73ded57661e98b3c93c27574570e468",
+      "title": "MARVisT: Authoring Glyph-Based Visualization in Mobile Augmented Reality"
+    },
+    {
+      "paperId": "ff43ab01d642aef2656dccc49db3f11f2640fb44",
+      "title": "Tilt Map: Interactive Transitions Between Choropleth Map, Prism Map and Bar Chart in Immersive Environments"
+    },
+    {
+      "paperId": "ed585b684af4437c5a9e24b287aeba73e96e17f4",
+      "title": "Augmenting Static Visualizations with PapARVis Designer"
+    },
+    {
+      "paperId": "97ecf6b2e2679875452c146c90d738cc819317e9",
+      "title": "Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "e534c477850bdce8d7a88beb692f5ade932c870b",
+      "title": "Toward Agile Situated Visualization: An Exploratory User Study"
+    },
+    {
+      "paperId": "45510618a5d6092f1b3d1e50c7fc4a2247c83fd1",
+      "title": "Applicable"
+    },
+    {
+      "paperId": "54b5350bfcfb09ee2b50b110795e483f4a95ead8",
+      "title": "The Impact of Immersion on Cluster Identification Tasks"
+    },
+    {
+      "paperId": "51f89fa12a750c37f5e119c7d6f9e908a8089b67",
+      "title": "WA VIS: A Web-based Augmented Reality Text Data Visual Analysis Tool"
+    },
+    {
+      "paperId": "0d3a11312a5bed1a89c2ebe10a3c1ad2d77a8127",
+      "title": "Location-Based Augmented Reality In-situ Visualization Applied for Agricultural Fieldwork Navigation"
+    },
+    {
+      "paperId": "d59ded006c8de963378a6c8fa9bf0efc1442fa55",
+      "title": "Improving Information Sharing and Collaborative Analysis for Remote GeoSpatial Visualization Using Mixed Reality"
+    },
+    {
+      "paperId": "2827828e88e8125dfc3087cb293c3bffe7e96a20",
+      "title": "Evaluating an Immersive Space-Time Cube Geovisualization for Intuitive Trajectory Data Exploration"
+    },
+    {
+      "paperId": "9ad6b1dffb27240704ad34a1077d722c18b4af99",
+      "title": "Exploring Parallel Coordinates Plots in Virtual Reality"
+    },
+    {
+      "paperId": "715ee4df06963f9eb9db5f04b5536c70ffba5dbb",
+      "title": "Scaptics and Highlight-Planes: Immersive Interaction Techniques for Finding Occluded Features in 3D Scatterplots"
+    },
+    {
+      "paperId": "f08e97a53d17a4f82b865864c8e29211136edf7e",
+      "title": "Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality"
+    },
+    {
+      "paperId": "0ac990ee21a3e015eedb8182b2c0fdf856b18aa7",
+      "title": "Developing Virtual Reality Visualizations for Unsteady Flow Analysis of Dinosaur Track Formation using Scientific Sketching"
+    },
+    {
+      "paperId": "b4b8bc0aab2391f3bec81f9af431a7583addd8c2",
+      "title": "Dataspace: A Reconfigurable Hybrid Reality Environment for Collaborative Information Analysis"
+    },
+    {
+      "paperId": "dd05118f1eef106404274daaa16eea8b3c10fb94",
+      "title": "GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions"
+    },
+    {
+      "paperId": "c13e85c64fa74451ae0a922c70495bd361f5ba3c",
+      "title": "Worlds-in-Wedges: Combining Worlds-in-Miniature and Portals to Support Comparative Immersive Visualization of Forestry Data"
+    },
+    {
+      "paperId": "8d6290cdec8c8318dba8e6a9278282e6b5349ec8",
+      "title": "Information Olfactation: Harnessing Scent to Convey Data"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "5106c8e1eaadd7f790f41e5fd335a78418a0048c",
+      "title": "Mixed-Reality Guidance for Brain Stimulation Treatment of Depression"
+    },
+    {
+      "paperId": "1104c7d63625dbc656c6ac45f2f89213fe7475af",
+      "title": "Look Inside: Understanding Thermal Flux Through Augmented Reality"
+    },
+    {
+      "paperId": "260c30a305f6c809212b9c9967c20ea060971399",
+      "title": "Exploration & Anthropomorphism in Immersive Unit Visualizations"
+    },
+    {
+      "paperId": "d66b449b54a8cf3c977cb55fb0c63f50f4bd2699",
+      "title": "Exploring the Effects of Scale in Augmented Reality-Empowered Visual Analytics"
+    },
+    {
+      "paperId": "34b67075b19e6db161c98bbe5c96a7383f5744de",
+      "title": "Exploring Data in Virtual Reality: Comparisons with 2D Data Visualizations"
+    },
+    {
+      "paperId": "d67a50aea692bf3720865d292abb96c1ca408603",
+      "title": "ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation"
+    },
+    {
+      "paperId": "0dabf98865957c1dddc18c4e882672841cc4e1d1",
+      "title": "[POSTER] HoloBee: Augmented Reality Based Bee Drift Analysis"
+    },
+    {
+      "paperId": "edf35ba9876dfc9b1dd9187c27a2f12eb5d9ebbb",
+      "title": "NIVR: Neuro imaging in virtual reality"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "57dbad90bc353e9dd479bc3967cdfb850964cfce",
+      "title": "Pre-attentive Features in Natural Augmented Reality Visualizations"
+    },
+    {
+      "paperId": "ebd27adfa5c4c4615bacd30c96d3db2a055da42f",
+      "title": "Infocarve: A Framework for Volume Visualization on Commodity Augmented Reality Displays"
+    },
+    {
+      "paperId": "e936f248b2c0489316ed1521656af2564c3502c3",
+      "title": "The FAIR Guiding Principles for scientific data management and stewardship"
+    },
+    {
+      "paperId": "b921e2d6ab313a31a85220b882f8f053d23ea704",
+      "title": "[Poster] Visualization of solar radiation data in augmented reality"
+    },
+    {
+      "paperId": "7823bc3b005730158c632d747388b4d92b9c3f33",
+      "title": "Shvil: collaborative augmented reality land navigation"
+    },
+    {
+      "paperId": "7cb7efb041a7f9d5534bec72e6a878d83db0e056",
+      "title": "FlyAR: Augmented Reality Supported Micro Aerial Vehicle Navigation"
+    },
+    {
+      "paperId": "f1b46d713ea8ba851a0b67b5fe0e84b62c42a572",
+      "title": "A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures"
+    },
+    {
+      "paperId": "62e5fb67d1ddc3a8201a7b6d6dd3c2ef8adc67e4",
+      "title": "Dynamic compact visualizations for augmented reality"
+    },
+    {
+      "paperId": null,
+      "title": "Immersive workspace for the analysis of multidimensional material data from non-destructive testing"
+    },
+    {
+      "paperId": null,
+      "title": "Dearpictograph:Investigatingtheroleofpersonalizationandimmersionforconsumingandenjoyingvisualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Visu-alizingnaturalenvironmentsfromdatainvirtualreality: Combiningrealism and uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "Just5questions: towardadesignframeworkforimmersive analytics"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "5521849729aaa387cfeef0d12d3c91170d7bbfd0",
+      "title": "Visualization analysis & design"
+    },
+    {
+      "paperId": "394fedce21216358abdd86da51b7514701b699af",
+      "title": "Human factors in computing systems"
+    },
+    {
+      "paperId": null,
+      "title": "Sharedsur-facesandspaces: Collaborativedatavisualisationinaco-locatedimmersive environment"
+    },
+    {
+      "paperId": null,
+      "title": "Augmented chironomia for presentingdatatoremoteaudiences"
+    },
+    {
+      "paperId": null,
+      "title": "Indy Survey Tool: Aframeworktounearthcorrelationsinsurveydata"
+    },
+    {
+      "paperId": null,
+      "title": "license agreement with IEEE. Restrictions apply"
+    }
+  ]
+}

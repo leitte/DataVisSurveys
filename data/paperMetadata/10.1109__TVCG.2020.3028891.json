@@ -1,0 +1,850 @@
+{
+  "paperId": "9640686a3b1fc26722ff53be90ad566ac7690b80",
+  "externalIds": {
+    "MAG": "3091841891",
+    "DBLP": "journals/tvcg/BattleS21",
+    "DOI": "10.1109/TVCG.2020.3028891",
+    "CorpusId": 221725386,
+    "PubMed": "33031039"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/9640686a3b1fc26722ff53be90ad566ac7690b80",
+  "title": "A Structured Review of Data Management Technology for Interactive Visualization and Analysis",
+  "abstract": "In the last two decades, interactive visualization and analysis have become a central tool in data-driven decision making. Concurrently to the contributions in data visualization, research in data management has produced technology that directly benefits interactive analysis. Here, we contribute a systematic review of 30 years of work in this adjacent field, and highlight techniques and principles we believe to be underappreciated in visualization work. We structure our review along two axes. First, we use task taxonomies from the visualization literature to structure the space of interactions in usual systems. Second, we created a categorization of data management work that strikes a balance between specificity and generality. Concretely, we contribute a characterization of 131 research papers along these two axes. We find that five notions in data management venues fit interactive visualization systems well: materialized views, approximate query processing, user modeling and query prediction, muiti-query optimization, lineage techniques, and indexing techniques. In addition, we find a preponderance of work in materialized views and approximate query processing, most targeting a limited subset of the interaction tasks in the taxonomy we used. This suggests natural avenues of future research both in visualization and data management. Our categorization both changes how we visualization researchers design and build our systems, and highlights where future work is necessary.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 195,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-10-08",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1128-1138",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Battle2020ASR,\n author = {L. Battle and C. Scheidegger},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1128-1138},\n title = {A Structured Review of Data Management Technology for Interactive Visualization and Analysis},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2230578",
+      "name": "L. Battle"
+    },
+    {
+      "authorId": "1786183",
+      "name": "C. Scheidegger"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b65e5bcdc01499f7952bdfaba09335c43004194a",
+      "title": "Real-Time Exploration of Large Spatiotemporal Datasets Based on Order Statistics"
+    },
+    {
+      "paperId": "b695a70d1abdb2bd17a9e7a8c7691eab5d5c315c",
+      "title": "Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data"
+    },
+    {
+      "paperId": "a78581cb091eec9b21fe466e3c409ae197162664",
+      "title": "A Recursive Subdivision Technique for Sampling Multi-class Scatterplots"
+    },
+    {
+      "paperId": "cbd0b7a68758787fb0bfad125d6e450c52475d2c",
+      "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization"
+    },
+    {
+      "paperId": "a51e212a3c3da8fe137874c7f8f69f4810e97130",
+      "title": "SmartCube: An Adaptive Data Management Architecture for the Real-Time Visualization of Spatiotemporal Datasets"
+    },
+    {
+      "paperId": "8e3b3679cfa68dbbafdbcbb462030b95948842d4",
+      "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior"
+    },
+    {
+      "paperId": "e9805f11ac86e83ba5487b0c3938286c0cf8a384",
+      "title": "Progressive Indexes: Indexing for Interactive Data Analysis"
+    },
+    {
+      "paperId": "eaedfb1462ee717ec90b226847a5f36a0323adad",
+      "title": "RSATree: Distribution-Aware Data Representation of Large-Scale Tabular Datasets for Flexible Visual Query"
+    },
+    {
+      "paperId": "0eeeb107c4d69976dc50c2d01f32a6bd7fb4a4dc",
+      "title": "AnalyticDB: Real-time OLAP Database System at Alibaba Cloud"
+    },
+    {
+      "paperId": "bed95b0190d5caa3291bad0d916ab07fe6459b06",
+      "title": "Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics"
+    },
+    {
+      "paperId": "51a203c2367b1ec540da788cec644290f0a4719d",
+      "title": "DuckDB: an Embeddable Analytical Database"
+    },
+    {
+      "paperId": "7bb95a0869edf7bbf2c357518d8db5c4c6291ae6",
+      "title": "Anti-Freeze for Large and Complex Spreadsheets: Asynchronous Formula Computation"
+    },
+    {
+      "paperId": "8ae9da91a127c39d05845196a3d1902341c842e3",
+      "title": "Kyrix: Interactive Pan/Zoom Visualizations at Scale"
+    },
+    {
+      "paperId": "ef16eee2855a61b01050d879fb545d85fba8cd9e",
+      "title": "Bird's\u2010Eye \u2010 Large\u2010Scale Visual Analytics of City Dynamics using Social Location Data"
+    },
+    {
+      "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+      "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+    },
+    {
+      "paperId": "ff5ff4c9e76447adc67252059e82a0ba83a6579b",
+      "title": "Follow The Clicks: Learning and Anticipating Mouse Interactions During Exploratory Data Analysis"
+    },
+    {
+      "paperId": "ba6208fe0b2b34155d22605d979b513e87642654",
+      "title": "Kyrix: Interactive Visual Data Exploration at Scale"
+    },
+    {
+      "paperId": "d46ce8e062c0e0eb7b7b389bb2c2c07fa6c206a1",
+      "title": "AID: An Adaptive Image Data Index for Interactive Multilevel Visualization"
+    },
+    {
+      "paperId": "e69fe03c1db87287fc92bbec47e9e2a215d1358e",
+      "title": "AIR: Attentional Intention-Aware Recommender Systems"
+    },
+    {
+      "paperId": "909eb5906cd020578cf790b0eebacb02995de9e5",
+      "title": "Battle"
+    },
+    {
+      "paperId": "c2ab4eb8f766f06946172775c5dbe542464f829b",
+      "title": "Selective Wander Join: Fast Progressive Visualizations for Data Joins"
+    },
+    {
+      "paperId": "fefb32be7249b51326abcbde6a4ac58186830f19",
+      "title": "Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations"
+    },
+    {
+      "paperId": "a9643c2746ec3579b04456e04d3b6125cd75926b",
+      "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "da27323e1456ee41dbc198a14af3d37d45c29946",
+      "title": "Approximate Query Processing: What is New and Where to Go?"
+    },
+    {
+      "paperId": "5f3773867fe11b91951dc5b3fc5699d99d90197b",
+      "title": "Optimization for Active Learning-based Interactive Database Exploration"
+    },
+    {
+      "paperId": "6a116fbf23a698e5547079a80ee1497b18b5a04c",
+      "title": "VizML: A Machine Learning Approach to Visualization Recommendation"
+    },
+    {
+      "paperId": "228baf81f739e11d2dd7f85b38b6d3c89a5be9c3",
+      "title": "Interactive Summarization and Exploration of Top Aggregate Query Answers"
+    },
+    {
+      "paperId": "61d6f137e3b240b157fb5d22bdac7f1daad437fe",
+      "title": "Evaluating Visual Data Analysis Systems: A Discussion Report"
+    },
+    {
+      "paperId": "cc49bbbdb597a2b8c1fa1e57dae394493c35faea",
+      "title": "Optimally Leveraging Density and Locality for Exploratory Browsing and Sampling"
+    },
+    {
+      "paperId": "e34b4c45f547317ef02815bf4dca998e42faf288",
+      "title": "Making Sense of Asynchrony in Interactive Data Visualizations"
+    },
+    {
+      "paperId": "00a12dec657e05bfca91a2ba6fb250e04aad4dad",
+      "title": "Key Time Steps Selection for Large\u2010Scale Time\u2010Varying Volume Datasets Using an Information\u2010Theoretic Storyboard"
+    },
+    {
+      "paperId": "105b55479696c6b15420da6d592fd5b0aa37ecc4",
+      "title": "ConcaveCubes: Supporting Cluster\u2010based Geographical Visualization in Large Data Scale"
+    },
+    {
+      "paperId": "abd9a96a974480ef40621d9deda48069e7462755",
+      "title": "Time Lattice: A Data Structure for the Interactive Visual Analysis of Large Time Series"
+    },
+    {
+      "paperId": "d37dd9ecc87dabd97f2b72149bd2d8c073a8ed0f",
+      "title": "Fast and Accurate CNN\u2010based Brushing in Scatterplots"
+    },
+    {
+      "paperId": "3b7a20a0b8e52d61bbf6c2bebe4555d3e80cae93",
+      "title": "AQP++: Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics"
+    },
+    {
+      "paperId": "d3910756e601300093811757e7960a65cfbba71c",
+      "title": "Pinot: Realtime OLAP for 530 Million Users"
+    },
+    {
+      "paperId": "11d0a9fce3210b81b714f347dbef7e2419a20832",
+      "title": "The Data Interaction Game"
+    },
+    {
+      "paperId": "fc779ec43b39cf9cf13f161b1d50a4890319c973",
+      "title": "Meta-Dataflows: Efficient Exploratory Dataflow Jobs"
+    },
+    {
+      "paperId": "46a462430a374cb2c65b9262d968b886e98d99bd",
+      "title": "ECGLens: Interactive Visual Exploration of Large Scale ECG Data for Arrhythmia Detection"
+    },
+    {
+      "paperId": "cc53c188ffe35d4c1a073875f4c113d1c76d82e2",
+      "title": "Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks"
+    },
+    {
+      "paperId": "6bab2c1b2add92f9ce1472d5854b7283919001fd",
+      "title": "VerdictDB: Universalizing Approximate Query Processing"
+    },
+    {
+      "paperId": "735222818fca62f36b40617a8db37d74b1f6e19f",
+      "title": "DeepEye: Towards Automatic Data Visualization"
+    },
+    {
+      "paperId": "d8d91af60f452a042ca11ee9c1ccd295a11d4be2",
+      "title": "Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries"
+    },
+    {
+      "paperId": "bce89c6fb5cbafc17d88aef584a8d3c4696a1ca5",
+      "title": "Selecting Subexpressions to Materialize at Datacenter Scale"
+    },
+    {
+      "paperId": "1df6130b23958b353825dd90dc0fc9500981cec0",
+      "title": "A Session-Based Approach to Fast-But-Approximate Interactive Data Cube Exploration"
+    },
+    {
+      "paperId": "664295847a7d1011590c7c52370bb1a77db9f150",
+      "title": "Smoke: Fine-grained Lineage at Interactive Speed"
+    },
+    {
+      "paperId": "ca418219d8a9260a43d35fb0317cacfed5b0ec48",
+      "title": "A survey on provenance: What for? What form? What from?"
+    },
+    {
+      "paperId": "d3a4b7ea5d1754622735deec9e1336300175ce97",
+      "title": "GPU Rasterization for Real-Time Spatial Aggregation over Arbitrary Polygons"
+    },
+    {
+      "paperId": "52b8301bc6fcf6d1bab75a5d798c7316bb57c2c0",
+      "title": "Position statement: The case for a visualization performance benchmark"
+    },
+    {
+      "paperId": "d5ffdc4ef467f3e058c171337ef78b13d8cd33f5",
+      "title": "How Progressive Visualizations Affect Exploratory Analysis"
+    },
+    {
+      "paperId": "2018dbd1e39df33b21a761bb984ddf47199cfc01",
+      "title": "I've Seen \"Enough\": Incrementally Improving Visualizations to Support Rapid Decision Making"
+    },
+    {
+      "paperId": "2d1ab0911fe6db7b8b2bdc77d6b4213d21ef1521",
+      "title": "Foresight: Recommending Visual Insights"
+    },
+    {
+      "paperId": "18217d68fca6b1f5305c80a733a4a717e3e35052",
+      "title": "Revisiting Reuse for Approximate Query Processing"
+    },
+    {
+      "paperId": "8ba469bb6760961a3454d708909432fac390b792",
+      "title": "Approximate Query Processing: No Silver Bullet"
+    },
+    {
+      "paperId": "277db5fdbbabd256ff5ff953117a5d58033eaad3",
+      "title": "Data Canopy: Accelerating Exploratory Statistical Analysis"
+    },
+    {
+      "paperId": "7094e98e7d71866bea0601f770ed1b6894cc8c9b",
+      "title": "Trust, but Verify: Optimistic Visualizations of Approximate Queries for Exploring Big Data"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "a4cd622f90c3603c91218d6794992e863cafd9e8",
+      "title": "Probabilistic Database Summarization for Interactive Data Exploration"
+    },
+    {
+      "paperId": "d5bf0f15e54ed30ca3da7d63473dd5b80ff74f20",
+      "title": "TopKube: A Rank-Aware Data Cube for Real-Time Exploration of Spatiotemporal Data"
+    },
+    {
+      "paperId": "c0952c44fad2f7adc473247fd16903ab8fb732d9",
+      "title": "Using GPUs to accelerate data discovery and visual analytics"
+    },
+    {
+      "paperId": "23cfc1e0047343e1972b2b9d9ded9ac3fd1c713b",
+      "title": "Interactive Time Series Exploration Powered by the Marriage of Similarity Distances"
+    },
+    {
+      "paperId": "cddfb34a35924b2958950deac3a6075f450e4519",
+      "title": "The TileDB Array Data Storage Manager"
+    },
+    {
+      "paperId": "18b55d802f0feafdc201429d809fc10e8313a351",
+      "title": "Cubrick: Indexing Millions of Records per Second for Interactive Analytics"
+    },
+    {
+      "paperId": "cbc5a93e03b3400a7d4281895fa687ec20d32af5",
+      "title": "Revisiting Reuse in Main Memory Database Systems"
+    },
+    {
+      "paperId": "ec2736a8644332e36516a6d08864f5f9cde8abb3",
+      "title": "Interactive Visualization of Large Data Sets"
+    },
+    {
+      "paperId": "decf0848124b91de05bf760e3a4916bb2d302532",
+      "title": "The case for interactive data exploration accelerators (IDEAs)"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "7d3e20562fd3fc0ab1a6fdbce5d5668c6e372418",
+      "title": "PFunk-H: approximate query processing using perceptual models"
+    },
+    {
+      "paperId": "f53e9e29f978bd09fe3d273c4812a0927d49fe98",
+      "title": "Dynamic Prefetching of Data Tiles for Interactive Visualization"
+    },
+    {
+      "paperId": "cf130b04f13bca531e9cbcc53bac3632c99e4bdc",
+      "title": "FluxQuery: An Execution Framework for Highly Interactive Query Workloads"
+    },
+    {
+      "paperId": "e794e6e9881c673d9dd63d823e10118b209cae62",
+      "title": "Wander Join: Online Aggregation via Random Walks"
+    },
+    {
+      "paperId": "28dd2601b4c1dc03faaf5fb978661355c795d09e",
+      "title": "Sample + Seek: Approximating Aggregates with Distribution Precision Guarantee"
+    },
+    {
+      "paperId": "7d3fd5626fdd9a1cbfe9ff19814567cbf1206b74",
+      "title": "iOLAP: Managing Uncertainty for Efficient Incremental OLAP"
+    },
+    {
+      "paperId": "fda9f74dd5607d7a617138f18cc8028e4eddaff4",
+      "title": "A GPU-based index to support interactive spatio-temporal queries over historical data"
+    },
+    {
+      "paperId": "4972aa1f7847c94e8fd129e403e5e5fb7e0b472e",
+      "title": "Making Sense of Temporal Queries with Interactive Visualization"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "a5d560ef928d0b9f6df2710c4ce66240ed6802b7",
+      "title": "Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization"
+    },
+    {
+      "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+      "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+    },
+    {
+      "paperId": "2f9b906648edf525a3419b83d626fa5eaeba64ab",
+      "title": "Spatial Online Sampling and Aggregation"
+    },
+    {
+      "paperId": "d330a3f4a73c0f54c8bfa299ba748f785de49180",
+      "title": "Bandlimited OLAP cubes for interactive big data visualization"
+    },
+    {
+      "paperId": "3357eede86832c2344e9a255e0520a01b6189393",
+      "title": "Visualization-aware sampling for very large databases"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "573e237d14ce62dc5fd0e70d23cb89b711c77d70",
+      "title": "On Improving User Response Times in Tableau"
+    },
+    {
+      "paperId": "046383d5413a2767623e2cb38f8575f25d69a4c7",
+      "title": "Personality as a Predictor of User Strategy: How Locus of Control Affects Search Strategies on Tree Visualizations"
+    },
+    {
+      "paperId": "19b93280f17696a4ddfa2c75490a50ab107addf2",
+      "title": "SHAHED: A MapReduce-based system for querying and visualizing spatio-temporal satellite data"
+    },
+    {
+      "paperId": "13f3f1f959586a3ef478a6a5b17182ea141b9bd3",
+      "title": "Rapid Sampling for Visualizations with Ordering Guarantees"
+    },
+    {
+      "paperId": "1ad1019d9eb5fb0f1833b8a98a52aee4a14fecdd",
+      "title": "Interactive data exploration with smart drill-down"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "e23b1d90bed2742663f723ebad00396c1811a12d",
+      "title": "Faster Visual Analytics through Pixel-Perfect Aggregation"
+    },
+    {
+      "paperId": "8147459346d1ddc7a466745d672d64fb3ff70d5a",
+      "title": "Leveraging compression in the tableau data engine"
+    },
+    {
+      "paperId": "008b18ee86a04bf65e461c9d77f56bcbc28c3788",
+      "title": "Explore-by-example: an automatic query steering framework for interactive data exploration"
+    },
+    {
+      "paperId": "5cdf74b1d7d8aacbb8207c9333694f3a8ed43aac",
+      "title": "Fine-grained partitioning for aggressive data skipping"
+    },
+    {
+      "paperId": "6bbf01a7520d80688ad63d947d3a500c2ec1ca20",
+      "title": "Druid: a real-time analytical data store"
+    },
+    {
+      "paperId": "aea9a087a8fe187550c6910c8b45205fd76e316f",
+      "title": "Indexing for interactive exploration of big data series"
+    },
+    {
+      "paperId": "44648552f1999482e860692c4ce7a6e21808592d",
+      "title": "Interactive data exploration using semantic windows"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "73a1116905643fad65c242c9f43e6b7fcc6b3aad",
+      "title": "M4: A Visualization-Oriented Time Series Data Aggregation"
+    },
+    {
+      "paperId": "befb28484716491fa8e06454a3b92c14ed4ed039",
+      "title": "The Case for Data Visualization Management Systems"
+    },
+    {
+      "paperId": "402f68ac3e61bea7b15c82d7290a57c44f4b9afa",
+      "title": "Distributed and interactive cube exploration"
+    },
+    {
+      "paperId": "65ac97f4eedd1a6a7bdbb3fee24f6ef4a37b0aec",
+      "title": "Better bitmap performance with Roaring bitmaps"
+    },
+    {
+      "paperId": "04700bcc5abfad47d11b67a2d9901f01c8f0adf5",
+      "title": "Shared Workload Optimization"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "bd6b9bf3f19ecc79393451ca00ae8e7904e5c758",
+      "title": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "35b7e8ad60cb357cd9457ca2687eb2ba37068bd6",
+      "title": "How Visualization Layout Relates to Locus of Control and Other Personality Factors"
+    },
+    {
+      "paperId": "dc39c68a00e38f2993b450eb01c96e1d032ab850",
+      "title": "imMens: Real\u2010time Visual Querying of Big Data"
+    },
+    {
+      "paperId": "e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+      "title": "Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems"
+    },
+    {
+      "paperId": "f2cd7eaaf3b9d14737156218682deb7fd09d4f6d",
+      "title": "Data Cube Materialization and Mining over MapReduce"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "f7214535a3f9e146674f5bb07d0fdb2b38e957cd",
+      "title": "Profiler: integrated statistical analysis and visualization for data quality assessment"
+    },
+    {
+      "paperId": "34629afcb7eaff5f42807b21254fb3b5d26b9189",
+      "title": "Skimmer: rapid scrolling of relational query results"
+    },
+    {
+      "paperId": "dcde277b200c49073a638e87a215fabcd41897e9",
+      "title": "Efficient spatial sampling of large geographical tables"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "320c606df1acb5883f432216ca8d21ee950f06bc",
+      "title": "A survey of view selection methods"
+    },
+    {
+      "paperId": "39c900c365f9d42e288f94cd48b4ceac33372799",
+      "title": "BlinkDB: queries with bounded errors and bounded response times on very large data"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "24c3330d34d640945e0eb99fe4a0b1c31695a8cb",
+      "title": "SharedDB: Killing One Thousand Queries With One Stone"
+    },
+    {
+      "paperId": "483015dc170d20e1a19828d493eff364cd7a42ce",
+      "title": "Online aggregation for large MapReduce jobs"
+    },
+    {
+      "paperId": "4cee6ce6fe921d95af849c9f4ca8e3946d6c6504",
+      "title": "An analytic data engine for visualization in tableau"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "ed12d49e1d5a77c6c3571eaec8fc6b63fd50fc36",
+      "title": "A Multi-Threading Architecture to Support Interactive Visual Exploration"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "f2d2cefb2307224154306742a531816292772a1b",
+      "title": "Rule-based multi-query optimization"
+    },
+    {
+      "paperId": "583c3a3460bd5c98068cfc46236414b1bb89ef5e",
+      "title": "The Coding Manual for Qualitative Researchers"
+    },
+    {
+      "paperId": "61275cd928ee72314c60d6d781d9ade754ff39c4",
+      "title": "Maintaining interactivity while exploring massive time series"
+    },
+    {
+      "paperId": "08b617df64c814c9314936226956b3d16d60444e",
+      "title": "Extensions of Parallel Coordinates for Interactive Exploration of Large Multi-Timepoint Data Sets"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "0cc96cb1c0ad3799e829e7109c88b1a5f14bcfdc",
+      "title": "Scalable multi-query optimization for exploratory queries over federated scientific databases"
+    },
+    {
+      "paperId": "4f05a78c2e2abf932915c33c6a2bb9c726ce4ac2",
+      "title": "Main-memory scan sharing for multi-core CPUs"
+    },
+    {
+      "paperId": "6561b6a55114cc1da9f0f09d0396bb6b508a6fe9",
+      "title": "Provenance for Computational Tasks: A Survey"
+    },
+    {
+      "paperId": "4f0ce9c66cb355619819de89ad71e5502471a4b8",
+      "title": "Cooperative Scans: Dynamic Bandwidth Sharing in a DBMS"
+    },
+    {
+      "paperId": "8cbb4188f4d59d67d497385a3973245a8e4f347e",
+      "title": "Optimized stratified sampling for approximate query processing"
+    },
+    {
+      "paperId": "626e01bb64a4b4665ac5b3e92a15ede49aa11bae",
+      "title": "Multi-Resolution Techniques for Visual Exploration of Large Time-Series Data"
+    },
+    {
+      "paperId": "41100b3f231238bb193adf6fd7fb5fe73dfa1e67",
+      "title": "A Hierarchy-Driven Compression Technique for Advanced OLAP Visualization of Multidimensional Data Cubes"
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "d61703c86799f7087b3ebb8feebd0d981f0d6d4e",
+      "title": "Communication and memory optimal parallel data cube construction"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "2809d4876e34b8c64fc1783fe6a0a278770505b0",
+      "title": "A survey of data provenance in e-science"
+    },
+    {
+      "paperId": "c96bcc4870aab325cdbf6df21ee38b8c3556ef5a",
+      "title": "MonetDB/X100 - A DBMS In The CPU Cache"
+    },
+    {
+      "paperId": "f10d32b741e910a5a55286a75167dc71f63fc049",
+      "title": "Steerable, Progressive Multidimensional Scaling"
+    },
+    {
+      "paperId": "4775e50bdc03917a50530b0d00651819cfb53e27",
+      "title": "High-Dimensional OLAP: A Minimal Cubing Approach"
+    },
+    {
+      "paperId": "541ddea3fa1cf2e22099f014101da492d12788b1",
+      "title": "Range cube: efficient cube computation by exploiting data correlation"
+    },
+    {
+      "paperId": "b059dd9ce723e7e1d4ed9b0edbcec9704cb06feb",
+      "title": "Constant density displays using diversity sampling"
+    },
+    {
+      "paperId": "1617586f7f9289767fffa199e0f6e28adf799ad5",
+      "title": "A quad-tree based multiresolution approach for two-dimensional summary data"
+    },
+    {
+      "paperId": "8f631e507751fa7af6a51e8b179acaef930375af",
+      "title": "Dynamic sample selection for approximate query processing"
+    },
+    {
+      "paperId": "72f54c95afde089c7ad8352837ac9a880b95efa1",
+      "title": "Prefetching for visual data exploration"
+    },
+    {
+      "paperId": "b9dcb0d963892fbe325df775dc358cdef035a809",
+      "title": "Multiscale visualization using data cubes"
+    },
+    {
+      "paperId": "e0bb18b8ada660e0afa1e0e88e402628441f27d0",
+      "title": "Dwarf: shrinking the PetaCube"
+    },
+    {
+      "paperId": "69a1f6e70359e1c215603c9d4b3a68bfdc952051",
+      "title": "Answering queries using views: A survey"
+    },
+    {
+      "paperId": "c0d4a23ef18db9fd2a94f7a34c6c685144a1b56a",
+      "title": "Dynamic Update Cube for Range-sum Queries"
+    },
+    {
+      "paperId": "0ce85e8fa08792d693897075998c7a0b0e45f1ae",
+      "title": "A robust, optimization-based approach for approximate answering of aggregate queries"
+    },
+    {
+      "paperId": "1374609a1403c58b172571204297c8140c556814",
+      "title": "Flexible Data Cubes for Online Aggregation"
+    },
+    {
+      "paperId": "7d86a9d9cfc4f61fe2f0133ae0b855f7c20fdadf",
+      "title": "Object-Based Selective Materialization for Efficient Implementation of Spatial Data Cubes"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "7e83484369f15cd39fb1a71d1b0f6a8af1a33818",
+      "title": "Space-Efficient Data Cubes for Dynamic Environments"
+    },
+    {
+      "paperId": "a35c622d7417e45a93e65264263779597e99d7d4",
+      "title": "Range queries in dynamic OLAP data cubes"
+    },
+    {
+      "paperId": "7d9ca1530efe937a1f7e14ff3980a5b0d71cc9dd",
+      "title": "Congressional samples for approximate answering of group-by queries"
+    },
+    {
+      "paperId": "ee9e0e6a890fcad1773caa4ea5c1b4089c83ea37",
+      "title": "i3: intelligent, interactive investigation of OLAP data cubes"
+    },
+    {
+      "paperId": "f09d4116b099e10d3a7bfcbfbfd04199b61e0596",
+      "title": "Materialized view selection and maintenance using multi-query optimization"
+    },
+    {
+      "paperId": "3b157fe6d3e7b2ee6eed6143ce9d988a54df6a59",
+      "title": "Efficient and extensible algorithms for multi query optimization"
+    },
+    {
+      "paperId": "2daa9ac06aa33ad884fda6f7a412b3c256e1483f",
+      "title": "Efficient and Extensible Algorithms for Multi Query Optimization"
+    },
+    {
+      "paperId": "1731b3ed73fca3f2a6cf44998aa66db69764a91e",
+      "title": "Online Dynamic Reordering for Interactive Data Processing"
+    },
+    {
+      "paperId": "0ba2babcec50fe4ebefeda092a55b3faf09d5d9f",
+      "title": "Interactive data Analysis: The Control Project"
+    },
+    {
+      "paperId": "da696840f88ae88eb15828e5a22518447e756aab",
+      "title": "The Aqua approximate query answering system"
+    },
+    {
+      "paperId": "1cf403460ff090be7740d58d89522567ca7dc094",
+      "title": "Approximate computation of multidimensional aggregates of sparse data using wavelets"
+    },
+    {
+      "paperId": "f0cadbed67d13a136ef0f75eac80615b0056b22c",
+      "title": "Maintaining data cubes under dimension updates"
+    },
+    {
+      "paperId": "71b38ff49c7b8ab7fea237b97616c95acaed456c",
+      "title": "Relative prefix sums: an efficient approach for querying dynamic OLAP data cubes"
+    },
+    {
+      "paperId": "31d2c9e85d395b0dcb48123d03b1b33440d389fb",
+      "title": "Small Materialized Aggregates: A Light Weight Index Structure for Data Warehousing"
+    },
+    {
+      "paperId": "bc4af0ae74288049c89633eded5b10a739bcb4c6",
+      "title": "Discovery-Driven Exploration of OLAP Data Cubes"
+    },
+    {
+      "paperId": "a0706370b9dd89a55beb0c489bd3127ce6b764f8",
+      "title": "DEVise: integrated querying and visual exploration of large datasets"
+    },
+    {
+      "paperId": "6a912e2c1f818a047bc620f475b6b6e3b0dbacfe",
+      "title": "Online aggregation"
+    },
+    {
+      "paperId": "845ed8da60d788ba330f0b796674cf51fbb49ccf",
+      "title": "On saying \u201cEnough already!\u201d in SQL"
+    },
+    {
+      "paperId": "348f8488ce65834ba2d170d0d9521bec50b032dd",
+      "title": "Range queries in OLAP data cubes"
+    },
+    {
+      "paperId": "55e5209159c987fc8f1a9ac50ba5aa09e02d158a",
+      "title": "Maintenance of data cubes and summary tables in a warehouse"
+    },
+    {
+      "paperId": "6cf4909d56f2bf9d5c3a414d6566700d9d44a8fa",
+      "title": "An overview of data warehousing and OLAP technology"
+    },
+    {
+      "paperId": "2ab832a4038fd894dbe45c1fd73853c70482abc5",
+      "title": "Implementing data cubes efficiently"
+    },
+    {
+      "paperId": "8033c9c25c5658982e032ad670a0c525a5d6bbfa",
+      "title": "Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals"
+    },
+    {
+      "paperId": "eb35aa48b342cf5733977ad2634701fe9c7cb603",
+      "title": "On the Multiple-Query Optimization Problem"
+    },
+    {
+      "paperId": "8041c62940015ef6cca1976545f97f47e738b0a2",
+      "title": "The R*-tree: an efficient and robust access method for points and rectangles"
+    },
+    {
+      "paperId": "725e70e293fcb70a648e8be762184a34b45b2c71",
+      "title": "The R+-Tree: A Dynamic Index for Multi-Dimensional Objects"
+    },
+    {
+      "paperId": "d22ba11e29165003309179ab679c272057960966",
+      "title": "Sampling for Scalable Visual Analytics"
+    },
+    {
+      "paperId": "01966ce1d04fdf5f5944679cc83f617e60c40c14",
+      "title": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "paperId": "9c85ebf58e0c033858834d43c7ef3783b0e2d203",
+      "title": "Behavior-driven optimization techniques for scalable data exploration"
+    },
+    {
+      "paperId": "7aea741d827a443a9df7ad75545b6b1c695dbd67",
+      "title": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "paperId": "01cecc93c5b8c0268399ee0530582c0e89f3b5c8",
+      "title": "Towards a Benchmark for Interactive Data Exploration"
+    },
+    {
+      "paperId": "d504eb1e192d0b4f702dfb21bcac75191c437736",
+      "title": "Author manuscript, published in \"International conference on Data Engineering (2011)\" EdiFlow: data-intensive interactive workflows for visual analytics"
+    },
+    {
+      "paperId": "65c46b04244c194aafe5cff074e824b4aad081ce",
+      "title": "SciBORQ: Scientific data management with Bounds On Runtime and Quality"
+    },
+    {
+      "paperId": "8605efd48eab192b78f1f666ffd7fba6744494e1",
+      "title": "Database Cracking"
+    },
+    {
+      "paperId": "5db6758cf3cff9f36f8b8133cfbe1de0b379fab5",
+      "title": "SQL Server\u6570\u636e\u590d\u5236\uff08\u4e0a\uff09"
+    },
+    {
+      "paperId": "82e63bfc77c66eb8c3146cbfd53d64d12dc53aba",
+      "title": "Implementing Data Cubes E ciently"
+    },
+    {
+      "paperId": null,
+      "title": "conducted a formal literature search of the last 20 years of data management research by inspecting the titles and abstracts of every paper in this time frame that was published at"
+    },
+    {
+      "paperId": null,
+      "title": "Tabu-lar Datasets for Flexible Visual Query"
+    }
+  ]
+}

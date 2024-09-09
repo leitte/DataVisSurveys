@@ -1,0 +1,841 @@
+{
+  "paperId": "0f9e34230cb90535b0bcfead1defbdbd1703d8fe",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ChenCWC24",
+    "ArXiv": "2206.12118",
+    "DOI": "10.1109/TVCG.2023.3261320",
+    "CorpusId": 250048703,
+    "PubMed": "37030780"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/0f9e34230cb90535b0bcfead1defbdbd1703d8fe",
+  "title": "How Does Automation Shape the Process of Narrative Visualization: A Survey of Tools",
+  "abstract": "In recent years, narrative visualization has gained much attention. Researchers have proposed different design spaces for various narrative visualization genres and scenarios to facilitate the creation process. As users\u2019 needs grow and automation technologies advance, increasingly more tools have been designed and developed. In this study, we summarized six genres of narrative visualization (annotated charts, infographics, timelines & storylines, data comics, scrollytelling & slideshow, and data videos) based on previous research and four types of tools (design spaces, authoring tools, ML/AI-supported tools and ML/AI-generator tools) based on the intelligence and automation level of the tools. We surveyed 105 papers and tools to study how automation can progressively engage in visualization design and narrative processes to help users easily create narrative visualizations. This research aims to provide an overview of current research and development in the automation involvement of narrative visualization tools. We discuss key research problems in each category and suggest new opportunities to encourage further research in the related domain.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 190,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/4359476/10081398.pdf",
+    "status": "BRONZE"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-06-24",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "4429-4448",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2022HowDA,\n author = {Qing Chen and Shixiong Cao and Jiazhe Wang and Nan Cao},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {4429-4448},\n title = {How Does Automation Shape the Process of Narrative Visualization: A Survey of Tools},\n volume = {30},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2152520175",
+      "name": "Qing Chen"
+    },
+    {
+      "authorId": "2072593582",
+      "name": "Shixiong Cao"
+    },
+    {
+      "authorId": "2124913650",
+      "name": "Jiazhe Wang"
+    },
+    {
+      "authorId": "2163708412",
+      "name": "Nan Cao"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e8e6f2bc4bcf4b5597b860b3a700e9aa3ce6d56a",
+      "title": "South Korea in 2023"
+    },
+    {
+      "paperId": "fc8e871457e5902b5322ea68aa45881e3086fa9b",
+      "title": "CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling"
+    },
+    {
+      "paperId": "df035598fe63a2a96c4cb7dced55a62405be724d",
+      "title": "Towards Design Guidelines for Effective Health-Related Data Videos: An Empirical Investigation of Affect, Personality, and Video Content"
+    },
+    {
+      "paperId": "9026f28076b40dcf1a11cfb23c3ff42dfc2544fa",
+      "title": "Playing games through interactive data comics to explore water quality in a lake: A case study exploring the use of a data-driven storytelling method in Co-design"
+    },
+    {
+      "paperId": "fd1c1d48bfe19b5b3e2c69edfadace6ebc6f2043",
+      "title": "Annotating Line Charts for Addressing Deception"
+    },
+    {
+      "paperId": "6085428d3d9862282fddf5698b5320caf3f0164a",
+      "title": "Beyond the Learning Analytics Dashboard: Alternative Ways to Communicate Student Data Insights Combining Visualisation, Narrative and Storytelling"
+    },
+    {
+      "paperId": "bb82af40dd1091df20084123aa0587032d121f03",
+      "title": "From \u2018Wow\u2019 to \u2018Why\u2019: Guidelines for Creating the Opening of a Data Video with Cinematic Styles"
+    },
+    {
+      "paperId": "beeaaa8516705e30bca427732e907f8051bfd30d",
+      "title": "A Mixed-Initiative Approach to Reusing Infographie Charts"
+    },
+    {
+      "paperId": "0cb653cb2017658b52e136644cd29d2bca5ffda1",
+      "title": "Kineticharts: Augmenting Affective Expressiveness of Charts in Data Stories with Animation Design"
+    },
+    {
+      "paperId": "f79f6dcf7c89a0acd038aae8feb02c023f986d37",
+      "title": "Augmenting Sports Videos with VisCommentator"
+    },
+    {
+      "paperId": "b0286d57681a79da16215d27016513ef4b693cad",
+      "title": "User-Centric Semi-Automated Infographics Authoring and Recommendation"
+    },
+    {
+      "paperId": "673acaafc7ebb634f28221047863c46711ed38f6",
+      "title": "Kori: Interactive Synthesis of Text and Charts in Data Documents"
+    },
+    {
+      "paperId": "40c8d0b02ccf5add72f92d11aed5be54a2fb332c",
+      "title": "Gemini2: Generating Keyframe-Oriented Animated Transitions Between Statistical Graphics"
+    },
+    {
+      "paperId": "e75a384cdc0da9c38634f2150e232fed9634a9d2",
+      "title": "Perception! Immersion! Empowerment!: Superpowers as Inspiration for Visualization"
+    },
+    {
+      "paperId": "07aba347fa86e382dcad94c380d5cdde0ae8768f",
+      "title": "Interactive Data Comics"
+    },
+    {
+      "paperId": "457b92e7ae39a25f36beaa6a49e3b7b7a98351eb",
+      "title": "AutoClips: An Automatic Approach to Video Generation from Data Facts"
+    },
+    {
+      "paperId": "ad4f1140cbc6e22841caed2baf7ad184475f1e51",
+      "title": "Animated Presentation of Static Infographics with InfoMotion"
+    },
+    {
+      "paperId": "821929687b5925f9d69430c4166a73935ae1a2fc",
+      "title": "Data Animator: Authoring Expressive Animated Data Graphics"
+    },
+    {
+      "paperId": "db16ab6c17292af2307146fa72c5128a82b90dd0",
+      "title": "Communicating with Motion: A Design Space for Animated Visual Narratives in Data Videos"
+    },
+    {
+      "paperId": "bcc673a68e752f837250ae914624dedf05472e75",
+      "title": "Leveraging Text-Chart Links to Support Authoring of Data-Driven Articles with VizFlow"
+    },
+    {
+      "paperId": "9ef46134e4b21fbfbe51a6c2560d7e347ca9466a",
+      "title": "CAST: Authoring Data-Driven Chart Animations"
+    },
+    {
+      "paperId": "7605b4f39071c8f7fb0f6adbe349584d67459d35",
+      "title": "ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics"
+    },
+    {
+      "paperId": "0f9dfc485d67120364bc2723c087ee31766f7f57",
+      "title": "Understanding Narrative Linearity for Telling Expressive Time-Oriented Stories"
+    },
+    {
+      "paperId": "1d543f3e08974a484d8f83844eba45d68f2245da",
+      "title": "Smile or Scowl? Looking at Infographic Design Through the Affective Lens"
+    },
+    {
+      "paperId": "ae95a664513bacebccb58c68c93ac8a7b5656beb",
+      "title": "Automatic Generation of Unit Visualization-based Scrollytelling for Impromptu Data Facts Delivery"
+    },
+    {
+      "paperId": "1e1d18fb0647676dafd4b5d1ece61a3eb0aee28c",
+      "title": "ChartStory: Automated Partitioning, Layout, and Captioning of Charts into Comic-Style Narratives"
+    },
+    {
+      "paperId": "11993832e79b684e2c2c7f2cf1d20a3b9286629b",
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "c8c96fba43402ac5620312a558b592c0df2eb13f",
+      "title": "Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online"
+    },
+    {
+      "paperId": "7699389c6d4c94e578f3fe8f2fec0974fe39eb4e",
+      "title": "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
+    },
+    {
+      "paperId": "929cb414d8cb485893d34b39133fe0f246402ddd",
+      "title": "Chartem: Reviving Chart Images with Data Embedding"
+    },
+    {
+      "paperId": "9175ce09761d59daa3eac6052ce7e07c18bb5cbc",
+      "title": "Data Physicalization"
+    },
+    {
+      "paperId": "4ba32135a6a16c02da96e869e703034732e05a1c",
+      "title": "Calliope: Automatic Visual Data Story Generation from a Spreadsheet"
+    },
+    {
+      "paperId": "8379ab45730f7f8aea9a0630c27ac4841f99928b",
+      "title": "Fast and Flexible Overlap Detection for Chart Labeling with Occupancy Bitmap"
+    },
+    {
+      "paperId": "9ed27aa9ff3a780ffecfdcbee57c1f7abd80c296",
+      "title": "Narrative Physicalization: Supporting Interactive Engagement With Personal Data"
+    },
+    {
+      "paperId": "d0d25d882214bf44201e328a5e8443fe3abacd7e",
+      "title": "Improving Engagement of Animated Visualization with Visual Foreshadowing"
+    },
+    {
+      "paperId": "ce057ece4d223923e347935315911b7718dc3221",
+      "title": "VisCode: Embedding Information in Visualization Images using Encoder-Decoder Network"
+    },
+    {
+      "paperId": "1003e33dffdc7c112c060e73f5e073be539b7d1c",
+      "title": "Data Comics for Reporting Controlled User Studies in Human-Computer Interaction"
+    },
+    {
+      "paperId": "1d926855fe85771932393dafa1ba6f5342233cfd",
+      "title": "Data-First Visualization Design Studies"
+    },
+    {
+      "paperId": "c58fe9cfecc7f1717003d2f973ee5880ffc2f0dc",
+      "title": "Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes"
+    },
+    {
+      "paperId": "392a2b92a0be230f8bb2a26c0e70cebc11ad6ff9",
+      "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning"
+    },
+    {
+      "paperId": "8b5e8e91bcaec2de998737b181bb4638e4e77553",
+      "title": "A survey on automatic infographics and visualization recommendations"
+    },
+    {
+      "paperId": "d099b4140de83643c8ca08c253e9adb04e34b432",
+      "title": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "paperId": "a52bf86cc32e81bd440f947516c1d977f5d1ca35",
+      "title": "QualDash: Adaptable Generation of Visualisation Dashboards for Healthcare Quality Improvement"
+    },
+    {
+      "paperId": "65472aceaeb5843ab3a135aaef72497931e3eda9",
+      "title": "Storyline Visualizations with Ubiquitous Actors"
+    },
+    {
+      "paperId": "9edbc3a0f8c58961807f3c6991957399a4083516",
+      "title": "Immersive visual scripting based on VR software design patterns for experiential training"
+    },
+    {
+      "paperId": "01e16b5caec932b087288db225fe550c0592791d",
+      "title": "Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "4bcb2a5671697ae41cd8829eb777cb089d8c68e3",
+      "title": "Understanding the Design Space and Authoring Paradigms for Animated Data Graphics"
+    },
+    {
+      "paperId": "89bb30eeaf780b54918babcec08d922e93518d0c",
+      "title": "AutoCaption: An Approach to Generate Natural Language Description from Visualization Automatically"
+    },
+    {
+      "paperId": "8514196b1096dcabb93746e9df83fa54eeedd801",
+      "title": "Infomages: Embedding Data into Thematic Images"
+    },
+    {
+      "paperId": "bfcb79f18dffe2777d49dd5bca6afcb3ee7244b5",
+      "title": "DataQuilt: Extracting Visual Elements from Images to Craft Pictorial Visualizations"
+    },
+    {
+      "paperId": "47be06b0be0207f87b67da68fb30bdea366eefa1",
+      "title": "Exploring Visual Information Flows in Infographics"
+    },
+    {
+      "paperId": "1c76d508758143e849855609c993c25e51853ac9",
+      "title": "Generating Audio-Visual Slideshows from Text Articles Using Word Concreteness"
+    },
+    {
+      "paperId": "37460184dc91dea37cd7ce690789b38f43b87111",
+      "title": "Design guidelines for augmenting short-form videos using animated data visualizations"
+    },
+    {
+      "paperId": "f386811048c29817d3f624eb5df63c041cfab6e1",
+      "title": "LADV: Deep Learning Assisted Authoring of Dashboard Visualizations From Images and Sketches"
+    },
+    {
+      "paperId": "31466572cd768219d0b3418c98740d8a6728e92a",
+      "title": "Examining the use of narrative constructs in data videos"
+    },
+    {
+      "paperId": "a0d763d183d735201249c21f1afdeb025c49f112",
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data"
+    },
+    {
+      "paperId": "b61cd1e80ecc20d5efd0a4c6c568d4634435088a",
+      "title": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "paperId": "9e575554ecd9a4b21991e2a613996420246f0b40",
+      "title": "Text-to-Viz: Automatic Generation of Infographics from Proportion-Related Natural Language Statements"
+    },
+    {
+      "paperId": "3ab7c7fd0a24cb8fad32f227afae4327a02eee26",
+      "title": "Data Storytelling with Dashboard: Accelerating Understanding Through Data Visualization in Financial Technology Company Case Study"
+    },
+    {
+      "paperId": "76cb3c2393d1531c4f040c3150e33e3582b78446",
+      "title": "Extending a dashboard meta-model to account for users' characteristics and goals for enhancing personalization"
+    },
+    {
+      "paperId": "18417a253f333a17bac4f91b7273958c71eeeceb",
+      "title": "Teaching Data Visualization and Storytelling with Data Comic Workshops"
+    },
+    {
+      "paperId": "75aab2a4cb4648ba50e1de93f1ecf4d83c3e57a2",
+      "title": "Comparing Effectiveness and Engagement of Data Comics and Infographics"
+    },
+    {
+      "paperId": "e4766d5893b893246be2a49e68765261169086f7",
+      "title": "DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data"
+    },
+    {
+      "paperId": "546bc0d8ca87e051edcf4fcad0548d204dc7e8e7",
+      "title": "DataToon: Drawing Dynamic Network Comics With Pen + Touch Interaction"
+    },
+    {
+      "paperId": "5cd41d1c31395310c349923869792a5705502d9c",
+      "title": "Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring"
+    },
+    {
+      "paperId": "736266444b669992c892e5c5a51696845612b4b2",
+      "title": "Medical Graphic Narratives to Improve Patient Comprehension and Periprocedural Anxiety Before Coronary Angiography and Percutaneous Coronary Intervention: A Randomized Trial"
+    },
+    {
+      "paperId": "0eacd362c02dcdba4a61028a05114a2ba8a2a92b",
+      "title": "Understanding Partitioning and Sequence in Data-Driven Storytelling"
+    },
+    {
+      "paperId": "ccecc2a825f69ba0abaae03553f659c34baf6ab1",
+      "title": "Automatically Generating Engaging Presentation Slide Decks"
+    },
+    {
+      "paperId": "83e5d6feb959cebc0a07e138313a293f077ff6ad",
+      "title": "Guiding the choice of learning dashboard visualizations: Linking dashboard design and data visualization concepts"
+    },
+    {
+      "paperId": "0b0549975c366abac203294099da2e3ac9e87172",
+      "title": "iStoryline: Effective Convergence to Hand-drawn Storylines"
+    },
+    {
+      "paperId": "5ca9f988d3b3cbe037a841888e4f6985a24fcc35",
+      "title": "What Do We Talk About When We Talk About Dashboards?"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "67760fbd5909120ea46a99cd917ec58ebbc074ae",
+      "title": "SmartCues: A Multitouch Query Approach for Details-on-Demand through Dynamically Computed Overlays"
+    },
+    {
+      "paperId": "4ca78b6ad167cb25e46e6908b36122be2eeb6077",
+      "title": "Timeline Storyteller: The Design & Deployment of an Interactive Authoring Tool for Expressive Timeline Narratives"
+    },
+    {
+      "paperId": "4fca64e6dc4e803d3ed904c04c6845a9e6adc53e",
+      "title": "Idyll: A Markup Language for Authoring and Publishing Interactive Articles on the Web"
+    },
+    {
+      "paperId": "83f27bdaef030432375f856797b0659ef25da2b1",
+      "title": "Towards an Open Authoring Tool for Accessible Slide Presentations"
+    },
+    {
+      "paperId": "5fb095892aabeeaa9c94965088e2ae9a22f3b887",
+      "title": "Scrollytelling \u2013 An Analysis of Visual Storytelling in Online Journalism"
+    },
+    {
+      "paperId": "c2c50b686a1bc969671532ee32a69c3e3fcb91ee",
+      "title": "The Influence of Infographics in Accessing Information: Multidimensionality in Visual Representation and Configuration of Different Media"
+    },
+    {
+      "paperId": "679c780127ce31f2602c3cb5bb4c3ab93ff0eab8",
+      "title": "InfoNice: Easy Creation of Information Graphics"
+    },
+    {
+      "paperId": "24e81f87acdfb0fdf5aa0dfad2db889bc084cc5b",
+      "title": "DataInk: Direct and Creative Data-Oriented Drawing"
+    },
+    {
+      "paperId": "00fb03939dba85baf1a48267c27682e6ab4f4299",
+      "title": "Design Patterns for Data Comics"
+    },
+    {
+      "paperId": "26d45d8bc58bfb43d3c4603321b8201219a08e32",
+      "title": "Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring"
+    },
+    {
+      "paperId": "f7855a3e7532c7ce9fab87e6298e470cfa2d6a6b",
+      "title": "Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data"
+    },
+    {
+      "paperId": "cc53c188ffe35d4c1a073875f4c113d1c76d82e2",
+      "title": "Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks"
+    },
+    {
+      "paperId": "735222818fca62f36b40617a8db37d74b1f6e19f",
+      "title": "DeepEye: Towards Automatic Data Visualization"
+    },
+    {
+      "paperId": "2f0682809a7b717501950b97e7039751af6b5651",
+      "title": "Storytelling and Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "57492e6f4dc675352226000a3bdfef4651ea23ea",
+      "title": "Timelines Revisited: A Design Space and Considerations for Expressive Storytelling"
+    },
+    {
+      "paperId": "8607bb0320b4fe869fad6472ff49b4086720d52f",
+      "title": "Internal and External Visual Cue Preferences for Visualizations in Presentations"
+    },
+    {
+      "paperId": "4c6439cb9d0f56d2061828703cce37cc6f151015",
+      "title": "Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences"
+    },
+    {
+      "paperId": "8ceb4040c5f3e962142601c243ae26778bb3994a",
+      "title": "The Emerging Genre of Data Comics"
+    },
+    {
+      "paperId": "480bca220284d4b811ec2575fe44e57132b3bb3d",
+      "title": "Towards Adaptive Dashboards for Learning Analytic - An Approach for Conceptual Design and Implementation"
+    },
+    {
+      "paperId": "58410da56a7ae9cac486ed288f1ebef9091c59a6",
+      "title": "ChartAccent: Annotation for data-driven storytelling"
+    },
+    {
+      "paperId": "20aeb2357e9e215787c7e0d0acfe7a6b598c9103",
+      "title": "ggplot2 - Elegant Graphics for Data Analysis (2nd Edition)"
+    },
+    {
+      "paperId": "bb302681d13c14d3a7d2065d56c3ec4e4d8237a2",
+      "title": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "paperId": "3b5f64be91c5cd2620b74790bc834c63dabe41f9",
+      "title": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "paperId": "2a5be957a9126781fb0a7d045f9dc69df8def676",
+      "title": "Animated narrative visualization for video clickstream data"
+    },
+    {
+      "paperId": "678eb33fae2854c0250c0fe7d55fd30282db8a2a",
+      "title": "Beyond the Narrative Visualization of Infographics on European Issues"
+    },
+    {
+      "paperId": "ceb225d434b1c3b192e6b57b0e590eca3914e2be",
+      "title": "Crossing Minimization in Storyline Visualization"
+    },
+    {
+      "paperId": "eb4f2748440abca3e7e3b8ef54d88fbc3ec5bf3f",
+      "title": "TimeSets: Timeline visualization with set relations"
+    },
+    {
+      "paperId": "01d38fa67b449cadef456f1539b487f50d4b2071",
+      "title": "Infographics or Graphics+Text: Which Material is Best for Robust Learning?"
+    },
+    {
+      "paperId": "d3d4c5dafcc4ccffbb523a47c2513526ede21b73",
+      "title": "Towards a Design Space for Multisensory Data Representation"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "d70226265a1e2530db39b56fe83d9af452564f89",
+      "title": "TimeLineCurator: Interactive Authoring of Visual Timelines from Unstructured Text"
+    },
+    {
+      "paperId": "3cf84847753ccb5e53c46711881841475258bb5d",
+      "title": "Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data"
+    },
+    {
+      "paperId": "058354f2aa0c1a66d931624c1e838f32663294e7",
+      "title": "Getting graphic about infographics: design lessons learned from popular infographics"
+    },
+    {
+      "paperId": "a9ae3c6f624fc5004d1066e7a698a7ab2353bb52",
+      "title": "Supporting Clinical Cognition: A Human-Centered Approach to a Novel ICU Information Visualization Dashboard"
+    },
+    {
+      "paperId": "51eae7e8607df75132909927ae453a29117cc132",
+      "title": "Infographics And Public Policy: Using Data Visualization To Convey Complex Information."
+    },
+    {
+      "paperId": "fe0d5a2f6d5ba13906ac5ed2e82817986e9c4106",
+      "title": "More Than Telling a Story: Transforming Data into Visually Shared Stories"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "485531afcff73f2f961a15a9eee6fc06b6150c0b",
+      "title": "Understanding Data Videos: Looking at Narrative Visualization through the Cinematography Lens"
+    },
+    {
+      "paperId": "bc2e8d144aefcf16331a6338cd626a10aaae81d1",
+      "title": "Infographic Aesthetics: Designing for the First Impression"
+    },
+    {
+      "paperId": "b613ae966f6cc0e10a72804a83f90f176a9c6567",
+      "title": "The relation between visualization size, grouping, and user performance"
+    },
+    {
+      "paperId": "b8930022e174935cc3b307fee26e5b9a59400375",
+      "title": "Design Activity Framework for Visualization Design"
+    },
+    {
+      "paperId": "6979c7226b09b6083ece0a0c0bbca83192541e57",
+      "title": "Immersive and collaborative data visualization using virtual reality platforms"
+    },
+    {
+      "paperId": "aa7d0cf20e4d30e0dd9dc0e3c1ba1eaccd62babb",
+      "title": "Infographics: Horrid chartjunk or quality communication"
+    },
+    {
+      "paperId": "a80691535df398fb891f3a22697566fa1e914283",
+      "title": "Restructuring Dynamically Analytical Dashboards Based on Usage Profiles"
+    },
+    {
+      "paperId": "b90bad831de7b112b6759fbdff00209fe6aa0320",
+      "title": "Authoring Narrative Visualizations with Ellipsis"
+    },
+    {
+      "paperId": "ef96938202d4b338b4b6b265c8305c7d056a5815",
+      "title": "A Deeper Understanding of Sequence in Narrative Visualization"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "1fdf9a918b8f549a30db2d191cb4796e6a67c99e",
+      "title": "StoryFlow: Tracking the Evolution of Stories"
+    },
+    {
+      "paperId": "bc93bfc83644e48a8d58208e31e5e605ccadf607",
+      "title": "SketchStory: Telling More Engaging Stories with Data through Freeform Sketching"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "c9ad3344c3f109d62cfcafacece402bc1a3d1deb",
+      "title": "Contextifier: automatic generation of annotated stock visualizations"
+    },
+    {
+      "paperId": "a88d7d5bed8f7b30b5ac50a1b250000ec4913f66",
+      "title": "Design Considerations for Optimizing Storyline Visualizations"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "50fc6e1002d365c21fb6d372f76b332b04e26af3",
+      "title": "Graphical Overlays: Using Layered Elements to Aid Chart Reading"
+    },
+    {
+      "paperId": "7a807a71cfba96f65625e5e8ac67db30b3892c95",
+      "title": "Just-in-time annotation of clusters, outliers, and trends in point-based data visualizations"
+    },
+    {
+      "paperId": "7115f61ef9db5bc4ace8bbc1a70811a1f7167eed",
+      "title": "Annotating BI visualization dashboards: needs & challenges"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "537a94e3250153310f5920dce370df08612f7fa7",
+      "title": "Visualization Rhetoric: Framing Effects in Narrative Visualization"
+    },
+    {
+      "paperId": "ca1bdc912c8891b76aef8c5ab60306f0d512aa63",
+      "title": "Exploration Views: Understanding Dashboard Creation and Customization for Visualization Novices"
+    },
+    {
+      "paperId": "dde9fc643169d4be2222dc9df00aea7977a1f459",
+      "title": "Playable data: characterizing the design space of game-y infographics"
+    },
+    {
+      "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+      "title": "The Design Space of Implicit Hierarchy Visualization: A Survey"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "bb881ffbfff4807347ee2d410baf9f3894f9556e",
+      "title": "Touch2Annotate: generating better annotations with less human effort on multi-touch interfaces"
+    },
+    {
+      "paperId": "5082ba362b83821dd663de2d15eed205f46982b9",
+      "title": "Connecting the dots in visual analysis"
+    },
+    {
+      "paperId": "39c7fa13d45f5e0074419b1be532744a33d3c066",
+      "title": "Influence of the mode of graphical representation on the perception of product aesthetic and emotional features: An exploratory study"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "ddeded00b4c518f79d92ba3cffb490202127c3f6",
+      "title": "Design space conceptual tool \u2013 grasping the design process"
+    },
+    {
+      "paperId": "36f23167f7d1d4650a7b15f8b49c40fb8f79dfeb",
+      "title": "Annotation: from paper books to the digital library"
+    },
+    {
+      "paperId": "16bd1d2716887808d8efc376ae08a7681b85c188",
+      "title": "Spotfire: an information exploration environment"
+    },
+    {
+      "paperId": "83253ce5882d01481c6597b480740a188964d080",
+      "title": "Narrative Discourse, an Essay in Method."
+    },
+    {
+      "paperId": "71654b4e713c36050294fe4bc609dda2ccd61911",
+      "title": "SandSlide: Automatic Slideshow Normalization"
+    },
+    {
+      "paperId": "33f40d1083bf89cc5142faab643b6c01de3eda5c",
+      "title": "infogram"
+    },
+    {
+      "paperId": "905c6b08557252253be51e09cf397a73837f4e89",
+      "title": "Visualizing Nonlinear Narratives with Story Curves"
+    },
+    {
+      "paperId": "8627248c6e3c3e316e3964d12e0a44e23aa969f3",
+      "title": "Automated Annotations"
+    },
+    {
+      "paperId": "897ba4ea5abd0c3b97284870a81deb958e9863dd",
+      "title": "The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?"
+    },
+    {
+      "paperId": "864a166055339d93214ba72118360dfa34f68d6f",
+      "title": "Immersive Visual Data Stories"
+    },
+    {
+      "paperId": null,
+      "title": "Research on Knowledge Visualization in Healthcare Shared Decision-making"
+    },
+    {
+      "paperId": "05feaac89792639cb9898438863cf72f998f11ad",
+      "title": "INFOGRAPHICS IN EDUCATION: REVIEW ON INFOGRAPHICS DESIGN"
+    },
+    {
+      "paperId": "b6e790fbcd570905b7b601463da71df990355543",
+      "title": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "paperId": "e7d90bd8ce5b8bbdad294a27ac64dbd918d93861",
+      "title": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "paperId": "db11c781b1d5fefd9cd41be4eb795aaef882bb54",
+      "title": "Digitale Langformen im Journalismus und Corporate Publishing"
+    },
+    {
+      "paperId": "6e918075956f23fb2f46b85c1b834856b7b21715",
+      "title": "Narrative Discourse An Essay In Method"
+    },
+    {
+      "paperId": "43f6a7a70a9cc3dfdaec99f0c240a04830191827",
+      "title": "Data Comics: Sequential Art for Data-Driven Storytelling"
+    },
+    {
+      "paperId": "373ace4d55804b59a8302de7ccb3faf0a311f7d1",
+      "title": "Development of the Learning Analytics Dashboard to Support Students' Learning Performance"
+    },
+    {
+      "paperId": "e403f0912674191f40423655ed87b13c9ac6f920",
+      "title": "Scientific Storytelling Using Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Timeline of the universe"
+    },
+    {
+      "paperId": "d23b3b1e82952bd045a958c4e52117f6fbb4676f",
+      "title": "The PHD degree"
+    },
+    {
+      "paperId": null,
+      "title": "Online; Accessed: 2023-02-14"
+    },
+    {
+      "paperId": null,
+      "title": "Webalon"
+    },
+    {
+      "paperId": null,
+      "title": "Timelinesetter"
+    },
+    {
+      "paperId": "6e5235dd492c3039c21c98c1d8a0db066581b0be",
+      "title": "Expanding Design Space : Design-In-Use Activities and Strategies"
+    },
+    {
+      "paperId": "13b5c5d7c1f9c22b884407288401206e862ffe48",
+      "title": "Explorative graph visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Qliksense"
+    },
+    {
+      "paperId": "53c44179d2d9b23ed00eee8c05109fd3e5a24135",
+      "title": "For more information:"
+    },
+    {
+      "paperId": null,
+      "title": "Bohemian Coding"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSketch - professional digital design for mac,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Dipity"
+    },
+    {
+      "paperId": null,
+      "title": "Dashboard confusion revisited. Perceptual Edge"
+    },
+    {
+      "paperId": null,
+      "title": "Tableau"
+    },
+    {
+      "paperId": "044f136facb3d814a2a55cd360fcc940c9c61943",
+      "title": "Meta-design: A Framework for the Future of End-User Development"
+    },
+    {
+      "paperId": "6a630ac89d7c0a57eb7bf4cb30dd5946bcf3ccce",
+      "title": "google,\u6211,\u8428\u5a1c"
+    },
+    {
+      "paperId": "19429326d2cfcb6f7acd8be3c2a871f4896f7405",
+      "title": "Keynote"
+    },
+    {
+      "paperId": "3c670a6cfdee23a3a8667a567637e8bf7eb4a6de",
+      "title": "PowerPoint\u201c\u95ea\u4eae\u201d\u6280\u5de7\u4e5d\u5219"
+    },
+    {
+      "paperId": "0d44d5e8a9ecdc44e480ca42497675dc114435a6",
+      "title": "\u57f9\u8bad\u7ad9Adobe Illustrator(\u4e09)"
+    },
+    {
+      "paperId": "c88fe4abf9a5e3146e736ff7bdb02f082198e5f0",
+      "title": "ADOBE SYSTEMS INCORPORATED"
+    },
+    {
+      "paperId": "0681f442c9beedb445a5aac17310fb53a94b79c5",
+      "title": "Ieee Computer Graphics and Applications 83 Applications Lessons Learned from Designing Visualization Dashboards Design Examples"
+    },
+    {
+      "paperId": null,
+      "title": "Amit Prakash Sudheesh Nair, Ajeet Singh"
+    },
+    {
+      "paperId": null,
+      "title": "the Department of University and her Ph Department of Computer"
+    },
+    {
+      "paperId": null,
+      "title": "After receiving her PhD degree, she worked as a postdoc at Inria and Ecole Polytech-nique"
+    },
+    {
+      "paperId": null,
+      "title": "HOW DOES AUTOMATION SHAPE THE PROCESS OF NARRATIVE VISUALIZATION: A SURVEY OF TOOLS"
+    },
+    {
+      "paperId": null,
+      "title": "received her B.Eng degree from the Department of Computer Science, Zhejiang University and her Ph.D. degree from the Department of Computer Science and Engineering"
+    },
+    {
+      "paperId": null,
+      "title": "received his Master\u2019s degree from the Department of Computer Science, University of Oxford"
+    },
+    {
+      "paperId": null,
+      "title": "human-computer interaction, online education, storytelling, intelligent healthcare and design"
+    },
+    {
+      "paperId": null,
+      "title": "Chartstory: This work is licensed under a Creative Commons Attribution 4.0 License. For"
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+  "externalIds": {
+    "ArXiv": "2102.01330",
+    "DBLP": "journals/tvcg/WuWSMCZZQ22",
+    "DOI": "10.1109/TVCG.2021.3099002",
+    "CorpusId": 236090307,
+    "PubMed": "34310306"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/fe44f4471e0e774bf173c03697e85843a886ed33",
+  "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization",
+  "abstract": "Visualizations themselves have become a data format. Akin to other data formats such as text and images, visualizations are increasingly created, stored, shared, and (re-)used with artificial intelligence (AI) techniques. In this survey, we probe the underlying vision of formalizing visualizations as an emerging data format and review the recent advance in applying AI techniques to visualization data (AI4VIS). We define visualization data as the digital representations of visualizations in computers and focus on data visualization (e.g., charts and infographics). We build our survey upon a corpus spanning ten different fields in computer science with an eye toward identifying important common interests. Our resulting taxonomy is organized around WHAT is visualization data and its representation, WHY and HOW to apply AI to visualization data. We highlight a set of common tasks that researchers apply to the visualization data and present a detailed discussion of AI approaches developed to accomplish those tasks. Drawing upon our literature review, we discuss several important research questions surrounding the management and exploitation of visualization data, as well as the role of AI in support of those processes. We make the list of surveyed papers and related material available online at.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 161,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2102.01330",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-02-02",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "5049-5070",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wu2021AI4VISSO,\n author = {Aoyu Wu and Yun Wang and Xinhuan Shu and Dominik Moritz and Weiwei Cui and Haidong Zhang and Dongmei Zhang and Huamin Qu},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {5049-5070},\n title = {AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization},\n volume = {28},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "66348205",
+      "name": "Aoyu Wu"
+    },
+    {
+      "authorId": "2118375601",
+      "name": "Yun Wang"
+    },
+    {
+      "authorId": "30410077",
+      "name": "Xinhuan Shu"
+    },
+    {
+      "authorId": "1714104",
+      "name": "Dominik Moritz"
+    },
+    {
+      "authorId": "2300485775",
+      "name": "Weiwei Cui"
+    },
+    {
+      "authorId": "46702036",
+      "name": "Haidong Zhang"
+    },
+    {
+      "authorId": "1485159990",
+      "name": "Dongmei Zhang"
+    },
+    {
+      "authorId": "2064924230",
+      "name": "Huamin Qu"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e1278a151a940863678614e2d42bb4f2984d8af9",
+      "title": "Steerable Self-Driving Data Visualization"
+    },
+    {
+      "paperId": "11993832e79b684e2c2c7f2cf1d20a3b9286629b",
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics"
+    },
+    {
+      "paperId": "9cb2877a74a51ee9f7d757ab87d3182e1f1322ad",
+      "title": "Learning to Automate Chart Layout Configurations Using Crowdsourced Paired Comparison"
+    },
+    {
+      "paperId": "7406dfd7cfe61a8df4d3402eb4a3b1c24abcd673",
+      "title": "Applying Machine Learning Advances to Data Visualization: A Survey on ML4VIS"
+    },
+    {
+      "paperId": "929cb414d8cb485893d34b39133fe0f246402ddd",
+      "title": "Chartem: Reviving Chart Images with Data Embedding"
+    },
+    {
+      "paperId": "baff151a5f1cb378d3627b88ff7d1b3afd29db45",
+      "title": "STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering"
+    },
+    {
+      "paperId": "9a2a5bb18d6252711e124c0029fcf002d62f1795",
+      "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model"
+    },
+    {
+      "paperId": "4ba32135a6a16c02da96e869e703034732e05a1c",
+      "title": "Calliope: Automatic Visual Data Story Generation from a Spreadsheet"
+    },
+    {
+      "paperId": "ce057ece4d223923e347935315911b7718dc3221",
+      "title": "VisCode: Embedding Information in Visualization Images using Encoder-Decoder Network"
+    },
+    {
+      "paperId": "dfaf5d156422b5e97b1cc476272cf3e0e39347d9",
+      "title": "Gemini: A Grammar and Recommender System for Animated Transitions in Statistical Graphics"
+    },
+    {
+      "paperId": "8b5e8e91bcaec2de998737b181bb4638e4e77553",
+      "title": "A survey on automatic infographics and visualization recommendations"
+    },
+    {
+      "paperId": "3b1b40b4387b686bb0f0ae6e54df368418568882",
+      "title": "ChartSeer: Interactive Steering Exploratory Visual Analysis With Machine Intelligence"
+    },
+    {
+      "paperId": "5593676873d799a4727123a2cbffb231d3b4eb80",
+      "title": "NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries"
+    },
+    {
+      "paperId": "3725a0babf1c34f159e1e6c6b8c33714fd563b79",
+      "title": "VizCommender: Computing Text-Based Similarity in Visualization Repositories for Content-Based Recommendations"
+    },
+    {
+      "paperId": "4d2791ceec299a5b8ada189066406616d9ed937c",
+      "title": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "paperId": "01e16b5caec932b087288db225fe550c0592791d",
+      "title": "Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "0dceedaab50222af8f8e6a4ee75b8e749c308199",
+      "title": "Sketch-Based Fast and Accurate Querying of Time Series Using Parameter-Sharing LSTM Networks"
+    },
+    {
+      "paperId": "89bb30eeaf780b54918babcec08d922e93518d0c",
+      "title": "AutoCaption: An Approach to Generate Natural Language Description from Visualization Automatically"
+    },
+    {
+      "paperId": "6d4ad09d30fd0b9bb6446fe6da01a681542d6585",
+      "title": "Chart Mining: A Survey of Methods for Automated Chart Analysis"
+    },
+    {
+      "paperId": "ed585b684af4437c5a9e24b287aeba73e96e17f4",
+      "title": "Augmenting Static Visualizations with PapARVis Designer"
+    },
+    {
+      "paperId": "2247b3cb46f3b434c8018fdf71ec8c9f780d7239",
+      "title": "Dziban: Balancing Agency & Automation in Visualization Design via Anchored Recommendations"
+    },
+    {
+      "paperId": "ea39ba01c713d5445471e4af603a3927a14687c7",
+      "title": "Answering Questions about Charts and Generating Visual Explanations"
+    },
+    {
+      "paperId": "bfcb79f18dffe2777d49dd5bca6afcb3ee7244b5",
+      "title": "DataQuilt: Extracting Visual Elements from Images to Craft Pictorial Visualizations"
+    },
+    {
+      "paperId": "3af942f4329122871caa313c6c5929c855b68618",
+      "title": "Automatic Annotation Synchronizing with Textual Description for Visualization"
+    },
+    {
+      "paperId": "e29f7c5c5f4a7bbcb668734e63ca4a88cbaf9c1a",
+      "title": "Dataless Sharing of Interactive Visualization"
+    },
+    {
+      "paperId": "92d1cdc0b81b8cb110d59f7a18d7f9054e093979",
+      "title": "Interactive Cleaning for Progressive Visualization through Composite Questions"
+    },
+    {
+      "paperId": "e21447d542b08f26aa4c7e0954b9a55b3a54e97a",
+      "title": "Survey on the Analysis of User Interactions and Visualization Provenance"
+    },
+    {
+      "paperId": "f386811048c29817d3f624eb5df63c041cfab6e1",
+      "title": "LADV: Deep Learning Assisted Authoring of Dashboard Visualizations From Images and Sketches"
+    },
+    {
+      "paperId": "40e09c8e31bc859d90ba8ceeb70ef7534bf6b7a5",
+      "title": "Figure Captioning with Relation Maps for Reasoning"
+    },
+    {
+      "paperId": "676f58096dddb5405df7fe844d10caf4ab6ff6e5",
+      "title": "ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots"
+    },
+    {
+      "paperId": "d409f3cd85c942344ac7535f9abfa479a013452d",
+      "title": "Vis-a-Vis: Visual Exploration of Visualization Source Code Evolution"
+    },
+    {
+      "paperId": "a0d763d183d735201249c21f1afdeb025c49f112",
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data"
+    },
+    {
+      "paperId": "75f075318129af3b575a5b69bd5e346ca55f24ec",
+      "title": "Visualization by example"
+    },
+    {
+      "paperId": "b0c8b08dcb94752d5d96f88a9b1bcd58bcc9154f",
+      "title": "Making data visualization more efficient and effective: a survey"
+    },
+    {
+      "paperId": "32df387bd612771cfe92f1a34d5de8cdedf7482e",
+      "title": "Neural caption generation over figures"
+    },
+    {
+      "paperId": "c496f00f2b85b496abdc36e4dc4105541248fd3c",
+      "title": "PlotQA: Reasoning over Scientific Plots"
+    },
+    {
+      "paperId": "c39062e61941366be9e5ecee6da43a65be4c6a56",
+      "title": "Visualization Assessment: A Machine Learning Approach"
+    },
+    {
+      "paperId": "9d11d18c91aef64538156df205b1668af2821a2d",
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System"
+    },
+    {
+      "paperId": "41f8a0945181f1d9d81a3592cb886b20bd3634bc",
+      "title": "Color Crafting: Automating the Construction of Designer Quality Color Ramps"
+    },
+    {
+      "paperId": "1c41971ff895ed88697b72ade53f511e42c30d08",
+      "title": "Critical Reflections on Visualization Authoring Systems"
+    },
+    {
+      "paperId": "217ac15785c979cb08e5aa11d2a5e30e319e96de",
+      "title": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "paperId": "b61cd1e80ecc20d5efd0a4c6c568d4634435088a",
+      "title": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "paperId": "d47f20de7195fea82e48315fea52ccf06dc301d3",
+      "title": "LEAF-QA: Locate, Encode & Attend for Figure Question Answering"
+    },
+    {
+      "paperId": "536f9de6b237d5f505f414c3243407f730096adc",
+      "title": "Searching the Visual Style and Structure of D3 Visualizations"
+    },
+    {
+      "paperId": "c060a0b11d87b42fc0b569a005a236b6e69eb1b9",
+      "title": "Significance of Patterns in Data Visualisations"
+    },
+    {
+      "paperId": "9e575554ecd9a4b21991e2a613996420246f0b40",
+      "title": "Text-to-Viz: Automatic Generation of Infographics from Proportion-Related Natural Language Statements"
+    },
+    {
+      "paperId": "4b8f10fdf59164be4c42c8edda0c9888774457f1",
+      "title": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "paperId": "e5166997957a19044aa7cc0d48413d2eda4e15e4",
+      "title": "Broadening Intellectual Diversity in Visualization Research Papers"
+    },
+    {
+      "paperId": "8b44ef700b8c59841217734f11991aeef42e3e3d",
+      "title": "QuickInsights: Quick and Automatic Discovery of Insights from Multi-Dimensional Data"
+    },
+    {
+      "paperId": "93372220e1467e0b762bf99fd26044b4ab45766f",
+      "title": "Visualizing for the Non\u2010Visual: Enabling the Visually Impaired to Use Visualization"
+    },
+    {
+      "paperId": "6e98155a85d64e28f41655c2b7468a690551ae28",
+      "title": "VizNet: Towards A Large-Scale Visualization Learning and Benchmarking Repository"
+    },
+    {
+      "paperId": "052689b5c2488a99633608578cfcfd2d194d6090",
+      "title": "Avoiding drill-down fallacies with VisPilot: assisted exploration of data subsets"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "da11b5cfe3b18caa087566b96fe080ee366e0cf1",
+      "title": "Narvis: Authoring Narrative Slideshows for Introducing Data Visualization Designs"
+    },
+    {
+      "paperId": "a6714f3dbb048d481d3e945bdc42c9da9517c62a",
+      "title": "Evaluating \u2018Graphical Perception\u2019 with CNNs"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "4c0690560fc32d1d4e1e99c646e1294ce369e4a8",
+      "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "1375ba318afb1c49c5dc1a5034e3b236a713e983",
+      "title": "DiVE: Diversifying View Recommendation for Visual Data Exploration"
+    },
+    {
+      "paperId": "29ce15f6520d7427cf1c0cce62e49fca0f40c19d",
+      "title": "Multimodal Deep Learning using Images and Text for Information Graphic Classification"
+    },
+    {
+      "paperId": "912a4ee6b6af96dc68ab77b2312a104b5666c6eb",
+      "title": "Chart decoder: Generating textual and numeric information from chart images automatically"
+    },
+    {
+      "paperId": "6a116fbf23a698e5547079a80ee1497b18b5a04c",
+      "title": "VizML: A Machine Learning Approach to Visualization Recommendation"
+    },
+    {
+      "paperId": "8195ab468c38c2a8181386417ea1d95d17e5278b",
+      "title": "Beyond Heuristics: Learning Visualization Design"
+    },
+    {
+      "paperId": "78c1a6a836d27ab3aa436dc413f41cf4288b6448",
+      "title": "Evaluation of Convolutional Neural Network Architectures for Chart Image Classification"
+    },
+    {
+      "paperId": "220bb685271613781f8e5d8a8194b0e7488791d3",
+      "title": "FigureNet : A Deep Learning model for Question-Answering on Scientific Plots"
+    },
+    {
+      "paperId": "5578fb8a4ef309eca31fd7a1d86c3d402e811310",
+      "title": "Chart Constellations: Effective Chart Summarization for Collaborative and Multi\u2010User Analyses"
+    },
+    {
+      "paperId": "d37dd9ecc87dabd97f2b72149bd2d8c073a8ed0f",
+      "title": "Fast and Accurate CNN\u2010based Brushing in Scatterplots"
+    },
+    {
+      "paperId": "fe5451e7202c5cadf5ae6f2f3b5129b223d34254",
+      "title": "Quality Metrics for Information Visualization"
+    },
+    {
+      "paperId": "39b89641005d714507ffa55d9663de8d0f1c4bdf",
+      "title": "DeepEye: Creating Good Data Visualizations by Keyword Search"
+    },
+    {
+      "paperId": "fcc86317d6a0e5f67968d2e84d20dd5ba0524cf2",
+      "title": "Exploration and Explanation in Computational Notebooks"
+    },
+    {
+      "paperId": "1e57bf584b8b6fccd863220b31c08794ef14f0a6",
+      "title": "VizByWiki: Mining Data Visualizations from the Web to Enrich News Articles"
+    },
+    {
+      "paperId": "cc53c188ffe35d4c1a073875f4c113d1c76d82e2",
+      "title": "Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks"
+    },
+    {
+      "paperId": "735222818fca62f36b40617a8db37d74b1f6e19f",
+      "title": "DeepEye: Towards Automatic Data Visualization"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "e12b8ef18f95caff80db64045bee10cf070cfc42",
+      "title": "Efficient Recommendation of Aggregate Data Visualizations"
+    },
+    {
+      "paperId": "7289a240c9425bc7cad87b3b835e5f0cac22f488",
+      "title": "DVQA: Understanding Data Visualizations via Question Answering"
+    },
+    {
+      "paperId": "be492fa6af329a487e2048df6c931e7f9d41d451",
+      "title": "Extracting and Retargeting Color Mappings from Bitmap Images of Visualizations"
+    },
+    {
+      "paperId": "bc20a69c20b5c2cb69d908f9a788158abc2b7290",
+      "title": "Beagle: Automated Extraction and Interpretation of Visualizations from the Web"
+    },
+    {
+      "paperId": "81cb29ece650d391e61cf0c05096c6a14b87ee52",
+      "title": "DataVizard: Recommending Visual Presentations for Structured Data"
+    },
+    {
+      "paperId": "cb6be69c67b0b15ebbda89a126f4dd62a4d32958",
+      "title": "FigureQA: An Annotated Figure Dataset for Visual Reasoning"
+    },
+    {
+      "paperId": "3342f13fa0809c0429866f6126cb5bc3281b91ae",
+      "title": "Learning Visual Importance for Graphic Designs and Data Visualizations"
+    },
+    {
+      "paperId": "2d1ab0911fe6db7b8b2bdc77d6b4213d21ef1521",
+      "title": "Foresight: Recommending Visual Insights"
+    },
+    {
+      "paperId": "18617524984e326bcbf61fd173919386b8a6db0a",
+      "title": "Text detection in screen images with a Convolutional Neural Network"
+    },
+    {
+      "paperId": "75054e9994e958d5ef5f4d2c737670962b966159",
+      "title": "Natural Language Interfaces for Data Analysis with Visualization: Considering What Has and Could Be Asked"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "dbe437cb28f6d3be4149a503cf71f60847dfd2ae",
+      "title": "Reverse\u2010Engineering Visualizations: Recovering Visual Encodings from Chart Images"
+    },
+    {
+      "paperId": "bfaf0bfc054961c36479c53aca5b7099fdbebd60",
+      "title": "ChartSense: Interactive Data Extraction from Chart Images"
+    },
+    {
+      "paperId": "7ae0cff2354014fc3051ba401f1be04dbf354639",
+      "title": "GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "5ee21ac891a7b619b76264f47e1e933486fe665f",
+      "title": "Interaction+: Interaction enhancement for web-based visualizations"
+    },
+    {
+      "paperId": "391da573d7960249b0bab04e2b8791e88d0c946a",
+      "title": "A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks"
+    },
+    {
+      "paperId": "9964013c44df530feb0d7d0eeebd16c3d80f0d45",
+      "title": "A Machine Learning Approach for Semantic Structuring of Scientific Charts in Scholarly Documents"
+    },
+    {
+      "paperId": "b74f6e7c1321f86f84988a06cd4dc1c16ad20c55",
+      "title": "Combining Design and Performance in a Data Visualization Management System"
+    },
+    {
+      "paperId": "f2c69c9822458d10bb8b623f8e98fd2f9c2f86ad",
+      "title": "VizAssist: an interactive user assistant for visual data mining"
+    },
+    {
+      "paperId": "0d0a05fa74dd5ed8aed59bd7a92420e034d64cf1",
+      "title": "FigureSeer: Parsing Result-Figures in Research Papers"
+    },
+    {
+      "paperId": "90a22dbcbf0cf6f5de6031ea21ed4d39b07e1689",
+      "title": "Converting Basic D3 Charts into Reusable Style Templates"
+    },
+    {
+      "paperId": "9e679591b0cbfa80d095aa69a49cc3f2efd60c58",
+      "title": "DeepChart: Combining deep convolutional networks and deep belief networks in chart classification"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "598cd7743973a74322552394784e65559d29344e",
+      "title": "Scalable algorithms for scholarly figure mining and semantics"
+    },
+    {
+      "paperId": "4e0be9ccfc09d2ea4000f8494bad04ac15de0793",
+      "title": "Curve separation for line graphs in scholarly documents"
+    },
+    {
+      "paperId": "907604336be12211bc8c606c59e470d7669cda47",
+      "title": "Viziometrics: Analyzing Visual Information in the Scientific Literature"
+    },
+    {
+      "paperId": "4ef003c9b40fd4739c715a8045f73aef80b98396",
+      "title": "MuVE: Efficient Multi-Objective View Recommendation for Visual Data Exploration"
+    },
+    {
+      "paperId": "b7accba039b58540f10c2040c9e680227d6b18d5",
+      "title": "iVoLVER: Interactive Visual Language for Visualization Extraction and Reconstruction"
+    },
+    {
+      "paperId": "c63b98fbbbd5cd42b9e2ebe14a73d4bf608b2b22",
+      "title": "Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "f6cfd93222a2cb1e58190203f3bfa902fdf4578d",
+      "title": "A novel methodology for retrieving infographics utilizing structure and message content"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "ad2f602e00c7b5272cf3a260005e99fd2c492bc2",
+      "title": "DiagramFlyer: A Search Engine for Data-Driven Diagrams"
+    },
+    {
+      "paperId": "4f707dcc26a6afd9d266e84e970362070a70d800",
+      "title": "An Architecture for Information Extraction from Figures in Digital Libraries"
+    },
+    {
+      "paperId": "1ffe9e86bd30faf9db13c00037b358af27f2a5f6",
+      "title": "Learning style similarity for searching infographics"
+    },
+    {
+      "paperId": "4f67c05c4e065f4235b1d1953bd5ffad8ef1e4d8",
+      "title": "Prediction of Users' Learning Curves for Adaptation while Using an Information Visualization"
+    },
+    {
+      "paperId": "0808b6b780c2a9929b2529b6c2f789a2a1b10c61",
+      "title": "Deconstructing and restyling D3 visualizations"
+    },
+    {
+      "paperId": "d681ebe449ef98c4eedd45c07985653d1c6dc009",
+      "title": "Infographics Retrieval: A New Methodology"
+    },
+    {
+      "paperId": "23ed273c84731755db3f8213dff9c72117b4be1b",
+      "title": "ScagExplorer: Exploring Scatterplots by Their Scagnostics"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "9fdbeef10445b087da69b6834e5c0a561f3f6108",
+      "title": "Transmogrification: causal manipulation of visualizations"
+    },
+    {
+      "paperId": "235447def49daaf4286955530e661ec57963db36",
+      "title": "TimeSeer: Scagnostics for High-Dimensional Time Series"
+    },
+    {
+      "paperId": "50fc6e1002d365c21fb6d372f76b332b04e26af3",
+      "title": "Graphical Overlays: Using Layered Elements to Aid Chart Reading"
+    },
+    {
+      "paperId": "e62846e1fcb32f10b77e7cae5073d29da8e792a2",
+      "title": "View: Visual Information Extraction Widget for improving chart images accessibility"
+    },
+    {
+      "paperId": "f4f87c6176de1aacde552d890eca37233c683b9c",
+      "title": "Automatically Recognizing Intended Messages in Grouped Bar Charts"
+    },
+    {
+      "paperId": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+      "title": "Representation Learning: A Review and New Perspectives"
+    },
+    {
+      "paperId": "f7214535a3f9e146674f5bb07d0fdb2b38e957cd",
+      "title": "Profiler: integrated statistical analysis and visualization for data quality assessment"
+    },
+    {
+      "paperId": "a9670a87037b0098341744aa7a3f6e874e120dcc",
+      "title": "VizDeck: self-organizing dashboards for visual analytics"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "df953c84062ac2dbefe8322babff8007df25a94a",
+      "title": "ReVision: automated classification, analysis and redesign of chart images"
+    },
+    {
+      "paperId": "a360ba83d67f9056336422635a944e4ad17d29c6",
+      "title": "Segregating and extracting overlapping data points in two-dimensional plots"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "f2b09b71b6717e1c1b128c8e8343fa5f4592f69f",
+      "title": "Extraction of Vectorized Graphical Information from Scientific Chart Images"
+    },
+    {
+      "paperId": "add340d0cdc62dfdfc84c1e2176ad7d0451db260",
+      "title": "A system for understanding imaged infographics and its applications"
+    },
+    {
+      "paperId": "5c6722b736a7cd9bc6def41ad8749e4fd82fce61",
+      "title": "Classifying Computer Generated Charts"
+    },
+    {
+      "paperId": "a55c10775dabe306c0543a46accee8e6c297ad02",
+      "title": "A Taxonomy of Information Retrieval Models and Tools"
+    },
+    {
+      "paperId": "1d1608441c3c1b6106bd022727011975aa9ff30f",
+      "title": "Sketching a graph to query a time-series database"
+    },
+    {
+      "paperId": "f569c8bcddfbfb57ab03b5a74c794fb95fa16f9b",
+      "title": "Describing Complex Charts in Natural Language: A Caption Generation System"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "d20bf7aab7512ca164a03fe35991058676036f9e",
+      "title": "Big Data Visualization and Analytics: Future Research Challenges and Emerging Applications"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization meets AI workshop"
+    },
+    {
+      "paperId": "55cfd3075bac15132d4017961192a4ad00abd2e8",
+      "title": "Why should we teach machines to read charts made for humans?"
+    },
+    {
+      "paperId": "e7d90bd8ce5b8bbdad294a27ac64dbd918d93861",
+      "title": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "paperId": null,
+      "title": "anal-IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL. XX, ysis with partial view speci\ufb01cations"
+    },
+    {
+      "paperId": "b3d4767560c8352413be5188bcfe3c7374374d13",
+      "title": "Automatic Summary Generation for Scientific Data Charts"
+    },
+    {
+      "paperId": "bad94d8a12d6e89052a985d267581c25ef428061",
+      "title": "Summarizing Information Graphics Textually"
+    },
+    {
+      "paperId": "54836d3f66e81f75287c89deac9c8422b491352d",
+      "title": "Information is beautiful"
+    },
+    {
+      "paperId": "7cb9cf9a126db80d4a61e8f7e8da1e27ac4cb8d8",
+      "title": "Learning-based scientific chart recognition"
+    },
+    {
+      "paperId": "e58359b3dae3141fd2c85ee3f00c566411134929",
+      "title": "Action Languages, Answer Sets, and Planning"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "visual data analytics"
+    },
+    {
+      "paperId": null,
+      "title": "a Ph.D. candidate in the Department Computer Science and Engineering at the Hong Kong University Science and Technology (HKUST)"
+    },
+    {
+      "paperId": null,
+      "title": "Dominik Moritz is a professor at"
+    },
+    {
+      "paperId": null,
+      "title": "Deconstructing and restyling d 3 visualizations , \u201d in Proc . of the ACM Symposium on User Interface Software and Technology ( UIST )"
+    },
+    {
+      "paperId": null,
+      "title": "Human-Computer Interaction Institute and a researcher at Apple"
+    },
+    {
+      "paperId": null,
+      "title": "received the BEng degree from Fudan"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Science and Technology from Zhejiang University, Her research interests include data-driven storytelling, visualization, and visual analytics. For more details, please shuxinhuan"
+    },
+    {
+      "paperId": null,
+      "title": "AI4VIS: SURVEYON ARTIFICIAL INTELLIGENCE APPROACHES FOR DATAVISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "received the BE degree and ME degree from Tsinghua University, and PhD degree in Robotics from the School of Computer Science at Carnegie Mellon University"
+    },
+    {
+      "paperId": null,
+      "title": "received the PhD degree in Computer Peking University, China"
+    },
+    {
+      "paperId": null,
+      "title": "received the BS degree in computer science and technology University, China, and the PhD degree in computer engineering from the Hong Kong University of Science , Hong Kong"
+    },
+    {
+      "paperId": null,
+      "title": "Research Asia, China. His primary research interest with the focuses on democratizing visualization and de-sign"
+    },
+    {
+      "paperId": null,
+      "title": "to understand and communicate large and complex data with methods that integrate the capabilities of both people and machines"
+    },
+    {
+      "paperId": null,
+      "title": "Computer vision -paper with codes"
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "paperId": "61ef97d718dbf13038f5a0aeb1857ff5fe000856",
+  "externalIds": {
+    "DBLP": "journals/tvcg/QuadriR22",
+    "ArXiv": "2107.07477",
+    "DOI": "10.1109/TVCG.2021.3098240",
+    "CorpusId": 235899008,
+    "PubMed": "34283717"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/61ef97d718dbf13038f5a0aeb1857ff5fe000856",
+  "title": "A Survey of Perception-Based Visualization Studies by Task",
+  "abstract": "Knowledge of human perception has long been incorporated into visualizations to enhance their quality and effectiveness. The last decade, in particular, has shown an increase in perception-based visualization research studies. With all of this recent progress, the visualization community lacks a comprehensive guide to contextualize their results. In this report, we provide a systematic and comprehensive review of research studies on perception related to visualization. This survey reviews perception-focused visualization studies since 1980 and summarizes their research developments focusing on low-level tasks, further breaking techniques down by visual encoding and visualization type. In particular, we focus on how perception is used to evaluate the effectiveness of visualizations, to help readers understand and apply the principles of perception of their visualization designs through a task-optimized approach. We concluded our report with a summary of the weaknesses and open research questions in the area.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 166,
+  "openAccessPdf": {
+    "url": "http://arxiv.org/pdf/2107.07477",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-07-15",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "5026-5048",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Quadri2021ASO,\n author = {Ghulam Jilani Quadri and P. Rosen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {5026-5048},\n title = {A Survey of Perception-Based Visualization Studies by Task},\n volume = {28},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34649043",
+      "name": "Ghulam Jilani Quadri"
+    },
+    {
+      "authorId": "3747630",
+      "name": "P. Rosen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3a342f2a941f00040f349886dff894762ef3385c",
+      "title": "A Design Space of Vision Science Methods for Visualization Research"
+    },
+    {
+      "paperId": "42f119f1a8742af13ad92db173000d8ebc0d9211",
+      "title": "Modeling the Influence of Visual Density on Cluster Perception in Scatterplots Using Topology"
+    },
+    {
+      "paperId": "676f58096dddb5405df7fe844d10caf4ab6ff6e5",
+      "title": "ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots"
+    },
+    {
+      "paperId": "8e3b3679cfa68dbbafdbcbb462030b95948842d4",
+      "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior"
+    },
+    {
+      "paperId": "573e3aaa0c6130e45c69cd7d0f10aee30a6b469a",
+      "title": "Transparency of CHI Research Artifacts: Results of a Self-Reported Survey"
+    },
+    {
+      "paperId": "2941f8c2cfca106d6e2a444ea01c6eccb99cb79c",
+      "title": "Perceptual Proxies of Visual Comparison"
+    },
+    {
+      "paperId": "3dd790eeaa8258a54051b36b892dfe970606944e",
+      "title": "Measures of the Benefit of Direct Encoding of Data Deltas for Data Pair Relation Perception"
+    },
+    {
+      "paperId": "0beaaa647aa2bcf7f15e89e533652dc00cddcc6e",
+      "title": "You Can't Publish Replication Studies (and How to Anyways)"
+    },
+    {
+      "paperId": "41f8a0945181f1d9d81a3592cb886b20bd3634bc",
+      "title": "Color Crafting: Automating the Construction of Designer Quality Color Ramps"
+    },
+    {
+      "paperId": "b30be9a6e8a070caac7439a3fcbc82135035a85f",
+      "title": "Biased Average Position Estimates in Line and Bar Graphs: Underestimation, Overestimation, and Perceptual Pull"
+    },
+    {
+      "paperId": "fa842f45d5d013ca3069cfc17dac9fa2569ca9fe",
+      "title": "A Comparison of Radial and Linear Charts for Visualizing Daily Patterns"
+    },
+    {
+      "paperId": "26a61d5e55486eef879d361c9895a21ad3cf4599",
+      "title": "A Comparison of Visualizations for Identifying Correlation over Space and Time"
+    },
+    {
+      "paperId": "35aa2380794a644fe6d06dfeb7fc986bc4acc9b8",
+      "title": "A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones"
+    },
+    {
+      "paperId": "6167e42dc9b303bf761ecead5344f3d7a375da12",
+      "title": "Bridging the Data Analysis Communication Gap Utilizing a Three\u2010Component Summarized Line Graph"
+    },
+    {
+      "paperId": "548eebbe40f6fd785624ca39d343043ce0d90d24",
+      "title": "Toward Understanding Representation Methods in Visualization Recommendations through Scatterplot Construction Tasks"
+    },
+    {
+      "paperId": "454391b8ad945a14d967a34f2d5bbfa33d09be2f",
+      "title": "ClustMe: A Visual Quality Measure for Ranking Monochrome Scatterplots based on Cluster Patterns"
+    },
+    {
+      "paperId": "8b783ced7d96082de290543cd2751b374618f101",
+      "title": "Measuring the Separability of Shape, Size, and Color in Scatterplots"
+    },
+    {
+      "paperId": "1ecaafd3ac3903087de72a6b693cecedec1f3e39",
+      "title": "Ranked-List Visualization: A Graphical Perception Study"
+    },
+    {
+      "paperId": "eb3af4bfe23096b9247cd84a18ff352f8fef2734",
+      "title": "Correlation Judgment and Visualization Features: A Comparative Study"
+    },
+    {
+      "paperId": "9b9226d0d105f7b0f5554ba2a3a9eaa88aa02ef9",
+      "title": "Face to Face: Evaluating Visual Comparison"
+    },
+    {
+      "paperId": "1408c3016d48c940a0de85bf9f8fa07a210d363a",
+      "title": "Where's My Data? Evaluating Visualizations with Missing Data"
+    },
+    {
+      "paperId": "258b6e6cfe646f5554bdd9a0a10dfe37087bbbd7",
+      "title": "Looks Good To Me: Visualizations As Sanity Checks"
+    },
+    {
+      "paperId": "db0a57c8ecbb9c112f4f39d1d728b09a9d711e7d",
+      "title": "Comparing Similarity Perception in Time Series Visualizations"
+    },
+    {
+      "paperId": "81ee59fa007bdd7737e01ab729aed02e614336f8",
+      "title": "Optimizing Color Assignment for Perception of Class Separability in Multiclass Scatterplots"
+    },
+    {
+      "paperId": "35b926e689cc22dae861295c6370be23a42e49ef",
+      "title": "E.H. Weber on the Tactile Senses"
+    },
+    {
+      "paperId": "3abb46f601c393d378929251e5adc011a10e504d",
+      "title": "Perceptual Biases in Font Size as a Data Encoding"
+    },
+    {
+      "paperId": "0c5e4af3e0cadad553bc9103c3d1cdadb7e77449",
+      "title": "VisGuides: A Forum for Discussing Visualization Guidelines"
+    },
+    {
+      "paperId": "6979c6e6f385263cfd5dfc34d70e30dddd07778d",
+      "title": "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"
+    },
+    {
+      "paperId": "cd32fc2c1fb609e6159d32e641a085fce727ffcb",
+      "title": "Information Visualization Evaluation Using Crowdsourcing"
+    },
+    {
+      "paperId": "a91e67f6b72a3bb9b5f0f054a252c8ee0cbfd898",
+      "title": "The Perception of Graph Properties in Graph Layouts"
+    },
+    {
+      "paperId": "f8dbcce5135e4bb8d6aaaf6df892d203b1c69cfc",
+      "title": "Design Factors for Summary Visualization in Visual Analytics"
+    },
+    {
+      "paperId": "fe5451e7202c5cadf5ae6f2f3b5129b223d34254",
+      "title": "Quality Metrics for Information Visualization"
+    },
+    {
+      "paperId": "3cf61d4e65b6c065dda9ccacc16d6e29333450b3",
+      "title": "What's the Difference?: Evaluating Variations of Multi-Series Bar Charts for Visual Comparison Tasks"
+    },
+    {
+      "paperId": "a979f050861b341c3bf4eb7be12d5ee0d87b44d0",
+      "title": "Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis"
+    },
+    {
+      "paperId": "9dd441d6cdd76095489bfedee3adc29bc693e3d0",
+      "title": "Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps"
+    },
+    {
+      "paperId": "23169f78316444ac201bb41799976ae660fdbc4e",
+      "title": "Graphical Perception of Continuous Quantitative Maps: the Effects of Spatial Frequency and Colormap Design"
+    },
+    {
+      "paperId": "2ad89f859239fceec21ba417ab33378add9f61aa",
+      "title": "Evaluating Interactive Graphical Encodings for Data Visualization"
+    },
+    {
+      "paperId": "05a91e5bbec904e3f3231224bd4f64a1765f29a4",
+      "title": "DSPCP: A Data Scalable Approach for Identifying Relationships in Parallel Coordinates"
+    },
+    {
+      "paperId": "8ea4424bae1a7a4ac601db7934ab429ab81a1d7d",
+      "title": "Line Graph or Scatter Plot? Automatic Selection of Methods for Visualizing Trends in Time Series"
+    },
+    {
+      "paperId": "9a8661522f60b5b040eb08a54a0d26a81eaee2ec",
+      "title": "The Effect of Realistic Appearance of Virtual Characters in Immersive Environments - Does the Character's Personality Play a Role?"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "eef2078a4b10ef28061d7100061c8f6ed89b520b",
+      "title": "An Empirical Study on the Reliability of Perceiving Correlation Indices using Scatterplots"
+    },
+    {
+      "paperId": "7e3ec3639951ed11418ca3596cb432f2e8a5c985",
+      "title": "Towards Perceptual Optimization of the Visual Design of Scatterplots"
+    },
+    {
+      "paperId": "a477b9c84aa43afcdb36dcb35b000753a5711e14",
+      "title": "Evaluating Perceptually Complementary Views for Network Exploration Tasks"
+    },
+    {
+      "paperId": "4e1081bb7dba55da0c1450062a9359e9c2bb9904",
+      "title": "Peripheral Popout: The Influence of Visual Angle and Stimulus Intensity on Popout Effects"
+    },
+    {
+      "paperId": "3c56e989be76eab22a804b85ac6710825c53040c",
+      "title": "Regression by Eye: Estimating Trends in Bivariate Visualizations"
+    },
+    {
+      "paperId": "62ee21d50e6e41b3ff50e40d2af3e458dd113d37",
+      "title": "An Empire Built On Sand: Reexamining What We Think We Know About Visualization"
+    },
+    {
+      "paperId": "62b8d556b65be47d3a03798c4abcf5fbfe9558cb",
+      "title": "Why Evaluating Uncertainty Visualization is Error Prone"
+    },
+    {
+      "paperId": "39facd1fdde846c655fa6d468839814d9384c744",
+      "title": "Judgment Error in Pie Chart Variations"
+    },
+    {
+      "paperId": "629373b735326df73c28364118d28e66689de3b6",
+      "title": "Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles"
+    },
+    {
+      "paperId": "0b4adb0f63e7a969d8775b091b35b1ab3df80027",
+      "title": "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data"
+    },
+    {
+      "paperId": "b38583deeb48bf3f90fc0ae49a471dd8a3b430a3",
+      "title": "Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts"
+    },
+    {
+      "paperId": "7b62995f0309cdcb2c88a8350e6976e31219385b",
+      "title": "How Ordered Is It? On the Perceptual Orderability of Visual Channels"
+    },
+    {
+      "paperId": "9f3448f1d1947140ecfe39ba56622738c575cbcc",
+      "title": "A Comparative Evaluation on Online Learning Approaches using Parallel Coordinate Visualization"
+    },
+    {
+      "paperId": "9422590449e74a40426a61491d4fdd3fd329af00",
+      "title": "Towards Understanding Human Similarity Perception in the Analysis of Large Sets of Scatter Plots"
+    },
+    {
+      "paperId": "4179164a50389e8678bbef560464111a140c460a",
+      "title": "SepMe: 2002 New visual separation measures"
+    },
+    {
+      "paperId": "12c4aa26fe219e10b660359392392a5083e5ec01",
+      "title": "Four types of ensemble coding in data visualizations."
+    },
+    {
+      "paperId": "526fdc447e6bdd68631574ab75d062f9b49568f7",
+      "title": "Correlation Coordinate Plots: Efficient Layouts for Correlation Tasks"
+    },
+    {
+      "paperId": "ea27c2a0fd9a81472cb9bbad1c2f961ba8ede487",
+      "title": "From Vision Science to Data Science: Applying Perception to Problems in Big Data"
+    },
+    {
+      "paperId": "9b586e52e41be41dfb5a28d89a6b95427cdab22e",
+      "title": "Beyond Weber's Law: A Second Look at Ranking Visualizations of Correlation"
+    },
+    {
+      "paperId": "582258dbd3ab6da897bb923663eb618aebb7e363",
+      "title": "Orientation-Enhanced Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "b616329b7c08ad4a6e866741c718df0e4d1e5e11",
+      "title": "Guidelines for Effective Usage of Text Highlighting Techniques"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "d0ba951cee08386fc1deec635e14d49a6ec96ea0",
+      "title": "A Linguistic Approach to Categorical Color Assignment for Data Visualization"
+    },
+    {
+      "paperId": "4acb043a87313f716fab1c0595cdc8ac334c324b",
+      "title": "Representing Uncertainty in Graph Edges: An Evaluation of Paired Visual Variables"
+    },
+    {
+      "paperId": "1143844feb443db3ae6ead285dc4f7db85f421e6",
+      "title": "Data\u2010driven Evaluation of Visual Quality Measures"
+    },
+    {
+      "paperId": "5eadee94223b03cd848ac671928918ace2da5a96",
+      "title": "An Evaluation of the Impact of Visual Embellishments in Bar Charts"
+    },
+    {
+      "paperId": "d41df5aabfa2142097428755d28132517d1272ab",
+      "title": "Dynamic Opacity Optimization for Scatter Plots"
+    },
+    {
+      "paperId": "acc395bf1ffb02141c10870fc2fed82bef0bdf45",
+      "title": "How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques"
+    },
+    {
+      "paperId": "c75bbf04d1f9c7b110e021ba0b10b1e3d974ed70",
+      "title": "Evaluating Cartogram Effectiveness"
+    },
+    {
+      "paperId": "134658cbe764652b8969d91b2fdd55d3a95cecec",
+      "title": "Learning Perceptual Kernels for Visualization Design"
+    },
+    {
+      "paperId": "b443c6c47a5263a7902c8207bf0a40707234412a",
+      "title": "Ranking Visualizations of Correlation Using Weber's Law"
+    },
+    {
+      "paperId": "52f556b99da76ca7c597d1a0b274805fa6314d8a",
+      "title": "Four Experiments on the Perception of Bar Charts"
+    },
+    {
+      "paperId": "8aae1493cb416682e44c1d4ffc27b9eb91aa4290",
+      "title": "Transforming Scagnostics to Reveal Hidden Features"
+    },
+    {
+      "paperId": "b613ae966f6cc0e10a72804a83f90f176a9c6567",
+      "title": "The relation between visualization size, grouping, and user performance"
+    },
+    {
+      "paperId": "da9655f13a1296e142fe8484341b61330f7ea63f",
+      "title": "Evaluating the Impact of User Characteristics and Different Layouts on an Interactive Visualization for Decision Making"
+    },
+    {
+      "paperId": "72dbc09f019fa2eb6667f5a7e7419f43135b0239",
+      "title": "Is once enough?: on the extent and content of replications in human-computer interaction"
+    },
+    {
+      "paperId": "0b775f76648483cf8c89d2f220f83f5acfbcff4a",
+      "title": "Task-driven evaluation of aggregation in time series visualization"
+    },
+    {
+      "paperId": "678c3e8c2ca983ee53107a4510aab7eba239d542",
+      "title": "Perception of Average Value in Multiclass Scatterplots"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "67b0101844cb3f2b34b05cc43037198ac15118e3",
+      "title": "Change Blindness Images"
+    },
+    {
+      "paperId": "bffb7d98749b9cb7701bfd1950c9435eb76d3f59",
+      "title": "Perceptually Driven Visibility Optimization for Categorical Data Visualization"
+    },
+    {
+      "paperId": "040ad282a2596645cea974e7671fd2242b773cb3",
+      "title": "Selecting Semantically\u2010Resonant Colors for Data Visualization"
+    },
+    {
+      "paperId": "10f5596ea40067e8ce04c3d2858ba2084c88729b",
+      "title": "Interactive horizon graphs: improving the compact visualization of multiple time series"
+    },
+    {
+      "paperId": "b8ab3e84f36cfe93d1f9fbe97dfe6e1a34262037",
+      "title": "Influencing visual judgment through affective priming"
+    },
+    {
+      "paperId": "f38b97b5623814a389bda16041df776c82e60b16",
+      "title": "The Generalized Sensitivity Scatterplot"
+    },
+    {
+      "paperId": "80388bc79084340a0f0bccc4a2455c3f3c504b27",
+      "title": "Spatial Text Visualization Using Automatic Typographic Maps"
+    },
+    {
+      "paperId": "3a1996c0192eb33b060774f84d66a6b461863b40",
+      "title": "How Capacity Limits of Attention Influence Information Visualization Effectiveness"
+    },
+    {
+      "paperId": "e7c3fd2f7049cc48437625fe3794321136c084e0",
+      "title": "Exploring the impact of emotion on visual judgement"
+    },
+    {
+      "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+      "title": "A Taxonomy of Visual Cluster Separation Factors"
+    },
+    {
+      "paperId": "e250c61ed60db08b8c545bdf9f8f80b96a20a903",
+      "title": "Comparing averages in time series data"
+    },
+    {
+      "paperId": "202e8bcbd41e7faddbf7d8ee85f9c39e4ef05fc4",
+      "title": "Progressive parallel coordinates"
+    },
+    {
+      "paperId": "a52031ee8bf179b10dcd53496b91bcca7b697488",
+      "title": "Designing a better weather display"
+    },
+    {
+      "paperId": "9d05566dffa8476b7c4cc36ca1f3b9f41174bafa",
+      "title": "iVisClassifier: An interactive visual analytics system for classification based on supervised dimension reduction"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "3fe76b54a6fd2b4bbdfdac10711e9ae857025dfa",
+      "title": "A model of symbol size discrimination in scatterplots"
+    },
+    {
+      "paperId": "55d3281f6b34c50df975b7261044689bf73ec610",
+      "title": "Crowdsourcing graphical perception: using mechanical turk to assess visualization design"
+    },
+    {
+      "paperId": "11905dd75d52eccf2aa21c2d5be7ff618d490218",
+      "title": "A model of symbol lightness discrimination in sparse scatterplots"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "6bf703874706ba2b5cc1b6e49f9d1ae59ff1ce5f",
+      "title": "Visual Perception of Parallel Coordinate Visualizations"
+    },
+    {
+      "paperId": "097ab740c8c6e3482bf39255e192894d12147f68",
+      "title": "Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations"
+    },
+    {
+      "paperId": "7c5bf3884bccc48f36068bb14d2411fb41671ddf",
+      "title": "Semantically structured tag clouds: an empirical evaluation of clustered presentation approaches"
+    },
+    {
+      "paperId": "31435e2ed9b48e1659786d51594ea713f2135c84",
+      "title": "Perceptual Organization in User-Generated Graph Layouts"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "39f55c43756bb28485307f2920d821b02ba8002e",
+      "title": "The perception of scatterplots"
+    },
+    {
+      "paperId": "1ef18d7a42a9ddfd6162fcd5b40d999b0749ed6b",
+      "title": "An assessment of tag presentation techniques"
+    },
+    {
+      "paperId": "22384011438b9e35b32f65deef03cc9b37aeffaf",
+      "title": "Getting our head in the clouds: toward evaluation studies of tagclouds"
+    },
+    {
+      "paperId": "8489218a605ffd98a2cb832774985a99b4092b5c",
+      "title": "The Perceptual Scalability of Visualization"
+    },
+    {
+      "paperId": "ead04369d0a0690875592a084f0af352275ced21",
+      "title": "Biases in judgments of separation and orientation of elements belonging to different clusters"
+    },
+    {
+      "paperId": "a3af8638bfc4304919981fd31a45621891615c4a",
+      "title": "Perceiving Relationships: A Physiological Examination of the Perception of Scatterplots"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "4effb869de6edd5e6e7e1ec476ab402fa9d28c55",
+      "title": "A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "ef9366070fc54155c8540ad6b1e411dcef1ccd44",
+      "title": "Immersive virtual environment technology as a basic research tool in psychology"
+    },
+    {
+      "paperId": "6d19d2f0e48c77b7ae2f319ba18924a851bbe066",
+      "title": "Visual, Haptic, and Bimodal Perception of Size and Stiffness in Virtual Environments"
+    },
+    {
+      "paperId": "467a337884e2efcc2253aa0e4adc1a7651ee97d5",
+      "title": "Bars and lines: A study of graphic communication"
+    },
+    {
+      "paperId": "a8fd2a651f01f2f646b840b60c9ac63d3141fa7f",
+      "title": "Perception Based Color Image Difference"
+    },
+    {
+      "paperId": "3a06f230dfaa470ce9c7f12ca1a90818685cc6d2",
+      "title": "Psychophysics: The Fundamentals"
+    },
+    {
+      "paperId": "64b211711c998233a61600381924d28e53c19c7b",
+      "title": "Cluster Perception in the Distribution of Point Objects"
+    },
+    {
+      "paperId": "192c4cf1c836853f1f8eb1eb9669346f9124bb06",
+      "title": "Correlation estimates as perceptual judgments."
+    },
+    {
+      "paperId": "b258fded4afb73c5b2fb95b5f6a926489eab9dca",
+      "title": "Biases and sensitivities in geometrical illusions"
+    },
+    {
+      "paperId": "82329144ab191e96ae499a07f5b63e29b8a430b6",
+      "title": "Density in scatterplots and the estimation of correlation"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "1eb17f961b571152ae1adf140a223a603b5f1e21",
+      "title": "Hearing: An Introduction to Psychological and Physiological Acoustics"
+    },
+    {
+      "paperId": "ffb9ad67fc6a13a744baf27e3248e3829934c2b5",
+      "title": "Variables on Scatterplots Look More Highly Correlated When the Scales Are Increased"
+    },
+    {
+      "paperId": "b35bd2ba05ba36e6c54ff615827f4935c5fd4cb3",
+      "title": "THE PERCEPTION OF PEARSON PRODUCT MOMENT CORRELATIONS FROM BIVARIATE SCATTERPLOTS"
+    },
+    {
+      "paperId": "a848ca44f206a340a699d791eac3446da63d7166",
+      "title": "Human Perception of Homogeneous Dot Patterns"
+    },
+    {
+      "paperId": "3b491d3d9aae9972e11439f9c9b26da979edb33b",
+      "title": "Facilitation in recognizing pairs of words: evidence of a dependence between retrieval operations."
+    },
+    {
+      "paperId": "ede67e199f7d580dd341fc61da567fd80e5a524c",
+      "title": "The Relative Merits of Circles and Bars for Representing Component Parts"
+    },
+    {
+      "paperId": "1ab83f7d1aa711714a6a410041388a2bf39330ec",
+      "title": "Skeleton-Based Scagnostics"
+    },
+    {
+      "paperId": "6c8bb037129f0397711ccb4f7f5285097bf394c7",
+      "title": "Modeling Color Difference for Visualization Design"
+    },
+    {
+      "paperId": "26948ffe1ac693fd7c3f723c3908f03b41ba52e7",
+      "title": "Conceptual and Methodological Issues in Evaluating Multidimensional Visualizations for Decision Support"
+    },
+    {
+      "paperId": "548aa59905693f84e95515c6134cd5352a97ca76",
+      "title": "Scatterplots: Tasks, Data, and Designs"
+    },
+    {
+      "paperId": "91b5e5179c1f747fcb8c7f0cc30d874375e3f881",
+      "title": "Taking Word Clouds Apart: An Empirical Investigation of the Design Space for Keyword Summaries"
+    },
+    {
+      "paperId": "3fd99b2ec41357b2b6e8606eca37b9870528facd",
+      "title": "Priming and Anchoring Effects in Visualization"
+    },
+    {
+      "paperId": "55e2f55a0911071224866f7723fc2eaae44019ce",
+      "title": "Visualizing Big Data Outliers Through Distributed Aggregation"
+    },
+    {
+      "paperId": "09b1a80c96e07099e82a75062ee82a7c3279d8f3",
+      "title": "So, What Are Cognitive Biases?"
+    },
+    {
+      "paperId": "bbf3e8a02259c416d170062c95e87c3e071594db",
+      "title": "A Crowdsourced Approach to Colormap Assessment"
+    },
+    {
+      "paperId": "a96fce17a28aa4bb8d8742464619b9334bc4271c",
+      "title": "Readability and Precision in Pictorial Bar Charts"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": "575b2c7efaf66291ad5dff011e978417e3727ef3",
+      "title": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "paperId": "3b035f556c2a819e61fa9ef716cfc248c3f17f4c",
+      "title": "A Framework for Studying Biases in Visualization Research"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cJourney to Zvinca: The making of a new chart,\u201d"
+    },
+    {
+      "paperId": "4cdf151ec3611c64cc608852c3a64c490aab626d",
+      "title": "On the Prospects for a Science of Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "CLASS"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cGapminder,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSolutions to the problem of over-plotting in graphs,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe development of the horizon graph,\u201d"
+    },
+    {
+      "paperId": "139a2b7ff18ec88ae498cd3058fe05f57905e5d1",
+      "title": "Attention , Consciousness , and Data Display"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "2ac4ae28db7ec2d59472b1eb093c464943583748",
+      "title": "The use or misuse of three-dimensional graphs to represent lower-dimensional data"
+    },
+    {
+      "paperId": "043cc33f560cb2631f37dbbedcd03663cd64ff24",
+      "title": "The Attraction Effect and Political Choice in Two Elections"
+    },
+    {
+      "paperId": "292b2fa1bbb7373679882439c35353e64ee52337",
+      "title": "Displaying proportions and percentages"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cChromostereopsis,\u201d"
+    },
+    {
+      "paperId": "c36bdbc713f44076dcc8efbe078d42c46f3a2421",
+      "title": "Sensation and perception"
+    },
+    {
+      "paperId": "f83b01a0b2fe92e5f570eb0a91eee1105e237f7f",
+      "title": "De pulsu, resorptione, auditu et tactu. Annotationes anatomicae et physiologicae"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cWeber\u2019s law of just noticeable differences,\u201d"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Example of attraction effect in selecting hypothetical election candidates. Image reproduced with permission"
+    }
+  ]
+}

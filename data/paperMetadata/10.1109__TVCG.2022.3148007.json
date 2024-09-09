@@ -1,0 +1,1305 @@
+{
+  "paperId": "096618aba19bce1d917df488a04891ab239cffdd",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ShenSLYHZTW23",
+    "ArXiv": "2109.03506",
+    "DOI": "10.1109/TVCG.2022.3148007",
+    "CorpusId": 237439677,
+    "PubMed": "35104221"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/096618aba19bce1d917df488a04891ab239cffdd",
+  "title": "Towards Natural Language Interfaces for Data Visualization: A Survey",
+  "abstract": "Utilizing Visualization-oriented Natural Language Interfaces (V-NLI) as a complementary input modality to direct manipulation for visual analytics can provide an engaging user experience. It enables users to focus on their tasks rather than having to worry about how to operate visualization tools on the interface. In the past two decades, leveraging advanced natural language processing technologies, numerous V-NLI systems have been developed in academic research and commercial software, especially in recent years. In this article, we conduct a comprehensive review of the existing V-NLIs. In order to classify each article, we develop categorical dimensions based on a classic information visualization pipeline with the extension of a V-NLI layer. The following seven stages are used: query interpretation, data transformation, visual mapping, view transformation, human interaction, dialogue management, and presentation. Finally, we also shed light on several promising directions for future work in the V-NLI community.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 302,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2109.03506",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-09-08",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3121-3144",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Shen2021TowardsNL,\n author = {Leixian Shen and Enya Shen and Yuyu Luo and Xiaocong Yang and Xuming Hu and Xiongshuai Zhang and Zhiwei Tai and Jianmin Wang},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3121-3144},\n title = {Towards Natural Language Interfaces for Data Visualization: A Survey},\n volume = {29},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2314809440",
+      "name": "Leixian Shen"
+    },
+    {
+      "authorId": "2827782",
+      "name": "Enya Shen"
+    },
+    {
+      "authorId": "3462170",
+      "name": "Yuyu Luo"
+    },
+    {
+      "authorId": "2124756940",
+      "name": "Xiaocong Yang"
+    },
+    {
+      "authorId": "2109906988",
+      "name": "Xuming Hu"
+    },
+    {
+      "authorId": "2130077004",
+      "name": "Xiongshuai Zhang"
+    },
+    {
+      "authorId": "2125926783",
+      "name": "Zhiwei Tai"
+    },
+    {
+      "authorId": "2144499639",
+      "name": "Jianmin Wang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "df2f4e150765ce15cd7956266d8d958b37676201",
+      "title": "Natural Language to Visualization by Neural Machine Translation"
+    },
+    {
+      "paperId": "e0cc4984c172b6f472a69ab3c5544a1c7b084120",
+      "title": "Snowy: Recommending Utterances for Conversational Visual Analysis"
+    },
+    {
+      "paperId": "beffbe6dd0ded53c496bf0d6ab01b7c71df43bc9",
+      "title": "GeoSneakPique: Visual Autocompletion for Geospatial Queries"
+    },
+    {
+      "paperId": "a59c95774ceb1753076d73952b17f566d56a967c",
+      "title": "An Evaluation-Focused Framework for Visualization Recommendation Algorithms"
+    },
+    {
+      "paperId": "5984508c2d04444ec639c214f0b2004043c40bc5",
+      "title": "EXACTA: Explainable Column Annotation"
+    },
+    {
+      "paperId": "cb80990894e1aaf9f9c75c6e4f45d3859e6a24ad",
+      "title": "Learning to Recommend Visualizations from Data"
+    },
+    {
+      "paperId": "0746153f09154d1a4d778a803eb2c2168e56132d",
+      "title": "KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation"
+    },
+    {
+      "paperId": "a0593d33c973b424e8167e6260054172ef0dfb33",
+      "title": "MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation"
+    },
+    {
+      "paperId": "d34ff7552f6b25b6bd00d685f80a1840085eb3ae",
+      "title": "DT2VIS: A Focus+Context Answer Generation System to Facilitate Visual Exploration of Tabular Data"
+    },
+    {
+      "paperId": "7fa08b49f6d7ad2d434cb6bbfe8544a08651c5b5",
+      "title": "DCoM: A Deep Column Mapper for Semantic Data Type Detection"
+    },
+    {
+      "paperId": "00a95c2e2af1c6ef7ba41fe502a8cc729cdd284d",
+      "title": "CPM-2: Large-scale Cost-effective Pre-trained Language Models"
+    },
+    {
+      "paperId": "efd7a16360d116b5bafac7aa700a4c55fa337f2f",
+      "title": "From Sketching to Natural Language"
+    },
+    {
+      "paperId": "7e2ae39ebe978ef19db0ce720e74f7af590ce9e6",
+      "title": "Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks"
+    },
+    {
+      "paperId": "1e8c695035fb161158042c960f716cb938d261d9",
+      "title": "Boomerang: Proactive Insight-Based Recommendations for Guiding Conversational Data Analysis"
+    },
+    {
+      "paperId": "d05fdc686ebe5148196b25b5c7e3880654c3354e",
+      "title": "Emerging Wearable Interfaces and Algorithms for Hand Gesture Recognition: A Survey"
+    },
+    {
+      "paperId": "fff6b0e394a71edfb077b9a9d28cc6c611c4de6d",
+      "title": "Collecting and Characterizing Natural Language Utterances for Specifying Data Visualizations"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "b8c72ae496c0066d76b62e2e05bba0766f3da0a1",
+      "title": "Data-Driven Mark Orientation for Trend Estimation in Scatterplots"
+    },
+    {
+      "paperId": "9ef46134e4b21fbfbe51a6c2560d7e347ca9466a",
+      "title": "CAST: Authoring Data-Driven Chart Animations"
+    },
+    {
+      "paperId": "821929687b5925f9d69430c4166a73935ae1a2fc",
+      "title": "Data Animator: Authoring Expressive Animated Data Graphics"
+    },
+    {
+      "paperId": "c1b7a90e45313ade8d91647da8459af82f99aaa4",
+      "title": "MIRIA: A Mixed Reality Toolkit for the In-Situ Visualization and Analysis of Spatio-Temporal Interaction Data"
+    },
+    {
+      "paperId": "6504db2b2cdcbdb4308e7df83a477c75c5b097e4",
+      "title": "MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis"
+    },
+    {
+      "paperId": "d5611a92619548e7f2af5adb04070574c0dacac1",
+      "title": "InfographicVQA"
+    },
+    {
+      "paperId": "55c8137a21252e8b371ce0ccaabcf3c31d550e3a",
+      "title": "Generating Accurate Caption Units for Figure Captioning"
+    },
+    {
+      "paperId": "d43f7eea997c60868af4e588bac4bf5834bbf163",
+      "title": "DIY: Assessing the Correctness of Natural Language to SQL Systems"
+    },
+    {
+      "paperId": "dada26862a415e66fef6568754eb0eb8e908c40e",
+      "title": "Annotating Columns with Pre-trained Language Models"
+    },
+    {
+      "paperId": "b57aea650f2b5cda765f9a2ad79f001f0fe2f7da",
+      "title": "ADVISor: Automatic Visualization Answer for Natural-Language Question on Tabular Data"
+    },
+    {
+      "paperId": "1f511f97bac75391c4eaf0afabd956e15634f81e",
+      "title": "Insight-centric Visualization Recommendation"
+    },
+    {
+      "paperId": "05cd2d9dcfebab158dc3fb3c9df2dca287939122",
+      "title": "CogNet: Bridging Linguistic Knowledge, World Knowledge and Commonsense Knowledge"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "1f28a9be307fecfdb58d1b9240903ea929f1d921",
+      "title": "Deconstructing Categorization in Visualization Recommendation: A Taxonomy and Comparative Study"
+    },
+    {
+      "paperId": "2039d25291bdd08005a82f6424f759f59a289adb",
+      "title": "Personalized Visualization Recommendation"
+    },
+    {
+      "paperId": "11993832e79b684e2c2c7f2cf1d20a3b9286629b",
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "824cd8db8a68732db04f4d8b7139eb4475e59ff2",
+      "title": "The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics"
+    },
+    {
+      "paperId": "37808b916d4f9609f03d5c837fe983966976ce94",
+      "title": "Falx: Synthesis-Powered Visualization Authoring"
+    },
+    {
+      "paperId": "c23931a0c93459db54068efb82f15bcd6b3de4a9",
+      "title": "Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts"
+    },
+    {
+      "paperId": "92df740d27a0e6f1621c3e68cc0913370b5efd1d",
+      "title": "Data@Hand: Fostering Visual Exploration of Personal Data on\u00a0Smartphones Leveraging Speech and Touch Interaction"
+    },
+    {
+      "paperId": "09fb12aa1e2a1bcb9dea994774841378ba3fe129",
+      "title": "Task-Based Visual Interactive Modeling: Decision Trees and Rule-Based Classifiers"
+    },
+    {
+      "paperId": "1acce627176931fb60739055938ba0b2444d0d3b",
+      "title": "Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations"
+    },
+    {
+      "paperId": "9cb2877a74a51ee9f7d757ab87d3182e1f1322ad",
+      "title": "Learning to Automate Chart Layout Configurations Using Crowdsourced Paired Comparison"
+    },
+    {
+      "paperId": "3029263ca51e6c2907f9f99277083cf6afb1adb7",
+      "title": "Coreference Resolution without Span Representations"
+    },
+    {
+      "paperId": "7699389c6d4c94e578f3fe8f2fec0974fe39eb4e",
+      "title": "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
+    },
+    {
+      "paperId": "4b73f445209593dab79532c6daddf27e440a2ccb",
+      "title": "Task-Based Effectiveness of Interactive Contiguous Area Cartograms"
+    },
+    {
+      "paperId": "baff151a5f1cb378d3627b88ff7d1b3afd29db45",
+      "title": "STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering"
+    },
+    {
+      "paperId": "e7ddba6cdac89c7f032db941e6b3df3ff15c39d6",
+      "title": "Collaborative Work in Augmented Reality: A Survey"
+    },
+    {
+      "paperId": "551bd33a940f51f76512d2266636aaf9d894e113",
+      "title": "Sneak Pique: Exploring Autocompletion as a Data Discovery Scaffold for Supporting Visual Analysis"
+    },
+    {
+      "paperId": "c8752767677efc3a3514dc52a7ac1973b08fb774",
+      "title": "Crosscast: Adding Visuals to Audio Travel Podcasts"
+    },
+    {
+      "paperId": "da34850d334efad86f4d7c75db8c737ae07939f3",
+      "title": "Crosspower: Bridging Graphics and Linguistics"
+    },
+    {
+      "paperId": "9a2a5bb18d6252711e124c0029fcf002d62f1795",
+      "title": "Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model"
+    },
+    {
+      "paperId": "4ba32135a6a16c02da96e869e703034732e05a1c",
+      "title": "Calliope: Automatic Visual Data Story Generation from a Spreadsheet"
+    },
+    {
+      "paperId": "9640686a3b1fc26722ff53be90ad566ac7690b80",
+      "title": "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
+    },
+    {
+      "paperId": "65be695739d0fa35212e49ccccd129535e6d9e15",
+      "title": "Understanding tables with intermediate pre-training"
+    },
+    {
+      "paperId": "16ddaab1cb94e9307ef854727319299aeec04484",
+      "title": "Neural Data-Driven Captioning of Time-Series Line Charts"
+    },
+    {
+      "paperId": "30972f5c7eb7ea00c1c6375fcbaf41adde1b5915",
+      "title": "A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution in English"
+    },
+    {
+      "paperId": "8d7e46a034fd354dbfe4f4979173b72057b58a56",
+      "title": "Sentifiers: Interpreting Vague Intent Modifiers in Visual Analysis using Word Co-occurrence and Sentiment Analysis"
+    },
+    {
+      "paperId": "dfaf5d156422b5e97b1cc476272cf3e0e39347d9",
+      "title": "Gemini: A Grammar and Recommender System for Animated Transitions in Statistical Graphics"
+    },
+    {
+      "paperId": "de23d0af3880c4ed33881e3955d4a3bf5534e05d",
+      "title": "ConVisQA: A Natural Language Interface for Visually Exploring Online Conversations"
+    },
+    {
+      "paperId": "8b5e8e91bcaec2de998737b181bb4638e4e77553",
+      "title": "A survey on automatic infographics and visualization recommendations"
+    },
+    {
+      "paperId": "3dd9bc052e56712742c08cb8aa4f2e417a09c67b",
+      "title": "Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality"
+    },
+    {
+      "paperId": "5593676873d799a4727123a2cbffb231d3b4eb80",
+      "title": "NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries"
+    },
+    {
+      "paperId": "901a52e1fc4145801228e07e05fe91c76098f95d",
+      "title": "Table2Charts: Recommending Charts by Learning Shared Table Representations"
+    },
+    {
+      "paperId": "3725a0babf1c34f159e1e6c6b8c33714fd563b79",
+      "title": "VizCommender: Computing Text-Based Similarity in Visualization Repositories for Content-Based Recommendations"
+    },
+    {
+      "paperId": "d099b4140de83643c8ca08c253e9adb04e34b432",
+      "title": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "paperId": "0024638c887f4d6b7980b9eeb25377fd79aa4b66",
+      "title": "AUDiaL: A Natural Language Interface to Make Statistical Charts Accessible to Blind Persons"
+    },
+    {
+      "paperId": "01e16b5caec932b087288db225fe550c0592791d",
+      "title": "Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics"
+    },
+    {
+      "paperId": "9d0130a8f9677311cdc7a1e353fe586afe2ccd58",
+      "title": "Story Analysis Using Natural Language Processing and Interactive Dashboards"
+    },
+    {
+      "paperId": "1da72a278c3aee7887eb6fccfa412b18242dbbd2",
+      "title": "Supporting Story Synthesis: Bridging the Gap between Visual Analytics and Storytelling"
+    },
+    {
+      "paperId": "f4e9fad591266d901634b21ebaf94c43b1f0ce69",
+      "title": "Inspecting Data Using Natural Language Queries"
+    },
+    {
+      "paperId": "53fe2e4eb375f92464cd2d4bb18ad643584eb966",
+      "title": "How to Ask What to Say?: Strategies for Evaluating Natural Language Interfaces for Data Visualization"
+    },
+    {
+      "paperId": "5b3d791caf682998bbd96ce08a98bfc95a86b3a6",
+      "title": "TURL"
+    },
+    {
+      "paperId": "e23cb51f50f749320b9122fb5f75113b4d192c0a",
+      "title": "Evaluation of Text Generation: A Survey"
+    },
+    {
+      "paperId": "89bb30eeaf780b54918babcec08d922e93518d0c",
+      "title": "AutoCaption: An Approach to Generate Natural Language Description from Visualization Automatically"
+    },
+    {
+      "paperId": "ad98f7d494fc30380fc4a857a3efa2f8ec03e704",
+      "title": "State of the Art and Open Challenges in Natural Language Interfaces to Data"
+    },
+    {
+      "paperId": "4c1881f48def5ac45aeacd45291a7972d8b21013",
+      "title": "An Ontology-Based Conversation System for Knowledge Bases"
+    },
+    {
+      "paperId": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "title": "Language Models are Few-Shot Learners"
+    },
+    {
+      "paperId": "72e0344605bde4707d24d2f9b0b4e1e0aa953604",
+      "title": "Quda: Natural Language Queries for Visual Data Analytics"
+    },
+    {
+      "paperId": "ea39ba01c713d5445471e4af603a3927a14687c7",
+      "title": "Answering Questions about Charts and Generating Visual Explanations"
+    },
+    {
+      "paperId": "3af942f4329122871caa313c6c5929c855b68618",
+      "title": "Automatic Annotation Synchronizing with Textual Description for Visualization"
+    },
+    {
+      "paperId": "ed585b684af4437c5a9e24b287aeba73e96e17f4",
+      "title": "Augmenting Static Visualizations with PapARVis Designer"
+    },
+    {
+      "paperId": "af95004e60c9f54ffef34a634b1d80b8d60c4b30",
+      "title": "MRAT: The Mixed Reality Analytics Toolkit"
+    },
+    {
+      "paperId": "c38f9123da8b77b4cc9ab198cef8c9e7b1bbdb32",
+      "title": "\"Hey Model!\" \u0096 Natural User Interactions and Agency in Accessible Interactive 3D Models"
+    },
+    {
+      "paperId": "2247b3cb46f3b434c8018fdf71ec8c9f780d7239",
+      "title": "Dziban: Balancing Agency & Automation in Visualization Design via Anchored Recommendations"
+    },
+    {
+      "paperId": "52cb05d721688cb766c6e282e9d55c3b8e3dc0cf",
+      "title": "TaPas: Weakly Supervised Table Parsing via Pre-training"
+    },
+    {
+      "paperId": "9a815e5ba516ee6b18b5324e81691e3f7dedc0d4",
+      "title": "A Natural Language Interface for Database: Achieving Transfer-learnability Using Adversarial Method for Question Understanding"
+    },
+    {
+      "paperId": "641a9749fe546a02bbab9a86bfc91492db1c3bc5",
+      "title": "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages"
+    },
+    {
+      "paperId": "658c4f07d852fd17b51783c00480446fb003c985",
+      "title": "VisuaLint: Sketchy In Situ Annotations of Chart Construction Errors"
+    },
+    {
+      "paperId": "e52220473fe88febf6c2336c1cc8c1d1c05c6f13",
+      "title": "Interweaving Multimodal Interaction With Flexible Unit Visualizations for Data Exploration"
+    },
+    {
+      "paperId": "676f58096dddb5405df7fe844d10caf4ab6ff6e5",
+      "title": "ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots"
+    },
+    {
+      "paperId": "b44562079261b3bc01ad1ceb0f94b66f761d88a6",
+      "title": "Touch? Speech? or Touch and Speech? Investigating Multimodal Interaction for Visual Network Exploration and Analysis"
+    },
+    {
+      "paperId": "0a9d3145a31600919f30a45e1fcf26a10e45b048",
+      "title": "Multi-Task Learning for Speaker Verification and Voice Trigger Detection"
+    },
+    {
+      "paperId": "0526ef6bcc9d42c4b5d2a901b662bf70664235de",
+      "title": "Cheat Sheets for Data Visualization Techniques"
+    },
+    {
+      "paperId": "0f6bffe191479fd488481d8142343bb4cf011646",
+      "title": "InChorus: Designing Consistent Multimodal Interactions for Data Visualization on Tablet Devices"
+    },
+    {
+      "paperId": "166bc6dc8d7202cda0096eab824aac976fa77317",
+      "title": "VRIA: A Web-Based Framework for Creating Immersive Analytics Experiences"
+    },
+    {
+      "paperId": "a0d763d183d735201249c21f1afdeb025c49f112",
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data"
+    },
+    {
+      "paperId": "23fc2f69cb94858401a3eaecbd13471a8c6c7eb1",
+      "title": "What is Interaction for Data Visualization?"
+    },
+    {
+      "paperId": "8e3b3679cfa68dbbafdbcbb462030b95948842d4",
+      "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior"
+    },
+    {
+      "paperId": "336f315b7cba1101c352e4a91073b87d85ce3981",
+      "title": "Words of Estimative Correlation: Studying Verbalizations of Scatterplots"
+    },
+    {
+      "paperId": "b0c8b08dcb94752d5d96f88a9b1bcd58bcc9154f",
+      "title": "Making data visualization more efficient and effective: a survey"
+    },
+    {
+      "paperId": "0983f358acd88e3559f4a763c90281d35768787e",
+      "title": "Sato"
+    },
+    {
+      "paperId": "f4b502e9bdac7a95de59bd17b7b5eff173b3dd0b",
+      "title": "Speak to your Software Visualization\u2014Exploring Component-Based Software Architectures in Augmented Reality with a Conversational Interface"
+    },
+    {
+      "paperId": "f6bc0e159372080caf24b51cc6c3cd255c8665f8",
+      "title": "Enhanced Transformer Model for Data-to-Text Generation"
+    },
+    {
+      "paperId": "e0b7e97f0bddbb21cb5f6b22c3ffa08a6cf9885f",
+      "title": "A Neural Entity Coreference Resolution Review"
+    },
+    {
+      "paperId": "f71cd1d1b50d187cb46c878f50cecfb8ec1ab117",
+      "title": "Do What I Mean, Not What I Say! Design Considerations for Supporting Intent and Context in Analytical Conversation"
+    },
+    {
+      "paperId": "ad18dfdc96cb64f8ac324a2b85b6058c77199a69",
+      "title": "Would You Like A Chart With That? Incorporating Visualizations into Conversational Interfaces"
+    },
+    {
+      "paperId": "863248657dbf43d89fc971dc24f2b8847372e874",
+      "title": "Gaze-Driven Adaptive Interventions for Magazine-Style Narrative Visualizations"
+    },
+    {
+      "paperId": "4aa6298b606941a282d735fa3143da293199d2ca",
+      "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations"
+    },
+    {
+      "paperId": "25a3504ff7660800648caacaa6281311c58fa8e3",
+      "title": "Thumbnails for Data Stories: A Survey of Current Practices"
+    },
+    {
+      "paperId": "5aec474c31a2f4b74703c6f786c0a8ff85c450da",
+      "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language"
+    },
+    {
+      "paperId": "75f0c4d54c7e5066d5be1e6bba3366e27675e6c3",
+      "title": "Task-Oriented Optimal Sequencing of Visualization Charts"
+    },
+    {
+      "paperId": "9d11d18c91aef64538156df205b1668af2821a2d",
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System"
+    },
+    {
+      "paperId": "cea999e80b6b10d18687bf2735df2c87a228392e",
+      "title": "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories"
+    },
+    {
+      "paperId": "127ffe6d21b75bd41dd808e3313bc392b9428346",
+      "title": "BERT for Coreference Resolution: Baselines and Analysis"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "b61cd1e80ecc20d5efd0a4c6c568d4634435088a",
+      "title": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "paperId": "d47f20de7195fea82e48315fea52ccf06dc301d3",
+      "title": "LEAF-QA: Locate, Encode & Attend for Figure Question Answering"
+    },
+    {
+      "paperId": "81f5810fbbab9b7203b9556f4ce3c741875407bc",
+      "title": "SpanBERT: Improving Pre-training by Representing and Predicting Spans"
+    },
+    {
+      "paperId": "9e575554ecd9a4b21991e2a613996420246f0b40",
+      "title": "Text-to-Viz: Automatic Generation of Infographics from Proportion-Related Natural Language Statements"
+    },
+    {
+      "paperId": "df7f7e623d596f53903fa958f452229954094a9b",
+      "title": "A Comparative Evaluation of Visual and Natural Language Question Answering Over Linked Data"
+    },
+    {
+      "paperId": "6d210e79244f164c88f4be8a2771b097fd75b533",
+      "title": "Meimei: An Efficient Probabilistic Approach for Semantically Annotating Tables"
+    },
+    {
+      "paperId": "a4501315f04f11b21db9a6070f0fd5f5c469e86c",
+      "title": "Content-aware generative modeling of graphic design layouts"
+    },
+    {
+      "paperId": "9f2d1fccd76d5b3a438e8e67cb717ec8b40a9e9e",
+      "title": "Knowledge-aware Pronoun Coreference Resolution"
+    },
+    {
+      "paperId": "fbdec5cf03b7cc03a17548e6b4faeaba8cd85fc7",
+      "title": "Natural Language Querying of Complex Business Intelligence Queries"
+    },
+    {
+      "paperId": "8b44ef700b8c59841217734f11991aeef42e3e3d",
+      "title": "QuickInsights: Quick and Automatic Discovery of Insights from Multi-Dimensional Data"
+    },
+    {
+      "paperId": "c4e3955219e8b008e4a14fbd0a1aac17cdba568d",
+      "title": "A comparative survey of recent natural language interfaces for databases"
+    },
+    {
+      "paperId": "7b49a1ed5d5ee749b2222ab84f9bfb41b4b7d69a",
+      "title": "Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis"
+    },
+    {
+      "paperId": "b03e4702c8427b2458234ff8f37358c68177ccbb",
+      "title": "Sherlock: A Deep Learning Approach to Semantic Data Type Detection"
+    },
+    {
+      "paperId": "3c89068551a84430a0b1fdfeb8d963e2b2fc7ecc",
+      "title": "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation"
+    },
+    {
+      "paperId": "c57298fe3faf87f9f24414821b0df7ebb7634320",
+      "title": "A Surprisingly Robust Trick for the Winograd Schema Challenge"
+    },
+    {
+      "paperId": "b4693a93b033d6ec6c5c98a22797e43928ac7470",
+      "title": "A Survey of Multilingual Neural Machine Translation"
+    },
+    {
+      "paperId": "6e98155a85d64e28f41655c2b7468a690551ae28",
+      "title": "VizNet: Towards A Large-Scale Visualization Learning and Benchmarking Repository"
+    },
+    {
+      "paperId": "341d4c58393b55ea7546f1674a5ec599a3a846a4",
+      "title": "Inferencing underspecified natural language utterances in visual analysis"
+    },
+    {
+      "paperId": "88f8c0e974b649c84b5c295b27d56e0314ef0dd4",
+      "title": "Discovering natural language commands in multimodal interfaces"
+    },
+    {
+      "paperId": "99dc256c338f0abce240309c356d05c700bc20f3",
+      "title": "Deep Learning Based Recommender System"
+    },
+    {
+      "paperId": "be04748e87facf2df63dc709d8d289766376d193",
+      "title": "Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases"
+    },
+    {
+      "paperId": "f3f4e8f1871622bd937a592b23fa7cc0a41bfbe0",
+      "title": "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "668f42a4d4094f0a66d402a16087e14269b31a1f",
+      "title": "Analysis Methods in Neural Language Processing: A Survey"
+    },
+    {
+      "paperId": "d318f1522abcff2b790f265ed4f196412f21a632",
+      "title": "A comprehensive review of tools for exploratory analysis of tabular industrial datasets"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "ff3b3bf3427b15e86e7e9a86ebfeef40efb2c540",
+      "title": "Going beyond Visualization. Verbalization as Complementary Medium to Explain Machine Learning Models"
+    },
+    {
+      "paperId": "8e773b1840b894603c06b677a0f15ebcf0f26378",
+      "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
+    },
+    {
+      "paperId": "c581686edbd7227e9eb4a0841cce16728ca27369",
+      "title": "RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes"
+    },
+    {
+      "paperId": "777ffe663942df3c3d6eb969e1a03aff30c24fdc",
+      "title": "A Natural Language Interface for Dissemination of Reproducible Biomedical Data Science"
+    },
+    {
+      "paperId": "6a116fbf23a698e5547079a80ee1497b18b5a04c",
+      "title": "VizML: A Machine Learning Approach to Visualization Recommendation"
+    },
+    {
+      "paperId": "94c8e48e7320a0ba0e5cda4f95d7918d66e02d35",
+      "title": "Natural Language Question Answering"
+    },
+    {
+      "paperId": "421fc2556836a6b441de806d7b393a35b6eaea58",
+      "title": "Contextual String Embeddings for Sequence Labeling"
+    },
+    {
+      "paperId": "d6ad4f3a410cc54df6b5f483077636f9bfa519d4",
+      "title": "ShapeSearch: Flexible Pattern-based Querying of Trend Line Visualizations"
+    },
+    {
+      "paperId": "80b894e510162e61ca582d3a758dfb88b2768006",
+      "title": "Parsing and Summarizing Infographics with Synthetically Trained Icon Detection"
+    },
+    {
+      "paperId": "f71578e084792e059c701e7b95c2100a6ed4a4fd",
+      "title": "DialSQL: Dialogue Based Structured Query Generation"
+    },
+    {
+      "paperId": "2e109252024c24904f5641c4eb0cb1cffaf2d612",
+      "title": "DIVE: A Mixed-Initiative System Supporting Integrated Data Exploration Workflows"
+    },
+    {
+      "paperId": "6979c6e6f385263cfd5dfc34d70e30dddd07778d",
+      "title": "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"
+    },
+    {
+      "paperId": "7c791da49acac3f6d795e63e4878ff6ce907b8bd",
+      "title": "MeetingVis: Visual Narratives to Assist in Recalling Meeting Context and Content"
+    },
+    {
+      "paperId": "39b89641005d714507ffa55d9663de8d0f1c4bdf",
+      "title": "DeepEye: Creating Good Data Visualizations by Keyword Search"
+    },
+    {
+      "paperId": "8a22c1e32a1357b20b2e9a51cd7b81c213ab5181",
+      "title": "DBPal: A Learned NL-Interface for Databases"
+    },
+    {
+      "paperId": "679c780127ce31f2602c3cb5bb4c3ab93ff0eab8",
+      "title": "InfoNice: Easy Creation of Information Graphics"
+    },
+    {
+      "paperId": "115c7206c938061d64dc7dfd1eae2629dcf4a9d8",
+      "title": "Valletto: A Multimodal Interface for Ubiquitous Visual Analytics"
+    },
+    {
+      "paperId": "00fb03939dba85baf1a48267c27682e6ab4f4299",
+      "title": "Design Patterns for Data Comics"
+    },
+    {
+      "paperId": "e6566ece21f6637c515fe9969f9d1ec6cca6d36c",
+      "title": "Higher-Order Coreference Resolution with Coarse-to-Fine Inference"
+    },
+    {
+      "paperId": "cc53c188ffe35d4c1a073875f4c113d1c76d82e2",
+      "title": "Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks"
+    },
+    {
+      "paperId": "735222818fca62f36b40617a8db37d74b1f6e19f",
+      "title": "DeepEye: Towards Automatic Data Visualization"
+    },
+    {
+      "paperId": "2f0682809a7b717501950b97e7039751af6b5651",
+      "title": "Storytelling and Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+      "title": "Deep Contextualized Word Representations"
+    },
+    {
+      "paperId": "8ea4424bae1a7a4ac601db7934ab429ab81a1d7d",
+      "title": "Line Graph or Scatter Plot? Automatic Selection of Methods for Visualizing Trends in Time Series"
+    },
+    {
+      "paperId": "7289a240c9425bc7cad87b3b835e5f0cac22f488",
+      "title": "DVQA: Understanding Data Visualizations via Question Answering"
+    },
+    {
+      "paperId": "0404e645cf47f1062de29a02c4791fe5906211db",
+      "title": "Coupling Story to Visualization: Using Textual Analysis as a Bridge Between Data and Interpretation"
+    },
+    {
+      "paperId": "47f65c165f7ccedd4c18189d4690eec5369dd9c5",
+      "title": "SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning"
+    },
+    {
+      "paperId": "13ae80c273f11ab8cd9959c2620d5b63f94a68d7",
+      "title": "A Conversational User Interface for Software Visualization"
+    },
+    {
+      "paperId": "cb6be69c67b0b15ebbda89a126f4dd62a4d32958",
+      "title": "FigureQA: An Annotated Figure Dataset for Visual Reasoning"
+    },
+    {
+      "paperId": "7456179fa71bc237e051ecb3c02c043a50549029",
+      "title": "SQLizer: query synthesis from natural language"
+    },
+    {
+      "paperId": "220c5c5ec1fc209beee9d6d2af1531a1de83f5ca",
+      "title": "Understanding Infographics through Textual and Visual Tag Prediction"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "cbd569036fc72ae7ff747350b91816440282596b",
+      "title": "Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning"
+    },
+    {
+      "paperId": "ce2d5b5856bb6c9ab5c2390eb8b180c75a162055",
+      "title": "Recent Trends in Deep Learning Based Natural Language Processing"
+    },
+    {
+      "paperId": "8ae1af4a424f5e464d46903bc3d18fe1cf1434ff",
+      "title": "End-to-end Neural Coreference Resolution"
+    },
+    {
+      "paperId": "3604598149c83faacd11cee0d35f2ead7a5e81ff",
+      "title": "Iris: A Conversational Agent for Complex Tasks"
+    },
+    {
+      "paperId": "75a4f30e735464022ae56a553859d8ab7abeec2f",
+      "title": "Alexa vs. Siri vs. Cortana vs. Google Assistant: A Comparison of Speech-Based Natural User Interfaces"
+    },
+    {
+      "paperId": "2d1ab0911fe6db7b8b2bdc77d6b4213d21ef1521",
+      "title": "Foresight: Recommending Visual Insights"
+    },
+    {
+      "paperId": "ca25815b6fd7ce8f18ad3f371f3e2b4546b724a2",
+      "title": "Macro Grammars and Holistic Triggering for Efficient Semantic Parsing"
+    },
+    {
+      "paperId": "13395213d47f78672ab4e81573f2b0fa0cfc8c6d",
+      "title": "Challenges in Data-to-Document Generation"
+    },
+    {
+      "paperId": "bcaf6e915e8f4b1d8adf72345150628c4f3eaa53",
+      "title": "Application of Hidden Markov Model in SQL Injection Detection"
+    },
+    {
+      "paperId": "079e5f1e4fdf1c229d4f7d9ce8ad33319713fba3",
+      "title": "Understanding How People Use Natural Language to Ask for Recommendations"
+    },
+    {
+      "paperId": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "title": "Attention is All you Need"
+    },
+    {
+      "paperId": "75054e9994e958d5ef5f4d2c737670962b966159",
+      "title": "Natural Language Interfaces for Data Analysis with Visualization: Considering What Has and Could Be Asked"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "dbe437cb28f6d3be4149a503cf71f60847dfd2ae",
+      "title": "Reverse\u2010Engineering Visualizations: Recovering Visual Encodings from Chart Images"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "fbff9db442f5ddd6fded9095f444f3e33648a716",
+      "title": "PathViewer: Visualizing Pathways through Student Data"
+    },
+    {
+      "paperId": "32ce5467ff884d2f90a233f4d9606c6e18b1a9d6",
+      "title": "Learning a Neural Semantic Parser from User Feedback"
+    },
+    {
+      "paperId": "58410da56a7ae9cac486ed288f1ebef9091c59a6",
+      "title": "ChartAccent: Annotation for data-driven storytelling"
+    },
+    {
+      "paperId": "bae6018e5bcacce92309113386e2f7fa69be7847",
+      "title": "Analyza: Exploring Data with Conversation"
+    },
+    {
+      "paperId": "41f63cf53d024c562f2f17bac7e269fcd42de0df",
+      "title": "VizRec: Recommending Personalized Visualizations"
+    },
+    {
+      "paperId": "120aae102e17be4f1cc2b3c69a84229c60de8b9d",
+      "title": "Commonsense Knowledge Enhanced Embeddings for Solving Pronoun Disambiguation Problems in Winograd Schema Challenge"
+    },
+    {
+      "paperId": "26e9eb44ed8065122d37b0c429a8d341bfeea9a5",
+      "title": "Reference-Aware Language Models"
+    },
+    {
+      "paperId": "d5480773999268984fcc0d23e9b1cab20fea3d71",
+      "title": "Eviza: A Natural Language Interface for Visual Analysis"
+    },
+    {
+      "paperId": "1a44d0c0527d129f07caad29a038b269e1ba5acc",
+      "title": "Task Cube: A three-dimensional conceptual space of user tasks in visualization design and evaluation"
+    },
+    {
+      "paperId": "0e8e40e8bb440db6c4183b4c69b3f04a27c1349c",
+      "title": "Towards a dialogue system that supports rich visualizations of data"
+    },
+    {
+      "paperId": "ac67d5f9c89d8d72fbd074f94079608220348f3f",
+      "title": "ATHENA: An Ontology-Driven System for Natural Language Querying over Relational Data Stores"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "1c39f884bc53d7d5465d0f56c4b432a9352afbe7",
+      "title": "Understanding Natural Language Queries over Relational Databases"
+    },
+    {
+      "paperId": "604764133befe7a0aaa692919545846197e6e065",
+      "title": "Neural Text Generation from Structured Data with Application to the Biography Domain"
+    },
+    {
+      "paperId": "02534853626c18c9a097c2712f1ddf3613257d35",
+      "title": "Incorporating Copying Mechanism in Sequence-to-Sequence Learning"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "d70226265a1e2530db39b56fe83d9af452564f89",
+      "title": "TimeLineCurator: Interactive Authoring of Visual Timelines from Unstructured Text"
+    },
+    {
+      "paperId": "a5d560ef928d0b9f6df2710c4ce66240ed6802b7",
+      "title": "Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+      "title": "Deep Residual Learning for Image Recognition"
+    },
+    {
+      "paperId": "8c2a3e3cb86c2179c67a1c141ada1969d21455f6",
+      "title": "Mixed-initiative visual analytics using task-driven recommendations"
+    },
+    {
+      "paperId": "36a607d93637475a3675ee55ee7a1c2eb6d4376a",
+      "title": "DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization"
+    },
+    {
+      "paperId": "46dceccd2f47d08091a8f726c3e8a9585478a2b0",
+      "title": "More Accurate Question Answering on Freebase"
+    },
+    {
+      "paperId": "b803554583329027f07fb5fe261516f64a8a58c4",
+      "title": "Automatic Extraction of Data from Bar Charts"
+    },
+    {
+      "paperId": "265c244dbb7afffab62afc67f8a85ebda0213299",
+      "title": "SeeDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics"
+    },
+    {
+      "paperId": "b41e95c8c97846d5ca4c11ef79d7814499cc9663",
+      "title": "Compositional Semantic Parsing on Semi-Structured Tables"
+    },
+    {
+      "paperId": "48272dc9b296ab60b43f43427976b77ae30557d1",
+      "title": "Towards a Recommender Engine for Personalized Visualizations"
+    },
+    {
+      "paperId": "c51d1919c531f1cb94fc49df0f39cb54468601e1",
+      "title": "Query2Question: Translating Visualization Interaction into Natural Language"
+    },
+    {
+      "paperId": "279d1176a3602dd6a58d9c4dcb15035e5e4f30bb",
+      "title": "Constructing Models of User and Task Characteristics from Eye Gaze Data for User-Adaptive Information Highlighting"
+    },
+    {
+      "paperId": "23a49364f509f0f033a9fa1b81b7279db54511cc",
+      "title": "VisIRR: Visual analytics for information retrieval and recommendation with large-scale document data"
+    },
+    {
+      "paperId": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+    },
+    {
+      "paperId": "89de826b17bb3a8009c20b7573f85a184827e7fd",
+      "title": "Constructing an Interactive Natural Language Interface for Relational Databases"
+    },
+    {
+      "paperId": "04df95df43325f87263c130eed9b7d2be2df0e0c",
+      "title": "SEEDB: Automatically Generating Query Visualizations"
+    },
+    {
+      "paperId": "c425cc7c78da3bc763ae263d9b6634bcf987f80a",
+      "title": "\"SINA: semantic interpretation of user queries for question answering on interlinked data\" by Saeedeh Shekarpour with Prateek Jain as coordinator"
+    },
+    {
+      "paperId": "42414b70fc61def8adcf5c159604c72e4508e9c1",
+      "title": "NaLIR: an interactive natural language interface for querying relational databases"
+    },
+    {
+      "paperId": "13bc4e683075bdd6a3f0155241c276a772d4aa06",
+      "title": "Generative adversarial networks"
+    },
+    {
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da",
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit"
+    },
+    {
+      "paperId": "25433239b365eefd998c338d7810c9b030c7b9dd",
+      "title": "Generating Summaries of Line Graphs"
+    },
+    {
+      "paperId": "df69a5099fc88102643f8fbeeee639072b7fdc2d",
+      "title": "NewsViews: an automated pipeline for creating custom geovisualizations for news"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "656a5c186043d4e2c9a2b2c0ee581817c6497db0",
+      "title": "Evaluating a Tool for Improving Accessibility to Charts and Graphs"
+    },
+    {
+      "paperId": "aa1378b8921b23bb665f06cabe936641b4769a00",
+      "title": "Augmenting Visualization with Natural Language Translation of Interaction: A Usability Study"
+    },
+    {
+      "paperId": "c27f8fb8d8296263e5f8892d06ab988f8dfb4eea",
+      "title": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration"
+    },
+    {
+      "paperId": "c9ad3344c3f109d62cfcafacece402bc1a3d1deb",
+      "title": "Contextifier: automatic generation of annotated stock visualizations"
+    },
+    {
+      "paperId": "9ad8cf525513e2b6d0a988cf9517bdd481b81225",
+      "title": "User-adaptive information visualization: using eye gaze data to infer visualization tasks and user cognitive abilities"
+    },
+    {
+      "paperId": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
+      "title": "Efficient Estimation of Word Representations in Vector Space"
+    },
+    {
+      "paperId": "1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+      "title": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
+    },
+    {
+      "paperId": "50fc6e1002d365c21fb6d372f76b332b04e26af3",
+      "title": "Graphical Overlays: Using Layered Elements to Aid Chart Reading"
+    },
+    {
+      "paperId": "7a807a71cfba96f65625e5e8ac67db30b3892c95",
+      "title": "Just-in-time annotation of clusters, outliers, and trends in point-based data visualizations"
+    },
+    {
+      "paperId": "f8cdf754fb7c08caf6e2f82b176819230910be5b",
+      "title": "CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes"
+    },
+    {
+      "paperId": "5df2f6ad0b3bec3b1b007b447ddb92afb9cc0ba2",
+      "title": "SODA: Generating SQL for Business Users"
+    },
+    {
+      "paperId": "f7214535a3f9e146674f5bb07d0fdb2b38e957cd",
+      "title": "Profiler: integrated statistical analysis and visualization for data quality assessment"
+    },
+    {
+      "paperId": "a9670a87037b0098341744aa7a3f6e874e120dcc",
+      "title": "VizDeck: self-organizing dashboards for visual analytics"
+    },
+    {
+      "paperId": "d1c416322ec493a9502bcb797f1269e360376964",
+      "title": "Understanding the verbal language and structure of end-user descriptions of data visualizations"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "df953c84062ac2dbefe8322babff8007df25a94a",
+      "title": "ReVision: automated classification, analysis and redesign of chart images"
+    },
+    {
+      "paperId": "31a816f4fef768f29772a003e534b1378611bfe6",
+      "title": "Wrangler: interactive visual specification of data transformation scripts"
+    },
+    {
+      "paperId": "2d655ee9bb16bed485853028719feae609c56200",
+      "title": "Click2Annotate: Automated Insight Externalization with rich semantics"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "d5f14253ad8f31443698fd6dc70b02bf2e24ec8d",
+      "title": "Articulate: A Semi-automated Model for Translating Natural Language Queries into Meaningful Visualizations"
+    },
+    {
+      "paperId": "bb881ffbfff4807347ee2d410baf9f3894f9556e",
+      "title": "Touch2Annotate: generating better annotations with less human effort on multi-touch interfaces"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e",
+      "title": "ImageNet: A large-scale hierarchical image database"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "41cab0885de77066980de4729de6dbcd36fbbe5c",
+      "title": "A Natural Language Database Interface Based on a Probabilistic Context Free Grammar"
+    },
+    {
+      "paperId": "d8dce5478b71776e963353506b5114c83381f4d1",
+      "title": "Generating Textual Summaries of Bar Charts"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "2a6876dc67075df4b3d4cda5b15b1c3352b5556d",
+      "title": "An optimization-based approach to dynamic visual context management"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "d2148c055a2938cfeb4b19afa7d60a9f40c4fbf1",
+      "title": "An interactive visualization method of numerical data based on natural language requirements"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "33de7b07d9e1f866cb96161bcebed58684bd2c47",
+      "title": "Answering it with Charts: Dialogue in Natural Language and Charts"
+    },
+    {
+      "paperId": "d6723ab300288f594b0640b0e361deb93a6b7adc",
+      "title": "A Multi-Modal Natural Language Interface to an Information Visualization Environment"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "f569c8bcddfbfb57ab03b5a74c794fb95fa16f9b",
+      "title": "Describing Complex Charts in Natural Language: A Caption Generation System"
+    },
+    {
+      "paperId": "e3334bf4536f3d4e80e66b5ceee00a2df966245d",
+      "title": "AutoBrief: a multimedia presentation system for assisting data analysis"
+    },
+    {
+      "paperId": "9ba690d038ad8d8b30d3d15c672bf1fbcb9ef62f",
+      "title": "Post-WIMP user interfaces"
+    },
+    {
+      "paperId": "68c03788224000794d5491ab459be0b2a2c38677",
+      "title": "WordNet: A Lexical Database for English"
+    },
+    {
+      "paperId": "935e3736ace4732d2a2f9f8e9927e3dec2d12d59",
+      "title": "Interactive graphic design using automatic presentation knowledge"
+    },
+    {
+      "paperId": "0b144f3ca00d98df1d8f9456d29c7fce3290924d",
+      "title": "Attention, Intentions, and the Structure of Discourse"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "5a254e392b5020d104a5a05d3f22726fbc2954be",
+      "title": "Post-WIMP Interaction for Information Visualization"
+    },
+    {
+      "paperId": "343998c10235f65902683bf6ecfc94d89ec119f9",
+      "title": "TaskVis: Task-oriented Visualization Recommendation"
+    },
+    {
+      "paperId": null,
+      "title": "received his BS degree from the School of Software,"
+    },
+    {
+      "paperId": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    {
+      "paperId": "b7111b930181bc54b625cf02e3540144b5e38d37",
+      "title": "Summarization of Graph Using Question Answer Approach"
+    },
+    {
+      "paperId": "b9c43e90f4c03454724a6a8d2382f3ffe7735386",
+      "title": "How Expensive is the Wine? Toward Interface Defaults for Vague Modi\ufb01ers in Natural Language Interfaces for Visual Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Ask data"
+    },
+    {
+      "paperId": null,
+      "title": "received Bachelor\u2019s Degree from South China University of Techinology, China"
+    },
+    {
+      "paperId": "5d3ddd01be8f6c0d53a3eb3f0264e9196c5c8ef2",
+      "title": "Orko: Facilitating Multimodal Interaction for Visual Exploration and Analysis of Networks"
+    },
+    {
+      "paperId": "ad7f346d1f764b699a7fb0c3e37ca32e43c5b914",
+      "title": "Applying Pragmatics Principles for Interaction with Visual Analytics"
+    },
+    {
+      "paperId": "ba4852aebe6162aa3ef3b35874c30f188c82c299",
+      "title": "ColNet: Embedding the Semantics of Web Tables for Column Type Prediction"
+    },
+    {
+      "paperId": "548aa59905693f84e95515c6134cd5352a97ca76",
+      "title": "Scatterplots: Tasks, Data, and Designs"
+    },
+    {
+      "paperId": null,
+      "title": "spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing"
+    },
+    {
+      "paperId": "54ee592d912ff85bde5f99c2d87364bae8534937",
+      "title": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "paperId": "e7d90bd8ce5b8bbdad294a27ac64dbd918d93861",
+      "title": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "paperId": "752c0491fc269104207b34617cc37554af2983d6",
+      "title": "Nicky: Toward a Virtual Assistant for Test and Measurement Instrument Recommendations"
+    },
+    {
+      "paperId": "168ff6d977c0e2267223f189cfa70555851def54",
+      "title": "Ava: From Data to Insights Through Conversations"
+    },
+    {
+      "paperId": "34a54a558da463baf1abcb11dddb450a7ed8096e",
+      "title": "Towards Multimodal Coreference Resolution for Exploratory Data Visualization Dialogue: Context-Based Annotation and Gesture Identi\ufb01cation \u2217"
+    },
+    {
+      "paperId": "f7c6cb3a95c7a2b49893e81666dac3ce692f2d1b",
+      "title": "Combining user and database perspective for solving keyword queries over relational databases"
+    },
+    {
+      "paperId": "c9c6897404102fa3a6dabbe4eab75d9f485169d4",
+      "title": "Towards Visualization Recommendation - A Semi- Automated Domain-Specific Learning Approach"
+    },
+    {
+      "paperId": "bad94d8a12d6e89052a985d267581c25ef428061",
+      "title": "Summarizing Information Graphics Textually"
+    },
+    {
+      "paperId": "00e26133551f152f4c8913c5442238d30a63ef79",
+      "title": "Natural language Interface for Database: A Brief review"
+    },
+    {
+      "paperId": "b5aa6d120aee630177d677db52cd393c56ec8b05",
+      "title": "Pr\u00e9cis: from unstructured keywords as queries to structured databases as answers"
+    },
+    {
+      "paperId": "6ed9417eaa7ee16f0563599829a061421a3e0563",
+      "title": "NLTK: The Natural Language Toolkit"
+    },
+    {
+      "paperId": "4b0d9255f7fc8a4d9cdf0156e312fc21cb1b6b37",
+      "title": "TimeML: Robust Specification of Event and Temporal Expressions in Text"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "6885c80317cb7b134baec0cc8063aac6caa08e4e",
+      "title": "Generation of texts for information graphics"
+    },
+    {
+      "paperId": "6a3b273b2ef362833ea0c9a3a7205ba87e2ddd47",
+      "title": "PostGraphe: A System for the Generation of Statistical Graphics and Text"
+    },
+    {
+      "paperId": "fe83c1ddbfddf8ccb0d46fead0ad751a8ecc6d46",
+      "title": "Subsymbolic natural language processing - an integrated model of scripts, lexicon, and memory"
+    },
+    {
+      "paperId": null,
+      "title": "IBM Watson Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "a fourth-year undergraduate working towards a BS degree at Tsinghua University, and plan to apply for a PhD position"
+    }
+  ]
+}

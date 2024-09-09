@@ -1,0 +1,829 @@
+{
+  "paperId": "579a5b044c054667ae7e9d7b1af7bcd792ff5d3b",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2204-06504",
+    "ArXiv": "2204.06504",
+    "DOI": "10.1109/TVCG.2022.3167896",
+    "CorpusId": 248157555,
+    "PubMed": "35439135"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/579a5b044c054667ae7e9d7b1af7bcd792ff5d3b",
+  "title": "DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization",
+  "abstract": "Since 2016, we have witnessed the tremendous growth of artificial intelligence+visualization (AI+VIS) research. However, existing survey articles on AI+VIS focus on visual analytics and information visualization, not scientific visualization (SciVis). In this article, we survey related deep learning (DL) works in SciVis, specifically in the direction of DL4SciVis: designing DL solutions for solving SciVis problems. To stay focused, we primarily consider works that handle scalar and vector field data but exclude mesh data. We classify and discuss these works along six dimensions: domain setting, research task, learning type, network architecture, loss function, and evaluation metric. The article concludes with a discussion of the remaining gaps to fill along the discussed dimensions and the grand challenges we need to tackle as a community. This state-of-the-art survey guides SciVis researchers in gaining an overview of this emerging topic and points out future directions to grow this research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 189,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2204.06504",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-04-13",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3714-3733",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wang2022DL4SciVisAS,\n author = {Chaoli Wang and J. Han},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3714-3733},\n title = {DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "48586275",
+      "name": "Chaoli Wang"
+    },
+    {
+      "authorId": "145401247",
+      "name": "J. Han"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7ea2a6a11be34bae8c86eba3c4dcc94681760144",
+      "title": "SurfNet: Learning Surface Representations via Graph Convolutional Network"
+    },
+    {
+      "paperId": "6ac2acda66209a23e7e64d2d67b029b4495ec8c1",
+      "title": "Scalar2Vec: Translating Scalar Fields to Vector Fields via Deep Learning"
+    },
+    {
+      "paperId": "5b3afed407430de4032d618a221add18a72ca4f1",
+      "title": "VCNet: A generative model for volume completion"
+    },
+    {
+      "paperId": "710e94cde7c110b760c49dd46c6469290ff08137",
+      "title": "GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations"
+    },
+    {
+      "paperId": "a5e542379802b47734054a7d0a092ac3e38fc8a8",
+      "title": "TSR-VFD: Generating temporal super-resolution for unsteady vector field data"
+    },
+    {
+      "paperId": "b8e420f9cf5ac53e9d8e8bb86cfb898170ecc4dc",
+      "title": "Fast Neural Representations for Direct Volume Rendering"
+    },
+    {
+      "paperId": "28c5396e8b1d059ca6020b59fabc8abe1cbec993",
+      "title": "Exploratory Lagrangian-Based Particle Tracing Using Deep Learning"
+    },
+    {
+      "paperId": "57e09014b0df8440e6b48d5412fbec15c85406c4",
+      "title": "CloudFindr: A Deep Learning Cloud Artifact Masker for Satellite DEM Data"
+    },
+    {
+      "paperId": "93290d5b08a1f3f2b4615c5dce252c3d5880a04a",
+      "title": "Student Customized Knowledge Distillation: Bridging the Gap Between Student and Teacher"
+    },
+    {
+      "paperId": "6cd92464865760172f6c66c6c31e84cb3db30d8a",
+      "title": "Graph convolutional network-based semi-supervised feature classification of volumes"
+    },
+    {
+      "paperId": "2422b6ae358103652634b30b03aa567448cb8d3d",
+      "title": "STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes"
+    },
+    {
+      "paperId": "7eb1b541723f308f4cc2e793f1c5a56f8fdf1f47",
+      "title": "Physics-based Deep Learning"
+    },
+    {
+      "paperId": "f5a100303a0c6102ad2a02efee512b8dd34020ab",
+      "title": "ScalarGCN: scalar-value association analysis of volumes based on graph convolutional network"
+    },
+    {
+      "paperId": "6906b575739fa45a19d6ac5c1bedde329015c4e8",
+      "title": "NeuroConstruct: 3D Reconstruction and Visualization of Neurites in Optical Microscopy Brain Images"
+    },
+    {
+      "paperId": "5ed36e87751f5408601f0a24d0c2a9999b2f163e",
+      "title": "A survey of visual analytics for Explainable Artificial Intelligence methods"
+    },
+    {
+      "paperId": "556492a8a235e178ae256a34c757671b74ff7db6",
+      "title": "S4: Self-Supervised Learning of Spatiotemporal Similarity"
+    },
+    {
+      "paperId": "c8260ead1d304bf4900c30a8916666e079614d8f",
+      "title": "Interactive Visualization of Hyperspectral Images Based on Neural Networks"
+    },
+    {
+      "paperId": "8a1c2424c6a7ea8ee8190a9fcc51e8c25a19f451",
+      "title": "Learning meaningful controls for fluids"
+    },
+    {
+      "paperId": "3854ecb6b53cc70d5ed6bb4b269db1495be7beff",
+      "title": "STSRNet: Deep Joint Space\u2013Time Super-Resolution for Vector Field Visualization"
+    },
+    {
+      "paperId": "87d5b61f5b6fdb0a57fc66b5c5bb428c398eaa86",
+      "title": "Deep learning for AI"
+    },
+    {
+      "paperId": "45d7229f195a61ba45d25edba3c432449dd62ae4",
+      "title": "Reconstructing Unsteady Flow Data From Representative Streamlines via Diffusion and Deep-Learning-Based Denoising"
+    },
+    {
+      "paperId": "cb6ab325e091bf095ed93969084ba086acfaa844",
+      "title": "Deep Direct Volume Rendering: Learning Visual Feature Mappings From Exemplary Images"
+    },
+    {
+      "paperId": "ae69dfa4c72057d9788379e4164985955bd11919",
+      "title": "Visualization in Astrophysics: Developing New Methods, Discovering Our Universe, and Educating the Earth"
+    },
+    {
+      "paperId": "29bfcf9ff528c59a4e3a14fc72a51ed729bc7138",
+      "title": "Local Latent Representation based on Geometric Convolution for Particle Data Feature Exploration."
+    },
+    {
+      "paperId": "786cb74290340443e9d02ffd9669f5e2a18878b5",
+      "title": "DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort"
+    },
+    {
+      "paperId": "0db79fa4f25545e57213e9acf22f2e72100d563f",
+      "title": "Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization"
+    },
+    {
+      "paperId": "299fd0cc0f2ae09d0e50f64c9c43a936c37623e5",
+      "title": "Compressive Neural Representations of Volumetric Scalar Fields"
+    },
+    {
+      "paperId": "889c9c37634766b3543424ac6955811f83f260e0",
+      "title": "Compressing Visual-linguistic Model via Knowledge Distillation"
+    },
+    {
+      "paperId": "748c4f1945b0d994ecef38c8aac01db1c6dc7029",
+      "title": "Model-Contrastive Federated Learning"
+    },
+    {
+      "paperId": "fe619f6b5ff74d648dc471293f10bd07eb6b4ed9",
+      "title": "Application of fully convolutional neural networks for feature extraction in fluid flow"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "d29430adccb805ab57b349afa8553954347b3197",
+      "title": "Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers"
+    },
+    {
+      "paperId": "8d17d62952f141fe5c4948eeafb8be5a8db9d054",
+      "title": "pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis"
+    },
+    {
+      "paperId": "7699389c6d4c94e578f3fe8f2fec0974fe39eb4e",
+      "title": "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
+    },
+    {
+      "paperId": "84cb2fb4bf035fbb773594a749bc541cc682f050",
+      "title": "A reduced-precision network for image reconstruction"
+    },
+    {
+      "paperId": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    {
+      "paperId": "557da98ac26f751e43452c3d2686c800a2b78268",
+      "title": "SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization"
+    },
+    {
+      "paperId": "a51c97b64d0aa968ea6a2c2e7a60fcb9ce120546",
+      "title": "V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data"
+    },
+    {
+      "paperId": "49592c87d9474ce2a46146a7e299993c0341669f",
+      "title": "A Fluid Flow Data Set for Machine Learning and its Application to Neural Flow Map Interpolation"
+    },
+    {
+      "paperId": "78917c9f0b9a06c03af78bb2e22f437222def718",
+      "title": "Vortex Boundary Identification using Convolutional Neural Network"
+    },
+    {
+      "paperId": "16a6f7ab063c780067f8fed5579d5cdd9f7a50c5",
+      "title": "VC-Net: Deep Volume-Composition Networks for Segmentation and Visualization of Highly Sparse and Noisy Image Data"
+    },
+    {
+      "paperId": "973c01a6458928a1b3797daf13298969f03c0a1f",
+      "title": "Understanding the role of individual units in a deep neural network"
+    },
+    {
+      "paperId": "deeb1258396d281bdcdaded26f1f1a19973f2ad2",
+      "title": "A survey of visual analytics techniques for machine learning"
+    },
+    {
+      "paperId": "a1dbb7d180137baa16f828b41d0c617dad31ec02",
+      "title": "Deep Volumetric Ambient Occlusion"
+    },
+    {
+      "paperId": "51bf7a3aee6b1f61b902625f6badffedf200d31a",
+      "title": "Rewriting a Deep Generative Model"
+    },
+    {
+      "paperId": "99e411571c342a45672f2bb63c64e4a5e00a2bff",
+      "title": "Learning Adaptive Sampling and Reconstruction for Volume Visualization"
+    },
+    {
+      "paperId": "56276404a473a640ac0778c196a6fbc03fb056f8",
+      "title": "Differentiable Rendering: A Survey"
+    },
+    {
+      "paperId": "43b1e34451f783fed053c1d539d7560dc4ec16a9",
+      "title": "Implicit Neural Representations with Periodic Activation Functions"
+    },
+    {
+      "paperId": "706f756b71f0bf51fc78d98f52c358b1a3aeef8e",
+      "title": "Self-Supervised Learning: Generative or Contrastive"
+    },
+    {
+      "paperId": "38f93092ece8eee9771e61c1edaf11b1293cae1b",
+      "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning"
+    },
+    {
+      "paperId": "1f7984640ecb5cbe6bd798dbf917bd8a7d3e0c9b",
+      "title": "SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization"
+    },
+    {
+      "paperId": "f8ee125106705a6a90fb1631c7d5485c6885b097",
+      "title": "CECAV-DNN: Collective Ensemble Comparison and Visualization using Deep Neural Networks"
+    },
+    {
+      "paperId": "48a2e21319ba85dc4dfabf53cc1ba81aabac9346",
+      "title": "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
+    },
+    {
+      "paperId": "962dc29fdc3fbdc5930a10aba114050b82fe5a3e",
+      "title": "End-to-End Object Detection with Transformers"
+    },
+    {
+      "paperId": "e3d5ee10d0489c768e943546038e3f53e7697349",
+      "title": "State of the Art on Neural Rendering"
+    },
+    {
+      "paperId": "d196cb800c32afaebf2933f86f4fe1ab8b11e87b",
+      "title": "FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces"
+    },
+    {
+      "paperId": "428b663772dba998f5dc6a24488fff1858a0899f",
+      "title": "NeRF"
+    },
+    {
+      "paperId": "b6207686ecf40f1eb1752425299f265dffbc4abe",
+      "title": "GAN Compression: Efficient Architectures for Interactive Conditional GANs"
+    },
+    {
+      "paperId": "193b8b3e4a811d5b5c161f98a714c949061a732f",
+      "title": "Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow"
+    },
+    {
+      "paperId": "58a96c8d4250f4cc3e8024452a4fdc01c8fcb889",
+      "title": "Learning Similarity Metrics for Numerical Simulations"
+    },
+    {
+      "paperId": "998620638cfc7c6b5d7b95fa8645f75723d78372",
+      "title": "Federated Learning with Matched Averaging"
+    },
+    {
+      "paperId": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+      "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    {
+      "paperId": "107e9ea4a3ee66cfb85ec84dbe53e6831f793a8b",
+      "title": "TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization"
+    },
+    {
+      "paperId": "23a88a7787c492fbc55c8dd6388af3b26980baa7",
+      "title": "Uncertainty Visualization of Transport Variance in a Time-Varying Ensemble Vector Field"
+    },
+    {
+      "paperId": "cb67cbf0605f1785f675e97dde31adfd3c988f14",
+      "title": "Local Prediction Models for Spatiotemporal Volume Visualization"
+    },
+    {
+      "paperId": "07912741c6c96e6ad5b2c2d6c6c3b2de5c8a271b",
+      "title": "Advances and Open Problems in Federated Learning"
+    },
+    {
+      "paperId": "b914167f84a236c98775e439a1f96ce7fd7a34fd",
+      "title": "Deep Learning-Based Feature-Aware Data Modeling for Complex Physics Simulations"
+    },
+    {
+      "paperId": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+      "title": "Momentum Contrast for Unsupervised Visual Representation Learning"
+    },
+    {
+      "paperId": "d474bf3cac3f3824778dbc494bd2e89f6f8e57dc",
+      "title": "Graph convolutional networks: a comprehensive review"
+    },
+    {
+      "paperId": "cb9f172163847bb3183f25bbfb7bed1020e85ec8",
+      "title": "A Deep Learning Approach to Selecting Representative Time Steps for Time-Varying Multivariate Data"
+    },
+    {
+      "paperId": "46d8c9e2dc9c12615eb5f6813d18f967d61c7e0d",
+      "title": "Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification"
+    },
+    {
+      "paperId": "c4d1097e5d42cc1b2b0ce9af1059d67bf2ea23e4",
+      "title": "Deep learning-based viewpoint recommendation in volume visualization"
+    },
+    {
+      "paperId": "68ff8c5d9b95691ae16687c7fa8e81f8a5e374b8",
+      "title": "InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations"
+    },
+    {
+      "paperId": "d53a6e135bdbb43cbc831ca809d202e708877924",
+      "title": "DeepOrganNet: On-the-Fly Reconstruction and Visualization of 3D / 4D Lung Models from Single-View Projections by Deep Deformation Network"
+    },
+    {
+      "paperId": "8149b95065d424feaaa13248a4b3d046c4bcf5eb",
+      "title": "Semantic photo manipulation with a generative image prior"
+    },
+    {
+      "paperId": "3813b88a4ec3c63919df47e9694b577f4691f7e5",
+      "title": "A survey on Image Data Augmentation for Deep Learning"
+    },
+    {
+      "paperId": "6f002090c88ad36e31f6f507e9a4c66934b08998",
+      "title": "Flow Field Reduction Via Reconstructing Vector Data From 3-D Streamlines Using Deep Learning"
+    },
+    {
+      "paperId": "71fb157c4ce199faa44f2efb9ee3d7728a442f7b",
+      "title": "The Conditional Boundary Equilibrium Generative Adversarial Network and its Application to Facial Attributes"
+    },
+    {
+      "paperId": "2a53ec1db4acd2bc84c6adb308bc72062aa9514a",
+      "title": "Volumetric Isosurface Rendering with Deep Learning-Based Super-Resolution"
+    },
+    {
+      "paperId": "97f4d09175705be4677d675fa27e55defac44800",
+      "title": "Contrastive Multiview Coding"
+    },
+    {
+      "paperId": "03129ebc427191e55f710877bd91de99dc85ffc3",
+      "title": "A Multi-Pass GAN for Fluid Flow Super-Resolution"
+    },
+    {
+      "paperId": "28b3833743ab00904da1f4a30cd6c771cc164c0d",
+      "title": "EDVR: Video Restoration With Enhanced Deformable Convolutional Networks"
+    },
+    {
+      "paperId": "ed1f55fb7ba0e3196913027840c4e23155e2e80c",
+      "title": "Defensive Quantization: When Efficiency Meets Robustness"
+    },
+    {
+      "paperId": "27aae8c3d70b0fec180d5be2c66269adb140c73a",
+      "title": "Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression"
+    },
+    {
+      "paperId": "c8e4d8ded0624f13cd7763b8e7a62fe7e36da6d3",
+      "title": "Generalizing from a Few Examples"
+    },
+    {
+      "paperId": "8c8020caf9dc93da1fdc7cf1614cd240815be772",
+      "title": "DNN-VolVis: Interactive Volume Visualization Supported by Deep Neural Network"
+    },
+    {
+      "paperId": "b9043602810e98ec2009c56ea0f65ee967f160bf",
+      "title": "Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks"
+    },
+    {
+      "paperId": "4c94ee7df6bc2bfcac76703be4f059a79010f7e5",
+      "title": "Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey"
+    },
+    {
+      "paperId": "67263e2f23efd6dd5383e7f724741fb94ca2e9fa",
+      "title": "Deep-Learning-Assisted Volume Visualization"
+    },
+    {
+      "paperId": "d86084808994ac54ef4840ae65295f3c0ec4decd",
+      "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+    },
+    {
+      "paperId": "ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693",
+      "title": "Graph Neural Networks: A Review of Methods and Applications"
+    },
+    {
+      "paperId": "30b38ca8151bbd5a5ff45bce94297d1248ff58b5",
+      "title": "Deep Learning on Graphs: A Survey"
+    },
+    {
+      "paperId": "e5eba3d8d1139ea1b97e15dcdc12a46ebc1ba44c",
+      "title": "Modeling Local Geometric Structure of 3D Point Clouds Using Geo-CNN"
+    },
+    {
+      "paperId": "e76f964762d898f94dd8e43de0b563424a918ef8",
+      "title": "Automated Machine Learning: From Principles to Practices"
+    },
+    {
+      "paperId": "1671e6695ee8a6d32bade3cfd5b2bcb15ff135d3",
+      "title": "A CNN-based vortex identification method"
+    },
+    {
+      "paperId": "5791e44b5ba7ac6cedc37dce7e0f5be83cbed980",
+      "title": "A novel in situ compression method for CFD data based on generative adversarial network"
+    },
+    {
+      "paperId": "df7ad8eeb595da5f7774e91dae06075be952acff",
+      "title": "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks"
+    },
+    {
+      "paperId": "1bdd30a8acc75c58a1bdd4daa4545d5f3971a826",
+      "title": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
+    },
+    {
+      "paperId": "a0f391cdc1ac3488a1e52d72431ea3c62f61bfcf",
+      "title": "CNNs Based Viewpoint Estimation for Volume Visualization"
+    },
+    {
+      "paperId": "c791202344a72b50e5dba6f35cc830e29afe7e63",
+      "title": "Deep Fluids: A Generative Network for Parameterized Fluid Simulations"
+    },
+    {
+      "paperId": "60104351ac65115503c9e92e856bcab6a13b0ce8",
+      "title": "Multimodal Unsupervised Image-to-Image Translation"
+    },
+    {
+      "paperId": "7244b90c84343338a6365c0505dfcba3b65035fc",
+      "title": "Access Pattern Learning with Long Short-Term Memory for Parallel Particle Tracing"
+    },
+    {
+      "paperId": "f1a5c2405906eec16d1609d5f137848996a4ca55",
+      "title": "Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "aa3f7330f9b27e57745c4d14753893964ad91d5a",
+      "title": "Frame-Recurrent Video Super-Resolution"
+    },
+    {
+      "paperId": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+      "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric"
+    },
+    {
+      "paperId": "4c281ab9e305c8424d539782705f99125112fb34",
+      "title": "Visual interpretability for deep learning: a survey"
+    },
+    {
+      "paperId": "5f79398057bf0bbda9ff50067bc1f2950c2a2266",
+      "title": "Progressive Neural Architecture Search"
+    },
+    {
+      "paperId": "9e0a8531893ac860b8a1eb91f5d7f3a7d74d7334",
+      "title": "A Generative Model for Volume Rendering"
+    },
+    {
+      "paperId": "731dffdf83f8e86a0ed7634fd2b46fe5df9be57c",
+      "title": "Photo-Guided Exploration of Volume Data Features"
+    },
+    {
+      "paperId": "72edcb3788f9c141a3ed28e6d36f75ca4977d27e",
+      "title": "Spatio-temporal Graph Convolutional Neural Network: A Deep Learning Framework for Traffic Forecasting"
+    },
+    {
+      "paperId": "7ad66cba3b7e3abae7ef33122588512a146f7f77",
+      "title": "A Survey on Multi-Task Learning"
+    },
+    {
+      "paperId": "acd87843a451d18b4dc6474ddce1ae946429eaf1",
+      "title": "Wasserstein Generative Adversarial Networks"
+    },
+    {
+      "paperId": "a775b2546dcfc24c1021cf2b702e51c03e852c8d",
+      "title": "Volume upscaling with convolutional neural networks"
+    },
+    {
+      "paperId": "231af7dc01a166cac3b5b01ca05778238f796e41",
+      "title": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium"
+    },
+    {
+      "paperId": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "title": "Attention is All you Need"
+    },
+    {
+      "paperId": "b0760764dc573b519f76d5a79531d49af333c67a",
+      "title": "Neural Style Transfer: A Review"
+    },
+    {
+      "paperId": "6c110e724ac33243f9d02ac061007057e0b30adf",
+      "title": "Data-driven synthesis of smoke flows with CNN-based feature descriptors"
+    },
+    {
+      "paperId": "aa6f7ad0a06b52a8be89dbd8d056561418276ff2",
+      "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks"
+    },
+    {
+      "paperId": "c43d954cf8133e6254499f3d68e45218067e4941",
+      "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks"
+    },
+    {
+      "paperId": "3f116042f50a499ab794bcc1255915bee507413c",
+      "title": "Efficient Processing of Deep Neural Networks: A Tutorial and Survey"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "9bd71d6b87d9e5b8394dc6bc8bc2fca7b7deb083",
+      "title": "Towards better analysis of machine learning models: A visual analytics perspective"
+    },
+    {
+      "paperId": "7d53f6d57c130c6d3a0b345e4af00133bad3e1f9",
+      "title": "Graphs in Scientific Visualization: A Survey"
+    },
+    {
+      "paperId": "fddc32f3880688238847077fd927ab3025db7a6a",
+      "title": "EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis"
+    },
+    {
+      "paperId": "0e779fd59353a7f1f5b559b9d65fa4bfe367890c",
+      "title": "Geometric Deep Learning: Going beyond Euclidean data"
+    },
+    {
+      "paperId": "8acbe90d5b852dadea7810345451a99608ee54c7",
+      "title": "Image-to-Image Translation with Conditional Adversarial Networks"
+    },
+    {
+      "paperId": "54906484f42e871f7c47bbfe784a358b1448231f",
+      "title": "Variational Graph Auto-Encoders"
+    },
+    {
+      "paperId": "67d968c7450878190e45ac7886746de867bf673d",
+      "title": "Neural Architecture Search with Reinforcement Learning"
+    },
+    {
+      "paperId": "36eff562f65125511b5dfab68ce7f7a943c27478",
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    {
+      "paperId": "5694e46284460a648fe29117cbc55f6c9be3fa3c",
+      "title": "Densely Connected Convolutional Networks"
+    },
+    {
+      "paperId": "a1e0d801a0fd064a64810a0eb6291ab52e4a96c1",
+      "title": "Deep compression and EIE: Efficient inference engine on compressed deep neural network"
+    },
+    {
+      "paperId": "03a5b2aac53443e6078f0f63b35d4f95d6d54c5d",
+      "title": "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network"
+    },
+    {
+      "paperId": "50004c086ffd6a201a4b782281aaa930fbfe6ecf",
+      "title": "V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation"
+    },
+    {
+      "paperId": "8201e6e687f2de477258e9be53ba7b73ee30d7de",
+      "title": "Colorful Image Colorization"
+    },
+    {
+      "paperId": "d1dbf643447405984eeef098b1b320dee0b3b8a7",
+      "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+      "title": "Deep Residual Learning for Image Recognition"
+    },
+    {
+      "paperId": "6baaca1b6de31ac2a5b1f89e9b3baa61e41d52f9",
+      "title": "Deep Colorization"
+    },
+    {
+      "paperId": "642d0f49b7826adcf986616f4af77e736229990f",
+      "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding"
+    },
+    {
+      "paperId": "f37e90c0bd5c4a9619ccfb763c45cb2d84abd3e6",
+      "title": "A Neural Algorithm of Artistic Style"
+    },
+    {
+      "paperId": "ae23eda2faddd824480de2d90638795f797cc66e",
+      "title": "Learning with a Wasserstein Loss"
+    },
+    {
+      "paperId": "f9c990b1b5724e50e5632b94fdb7484ece8a6ce7",
+      "title": "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting"
+    },
+    {
+      "paperId": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+      "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    {
+      "paperId": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+      "title": "Distilling the Knowledge in a Neural Network"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0",
+      "title": "Fully convolutional networks for semantic segmentation"
+    },
+    {
+      "paperId": "353ecf7b66b3e9ff5e9f41145a147e899a2eea5c",
+      "title": "Conditional Generative Adversarial Nets"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108",
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "title": "ImageNet classification with deep convolutional neural networks"
+    },
+    {
+      "paperId": "0d2336389dff3031910bd21dd1c44d1b4cd51725",
+      "title": "Why Does Unsupervised Pre-training Help Deep Learning?"
+    },
+    {
+      "paperId": "b98cd08b75ebf2bd1d1ec47c51ef75777a7e64bd",
+      "title": "Deep, Big, Simple Neural Nets for Handwritten Digit Recognition"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e",
+      "title": "ImageNet: A large-scale hierarchical image database"
+    },
+    {
+      "paperId": "e337c5e4c23999c36f64bcb33ebe6b284e1bcbf1",
+      "title": "Large-scale deep unsupervised learning using graphics processors"
+    },
+    {
+      "paperId": "77bc1d4324cf992be7121619a24d3f180306dc38",
+      "title": "Machine Learning to Boost the Next Generation of Visualization Technology"
+    },
+    {
+      "paperId": "812355cec91fa30bb50e9e992a3549af39e4f6eb",
+      "title": "One-shot learning of object categories"
+    },
+    {
+      "paperId": "9ca9f28676ad788d04ba24a51141a9a0a0df4d67",
+      "title": "A new model for learning in graph domains"
+    },
+    {
+      "paperId": "2e0af57f7389b7e436a7f62ebdcf194348a914cb",
+      "title": "An intelligent system approach to higher-dimensional classification of volume data"
+    },
+    {
+      "paperId": "81aadf045e92782445e6c02c33eec84c170dc4c6",
+      "title": "Towards a shape model of white matter fiber bundles using diffusion tensor MRI"
+    },
+    {
+      "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40",
+      "title": "Image quality assessment: from error visibility to structural similarity"
+    },
+    {
+      "paperId": "0c34e7461e87e16c26daf28ddbab51bfc9aee499",
+      "title": "A novel interface for higher-dimensional classification of volume data"
+    },
+    {
+      "paperId": "2acdf559300dd37f235642c0dbdbfe1d7118b250",
+      "title": "Regression Error Characteristic Curves"
+    },
+    {
+      "paperId": "326cfa1ffff97bd923bb6ff58d9cb6a3f60edbe5",
+      "title": "The Earth Mover's Distance as a Metric for Image Retrieval"
+    },
+    {
+      "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "title": "Long Short-Term Memory"
+    },
+    {
+      "paperId": "161ffb54a3fdf0715b198bb57bd22f910242eb49",
+      "title": "Multitask Learning"
+    },
+    {
+      "paperId": "87cbed883368d4a9efd42fdd91f47038f8d8fbe6",
+      "title": "On Information and Sufficiency"
+    },
+    {
+      "paperId": "997dc5d9a058753f034422afe7bd0cc0b8ad808b",
+      "title": "Signature Verification Using A \"Siamese\" Time Delay Neural Network"
+    },
+    {
+      "paperId": "6d9de1ee38549a378080e8e1ce3d8ac1f03b0129",
+      "title": "Trajectory formation of arm movement by cascade neural network model based on minimum torque-change criterion"
+    },
+    {
+      "paperId": "aa109a5c8440332a05ac538d98c4f93d25500c81",
+      "title": "Modular Learning in Neural Networks"
+    },
+    {
+      "paperId": "319f22bd5abfd67ac15988aa5c7f705f018c3ccd",
+      "title": "Learning internal representations by error propagation"
+    },
+    {
+      "paperId": "358a97112cc60d6bfefb352b863fec8a86a39e28",
+      "title": "Parametric Correspondence and Chamfer Matching: Two New Techniques for Image Matching"
+    },
+    {
+      "paperId": "9b486c647916df9f8be0f8d4fc5c94c493bfaa80",
+      "title": "PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS"
+    },
+    {
+      "paperId": "bf4db267e3198cdb55fad656f359b07d8646436e",
+      "title": "Integration-Aware Vector Field Super Resolution"
+    },
+    {
+      "paperId": "96461173a16a2566773520a73b042f8b35f12b1c",
+      "title": "Deep Hierarchical Super-Resolution for Scientific Data Reduction and Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Finding nano-\u00d6tzi: Semi-supervised volume visualization for cryo-electron tomography"
+    },
+    {
+      "paperId": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+    },
+    {
+      "paperId": "ffa5e04a55da0cfd151053beeca3d470d26cb35d",
+      "title": "Physics-Informed Machine"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS \ufb01elds for view synthesis"
+    },
+    {
+      "paperId": "81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+      "title": "A Comprehensive Survey on Graph Neural Networks"
+    },
+    {
+      "paperId": null,
+      "title": "ScalarFlow: A largescale volumetric data set of real-world scalar transport flows for computer animation and machine learning"
+    },
+    {
+      "paperId": null,
+      "title": "tempoGAN: A temporally coherent, volumetric GAN for super-resolution fluid flow"
+    },
+    {
+      "paperId": "c68796f833a7151f0a63d1d1608dc902b4fdc9b6",
+      "title": "GENERATIVE ADVERSARIAL NETS"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82",
+      "title": "Deep Learning"
+    },
+    {
+      "paperId": null,
+      "title": "Isosurface similarity maps"
+    },
+    {
+      "paperId": "3efd851140aa28e95221b55fcc5659eea97b172d",
+      "title": "The Graph Neural Network Model"
+    },
+    {
+      "paperId": "bb1f39796eb4df8a31fea3fd1c8ca20ec7fe7317",
+      "title": "Neural-net based modeling of velocity and concentration fields"
+    },
+    {
+      "paperId": null,
+      "title": "an associate professor of computer science and engineering at the University of Notre Dame"
+    },
+    {
+      "paperId": "97efafdb4a3942ab3efba53ded7413199f79c054",
+      "title": "Reinforcement Learning: An Introduction"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+      "title": "Gradient-based learning applied to document recognition"
+    },
+    {
+      "paperId": "8b586837ac372141eedafd124c57335cbc893bed",
+      "title": "Divergence measures based on the Shannon entropy"
+    },
+    {
+      "paperId": null,
+      "title": "multivariate data visualization"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "paperId": "4e7b11e07aaebe17de0ff3a720a6f9f6b70c7bc2",
+  "externalIds": {
+    "DBLP": "journals/tvcg/EspadotoMKHT21",
+    "MAG": "2975605169",
+    "DOI": "10.1109/TVCG.2019.2944182",
+    "CorpusId": 203622488,
+    "PubMed": "31567092"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/4e7b11e07aaebe17de0ff3a720a6f9f6b70c7bc2",
+  "title": "Toward a Quantitative Survey of Dimension Reduction Techniques",
+  "abstract": "Dimensionality reduction methods, also known as projections, are frequently used in multidimensional data exploration in machine learning, data science, and information visualization. Tens of such techniques have been proposed, aiming to address a wide set of requirements, such as ability to show the high-dimensional data structure, distance or neighborhood preservation, computational scalability, stability to data noise and/or outliers, and practical ease of use. However, it is far from clear for practitioners how to choose the best technique for a given use context. We present a survey of a wide body of projection techniques that helps answering this question. For this, we characterize the input data space, projection techniques, and the quality of projections, by several quantitative metrics. We sample these three spaces according to these metrics, aiming at good coverage with bounded effort. We describe our measurements and outline observed dependencies of the measured variables. Based on these results, we draw several conclusions that help comparing projection techniques, explain their results for different types of data, and ultimately help practitioners when choosing a projection for a given context. Our methodology, datasets, projection implementations, metrics, visualizations, and results are publicly open, so interested stakeholders can examine and/or extend this benchmark.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 120,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-09-27",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2153-2173",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Espadoto2019TowardAQ,\n author = {M. Espadoto and R. M. Martins and A. Kerren and N. Hirata and A. Telea},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2153-2173},\n title = {Toward a Quantitative Survey of Dimension Reduction Techniques},\n volume = {27},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "72516743",
+      "name": "M. Espadoto"
+    },
+    {
+      "authorId": "47758081",
+      "name": "R. M. Martins"
+    },
+    {
+      "authorId": "2569160",
+      "name": "A. Kerren"
+    },
+    {
+      "authorId": "2647831",
+      "name": "N. Hirata"
+    },
+    {
+      "authorId": "1686665",
+      "name": "A. Telea"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "383b99724232329ce2ad4c2d07595d8206ff4f7d",
+      "title": "Visual Analytics of Multidimensional Projections for Constructing Classifier Decision Boundary Maps"
+    },
+    {
+      "paperId": "16bb410aae180fad0ac4a11e9873419ea6d9b5d0",
+      "title": "A Perception-Driven Approach to Supervised Dimensionality Reduction for Visualization"
+    },
+    {
+      "paperId": "3a288c63576fc385910cb5bc44eaea75b442e62e",
+      "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction"
+    },
+    {
+      "paperId": "f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
+      "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms"
+    },
+    {
+      "paperId": "a638689a0dca9cfe16b9630146bf27ccd0ce5429",
+      "title": "Projections as visual aids for classification system design"
+    },
+    {
+      "paperId": "8343a229df7980462f8f68bbdc982b3f3ab77198",
+      "title": "A survey of dimensionality reduction techniques based on random projection"
+    },
+    {
+      "paperId": "8a7395f2a9537941e57bebff91cd7dfc9943e115",
+      "title": "Visualizing Dimensionality Reduction Artifacts: An Evaluation"
+    },
+    {
+      "paperId": "8dd6a2c9c88c9b3465484228c93f4dcc11cfeab9",
+      "title": "Automated Hate Speech Detection and the Problem of Offensive Language"
+    },
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "3db4436a64ccae91adfe809cb90073e93dd39ebc",
+      "title": "Visualizing Time-Dependent Data Using Dynamic t-SNE"
+    },
+    {
+      "paperId": "4179164a50389e8678bbef560464111a140c460a",
+      "title": "SepMe: 2002 New visual separation measures"
+    },
+    {
+      "paperId": "30d0f3ec0f80439f561f9912831ea7f3ccf8133c",
+      "title": "Visualizing Large-scale and High-dimensional Data"
+    },
+    {
+      "paperId": "2f4f00898bbf62bdc48c293b77011c0220029063",
+      "title": "Explaining Neighborhood Preservation for Multidimensional Projections"
+    },
+    {
+      "paperId": "8d70b1981fc2947867a33f20256e88dc87fbb422",
+      "title": "ClassiMap: A New Dimension Reduction Technique for Exploratory Data Analysis of Labeled Data"
+    },
+    {
+      "paperId": "6531ab52738e5457a5e9b4b2e014cf5ecb82820a",
+      "title": "From Group to Individual Labels Using Deep Features"
+    },
+    {
+      "paperId": "1143844feb443db3ae6ead285dc4f7db85f421e6",
+      "title": "Data\u2010driven Evaluation of Visual Quality Measures"
+    },
+    {
+      "paperId": "7da7c81d23d2afa554df5c7ec5e4b82c85f46004",
+      "title": "Data visualization by nonlinear dimensionality reduction"
+    },
+    {
+      "paperId": "3bb7dfbd9009016efb4311419c6856a748f8e0d9",
+      "title": "Graph-based measures to assist user assessment of multimensional projections"
+    },
+    {
+      "paperId": "951964531e171933cb2fadacf7435abc9c85d520",
+      "title": "Sanity check for class-coloring-based evaluation of dimension reduction techniques"
+    },
+    {
+      "paperId": "d9e3f6b6ab42936b6be5f333b2a3c428f233bbb6",
+      "title": "Information retrieval approach to meta-visualization"
+    },
+    {
+      "paperId": "18bdc78571825b2cf66f18a0f52f3d218d02fb16",
+      "title": "Linear dimensionality reduction: survey, insights, and generalizations"
+    },
+    {
+      "paperId": "9e7105b77093b1947637040034b0d7b80ab35a20",
+      "title": "Visual analysis of dimensionality reduction quality for parameterized projections"
+    },
+    {
+      "paperId": "9d209712ea855130e5f5667e79bafcd9f9e1adef",
+      "title": "Visualizing Multidimensional Data with Glyph SPLOMs"
+    },
+    {
+      "paperId": "cab86052882d126d43f72108c6cb41b295cc8a9e",
+      "title": "A data-driven approach to predict the success of bank telemarketing"
+    },
+    {
+      "paperId": "9165ff19dcfede7ad02dd231804445f55f90658e",
+      "title": "A survey of dimensionality reduction techniques"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "e3f89fd339facf4000cc26b67ee7c09dfa1a4a4c",
+      "title": "Visualizing the quality of dimensionality reduction"
+    },
+    {
+      "paperId": "4f605b3bb3ce574f4053f19264434baa522305b7",
+      "title": "Human Activity Recognition on Smartphones Using a Multiclass Hardware-Friendly Support Vector Machine"
+    },
+    {
+      "paperId": "b7e3840baec19c7909c91d14cd3ea656df38bb1d",
+      "title": "iLAMP: Exploring high-dimensional spacing through backward multidimensional projection"
+    },
+    {
+      "paperId": "4081a0fa7b9ddad4058c962fc7068fea1f8669bd",
+      "title": "A General Framework for Dimensionality-Reducing Data Visualization Mapping"
+    },
+    {
+      "paperId": "7866e5c2701ab7b05f8a4457e84bec8d1b328179",
+      "title": "Perception-based visual quality measures"
+    },
+    {
+      "paperId": "d5de7f65822e1d79d03fe010d9b2144cde2780a3",
+      "title": "Local Affine Multidimensional Projection"
+    },
+    {
+      "paperId": "db6b56557d4b8c722e1fc504af4a361cfe1e22d8",
+      "title": "Contributions to the study of SMS spam filtering: new collection and results"
+    },
+    {
+      "paperId": "1c61f9ef06fe74505775a833ff849185757199e7",
+      "title": "Learning Word Vectors for Sentiment Analysis"
+    },
+    {
+      "paperId": "89c2dfdf091bc1d6e625ef9bfdf16230e1254afa",
+      "title": "Piece wise Laplacian\u2010based Projection for Interactive Data Exploration and Organization"
+    },
+    {
+      "paperId": "7405a170d7ae1a69f15c7872c11d3b7913c1718d",
+      "title": "CheckViz: Sanity Check and Topological Clues for Linear and Non\u2010Linear Mappings"
+    },
+    {
+      "paperId": "2cfec137b3a242fc5aa7e1b36ee913ea06a5445c",
+      "title": "Material perception: What can you see in a brief glance?"
+    },
+    {
+      "paperId": "35f10ea3ce493603593b739a6e20ca4d8f42b95f",
+      "title": "Techniques for Precision-Based Visual Analysis of Projected Data"
+    },
+    {
+      "paperId": "0a0eaff3b398067e7addf149b1656ff1b0831e29",
+      "title": "Visual quality metrics and human perception: an initial study on 2D projections of large multidimensional data"
+    },
+    {
+      "paperId": "342bb39f79dc7a965f3afdad33ec30d9a5d6dd90",
+      "title": "Agglomeration and Elimination of Terms for Dimensionality Reduction"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "eb05b0f84ffbfa6c14ff58d6f4d062a93a346d03",
+      "title": "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions"
+    },
+    {
+      "paperId": "9ae57932c6a02f8de40a966123beb2e8d390b9ab",
+      "title": "Quality assessment of dimensionality reduction: Rank-based criteria"
+    },
+    {
+      "paperId": "26253196c82dda18068e4d1f26543c03d7cf37b5",
+      "title": "Local Multidimensional Scaling for Nonlinear Dimension Reduction, Graph Drawing, and Proximity Analysis"
+    },
+    {
+      "paperId": "539a0bc33fcc0b7c971bf838d21fa4732542e731",
+      "title": "Causality Challenge: Benchmarking relevant signal components for effective monitoring and process control"
+    },
+    {
+      "paperId": "8632904dee4d2cf716ae27536aa6a64f1def043a",
+      "title": "Local procrustes for manifold embedding: a measure of\u00a0embedding quality and embedding algorithms"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "505f48d8236eb25f871da272c2ac2fe4b41ea289",
+      "title": "Incremental Learning for Robust Visual Tracking"
+    },
+    {
+      "paperId": "cd7be09a102c66fa68a36b8a7d7a51dcf89592bb",
+      "title": "Agnostic Learning vs. Prior Knowledge Challenge"
+    },
+    {
+      "paperId": "5cf702d51e574108f18327c96892e499a173efa2",
+      "title": "Nonlinear dimensionality reduction and data visualization: A review"
+    },
+    {
+      "paperId": "7644d90efef157e61fe4d773d8a3b0bad5feccec",
+      "title": "Linear local tangent space alignment and application to face recognition"
+    },
+    {
+      "paperId": "c92ca30eac7e3e12733c75dd0ba81e88b7b902f3",
+      "title": "Visualizing distortions and recovering topology in continuous projection techniques"
+    },
+    {
+      "paperId": "0b060fdbd92cbcc66b383bcaa9ba5e5e624d7ee3",
+      "title": "MLLE: Modified Locally Linear Embedding Using Multiple Weights"
+    },
+    {
+      "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+      "title": "Pattern Recognition and Machine Learning"
+    },
+    {
+      "paperId": "10e541776432a9c10db665e3f5b1c63bbc55203d",
+      "title": "Text Map Explorer: a Tool to Create and Explore Document Maps"
+    },
+    {
+      "paperId": "17da0e14c1af8226ecb6fdd9c0c31caca7ec772e",
+      "title": "Improved Nonlinear Manifold Learning for Land Cover Classification via Intelligent Landmark Selection"
+    },
+    {
+      "paperId": "0025fc4f00c21960297fbdf83220d6bde75da645",
+      "title": "Sparse Principal Component Analysis"
+    },
+    {
+      "paperId": "602a685d87377f9cd0051ea6403bbf90b56c9514",
+      "title": "Content-based text mapping using multi-dimensional projections for exploration of document collections"
+    },
+    {
+      "paperId": "78947497cbbffc691aac3f590d972130259af9ce",
+      "title": "Distance Metric Learning for Large Margin Nearest Neighbor Classification"
+    },
+    {
+      "paperId": "d1f66ecdb910b103659f464cb39a0146789d99f8",
+      "title": "Metric Learning by Collapsing Classes"
+    },
+    {
+      "paperId": "21c9879f0b9adb692d8ddbebf7e8e22dbe20e2de",
+      "title": "Principal manifolds and nonlinear dimensionality reduction via tangent space alignment"
+    },
+    {
+      "paperId": "f6e50fae23b0714e85bb08647cfea92fd09d9a0c",
+      "title": "PRINCIPAL COMPONENT ANALYSIS AND FACTOR ANALYSIS"
+    },
+    {
+      "paperId": "2ff87fef3fc79b5bb47f2783e5b28084ef6b83c4",
+      "title": "Learning a kernel matrix for nonlinear dimensionality reduction"
+    },
+    {
+      "paperId": "75335244b49f4d1bb27aa51f1690bbefbbe1c3d1",
+      "title": "Locality Preserving Projections"
+    },
+    {
+      "paperId": "9193b90a944ecf4ceb3432e35caf3d391830a4b0",
+      "title": "Gaussian Process Latent Variable Models for Visualisation of High Dimensional Data"
+    },
+    {
+      "paperId": "aeb7aa3b9655838e00de12e33e64f9f1b43bb922",
+      "title": "Stochastic proximity embedding"
+    },
+    {
+      "paperId": "57a66ac4a4e0a00d2cdee8711ce0a18b49e9f7a2",
+      "title": "Hessian eigenmaps: Locally linear embedding techniques for high-dimensional data"
+    },
+    {
+      "paperId": "f37ed6c360377e7807928a6587211c18a2d18b7a",
+      "title": "Indications of nonlinear deterministic and finite-dimensional structures in time series of brain electrical activity: dependence on recording region and brain state."
+    },
+    {
+      "paperId": "0299a2eb5fa80e98948fcba6b0810aa684692262",
+      "title": "A survey of visualizations for high-dimensional data mining"
+    },
+    {
+      "paperId": "9d16c547d15a08091e68c86a99731b14366e3f0d",
+      "title": "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering"
+    },
+    {
+      "paperId": "f0a3e1752e1146da927adc24ae07144ab2e744ec",
+      "title": "Nonlinear dimensionality reduction by locally linear embedding."
+    },
+    {
+      "paperId": "994e91efb53a4a6b04a562ec10751cd0bbcdeac5",
+      "title": "Generalized Discriminant Analysis Using a Kernel Approach"
+    },
+    {
+      "paperId": "549ca001fa8559f9e37ea55058f1faf4fc6f0376",
+      "title": "Experiments with Random Projection"
+    },
+    {
+      "paperId": "69fe08fb1aa15bbab4ca26c31cc9302e325870b1",
+      "title": "When Is ''Nearest Neighbor'' Meaningful?"
+    },
+    {
+      "paperId": "ebd77ed30c57e7e7db9123a33ea7c7f27b2291c0",
+      "title": "XGobi: Interactive Dynamic Data Visualization in the X Window System"
+    },
+    {
+      "paperId": "1ad15c08556c8f8e3739703857ea01077ce738c5",
+      "title": "Kernel Principal Component Analysis"
+    },
+    {
+      "paperId": "319c6098f7f94cf24c5c637b718e721449fd4a70",
+      "title": "The Visual Design and Control of Trellis Display"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "d86648cb3ec497347d6e918116003b0e42910694",
+      "title": "FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets"
+    },
+    {
+      "paperId": "294adb9b8dca839832836bee0f06e15be550aaaa",
+      "title": "Parameterisation of a stochastic model for human face identification"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "2e0ec45d9dfc7a24b443f5915b4e3cc283d43861",
+      "title": "Quantifying the neighborhood preservation of self-organizing feature maps"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "e04108dc293c9cd7cabf32ee1524eaab0d4641b3",
+      "title": "Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis"
+    },
+    {
+      "paperId": "abff5f423efd2894c89c6e00c5de8f2b346df2b9",
+      "title": "Theory and Methods of Scaling."
+    },
+    {
+      "paperId": "1f65e55e0d86ee76ab0415f1dcf7de1179494c69",
+      "title": "VisCoDeR: A tool for visually comparing dimensionality reduction algorithms"
+    },
+    {
+      "paperId": "b464e44c9eb80dc9291bbc96d314b57601c72462",
+      "title": "Attribute-based Visual Explanation of Multidimensional Projections"
+    },
+    {
+      "paperId": "02227c94dd41fe0b439e050d377b0beb5d427cda",
+      "title": "Reading Digits in Natural Images with Unsupervised Feature Learning"
+    },
+    {
+      "paperId": "8dc7a7af1685d6667d24f013ecc5fceeb2bcc689",
+      "title": "A Survey of Dimension Reduction Methods for High-dimensional Data Analysis and Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Spambase dataset , \u201d 1999"
+    },
+    {
+      "paperId": "4a82c9a27da6acb9dac6d1cd468c6d830327c746",
+      "title": "Application of Rule Induction Algorithms for Analysis of Data Collected by Seismic Hazard Monitoring Systems in Coal Mines"
+    },
+    {
+      "paperId": "15ecef22524c2cb650fed2357e0d0b7feefe1625",
+      "title": "Stress Maps: Analysing Local Phenomena in Dimensionality Reduction Based Visualisations"
+    },
+    {
+      "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086",
+      "title": "Learning Multiple Layers of Features from Tiny Images"
+    },
+    {
+      "paperId": "2309f7c5dad934f2adc2c5a066eba8fc2d8071ec",
+      "title": "Dimensionality Reduction: A Comparative Review"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "c50dca78e97e335d362d6b991ae0e1448914e9a3",
+      "title": "Reducing the Dimensionality of Data with Neural"
+    },
+    {
+      "paperId": null,
+      "title": "SECOM dataset"
+    },
+    {
+      "paperId": "68ea25f9ad546b05d596b965180521040991970a",
+      "title": "An Introduction to Dimensionality Reduction Using Matlab"
+    },
+    {
+      "paperId": "5f1dfd0bbd2b599610c51e3427a631d199f7a853",
+      "title": "Visualizing gene interaction graphs with local multidimensional scaling"
+    },
+    {
+      "paperId": "60290252155782642d39145421ba924e78263553",
+      "title": "Diffusion maps"
+    },
+    {
+      "paperId": "099b54ffe20b1a50b007b4e7b947087a73b021c8",
+      "title": "Survey on dimension reduction techniques"
+    },
+    {
+      "paperId": "7c59908c946a4157abc030cdbe2b63d08ba97db3",
+      "title": "Supporting Online Material for Reducing the Dimensionality of Data with Neural Networks"
+    },
+    {
+      "paperId": "8381c212e081c319e17c65a2138d46ba5f91cd90",
+      "title": "Nonlinear Dimensionality Reduction by Semidefinite Programming and Kernel Matrix Factorization"
+    },
+    {
+      "paperId": "57f6bd668f2be36cb09962694d8ad7b973c51c8e",
+      "title": "Survey and Comparison of Quality Measures for Self-Organizing Maps"
+    },
+    {
+      "paperId": "1ac1072e320d0e5774006eaab0d636aa97ef58a5",
+      "title": "Sparse multidimensional scaling using land-mark points"
+    },
+    {
+      "paperId": "a65fd51bb5827b043fe1c1ac2129b76e332cc264",
+      "title": "Stochastic Neighbor Embedding"
+    },
+    {
+      "paperId": "c291edf0bb5ead2e45ee9fefb1683e2438158121",
+      "title": "Charting a Manifold"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAutomatic alignment of hidden representations,\u201d"
+    },
+    {
+      "paperId": "6fb07b90b7fd2785ffec0da1069e75c53f7313c2",
+      "title": "Algorithms for Non-negative Matrix Factorization"
+    },
+    {
+      "paperId": "9c1e8ad4b51e69d2ce8cd20fb4988974269453da",
+      "title": "Probabilistic Principal Component Analysis"
+    },
+    {
+      "paperId": "fb1d5dc7c412e28e55427fa007b9c4f23a3cb826",
+      "title": "Fast ICA for noisy data using Gaussian moments"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA new method of generalizing Sammon mapping with application to algorithm speed-up,\u201d"
+    },
+    {
+      "paperId": "77afac8f4d7f47c8b34371d8f8355cefbea1d4f6",
+      "title": "Columbia Object Image Library (COIL100)"
+    },
+    {
+      "paperId": "c9106fb451ac4970bdd6f9fcacb79a0188cbd301",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Robust Linear Dimensionality Reduction"
+    },
+    {
+      "paperId": "5163e5e5f8802fdfcb2af687c5de01c787ff93f9",
+      "title": "Combining Extended Table Lens and Treemap Techniques for Visualizing Tabular Data"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "ab1832c5921531c452c3673d2948753f67b13579",
+      "title": "A Global Geometric Framework for Nonlinear Dimensionality Reduction"
+    },
+    {
+      "paperId": null,
+      "title": "manufacturing process, used for training failure detectors; Seismic Bumps (seismic)"
+    }
+  ]
+}

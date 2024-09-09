@@ -1,0 +1,452 @@
+{
+  "paperId": "bebf6e595a4a65d6cd7d848ce63b361cef803803",
+  "externalIds": {
+    "DBLP": "journals/tvcg/RaynorCBSSD23",
+    "DOI": "10.1109/TVCG.2022.3209412",
+    "CorpusId": 252567000,
+    "PubMed": "36166531"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bebf6e595a4a65d6cd7d848ce63b361cef803803",
+  "title": "The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types",
+  "abstract": "Internet routing is largely dependent on Border Gateway Protocol (BGP). However, BGP does not have any inherent authentication or integrity mechanisms that help make it secure. Effective security is challenging or infeasible to implement due to high costs, policy employment in these distributed systems, and unique routing behavior. Visualization tools provide an attractive alternative in lieu of traditional security approaches. Several BGP security visualization tools have been developed as a stop-gap in the face of ever-present BGP attacks. Even though the target users, tasks, and domain remain largely consistent across such tools, many diverse visualization designs have been proposed. The purpose of this study is to provide an initial formalization of methods and visualization techniques for BGP cybersecurity analysis. Using PRISMA guidelines, we provide a systematic review and survey of 29 BGP visualization tools with their tasks, implementation techniques, and attacks and anomalies that they were intended for. We focused on BGP visualization tools as the main inclusion criteria to best capture the visualization techniques used in this domain while excluding solely algorithmic solutions and other detection tools that do not involve user interaction or interpretation. We take the unique approach of connecting (1) the actual BGP attacks and anomalies used to validate existing tools with (2) the techniques employed to detect them. In this way, we contribute an analysis of which techniques can be used for each attack type. Furthermore, we can see the evolution of visualization solutions in this domain as new attack types are discovered. This systematic review provides the groundwork for future designers and researchers building visualization tools for providing BGP cybersecurity, including an understanding of the state-of-the-art in this space and an analysis of what techniques are appropriate for each attack type. Our novel security visualization survey methodology\u2014connecting visualization techniques with appropriate attack types\u2014may also assist future researchers conducting systematic reviews of security visualizations. All supplemental materials are available at https://osf.io/tupz6/.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 90,
+  "openAccessPdf": {
+    "url": "https://osf.io/pkqc9/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-09-27",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1059-1069",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Raynor2022TheSO,\n author = {Justin T. Raynor and Tarik Crnovrsanin and Sara Di Bartolomeo and Laura South and David Saffo and Cody Dunne},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1059-1069},\n title = {The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "46190416",
+      "name": "Justin T. Raynor"
+    },
+    {
+      "authorId": "3297219",
+      "name": "Tarik Crnovrsanin"
+    },
+    {
+      "authorId": "51235635",
+      "name": "Sara Di Bartolomeo"
+    },
+    {
+      "authorId": "2047942134",
+      "name": "Laura South"
+    },
+    {
+      "authorId": "66700656",
+      "name": "David Saffo"
+    },
+    {
+      "authorId": "34889063",
+      "name": "Cody Dunne"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1404477ac8050b0a37658b8e14ee76026683aa64",
+      "title": "The State of the Art"
+    },
+    {
+      "paperId": "e141421f56451a9313ed466dec4d274b3f88cb50",
+      "title": "Using BGP Features Towards Identifying Type of BGP Anomaly"
+    },
+    {
+      "paperId": "647b7d0de098fe6f217297b98e392616d8b573ff",
+      "title": "ProBGP: Progressive Visual Analytics of Live BGP Updates"
+    },
+    {
+      "paperId": "c3f6b89264fb58061d99b329f6a391c2c1ce557f",
+      "title": "BigBen: Telemetry Processing for Internet-Wide Event Monitoring"
+    },
+    {
+      "paperId": "baf5a3a2b554a104974f044ee48568f6c0455257",
+      "title": "Temporal Representations for Detecting BGP Blackjack Attacks"
+    },
+    {
+      "paperId": "1676944108b07317b42a63ec52470fd6d7e8c8dd",
+      "title": "Multi-view routing visualization for the identification of BGP issues"
+    },
+    {
+      "paperId": "dd71a638a079c93da33727800d75f0f2fa12be78",
+      "title": "RCAnalyzer: visual analytics of rare categories in dynamic networks"
+    },
+    {
+      "paperId": "19bfba8045db82c0c70a462b4122b59d8f16e5ae",
+      "title": "BGP Dataset Generation and Feature Extraction for Anomaly Detection"
+    },
+    {
+      "paperId": "7583ac80c895f1b3e6f3b403bd379618f75ec842",
+      "title": "BGP hijacking classification"
+    },
+    {
+      "paperId": "3560c71a850a42510c84e23746a24b545dca82a9",
+      "title": "Detecting BGP Route Anomalies with Deep Learning"
+    },
+    {
+      "paperId": "4fd5b0dcf84e7bd15d8a7e288559cd0842d9433b",
+      "title": "Perfect is the Enemy of Good: Setting Realistic Goals for BGP Security"
+    },
+    {
+      "paperId": "e26c0b0bcc3af0620d628a03600aabd435330167",
+      "title": "Visual-Interactive Identification of Anomalous IP-Block Behavior Using Geo-IP Data"
+    },
+    {
+      "paperId": "9fab14365a2d354c63c09c7de50a3e3ec8410095",
+      "title": "The state of affairs in BGP security: A survey of attacks and defenses"
+    },
+    {
+      "paperId": "7ab20b67d9787d406083e3c1c3c5140f9b010618",
+      "title": "Visual Analysis of Collective Anomalies Through High-Order Correlation Graph"
+    },
+    {
+      "paperId": "b3fa7040e51f97e72e9f29e28128a6786551a9e8",
+      "title": "A Survey among Network Operators on BGP Prefix Hijacking"
+    },
+    {
+      "paperId": "bbd86f48a55328f7f9d3cafc373b85c9de31cf7a",
+      "title": "ARTEMIS: Neutralizing BGP Hijacking Within a Minute"
+    },
+    {
+      "paperId": "078a9e13d57159e2482b3d71c1c7639dcc093e7f",
+      "title": "Inferring BGP blackholing activity in the internet"
+    },
+    {
+      "paperId": "5c0f5486c213ed03a2bb84e6b3c4568e5a490892",
+      "title": "Towards Enhancing the Visual Analysis of Interdomain Routing"
+    },
+    {
+      "paperId": "a7c2aa19f50ca94890553a4e854c3917a37849a8",
+      "title": "BGP Anomaly Detection Techniques: A Survey"
+    },
+    {
+      "paperId": "b1be95e674d2b7add54167756079cf44b795cbd6",
+      "title": "Bigfoot: A geo-based visualization methodology for detecting BGP threats"
+    },
+    {
+      "paperId": "524f567a970bfe82bb97875afee1b4dc7228e6c0",
+      "title": "NetFork: Mapping Time to Space in Network Visualization"
+    },
+    {
+      "paperId": "42f1d3a4aff7d0d76634a037d8d2485d3d2ef0b9",
+      "title": "Problem Definition and Classification of BGP Route Leaks"
+    },
+    {
+      "paperId": "8f57d465e0617efc7c37ab8ba7cb4ed8353194e3",
+      "title": "Border gateway protocol graph: detecting and visualising internet routing anomalies"
+    },
+    {
+      "paperId": "30a8ca1166d51725e6c29f438d5cfd5a7456ab5f",
+      "title": "RoutingWatch: Visual exploration and analysis of routing events"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "408e256604f4d1f807c52a1828e04a6691ad5f8d",
+      "title": "Identifying and Analyzing High Impact Routing Events with PathMiner"
+    },
+    {
+      "paperId": "5246eec1f09df1f827fc87122f973f38632d2d83",
+      "title": "BGPfuse: using visual feature fusion for the detection and attribution of BGP anomalies"
+    },
+    {
+      "paperId": "6b533965c300248af8747fbca6ecedeaab523265",
+      "title": "Dynamic Traceroute Visualization at Multiple Abstraction Levels"
+    },
+    {
+      "paperId": "c2812e1eb76059c7c2346061e054a83abc1415af",
+      "title": "Evaluation: A Challenge for Visual Analytics"
+    },
+    {
+      "paperId": "ac16592dc689032faa97ebc2d11037096af5ff31",
+      "title": "BGPViewer: Using Graph representations to explore BGP routing changes"
+    },
+    {
+      "paperId": "593c1b4679b26aec23c2ea08ebf8c8fa949bec3a",
+      "title": "SpamTracer: How stealthy are spammers?"
+    },
+    {
+      "paperId": "c1a727fec85e82e1108f79df0b64448f9d58c9e8",
+      "title": "The BGP Visibility Scanner"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "781485ab804476e53ddf4ebed82785c41e59c87d",
+      "title": "Visual analytics for BGP monitoring and prefix hijacking identification"
+    },
+    {
+      "paperId": "85a497c55b80682a1fae6be0bbb8e62da0041b9e",
+      "title": "VisTracer: a visual analytics tool to investigate routing anomalies in traceroutes"
+    },
+    {
+      "paperId": "1e554a1894a9d7f887cc5be41b0c06c029948fb0",
+      "title": "A Survey of Visualization Systems for Network Security"
+    },
+    {
+      "paperId": "cc3ec36325f453453c7b2925ea8a29cd24d2a25e",
+      "title": "Hierarchical Visualization of BGP Routing Changes Using Entropy Measures"
+    },
+    {
+      "paperId": "9eea1b007fa35de1a541deb7c72c48ee0e738de9",
+      "title": "Credible BGP \u2013 Extensions to BGP for Secure Networking"
+    },
+    {
+      "paperId": "b4e83a456866feaedf1640fec651efe9c0d58f08",
+      "title": "BGP-lens: patterns and anomalies in internet routing updates"
+    },
+    {
+      "paperId": "b6b49f74eed8bb562fbe8fd6fd6ea419cddde472",
+      "title": "BGPmon: A Real-Time, Scalable, Extensible Monitoring System"
+    },
+    {
+      "paperId": "f3a21207481d3fb34bfe33721ebd69470800a611",
+      "title": "Graph Drawing for Security Visualization"
+    },
+    {
+      "paperId": "a8ef09bd981f839f06a3efbd7b407847c98b1037",
+      "title": "Cyclops: the AS-level connectivity observatory"
+    },
+    {
+      "paperId": "ad25e06772ca844618bed83dce398cd30700f66d",
+      "title": "BGPeep: An IP-Space Centered View for Internet Routing Data"
+    },
+    {
+      "paperId": "c9f67327638c61a5a835162599d5c5f4d75fe499",
+      "title": "Measuring and visualizing interdomain routing dynamics with BGPATH"
+    },
+    {
+      "paperId": "8fe035365070836fc8d53d1d5cef7e6f2aaf381b",
+      "title": "ROUSSEAU: A Monitoring System for Inter-domain Routing Security"
+    },
+    {
+      "paperId": "73885d7cb01f8e5edf54581ccab26908171e5e00",
+      "title": "Pakistan YouTube block exposes fundamental Internet security weakness"
+    },
+    {
+      "paperId": "d09fa6291feca984b94a3d1264726777545c70ae",
+      "title": "Inferring the Origin of Routing Changes using Link Weights"
+    },
+    {
+      "paperId": "23b961a2c7aeb2824a0ae429916f107e4cecc4f9",
+      "title": "On interdomain routing security and pretty secure BGP (psBGP)"
+    },
+    {
+      "paperId": "8aad34f9c3cbaae95d0dee8f41f09d1b55133e23",
+      "title": "Pretty Good BGP: Improving BGP by Cautiously Adopting Routes"
+    },
+    {
+      "paperId": "10896e21197655ce546d360b8f2e18f8253db63b",
+      "title": "BGP eye: a new visualization tool for real-time detection and analysis of BGP anomalies"
+    },
+    {
+      "paperId": "2165420781169b14ed37e913b0e5f6812c249933",
+      "title": "VAST: visualizing autonomous system topology"
+    },
+    {
+      "paperId": "07b25f0828a03a1e0bae5a1e4705c3407eb653c6",
+      "title": "Visualizing Internet Routing Changes"
+    },
+    {
+      "paperId": "864a959c534d64b8e153854cd7f7f44d28e8ef9f",
+      "title": "Topographic Visualization of Prefix Propagation in the Internet"
+    },
+    {
+      "paperId": "a0e2f2bc6294a1394bc6cacf493cabf221ed9d0f",
+      "title": "National Strategy to Secure Cyberspace"
+    },
+    {
+      "paperId": "da681da49a5502b45fb9765762488878a17d6e6d",
+      "title": "PHAS: A Prefix Hijack Alert System"
+    },
+    {
+      "paperId": "069828e26acc3313d0c98fda92c08e49b2f27550",
+      "title": "BGP-Inspect - Extracting Information from Raw BGP Data"
+    },
+    {
+      "paperId": "12ce61adeb1eea80ee00aea699e3957b9b210b87",
+      "title": "Internet routing anomaly detection and visualization"
+    },
+    {
+      "paperId": "df92b03209bb00e588310116c194ad1193ccdbbb",
+      "title": "Early detection of BGP instabilities resulting from Internet worm attacks"
+    },
+    {
+      "paperId": "24f387d38dc1e8228f565e9b7a66643a9ea283ed",
+      "title": "Combining visual and automated data mining for near-real-time anomaly detection and analysis in BGP"
+    },
+    {
+      "paperId": "7d42750a77c98425c9f45da7892ad4936fd7b8ee",
+      "title": "Link-Rank: a graphical tool for capturing BGP routing dynamics"
+    },
+    {
+      "paperId": "9fda7a1b8688b47b395ea31b58dc7b12c851423f",
+      "title": "A visual exploration process for the analysis of Internet routing data"
+    },
+    {
+      "paperId": "044c48a26159f08d509ba64052f52d6ba29e097c",
+      "title": "Understanding BGP misconfiguration"
+    },
+    {
+      "paperId": "8bc1d0a57604276d6d134ff6f308fdab5c42156c",
+      "title": "Topology discovery by active probing"
+    },
+    {
+      "paperId": "a6fc1e304c0d99d884460d023645b63e8a3714d3",
+      "title": "Computer Networking: A Top-Down Approach"
+    },
+    {
+      "paperId": "39ffcdb557086c788ed43b7564e144fc9d3344b1",
+      "title": "Internet Registry IP Allocation Guidelines"
+    },
+    {
+      "paperId": "df116a2f86e71010afb2b7a1425b2ae2046ba5af",
+      "title": "A Border Gateway Protocol 4 (BGP-4)"
+    },
+    {
+      "paperId": null,
+      "title": "Routing without rumor: Securing the internet\u2019s routing system, 2022"
+    },
+    {
+      "paperId": "ce6331217b692c75d3579095ae876278b7b6c79e",
+      "title": "Research on Cyber IPB Visualization Method based on BGP Archive Data for Cyber Situation Awareness"
+    },
+    {
+      "paperId": null,
+      "title": "BGP in 2020 -the BGP table"
+    },
+    {
+      "paperId": null,
+      "title": "Council post: BGP attacks pose a substantial operation risk \u2013 are enterprises paying attention?"
+    },
+    {
+      "paperId": null,
+      "title": "More details about the October 4 outage,"
+    },
+    {
+      "paperId": null,
+      "title": "A regional look into BGP incidents in 2020"
+    },
+    {
+      "paperId": null,
+      "title": "Major Facebook outage \"triggered by BGP peering configuration snafu\""
+    },
+    {
+      "paperId": null,
+      "title": "Why Facebook, Instagram, and WhatsApp all went down today, Oct 2021"
+    },
+    {
+      "paperId": null,
+      "title": "One year of BGP (in)security, Jul 2020"
+    },
+    {
+      "paperId": "789af66d062a06cd53ae89f9f88bd901df8a18bd",
+      "title": "A First Joint Look at DoS Atacks and BGP Blackholing in the Wild"
+    },
+    {
+      "paperId": "d6e9fadb53a77b9ee665a08869f4e081cf06f688",
+      "title": "A Visual Analytics Field Experiment to Evaluate Alternative Visualizations for Cyber Security Applications"
+    },
+    {
+      "paperId": null,
+      "title": "ProceedingsoftheNinthInternationalSymposiumonVisual-izationforCyberSecurity"
+    },
+    {
+      "paperId": "8f9214fda26e4b6854ff0db71415a8299b9ff530",
+      "title": "A Survey of BGP Security Issues and Solutions"
+    },
+    {
+      "paperId": null,
+      "title": "Cybersecurity Applications Technology Conference for Homeland Security"
+    },
+    {
+      "paperId": null,
+      "title": "Anatomy of a leak: AS9121"
+    },
+    {
+      "paperId": "0d67a9cb83ee109243e48d4bcf5be0a653fe2e4a",
+      "title": "Using Link Cuts to Attack Internet Routing"
+    },
+    {
+      "paperId": "92f0e38ca94915a74f0dad0fe2fd4267d1e3cf65",
+      "title": "ABSTRACT Case Study: Interactive Visualization for Internet Security"
+    },
+    {
+      "paperId": null,
+      "title": "New BGP visualization tools should find and utilize new sources of BGP data and develop the ability to integrate multiple data sources, which will help enrich new solutions"
+    },
+    {
+      "paperId": null,
+      "title": "For attack types"
+    },
+    {
+      "paperId": null,
+      "title": "a lack of BGP visualization tools able to model behavior or downstream effects and impacts"
+    },
+    {
+      "paperId": null,
+      "title": "Most tools excel at detecting changes (either through changes in a node-link graph or changes in geography and routing)"
+    },
+    {
+      "paperId": null,
+      "title": "More tools should be more publicly available. This will enable future researchers to build on existing capability"
+    },
+    {
+      "paperId": null,
+      "title": "If the use of historic attacks to evaluate tools continues, studies should provide greater detail of the attacks themselves, which will"
+    },
+    {
+      "paperId": null,
+      "title": "A review on ipv4 and ipv6: A comprehensive survey"
+    }
+  ]
+}

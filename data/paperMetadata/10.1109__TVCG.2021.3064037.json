@@ -1,0 +1,504 @@
+{
+  "paperId": "5989d896ba5344118ccfae11f0d2805f27624dab",
+  "externalIds": {
+    "DBLP": "journals/tvcg/PandeySSGB22",
+    "DOI": "10.1109/TVCG.2021.3064037",
+    "CorpusId": 232129092,
+    "PubMed": "33667165"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/5989d896ba5344118ccfae11f0d2805f27624dab",
+  "title": "A State-of-the-Art Survey of Tasks for Tree Design and Evaluation With a Curated Task Dataset",
+  "abstract": "In the field of information visualization, the concept of \u201ctasks\u201d is an essential component of theories and methodologies for how a visualization researcher or a practitioner understands what tasks a user needs to perform and how to approach the creation of a new design. In this article, we focus on the collection of tasks for tree visualizations, a common visual encoding in many domains ranging from biology to computer science to geography. In spite of their commonality, no prior efforts exist to collect and abstractly define tree visualization tasks. We present a literature review of tree visualization articles and generate a curated dataset of over 200 tasks. To enable effective task abstraction for trees, we also contribute a novel extension of the Multi-Level Task Typology to include more specificity to support tree-specific tasks as well as a systematic procedure to conduct task abstractions for tree visualizations. All tasks in the dataset were abstracted with the novel typology extension and analyzed to gain a better understanding of the state of tree visualizations. These abstracted tasks can benefit visualization researchers and practitioners as they design evaluation studies or compare their analytical tasks with ones previously studied in the literature to make informed decisions about their design. We also reflect on our novel methodology and advocate more broadly for the creation of task-based knowledge repositories for different types of visualizations. The Supplemental Material, which can be found on the Computer Society Digital Library at http://doi.ieeecomputersociety.org/10.1109/TVCG.2021.3064037, will be maintained on OSF: https://osf.io/u5ehs/.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 103,
+  "openAccessPdf": {
+    "url": "https://osf.io/3r9ab/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-03-05",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3563-3584",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Pandey2021ASS,\n author = {Aditeya Pandey and Uzma Haque Syeda and Chaitya Shah and John Alexis Guerra-Gomez and M. Borkin},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3563-3584},\n title = {A State-of-the-Art Survey of Tasks for Tree Design and Evaluation With a Curated Task Dataset},\n volume = {28},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144737911",
+      "name": "Aditeya Pandey"
+    },
+    {
+      "authorId": "24613724",
+      "name": "Uzma Haque Syeda"
+    },
+    {
+      "authorId": "145511205",
+      "name": "Chaitya Shah"
+    },
+    {
+      "authorId": "1389225099",
+      "name": "John Alexis Guerra-Gomez"
+    },
+    {
+      "authorId": "2203252",
+      "name": "M. Borkin"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "169084e1733f6c9b26cda547027509c563c035c8",
+      "title": "Space-Reclaiming Icicle Plots"
+    },
+    {
+      "paperId": "7b81914235073283af669c4244ca295d272d246b",
+      "title": "Digital Collaborator: Augmenting Task Abstraction in Visualization Design with Artificial Intelligence"
+    },
+    {
+      "paperId": "1c3e2c634875275e3ea2c0ca549c6e5b463165bc",
+      "title": "BarcodeTree: Scalable Comparison of Multiple Hierarchies"
+    },
+    {
+      "paperId": "6b7170b4265252444abe5e8e543d38979badf935",
+      "title": "Interactive Visualisation of Hierarchical Quantitative Data: An Evaluation"
+    },
+    {
+      "paperId": "05271ef13a79f2efc8f5206ecf41194b410d77f6",
+      "title": "Bridging Text Visualization and Mining: A Task-Driven Survey"
+    },
+    {
+      "paperId": "569f06e2b6c72553373b118bf186da6b0de0b70c",
+      "title": "Tasks, Techniques, and Tools for Genomic Data Visualization"
+    },
+    {
+      "paperId": "42c2ccce4e3a4936f4d0e9f30bb2c528a7c9a077",
+      "title": "Visualizing Multidimensional Data in Treemaps with Adaptive Glyphs"
+    },
+    {
+      "paperId": "08c6b22268154577c15f6e05f4a2742f180a0a07",
+      "title": "Crowdsourcing for Information Visualization: Promises and Pitfalls"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "b37f784845bd38679cc78476c549ef5131614da0",
+      "title": "Map-like visualisations vs. treemaps: an experimental comparison"
+    },
+    {
+      "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+      "title": "A Systematic Review of Experimental Studies on Data Glyphs"
+    },
+    {
+      "paperId": "3f14c91e234257ebbcfce0c8ed1e4d88ed915e69",
+      "title": "CactusTree: A tree drawing approach for hierarchical edge bundling"
+    },
+    {
+      "paperId": "66d17dfdd93cf3e90d4049e21e726827c5df24ad",
+      "title": "Hierarchy Visualization Designs and their Impact on Perception and Problem Solving Strategies"
+    },
+    {
+      "paperId": "722cd92595c372ac3f27378166802429b9b87ff0",
+      "title": "Fauxvea: Crowdsourcing Gaze Location Estimates for Visualization Analysis Tasks"
+    },
+    {
+      "paperId": "0ac44cbb64b1449fed298045f7de10b9f3cb2e9f",
+      "title": "Towards Visualization Recommendation Systems"
+    },
+    {
+      "paperId": "550a5235ec0aacaa900cc7caa16d4fa26d4c903a",
+      "title": "Correction: Contact Trees: Network Visualization beyond Nodes and Edges"
+    },
+    {
+      "paperId": "08b74b871abb7982895fc0de6bbe6779f3caad62",
+      "title": "Investigating treemap visualization in inverted scale"
+    },
+    {
+      "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+      "title": "A Task Taxonomy for Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "3278e0d8bcd65376ad5d551abc6d9124c29f9da3",
+      "title": "Manipulating and controlling for personality effects on visualization tasks"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "5400da5e6d225b0478c3481463796cfb974be043",
+      "title": "Dendrogramix: A hybrid tree-matrix visualization technique to support interactive exploration of dendrograms"
+    },
+    {
+      "paperId": "0cac867dcfe6c5c4d1ce42d0edefa1e46ae39e94",
+      "title": "Sunburst with ordered nodes based on hierarchical clustering: a visual analyzing method for associated hierarchical pesticide residue data"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "81035452473f88851b234bf9568256831ec63793",
+      "title": "The Book of Trees: Visualizing Branches of Knowledge"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "a0b10f1cca958a40367758859df4148f7cefded5",
+      "title": "Visualizing Change over Time Using Dynamic Hierarchies: TreeVersity2 and the StemView"
+    },
+    {
+      "paperId": "7e2c49a4f5b0889cbf639b1da582305467d7b2eb",
+      "title": "GosperMap: Using a Gosper Curve for Laying Out Hierarchical Data"
+    },
+    {
+      "paperId": "29b6db32d60764ac21373e78a597cf60d5e4092d",
+      "title": "A Hierarchical Data Visualization Algorithm: Self-Adapting Sunburst Algorithm"
+    },
+    {
+      "paperId": "62df98258b008c75db80e2679a0b6520e58556a6",
+      "title": "Extending the H-Tree Layout Pedigree: An Evaluation"
+    },
+    {
+      "paperId": "afd19bf74b913eaa4138f41bb8f502120d9f1f7b",
+      "title": "Google+Ripples: a native visualization of information flow"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "14cde5d0578438011c650013ef0f2b21a781ce40",
+      "title": "The DeepTree Exhibit: Visualizing the Tree of Life to Facilitate Informal Learning"
+    },
+    {
+      "paperId": "33a17a1cb3fcc2a2b8d01335470603de3266bedc",
+      "title": "OneZoom: A Fractal Explorer for the Tree of Life"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "da51ab076716d1590d1052e9e5e77be0d45d0319",
+      "title": "Angular Treemaps - A New Technique for Visualizing and Emphasizing Hierarchical Structures"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "0d75f52d4dd2d12dcd9e7de592cbd8f4d3c734d0",
+      "title": "Linked treemap: a 3D treemap-nodelink layout for visualizing hierarchical structures"
+    },
+    {
+      "paperId": "3605b700c795b3b03161afc690f45e855fcf3958",
+      "title": "Evaluation of Traditional, Orthogonal, and Radial Tree Diagrams by an Eye Tracking Study"
+    },
+    {
+      "paperId": "45a89f364adc4598e37a1914719baedf944f14c6",
+      "title": "A conceptual framework and taxonomy of techniques for analyzing movement"
+    },
+    {
+      "paperId": "0f190a6e922e813a44e8cad9116aa0d3502e6716",
+      "title": "Tablorer \u2013 An Interactive Tree Visualization System for Tablet PCs"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "30888222967a942a3af72ef135548ecc574b7c02",
+      "title": "A Survey of Multiple Tree Visualisation"
+    },
+    {
+      "paperId": "988e5705c2a67da1056693bcb41e51906aa2345a",
+      "title": "Indented Pixel Tree Plots"
+    },
+    {
+      "paperId": "695e08b28b112910b9c34e16cf1d77b53786f975",
+      "title": "FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces"
+    },
+    {
+      "paperId": "106fd6b3eb377feecacf275bfd9779e8f4cdd960",
+      "title": "PedVis: A Structured, Space-Efficient Technique for Pedigree Visualization"
+    },
+    {
+      "paperId": "421c1710e10474a1ed2b571728004a49f36e3e20",
+      "title": "A comparison of a conventional taxonomy with a 3D visualization for use by children"
+    },
+    {
+      "paperId": "1d30244895c61b6512d5e93aa63e79d7a34700ae",
+      "title": "A comparative evaluation on tree visualization methods for hierarchical structures with large fan-outs"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "5b27c3cf064d6ee531168aa398f2f0e0a6f190f1",
+      "title": "AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets"
+    },
+    {
+      "paperId": "4a7677943c555db19e55daae6c02a2115e283ee0",
+      "title": "Efficiently drawing a significant spanning tree of a directed graph"
+    },
+    {
+      "paperId": "9c77b75f260da18b87b09ddf89524d4d91a95907",
+      "title": "A Comparative Study of Four Hierarchy Browsers using the Hierarchical Visualisation Testing Environment (HVTE)"
+    },
+    {
+      "paperId": "d15ca38d2fb1250222132b5bf3fed8d249bcac45",
+      "title": "The Effect of Aesthetic on the Usability of Data Visualization"
+    },
+    {
+      "paperId": "41c17c3a96ea63f7b2e57fd50459d054ba67397f",
+      "title": "Evaluating the Significance of the Windows Explorer Visualization in Personal Information Management Browsing tasks"
+    },
+    {
+      "paperId": "a0a24e38d27609abbbfea4a1fe6b4909db8a01f3",
+      "title": "Time Tree: Exploring Time Changing Hierarchies"
+    },
+    {
+      "paperId": "4d610dd6ceb6243dad614e98dd5193ec8fd85e41",
+      "title": "CropCircles: Topology Sensitive Visualization of OWL Class Hierarchies"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "7c5e7bde6c9aa1d14b268dc14027860ff17975e2",
+      "title": "Hierarchical-Temporal Data Visualization Using a Tree-Ring Metaphor"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "79dd1d62be376beed1b67ce491dd272755961d24",
+      "title": "PygmyBrowse: a small screen tree browser"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "d5e71778fce58565ed17ce8b96b81fea6ddc42c3",
+      "title": "Elastic hierarchies: combining treemaps and node-link diagrams"
+    },
+    {
+      "paperId": "8450dfc8ffb4dacd62d5928fbfeab1de008fb38a",
+      "title": "The effect of animated transitions on user navigation in 3D tree-maps"
+    },
+    {
+      "paperId": "89874d244c4016511183115bed017e77837f74b2",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Arctrees: Visualizing Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "3ae63beeba522aea893f2aa97dca037b93e20aa3",
+      "title": "User Experiments with Tree Visualization Systems"
+    },
+    {
+      "paperId": "e8efc3baf8b6d9553478edd533fcb2130b5c2914",
+      "title": "Extending Tree-Maps to Three Dimensions: A Comparative Study"
+    },
+    {
+      "paperId": "b5b1381daf169fd926e252e510ae9171f9264366",
+      "title": "Developing a grounded theory approach: a comparison of Glaser and Strauss."
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "2681b7adb8c5f6c97ac28e7955570d678677ae89",
+      "title": "Beamtrees: compact visualization of large hierarchies"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "47a754668bcff052baf14bbab39a337c9d120df1",
+      "title": "A comparison of 2-D visualizations of hierarchies"
+    },
+    {
+      "paperId": "4dc06a7fb3208d240f34138174254f526facc89e",
+      "title": "Botanical visualization of huge hierarchies"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "64075890cfcc24fcd08134d24019416c28f012f4",
+      "title": "An empirical study of task support in 3D information visualizations"
+    },
+    {
+      "paperId": "cff54d1c3089fae2cde4296f986137ee7d6eaaf7",
+      "title": "Decision tree learning on very large data sets"
+    },
+    {
+      "paperId": "385a73f3bb5eb6c27b4a8fb9b9483979dcaffba6",
+      "title": "Evaluating three-dimensional information visualization designs: a case study of three designs"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "011c0f37f9014ee6ef1057d0e1bebe0ae8f892d9",
+      "title": "Treemaps: Visualizing Hierarchical and Categorical Data"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "d8bb1c11a4eb5385a499591abcaae55cfabc9341",
+      "title": "Icicle Plots: Better Displays for Hierarchical Clustering"
+    },
+    {
+      "paperId": "04b2722845547e01d8e74e42559bb97e5cec0ad8",
+      "title": "Tidier Drawings of Trees"
+    },
+    {
+      "paperId": "cedda0040e807636452a952a33a12b9f53e0e608",
+      "title": "Bubble Treemaps for Uncertainty Visualization"
+    },
+    {
+      "paperId": "7c259e0823601382677c553115738997aaf4007f",
+      "title": "A User Study of Techniques for Visualizing Structure and Connectivity in Hierarchical Datasets"
+    },
+    {
+      "paperId": "be611ac07a6b6419ccf675d949775c546f8baf6d",
+      "title": "A Study on the Effectiveness of Tree-Maps as Tree Visualization Techniques"
+    },
+    {
+      "paperId": "2e3ed8b711e438e42ed38abd1a78e6bd225aeb7c",
+      "title": "{RADIAL} {VS}. {RECTANGULAR}: {EVALUATING} {VISUALIZATION} {LAYOUT} {IMPACT} {ON} {USER} {TASK} {PERFORMANCE} {OF} {HIERARCHICAL} {DATA}."
+    },
+    {
+      "paperId": null,
+      "title": "\u201cBubbleView: An interface for crowdsourcing image importance maps and tracking visual attention,\u201d"
+    },
+    {
+      "paperId": "914a9ddc03e6b20ae93806f6b21aaa87d04f5d4d",
+      "title": "Towards a Taxonomy for Evaluating User Engagement in Information Visualization"
+    },
+    {
+      "paperId": "a918626505090f2caeb7227e8c4a1097034eb816",
+      "title": "Task Taxonomy for Cartograms"
+    },
+    {
+      "paperId": "c5a0497340b77f802898ae2155d916c200ff4ee1",
+      "title": "User Centered Evaluation of Interactive Data Visualization forms for Document Management Systems"
+    },
+    {
+      "paperId": "a71737a811860622dc4866f623a616ba131bb367",
+      "title": "Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges"
+    },
+    {
+      "paperId": "26e5c9b1dc59aa94e2286e8f6c517cea884e31c0",
+      "title": "Phylogenetic Trees : The Effects of Tree Orientation and Text Processing on Comprehension"
+    },
+    {
+      "paperId": "5f312bbe7cd45665b2d0f50b4ac3b5be4e6632a4",
+      "title": "Interactive Tree Of Life (iTOL): an online tool for phylogenetic tree display and annotation"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cGeneral tasks applicable to most trees,\u201d"
+    },
+    {
+      "paperId": "3b90c3a5b8cf16ca9f7df06d2e1765ffc4dd1b4d",
+      "title": "An Evaluation of Cone Trees"
+    },
+    {
+      "paperId": "0d0c27078aecc568823041d902316e6db546cf95",
+      "title": "Interactive visualization of large graphs and networks"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "0244f9bafcabee61eca30534dc8a9225d8359fd0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Evaluating the Effectiveness of Tree Visualization Systems for Knowledge Discovery"
+    },
+    {
+      "paperId": null,
+      "title": "STATE-OF-THE-ART SURVEYOF TASKS"
+    }
+  ]
+}

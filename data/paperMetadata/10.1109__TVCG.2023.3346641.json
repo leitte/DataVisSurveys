@@ -1,0 +1,552 @@
+{
+  "paperId": "3d45b0e83b44f093f5fe71658699e562eb5c1049",
+  "externalIds": {
+    "DBLP": "journals/tvcg/UlmerAFKM24",
+    "DOI": "10.1109/TVCG.2023.3346641",
+    "CorpusId": 266549932,
+    "PubMed": "38145517"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/3d45b0e83b44f093f5fe71658699e562eb5c1049",
+  "title": "A Survey on Progressive Visualization",
+  "abstract": "Currently, growing data sources and long-running algorithms impede user attention and interaction with visual analytics applications. Progressive visualization (PV) and visual analytics (PVA) alleviate this problem by allowing immediate feedback and interaction with large datasets and complex computations, avoiding waiting for complete results by using partial results improving with time. Yet, creating a progressive visualization requires more effort than a regular visualization but also opens up new possibilities, such as steering the computations towards more relevant parts of the data, thus saving computational resources. However, there is currently no comprehensive overview of the design space for progressive visualization systems. We surveyed the related work of PV and derived a new taxonomy for progressive visualizations by systematically categorizing all PV publications that included visualizations with progressive features. Progressive visualizations can be categorized by well-known visualization taxonomies, but we also found that progressive visualizations can be distinguished by the way they manage their data processing, data domain, and visual update. Furthermore, we identified key properties such as uncertainty, steering, visual stability, and real-time processing that are significantly different with progressive applications. We also collected evaluation methodologies reported by the publications and conclude with statistical findings, research gaps, and open challenges.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 117,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/4359476/10373169.pdf",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-12-25",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "6447-6467",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ulmer2023ASO,\n author = {Alex Ulmer and Marco Angelini and Jean-Daniel Fekete and J\u00f6rn Kohlhammer and T. May},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {6447-6467},\n title = {A Survey on Progressive Visualization},\n volume = {30},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34483258",
+      "name": "Alex Ulmer"
+    },
+    {
+      "authorId": "2264627098",
+      "name": "Marco Angelini"
+    },
+    {
+      "authorId": "2249909304",
+      "name": "Jean-Daniel Fekete"
+    },
+    {
+      "authorId": "2265676566",
+      "name": "J\u00f6rn Kohlhammer"
+    },
+    {
+      "authorId": "35799576",
+      "name": "T. May"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4dd53462d423c930472180c6436fac76abd0185f",
+      "title": "OM3: An Ordered Multi-level Min-Max Representation for Interactive Progressive Visualization of Time Series"
+    },
+    {
+      "paperId": "800f086d07ddd6636803c4732808d2bc084d2f73",
+      "title": "Tailorable Sampling for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "3d3275f16f5c982c2af42b748fba84735e0c157d",
+      "title": "PEViz: an in situ progressive visual analytics system for ocean ensemble data"
+    },
+    {
+      "paperId": "a6a00a140158aceb0b48e23d86335f3557d93fb4",
+      "title": "Progressive visual analysis of traffic data based on hierarchical topic refinement and detail analysis"
+    },
+    {
+      "paperId": "0a4ca945b6c41d6568b7b6cf9649a15838613348",
+      "title": "Studying Early Decision Making with Progressive Bar Charts"
+    },
+    {
+      "paperId": "db41c517558afc2684d5e3bcb24f630c41a5632b",
+      "title": "Progressive tearing and cutting of soft-bodies in high-performance virtual reality"
+    },
+    {
+      "paperId": "c99763aa29876f46164f9c84a182faaf143ecd6b",
+      "title": "Steering-by-example for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "eaa3aa415fafb9e3c7d48d55b88c2d1674bfc890",
+      "title": "Pyramid-based Scatterplots Sampling for Progressive and Streaming Data Visualization"
+    },
+    {
+      "paperId": "647b7d0de098fe6f217297b98e392616d8b573ff",
+      "title": "ProBGP: Progressive Visual Analytics of Live BGP Updates"
+    },
+    {
+      "paperId": "17dc118e389cbbb6fcda1e7f64597149d8aeda7d",
+      "title": "A Progressive Approach for Uncertainty Visualization in Diffusion Tensor Imaging"
+    },
+    {
+      "paperId": "1540b1727ca9422d86116b4a5490ece4dd2ccad9",
+      "title": "Impact of Cognitive Biases on Progressive Visualization"
+    },
+    {
+      "paperId": "5463d926ab6fecaaa81d1ec67e08f773a7504b47",
+      "title": "A Visual Analytics Approach for Hardware System Monitoring with Streaming Functional Data Analysis"
+    },
+    {
+      "paperId": "4167c5a3a688ba0761ff27cabfeeda75131c8cd1",
+      "title": "A Progressive Approach to Scalar Field Topology"
+    },
+    {
+      "paperId": "452585941baf277ead556c1b9c3bf4f580fec75f",
+      "title": "Uncertainty Treemaps"
+    },
+    {
+      "paperId": "b7b0f5888cfb3f4f4cd7015214b1223670eb0e4a",
+      "title": "Uncertainty Visualisation: An Interactive Visual Survey"
+    },
+    {
+      "paperId": "6dcc2e58b53eeed2ea89433099192f8657b10fd1",
+      "title": "Uncertainty Visualization"
+    },
+    {
+      "paperId": "322b8f6832c6c73de7ab3788b58726772f17b2f9",
+      "title": "PANENE: A Progressive Algorithm for Indexing and Querying Approximate k-Nearest Neighbors"
+    },
+    {
+      "paperId": "cbd0b7a68758787fb0bfad125d6e450c52475d2c",
+      "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization"
+    },
+    {
+      "paperId": "8fbda957a3268855b447dbb7e4cd8e5e19cf0bfe",
+      "title": "ProReveal: Progressive Visual Analytics With Safeguards"
+    },
+    {
+      "paperId": "4c85dce46ecc5ace2438be0eef5bdc761d4e2fa8",
+      "title": "Rapid, Progressive Sub-Graph Explorations for Interactive Visual Analytics over Large-Scale Graph Datasets"
+    },
+    {
+      "paperId": "59c34fd00e935dee774148180650f6f02c47f650",
+      "title": "NetCapVis: Web-based Progressive Visual Analytics for Network Packet Captures"
+    },
+    {
+      "paperId": "755227d7ea41b1d90df31f411f9ecbc998c20d26",
+      "title": "Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations"
+    },
+    {
+      "paperId": "0aa89b611c7ca4e2c2128dd8bc9e9143133996c7",
+      "title": "Progressive Wasserstein Barycenters of Persistence Diagrams"
+    },
+    {
+      "paperId": "15827a8d91abcd211109abd9808e9cb0c1bc1dc3",
+      "title": "The State of the Art in Visualizing Multivariate Networks"
+    },
+    {
+      "paperId": "937e92b6f6dd79a90eb5a9095c462936d0706939",
+      "title": "A Progressive Visual Analytics Tool for Incremental Experimental Evaluation"
+    },
+    {
+      "paperId": "883c58d25ea3d4e9e78cedc8e2fd53b2a3964f8f",
+      "title": "Progressive Data Analysis and Visualization (Dagstuhl Seminar 18411)"
+    },
+    {
+      "paperId": "a9246e3712085cac31d7e585ef85d796c0300321",
+      "title": "A survey on visualization of tensor field"
+    },
+    {
+      "paperId": "c2ab4eb8f766f06946172775c5dbe542464f829b",
+      "title": "Selective Wander Join: Fast Progressive Visualizations for Data Joins"
+    },
+    {
+      "paperId": "a9643c2746ec3579b04456e04d3b6125cd75926b",
+      "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis"
+    },
+    {
+      "paperId": "25ed8ba0e8906ba98fa5d92d17a01e818796ddc9",
+      "title": "Data Processing"
+    },
+    {
+      "paperId": "7f33aabe5242bec659b912fe5b1b878c657499f6",
+      "title": "Progressive sequential pattern mining: steerable visual exploration of patterns with PPMT"
+    },
+    {
+      "paperId": "b74a094b6e35fab07e1a4694afd12cad9696f1c1",
+      "title": "Move Forward and Tell: A Progressive Generator of Video Descriptions"
+    },
+    {
+      "paperId": "05a420a3a9fd71b391ef5e9dc03e466b80211e78",
+      "title": "A Review and Characterization of Progressive Visual Analytics"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "b5264a91e3d8f7c42412391cb350a1d3d4cac485",
+      "title": "Pattern discovery: A progressive visual analytic design to support categorical data analysis"
+    },
+    {
+      "paperId": "2018dbd1e39df33b21a761bb984ddf47199cfc01",
+      "title": "I've Seen \"Enough\": Incrementally Improving Visualizations to Support Rapid Decision Making"
+    },
+    {
+      "paperId": "d5ffdc4ef467f3e058c171337ef78b13d8cd33f5",
+      "title": "How Progressive Visualizations Affect Exploratory Analysis"
+    },
+    {
+      "paperId": "2817a231b55d645e85c0d625b1a3a371e14e12a7",
+      "title": "Visualizing Uncertainty in Node-Link Diagrams - a User Study"
+    },
+    {
+      "paperId": "f46b7231af2552dbe5a99e24b373f1ddcca527c3",
+      "title": "Steering the Craft: UI Elements and Visualizations for Supporting Progressive Visual Analytics"
+    },
+    {
+      "paperId": "7094e98e7d71866bea0601f770ed1b6894cc8c9b",
+      "title": "Trust, but Verify: Optimistic Visualizations of Approximate Queries for Exploring Big Data"
+    },
+    {
+      "paperId": "924013ff90c207d13259f9a6e0685272e2ed5538",
+      "title": "SwiftTuna: Responsive and incremental visual exploration of large-scale multidimensional data"
+    },
+    {
+      "paperId": "2e175f1ccc589006000ea8492d7688219c81e470",
+      "title": "PIVE: Per-Iteration Visualization Environment for Real-Time Interactions with Dimension Reduction and Clustering"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "92c1f538613ff4923a8fa3407a16bed4aed361ac",
+      "title": "Progressive Analytics: A Computation Paradigm for Exploratory Data Analysis"
+    },
+    {
+      "paperId": "a87d99345549e533619bb233845b6454ad3aa9ee",
+      "title": "An Enhanced Visualization Process Model for Incremental Visualization"
+    },
+    {
+      "paperId": "d21703674ae562bae4a849a75847cdd9ead417df",
+      "title": "Optimization Methods for Large-Scale Machine Learning"
+    },
+    {
+      "paperId": "dd3469abd581f238718be59856e4689baed47437",
+      "title": "Cytosplore: Interactive Immune Cell Phenotyping for Large Single\u2010Cell Datasets"
+    },
+    {
+      "paperId": "034fef5b0f291df6ebee8b639505acdcfb21d791",
+      "title": "Hierarchical Stochastic Neighbor Embedding"
+    },
+    {
+      "paperId": "48bcabe046fa2c574b32b2d57189d6249a61453c",
+      "title": "Matrix Reordering Methods for Table and Network Visualization"
+    },
+    {
+      "paperId": "78239dfacd6e2d3c348d110838fcee09fb1e568f",
+      "title": "Online Visual Analytics of Text Streams"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "50789de87d99088ba09eca615eb52d47bde57ff7",
+      "title": "Interactive Progressive Visualization with Space-Time Error Control"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "e44a1f6ef33c38a0aecb7dc5221055419b8f467a",
+      "title": "Dive in!: enabling progressive loading for real-time navigation of data visualizations"
+    },
+    {
+      "paperId": "a603c906488330e65854edb043746a27ca6efe86",
+      "title": "VisReduce: Fast and responsive incremental information visualization of large datasets"
+    },
+    {
+      "paperId": "010d45dd173c5dd93b0a953a273b7b59259096b1",
+      "title": "Initial Positioning Method for Online and Real-Time Dynamic Graph Drawing of Time Varying Data"
+    },
+    {
+      "paperId": "728bfa7eaae5eb194baab21e8ec2d1ee6b7707a1",
+      "title": "Progressive High\u2010Quality Response Surfaces for Visually Guided Sensitivity Analysis"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "13f46390f10bc33205a00b7180b4f46dc00d3372",
+      "title": "Exploratory Visualization Involving Incremental, Approximate Database Queries and Uncertainty"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "202e8bcbd41e7faddbf7d8ee85f9c39e4ef05fc4",
+      "title": "Progressive parallel coordinates"
+    },
+    {
+      "paperId": "797398141e7061be5e834765733b8a7c1349b269",
+      "title": "Progressive Splatting of Continuous Scatterplots and Parallel Coordinates"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "c77e7f97dc697465360207c8f713fcd8b6869c48",
+      "title": "Realtime Visualization of Hurricane in Distributed Environment"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "e4e393128efa9f65fc25632b61b26d63280a8a23",
+      "title": "Evaluation of progressive image loading schemes"
+    },
+    {
+      "paperId": "5d952d3afe1b191c450d50c8a6da2c713358e4f7",
+      "title": "Progressive Presentation of Large Hierarchies Using Treemaps"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "b5676837cb725e343cadae4f2acf4a6a98480e6a",
+      "title": "Online Dynamic Graph Drawing"
+    },
+    {
+      "paperId": "da1c03d649854b1a7d97da919983df4de6cda8af",
+      "title": "Progressive Volume Rendering of Large Unstructured Grids"
+    },
+    {
+      "paperId": "321581d7c5141b2722d401d09fc38bfedbfef71b",
+      "title": "Turning the bucket of text into a pipe"
+    },
+    {
+      "paperId": "9386590554c429e80402c082e9d6a2398bcc36b3",
+      "title": "Data streams: algorithms and applications"
+    },
+    {
+      "paperId": "f10d32b741e910a5a55286a75167dc71f63fc049",
+      "title": "Steerable, Progressive Multidimensional Scaling"
+    },
+    {
+      "paperId": "a99edf4b20c50d1cf30965c12f75b8a1a3bf513f",
+      "title": "Dynamic visualization of transient data streams"
+    },
+    {
+      "paperId": "414dc6f417278c2baaac44fd4a368d4569c2dd10",
+      "title": "Multidimensional data visualization"
+    },
+    {
+      "paperId": "f65b7045f1d9dd27f6ae66d4e52060e4a2fa8a44",
+      "title": "Improving progressive view-dependent isosurface propagation"
+    },
+    {
+      "paperId": "0ba2babcec50fe4ebefeda092a55b3faf09d5d9f",
+      "title": "Interactive data Analysis: The Control Project"
+    },
+    {
+      "paperId": "ec6feff1c402e071816b3ea6d746adc7596287e3",
+      "title": "Globally progressive interactive web delivery"
+    },
+    {
+      "paperId": "6a912e2c1f818a047bc620f475b6b6e3b0dbacfe",
+      "title": "Online aggregation"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "305d24100a95c3981b2fa78abad4980fa830a2b6",
+      "title": "Computational steering"
+    },
+    {
+      "paperId": "f51a7f13dc244157e5538111fa4f236431182dee",
+      "title": "Mix&Match: a construction kit for visualization"
+    },
+    {
+      "paperId": "97d670522f4a097b7f5721b6b4f56e44b5bb6b5b",
+      "title": "Fine-grain visualization algorithms in dataflow environments"
+    },
+    {
+      "paperId": "a705619680ca88e79c88accbe9f0dbe81f93b165",
+      "title": "Hierarchical splatting: a progressive refinement algorithm for volume rendering"
+    },
+    {
+      "paperId": "18bfe4cd9232f58474eaf91906b46c09f27471a1",
+      "title": "Sequential Analysis"
+    },
+    {
+      "paperId": "139600cb3ce18380ed7cb1f8afa8c4bd912cfeeb",
+      "title": "A Pipeline for Tailored Sampling for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "42bfb8d21c062a49641ec5ed5f75959e04cb62b4",
+      "title": "Progressive Uniform Manifold Approximation and Projection"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA visual analytics framework for reviewing stream-ingperformancedata,\u201din"
+    },
+    {
+      "paperId": null,
+      "title": "reviewing streaming performance data"
+    },
+    {
+      "paperId": "f3ee5f816c12a5093f91195456d27dca3a3ea10f",
+      "title": "A Model for the Progressive Visualization of Multidimensional Data Structure"
+    },
+    {
+      "paperId": "b05ab13abe71b87bf30ea4d4576f833a58cb39e4",
+      "title": "The Human User in Progressive Visual Analytics"
+    },
+    {
+      "paperId": "0b6541d3bf89f95558eacb912042ef933694acf9",
+      "title": "On Quality Indicators for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "d22ba11e29165003309179ab679c272057960966",
+      "title": "Sampling for Scalable Visual Analytics"
+    },
+    {
+      "paperId": "346eef38b0fd25af4c4e21570b1947a416bc2bda",
+      "title": "Progressive Direct Volume-to-Volume Transformation"
+    },
+    {
+      "paperId": "9964d3689324a2456611f34bcbef5681a9ba9330",
+      "title": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "paperId": "5bf7cf9676ac2e603e4bffa0a9e255efb020561f",
+      "title": "On Visual Stability and Visual Consistency for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "a4202b8212bf454182e8d1d8ef56ae3a37cf175e",
+      "title": "Level Of Detail For 3d Graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Tensorflow playground"
+    },
+    {
+      "paperId": "c49bead8335510cfbb98acd64fadea0cbe9316ce",
+      "title": "Modeling Incremental Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPowers of 10: Time scales in user experience.\u201d"
+    },
+    {
+      "paperId": "2441491af72ac410bcffd616b558df201f85bd99",
+      "title": "Title of Work : Fine-grained Visualization Pipelines and Lazy Functional Languages"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "f33f47ffd42c07ef39f859786f89bb34a45c0846",
+      "title": "Fast scalar- & vectorfield visualization using a new progressive grid class"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "71c371cd75189ec38653a5485cb05c3db864db26",
+      "title": "EVITA \u2014 Efficient Visualization and Interrogation of Tera-Scale Data"
+    },
+    {
+      "paperId": "48e992a734ef6ecbc9d5aeb3fc9135bbee531e07",
+      "title": "Online computation and competitive analysis"
+    },
+    {
+      "paperId": "d20658834c881139e6728270a5a685cd81f4ab06",
+      "title": "Cartography: Visualization of Geospatial Data"
+    },
+    {
+      "paperId": null,
+      "title": "Time and Space: Multiple tags for the visualization style were added to differentiate between changes over time and space"
+    },
+    {
+      "paperId": null,
+      "title": "Hisresearchinterestsarefocusedonvisual-interactiveanalysisofcybersecuritydata,progressivevisualanalyticsandexplainableAI"
+    },
+    {
+      "paperId": null,
+      "title": "Jean-DanielFekete (SeniorMember,IEEE)"
+    },
+    {
+      "paperId": null,
+      "title": "each pass limits its execution time to a requested latency and renders a meaningful partial result"
+    },
+    {
+      "paperId": null,
+      "title": "A visual analytics framework for 17"
+    }
+  ]
+}

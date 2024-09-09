@@ -1,0 +1,285 @@
+{
+  "paperId": "f1be63a24bf84c09cf5f63cb28c4e7233902eba8",
+  "externalIds": {
+    "DBLP": "journals/tvcg/TuLWSPTSBJ23",
+    "ArXiv": "2201.11125",
+    "DOI": "10.1109/TVCG.2023.3261944",
+    "CorpusId": 246294815,
+    "PubMed": "37030779"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/f1be63a24bf84c09cf5f63cb28c4e7233902eba8",
+  "title": "SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling",
+  "abstract": "Public opinion surveys constitute a widespread, powerful tool to study peoples\u2019 attitudes and behaviors from comparative perspectives. However, even global surveys can have limited geographic and temporal coverage, which can hinder the production of comprehensive knowledge. To expand the scope of comparison, social scientists turn to ex-post harmonization of variables from datasets that cover similar topics but in different populations and/or at different times. These harmonized datasets can be analyzed as a single source and accessed through various data portals. However, the Survey Data Recycling (SDR) research project has identified three challenges faced by social scientists when using data portals: the lack of capability to explore data in-depth or query data based on customized needs, the difficulty in efficiently identifying related data for studies, and the incapability to evaluate theoretical models using sliced data. To address these issues, the SDR research project has developed the SDRQuerier, which is applied to the harmonized SDR database. The SDRQuerier includes a BERT-based model that allows for customized data queries through research questions or keywords (Query-by-Question), a visual design that helps users determine the availability of harmonized data for a given research question (Query-by-Condition), and the ability to reveal the underlying relational patterns among substantive and methodological variables in the database (Query-by-Relation), aiding in the rigorous evaluation or improvement of regression models. Case studies with multiple social scientists have demonstrated the usefulness and effectiveness of the SDRQuerier in addressing daily challenges.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 45,
+  "openAccessPdf": {
+    "url": "http://arxiv.org/pdf/2201.11125",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Sociology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-01-25",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2862-2874",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tu2022SDRQuerierAV,\n author = {Yamei Tu and Olga Li and Junpeng Wang and Han-Wei Shen and Przemek Powa\u0142ko and Irina Tomescu-Dubrow and K. Slomczynski and Spyros Blanas and J. Jenkins},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2862-2874},\n title = {SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2087632882",
+      "name": "Yamei Tu"
+    },
+    {
+      "authorId": "2151248376",
+      "name": "Olga Li"
+    },
+    {
+      "authorId": "1685265234",
+      "name": "Junpeng Wang"
+    },
+    {
+      "authorId": "39073212",
+      "name": "Han-Wei Shen"
+    },
+    {
+      "authorId": "1469081575",
+      "name": "Przemek Powa\u0142ko"
+    },
+    {
+      "authorId": "1414560912",
+      "name": "Irina Tomescu-Dubrow"
+    },
+    {
+      "authorId": "79505753",
+      "name": "K. Slomczynski"
+    },
+    {
+      "authorId": "3264757",
+      "name": "Spyros Blanas"
+    },
+    {
+      "authorId": "47054378",
+      "name": "J. Jenkins"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "da4a851419b20693eaa49b95341265f4a665a142",
+      "title": "Survey Data Quality in Analyzing Harmonized Indicators of Protest Behavior: A Survey Data Recycling Approach"
+    },
+    {
+      "paperId": "5d21f767e149c713ebea999e0851fd218ecb3233",
+      "title": "NeuralQA: A Usable Library for Question Answering (Contextual Query Expansion + BERT) on Large Datasets"
+    },
+    {
+      "paperId": "335185b0105cac27de0688ea90653c4c540de976",
+      "title": "Cross-lingual Information Retrieval with BERT"
+    },
+    {
+      "paperId": "e97dafa17dc2256cc711d71476b02709a2e0b9ba",
+      "title": "Micro- and Macro-level Determinants of Participation in Demonstrations: An Analysis of Cross-national Survey Data Harmonized Ex-post"
+    },
+    {
+      "paperId": "df12d1d972708250f3769eaaa34f4b156cf695fe",
+      "title": "Applying BERT to Document Retrieval with Birch"
+    },
+    {
+      "paperId": "26a61d5e55486eef879d361c9895a21ad3cf4599",
+      "title": "A Comparison of Visualizations for Identifying Correlation over Space and Time"
+    },
+    {
+      "paperId": "1ec78c0ec945572673fabd50bf263870fe9d3601",
+      "title": "CEDR: Contextualized Embeddings for Document Ranking"
+    },
+    {
+      "paperId": "ea57734824426a427f8b9139da1ae574cc929543",
+      "title": "Simple Applications of BERT for Ad Hoc Document Retrieval"
+    },
+    {
+      "paperId": "2fe7dba5a58aee5156594b4d78634ecd6c7dcabd",
+      "title": "End-to-End Open-Domain Question Answering with BERTserini"
+    },
+    {
+      "paperId": "85e07116316e686bf787114ba10ca60f4ea7c5b2",
+      "title": "Passage Re-ranking with BERT"
+    },
+    {
+      "paperId": "baae9ba59f1930be3a01cf2b37f205f6d3d338a1",
+      "title": "Item Metadata as Controls for Ex Post\n Harmonization of International Survey Projects"
+    },
+    {
+      "paperId": "6e9d26d67470a72f75160bb95f4270c6af5b7823",
+      "title": "Identification of Processing Errors in Cross-national Surveys"
+    },
+    {
+      "paperId": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+      "title": "Deep Contextualized Word Representations"
+    },
+    {
+      "paperId": "3a288c63576fc385910cb5bc44eaea75b442e62e",
+      "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction"
+    },
+    {
+      "paperId": "1e077413b25c4d34945cc2707e17e46ed4fe784a",
+      "title": "Universal Language Model Fine-tuning for Text Classification"
+    },
+    {
+      "paperId": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "title": "Attention is All you Need"
+    },
+    {
+      "paperId": "898048de724ad8bbb3ff65babf62e8b3f59718ef",
+      "title": "A web-based, interactive visualization tool for social environmental survey data"
+    },
+    {
+      "paperId": "1cebf7bc1bc58f1d011b68ef536ba9fe0e03bf77",
+      "title": "VIMTEX: A Visualization Interface for Multivariate, Time\u2010Varying, Geological Data Exploration"
+    },
+    {
+      "paperId": "d52c7055797f63daedddb7a75e7ca9711afabae2",
+      "title": "SentiCompass: Interactive visualization for exploring and comparing the sentiments of time-varying twitter data"
+    },
+    {
+      "paperId": "786dab3ac51e64cb0e27c46974cbf9d74a1d542a",
+      "title": "Data Visualization in Sociology."
+    },
+    {
+      "paperId": "1456063599d9c34665a97730b84350397436c35f",
+      "title": "TIARA: Interactive, Topic-Based Visual Text Summarization and Analysis"
+    },
+    {
+      "paperId": "755b1d77b7e1436dce7fafeb17e3e7c4f1fa38aa",
+      "title": "LifeFlow: visualizing an overview of event sequences"
+    },
+    {
+      "paperId": "6954044a26173f2d717cb18e91921995020fc361",
+      "title": "Harmonizing Survey Data"
+    },
+    {
+      "paperId": "d953b08c59fb12f8cad7571447c31765e32931a5",
+      "title": "Survey Methods in Multinational, Multiregional, and Multicultural Contexts"
+    },
+    {
+      "paperId": "259da70238f076c670c6cc2901b82b3f20d472df",
+      "title": "Information Theoretic Measures for Clusterings Comparison: Variants, Properties, Normalization and Correction for Chance"
+    },
+    {
+      "paperId": "bc6dff14a130c57a91d5a21339c23471faf1d46f",
+      "title": "Et al"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "cce6c48e9b1f9bea01e6f55ab1fb4214e77a5829",
+      "title": "The Cross-National Equivalent File (CNEF) and its Member Country Household Panel Studies"
+    },
+    {
+      "paperId": "2b7d5dfcd11cc0cf35686f8a9279aee5f910b0bb",
+      "title": "A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories"
+    },
+    {
+      "paperId": "c518352c6711ca3df41371eee10b80e14fc8863d",
+      "title": "Visualizing time-series on spirals"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "7a96ee35b4300fc66973665fedd1b9850e848ae5",
+      "title": "Interactive visualization of spatiotemporal patterns using spirals on a geographical map"
+    },
+    {
+      "paperId": "e53b74de851f5ce5657fd5303c606dc1c2ec42c9",
+      "title": "Interactive visualization of serial periodic data"
+    },
+    {
+      "paperId": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    {
+      "paperId": "cd18800a0fe0b668a1cc19f2ec95b5003d0a5035",
+      "title": "Improving Language Understanding by Generative Pre-Training"
+    },
+    {
+      "paperId": null,
+      "title": "Democratic values and protest behavior in cross-national perspective. harmonization of data from international survey"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": null,
+      "title": "Sda: Survey documentation and analysis"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "Ipumsinternational"
+    },
+    {
+      "paperId": "9a8ad0b694e5f24df9e1a55b77dddf1546776c89",
+      "title": "NESSTAR : A Semantic Web Application for Statistical Data and Metadata"
+    },
+    {
+      "paperId": null,
+      "title": "The social science dream machine: Resource discovery, analysis, and delivery on the web"
+    },
+    {
+      "paperId": "2f6a21095cff8b18e8f16f9390b1160bd0315167",
+      "title": "Survey research."
+    },
+    {
+      "paperId": "f4f51dd24b0d8ac7b9684be3fc092adf7cd5872b",
+      "title": "Information Graphics: A Comprehensive Illustrated Reference"
+    },
+    {
+      "paperId": "42bd119724bee894e0887bc1a27db26420e500ad",
+      "title": "Approaches to social research"
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "paperId": "41900b5fe89b82304dc00a9e43df9fda560aca9f",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2401-05438",
+    "ArXiv": "2401.05438",
+    "DOI": "10.1109/TVCG.2024.3388516",
+    "CorpusId": 266933288,
+    "PubMed": "38648152"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/41900b5fe89b82304dc00a9e43df9fda560aca9f",
+  "title": "A Survey of Designs for Combined 2D+3D Visual Representations",
+  "abstract": "We examine visual representations of data that make use of combinations of both 2D and 3D data mappings. Combining 2D and 3D representations is a common technique that allows viewers to understand multiple facets of the data with which they are interacting. While 3D representations focus on the spatial character of the data or the dedicated 3D data mapping, 2D representations often show abstract data properties and take advantage of the unique benefits of mapping to a plane. Many systems have used unique combinations of both types of data mappings effectively. Yet there are no systematic reviews of the methods in linking 2D and 3D representations. We systematically survey the relationships between 2D and 3D visual representations in major visualization publications\u2014IEEE VIS, IEEE TVCG, and EuroVis\u2014from 2012 to 2022. We closely examined 105 articles where 2D and 3D representations are connected visually, interactively, or through animation. These approaches are designed based on their visual environment, the relationships between their visual representations, and their possible layouts. Through our analysis, we introduce a design space as well as provide design guidelines for effectively linking 2D and 3D visual representations.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2024,
+  "referenceCount": 162,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2401.05438",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2024-01-08",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2888-2902",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hong2024ASO,\n author = {Jia-Shun Hong and R. Hnatyshyn and Ebrar A. D. Santos and Ross Maciejewski and Tobias Isenberg},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2888-2902},\n title = {A Survey of Designs for Combined 2D+3D Visual Representations},\n volume = {30},\n year = {2024}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2047145705",
+      "name": "Jia-Shun Hong"
+    },
+    {
+      "authorId": "96967998",
+      "name": "R. Hnatyshyn"
+    },
+    {
+      "authorId": "2279345311",
+      "name": "Ebrar A. D. Santos"
+    },
+    {
+      "authorId": "2256139474",
+      "name": "Ross Maciejewski"
+    },
+    {
+      "authorId": "2237988060",
+      "name": "Tobias Isenberg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1a3d90a4f7db4a2eaaf426ea5076dcbdb442078c",
+      "title": "FlowNL: Asking the Flow Data in Natural Languages"
+    },
+    {
+      "paperId": "75832c53f03b15eff855ba0d908adae0d2fd80f3",
+      "title": "GRay: Ray Casting for Visualization and Interactive Data Exploration of Gaussian Mixture Models"
+    },
+    {
+      "paperId": "524537f7dcc7e4f7283ad359e8cd4fe9fa69e808",
+      "title": "Multivariate Probabilistic Range Queries for Scalable Interactive 3D Visualization"
+    },
+    {
+      "paperId": "1ea8e94b9901417d8a3d824ad02caa74c7b4310d",
+      "title": "sMolBoxes: Dataflow Model for Molecular Dynamics Exploration"
+    },
+    {
+      "paperId": "209133f0801c23e5fd18e55d52bf6d8efa0c5ac7",
+      "title": "Interactive Visual Analysis of Structure-borne Noise Data"
+    },
+    {
+      "paperId": "0821d6a6a0e463ac22732f058f4a6aa198a2fa0f",
+      "title": "Level Set Restricted Voronoi Tessellation for Large scale Spatial Statistical Analysis"
+    },
+    {
+      "paperId": "553d2ccc07bdeb2b745c2a027cf3ab72e1d98b1a",
+      "title": "LineageD: An Interactive Visual System for Plant Cell Lineage Assignments based on Correctable Machine Learning"
+    },
+    {
+      "paperId": "901f638b857181bc4d0b04aa0d4c9682ea4a6eee",
+      "title": "Barrio: Customizable Spatial Neighborhood Analysis and Comparison for Nanoscale Brain Structures"
+    },
+    {
+      "paperId": "5976ce55527ff28de15c0f8cbdf77633ad997667",
+      "title": "Dashboard Design Patterns"
+    },
+    {
+      "paperId": "8bd6ca226d2fc4877d28f8ef67f9d5647df19f26",
+      "title": "Tangible Globes for Data Visualisation in Augmented Reality"
+    },
+    {
+      "paperId": "1896c78fada19cdbc692f2c5705ce3637651b649",
+      "title": "A Design Space For Data Visualisation Transformations Between 2D And 3D In Mixed-Reality Environments"
+    },
+    {
+      "paperId": "e6cf057db59751fd4eaee21af0616a11d9632024",
+      "title": "Revisiting the Design Patterns of Composite Visualizations"
+    },
+    {
+      "paperId": "bf25998c5d3449ce6abc46ef048501a283eae6c8",
+      "title": "GUCCI - Guided Cardiac Cohort Investigation of Blood Flow Data"
+    },
+    {
+      "paperId": "dc903392e975b8bd0dc66e8c92a006047373113b",
+      "title": "Towards Systematic Design Considerations for Visualizing Cross-View Data Relationships"
+    },
+    {
+      "paperId": "17dc118e389cbbb6fcda1e7f64597149d8aeda7d",
+      "title": "A Progressive Approach for Uncertainty Visualization in Diffusion Tensor Imaging"
+    },
+    {
+      "paperId": "3e0eae34ff39059331dbcb97d0224dcf39a3d8ae",
+      "title": "Visual Analysis of Electronic Densities and Transitions in Molecules"
+    },
+    {
+      "paperId": "6504db2b2cdcbdb4308e7df83a477c75c5b097e4",
+      "title": "MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis"
+    },
+    {
+      "paperId": "3c934bb781b8bcef70916ba280dec12a274439a9",
+      "title": "Visualizing Carotid Blood Flow Simulations for Stroke Prevention"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "e178e7960de5a709b38f10c70fdba9c3df3dee9c",
+      "title": "A Visualization Framework for Multi-scale Coherent Structures in Taylor-Couette Turbulence"
+    },
+    {
+      "paperId": "ecbbefd43973385624c07f82167d96affa975339",
+      "title": "The Anatomical Edutainer"
+    },
+    {
+      "paperId": "1053cf5cedb92e8f00656a7acb5eddf93a120d28",
+      "title": "Visualization of Human Spine Biomechanics for Spinal Surgery"
+    },
+    {
+      "paperId": "80e4c5e8b9e2bf5de140c759975c6d0ba324a969",
+      "title": "Data-Driven Space-Filling Curves"
+    },
+    {
+      "paperId": "26f5a52ebddea5ccc70ed2492e3211202c2318d3",
+      "title": "Personal Augmented Reality for Information Visualization on Large Interactive Displays"
+    },
+    {
+      "paperId": "3f947e2061a8d6de30d496d93a91a1651db29843",
+      "title": "Polyphorm: Structural Analysis of Cosmological Datasets via Interactive Physarum Polycephalum Visualization"
+    },
+    {
+      "paperId": "adcb8d0bf8c810cd77163a8e42e98cf04167f2f1",
+      "title": "TopoMap: A 0-dimensional Homology Preserving Projection of High-Dimensional Data"
+    },
+    {
+      "paperId": "1b37137dfd78989b1a488912bff1e88a7317f8b9",
+      "title": "ChemVA: Interactive Visual Analysis of Chemical Compound Similarity in Virtual Screening"
+    },
+    {
+      "paperId": "1b4768cf1a90575ff789b137187531d77a232037",
+      "title": "Visual Analysis of Large Multivariate Scattered Data using Clustering and Probabilistic Summaries"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "08096c97fadd11c025dcec446ee16425fe857755",
+      "title": "Data Comets: Designing a Visualization Tool for Analyzing Autonomous Aerial Vehicle Logs with Grounded Evaluation"
+    },
+    {
+      "paperId": "ad4b9803af47248ca5bbfb060220cd79bd882108",
+      "title": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools"
+    },
+    {
+      "paperId": "65d1e0ff17366f9466c1ce919b1b1920c16633fe",
+      "title": "Design and Evaluation of Interactive Small Multiples Data Visualisation in Immersive Spaces"
+    },
+    {
+      "paperId": "24d6353de321f4d27034dcac09ad3888c5a1c1fb",
+      "title": "Temporal Views of Flattened Mitral Valve Geometries"
+    },
+    {
+      "paperId": "c66395b2f065c49b4f8c484f80616be9c97bf6e0",
+      "title": "Extraction and Visual Analysis of Potential Vorticity Banners around the Alps"
+    },
+    {
+      "paperId": "5fc0b86569c3b183dc8585b32325f8b65fa39e60",
+      "title": "Visual Abstraction"
+    },
+    {
+      "paperId": "655b6c3829123c6e17231fbbe5796639695d9e1b",
+      "title": "3D-Cardiomics: A spatial transcriptional atlas of the mammalian heart"
+    },
+    {
+      "paperId": "2b638759c060630c182bd398238ecd7b2385d27e",
+      "title": "ShapeBots: Shape-changing Swarm Robots"
+    },
+    {
+      "paperId": "a5d3fc38ca4b6b9fc9cb448504fa8c0488cf0c47",
+      "title": "A Model of Spatial Directness in Interactive Visualization"
+    },
+    {
+      "paperId": "19c79abd3e021835d9648b2dc6218e7df9c321ed",
+      "title": "2D, 3D or speech? A case study on which user interface is preferable for what kind of object interaction in immersive virtual reality"
+    },
+    {
+      "paperId": "82b88859b8296f5fde1b24506d6f206620e9b1f6",
+      "title": "Scale-Space Splatting: Reforming Spacetime for Cross-Scale Exploration of Integral Measures in Molecular Dynamics"
+    },
+    {
+      "paperId": "773161e993b66dac299eb4e6404322e9616f2e5f",
+      "title": "Cohort-based T-SSIM Visual Computing for Radiation Therapy Prediction and Exploration"
+    },
+    {
+      "paperId": "602d1961f7ffb41dcce3cb30817bf0cb03508a7d",
+      "title": "Multiscale Visual Drilldown for the Analysis of Large Ensembles of Multi-Body Protein Complexes"
+    },
+    {
+      "paperId": "7742e0a42f68a6aaddd98cefea4e9242e0443e21",
+      "title": "Interactive Volumetric Visual Analysis of Glycogen\u2010derived Energy Absorption in Nanometric Brain Structures"
+    },
+    {
+      "paperId": "226d76881688eb67c369c99f72bbe8f2988b550d",
+      "title": "A framework for GPU\u2010accelerated exploration of massive time\u2010varying rectilinear scalar volumes"
+    },
+    {
+      "paperId": "4b2bf640f22dc3085f3bd75e62f4b5cf0d7bbd32",
+      "title": "A Visual Tool for the Analysis of Algorithms for Tomographic Fiber Reconstruction in Materials Science"
+    },
+    {
+      "paperId": "5f330c6838364c00211c9cfd3a3998a2c56930d4",
+      "title": "Visual Analysis of Charge Flow Networks for Complex Morphologies"
+    },
+    {
+      "paperId": "c60b87f44b6e2ad84e30ce1c7b774c1b80887b61",
+      "title": "Immersive analytics"
+    },
+    {
+      "paperId": "474c257fab09864b0a4723523810197489b99133",
+      "title": "Visualization of Large Molecular Trajectories"
+    },
+    {
+      "paperId": "6778e122dee96e44181d044b4dc5b9e24bb5f956",
+      "title": "Visual Analysis of Aneurysm Data using Statistical Graphics"
+    },
+    {
+      "paperId": "d7f0341e852f9a4812ba095f7c80ebf431b2ed33",
+      "title": "Dynamic Volume Lines: Visual Comparison of 3D Volumes through Space-filling Curves"
+    },
+    {
+      "paperId": "c645068e096af5470dad64ab78c6aa1db7fce0c7",
+      "title": "Interactive Visualization of RNA and DNA Structures"
+    },
+    {
+      "paperId": "b9908c6af725eb23ad3c981b670e380729d2c6b1",
+      "title": "Origin-Destination Flow Maps in Immersive Environments"
+    },
+    {
+      "paperId": "6ac9bfe30b52a994e360ed4d69e34f7f4d8c999b",
+      "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights"
+    },
+    {
+      "paperId": "ac784f685fb6889d1c5358ed0196e7438e0f7392",
+      "title": "Exploring Time-Varying Multivariate Volume Data Using Matrix of Isosurface Similarity Maps"
+    },
+    {
+      "paperId": "bfc191e40902fe18432807f6c456c59fe78b2307",
+      "title": "Details-First, Show Context, Overview Last: Supporting Exploration of Viscous Fingers in Large-Scale Ensemble Simulations"
+    },
+    {
+      "paperId": "e0ca95f7a88dbf32e5199636719f33a2e1b2dd2d",
+      "title": "IGM\u2010Vis: Analyzing Intergalactic and Circumgalactic Medium Absorption Using Quasar Sightlines in a Cosmic Web Context"
+    },
+    {
+      "paperId": "76082a00ed6f3e3828f78436723d7fde29faeed4",
+      "title": "Pondering the Concept of Abstraction in (Illustrative) Visualization"
+    },
+    {
+      "paperId": "b1e470a2034387f9531446fc7efd24f1f53ab177",
+      "title": "DimSUM: Dimension and Scale Unifying Map for Visual Abstraction of DNA Origami Structures"
+    },
+    {
+      "paperId": "55d6ae291eb800ad4d744ceff961b0b11deea0a1",
+      "title": "Visual and quantitative analysis of great arteries\u2019 blood flow jets in cardiac 4D PC\u2010MRI data"
+    },
+    {
+      "paperId": "133a03c73a32893daf60437d40cb823d5013fd09",
+      "title": "Analyzing Residue Surface Proximity to Interpret Molecular Dynamics"
+    },
+    {
+      "paperId": "d0ae2fa05d6f04bd402418f29442e14079639b4d",
+      "title": "Maps and Globes in Virtual Reality"
+    },
+    {
+      "paperId": "c82cd526e4c2f4c95e2bf9859f384d743b177a47",
+      "title": "The Topology ToolKit"
+    },
+    {
+      "paperId": "adc1c7a21e146663730808cb13a1d3591bac9098",
+      "title": "Dynamic Scene Graph: Enabling Scaling, Positioning, and Navigation in the Universe"
+    },
+    {
+      "paperId": "9ead55e0f201b9f603651f719aa182e9316a3f54",
+      "title": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "a68fc8871593e3fc9b0e5d754f533ba8b89c8c83",
+      "title": "Zooids: Building Blocks for Swarm User Interfaces"
+    },
+    {
+      "paperId": "6f827e4bec37dfcc412fb54ec328f0dda4a851f0",
+      "title": "Semi\u2010automatic Vortex Flow Classification in 4D PC\u2010MRI Data of the Aorta"
+    },
+    {
+      "paperId": "34a1533f64194b471c95f0937ebc971cc0a50ebb",
+      "title": "Mining Graphs for Understanding Time-Varying Volumetric Data"
+    },
+    {
+      "paperId": "fc5fcc17dbc30b8ff428d747931d3efb679cbe99",
+      "title": "Visualizing Tensor Normal Distributions at Multiple Levels of Detail"
+    },
+    {
+      "paperId": "6907dc9d28183cee429eca68606bf6249455a6f8",
+      "title": "Extracting, Tracking, and Visualizing Magnetic Flux Vortices in 3D Complex-Valued Superconductor Simulation Data"
+    },
+    {
+      "paperId": "9b3c94bc79665d1c3d94592dff9654167a346077",
+      "title": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization"
+    },
+    {
+      "paperId": "ab126d2341cd8cfb2b7d3dfce1aecad14c16bb0e",
+      "title": "Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation"
+    },
+    {
+      "paperId": "6f74a00367170694bc9f258308c95c5c10124470",
+      "title": "Association Analysis for Visual Exploration of Multivariate Scientific Data Sets"
+    },
+    {
+      "paperId": "39b3c5c844b885be38984f4542ee2349e34082ed",
+      "title": "NeuroBlocks \u2013 Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects"
+    },
+    {
+      "paperId": "8b6e29cf53130e536758ec767da9f23b848c1467",
+      "title": "Intuitive Exploration of Volumetric Data Using Dynamic Galleries"
+    },
+    {
+      "paperId": "af61a65826c89e38fe44ab66f03f5e686ded6ce9",
+      "title": "Visual verification of space weather ensemble simulations"
+    },
+    {
+      "paperId": "657f164d7a91bbc20d56a887e4d9d12c835e8d27",
+      "title": "MoleCollar and Tunnel Heat Map Visualizations for Conveying Spatio\u2010Temporo\u2010Chemical Properties Across and Along Protein Voids"
+    },
+    {
+      "paperId": "7c338b34bdad4f01ed9744085cb877d219e3ce07",
+      "title": "Visualization of Object\u2010Centered Vulnerability to Possible Flood Hazards"
+    },
+    {
+      "paperId": "eb4185a84e1c53037ad42c99daf525e3fa7bb6f1",
+      "title": "A Novel Framework for Visual Detection and Exploration of Performance Bottlenecks in Organic Photovoltaic Solar Cell Materials"
+    },
+    {
+      "paperId": "0756ccde47374f4e27c49bdf42cbfd4e13f2280d",
+      "title": "Opportunities and Challenges for Data Physicalization"
+    },
+    {
+      "paperId": "8863fc0aa86d21bd2f54e22874ec00a2b261374c",
+      "title": "Design and Evaluation of Interactive Proofreading Tools for Connectomics"
+    },
+    {
+      "paperId": "021dc4e2ebbae944e90c179f5d1503fc27e60d54",
+      "title": "FLDA: Latent Dirichlet Allocation Based Unsteady Flow Analysis"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "8ec0011c98ad7b6baf9e2080aa94932aea02dfcd",
+      "title": "ADR - Anatomy-Driven Reformation"
+    },
+    {
+      "paperId": "2e3152df27e367b06316c365963c084f28d4cedd",
+      "title": "Visualizing 2-dimensional Manifolds with Curve Handles in 4D"
+    },
+    {
+      "paperId": "bd69776dd106b04bc4765a743115222d4fff8900",
+      "title": "Predicate-Based Focus-and-Context Visualization for 3D Ultrasound"
+    },
+    {
+      "paperId": "f344b565ded741210a5c3b3097dc08e9c66c4125",
+      "title": "NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity"
+    },
+    {
+      "paperId": "7abc19ae70673f1bfb0ebd7ab9aeb53c90da1e14",
+      "title": "MovExp: A Versatile Visualization Tool for Human-Computer Interaction Studies with 3D Performance and Biomechanical Data"
+    },
+    {
+      "paperId": "3076a44e352050e548127d10a64c7cab3082c748",
+      "title": "Constructing Visual Representations: Investigating the Use of Tangible Tokens"
+    },
+    {
+      "paperId": "761d800c2c4f4d442156685d9023e1dd5bdd89ed",
+      "title": "3D InfoVis is here to stay: Deal with it"
+    },
+    {
+      "paperId": "b4f81a674bd341ace6ec3d6ae438e25a3925a1c3",
+      "title": "2D and 3D presentation of spatial data: A systematic review"
+    },
+    {
+      "paperId": "7cef7d21d0d91b597c9ea1893f4fefdb2efea3df",
+      "title": "Many Plans: Multidimensional Ensembles for Visual Decision Support in Flood Management"
+    },
+    {
+      "paperId": "c268b643a870439d8291c76f971494d451f98d2e",
+      "title": "Extensible visualization and analysis for multidimensional images using Vaa3D"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "6202fbf92467dea1bd8500068fbfec0304341154",
+      "title": "Coupled Ensemble Flow Line Advection and Analysis"
+    },
+    {
+      "paperId": "413d0a5af05b65fa6ff1a452dd23495f166522be",
+      "title": "Interactive Patient-Specific Vascular Modeling with Sweep Surfaces"
+    },
+    {
+      "paperId": "3e1e79e592b5b5a0730ce80dbc1c40afd4461f75",
+      "title": "GRACE: A Visual Comparison Framework for Integrated Spatial and Non-Spatial Geriatric Data"
+    },
+    {
+      "paperId": "730279d63b5af9c5af516933d6e14d3771fcaaf6",
+      "title": "An Information-Aware Framework for Exploring Multivariate Data Sets"
+    },
+    {
+      "paperId": "f1b46d713ea8ba851a0b67b5fe0e84b62c42a572",
+      "title": "A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures"
+    },
+    {
+      "paperId": "e36c76c187d924f0beec962dc3f4c55658cb719c",
+      "title": "MObjects--A Novel Method for the Visualization and Interactive Exploration of Defects in Industrial XCT Data"
+    },
+    {
+      "paperId": "ed5eca50eff02df2911dda5b5315aae6c433149f",
+      "title": "Vessel Visualization using Curvicircular Feature Aggregation"
+    },
+    {
+      "paperId": "2492cd7f06f582e003c4d30ecc213bdfa2f17700",
+      "title": "Interactive Extraction and Tracking of Biomolecular Surface Features"
+    },
+    {
+      "paperId": "a5eca997fb4418e7b93301cb30d48ed4e15531a8",
+      "title": "AmniVis \u2013 A System for Qualitative Exploration of Near\u2010Wall Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "01eaea75849646e34b05b44440420142c0e4b196",
+      "title": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach"
+    },
+    {
+      "paperId": "7b8203ea182a4aa859c7d5f6764d57400cb6833d",
+      "title": "SeiVis: An Interactive Visual Subsurface Modeling Application"
+    },
+    {
+      "paperId": "b3296829c12f3c8c3f203e8fdfff6d2dca65a2a8",
+      "title": "Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms"
+    },
+    {
+      "paperId": "b63ab9a95d96e3f6aa68f9640f22b057cfe6d449",
+      "title": "Multivariate Data Analysis Using Persistence-Based Filtering and Topological Signatures"
+    },
+    {
+      "paperId": "f08e18ffa4153f909e1636748e88fd94039713cd",
+      "title": "KnotPad: Visualizing and Exploring Knot Theory with Fluid Reidemeister Moves"
+    },
+    {
+      "paperId": "bb192d3266bf60b07b1f17b16fac75d87d677178",
+      "title": "Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations"
+    },
+    {
+      "paperId": "50ccfa879d351556a2fb9dc3c5fc968d7e5f605e",
+      "title": "A Visual Analysis Concept for the Validation of Geoscientific Simulation Models"
+    },
+    {
+      "paperId": "dc13dc323b6ed2ee9924dc705358d6c191f37f4f",
+      "title": "Interactive Visualization of Generalized Virtual 3D City Models using Level\u2010of\u2010Abstraction Transitions"
+    },
+    {
+      "paperId": "d36d04d752e3069b7a8a5c0f1643e94baa31dce0",
+      "title": "A Design Study of Direct\u2010Touch Interaction for Exploratory 3D Scientific Visualization"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "695e08b28b112910b9c34e16cf1d77b53786f975",
+      "title": "FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces"
+    },
+    {
+      "paperId": "c2334b6f6fd5620fac422d65f6a4a2ee5028eaf0",
+      "title": "Towards the Big Picture: Enriching 3D Models with Information Visualisation and Vice Versa"
+    },
+    {
+      "paperId": "7446295df4e90a427edbfc8cbd789e27478fbc7e",
+      "title": "A review of overview+detail, zooming, and focus+context interfaces"
+    },
+    {
+      "paperId": "8d41d38b9728a58a78f9926b3bd77dea6383f7a5",
+      "title": "Arena3D: visualization of biological networks in 3D"
+    },
+    {
+      "paperId": "6d0973e1206ff14e281a9d20f4e08f27b9263461",
+      "title": "Virtual Reality: How Much Immersion Is Enough?"
+    },
+    {
+      "paperId": "45218a998cd03f4ea990e6914ce375a161f8a627",
+      "title": "Haptic interfaces and devices"
+    },
+    {
+      "paperId": "95f036d664ac8c837f53fe23bea5d9889911b577",
+      "title": "2D vs 3D, implications on spatial memory"
+    },
+    {
+      "paperId": "e4cbb0010ef14098a26667793502904757309b17",
+      "title": "Emerging frameworks for tangible user interfaces"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "150b904ba16162515bef7c0cf7175d8f3955b580",
+      "title": "3D object recognition with motion"
+    },
+    {
+      "paperId": "9e6940097b430c06a4ab3075de66f3440cccbe7f",
+      "title": "The design and implementation of an object-oriented toolkit for 3D graphics and visualization"
+    },
+    {
+      "paperId": "fbad220411baa1dab0feca4b5ce241db3a80252f",
+      "title": "A survey of algorithms for volume visualization"
+    },
+    {
+      "paperId": "b13cfc15a298608a60fe32c3214cdf1956321997",
+      "title": "Interactive data visualization using focusing and linking"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "fad57c71d7231507da98b5f7f160cace9946307e",
+      "title": "Hand movements: A window into haptic object recognition"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAsuggestiveinterfaceforuntanglingmathematical knots,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDesign and evaluation of three selection techniques for tightly packed 3D objects in cell lineage speci\ufb01cation in botany,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cShuttleSpace:Exploringandanalyzingmovementtrajectory inimmersivevisualization,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMaps around me: 3D multiview layouts in immersive spaces,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cScaletrotter:Illustrativevisualtravelsacrossnegativescales,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDy-namiccompositedataphysicalizationusingwheeledmicro-robots,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Information Visualization: Perception for Design 4th ed. Waltham, MA, USA: Morgan Kaufmann"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisfer:Camera-basedvisualdatatransferforcross-devicevisualization,\u201d"
+    },
+    {
+      "paperId": "c80600a5dae24a428aeea8d658f96ae9ec4201fd",
+      "title": "Abstractocyte: A Visual Tool for Exploring Nanoscale Astroglial Cells"
+    },
+    {
+      "paperId": "9fe9cb7704e26c0fa27b7af192f7cf3c0854b9f5",
+      "title": "VisTiles: Coordinating and Combining Co-located Mobile Devices for Visual Data Exploration"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualanalysisofprotein-ligandinteractions,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cIl-lustrativemultivariatevisualizationforgeologicalmodelling,\u201d"
+    },
+    {
+      "paperId": "abbd050aa750a01b8ea5d30f29c40525a31ce2f2",
+      "title": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "paperId": "541dcf3b5733ebddfac65436f0fd185eed04524e",
+      "title": "Molecular Surface Maps"
+    },
+    {
+      "paperId": "8b9fd0385f0405b0724465702bb71da8cda5d5b3",
+      "title": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "paperId": "fbc08ace87672a8a9259a8b3a753fe38f91b0375",
+      "title": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "paperId": "b6fde78c72755595b1481cddb77cc8e4df74d62b",
+      "title": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cCorresponding supine andpronecolonvisualizationusingeigenfunctionanalysisandfoldmod-eling,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPhysics-basedvisualcharacterizationofmolecularinteractionforces,\u201d"
+    },
+    {
+      "paperId": "189c4ec4e104fc9c4e99fa9f6b7c5fb6860de1b7",
+      "title": "A Survey of Multi-faceted Graph Visualization"
+    },
+    {
+      "paperId": "c925f2100ee5a3ca8f6a828f679b94ef8e76f92a",
+      "title": "The Impact of Interactivity on Comprehending 2D and 3D Visualizations of Movement Data"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTrend-centric motion visualization: Designing and applyinganewstrategyforanalyzingscienti\ufb01cmotioncollections,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cCombinedvisualizationofwallthicknessandwallshearstressfortheevaluation ofaneurysms,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Analysis and Design . New York, NY, USA"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAdesignspaceofvisualizationtasks,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cStacking-basedvisualizationoftrajectoryattributedata,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEmploy-ing 2D projections for fast visual exploration of large \ufb01ber tracking data,\u201d"
+    },
+    {
+      "paperId": "70d86687e47287e225c0458b0c7a305ca6b49de3",
+      "title": "Linked Data Views"
+    },
+    {
+      "paperId": "3c246b8d8c1b4914d4f98b0eae2409179a6b77de",
+      "title": "A Transparently Scalable Visualization Architecture for Exploring the Universe"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cBrushing scatter-plots,\u201d"
+    },
+    {
+      "paperId": "23193bde7bb0c4a8b31753e62b8c93cbdcd84a8d",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Visualization Task Performance with 2d, 3d, and Combination Displays"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualanalysisanddetectionofcontrailsinaircraftenginesimulations,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "license agreement with IEEE. Restrictions apply"
+    },
+    {
+      "paperId": null,
+      "title": "SURVEY OF DESIGNS FOR COMBINED 2D+3D VISUAL REPRESENTATIONS"
+    }
+  ]
+}

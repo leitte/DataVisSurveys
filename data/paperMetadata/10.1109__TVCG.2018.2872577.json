@@ -1,0 +1,1121 @@
+{
+  "paperId": "b2e9f35d60b00c7319a6763a477857e5215082f5",
+  "externalIds": {
+    "DBLP": "journals/tvcg/DimaraFPBD20",
+    "MAG": "2894294331",
+    "DOI": "10.1109/TVCG.2018.2872577",
+    "CorpusId": 52917687,
+    "PubMed": "30281459"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/b2e9f35d60b00c7319a6763a477857e5215082f5",
+  "title": "A Task-Based Taxonomy of Cognitive Biases for Information Visualization",
+  "abstract": "Information visualization designers strive to design data displays that allow for efficient exploration, analysis, and communication of patterns in data, leading to informed decisions. Unfortunately, human judgment and decision making are imperfect and often plagued by cognitive biases. There is limited empirical research documenting how these biases affect visual data analysis activities. Existing taxonomies are organized by cognitive theories that are hard to associate with visualization tasks. Based on a survey of the literature we propose a task-based taxonomy of 154 cognitive biases organized in 7 main categories. We hope the taxonomy will help visualization researchers relate their design to the corresponding possible biases, and lead to new research that detects and addresses biased judgment and decision making in data visualization.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 258,
+  "openAccessPdf": {
+    "url": "https://hal.sorbonne-universite.fr/hal-01868738v2/file/Dimara_Cognitive_Bias_Taxonomy.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-02-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1413-1432",
+    "volume": "26"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Dimara2020ATT,\n author = {Evanthia Dimara and S. Franconeri and C. Plaisant and A. Bezerianos and Pierre Dragicevic},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1413-1432},\n title = {A Task-Based Taxonomy of Cognitive Biases for Information Visualization},\n volume = {26},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2304083",
+      "name": "Evanthia Dimara"
+    },
+    {
+      "authorId": "1836170",
+      "name": "S. Franconeri"
+    },
+    {
+      "authorId": "1764846",
+      "name": "C. Plaisant"
+    },
+    {
+      "authorId": "34790289",
+      "name": "A. Bezerianos"
+    },
+    {
+      "authorId": "3297322",
+      "name": "Pierre Dragicevic"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b37c73cd3d4624ba3ed43a9aa80b44d6c439818b",
+      "title": "Thinking and Deciding"
+    },
+    {
+      "paperId": "8edadbefe9b7e515ab9cea1304e9b9fbd4e61818",
+      "title": "The Curse of Knowledge in Visual Data Communication"
+    },
+    {
+      "paperId": "2c5aad7710b5275dbefb31d20161f44b61b6f499",
+      "title": "The self perspective"
+    },
+    {
+      "paperId": "f030fe541857e653de41c753b91a8ff671efcf14",
+      "title": "Mitigating the Attraction Effect with Visualizations"
+    },
+    {
+      "paperId": "28a4db89125addb444c69c6336d379ee1eb9e9c7",
+      "title": "Decision making with visualizations: a cognitive framework across disciplines"
+    },
+    {
+      "paperId": "6979c6e6f385263cfd5dfc34d70e30dddd07778d",
+      "title": "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"
+    },
+    {
+      "paperId": "bca2b6b814c428fb1917c43b1972e97664815d20",
+      "title": "Interactive Instruction in Bayesian Inference"
+    },
+    {
+      "paperId": "825ae04b67cd58951cdb115978e9fba6a1d5f5d9",
+      "title": "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making"
+    },
+    {
+      "paperId": "b6284b2883074fed354448f0f8ebac4398fa3d3a",
+      "title": "The Anchoring Effect in Decision-Making with Visual Analytics"
+    },
+    {
+      "paperId": "0fc748ab61c699c6a5649d472a0b1aa6d8c0a36f",
+      "title": "Warning, Bias May Occur: A Proposed Approach to Detecting Cognitive Bias in Interactive Visual Analytics"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "22d37247424e9a5fad56b36ca8d36591af6b01cb",
+      "title": "Empirical Analysis of the Subjective Impressions and Objective Measures of Domain Scientists' Visual Analytic Judgments"
+    },
+    {
+      "paperId": "87ad38353cdeffcf6233abc072f21bebf75d82e8",
+      "title": "Showing People Behind Data: Does Anthropomorphizing Visualizations Elicit More Empathy for Human Rights Data?"
+    },
+    {
+      "paperId": "3c56e989be76eab22a804b85ac6710825c53040c",
+      "title": "Regression by Eye: Estimating Trends in Bivariate Visualizations"
+    },
+    {
+      "paperId": "5369a526f713a20dcafcf8a2f3d00db5c674c305",
+      "title": "Finding Similar People to Guide Life Choices: Challenge, Design, and Evaluation"
+    },
+    {
+      "paperId": "fcf5438b2ba9d0d7661aee8937b6d02154f9551a",
+      "title": "A Cognitive Model of How People Make Decisions Through Interaction with Visual Displays"
+    },
+    {
+      "paperId": "c679cb2385b7e1a7e66ba43a74198258cc29f678",
+      "title": "Intuitive biological thought: Developmental changes and effects of biology education in late adolescence"
+    },
+    {
+      "paperId": "8ab0f3ec6619f8be1f5639b8eb9afd4682f1332c",
+      "title": "Accounting for Availability Biases in Information Visualization"
+    },
+    {
+      "paperId": "27b5dcb6f068eccec359334c4afe55c762ee9e1f",
+      "title": "In-situ visualization of pedaling forces on cycling training videos"
+    },
+    {
+      "paperId": "ac3600e68f7ef9e971f4eb3bd5bf44f5fd6f7237",
+      "title": "Signatures of a Statistical Computation in the Human Sense of Confidence"
+    },
+    {
+      "paperId": "b3b3efb4613133587a92a9ce141e7ad12d21555c",
+      "title": "Understanding the efficacy of interactive visualization for decision making for complex systems"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "7395e9c82c64f3eb9da458b391c77baf58d4ac54",
+      "title": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability"
+    },
+    {
+      "paperId": "0406c3b350227b7f59356b75f1d45e1825f6931d",
+      "title": "Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences about Reliability of Variable Ordering"
+    },
+    {
+      "paperId": "aed8054427981bd37f65cb1ab6847b6d184686ef",
+      "title": "Benefits of visualization in the Mammography Problem"
+    },
+    {
+      "paperId": "8a39e68b0d4202abf7e29874bb40062ec212c216",
+      "title": "Bridging Theory with Practice: An Exploratory Study of Visualization Use and Design for Climate Model Comparison"
+    },
+    {
+      "paperId": "9b9638df463fca922ae68981387e672997e34e33",
+      "title": "Explanations of the endowment effect: an integrative review"
+    },
+    {
+      "paperId": "9e43e9f2d19f25ad43f84bb5fefff9ca7bac492c",
+      "title": "ISOTYPE Visualization: Working Memory, Performance, and Engagement with Pictographs"
+    },
+    {
+      "paperId": "021239f38085dd02e6f107b02788a02921f9ab53",
+      "title": "Designing Information for Remediating Cognitive Biases in Decision-Making"
+    },
+    {
+      "paperId": "d2f1d6312cdcbde7d8ca2a041d844c38eb609793",
+      "title": "STRATOS: Using Visualization to Support Decisions in Strategic Software Release Planning"
+    },
+    {
+      "paperId": "12bd79dc74028338d414ffe619b44386610110c2",
+      "title": "Belief in a Zero-Sum Game as a Social Axiom"
+    },
+    {
+      "paperId": "9a9e27e12ea3d266ea4b7010158be0fbfe02db73",
+      "title": "Web Third-person effect in structural aspects of the information on media websites"
+    },
+    {
+      "paperId": "2f2961362355e45fa014ca0bb8ce4495aedf8824",
+      "title": "Thinking fast and slow."
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "ff40c4162173d327479397d2e41df5dfcfaf10a2",
+      "title": "Visualization-Mediated Alleviation of the Planning Fallacy"
+    },
+    {
+      "paperId": "074ec716e8c481514f0c15e2714306b444dda0a1",
+      "title": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error"
+    },
+    {
+      "paperId": "b443c6c47a5263a7902c8207bf0a40707234412a",
+      "title": "Ranking Visualizations of Correlation Using Weber's Law"
+    },
+    {
+      "paperId": "c936b3323f5a9dfc34ec3783830964f3dc7c08c2",
+      "title": "Opening the Black Box of \u201cNot Invented Here\u201d: Attitudes, Decision Biases, and Behavioral Consequences"
+    },
+    {
+      "paperId": "df3aea49da0966930163ffd1a82e3f1c221b9443",
+      "title": "Hierarchical Encoding Makes Individuals in a Group Seem More Attractive"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "de5a1189daade237fc92d0ebb802242f53a9fe1c",
+      "title": "LineUp: Visual Analysis of Multi-Attribute Rankings"
+    },
+    {
+      "paperId": "ceb8cfed496e62c9944c3d51bbafd28d0c682fe3",
+      "title": "Enumeration of small collections violates Weber\u2019s law"
+    },
+    {
+      "paperId": "835652ff475f8747ea645623726b0b95a5071748",
+      "title": "Physician 'defiance' towards hand hygiene compliance: Is there a theory-practice-ethics gap?"
+    },
+    {
+      "paperId": "8c43cf12a46ec78e41a92d2f1f52564b5a9f7569",
+      "title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing"
+    },
+    {
+      "paperId": "313b1ad5ee32c78f17faa9accd984a79b4e7b2a3",
+      "title": "The potato chip really does look like Elvis! Neural hallmarks of conceptual processing associated with finding novel shapes subjectively meaningful."
+    },
+    {
+      "paperId": "ca3dd8ce40cdb7b2e739f50ac144e7faa90e29c7",
+      "title": "Strategy Selection, Surrogation, and Strategic Performance Measurement Systems"
+    },
+    {
+      "paperId": "285c5415b86fdb1de23cb0d7631fc82e83fd33f4",
+      "title": "Cognitive interventions to reduce diagnostic error: a narrative review"
+    },
+    {
+      "paperId": "09f244ce656718d70b1c31a5d10eb47eccd547c8",
+      "title": "Questions and challenges for the new psychology of reasoning"
+    },
+    {
+      "paperId": "016713b7943309c35813499a3fcfdf05d3189508",
+      "title": "Human Performance Consequences of Automated Decision Aids"
+    },
+    {
+      "paperId": "1f80a8df3ff79e63f6924da5b3a1ed6aec8a0e57",
+      "title": "BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers"
+    },
+    {
+      "paperId": "52efd857b500531e040a9366b3eb5bb0ea543979",
+      "title": "Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips"
+    },
+    {
+      "paperId": "6352fef59f72ce488afe481a6989011a7616d9e0",
+      "title": "They saw a game: a case study."
+    },
+    {
+      "paperId": "6a53b28b15105176e011ad36bbfc0e11b849ad0c",
+      "title": "The 'IKEA Effect': When Labor Leads to Love"
+    },
+    {
+      "paperId": "8eb5151e1625d85a542b6b08e8f821aa81fe8a38",
+      "title": "A literature review of the anchoring effect"
+    },
+    {
+      "paperId": "9e4d9c2ead3b3036c927fd153da500452abeea36",
+      "title": "Rationality and the Reflective Mind"
+    },
+    {
+      "paperId": "00e2cb569bb5985e6a7f39f1a270a0be7b4e12b6",
+      "title": "Tainted recommendations: The social comparison bias"
+    },
+    {
+      "paperId": "a958b3cb2f3f28d0eb9b7dd04915eb59979d945f",
+      "title": "The Effect of Humor on Memory: Constrained by the Pun"
+    },
+    {
+      "paperId": "daccaa7216dfe78a460dd4194c8222a270aca35c",
+      "title": "Neural Substrates of Attentional Bias for Smoking-Related Cues: An fMRI Study"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "bc9cb1bbdb5368fcd4166471a8e0fecbbcca2410",
+      "title": "Enhancing Group Decision Making: An Exercise to Reduce Shared Information Bias"
+    },
+    {
+      "paperId": "2a33a4cece4ab640ae52c431918b0c57a2c0f6d9",
+      "title": "When Corrections Fail: The Persistence of Political Misperceptions"
+    },
+    {
+      "paperId": "0bf0f8a9afd9d75750d86684253fbc64dd6e6881",
+      "title": "The Denomination Effect"
+    },
+    {
+      "paperId": "6e70a1e575f80e74d1c13a648fe09e90e3b2cf9d",
+      "title": "The Restraint Bias: How the Illusion of Self-Restraint Promotes Impulsive Behavior"
+    },
+    {
+      "paperId": "b3754b67f12a9f0fdeb440f45df70454773ad636",
+      "title": "FinVis: Applied visual analytics for personal financial planning"
+    },
+    {
+      "paperId": "c62489e3745e65812183aef3b76c5fe701e3b341",
+      "title": "The Fading affect bias: But what the hell is it for?"
+    },
+    {
+      "paperId": "a2538ed402d369418ff091f9fc91b250aa076279",
+      "title": "Co-Witnesses, Confederates, and Conformity: Effects of Discussion and Delay on Eyewitness Memory"
+    },
+    {
+      "paperId": "ec4667e98276d3ecf1195dd9ae24d2d1ec72dbee",
+      "title": "The ostrich effect: Selective attention to information"
+    },
+    {
+      "paperId": "4426af92d1eee5675acf56704448f90d781af0c3",
+      "title": "Why is the meaning of a sentence better remembered than its form? An fMRI study on the role of novelty\u2010encoding processes"
+    },
+    {
+      "paperId": "46754ed949775d82f58c759bc7f866075ce1b07f",
+      "title": "Crime and punishment: Distinguishing the roles of causal and intentional analyses in moral judgment"
+    },
+    {
+      "paperId": "c1bd26e7b2e6243b5350ec35d00e1c1093ecf8b0",
+      "title": "Decisions among time saving options: when intuition is strong and wrong."
+    },
+    {
+      "paperId": "22ba4372aa836746a8c6d95ce4120ab49d650979",
+      "title": "Influence of Recall Procedures on the Modality Effect With Numbers and Enumerated Stimuli"
+    },
+    {
+      "paperId": "72b679c1865b6423e6208abbb6506a21760420eb",
+      "title": "Neural mechanisms mediating optimism bias"
+    },
+    {
+      "paperId": "7c46bd991b3dc6e40790bc55f6d95c1722f0f885",
+      "title": "Hypothetical Thinking: Dual Processes in Reasoning and Judgement"
+    },
+    {
+      "paperId": "504d2e521d21390bc4c04ca9a79129f4b494d266",
+      "title": "Valuing thoughts, ignoring behavior: The introspection illusion as a source of the bias blind spot"
+    },
+    {
+      "paperId": "5890758fdccf8e4ea75571f7d8741940660ba38f",
+      "title": "Testing the testing effect in the classroom"
+    },
+    {
+      "paperId": "ef603701794e6abd79e75ae0f521e15e1f7d05ca",
+      "title": "Visualization of Uncertainty and Reasoning"
+    },
+    {
+      "paperId": "e47461776eb90b394379494a4ff264f04bb617b5",
+      "title": "Base-rate respect: From ecological rationality to dual processes."
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "853e1c477b291a50c08f122a0175bdf418044ff7",
+      "title": "The Sandbox for analysis: concepts and methods"
+    },
+    {
+      "paperId": "a4d99468a565310c7396869b3b8db814d28f3576",
+      "title": "Theory of Games and Economic Behavior"
+    },
+    {
+      "paperId": "04b84f9079f0e04dfdb39c1954ae7928286962d5",
+      "title": "Temporal differences in trait self-ascription: when the self is seen as an other."
+    },
+    {
+      "paperId": "e9d7ec2022d7f2337b244246fe26d5c75983cd1e",
+      "title": "Cognitive biases and decision support systems development: a design science approach"
+    },
+    {
+      "paperId": "23a9be1d8812acc71e69a72879d44def88590534",
+      "title": "Aging and motivated cognition: the positivity effect in attention and memory"
+    },
+    {
+      "paperId": "9156aa0fdd78066ec2bbd13764546126ff777b3e",
+      "title": "Meta-Analysis of the Modality Effect."
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "afe2025570fee38321d260a14c910d718c233684",
+      "title": "Hot-cold empathy gaps and medical decision making."
+    },
+    {
+      "paperId": "cc7a2d6b37d423c23900c4c61920d54dc95f4ea2",
+      "title": "Comparison-induced decoy effects"
+    },
+    {
+      "paperId": "50271c1782a2cf94b77b2d6729760d6496808b8b",
+      "title": "Functional Fixedness in a Technologically Sparse Culture"
+    },
+    {
+      "paperId": "2c4414cde6b6a011e9f4910e6389d658278e3a7a",
+      "title": "Gender differences in automatic in-group bias: why do women like women more than men like men?"
+    },
+    {
+      "paperId": "65b6fde7b05b1c63251ad635cb6ce3baf86274e8",
+      "title": "A holistic account of the own-race effect in face recognition: evidence from a cross-cultural study"
+    },
+    {
+      "paperId": "db0865766ba2989844ca0582b6bda3e790889730",
+      "title": "Commentary: the hormone replacement-coronary heart disease conundrum: is this the death of observational epidemiology?"
+    },
+    {
+      "paperId": "50fb1890a2e71249e8f50af72495233e52059158",
+      "title": "ValueCharts: analyzing linear models expressing preferences and evaluations"
+    },
+    {
+      "paperId": "cbd2ee012720c3e25fb358f2c3f4b0280a044235",
+      "title": "The illusion of transparency and the alleviation of speech anxiety"
+    },
+    {
+      "paperId": "3aba1167623c6a58f6df71959623cc9c7318d582",
+      "title": "Forgetting of intentions in demanding situations is rapid."
+    },
+    {
+      "paperId": "96fdff9a70b839a9e800690fae5b22ddf2f31d3c",
+      "title": "A dual-process account of the list-length and strength-based mirror effects in recognition"
+    },
+    {
+      "paperId": "5107ddc12a4c7b2bd5ea253aae9a38520d6e4aa4",
+      "title": "The sexual overperception bias: Evidence of a systematic bias in men from a survey of naturally occurring events."
+    },
+    {
+      "paperId": "eafd4d15cf0a3cc79b423a63a443fe59bbad1b3c",
+      "title": "The police officer's dilemma: using ethnicity to disambiguate potentially threatening individuals."
+    },
+    {
+      "paperId": "bf473ab09f8065a4c14b51f708015138f4c5ed32",
+      "title": "Non-conscious forms of system justification: Implicit and behavioral preferences for higher status groups"
+    },
+    {
+      "paperId": "577b69191df294839629b00e6d88ea25dc93b07a",
+      "title": "Fuzzy-Trace Theory and False Memory"
+    },
+    {
+      "paperId": "b493e14c240dae7682ddd7691c805f0d7abad04f",
+      "title": "A comparison of conscious and automatic memory processes for picture and word stimuli: A process dissociation analysis"
+    },
+    {
+      "paperId": "60ca329f5b29348267baac6c8bb53e61b8ac8e30",
+      "title": "Heuristics and Biases: The Psychology of Intuitive Judgment"
+    },
+    {
+      "paperId": "4069615a36c33e61ca309b8ceaeb628a10d441b5",
+      "title": "Representativeness revisited: Attribute substitution in intuitive judgment."
+    },
+    {
+      "paperId": "c302c45e3e889345a4939d5cf7dcc8a96a590686",
+      "title": "Probability Neglect: Emotions, Worst Cases, and Law"
+    },
+    {
+      "paperId": "a855ff90bf412204d26fad545dbb2c205370045a",
+      "title": "You don't know me, but I know you: the illusion of asymmetric insight."
+    },
+    {
+      "paperId": "dd98c9dd864da213f567d2fc46d24139544e096d",
+      "title": "Moral credentials and the expression of prejudice."
+    },
+    {
+      "paperId": "947a5e41fb1eaddedb06313e61311fb405e1901c",
+      "title": "Choice-supportive source monitoring: do our decisions seem better to us as we age?"
+    },
+    {
+      "paperId": "b87ddaf86d4c3c7e5bbebd98e0df0ff4154fbb53",
+      "title": "The illusion of external agency."
+    },
+    {
+      "paperId": "2b55dd8a0a6e5659e579d9658dffd4d189052956",
+      "title": "Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms"
+    },
+    {
+      "paperId": "400d08a1ebace33672de6aeaf592660d332063bd",
+      "title": "Risky business: safety regulations, risk compensation, and individual behavior"
+    },
+    {
+      "paperId": "f4da40abb61aaaff3f23a0b4ab29677490703387",
+      "title": "Examining Models of Nondominated Decoy Effects across Judgment and Choice."
+    },
+    {
+      "paperId": "3d2a1c99395124bf9372e1493f314f6990a78473",
+      "title": "The spotlight effect in social judgment: an egocentric bias in estimates of the salience of one's own actions and appearance."
+    },
+    {
+      "paperId": "f2c80eef3585e0569e93ace0b9770cf76c8ebabc",
+      "title": "Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments."
+    },
+    {
+      "paperId": "dbdb6a859d744f6e8685951e36fe8b4aa8923ce8",
+      "title": "Overconfidence: It Depends on How, What, and Whom You Ask."
+    },
+    {
+      "paperId": "cfbdc5b51daf603ece166861b509ef613fb231e9",
+      "title": "Lake Wobegon be gone! The \"below-average effect\" and the egocentric nature of comparative ability judgments."
+    },
+    {
+      "paperId": "cab28eb5d1f3ed7407d2fc1669c1b28f471f6a88",
+      "title": "Naive cynicism in everyday theories of responsibility assessment : On biased assumptions of bias"
+    },
+    {
+      "paperId": "d17120bd04bbd5b857564fb68931bec685fdf6fd",
+      "title": "On the Social Psychology of Agency Relationships: Lay Theories of Motivation Overemphasize Extrinsic Incentives."
+    },
+    {
+      "paperId": "dc67698458d43537e3c6f5162431f201804cd699",
+      "title": "Self-Threat Magnifies the Self-Serving Bias: A Meta-Analytic Integration"
+    },
+    {
+      "paperId": "f764fad647b8fc69f2cc2d23891af2b15b2ebefa",
+      "title": "The von Restorff Effect in Visual Object Recognition Memory in Humans and Monkeys: The Role of Frontal/Perirhinal Interaction"
+    },
+    {
+      "paperId": "3a9bdf026c5e6bbea2cd9f715c430984cecb10da",
+      "title": "Less is Better: When Low-Value Options are Valued More Highly than High-Value Options"
+    },
+    {
+      "paperId": "70c93e5e38a8176590f69c0491fd63ab2a9e67c4",
+      "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises"
+    },
+    {
+      "paperId": "7b354da543d1160aa9145a58886fc3d914e90b6a",
+      "title": "A theoretical review of the misinformation effect: Predictions from an activation-based memory model"
+    },
+    {
+      "paperId": "03099c854b182568e3006bb8655f8670bfa44fce",
+      "title": "Temporal Adjustments in the Evaluation of Events: The \"Rosy View\""
+    },
+    {
+      "paperId": "c7ceb4200c1875142edb1664628abb4a9ccd0674",
+      "title": "Explaining the Identifiable Victim Effect"
+    },
+    {
+      "paperId": "ac8c07714e860c42319254d762e30063e79e4713",
+      "title": "The Effect of Myopia and Loss Aversion on Risk Taking: An Experimental Test"
+    },
+    {
+      "paperId": "720a59f766b91b6789a4f9eb63cbef68fa4fcd3a",
+      "title": "People Studying People: Artifacts and Ethics in Behavioral Research"
+    },
+    {
+      "paperId": "92ceff77ba7386572c02e31f75ce0b937efe23ed",
+      "title": "On the reality of cognitive illusions."
+    },
+    {
+      "paperId": "22bec9bcf571691df365c465c5963abfabee36c1",
+      "title": "Things that go bump in your life: explaining the reminiscence bump in autobiographical memory."
+    },
+    {
+      "paperId": "0b34163fbfbc372ab6d1fea80be651523fb1ed96",
+      "title": "Using Treemaps to Visualize the Analytic Hierarchy Process"
+    },
+    {
+      "paperId": "d546c96b820f345c6bbf8c71f3f6545d2e92b3b0",
+      "title": "Mood-Congruent Memory and Natural Mood: New Evidence"
+    },
+    {
+      "paperId": "cc851bf68a0ebe7e9ff7bf018818c1161d55f94e",
+      "title": "The bizarreness effect: it's not surprising, it's complex."
+    },
+    {
+      "paperId": "e62f8846e9b6d57c340b8fddf9e1b01d86aaffe7",
+      "title": "Barriers to conflict resolution"
+    },
+    {
+      "paperId": "85c233d9075c32a1eafebb14360c320e74b7ef5b",
+      "title": "Duration neglect in retrospective evaluations of affective episodes."
+    },
+    {
+      "paperId": "97fe86a08e6f8fdfd9ccb3ab06f7cb8d8adeb0c9",
+      "title": "Childhood amnesia and the beginnings of memory for four early life events."
+    },
+    {
+      "paperId": "0eb842108201fd3056019c6f49294577af8472c6",
+      "title": "New Evidence About the Existence of a Bandwagon Effect in the Opinion Formation Process"
+    },
+    {
+      "paperId": "f29ae65f5df9287006e705058427e70c4e8c1689",
+      "title": "Attitudes Toward Managing Hazardous Waste: What Should Be Cleaned Up and Who Should Pay for It?"
+    },
+    {
+      "paperId": "605d0bd6c1c47fd3c798b8b7137b9a46c41fe3f9",
+      "title": "Attributional and emotional determinants of aggression among African-American and Latino young adolescents."
+    },
+    {
+      "paperId": "d2b547f3e19ed7f9e8936c027c48608db4b7267c",
+      "title": "A review of the tip-of-the-tongue experience."
+    },
+    {
+      "paperId": "7b981a0f510b0c1f6657a18578b733f649c3cece",
+      "title": "Behavioral Law and Economics: Reluctance to Vaccinate: Omission Bias and Ambiguity"
+    },
+    {
+      "paperId": "8af7775ab34b4e629bb1491f8128ffa8cc0cdfc8",
+      "title": "Rational choice and the framing of decisions"
+    },
+    {
+      "paperId": "d21593b264a0b3a529c71b0034ba588033121f52",
+      "title": "Ambiguity and self-evaluation: the role of idiosyncratic trait definitions in self-serving assessments of ability"
+    },
+    {
+      "paperId": "2599947d7c05a3ab90dc134fcd18cbab212a48b6",
+      "title": "Choice Based on Reasons: The Case of Attraction and Compromise Effects"
+    },
+    {
+      "paperId": "9c3f369afcd266a377a10a09c41f590c8c7a00f9",
+      "title": "Cognitive operations and the generation effect."
+    },
+    {
+      "paperId": "dfed7628b97bf721fe1a9bac3852fefdccf2d5a9",
+      "title": "The eyewitness suggestibility effect and memory for source"
+    },
+    {
+      "paperId": "5d82f320368a758db3c6c1425e9c7f40e87d45ce",
+      "title": "Spacing effects in memory: evidence for a two-process account"
+    },
+    {
+      "paperId": "457a316aacce524bd162038709a4331cb9e61515",
+      "title": "Paranormal Beliefs and the Barnum Effect"
+    },
+    {
+      "paperId": "1001bf6b044057a2cd202f5a338d3bff35b7c06d",
+      "title": "Heuristics and biases in diagnostic reasoning: II. Congruence, information, and certainty\u2606"
+    },
+    {
+      "paperId": "88400bc04e9832755217fb97240347b128444aab",
+      "title": "Outcome bias in decision evaluation."
+    },
+    {
+      "paperId": "444f7e9532a3985ecde11a1e253f717147c18dec",
+      "title": "Status quo bias in decision making"
+    },
+    {
+      "paperId": "2a38f77bce3d038a07b5d80e305f4cc2332096f9",
+      "title": "Toward intelligent decision support systems: An artificially intelligent statistician"
+    },
+    {
+      "paperId": "62008b5080bd85a989cf0ab9196aa64469faebb8",
+      "title": "Calibration of probability assessments by professional blackjack dealers, statistical experts, and lay people"
+    },
+    {
+      "paperId": "1884926e77d59b427b204fac3c86fff050826f67",
+      "title": "The group attribution error"
+    },
+    {
+      "paperId": "94dbdaf9ea1a08c1945a1093a491fe267d99cde2",
+      "title": "The hot hand in basketball: On the misperception of random sequences"
+    },
+    {
+      "paperId": "c3192637b493b27f458cb5886315e5e368fe5442",
+      "title": "SSB utility theory and decision-making under uncertainty"
+    },
+    {
+      "paperId": "a15e5d4aaca9378ca89da1e0098cdcb19fa8bbcb",
+      "title": "Judgment Under Uncertainty: Heuristics and Biases."
+    },
+    {
+      "paperId": "b455189ca678237659f001316b2425667f04c286",
+      "title": "Extensional versus intuitive reasoning: the conjunction fallacy in probability judgment"
+    },
+    {
+      "paperId": "11082e09e0b4bd3bb7e03f25cd09b997dc8bf02a",
+      "title": "On the conflict between logic and belief in syllogistic reasoning"
+    },
+    {
+      "paperId": "9d499a734adaff4bb920e9aa0fe1e0b074533f2a",
+      "title": "An Empirical Study of Travel Time Variability and Travel Choice Behavior"
+    },
+    {
+      "paperId": "14ac438839a111772974a508bbc08cc041a9bd4a",
+      "title": "Perception of Out-Group Homogeneity and Levels of Social Categorization: Memory for the Subordinate Attributes of In-Group and Out-Group Members"
+    },
+    {
+      "paperId": "bbc7ac9ddff97d780e634bee0ed7d626a5da1565",
+      "title": "Psychological reactance and the attractiveness of unobtainable objects: Sex differences in children's responses to an elimination of freedom"
+    },
+    {
+      "paperId": "696cb1b066144e5aff70121b5de9b038685d5b94",
+      "title": "Adding Asymmetrically Dominated Alternatives: Violations of Regularity & the Similarity Hypothesis."
+    },
+    {
+      "paperId": "3121ff111b1c66aac9dfaf9767c6eb7d844c09d9",
+      "title": "Self-Serving and Group-Serving Bias in Attribution"
+    },
+    {
+      "paperId": "e552054dbd030b8414058639389b4a63e727aedb",
+      "title": "The framing of decisions and the psychology of choice."
+    },
+    {
+      "paperId": "4c001f776738c336cafd07f0c4b7f93332b3b164",
+      "title": "Unrealistic optimism about future life events"
+    },
+    {
+      "paperId": "273b54f9bc59d6f96b782b02c676a99f2f472173",
+      "title": "The Ultimate Attribution Error: Extending Allport's Cognitive Analysis of Prejudice"
+    },
+    {
+      "paperId": "4c6f4665525501ea95db3a1c8bd96a8d032893b7",
+      "title": "Egocentric Biases in Availability and Attribution"
+    },
+    {
+      "paperId": "bfda02b547504f0ccac817f9076674a7c2c0c91b",
+      "title": "The Generation Effect: Delineation of a Phenomenon"
+    },
+    {
+      "paperId": "f6741d16a8e636110a948c7ec039592b5f113a60",
+      "title": "Subjectively weighted utility: A descriptive extension of the expected utility model"
+    },
+    {
+      "paperId": "530bc19b24df319b45f2c379b0861be3c2ce5b63",
+      "title": "Do those who know more also know more about how much they know?*1"
+    },
+    {
+      "paperId": "1bff3ea36308a106de9e04b54e83bd1de3e24805",
+      "title": "Self-reference and the encoding of personal information."
+    },
+    {
+      "paperId": "d8cf5c798397b6a0be1b41f18f979f0988f1ece7",
+      "title": "Publication prejudices: An experimental study of confirmatory bias in the peer review system"
+    },
+    {
+      "paperId": "da68edc4476cdf2c0f223a77be86082ede9d6277",
+      "title": "The \u201cfalse consensus effect\u201d: An egocentric bias in social perception and attribution processes"
+    },
+    {
+      "paperId": "9a06904c1eac7b41a5a83faaa79a30076e2c77a9",
+      "title": "Frequency and the Conference of Referential Validity."
+    },
+    {
+      "paperId": "e3195f80c4a910897dcaa2b0547b2e66c2d448f8",
+      "title": "Knee-deep in the Big Muddy: A study of escalating commitment to a chosen course of action."
+    },
+    {
+      "paperId": "b6d866f1c0a1497fbb3d6bf13039bb5b8999f078",
+      "title": "Actor-observer differences in perceptions of effective control."
+    },
+    {
+      "paperId": "97c5ba667e5f4d5e7953cd9fe82cad60ed81003e",
+      "title": "I knew it would happen: Remembered probabilities of once\u2014future things"
+    },
+    {
+      "paperId": "6cba61868b7cc3689aca04c9541cb884ac02f7ee",
+      "title": "Reconstruction of automobile destruction: An example of the interaction between language and memory"
+    },
+    {
+      "paperId": "dbdb10f066b857baa6e129f49b8d832c3f6267ae",
+      "title": "Judgment under Uncertainty: Heuristics and Biases"
+    },
+    {
+      "paperId": "da2f0aaeb9350cfb41839b7398efa5814ea05338",
+      "title": "Alternative approaches to decision making under risk: Moments versus risk dimensions."
+    },
+    {
+      "paperId": "4140e7481c2599604b14fcd04625274022583631",
+      "title": "Availability: A heuristic for judging frequency and probability"
+    },
+    {
+      "paperId": "bdb087fb8465064a61b22564d706cb994e9ef988",
+      "title": "The next-in-line effect"
+    },
+    {
+      "paperId": "188022ac15cc7e9d375b5b019af8c6ff119f80a8",
+      "title": "Subjective Probability: A Judgment of Representativeness"
+    },
+    {
+      "paperId": "2c849180b0d0e5a31c2ebb40ddfe06065b6c054d",
+      "title": "Experiments with the stimulus suffix effect."
+    },
+    {
+      "paperId": "f103de2c30a7965733048d2da6fe3397fa9fb30c",
+      "title": "Defensive attribution-Effects of severity and relevance on the responsibility assigned for an accident"
+    },
+    {
+      "paperId": "3ced3775d62338df5ba0da9140c91bfc1d86b0b6",
+      "title": "Liking a Person as a Function of Doing Him a Favour"
+    },
+    {
+      "paperId": "fece5567b807e361f86c65673aa39afd7ea53a9d",
+      "title": "An examination of trace storage in free recall."
+    },
+    {
+      "paperId": "c13dbc448ffba3a8c3a5e1ac210674fd149d5671",
+      "title": "Theory-Testing in Psychology and Physics: A Methodological Paradox"
+    },
+    {
+      "paperId": "4f1adf8baa87ad2ce9b81677d34f761004dcee88",
+      "title": "Conservatism in a simple probability inference task."
+    },
+    {
+      "paperId": "f51820619ca42c5799f3c5acc3855671b905419c",
+      "title": "The serial position effect of free recall"
+    },
+    {
+      "paperId": "9c58c19b01b04ca7dbf122d59684bf05353cc77b",
+      "title": "A new scale of social desirability independent of psychopathology."
+    },
+    {
+      "paperId": "86db64c600fe59acfc48fd22bc8484485d5e7337",
+      "title": "On the Failure to Eliminate Hypotheses in a Conceptual Task"
+    },
+    {
+      "paperId": "aa9fcdb58527a3ca565102eeb5f56d01bc217096",
+      "title": "The Foundations of Statistics"
+    },
+    {
+      "paperId": "7c65a6021620aa57c46cf33f7272ab9f5ecc15e6",
+      "title": "Psychological probability as a function of experienced frequency."
+    },
+    {
+      "paperId": "58be7c727da7139830692b2fd3f9e869c5986337",
+      "title": "The Money Illusion."
+    },
+    {
+      "paperId": "26948ffe1ac693fd7c3f723c3908f03b41ba52e7",
+      "title": "Conceptual and Methodological Issues in Evaluating Multidimensional Visualizations for Decision Support"
+    },
+    {
+      "paperId": "3fd99b2ec41357b2b6e8606eca37b9870528facd",
+      "title": "Priming and Anchoring Effects in Visualization"
+    },
+    {
+      "paperId": "f20988af17f4014b6b9cfbfe34e480cb156423dc",
+      "title": "Rationality and the re\ufb02ective mind"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": "7eebdc6dca946a9e62f0cbf5b14a725c9a01459b",
+      "title": "Cognitive illusions : intriguing phenomena in thinking, judgement and memory"
+    },
+    {
+      "paperId": "6a73eb77ecb871660e69bcb3f02ebb8e90046742",
+      "title": "Surprise! Bayesian Weighting for De-Biasing Thematic Maps"
+    },
+    {
+      "paperId": "07e70974a94bec480934c6b093b9682d6cc47254",
+      "title": "Vol2velle: Printable Interactive Volume Visualization"
+    },
+    {
+      "paperId": "3b035f556c2a819e61fa9ef716cfc248c3f17f4c",
+      "title": "A Framework for Studying Biases in Visualization Research"
+    },
+    {
+      "paperId": "03b42237e0018d69e85f8e1b236eec3963bec2e8",
+      "title": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "paperId": null,
+      "title": "3 ways data dashboards can mislead you"
+    },
+    {
+      "paperId": null,
+      "title": "List of cognitive biases \u2014 wikipedia, the free encyclopedia"
+    },
+    {
+      "paperId": "d772a2c2fe77cee2b5e11767d67d42e4c0e613e0",
+      "title": "When we forget something we once knew, it does not necessarily mean that the memory trace has been lost; it may only be inaccessible"
+    },
+    {
+      "paperId": "3969731b77090aba72d71792ad5a4c0f6bf40b80",
+      "title": "Foundations Of Statistics"
+    },
+    {
+      "paperId": "2b62024e8ee099f9138d0214e51f14b5b3222f6d",
+      "title": "Decision Making Under Uncertainty in Visualisation"
+    },
+    {
+      "paperId": null,
+      "title": "Not just for consumers context effects are fundamental to decision making"
+    },
+    {
+      "paperId": "77d7cccf237a0ef73bca0823948db297376895f9",
+      "title": "Analysis of Competing Hypotheses"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe planning fallacy: cog- nitive, motivational, and social origins,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cWho sees human? the stability and importance of individual differences in anthropo-morphism,\u201d"
+    },
+    {
+      "paperId": "284006b34c50429aa3c5f6d367c279702272219c",
+      "title": "Homo Heuristicus: Why Biased Minds Make Better Inferences"
+    },
+    {
+      "paperId": null,
+      "title": "The Interplay of Focal Thoughts and Accessibility Experiences"
+    },
+    {
+      "paperId": null,
+      "title": "A New Heuristic That Helps Explain the Effect of Portion Size on Food Intake"
+    },
+    {
+      "paperId": null,
+      "title": "Artifacts in Behavioral Research: Robert Rosenthal and Ralph L. Rosnow\u2019s Classic Books"
+    },
+    {
+      "paperId": "334ea2265d294cc40cb850c66360187c96a48a0b",
+      "title": "Card Sorting : Current Practices and Beyond"
+    },
+    {
+      "paperId": "d1004e3f3038261e053a1e47c36c2c55b396dcd7",
+      "title": "Psychology of Judgment and Decision-Making"
+    },
+    {
+      "paperId": "2d96071eec38235a6d72dd47f29f42cf125a94c2",
+      "title": "The Construction of Preference: Mere Exposure: A Gateway to the Subliminal"
+    },
+    {
+      "paperId": "8aef3fa97397ae8859a5d6569d55886548e4295a",
+      "title": "Memory for time: How people date events"
+    },
+    {
+      "paperId": "2259b4d18be0097c8634b6e92aa3efb908e7627a",
+      "title": "The Construction of Preference: Distinction Bias: Misprediction and Mischoice Due to Joint Evaluation"
+    },
+    {
+      "paperId": null,
+      "title": "4.3: The calibration of subjective probabilities: Theories and explanations"
+    },
+    {
+      "paperId": "2c5dbb0c54b3566233d936b5d57df077161fbccc",
+      "title": "Experimental research on just-world theory: problems, developments, and future challenges."
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "3205701f63d85c09a60902d1e5bb65dc0dc494dc",
+      "title": "Cryptomnesia: Delineating Inadvertent Plagiarism"
+    },
+    {
+      "paperId": "b4f241655266ee120e875e0c9312b46b00b4aedd",
+      "title": "Heuristics and Biases: Support Theory: A Nonextensional Representation of Subjective Probability"
+    },
+    {
+      "paperId": "a2515dfa4b82c2edeb3628440b61621b72cbcde7",
+      "title": "Speakers' overestimation of their effectiveness."
+    },
+    {
+      "paperId": "a920347e430316edb1aab2c109a62ba87e8563f8",
+      "title": "A Review of the Tip-ofthe-Tongue Experience"
+    },
+    {
+      "paperId": "26098fd775fa9a91f1e7ef71bd7e0a21a6a70139",
+      "title": "Toward a psychology of memory accuracy."
+    },
+    {
+      "paperId": "11a4401589217f85bbb8136ebbe482dac69732ad",
+      "title": "Psychology of Intelligence Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cIllusions of control: How we overestimate our personal in\ufb02uence,\u201d"
+    },
+    {
+      "paperId": "fe6796eb3da1d31a2463e7fb9202879f7a9d0c6b",
+      "title": "Reasoning the fast and frugal way: models of bounded rationality."
+    },
+    {
+      "paperId": "22435c4225e69cc104d76e3cbc88cf23ebe291f7",
+      "title": "The correspondence bias."
+    },
+    {
+      "paperId": "17936961f3d3cf4487a6c7d37f704e74394891fc",
+      "title": "Sources of the continued influence effect: When misinformation in memory affects later inferences."
+    },
+    {
+      "paperId": "615337314c4c5f3a06870f827f556870ce4d602e",
+      "title": "Omission and commission in judgment and choice"
+    },
+    {
+      "paperId": "db93fd33fcda97002af69dc3472fd0eb0563a3c0",
+      "title": "The Disposition Effect in Securities Trading: An Experimental Analysis"
+    },
+    {
+      "paperId": "9398d902538445e96b5e05d3334763ab56e14d44",
+      "title": "Bizarre imagery as an effective memory aid: The importance of distinctiveness."
+    },
+    {
+      "paperId": "f327bed101cb5ced513507ceae25223440b08756",
+      "title": "When comprehension difficulty improves memory for text."
+    },
+    {
+      "paperId": null,
+      "title": "Debiasing/kahneman, d., slovic, p. and tversky, a"
+    },
+    {
+      "paperId": "3dc9c74d5c19e72f5c9ed97a5595d394abc8a681",
+      "title": "Guide to Quality Control"
+    },
+    {
+      "paperId": "f5a26c9e4d3c84523cb197d8214d9928daf7d733",
+      "title": "Some empirical evidence on dynamic inconsistency"
+    },
+    {
+      "paperId": "c4f5277b10ec779ae36c81fea66c133c5d526cef",
+      "title": "Attention and weight in person perception: The impact of negative and extreme behavior."
+    },
+    {
+      "paperId": "6023dc235251d76bdc5c49498d4392b0c9a75eaa",
+      "title": "The halo effect: Evidence for unconscious alteration of judgments."
+    },
+    {
+      "paperId": "9c07b3656297ed82274598c257828dc79d40ff59",
+      "title": "Depth of processing and the retention of words"
+    },
+    {
+      "paperId": "bf3c97cc7db6711ceee3c21a083c8910465d6db5",
+      "title": "3 \u2013 PORTFOLIO THEORY AND THE MEASUREMENT OF RISK"
+    },
+    {
+      "paperId": null,
+      "title": "Portfolio theory and the measurement of risk. en mf kaplan & s. schwartz (eds). human judgment and deci-sion processes"
+    },
+    {
+      "paperId": "6a07f4839c89d3c0a47890f5009daff4685f276b",
+      "title": "The processes of causal attribution."
+    },
+    {
+      "paperId": null,
+      "title": "Bootzin, Psychology Today: An Introduction, 2nd ed"
+    },
+    {
+      "paperId": "aac9f41a2259d9948e7facdf9cb6767c5d346bbe",
+      "title": "Illusory correlation as an obstacle to the use of valid psychodiagnostic signs."
+    },
+    {
+      "paperId": "f22a8ab1dd90eea10f797d4e9f4fd46f5d6f4876",
+      "title": "BEHAVIORAL STUDY OF OBEDIENCE."
+    },
+    {
+      "paperId": "57d31f9a61f661aae6676e8fa083a8ff226b71b2",
+      "title": "PSYCHOLOGICAL SCIENCE Research Article DOES LIVING IN CALIFORNIA MAKE PEOPLE HAPPY? A Focusing Illusion in Judgments of Life Satisfaction"
+    },
+    {
+      "paperId": "70202ef99ced5b6cd48669ade079d900a60325d1",
+      "title": "(www.interscience.wiley.com) DOI: 10.1002/acp.1026 Memory Distortions in Coerced False Confessions: A Source Monitoring Framework Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "AUTHORS\u2019 VERSION - SEPTEMBER 2018"
+    },
+    {
+      "paperId": null,
+      "title": "Baseline Outcome"
+    },
+    {
+      "paperId": null,
+      "title": "Fig. 2: Our taxonomy organized by the \ufb02avors discussed in section 3.4. Each dot is a cognitive bias"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDecisive 2017 dealing with cognitive biases in visualisations : a vis 2017 workshop,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "task-category (ESTIMATION , DECISION , HYPOTHESIS ASSESSMENT , CAUSAL ATTRIBUTION , RECALL"
+    },
+    {
+      "paperId": "0617ac9492ce74f201c4ade33c5b58e30e235ec3",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Attention and Visual Memory in Visualization and Computer Graphics"
+    }
+  ]
+}

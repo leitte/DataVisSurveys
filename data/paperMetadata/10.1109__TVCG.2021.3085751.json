@@ -1,0 +1,388 @@
+{
+  "paperId": "1f28a9be307fecfdb58d1b9240903ea929f1d921",
+  "externalIds": {
+    "DBLP": "journals/tvcg/LeeSTKP22",
+    "ArXiv": "2102.07070",
+    "DOI": "10.1109/TVCG.2021.3085751",
+    "CorpusId": 231925237,
+    "PubMed": "34061748"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1f28a9be307fecfdb58d1b9240903ea929f1d921",
+  "title": "Deconstructing Categorization in Visualization Recommendation: A Taxonomy and Comparative Study",
+  "abstract": "Visualization recommendation (VisRec) systems provide users with suggestions for potentially interesting and useful next steps during exploratory data analysis. These recommendations are typically organized into categories based on their analytical actions, i.e., operations employed to transition from the current exploration state to a recommended visualization. However, despite the emergence of a plethora of VisRec systems in recent work, the utility of the categories employed by these systems in analytical workflows has not been systematically investigated. Our article explores the efficacy of recommendation categories by formalizing a taxonomy of common categories and developing a system, Frontier, that implements these categories. Using Frontier, we evaluate workflow strategies adopted by users and how categories influence those strategies. Participants found recommendations that add attributes to enhance the current visualization and recommendations that filter to sub-populations to be comparatively most useful during data exploration. Our findings pave the way for next-generation VisRec systems that are adaptive and personalized via carefully chosen, effective recommendation categories.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 76,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2102.07070",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2021-02-14",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "4225-4239",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lee2021DeconstructingCI,\n author = {D. Lee and V. Setlur and Melanie Tory and Karrie Karahalios and Aditya G. Parameswaran},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {4225-4239},\n title = {Deconstructing Categorization in Visualization Recommendation: A Taxonomy and Comparative Study},\n volume = {28},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2159905",
+      "name": "D. Lee"
+    },
+    {
+      "authorId": "1689165",
+      "name": "V. Setlur"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    },
+    {
+      "authorId": "1680270",
+      "name": "Karrie Karahalios"
+    },
+    {
+      "authorId": "145592539",
+      "name": "Aditya G. Parameswaran"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9dcff3f316d227c44de547ff4f571f35c4679f09",
+      "title": "Netflix"
+    },
+    {
+      "paperId": "8f53ed9ef9d1ef574787189364ca8feee346013a",
+      "title": "Characterizing Automated Data Insights"
+    },
+    {
+      "paperId": "2247b3cb46f3b434c8018fdf71ec8c9f780d7239",
+      "title": "Dziban: Balancing Agency & Automation in Visualization Design via Anchored Recommendations"
+    },
+    {
+      "paperId": "eb68a0d02ac7ee03a36408a30995f47c2bdb2567",
+      "title": "SCATTERSEARCH: Visual Querying of Scatterplot Visualizations"
+    },
+    {
+      "paperId": "052689b5c2488a99633608578cfcfd2d194d6090",
+      "title": "Avoiding drill-down fallacies with VisPilot: assisted exploration of data subsets"
+    },
+    {
+      "paperId": "1589deb55663bb8672ed031377c2072b607b2ce6",
+      "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "4c0690560fc32d1d4e1e99c646e1294ce369e4a8",
+      "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "681660c6fbf9714e07ff9692f5b414e850a86c80",
+      "title": "Keshif: Rapid and Expressive Tabular Data Exploration for Novices"
+    },
+    {
+      "paperId": "2e109252024c24904f5641c4eb0cb1cffaf2d612",
+      "title": "DIVE: A Mixed-Initiative System Supporting Integrated Data Exploration Workflows"
+    },
+    {
+      "paperId": "b145f72d9abc4b2c48a46fd1bdc4476a4b5fa4f8",
+      "title": "Expressive Time Series Querying with Hand-Drawn Scale-Free Sketches"
+    },
+    {
+      "paperId": "64ee9d2fe58f1bd054011b7c7ba1639513c34fb5",
+      "title": "DataSite: Proactive visual data exploration with computation of insight-based recommendations"
+    },
+    {
+      "paperId": "75c95f72dc6a4c4cd0ffb032fca0d0e33c4c4ad1",
+      "title": "You can't always sketch what you want: Understanding Sensemaking in Visual Query Systems"
+    },
+    {
+      "paperId": "7a930577bff9ce3717e0b9f9692177e8ed522519",
+      "title": "Foresight: Rapid Data Exploration Through Guideposts"
+    },
+    {
+      "paperId": "3604598149c83faacd11cee0d35f2ead7a5e81ff",
+      "title": "Iris: A Conversational Agent for Complex Tasks"
+    },
+    {
+      "paperId": "7ae0cff2354014fc3051ba401f1be04dbf354639",
+      "title": "GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing"
+    },
+    {
+      "paperId": "6a5003f5ae44c94401b93513e23ceb17922be3c4",
+      "title": "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
+    },
+    {
+      "paperId": "0ac44cbb64b1449fed298045f7de10b9f3cb2e9f",
+      "title": "Towards Visualization Recommendation Systems"
+    },
+    {
+      "paperId": "7178017dcba9c409db966f1985a764f62fea4c35",
+      "title": "Towards a general-purpose query language for visualization recommendation"
+    },
+    {
+      "paperId": "c63b98fbbbd5cd42b9e2ebe14a73d4bf608b2b22",
+      "title": "Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "6edca7fba9c0f38032feeef4f10db11fc471295d",
+      "title": "Automatic Selection of Partitioning Variables for Small Multiple Displays"
+    },
+    {
+      "paperId": "169de5dfb877c946e98f7daedfbe2287c86f1961",
+      "title": "Why: Task Abstraction"
+    },
+    {
+      "paperId": "9c258340500c528893929299f3fab588f541d6a6",
+      "title": "Smart Drill-Down: A New Data Exploration Operator"
+    },
+    {
+      "paperId": "45832e819d092865c3dc3cb75b17d6970f8af24d",
+      "title": "The Effects of Interactive Latency on Exploratory Visual Analysis"
+    },
+    {
+      "paperId": "db4d3498dde5f88fc3e5e37159712197d81ee05e",
+      "title": "Supporting Communication and Coordination in Collaborative Sensemaking"
+    },
+    {
+      "paperId": "23ed273c84731755db3f8213dff9c72117b4be1b",
+      "title": "ScagExplorer: Exploring Scatterplots by Their Scagnostics"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "e9d57f4ffaa8f0db2a3d43939ebe6aef0fe1a6e1",
+      "title": "\u201cAmazon\u201d"
+    },
+    {
+      "paperId": "c27f8fb8d8296263e5f8892d06ab988f8dfb4eea",
+      "title": "Small Multiples, Large Singles: A New Approach for Visual Data Exploration"
+    },
+    {
+      "paperId": "97a54c3fadc5d64c8aa52ca0b815cde8d87c6912",
+      "title": "Scorpion: Explaining Away Outliers in Aggregate Queries"
+    },
+    {
+      "paperId": "435df312488f3123785c402938c363d338460a70",
+      "title": "PivotPaths: Strolling through Faceted Information Spaces"
+    },
+    {
+      "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+      "title": "A Taxonomy of Visual Cluster Separation Factors"
+    },
+    {
+      "paperId": "f7214535a3f9e146674f5bb07d0fdb2b38e957cd",
+      "title": "Profiler: integrated statistical analysis and visualization for data quality assessment"
+    },
+    {
+      "paperId": "9fdb13b1da665e3041d725a8d5ef62b78861c0ea",
+      "title": "Rank and relevance in novelty and diversity metrics for recommender systems"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "ed50775a36135d4a3bc1823fad18103779f5fa86",
+      "title": "AutoVis: Automatic Visualization"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "155e193be0a94c47aedb84515178d32fc76b40d9",
+      "title": "Solving the apparent diversity-accuracy dilemma of recommender systems"
+    },
+    {
+      "paperId": "15004aadabd967ac722a28a9c3bb39cf5bc32605",
+      "title": "Novelty and diversity in information retrieval evaluation"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "79214d896304c1f4bd5e9ef8c7f00b8c34e500b0",
+      "title": "Investigating behavioral variability in web search"
+    },
+    {
+      "paperId": "704bedc4bdd74f5f35a4852157ff44dc6e5be79a",
+      "title": "Making recommendations better: an analytic model for human-recommender interaction"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "f6e4d44dfb73374d7a3b13549b927f75a6f9cc7e",
+      "title": "Faceted metadata for image search and browsing"
+    },
+    {
+      "paperId": "c3e493ed9c160a2763e42f8825e489fe306488a6",
+      "title": "Finding the flow in web site search"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "bc4af0ae74288049c89633eded5b10a739bcb4c6",
+      "title": "Discovery-Driven Exploration of OLAP Data Cubes"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "8033c9c25c5658982e032ad670a0c525a5d6bbfa",
+      "title": "Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals"
+    },
+    {
+      "paperId": "501e496146b04f42e3e6a49aabd29fb909083007",
+      "title": "Heuristic evaluation of user interfaces"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": null,
+      "title": "\u201c120 years of olympic history: athletes and results,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cUs department of education: College scorecard data,\u201d"
+    },
+    {
+      "paperId": "d008114cce1d122d63f89f14e9badc38dcefe815",
+      "title": "Faceted Search"
+    },
+    {
+      "paperId": null,
+      "title": "Generating charts from data in a data table"
+    },
+    {
+      "paperId": "196905591d99b4d3bde860815a1a4a3725c9f137",
+      "title": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Vega-Lite: A high-level grammar of interactive graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Diversity, Serendipity, novelty, and coverage : A survey and empirical analysis of beyond-accuracy objectives in recommender systems"
+    },
+    {
+      "paperId": "9e78338eb56959a70b5e49e9842db1ee261152fb",
+      "title": "S EE DB : Supporting Visual Analytics with Data-Driven Recommendations"
+    },
+    {
+      "paperId": null,
+      "title": "Explore in google sheets"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Analysis and Design (AK Peters Visualization Series)"
+    },
+    {
+      "paperId": null,
+      "title": "Chapter"
+    },
+    {
+      "paperId": "360ca02e6f5a5e1af3dce4866a257aafc2d6d6f5",
+      "title": "Machine learning - a probabilistic perspective"
+    },
+    {
+      "paperId": null,
+      "title": "VizDeck"
+    },
+    {
+      "paperId": null,
+      "title": "Introduction to Algorithms, Third Edition, 3rd ed"
+    },
+    {
+      "paperId": "ee621164617327527f895b2b37f3fc242d764203",
+      "title": "Overcoming accuracy-diversity tradeoff in recommender systems: A variance-based approach"
+    },
+    {
+      "paperId": null,
+      "title": "Design recommendations for hierarchical faceted search interfaces"
+    },
+    {
+      "paperId": "13e6f2b2ba54b474e6d3ac7e2d6a2b766f4c0e22",
+      "title": "Flexible Search and Navigation using Faceted Metadata"
+    },
+    {
+      "paperId": "d3acef85918e7478feb6021166dc0aa4a677d1cf",
+      "title": "Grounded theory methodology: An overview."
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVega-dataset: Cars,\u201d"
+    }
+  ]
+}

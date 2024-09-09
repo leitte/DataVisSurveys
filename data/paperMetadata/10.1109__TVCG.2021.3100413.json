@@ -1,0 +1,694 @@
+{
+  "paperId": "82b40f6e8dde3822e17853df3d6bf2cfa4d14eff",
+  "externalIds": {
+    "ArXiv": "2006.14291",
+    "DBLP": "journals/corr/abs-2006-14291",
+    "MAG": "3037897714",
+    "DOI": "10.1109/TVCG.2021.3100413",
+    "CorpusId": 220055635,
+    "PubMed": "34314358"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/82b40f6e8dde3822e17853df3d6bf2cfa4d14eff",
+  "title": "Survey on Visual Analysis of Event Sequence Data",
+  "abstract": "Event sequence data record series of discrete events in the time order of occurrence. They are commonly observed in a variety of applications ranging from electronic health records to network logs, with the characteristics of large-scale, high-dimensional and heterogeneous. This high complexity of event sequence data makes it difficult for analysts to manually explore and find patterns, resulting in ever-increasing needs for computational and perceptual aids from visual analytics techniques to extract and communicate insights from event sequence datasets. In this paper, we review the state-of-the-art visual analytics approaches, characterize them with our proposed design space, and categorize them based on analytical tasks and applications. From our review of relevant literature, we have also identified several remaining research challenges and future research opportunities.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 151,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2006.14291",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-25",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "5091-5112",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Guo2020SurveyOV,\n author = {Yi Guo and Shunan Guo and Zhuochen Jin and Smiti Kaul and D. Gotz and Nan Cao},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {5091-5112},\n title = {Survey on Visual Analysis of Event Sequence Data},\n volume = {28},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2118270393",
+      "name": "Yi Guo"
+    },
+    {
+      "authorId": "30518075",
+      "name": "Shunan Guo"
+    },
+    {
+      "authorId": "50845699",
+      "name": "Zhuochen Jin"
+    },
+    {
+      "authorId": "1767832274",
+      "name": "Smiti Kaul"
+    },
+    {
+      "authorId": "1714488",
+      "name": "D. Gotz"
+    },
+    {
+      "authorId": "144313415",
+      "name": "Nan Cao"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "611544418ca53cdad254df444addc7814abcfddc",
+      "title": "An introduction to statistical learning with applications in R"
+    },
+    {
+      "paperId": "9f9e2642502f0697a5a3ddeb5b2ce7bcfdf634e9",
+      "title": "Once Upon A Time In Visualization: Understanding the Use of Textual Narratives for Causality"
+    },
+    {
+      "paperId": "b3d3995aae1ae04215d12cc2f22b5a6dc8f7ef6f",
+      "title": "A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications"
+    },
+    {
+      "paperId": "f911c675c8d48ae7d906546a79e64c073dcfb10d",
+      "title": "Visual Causality Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "5ee3cbfc82f9f0a4cf1c8e1b772e2a1b91805f44",
+      "title": "Interactive Event Sequence Prediction for Marketing Analysts"
+    },
+    {
+      "paperId": "5b3ca06a7673e2bf372d5f89afb15ae1eb714075",
+      "title": "Event-Driven Continuous Time Bayesian Networks"
+    },
+    {
+      "paperId": "49052b323767ca1653a8c6d1391038f2b1b89152",
+      "title": "ViSeq: Visual Analytics of Learning Sequence in Massive Open Online Courses"
+    },
+    {
+      "paperId": "eeab539846ade5ba94cc3c93167962985aea6a7a",
+      "title": "Comparative Visual Analytics for Assessing Medical Records with Sequence Embedding"
+    },
+    {
+      "paperId": "36e17fd94295a2d53123864425a6dea63ca0ec27",
+      "title": "CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods"
+    },
+    {
+      "paperId": "d6db559dc41e03e6a3cb9ef6ce1bd9fd69bed95f",
+      "title": "R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media"
+    },
+    {
+      "paperId": "98640ae27089cb6ade2dff4c7024bb2878c29cc2",
+      "title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics"
+    },
+    {
+      "paperId": "ae3af68eda409dd985918cae61fe32aae505ca0d",
+      "title": "STBins: Visual Tracking and Comparison of Multiple Data Sequences Using Temporal Binning"
+    },
+    {
+      "paperId": "d1d66be989e8f83732457229ea1ed2431a2d7cdb",
+      "title": "Understanding User Behaviour through Action Sequences: From the Usual to the Unusual"
+    },
+    {
+      "paperId": "bae3d77e1085b7cb5e739039de258b438740facf",
+      "title": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "paperId": "2fb16285a153066be0f3887137a22ad79d9cf8a2",
+      "title": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "paperId": "32bee51a3a8f0cbf13bd980adaaa05d1a27523f2",
+      "title": "Visual Anomaly Detection in Event Sequence Data"
+    },
+    {
+      "paperId": "6ae90ba5362ae8649b76e2dc1c19640f12c6603a",
+      "title": "Visual Analysis of High-Dimensional Event Sequence Data via Dynamic Hierarchical Aggregation"
+    },
+    {
+      "paperId": "8d63703fc5e1f08f1f364950531f379443af8ad2",
+      "title": "Visualizing event sequence game data to understand player\u2019s skill growth through behavior complexity"
+    },
+    {
+      "paperId": "87d71749f6fc9219c1fc45b484329a5faf1cb1f8",
+      "title": "Visual Analytics of Anomalous User Behaviors: A Survey"
+    },
+    {
+      "paperId": "642bd10a8bf80e34442ccd70d3951b47bbe6d55b",
+      "title": "VUC: Visualizing Daily Video Utilization to Promote Student Engagement in Online Distance Education"
+    },
+    {
+      "paperId": "d2f18e0675d86e64fdc6e8beaa83c2b74f6a81b6",
+      "title": "Visualizing Uncertainty and Alternatives in Event Sequence Predictions"
+    },
+    {
+      "paperId": "1a2f2d997876ea2e34f6630bd506c3503df7935c",
+      "title": "DPVis: Visual Analytics With Hidden Markov Models for Disease Progression Pathways"
+    },
+    {
+      "paperId": "d0ff2310242ae852f3fd0856e2a2f958e1ba7099",
+      "title": "StreamStory: Exploring Multivariate Time Series on Multiple Scales"
+    },
+    {
+      "paperId": "244e652952ce7333b469a27fdb6ea03e64e985d1",
+      "title": "Composer\u2014Visual Cohort Analysis of Patient Outcomes"
+    },
+    {
+      "paperId": "091118b0d44c678d7b1004c68810c02c8af10d36",
+      "title": "Visualization and Visual Analytic Techniques for Patterns"
+    },
+    {
+      "paperId": "7bdec3d91d8b649f892a779da78428986d8c5e3b",
+      "title": "CCVis: Visual Analytics of Student Online Learning Behaviors Using Course Clickstream Data"
+    },
+    {
+      "paperId": "96a28b198bfa218f7149d505928b2bb78de9971d",
+      "title": "Visual Progression Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "314b0efe1aa77ee494b60d394883bd510fc1157b",
+      "title": "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Applications"
+    },
+    {
+      "paperId": "9b09c402c4fd15abbadd83349dcd8d3f88df99df",
+      "title": "IDMVis: Temporal Event Sequence Visualization for Type 1 Diabetes Treatment Decision Support"
+    },
+    {
+      "paperId": "fc791fa2b412f8e459cdd6d7ce4b2fe485e3f4bd",
+      "title": "Interactive Visual Event Analytics: Opportunities and Challenges"
+    },
+    {
+      "paperId": "51c47d584bb6cd258278198b1db97f86eb552d2a",
+      "title": "StageMap: Extracting and Summarizing Progression Stages in Event Sequences"
+    },
+    {
+      "paperId": "864d25e60cc77137695d465c5dcbc9e51895c719",
+      "title": "Visual Interfaces for Recommendation Systems"
+    },
+    {
+      "paperId": "ee472a7309b8432dc089b71a4a1423f46db6b13a",
+      "title": "D-Map+"
+    },
+    {
+      "paperId": "7b3b61308897c918bb25661ddf586ca2f9f7251b",
+      "title": "A survey of visualization for smart manufacturing"
+    },
+    {
+      "paperId": "1a02cd67884c55d490328c0474274c8909d73a14",
+      "title": "MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration"
+    },
+    {
+      "paperId": "63517d6a403bd437f951b310d6fd9d33426661f8",
+      "title": "CarePre"
+    },
+    {
+      "paperId": "304b415be2c25c90409d9ddb4b58a658b1477428",
+      "title": "Visual Analytics for Decomposing Temporal Event Series of Production Lines"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "576d9ccbeafb51da093db84de9b0b9253a5f3061",
+      "title": "A Visual Analytics Approach for Equipment Condition Monitoring in Smart Factories of Process Industry"
+    },
+    {
+      "paperId": "7ddc973a3243d6d6559c9aa5da976670552e2784",
+      "title": "Visual Analytics for Explainable Deep Learning"
+    },
+    {
+      "paperId": "8478db377c587c69809d4e706d1134d80cdecd2c",
+      "title": "Visually enhanced situation awareness for complex manufacturing facility monitoring in smart factories"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "a1a2c0161d1333a1be0dcfa2937449376241f1c5",
+      "title": "SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media"
+    },
+    {
+      "paperId": "347167043a8b77b38a31d218f2584b5e3146e3df",
+      "title": "Visual Causality Analysis Made Practical"
+    },
+    {
+      "paperId": "57492e6f4dc675352226000a3bdfef4651ea23ea",
+      "title": "Timelines Revisited: A Design Space and Considerations for Expressive Storytelling"
+    },
+    {
+      "paperId": "ca50590ed72b77f50f6af32a4241a5f11f3573c7",
+      "title": "A personal visual analytics on smartphone usage data"
+    },
+    {
+      "paperId": "7f3deda71e741e5145b4623a8764fd8efccd8180",
+      "title": "CoreFlow: Extracting and Visualizing Branching Patterns from Event Sequences"
+    },
+    {
+      "paperId": "011dcf6b9fa8d64e508ecead47c1a9a9521a3e59",
+      "title": "Coping with Volume and Variety in Temporal Event Sequences: Strategies for Sharpening Analytic Focus"
+    },
+    {
+      "paperId": "ce822e928e70c3d00085c325c81f2f5cc28ceed0",
+      "title": "Design and evaluation of a geovisual analytics system for uncovering patterns in spatio-temporal event data"
+    },
+    {
+      "paperId": "5369a526f713a20dcafcf8a2f3d00db5c674c305",
+      "title": "Finding Similar People to Guide Life Choices: Challenge, Design, and Evaluation"
+    },
+    {
+      "paperId": "4bfc26d1f7ddd1a03311d18250971eb9b4043ee2",
+      "title": "A Survey on Visual Analytics of Social Media Data"
+    },
+    {
+      "paperId": "05cdfc828bd2ab5c7f65c739030874a9a535f3c6",
+      "title": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "paperId": "cda6ecde6d0b77b17a778f97d941dcdf3d1eb643",
+      "title": "PeakVizor: Visual Analytics of Peaks in Video Clickstreams from Massive Open Online Courses"
+    },
+    {
+      "paperId": "1bdfce1d476f803db2f7b1fe5e16bda6da7b608c",
+      "title": "Chronodes"
+    },
+    {
+      "paperId": "2299f57e7a8bbf2c24c5a5303035925470df5821",
+      "title": "Episogram: Visual Summarization of Egocentric Social Interactions"
+    },
+    {
+      "paperId": "e8e9125704edbcf73999f2f452fe4a701163d6b6",
+      "title": "RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "ea84109bf3741f6c070f0603efce2e119f206162",
+      "title": "Visualizing Co\u2010occurrence of Events in Populations of Viral Genome Sequences"
+    },
+    {
+      "paperId": "64d2e7b2178d2106b7274a6e1d0e6d456a36f222",
+      "title": "Visual Analysis of Cloud Computing Performance Using Behavioral Lines"
+    },
+    {
+      "paperId": "d62a4daf15e49913c19966bba238ca7bc03218c9",
+      "title": "Unsupervised Clickstream Clustering for User Behavior Analysis"
+    },
+    {
+      "paperId": "4db4ba1c0bebb91f95c59d0aa22dfab6ca6eddf6",
+      "title": "Interacting with Predictions: Visual Inspection of Black-box Machine Learning Models"
+    },
+    {
+      "paperId": "8dbe71c1fbb58b1a8b4992e8781dbc600f04636c",
+      "title": "TreatmentExplorer: an Interactive Decision Aid for Medical Risk Communication and Treatment Exploration"
+    },
+    {
+      "paperId": "d63bdea1c70d1f946fd0ceefec875169fa397463",
+      "title": "Adaptive Contextualization: Combating Bias During High-Dimensional Visualization and Data Selection"
+    },
+    {
+      "paperId": "17bf878ea3dfd246547c525792c14a98e9a2e9ab",
+      "title": "Learning Granger Causality for Hawkes Processes"
+    },
+    {
+      "paperId": "a44e3f9a76ffa530bd87a6eb7c72025b8ebe6e71",
+      "title": "TargetVue: Visual Analysis of Anomalous User Behaviors in Online Communication Systems"
+    },
+    {
+      "paperId": "2165eab8a25414be16c1b37033aa4613190760bf",
+      "title": "Supporting Iterative Cohort Construction with Visual Temporal Queries"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "1a5196c2edd284daadc89525f2ebfdabd0da8560",
+      "title": "The Visual Causality Analyst: An Interactive Interface for Causal Reasoning"
+    },
+    {
+      "paperId": "ebc0bae3646a29030860cbf9f4a96fc8c2425cd3",
+      "title": "Iterative cohort analysis and exploration"
+    },
+    {
+      "paperId": "97b4d60f40c15ea381ebce0f415800790ddfb9f4",
+      "title": "TimeStitch: Interactive multi-focus cohort discovery and comparison"
+    },
+    {
+      "paperId": "5d3968b48770c4fa06ee1a1db6bff1627f45ba7b",
+      "title": "ReactionFlow: an interactive visualization tool for causality analysis in biological pathways"
+    },
+    {
+      "paperId": "26fe77f81b6d758d5f24ca6dd04002cb3154704c",
+      "title": "Mining and exploring care pathways from electronic medical records with visual analytics"
+    },
+    {
+      "paperId": "5d572f0983af2512824bd2f1c302499f7b59b54b",
+      "title": "Visual Analysis of Proximal Temporal Relationships of Social and Communicative Behaviors"
+    },
+    {
+      "paperId": "e1c6aeffc3259fe02041906f41563f65c5509c6b",
+      "title": "Analysis"
+    },
+    {
+      "paperId": "6c6cd9bfc4db18c3b18b1f1d8b3de7b544717747",
+      "title": "MatrixWave: Visual Comparison of Event Sequence Data"
+    },
+    {
+      "paperId": "65cbdf4f9a8fea7772f65098f993a2a5ea318683",
+      "title": "(s|qu)eries: Visual Regular Expressions for Querying and Exploring Event Sequences"
+    },
+    {
+      "paperId": "702e62b796e55f00017d3c5fc03b2e115536e60d",
+      "title": "Cohort Comparison of Event Sequences with Balanced Integration of Visual Analytics and Statistics"
+    },
+    {
+      "paperId": "7f7c9c928515e8484ad2889459208a39eb3b3ab2",
+      "title": "DecisionFlow: Visual Analytics for High-Dimensional Temporal Event Sequence Data"
+    },
+    {
+      "paperId": "4c7ca4e5b44c6967d8da24ddf6d773371d845c73",
+      "title": "LiveGantt: Interactively Visualizing a Large Manufacturing Schedule"
+    },
+    {
+      "paperId": "0287be7421722b2fb940370b7bdcfabcd46f5367",
+      "title": "#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "42ccae350bb39f07a9a770a15480e28c5b3e8ac7",
+      "title": "Visualization of social media flows with interactively identified key players"
+    },
+    {
+      "paperId": "4842119a85e58240f5afe593989228173029484b",
+      "title": "PARAMO: A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records"
+    },
+    {
+      "paperId": "a3dd9850f447e32e02ac840977fcdac1194cb3da",
+      "title": "Frequence: interactive mining and visualization of temporal frequent event sequences"
+    },
+    {
+      "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": "16b3c8f6f1dffd31271c59c11e17241e51377d68",
+      "title": "An Introduction to Statistical Learning"
+    },
+    {
+      "paperId": "85c02fdb9a11dc713cfb5db3b024b367d95d07ec",
+      "title": "VisRuption: Intuitive and Efficient Visualization of Temporal Airline Disruption Data"
+    },
+    {
+      "paperId": "afd19bf74b913eaa4138f41bb8f502120d9f1f7b",
+      "title": "Google+Ripples: a native visualization of information flow"
+    },
+    {
+      "paperId": "008f93f553eaf5cb3fede70a1b32ba0a8478b377",
+      "title": "Data-driven exploration of care plans for patients"
+    },
+    {
+      "paperId": "8db1effc8b384e3b5ff84fc73065770d3f8783f2",
+      "title": "Interactive Information Visualization to Explore and Query Electronic Health Records"
+    },
+    {
+      "paperId": "63b3b65667a2941f3fadef8949843569cbf44f39",
+      "title": "Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization"
+    },
+    {
+      "paperId": "0e747a87e8700a25be06a354d3ad9e861f619403",
+      "title": "Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time"
+    },
+    {
+      "paperId": "85a497c55b80682a1fae6be0bbb8e62da0041b9e",
+      "title": "VisTracer: a visual analytics tool to investigate routing anomalies in traceroutes"
+    },
+    {
+      "paperId": "648f8961217dc7a68f4ba62284bb29557f64cded",
+      "title": "Visual cluster exploration of web clickstream data"
+    },
+    {
+      "paperId": "da09e12a0a5114107bbc7fbf8bdf0bf68d10b2f9",
+      "title": "CrowdScape: interactively visualizing user behavior and output"
+    },
+    {
+      "paperId": "2e3ee262b729a4bb8c4d3869727ef69b9007e7df",
+      "title": "DICON: Interactive Visual Analysis of Multidimensional Clusters"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "529a1526a856229d05160b9d48f1de0f2127a775",
+      "title": "From Data Analysis and Visualization to Causality Discovery"
+    },
+    {
+      "paperId": "755b1d77b7e1436dce7fafeb17e3e7c4f1fa38aa",
+      "title": "LifeFlow: visualizing an overview of event sequences"
+    },
+    {
+      "paperId": "3b452cd6e8c04166824f5c3d4b8a26190b16459f",
+      "title": "Finding comparable temporal categorical records: A similarity measure with an interactive visualization"
+    },
+    {
+      "paperId": "8f56e05989066843340d83977d28297f1a49c356",
+      "title": "ActiviTree: Interactive Visual Exploration of Sequences in Event-Based Data Using Graph Similarity"
+    },
+    {
+      "paperId": "62e8cfa2334e4d698c1dcfa82324fe65b58ca20e",
+      "title": "Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison"
+    },
+    {
+      "paperId": "29a0c933f178a824dd81fd7329a279e2a48bb4f5",
+      "title": "Constructing comprehensive summaries of large event sequences"
+    },
+    {
+      "paperId": "768d4cb5a2546e0f233b43ad747091ba93ed24a8",
+      "title": "ABySS-Explorer: Visualizing Genome Sequence Assemblies"
+    },
+    {
+      "paperId": "2156c467fbd725c24efd23d83afc09dc4b4d65a9",
+      "title": "Visualization as integration of heterogeneous processes"
+    },
+    {
+      "paperId": "88659a25acb87f61fe5e3139ffe7786477955a4e",
+      "title": "Aligning temporal data by sentinel events: discovering patterns in electronic health records"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "fb649026b8debdc7784ca0970e025e7e9bdff473",
+      "title": "Visualizing Causal Semantics Using Animations"
+    },
+    {
+      "paperId": "2b7d5dfcd11cc0cf35686f8a9279aee5f910b0bb",
+      "title": "A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories"
+    },
+    {
+      "paperId": "dd11c991ab34f625f5af66e6a3d4be531c156f4e",
+      "title": "Spatio-temporal GIS Design for Exploring Interactions of Human Activities"
+    },
+    {
+      "paperId": "e75e623595210bbd5b91dd097e07ca2439e21fec",
+      "title": "Interactive Sankey diagrams"
+    },
+    {
+      "paperId": "b8d4d94616d4317b2827691fdf1b6c7949ff5346",
+      "title": "Visualization methods for statistical analysis of microarray clusters"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "99721e0d83877a217a74077c4edc222ad68a940d",
+      "title": "Animated Visualization of Causal Relations Through Growing 2D Geometry"
+    },
+    {
+      "paperId": "53a45b0c7792657f2d1e120f17fdd00c943e424b",
+      "title": "Growing squares: animated visualization of causal relations"
+    },
+    {
+      "paperId": "47b57ff66c178171f4cf0b2d0fd0a87a27384580",
+      "title": "Interactively Exploring Hierarchical Clustering Results"
+    },
+    {
+      "paperId": "194b9ceaf7b4246eeb9123049304d26c779c2215",
+      "title": "Information"
+    },
+    {
+      "paperId": "ec10b995b9c589214f269f73ce348cfc054d8e7f",
+      "title": "Distributed algorithms visualisation for educational purposes"
+    },
+    {
+      "paperId": "34be4df8da58d82e4cafabe895372310535af61e",
+      "title": "Gender and Individual Access to Urban Opportunities: A Study Using Space\u2013Time Measures"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6c47a8d6a27c24ad2a5ad73e90eb2c6a54017be3",
+      "title": "LifeLines: visualizing personal histories"
+    },
+    {
+      "paperId": "7ab715a5724007d8caa6eedd3a1845c49a95f2b7",
+      "title": "MOOCad: Visual Analysis of Anomalous Learning Activities in Massive Open Online Courses"
+    },
+    {
+      "paperId": null,
+      "title": "Wales, Australia"
+    },
+    {
+      "paperId": "5ddd4a4dbc8c32734209ca4a074d6be551f87e89",
+      "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data"
+    },
+    {
+      "paperId": "ad16fe84b8997051de83051fe40b27914965625b",
+      "title": "EventThread: Visual Summarization and Stage Analysis of Event Sequence Data"
+    },
+    {
+      "paperId": "bedf017d7e1356f0473820766d8a8a13682b486e",
+      "title": "Exploring Multivariate Event Sequences Using Rules, Aggregations, and Selections"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "448c04f70cad6b028fe038998e78b1b1eeefccbd",
+      "title": "The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process"
+    },
+    {
+      "paperId": "11a891d93afd8625770d46ae150f5408ba2e364d",
+      "title": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "paperId": null,
+      "title": "A visualization scheme with a calendar heat map for abnormal pattern analysis in the manufacturing process"
+    },
+    {
+      "paperId": null,
+      "title": "High-volume hypothesis testing: Systematic exploration of event sequence comparisons"
+    },
+    {
+      "paperId": "6038a923c8e183f98cac29dd8de3dec20c10a6b3",
+      "title": "Mining, Pruning and Visualizing Frequent Patterns for Temporal Event Sequence Analysis"
+    },
+    {
+      "paperId": "4b9c73e596317dbbe0e37c3d7109f3b068f19a8f",
+      "title": "Peekquence : Visual Analytics for Event Sequence Data"
+    },
+    {
+      "paperId": null,
+      "title": "The diversity of data and tasks in event analytics"
+    },
+    {
+      "paperId": "04bf4b81d1b159e6e1a959a2f90acf7d2aa09cab",
+      "title": "Time series anomaly discovery with grammar-based compression"
+    },
+    {
+      "paperId": "c67f7c02c1fe4936cc8055423a0fced729d0307d",
+      "title": "Interactive Event Sequence Query and Transformation"
+    },
+    {
+      "paperId": "f442d73d3ea5640958f3f22757af5f3fa132d040",
+      "title": "MatrixFlow: Temporal Network Visual Analytics to Track Symptom Evolution during Disease Progression"
+    },
+    {
+      "paperId": "8061bfed5f9200c4dd3a6d4a2efaf8ce21ae84ac",
+      "title": "ViewFusion: Correlating Structure and Activity Views for Execution Traces"
+    },
+    {
+      "paperId": "f82bc74b05438a6739d51b78e4a64a78fc29a67b",
+      "title": "Outflow : Visualizing Patient Flow by Symptoms and Outcome"
+    },
+    {
+      "paperId": "ff80dca09e6990ee138746dde0013e5479bec563",
+      "title": "Visual analytics and human-computer interaction"
+    },
+    {
+      "paperId": "7556731235f2946bc4372ade7a02ab8f49712a26",
+      "title": "Everyday mining : Exploring sequences in event-based data ; Utforskning av sekvenser i h\u00e4ndelsebaserade data"
+    },
+    {
+      "paperId": "913395a555c5d6a8e27c020705b66f067c010fc0",
+      "title": "The complexities of everyday life : balancing practical and realistic approaches to modelling probable presence in space - time"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "David Gotz received his Ph.D. in Computer Science from the University of North Carolina (UNC) at Chapel Hill, NC, USA"
+    },
+    {
+      "paperId": "075ff515833d8f3b3c0fbeca39d9b66c5e1ca6b3",
+      "title": "SequenceJuxtaposer: Fluid Navigation For Large-Scale Sequence Comparison in Context"
+    },
+    {
+      "paperId": null,
+      "title": "La causalit\u00b4e perceptive"
+    },
+    {
+      "paperId": "66d8a01c67438d8e1f8bd441b5509b0d3d701105",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Visual Correlation Analysis of Numerical and Categorical Data on the Correlation Map"
+    },
+    {
+      "paperId": null,
+      "title": "interdisciplinary research across including data"
+    },
+    {
+      "paperId": null,
+      "title": "received her Ph.D. degree in Software Engineering from East China Normal University, Shanghai, China"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Science and Mathematical Statistics from Wake Forest University, NC, USA"
+    },
+    {
+      "paperId": null,
+      "title": "received his B.S. degree"
+    }
+  ]
+}

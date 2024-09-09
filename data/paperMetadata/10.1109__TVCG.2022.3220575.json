@@ -1,0 +1,664 @@
+{
+  "paperId": "40bcf6a66ca74f35d9bb84eb64dbb8bbd754fc41",
+  "externalIds": {
+    "DBLP": "journals/tvcg/TianG24",
+    "DOI": "10.1109/TVCG.2022.3220575",
+    "CorpusId": 253396575,
+    "PubMed": "36346866"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/40bcf6a66ca74f35d9bb84eb64dbb8bbd754fc41",
+  "title": "A Survey of Smooth Vector Graphics: Recent Advances in Repr esentation, Creation, Rasterization, and Image Vectorization",
+  "abstract": "The field of smooth vector graphics explores the representation, creation, rasterization, and automatic generation of light-weight image representations, frequently used for scalable image content. Over the past decades, several conceptual approaches on the representation of images with smooth gradients have emerged that each led to separate research threads, including the popular gradient meshes and diffusion curves. As the computational models matured, the mathematical descriptions diverged and article started to focus more narrowly on subproblems, such as on the representation and creation of vector graphics, or the automatic vectorization from raster images. Most of the work concentrated on a specific mathematical model only. With this survey, we describe the established computational models in a consistent notation to spur further knowledge transfer, leveraging the recent advances in each field. We therefore categorize vector graphics article from the last decades based on their underlying mathematical representations as well as on their contribution to the vector graphics content creation pipeline, comprising representation, creation, rasterization, and automatic image vectorization. This survey is meant as an entry point for both artists and researchers. We conclude this survey with an outlook on promising research directions and challenges to overcome in the future.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 148,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/4359476/09942350.pdf",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-11-08",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1652-1671",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tian2022ASO,\n author = {Xingze Tian and Tobias G\u00fcnther},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1652-1671},\n title = {A Survey of Smooth Vector Graphics: Recent Advances in Repr esentation, Creation, Rasterization, and Image Vectorization},\n volume = {30},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2117127613",
+      "name": "Xingze Tian"
+    },
+    {
+      "authorId": "2251616817",
+      "name": "Tobias G\u00fcnther"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "619248351c4a31cbbd836dab9f34e946d13bb2ce",
+      "title": "Surface Simplification Using Quadric Error Metrics"
+    },
+    {
+      "paperId": "e6d3aafe5fe00ea7ee45992523aefd3ea1a8cdd1",
+      "title": "Topology- and Perception-Aware Image Vectorization"
+    },
+    {
+      "paperId": "02f8629da9819acc042376a964fcb64c50b870a6",
+      "title": "A bidirectional formulation for Walk on Spheres"
+    },
+    {
+      "paperId": "f08bdeedf7bc626eb151da69bb51bb85db9b97f5",
+      "title": "Towards Layer-wise Image Vectorization"
+    },
+    {
+      "paperId": "08d43933f72b2dcebf7bd8037fd7467a2abaab55",
+      "title": "TCB-spline-based Image Vectorization"
+    },
+    {
+      "paperId": "4c7c80e822a56bb60a896eacf6ecb79f97e96750",
+      "title": "Adaptive image vectorisation and brushing using mesh colours"
+    },
+    {
+      "paperId": "c4bbf4924447f11d48606b35701b2eb698ca0026",
+      "title": "Image Representation on Curved Optimal Triangulation"
+    },
+    {
+      "paperId": "4baa3d73a0a7b18adf9a1285823b7cfb8358d00b",
+      "title": "Feature\u2010Adaptive and Hierarchical Subdivision Gradient Meshes"
+    },
+    {
+      "paperId": "2ede42d413ded87f2eb9ce1232e39daff1a1ca3b",
+      "title": "Mesh Colours for Gradient Meshes"
+    },
+    {
+      "paperId": "4450d48cff08ee7bf7af0567fcc5a2aa59e8b73a",
+      "title": "ClipGen: A Deep Generative Model for Clipart Vectorization and Synthesis"
+    },
+    {
+      "paperId": "a122250dddb137f41ffbb534878794f46f740e00",
+      "title": "Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting"
+    },
+    {
+      "paperId": "a4b1832608ce602bd32c01b12cd08c42739755d0",
+      "title": "Video Vectorization via Bipartite Diffusion Curves Propagation and Optimization"
+    },
+    {
+      "paperId": "e1386d8f0ba210a2b772b2f75aac3b0df8453477",
+      "title": "Im2Vec: Synthesizing Vector Graphics without Vector Supervision"
+    },
+    {
+      "paperId": "e57ee758ee9d0a18ef14505274d89aececeec016",
+      "title": "Vectorized Painting with Temporal Diffusion Curves"
+    },
+    {
+      "paperId": "7b27894ffb7dab1305d71d3433991e3e61412489",
+      "title": "Differentiable vector graphics rasterization for editing and learning"
+    },
+    {
+      "paperId": "99e805705b198218a1cbb6e727331a6788881372",
+      "title": "Poisson Vector Graphics (PVG)-Guided Face Color Transfer in Videos"
+    },
+    {
+      "paperId": "2c5dba61816bc607a91fa44da7407620561cd985",
+      "title": "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation"
+    },
+    {
+      "paperId": "39e3296dd4565f5dc1631ab9d7ef052911753fc7",
+      "title": "Monte Carlo geometry processing"
+    },
+    {
+      "paperId": "c8d3d053018b18566c0055152685b500aa734a69",
+      "title": "PolyFit"
+    },
+    {
+      "paperId": "92c5d96c25932038883ba0263ca056e39b082ce9",
+      "title": "Shape Manipulation of Diffusion Curves Images"
+    },
+    {
+      "paperId": "aea330277baa762026b98709d3a16e7028635cdb",
+      "title": "Deep Vectorization of Technical Drawings"
+    },
+    {
+      "paperId": "42b3a039a666caab2881bfef244d3ce074b7f529",
+      "title": "Sketchformer: Transformer-Based Representation for Sketched Structure"
+    },
+    {
+      "paperId": "e0d9e774162bcdbd50daa6a5641a22158931a826",
+      "title": "Poisson Vector Graphics (PVG)"
+    },
+    {
+      "paperId": "76974a54be755dee8552d15e602d6273227e3c72",
+      "title": "Image Vectorization With Real-Time Thin-Plate Spline"
+    },
+    {
+      "paperId": "a5de6aa11a6eedf828313319a404bd767b0e535a",
+      "title": "Colour interpolants for polygonal gradient meshes"
+    },
+    {
+      "paperId": "4ee3b4f10759d6b7981add326ff30f3b27e7d333",
+      "title": "Field\u2010aligned Quadrangulation for Image Vectorization"
+    },
+    {
+      "paperId": "bbbc29b0b5aede611b571b20b5aaf2a00d9c6988",
+      "title": "Vectorization Based Color Transfer for Portrait Images"
+    },
+    {
+      "paperId": "95e2b19874868720845112b80c4820fd5e7124a5",
+      "title": "Deep Line Drawing Vectorization via Line Subdivision and Topology Reconstruction"
+    },
+    {
+      "paperId": "49cf7f3038541871170551a40317186e0d8fd545",
+      "title": "Bivariate B-Splines from Convex Pseudo-circle Configurations"
+    },
+    {
+      "paperId": "b366200cb73417da73ccc3fc46379e2ddc52d4ed",
+      "title": "Scribble-based colorization for creating smooth-shaded vector graphics"
+    },
+    {
+      "paperId": "c245883609909303e7c63c1ad7e865d804da27e8",
+      "title": "Depth-aware image vectorization and editing"
+    },
+    {
+      "paperId": "3f01c12eca034542126f760d6c5c4768a76c2a92",
+      "title": "Sketch2VF: Sketch\u2010based flow design with conditional generative adversarial network"
+    },
+    {
+      "paperId": "7df4f6c2e6a7398d5e94bdbdb638b8ecad641f2c",
+      "title": "Noisy gradient meshes: Augmenting gradient meshes with procedural noise"
+    },
+    {
+      "paperId": "36b807372d084ccf433d9e3dc73ef4718fb5cb46",
+      "title": "A Learned Representation for Scalable Vector Graphics"
+    },
+    {
+      "paperId": "a18e9612f1d5c814f17f562b84c8e0f59211172a",
+      "title": "Local and Hierarchical Refinement for Subdivision Gradient Meshes"
+    },
+    {
+      "paperId": "fb33a412859c4175eecb4273735aed1c4d41afa5",
+      "title": "Decorating 3D models with Poisson vector graphics"
+    },
+    {
+      "paperId": "7d4f49b9afa4b7567ce0a010a950847eb4cabc6d",
+      "title": "Perception-driven semi-structured boundary vectorization"
+    },
+    {
+      "paperId": "0ea12bd1378680cb1956be3290df635209e405d5",
+      "title": "Stylized Image Triangulation"
+    },
+    {
+      "paperId": "18688d940fb802c9939efcdc5e3adbf69c5b518c",
+      "title": "Locally refinable gradient meshes supporting branching and sharp colour transitions"
+    },
+    {
+      "paperId": "9f7fd469a40d3abf791857e91eb4b7dec95772f9",
+      "title": "Diffusion curves with diffusion coefficients"
+    },
+    {
+      "paperId": "dbd01198c9cc76fe86e5633665a66acadb3632e5",
+      "title": "Raster-to-Vector: Revisiting Floorplan Transformation"
+    },
+    {
+      "paperId": "ff4a75a3aaa5a8019cda5832a74c8939bcd7b8d2",
+      "title": "A Colour Interpolation Scheme for Topologically Unrestricted Gradient Meshes"
+    },
+    {
+      "paperId": "9f0b217cb21ec8c19610e28bd0805d7871456e4b",
+      "title": "Learning to Infer Graphics Programs from Hand-Drawn Images"
+    },
+    {
+      "paperId": "3699aeaeb5b35f3063ecbafe1c94adc4555b8f56",
+      "title": "A gradient mesh tool for non-rectangular gradient meshes"
+    },
+    {
+      "paperId": "c9577eba0e0342fbb0c4be15bf22705759ddde00",
+      "title": "Scribble-based gradient mesh recoloring"
+    },
+    {
+      "paperId": "ccd3efe251ec185debf4c4a4c2f9c896f1f44a91",
+      "title": "Video Vectorization via Tetrahedral Remeshing"
+    },
+    {
+      "paperId": "e30f9ec78a89c5e8dfb634078062059945d65c16",
+      "title": "Poisson Vector Graphics (PVG) and Its Closed-Form Solver"
+    },
+    {
+      "paperId": "88da24722ba21c260fead8ffc808089d8d2bd70f",
+      "title": "Inverse Diffusion Curves Using Shape Optimization"
+    },
+    {
+      "paperId": "3ed4ef1032ca643f0694742d1fa02382161eea3f",
+      "title": "Ray-traced diffusion points"
+    },
+    {
+      "paperId": "7c2b2cb454b7160ca715abb82c93c808763b01c2",
+      "title": "Generalized Diffusion Curves: An Improved Vector Representation for Smooth\u2010Shaded Images"
+    },
+    {
+      "paperId": "e787640e79a4db9eaa9a576d7f4d5a0a1d25ab97",
+      "title": "State of the Art in Artistic Editing of Appearance, Lighting and Material"
+    },
+    {
+      "paperId": "54ed56f49c30148b32d77e6c42069bfaafb5ea54",
+      "title": "Optimization\u2010Based Gradient Mesh Colour Transfer"
+    },
+    {
+      "paperId": "bd7df0e9aea90f4be8bfcaf56c450a4051a25b4e",
+      "title": "Shading Curves: Vector\u2010Based Drawing With Explicit Gradient Control"
+    },
+    {
+      "paperId": "6c8f1acc7c4328915a2112bdfa61406565219480",
+      "title": "Diffusion Based Vector Graphics on Mobile Devices"
+    },
+    {
+      "paperId": "444fd06dade0944bba588bfc2e3c802a51680494",
+      "title": "A Vectorial Framework for Ray Traced Diffusion Curves"
+    },
+    {
+      "paperId": "e9ab2ccaf52339d3a555ecf859859cf88ed09520",
+      "title": "Hierarchical diffusion curves for accurate automatic image vectorization"
+    },
+    {
+      "paperId": "5d140bd7b1796b4bbe9782f74d273f2a754cf5c9",
+      "title": "Fast multipole representation of diffusion curves and points"
+    },
+    {
+      "paperId": "6b644bb75dbbea9849cd5b44f025078d2f46e337",
+      "title": "Representing Images Using Curvilinear Feature Driven Subdivision Surfaces"
+    },
+    {
+      "paperId": "8289ad51dab2f39361df09c29abe0ee37e07ce86",
+      "title": "Automatic image vectorization using superpixels and random walkers"
+    },
+    {
+      "paperId": "c146a7a6745db80a1aeda0f124f7287af0aaaec2",
+      "title": "Biharmonic diffusion curve images from boundary elements"
+    },
+    {
+      "paperId": "8a3b2cf7e027abea16743bbbbda54df6a58a04d9",
+      "title": "Cubic mean value coordinates"
+    },
+    {
+      "paperId": "3ed68a0d6ec2d0134f84f756c2258650a67d6ba3",
+      "title": "Example-Based Color Transfer for Gradient Meshes"
+    },
+    {
+      "paperId": "9bce732d78fc2e48a35578b37fc10cafec26737b",
+      "title": "Topology-driven vectorization of clean line drawings"
+    },
+    {
+      "paperId": "79599c1a0a784e60bdc084f2d9698433d54c4916",
+      "title": "Biharmonic Coordinates"
+    },
+    {
+      "paperId": "ca623c2a3c79a0b13ceaa6dbe9107c1ed5704af7",
+      "title": "A Subdivision-Based Representation for Vector Image Editing"
+    },
+    {
+      "paperId": "edc70d7d5e10e4ad423c2c14c6366bda9ee1be3f",
+      "title": "A vectorial solver for free-form vector gradients"
+    },
+    {
+      "paperId": "357fa5ab6a02d510a06e1b092c70012544b1d63b",
+      "title": "Smooth Shape\u2010Aware Functions with Controlled Extrema"
+    },
+    {
+      "paperId": "a48e6b0bcf43e53c4c47b60c5b6ec93e7835fb36",
+      "title": "Fast Rendering of Diffusion Curves with Triangles"
+    },
+    {
+      "paperId": "575c63fa76469123f76a297c682661a16a0843cd",
+      "title": "Diffusion curve textures for resolution independent texture mapping"
+    },
+    {
+      "paperId": "d190d9e7e24bc4c3ada38ac3fadb280ceb389693",
+      "title": "Freeform vector graphics with controlled thin-plate splines"
+    },
+    {
+      "paperId": "1eb0d06b3c4f72d93983c0e783a2ecfc2a6c00a3",
+      "title": "A Ray Tracing Approach to Diffusion Curves"
+    },
+    {
+      "paperId": "03367d195e8de8a2773068dee6482466b623a1f5",
+      "title": "An interactive multi-touch sketching interface for diffusion curves"
+    },
+    {
+      "paperId": "0e5a262bf59b68ba8a7a1103d16fa33a9f5ffc28",
+      "title": "Contour Detection and Hierarchical Image Segmentation"
+    },
+    {
+      "paperId": "853c3d523a3c784fa692cd7ec36de184981db5ae",
+      "title": "Estimating Color and Texture Parameters for Vector Graphics"
+    },
+    {
+      "paperId": "44e1b348e35ac871929a8d765904f901dfc93c94",
+      "title": "Volumetric modeling with diffusion surfaces"
+    },
+    {
+      "paperId": "6dce9a47c78331a4abc1fd591731d08b236f0e3a",
+      "title": "Feature based terrain generation using diffusion equation"
+    },
+    {
+      "paperId": "e2fbc91521e43253de7f4a2c833d1e8f53e1be0c",
+      "title": "Diffusion constraints for vector graphics"
+    },
+    {
+      "paperId": "6d9bed597ceb770c8a16d6aa5182b542f3a02a83",
+      "title": "Mesh colors"
+    },
+    {
+      "paperId": "24075ab482f70ffd1137abb3a533dfe551210c6f",
+      "title": "A GPU Laplacian solver for diffusion curves and Poisson image editing"
+    },
+    {
+      "paperId": "6f912e6349c5e1f62165203dd33bffb52c49959f",
+      "title": "Patch-based image vectorization with automatic curvilinear feature alignment"
+    },
+    {
+      "paperId": "f37aa7174e1c8ca4a6635f4538a5a1ca9cef2f0d",
+      "title": "Rendering surface details with diffusion curves"
+    },
+    {
+      "paperId": "b1ace2b9930a9ad14f5deea5f631dae9901eb0ec",
+      "title": "Automatic and topology-preserving gradient mesh generation for image vectorization"
+    },
+    {
+      "paperId": "4bb0f3a570936826401b4d1d322725bec3267dce",
+      "title": "Using contours to detect and localize junctions in natural images"
+    },
+    {
+      "paperId": "3b2db75dc13a2a955c94a5e6828d90c2ee152192",
+      "title": "Image vectorization using optimized gradient meshes"
+    },
+    {
+      "paperId": "53fc0415e0d00f9691994a49b8232a1cc2dfad5f",
+      "title": "An efficient PCA-based color transfer method"
+    },
+    {
+      "paperId": "7b4e9acfdb453536a53265ce17b41da1fbf39bcb",
+      "title": "Rapid Automated Polygonal Image Decomposition"
+    },
+    {
+      "paperId": "af92b76c3c03687d09cf3d2d66baae1b5982c08b",
+      "title": "Object-based vectorization for interactive image editing"
+    },
+    {
+      "paperId": "cacc6bb6fae60c25546d690ee61cac3404fc1f36",
+      "title": "Modeling with multiresolution subdivision surfaces"
+    },
+    {
+      "paperId": "12b2107e89be833c083fccd1fe1f89f3d15c1209",
+      "title": "Image compression by linear splines over adaptive triangulations"
+    },
+    {
+      "paperId": "edafa67056b8660105ffc93ad0fcbba69566d797",
+      "title": "Ardeco: automatic region detection and conversion"
+    },
+    {
+      "paperId": "7e8f44a0298ebfe8020e385a8f3f5d1a239cffdd",
+      "title": "Color transfer in correlated color space"
+    },
+    {
+      "paperId": "1e7312678ea3c3a2da6e9a1a56f16b5ef60cf6d2",
+      "title": "Fast image and video colorization using chrominance blending"
+    },
+    {
+      "paperId": "0cee2dcdb107f013eff1edafec708daf86fb8e51",
+      "title": "Efficient Linear System Solvers for Mesh Processing"
+    },
+    {
+      "paperId": "9f8f5b70570d97c9334eeed475bcd262d0e8a683",
+      "title": "Mean value coordinates for closed triangular meshes"
+    },
+    {
+      "paperId": "dd839ecc78330ee07a8237398a21fde1b2122104",
+      "title": "As-rigid-as-possible shape manipulation"
+    },
+    {
+      "paperId": "f26d35d2e32934150cd27b030d4d769942126184",
+      "title": "\"GrabCut\""
+    },
+    {
+      "paperId": "60bb206656fef0393cd619ebb9b1ddb9f38024aa",
+      "title": "Image Interpolation by Pixel\u2010Level Data\u2010Dependent Triangulation"
+    },
+    {
+      "paperId": "3120cc90d4848f15eef523260c73112dc61e4f95",
+      "title": "SVG rendering of real images using data dependent triangulation"
+    },
+    {
+      "paperId": "6f51745936e349200d791445f12e8aa8c419d378",
+      "title": "A multigrid solver for boundary value problems using programmable graphics hardware"
+    },
+    {
+      "paperId": "c16f03480935ca2eb4cb55df1a06b071f32959f8",
+      "title": "Mean value coordinates"
+    },
+    {
+      "paperId": "8a3e8e09fb0dab77b3b3a16facdcf98577ac8a52",
+      "title": "Wavelet-Based Multiresolution Surface Approximation from Height Fields"
+    },
+    {
+      "paperId": "8830af1e277834dbda5f1b664418e068bc755f34",
+      "title": "Curves and Surfaces for Cagd: A Practical Guide"
+    },
+    {
+      "paperId": "6c62fdf1e6a520d9fee8ca9981fb588d07f2c6fa",
+      "title": "An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision"
+    },
+    {
+      "paperId": "8b55fb295ceb634a2a1d72fecc8c2b4490b27a42",
+      "title": "Image Reconstruction Using Data-Dependent Triangulation"
+    },
+    {
+      "paperId": "84139633bcc1531683717065052665a1b2d06229",
+      "title": "A Vector\u2010based Representation for Image Warping"
+    },
+    {
+      "paperId": "ef4a969a7d7c0211b51a27f4f6995ea3619d1650",
+      "title": "Are Edges Incomplete?"
+    },
+    {
+      "paperId": "278a471f7e4087922813d99e8a598cd55a0bdf4d",
+      "title": "Fast computation of generalized Voronoi diagrams using graphics hardware"
+    },
+    {
+      "paperId": "31de0e859e2b2cd942be59c7cf9ded32ac1d88ea",
+      "title": "Monotonic cubic spline interpolation"
+    },
+    {
+      "paperId": "ca715e1a1e4a66a763671c2a084bfc9bc23fc3e0",
+      "title": "Edge Detection and Ridge Detection with Automatic Scale Selection"
+    },
+    {
+      "paperId": "25ac496bc07c2961860542c83abbc14b26cf42f4",
+      "title": "Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator"
+    },
+    {
+      "paperId": "65e9c6abfbb590afc4fe05904a6b10e2b6af03c2",
+      "title": "Fractal image compression based on Delaunay triangulation and vector quantization"
+    },
+    {
+      "paperId": "594cf125ef19f53bfaf8aea48371df273f6e3e23",
+      "title": "Piecewise smooth surface reconstruction"
+    },
+    {
+      "paperId": "fcf9fc4e23b45345c2404ce7d6cb0fc9dea2c9ec",
+      "title": "A Computational Approach to Edge Detection"
+    },
+    {
+      "paperId": "5a20eada325b199ab45eba5a37892787c44966a2",
+      "title": "A pentagonal surface patch for computer aided geometric design"
+    },
+    {
+      "paperId": "fadabdb084b8437fdd03db4addcb7fba665b903a",
+      "title": "Design of solids with free-form surfaces"
+    },
+    {
+      "paperId": "22e69b6c0129af46dda3335ced3ef88cdb63bca0",
+      "title": "The internal representation of solid shape with respect to vision"
+    },
+    {
+      "paperId": "9009c9685754346deb93f316144a9da1f70ffcd8",
+      "title": "Theory of edge detection"
+    },
+    {
+      "paperId": "bf4637ae5bdd7f148d0138b8d37ffa58289b8cd6",
+      "title": "Recursively generated B-spline surfaces on arbitrary topological meshes"
+    },
+    {
+      "paperId": "598a01bde0cd87f9b162fa20c52e4c51845d76ff",
+      "title": "A survey of techniques for the display of continuous tone pictures on bilevel displays"
+    },
+    {
+      "paperId": "e46ac802d7207e0e51b5333456a3f46519c2f92d",
+      "title": "ALGORITHMS FOR THE REDUCTION OF THE NUMBER OF POINTS REQUIRED TO REPRESENT A DIGITIZED LINE OR ITS CARICATURE"
+    },
+    {
+      "paperId": "2e101acd7fccddc16efa9951cf9631b58e4bea0b",
+      "title": "Multivariable Curve Interpolation"
+    },
+    {
+      "paperId": "0681f53360c2ecf21668d880a47c1f73444060b8",
+      "title": "Efficient Image Vectorisation Using Mesh Colours"
+    },
+    {
+      "paperId": "07579e95ab7b720f21524760b77c2e8e5233d1e1",
+      "title": "Vectorization of Raster Manga by Deep Reinforcement Learning"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSketchHairSalon: Deep sketch-based hair image synthesis,\u201d"
+    },
+    {
+      "paperId": "e77b145259ed7dc379984c700efcd9532c81fedf",
+      "title": "DiffusionMesh"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA\ufb01niteelementframework basedonbivariatesimplexsplinesontrianglecon\ufb01gurations,\u201d"
+    },
+    {
+      "paperId": "2c0884901aebe3f94f4c84c3ef56c3b84ac98337",
+      "title": "A Comparison of GPU Tessellation Strategies for Multisided Patches"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPhoto2ClipArt: Image abstraction and vectorization using layered linear gradients,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEffective clipart image vectorization through direct optimization of B (cid:2) ezigons,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cFidelity vs. simplicity: A global approach to line drawing vectorization,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA multi-sided B (cid:2) ezier patch with a simple control structure,\u201d"
+    },
+    {
+      "paperId": "0e4b4e6ad040979cf5d6d5bff5323ae5d001552c",
+      "title": "Gradient Art: Creation and Vectorization"
+    },
+    {
+      "paperId": "fb3b391ca98c79f8239d8349df62bbd394fb29da",
+      "title": "Feature-adaptive GPU rendering of Catmull-Clark subdivision surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cDiffusion curves: A vector representation for smooth-shadedimages,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAdvancedSVGtriangulation/polygonalizationofdigitalimages,\u201d"
+    },
+    {
+      "paperId": "0dac28366eae89691fc8285f097e004af4cbd981",
+      "title": "Firemark: a Java Tool for SVG Watermarking"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cEf\ufb01cient graph-based image segmentation,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Numerical Optimization . Berlin, Germany"
+    },
+    {
+      "paperId": "5e5f91968f528b262d0879546c8fcd8c11382329",
+      "title": "Curve Structure Extraction for Cartoon Images"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA thin plate spline method for mapping curves into curves in two dimensions,\u201d"
+    },
+    {
+      "paperId": "a80cb91899b118563099be98c73cc1e7ba40f6c7",
+      "title": "Data Dependent Triangulations for Piecewise Linear Interpolation"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cAn algorithm for automatically \ufb01tting digitized curves,\u201d"
+    },
+    {
+      "paperId": "8a2384ff41dc2c337e6aaacbcfd13f74e0e2f1ea",
+      "title": "A multigrid tutorial"
+    },
+    {
+      "paperId": "26ad943aee59bd8dbef7ca64712bbe0c9b7762f0",
+      "title": "Some nonconforming finite elements for the plate bending problem"
+    },
+    {
+      "paperId": "30dc8f40da2c2be77a8428a0cd5cb16b1c508a30",
+      "title": "Variational principles and the patch test"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cA method for the solution of certain problems in least squares,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "SURVEYOF SMOOTH VECTOR GRAPHICS: RECENTADVANCES IN REPRESENTATION, CREATION,."
+    },
+    {
+      "paperId": null,
+      "title": "Mesh-based representations decompose an image into 2D patches, where color is interpolated inside each patch"
+    }
+  ]
+}

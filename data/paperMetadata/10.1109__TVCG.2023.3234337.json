@@ -1,0 +1,240 @@
+{
+  "paperId": "a12aa3db4299a05f7b7e8ba8b907af8e95ad67b5",
+  "externalIds": {
+    "DBLP": "journals/tvcg/RuddleCF24",
+    "DOI": "10.1109/TVCG.2023.3234337",
+    "CorpusId": 255663430,
+    "PubMed": "37018563"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/a12aa3db4299a05f7b7e8ba8b907af8e95ad67b5",
+  "title": "Tasks and Visualizations Used for Data Profiling: A Survey and Interview Study",
+  "abstract": "The use of good-quality data to inform decision making is entirely dependent on robust processes to ensure it is fit for purpose. Such processes vary between organisations, and between those tasked with designing and following them. In this article we report on a survey of 53 data analysts from many industry sectors, 24 of whom also participated in in-depth interviews, about computational and visual methods for characterizing data and investigating data quality. The paper makes contributions in two key areas. The first is to data science fundamentals, because our lists of data profiling tasks and visualization techniques are more comprehensive than those published elsewhere. The second concerns the application question \u201cwhat does good profiling look like to those who routinely perform it?\u201d, which we answer by highlighting the diversity of profiling tasks, unusual practice and exemplars of visualization, and recommendations about formalizing processes and creating rulebooks.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 40,
+  "openAccessPdf": {
+    "url": "https://eprints.ncl.ac.uk/file_store/production/289894/4B4DE11F-42B3-4315-93DE-2FB7562A2DC1.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-01-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "3400-3412",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ruddle2023TasksAV,\n author = {R. Ruddle and J. Cheshire and S. Fernstad},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {3400-3412},\n title = {Tasks and Visualizations Used for Data Profiling: A Survey and Interview Study},\n volume = {30},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1685953",
+      "name": "R. Ruddle"
+    },
+    {
+      "authorId": "48934347",
+      "name": "J. Cheshire"
+    },
+    {
+      "authorId": "49821778",
+      "name": "S. Fernstad"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "dc25d11cf55f02bf5f0410e71a79e4072a564051",
+      "title": "Data Smells in Public Datasets"
+    },
+    {
+      "paperId": "1601539aa75e3c309a4981360f09509074ca845f",
+      "title": "The Unmet Data Visualization Needs of Decision Makers Within Organizations"
+    },
+    {
+      "paperId": "8e234be4cdc34ea8deba609c31858198ad941797",
+      "title": "Passing the Data Baton: A Retrospective Analysis on Data Science Work and Workers"
+    },
+    {
+      "paperId": "1dc4f54d63101b3f39e65864baf03563e067b5a6",
+      "title": "Guidelines For Pursuing and Revealing Data Abstractions"
+    },
+    {
+      "paperId": "ad2c0f0596d023c6ae74cf54a4d454c272054ecd",
+      "title": "Visualization in the preprocessing phase: Getting insights from enterprise professionals"
+    },
+    {
+      "paperId": "c0ec6c0548a3b754d0e750702b58fe15ddcf525f",
+      "title": "Understanding the Role of Alternatives in Data Analysis Practices"
+    },
+    {
+      "paperId": "00dac0b2d30ae521eff2f985032efece1728d2cc",
+      "title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+    },
+    {
+      "paperId": "09ad9d4f78969dfd0554fd0948698200dfb0c05a",
+      "title": "Using Miniature Visualizations of Descriptive Statistics to Investigate the Quality of Electronic Health Records"
+    },
+    {
+      "paperId": "598d0ece2e96e699068482fcaf0441933856fe1e",
+      "title": "Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices"
+    },
+    {
+      "paperId": "1408c3016d48c940a0de85bf9f8fa07a210d363a",
+      "title": "Where's My Data? Evaluating Visualizations with Missing Data"
+    },
+    {
+      "paperId": "064b6f6a7b8ce00ff0d2a631d6ec9d3022bf3646",
+      "title": "Design Exposition with Literate Visualization"
+    },
+    {
+      "paperId": "d2ce6fc25b33f1a1abbab6c3c0a8257b9a4c1164",
+      "title": "Steering data quality with visual analytics: The complexity challenge"
+    },
+    {
+      "paperId": "130f966fafa7408b3175afeb37757ffadd9cda3b",
+      "title": "A User\u2010based Visual Analytics Workflow for Exploratory Model Analysis"
+    },
+    {
+      "paperId": "720cb3ddee548ff433f313791f07c0116329f6ba",
+      "title": "To identify what is not there: A definition of missingness patterns and evaluation of missing value visualization"
+    },
+    {
+      "paperId": "2205d1334aa18900c2bdadb127054daf68e77998",
+      "title": "Know Your Enemy: Identifying Quality Problems of Time Series Data"
+    },
+    {
+      "paperId": "062f6247ec6a5197ca060ad29c04a8b872cab224",
+      "title": "Usability of Visual Data Profiling in Data Cleaning and Transformation"
+    },
+    {
+      "paperId": "7319234cc18a3fcaf55b57400e25f9f3114313bb",
+      "title": "Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing"
+    },
+    {
+      "paperId": "d74efa045ebc1214b4185e555d5f25385771801e",
+      "title": "Applying a Participatory Design Approach to Define Objectives and Properties of a \u201cData Profiling\u201d Tool for Electronic Health Data"
+    },
+    {
+      "paperId": "326d79ced627591a1710296d7868b832a2e57367",
+      "title": "Profiling relational data: a survey"
+    },
+    {
+      "paperId": "953df0816204681a27e4e71751f7bbd43a8a371a",
+      "title": "TimeCleanser: a visual analytics approach for data cleansing of time-oriented data"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "2d464b614414038d405a0a88bc61a10d30bf5a33",
+      "title": "Methods and dimensions of electronic health record data quality assessment: enabling reuse for clinical research"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "1462beb273725fc9310ad175b6625b5edd61f6ef",
+      "title": "Visualizing Missing Data: Graph Interpretation User Study"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "bbeb0c02ca75525b35154ff07c36a5231ff93fcc",
+      "title": "Statistical Analysis With Missing Data"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cData visualization state of the industry survey,\u201d"
+    },
+    {
+      "paperId": "62b8c083394433f7bf528214914743bfc4ee0554",
+      "title": "Defining an Analysis: A Study of Client-Facing Data Scientists"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMarket guide for data preparation tools,\u201d"
+    },
+    {
+      "paperId": "32a7cdb2f5ca499fc5e58aaa3a51a537e24b2490",
+      "title": "The Interactive Visualization Gap in Initial Exploratory Data Analysis"
+    },
+    {
+      "paperId": "4fa18916938aa21b197f1f33788ed26e3733113e",
+      "title": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "paperId": "80ba37dee9fdf340ce3b37eb1a09b6308e94169d",
+      "title": "The Data Linter: Lightweight Automated Sanity Checking for ML Data Sets"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cData pro\ufb01ling revisited,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPro\ufb01ler: Integrated statistical analysis and visualization for data quality assessment,\u201d"
+    },
+    {
+      "paperId": "e6d2d0f5ed8895579c867cd2cea20ddb2f00ede3",
+      "title": "Graphs in Statistical Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Work\ufb02ow time"
+    },
+    {
+      "paperId": null,
+      "title": "Tools and techniques : Covered questions related to which techniques were used for data characterization and data quality tasks, and what software that was used for visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Bottlenecks and pain points"
+    },
+    {
+      "paperId": null,
+      "title": "PROFILING: A SURVEYAND INTERVIEW STUDY"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cData preparation tools reviews and ratings,\u201d"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "paperId": "692993f22a2f996c088865bd6385decfd6cb51d7",
+  "externalIds": {
+    "DBLP": "journals/tvcg/BressaKTHV22",
+    "DOI": "10.1109/TVCG.2021.3114835",
+    "CorpusId": 237235842,
+    "PubMed": "34587065"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/692993f22a2f996c088865bd6385decfd6cb51d7",
+  "title": "What's the Situation with Situated Visualization? A Survey and Perspectives on Situatedness",
+  "abstract": "Situated visualization is an emerging concept within visualization, in which data is visualized in situ, where it is relevant to people. The concept has gained interest from multiple research communities, including visualization, human-computer interaction (HCI) and augmented reality. This has led to a range of explorations and applications of the concept, however, this early work has focused on the operational aspect of situatedness leading to inconsistent adoption of the concept and terminology. First, we contribute a literature survey in which we analyze 44 papers that explicitly use the term \u201csituated visualization\u201d to provide an overview of the research area, how it defines situated visualization, common application areas and technology used, as well as type of data and type of visualizations. Our survey shows that research on situated visualization has focused on technology-centric approaches that foreground a spatial understanding of situatedness. Secondly, we contribute five perspectives on situatedness (space, time, place, activity, and community) that together expand on the prevalent notion of situatedness in the corpus. We draw from six case studies and prior theoretical developments in HCI. Each perspective develops a generative way of looking at and working with situatedness in design and research. We outline future directions, including considering technology, material and aesthetics, leveraging the perspectives for design, and methods for stronger engagement with target audiences. We conclude with opportunities to consolidate situated visualization research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 109,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-03319648v2/file/BressaKorsgaardTabardHoubenVermeulen_situatedvis-vis2021.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2021-09-29",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1-1",
+    "volume": "PP"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bressa2021WhatsTS,\n author = {Nathalie Bressa and Henrik Korsgaard and A. Tabard and Steven Houben and Jo Vermeulen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1-1},\n title = {What's the Situation with Situated Visualization? A Survey and Perspectives on Situatedness},\n volume = {PP},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "147654807",
+      "name": "Nathalie Bressa"
+    },
+    {
+      "authorId": "2475420",
+      "name": "Henrik Korsgaard"
+    },
+    {
+      "authorId": "2457286",
+      "name": "A. Tabard"
+    },
+    {
+      "authorId": "1770335",
+      "name": "Steven Houben"
+    },
+    {
+      "authorId": "1722820",
+      "name": "Jo Vermeulen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "de7d1f043be7f9c4792fc46edf22b40acd7950c2",
+      "title": "I/O Bits: User-Driven, Situated, and Dedicated Self-Tracking"
+    },
+    {
+      "paperId": "0e3181b316db677aeabcea4f28bfd1832fbda52e",
+      "title": "Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19"
+    },
+    {
+      "paperId": "33245e0556a3f667cc1230a5b407790f03b6d1c3",
+      "title": "The Stakeholder Perspective on Using Public Polling Displays for Civic Engagement"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "f2bd084bb3278b29910ff72de0bc674f4f4068e8",
+      "title": "Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality"
+    },
+    {
+      "paperId": "9fd1e9025cd7f170aa137ea4600e0f662a0301d5",
+      "title": "Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training"
+    },
+    {
+      "paperId": "9bbe1c7e2f63468667fef1abfd95e1576313542b",
+      "title": "Survey of Immersive Analytics"
+    },
+    {
+      "paperId": "393062f84226d1d65cb253489f37de6e7706d0b9",
+      "title": "HydrogenAR: Interactive Data-Driven Presentation of Dispenser Reliability"
+    },
+    {
+      "paperId": "bebb9402e72aa4ae7c6623a8ba34af68655290ee",
+      "title": "Exploring the Need and Design for Situated Video Analytics"
+    },
+    {
+      "paperId": "77fbc1f8c122a95a5dc7527d45e699638baac383",
+      "title": "Revisited: Comparison of Empirical Methods to Evaluate Visualizations Supporting Crafting and Assembly Purposes"
+    },
+    {
+      "paperId": "8b9064423dc5f4357ef5dd7863cb02595e6016cc",
+      "title": "Augmented situated visualization methods towards electromagnetic compatibility testing"
+    },
+    {
+      "paperId": "4fb80242207c6c4d73a353f890e127d550e43259",
+      "title": "Augmented Situated Visualization for Spatial and Context-Aware Decision-Making"
+    },
+    {
+      "paperId": "9083fa23d528b4a632a0df84a8966820fe12f488",
+      "title": "Corsican Twin: Authoring In Situ Augmented Reality Visualisations in Virtual Reality"
+    },
+    {
+      "paperId": "4646602daed686a1e838bce13a9950c0afc4d27e",
+      "title": "Chemicals in the Creek: designing a situated data physicalization of open government data with the community"
+    },
+    {
+      "paperId": "78b5c6c9ee807d2f3c70bd57c3b7a429fdcffb69",
+      "title": "Showing Data About People: A Design Space of Anthropographics"
+    },
+    {
+      "paperId": "280d84bb744ba785bef580220d0bc4d742db0e6e",
+      "title": "A-BI+: A framework for Augmented Business Intelligence"
+    },
+    {
+      "paperId": "1848b093696a2738f592800214a5081f114a1a4a",
+      "title": "OPPORTUNITIES AND CHALLENGES FOR AUGMENTED REALITY SITUATED GEOGRAPHICAL VISUALIZATION"
+    },
+    {
+      "paperId": "c4aa029cd1bd1cf84ca3fda20b22b8a003d1200a",
+      "title": "Immersive visualization with bar graphics"
+    },
+    {
+      "paperId": "ed585b684af4437c5a9e24b287aeba73e96e17f4",
+      "title": "Augmenting Static Visualizations with PapARVis Designer"
+    },
+    {
+      "paperId": "e534c477850bdce8d7a88beb692f5ade932c870b",
+      "title": "Toward Agile Situated Visualization: An Exploratory User Study"
+    },
+    {
+      "paperId": "4116b81fc808e1accc8313ccfc291b959cef2980",
+      "title": "Situated Sketching and Enactment for Pervasive Displays"
+    },
+    {
+      "paperId": "c0f3be314df35a6600ce7233cbcd9a3928904e2c",
+      "title": "Situated Visualization in Augmented Reality: Exploring Information Seeking Strategies"
+    },
+    {
+      "paperId": "d4b0158afa2f2469a74031ee778e25c6f1865328",
+      "title": "Designing for Mobile and Immersive Visual Analytics in the Field"
+    },
+    {
+      "paperId": "a7c248280200ba9b43c49076c761f0605083a0cd",
+      "title": "Context-Aware Computing"
+    },
+    {
+      "paperId": "39f882052dc4901cc7f7caa80d314a600bde7dd6",
+      "title": "Situated Visualization in The Decision Process Through Augmented Reality"
+    },
+    {
+      "paperId": "2509e6c032576c7b37dbd555be57aad5dd42f6c9",
+      "title": "Sketching and Ideation Activities for Situated Visualization Design"
+    },
+    {
+      "paperId": "07e765f83f1b0d555a2ce3e0ce858287fc825f87",
+      "title": "Citizen Dialogue Kit: Public Polling and Data Visualization Displays for Bottom-Up Citizen Participation"
+    },
+    {
+      "paperId": "a6d53a0ed48aa2a878cf26760513286b4584efda",
+      "title": "How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays"
+    },
+    {
+      "paperId": "e9d1201ef176a50e03347e02716780316be2c449",
+      "title": "Defamiliarization, Representation Granularity, and User Experience: A Qualitative Study with Two Situated Visualizations"
+    },
+    {
+      "paperId": "75db6f5ccde811139932c58de3449dfd86ad71d0",
+      "title": "Practice"
+    },
+    {
+      "paperId": "1809c8d21f72568e5373b32bbd2c4af7927169a6",
+      "title": "DXR: A Toolkit for Building Immersive Data Visualizations"
+    },
+    {
+      "paperId": "00ba39db155a219e057c6dc49916414f4390447c",
+      "title": "Conveying a civic issue through data via spatially distributed public visualization and polling displays"
+    },
+    {
+      "paperId": "b034b55588d8f1e38074d6f12cd4d60bdd7a6b54",
+      "title": "Stop the Noise! Enhancing Meaningfulness in Participatory Sensing with Community Level Indicators"
+    },
+    {
+      "paperId": "f3bf3392fe4f5c006f55ced831b3d421684d6484",
+      "title": "Here and Now: Reality-Based Information Retrieval: Perspective Paper"
+    },
+    {
+      "paperId": "375080218159eddd7c7f745c926f34c2301a3029",
+      "title": "Duopography: using back-of-device multi-touch input to manipulate spatial data on mobile tangible interactive topography"
+    },
+    {
+      "paperId": "cf20af36643fe4f83a72a9d4cb8b2a505ec89fdb",
+      "title": "Time-Turner: Data Engagement Through Everyday Objects in the Home"
+    },
+    {
+      "paperId": "a690889c07f409d50a6a2c5f286a7af8e89a7057",
+      "title": "Cairn: A Tangible Apparatus for Situated Data Collection, Visualization and Analysis"
+    },
+    {
+      "paperId": "b22e5f4e0545fb5505d50e7bdd45b32eb43d102b",
+      "title": "Building with Data: Architectural Models as Inspiration for Data Physicalization"
+    },
+    {
+      "paperId": "0c66bd5df371e2668481d189f4822b30ad380607",
+      "title": "Immersive Analytics: Exploring Future Interaction and Visualization Technologies for Data Analytics"
+    },
+    {
+      "paperId": "1c3e9b4f33b4f95973c09122807accbaedba488f",
+      "title": "VISGIS: Dynamic situated visualization for geographic information systems"
+    },
+    {
+      "paperId": "0fddf91a5780a06e2f790796b5ab636422f6f8f6",
+      "title": "Participatory Design of STEM Education AR Experiences for Heterogeneous Student Groups: Exploring Dimensions of Tangibility, Simulation, and Interaction"
+    },
+    {
+      "paperId": "20ff2e5b9bd4fc62319a3aed2755bd606d70c121",
+      "title": "MelissAR: Towards Augmented Visual Analytics of Honey Bee Behaviour"
+    },
+    {
+      "paperId": "6a1d9f54056cbfd2267a5b3618a66a6d8aeea335",
+      "title": "Physikit: Data Engagement Through Physical Ambient Visualizations in the Home"
+    },
+    {
+      "paperId": "38e230800b72b9f32a7c83c03fec890301b1df83",
+      "title": "'A Farmer, a Place and at least 20 Members': The Development of Artifact Ecologies in Volunteer-based Communities"
+    },
+    {
+      "paperId": "441d1275a70c0ae479cf4923dc4ab326150ebb9f",
+      "title": "Visualising things. Perspectives on how to make things public through visualisation"
+    },
+    {
+      "paperId": "9800d4ed7837de75f43480f80b35f5973a45cf1f",
+      "title": "The Role of Tangible Interaction in Exploring Information on Public Visualization Displays"
+    },
+    {
+      "paperId": "e03e152b9950404cb375d9614cdf18d942e27391",
+      "title": "\"Everyone Is Talking about It!\": A Distributed Approach to Urban Voting Technology and Visualisations"
+    },
+    {
+      "paperId": "0756ccde47374f4e27c49bdf42cbfd4e13f2280d",
+      "title": "Opportunities and Challenges for Data Physicalization"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "c8d8d8fddd097bf04892b6b3d2914a4a0ca18bd3",
+      "title": "The big hole in HCI research"
+    },
+    {
+      "paperId": "bd97bcc22b3c36bbef9344054515a42893bb8089",
+      "title": "VoxBox: A Tangible Machine that Gathers Opinions from the Public at Events"
+    },
+    {
+      "paperId": "fe60077ccc2c0aadae6431d0da04dab0a3eeeff9",
+      "title": "Public visualization displays of citizen data: Design, impact and implications"
+    },
+    {
+      "paperId": "7408aacbe8ac9d826599e1a0e39018db4cd5818f",
+      "title": "Visualization beyond the Desktop--the Next Big Thing"
+    },
+    {
+      "paperId": "0812e2ef04122fb5b0e5db1f7d66e5469e69af48",
+      "title": "Smart Vidente: advances in mobile augmented reality for interactive visualization of underground infrastructure"
+    },
+    {
+      "paperId": "bb17b6ae36a12ba5155fa4c7cc563fdcd355cfe2",
+      "title": "Wild at Home: The Neighborhood as a Living Laboratory for HCI"
+    },
+    {
+      "paperId": "f31f1c7e6903daa166e0a1235c3fdd125530c4e8",
+      "title": "Street infographics: raising awareness of local issues through a situated urban visualization"
+    },
+    {
+      "paperId": "f2ef68a12fbf5010356692cb0962e33027e5e013",
+      "title": "Ubiquitous Analytics: Interacting with Big Data Anywhere, Anytime"
+    },
+    {
+      "paperId": "cf103674c919fb36b4cbbe78430a84db550843f2",
+      "title": "Informing the design of situated glyphs for a care facility"
+    },
+    {
+      "paperId": "c5dc9d97b968a4ea09fd4f2c405631c2ad0798bd",
+      "title": "Designing for the Situated and Public Visualization of Urban Data"
+    },
+    {
+      "paperId": "14649bc7a45078da2a72a0c3995e7a2a38b7123e",
+      "title": "Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback"
+    },
+    {
+      "paperId": "631a389f3ed1f584e874ef4f2fd72d6268b6caea",
+      "title": "Exploring the Design Space for Situated Glyphs to Support Dynamic Work Environments"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "5d6382267bf382b1b48b08f30db325e5d128cbd2",
+      "title": "Visualising Environmental Corrosion in Outdoor Augmented Reality"
+    },
+    {
+      "paperId": "42346b4266135637621e370ca59dbe9c24be5b20",
+      "title": "Executive Pay Regulation: What Regulators, Shareholders, and Managers Can Learn from Major Sports Leagues"
+    },
+    {
+      "paperId": "82ee6442f78cdeeb15410df4ed1ebfe7da8379c8",
+      "title": "Interaction and presentation techniques for shake menus in tangible augmented reality"
+    },
+    {
+      "paperId": "44c9f67c40a6abfdb80b5cdda6de8fe7c939dd4a",
+      "title": "SiteLens: situated visualization techniques for urban site visits"
+    },
+    {
+      "paperId": "35a1ecf54f6e097fc81d2e10ec1c8ca149f8d6b8",
+      "title": "Research in the wild"
+    },
+    {
+      "paperId": "03832f4229107297e366b47afa230683391a026c",
+      "title": "Enhancing the Shopping Experience with Ambient Displays: A Field Study in a Retail Store"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "1e9d015efd168db09467a9fb6017e8c0b53d1e41",
+      "title": "An Operational Definition of Context"
+    },
+    {
+      "paperId": "d19ed15d679b2991a2451cc64e804d2f4f5b0d5c",
+      "title": "Towards a Model of Information Aesthetics in Information Visualization"
+    },
+    {
+      "paperId": "236a325be8d15b77a92d6d233532e4c80cf2ee26",
+      "title": "Re-space-ing place: \"place\" and \"space\" ten years on"
+    },
+    {
+      "paperId": "069d63cd6d9a8d6a68df2949e1904bdea48c88c6",
+      "title": "Virtual Vouchers: Prototyping a Mobile Augmented Reality User Interface for Botanical Species Identification"
+    },
+    {
+      "paperId": "36ef991d07f5a60e5f93f9744a353a798aaa3dc3",
+      "title": "Descriptive and interpretive approaches to qualitative research"
+    },
+    {
+      "paperId": "51e27855f5ee549012e64088eddc861d0d83080e",
+      "title": "Personalized Peripheral Information Awareness Through Information Art"
+    },
+    {
+      "paperId": "7c38c626be2a0f9049b4d516e156a06b0afffb30",
+      "title": "What we talk about when we talk about context"
+    },
+    {
+      "paperId": "f76d9d7f774f1a758585888a5d3037c27be83e47",
+      "title": "Context as a Dynamic Construct"
+    },
+    {
+      "paperId": "f082ca22f37f33c56e4ebc3a9870c59f43021e6c",
+      "title": "Virtually living together"
+    },
+    {
+      "paperId": "36a28d49705589741c2b12ba71ccdbc23b0de49b",
+      "title": "Informative art: using amplified artworks as information displays"
+    },
+    {
+      "paperId": "3cd0b6a48b14f86ed261240f30113a41bacd2255",
+      "title": "There is more to context than location"
+    },
+    {
+      "paperId": "54443021bdc5f11587ecf4406b53835e53a030c9",
+      "title": "Situated documentaries: embedding multimedia presentations in the real world"
+    },
+    {
+      "paperId": "6e3044d941d4953c350e2b08737e5abdbf6e4bbe",
+      "title": "Ambient Displays: Turning Architectural Space into an Interface between People and Digital Information"
+    },
+    {
+      "paperId": "dc9404cb021d7f859271de89aec145dd8b0fee87",
+      "title": "A touring machine: Prototyping 3D mobile augmented reality systems for exploring the urban environment"
+    },
+    {
+      "paperId": "e3db72134d7fd5b5a054f78c72f389c676c4c6f8",
+      "title": "Re-place-ing space: the roles of place and space in collaborative systems"
+    },
+    {
+      "paperId": "6a15ac1f0842838a906fa7770cfe79d7b8771a24",
+      "title": "Situated information spaces and spatially aware palmtop computers"
+    },
+    {
+      "paperId": "77dc0191ec59b1ce67c54af49c5e346c4e7235b1",
+      "title": "Through the Interface: A Human Activity Approach To User Interface Design"
+    },
+    {
+      "paperId": "5416463537f8c6be1199951b4fd6f8d5dae14920",
+      "title": "Plans and Situated Actions: The Problem of Human-Machine Communication (Learning in Doing: Social,"
+    },
+    {
+      "paperId": "2f81ca4d64c3fc3576489f67768128df94e39b1d",
+      "title": "Responsive environments"
+    },
+    {
+      "paperId": null,
+      "title": "CAIRN: A Tangi-ble Research Tool To Materially Visualize Practices in a Makerspace"
+    },
+    {
+      "paperId": "391d1fdd16ed36ebd650f0fb0a851945eceee894",
+      "title": "Situated Analytics"
+    },
+    {
+      "paperId": "e16b4067eed3d2bd7c28518ded0177593eafc425",
+      "title": "Embedded Data Representations"
+    },
+    {
+      "paperId": null,
+      "title": "Toward Place-Centric Computing: Making Place With Technology Together"
+    },
+    {
+      "paperId": "6814593607f7228f928a5f80fd0eec7929b8748b",
+      "title": "The Spectrum Of Social Time"
+    },
+    {
+      "paperId": null,
+      "title": "Tools with Augmented Reality"
+    },
+    {
+      "paperId": "7b5c974daee1608ffb51ba4af03809e7474256a2",
+      "title": "Dimensions of Situatedness for Digital Public Displays"
+    },
+    {
+      "paperId": "5487bf46b300fda81554fbb5857a80a31d591f97",
+      "title": "The Computer for the 21st Century (1991)"
+    },
+    {
+      "paperId": null,
+      "title": "Newton\u2019s Views on Space, Time, and Motion"
+    },
+    {
+      "paperId": "9c0493378461f5c420b730aece4f134a77f4a0fc",
+      "title": "Visualization Techniques for Augmented Reality"
+    },
+    {
+      "paperId": "d6f49dacedd562f5130d8fb1a9e30fda2c6a56d4",
+      "title": "Proxemic interactions: the new ubicomp?"
+    },
+    {
+      "paperId": "4712fb45903920de3f351fbdde16092a221c944a",
+      "title": "The Pulse of Tidy Street : Measuring and Publicly Displaying Domestic Electricity Consumption"
+    },
+    {
+      "paperId": null,
+      "title": "Technology first, needs last"
+    },
+    {
+      "paperId": "26aa69c2d9fe24e5f0228757ee582bb671f515e5",
+      "title": "Activity Theory"
+    },
+    {
+      "paperId": "a31f0669b5a4c35fb2e397de7fd61870c5f97bb6",
+      "title": "Space, Place and the Design of Technologically-Enhanced Physical Environments"
+    },
+    {
+      "paperId": "04ef88dec8fb0d77c107d4dce99db7a5719b93ee",
+      "title": "Hello.Wall - Beyond Ambient Displays"
+    },
+    {
+      "paperId": "ef1ab1dbdfe1110696ca0662e17a11ca93394866",
+      "title": "From Conceptual Links to Causal Relations - Physical-Virtual Artefacts in Mixed-Reality Space"
+    },
+    {
+      "paperId": "e966db67b96d2082625d72588584a025c6538322",
+      "title": "The Locales Framework - Understanding and Designing for Wicked Problems"
+    },
+    {
+      "paperId": "a8d2db8a5b25b778f45de1b44ffe6569efe99324",
+      "title": "Computer for the 21st Century"
+    },
+    {
+      "paperId": "0c7f819787a813decacb444e68919e99d71db70e",
+      "title": "Space and Place: Humanistic Perspective"
+    },
+    {
+      "paperId": null,
+      "title": "Augmented Reality: Principles and"
+    }
+  ]
+}
