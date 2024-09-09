@@ -43,4 +43,10 @@ jobs:
       run: |
         pwd
         mkdir posts
-        python scripts/createPaperPosts.py 
+        python scripts/createPaperPosts.py
+    - name: Archive posts
+      uses: actions/upload-artifact@v4
+      with:
+        name: posts
+        path: posts
+        
