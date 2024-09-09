@@ -43,6 +43,7 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
     - name: Create paper posts
+      uses: actions/checkout@v4
       run: |
         pwd
         mkdir posts
