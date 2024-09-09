@@ -8,6 +8,7 @@
 {%- include functions.html func='get_article_excerpt' -%}
 {%- assign article_excerpt = return -%}
 {%- assign post_url = post.url | relative_url -%}
+{%- assign post_doi = "https://doi.org/" | append: post.doi -%}
 
 {%- assign name = 'excerpt.image_width' -%}
 {%- include functions.html func='get_value' -%}
@@ -29,7 +30,7 @@
 
 <li class="post-item {{ post_item_class }}">
   <h2 class="post-title">
-    <a class="post-link" href="{{ post_url }}">
+    <a class="post-link" href="{{ post_doi }}">
       {{ post.title | escape }}
       {%- include views/post-badges.html -%}
     </a>
@@ -42,6 +43,7 @@
     {%- if post.venue -%}
     <span class="post-author left-vsplit"><i class="fa fa-book"></i> {{ post.venue | escape }}</span>
     {%- endif -%}
+    <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ <post class="doi"></post> | escape }}</span>
   </div>
   <div class="post-excerpt">
     {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
@@ -49,7 +51,7 @@
       <div style="background-image: url({{ post_image | relative_url }}); height: {{ image_height }}"></div>
     </a>
     {%- endif -%}
-    <a class="post-text" href="{{ post_url }}">
+    <a class="post-text" href="{{ post_doi }}">
       {%- if article_excerpt -%}
         <p>{{ article_excerpt }}</p>
       {%- else -%}
