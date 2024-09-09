@@ -1,0 +1,213 @@
+{
+  "paperId": "cc08de0d72c8c92473e793002686ca793a22d112",
+  "externalIds": {
+    "DBLP": "conf/vissym/KerracherKCG15",
+    "MAG": "1920857666",
+    "DOI": "10.2312/eurovisshort.20151133",
+    "CorpusId": 51953217
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/cc08de0d72c8c92473e793002686ca793a22d112",
+  "title": "Visual Techniques to Support Exploratory Analysis of Temporal Graph Data",
+  "abstract": "Recently, much research has focused on developing techniques for the visual representation of temporal graph data. This paper takes a wider look at the visual techniques involved in exploratory analysis of such data, considering the variety of sub tasks and contextual tasks required to understand change in a graph over time, and the visual techniques which are able to support these tasks. In so doing, we highlight a number of tasks which are less well supported by existing techniques, which could prove worthwhile avenues for future research.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2015,
+  "referenceCount": 36,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2015-05-24",
+  "journal": {
+    "pages": "103-107"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kerracher2015VisualTT,\n author = {Natalie Kerracher and J. Kennedy and K. Chalmers and Martin Graham},\n booktitle = {Eurographics Conference on Visualization},\n pages = {103-107},\n title = {Visual Techniques to Support Exploratory Analysis of Temporal Graph Data},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3051911",
+      "name": "Natalie Kerracher"
+    },
+    {
+      "authorId": "1977511",
+      "name": "J. Kennedy"
+    },
+    {
+      "authorId": "34207575",
+      "name": "K. Chalmers"
+    },
+    {
+      "authorId": "145510928",
+      "name": "Martin Graham"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "639cf31eae7a8c621990ccbfc71bbdf3b6cb483e",
+      "title": "A Task Taxonomy for Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "0597cacd8dba0660b4a5197cf19d21de633cb945",
+      "title": "LinkWave: a visual adjacency list for dynamic weighted networks"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "21256c969d3807e358b1220f33b8721ec5828f1b",
+      "title": "Visualizing dynamic networks with matrix cubes"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "88855928aaadcd43365fd7ea21bcf762beedf984",
+      "title": "Motif simplification: improving network visualization readability with fan, connector, and clique glyphs"
+    },
+    {
+      "paperId": "fbe5066f9c451d84e753494fe085e9d454a2b4ff",
+      "title": "Interactive Network Exploration to Derive Insights: Filtering, Clustering, Grouping, and Simplification"
+    },
+    {
+      "paperId": "ac4cc9e2eb93d4da7655069312f5f7ffd47d8943",
+      "title": "Comparative Evaluation of an Interactive Time\u2010Series Visualization that Combines Quantitative Data with Qualitative Abstractions"
+    },
+    {
+      "paperId": "a2770e709dae6db6622f74cac6c90e883df30956",
+      "title": "Vertigo zoom: combining relational and temporal perspectives on dynamic networks"
+    },
+    {
+      "paperId": "cf9b4048f1945e3b9703bc128284f6e6b30de70d",
+      "title": "Interactive graph matching and visual comparison of graphs and clustered graphs"
+    },
+    {
+      "paperId": "8ee551c47b26834fe493a12145e222ceadc1c59a",
+      "title": "NetVisia: Heat Map & Matrix Visualization of Dynamic Social Network Statistics & Content"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "0e8324c218b4b549f050d21b794e42b59ad423f2",
+      "title": "The effect of animation, dual view, difference layers, and relative re-layout in hierarchical diagram differencing"
+    },
+    {
+      "paperId": "f26be70934c46adcb60e16c94cd015e0442e0dcd",
+      "title": "Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors"
+    },
+    {
+      "paperId": "8a6e89f74bc7848e662c3a25d2c797a6ffa6fda8",
+      "title": "Exploring temporal ego networks using small multiples and tree-ring layouts"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "d73cc5140ab20474f11caab348e4c4090dcb7c49",
+      "title": "An Interactive Visualization Framework for Time-Series of Web Graphs in a 3D Environment"
+    },
+    {
+      "paperId": "0e76830e9ab3848994f0fb188a55a1bb48075f85",
+      "title": "Dynamic animations of journal maps: Indicators of structural changes and interdisciplinary developments"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "7472c904447935a896f112b2d60d3edca3cc10ae",
+      "title": "Mapping Text with Phrase Nets"
+    },
+    {
+      "paperId": "12476cecfa5d4d79acd10da70038ac6eb2223a9a",
+      "title": "Multiform Views of Multiple Trees"
+    },
+    {
+      "paperId": "c2d94b59b0a1eb53f498f0f51b487c9a7f692fb2",
+      "title": "As time goes by: integrated visualization and analysis of dynamic networks"
+    },
+    {
+      "paperId": "3d97d0ef6058950be579df25f1cfe7bcaa55384b",
+      "title": "A dual-view approach to interactive network visualization"
+    },
+    {
+      "paperId": "63549b77855429ee5300d891b1fa3d911c6b8fdf",
+      "title": "Visualizing Changes of Hierarchical Data using Treemaps"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "54c9911a37e11fb1239e7ea857f966777f09d1ed",
+      "title": "Visualization of graphs with associated timeseries data"
+    },
+    {
+      "paperId": "7dfe36249ed1e1897d0bcb55f3622c98052f0aec",
+      "title": "Understanding research trends in conferences using paperLens"
+    },
+    {
+      "paperId": "e26f4028e79f00cb90ef748eef54a666892ebb48",
+      "title": "Dynamic Query Tools for Time Series Data Sets: Timebox Widgets for Interactive Exploration"
+    },
+    {
+      "paperId": "dfab8a68d29bb0d9da9bdb4d60bb1393fe684c62",
+      "title": "GraphAEL: Graph Animations with Evolving Layouts"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "40e9d6939e54b230038ba164cd58dd18d820a8a4",
+      "title": "The Design Space of Temporal Graph Visualisation"
+    },
+    {
+      "paperId": "a4db7fdb7224456e98bd41b6803b5fb29296ec01",
+      "title": "The State of the Art in Visualizing Dynamic Graphs"
+    },
+    {
+      "paperId": "f442d73d3ea5640958f3f22757af5f3fa132d040",
+      "title": "MatrixFlow: Temporal Network Visual Analytics to Track Symptom Evolution during Disease Progression"
+    },
+    {
+      "paperId": "7fe921788409ff44a65a159983a8de2a35ab4246",
+      "title": "Visualizing the Republic of Letters"
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "paperId": "6be907f96e046f89824a7ff775d47e86efb97b6b",
+  "externalIds": {
+    "MAG": "791098265",
+    "DOI": "10.2139/ssrn.2438194",
+    "CorpusId": 152512809
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6be907f96e046f89824a7ff775d47e86efb97b6b",
+  "title": "The Application of Visual Analytics to Financial Stability Monitoring",
+  "abstract": "This paper provides an overview of visual analytics\u2014the science of analytical reasoning enhanced by interactive visualizations tightly coupled with data analytics software\u2014and discusses its potential benefits in monitoring systemic financial stability. The core strength of visual analytics is to combine visualization's high-bandwidth information channel to the human analyst with the flexibility and power of rapid-iteration analytics. This combination is especially valuable in the context of macroprudential supervision, which is increasingly dominated by large volumes of dynamic and heterogeneous data. Our contribution is to describe and categorize the analytical challenges faced by macroprudential supervisors, and to indicate where and how visual analytics can increase supervisors\u2019 comprehension of the data stream, helping to transform it into actionable knowledge to support informed decision- and policy-making. The paper concludes with suggestions for a research agenda.",
+  "venue": "",
+  "year": 2015,
+  "referenceCount": 171,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Economics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "publicationDate": "2015-07-30",
+  "journal": {
+    "name": "ERN: Comparative or Joint Analysis of Fiscal & Monetary Policy; Stabilization (Topic)"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Flood2015TheAO,\n author = {M. Flood and V. Lemieux and Rebecca Mccaughrin and A. Milne and Trish Mosser and M. Paddrik and Peter Sarlin},\n journal = {ERN: Comparative or Joint Analysis of Fiscal & Monetary Policy; Stabilization (Topic)},\n title = {The Application of Visual Analytics to Financial Stability Monitoring},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "40060618",
+      "name": "M. Flood"
+    },
+    {
+      "authorId": "23729214",
+      "name": "V. Lemieux"
+    },
+    {
+      "authorId": "119243808",
+      "name": "Rebecca Mccaughrin"
+    },
+    {
+      "authorId": "143723293",
+      "name": "A. Milne"
+    },
+    {
+      "authorId": "2223923526",
+      "name": "Trish Mosser"
+    },
+    {
+      "authorId": "2305280",
+      "name": "M. Paddrik"
+    },
+    {
+      "authorId": "2124158",
+      "name": "Peter Sarlin"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e7f937051c555f79887470bb674da4750a3aa482",
+      "title": "FROM SENSEMAKING IN ORGANIZATIONS"
+    },
+    {
+      "paperId": "1d809449382bca48b101b4fcb1e4bc6f3c5d4665",
+      "title": "Resolution of Policy Uncertainty and Sudden Declines in Volatility"
+    },
+    {
+      "paperId": "0c9d9fe78738af1ac857fbe20dbb3f31e1124161",
+      "title": "Analytic Provenance for Sensemaking: A Research Agenda"
+    },
+    {
+      "paperId": "626ae234a4f83bc343d212c6aabbf76d67466e0e",
+      "title": "Mapping change in the overnight money market"
+    },
+    {
+      "paperId": "8d4039c2e3d62ddb4e36c637c4e4eb34ee6406ac",
+      "title": "Teaching Information Aesthetics as a Research Class in China"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "2f2961362355e45fa014ca0bb8ce4495aedf8824",
+      "title": "Thinking fast and slow."
+    },
+    {
+      "paperId": "dbcceadfafd8b54c459fcba43fc5067f46af7b63",
+      "title": "The Global Network of Payment Flows"
+    },
+    {
+      "paperId": "8de9ecbcc09c752e533e02339f53d536c5b5c4f2",
+      "title": "SchemaLine: Timeline Visualization for Sensemaking"
+    },
+    {
+      "paperId": "f38ab72702e762926f3546988e10d39a2a9cee0b",
+      "title": "Bank networks from text: interrelations, centrality and determinants"
+    },
+    {
+      "paperId": "197a5063f16a002c9da1e0c77bb47d7be1c6d3e5",
+      "title": "Clustering Techniques And their Effect on Portfolio Formation and Risk Analysis"
+    },
+    {
+      "paperId": "e443d64d897e8b71751094f6271f4361f42f581a",
+      "title": "Visual Analytics for Network-Based Market Surveillance"
+    },
+    {
+      "paperId": "87c915e305e43c515b636c592a79b833763e80ba",
+      "title": "From Ill-defined Problems to Informed Decisions"
+    },
+    {
+      "paperId": "8e13f9794d7a970944482921a4f80a8d89ad051a",
+      "title": "Mapping Financial Stability"
+    },
+    {
+      "paperId": "9bfc7be2282f7d4ddd1a9db0592f45a8bd3fdc33",
+      "title": "Macroprudential Oversight, Risk Communication and Visualization"
+    },
+    {
+      "paperId": "c9ae449f3d9d5def82b74b5442b01769cd8831f8",
+      "title": "Dynamic Visualization of Large Transaction Networks: The Daily Dutch Overnight Money Market"
+    },
+    {
+      "paperId": "83ffc9892e4e49da7f5291addeba0cda4be6ecc5",
+      "title": "An Economist's Guide to Visualizing Data"
+    },
+    {
+      "paperId": "b27f817abeb20cfb4b9f65b7b162d1baedcd55c3",
+      "title": "An Extensible Framework for Provenance in Human Terrain Visual Analytics"
+    },
+    {
+      "paperId": "f060fcfc97889231853889ff2b955345b00bf7de",
+      "title": "Cryptography and the Economics of Supervisory Information: Balancing Transparency and Confidentiality"
+    },
+    {
+      "paperId": "4f7fd2468c9239c9cb697c0d12d77b6ab7f6647e",
+      "title": "Visualization Mosaics for Multivariate Visual Exploration"
+    },
+    {
+      "paperId": "fd2d4be0425683654bfb372a6b36668bb6c60ddc",
+      "title": "The Global Legal Entity Identifier System: Will It Deliver?"
+    },
+    {
+      "paperId": "ffe17c4a8be49b4b164617b9e8eaf53b58f908c8",
+      "title": "Small molecule drug screening in Drosophila identifies the 5HT2A receptor as a feeding modulation target"
+    },
+    {
+      "paperId": "b7c895d487c60290420a70502fe142c43014b5e6",
+      "title": "Big-Data Visualization"
+    },
+    {
+      "paperId": "e36f4e7ec7498028231b578dc3a6000e2284ae3a",
+      "title": "Customizing Computational Methods for Visual Analytics with Big Data"
+    },
+    {
+      "paperId": "95fcc09bbfab9b15ccf372d967026ca7234b48ad",
+      "title": "Systemic risk analytics: A data-driven multi-agent financial network (MAFN) approach"
+    },
+    {
+      "paperId": "a85a5d20a42f624e81db5a8f9cb447051f52fbe6",
+      "title": "Exploiting the self-organizing financial stability map"
+    },
+    {
+      "paperId": "ea4d2e58da6fa48b9fddebbafc8052edf3278484",
+      "title": "What Do We Know About High-Frequency Trading?"
+    },
+    {
+      "paperId": "a5878f0d3ca7be427c4e533ba234c432b99d60da",
+      "title": "SnapShot: Visualization to Propel Ice Hockey Analytics"
+    },
+    {
+      "paperId": "e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+      "title": "Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems"
+    },
+    {
+      "paperId": "d85c03e7d33ac7be4588da33ac167435ff221ace",
+      "title": "Governance and Control of Financial Systems: A Resilience Engineering Perspective"
+    },
+    {
+      "paperId": "ec14f370537801b0af441a528f142d59125a2ba9",
+      "title": "\u201cWithout the clutter of unimportant words\u201d: Descriptive keyphrases for text visualization"
+    },
+    {
+      "paperId": "b910f07d9ddeb57b5f53fe611e7a933aa24e727b",
+      "title": "The Cambridge Handbook of Cognitive Science"
+    },
+    {
+      "paperId": "4298e8b6983e2592a6710936aef67e831f1659f6",
+      "title": "ClustNails: Visual Analysis of Subspace Clusters"
+    },
+    {
+      "paperId": "c9d8cbb3346bf775e778c69e5d54362b3ad20a3b",
+      "title": "RiskVA: A visual analytics system for consumer credit risk analysis"
+    },
+    {
+      "paperId": "391eeb0c5549c7519c95c02ecac5f5da9d2b5e2e",
+      "title": "Hive plots - rational approach to visualizing networks"
+    },
+    {
+      "paperId": "8defabb9be622d66458961c2d1c41ced57c82c68",
+      "title": "Interconnectedness and the importance of international data-sharing"
+    },
+    {
+      "paperId": "09e6482e80e594b52bef458e0dbe9a26cd02259c",
+      "title": "Reasoning and decision making"
+    },
+    {
+      "paperId": "f779b16ed70ea77792824673ba688bf8e54285c8",
+      "title": "Monitoring Financial Stability in a Complex World"
+    },
+    {
+      "paperId": "5228fcf5d6f4ed4937e16d21b5a286e4662e6c26",
+      "title": "How Effective Were the Federal Reserve Emergency Liquidity Facilities? Evidence from the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "56c569beddfd96bc0729bbb9d6f2629065b11419",
+      "title": "A Survey of Systemic Risk Analytics"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "9dcd13ef4cf2809d7d0de4553d23132bd9b26ccd",
+      "title": "Econometric Measures of Connectedness and Systemic Risk in the Finance and Insurance Sectors"
+    },
+    {
+      "paperId": "398aef517d59f7b2124656c852f37e27f0735a32",
+      "title": "Group-in-a-Box Layout for Multi-faceted Analysis of Communities"
+    },
+    {
+      "paperId": "25d7e12856314fea1d3a0fa30619df56695bc702",
+      "title": "Political Uncertainty and Risk Premia"
+    },
+    {
+      "paperId": "06f481afe2aa252d9fc7b0536d7caa340df27cfe",
+      "title": "Mapping the State of Financial Stability"
+    },
+    {
+      "paperId": "4472f4dc991699084c1257f74dc80e787c933e1b",
+      "title": "Display and Interface Design: Subtle Science, Exact Art"
+    },
+    {
+      "paperId": "4faeb41178dc530fa580107a7dd97476da81fda0",
+      "title": "Changing the Equation on Scientific Data Visualization"
+    },
+    {
+      "paperId": "8ad739608f8e99c29177226dd35a2e97fa403a70",
+      "title": "Knowledge Representation and Information Management for Financial Risk Management: Report of a Workshop"
+    },
+    {
+      "paperId": "0c0d51a447fea9a75e01588e8afc299e2099c8ca",
+      "title": "Econometric Measures of Systemic Risk in the Finance and Insurance Sectors"
+    },
+    {
+      "paperId": "b24771a4a088f19a1394fcc12fe8c230868b31d4",
+      "title": "Midas: integrating public financial data"
+    },
+    {
+      "paperId": "fc635202d2aeda03333fb6ba6d17d177c8bfec76",
+      "title": "Contract, Race, and Freedom of Labor in the Constitutional Law of \"Involuntary Servitude\""
+    },
+    {
+      "paperId": "53b65dbcceb68f10166e9fef6ae75101bef378fe",
+      "title": "Beautiful Visualization - Looking at Data Through the Eyes of Experts"
+    },
+    {
+      "paperId": "ff201468ee91d59f38d60c81d709f6753a92dcc6",
+      "title": "Measuring Systemic Risk"
+    },
+    {
+      "paperId": "e0864f2c825bf99e64e3a55f7bdc2bbc31eeab74",
+      "title": "The Geographical Composition of National External Balance Sheets: 1980-2005"
+    },
+    {
+      "paperId": "d64a0840bea331caf9b1a61611b8eb8d15ec4f9f",
+      "title": "Consumer Credit Risk Models Via Machine-Learning Algorithms"
+    },
+    {
+      "paperId": "c33768076a3080782d8084f512ef7ab191fb3de8",
+      "title": "Visualization of network structure by the application of hypernodes"
+    },
+    {
+      "paperId": "d9a926065216ad1297e343712e0560b2193ed05c",
+      "title": "The \"Other\" Imbalance and the Financial Crisis"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "184565b0d20f3dc8b6f3f948a00c135c38074794",
+      "title": "Capturing and supporting the analysis process"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "241fd8faa13d5d51a084cd427609a03b0084845c",
+      "title": "Unified Financial Analysis: The Missing Links of Finance"
+    },
+    {
+      "paperId": "fab8714fd62986b7172527761a95d5a6760fa2eb",
+      "title": "Liquidity Biases in TRACE"
+    },
+    {
+      "paperId": "8440f7d0811ada6c3f0a0025b27a8fc3e6675faa",
+      "title": "The knowledge pyramid: a critique of the DIKW hierarchy"
+    },
+    {
+      "paperId": "34fe44112e4b0b871274c0d13698726169213789",
+      "title": "Proposing a Place for Politics in Arbitrary and Capricious Review"
+    },
+    {
+      "paperId": "96c62c5ed16294408843a151895cd1e98a09ff7d",
+      "title": "Did Securitization Lead to Lax Screening? Evidence from Subprime Loans"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "507ed3c3ff46e651ed57b394c9d723fc449822e9",
+      "title": "Design Considerations for Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "960555093afd78a2219dc6e79ee0f3eae5dfdf05",
+      "title": "The Impact of Uncertainty Shocks"
+    },
+    {
+      "paperId": "f6a1ad573b2f35594b44f7d5d8d414f3a14c7fb5",
+      "title": "\"I Don't Know What's Going on There\": The Use of Spatial Transformations to Deal With and Resolve Uncertainty in Complex Visualizations"
+    },
+    {
+      "paperId": "bdf94027d5410b211411157ad7aacfca05aea53d",
+      "title": "The wisdom hierarchy: representations of the DIKW hierarchy"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "fd6953bb4c9689f48951836da721091e8b7c3304",
+      "title": "Making Sense of Sensemaking 1: Alternative Perspectives"
+    },
+    {
+      "paperId": "0884cca990fdc502cb5465e968ec4d86768a8941",
+      "title": "The Information Content of FOMC Minutes"
+    },
+    {
+      "paperId": "b06593d897dbede7d46e7e8a7e9d54fea74382f5",
+      "title": "Joint Cognitive Systems"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "586b8c849c51a1d241a9fc22b12d30f3777f9902",
+      "title": "Ecological Interface Design"
+    },
+    {
+      "paperId": "c767312a58fb591ed52fda77ccbe409dac70b2c5",
+      "title": "Hydro Scheme Control in a Deregulated Environment: Cognitive Work Models and Design Implications"
+    },
+    {
+      "paperId": "067a68ea14e5e37d758ef3287faf1f303c0f6ac4",
+      "title": "Toward an Understanding of Cognitive Consensus in a Group Decision-Making Context"
+    },
+    {
+      "paperId": "7959b2974c2c32e5f627b784fd2427a8df1da697",
+      "title": "Social Representations of Multiculturalism: A Faceted Analysis"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "23b7ac33fd679d43b3a7df16c68862dfc7d303af",
+      "title": "Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work"
+    },
+    {
+      "paperId": "3b755990708e25de2f84eed2b8072165c5ceb94d",
+      "title": "Designing the User Interface: Strategies for Effective Human-Computer Interaction"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "230ba32db2837515058273156d9c625662fc1052",
+      "title": "Cognitive systems engineering"
+    },
+    {
+      "paperId": "bfde5190c5300e8b9b1c370efa8de96390144f96",
+      "title": "The cost structure of sensemaking"
+    },
+    {
+      "paperId": "6fe69aef353cd861a1b954735d2110e1335eb081",
+      "title": "Ecological interface design: theoretical foundations"
+    },
+    {
+      "paperId": "b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7",
+      "title": "Why a Diagram is (Sometimes) Worth Ten Thousand Words"
+    },
+    {
+      "paperId": "77f3da5da09923ad44e225f75c0aa6b5e946d534",
+      "title": "Preattentive processing in vision"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "e43e209aad19be9d36eaf8319e96d2a666a70d4e",
+      "title": "Cognitive Systems Engineering: New Wine in New Bottles"
+    },
+    {
+      "paperId": "c6c8aa7014ff96c5dc022bba44e5e3dfabb5b1ac",
+      "title": "A History and Overview of the Safety Parameter Display System Concept"
+    },
+    {
+      "paperId": "a7a052a4c00b1a911b83861569f1b7553b4fbca9",
+      "title": "Information Dashboard Design The Effective Visual Communication Of Data"
+    },
+    {
+      "paperId": "4aa7c4ced57e04e3c48c3306a0c4c77d39cf0248",
+      "title": "Systems Engineering And Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cRecessions & Recoveries,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "b) Systemic Interconnectedness: Because patterns in financial instability frequently emerge via the propagation of credit losses or withdrawal of liquidity support,"
+    },
+    {
+      "paperId": null,
+      "title": "Financial Stability Monitor"
+    },
+    {
+      "paperId": null,
+      "title": "c) Accumulating Imbalances over Time: Because large-scale exposures typically build up gradually, it is natural to track selected signals over time"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe Role of Visual Network Analysis in monitoring Systemic Risk in the Credit Default Swaps Market,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Data Visualisation Competition --Are you a Viz Whizz"
+    },
+    {
+      "paperId": null,
+      "title": "Three centuries of macroeconomic data"
+    },
+    {
+      "paperId": "7d05be2eeda1dc504674081c207399b137d85e19",
+      "title": "Methods in biomedical informatics : a pragmatic approach"
+    },
+    {
+      "paperId": "f10c4ed860dd123a6d41c3c4500148919082bb4f",
+      "title": "Handbook of Financial Data and Risk Information II: The visual analysis of financial data"
+    },
+    {
+      "paperId": "59f43197bb3ffb7d28ac785f9368fbea3c536054",
+      "title": "Handbook of Financial Data and Risk Information I: Banking and financial activities in the real economy"
+    },
+    {
+      "paperId": "ba666f4f41310a27bc47576f57394a0a563dcc5c",
+      "title": "Handbook of Financial Data and Risk Information II: US residential-mortgage transfer systems: a data-management crisis"
+    },
+    {
+      "paperId": null,
+      "title": "The Handbook of Financial Data and Risk Information"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Data Analysis in the Regulation of Financial Systemic Risk, working paper, Office of Financial Research"
+    },
+    {
+      "paperId": null,
+      "title": "The visual analysis of financial data The Handbook of Financial Data and Risk Information: Volume 2: Software and Data"
+    },
+    {
+      "paperId": null,
+      "title": "TimeSets: A Visualisation with Set Relations, \" working paper, Middlesex U"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualization of Cyber Situation Awareness"
+    },
+    {
+      "paperId": null,
+      "title": "Mining of Massive Datasets, manuscript, Stanford U"
+    },
+    {
+      "paperId": null,
+      "title": "Annex F \u2013 Hypernode,\u201d Final Report of Task Group IST085, Interactive Visualization of Network Dynamics, NATO STO-TR-IST-085/RTG41"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cApplying Visual Analytics to the Global Legal Entity Identifier System to Enhance Financial Transparency,\u201d"
+    },
+    {
+      "paperId": "e0fb00322827ae4141b4bd00a2453101911d5424",
+      "title": "Building Accountability for Decision-Making into Cognitive Systems"
+    },
+    {
+      "paperId": "7c46e6e7c46f925a06f93f057bc3078c6dbfbd06",
+      "title": "Information processing in complex networks"
+    },
+    {
+      "paperId": "1af137896324c7bc3305894bb138fb931a64b05b",
+      "title": "Records and Information Management for Financial Analysis and Risk Management"
+    },
+    {
+      "paperId": "01934e1a41a0eb2630451acc91f1b32e5ea6cf76",
+      "title": "The Application of Visual Analytics to Financial Decision-Making and Risk Management: Notes from Behavioural Economics"
+    },
+    {
+      "paperId": "bfe5df49a321f70b4bd84ef1a7193b77bd5eff7a",
+      "title": "The Office on Financial Research and Operational Risk"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cFinancial Services and Risk Management Subcommittee Recommendations, Part 2,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "DataBank Internet resource. http://databank.worldbank.org/data/home.aspx ________ (2013b), \" Data Visualizer Internet resource"
+    },
+    {
+      "paperId": null,
+      "title": "Hypernode Annex F,"
+    },
+    {
+      "paperId": null,
+      "title": "Federal Open Market Committee Internet resource"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cRelative Position Vectors: An Alternative Approach to Conflict Detection in Air Traffic Control,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "IMF Data Mapper Internet resource"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cExtensible Business Reporting Language (XBRL) 2.1: Recommendation 31 December 2003 with errata corrections to 20 February 2013,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "A Fast-and-Dirty Intro to NetworkX (and D3),\" presentation slides"
+    },
+    {
+      "paperId": "ca961aa540819e0783514ab58bbdf035c877df74",
+      "title": "Cognitive Systems Engineering"
+    },
+    {
+      "paperId": "011e6c4107b923fa2d0b266d79ebf82aaed6d612",
+      "title": "Board of Governors of the Federal Reserve"
+    },
+    {
+      "paperId": null,
+      "title": "Managed Currency: The People\u2019s Bank of China balance sheet since 2002,"
+    },
+    {
+      "paperId": null,
+      "title": "General Instructions for the Preparation of the Annual Capital Assessments and Stress Testing Information Collection Internet resource"
+    },
+    {
+      "paperId": null,
+      "title": "(2013c), 99th Annual Report"
+    },
+    {
+      "paperId": null,
+      "title": "MIDAS Market Information Data Analytics System, \" technical report Consolidated Audit Trail: Final Rule"
+    },
+    {
+      "paperId": "4ff1b9147164ddd4dea44abb716b26e459689c60",
+      "title": "Contagion and Systemic Risk in Financial Networks"
+    },
+    {
+      "paperId": null,
+      "title": "EDGAR\u00ae Form N-MFP XML Technical Specification Version 3"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPair analytics: capturing reasoning processes in collaborative VA.\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Macroprudential Policy: An Organizing Framework, \" technical report"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cBasel III: A global regulatory framework for more resilient banks and banking systems,\u201d"
+    },
+    {
+      "paperId": "b955b98ad398d807c1101651fabddf8e2d717921",
+      "title": "Revealing Matrices"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "d4a07cb67e3396a853e7e507d75296ed9584f9a7",
+      "title": "B ANALYTICAL MODELS AND TOOLS FOR THE IDENTIFICATION AND ASSESSMENT OF SYSTEMIC RISKS"
+    },
+    {
+      "paperId": null,
+      "title": "Money Market Fund Reform: Final Rule"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVisualizing the Past of the Treasury Yield Curve, and Deconstructing the Great Confusion Surrounding Its Future,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Findings Regarding the Market Events of May 6, 2010: Report of the Staffs of the CFTC and SEC to the Joint Advisory Committee on Emerging Regulatory Issues"
+    },
+    {
+      "paperId": null,
+      "title": "Visual analytics of data in Worldwide Incidents Tracking System and Alliance Data NATO Workshop on Visualising Networks: Coping with Change and Uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "Understanding and Performance,\u201d Internet resource, Big Dog & Little Dog\u2019s Performance Juxtaposition"
+    },
+    {
+      "paperId": "368088ed32e7a0eb270ce82953daecf542e74f42",
+      "title": "Preliminary and incomplete draft: not for quotation Liquidity Risk, Cash Flow Constraints, and Systemic Feedbacks"
+    },
+    {
+      "paperId": "17c2c4deca1f3743c657961638546ae447590081",
+      "title": "Cognitive task analysis"
+    },
+    {
+      "paperId": null,
+      "title": "The financial crisis and information gaps, \" technical report"
+    },
+    {
+      "paperId": "441e28841222bc3b03238f7938633788a79ac7db",
+      "title": "3D-in-2D Displays for ATC."
+    },
+    {
+      "paperId": "5aa2b637bd0edbbd4e3c79938bc69472d1f639d7",
+      "title": "Working Minds: A Practitioner's Guide to Cognitive Task Analysis"
+    },
+    {
+      "paperId": "65dc36c2592edd2d600273ec543b19e4bdc23719",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request"
+    },
+    {
+      "paperId": "a16edf62d0f1c530208fc75db1b47e4395865336",
+      "title": "Work domain analysis and ecological interface design for hydropower system monitoring and control"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "b503d2a6cd05b8ee129e636e628d102f67e44cfc",
+      "title": "Work Domain Analysis of a Financial System: An Abstraction Hierarchy for Portfolio Management"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe Data, Information, Knowledge, Wisdom Chain: The Metaphorical link,\u201d"
+    },
+    {
+      "paperId": "9b62ff232bc6f89a883c26588cc8729b0e8bd5cc",
+      "title": "The grammar of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Chaos, Order and Sense-making: A Proposed Theory for Information Design,"
+    },
+    {
+      "paperId": "de298a9900e936a77027e6705491d5c0c6aa8897",
+      "title": "BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM"
+    },
+    {
+      "paperId": "3615cf3527779967c9f07f3a98190c315433ecb8",
+      "title": "Cognition in the wild"
+    },
+    {
+      "paperId": "26ac2d4cec6cdcfbda5fb9644bf4c1e41eff8d94",
+      "title": "Office of the Comptroller of the Currency"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "6bd45b118fbc37e64c851f635f8091ebe7595409",
+      "title": "Handbook of Human Computer Interaction"
+    },
+    {
+      "paperId": null,
+      "title": "The Chernobyl errors,"
+    },
+    {
+      "paperId": "6e0758e54281c57d2a1ff15514ef804eef89093e",
+      "title": "Introduction to facet design and analysis"
+    },
+    {
+      "paperId": "b7db2857e72cd588153fb80e9ac53f172b31e685",
+      "title": "Bank suspensions in the United States, 1892-1931"
+    },
+    {
+      "paperId": "d4d8d7556af1f644428b0fc9b4a02216c284e4d8",
+      "title": "Federal Reserve Bank of New York Staff Reports the Topology of Interbank Payment Flows the Topology of Interbank Payment Flows"
+    },
+    {
+      "paperId": null,
+      "title": "Commodity Futures Trading Commission and Securities and Exchange Commission (CFTC/SEC) (2010), Findings Regarding the Market Events of May 6"
+    },
+    {
+      "paperId": null,
+      "title": "Comprehensive Capital Analysis and Review: Assessment Framework and Results"
+    }
+  ]
+}

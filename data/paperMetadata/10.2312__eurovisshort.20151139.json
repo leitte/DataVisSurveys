@@ -1,0 +1,157 @@
+{
+  "paperId": "896b7f32719581bd967bcc67960838a97284f4de",
+  "externalIds": {
+    "MAG": "2255256522",
+    "DBLP": "conf/vissym/SchieweAK15",
+    "DOI": "10.2312/eurovisshort.20151139",
+    "CorpusId": 51956400
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/896b7f32719581bd967bcc67960838a97284f4de",
+  "title": "State of the Art in Mobile Volume Rendering on iOS Devices",
+  "abstract": "The ubiquity of ever-increasing computing power with mobile devices has put last generation desktop-grade hardware in everyone\u2019s palms. Mobile computing hardware is rapidly approaching today\u2019s desktop-grade hardware capabilities enabling applications of advanced rendering algorithms to previously untouched environments such as medical care. Recent developments in graphics APIs have introduced novel low-level APIs such as AMD\u2019s Mantle API for desktops and Apple\u2019s Metal API for mobile hardware. Microsoft\u2019s DirectX 12 and the OpenGL successor Vulkan will be available in the near future. AAA game titles were announced for which publishers see an advantage\u2014as promised by the creators of the new APIs\u2014over traditional portable implementations. The new APIs are mostly advertised to allow for more draw-calls per frame compared to for example, OpenGL-based solutions. Visualization algorithms and in particular direct volume rendering do not exhibit a signi\ufb01cant amount of draw-calls as a bottleneck. This work evaluates and highlights the utility of recent low-level APIs for mobile devices and puts them into perspective with available alternatives.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2015,
+  "referenceCount": 22,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "139-143"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Schiewe2015StateOT,\n author = {Alexander Schiewe and Mario Anstoots and J. Kr\u00fcger},\n booktitle = {Eurographics Conference on Visualization},\n pages = {139-143},\n title = {State of the Art in Mobile Volume Rendering on iOS Devices},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2303052",
+      "name": "Alexander Schiewe"
+    },
+    {
+      "authorId": "51172423",
+      "name": "Mario Anstoots"
+    },
+    {
+      "authorId": "2245043670",
+      "name": "J. Kr\u00fcger"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0fbcfda43ace4d3324c73b0bb225e34505270e65",
+      "title": "Remote parallel rendering for high-resolution tiled display walls"
+    },
+    {
+      "paperId": "1583030b5a9a7fcfc07d58a8ee53b60ea6357f56",
+      "title": "An analysis of scalable GPU-based ray-guided volume rendering"
+    },
+    {
+      "paperId": "e8c049600c584f698af8272ff826330d709d47e7",
+      "title": "On-Site Volume Rendering with GPU-Enabled Devices"
+    },
+    {
+      "paperId": "01eaea75849646e34b05b44440420142c0e4b196",
+      "title": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach"
+    },
+    {
+      "paperId": "3bb07f991f7b163922bf0c3d7b1f70257b6ea711",
+      "title": "Practical Volume Rendering in Mobile Devices"
+    },
+    {
+      "paperId": "e103913f2eee9c6923d44e475b605213f5dd3dd7",
+      "title": "Ubiquitous medical volume rendering on mobile devices"
+    },
+    {
+      "paperId": "12e2dfbbe04c503ec06eeaaf385e547f12d5b2e6",
+      "title": "A New Sampling Scheme for Slice Based Volume Rendering"
+    },
+    {
+      "paperId": "5f05ae3001bd5cd8c9caea83989cc0313f664df4",
+      "title": "Mobile collaborative medical display system"
+    },
+    {
+      "paperId": "6ae396e11661fc97093eebcc328e00ee324c9b5d",
+      "title": "A Streaming-Based Solution for Remote Visualization of 3D Graphics on Mobile Devices"
+    },
+    {
+      "paperId": "cb1c6837e93434cdaf4e9433ca201df1f33010ae",
+      "title": "Real-time volume graphics"
+    },
+    {
+      "paperId": "4fed3a2c382752cb7e594c253ab95a7d9cdd2e17",
+      "title": "Acceleration techniques for GPU-based volume rendering"
+    },
+    {
+      "paperId": "f9b1a799fe1ad643caef75f764047472e18059a3",
+      "title": "Chromium: a stream-processing framework for interactive rendering on clusters"
+    },
+    {
+      "paperId": "0542df971fe5f9b9c0dd2dd62450f1605c1c0c01",
+      "title": "Interactive volume on standard PC graphics hardware using multi-textures and multi-stage rasterization"
+    },
+    {
+      "paperId": "19506c84d8983ede6e783def5013c8bc463dd351",
+      "title": "A Survey of GPU-Based Large-Scale Volume Visualization"
+    },
+    {
+      "paperId": "cb4cc213e2ab38da84d7038e192c0e9757733270",
+      "title": "Evaluation of Interactive Visualization on Mobile Computing Platforms for Selection of Deep Brain Stimulation Parameters"
+    },
+    {
+      "paperId": "bed74f308fcb3c1d31c216b2638a61ac19171485",
+      "title": "A volume rendering engine for desktops, laptops, mobile devices and immersive virtual reality systems using gpu-based volume raycasting"
+    },
+    {
+      "paperId": "589aad8290edce3395fb3d7dfb0a12e12398640d",
+      "title": "Visualization of Very Large 3 D Volumes on Mobile Devices and WebGL"
+    },
+    {
+      "paperId": "82b47b6674a4b73ae81e12d6ee9f204ada1a0a38",
+      "title": "Interactive Direct Volume Rendering on Mobile Devices"
+    },
+    {
+      "paperId": "99b8940b5a6dab8527198e966c0eb7e2a02ee28c",
+      "title": "Interactive Order-Independent Transparency"
+    },
+    {
+      "paperId": "a11e14fcfb42eee2b85685962592a528d0478850",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Hybrid Rendering with Scheduling under Uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "Real World\" medical datasets"
+    },
+    {
+      "paperId": null,
+      "title": "VTK OpenGL ES Rendering Toolkit"
+    }
+  ]
+}

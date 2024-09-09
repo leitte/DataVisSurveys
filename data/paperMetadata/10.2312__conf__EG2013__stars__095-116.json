@@ -1,0 +1,651 @@
+{
+  "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+  "externalIds": {
+    "MAG": "2221590122",
+    "DBLP": "conf/eurographics/HeinrichW13",
+    "DOI": "10.2312/conf/EG2013/stars/095-116",
+    "CorpusId": 6629981
+  },
+  "publicationVenue": {
+    "id": "17cdf4bb-fc81-4200-8331-d0a9ebaad546",
+    "name": "Eurographics",
+    "type": "conference",
+    "alternate_names": [
+      "Annu Conf Eur Assoc Comput Graph",
+      "Annual Conference of the European Association for Computer Graphics"
+    ],
+    "issn": "0946-2767",
+    "url": "https://www.eg.org/wp/",
+    "alternate_urls": [
+      "https://www.eg.org/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+  "title": "State of the Art of Parallel Coordinates",
+  "abstract": "This work presents a survey of the current state of the art of visualization techniques for parallel coordinates. It covers geometric models for constructing parallel coordinates and reviews methods for creating and understanding visual representations of parallel coordinates. The classi\ufb01cation of these methods is based on a taxonomy that was established from the literature and is aimed at guiding researchers to \ufb01nd existing techniques and identifying white spots that require further research. The techniques covered in this survey are further related to an established taxonomy of knowledge-discovery tasks to support users of parallel coordinates in choosing a technique for their problem at hand. Finally, we discuss the challenges in constructing and understanding parallel-coordinates plots and provide some examples from different application domains.",
+  "venue": "Eurographics",
+  "year": 2013,
+  "referenceCount": 146,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "95-116"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Heinrich2013StateOT,\n author = {Julian Heinrich and D. Weiskopf},\n booktitle = {Eurographics},\n pages = {95-116},\n title = {State of the Art of Parallel Coordinates},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "39365009",
+      "name": "Julian Heinrich"
+    },
+    {
+      "authorId": "69863469",
+      "name": "D. Weiskopf"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "5d5474f179ff24420db4baae23a24dbc849e7bd8",
+      "title": "Process monitoring using principal components in parallel coordinates"
+    },
+    {
+      "paperId": "0bbc25a946a85afec783c5b367c7cfc8ec700e7b",
+      "title": "Points of view: Power of the plane"
+    },
+    {
+      "paperId": "33bf87c7920a6d26070dc3c88fd0efded685225c",
+      "title": "Structure revealing techniques based on parallel coordinates plot"
+    },
+    {
+      "paperId": "44cb1910be9b2362b2b6bb757f4eeab62546c177",
+      "title": "Conceptualizing Visual Uncertainty in Parallel Coordinates"
+    },
+    {
+      "paperId": "ee68c113def84b847c41be19294cc2f05f821889",
+      "title": "Tracing Tuples Across Dimensions: A Comparison of Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "11c3e07795ae1957e2f55e4e609623c157ea3f35",
+      "title": "A visual analytics approach for models of heterogeneous cell populations"
+    },
+    {
+      "paperId": "3092768032aa4d5567666b397f5977738f9c0637",
+      "title": "A network-based interface for the exploration of high-dimensional data spaces"
+    },
+    {
+      "paperId": "202e8bcbd41e7faddbf7d8ee85f9c39e4ef05fc4",
+      "title": "Progressive parallel coordinates"
+    },
+    {
+      "paperId": "ee07f52a95e3dc7d73f4d4d7d87e33e011c50acf",
+      "title": "Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data"
+    },
+    {
+      "paperId": "42a3f2b9e5c800191f21223dc70a22774df84237",
+      "title": "Flexible Linked Axes for Multivariate Data Visualization"
+    },
+    {
+      "paperId": "592d1bae5f4bfecbc45aaad4e31efe84deadcb93",
+      "title": "Features in Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "ba1b88bf9c09da07a8652f86fab48cbdac84b8a6",
+      "title": "Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data"
+    },
+    {
+      "paperId": "88fb5b91370ded905cb7c34f02b2437446e87e22",
+      "title": "Multi-dimensional visualization for network forensic analysis"
+    },
+    {
+      "paperId": "c86c4701782a34a4b51bc9f553d3c1bec74c077a",
+      "title": "Evaluation of a Bundling Technique for Parallel Coordinates"
+    },
+    {
+      "paperId": "c81156f8dade399fda8b6d4ba0fc10548350a118",
+      "title": "Evaluation of Parallel Coordinates for Interactive Alarm Filtering"
+    },
+    {
+      "paperId": "09871d61302861e82583fdf13399fa86a8f76f62",
+      "title": "PClines \u2014 Line detection using parallel coordinates"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "9d1d12ab11e1c8b1a43fdd96940e09d1111031f7",
+      "title": "Visual Coherence for Large\u2010Scale Line\u2010Plot Visualizations"
+    },
+    {
+      "paperId": "797398141e7061be5e834765733b8a7c1349b269",
+      "title": "Progressive Splatting of Continuous Scatterplots and Parallel Coordinates"
+    },
+    {
+      "paperId": "fe1671754bd7d30a4b6968d9668c952517fcae9d",
+      "title": "Visualization of Time\u2010Series Data in Parameter Space for Understanding Facial Dynamics"
+    },
+    {
+      "paperId": "bf0c56dc9d99721146a41654d2b1581ea9dfe31b",
+      "title": "Visualizing High\u2010Dimensional Structures by Dimension Ordering and Filtering using Subspace Analysis"
+    },
+    {
+      "paperId": "56b4c3336836be6162ac2c9a3fe30e5bd9e3fc9b",
+      "title": "Parallel coordinates plotting as a method in process control hazard identification"
+    },
+    {
+      "paperId": "95f969aaf51a01e63c6799cd32c18ee33c04a5e4",
+      "title": "Multi-dimensional transfer function design based on flexible dimension projection embedded in parallel coordinates"
+    },
+    {
+      "paperId": "33e449a9405a1ca90bc0d888a8bb9d5fdbf950be",
+      "title": "Parallel coordinate and parallel coordinate density plots"
+    },
+    {
+      "paperId": "f08daed90b01975f8f308c06c09721039427366e",
+      "title": "TripVista: Triple Perspective Visual Trajectory Analytics and its application on microscopic traffic data at a road intersection"
+    },
+    {
+      "paperId": "4e3722b3c0b6a1d9394593bc74c229e601d3d68b",
+      "title": "Visualizing Network Activity Using Parallel Coordinates"
+    },
+    {
+      "paperId": "e04ffd89850b878c5e5410cc9984b491215c5c1b",
+      "title": "Matching Visual Saliency to Confidence in Plots of Uncertain Data"
+    },
+    {
+      "paperId": "42390a25f9296a0d749aeded46c6a43ef7e74128",
+      "title": "Stacking Graphic Elements to Avoid Over-Plotting"
+    },
+    {
+      "paperId": "0250ba7585cdd11a1ee6be9fbb62a6dc79c5b8e0",
+      "title": "The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration"
+    },
+    {
+      "paperId": "de409fc60209245b215465d31ef00a21ebfc2531",
+      "title": "Pargnostics: Screen-Space Metrics for Parallel Coordinates"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "b5f0262da6635251e4a5467c92249bfa065050f0",
+      "title": "Pairwise Display of High-Dimensional Information via Eulerian Tours and Hamiltonian Decompositions"
+    },
+    {
+      "paperId": "b903c04aa29ef86c2ea04055a6969fc2ba096bc4",
+      "title": "Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates"
+    },
+    {
+      "paperId": "257258102dcf9c1baf7d934264ebcc3703267ed0",
+      "title": "SpRay: A visual analytics approach for gene expression data"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "e574a9781725bcd0f71e0e4d933f9dbc652664e1",
+      "title": "Interactive Coordinated Multiple-View Visualization of Biomechanical Motion Data"
+    },
+    {
+      "paperId": "c1491cd884ca55acb7b7b848d4965e2ebe3c801a",
+      "title": "Scattering Points in Parallel Coordinates"
+    },
+    {
+      "paperId": "40c16c9fde25ef038e5f95b59a75aff11f64c962",
+      "title": "Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "0d4ce15d901ae49f4b2e09b9d7d93efa9ee349e6",
+      "title": "Visual Exploration of Nasal Airflow"
+    },
+    {
+      "paperId": "f5601b3f49065625a7938cb7380073d50da0ded3",
+      "title": "Interactive Exploration of Ingredient Mixtures Using Multiple Coordinated Views"
+    },
+    {
+      "paperId": "6bf703874706ba2b5cc1b6e49f9d1ae59ff1ce5f",
+      "title": "Visual Perception of Parallel Coordinate Visualizations"
+    },
+    {
+      "paperId": "869ebe1217fbf8131bc8efc1d4fd98ccc9bed895",
+      "title": "Many-to-Many Relational Parallel Coordinates Displays"
+    },
+    {
+      "paperId": "66b81e4fe80511154703385d5d4ab2abc6164140",
+      "title": "Fast detection and visualization of network attacks on parallel coordinates"
+    },
+    {
+      "paperId": "7057f510e88a190aa241b2b96ba6cf54a5d81b5a",
+      "title": "Visualization of network components for attack analysis"
+    },
+    {
+      "paperId": "29064de195500bdad34a91d060b016fe230efd0b",
+      "title": "QGPCP: Quantized Generalized Parallel Coordinate Plots for Large Multivariate Data Visualization"
+    },
+    {
+      "paperId": "08b617df64c814c9314936226956b3d16d60444e",
+      "title": "Extensions of Parallel Coordinates for Interactive Exploration of Large Multi-Timepoint Data Sets"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "46da2caf6df03d356550e6865553a935c00cddc4",
+      "title": "Perceiving Patterns in Parallel Coordinates: Determining Thresholds for Identification of Relationships"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "95423ee7b96aa0b7650c3f562418ccd24523349c",
+      "title": "A mixing board interface for graphics and visualization applications"
+    },
+    {
+      "paperId": "32c25784649e9f071edb9b88b7fb1787fb1c668f",
+      "title": "Visual Analytics of Paleoceanographic Conditions"
+    },
+    {
+      "paperId": "a6a0470c7384616249cae9b277765244ac339a16",
+      "title": "Interacting with parallel coordinates"
+    },
+    {
+      "paperId": "52bfdcaf96cc27f9430b568190456b1eb27e2395",
+      "title": "High-Dimensional Visual Analytics: Interactive Exploration Guided by Pairwise Views of Point Distributions"
+    },
+    {
+      "paperId": "90a6ec14c0ca86f07f56932a2cc66b6c4eb6b726",
+      "title": "Outlier-Preserving Focus+Context Visualization in Parallel Coordinates"
+    },
+    {
+      "paperId": "34e6f2c359e82d5805f75df678aa08d09b37473c",
+      "title": "Enabling Automatic Clutter Reduction in Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "05ace99fb93ff3bd0df447b622e7ac6d55b1e77b",
+      "title": "Parallel Sets: interactive exploration and visual analysis of categorical data"
+    },
+    {
+      "paperId": "1076feb0147a773fa98406d25e47c131e26e49d8",
+      "title": "Historical data analysis based on plots of independent and parallel coordinates and statistical control limits"
+    },
+    {
+      "paperId": "e7153d23c2a3504562efe7af89bdd96e6314eeed",
+      "title": "Interactive visual analysis and exploration of injection systems simulations"
+    },
+    {
+      "paperId": "1a48a894c393c7a44bd8eab0326936a925019777",
+      "title": "Revealing structure within clustered parallel coordinates displays"
+    },
+    {
+      "paperId": "38ce79c6dfc26b1f6c9b7f18a1c012428b3c70b0",
+      "title": "Parallel sets: visual analysis of categorical data"
+    },
+    {
+      "paperId": "838011abc7f7e6dfdb1aac194236a552ee0f3acb",
+      "title": "An interactive 3D integration of parallel coordinates and star glyphs"
+    },
+    {
+      "paperId": "c9e5db551f639db9df0e6d0cc3cd3715641cab01",
+      "title": "Exploring highly structured data: a comparative study of stardinates and parallel coordinates"
+    },
+    {
+      "paperId": "3e13dd94dd4c7c677588537267a4e878be1a483b",
+      "title": "3-dimensional display for clustered multi-relational parallel coordinates"
+    },
+    {
+      "paperId": "666477c1cf1e03d43fc727979eeda2d4b59f8e30",
+      "title": "Clustering Visualizations of Multidimensional Data"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "ad1c3a983575021a653720dd98e36b0943ef4382",
+      "title": "Uncovering Clusters in Crowded Parallel Coordinates Visualizations"
+    },
+    {
+      "paperId": "9922a7facca9eead8485196c48061c0493e0b331",
+      "title": "Animator: a tool for the animation of parallel coordinates"
+    },
+    {
+      "paperId": "503ae371b457eb2e80410f806e497701b0dc7201",
+      "title": "Parallel coordinates for exploring properties of subsets"
+    },
+    {
+      "paperId": "7f2182862cec01d2ae143511243e7da21ae9819c",
+      "title": "Coordinating Computational and Visual Approaches for Interactive Feature Selection and Multivariate Clustering"
+    },
+    {
+      "paperId": "58dd330a4248b454bcd32f9e1c581c9ea3b777e3",
+      "title": "Detecting patterns of change using enhanced parallel coordinates visualization"
+    },
+    {
+      "paperId": "9f9cf62eb68c2c6917b343b2e2633e1cacbdb1d5",
+      "title": "Parallel Coordinates: Visual Multidimensional Geometry and Its Applications"
+    },
+    {
+      "paperId": "61d9f642a259cbcd13e232c8a0d110cf5f66ac8c",
+      "title": "Frequency plot and relevance plot to enhance visual data exploration"
+    },
+    {
+      "paperId": "0bdc8155b9361091a31e7ba3afc827df3cd6fc18",
+      "title": "Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets"
+    },
+    {
+      "paperId": "501a4c1d86c0185500696e39e043e4f0cb32b3ac",
+      "title": "Compound brushing"
+    },
+    {
+      "paperId": "8152c13c553311277d402e209980edd805eedb24",
+      "title": "The parallel coordinate plot in action: design and use for geographic visualization"
+    },
+    {
+      "paperId": "c2bb03ce4e4d3254518edf13f816f6a8dc01a1ea",
+      "title": "Parallel coordinates for exploratory modelling analysis"
+    },
+    {
+      "paperId": "faf75dbdd0825406d8480a28056ef7bd6e416987",
+      "title": "Using curves to enhance parallel coordinate visualisations"
+    },
+    {
+      "paperId": "7915b36d594cd6603f5556d08a72d310ff1a32bb",
+      "title": "Visualizing fuzzy points in parallel coordinates"
+    },
+    {
+      "paperId": "a6e4ce94bf018547b2d24b648326adb0f8ae3a51",
+      "title": "Interactive Data Visualization using Mondrian"
+    },
+    {
+      "paperId": "3bb666738673a5c752c86d372351b16ce8317cb9",
+      "title": "Angular brushing of extended parallel coordinates"
+    },
+    {
+      "paperId": "134dd345c8ad74660392574ff5904271d379d3cf",
+      "title": "Conflict detection and planar resolution for air traffic control"
+    },
+    {
+      "paperId": "1dd69bbaebe8a2f383e77efe429f2484ba30d4f5",
+      "title": "RuleViz: a model for visualizing knowledge discovery process"
+    },
+    {
+      "paperId": "b2ba6ffe08b4f992630816ef661cf6383d1a293e",
+      "title": "Structure-Based Brushes: A Mechanism for Navigating Hierarchically Organized Data and Information Spaces"
+    },
+    {
+      "paperId": "54351203658ac2cba5026754009ce2c58caf35ee",
+      "title": "Direct manipulation of parallel coordinates"
+    },
+    {
+      "paperId": "4d9cffec1a03a50f133431248fcfa7941b1e90c4",
+      "title": "VizCraft: a multidimensional visualization tool for aircraft configuration design"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "78addbe6b56841efbaff30336edacd9e27810865",
+      "title": "Navigating hierarchies with structure-based brushes"
+    },
+    {
+      "paperId": "44a3f7d8b7abc5c99c0dc1f80f51e7cf9ecc56e8",
+      "title": "The automated multidimensional detective"
+    },
+    {
+      "paperId": "1b30d9849666ca1b170dfb37a1744bbd3eda54ba",
+      "title": "ParallAX\u2013 A data mining tool based on parallel coordinates"
+    },
+    {
+      "paperId": "8573bbb55112c1f06c43211daedacc1578e69a92",
+      "title": "Cluster analysis and display of genome-wide expression patterns."
+    },
+    {
+      "paperId": "d4a664919e29a4c179f784166b5e15fe1e0929fe",
+      "title": "Similarity clustering of dimensions for an enhanced visualization of multidimensional data"
+    },
+    {
+      "paperId": "12cabee8e678cd3bdacef06385e7c6ec03bcab46",
+      "title": "Representing protein and peptide structures with parallel\u2010coordinates"
+    },
+    {
+      "paperId": "688bdd4c68b0b75224d5edf504b5bca4505b0c78",
+      "title": "Visualizing the behaviour of higher dimensional dynamical systems"
+    },
+    {
+      "paperId": "6d962e9f04c653f732da82073a3446f75a371055",
+      "title": "The KDD process for extracting useful knowledge from volumes of data"
+    },
+    {
+      "paperId": "2a8150fb521bb7b176b90743c73cedf999b4a025",
+      "title": "Multiresolution multidimensional wavelet brushing"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "ff098c0199c5dc4fbc489881f1d334588e937f95",
+      "title": "High Dimensional Brushing for Interactive Exploration of Multivariate Data"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "db694b7806cf927175f2d90b73329fbde07f7067",
+      "title": "Construction of line densities for parallel coordinate plots"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "83bb37a06a964fe4af17002e1a546be78e01431e",
+      "title": "Hyperdimensional Data Analysis Using Parallel Coordinates"
+    },
+    {
+      "paperId": "5fea3fad1dc526210b9bb3f14d4caa829cc793be",
+      "title": "The new S language: a programming environment for data analysis and graphics"
+    },
+    {
+      "paperId": "d0f550daa2f7b493abea1ce32f76ebc13a089ea8",
+      "title": "Dynamic Graphics for Data Analysis"
+    },
+    {
+      "paperId": "04968892b907677be40d029137a93cef67e2a1d6",
+      "title": "Graphical Perception: The Visual Decoding of Quantitative Information on Graphical Displays of Data"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "2668b17c1c972811c5edb0b142896bbfe7d1d25a",
+      "title": "PLOTS OF HIGH-DIMENSIONAL DATA"
+    },
+    {
+      "paperId": "c8dd2d75468dae2e7900a3feab261f48191487dd",
+      "title": "The Parallel Coordinates Matrix"
+    },
+    {
+      "paperId": "2ac05c13f7e3a0e4ddeb8f30ccebeffe5c782a05",
+      "title": "Visualization of Large, Time-Dependent, Abstract Data with Integrated Spherical and Parallel Coordinates"
+    },
+    {
+      "paperId": "aef028ba69de8ef4fc038672e3f6b6151fa37a6d",
+      "title": "Quality-Based Visualization Matrices"
+    },
+    {
+      "paperId": "25abd683b75e059738f8c0321f082daecb9bd401",
+      "title": "Design and Evaluation of Tiled Parallel Coordinate Visualization of Multichannel EEG Data"
+    },
+    {
+      "paperId": null,
+      "title": "State of the hong kong"
+    },
+    {
+      "paperId": "a0b074397ec1a535e97c8124a7fa485fe90fc823",
+      "title": "SignatureSpace: a multidimensional, exploratory approach for the analysis of volume data"
+    },
+    {
+      "paperId": "bbf34f35c006a518475b3b01647fd25382ccbe57",
+      "title": "Multidimensional Density Estimation"
+    },
+    {
+      "paperId": "57fba4be53a0aaef6e607479088d2f7386bb4ed3",
+      "title": "Visually Effective Information Visualization of Large Data"
+    },
+    {
+      "paperId": "0a880e0f2d04a7cd1323fde3fc32f5fdcca509f5",
+      "title": "Constructing Parallel Coordinates Plot for Problem Solving"
+    },
+    {
+      "paperId": "befb20f6897350313fb508411ba871d0368fa926",
+      "title": "Higher Order Parallel Coordinates"
+    },
+    {
+      "paperId": "86f8335122b571822e5e4935e94f8d4e2166a6c7",
+      "title": "High Dimensional Clustering Using Parallel Coordinates and the Grand Tour"
+    },
+    {
+      "paperId": "c3e6e370edbc803f7be1d4d23498d1b77501610a",
+      "title": "A Pixel Is Not A Little Square , A Pixel Is Not A Little Square , A Pixel Is Not A Little Square ! ( And a Voxel is Not a Little Cube ) 1 Technical Memo 6"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: A conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": "c1a336bd104d4c12cb4f65a34b8dc5c645c3da8b",
+      "title": "M AND N PLOTS"
+    },
+    {
+      "paperId": "9bde9844802e90559c32a28513bf1df5f67a40a1",
+      "title": "PRIM-9: An Interactive Multi-dimensional Data Display and Analysis System"
+    },
+    {
+      "paperId": "60e14c66f29057263289ae58cb989f39f0329c5c",
+      "title": "Printer graphics for clustering"
+    },
+    {
+      "paperId": "340188a9bf8183df11df9e5860f28c1f6a200b3f",
+      "title": "Contributions to the Mathematical Theory of Evolution. II. Skew Variation in Homogeneous Material"
+    },
+    {
+      "paperId": "e7395ce20a04009f7e9bf48d57752a2b246f52d6",
+      "title": "Coordonn\u00e9es parall\u00e8les et axiales M\u00e9thode de Transformation g\u00e9om\u00e9trique et Proc\u00e9d\u00e9 nouveau de Calcul graphique, d\u00e9duits de la Consid\u00e9ration des Coordonn\u00e9es parall\u00e8les"
+    },
+    {
+      "paperId": "1ea1cab0911207ec2fd8a10ce0c8b3814c3b9987",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Pathline: a Tool for Comparative Functional Genomics"
+    },
+    {
+      "paperId": "3016ee968980ea62e0d24b7c9b67c08c0b509b02",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Parallel Coordinates Style Interface for Exploratory Volume Visualization"
+    },
+    {
+      "paperId": "de1f2d5fe39cf7bea6251d13cef3927b159addae",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 a Screen Space Quality Method for Data Abstraction"
+    },
+    {
+      "paperId": "329c3e4acf8f32ba459f35850405ff7316aede86",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Visual Clustering in Parallel Coordinates"
+    },
+    {
+      "paperId": "3703462f6b503dd3e60b9d032593dc83355db61e",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Automated Analytical Methods to Support Visual Exploration of High-dimensional Data"
+    },
+    {
+      "paperId": "1b544feb220925290ed2618edbf827776142bff7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Depth Cues and Density in Temporal Parallel Coordinates"
+    },
+    {
+      "paperId": "44ae152a69566a66c1daf9c251a0615b601bca51",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Splatting the Lines in Parallel Coordinates"
+    },
+    {
+      "paperId": "eddf4ad5c65a2d9074aef0937cb5856f9d8fe1c0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Illustrative Parallel Coordinates"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "b31a6348ca79377be07ed0c48b7c80b1bb79451b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Pointcloudxplore: Visual Analysis of 3d Gene Expression Data Using Physical Views and Parallel Coordinates"
+    },
+    {
+      "paperId": "8d3d0202efc560569db01897afc4bb80ee33bc63",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Tiled Parallel Coordinates for the Visualization of Time-varying Multichannel Eeg Data"
+    },
+    {
+      "paperId": null,
+      "title": "visualize multiple, and higher-order correlations [The00, MW02]"
+    },
+    {
+      "paperId": null,
+      "title": "facilitate line tracing [MW02, GK03, YGX \u2217 09, HW10, HLKW12]"
+    },
+    {
+      "paperId": null,
+      "title": "enable the detection of overplotted line segments [GK03]"
+    }
+  ]
+}

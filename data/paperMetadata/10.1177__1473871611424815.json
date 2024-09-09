@@ -1,0 +1,306 @@
+{
+  "paperId": "78697cc739e0f8bf1811d7b90eebe74ebfea24da",
+  "externalIds": {
+    "MAG": "2165749800",
+    "DBLP": "journals/ivs/ShneidermanDSW12",
+    "DOI": "10.1177/1473871611424815",
+    "CorpusId": 454279
+  },
+  "publicationVenue": {
+    "id": "0fd8155f-f062-4fd5-b087-891322d6f705",
+    "name": "Information Visualization",
+    "type": "journal",
+    "alternate_names": [
+      "Information Visualisation",
+      "Inf Vis"
+    ],
+    "issn": "1473-8716",
+    "alternate_issns": [
+      "1550-6037"
+    ],
+    "url": "http://www.palgrave-journals.com/ivs/index.html",
+    "alternate_urls": [
+      "http://ivi.sagepub.com/",
+      "http://csdl2.computer.org/persagen/DLPublication.jsp?acronym=IV&pubtype=p",
+      "https://journals.sagepub.com/home/ivi",
+      "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000370"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/78697cc739e0f8bf1811d7b90eebe74ebfea24da",
+  "title": "Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees",
+  "abstract": "This paper reviews the trajectory of three information visualization innovations: treemaps, cone trees, and hyperbolic trees. These three ideas were first published around the same time in the early 1990s, so we are able to track academic publications, patents, and trade press articles over almost two decades. We describe the early history of each approach, problems with data collection from differing sources, appropriate metrics, and strategies for visualizing these longitudinal data sets. This paper makes two contributions: (1) it offers the information visualization community a history of how certain ideas evolved, influenced others, and were adopted for widespread use and (2) it provides an example of how such scientometric trajectories of innovations can be gathered and visualized. Guidance for designers is offered, but these conjectures may also be useful to researchers, research managers, science policy analysts, and venture capitalists.",
+  "venue": "Information Visualization",
+  "year": 2012,
+  "referenceCount": 56,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-04-01",
+  "journal": {
+    "name": "Information Visualization",
+    "pages": "105 - 87",
+    "volume": "11"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Shneiderman2012InnovationTF,\n author = {B. Shneiderman and Cody Dunne and Puneet Sharma and Ping Wang},\n booktitle = {Information Visualization},\n journal = {Information Visualization},\n pages = {105 - 87},\n title = {Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees},\n volume = {11},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1740403",
+      "name": "B. Shneiderman"
+    },
+    {
+      "authorId": "34889063",
+      "name": "Cody Dunne"
+    },
+    {
+      "authorId": "2146412745",
+      "name": "Puneet Sharma"
+    },
+    {
+      "authorId": "2152207300",
+      "name": "Ping Wang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3e914cfe5559a98fc3941bdfc401cbed422cd2a2",
+      "title": "The evolution of technology"
+    },
+    {
+      "paperId": "5fa9a57bef9f7714a6f9d83dcf9882d522efece6",
+      "title": "The self-regulation of curiosity and interest during the information search process of adolescent students"
+    },
+    {
+      "paperId": "da8f4923e3be1d238809f0f1d3a6a23a02fd6994",
+      "title": "The structure and dynamics of cocitation clusters: A multiple-perspective cocitation analysis"
+    },
+    {
+      "paperId": "1f6f4a198197483a2f11bc4d126592c7d9603514",
+      "title": "Community Learning in Information Technology Innovation"
+    },
+    {
+      "paperId": "672e76d4c4d16132abb56fe2284e6c3c2927e5f2",
+      "title": "Visual overviews for discovering key papers and influences across research fronts"
+    },
+    {
+      "paperId": "9df645fa1f7a0a267772f95b06ebde893e9335fd",
+      "title": "The Nature of Technology: What it Is and How it Evolves"
+    },
+    {
+      "paperId": "1f25e7a9ce78aa71ec7811d8db429a6ad7621662",
+      "title": "Scientometric analysis of the CHI proceedings"
+    },
+    {
+      "paperId": "7446295df4e90a427edbfc8cbd789e27478fbc7e",
+      "title": "A review of overview+detail, zooming, and focus+context interfaces"
+    },
+    {
+      "paperId": "33b509db0e07044ed22971f82ce705e8a612e10b",
+      "title": "Mastering the Hype Cycle: How to Choose the Right Innovation at the Right Time"
+    },
+    {
+      "paperId": "c1ac66f57b23bfd31ff6bd8311856a6296de870c",
+      "title": "Viewpoint: Envisioning the future of computing research"
+    },
+    {
+      "paperId": "4ecf251c278035225d8befdfe19cbe96b4f1afb9",
+      "title": "20 Years of Four HCI Conferences: A Visual Exploration"
+    },
+    {
+      "paperId": "cf1ce0765b766e24444554f1f75857bd58e6f883",
+      "title": "Browsing Zoomable Treemaps: Structure-Aware Multi-Scale Navigation Techniques"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "d5f37d8f2134c6c9a6240c89ada6b5a9e83281be",
+      "title": "Sensemaking tools for understanding research literatures: Design, implementation and user evaluation"
+    },
+    {
+      "paperId": "75cf13f35bb4456270c1c7cb835e234d42b90af4",
+      "title": "Web site design with the patron in mind: A step-by-step guide for libraries"
+    },
+    {
+      "paperId": "0746cbc216b64d92f8ed9e0c8d0563558e9ecc6a",
+      "title": "Visualizing criminal relationships: comparison of a hyperbolic tree and a hierarchical list"
+    },
+    {
+      "paperId": "e5c2e265fce2f4e85cc4f995ad80e14e7a297b90",
+      "title": "Historiographic Mapping of Knowledge Domains Literature"
+    },
+    {
+      "paperId": "ee9e8bbebd9df3671a58c41d865b57c15697cb6c",
+      "title": "Why Not Make Interfaces Better than 3D Reality?"
+    },
+    {
+      "paperId": "f444aecb9a6cc1219d6baf81c55f23dfce3d9788",
+      "title": "User Acceptance of Information Technology: Toward a Unified View"
+    },
+    {
+      "paperId": "7ca4a882cbd9c8f6a958c95f7c1b305e048cb453",
+      "title": "Time line visualization of research fronts"
+    },
+    {
+      "paperId": "ae48e579382dcddb44afdc00c05863259754ad67",
+      "title": "The effects of information scent on visual search in the hyperbolic tree browser"
+    },
+    {
+      "paperId": "3342531eb46d07e8b6fb8b53fd31fd7354b177fc",
+      "title": "Why do we need algorithmic historiography?"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "38595b3b57a341dae1c1bfa846669cf5a90df8aa",
+      "title": "Visualizing the stock market"
+    },
+    {
+      "paperId": "3b755990708e25de2f84eed2b8072165c5ceb94d",
+      "title": "Designing the User Interface: Strategies for Effective Human-Computer Interaction"
+    },
+    {
+      "paperId": "a4468e3eba699609ee3b9fb2d8e89c0ad6e96523",
+      "title": "On your marks, get set, browse!"
+    },
+    {
+      "paperId": "452ef49800f6d43729814baa5b3956ae5d77eea4",
+      "title": "Research report. Interacting with huge hierarchies: beyond cone trees"
+    },
+    {
+      "paperId": "5941abe345d4bd1a5f15d6ee9142a111e6b18a2a",
+      "title": "A focus+context technique based on hyperbolic geometry for visualizing large hierarchies"
+    },
+    {
+      "paperId": "611f388d87c1d9ef36ec243e151f7bee9954f8ad",
+      "title": "Laying out and visualizing large trees using a hyperbolic space"
+    },
+    {
+      "paperId": "b1c864ba463a9e2e9705963b0356f90322d53bff",
+      "title": "Improving the visualization of hierarchies with treemaps: design issues and experimentation"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "5ea10bb467520ed6b3816617b1e423f60ebab45c",
+      "title": "Information visualization using 3D interactive animation"
+    },
+    {
+      "paperId": "ea349162d97873d4493502e205968ffccb23fcf2",
+      "title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology"
+    },
+    {
+      "paperId": "fb3e7a0d14a62d7abe6be1cb395852699394efc6",
+      "title": "Flowchart techniques for structured programming"
+    },
+    {
+      "paperId": "a92e7b509419a93882bb20b44f0805357ce2cbde",
+      "title": "Diffusion of Innovations"
+    },
+    {
+      "paperId": null,
+      "title": "TREES Innovation trajectories"
+    },
+    {
+      "paperId": "e72412d23d1405790bddfa2f5ef31ba6af829026",
+      "title": "Popular Concepts beyond Organizations: Exploring New Dimensions of Information Technology Innovations"
+    },
+    {
+      "paperId": "7595d27fe17dcfb04b59b4f1d79c8705f933a44a",
+      "title": "CiteSpace II:Detecting and Visualizing Emerging Trends and Transient Patterns in Scientific Literature"
+    },
+    {
+      "paperId": "e11ed05ebf83bcf67c2a10b6022bc3741311e2d2",
+      "title": "Mapping research specialties"
+    },
+    {
+      "paperId": "ab08456ea5f42dad706c525ec449b12a8f50ab46",
+      "title": "Launching professional services automation: Institutional entrepreneurship for information technology innovations"
+    },
+    {
+      "paperId": "65a5535f8a28c98e6070da4231725a3d9f6c0d1d",
+      "title": "Interacting with Huge Hierarchies: Beyond Cone Trees"
+    },
+    {
+      "paperId": "932ec0ff0831e509da31776d0e5c15e6c7a19b78",
+      "title": "Smart World: Breakthrough Creativity And the New Science of Ideas"
+    },
+    {
+      "paperId": "3b68186381bb7522c2291ce045e0171e9de7a8b5",
+      "title": "The Hype over Hyperbolic Browsers."
+    },
+    {
+      "paperId": "c0147b41048540b8cb461da8216cbc565dca050e",
+      "title": "Squarified Treemaps"
+    },
+    {
+      "paperId": "3b90c3a5b8cf16ca9f7df06d2e1765ffc4dd1b4d",
+      "title": "An Evaluation of Cone Trees"
+    },
+    {
+      "paperId": null,
+      "title": "System for categorizing documents"
+    },
+    {
+      "paperId": "ade0879a0809a51b489f75b77feeaef141e05262",
+      "title": "7.5 Declaration in Apple vs. Microsoft/Hewlett-Packard"
+    },
+    {
+      "paperId": null,
+      "title": "Declaration in Apple vs. Microsoft/HewlettPackard, In Sparks of Innovation in Human-Computer Interaction (B"
+    },
+    {
+      "paperId": "6d0c4bd5eb9db8fcf0eb54f648e28d2343fe25ea",
+      "title": "Crossing the Chasm"
+    },
+    {
+      "paperId": "1cab989ffdfb0e53ab20ed077d1a5c77fdf1099b",
+      "title": "Managing the flow of information: Technology transfer and the dissemination of technological information within the R & D organization: T.J. Allen, The MIT Press, 1977, p. 320"
+    },
+    {
+      "paperId": null,
+      "title": "subscription required"
+    },
+    {
+      "paperId": null,
+      "title": "www.ipwatchdog.com/2009/04/22/"
+    }
+  ]
+}

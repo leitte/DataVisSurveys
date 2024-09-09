@@ -1,0 +1,217 @@
+{
+  "paperId": "ca700ab419ab0fe4539d568c6b59c9efcc982c35",
+  "externalIds": {
+    "DBLP": "conf/vissym/AlharbiAMKRBLC17",
+    "MAG": "2624762677",
+    "DOI": "10.2312/eurovisshort.20171146",
+    "CorpusId": 51953040
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/ca700ab419ab0fe4539d568c6b59c9efcc982c35",
+  "title": "Molecular Visualization of Computational Biology Data: A Survey of Surveys",
+  "abstract": "Visualizations for computational biology have been developing for over 50 years. With recent advances in both computational biology and computer graphics techniques, these \ufb01elds have witnessed rapid technological advances in the last decade. Thus, coping with the large number of scienti\ufb01c articles from both \ufb01elds is a challenging task. Furthermore, there remains a gap between the two communities of visualization and computational biology, resulting in additional challenges to bridge the di-vide. A team of computational biology and visualization scientists attempts to address these challenges by presenting uni\ufb01ed state-of-the-art reviews from both communities. We apply a variety of data-driven analysis to highlight links or differences between studies from both communities. This approach facilitates the identi\ufb01cation of present and future challenges in visualizing and analyzing computational biology data. It offers a distinctive step forward in managing the literature on visualization of molecular dynamics and related simulation approaches.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2017,
+  "referenceCount": 31,
+  "openAccessPdf": {
+    "url": "https://hal.science/hal-01644549/document",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "133-137"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Alharbi2017MolecularVO,\n author = {Naif Alharbi and Mohammad Alharbi and Xavier Martinez and Michael Krone and Alexander S. Rose and Marc Baaden and R. Laramee and M. Chavent},\n booktitle = {Eurographics Conference on Visualization},\n pages = {133-137},\n title = {Molecular Visualization of Computational Biology Data: A Survey of Surveys},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1422082831",
+      "name": "Naif Alharbi"
+    },
+    {
+      "authorId": "1857550905",
+      "name": "Mohammad Alharbi"
+    },
+    {
+      "authorId": "2287721583",
+      "name": "Xavier Martinez"
+    },
+    {
+      "authorId": "2260989290",
+      "name": "Michael Krone"
+    },
+    {
+      "authorId": "2287689184",
+      "name": "Alexander S. Rose"
+    },
+    {
+      "authorId": "2286788675",
+      "name": "Marc Baaden"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "3155319",
+      "name": "M. Chavent"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5244cbc75a51026c80bad2d50d52a9176ebac0b8",
+      "title": "Visualization of Biomolecular Structures: State of the Art Revisited"
+    },
+    {
+      "paperId": "6d0fdd991a4e281c8ea798f5bf7f23bb129507c3",
+      "title": "Molecular dynamics simulations of membrane proteins and their interactions: from nanoscale to mesoscale"
+    },
+    {
+      "paperId": "59c517311518ebf1838328d3ad89ce5ad30abd9e",
+      "title": "Challenges in structural approaches to cell modeling."
+    },
+    {
+      "paperId": "1ad73a7487c234c756866911517c9b8fdbcc4405",
+      "title": "Web-based molecular graphics for large complexes"
+    },
+    {
+      "paperId": "43376a5473dbdc1db2bed70e3c7bae6d15f79e33",
+      "title": "Visual Analysis of Biomolecular Cavities: State of the Art"
+    },
+    {
+      "paperId": "ee4ec6194f9445e7c9128d88350c900634671afa",
+      "title": "NGL Viewer: a web application for molecular visualization"
+    },
+    {
+      "paperId": "ffe8c1eb4958f301f85033c4f1971aa3cb38d8ec",
+      "title": "MegaMol\u2014A Prototyping Framework for Particle-Based Visualization"
+    },
+    {
+      "paperId": "d862b569285fdf278d72ef40f9e985509f060303",
+      "title": "UnityMol: Interactive scientific visualization for integrative biology"
+    },
+    {
+      "paperId": "885dd0f5732e7467dfc04a78b94566a46996797d",
+      "title": "Molecular simulations and visualization: introduction and overview."
+    },
+    {
+      "paperId": "00f4dc8341f5ed40ee46fe9a9a3c86531d801695",
+      "title": "Atomistic Visualization of Mesoscopic Whole\u2010Cell Simulations Using Ray\u2010Casted Instancing"
+    },
+    {
+      "paperId": "8ca6fedafdd5fa81aa9e169e9b430c49bb31db8c",
+      "title": "Visualizing time-related data in biology, a review"
+    },
+    {
+      "paperId": "868530774cbcfec3e796613d1eeb49e028774417",
+      "title": "GPU-powered tools boost molecular visualization"
+    },
+    {
+      "paperId": "544c4502ef6533dffb831d69aa07c50ef0cfbca3",
+      "title": "GPU-accelerated molecular modeling coming of age."
+    },
+    {
+      "paperId": "52cccec35b640dba035dba6013151d9eb06fa20b",
+      "title": "Visualizing biological data\u2014now and in the future"
+    },
+    {
+      "paperId": "15f1629431ba57c36d80df5ebf9e246dcb666ad0",
+      "title": "Visualization of macromolecular structures"
+    },
+    {
+      "paperId": "f7ce644b20029e1dace027b723952727df1382e9",
+      "title": "Interactive Visualization of Molecular Surface Dynamics"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "6e114421c29ceac25c00d255ee931d9341b605d8",
+      "title": "Visualization software for molecular assemblies."
+    },
+    {
+      "paperId": "6da9f50043a50b663c131eeb2081d8ec711500a6",
+      "title": "Ambient Occlusion and Edge Cueing for Enhancing Real Time Molecular Visualization"
+    },
+    {
+      "paperId": "fca1f1deec7d62e2b4a13267c584f4daeb28e617",
+      "title": "CAVER: a new tool to explore routes from protein clefts, pockets and cavities"
+    },
+    {
+      "paperId": "04c69e602946dc56b985ad51aeeae403fbf04802",
+      "title": "Scalable molecular dynamics with NAMD"
+    },
+    {
+      "paperId": "af1eb73f965b25a84ea5aff672cdd46500bbec83",
+      "title": "Visual methods from atoms to cells."
+    },
+    {
+      "paperId": "84e2b359571adb0a1d2984e5211ba74c0670596a",
+      "title": "Tangible interfaces for structural molecular biology."
+    },
+    {
+      "paperId": "895860c6083736508d2541900cdf0960eb11592f",
+      "title": "UCSF Chimera\u2014A visualization system for exploratory research and analysis"
+    },
+    {
+      "paperId": "521027c14a7ef622a4f03106799706d0824e192a",
+      "title": "VMD: visual molecular dynamics."
+    },
+    {
+      "paperId": "e0db353d0aac3db965a032c499313a63cf30cf9d",
+      "title": "Real-time color graphics in studies of molecular interactions."
+    },
+    {
+      "paperId": "b7fcacc158cdc63e95e96a25bb7b653322f301bd",
+      "title": "Molecular model-building by computer."
+    },
+    {
+      "paperId": "a9952b9a0482721ca1d90a2a97d430c4427de466",
+      "title": "Software tools for identification, visualization and analysis of protein tunnels and channels."
+    },
+    {
+      "paperId": "e040885cd33f933f356ff8f60783acfd3ed1a7c5",
+      "title": "Fast Visualization of Gaussian Density Surfaces for Molecular Dynamics and Particle System Trajectories"
+    },
+    {
+      "paperId": "6ed9417eaa7ee16f0563599829a061421a3e0563",
+      "title": "NLTK: The Natural Language Toolkit"
+    },
+    {
+      "paperId": null,
+      "title": "word_cloud: A little word cloud generator in python"
+    }
+  ]
+}

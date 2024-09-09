@@ -1,0 +1,317 @@
+{
+  "paperId": "807bee8286f9081e8fcc5d497fbbdc0d2aa610f2",
+  "externalIds": {
+    "MAG": "2528430077",
+    "DBLP": "conf/beliv/BlumensteinN0SR16",
+    "DOI": "10.1145/2993901.2993906",
+    "CorpusId": 14958332
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/807bee8286f9081e8fcc5d497fbbdc0d2aa610f2",
+  "title": "Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space",
+  "abstract": "With their increasingly widespread use, mobile devices have become a highly relevant target environment for Information Visualization. However, far too little attention has been paid to evaluation of interactive visualization techniques on mobile devices. To fill this gap, this paper provides a structured overview of the commonly used evaluation approaches for mobile visualization. For this, it systematically reviews the scientific literature of major InfoVis and HCI venues and categorizes the relevant work based on six dimensions circumscribing the design and evaluation space for visualization on mobile devices. Based on the 21 evaluations reviewed, reproducibility, device variety and usage environment surface as the three main issues in evaluation of information visualization on mobile devices. To overcome these issues, we argue for a transparent description of all research aspects and propose to focus more on context of usage and technology.",
+  "venue": "Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization",
+  "year": 2016,
+  "referenceCount": 62,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2016-10-24",
+  "journal": {
+    "pages": "125-132"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Blumenstein2016EvaluatingIV,\n author = {Kerstin Blumenstein and C. Niederer and Markus Wagner and Grischa Schmiedl and A. Rind and W. Aigner},\n booktitle = {Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization},\n pages = {125-132},\n title = {Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3452369",
+      "name": "Kerstin Blumenstein"
+    },
+    {
+      "authorId": "3452212",
+      "name": "C. Niederer"
+    },
+    {
+      "authorId": "2114341915",
+      "name": "Markus Wagner"
+    },
+    {
+      "authorId": "2095108",
+      "name": "Grischa Schmiedl"
+    },
+    {
+      "authorId": "2941639",
+      "name": "A. Rind"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e75957f41a092a1a7b436375b949d205972d3474",
+      "title": "When (ish) is My Bus?: User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"
+    },
+    {
+      "paperId": "f18936e8470b422d1e721d736beed181022fd806",
+      "title": "Visualizing Scheduling: A Hierarchical Event-Based Approach on a Tablet"
+    },
+    {
+      "paperId": "3373341940249bcd8c911ab15c3ba7793fdcb693",
+      "title": "A Mobile Personal Residential Electricity Dashboard"
+    },
+    {
+      "paperId": "97fad2028048525f991a5c560c07f91231ff6ae9",
+      "title": "Kinetica: naturalistic multi-touch data visualization"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "909d2e8923590344333503103dcabfb035754b25",
+      "title": "Visualization on Interactive Surfaces: A Research Overview / Visualisierung auf interaktiven Oberfl\u00e4chen: Ein Forschungs\u00fcberblick"
+    },
+    {
+      "paperId": "15f35b499b162bb4d04319e1b4d6b6236cac2eac",
+      "title": "TouchViz: a case study comparing two interfaces for data analytics on tablets"
+    },
+    {
+      "paperId": "9e6c64d7ec4d4645647f64edb1ab68fb2432f866",
+      "title": "TouchViz: (multi)touching multivariate data"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "e0c1ef8b7aa08d3376f81a6ebc1dca24f07ddf88",
+      "title": "EdgeSplit: facilitating the selection of off-screen objects"
+    },
+    {
+      "paperId": "4b218e013e05fd38e1960612314910be2babef83",
+      "title": "Dynamic visualization of large numbers of off-screen objects on mobile devices: an experimental comparison of wedge and overview+detail"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "59002e3c7257921b1650a2b2e6c12cc97815b870",
+      "title": "Empirical Studies in Information Visualization"
+    },
+    {
+      "paperId": "7a4a153904f3fc4dd2fc1b17a00490bb7934118f",
+      "title": "PRISMA Mobile: An Information Visualization Tool for Tablets"
+    },
+    {
+      "paperId": "f4bde10c6f471a5ad1a8d4851326c4cb576614fd",
+      "title": "MatchPad: Interactive Glyph\u2010Based Visualization for Real\u2010Time Sports Performance Analysis"
+    },
+    {
+      "paperId": "0f190a6e922e813a44e8cad9116aa0d3502e6716",
+      "title": "Tablorer \u2013 An Interactive Tree Visualization System for Tablet PCs"
+    },
+    {
+      "paperId": "145c1ffa9859e3b2d5cb01dd17d331331fab9f5f",
+      "title": "An heuristic set for evaluation in information visualization"
+    },
+    {
+      "paperId": "42afe3971104bb70d8dadaa1dce3d4028cf67913",
+      "title": "Biketastic: sensing and mapping for better biking"
+    },
+    {
+      "paperId": "5ff6f3a0b532d177fbc6e7f159f9fce98e817063",
+      "title": "Challenges for Visual Analytics"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "d5c7894bf0f8333542e78e202bdcac72a7f59515",
+      "title": "Evaluation of Overcluttering Prevention Techniques for Mobile Devices"
+    },
+    {
+      "paperId": "1416dcfb236631fcf7b31e095cd88b1fa9a7259f",
+      "title": "Environmental context sensing for usability evaluation in mobile HCI by means of small wireless sensor networks"
+    },
+    {
+      "paperId": "33bd20fe68dd4dc368397c5a7ecb581118d0b98b",
+      "title": "Map, diagram, and web page navigation on mobile devices: the effectiveness of zoomable user interfaces with overviews"
+    },
+    {
+      "paperId": "a558950026d28611f6ea08e098277a5a69e6d5b1",
+      "title": "A Tourism Information Analysis Tool for Mobile Devices"
+    },
+    {
+      "paperId": "c7944ee77b126ceee57d48e3aabfcfbb1623f2bb",
+      "title": "Wedge: clutter-free visualization of off-screen locations"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "75187e6205e40d87013d69e95889a5d3ca160acd",
+      "title": "Dynamic visualisation of ski data: a context aware mobile piste map"
+    },
+    {
+      "paperId": "cc0c631b5cd4f156992dd2500296ce85fd1dbadb",
+      "title": "Capturing the effects of context on human performance in mobile computing systems"
+    },
+    {
+      "paperId": "9685927e58eebc840d5223d5e0438d90ed318b05",
+      "title": "Exploring 'Canned Communication' for coordinating distributed mobile work activities"
+    },
+    {
+      "paperId": "ea6c14f8817e2adbe91cf4ea20d7f1a7034cccc8",
+      "title": "Visualizing locations of off-screen objects on mobile devices: a comparative evaluation of three approaches"
+    },
+    {
+      "paperId": "0173f28f38454ae5b458f1b1f31202c0672c7dd5",
+      "title": "User Interaction with Scatterplots on Small Screens - A Comparative Evaluation of Geometric-Semantic Zoom and Fisheye Distortion"
+    },
+    {
+      "paperId": "f1ee1729e5947fed09eea16ebaaa92abaa91c4f0",
+      "title": "Visualizing information on mobile devices"
+    },
+    {
+      "paperId": "c2bf8bf5500213278f8d29220d1efd827e2620fc",
+      "title": "ZuiScat: querying and visualizing information spaces on personal digital assistants"
+    },
+    {
+      "paperId": "992d9a10121279ccb955bbfd32d41e6e8f0cdb89",
+      "title": "Using treemaps to visualize threaded discussion forums on PDAs"
+    },
+    {
+      "paperId": "4b81b7282f9cc928486ee3ad008f23fe76ed6353",
+      "title": "Interaction in 4-second bursts: the fragmented nature of attentional resources in mobile HCI"
+    },
+    {
+      "paperId": "3b755990708e25de2f84eed2b8072165c5ceb94d",
+      "title": "Designing the User Interface: Strategies for Effective Human-Computer Interaction"
+    },
+    {
+      "paperId": "22b931b75f8ebbcdb00f5065d2e885bb4bdb2644",
+      "title": "A classification of visual representations"
+    },
+    {
+      "paperId": "7e0ead3d4149f0c5c0c27b429ebc8424ef981472",
+      "title": "Challenges for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Global Stats"
+    },
+    {
+      "paperId": null,
+      "title": "Top 8 Mobile & Tablet Operating Systems on Retrieved 2016-06-15, from http://gs.statcounter.com/#mobile+ tablet-os-ww-monthly-201606-201606-bar"
+    },
+    {
+      "paperId": null,
+      "title": "Common smartphones and tablets devices values. Retrieved 2016-06-15, from http://www.mydevice.io/devices/#sortOthers"
+    },
+    {
+      "paperId": "fa7554ae32bef274b4e4c5139aaea3b29b5d3967",
+      "title": "Should we Dream the Impossible Dream of Reproducibility in Visual Analytics Evaluation?"
+    },
+    {
+      "paperId": null,
+      "title": "2015 Smartwatch Comparison Guide Retrieved 2016-06-15, from http://www.gizmag. com/best-smartwatch-comparison-2015"
+    },
+    {
+      "paperId": null,
+      "title": "Interactive data visualization for second screen applications: State of the art and technical challenges"
+    },
+    {
+      "paperId": "7f2c2a95d87611ea3ea40d44d1be9715e38438ee",
+      "title": "A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data"
+    },
+    {
+      "paperId": "e4f994b6aa5bd2f797b6d7a6b80c6aef3293dca0",
+      "title": "An Introduction and Guide to Evaluation of Visualization Techniques Through User Studies"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization on interactive surfaces. I-COM"
+    },
+    {
+      "paperId": null,
+      "title": "and m"
+    },
+    {
+      "paperId": null,
+      "title": "Unser mobiler Planet: \u00a8Osterreich"
+    },
+    {
+      "paperId": "9dc10c31bfadf4ed5fb49d9945390c75426931d9",
+      "title": "Usability Testing for Mobile Scenarios of Fragmented Attention"
+    },
+    {
+      "paperId": null,
+      "title": "Endkundenabsatz von Smartphones weltweit von 2007 bis 2014"
+    },
+    {
+      "paperId": "561c297c8bf0aafe28466c907757674df7834c9b",
+      "title": "Beyond-the-Desktop Interactive Visualizations"
+    },
+    {
+      "paperId": "9fc4f973618412bd41e1f5f62ea11c9936e19882",
+      "title": "Interaction and presentation techniques for situated visualization"
+    },
+    {
+      "paperId": null,
+      "title": "PDA: CE-Sales in the U.S. 2005-2010"
+    },
+    {
+      "paperId": "c879184e5892b9b816dead178c8f0e9a1a2f83e6",
+      "title": "Taming Context: A Key Challenge in Evaluating the Usability of Ubiquitous Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Multimodal field data entry"
+    },
+    {
+      "paperId": null,
+      "title": "Usability and Mobility; Interactions on the move"
+    },
+    {
+      "paperId": "2e7628b77f21baa18bc1d1b120c0ec0dfa29238a",
+      "title": "Designing the User Interface"
+    },
+    {
+      "paperId": null,
+      "title": "Heuristics for User Interface Design:  Article by Jakob"
+    },
+    {
+      "paperId": null,
+      "title": "10 Heuristics for User Interface Design: Article by Jakob Nielsen Retrieved 2016-06-10, from http://www.nngroup.com/articles/ ten-usability-heuristics"
+    },
+    {
+      "paperId": null,
+      "title": "Article by Jakob Nielsen, 1995"
+    },
+    {
+      "paperId": null,
+      "title": "Smartwatch Comparison Guide , 2015"
+    }
+  ]
+}

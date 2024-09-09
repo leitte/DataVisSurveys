@@ -1,0 +1,718 @@
+{
+  "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+  "externalIds": {
+    "MAG": "2030246490",
+    "DBLP": "journals/ivs/GleicherAWJHR11",
+    "DOI": "10.1177/1473871611416549",
+    "CorpusId": 14126810
+  },
+  "publicationVenue": {
+    "id": "0fd8155f-f062-4fd5-b087-891322d6f705",
+    "name": "Information Visualization",
+    "type": "journal",
+    "alternate_names": [
+      "Information Visualisation",
+      "Inf Vis"
+    ],
+    "issn": "1473-8716",
+    "alternate_issns": [
+      "1550-6037"
+    ],
+    "url": "http://www.palgrave-journals.com/ivs/index.html",
+    "alternate_urls": [
+      "http://ivi.sagepub.com/",
+      "http://csdl2.computer.org/persagen/DLPublication.jsp?acronym=IV&pubtype=p",
+      "https://journals.sagepub.com/home/ivi",
+      "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000370"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+  "title": "Visual comparison for information visualization",
+  "abstract": "Data analysis often involves the comparison of complex objects. With the ever increasing amounts and complexity of data, the demand for systems to help with these comparisons is also growing. Increasingly, information visualization tools support such comparisons explicitly, beyond simply allowing a viewer to examine each object individually. In this paper, we argue that the design of information visualizations of complex objects can, and should, be studied in general, that is independently of what those objects are. As a first step in developing this general understanding of comparison, we propose a general taxonomy of visual designs for comparison that groups designs into three basic categories, which can be combined. To clarify the taxonomy and validate its completeness, we provide a survey of work in information visualization related to comparison. Although we find a great diversity of systems and approaches, we see that all designs are assembled from the building blocks of juxtaposition, superposition and explicit encodings. This initial exploration shows the power of our model, and suggests future challenges in developing a general understanding of comparative visualization and facilitating the development of more comparative visualization tools.",
+  "venue": "Information Visualization",
+  "year": 2011,
+  "referenceCount": 157,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2011-10-01",
+  "journal": {
+    "name": "Information Visualization",
+    "pages": "289 - 309",
+    "volume": "10"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Gleicher2011VisualCF,\n author = {Michael Gleicher and Danielle Albers and Rick Walker and Ilir Jusufi and C. Hansen and Jonathan C. Roberts},\n booktitle = {Information Visualization},\n journal = {Information Visualization},\n pages = {289 - 309},\n title = {Visual comparison for information visualization},\n volume = {10},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1776507",
+      "name": "Michael Gleicher"
+    },
+    {
+      "authorId": "38719815",
+      "name": "Danielle Albers"
+    },
+    {
+      "authorId": "145519872",
+      "name": "Rick Walker"
+    },
+    {
+      "authorId": "2810989",
+      "name": "Ilir Jusufi"
+    },
+    {
+      "authorId": "2316061127",
+      "name": "C. Hansen"
+    },
+    {
+      "authorId": "1727068",
+      "name": "Jonathan C. Roberts"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "12b28ba9461b3e5ec95dbb9f8c42088f6b28cf31",
+      "title": "The Nature and Status of Visual Resources"
+    },
+    {
+      "paperId": "31598145ebe1f066c3ce773a6105ffd912ad98db",
+      "title": "Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization"
+    },
+    {
+      "paperId": "30888222967a942a3af72ef135548ecc574b7c02",
+      "title": "A Survey of Multiple Tree Visualisation"
+    },
+    {
+      "paperId": "ea55711f8d2fc6013eeed91fe1666b277b3dfed0",
+      "title": "Comparative Visualization for Parameter Studies of Dataset Series"
+    },
+    {
+      "paperId": "42835dd52548fc3155aba811365150683e4704a7",
+      "title": "Visual Integration of Quantitative Proteomic Data, Pathways, and Protein Interactions"
+    },
+    {
+      "paperId": "e316eb3f561d60251e21ee4079f061cf0e417c23",
+      "title": "Tracking Multiple Objects Is Limited Only by Object Spacing, Not by Speed, Time, or Capacity"
+    },
+    {
+      "paperId": "5e2bc315502b535471b8edb2a27dc4398413f1a9",
+      "title": "ManyNets: an interface for multiple network analysis and visualization"
+    },
+    {
+      "paperId": "10cf4d18e22107eaed0fec881386f1d0eef3c1cc",
+      "title": "Visualization of multiple alignments, phylogenies and gene family evolution"
+    },
+    {
+      "paperId": "052a31c6915e5070af648acc9ef1dfbf93e1aa11",
+      "title": "CMap3D: a 3D visualization tool for comparative genetic maps"
+    },
+    {
+      "paperId": "d46fdb88fac50cd279c5cb8fbfc5aa85470cc5d6",
+      "title": "ETE: a python Environment for Tree Exploration"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "b4d2bd6313d1575122f2a292455cc04e9cd608dc",
+      "title": "Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "2cd44809e3df0054e55a703fd45ef236a4734f93",
+      "title": "FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries"
+    },
+    {
+      "paperId": "d5f88524224c74d72e6ff1d33474db3ec4ed9c42",
+      "title": "SellTrend: Inter-Attribute Visual Analysis of Temporal Transaction Data"
+    },
+    {
+      "paperId": "e574a9781725bcd0f71e0e4d933f9dbc652664e1",
+      "title": "Interactive Coordinated Multiple-View Visualization of Biomechanical Motion Data"
+    },
+    {
+      "paperId": "c1491cd884ca55acb7b7b848d4965e2ebe3c801a",
+      "title": "Scattering Points in Parallel Coordinates"
+    },
+    {
+      "paperId": "7472c904447935a896f112b2d60d3edca3cc10ae",
+      "title": "Mapping Text with Phrase Nets"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "fad534010f21d1b6c18aa78069ae07b55321b7df",
+      "title": "ResultMaps: Visualization for Search Interfaces"
+    },
+    {
+      "paperId": "8f56e05989066843340d83977d28297f1a49c356",
+      "title": "ActiviTree: Interactive Visual Exploration of Sequences in Event-Based Data Using Graph Similarity"
+    },
+    {
+      "paperId": "e8eef01b77a9fd8f5eb9cbae3b84e2d53317a473",
+      "title": "Exemplar-based Visualization of Large Document Corpus (InfoVis2009-1115)"
+    },
+    {
+      "paperId": "41ce0e08bec17f155e1dba9a784c05dd3af4c813",
+      "title": "GeneShelf: A Web-based Visual Interface for Large Gene Expression Time-Series Data Repositories"
+    },
+    {
+      "paperId": "f748d6f58f3cf24e0f31c7074875e08354679686",
+      "title": "Constructing Overview + Detail Dendrogram-Matrix Views"
+    },
+    {
+      "paperId": "cb49ba71cf1cbeef8f62c58271a46b67d7a2d99b",
+      "title": "Visualizing Social Photos on a Hasse Diagram for Eliciting Relations and Indexing New Photos"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "25e7ca0e7342c2c7a8d1ba29cf008f9d3b4c7dae",
+      "title": "code_swarm: A Design Study in Organic Software Visualization"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "2bef90832ec112573599b312c8280bf7dad8b51b",
+      "title": "G-compass: a web-based comparative genome browser between human and other vertebrate genomes"
+    },
+    {
+      "paperId": "67e3b729471a4735da4331a97a8354733a3e8b26",
+      "title": "SnoopCGH: software for visualizing comparative genomic hybridization data"
+    },
+    {
+      "paperId": "af3bfe2786bc546206f00aa8024e1871000b87ad",
+      "title": "The comparison of visual working memory representations with perceptual inputs."
+    },
+    {
+      "paperId": "3f5764890ab70a8be3d1cc9f3b7d52013176a337",
+      "title": "Visual Graph Comparison"
+    },
+    {
+      "paperId": "62f99eea904ed67149ff72c31471166c77d25a92",
+      "title": "Seevolution: visualizing chromosome evolution"
+    },
+    {
+      "paperId": "b607f972b674596d5d0127dac0c8388d124c67f2",
+      "title": "VisGets: Coordinated Visualizations for Web-based Information Exploration and Discovery"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "3306edb7be3a90db31b38af1fe9aefb61beb226c",
+      "title": "HiPP: A Novel Hierarchical Point Placement Strategy and its Application to the Exploration of Document Collections"
+    },
+    {
+      "paperId": "c5de5a0ffda2919367480513cd167681661340bd",
+      "title": "Visualizing Incomplete and Partially Ranked Data"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "746a90962ed1555cae8d2580124c4445c00b42eb",
+      "title": "EMDialog: Bringing Information Visualization into the Museum"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "821e1213cb29a6745cd56542828a4194fbea1ee3",
+      "title": "Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation"
+    },
+    {
+      "paperId": "64dbb5878c0b41627b7806b048ad684f503160e5",
+      "title": "Evidence against a speed limit in multiple-object tracking"
+    },
+    {
+      "paperId": "09915d71aa0e709e496bdd995809e0766fbb2d41",
+      "title": "Visualizing program similarity in the Ac plagiarism detection system"
+    },
+    {
+      "paperId": "259babfafffc21ed5fbe43d7ff34f4c68ce6d546",
+      "title": "The CGView Server: a comparative genomics tool for circular genomes"
+    },
+    {
+      "paperId": "7f3301c19d90c6195fd582b2636d5731c96494e9",
+      "title": "Mining phenotypes for gene function prediction"
+    },
+    {
+      "paperId": "3d97d0ef6058950be579df25f1cfe7bcaa55384b",
+      "title": "A dual-view approach to interactive network visualization"
+    },
+    {
+      "paperId": "5b27c3cf064d6ee531168aa398f2f0e0a6f190f1",
+      "title": "AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets"
+    },
+    {
+      "paperId": "63549b77855429ee5300d891b1fa3d911c6b8fdf",
+      "title": "Visualizing Changes of Hierarchical Data using Treemaps"
+    },
+    {
+      "paperId": "0de11819873b40609e4b942734038e3c0cc89de1",
+      "title": "Hotmap: Looking at Geographic Attention"
+    },
+    {
+      "paperId": "9a0e9f73bd2f632cbc44a226300685595d165f5a",
+      "title": "Overview Use in Multiple Visual Information Resolution Interfaces"
+    },
+    {
+      "paperId": "7e447854f8d31d5e47344f0d9b8ac36c7401ef2f",
+      "title": "Exploring Multiple Trees through DAG Representations"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "fb649026b8debdc7784ca0970e025e7e9bdff473",
+      "title": "Visualizing Causal Semantics Using Animations"
+    },
+    {
+      "paperId": "73b5c4d400ac7a12ce011380dba7f4d853fddd2d",
+      "title": "Legible Cities: Focus-Dependent Multi-Resolution Visualization of Urban Relationships"
+    },
+    {
+      "paperId": "1957bc15b5c2a7834610d4b96e263450fdad06f9",
+      "title": "Grid With a View: Optimal Texturing for Perception of Layered Surface Shape"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "d0353cfbf8a52c2356846a24648f4433932fd0d5",
+      "title": "Visualizing the History of Living Spaces"
+    },
+    {
+      "paperId": "3d41c6f9bce5e663d1621eac7abbf224c762261f",
+      "title": "Sequential Document Visualization"
+    },
+    {
+      "paperId": "e5df3e9f37f8cf0a80415e8a9dc21a5862e6634b",
+      "title": "Geographically Weighted Visualization: Interactive Graphics for Scale-Varying Exploratory Analysis"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "c93c768cb774f91a8c09a392032926fc2f1753fb",
+      "title": "Visual Analysis of Network Traffic for Resource Planning, Interactive Monitoring, and Interpretation of Security Threats"
+    },
+    {
+      "paperId": "bf91edbc13638182dae89e1faa2257f9eb08dae8",
+      "title": "VisLink: Revealing Relationships Amongst Visualizations"
+    },
+    {
+      "paperId": "7539e1abb223923dc6913e0acdc356e814decd85",
+      "title": "Interactive Visual Exploration of a Large Spatio-temporal Dataset: Reflections on a Geovisualization Mashup."
+    },
+    {
+      "paperId": "cbf6415cada79bd310b618743b6177b300c979e6",
+      "title": "How many objects can you track? Evidence for a resource-limited attentive tracking mechanism."
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "000a60e53994dca415baa5acca53e7b0c8adf819",
+      "title": "Attribute Blocks: Visualizing Multiple Continuously Defined Attributes"
+    },
+    {
+      "paperId": "fa8eaed21e0ff6cba18c8661d422c3be83880909",
+      "title": "TreeDyn: towards dynamic graphics and annotations for analyses of trees"
+    },
+    {
+      "paperId": "864a959c534d64b8e153854cd7f7f44d28e8ef9f",
+      "title": "Topographic Visualization of Prefix Propagation in the Internet"
+    },
+    {
+      "paperId": "fa1432c4a4587af3d9ce73641d7da55c1b4695ac",
+      "title": "Worldmapper: The World as You've Never Seen it Before"
+    },
+    {
+      "paperId": "b7c56e1be2a3e8c650ad9548bfbaa7dee1f5a6b7",
+      "title": "Smashing Peacocks Further: Drawing Quasi-Trees from Biconnected Components"
+    },
+    {
+      "paperId": "7de4b247132552fc98f7962bc6fa881862241add",
+      "title": "Visualizing Business Data with Generalized Treemaps"
+    },
+    {
+      "paperId": "90a6ec14c0ca86f07f56932a2cc66b6c4eb6b726",
+      "title": "Outlier-Preserving Focus+Context Visualization in Parallel Coordinates"
+    },
+    {
+      "paperId": "b1b815b58d235099a91602225bde0f2539d6eaa2",
+      "title": "Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data"
+    },
+    {
+      "paperId": "cbd7ed062b46adce20cc736dafa23709220d46e0",
+      "title": "Comparative Visualization for Wave-based and Geometric Acoustics"
+    },
+    {
+      "paperId": "2274f947cd8455073cb17fa09b60a7dd287ea8b4",
+      "title": "Multi-variate, Time Varying, and Comparative Visualization with Contextual Cues"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "13b311079bb8caae26ddb4521b49f9344897fbaf",
+      "title": "FacetMap: A Scalable Search and Browse Visualization"
+    },
+    {
+      "paperId": "e1f3e56e1cdde9c11a6c8dc4a9b227e5c15bed99",
+      "title": "Spatial Analysis of News Sources"
+    },
+    {
+      "paperId": "391c3b8b11ab882ef7b44b5464c3854d263302a0",
+      "title": "Visual Exploration of Complex Time-Varying Graphs"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "2f10df959646fff9c5cf726a7399eec1b6b1d009",
+      "title": "Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color."
+    },
+    {
+      "paperId": "bfcac98b1bbe04b081344c986c7df52a18cef1c3",
+      "title": "Combo: a whole genome comparative browser"
+    },
+    {
+      "paperId": "07f123fa297400c8ec9c8e06c1fde520fb550321",
+      "title": "Strategies for the visualization of multiple 2D vector fields"
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "498a8aa343d2ea2fdf3238aebb6412d63d46da7e",
+      "title": "Visualization of Whole Genome Alignment with LOD Representation"
+    },
+    {
+      "paperId": "3e28a61810a3e6e1bc5a7658648a29ec37de0ba9",
+      "title": "DNAVis: interactive visualization of comparative genome annotations"
+    },
+    {
+      "paperId": "38ce79c6dfc26b1f6c9b7f18a1c012428b3c70b0",
+      "title": "Parallel sets: visual analysis of categorical data"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "c9d59eaf99428c522a11003798945f4b2fa489c7",
+      "title": "ACT: the Artemis comparison tool"
+    },
+    {
+      "paperId": "657ece75e79cdc17b7382b9af85726ee56f009ef",
+      "title": "Turnitin.com: Teachers\u2019 Perspectives of Anti-Plagiarism Software in Raising Issues of Educational Integrity"
+    },
+    {
+      "paperId": "7cb2336e90f199f2c8fdccf04c7e9ce94ef78291",
+      "title": "Sentence-based natural language plagiarism detection"
+    },
+    {
+      "paperId": "12d12737392094d031b1e760894655117684603a",
+      "title": "Comparative flow visualization"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "69441f971efcf25c26d2d1ced6e127c7821c7cfe",
+      "title": "BEST PAPER: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "0175958fd32239d92800ff2a769b9aedf5e4fc92",
+      "title": "Mauve: multiple alignment of conserved genomic sequence with rearrangements."
+    },
+    {
+      "paperId": "e7e363d349c8140a49dfda5335ea8923107aed7e",
+      "title": "Textual difference visualization of multiple search results utilizing detail in context"
+    },
+    {
+      "paperId": "77d138208639a61a3fd8b52ea368c338f7e44b8b",
+      "title": "Causality visualization using animated growing polygons"
+    },
+    {
+      "paperId": "0a14c3b4276c13918710b1f606b6aea2c4c29d74",
+      "title": "Visualizing Related Metabolic Pathways in Two and a Half Dimensions"
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "dc59a32f70d7ed615cea9faee2379de777363986",
+      "title": "A system for graph-based visualization of the evolution of software"
+    },
+    {
+      "paperId": "e3554a1fa088da4c69de7728539f68e092f3902f",
+      "title": "Case study: visualizing sets of evolutionary trees"
+    },
+    {
+      "paperId": "a4d96c65252f2497280f29345b338df490367231",
+      "title": "Interactive visualization of multiple query results"
+    },
+    {
+      "paperId": "766333dd8b2bbbd7f3233b309c816475c80ab5d5",
+      "title": "Change blindness in information visualization: a case study"
+    },
+    {
+      "paperId": "522e223eb8c7e851515316418bff6c43f4cbbb98",
+      "title": "Using Visualization to Detect Plagiarism in Computer Science Classes"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "2ea23db6300a9f08c95d03a25b9ae2bcc645a760",
+      "title": "Change Blindness in the Absence of a Visual Disruption"
+    },
+    {
+      "paperId": "e3b0f1cadfa961b5cb6116b7842f1d057e5ed131",
+      "title": "Visualizing multi-dimensional data"
+    },
+    {
+      "paperId": "918a36bba02ddce82a5142ea5df583f6a6e3c28e",
+      "title": "Comparison Blindness"
+    },
+    {
+      "paperId": "a0b9abd669c18e608bd50b827963906723db9aa4",
+      "title": "Change Blindness: Theory or Paradigm?"
+    },
+    {
+      "paperId": "7c62f30c3d14c6c459e77a0a028ff56de287b771",
+      "title": "Interactive lens visualization techniques"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "95a6a4c6643eb97a8898eb635783ef7fec9f0667",
+      "title": "Data level comparison of wind tunnel and computational fluid dynamics data"
+    },
+    {
+      "paperId": "533d117ac38e5e66297e8e6dfedc044bfe83d3a0",
+      "title": "Effects of spatial separation in visual pattern matching: evidence on the role of mental translation."
+    },
+    {
+      "paperId": "a0706370b9dd89a55beb0c489bd3127ce6b764f8",
+      "title": "DEVise: integrated querying and visual exploration of large datasets"
+    },
+    {
+      "paperId": "17eea907960489e01edef5bd008ec76bfa3481c9",
+      "title": "First impressions are lasting impressions: A primacy effect in memory for repetitions"
+    },
+    {
+      "paperId": "16bd1d2716887808d8efc376ae08a7681b85c188",
+      "title": "Spotfire: an information exploration environment"
+    },
+    {
+      "paperId": "62c00e6bc4787a9ba86959ba1d6f7b3345fc63ef",
+      "title": "The WebBook and the Web Forager: an information workspace for the World-Wide Web"
+    },
+    {
+      "paperId": "631aa26feec3c398403f278183bbf7a96ea7e97c",
+      "title": "The information mural: a technique for displaying and navigating large information spaces"
+    },
+    {
+      "paperId": "22b931b75f8ebbcdb00f5065d2e885bb4bdb2644",
+      "title": "A classification of visual representations"
+    },
+    {
+      "paperId": "06442c82bbd9c3d895635f8f621f22626b7d0efb",
+      "title": "Comparative multivariate visualization across conceptually different graphic displays"
+    },
+    {
+      "paperId": "e4afcd6af26a9bd971521209348130f5cd22158c",
+      "title": "VisDB: database exploration using multidimensional visualization"
+    },
+    {
+      "paperId": "5417b3403bee25c2fce7418cb88624d62d39bf32",
+      "title": "Dotplot : a program for exploring self-similarity in millions of lines of text and code"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "c42808469839b08d27f59fb9b42868c2621711ff",
+      "title": "Same-different judgments: a review of current controversies in perceptual comparisons."
+    },
+    {
+      "paperId": "e442304fa2917dff84964d8b414928711c9c8ef1",
+      "title": "Size scaling in visual pattern recognition."
+    },
+    {
+      "paperId": "7bacea34f4e54b312ac82b6869bda359515947de",
+      "title": "10241 Executive Summary - Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "WinDiff Tool, Microsoft SDK Tools"
+    },
+    {
+      "paperId": null,
+      "title": "http://msdn.microsoft.com/en-us/library/ aa242739(v=vs.60).aspx"
+    },
+    {
+      "paperId": "18943bb525d0b2ba3d4d1c66bb31e2f9d862dbdc",
+      "title": "An Algorithm for Differential File Comparison"
+    },
+    {
+      "paperId": "2f2e38d029c4219bb96eb78f308402ca2af7a3b8",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Multiple object tracking is limited by crowding, but not speed"
+    },
+    {
+      "paperId": "613ba62dffa1e13db7d39cd4c8bfa300fc071479",
+      "title": "How many objects can you attentively track?: Evidence for a resource-limited tracking mechanism"
+    },
+    {
+      "paperId": "0010fb3d9983bf2a7cca6f49a30cf25dd2542e0f",
+      "title": "Visual analysis of network centralities"
+    },
+    {
+      "paperId": "b2c1cc037013fbbc8a0a4ed8f14de96ef698d6dc",
+      "title": "Beautiful Evidence"
+    },
+    {
+      "paperId": "c2c47a0d93d990be9fe21e9b1c7d8109c3a68345",
+      "title": "Visual Exploration of Complex Time-Varying Graphs"
+    },
+    {
+      "paperId": "5093962622ec52687830200a5937c5ae93d3f732",
+      "title": "Exploratory Visualization with Multiple Linked Views"
+    },
+    {
+      "paperId": "58818d79b771a1656191bba1487739d0c2afa2e5",
+      "title": "The siren song of implicit change detection."
+    },
+    {
+      "paperId": "d2196b5d2467d7e6ecaad8692e99ca48abc2f4a0",
+      "title": "Interactive Timeline Viewer (ItLv): A Tool to Visualize Variants Among Documents"
+    },
+    {
+      "paperId": "05c411c7a4ed522bd202c4e5ceec782075bfe011",
+      "title": "On the Failure to Detect Changes in Scenes Across Brief Interruptions"
+    },
+    {
+      "paperId": null,
+      "title": "DEVise. ACM SIGMOD Record"
+    },
+    {
+      "paperId": null,
+      "title": "Spot\ufb01re"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "40f66c568aa481c2304740e95939549f30b3803a",
+      "title": "Developing and adapting UNIX tools for workstations"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "English Hexapla New Testament"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "1ea1cab0911207ec2fd8a10ce0c8b3814c3b9987",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Pathline: a Tool for Comparative Functional Genomics"
+    },
+    {
+      "paperId": "38d8378cc1c779b5638bed9f7736b0c546684a7b",
+      "title": "Bioinformatics Applications Note Compam :visualization of Combining Pairwise Alignments for Multiple Genomes"
+    },
+    {
+      "paperId": "53767a56ad7bb38dfb343e19bda89e70d4a209ca",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, SPECIAL ISSUE ON VISUAL ANALYTICS 1 Visual Analysis of Large Heterogeneous Social Networks by Semantic and Structural Abstraction"
+    },
+    {
+      "paperId": "a35dae660ea962400ba626d44516e5709273b5d0",
+      "title": "Journal of Graph Algorithms and Applications Simultaneous Graph Drawing: Layout Algorithms and Visualization Schemes"
+    },
+    {
+      "paperId": null,
+      "title": "Preprint: Copy contains subtle differences with final publisher's version"
+    },
+    {
+      "paperId": "6c83524b5ed4ac3ce1d1ea35c9be9b75e03c9ca3",
+      "title": "Journal of Visual Languages & Computing Visual Comparison of Metabolic Pathways"
+    },
+    {
+      "paperId": null,
+      "title": "Implicit and explicit representations in scene perception"
+    }
+  ]
+}
