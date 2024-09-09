@@ -42,4 +42,5 @@ jobs:
     - name: Create paper posts
       run: |
         pwd
+        mkdir posts
         python scripts/createPaperPosts.py 

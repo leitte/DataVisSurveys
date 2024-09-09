@@ -17,5 +17,10 @@ for filename in os.listdir(directory):
         paperMetadata = loadPaperMetadata(filepath)
         if paperMetadata:
             print(paperMetadata['title'])
+            data = {
+                'title': paperMetadata['title']
+            }
+            with open('posts/mypost.yaml', 'w') as file:
+                yaml.dump(data, file)
 
     break
