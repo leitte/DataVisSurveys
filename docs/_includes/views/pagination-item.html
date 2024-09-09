@@ -40,9 +40,8 @@
     <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.authors | escape }}</span>
     {%- endif -%}
     {%- if post.venue -%}
-    <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.venue | escape }}</span>
+    <span class="post-author left-vsplit"><i class="fa fa-book"></i> {{ post.venue | escape }}</span>
     {%- endif -%}
-    <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
   </div>
   <div class="post-excerpt">
     {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
