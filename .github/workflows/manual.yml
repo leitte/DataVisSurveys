@@ -28,5 +28,15 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
+    - uses: actions/checkout@v4
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Create paper posts
+      run: |
+        pwd
+        ls
+        python scripts/createPaperPosts.py 
