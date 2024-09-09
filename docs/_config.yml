@@ -36,8 +36,15 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
+# Excerpt settings
 excerpt:
   text_size: 2000
+
+# Page default value
+defaults:
+  home:
+    heading: "Surveys on Data Visualization"
+    subheading: "A list of papers that structure the research on data visualization."
 
 # Exclude from processing.
 # The following items will not be processed, by default.
