@@ -1,0 +1,151 @@
+{
+  "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+  "externalIds": {
+    "DBLP": "conf/iv/KeimMSZ06",
+    "MAG": "2171036274",
+    "DOI": "10.1109/IV.2006.31",
+    "CorpusId": 5877056
+  },
+  "publicationVenue": {
+    "id": "72c05183-0dc0-4677-a987-a1d6a8691b97",
+    "name": "International Conference on Information Visualisation",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE International Conference on Information Visualization",
+      "Intell Veh Symp",
+      "IEEE Int Conf Inf Vis",
+      "IV",
+      "Int Conf Inf Vis",
+      "Intelligent Vehicles Symposium"
+    ],
+    "url": "http://www.wikicfp.com/cfp/program?id=1803"
+  },
+  "url": "https://www.semanticscholar.org/paper/61dd71f9c2c877651a50a5422f23739aef42f09f",
+  "title": "Challenges in Visual Data Analysis",
+  "abstract": "In today's applications data is produced at unprecedented rates. While the capacity to collect and store new data grows rapidly, the ability to analyze these data volumes increases at much lower pace. This gap leads to new challenges in the analysis process, since analysts, decision makers, engineers, or emergency response teams depend on information \"concealed\" in the data. The emerging field of visual analytics focuses on handling massive, heterogenous, and dynamic volumes of information through integration of human judgement by means of visual representations and interaction techniques in the analysis process. Furthermore, it is the combination of related research areas including visualization, data mining, and statistics that turns visual analytics into a promising field of research. This paper aims at providing an overview of visual analytics, its scope and concepts, and details the most important technical research challenges in the field",
+  "venue": "International Conference on Information Visualisation",
+  "year": 2006,
+  "referenceCount": 16,
+  "openAccessPdf": {
+    "url": "https://kops.uni-konstanz.de/bitstreams/3a0170ca-a333-4498-8c3f-eb145168ad9a/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2006-07-05",
+  "journal": {
+    "name": "Tenth International Conference on Information Visualisation (IV'06)",
+    "pages": "9-16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Keim2006ChallengesIV,\n author = {D. Keim and Florian Mansmann and J\u00f6rn Schneidewind and H. Ziegler},\n booktitle = {International Conference on Information Visualisation},\n journal = {Tenth International Conference on Information Visualisation (IV'06)},\n pages = {9-16},\n title = {Challenges in Visual Data Analysis},\n year = {2006}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    },
+    {
+      "authorId": "1807859",
+      "name": "Florian Mansmann"
+    },
+    {
+      "authorId": "1708500",
+      "name": "J\u00f6rn Schneidewind"
+    },
+    {
+      "authorId": "50328795",
+      "name": "H. Ziegler"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "2804edeb7f06e122832b779b8a8685ba3028de3b",
+      "title": "CircleView: a new approach for visualizing time-related multidimensional data sets"
+    },
+    {
+      "paperId": "ece02e436aab5a3ca6ec02af281216500a6e5f74",
+      "title": "ReMail: a reinvented email prototype"
+    },
+    {
+      "paperId": "cdd3450b88e0eaa110c0a9d348c01dfc9ce41ac7",
+      "title": "Visual Scalability"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Proceedings of the Information Visualization"
+    },
+    {
+      "paperId": "4336286c80e30063835cc03dbd414ad06b8126e0",
+      "title": "A Visual Analytics Agenda"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Exploration of Large Geo-Spatial Data Sets"
+    },
+    {
+      "paperId": null,
+      "title": "Visual analytics - guest editors\u2019 introduction"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization - Perception for Design"
+    },
+    {
+      "paperId": "2c6807215be611dbefe9c21ed439a9004268da0b",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "a15174ed603bae1b101c4655111bb511787b95b4",
+      "title": "The magical number seven plus or minus two: some limits on our capacity for processing information."
+    },
+    {
+      "paperId": "3c26347f3c6b2b403eda930c3396a8457f5591f5",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) a Spectral Visualization System for Analyzing Financial Time Series Data"
+    },
+    {
+      "paperId": null,
+      "title": "MIT Project Oxygen"
+    }
+  ]
+}

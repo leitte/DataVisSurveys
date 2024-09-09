@@ -1,0 +1,194 @@
+{
+  "paperId": "a70b2cef23129722e12c5fccffd24f5c04b798a2",
+  "externalIds": {
+    "DBLP": "conf/iv/LiangH10",
+    "MAG": "2151177154",
+    "DOI": "10.1109/IV.2010.21",
+    "CorpusId": 15233735
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/a70b2cef23129722e12c5fccffd24f5c04b798a2",
+  "title": "Highlighting in Information Visualization: A Survey",
+  "abstract": "Highlighting was the basic viewing control mechanism in computer graphics and visualization to guide users\u2019 attention in reading diagrams, images, graphs and digital texts. As the rapid growth of theory and practice in information visualization, highlighting has extended its role that acts as not only a viewing control, but also an interaction control and a graphic recommendation mechanism in knowledge visualization and visual analytics. In this work, we attempt to give a formal summarization and classification of the existing highlighting methods and techniques that can be applied in Information Visualization, Visual Analytics and Knowledge Visualization. We propose a new three-layer model of highlighting. We discuss the responsibilities of each layer in the different stage of the visual information processing.",
+  "venue": "2010 14th International Conference Information Visualisation",
+  "year": 2010,
+  "referenceCount": 34,
+  "openAccessPdf": {
+    "url": "https://opus.lib.uts.edu.au/bitstream/10453/16114/1/2010001402.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2010-07-26",
+  "journal": {
+    "name": "2010 14th International Conference Information Visualisation",
+    "pages": "79-85"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liang2010HighlightingII,\n author = {Jie Liang and M. Huang},\n booktitle = {2010 14th International Conference Information Visualisation},\n journal = {2010 14th International Conference Information Visualisation},\n pages = {79-85},\n title = {Highlighting in Information Visualization: A Survey},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2118672100",
+      "name": "Jie Liang"
+    },
+    {
+      "authorId": "1708218",
+      "name": "M. Huang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "27acb73bb44dde512042bbe72e0cfa5e6d528afd",
+      "title": "A Visualization Approach for Frauds Detection in Financial Market"
+    },
+    {
+      "paperId": "b133b23da12b7358b77e1ec4e7615c7f4ff66b89",
+      "title": "Context Visualization for Visual Data Mining"
+    },
+    {
+      "paperId": "a6a0470c7384616249cae9b277765244ac339a16",
+      "title": "Interacting with parallel coordinates"
+    },
+    {
+      "paperId": "8993e5852e6e137bc839ede05645100617966930",
+      "title": "Graph Signatures for Visual Analytics"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "8f69bd90150a3d727ec80d866d2011a105ae454d",
+      "title": "Zooming versus multiple window interfaces: Cognitive costs of visual comparisons"
+    },
+    {
+      "paperId": "ea861083ae60c0410bf0de3b99846e71d0a92663",
+      "title": "An evaluation of content browsing techniques for hierarchical space-filling visualizations"
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "fdda0aea5dd7f780f5d41f985452e711d8f9d6fe",
+      "title": "Supporting Visual Queries on Medium-Sized Node\u2013Link Diagrams"
+    },
+    {
+      "paperId": "ae770cc13ac34526ab36e6c9a42f6daa9fe610ed",
+      "title": "EncCon: An Approach to Constructing Interactive Visualization of Large Hierarchical Data"
+    },
+    {
+      "paperId": "16653936e9bac14afec2e19abba446b8f7aefa73",
+      "title": "A focus+context visualization technique using semi-transparency"
+    },
+    {
+      "paperId": "83a451fa323f77a9edcbafa4531f506e7c548bd0",
+      "title": "Motion to support rapid interactive queries on node--link diagrams"
+    },
+    {
+      "paperId": "f90fd4288a0f7584c535c45924bdf7bc9e70c02a",
+      "title": "Thread Arcs: an email thread visualization"
+    },
+    {
+      "paperId": "4ac5b5c6f7f8e5b4f279780e6d0cfbc287d06d8e",
+      "title": "Focusing on the essential"
+    },
+    {
+      "paperId": "e0d956201eb116d6ea63fc6a94db534097351a89",
+      "title": "Filtering and Brushing with Motion"
+    },
+    {
+      "paperId": "692157214c61fe7ec198472ce2ac42d647dda5a2",
+      "title": "Semantic depth of field"
+    },
+    {
+      "paperId": "c744b26838e9bef0d447b26b4574eb07eab7e9b4",
+      "title": "Fisheye menus"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "00dd17379f01b4d9afbbc622693d921307aaa975",
+      "title": "Designing and Evaluating Visualization Techniques for Construction Planning"
+    },
+    {
+      "paperId": "8fe98585153b2236aba6693dbeadaae188040738",
+      "title": "Young Children\u2019s Recognition and Description of Their Own and Others\u2019 Drawings"
+    },
+    {
+      "paperId": "b22f6f90066b3b3b73a39ec3696a565e9d5cfb77",
+      "title": "Social and content-based approach for visual recommendation of Web graphics"
+    },
+    {
+      "paperId": "cbc48c00c35c5e770430dc644aa9e5528caf0a29",
+      "title": "Footprints: history-rich tools for information foraging"
+    },
+    {
+      "paperId": "d40149e42a3e2890b5ba52feb6560ef5b076c123",
+      "title": "Visualizing implicit queries for information management and retrieval"
+    },
+    {
+      "paperId": "ff098c0199c5dc4fbc489881f1d334588e937f95",
+      "title": "High Dimensional Brushing for Interactive Exploration of Multivariate Data"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "dd8e0dc1860f7cc2ec74e5dcb785358eef29f0ec",
+      "title": "VISUAL HIGHLIGHTING METHODS FOR GEOVISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Thinking  with an Interactive Social Network Diagram'.ACM"
+    },
+    {
+      "paperId": "a16933429397c0380e6a738bed3f8dc8427db1d3",
+      "title": "Highlighting Techniques to Support Geovisualization"
+    },
+    {
+      "paperId": "099e9539afc11ca2f228058a1af071bd496c2d31",
+      "title": "Visualizing Shared Highlighting Annotations"
+    },
+    {
+      "paperId": "4f5c0663dfabfa954bd340e6bad83382da12693f",
+      "title": "Supporting visual analysis of federal geospatial statistics"
+    },
+    {
+      "paperId": "baa947a750b2d5714284386e2d7a2b7e838da7dc",
+      "title": "Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs"
+    },
+    {
+      "paperId": null,
+      "title": "InteractiveMap"
+    },
+    {
+      "paperId": null,
+      "title": "ThinkMap Visual Thesaurus"
+    },
+    {
+      "paperId": null,
+      "title": "Hyper Tree retrieved Feb 20 2010 from http://Hypertree .sourceforge.net"
+    }
+  ]
+}

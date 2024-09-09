@@ -1,0 +1,171 @@
+{
+  "paperId": "b7b0f5888cfb3f4f4cd7015214b1223670eb0e4a",
+  "externalIds": {
+    "DBLP": "conf/apvis/JenaEDRP20",
+    "MAG": "3022219957",
+    "DOI": "10.1109/PacificVis48177.2020.1014",
+    "CorpusId": 218565126
+  },
+  "publicationVenue": {
+    "id": "5e8a55cb-fc9d-4567-be61-ca880f358422",
+    "name": "IEEE Pacific Visualization Symposium",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE Pac Vis Symp",
+      "PacificVis"
+    ],
+    "issn": "2165-8765",
+    "alternate_issns": [
+      "2165-8773"
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001657"
+  },
+  "url": "https://www.semanticscholar.org/paper/b7b0f5888cfb3f4f4cd7015214b1223670eb0e4a",
+  "title": "Uncertainty Visualisation: An Interactive Visual Survey",
+  "abstract": "There exists a gulf between the rhetoric in visualisation research about the significance of uncertainty and the inclusion of representations of uncertainty in visualisations used in practice. The graphical representation of uncertainty information has emerged as a problem of great importance in visualisation research. This contribution presents a survey of 286 uncertainty visualisation research publications. All publications are categorised with regard to publication type, publication venue, application domain, target user, and evaluation type. We present an interactive web-based browser that facilitates easy visual search and exploration of the publications included in the survey. We conclude that uncertainty visualisation is severely limited by the quality and scope of uncertainty data, by the limited confidence in the data, and by the perceptual and cognitive confusion that the graphical representation of the data can generate.",
+  "venue": "IEEE Pacific Visualization Symposium",
+  "year": 2020,
+  "referenceCount": 22,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-06-01",
+  "journal": {
+    "name": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+    "pages": "201-205"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Jena2020UncertaintyVA,\n author = {Amit Jena and U. Engelke and Tim Dwyer and Venkatesh Raiamanickam and C\u00e9cile Paris},\n booktitle = {IEEE Pacific Visualization Symposium},\n journal = {2020 IEEE Pacific Visualization Symposium (PacificVis)},\n pages = {201-205},\n title = {Uncertainty Visualisation: An Interactive Visual Survey},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2063959493",
+      "name": "Amit Jena"
+    },
+    {
+      "authorId": "1766832",
+      "name": "U. Engelke"
+    },
+    {
+      "authorId": "145835767",
+      "name": "Tim Dwyer"
+    },
+    {
+      "authorId": "1685666776",
+      "name": "Venkatesh Raiamanickam"
+    },
+    {
+      "authorId": "2063030516",
+      "name": "C\u00e9cile Paris"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "288786303e9b605d475111c8d61f688af216b715",
+      "title": "Visualizing Uncertainty"
+    },
+    {
+      "paperId": "e0833220c257bdf31fd99261576cc7d4129adbc1",
+      "title": "Visualizing Flow of Uncertainty through Analytical Processes"
+    },
+    {
+      "paperId": "6a206fd922440a323a72fbd7c47a26d0399cb7a2",
+      "title": "Improving the Analyst and Decision-Maker's Perspective through Uncertainty Visualization"
+    },
+    {
+      "paperId": "6ba99894992fd7d4c6d8a26b7b45be2592d7d732",
+      "title": "Visualizing Uncertainty About the Future"
+    },
+    {
+      "paperId": "f23d7086becb339a8fa982a2fa091bb5e44fc687",
+      "title": "Communication of Uncertainty Regarding Individualized Cancer Risk Estimates"
+    },
+    {
+      "paperId": "0a6547576dc85264cde0232d6995e4e56c1635ea",
+      "title": "Communicating the Uncertainty of Harms and Benefits of Medical Interventions"
+    },
+    {
+      "paperId": "0e1b45855e40a279f2d2d0415ef43844de38a5a0",
+      "title": "Online Surveys"
+    },
+    {
+      "paperId": "350d6844076f1b773769af46fec806d344f7f2f7",
+      "title": "Being Sensitive to Uncertainty"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "762ebdc6ae0fa5012f9fb47f5705a660b9738705",
+      "title": "Graphical Methods in Statistics"
+    },
+    {
+      "paperId": "3a1cf85ac7a9ca80f6cc5d94f1ccbcfbf7b1f21b",
+      "title": "Quantitative Graphics in Statistics: A Brief History"
+    },
+    {
+      "paperId": null,
+      "title": "The timeviz browser"
+    },
+    {
+      "paperId": null,
+      "title": "Uncertainty visualization and data references"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "fa52d9267061a94ab1a633c00ab679e2e847622f",
+      "title": "Expert Systems: Principles and Programming"
+    },
+    {
+      "paperId": "e991303f696bb181357c1425f9266d914655f9cd",
+      "title": "Ignorance and Uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "N. Abercrombie. Stephen hill i bryan s. turner"
+    },
+    {
+      "paperId": "fb0722da3936039e5eb4fe4cc4abb470bd00e6b6",
+      "title": "Judgment under uncertainty: Variants of uncertainty"
+    },
+    {
+      "paperId": null,
+      "title": "Stephen hill i bryan s. turner. 1984. dictionary of sociology"
+    }
+  ]
+}

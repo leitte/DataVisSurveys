@@ -1,0 +1,266 @@
+{
+  "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+  "externalIds": {
+    "MAG": "2035324138",
+    "DBLP": "conf/apvis/JavedE12",
+    "DOI": "10.1109/PACIFICVIS.2012.6183556",
+    "CorpusId": 16056300
+  },
+  "publicationVenue": {
+    "id": "5e8a55cb-fc9d-4567-be61-ca880f358422",
+    "name": "IEEE Pacific Visualization Symposium",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE Pac Vis Symp",
+      "PacificVis"
+    ],
+    "issn": "2165-8765",
+    "alternate_issns": [
+      "2165-8773"
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001657"
+  },
+  "url": "https://www.semanticscholar.org/paper/bcce7708d7638fa0e39738444c42d244ef9f1c90",
+  "title": "Exploring the design space of composite visualization",
+  "abstract": "We propose the notion of composite visualization views (CVVs) as a theoretical model that unifies the existing coordinated multiple views (CMV) paradigm with other strategies for combining visual representations in the same geometrical space. We identify five such strategies - called CVV design patterns - based on an extensive review of the literature in composite visualization. We go on to show how these design patterns can all be expressed in terms of a design space describing the correlation between two visualizations in terms of spatial mapping as well as the data relationships between items in the visualizations. We also discuss how to use this design space to suggest potential directions for future research.",
+  "venue": "IEEE Pacific Visualization Symposium",
+  "year": 2012,
+  "referenceCount": 49,
+  "openAccessPdf": {
+    "url": "https://engineering.purdue.edu/~elm/projects/compvis/compvis.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-02-28",
+  "journal": {
+    "name": "2012 IEEE Pacific Visualization Symposium",
+    "pages": "1-8"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Javed2012ExploringTD,\n author = {Waqas Javed and N. Elmqvist},\n booktitle = {IEEE Pacific Visualization Symposium},\n journal = {2012 IEEE Pacific Visualization Symposium},\n pages = {1-8},\n title = {Exploring the design space of composite visualization},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2229678",
+      "name": "Waqas Javed"
+    },
+    {
+      "authorId": "1722415",
+      "name": "N. Elmqvist"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "3f00d48d34784367e03421fe7690abb1da5bf531",
+      "title": "Cross-Filtered Views for Multidimensional Visual Analysis"
+    },
+    {
+      "paperId": "c1491cd884ca55acb7b7b848d4965e2ebe3c801a",
+      "title": "Scattering Points in Parallel Coordinates"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "5bb311ea1801a71b6f5f2d4d3c1ef28b2ae0414a",
+      "title": "Towards Utilizing GPUs in Information Visualization: A Model and Implementation of Image-Space Operations"
+    },
+    {
+      "paperId": "b82fdfcc95aa1fd70c49c74a2e58797c91f81cf2",
+      "title": "ComVis: A Coordinated Multiple Views System for Prototyping New Visualization Technology"
+    },
+    {
+      "paperId": "fde3725376d405bba1cf88100cc3841caa8d7e1d",
+      "title": "Multilayer hybrid visualizations to support 3D GIS"
+    },
+    {
+      "paperId": "aa60f3ea90f423cd06e523c57c38ba822bd13251",
+      "title": "ZAME: Interactive Large-Scale Graph Visualization"
+    },
+    {
+      "paperId": "bf91edbc13638182dae89e1faa2257f9eb08dae8",
+      "title": "VisLink: Revealing Relationships Amongst Visualizations"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "d06666816202d808cfbfa8c4ddfebb8c1e51adb2",
+      "title": "Patterns of coordination in Improvise visualizations"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "bfafe31266b84f8f3a7bfd5e5beb60c81815ce36",
+      "title": "Software Design Patterns for Information Visualization"
+    },
+    {
+      "paperId": "89874d244c4016511183115bed017e77837f74b2",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Arctrees: Visualizing Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "1007154e3408bcacb34165379fcdcd1a38298dd3",
+      "title": "Building Highly-Coordinated Visualizations in Improvise"
+    },
+    {
+      "paperId": "2f43a4490ef40fb15f23068a8f6dcca125207c8a",
+      "title": "Overlaying Graph Links on Treemaps"
+    },
+    {
+      "paperId": "742435182ce587de92dc81d6fe2b034c23d96ec4",
+      "title": "A coordination model for exploratory multiview visualization"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "1274c1f7a556f968cec299b8b8ba279e46e6f8eb",
+      "title": "Snap-together visualization: a user interface for coordinating visualizations via relational schemata"
+    },
+    {
+      "paperId": "e9013809db9f9761ba371403f7e87556dcf6474c",
+      "title": "A Taxonomy of Multiple Window Coordinations"
+    },
+    {
+      "paperId": "c35813c6a9160d4c6a4bc45003af88a6d66daf06",
+      "title": "On encouraging multiple views for visualization"
+    },
+    {
+      "paperId": "a24145289e11c45dfceba429f2f0751295b3f5a2",
+      "title": "Robust, end-user programmable, multiple-window coordination"
+    },
+    {
+      "paperId": "142d23fd6bbdca45cbfca7766e17dea3bfbfab61",
+      "title": "Designing the user interface strategies for effective human-computer interaction"
+    },
+    {
+      "paperId": "1bd467c0d6644508b20bc30f9305acdda0960473",
+      "title": "Multivariate visualization using metric scaling"
+    },
+    {
+      "paperId": "2fe7386197dc75720e304f0827a18a51173a0a8c",
+      "title": "Visualizing data"
+    },
+    {
+      "paperId": "8106334201c9733f9e02f8e0fea89865332260c4",
+      "title": "Visage: dynamic information exploration"
+    },
+    {
+      "paperId": "61b9cdbe2784e1c7c636fd22ba14b4974c06ee70",
+      "title": "GeoSpace: an interactive visualization system for exploring complex information spaces"
+    },
+    {
+      "paperId": "86797de0265403a48bd1d53ccebb3a797ea2c674",
+      "title": "Pad++: a zooming graphical interface for exploring alternate interface physics"
+    },
+    {
+      "paperId": "c896bd1e3619472843a4b490192be645bb17fcad",
+      "title": "Zooming and tunneling in Tioga: supporting navigation in multidimensional space"
+    },
+    {
+      "paperId": "7798bf37b2a7bc82c7cebb1d4dafdaf4cac91159",
+      "title": "Visual information seeking: tight coupling of dynamic query filters with starfield displays"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "8a0069638e04c62aa051888dbb34f52a1126cb3a",
+      "title": "Cognitive Layouts of Windows and Multiple Screens for User Interfaces"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "cdaeebff8b8ed05d942b9a28d4fb53feb3f793ae",
+      "title": "A Pattern Language: Towns, Buildings, Construction"
+    },
+    {
+      "paperId": "6fe0cd0c531ac2072826eed3be4a5a18d007987f",
+      "title": "Technology"
+    },
+    {
+      "paperId": "82242a02d6d43a27ad9cdceea0142b916f3ac670",
+      "title": "Making a GIS Intelligent: CommonGIS Project View"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "51fa064ff556a2ebf3a4aacf9addf08392b0d8a5",
+      "title": "Mapgets: a Tool for Visualizing and Querying Geographic Information"
+    },
+    {
+      "paperId": "a5a717572be243e6ad1f874ba3567eb22c4026f9",
+      "title": "Design patterns: elements of reuseable object-oriented software"
+    },
+    {
+      "paperId": "862eabd0ad6cfd49e95f3926df9df91b9f26cc83",
+      "title": "Designing the User Interface. Strategies for Effective Human-Computer Interaction"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": null,
+      "title": "Boxplots \u2022 Show distribution \u2022 Single value (e.g. mean, max, min, quartiles) doesn't convey everything"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+  "externalIds": {
+    "DBLP": "journals/widm/AlencarOP12",
+    "MAG": "1984599773",
+    "DOI": "10.1002/widm.1071",
+    "CorpusId": 44847534
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+  "title": "Seeing beyond reading: a survey on visual text analytics",
+  "abstract": "We review recent visualization techniques aimed at supporting tasks that require the analysis of text documents, from approaches targeted at visually summarizing the relevant content of a single document to those aimed at assisting exploratory investigation of whole collections of documents.Techniques are organized considering their target input material\u2014either single texts or collections of texts\u2014and their focus, which may be at displaying content, emphasizing relevant relationships, highlighting the temporal evolution of a document or collection, or helping users to handle results from a query posed to a search engine.We describe the approaches adopted by distinct techniques and briefly review the strategies they employ to obtain meaningful text models, discuss how they extract the information required to produce representative visualizations, the tasks they intend to support and the interaction issues involved, and strengths and limitations. Finally, we show a summary of techniques, highlighting their goals and distinguishing characteristics. We also briefly discuss some open problems and research directions in the fields of visual text mining and text analytics. \u00a9 2012 Wiley Periodicals, Inc.",
+  "venue": "WIREs Data Mining Knowl. Discov.",
+  "year": 2012,
+  "referenceCount": 66,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-11-01",
+  "journal": {
+    "name": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery",
+    "volume": "2"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Alencar2012SeeingBR,\n author = {A. B. Alencar and Maria Cristina Ferreira de Oliveira and F. Paulovich},\n booktitle = {WIREs Data Mining Knowl. Discov.},\n journal = {Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},\n title = {Seeing beyond reading: a survey on visual text analytics},\n volume = {2},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "35198978",
+      "name": "A. B. Alencar"
+    },
+    {
+      "authorId": "2110928516",
+      "name": "Maria Cristina Ferreira de Oliveira"
+    },
+    {
+      "authorId": "2900220",
+      "name": "F. Paulovich"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4652f8f15f24278c513e8089a61e059f62ae7ab5",
+      "title": "Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization"
+    },
+    {
+      "paperId": "b047f788c7b87eb9706acc249f6a5228dd746a38",
+      "title": "Time-aware visualization of document collections"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "f2db23244acfaa397720b0cac324b2fd07d95b79",
+      "title": "An incremental space to visualize dynamic data sets"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "bd113c0d43280ab533c7cf8ad64a5785c215438c",
+      "title": "Context preserving dynamic word cloud visualization"
+    },
+    {
+      "paperId": "270640a16aec0caf4c4fc59c087567981519f4a4",
+      "title": "ManiWordle: Providing Flexible Control over Wordle"
+    },
+    {
+      "paperId": "b3112765b0b447716136cb539b5e5fabb3683559",
+      "title": "Visualizing the web search results with web search visualization using scatter plot"
+    },
+    {
+      "paperId": "60100564eb762a996c4c08ada1e380b9967f5d0c",
+      "title": "Visual summarization of web pages"
+    },
+    {
+      "paperId": "0e76830e9ab3848994f0fb188a55a1bb48075f85",
+      "title": "Dynamic animations of journal maps: Indicators of structural changes and interdisciplinary developments"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "7472c904447935a896f112b2d60d3edca3cc10ae",
+      "title": "Mapping Text with Phrase Nets"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "348a3dd39eeb1d50680b558fc09bae24e8c6a4de",
+      "title": "Search User Interfaces"
+    },
+    {
+      "paperId": "4d930e202e4a3fff8f96d8777cd63d7ddd07ac2f",
+      "title": "Topic-Based Coordination for Visual Analysis of Evolving Document Collections"
+    },
+    {
+      "paperId": "84266ee8fc6b4499433ae75b8ff59c11d58ad996",
+      "title": "Document Visualization Based on Semantic Graphs"
+    },
+    {
+      "paperId": "14941da95f6b88a6b59fc45634904763ea4e882e",
+      "title": "DocuBurst: Visualizing Document Content using Language Structure"
+    },
+    {
+      "paperId": "d3f57de48dbbe4a56b6b1b0465b7be719c943d70",
+      "title": "Visual snippets: summarizing web pages for search and revisitation"
+    },
+    {
+      "paperId": "3306edb7be3a90db31b38af1fe9aefb61beb226c",
+      "title": "HiPP: A Novel Hierarchical Point Placement Strategy and its Application to the Exploration of Document Collections"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "b50a6e0d5c52d1c7b184aa9357ebaedf9a314565",
+      "title": "On the Beauty and Usability of Tag Clouds"
+    },
+    {
+      "paperId": "a9c9cb9d1e7694cf90aa61141232b4c04ec23ece",
+      "title": "113 Years of Physical Review: Using Flow Maps to Show Temporal and Topical Citation Patterns"
+    },
+    {
+      "paperId": "2ea74e73914c58c0f13cf9d76f96a33d25498657",
+      "title": "Least Square Projection: A Fast High-Precision Multidimensional Projection Technique and Its Application to Document Mapping"
+    },
+    {
+      "paperId": "aa8f038f53923a9556968e512cc5b9f07e8cd935",
+      "title": "Improving relevance judgment of web search results with image excerpts"
+    },
+    {
+      "paperId": "3d41c6f9bce5e663d1621eac7abbf224c762261f",
+      "title": "Sequential Document Visualization"
+    },
+    {
+      "paperId": "474178dae941d135190ba98cfb7c3aa67924b09b",
+      "title": "Literature Fingerprinting: A New Method for Visual Literary Analysis"
+    },
+    {
+      "paperId": "86d0e7b00fcdad80dfc108b89172ea6fdafb8716",
+      "title": "Visual text mining using association rules"
+    },
+    {
+      "paperId": "c1c1fefc013d16e2f7f493703ee288d902f328bb",
+      "title": "Tag clouds for summarizing web search results"
+    },
+    {
+      "paperId": "c37873e2b57529ffa0e3cdeb24ab83b4161a30d1",
+      "title": "Interactive Web Information Retrieval Using WordBars"
+    },
+    {
+      "paperId": "b90d922ff07d0eb8d77b8687aba7f55bd3926436",
+      "title": "Hierarchical Dirichlet Processes"
+    },
+    {
+      "paperId": "8dfe281c15f7b783bb0f3429a3e86847e9c1b6d1",
+      "title": "A Novel Visualization Model for Web Search Results"
+    },
+    {
+      "paperId": "01c3c86c5d68765438c7e191c054c5f9750f4073",
+      "title": "Balancing Systematic and Flexible Exploration of Social Networks"
+    },
+    {
+      "paperId": "cc309a0a241d37abae843e2a5f244bcbf24e269c",
+      "title": "The Visual Exploration ofWeb Search Results Using HotMap"
+    },
+    {
+      "paperId": "75cf13f35bb4456270c1c7cb835e234d42b90af4",
+      "title": "Web site design with the patron in mind: A step-by-step guide for libraries"
+    },
+    {
+      "paperId": "bf38bc0f0764485c18ae4fb1795ff03efcbc7a9c",
+      "title": "CiteSpace II: Detecting and visualizing emerging trends and transient patterns in scientific literature"
+    },
+    {
+      "paperId": "7382250c046e29b0ef46887756dc279f07eb9df3",
+      "title": "Visualizing query occurrence in search result lists"
+    },
+    {
+      "paperId": "3100547742bff53b360f592717330f69401ad866",
+      "title": "Summary thumbnails: readable overviews for small screen web browsers"
+    },
+    {
+      "paperId": "00d52ad69f539e0419d6f3e42ff16d48e5dfc241",
+      "title": "Visualizing knowledge domains"
+    },
+    {
+      "paperId": "a76077c1cc431081a4146d1b36d65f20d56a5a32",
+      "title": "RankSpiral: Toward Enhancing Search Results Visualizations"
+    },
+    {
+      "paperId": "3b799b49a0ae657f9935089199d7c393d50bb988",
+      "title": "Studying cooperation and conflict between authors with history flow visualizations"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "92cea841210de9692238fdea3c61b772383e704b",
+      "title": "Benefits of document maps for text access in knowledge management: a comparative study"
+    },
+    {
+      "paperId": "0a5339ea02b719101a86c537235d520bbbe2b32d",
+      "title": "Overview"
+    },
+    {
+      "paperId": "bfd8fc760b243d206213342fa17028413099636b",
+      "title": "The Ecological Approach to Text Visualization"
+    },
+    {
+      "paperId": "4bc2d01056336caee7fecb3230f38b6bec7ce591",
+      "title": "TileBars: visualization of term distribution information in full text information access"
+    },
+    {
+      "paperId": "c92968494a79135c7e8cfb48414312722f14d8a3",
+      "title": "Multi-Paragraph Segmentation Expository Text"
+    },
+    {
+      "paperId": "d5f169880e30e1f76827d72f862555d00b01bed9",
+      "title": "A vector space model for automatic indexing"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": "a876974f011ae77c0fb0955e8a5af4a2b712ef70",
+      "title": "Real-time Visualization of Streaming Text with Force-Based Dynamic System"
+    },
+    {
+      "paperId": null,
+      "title": "Tag Crowd (Home page)"
+    },
+    {
+      "paperId": null,
+      "title": "TM Visual document analysis"
+    },
+    {
+      "paperId": "a18611aa78fe9016fc6416690768fdf5abbf2f4f",
+      "title": "Supporting Web Search with Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "JabRef Development Team"
+    },
+    {
+      "paperId": null,
+      "title": "TIARA: a visual exploratory text analytic system"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+      "title": "Latent Dirichlet Allocation"
+    },
+    {
+      "paperId": null,
+      "title": "Improving tagclouds as visual information retrieval"
+    },
+    {
+      "paperId": "5730dd763625e15a5ab703283bb305f48660f374",
+      "title": "ThemeRiver: Visualizing Thematic Changes in Large Document Collections"
+    },
+    {
+      "paperId": "c9ebf0d7ba518f835b57eace8374dc448e062ea1",
+      "title": "A cartographic approach to visualizing conference abstracts"
+    },
+    {
+      "paperId": "e65d9385191c9289f5a2c5be76ac7908c0cc40aa",
+      "title": "TOPIC ISLANDS - a wavelet-based text visualization system"
+    },
+    {
+      "paperId": null,
+      "title": "Multi-paragraph segmentation of expository text. In: Proceedingsof the 32nd Meeting of the Association for Computational Linguistics. Stroudsburg, PA: Association for Computational Linguistics"
+    },
+    {
+      "paperId": "3650135f5d32722fee78bd8526f5696914e9de9a",
+      "title": "Available From"
+    },
+    {
+      "paperId": null,
+      "title": "Sci 2 Team"
+    },
+    {
+      "paperId": null,
+      "title": "WIREs Data Mining and Knowledge Discovery Seeing beyond reading"
+    },
+    {
+      "paperId": null,
+      "title": "Pacific Northwest National Laboratory (PNNL)"
+    },
+    {
+      "paperId": null,
+      "title": "Volume 2, November/December 2012"
+    }
+  ]
+}

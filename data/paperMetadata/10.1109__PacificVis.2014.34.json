@@ -1,0 +1,170 @@
+{
+  "paperId": "bac952f70fdfc30fb2291455b9a17f15807643ed",
+  "externalIds": {
+    "MAG": "2070342451",
+    "DBLP": "conf/apvis/HaebSPHEBS14",
+    "DOI": "10.1109/PacificVis.2014.34",
+    "CorpusId": 33017786
+  },
+  "publicationVenue": {
+    "id": "5e8a55cb-fc9d-4567-be61-ca880f358422",
+    "name": "IEEE Pacific Visualization Symposium",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE Pac Vis Symp",
+      "PacificVis"
+    ],
+    "issn": "2165-8765",
+    "alternate_issns": [
+      "2165-8773"
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001657"
+  },
+  "url": "https://www.semanticscholar.org/paper/bac952f70fdfc30fb2291455b9a17f15807643ed",
+  "title": "Visualization of Building Performance Simulation Results: State-of-the-Art and Future Directions",
+  "abstract": "Performance attributes such as energy use or natural ventilation are becoming rapidly more important in the design of modern buildings. As a basis for the improvement of existing visualization techniques in this application domain, we provide a detailed tasks and requirements analysis using feedback from an architect. State-of-the-art visualization strategies used for building performance simulation results are then evaluated by comparing them to the quality aspects derived before. This assessment specifically reveals shortcomings with respect to the applied techniques for visualizing spatiotemporal data. Therefore, we discuss the potential of utilizing other visualization techniques to meet the identified prerequisites and reveal future directions based on these findings.",
+  "venue": "IEEE Pacific Visualization Symposium",
+  "year": 2014,
+  "referenceCount": 20,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-03-04",
+  "journal": {
+    "name": "2014 IEEE Pacific Visualization Symposium",
+    "pages": "311-315"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Haeb2014VisualizationOB,\n author = {Kathrin Haeb and Stephanie Schweitzer and D. F. Prieto and Eva Hagen and D. Engel and M. B\u00f6ttinger and Inga Scheler},\n booktitle = {IEEE Pacific Visualization Symposium},\n journal = {2014 IEEE Pacific Visualization Symposium},\n pages = {311-315},\n title = {Visualization of Building Performance Simulation Results: State-of-the-Art and Future Directions},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2139362",
+      "name": "Kathrin Haeb"
+    },
+    {
+      "authorId": "39809120",
+      "name": "Stephanie Schweitzer"
+    },
+    {
+      "authorId": "3160591",
+      "name": "D. F. Prieto"
+    },
+    {
+      "authorId": "24352400",
+      "name": "Eva Hagen"
+    },
+    {
+      "authorId": "145064290",
+      "name": "D. Engel"
+    },
+    {
+      "authorId": "2806765",
+      "name": "M. B\u00f6ttinger"
+    },
+    {
+      "authorId": "2267828",
+      "name": "Inga Scheler"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "231e83ba696a7aa4faa46d7cc29a9b273f094a22",
+      "title": "Performance-driven architectural design and optimization technique from a perspective of architects"
+    },
+    {
+      "paperId": "197dbe71b07a4715da0776f476474c58ec4c904e",
+      "title": "Sustain: An experimental test bed for building energy simulation"
+    },
+    {
+      "paperId": "39f3f115396d5b4a4873004e357073a13cf3f660",
+      "title": "Studies into the use of building thermal physics to inform design decision making"
+    },
+    {
+      "paperId": "06cc357cf7b9b6e6aed4f566a142e588dba7cf46",
+      "title": "Contrasting paradigms of design thinking: the building thermal simulation tool user vs. the building designer"
+    },
+    {
+      "paperId": "91d87a0f94bc530abbd8c23861e03d9351a07075",
+      "title": "\"ARCHITECT FRIENDLY\": A COMPARISON OF TEN DIFFERENT BUILDING PERFORMANCE SIMULATION TOOLS"
+    },
+    {
+      "paperId": "6ff9a87eebcdbe583014c51bebf8040d7d48dff9",
+      "title": "CONTRASTING THE CAPABILITIES OF BUILDING ENERGY PERFORMANCE SIMULATION PROGRAMS"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "f1e2f39df8b1453c2bae01bc091c799602fa381d",
+      "title": "NEW METHODS FOR THE CONSTRUCTION AND INTERPRETATION OF HIGH DIMENSIONAL PARAMETRIC BUILDING ENERGY MODELS"
+    },
+    {
+      "paperId": "f7e6b56de2b0a48690142202a5d0ec364be79579",
+      "title": "A 'PICASA' FOR BPS - AN INTERACTIVE DATA ORGANIZATION AND VISUALIZATION SYSTEM FOR BUILDING PERFORMANCE SIMULATIONS"
+    },
+    {
+      "paperId": "02c40813ca49a5ce6f9cde9256bc4c189b1e85f6",
+      "title": "ANIMATED BUILDING PERFORMANCE SIMULATION (ABPS) \u2013 LINKING RHINOCEROS/GRASSHOPPER WITH RADIANCE/DAYSIM"
+    },
+    {
+      "paperId": "9b4110296d971fe445cc7bafc8511992c6f26fee",
+      "title": "Building Performance Simulation Tools:Selection Criteria and User Survey"
+    },
+    {
+      "paperId": "e4093d7a85edbb4d18fbd4639bbe1b2331677587",
+      "title": "A review and comparison of data visualization techniques used in building design and in building simulation"
+    },
+    {
+      "paperId": "add736108657914d8d5be15eeaa27d028260c4d2",
+      "title": "Qualitative analysis of the usefulness of perceptualisation techniques in communicating building simulation outputs"
+    },
+    {
+      "paperId": "524d2d0c6cd2f6f0c21a2a63363905cb31723192",
+      "title": "Communicating building simulation outputs to users"
+    },
+    {
+      "paperId": null,
+      "title": "A survey of users of thermal simulation programs"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization for time dependent building building simulation"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Integrated Environmental Solutions Virtual Environment (IES-VE)"
+    }
+  ]
+}

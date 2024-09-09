@@ -1,0 +1,66 @@
+{
+  "paperId": "ccae1f3961cd33acec0a742530d7d5e3b06d5422",
+  "externalIds": {
+    "MAG": "2128089086",
+    "DBLP": "journals/cga/Blinn98c",
+    "DOI": "10.1109/38.708564",
+    "CorpusId": 206426913
+  },
+  "publicationVenue": {
+    "id": "0bf2c493-a93b-464a-b3d9-e18fbb4a7965",
+    "name": "IEEE Computer Graphics and Applications",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Comput Graph Appl"
+    ],
+    "issn": "0272-1716",
+    "url": "http://www.computer.org/cga/",
+    "alternate_urls": [
+      "https://ieeexplore.ieee.org/servlet/opac?punumber=38"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/ccae1f3961cd33acec0a742530d7d5e3b06d5422",
+  "title": "Ten More Unsolved Problems in Computer Graphics",
+  "abstract": "The tradition of posing unsolved problems in computer graphics goes back to Ivan Sutherland's article \"Ten unsolved problems in computer graphics\", Datamation, vol. 12, no. 5, pp. 22-7 (1966). In this article, the author presents his own personal top 10: (1) novelty; (2) education; (3) systems integration; (4) simplicity; (5) better pixel arithmetic theory; (6) legacy compatibility; (7) arithmetic sloppiness; (8) antialiasing; (9) a modelling/rendering/animation challenge; and (10) finding a use for real-time 3D. Some of the problems I decry have, indeed, been solved in the theoretical sense. The problems remain unsolved in the practical sense, though, because cheap and fast solutions remain elusive. Many of the problems are more sociological and marketing issues than technical. Also, many of them have multiple parts with much overlap.",
+  "venue": "IEEE Computer Graphics and Applications",
+  "year": 1998,
+  "referenceCount": 1,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "1998-09-01",
+  "journal": {
+    "name": "IEEE Computer Graphics and Applications",
+    "pages": "86-89",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Blinn1998TenMU,\n author = {J. Blinn},\n booktitle = {IEEE Computer Graphics and Applications},\n journal = {IEEE Computer Graphics and Applications},\n pages = {86-89},\n title = {Ten More Unsolved Problems in Computer Graphics},\n volume = {18},\n year = {1998}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1685272",
+      "name": "J. Blinn"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a1fb09ff51242a245572c6247d17ee93afa7e3da",
+      "title": "The progression of realism in computer generated images"
+    }
+  ]
+}

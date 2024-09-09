@@ -1,0 +1,338 @@
+{
+  "paperId": "b4f81a674bd341ace6ec3d6ae438e25a3925a1c3",
+  "externalIds": {
+    "MAG": "1488298352",
+    "DBLP": "conf/visualization/DubelRST14",
+    "DOI": "10.1109/3DVis.2014.7160094",
+    "CorpusId": 2327157
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/b4f81a674bd341ace6ec3d6ae438e25a3925a1c3",
+  "title": "2D and 3D presentation of spatial data: A systematic review",
+  "abstract": "The question whether to use 2D or 3D for data visualization is generally difficult to decide. Two-dimensional and three-dimensional visualization techniques exhibit different advantages and disadvantages related to various perceptual and technical aspects such as occlusion, clutter, distortion, or scalability. To facilitate problem understanding and comparison of existing visualization techniques with regard to these aspects, this report introduces a systematization based on presentation characteristics. It enables a categorization with respect to combinations of static 2D and 3D presentations of attributes and their spatial reference. Further, it complements existing systematizations of data in an effort to formalize a common terminology and theoretical framework for this problem domain. We demonstrate our approach by reviewing different visualization techniques of spatial data according to the presented systematization.",
+  "venue": "2014 IEEE VIS International Workshop on 3DVis (3DVis)",
+  "year": 2014,
+  "referenceCount": 69,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-11-01",
+  "journal": {
+    "name": "2014 IEEE VIS International Workshop on 3DVis (3DVis)",
+    "pages": "11-18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{D\u00fcbel20142DA3,\n author = {S. D\u00fcbel and Martin Rohlig and H. Schumann and Matthias Trapp},\n booktitle = {2014 IEEE VIS International Workshop on 3DVis (3DVis)},\n journal = {2014 IEEE VIS International Workshop on 3DVis (3DVis)},\n pages = {11-18},\n title = {2D and 3D presentation of spatial data: A systematic review},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47696234",
+      "name": "S. D\u00fcbel"
+    },
+    {
+      "authorId": "2500989",
+      "name": "Martin Rohlig"
+    },
+    {
+      "authorId": "143789114",
+      "name": "H. Schumann"
+    },
+    {
+      "authorId": "3008227",
+      "name": "Matthias Trapp"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9d311b68fef06529ed1cff5f208cae6b69275865",
+      "title": "Hardware-accelerated attribute mapping for interactive visualization of complex 3D trajectories"
+    },
+    {
+      "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+      "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
+    },
+    {
+      "paperId": "31f0795b701232c8ffa242f1a17c32dbca6c3ff0",
+      "title": "Sketchy Rendering for Information Visualization"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "89c7dded11892ea7bfa7313ee89c53ca4da67f2e",
+      "title": "Concepts and Techniques of an Online 3D Atlas - Challenges in Cartographic 3D Geovisualization"
+    },
+    {
+      "paperId": "dc13dc323b6ed2ee9924dc705358d6c191f37f4f",
+      "title": "Interactive Visualization of Generalized Virtual 3D City Models using Level\u2010of\u2010Abstraction Transitions"
+    },
+    {
+      "paperId": "a52031ee8bf179b10dcd53496b91bcca7b697488",
+      "title": "Designing a better weather display"
+    },
+    {
+      "paperId": "5dfe804a4da91c8afb878f6ca7062746b86a25a3",
+      "title": "Information Visualization in Climate Research"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "63aa4e9017ebdcf3da1a38445e44d47682b475c1",
+      "title": "Evaluating the appropriateness of visually combining quantitative data representations with 3D desktop virtual environments using mixed methods"
+    },
+    {
+      "paperId": "ded4b3097c92775ce93e328c048f0b49de814ba4",
+      "title": "Spatial Generalization and Aggregation of Massive Movement Data"
+    },
+    {
+      "paperId": "77cb46263bddff501ab31fa653a0fea8e9d117e8",
+      "title": "Visualization of attributed hierarchical structures in a spatiotemporal context"
+    },
+    {
+      "paperId": "efba24ba39808515396a983f3e3d7ca711dc8b0f",
+      "title": "Glyph-Based Visualization of Myocardial Perfusion Data and Enhancement with Contractility and Viability Information"
+    },
+    {
+      "paperId": "473262f1594e626b6380f4da32191665ec063858",
+      "title": "Better Perception of 3D-Spatial Relations by Viewport Variations"
+    },
+    {
+      "paperId": "fde3725376d405bba1cf88100cc3841caa8d7e1d",
+      "title": "Multilayer hybrid visualizations to support 3D GIS"
+    },
+    {
+      "paperId": "4c8b848640fe984aede7a3dfd6cb719caaa04c03",
+      "title": "The Role of Map Animation for Geographic Visualization"
+    },
+    {
+      "paperId": "6756c9520b9890b5867adb24b559bc3944a6e54f",
+      "title": "Precise vector textures for real-time 3D rendering"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "08340463aff0e705934719b80c8e583bd439b08a",
+      "title": "Exploratory spatio-temporal data mining and visualization"
+    },
+    {
+      "paperId": "96c670392b6ea921ec7cc866670efddec0c79b71",
+      "title": "Designing a visual environment for exploration of time series of remote sensing data: In search for convective clouds"
+    },
+    {
+      "paperId": "0b803b837f084579de9d6a19979e50834ed1f68b",
+      "title": "A Visualization System for Space-Time and Multivariate Patterns (VIS-STAMP)"
+    },
+    {
+      "paperId": "63fed57f907a8063b1bc6b436f229e58c81c7228",
+      "title": "Topological Structures in Two\u2010Parameter\u2010Dependent 2D Vector Fields"
+    },
+    {
+      "paperId": "05d99812e875610a629b9fd4cce6785ca8a4c4f3",
+      "title": "Diffusion Tensor Visualization with Glyph Packing"
+    },
+    {
+      "paperId": "1d507441721b853aa750a78d72367478f3553d34",
+      "title": "Natural Textures for Weather Data Visualization"
+    },
+    {
+      "paperId": "665df4e9ae850967ea8436d3fde0934ad48f3157",
+      "title": "Visualizing the underwater behavior of humpback whales"
+    },
+    {
+      "paperId": "8f69bd90150a3d727ec80d866d2011a105ae454d",
+      "title": "Zooming versus multiple window interfaces: Cognitive costs of visual comparisons"
+    },
+    {
+      "paperId": "681a3d62f66ff8667fead5cba484c775fa200b60",
+      "title": "Temporal visualization of planning polygons for efficient partitioning of geo-spatial data"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "73b22ec544fa1dc1b734b8ff3153a9f9cc00b70e",
+      "title": "3D information visualization for time dependent data on maps"
+    },
+    {
+      "paperId": "7072ecbea329b17a4a1eb04e93094c1871152c0c",
+      "title": "GeoTime Information Visualization"
+    },
+    {
+      "paperId": "cbf86122fa1b5d046a042e8cb5ff12480ca3d28e",
+      "title": "A History Mechanism for Visual Data Mining"
+    },
+    {
+      "paperId": "858e674c5e28e4b088ba9cdef8ee90bb202288e8",
+      "title": "Visualizing abstract data on maps"
+    },
+    {
+      "paperId": "842078deccd374c8d42191a7fade6bb3f9a001a8",
+      "title": "Gaining understanding of multivariate and multidimensional data through visualization"
+    },
+    {
+      "paperId": "420252da6ed8e6d67814c238440110654bf2fc14",
+      "title": "Interactive visual tools to explore spatio-temporal variation"
+    },
+    {
+      "paperId": "c8638bd9632c652f9e57b2f31c3d5e4712ca0aa9",
+      "title": "Interactive 3D visualization of vector data in GIS"
+    },
+    {
+      "paperId": "ed1ddfbad3197e7b7fb42de3eb5785ee22e206b8",
+      "title": "Evaluating the effectiveness of spatial memory in 2D and 3D physical and virtual environments"
+    },
+    {
+      "paperId": "e69690ac8ba2402fae47cd0290f6c5b9b4263e4d",
+      "title": "Non-photorealistic computer graphics: modeling, rendering, and animation"
+    },
+    {
+      "paperId": "6d9f7a384557a5d440064a20fa7f97d16bd8e622",
+      "title": "Information Availability in 2D and 3D Displays"
+    },
+    {
+      "paperId": "a7cfd3c748c74bf2923f6b81e58e2b2149c5e386",
+      "title": "Acquisition and Display of Real-Time Atmospheric Data on Terrain"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "1e0d6ab2e7cb47a8c8d7e5c42b8efeca19e8212b",
+      "title": "Visualization of geographically related multidimensional data in virtual 3D scenes"
+    },
+    {
+      "paperId": "64e292d7f0863313eae9fc76a3a363b4b0b7ae57",
+      "title": "Preliminary results from Polar\u2013Orbiting Satellite Data Assimilation into LAPS with Applications to Mesoscale Modeling of the San Francisco Bay Area"
+    },
+    {
+      "paperId": "741967344707fcc665061bd62d1e6b0763ebc5e2",
+      "title": "Does animation help users build mental maps of spatial information?"
+    },
+    {
+      "paperId": "a4a88e7287c1d6d5982e7642b32503b97a37683f",
+      "title": "Task-Specific Visualization Design"
+    },
+    {
+      "paperId": "621ef8eb880f1dbb85f12a3c53d4c0af14289f6c",
+      "title": "Glyphs for Visualizing Uncertainty in Vector Fields"
+    },
+    {
+      "paperId": "32ab69ac7b2dc2436a30549189748ea2862771d7",
+      "title": "Virtual images: interactive visualization of distributed object-oriented systems"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "4e8325462fa907c13e5be8dc4b5fe911f4e65f41",
+      "title": "Visual cues - practical data visualization"
+    },
+    {
+      "paperId": "0459c77dc6d5d741f40cfdeda4b5008a39d4336c",
+      "title": "Iconographic Displays For Visualizing Multidimensional Data"
+    },
+    {
+      "paperId": "0c6c9c59446aea11080132c44e812a10316073a0",
+      "title": "Evaluating the Perceptual Impact of Rendering Techniques on Thematic Color Mappings in 3D Virtual Environments"
+    },
+    {
+      "paperId": "793e5a8878bed4c1cd2f667e02c589066702b6a6",
+      "title": "The Great Wall of Space-Time"
+    },
+    {
+      "paperId": "3e04a25d4b320dcff78bffbbe550a47ca3bc14d5",
+      "title": "Interactive Density Maps for Moving Objects"
+    },
+    {
+      "paperId": null,
+      "title": "The future of visual analytics"
+    },
+    {
+      "paperId": "fa58fe8ecef0f65aea61404095c0cf3fd18427e9",
+      "title": "Interactive Multi-Perspective Views of Virtual 3D Landscape and City Models"
+    },
+    {
+      "paperId": null,
+      "title": "Solutions to the problem of over-plotting in graphs"
+    },
+    {
+      "paperId": "9a9d8c7dcf1bf9d66608e5f664be25af013982e0",
+      "title": "A 3D visualization system for hurricane storm-surge flooding"
+    },
+    {
+      "paperId": "fbeee3bca95c80e56fde002257210ec17a528f19",
+      "title": "Revisiting 2D vs 3D Implications on Spatial Memory"
+    },
+    {
+      "paperId": null,
+      "title": "Two-and-a-half-dimensional visualisation of relational networks"
+    },
+    {
+      "paperId": "43f766c06e2a7770d9f37dcd9cfff5bd5dcfc22f",
+      "title": "High-Dimensional Visualizations"
+    },
+    {
+      "paperId": "cfba3d675c8cea9c4f193ad5c0d871d1c78181f6",
+      "title": "The human-computer interaction handbook: fundamentals, evolving technologies and emerging applications"
+    },
+    {
+      "paperId": "d20658834c881139e6728270a5a685cd81f4ab06",
+      "title": "Cartography: Visualization of Geospatial Data"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "b370b8d4f4aa529cd1505b8d80e87d93ca500f1d",
+      "title": "WHAT ABOUT PEOPLE IN REGIONAL SCIENCE"
+    },
+    {
+      "paperId": "8d5bf186c62e269d2b98d8afe36da48da51a4ca1",
+      "title": "What about people in Regional Science?"
+    },
+    {
+      "paperId": "0e57b0d2bd82b00b32b89c319577d553f21c34a1",
+      "title": "International Journal of Geographical Information Science"
+    },
+    {
+      "paperId": "aed5245f15e00d6ca69e6e7c4cff954db94a2551",
+      "title": "International Journal of Geographical Information Science"
+    },
+    {
+      "paperId": "23193bde7bb0c4a8b31753e62b8c93cbdcd84a8d",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Visualization Task Performance with 2d, 3d, and Combination Displays"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    }
+  ]
+}

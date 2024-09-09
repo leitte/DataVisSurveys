@@ -1,0 +1,81 @@
+{
+  "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+  "externalIds": {
+    "MAG": "2164244016",
+    "DBLP": "conf/infovis/Chi00",
+    "DOI": "10.1109/INFVIS.2000.885092",
+    "CorpusId": 5319048
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/caacee1bd480726b4d995926d395fce40a77f56a",
+  "title": "A taxonomy of visualization techniques using the data state reference model",
+  "abstract": "In previous work, researchers have attempted to construct taxonomies of information visualization techniques by examining the data domains that are compatible with these techniques. This is useful because implementers can quickly identify various techniques that can be applied to their domain of interest. However, these taxonomies do not help the implementers understand how to apply and implement these techniques. The author extends and proposes a new way to taxonomize information visualization techniques by using the Data State Model (E.H. Chi and J.T. Reidl, 1998). In fact, as the taxonomic analysis in the paper will show, many of the techniques share similar operating steps that can easily be reused. The paper shows that the Data State Model not only helps researchers understand the space of design, but also helps implementers understand how information visualization techniques can be applied more broadly.",
+  "venue": "IEEE Symposium on Information Visualization 2000. INFOVIS 2000. Proceedings",
+  "year": 2000,
+  "referenceCount": 8,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2000-10-09",
+  "journal": {
+    "name": "IEEE Symposium on Information Visualization 2000. INFOVIS 2000. Proceedings",
+    "pages": "69-75"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chi2000ATO,\n author = {Ed H. Chi},\n booktitle = {IEEE Symposium on Information Visualization 2000. INFOVIS 2000. Proceedings},\n journal = {IEEE Symposium on Information Visualization 2000. INFOVIS 2000. Proceedings},\n pages = {69-75},\n title = {A taxonomy of visualization techniques using the data state reference model},\n year = {2000}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2226805",
+      "name": "Ed H. Chi"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "732690207c8fb77fc078a4478d189c05b574eb16",
+      "title": "A spreadsheet approach to information visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "e3b25e9f059e40218bee2eb6da021b2d236706f5",
+      "title": "A framework for information visualization spreadsheets"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Olive99] OLIVE: On-line Library of Information Visualization Environments"
+    },
+    {
+      "paperId": "00c4f747a0407041ae1307f8b661c0b28e7e132f",
+      "title": "Proceedings of the IEEE Symposium on Information Visualization 1996, InfoVis '96, San Francisco, CA, USA, October 28-29, 1996"
+    }
+  ]
+}
