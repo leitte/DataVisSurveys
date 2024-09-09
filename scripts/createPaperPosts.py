@@ -4,7 +4,7 @@ import json
 import yaml
 
 directory = 'data/paperMetadata'
-filepath_paperClasses = 'data/paperClassification/paperTags.yaml'
+filepath_paperClasses = 'data/paperClassification/paperCategories.yaml'
 
 def loadPaperMetadata (filepath):
     with open(filepath, 'r') as file:
@@ -27,7 +27,7 @@ def loadPaperTags (filepath):
         return tags
     
 npapers = 0
-paper_tags = loadPaperTags(filepath_paperClasses)
+paper_categories = loadPaperTags(filepath_paperClasses)
 
 for filename in os.listdir(directory):
     filepath = os.path.join(directory, filename)
@@ -37,11 +37,7 @@ for filename in os.listdir(directory):
         paperMetadata = loadPaperMetadata(filepath)
         if paperMetadata:
             print(paperMetadata['title'])
-            data = {
-                'layout': 'post',
-                'title': paperMetadata['title'],
-                'date': paperMetadata['publicationDate']
-            }
+
             title_short = re.sub(r'[^a-zA-Z0-9-]', '', paperMetadata['title'][:30].lower().replace(' ','-'))
             date = paperMetadata['publicationDate'] if paperMetadata['publicationDate'] else f"{paperMetadata['year']}-01-01"
             filename = f"{date}-{title_short}"
@@ -57,10 +53,10 @@ for filename in os.listdir(directory):
                 file.write(f"venue: \"{paperMetadata['venue']}\"\n")
                 file.write(f"doi: {paperMetadata['externalIds']['DOI']}\n")
             
-                tags = paper_tags.get(paperMetadata['externalIds']['DOI'], [])
-                if tags:
+                tags = paper_categories.get(paperMetadata['externalIds']['DOI'], {})
+                if ('categories' in tags) and (tags['categories']):
                     file.write("categories:\n")
-                    for tag in tags:
+                    for tag in tags['categories']:
                         file.write(f"  - {tag}\n")
                 file.write('---\n')
                 abstract = paperMetadata.get('abstract','')
