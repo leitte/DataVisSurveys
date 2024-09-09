@@ -62,4 +62,9 @@
     <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
     {%- endfor -%}
   </div>
+  <div class="post-tags">
+    {%- for tag in post.categories -%}
+    <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
+    {%- endfor -%}
+  </div>
 </li>
