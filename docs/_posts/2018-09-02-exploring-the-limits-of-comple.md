@@ -6,5 +6,7 @@ date: 2018-09-02
 authors: V. Yoghourdjian, D. Archambault, S. Diehl, T. Dwyer, K. Klein, H. Purchase & H. Wu
 venue: "Visual Informatics"
 doi: 10.1016/J.VISINF.2018.12.006
+categories:
+  - survey
 ---
 

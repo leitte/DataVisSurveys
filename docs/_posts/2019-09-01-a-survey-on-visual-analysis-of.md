@@ -6,5 +6,7 @@ date: 2019-09-01
 authors: C. Xie, M. Li, H. Wang & J. Dong
 venue: "Visual Informatics"
 doi: 10.1016/J.VISINF.2019.08.001
+categories:
+  - survey
 ---
 
