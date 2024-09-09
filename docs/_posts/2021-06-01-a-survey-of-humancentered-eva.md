@@ -2,7 +2,7 @@
 layout: post
 title: "A Survey of Human‐Centered Evaluations in Human‐Centered Machine Learning"
 date: 2021-06-01
-authors: F. Sperrle, Mennatallah El-Assady, G. Guo, R. Borgo, Duen Horng Chau, A. Endert & D. Keim
+authors: F.Sperrle, M.El-Assady, G.Guo, R.Borgo, D.Horng Chau, A.Endert & D.Keim
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.14329
 ---

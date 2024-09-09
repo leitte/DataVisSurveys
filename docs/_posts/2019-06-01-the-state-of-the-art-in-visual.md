@@ -2,7 +2,7 @@
 layout: post
 title: "The State of the Art in Visual Analysis Approaches for Ocean and Atmospheric Datasets"
 date: 2019-06-01
-authors: S. Afzal, M. Hittawe, Sohaib Ghani, T. Jamil, O. Knio, Markus Hadwiger & K. Ho
+authors: S.Afzal, M.Hittawe, S.Ghani, T.Jamil, O.Knio, M.Hadwiger & K.Ho
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.13731
 ---

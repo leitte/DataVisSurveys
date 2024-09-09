@@ -2,7 +2,7 @@
 layout: post
 title: "The State of the Art in Visual Analytics for 3D Urban Data"
 date: 2024-04-24
-authors: Fabio Miranda, Thomas Ortner, Gustavo Moreira, Maryam Hosseini, Milena Vuckovic, Filip Biljecki, Claudio Silva, Marcos Lage & Nivan Ferreira
+authors: F.Miranda, T.Ortner, G.Moreira, M.Hosseini, M.Vuckovic, F.Biljecki, C.Silva, M.Lage & N.Ferreira
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.15112
 ---

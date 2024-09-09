@@ -2,7 +2,7 @@
 layout: post
 title: "A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving"
 date: 2019-07-15
-authors: Qianwen Chao, Huikun Bi, Weizi Li, Tianlu Mao, Zhaoqi Wang, M. Lin & Z. Deng
+authors: Q.Chao, H.Bi, W.Li, T.Mao, Z.Wang, M.Lin & Z.Deng
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.13803
 ---

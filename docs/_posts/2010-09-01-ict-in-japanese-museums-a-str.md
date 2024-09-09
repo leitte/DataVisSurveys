@@ -2,7 +2,7 @@
 layout: post
 title: "ICT in Japanese Museums: a Strategic and Contextual Survey"
 date: 2010-09-01
-authors: E. Carillo, R. Kadobayashi, J. Kaminski, K. Rodriguez-Echavarria & D. Arnold
+authors: E.Carillo, R.Kadobayashi, J.Kaminski, K.Rodriguez-Echavarria & D.Arnold
 venue: "IEEE Conference on Visual Analytics Science and Technology"
 doi: 10.2312/PE/VAST/VAST10S/095-099
 ---
