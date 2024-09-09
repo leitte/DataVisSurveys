@@ -67,6 +67,6 @@ jobs:
         git status
         git config user.name "github-actions[bot]"
         git config user.email {user.id}+{user.login}@users.noreply.github.com
-        git add .
+        git add docs/_posts/*
         git commit -m "Add new files to gh-pages"
         git push origin gh-pages
