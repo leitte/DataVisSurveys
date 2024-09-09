@@ -1,0 +1,436 @@
+{
+  "paperId": "1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+  "externalIds": {
+    "MAG": "2119111481",
+    "DBLP": "journals/tvcg/OliveiraL03",
+    "DOI": "10.1109/TVCG.2003.1207445",
+    "CorpusId": 18986679
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+  "title": "From Visual Data Exploration to Visual Data Mining: A Survey",
+  "abstract": "We survey work on the different uses of graphical mapping and interaction techniques for visual data mining of large data sets represented as table data. Basic terminology related to data mining, data sets, and visualization is introduced. Previous work on information visualization is reviewed in light of different categorizations of techniques and systems. The role of interaction techniques is discussed, in addition to work addressing the question of selecting and evaluating visualization techniques. We review some representative work on the use of information visualization techniques in the context of mining data. This includes both visual data exploration and visually expressing the outcome of specific mining algorithms. We also review recent innovative approaches that attempt to integrate visualization into the DM/KDD process, using it to enhance user interaction and comprehension.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2003,
+  "referenceCount": 93,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2003-07-01",
+  "journal": {
+    "name": "IEEE Trans. Vis. Comput. Graph.",
+    "pages": "378-394",
+    "volume": "9"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Oliveira2003FromVD,\n author = {Maria Cristina Ferreira de Oliveira and H. Levkowitz},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Trans. Vis. Comput. Graph.},\n pages = {378-394},\n title = {From Visual Data Exploration to Visual Data Mining: A Survey},\n volume = {9},\n year = {2003}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2110928516",
+      "name": "Maria Cristina Ferreira de Oliveira"
+    },
+    {
+      "authorId": "2722515",
+      "name": "H. Levkowitz"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "78dbb716be61fc1a0b123fbe63c00ba4e7c352a6",
+      "title": "Interactive machine learning: letting users build classifiers"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "6d59fa66c0abff7d7c4a76fd62105e2044d99697",
+      "title": "H-BLOB: a hierarchical visual clustering method using implicit surfaces"
+    },
+    {
+      "paperId": "940c216a1a86350b7c1ca679a4a9fb152e31cb5a",
+      "title": "Data Mining to Measure and Improve the Success of Web Sites"
+    },
+    {
+      "paperId": "d38d30cf1fdfefb8277eea2802437483889ce38f",
+      "title": "Visualization of navigation patterns on a Web site using model-based clustering"
+    },
+    {
+      "paperId": "8c3069835f895c017a393e8da8bd6611b93d3336",
+      "title": "Classification and visualization for high-dimensional data"
+    },
+    {
+      "paperId": "53692bc97691ab74b04dfa1aec1266f2d5e688b0",
+      "title": "Visualizing association rules with interactive mosaic plots"
+    },
+    {
+      "paperId": "1dd69bbaebe8a2f383e77efe429f2484ba30d4f5",
+      "title": "RuleViz: a model for visualizing knowledge discovery process"
+    },
+    {
+      "paperId": "8e441bcfe55196ee10b1dd219d179e4991522ca6",
+      "title": "Visualization and interactive feature selection for unsupervised data"
+    },
+    {
+      "paperId": "3fd38f0c85d94f64a4f57ccc69a9ab587bfe222a",
+      "title": "Towards an effective cooperation of the user and the computer for classification"
+    },
+    {
+      "paperId": "a1dcf41e75d4e7dabd773803806fdfeaf78179b2",
+      "title": "DriftWeed: a visual metaphor for interactive analysis of multivariate data"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "78addbe6b56841efbaff30336edacd9e27810865",
+      "title": "Navigating hierarchies with structure-based brushes"
+    },
+    {
+      "paperId": "8ec5d2283d55235fd8fcbb20220d13aa2887e5fd",
+      "title": "Discovery Visualization Using Fast Clustering"
+    },
+    {
+      "paperId": "6be30dd2c893efbc42e5bea558298d5522cd461a",
+      "title": "HD-Eye: Visual Mining of High-Dimensional Data"
+    },
+    {
+      "paperId": "0ba2babcec50fe4ebefeda092a55b3faf09d5d9f",
+      "title": "Interactive data Analysis: The Control Project"
+    },
+    {
+      "paperId": "c1db69e11a2564e50cd857b2ad65b83bdd4c2f89",
+      "title": "Mining the Web's Link Structure"
+    },
+    {
+      "paperId": "2619e07cf15de869687d1367a945500e16f9eca0",
+      "title": "Visual classification: an interactive approach to decision tree construction"
+    },
+    {
+      "paperId": "ac827a1ea271b72ceb02dd3cfc884c87c6214337",
+      "title": "A survey of data mining and knowledge discovery software tools"
+    },
+    {
+      "paperId": "ddf5ad4d482e1685ba5a85ca5d89e9726267b825",
+      "title": "SOM-based data visualization methods"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d4f8f0de839859fb696c762a3a2cc2385be52cc",
+      "title": "Independence Diagrams: A Technique for Visual Data Mining"
+    },
+    {
+      "paperId": "710f073b06d77cc1ba0bb2386d205921c2f3ad50",
+      "title": "Targeting Business Users with Decision Table Classifiers"
+    },
+    {
+      "paperId": "eb6cb3ae915707bf3328cf6fbde1d9ca8e6e1eee",
+      "title": "BioViews: Java-based tools for genomic data visualization."
+    },
+    {
+      "paperId": "1c725da81c5720d066fa65ea180eb5164ffe7927",
+      "title": "Visualizing information on a sphere"
+    },
+    {
+      "paperId": "44262de899cdc93b01935d38357d9b2b2543f1b8",
+      "title": "Multidimensional detective"
+    },
+    {
+      "paperId": "8e11c005dcfd213e01b9485932190a05f3b8e55b",
+      "title": "DNA visual and analytic data mining"
+    },
+    {
+      "paperId": "e9dd61f0c41eaa9e12195b06d71dac0e54a30042",
+      "title": "MineSet: An Integrated System for Data Mining"
+    },
+    {
+      "paperId": "c8c06da9ba2fbb799f8e1ef4afd258ead66b70fb",
+      "title": "Novel Techniques for Visualizing Biological Information"
+    },
+    {
+      "paperId": "e20e2f768f27dc35a14895b83ebaa3725f7f75ab",
+      "title": "Visualization Techniques for Mining Large Databases: A Comparison"
+    },
+    {
+      "paperId": "50d445c97164e9ed1c62ebc39a199365dbf5d772",
+      "title": "Visage: a user interface environment for exploring information"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "2b2ba9b0022ff45939527836a150959fe388ee23",
+      "title": "From Data Mining to Knowledge Discovery: An Overview"
+    },
+    {
+      "paperId": "b5a52e8ed1eff06a14163e439afc1800c8648e02",
+      "title": "IVEE: an Information Visualization and Exploration Environment"
+    },
+    {
+      "paperId": "d86648cb3ec497347d6e918116003b0e42910694",
+      "title": "FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets"
+    },
+    {
+      "paperId": "52ab3fa9daa649d2242877e4afe156b1c3b40234",
+      "title": "A knowledge-based system for visualization design"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "b69307b6232524519cc82ed67774cd3afb75c41c",
+      "title": "A lattice model for data display"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "e4afcd6af26a9bd971521209348130f5cd22158c",
+      "title": "VisDB: database exploration using multidimensional visualization"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "a833e02ef5c0b70b3671f643e31fe02738c7a35a",
+      "title": "Research issues in the foundations of visualization"
+    },
+    {
+      "paperId": "1e795ed9d814dd954d3521a3e71a80fed288a8d7",
+      "title": "Supporting data mining of large databases by visual feedback queries"
+    },
+    {
+      "paperId": "7b752ac19bf8029c1d7658b318354a3bb9a7a52a",
+      "title": "Navigating large networks with hierarchies"
+    },
+    {
+      "paperId": "cbed07b76b3387946ab76c3bce77cab10103bf61",
+      "title": "AutoVisual: rule-based design of interactive multivariate visualizations"
+    },
+    {
+      "paperId": "d30b12838925969567f7d6db0910d3ee7cb7e9c5",
+      "title": "Visualizing Data"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "1bac05d782f317b235b9abcf03c0ef59dd3032f0",
+      "title": "Color icons-merging color and texture perception for integrated visualization of multiple parameters"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "6daf826c2ec5fe299378838ef9fa7c3ea8092142",
+      "title": "Exploring N-dimensional databases"
+    },
+    {
+      "paperId": "f4926d40f9266d728c8cdcc627a5d1aa43992389",
+      "title": "Shape coding of multidimensional data on a microcomputer display"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "8f09a0a105a36997179c9f4a36b3acab522e46e6",
+      "title": "Visualizing n-dimensional virtual worlds with n-vision"
+    },
+    {
+      "paperId": "0459c77dc6d5d741f40cfdeda4b5008a39d4336c",
+      "title": "Iconographic Displays For Visualizing Multidimensional Data"
+    },
+    {
+      "paperId": "363800c1db81433be81ae236bcf295c240aff8e7",
+      "title": "Algorithms for Drawing Graphs: an Annotated Bibliography"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "154f8a9906bcc99fca9b17aa521649b1c3734093",
+      "title": "A Nonlinear Mapping for Data Structure Analysis"
+    },
+    {
+      "paperId": "ae316bff26f23b12a58e62942d1240b65f93999f",
+      "title": "Modern factor analysis"
+    },
+    {
+      "paperId": "22fedfd5ca7deba4a0e1b531c5362bada6b943c7",
+      "title": "Visualization and Analysis of Clickstream Data of Online Stores for Understanding Web Merchandising"
+    },
+    {
+      "paperId": "9ecae668ad78e5ab6ef099808fea219f815cf5c4",
+      "title": "An Introduction to Multivariate Statistical Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any computing topic, please visit our Digital Library at http://computer.org/publications/dlib"
+    },
+    {
+      "paperId": "0f8c2ed6a2a0d23a15f6ab8b4b20b5fb2fb47482",
+      "title": "Visual Data Mining of Brain Cells"
+    },
+    {
+      "paperId": "512e45d44b74185589e9700f6291ce7207770be5",
+      "title": "Table visualizations: a formal model and its applications"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": "5dc1597737c9912838d699299e1ff94c489bbc3d",
+      "title": "Web usage mining: discovery and applications of usage patterns from Web data"
+    },
+    {
+      "paperId": null,
+      "title": "Using SOMs in Data Mining"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. Workshop Web Usage Analysis and User Profiling (ACM WEBKDD '99)"
+    },
+    {
+      "paperId": null,
+      "title": "Datamining of Yeast Functional Genomics Data Using Multidimensional Analytic and Visualization Techniques"
+    },
+    {
+      "paperId": "a63ba1d69c3d19299edcaadcb52f5700aae9e3e9",
+      "title": "Mining Databases: Towards Algorithms for Knowledge Discovery"
+    },
+    {
+      "paperId": "74e875158a683ee6a427f93bc62444b63bbe9f9c",
+      "title": "Visual database exploration techniques"
+    },
+    {
+      "paperId": "a4b0a292119a587021df754a9dbb4b46e3e4136a",
+      "title": "Visualizing the Simple Bayesian Classi(cid:12)er"
+    },
+    {
+      "paperId": "b126ac0837bccf4710671c8a3c726491ab786caf",
+      "title": "'Circle Segments': A Technique for Visually Exploring Large Multidimensional Data Sets"
+    },
+    {
+      "paperId": "13586d05ff5132d9fe510d9b61b842562c8d1d4a",
+      "title": "Test Data Sets for Evaluating Data Visualization Techniques"
+    },
+    {
+      "paperId": "644a2b2985a3ffbb034193bfb49d78d6925c7e07",
+      "title": "An Environment and Studies for Exploring Auditory Representations of Multidimensional Data"
+    },
+    {
+      "paperId": "5c5136583bfa9e88bb75a0a087abc395132e7c45",
+      "title": "Interaction in Perceptually-Based Visualization"
+    },
+    {
+      "paperId": "a6f8042c16b4f59c83941dc2275cf0aaa45ecd00",
+      "title": "Case study: Narcissus: visualising information"
+    },
+    {
+      "paperId": "43f1a830782e0cd5e0e79869db3ae2453a6ddccd",
+      "title": "Next-Generation Data Visualization Tools"
+    },
+    {
+      "paperId": null,
+      "title": "Annotated Bibliography on Graph Drawing"
+    },
+    {
+      "paperId": null,
+      "title": "Details on Demand: Hypertext Models for Coping with Information Overload"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "502fc5b9a1429483fa43913c4d35eef6cf965bb9",
+      "title": "Exvis: an exploratory visualization environment"
+    },
+    {
+      "paperId": "e5be345a2f6f6800581ce88d20b5a5b21cca2375",
+      "title": "Multidimensional Scaling: History, Theory, and Applications"
+    },
+    {
+      "paperId": null,
+      "title": "History Theory, and Applications . Hillsdale, N.J.: Lawrence Erlbaum Assoc"
+    },
+    {
+      "paperId": null,
+      "title": "Semiology of Graphics: Diagrams, Networks"
+    },
+    {
+      "paperId": "b62c992a9d982af6ceda363ea32abd110f645930",
+      "title": "Mosaics for Contingency Tables"
+    },
+    {
+      "paperId": null,
+      "title": "Authorized licensed use limited to: UNIVERSIDADE FEDERAL DA BAHIA. Downloaded on May 06,2010 at 17:09:18 UTC from IEEE Xplore"
+    }
+  ]
+}

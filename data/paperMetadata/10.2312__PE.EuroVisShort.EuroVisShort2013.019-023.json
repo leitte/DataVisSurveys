@@ -1,0 +1,239 @@
+{
+  "paperId": "999c4ffe9ccf530e62c60fac1271a3787b2c20a9",
+  "externalIds": {
+    "MAG": "2275889908",
+    "DBLP": "conf/vissym/GrammelBTS13",
+    "DOI": "10.2312/PE.EuroVisShort.EuroVisShort2013.019-023",
+    "CorpusId": 9950861
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/999c4ffe9ccf530e62c60fac1271a3787b2c20a9",
+  "title": "A Survey of Visualization Construction User Interfaces",
+  "abstract": "We have systematically surveyed the publications on visualization construction user interfaces that have been published in 12 major Visualization and HCI venues. We found six different visualization construction approaches (visual builder, visualization spreadsheet, textual programming, visual dataflow programming, template editor, and shelf configuration). The approaches differ in their flexibility, whether they support presentation or exploration tasks, and the spatial, temporal, and conceptual distance between the user interface (UI) and the visualization. Our results provide guidance to designers of visualization construction UIs.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2013,
+  "referenceCount": 42,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Grammel2013ASO,\n author = {Lars Grammel and C. Bennett and Melanie Tory and M. Storey},\n booktitle = {Eurographics Conference on Visualization},\n title = {A Survey of Visualization Construction User Interfaces},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1683778",
+      "name": "Lars Grammel"
+    },
+    {
+      "authorId": "2055127254",
+      "name": "C. Bennett"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    },
+    {
+      "authorId": "1734938",
+      "name": "M. Storey"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "42a3f2b9e5c800191f21223dc70a22774df84237",
+      "title": "Flexible Linked Axes for Multivariate Data Visualization"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "b2f3ff7ba24b301f2bfeb4255e89013d36c0fb7c",
+      "title": "Product Plots"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "1998307de56b3f3c6060a27b9e779ca31bce797b",
+      "title": "behaviorism: a framework for dynamic data visualization"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "658b9cbdf589bee4ed3fa0edda796ff96b3101d2",
+      "title": "Harnessing the Information Ecosystem with Wiki-based Visualization Dashboards"
+    },
+    {
+      "paperId": "91cba251832a4fa38765d127763fbbe5e34c3569",
+      "title": "Protovis: A Graphical Toolkit for Visualization"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "33f5010a1762f73f2f85ffe16f5ed8f7119178d5",
+      "title": "Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration"
+    },
+    {
+      "paperId": "1cc85952c8588a17fa086d94ae1493a3b0413872",
+      "title": "VisComplete: Automating Suggestions for Visualization Pipelines"
+    },
+    {
+      "paperId": "3b2f833710aa24703932285817964a4ba2cce0bc",
+      "title": "Multiple Views on System Traces"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "2d587391d2592f3c56b1ce74f5c8abc0b0612678",
+      "title": "Querying and Creating Visualizations by Analogy"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "6460f3de32b55fa1b7258edfbee6994b6fa7b50e",
+      "title": "GUESS: a language and interface for graph exploration"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "6c5aafa4a0715eddfb26152dbe5d0f7b65d57be5",
+      "title": "A virtual workspace for hybrid multidimensional scaling algorithms"
+    },
+    {
+      "paperId": "da7c925be1d3d26c120a9d39465b110464d2d902",
+      "title": "Visualization Exploration and Encapsulation via a Spreadsheet-Like Interface"
+    },
+    {
+      "paperId": "959ccd3ab68827fdcbd057d126d1154a9755e540",
+      "title": "GADGET/IV: a taxonomic approach to semi-automatic design of information visualization applications using modular visualization environment"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "c33a36793bd432c590e71f40b48ae8215b743045",
+      "title": "A spreadsheet interface for visualization exploration"
+    },
+    {
+      "paperId": "06600bcfffdd07d9c761822e86e831d8c353a46f",
+      "title": "Data Visualization 2000"
+    },
+    {
+      "paperId": "ba639975d0d2bfae5ea8b860c188c02d1c34fa0d",
+      "title": "Intelligent visualization and dynamic manipulation: two complementary instruments to support data exploration with GIS"
+    },
+    {
+      "paperId": "732690207c8fb77fc078a4478d189c05b574eb16",
+      "title": "A spreadsheet approach to information visualization"
+    },
+    {
+      "paperId": "999fbd8a41ccd50946921c0747d800d6f4730127",
+      "title": "Declarative models of presentation"
+    },
+    {
+      "paperId": "8ab26aecd83c5c2259836a1ee7e8767fe79cddce",
+      "title": "Rapid prototyping of information visualizations using VANISH"
+    },
+    {
+      "paperId": "54f8ae5828615d1fe7d61c0038cc1ec77f4697b0",
+      "title": "Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework"
+    },
+    {
+      "paperId": "1380b07f7df08ce49aa0ab2a84ac48e578cd665c",
+      "title": "Creating charts by demonstration"
+    },
+    {
+      "paperId": "935e3736ace4732d2a2f9f8e9927e3dec2d12d59",
+      "title": "Interactive graphic design using automatic presentation knowledge"
+    },
+    {
+      "paperId": "1a1abb85866f1f86ff172d31fb4ab96dca3dc91b",
+      "title": "Programmable design environments: integrating end-user programming with domain-oriented assistance"
+    },
+    {
+      "paperId": "7990dbdf2588915193c793ac3cebfcad60c93379",
+      "title": "Integrality and separability of input devices"
+    },
+    {
+      "paperId": "f21d49c97a3dd2d40d6ad527c9ca1898038d7eaa",
+      "title": "The state of the art of visual languages for visualization"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "e532b0ca77a4c08462bb1b5bb0d359172e373002",
+      "title": "ViSSh: A Data Visualisation Spreadsheet"
+    },
+    {
+      "paperId": "322c09ddcb2526210b6bbeb3e6e76ac2bae2f83a",
+      "title": "SMARTLINK: An Agent for Supporting Dataflow Application Construction"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Spreadsheets allow the user to incrementally apply and compare different visual mappings"
+    },
+    {
+      "paperId": null,
+      "title": "Template Editor enables the quick construction of standard visualizations. Its use case is presenting structured data in standard visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Builders provide great \ufb02exibility in the visual structures that the user can create. This enables the creation of custom visualizations for presentation purposes"
+    }
+  ]
+}

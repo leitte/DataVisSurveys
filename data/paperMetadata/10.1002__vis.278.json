@@ -1,0 +1,135 @@
+{
+  "paperId": "ab641677763a1308b75fe5fc7b8e0778286d0096",
+  "externalIds": {
+    "MAG": "2060700885",
+    "DBLP": "journals/jvca/Langlotz02",
+    "DOI": "10.1002/vis.278",
+    "CorpusId": 10282546
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/ab641677763a1308b75fe5fc7b8e0778286d0096",
+  "title": "State-of-the-art in orthopaedic surgical navigation with a focus on medical image modalities",
+  "abstract": "This paper presents a review of surgical navigation systems in orthopaedics and categorizes these systems according to the image modalities that are used for the visualization of surgical action. Medical images used to be an essential part of surgical education and documentation as well as diagnosis and operation planning over many years. With the recent introduction of navigation techniques in orthopaedic surgery, a new field of application has been opened. Today surgical navigation systems \u2014 also known as image-guided surgery systems \u2014 are available for various applications in orthopaedic surgery. They visualize the position and orientation of surgical instruments as graphical overlays onto a medical image of the operated anatomy on a computer monitor. Preoperative image data such as computed tomography scans or intraoperatively generated images (for example, ultrasonic, endoscopic or fluoroscopic images) are suitable for this purpose. A new category of medical images termed \u2018surgeon-defined anatomy\u2019 has been developed that exclusively relies upon the usage of navigation technology. Points on the anatomy are digitized interactively by the surgeon and are used to build up an abstract geometrical model of the bony structures to be operated on. This technique may be used when no other image data is available or appropriate for a given application. Copyright \u00a9 2002 John Wiley & Sons, Ltd.",
+  "venue": "Comput. Animat. Virtual Worlds",
+  "year": 2002,
+  "referenceCount": 20,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2002-02-01",
+  "journal": {
+    "name": "Comput. Animat. Virtual Worlds",
+    "pages": "77-83",
+    "volume": "13"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Langlotz2002StateoftheartIO,\n author = {F. Langlotz},\n booktitle = {Comput. Animat. Virtual Worlds},\n journal = {Comput. Animat. Virtual Worlds},\n pages = {77-83},\n title = {State-of-the-art in orthopaedic surgical navigation with a focus on medical image modalities},\n volume = {13},\n year = {2002}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2503228",
+      "name": "F. Langlotz"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9622c392a507ea21791c09c95b8bcdca70b96802",
+      "title": "A HYBRID CT-FREE NAVIGATION SYSTEM FOR ACETABULAR CUP PLACEMENT"
+    },
+    {
+      "paperId": "66a69cdad89b14651877870a6fdf84399a438cf1",
+      "title": "Frameless optical computer-aided tracking of a microscope for otorhinology and skull base surgery."
+    },
+    {
+      "paperId": "89f064d76c4b93a4e2a7e0ebc0945519f54300ac",
+      "title": "3D-Bildgebung an einem mobilen chirurgischen Bildverst\u00e4rker (ISO-C-3D)\nErste Bildbeispiele zur Frakturdiagnostik an peripheren Gelenken im Vergleich mit Spiral-CT und konventioneller Radiographie"
+    },
+    {
+      "paperId": "85e5fce5c1ce1273a4b141eabb6527aeadf82076",
+      "title": "Computer-assistierte OP-Planung\n3D-Software f\u00fcr den PC"
+    },
+    {
+      "paperId": "07290785f1eb4d68858121d3f340989a29263885",
+      "title": "Computer-assistierte OP-Planung"
+    },
+    {
+      "paperId": "993325e6f2c28755b77ab8d4e07f94177a8fa5b6",
+      "title": "Restricted Surface Matching\u2014Numerical Optimization and Technical Evaluation"
+    },
+    {
+      "paperId": "932a4594677e76e8edda054869c9b790f4b0d950",
+      "title": "Frameless Computer-Aided Surgery System for Revision Endoscopic Sinus Surgery"
+    },
+    {
+      "paperId": "3b0d06a5b19e7a8023d72db1520e2436fc98e758",
+      "title": "Accuracy of pedicle screw insertion with and without computer assistance: a randomised controlled clinical study in 100 consecutive patients"
+    },
+    {
+      "paperId": "27eeed04bd49a9c84c328682d300b286ba152c47",
+      "title": "A new approach to computer-aided spine surgery: fluoroscopy-based surgical navigation"
+    },
+    {
+      "paperId": "d1c3590fb7d49775e79d12232b222826034dc2ea",
+      "title": "Image Guided Navigation System to Measure Intraoperatively Acetabular Implant Alignment"
+    },
+    {
+      "paperId": "851c970825f1bd24c3ebe6c479a017b9d9dcf1a1",
+      "title": "Computer Assistance for Pelvic Osteotomies"
+    },
+    {
+      "paperId": "b125ab1fa9df86e9373e9d34536d10ba98e3b517",
+      "title": "Clinical evaluation of a system for precision enhancement in spine surgery."
+    },
+    {
+      "paperId": "c4299c179cc1ab90f42ed08b95ea1a8413f3fd23",
+      "title": "CT evaluation of coverage and congruency of the hip prior to osteotomy."
+    },
+    {
+      "paperId": "7a6e8fdce5e2df117beb20431159c1b11feafefe",
+      "title": "Surgical navigation based on fluoroscopy--clinical application for computer-assisted distal locking of intramedullary implants."
+    },
+    {
+      "paperId": "92852191cea28f790293bbed79a243ba4d96ba6b",
+      "title": "Clinical integration of computer-assisted technology for arthroscopic anterior cruciate ligament reconstruction"
+    },
+    {
+      "paperId": "7f3d9a12e4ad38122bdcbd518d0458d9124f938d",
+      "title": "Fluoroscopy as an imaging means for computer-assisted surgical navigation."
+    },
+    {
+      "paperId": "81531fe538b4d3fe2c8ce9881336ea610dcf9147",
+      "title": "FRACAS: a system for computer-aided image-guided long bone fracture surgery."
+    },
+    {
+      "paperId": null,
+      "title": "Registration for computer-integrated surgery: methodology, start of the art"
+    },
+    {
+      "paperId": null,
+      "title": "Image guided cup placement"
+    },
+    {
+      "paperId": null,
+      "title": "Ultrasound-based registration of the pelvic bone surface for surgical navigation"
+    }
+  ]
+}

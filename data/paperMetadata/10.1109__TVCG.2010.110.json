@@ -1,0 +1,833 @@
+{
+  "paperId": "4610f73a31700f1e0c204cec92aa5000b090b3eb",
+  "externalIds": {
+    "MAG": "2149784077",
+    "DBLP": "journals/tvcg/CasertaZ11",
+    "DOI": "10.1109/TVCG.2010.110",
+    "CorpusId": 5358365,
+    "PubMed": "20733234"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/4610f73a31700f1e0c204cec92aa5000b090b3eb",
+  "title": "Visualization of the Static Aspects of Software: A Survey",
+  "abstract": "Software is usually complex and always intangible. In practice, the development and maintenance processes are time-consuming activities mainly because software complexity is difficult to manage. Graphical visualization of software has the potential to result in a better and faster understanding of its design and functionality, thus saving time and providing valuable information to improve its quality. However, visualizing software is not an easy task because of the huge amount of information comprised in the software. Furthermore, the information content increases significantly once the time dimension to visualize the evolution of the software is taken into account. Human perception of information and cognitive factors must thus be taken into account to improve the understandability of the visualization. In this paper, we survey visualization techniques, both 2D- and 3D-based, representing the static aspects of the software and its evolution. We categorize these techniques according to the issues they focus on, in order to help compare them and identify the most relevant techniques and tools for a given problem.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2011,
+  "referenceCount": 190,
+  "openAccessPdf": {
+    "url": "http://hal.inria.fr/docs/00/63/69/00/PDF/visualization_static_aspects_2011.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2011-07-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "913-933",
+    "volume": "17"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Caserta2011VisualizationOT,\n author = {Pierre Caserta and Olivier Zendra},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {913-933},\n title = {Visualization of the Static Aspects of Software: A Survey},\n volume = {17},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3066727",
+      "name": "Pierre Caserta"
+    },
+    {
+      "authorId": "2624371",
+      "name": "Olivier Zendra"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "806717890cda092c8d271083e88e8ed688109dc8",
+      "title": "Identifying Cycle Causes with Enriched Dependency Structural Matrix"
+    },
+    {
+      "paperId": "91a9ced79ffa0cdf5de28a1716ebc2fe79048f29",
+      "title": "Visualizing metrics on areas of interest in software architecture diagrams"
+    },
+    {
+      "paperId": "cab53d7ac06c09b1b34fb3d254c43942e9c53fda",
+      "title": "A Framework for Reverse Engineering Large C++ Code Bases"
+    },
+    {
+      "paperId": "64f0e945c2669f614a5c50810ade78990ab77554",
+      "title": "Software visualization with audio supported cognitive glyphs"
+    },
+    {
+      "paperId": "130e11c158305a8aa6950e5fb6234eb4fea252aa",
+      "title": "2nd International Workshop on Advanced Software Development Tools and Techniques (WASDeTT): Tools for software maintenance, visualization, and reverse engineering"
+    },
+    {
+      "paperId": "266e3c4d8d9b5f27374a73ca8750b962ce1be928",
+      "title": "Enhanced Dependency Structure Matrix for Moose"
+    },
+    {
+      "paperId": "9be8f6fd1f6f577c291871cc82b6b14b7dddc2d6",
+      "title": "Visual Exploration of Large-Scale System Evolution"
+    },
+    {
+      "paperId": "925be5d5c91c54a0240e6fc1eab0ba3079bb4266",
+      "title": "An interactive reverse engineering environment for large-scale C++ code"
+    },
+    {
+      "paperId": "73038d57196c49cbf2601033f393264259e18332",
+      "title": "Visually localizing design problems with disharmony maps"
+    },
+    {
+      "paperId": "68b46ef3aab80df9c13acc2c72377d359e7c0c1b",
+      "title": "Exploring the evolution of software quality with animated visualization"
+    },
+    {
+      "paperId": "064a53675b617aa7d7fccd9248c1eb17fc16b43f",
+      "title": "A Survey Paper on Software Architecture Visualization"
+    },
+    {
+      "paperId": "52af629a0fd5ea62d415e807ad5562c382aa2db9",
+      "title": "A Tool for Visual Understanding of Source Code Dependencies"
+    },
+    {
+      "paperId": "6ec220ebf14e462517fabf0b8c4da33da9dad68d",
+      "title": "Package Reference Fingerprint: a Rich and Compact Visualization to Understand Package Relationships"
+    },
+    {
+      "paperId": "61ef06a09853f24327c8992626c648678e9c25c3",
+      "title": "Visual Detection of Design Anomalies"
+    },
+    {
+      "paperId": "dc1dd38ad0b1e6808c5f4de753cf355a734ccccf",
+      "title": "Software Architecture Visualization: An Evaluation Framework and Its Application"
+    },
+    {
+      "paperId": "63549b77855429ee5300d891b1fa3d911c6b8fdf",
+      "title": "Visualizing Changes of Hierarchical Data using Treemaps"
+    },
+    {
+      "paperId": "1c50a52724a7d574cd969cb141447c4a8325a7f6",
+      "title": "EvoSpaces Visualization Tool: Exploring Software Architecture in 3D"
+    },
+    {
+      "paperId": "ee9bd8bd8d5b9ce1b8371cffd8a8ca94e000f6b7",
+      "title": "Level-of-detail visualization of clustered graph layouts"
+    },
+    {
+      "paperId": "0fc057e898be1c77634d36df9bcfea222b529b16",
+      "title": "Structural analysis and visualization of C++ code evolution using syntax trees"
+    },
+    {
+      "paperId": "6eb5da2469acf877b4d6dc548aedbc1dcce2b90c",
+      "title": "Communicating Software Architecture using a Unified Single-View Visualization"
+    },
+    {
+      "paperId": "dd4383acdd83ee1192202925d8298fd4febb1188",
+      "title": "Program Comprehension through Software Habitability"
+    },
+    {
+      "paperId": "95e853de1b3336e5651b812de61fdec9d08b9395",
+      "title": "YARN: Animating Software Evolution"
+    },
+    {
+      "paperId": "3db2044f316f7b3076d4c0433e3bdcc823115e54",
+      "title": "Visualizing Software Systems as Cities"
+    },
+    {
+      "paperId": "f1e55e4ad09be6314c6cf4bcfb8f63a03d540c8a",
+      "title": "CocoViz: Towards Cognitive Software Visualizations"
+    },
+    {
+      "paperId": "bc93a93a318e9c7fdfed3e1ec78624e0de5e9623",
+      "title": "Empirical Validation of Three Software Metrics Suites to Predict Fault-Proneness of Object-Oriented Classes Developed Using Highly Iterative or Agile Software Development Processes"
+    },
+    {
+      "paperId": "f43a864e3787e47fe28117c7dcba79753868b822",
+      "title": "Can smooth view transitions facilitate perceptual constancy in node-link diagrams?"
+    },
+    {
+      "paperId": "83f774166ca7a07c5ca0690abe3c450fe18ce3fa",
+      "title": "Software Visualization - Visualizing the Structure, Behaviour, and Evolution of Software"
+    },
+    {
+      "paperId": "25b4d7470eee1563c0a409e0672fbb43b419f8aa",
+      "title": "EvoGraph: A Lightweight Approach to Evolutionary and Structural Analysis of Large Software Systems"
+    },
+    {
+      "paperId": "d7f8adabcca6d804d36b8afd9b648edf5e2237ed",
+      "title": "Visualization of CVS Repository Information"
+    },
+    {
+      "paperId": "83417a8d2af07da97651e909223d825beeda946b",
+      "title": "Object-Oriented Metrics in Practice - Using Software Metrics to Characterize, Evaluate, and Improve the Design of Object-Oriented Systems"
+    },
+    {
+      "paperId": "410382013a21dfa902e344f455efc7936f9ea6c4",
+      "title": "3D visualisation of code structures in Java software systems"
+    },
+    {
+      "paperId": "53727e7991e88578ea699d21353cb8b0bd2e7e3e",
+      "title": "Visualization of areas of interest in software architecture diagrams"
+    },
+    {
+      "paperId": "586cf22197e9a9e42bb9eae568b822bc52119b35",
+      "title": "A gentle overview of software visualisation"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "7b58bfd90309bce62f0f9ef20549123f0db7d13d",
+      "title": "Visualizing Graphs - A Generalized View"
+    },
+    {
+      "paperId": "a5934b44763a9c3d4906e9ce0d118f31f51fac41",
+      "title": "Information Visualization: Beyond the Horizon"
+    },
+    {
+      "paperId": "f6708d19e6be014f8a049515323395351e97df91",
+      "title": "Visualization of large hierarchical data by circle packing"
+    },
+    {
+      "paperId": "b93322a48b4a0e1ed743856d52f4125f94216e24",
+      "title": "Human Perception of Structure in Shaded Space-Filling Visualizations"
+    },
+    {
+      "paperId": "3315f579151adb82a9dfac098ac2b974dd904255",
+      "title": "Rapid Construction of Software Comprehension Tools"
+    },
+    {
+      "paperId": "c31ed4456f9528095a13b7d031d6ec7da1201e52",
+      "title": "Visualization-based analysis of quality for large-scale software systems"
+    },
+    {
+      "paperId": "31d4ff95152dc8e5a0cbd321dfae92b19bdf2af8",
+      "title": "Using dependency models to manage complex software architecture"
+    },
+    {
+      "paperId": "4d399826d54808ecd31ec10dbced89ca57248546",
+      "title": "Visual Exploration of Combined Architectural and Metric Information"
+    },
+    {
+      "paperId": "f5eaaca66ed6af208a2dd2a6bb86e8e2f5de9c91",
+      "title": "A Framework for Software Architecture Visualisation Assessment"
+    },
+    {
+      "paperId": "5e0b2e867dcaeb537e7f1a4393b7b1215151279c",
+      "title": "Visual Realism for the Visualization of Software Metrics"
+    },
+    {
+      "paperId": "27f598402bd4adce078f207c2cc37240eb3eb032",
+      "title": "How developers drive software evolution"
+    },
+    {
+      "paperId": "8450dfc8ffb4dacd62d5928fbfeab1de008fb38a",
+      "title": "The effect of animated transitions on user navigation in 3D tree-maps"
+    },
+    {
+      "paperId": "231a4b1b37560318d1ac20e103144c54bdb4c22e",
+      "title": "On evaluating the layout of UML class diagrams for program comprehension"
+    },
+    {
+      "paperId": "a7462f3cfef980fb42d7aa0079ffecd22d0189c2",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": "aa487579601ae644ea79efdacd901a663363240d",
+      "title": "Visualizing multiple evolution metrics"
+    },
+    {
+      "paperId": "0d6d59910cad0b6c6b3bfc4ca989da09c8ed01f6",
+      "title": "Online-configuration of software visualizations with Vizz3D"
+    },
+    {
+      "paperId": "f02f0dd1a9e0960b61d491c15c5c9f0c5e42545f",
+      "title": "A space of layout styles for hierarchical graph models of software systems"
+    },
+    {
+      "paperId": "f86ecd61172c64856d57b0b439f6a653ccfee3c8",
+      "title": "Voronoi treemaps for the visualization of software metrics"
+    },
+    {
+      "paperId": "bfee588886929b4f872af2a4f62d3177a856a656",
+      "title": "On the use of visualization to support awareness of human activities in software development: a survey and a framework"
+    },
+    {
+      "paperId": "64470e74df8625257d3d978f9d5fa7589e09d6e1",
+      "title": "Hierarchy Based 3D Visualization of Large Software Structures"
+    },
+    {
+      "paperId": "e8efc3baf8b6d9553478edd533fcb2130b5c2914",
+      "title": "Extending Tree-Maps to Three Dimensions: A Comparative Study"
+    },
+    {
+      "paperId": "24e0fe9fd2263bb92d532edb21170c8517fb42b6",
+      "title": "Reuse in reverse engineering"
+    },
+    {
+      "paperId": "6d869286713e8851c0ded7f413e11c99e8b4d11c",
+      "title": "Software landscapes: visualizing the structure of large software systems"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "2f43a4490ef40fb15f23068a8f6dcca125207c8a",
+      "title": "Overlaying Graph Links on Treemaps"
+    },
+    {
+      "paperId": "ef234a6e74fc0552c9e8d9ad78069f97d672d1c4",
+      "title": "Embedding architectural support in industry"
+    },
+    {
+      "paperId": "a16c76faa0296ff8b6836f33e54e52beb72b71c9",
+      "title": "Object oriented metrics: precision tools and configurable visualisations"
+    },
+    {
+      "paperId": "7454f744baaf8e08b33b8f63f6ca8488909e1eaf",
+      "title": "Polymetric Views - A Lightweight Visual Approach to Reverse Engineering"
+    },
+    {
+      "paperId": "68986ec837217d3356357c5a738cf60de909cb9f",
+      "title": "A 3D metaphor for software production visualization"
+    },
+    {
+      "paperId": "716940a5ea7ea12b61028f2ea4bdc559ce13b996",
+      "title": "A Java 3D implementation of a geon based visualisation tool for UML"
+    },
+    {
+      "paperId": "dc59a32f70d7ed615cea9faee2379de777363986",
+      "title": "A system for graph-based visualization of the evolution of software"
+    },
+    {
+      "paperId": "65ca4e5e9e1d94d79b05fc8f785383a78471b2ae",
+      "title": "3D representations for software visualization"
+    },
+    {
+      "paperId": "b9fa2fe3b038ed9e3b73d92a4c1809bec078f6e4",
+      "title": "Designing effective program visualization tools for reducing user's cognitive effort"
+    },
+    {
+      "paperId": "a10b8b8de1131ac9b57aef5769efcd75d43624b4",
+      "title": "A new approach for visualizing UML class diagrams"
+    },
+    {
+      "paperId": "da3d0e2eb06ff6d2157e606ed4f62bf415d3bffb",
+      "title": "A topology-shape-metrics approach for the automatic layout of UML class diagrams"
+    },
+    {
+      "paperId": "e690426927c722876f456d25602e1fec50b14401",
+      "title": "Comprehension of software analysis data using 3D visualization"
+    },
+    {
+      "paperId": "73d26f1c550ea59352252adf288d9314d4d98ade",
+      "title": "Object-Oriented Reverse Engineering \u2014- Coarse-grained, Fine-grained, and Evolutionary Software Visualization"
+    },
+    {
+      "paperId": "3acc32ea0ded0a9e2ef5759c2f4970bf5ea18508",
+      "title": "Empirical Analysis of CK Metrics for Object-Oriented Design Complexity: Implications for Software Defects"
+    },
+    {
+      "paperId": "423c81af50cae7ba8780947c53cf26841b3d6e66",
+      "title": "CodeCrawler-lessons learned in building a software visualization tool"
+    },
+    {
+      "paperId": "79837a841f1d4b6cedf09b9c287fec0844a85036",
+      "title": "Software visualization in software maintenance, reverse engineering, and re-engineering: a research survey"
+    },
+    {
+      "paperId": "b7793354b8da9a3cd1282bc4b0a6ae6b606056e3",
+      "title": "Diagramming information structures using 3D perceptual primitives"
+    },
+    {
+      "paperId": "2681b7adb8c5f6c97ac28e7955570d678677ae89",
+      "title": "Beamtrees: compact visualization of large hierarchies"
+    },
+    {
+      "paperId": "c79ee5065e33b6bc67d94a9de63d860d8d7bc55b",
+      "title": "Visualisation for informed decision making; from code to components"
+    },
+    {
+      "paperId": "39de551f9cf704732b5ac285ee024b7c1c068692",
+      "title": "Understanding software evolution using a combination of software visualization and software metrics"
+    },
+    {
+      "paperId": "b1ada67473bca32f8f5504689109093705d4cccf",
+      "title": "Analogical representations of programs"
+    },
+    {
+      "paperId": "09ec25b52531e8d92f53f1b97d12bdb2f9433a61",
+      "title": "A task oriented view of software visualization"
+    },
+    {
+      "paperId": "d37a84058242011f9afeca76885be6d6de7f63e3",
+      "title": "Architecture-based visualisation of computer based systems"
+    },
+    {
+      "paperId": "48e88ae54672c017fbae6a5e0e1bddaf66a937cf",
+      "title": "Visualizing Software Changes"
+    },
+    {
+      "paperId": "4dc06a7fb3208d240f34138174254f526facc89e",
+      "title": "Botanical visualization of huge hierarchies"
+    },
+    {
+      "paperId": "6b0cbe2f3cd3952cd2e87ce7bd8f98f7b8087fd5",
+      "title": "A categorization of classes based on the visualization of their internal structure: the class blueprint"
+    },
+    {
+      "paperId": "fc9361bd419c0640f74ad2ee62a06796aa30ea62",
+      "title": "The evolution matrix: recovering software evolution using software visualization techniques"
+    },
+    {
+      "paperId": "6b3ff503d2bf78b01c3f15aa6b268f20ecf070c5",
+      "title": "Using Perceptual Syntax to Enhance Semantic Content in Diagrams"
+    },
+    {
+      "paperId": "8c6e0e318950dfb911915e09018c129b4cb9392b",
+      "title": "Applying the design structure matrix to system decomposition and integration problems: a review and new directions"
+    },
+    {
+      "paperId": "6b3ae7024c712bfdd43c8da56419a875766ea704",
+      "title": "SHriMP views: an interactive environment for exploring Java programs"
+    },
+    {
+      "paperId": "4f6a3faf3648df03850def7a3bd24023d4b0a27b",
+      "title": "Software visualization tools: survey and analysis"
+    },
+    {
+      "paperId": "939960c1e4759b7480cbdd539c21a279325f6893",
+      "title": "A multi-perspective software visualization environment"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "f09dfcdd1343861c188a328c2f85aaa7899783e4",
+      "title": "Metaphor-aware 3D navigation"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "482d53cad8c510b46dd8e9e4f1e3041d4612611a",
+      "title": "User Preference of Graph Layout Aesthetics: A UML Study"
+    },
+    {
+      "paperId": "cfd850bafe58057fc623c33d38d9d6be08c21218",
+      "title": "Virtual but visible software"
+    },
+    {
+      "paperId": "eacf8d584fad8292b1837eb40d56e5131bc1293b",
+      "title": "Mapping information onto 3D virtual worlds"
+    },
+    {
+      "paperId": "71d3fb63af4cb294c573bf14114fd6d809f11343",
+      "title": "Diagrams based on structural object perception"
+    },
+    {
+      "paperId": "8bea9331656e0e2264f4d82f7ac03ddb937810a4",
+      "title": "On better understanding UML diagrams through interactive three-dimensional visualization and animation"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "dbcd030a9a28f805886756c41bcfaea6cbeb39a4",
+      "title": "A hybrid reverse engineering approach combining metrics and program visualisation"
+    },
+    {
+      "paperId": "48568cf896104a9e9b8a05e9b047333470c3b164",
+      "title": "Visualizing software release histories: the use of color and third dimension"
+    },
+    {
+      "paperId": "64075890cfcc24fcd08134d24019416c28f012f4",
+      "title": "An empirical study of task support in 3D information visualizations"
+    },
+    {
+      "paperId": "51cfec4d850927468ec6b5c4f5b5be0c93019710",
+      "title": "Comprehension with[in] virtual environment visualisations"
+    },
+    {
+      "paperId": "accbf87297941bfefd482025f954799e5998d726",
+      "title": "The Role of Object-Oriented Metrics"
+    },
+    {
+      "paperId": "669282432d39d083cd072b636067e897f77fb85e",
+      "title": "Dynamic aggregation with circular visual designs"
+    },
+    {
+      "paperId": "2a6843cf34ed80e6e480b91e7db799358e346634",
+      "title": "Building perceptual textures to visualize multidimensional datasets"
+    },
+    {
+      "paperId": "99bfd78637840960302fa48cc68a3be9fbedcbd8",
+      "title": "Visualising software in virtual reality"
+    },
+    {
+      "paperId": "8bf32b5eea07db4fa12b888b827fe990e0b11559",
+      "title": "Visualization of Large Nested Graphs in 3D: Navigation and Interaction"
+    },
+    {
+      "paperId": "ff220d090c545e68c3d6db3693b64cfb719d6d10",
+      "title": "Tree Visualisation and Navigation Clues for Information Visualisation"
+    },
+    {
+      "paperId": "4c880ad1186754be17e1907d0265b450ab309b48",
+      "title": "Software Metrics : A Rigorous and Practical Approach"
+    },
+    {
+      "paperId": "c5d2a7ddc8bd849f6c5e42965f3ce54ee85ca2f9",
+      "title": "H3: laying out large directed graphs in 3D hyperbolic space"
+    },
+    {
+      "paperId": "f5be165fc699f368cf5b992bfd0ad0f5bdce17f7",
+      "title": "A City Metaphor to Support Navigation in Complex Information Spaces"
+    },
+    {
+      "paperId": "2200d1de052d1b71878c00c5be7d1932a648661d",
+      "title": "How do program understanding tools affect how programmers understand programs?"
+    },
+    {
+      "paperId": "124b28dfc141db5a80bb86fb52128de534edff0b",
+      "title": "Constrained Navigation Environments"
+    },
+    {
+      "paperId": "9f19813fc6e0ba257bf4ab955694b1e153dd3cda",
+      "title": "Rigi: A Visualization Environment for Reverse Engineering"
+    },
+    {
+      "paperId": "77ddb5c10e69b4e4104deb20e9d6888b31187c55",
+      "title": "A Validation of Object-Oriented Design Metrics as Quality Indicators"
+    },
+    {
+      "paperId": "f6f3dd6f68d5bcf66f940e7af1b63ebde730bc81",
+      "title": "External cognition: how do graphical representations work?"
+    },
+    {
+      "paperId": "f0babf7401ae4a52750411c1f185de84f3b96ca1",
+      "title": "Identification of Dynamic Comprehension Processes During Large Scale Maintenance"
+    },
+    {
+      "paperId": "668bb2b975f762d5eb596873671af3e18965daa2",
+      "title": "Software Visualization in the Large"
+    },
+    {
+      "paperId": "002e7b7c7707b082fa0551dcd351c97da76767f4",
+      "title": "Manipulating and documenting software structures using SHriMP views"
+    },
+    {
+      "paperId": "dd49aa18d79fb673be2c0599fd97c1ea9de706ab",
+      "title": "An Engine for the 3D Visualization of Program Information"
+    },
+    {
+      "paperId": "59f9629329fea4aef68e69321e5305a0aeebe614",
+      "title": "Metrics and Models in Software Quality Engineering"
+    },
+    {
+      "paperId": "15580080c0cb004568b6ecb578318463803620c0",
+      "title": "Object-oriented software metrics - a practical guide"
+    },
+    {
+      "paperId": "c2028470eef59fa923bc8a48af632698064433e8",
+      "title": "A taxonomy of program visualization systems"
+    },
+    {
+      "paperId": "9680ef6a5f8cac7730f2a8b6e9a78735890ac48c",
+      "title": "A Principled Taxonomy of Software Visualization"
+    },
+    {
+      "paperId": "ebe0a60c3d57855ebe8059d6ceed7a3d2f999d91",
+      "title": "Three-dimensional computation visualization"
+    },
+    {
+      "paperId": "0e48f7fb11eca258d2bb3c343e9ac9cc5fab57ce",
+      "title": "Seesoft-A Tool For Visualizing Line Oriented Software Statistics"
+    },
+    {
+      "paperId": "b1c864ba463a9e2e9705963b0356f90322d53bff",
+      "title": "Improving the visualization of hierarchies with treemaps: design issues and experimentation"
+    },
+    {
+      "paperId": "095e87cbbc43d02a9b0ea0e2934d669c4c503a12",
+      "title": "Program visualization: the art of mapping programs to pictures"
+    },
+    {
+      "paperId": "168ebeb1aef520ba880a4a7f570c03bec0e18885",
+      "title": "Practical Software Metrics for Project Management and Process Improvement"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "d5d7be73d5224c5edf8b5824ba882d33e14f271f",
+      "title": "Software Metrics: A Rigorous Approach"
+    },
+    {
+      "paperId": "5ea10bb467520ed6b3816617b1e423f60ebab45c",
+      "title": "Information visualization using 3D interactive animation"
+    },
+    {
+      "paperId": "61ff0b3fea9e03f5a86d639ef8d1434dcddfba9c",
+      "title": "Visual psychophysics of simple graphical elements."
+    },
+    {
+      "paperId": "8250ed9d35dc47f12852ab396b3ef654983fe944",
+      "title": "Measuring software design quality"
+    },
+    {
+      "paperId": "8b37258659bcdbc380b1e6c4e22cce9ea06397a1",
+      "title": "Recognition-by-components: a theory of human image understanding."
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "e9e5e46ca827493feb8b6c85ebd9c8ead8a70dae",
+      "title": "The design structure system: A method for managing the design of complex systems"
+    },
+    {
+      "paperId": "e0cee3796f9efb35732860f1b124bade3026f3ff",
+      "title": "Measuring the quality of structured designs"
+    },
+    {
+      "paperId": "e0fc4e77351da75c80fde618c9f50a457c38f891",
+      "title": "Tidy Drawings of Trees"
+    },
+    {
+      "paperId": "669a88fdd9da1b3bf3877eab96f9a23ea7f4ac14",
+      "title": "Novel Visual Representations for Software Metrics Using 3D and Animation"
+    },
+    {
+      "paperId": "6b60dd4cac27ac7b0f28012322146967c2a388ca",
+      "title": "An Overview of 3D Software Visualization"
+    },
+    {
+      "paperId": "52df763d69ed5fe609a4a88f07e97a6cfaadf59f",
+      "title": "VISION A Computational Investigation into the Human Representation and Processing of Visual Information"
+    },
+    {
+      "paperId": "c2eeee6963b536626b181c7b36127814f2aaa3bb",
+      "title": "The Rigi Reverse Engineering Environment"
+    },
+    {
+      "paperId": "49fb87e3f0a70160c6c6089c7127e85ef7e3ac04",
+      "title": "Gestalt principles"
+    },
+    {
+      "paperId": "12ff6bd12370e1832a3c02f7370b1237ba18b0e2",
+      "title": "Human-Centered Visualization Environments"
+    },
+    {
+      "paperId": "e6fc6d9a0bce0d3ea2eb53c67f6fedea75a6ae4e",
+      "title": "EvoSpaces: 3D Visualization of Software Architecture"
+    },
+    {
+      "paperId": "776fba84ab2f6d735180f555ce50f16eb8dc5c4a",
+      "title": "The class blueprint: visually supporting the understanding of glasses"
+    },
+    {
+      "paperId": "2244bcf2f5f29e951ca24da51be30defea46d959",
+      "title": "ArchView - Analyzing Evolutionary Aspects of Complex Software Systems"
+    },
+    {
+      "paperId": "d7510ad60ab0506634bcbe471569628f5aee6487",
+      "title": "Automatic Camera Path Generation for Graph Navigation in 3D"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "a0bef6eb7214bd8f03d1a219f1d86ee5afea57be",
+      "title": "Software architecture visualisation"
+    },
+    {
+      "paperId": "186ba8a0e4dbbe46c1f9c483a9cd179e0edf5c29",
+      "title": "CrocoCosmos - 3D Visualization of Large Object-Oriented Programs"
+    },
+    {
+      "paperId": "1e36015ae4a7b4396f7302bf5a342e861acf0237",
+      "title": "A Solar System Metaphor for 3D Visualisation of Object Oriented Software Metrics"
+    },
+    {
+      "paperId": "08104d496840c6e1e45629d456fa5bfe0f0db68b",
+      "title": "Visualising Class Cohesion with Virtual Worlds"
+    },
+    {
+      "paperId": "de0c5372accb0b0ddeda5350691ceae5495b8dc0",
+      "title": "Software-Visualization-From Theory to Practice"
+    },
+    {
+      "paperId": "449747f9fee46fef5fdf5b20d36fbf7ffd518fb0",
+      "title": "Automatic layout of UML class diagrams: a topology-shape-metrics approach"
+    },
+    {
+      "paperId": "69d3f79064b6cdbc8b5e65a7a05cc1725f3c148c",
+      "title": "The Moose Reengineering Environment"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "b637b28ef0383ae758a214ff3d8d96df84c1781e",
+      "title": "SYSTEM AND SOFTWARE VISUALISATION"
+    },
+    {
+      "paperId": "23db693566005092bf345c3ba3e992a14a32c116",
+      "title": "Virtual Worlds for Software Visualisation"
+    },
+    {
+      "paperId": "04385f66d8ed1bab64027e492c1ddec24d92cc44",
+      "title": "Cognitive design elements to support the construction of a mental model during software exploration"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "947a6a8f72dac806167fe6cce54407a78263eed6",
+      "title": "3-D visualization of software structure"
+    },
+    {
+      "paperId": null,
+      "title": "Towards Three- Dimensional Representation and Animation of UML Diagrams"
+    },
+    {
+      "paperId": "99d24048d48417754678002a10565297d9e2d670",
+      "title": "Three dimensional software modelling"
+    },
+    {
+      "paperId": "baa947a750b2d5714284386e2d7a2b7e838da7dc",
+      "title": "Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs"
+    },
+    {
+      "paperId": "ad50b0c3fd86a765e5b8d9a7e2f2536c3d9c9f73",
+      "title": "Software visualization : programming as a multimedia experience"
+    },
+    {
+      "paperId": "dc82b46f0db9b7fdb0d17df326d2887afe3860ae",
+      "title": "AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis"
+    },
+    {
+      "paperId": null,
+      "title": "Graph Drawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE Standard for a Software Quality Metrics Methodology, technical report, Am"
+    },
+    {
+      "paperId": "d75e8499c0466b539e0cd79f27fc69465c2d5ae5",
+      "title": "Cognitive Questions in Software Visualisation"
+    },
+    {
+      "paperId": "bfed409d6a767d31c118ca0aac8af5360f26f78d",
+      "title": "The Hyperbolic Browser: A Focus + Context Technique for Visualizing Large Hierarchies"
+    },
+    {
+      "paperId": "870fbcff92754cb3b355d8b8e43edcbb692a0893",
+      "title": "Toward the Design Quality Evaluation of Object-Oriented Software Systems"
+    },
+    {
+      "paperId": "c31a5321bb2dc8446ca8e862f5fad49c170bf659",
+      "title": "Manipulating And Documenting Software Structures"
+    },
+    {
+      "paperId": "897aded09b672bdf7ad3617bc45ab1fb4cefa8ab",
+      "title": "Navigation in textual virtual environments using a city metaphor"
+    },
+    {
+      "paperId": "8915fc3fb5aae65b97e27d7a10e26456bfcdeca2",
+      "title": "Rapid Construction of"
+    },
+    {
+      "paperId": "223ab1e33a83643da25328c90362860f07a22346",
+      "title": "The Information Cube: Using Transparency in 3D Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Object-Oriented Metrics Collection and Evaluation with a Software Process"
+    },
+    {
+      "paperId": null,
+      "title": "The Information City\u2014a Step Towards Merging of Hypertext and Virtual Reality"
+    },
+    {
+      "paperId": "8cb05459d8f5719a0e42ed83ad4bce5827348756",
+      "title": "Object-Oriented Analysis and Design with Applications"
+    },
+    {
+      "paperId": "646f70d6ddbbac98143605b3e8255cf522d5199b",
+      "title": "Animation at the interface"
+    },
+    {
+      "paperId": "0176b49e56f72d73b4253fb6f3a1a988ac8b65a4",
+      "title": "Rigi: a model for software system construction, integration, and evolution based on module interface specifications"
+    },
+    {
+      "paperId": "ad07d5a7de294a6a9a162b1cca7c4a8a5f9bc378",
+      "title": "The Image of the City"
+    },
+    {
+      "paperId": "3d2d396e36d933505f08ef81126274c47821d979",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2008 Visual Comparison of Hierarchically Organized Data"
+    },
+    {
+      "paperId": "23193bde7bb0c4a8b31753e62b8c93cbdcd84a8d",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Visualization Task Performance with 2d, 3d, and Combination Displays"
+    },
+    {
+      "paperId": "0adfc83c657904120e549adb004fe457dcd4d0ea",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Code Flows: Visualizing Structural Evolution of Source Code"
+    }
+  ]
+}

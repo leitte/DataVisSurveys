@@ -1,0 +1,326 @@
+{
+  "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Bertini11",
+    "MAG": "2157379557",
+    "DOI": "10.1109/TVCG.2011.229",
+    "CorpusId": 12630904,
+    "PubMed": "22034339"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/eefbece1f585d65491dbb7a479e04d8523e9f992",
+  "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization",
+  "abstract": "In this paper, we present a systematization of techniques that use quality metrics to help in the visual exploration of meaningful patterns in high-dimensional data. In a number of recent papers, different quality metrics are proposed to automate the demanding search through large spaces of alternative visualizations (e.g., alternative projections or ordering), allowing the user to concentrate on the most promising visualizations suggested by the quality metrics. Over the last decade, this approach has witnessed a remarkable development but few reflections exist on how these methods are related to each other and how the approach can be developed further. For this purpose, we provide an overview of approaches that use quality metrics in high-dimensional data visualization and propose a systematization based on a thorough literature review. We carefully analyze the papers and derive a set of factors for discriminating the quality metrics, visualization techniques, and the process itself. The process is described through a reworked version of the well-known information visualization pipeline. We demonstrate the usefulness of our model by applying it to several existing approaches that use quality metrics, and we provide reflections on implications of our model for future research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2011,
+  "referenceCount": 62,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2011-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2203-2212",
+    "volume": "17"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bertini2011QualityMI,\n author = {E. Bertini and A. Tatu and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2203-2212},\n title = {Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization},\n volume = {17},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1519978914",
+      "name": "E. Bertini"
+    },
+    {
+      "authorId": "2018560",
+      "name": "A. Tatu"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3da065ea9636b38bbfd6228cb5a1b823f2129f68",
+      "title": "Visual Boosting in Pixel\u2010based Visualizations"
+    },
+    {
+      "paperId": "923ac70f23161f463eb0cd1f20d0933ccbe1967f",
+      "title": "Improving the visual analysis of high-dimensional datasets using quality measures"
+    },
+    {
+      "paperId": "31f515024cd8b6bf92c2ad802887eae17a3f2884",
+      "title": "Finding and visualizing relevant subspaces for clustering high-dimensional astronomical data using connected morphological operators"
+    },
+    {
+      "paperId": "de409fc60209245b215465d31ef00a21ebfc2531",
+      "title": "Pargnostics: Screen-Space Metrics for Parallel Coordinates"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "342d10b034cd3e658395e4a61955b618b1304cef",
+      "title": "Investigating and reflecting on the integration of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "0a0eaff3b398067e7addf149b1656ff1b0831e29",
+      "title": "Visual quality metrics and human perception: an initial study on 2D projections of large multidimensional data"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "b5f0262da6635251e4a5467c92249bfa065050f0",
+      "title": "Pairwise Display of High-Dimensional Information via Eulerian Tours and Hamiltonian Decompositions"
+    },
+    {
+      "paperId": "ebd5e0b3b0882088405628e36fb18a873091971f",
+      "title": "Combining automated analysis and visualization techniques for effective exploration of high-dimensional data"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "46da2caf6df03d356550e6865553a935c00cddc4",
+      "title": "Perceiving Patterns in Parallel Coordinates: Determining Thresholds for Identification of Relationships"
+    },
+    {
+      "paperId": "3ccf052a90c6ac47e4274f98acc4d59223dba996",
+      "title": "Getting Things in Order: An Introduction to the R Package seriation"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "00a11102a3fa32c5ac3b9f530a76465610ed0a35",
+      "title": "Value and Relation Display: Interactive Visual Exploration of Large Data Sets with Hundreds of Dimensions"
+    },
+    {
+      "paperId": "ab3996398a13f58a50c5646a5defebd36aa3636a",
+      "title": "Pixnostics: Towards Measuring the Value of Visualization"
+    },
+    {
+      "paperId": "52bfdcaf96cc27f9430b568190456b1eb27e2395",
+      "title": "High-Dimensional Visual Analytics: Interactive Exploration Guided by Pairwise Views of Point Distributions"
+    },
+    {
+      "paperId": "c4d4e61da9ed1952598bb40f5dbfcbafac27d4f3",
+      "title": "Measuring Data Abstraction Quality in Multiresolution Visualizations"
+    },
+    {
+      "paperId": "34e6f2c359e82d5805f75df678aa08d09b37473c",
+      "title": "Enabling Automatic Clutter Reduction in Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "2eef217606f11b80bd7cbb18716c30f7bc371a9a",
+      "title": "Visual quality metrics"
+    },
+    {
+      "paperId": "f206e82be5e386cf068445d74533b9226e3c3b0a",
+      "title": "A note on space-filling visualizations and space-filling curves"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "f5882d7b5bf97b07ae84fcd4947114c9092f9c29",
+      "title": "A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "a803bb6d0fbd3c3d03f95566fbef7052b92782dc",
+      "title": "Quality Metrics for 2D Scatterplot Graphics: Automatically Reducing Visual Clutter"
+    },
+    {
+      "paperId": "7f2182862cec01d2ae143511243e7da21ae9819c",
+      "title": "Coordinating Computational and Visual Approaches for Interactive Feature Selection and Multivariate Clustering"
+    },
+    {
+      "paperId": "202dbc08845f86e57846a3636e6a7c3688a57c10",
+      "title": "Exploring high-D spaces with multiform matrices and small multiples"
+    },
+    {
+      "paperId": "0bdc8155b9361091a31e7ba3afc827df3cd6fc18",
+      "title": "Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets"
+    },
+    {
+      "paperId": "f7796016c85a27bde6588443dd288b444ef7f9cc",
+      "title": "InterRing: A Visual Interface for Navigating and Manipulating Hierarchies"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "b54c00725a839a498298546b7b415da99d2e2951",
+      "title": "Pixel bar charts: a visualization technique for very large multi-attribute data sets?"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "0f8c72e16b800559266c99d0c4efcac82baced11",
+      "title": "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory"
+    },
+    {
+      "paperId": "62473629e2e5384274594758435e98dbb11d61dc",
+      "title": "Dimensional anchors: a graphic primitive for multidimensional multivariate information visualizations"
+    },
+    {
+      "paperId": "d4a664919e29a4c179f784166b5e15fe1e0929fe",
+      "title": "Similarity clustering of dimensions for an enhanced visualization of multidimensional data"
+    },
+    {
+      "paperId": "1a85405f1e303292d5ba55772bfbdc8a616a20c0",
+      "title": "The need for metrics in visual information analysis"
+    },
+    {
+      "paperId": "07dcd52be645919604658336a3d2fdcee4d9e036",
+      "title": "Metrics for effective information visualization"
+    },
+    {
+      "paperId": "6d962e9f04c653f732da82073a3446f75a371055",
+      "title": "The KDD process for extracting useful knowledge from volumes of data"
+    },
+    {
+      "paperId": "319c6098f7f94cf24c5c637b718e721449fd4a70",
+      "title": "The Visual Design and Control of Trellis Display"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "6daf826c2ec5fe299378838ef9fa7c3ea8092142",
+      "title": "Exploring N-dimensional databases"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "6e0288e5ac1f9b62fe0f20834c1ab12134221e6e",
+      "title": "Dynamic Graphics for Statistics"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "278566fc127158de6f27b6d9365f4567d27c93b9",
+      "title": "A Projection Pursuit Algorithm for Exploratory Data Analysis"
+    },
+    {
+      "paperId": "e0901821b2fa999903c5d89bfa735702bd237717",
+      "title": "The surgical implications of physiologic patterns in myocardial infarction shock."
+    },
+    {
+      "paperId": "0bb9970451b77bfb84dc7b1467ada41c0941679f",
+      "title": "Improving Graph Drawing Readability by Incorporating Readability Metrics : A Software Tool for Network Analysts"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "de1f2d5fe39cf7bea6251d13cef3927b159addae",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 a Screen Space Quality Method for Data Abstraction"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "88b38b1c0cd490508f205776c9dc737fe42dfae1",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 a Salience-based Quality Metric for Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Tableau"
+    },
+    {
+      "paperId": null,
+      "title": "Data Transformation (source data \u2192 transformed data)"
+    }
+  ]
+}

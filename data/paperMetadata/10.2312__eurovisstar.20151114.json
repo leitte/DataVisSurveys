@@ -1,0 +1,398 @@
+{
+  "paperId": "94f0efe8a36d7144061095e48507178ab5a74dd2",
+  "externalIds": {
+    "DBLP": "conf/vissym/00080LHRKA15",
+    "MAG": "2216444195",
+    "DOI": "10.2312/eurovisstar.20151114",
+    "CorpusId": 6187669
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/94f0efe8a36d7144061095e48507178ab5a74dd2",
+  "title": "A Survey of Visualization Systems for Malware Analysis",
+  "abstract": "Due to the increasing threat from malicious software (malware), monitoring of vulnerable systems is becoming increasingly important. The need to log and analyze activity encompasses networks, individual computers, as well as mobile devices. While there are various automatic approaches and techniques available to detect, identify, or capture malware, the actual analysis of the ever-increasing number of suspicious samples is a time-consuming process for malware analysts. The use of visualization and highly interactive visual analytics systems can help to support this analysis process with respect to investigation, comparison, and summarization of malware samples. Currently, there is no survey available that reviews available visualization systems supporting this important and emerging field. We provide a systematic overview and categorization of malware visualization systems from the perspective of visual analytics. Additionally, we identify and evaluate data providers and commercial tools that produce meaningful input data for the reviewed malware visualization systems. This helps to reveal data types that are currently underrepresented, enabling new research opportunities in the visualization community.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2015,
+  "referenceCount": 79,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "105-125"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wagner2015ASO,\n author = {Markus Wagner and Fabian Fischer and R. Luh and Andrea Haberson and A. Rind and D. Keim and W. Aigner},\n booktitle = {Eurographics Conference on Visualization},\n pages = {105-125},\n title = {A Survey of Visualization Systems for Malware Analysis},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2114341915",
+      "name": "Markus Wagner"
+    },
+    {
+      "authorId": "144740323",
+      "name": "Fabian Fischer"
+    },
+    {
+      "authorId": "2742391",
+      "name": "R. Luh"
+    },
+    {
+      "authorId": "51172287",
+      "name": "Andrea Haberson"
+    },
+    {
+      "authorId": "2941639",
+      "name": "A. Rind"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b74c9e534f44463c5d148d7498e0f3dbd1a28b04",
+      "title": "Practical Malware Analysis"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "bd21c1f7e4a976ad875cb5e6858f2122f685dda0",
+      "title": "Detecting malware samples with similar image sets"
+    },
+    {
+      "paperId": "53c302d74c5b52fe13b82c119c60954202dc8900",
+      "title": "SEEM: a scalable visualization for comparing multiple large sets of attributes for malware analysis"
+    },
+    {
+      "paperId": "5637d501986b934c30560767c2153363e471bc38",
+      "title": "Problem characterization and abstraction for visual analytics in behavior-based malware pattern analysis"
+    },
+    {
+      "paperId": "e87d966a71629e7bb879c04fabeb92e79f993ba5",
+      "title": "DAVAST: data-centric system level activity visualization"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "a4a029765e81983a8a565961a918cce11813d4a0",
+      "title": "Nmap: A Novel Neighborhood Preservation Space-filling Algorithm"
+    },
+    {
+      "paperId": "1a43c69cff4f3f251e93937c452c232efdd6bfe8",
+      "title": "Malware Behaviour Visualization"
+    },
+    {
+      "paperId": "aa38a59118ceb568eeeaf6696d6aa9a5f378d3c9",
+      "title": "Malware behavior image for malware variant identification"
+    },
+    {
+      "paperId": "55e4268c37976f3e9f820e92141649eca12a51b8",
+      "title": "Malware Analysis Using Visualized Image Matrices"
+    },
+    {
+      "paperId": "5347082ccaca572b5ee06001d36272d78c8a9557",
+      "title": "Malware analysis using visualized images and entropy graphs"
+    },
+    {
+      "paperId": "60322e08b3e9af0a1577ebd160a4b65093996440",
+      "title": "Malicious Behavior Patterns"
+    },
+    {
+      "paperId": "3a0855b917490cb1ab75e24a8f665094a74758a3",
+      "title": "Cyber Scanning: A Comprehensive Survey"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "dab2287738537dbb36ae7cf13728771af1b50e89",
+      "title": "Malware analysis method using visualization of binary files"
+    },
+    {
+      "paperId": "5e57556978dcc58e73fe696b1062dc594a122905",
+      "title": "Visualization techniques for efficient malware detection"
+    },
+    {
+      "paperId": "2e7caf022dcc7a64f897af1b661ba73e4f296ea0",
+      "title": "A survey on heuristic malware detection techniques"
+    },
+    {
+      "paperId": "5df3d2c811077c81485a7dbbbfa4b1f465c89a56",
+      "title": "Mobile malware visual analytics and similarities of Attack Toolkits (Malware gene analysis)"
+    },
+    {
+      "paperId": "bf147d3d94d75f79180e20aeabdd6c2d1256a1ee",
+      "title": "Image visualization based malware detection"
+    },
+    {
+      "paperId": "fc64f6a4ef88ce5c8deaae506b0c0d31bd4448b8",
+      "title": "A static and dynamic visual debugger for malware analysis"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "d69f49307953c14e052b6f0b03b0de2fe1df92e0",
+      "title": "Improving malware classification: bridging the static/dynamic gap"
+    },
+    {
+      "paperId": "69731b77ff7b67e11e70dc69e2fe2ca91d5e929d",
+      "title": "MalwareVis: entity-based visualization of malware network traces"
+    },
+    {
+      "paperId": "ed19a9af00619ed03d8a932636b1fee18be386d2",
+      "title": "Visualization of shared system call sequence relationships in large malware corpora"
+    },
+    {
+      "paperId": "1e554a1894a9d7f887cc5be41b0c06c029948fb0",
+      "title": "A Survey of Visualization Systems for Network Security"
+    },
+    {
+      "paperId": "43180d7c5ee1bbfb9a749edd390cdd3e3808949b",
+      "title": "Experiments with Malware Visualization"
+    },
+    {
+      "paperId": "ec2a58d3a0f844061bad16bb12f35992ce0b3863",
+      "title": "Interactive, Visual-Aided Tools to Analyze Malware Behavior"
+    },
+    {
+      "paperId": "a701475cbbfe1f4032bd7c391617e2e1f00b6dd7",
+      "title": "Windows\u00ae Internals, Part 1: Covering Windows Server\u00ae 2008 R2 and Windows 7"
+    },
+    {
+      "paperId": "8711a402d3b4e9133884116e5aaf6931c86ae46b",
+      "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software"
+    },
+    {
+      "paperId": "d2ad315eb328dbe97f2a33ae297a30c8570136f4",
+      "title": "A survey on automated dynamic malware-analysis techniques and tools"
+    },
+    {
+      "paperId": "a57089e46a1b2dca105b0f8a8595a9ac09908abe",
+      "title": "A comparative assessment of malware classification using binary texture analysis and dynamic analysis"
+    },
+    {
+      "paperId": "b444e56f31694b3ba4b14f91b4b3d1a8ebc19830",
+      "title": "A survey of mobile malware in the wild"
+    },
+    {
+      "paperId": "a8ac6c1b1ed25bac14d0f12ff11c9f01fd298d50",
+      "title": "Surveying Port Scans and Their Detection Methodologies"
+    },
+    {
+      "paperId": "87ff7ef37bd35d97ea0316398e762cd642df64a6",
+      "title": "Malware images: visualization and automatic classification"
+    },
+    {
+      "paperId": "a4a84f5b19aa8c1eb8b31db67d2534ad3565ccab",
+      "title": "Visualization of Time-Oriented Data"
+    },
+    {
+      "paperId": "bf90db05881be8b84495e4257451ea5c19617957",
+      "title": "Visualization techniques for malware behavior analysis"
+    },
+    {
+      "paperId": "9ccccee5106c10caf75b8928e6c8fb351823011b",
+      "title": "A Study on Malicious Codes Pattern Analysis Using Visualization"
+    },
+    {
+      "paperId": "9623b38d1fcf7cfcf0f4c484e653e854579c4dd0",
+      "title": "Reversing Compiled Executables for Malware Analysis via Visualization"
+    },
+    {
+      "paperId": "56a42f8df631c87a990aa43b4a7610fb8f75f16f",
+      "title": "Visual analysis of malware behavior using treemaps and thread graphs"
+    },
+    {
+      "paperId": "2547e4fbb3152fff41f8ab831504ee2d2b074c25",
+      "title": "Visualizing compiled executables for malware analysis"
+    },
+    {
+      "paperId": "9f3ef6a19477a38de0aac7b784653bfd18b2981f",
+      "title": "Signature visualization of software binaries"
+    },
+    {
+      "paperId": "854055131cb3f029ccf2ea2f7ce8aa675d5d8f6e",
+      "title": "Visual Reverse Engineering of Binary and Data Files"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "9285f7d70ffc2ac0aea78e7a6ba1cb9a9f967e81",
+      "title": "A survey of data mining techniques for malware detection using file features"
+    },
+    {
+      "paperId": "c3046d3036662b3dea5ac8b7edd86cbef309d587",
+      "title": "Toward Automated Dynamic Malware Analysis Using CWSandbox"
+    },
+    {
+      "paperId": "0e4a3b6e4235152593113f976f1311392dd3e84c",
+      "title": "Dynamic Analysis of Malicious Code"
+    },
+    {
+      "paperId": "c9e5db551f639db9df0e6d0cc3cd3715641cab01",
+      "title": "Exploring highly structured data: a comparative study of stardinates and parallel coordinates"
+    },
+    {
+      "paperId": "93e591fe251b3eacba89a3ff4a8c503ddc54c617",
+      "title": "QEMU, a Fast and Portable Dynamic Translator"
+    },
+    {
+      "paperId": "8131db2139ac788762bc366aaf6d3f418a7e74c5",
+      "title": "Visualizing windows executable viruses using self-organizing maps"
+    },
+    {
+      "paperId": "7b1d068b6e3bed5235586b34238ee1898ce41f73",
+      "title": "Why interaction is more powerful than algorithms"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "0459c77dc6d5d741f40cfdeda4b5008a39d4336c",
+      "title": "Iconographic Displays For Visualizing Multidimensional Data"
+    },
+    {
+      "paperId": "07aca048b6dbc583fed7434890a213b68dd4e0f1",
+      "title": "Survey of virtual machine research"
+    },
+    {
+      "paperId": "6d4ad944f76e5eb48ddb4fb87c26ad18e99800d3",
+      "title": "The Use of Faces to Represent Points in k- Dimensional Space Graphically"
+    },
+    {
+      "paperId": "2668b17c1c972811c5edb0b142896bbfe7d1d25a",
+      "title": "PLOTS OF HIGH-DIMENSIONAL DATA"
+    },
+    {
+      "paperId": null,
+      "title": "YARA \u2013 the pattern matching swiss knife for malware researchers [online"
+    },
+    {
+      "paperId": "7f2c2a95d87611ea3ea40d44d1be9715e38438ee",
+      "title": "A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data"
+    },
+    {
+      "paperId": null,
+      "title": "Cuckoo Sandbox Book, Release 1.2-dev ed"
+    },
+    {
+      "paperId": null,
+      "title": "JoeSandbox [online]"
+    },
+    {
+      "paperId": null,
+      "title": "KWON B"
+    },
+    {
+      "paperId": null,
+      "title": "FireEye MAS 6.4.0 Operator's Guide"
+    },
+    {
+      "paperId": "b37290558b00a9eb212756dcc16d8bb6c1763daf",
+      "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software"
+    },
+    {
+      "paperId": null,
+      "title": "degree in 2013 and Industrial Simulation at St. Poelten University of Applied Sciences where he received his B.Sc"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "LIEBROCK L"
+    },
+    {
+      "paperId": null,
+      "title": "MANSMANN F"
+    },
+    {
+      "paperId": "834f6a7edc3dec0886836a50889f9842fda1f0d0",
+      "title": "Security data visualization : graphical techniques for network analysis"
+    },
+    {
+      "paperId": "888cb0ac77e16ec98c8e2a5af79e567d8a43dcd1",
+      "title": "A Survey of Malware Detection Techniques"
+    },
+    {
+      "paperId": null,
+      "title": "MATHUR A"
+    },
+    {
+      "paperId": "57213769ff9ee095c7d0476430d33e7e07fc11be",
+      "title": "Software visualization"
+    },
+    {
+      "paperId": "994d0c4ef7ec40d8fd8e50e3ddbaaa296198ea78",
+      "title": "TTAnalyze: A Tool for Analyzing Malware"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": null,
+      "title": "Exploring ndimensional databases"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Systems for Malware Analysis [Ora14] ORACLE CORPORATION:. Oracle VirtualBox [online]. 2014. URL: https://www"
+    },
+    {
+      "paperId": null,
+      "title": "Andrea Haberson is a student researcher at the Institute of Creative\\Media/Technologies"
+    },
+    {
+      "paperId": null,
+      "title": "FireEye malware analysis [online]. 2014. URL: https://www.fireeye.com/products/malware-analysis"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "paperId": "f48867bfc13852949d640dd42932ebc47058651c",
+  "externalIds": {
+    "DBLP": "conf/vissym/BachDAHC14",
+    "MAG": "302995030",
+    "DOI": "10.2312/eurovisstar.20141171",
+    "CorpusId": 12407825
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/f48867bfc13852949d640dd42932ebc47058651c",
+  "title": "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations",
+  "abstract": "We review a range of temporal data visualization techniques through a new lens, by describing them as series of op- erations performed on a conceptual space-time cube. These operations include extracting subparts of a space-time cube, flattening it across space or time, or transforming the cube's geometry or content. We introduce a taxonomy of elementary space-time cube operations, and explain how they can be combined to turn a three-dimensional space-time cube into an easily-readable two-dimensional visualization. Our model captures most visualizations showing two or more data dimensions in addition to time, such as geotemporal visualizations, dynamic networks, time-evolving scatterplots, or videos. We finally review interactive systems that support a range of operations. By introducing this conceptual framework we hope to facilitate the description, criticism and comparison of existing temporal data visualizations, as well as encourage the exploration of new techniques and systems.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2014,
+  "referenceCount": 90,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-06-09",
+  "journal": {
+    "name": "",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bach2014ARO,\n author = {Benjamin Bach and Pierre Dragicevic and D. Archambault and C. Hurter and M. Carpendale},\n booktitle = {Eurographics Conference on Visualization},\n title = {A Review of Temporal Data Visualizations Based on Space-Time Cube Operations},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34564063",
+      "name": "Benjamin Bach"
+    },
+    {
+      "authorId": "3297322",
+      "name": "Pierre Dragicevic"
+    },
+    {
+      "authorId": "2503181",
+      "name": "D. Archambault"
+    },
+    {
+      "authorId": "2433007",
+      "name": "C. Hurter"
+    },
+    {
+      "authorId": "144189259",
+      "name": "M. Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5e80e7131e77fecfc1cf6648f0f6b25e364c7e4d",
+      "title": "Human Computer Interaction"
+    },
+    {
+      "paperId": "7c888d1b9ab165308dd9ce46c43492c6b91b6064",
+      "title": "Bundled Visualization of DynamicGraph and Trail Data"
+    },
+    {
+      "paperId": "afc7382038a4c8ba27d39af92f2f958eb86cbd58",
+      "title": "GraphDiaries: Animated Transitions andTemporal Navigation for Dynamic Networks"
+    },
+    {
+      "paperId": "21256c969d3807e358b1220f33b8721ec5828f1b",
+      "title": "Visualizing dynamic networks with matrix cubes"
+    },
+    {
+      "paperId": "bef52ce82c4ca05438acb27fc6dff737526d65ea",
+      "title": "DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation"
+    },
+    {
+      "paperId": "27365004b7985e97a48d9cea199a78faf837b213",
+      "title": "Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes"
+    },
+    {
+      "paperId": "6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+      "title": "An Interaction Model for Visualizations Beyond The Desktop"
+    },
+    {
+      "paperId": "424d0d3d100201cb08d43d15610a99ac36414159",
+      "title": "Evaluating the efficiency of physical visualizations"
+    },
+    {
+      "paperId": "cde0855cb750d15790c7dbd1f657a90fae9d2630",
+      "title": "Visual analytics of movement: An overview of methods, tools and procedures"
+    },
+    {
+      "paperId": "04bfc768edfd38faad59c25995999191dbc169cc",
+      "title": "Visual Analytics Methodology for Eye Movement Studies"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "fd045c9cf577e37bc46cae0d3ea785fb36721e4b",
+      "title": "State of the Art Report on Video\u2010Based Graphics and Video Visualization"
+    },
+    {
+      "paperId": "1f2d508b51fce0868eef3dcd95aa1a4e3f880244",
+      "title": "Mental Map Preservation Helps User Orientation in Dynamic Graphs"
+    },
+    {
+      "paperId": "b34f31f86be981f017b29a2b4e1b63d18a760eb1",
+      "title": "What do we know about the space-time cube from cartographic and usability perspective?"
+    },
+    {
+      "paperId": "d975516bc669ed34372e20e2c401915101217f21",
+      "title": "Graph Bundling by Kernel Density Estimation"
+    },
+    {
+      "paperId": "f3b6516cf4135ae3d192aca0e86de33e0559401f",
+      "title": "A Qualitative Study on the Exploration of Temporal Changes in Flow Maps with Animation and Small\u2010Multiples"
+    },
+    {
+      "paperId": "8fd769f965c94533e4cc8a694e578b553c2af279",
+      "title": "Shape-changing interfaces: a review of the design space and open research questions"
+    },
+    {
+      "paperId": "b05073ca7b8aa7398d341468eadf17623bd62161",
+      "title": "The mental map and memorability in dynamic graphs"
+    },
+    {
+      "paperId": "e6057fdb0926094c4e81a358b0cc139cbc976bb0",
+      "title": "Network-based visual analysis of tabular data"
+    },
+    {
+      "paperId": "746a54bbfee0c6883c61f964cad98c720d55d457",
+      "title": "Asymmetric Relations in Longitudinal Social Networks"
+    },
+    {
+      "paperId": "2b062b51aa7fcf5f7bcdf245e28ab15dbd2e34f7",
+      "title": "Parallel Edge Splatting for Scalable Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "461d5338d09c6b0c17c9e157a4725225e0bd6972",
+      "title": "An event-based conceptual model for context-aware movement analysis"
+    },
+    {
+      "paperId": "45a89f364adc4598e37a1914719baedf944f14c6",
+      "title": "A conceptual framework and taxonomy of techniques for analyzing movement"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "f26be70934c46adcb60e16c94cd015e0442e0dcd",
+      "title": "Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors"
+    },
+    {
+      "paperId": "87598f2a820ddde056a32a0b8e3dc59b72d8abcc",
+      "title": "Effective Temporal Graph Layout: A Comparative Study of Animation versus Static Display Methods"
+    },
+    {
+      "paperId": "ad156241509bf2e914b8b054ce38767232794702",
+      "title": "2D and 3D Representations for Feature Recognition in Time Geographical Diary Data"
+    },
+    {
+      "paperId": "12156379a10bb6b15730f76f89372b3a6c251a66",
+      "title": "Space\u2013time density of trajectories: exploring spatio-temporal patterns in movement data"
+    },
+    {
+      "paperId": "2cd44809e3df0054e55a703fd45ef236a4734f93",
+      "title": "FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries"
+    },
+    {
+      "paperId": "10acb5b246fe93a775fd1a14495e08db6bb56844",
+      "title": "An Evaluation of Space Time Cube Representation of Spatiotemporal Patterns"
+    },
+    {
+      "paperId": "3538d05c04ce1818fc1252507c97b562ccc9a5b7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Visualization of Vessel Movements"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "337868b37dd29146819db10fcb3c24f6c6dd7a6d",
+      "title": "Organic user interfaces: designing computers in any way, shape, or form"
+    },
+    {
+      "paperId": "a4152c637f84d73795000cb5353ef837f5ee04dd",
+      "title": "Exploring video streams using slit-tear visualizations"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "6ec17e735cd9f7cb37485ab07b905a7895b0067d",
+      "title": "SIFT Features Tracking for Video Stabilization"
+    },
+    {
+      "paperId": "7e09a91ff314259a52de31312ea8ff25c3e2da76",
+      "title": "Visualizing time-oriented data - A systematic view"
+    },
+    {
+      "paperId": "37e084cdf8b8704b497b2d8e7547380c09468c7b",
+      "title": "Video abstraction: A systematic review and classification"
+    },
+    {
+      "paperId": "678e7e14b5d2d630adfe26be41df1438fe9372f6",
+      "title": "Mining and Visualizing the Evolution of Subgroups in Social Networks"
+    },
+    {
+      "paperId": "678795762b42a71ec79519e4be829520cf02433c",
+      "title": "A Comparison of Animated Maps with Static Small-Multiple Maps for Visually Identifying Space-Time Clusters"
+    },
+    {
+      "paperId": "3225f15853cef8952daf3a1612c4252ae5bb6286",
+      "title": "Network Visualization by Semantic Substrates"
+    },
+    {
+      "paperId": "681a3d62f66ff8667fead5cba484c775fa200b60",
+      "title": "Temporal visualization of planning polygons for efficient partitioning of geo-spatial data"
+    },
+    {
+      "paperId": "294ffe6c81f311a9bc8d26e3d763c9d05beb4c1b",
+      "title": "Adaptive Video Fast Forward"
+    },
+    {
+      "paperId": "f004e1e0cceb40403ce04ac0958ab2068b138444",
+      "title": "Khronos projector"
+    },
+    {
+      "paperId": "c7a3a52375c8aa222ed4b4d12eee823f9a7d1a8a",
+      "title": "Visualising Changes in Fund Manager Holdings in Two and a Half-Dimensions"
+    },
+    {
+      "paperId": "d202035f09930d99a887e5aeb4c12c88136fc596",
+      "title": "Motion Panoramas"
+    },
+    {
+      "paperId": "7072ecbea329b17a4a1eb04e93094c1871152c0c",
+      "title": "GeoTime Information Visualization"
+    },
+    {
+      "paperId": "bb90cf1a2fa6e6d083233b6b31ef775b9b1437e3",
+      "title": "The InfoVis Toolkit"
+    },
+    {
+      "paperId": "fc77ef1df53a33c75e49b89919e28d42530eae95",
+      "title": "Interactive analysis of event data using space-time cube"
+    },
+    {
+      "paperId": "420252da6ed8e6d67814c238440110654bf2fc14",
+      "title": "Interactive visual tools to explore spatio-temporal variation"
+    },
+    {
+      "paperId": "3b799b49a0ae657f9935089199d7c393d50bb988",
+      "title": "Studying cooperation and conflict between authors with history flow visualizations"
+    },
+    {
+      "paperId": "ab8dea83a443b874f8ec24ae91f353172e3e08c7",
+      "title": "Using deformations for browsing volumetric data"
+    },
+    {
+      "paperId": "49e7b546f5d75638d18df19e8d28eee86de775b9",
+      "title": "Video visualization"
+    },
+    {
+      "paperId": "dc59a32f70d7ed615cea9faee2379de777363986",
+      "title": "A system for graph-based visualization of the evolution of software"
+    },
+    {
+      "paperId": "636d5c1cb65b1ae6da1cdae1964745614f457ffc",
+      "title": "Visualising a fund manager flow graph with columns and worms"
+    },
+    {
+      "paperId": "18bb3164dff96dd5326b816a703bfa5564b28f7d",
+      "title": "Visual unrolling of network evolution and the analysis of dynamic discourse"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "3c9a4679d45386a0e3f0ba72cbb52583a90135f4",
+      "title": "Techniques for interactive video cubism (poster session)"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "da84137ba970d54ff833e33e450c3a912db42a42",
+      "title": "Visualizing with VTK: A Tutorial"
+    },
+    {
+      "paperId": "fa283ffdd5ab9256f8aa6085fa6b8f0b9fa46a95",
+      "title": "New frame rate up-conversion using bi-directional motion estimation"
+    },
+    {
+      "paperId": "068adade71524f8fd393c72ebf95a9d8a3a648ee",
+      "title": "Cluster and Calendar Based Visualization of Time Series Data"
+    },
+    {
+      "paperId": "c85deb69d4096b29828d7813e2fca6064b174ed1",
+      "title": "Tardis: a visual exploration environment for landscape dynamics"
+    },
+    {
+      "paperId": "6d28e7b7d256cdb25ab4cfdf531f2e705c02ecf7",
+      "title": "DIVA: exploratory data analysis with multimedia streams"
+    },
+    {
+      "paperId": "22101b895df01be811182612b2e0c565e6f31777",
+      "title": "Case study: visual access for landscape event based temporal data"
+    },
+    {
+      "paperId": "a0677d583442ae1722206ec828b3f207bcb8945d",
+      "title": "After the storm: considerations for information visualization"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "3206fcd10d4dc572607078aaae28b84fc5b18b24",
+      "title": "Can Physical Visualizations Support Analytical Tasks ?"
+    },
+    {
+      "paperId": "768197592f433e489aea64b8a5ee956653773ae7",
+      "title": "Visits: A Spatiotemporal Visualization of Location Histories"
+    },
+    {
+      "paperId": null,
+      "title": "stroke order project"
+    },
+    {
+      "paperId": "dc3d27f2deaf25c175702cf783a132b9db3bb947",
+      "title": "Interactively Visualizing Dynamic Social Networks with DySoN"
+    },
+    {
+      "paperId": "323df11fabf287d60f37afa9225eb761753bb102",
+      "title": "Visualising space and time in crime patterns: A comparison of methods"
+    },
+    {
+      "paperId": null,
+      "title": "Stats that reshape your world-view"
+    },
+    {
+      "paperId": null,
+      "title": "Research on visual analysis of spatio-temporal data at Fraun-hofer AIS: an overview of history and functionality of CommonGIS"
+    },
+    {
+      "paperId": "477b93ca731660db9b91412143efec424d1d7bfa",
+      "title": "The space - time cube revisited from a geovisualization perspective"
+    },
+    {
+      "paperId": "ca026c5aabf295b062f7ee4df6bbf5dffa310272",
+      "title": "VISUAL DATA EXPLORATION USING SPACE-TIME CUBE"
+    },
+    {
+      "paperId": "82242a02d6d43a27ad9cdceea0142b916f3ac670",
+      "title": "Making a GIS Intelligent: CommonGIS Project View"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "f4f51dd24b0d8ac7b9684be3fc092adf7cd5872b",
+      "title": "Information Graphics: A Comprehensive Illustrated Reference"
+    },
+    {
+      "paperId": null,
+      "title": "Understanding Comics. HarperCollins"
+    },
+    {
+      "paperId": "b370b8d4f4aa529cd1505b8d80e87d93ca500f1d",
+      "title": "WHAT ABOUT PEOPLE IN REGIONAL SCIENCE"
+    },
+    {
+      "paperId": "0dd74be7a5a0a719ac1bc933e960a03ad972d494",
+      "title": "La m\u00e9thode graphique dans les sciences exp\u00e9rimentales et principalement en physiologie et en m\u00e9decine"
+    },
+    {
+      "paperId": null,
+      "title": ") , 263 \u2013 276 . 12 [ Vox ] Voxler"
+    },
+    {
+      "paperId": null,
+      "title": "of scalable visual interfaces and the development of pixel-based algorithms such as bundling rendering techniques"
+    },
+    {
+      "paperId": null,
+      "title": "His research interests lie in the areas of information visualization and human-computer interaction, with a focus on visualization of multivariate data in space and time"
+    },
+    {
+      "paperId": null,
+      "title": "Megan Jaegerman\u2019s brilliant news graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Sheelagh Carpendale is a professor at University of Calgary, where she also holds a Canada Research Chair"
+    },
+    {
+      "paperId": null,
+      "title": "A Review of Temporal Data"
+    },
+    {
+      "paperId": null,
+      "title": "Animal Locomotion . Published under the auspices of the University of Pennsylvania"
+    },
+    {
+      "paperId": null,
+      "title": "A Cartographer's Toolkit -Small Multiples"
+    }
+  ]
+}

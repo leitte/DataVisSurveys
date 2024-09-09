@@ -1,0 +1,278 @@
+{
+  "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+  "externalIds": {
+    "MAG": "1544268587",
+    "DBLP": "conf/apvis/KucherK15",
+    "DOI": "10.1109/PACIFICVIS.2015.7156366",
+    "CorpusId": 1025499
+  },
+  "publicationVenue": {
+    "id": "5e8a55cb-fc9d-4567-be61-ca880f358422",
+    "name": "IEEE Pacific Visualization Symposium",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE Pac Vis Symp",
+      "PacificVis"
+    ],
+    "issn": "2165-8765",
+    "alternate_issns": [
+      "2165-8773"
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001657"
+  },
+  "url": "https://www.semanticscholar.org/paper/58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+  "title": "Text visualization techniques: Taxonomy, visual survey, and community insights",
+  "abstract": "Text visualization has become a growing and increasingly important subfield of information visualization. Thus, it is getting harder for researchers to look for related work with specific tasks or visual metaphors in mind. In this paper, we present an interactive visual survey of text visualization techniques that can be used for the purposes of search for related work, introduction to the subfield and gaining insight into research trends. We describe the taxonomy used for categorization of text visualization techniques and compare it to approaches employed in several other surveys. Finally, we present results of analyses performed on the entries data.",
+  "venue": "IEEE Pacific Visualization Symposium",
+  "year": 2015,
+  "referenceCount": 52,
+  "openAccessPdf": {
+    "url": "http://homepage.lnu.se/staff/akemsi/pubs/kucher-pacificvis15-postprint.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2015-04-14",
+  "journal": {
+    "name": "2015 IEEE Pacific Visualization Symposium (PacificVis)",
+    "pages": "117-121"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kucher2015TextVT,\n author = {Kostiantyn Kucher and A. Kerren},\n booktitle = {IEEE Pacific Visualization Symposium},\n journal = {2015 IEEE Pacific Visualization Symposium (PacificVis)},\n pages = {117-121},\n title = {Text visualization techniques: Taxonomy, visual survey, and community insights},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "34523583",
+      "name": "Kostiantyn Kucher"
+    },
+    {
+      "authorId": "2569160",
+      "name": "A. Kerren"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "72b250b7141c9d0d30bb700b77551b8e50b59a3d",
+      "title": "How we draw texts: a review of approaches to text visualization and exploration"
+    },
+    {
+      "paperId": "d252ba4ffc21318b45bc905e05ab12cc70b3d8bf",
+      "title": "Co-authorship networks and research impact: A social capital perspective"
+    },
+    {
+      "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+      "title": "Seeing beyond reading: a survey on visual text analytics"
+    },
+    {
+      "paperId": "50334619ec5b9fb38094146dd06eb91bff3078ae",
+      "title": "LeadLine: Interactive visual analysis of text data through event identification and exploration"
+    },
+    {
+      "paperId": "9ea1ec5c64c4006ca7f70da9fe2395a645d631e1",
+      "title": "Conceptual Recurrence Plots: Revealing Patterns in Human Discourse"
+    },
+    {
+      "paperId": "a6420692c8f10d493e989816ab42ef149585bba2",
+      "title": "Watch the Story Unfold with TextWheel: Visualization of Large-Scale News Streams"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+      "title": "Visualization of Text Streams: A Survey"
+    },
+    {
+      "paperId": "effa683ec6111aaf4b4d29ab2fb26b832844d9e1",
+      "title": "Networks: An Introduction"
+    },
+    {
+      "paperId": "727f2f6ba6547d271b44fba253069196b2e43c19",
+      "title": "GMap: Visualizing graphs and clusters as maps"
+    },
+    {
+      "paperId": "fb20402fbcaefed3bf3bed17158fe3bb95e885f5",
+      "title": "Processing online news streams for large-scale semantic analysis"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "14941da95f6b88a6b59fc45634904763ea4e882e",
+      "title": "DocuBurst: Visualizing Document Content using Language Structure"
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "daedb2a39cc641933bdf1b568e8ff2c3fa305f45",
+      "title": "Visualizing live text streams using motion and temporal pooling"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "29650af3755198eb0c7f6300b9ef2dbbbaf53b3f",
+      "title": "Arc diagrams: visualizing structure in strings"
+    },
+    {
+      "paperId": "0a5339ea02b719101a86c537235d520bbbe2b32d",
+      "title": "Overview"
+    },
+    {
+      "paperId": "054130b661a92812e5eb4ff5856fbecb470b35dd",
+      "title": "Lifestreams: a storage model for personal data"
+    },
+    {
+      "paperId": "14f157daceb1ef540a68f8aec39b41de4657690f",
+      "title": "Visualizing the non-visual: spatial analysis and interaction with information from text documents"
+    },
+    {
+      "paperId": "6d056449b563302986873b622d23aab23b482848",
+      "title": "Galaxy of news: an approach to visualizing and understanding expansive news landscapes"
+    },
+    {
+      "paperId": "0172edaafde0a1c8790790cfc318a3c47deb3b9a",
+      "title": "The document lens"
+    },
+    {
+      "paperId": "0e48f7fb11eca258d2bb3c343e9ac9cc5fab57ce",
+      "title": "Seesoft-A Tool For Visualizing Line Oriented Software Statistics"
+    },
+    {
+      "paperId": "d7ad112871da732fb55048bb684ea1f4f2f1039b",
+      "title": "Visualization for the document space"
+    },
+    {
+      "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+      "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
+    },
+    {
+      "paperId": "c91817fcbde7006b3cbc993a3a6db81928ce40f8",
+      "title": "Document visualization: an overview of current research"
+    },
+    {
+      "paperId": "99b57318e54c2d339f3e81e835565abd7c1dfdba",
+      "title": "Text Visualization Browser : A Visual Survey of Text Visualization Techniques"
+    },
+    {
+      "paperId": "39763630d38a447aa1126b5468b7effffc02e53a",
+      "title": "Graphically Speaking Treevis.net: A Tree Visualization Reference"
+    },
+    {
+      "paperId": null,
+      "title": "Gist icons: Seeing meaning in large bodies of literature"
+    },
+    {
+      "paperId": "5730dd763625e15a5ab703283bb305f48660f374",
+      "title": "ThemeRiver: Visualizing Thematic Changes in Large Document Collections"
+    },
+    {
+      "paperId": null,
+      "title": "JavaScript Object Notation) Available at http"
+    },
+    {
+      "paperId": null,
+      "title": "ECMA-404. JSON"
+    },
+    {
+      "paperId": null,
+      "title": "Lexical / Syntactical Analysis We have included this item to represent various linguistic tasks, for instance, analysis of lex-emes and sentences in poems"
+    },
+    {
+      "paperId": null,
+      "title": "Comparison This item denotes the comparison of several entities facilitated by the visualization technique"
+    },
+    {
+      "paperId": null,
+      "title": "Region of Interest This task denotes the automatic highlighting/suggestion of data items/regions that could be of interest to the user for more detailed investigation"
+    },
+    {
+      "paperId": null,
+      "title": "categories\u2014therefore"
+    },
+    {
+      "paperId": null,
+      "title": "Sentiment Analysis We have used this item for techniques re-lated to the analysis of sentiment, opinion, and affection"
+    },
+    {
+      "paperId": null,
+      "title": "as for the comparison of entries. We have compared our resulting taxonomy to the ones described in the related text visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Navigation / Exploration We use this item for techniques that facilitate the process of navigating around the data set, while possibly switching the visual representations or underlying data types"
+    },
+    {
+      "paperId": null,
+      "title": "Monitoring This task is related to visualization techniques that are designed to alert users to the changes in the data"
+    },
+    {
+      "paperId": null,
+      "title": "Clustering / Classi\ufb01cation / Categorization"
+    },
+    {
+      "paperId": null,
+      "title": "Trend Analysis / Pattern Analysis This item denotes the tasks of both automated trend analysis and manual investigation directed at discovering patterns in the textual data"
+    },
+    {
+      "paperId": null,
+      "title": "Reviews / (Medical) Reports This item denotes user reviews, medical report data alongside reviews and reports from other sources"
+    },
+    {
+      "paperId": null,
+      "title": "Scienti\ufb01c Articles / Papers"
+    },
+    {
+      "paperId": null,
+      "title": "for access, see Fig. 1 for a screenshot. The survey browser a main view with a collection of thumbnails (ordered by that represent the individual visualization techniques as well"
+    },
+    {
+      "paperId": null,
+      "title": "Relation / Connection Analysis This item is dedicated to comparison of data items, including the analysis of explicit relationships exposed by visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Literature / Poems"
+    },
+    {
+      "paperId": null,
+      "title": "The TimeVis Browser"
+    }
+  ]
+}

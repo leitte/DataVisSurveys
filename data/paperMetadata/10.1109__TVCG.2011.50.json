@@ -1,0 +1,401 @@
+{
+  "paperId": "90088d3e2ce402acf5bab3cbb56c5e0c91397c69",
+  "externalIds": {
+    "MAG": "2147433058",
+    "DBLP": "journals/tvcg/Kersten-OertelJC12",
+    "DOI": "10.1109/TVCG.2011.50",
+    "CorpusId": 16027055,
+    "PubMed": "21383411"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/90088d3e2ce402acf5bab3cbb56c5e0c91397c69",
+  "title": "DVV: A Taxonomy for Mixed Reality Visualization in Image Guided Surgery",
+  "abstract": "Mixed reality visualizations are increasingly studied for use in image guided surgery (IGS) systems, yet few mixed reality systems have been introduced for daily use into the operating room (OR). This may be the result of several factors: the systems are developed from a technical perspective, are rarely evaluated in the field, and/or lack consideration of the end user and the constraints of the OR. We introduce the Data, Visualization processing, View (DVV) taxonomy which defines each of the major components required to implement a mixed reality IGS system. We propose that these components be considered and used as validation criteria for introducing a mixed reality IGS system into the OR. A taxonomy of IGS visualization systems is a step toward developing a common language that will help developers and end users discuss and understand the constituents of a mixed reality visualization system, facilitating a greater presence of future systems in the OR. We evaluate the DVV taxonomy based on its goodness of fit and completeness. We demonstrate the utility of the DVV taxonomy by classifying 17 state-of-the-art research papers in the domain of mixed reality visualization IGS systems. Our classification shows that few IGS visualization systems' components have been validated and even fewer are evaluated.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 81,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2012-02-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "332-352",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kersten-Oertel2012DVVAT,\n author = {Marta Kersten-Oertel and P. Jannin and D. Collins},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {332-352},\n title = {DVV: A Taxonomy for Mixed Reality Visualization in Image Guided Surgery},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1402226891",
+      "name": "Marta Kersten-Oertel"
+    },
+    {
+      "authorId": "1791709",
+      "name": "P. Jannin"
+    },
+    {
+      "authorId": "2238288468",
+      "name": "D. Collins"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "9f64f896a82bea2ed3a6eb9c14c6f36ce86777fe",
+      "title": "DVV: Towards a Taxonomy for Mixed Reality Visualization in Image Guided Surgery"
+    },
+    {
+      "paperId": "18408cc996b9275998677b9131eb3d522ca10d8d",
+      "title": "Scorpion Shaped Endoscopic Surgical Robot for NOTES and SPS With Augmented Reality Functions"
+    },
+    {
+      "paperId": "e58bec8a36cf92d80971941b36e3d8b933ac5f23",
+      "title": "Image-guided interventions: technology review and clinical applications."
+    },
+    {
+      "paperId": "433a9ae065431c1c95e35f206bf6df290a22a2ee",
+      "title": "Automatic Phases Recognition in Pituitary Surgeries by Microscope Images Classification"
+    },
+    {
+      "paperId": "7ad98ed442f890eb00df6f17fc334b50a42d7de4",
+      "title": "Illustrative visualization of 3D planning models for augmented reality in liver surgery"
+    },
+    {
+      "paperId": "05b87e1d6951a46b0ebf9e61b5ac53141851d47f",
+      "title": "The MITK image guided therapy toolkit and its application for augmented reality in laparoscopic prostate surgery"
+    },
+    {
+      "paperId": "4a3b6d5d3ea265dee7bcbc8e485f4ae0e95d51e5",
+      "title": "The Virtual Mirror: A New Interaction Paradigm for Augmented Reality Environments"
+    },
+    {
+      "paperId": "5eff42fa8c1caa3169f2e92a3e1fe9a5de2a56b4",
+      "title": "In vitro cardiac catheter navigation via augmented reality surgical guidance"
+    },
+    {
+      "paperId": "06653124ddd4b0d9abe587ee376ba357d9fed421",
+      "title": "Stereoscopic display technologies, interaction paradigms, and rendering approaches for neurosurgical visualization"
+    },
+    {
+      "paperId": "0d6bb750ce2bbd6eddae8db4122c7946ccbbfa96",
+      "title": "A Design-Oriented Information-Flow Refinement of the ASUR Interaction Model"
+    },
+    {
+      "paperId": "3fb715b634c02f13c6e49faf11b39d63cf80a644",
+      "title": "Advanced Display and Visualization Concepts for Image Guided Surgery"
+    },
+    {
+      "paperId": "90962b96600ac247b8cf61df50e146e6aa9d87be",
+      "title": "Volumetric 3D Display for Radiation Therapy Planning"
+    },
+    {
+      "paperId": "0b3e529bbf3b1dbb8a0ebf75314ddf0d1e35aed4",
+      "title": "Stepping into the operating theater: ARAV \u2014 Augmented Reality Aided Vertebroplasty"
+    },
+    {
+      "paperId": "ee51179b553085d619c40079dfc10e848b6b48d7",
+      "title": "Intra-Operative Visualizations: Perceptual Fidelity and Human Factors"
+    },
+    {
+      "paperId": "4a440dca53f2797430493e02df42f0b3a336a29c",
+      "title": "Virtual reality-enhanced ultrasound guidance: A novel technique for intracardiac interventions"
+    },
+    {
+      "paperId": "d829ea2491a21d7a2c93ef6863c489fee5968219",
+      "title": "Contextual Anatomic Mimesis Hybrid In-Situ Visualization Method for Improving Multi-Sensory Depth Perception in Medical Augmented Reality"
+    },
+    {
+      "paperId": "b5d34d11db4ffc8320200534eae211d8d076aa1f",
+      "title": "Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation"
+    },
+    {
+      "paperId": "da5218a045c21f2db8d26fb6e926c05890a12864",
+      "title": "A Boosted Segmentation Method for Surgical Workflow Analysis"
+    },
+    {
+      "paperId": "b36b754d2b8265e21d4a72a4e4a3d5e8c733b68e",
+      "title": "Action- and Workflow-Driven Augmented Reality for Computer-Aided Medical Procedures"
+    },
+    {
+      "paperId": "d5b59b0b9417e65337aa603f22579467a7a66027",
+      "title": "Surgical models for computer-assisted neurosurgery"
+    },
+    {
+      "paperId": "2804ae6868fc6e45be8601cfe6b524a194d5470f",
+      "title": "Registered, Sensor-Integrated Virtual Reality for Surgical Applications"
+    },
+    {
+      "paperId": "4ab5e24e0834b76286ea508e70a1b74bd74e993b",
+      "title": "The Image-Guided Surgery Toolkit IGSTK: An Open Source C++ Software Toolkit"
+    },
+    {
+      "paperId": "63e5077578b4b83643d3e4a7a685eb9c739176d1",
+      "title": "Atlas-based method for model updating in image-guided liver surgery"
+    },
+    {
+      "paperId": "43f4307dfa76848267c6323bbc4c0224c0eebe2d",
+      "title": "Application of an augmented reality tool for maxillary positioning in orthognathic surgery - a feasibility study."
+    },
+    {
+      "paperId": "db749b89156775af48144e9d183e8d759c956510",
+      "title": "Reality Augmentation for Medical Procedures: System Architecture, Single Camera Marker Tracking, and System Evaluation"
+    },
+    {
+      "paperId": "4daccd8fb7a696d122bd9a2283d0d0c80caf7b34",
+      "title": "Using Registration Uncertainty Visualization in a User Study of a Simple Surgical Task"
+    },
+    {
+      "paperId": "505e3b63e98747ccdae7a01c11c82fa1bbe94030",
+      "title": "Enhancing Depth Perception in Translucent Volumes"
+    },
+    {
+      "paperId": "1571f7fdbd59485f7ddf8007cd19fbebc7e2e24a",
+      "title": "Augmented reality visualization for CT-guided interventions: system description, feasibility, and initial evaluation in an abdominal phantom."
+    },
+    {
+      "paperId": "15184b3a594104a06eaafc5200d08edc2fd8fd82",
+      "title": "Statistically quantitative volume visualization"
+    },
+    {
+      "paperId": "de26615875568fdfb380863cda24ddf32bac0855",
+      "title": "Augmented virtuality based on stereoscopic reconstruction in multimodal image-guided neurosurgery: methods and performance evaluation"
+    },
+    {
+      "paperId": "51a6ee7b7198aaf8ed501aabc9ab7f5252106d37",
+      "title": "Seven years of clinical experience with teleconsultation in craniomaxillofacial surgery."
+    },
+    {
+      "paperId": "3e6af5fa6ac7a8f8220dd038b6342c6ba338296d",
+      "title": "Illustrative Visualization for Medical Training"
+    },
+    {
+      "paperId": "6aeb3951587d83b4dcec75c948384d17630cbad9",
+      "title": "Augmented reality navigation system for endoscopic surgery based on three-dimensional ultrasound and computed tomography: Application to 20 clinical cases"
+    },
+    {
+      "paperId": "3640b50aa5b96e9b491ccaa2b0b2cfee951bfa72",
+      "title": "Virtual reality and augmented reality in digestive surgery"
+    },
+    {
+      "paperId": "b515413ac39a32f7de25fe876a5dbc1aa5d61168",
+      "title": "Automated initialization for marker-less tracking: a sensor fusion approach"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "e6b315943dfc41669802815edec2accf6a2a2326",
+      "title": "Surgical navigation by autostereoscopic image overlay of integral videography"
+    },
+    {
+      "paperId": "a4f44a8cce1c66bdf3abe2a707f9123ab6297b52",
+      "title": "Data Driven Ontology Evaluation"
+    },
+    {
+      "paperId": "966d4437ea086e8c078e15a82515c0a5380605e2",
+      "title": "ASUR++: Supporting the design of mobile mixed systems"
+    },
+    {
+      "paperId": "fd72a2d32009e0f6588b0f7bf51b495f16c1bdae",
+      "title": "Stereoscopic augmented reality for operating microscopes"
+    },
+    {
+      "paperId": "7f4c300643d9f657e175edfa8dff58df44aee308",
+      "title": "Intraoperative augmented reality for minimally invasive liver interventions"
+    },
+    {
+      "paperId": "2103fc1322ae5abc2c865922ad94eb5c426bfd67",
+      "title": "Computer-enhanced stereoscopic vision in a head-mounted operating binocular"
+    },
+    {
+      "paperId": "7b7923eeb76ad1c4301ef5582fd6f6203bc63fef",
+      "title": "Endoscopic Augmented Reality Navigation System for Endonasal Transsphenoidal Surgery to Treat Pituitary Tumors: Technical Note"
+    },
+    {
+      "paperId": "7c35234ff70a2a902919a4f94dcca4928fc551cb",
+      "title": "Integration of sulcal and functional information for multimodal neuronavigation."
+    },
+    {
+      "paperId": "e2e20f9c2e0dd2b44d978dc7a5f86601ff2cfb07",
+      "title": "Supporting ontological analysis of taxonomic relationships"
+    },
+    {
+      "paperId": "69361340d0afe89e2fb8db1ae24dbc44b59e8b3c",
+      "title": "Visual exploration of large data sets"
+    },
+    {
+      "paperId": "f44026af91bdc7b007c962edcf1aee22e1359343",
+      "title": "Overlaying ultrasonographic images on direct vision."
+    },
+    {
+      "paperId": "2d67e0bc938ef724779cb0816e99f9054d12dccb",
+      "title": "Evaluation of ontologies"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "e857f56328a2c77a8aacff7655e4e934dc178b07",
+      "title": "Stereo Augmented Reality in the Surgical Microscope"
+    },
+    {
+      "paperId": "118b08c174b7c62104f2a64161b85f9f4b3f6a6b",
+      "title": "Optical Versus Video See-Through Head-Mounted Displays in Medical Visualization"
+    },
+    {
+      "paperId": "856603451fc81c6ddc12b6fbc6fc3f316902511e",
+      "title": "An Image Overlay System for Medical Data Visualization"
+    },
+    {
+      "paperId": "90bc86c79686b93d7e3c6f78f6550702af96cf63",
+      "title": "Automated atlas integration and interactive three-dimensional visualization tools for planning and guidance in functional neurosurgery"
+    },
+    {
+      "paperId": "d981002f8260848cb1bc2cf3ee6041d0e3a39203",
+      "title": "Superimposed holographic image-guided neurosurgery. Technical note."
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "4fdc075d1cc14d64c11c3c860e86a082b761f4a0",
+      "title": "A Survey of Augmented Reality"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "0bbee958655fbc9ffe0689909a3ed89d260ae55d",
+      "title": "Merging virtual objects with the real world: seeing ultrasound imagery within the patient"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "b867eb4875f02a1a1e1198ebf06e3e2d2a7637c0",
+      "title": "GPU-accelerated Rendering for Medical Augmented Reality in Minimally-invasive Procedures"
+    },
+    {
+      "paperId": "371ca759de3e64de2f4709b150662c1993b58e47",
+      "title": "Validation of knowledge acquisition for surgical process models."
+    },
+    {
+      "paperId": "0d976d9e25e67e6d557ddf60ba8b34f0ed385afe",
+      "title": "Improving Depth Perception in Medical AR A Virtual Vision Panel to the Inside of the Patient"
+    },
+    {
+      "paperId": "967f8a7a5cea9f65a4251f9a5b19334d111d0ba4",
+      "title": "CAMPAR: a software framework guaranteeing quality for medical augmented reality"
+    },
+    {
+      "paperId": "310fbf3c57e7f8c5281cbeb1649bb240d60bc844",
+      "title": "Virtual Window for Improved Depth Perception in Medical AR"
+    },
+    {
+      "paperId": "4b8041a8cd4416aea08c8c3793aff5fcf679ae63",
+      "title": "Fast assessment of acetabular coverage using stereoscopic volume rendering."
+    },
+    {
+      "paperId": "696400e447288e435a05b6bf72def3a9cb41cb0b",
+      "title": "Intuitive and Lightweight User Interaction for Medical Augmented Reality"
+    },
+    {
+      "paperId": "ddda4a0357f4bccf9f52236f85a1079d42e1587f",
+      "title": "Augmented Reality in surgery"
+    },
+    {
+      "paperId": "2226d9b478108d59ab6cb703c6537043dd480c7f",
+      "title": "Augmented reality laser projection device for surgery."
+    },
+    {
+      "paperId": "ed9227b7588494bf16c511cd07e0137500087207",
+      "title": "Surface transparency makes stereo overlays unpredictable: the implications for augmented reality."
+    },
+    {
+      "paperId": "dadcc3edcf089b1cd220edbe8385be79c43f055f",
+      "title": "Classification Space for Augmented Surgery, an Augmented Reality Case Study"
+    },
+    {
+      "paperId": "7f69a42985563aa01304d5033a647fab3367b1bd",
+      "title": "A Taxonomy of Real and Virtual World Display Integration"
+    },
+    {
+      "paperId": "3b13dfc18d126b8bb99aaa2fdd872946427af7a5",
+      "title": "Multiple brain atlas database and atlas-based neuroimaging system."
+    },
+    {
+      "paperId": "d1b1a01327d26d205645a4594cf5ca83e41deaea",
+      "title": "Medicine Meets Virtual Reality"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "f9935f53618110df82ec26caede33cfae5d41a9c",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Combining Silhouettes, Surface, and Volume Rendering for Surgery Education and Planning"
+    },
+    {
+      "paperId": "576948da677e55d23ca459453637d42b773b7e0b",
+      "title": "Superimposed holographic image \u2013 guided neurosurgery"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. Third IEEE/ACM Int'l Symp. Mixed and Augmented Reality (ISMAR '04)"
+    },
+    {
+      "paperId": null,
+      "title": "Multiple co-Ordinate Manipulator (MKM): A Computer-Assisted Microscope"
+    }
+  ]
+}

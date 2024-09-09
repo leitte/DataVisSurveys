@@ -1,0 +1,305 @@
+{
+  "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+  "externalIds": {
+    "MAG": "2150085383",
+    "DBLP": "journals/tvcg/EllisD07",
+    "DOI": "10.1109/TVCG.2007.70535",
+    "CorpusId": 10033495,
+    "PubMed": "17968067"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+  "title": "A Taxonomy of Clutter Reduction for Information Visualisation",
+  "abstract": "Information visualisation is about gaining insight into data through a visual representation. This data is often multivariate and increasingly, the datasets are very large. To help us explore all this data, numerous visualisation applications, both commercial and research prototypes, have been designed using a variety of techniques and algorithms. Whether they are dedicated to geo-spatial data or skewed hierarchical data, most of the visualisations need to adopt strategies for dealing with overcrowded displays, brought about by too much data to fit in too small a display space. This paper analyses a large number of these clutter reduction methods, classifying them both in terms of how they deal with clutter reduction and more importantly, in terms of the benefits and losses. The aim of the resulting taxonomy is to act as a guide to match techniques to problems where different criteria may have different importance, and more importantly as a means to critique and hence develop existing and new techniques.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2007,
+  "referenceCount": 59,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2007-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1216-1223",
+    "volume": "13"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ellis2007ATO,\n author = {Geoffrey P. Ellis and A. Dix},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1216-1223},\n title = {A Taxonomy of Clutter Reduction for Information Visualisation},\n volume = {13},\n year = {2007}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "36877668",
+      "name": "Geoffrey P. Ellis"
+    },
+    {
+      "authorId": "144978737",
+      "name": "A. Dix"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "90a6ec14c0ca86f07f56932a2cc66b6c4eb6b726",
+      "title": "Outlier-Preserving Focus+Context Visualization in Parallel Coordinates"
+    },
+    {
+      "paperId": "34e6f2c359e82d5805f75df678aa08d09b37473c",
+      "title": "Enabling Automatic Clutter Reduction in Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "816d5c75b786ae82c37616467b2b091ec4fe7cbe",
+      "title": "Revealing Structure in Visualizations of Dense 2D and 3D Parallel Coordinates"
+    },
+    {
+      "paperId": "f2f736529736ec7d6b6646c8f0ef5cfd04122c63",
+      "title": "Give Chance a Chance: Modeling Density to Enhance Scatter Plot Quality through Random Data Sampling"
+    },
+    {
+      "paperId": "c874b1e0d3df32a7f693dc8fdd382d35d324f178",
+      "title": "Effectively visualizing large networks through sampling"
+    },
+    {
+      "paperId": "65f8676b814ce6be03b6c734a5a29ede1550af31",
+      "title": "The sampling lens: making sense of saturated visualisations"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "11b063c76f6967b7564ed75b02be38234228d478",
+      "title": "Mobile liquid 2D scatter space (ML2DSS)"
+    },
+    {
+      "paperId": "f7cab489cec1bf5be1401771146634cc5cd48c62",
+      "title": "Pixel based visual data mining of geo-spatial data"
+    },
+    {
+      "paperId": "a803bb6d0fbd3c3d03f95566fbef7052b92782dc",
+      "title": "Quality Metrics for 2D Scatterplot Graphics: Automatically Reducing Visual Clutter"
+    },
+    {
+      "paperId": "27163bd42962cddf57fb08d078e14a8b8ab568c7",
+      "title": "Intelligently resolving point occlusion"
+    },
+    {
+      "paperId": "b059dd9ce723e7e1d4ed9b0edbcec9704cb06feb",
+      "title": "Constant density displays using diversity sampling"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "7c443f34e1fb016c9b50ff611eaffb2df7569fdc",
+      "title": "A visual framework invites human into the clustering process"
+    },
+    {
+      "paperId": "378a4eb44007619304ee35750b37947350492e50",
+      "title": "Visual Hierarchical Dimension Reduction for Exploration of High Dimensional Datasets"
+    },
+    {
+      "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+      "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": "5e0e45deb650e874b57bd7c739df82e5bd9074ad",
+      "title": "Density control through random sampling: an architectural perspective"
+    },
+    {
+      "paperId": "2d8b151dc57b9af7d361c16d2589f9ab69d9d28a",
+      "title": "Interactive information visualization of a million items"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "eb5c683d68f12b63bdf9671bfde58b4055dfc3a5",
+      "title": "Ubiquitous sensing for smart and aware environments"
+    },
+    {
+      "paperId": "f262a74fe038cc621b1b82541cec04face182037",
+      "title": "Rapid serial visual presentation: a space-time trade-off in information presentation"
+    },
+    {
+      "paperId": "103d39052fef5a3d8c01ac14eea171faa5fa0ec0",
+      "title": "Information visualization using a new focus+context technique in combination with dynamic clustering of information space"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "8ff7b7cf3849640b7cfb8f08e2946fd151fed34c",
+      "title": "Data clustering: a review"
+    },
+    {
+      "paperId": "a6c5c25df50087ec69329edad011430f1229f8ea",
+      "title": "Constant density visualizations of non-uniform distributions of data"
+    },
+    {
+      "paperId": "6375221ebf8bad2611f30d3da88d343328a32fb7",
+      "title": "The Gridfit algorithm: an efficient and effective approach to visualizing large amounts of spatial data"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "84bf6b8f2ec64be531f7161c17033b1cf42d806f",
+      "title": "Domesticating Bead: adapting an information visualization system to a financial institution"
+    },
+    {
+      "paperId": "16bd1d2716887808d8efc376ae08a7681b85c188",
+      "title": "Spotfire: an information exploration environment"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "8d44d37f473eafbf2770c5f59a7aaeac751d6f70",
+      "title": "Visualizing large trees using the hyperbolic browser"
+    },
+    {
+      "paperId": "6c47a8d6a27c24ad2a5ad73e90eb2c6a54017be3",
+      "title": "LifeLines: visualizing personal histories"
+    },
+    {
+      "paperId": "ccd2f35c99b775da10425ace238964f53ae53817",
+      "title": "3-dimensional pliable surfaces: for the effective presentation of visual information"
+    },
+    {
+      "paperId": "631aa26feec3c398403f278183bbf7a96ea7e97c",
+      "title": "The information mural: a technique for displaying and navigating large information spaces"
+    },
+    {
+      "paperId": "54a85903c34cffd128438ce65084b1518caa32cf",
+      "title": "Visualizing real-time multivariate data using preattentive processing"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "d55560a5e3d2b8408ab84962c689ec4134d6f596",
+      "title": "The movable filter as a user interface tool"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "7798bf37b2a7bc82c7cebb1d4dafdaf4cac91159",
+      "title": "Visual information seeking: tight coupling of dynamic query filters with starfield displays"
+    },
+    {
+      "paperId": "2c262decde5a24107b465b94f7fc19fbb2503691",
+      "title": "Stretching the rubber sheet: a metaphor for viewing large layouts on small screens"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "49f67c0ee24f28cf2fe5670e37d195330d833524",
+      "title": "Dynamic"
+    },
+    {
+      "paperId": null,
+      "title": "Free Your Data! Cenimation: Visualization for Constrained Displays"
+    },
+    {
+      "paperId": null,
+      "title": "BELIV '06 , Proc. AVI workshop on BEyond time and errors"
+    },
+    {
+      "paperId": "5a82612d48707b7f15fdd91a99c4d680979a8ba2",
+      "title": "VizCluster and its Application on Classifying Gene Expression Data"
+    },
+    {
+      "paperId": "c29db829de2184f70821d2c5f34c53fd4cebad09",
+      "title": "Pixel Based Visual Mining of GeoSpatial Data"
+    },
+    {
+      "paperId": null,
+      "title": "InfoVis'03"
+    },
+    {
+      "paperId": "f20b89b08efb8cf000b7c4c99a90a6143d439617",
+      "title": "Clustering in massive data sets"
+    },
+    {
+      "paperId": "20a96f9a47b929005859c1d14eb7a59a5330d44b",
+      "title": "VizCluster and Its Application on Clustering Gene Expression Data"
+    },
+    {
+      "paperId": null,
+      "title": "Focus+Context Taken Literally"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "86f8335122b571822e5e4935e94f8d4e2166a6c7",
+      "title": "High Dimensional Clustering Using Parallel Coordinates and the Grand Tour"
+    },
+    {
+      "paperId": "0e5dd9b9379bd8ff3bbfaa00cf35ca4cdd097917",
+      "title": "Visual Techniques for Exploring Databases"
+    },
+    {
+      "paperId": null,
+      "title": "Chemical Data Analysis in the Large"
+    },
+    {
+      "paperId": null,
+      "title": "Using sampling to reduce the number of overlapping lines Example shows inter-axis sampling lens [19] on a parallel coordinate plot with 30,000 records. Sampling rate is 1%"
+    }
+  ]
+}

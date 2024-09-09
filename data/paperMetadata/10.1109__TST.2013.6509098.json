@@ -1,0 +1,228 @@
+{
+  "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+  "externalIds": {
+    "MAG": "2138488235",
+    "DOI": "10.1109/TST.2013.6509098",
+    "CorpusId": 10244546
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+  "title": "Edge bundling in information visualization",
+  "abstract": "The edge, which can encode relational data in graphs and multidimensional data in parallel coordinates plots, is an important visual primitive for encoding data in information visualization research. However, when data become very large, visualizations often suffer from visual clutter as thousands of edges can easily overwhelm the display and obscure underlying patterns. Many edge-bundling techniques have been proposed to reduce visual clutter in visualizations. In this survey, we briefly introduce the visual-clutter problem in visualizations. Thereafter, we review the cost-based, geometry-based, and image-based edge-bundling methods for graphs, parallel coordinates, and flow maps. We then describe the various visualization applications that use edge-bundling techniques and discuss the evaluation studies concerning the effectiveness of edge-bundling methods. An edge-bundling taxonomy is proposed at the end of this survey.",
+  "venue": "",
+  "year": 2013,
+  "referenceCount": 41,
+  "openAccessPdf": {
+    "url": "http://lliquid.github.io/homepage/files/ts13_edgebundle.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "publicationDate": "2013-04-30",
+  "journal": {
+    "name": "Tsinghua Science & Technology",
+    "pages": "145-156",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Zhou2013EdgeBI,\n author = {Hong Zhou and Panpan Xu and Xiaoru Yuan and Huamin Qu},\n journal = {Tsinghua Science & Technology},\n pages = {145-156},\n title = {Edge bundling in information visualization},\n volume = {18},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2157472628",
+      "name": "Hong Zhou"
+    },
+    {
+      "authorId": "49080140",
+      "name": "Panpan Xu"
+    },
+    {
+      "authorId": "35141605",
+      "name": "Xiaoru Yuan"
+    },
+    {
+      "authorId": "2300486168",
+      "name": "Huamin Qu"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "97b74d8c47ac2ba3f3083e657d638c98cc1c9773",
+      "title": "A User Study on Curved Edges in Graph Visualization"
+    },
+    {
+      "paperId": "d23649b1a193f0583e470adfc30e55ba27b5ecd1",
+      "title": "Ambiguity-Free Edge-Bundling for Interactive Graph Visualization"
+    },
+    {
+      "paperId": "17220582db679a69e8e71f10116543900a6770f7",
+      "title": "Flow Map Layout via Spiral Trees"
+    },
+    {
+      "paperId": "0f1527b252bf7224ef7354b9f3697a56a8919aed",
+      "title": "Skeleton-Based Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "7a9aaf7b4b05cc24c48510fabbb22ebbb6d89247",
+      "title": "Divided Edge Bundling for Directional Network Data"
+    },
+    {
+      "paperId": "49f5d3b1e017c2688714bcf09419a581118eb225",
+      "title": "TGI-EB: A New Framework for Edge Bundling Integrating Topology, Geometry and Importance"
+    },
+    {
+      "paperId": "64ba24329ea02e560e2f9ea392adbb5ee7c65009",
+      "title": "Angle-Restricted Steiner Arborescences for Flow Map Layout"
+    },
+    {
+      "paperId": "d481808e7d39e28fb43afd3c5595db51d9b7bdeb",
+      "title": "Pathway Preserving Representation of Metabolic Networks"
+    },
+    {
+      "paperId": "0269bd2ccddf36309869e37b1bfb964d7921e800",
+      "title": "An extended evaluation of the readability of tapered, animated, and textured directed-edge representations in node-link graphs"
+    },
+    {
+      "paperId": "f732c355a5122cf5113f5b1670189e59c114e579",
+      "title": "Dynamic network visualization in 1.5D"
+    },
+    {
+      "paperId": "291e5ce17134b6cddc2a258429a79f9fa7978348",
+      "title": "Multilevel agglomerative edge bundling for visualizing large graphs"
+    },
+    {
+      "paperId": "f2912c1c8649d53f0b517676d263e8a0a3f3df54",
+      "title": "Improving Layered Graph Layouts with Edge\u00a0Bundling"
+    },
+    {
+      "paperId": "60f736a3b00d4fbf520c443a981c4b1b0c9d5ad3",
+      "title": "3D Edge Bundling for Geographical Data Visualization"
+    },
+    {
+      "paperId": "2f7854b0f2a06dce420b00c259ba46828228ebab",
+      "title": "Living Flows: Enhanced Exploration of Edge-Bundled Graphs Based on GPU-Intensive Edge Rendering"
+    },
+    {
+      "paperId": "bc8852922f39403066381819b3bb401fd2c8e3c9",
+      "title": "Force\u2010Directed Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "902702d8e3a5eed4617316e429255df7891a40e6",
+      "title": "A user study on visualizing directed edges in graphs"
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "fa181738d7c32f195eae3dffbecd8d5d2bbbef21",
+      "title": "Execution trace analysis through massive sequence and circular bundle views"
+    },
+    {
+      "paperId": "3a5dc71097588dfbc166a50aedc72946d88637a3",
+      "title": "A 3D treemap approach for analyzing the classificatory distribution in patent portfolios"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "d4eb0459e770aa06e8e9b5d80a45cb2360a7537c",
+      "title": "Energy-Based Hierarchical Edge Clustering of Graphs"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "4d40d2c99f8d2f40169ca914515fdf26d7740967",
+      "title": "Improved Circular Layouts"
+    },
+    {
+      "paperId": "52eea2f3691ea6b12db9c625227829e466b8d5c0",
+      "title": "Controllable and Progressive Edge Clustering for Large Networks"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "9e93bf5073e1a23c8ff4ecb931858ec2d332929d",
+      "title": "Confluent Layered Drawings"
+    },
+    {
+      "paperId": "2b389276f61582e66adae329f9997b1a4d78e3d7",
+      "title": "An Energy Model for Visual Graph Clustering"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": null,
+      "title": "and Z"
+    },
+    {
+      "paperId": null,
+      "title": "Image-Based Edge Bundles: Simplified Visualization of Large Graphs"
+    },
+    {
+      "paperId": "da8ccf594b10dcd1108466721e2afb0b9b538aa2",
+      "title": "Comparison of Node-Link and Hierarchical Edge Bundling Layouts: A User Study"
+    },
+    {
+      "paperId": "2fee31a8dbb41fd16dcbb927ad2bf63512eeb8ba",
+      "title": "Experiments In Migration Mapping By Computer"
+    },
+    {
+      "paperId": "e585efc84efa16d794fe712c1095556eadfbe0b8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Winding Roads: Routing Edges into Bundles"
+    },
+    {
+      "paperId": "329c3e4acf8f32ba459f35850405ff7316aede86",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Visual Clustering in Parallel Coordinates"
+    },
+    {
+      "paperId": "de56d4dc240d358465264e10d058ea12b89bfdca",
+      "title": "Eurographics/ieee-vgtc Symposium on Visualization 2010 Evaluation of Cluster Identification Performance for Different Pcp Variants"
+    },
+    {
+      "paperId": "1fe958ab5909b31022795ed7ba37e491cb229996",
+      "title": "Journal of Graph Algorithms and Applications Visual Analysis of One-to-many Matched Graphs"
+    },
+    {
+      "paperId": "001755ed5de3f414d74ac1ecb513a905bf630657",
+      "title": "Journal of Graph Algorithms and Applications Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way"
+    },
+    {
+      "paperId": "9f15f86a548c8e13da206ae1ab589953a7350b95",
+      "title": "Journal of Graph Algorithms and Applications Using Graph Layout to Visualize Train Interconnection Data"
+    },
+    {
+      "paperId": null,
+      "title": "2004 and a PhD degree in computer science and engineering from the Hong Kong University of Science and Technology in 2009. She is a lecturer in the College of"
+    }
+  ]
+}

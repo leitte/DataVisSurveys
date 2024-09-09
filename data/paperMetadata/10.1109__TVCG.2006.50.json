@@ -1,0 +1,201 @@
+{
+  "paperId": "4aaad3a6dc23f13b0a4350890fb35026e5dc9558",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SeoS06",
+    "MAG": "2135735809",
+    "DOI": "10.1109/TVCG.2006.50",
+    "CorpusId": 7705433,
+    "PubMed": "16640245"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/4aaad3a6dc23f13b0a4350890fb35026e5dc9558",
+  "title": "Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework",
+  "abstract": "Knowledge discovery in high-dimensional data is a challenging enterprise, but new visual analytic tools appear to offer users remarkable powers if they are ready to learn new concepts and interfaces. Our three-year effort to develop versions of the hierarchical clustering explorer (HCE) began with building an interactive tool for exploring clustering results. It expanded, based on user needs, to include other potent analytic and visualization tools for multivariate data, especially the rank-by-feature framework. Our own successes using HCE provided some testimonial evidence of its utility, but we felt it necessary to get beyond our subjective impressions. This paper presents an evaluation of the hierarchical clustering explorer (HCE) using three case studies and an e-mail user survey (n=57) to focus on skill acquisition with the novel concepts and interface for the rank-by-feature framework. Knowledgeable and motivated users in diverse fields provided multiple perspectives that refined our understanding of strengths and weaknesses. A user survey confirmed the benefits of HCE, but gave less guidance about improvements. Both evaluations suggested improved training methods",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2006,
+  "referenceCount": 32,
+  "openAccessPdf": {
+    "url": "http://www.cs.umd.edu/hcil/hce/presentations/Seo-Shn-HCE_evaluation_submit.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2006-05-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "311-322",
+    "volume": "12"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Seo2006KnowledgeDI,\n author = {Jinwook Seo and B. Shneiderman},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {311-322},\n title = {Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework},\n volume = {12},\n year = {2006}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2016076",
+      "name": "Jinwook Seo"
+    },
+    {
+      "authorId": "1740403",
+      "name": "B. Shneiderman"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "b967fc914daa6f2b63689eeb3f4eb56446f8d7f5",
+      "title": "Transcript profiling of Eucalyptus xylem genes during tension wood formation."
+    },
+    {
+      "paperId": "39eeac24efbd208b3b9f51efc45c87b2998cf569",
+      "title": "A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data"
+    },
+    {
+      "paperId": "59f3d3f8ed2674ba5e3aaa604afc2186c1adf909",
+      "title": "Interactively optimizing signal-to-noise ratios in expression profiling: project-specific algorithm selection and detection p-value weighting in Affymetrix microarrays"
+    },
+    {
+      "paperId": "7408e0dc86d3c78736a5526cc5eb4391f245c480",
+      "title": "Genomic and Proteomic Analysis of Thirty-Nine Structural Proteins of Shrimp White Spot Syndrome Virus"
+    },
+    {
+      "paperId": "5cefd311516a84f1c486a1a3df5b26ac1114b2c6",
+      "title": "Altered cholesterologenic and lipogenic transcriptional profile in livers of aging Snell dwarf (Pit1dw/dwJ) mice"
+    },
+    {
+      "paperId": "f4e32ae9f86fe1c3e11795c61fe1cfe60e265803",
+      "title": "Functional polymorphisms associated with human muscle size and strength."
+    },
+    {
+      "paperId": "248ab3e8dc4b8ac1891f66804e0d68be0c9d7d35",
+      "title": "Gene expression profiling and protection of Medicago truncatula against a fungal infection in response to an elicitor from green algae Ulva spp"
+    },
+    {
+      "paperId": "5faff52f4c22b45ab4b9723bd15b1f5f24fe16d3",
+      "title": "CD1d\u2010restricted T\u2010cell subsets and dendritic cell function in autoimmunity"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "480150de2c021c2f6619815d55e7fc757a120825",
+      "title": "In vivo filtering of in vitro expression data reveals MyoD targets."
+    },
+    {
+      "paperId": "45125d77d04d132bab033f7a89f13aaa7ac153ed",
+      "title": "Interactive color mosaic and dendrogram displays for signal/noise optimization in microarray data analysis"
+    },
+    {
+      "paperId": "68fc138b6d735d9fa8550a229960762e6ddf1018",
+      "title": "Cellular transcriptional profiling in influenza A virus-infected lung epithelial cells: The role of the nonstructural NS1 protein in the evasion of the host innate defense and its potential contribution to pandemic influenza"
+    },
+    {
+      "paperId": "47b57ff66c178171f4cf0b2d0fd0a87a27384580",
+      "title": "Interactively Exploring Hierarchical Clustering Results"
+    },
+    {
+      "paperId": "c86900fc9f326e9861adc395c7e4be93dcdb8c2c",
+      "title": "Model-based analysis of oligonucleotide arrays: expression index computation and outlier detection."
+    },
+    {
+      "paperId": "8a14ca1d4004b7f03a1eabf70353a87bd7d1e10d",
+      "title": "Empirical studies of information visualization: a meta-analysis"
+    },
+    {
+      "paperId": "0e10a17a2e8d0b56989c5b2e1e6e881e885ac6c6",
+      "title": "Empirical evaluation of information visualizations: an introduction"
+    },
+    {
+      "paperId": "1368eacc22d4a89b0bb636c20e5c1c3e59881e5d",
+      "title": "Interactive Data Language"
+    },
+    {
+      "paperId": "39be488fd4265321afa31bd44665177da7baf6e1",
+      "title": "University of Maryland at College Park\uc758 \uace4\ucda9\ud559\uacfc \uc18c\uac1c"
+    },
+    {
+      "paperId": "9dc7c68a3b99439ee40322dad12319cd97e2d378",
+      "title": "Evaluation of (YBiCa) 3 (FeSi) 5 O 12 epitaxial films for extended temperature range ion-implanted 4\u00b5m-period bubble devices"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cThe Tyranny of Evaluation,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "SigmaPlot, http://www.systat.com/ products/SigmaPlot"
+    },
+    {
+      "paperId": null,
+      "title": "The MathWorks"
+    },
+    {
+      "paperId": null,
+      "title": "Silicon Genetics"
+    },
+    {
+      "paperId": "7ef56acfb8ae3784e4508102708c4ac16f3ad9f6",
+      "title": "A Knowledge Integration Framework for Information Visualization"
+    },
+    {
+      "paperId": "86e52131803f7ea1a4a6f329223a01ee35486962",
+      "title": "A combinatorial technique for the search of solid state gas sensor materials"
+    },
+    {
+      "paperId": null,
+      "title": "Raulin, Research Methods: A Process of Inquiry, fifth ed"
+    },
+    {
+      "paperId": "972e31f47c9efb8a1e7bdff296ff5ba9213fdf78",
+      "title": "A Workplace Study of the Adoption of Information Visualization Systems. Proceedings of I-KNOW'03: 3rd International Conference on Knowledge Management, Graz, Austria"
+    },
+    {
+      "paperId": null,
+      "title": "321 Fig. 8. What are the most useful ranking criteria in the scatterplot ordering"
+    },
+    {
+      "paperId": null,
+      "title": "He is a senior member of the IEEE"
+    },
+    {
+      "paperId": null,
+      "title": "scaling of each variable, 4. multiple selection sets, 5. potential ranking criteria including various important statistical tests, and 6. linkage to external statistical tools"
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www"
+    }
+  ]
+}

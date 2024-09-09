@@ -1,0 +1,406 @@
+{
+  "paperId": "d0e3acd3a32663c0408ee31725139f7d0180d329",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SchulzHS11",
+    "MAG": "2121815329",
+    "DOI": "10.1109/TVCG.2010.79",
+    "CorpusId": 18247956,
+    "PubMed": "20498508"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/d0e3acd3a32663c0408ee31725139f7d0180d329",
+  "title": "The Design Space of Implicit Hierarchy Visualization: A Survey",
+  "abstract": "Apart from explicit node-link representations, implicit visualizations and especially the Treemap as their frontrunner have acquired a solid position among the available techniques to visualize hierarchies. Their advantage is a highly space-efficient graphical representation that does not require explicit drawing of edges. In this paper, we survey the design space for this class of visualization techniques. We establish the design space along the four axes of dimensionality, edge representation, node representation, and layout by examining existing implicit hierarchy visualization techniques. The survey is completed by casting some light into regions of the design space that have not yet been explored. Our design space is not a mere theoretical construct, but a practically usable tool for rapid visualization development. To that end, we discuss a software implementation of the introduced design space.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2011,
+  "referenceCount": 83,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2011-04-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "393-411",
+    "volume": "17"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Schulz2011TheDS,\n author = {Hans-J\u00f6rg Schulz and S. Hadlak and H. Schumann},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {393-411},\n title = {The Design Space of Implicit Hierarchy Visualization: A Survey},\n volume = {17},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "37120614",
+      "name": "Hans-J\u00f6rg Schulz"
+    },
+    {
+      "authorId": "2552553",
+      "name": "S. Hadlak"
+    },
+    {
+      "authorId": "143789114",
+      "name": "H. Schumann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d4e3539d79ea3e1a6fdf286ae673529a08dd61e5",
+      "title": "Quantifying the Space-Efficiency of 2D Graphical Representations of Trees"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "b29d6916a6cbe708e315e81b2d969d378160bc12",
+      "title": "TreemapBar: Visualizing Additional Dimensions of Data in Bar Chart"
+    },
+    {
+      "paperId": "b266eb7b1e29d19fd11e3b03d0fed7f5b091f857",
+      "title": "Visualization of Software and Systems as Support Mechanism for Integrated Software Project Control"
+    },
+    {
+      "paperId": "bd3d8096de3da56f6737ac6a2899303facdedb55",
+      "title": "A self-adaptive treemap-based technique for visualizing hierarchical data in 3D"
+    },
+    {
+      "paperId": "30d1d12d63022618e7c64a44995f318ecd6c2c97",
+      "title": "Managing Hierarchical Information on Small Screens"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "d6dc30e64e568140b1f3318ee801df07a8ffca78",
+      "title": "On the role of metaphor in information visualization"
+    },
+    {
+      "paperId": "85b228c967b74e7fd43e1d4b3a902af0fa345714",
+      "title": "Circular partitions with applications to visualization and embeddings"
+    },
+    {
+      "paperId": "eec29f03d5360d8eb24ca9a70a40b295a51e8a70",
+      "title": "Cascaded treemaps: examining the visibility and stability of structure in treemaps"
+    },
+    {
+      "paperId": "63549b77855429ee5300d891b1fa3d911c6b8fdf",
+      "title": "Visualizing Changes of Hierarchical Data using Treemaps"
+    },
+    {
+      "paperId": "f00c99cbe8c2d1096f9db67c89dc3b9522632e25",
+      "title": "Unit Rectangle Visibility Graphs"
+    },
+    {
+      "paperId": "0fc057e898be1c77634d36df9bcfea222b529b16",
+      "title": "Structural analysis and visualization of C++ code evolution using syntax trees"
+    },
+    {
+      "paperId": "3c14c6137c7be689cab8c4bdd3429392d6bde252",
+      "title": "Visualizing the activity of a web-based collaborative platform"
+    },
+    {
+      "paperId": "fb75788da4539352e4a00758a60ed6336ef26973",
+      "title": "RELT - Visualizing Trees on Mobile Devices"
+    },
+    {
+      "paperId": "bcb1261a83776c07f1939fd3daf859aa744c03b9",
+      "title": "Rapid Prototyping of Visualizations using Mondrian"
+    },
+    {
+      "paperId": "3db2044f316f7b3076d4c0433e3bdcc823115e54",
+      "title": "Visualizing Software Systems as Cities"
+    },
+    {
+      "paperId": "4d610dd6ceb6243dad614e98dd5193ec8fd85e41",
+      "title": "CropCircles: Topology Sensitive Visualization of OWL Class Hierarchies"
+    },
+    {
+      "paperId": "8993e5852e6e137bc839ede05645100617966930",
+      "title": "Graph Signatures for Visual Analytics"
+    },
+    {
+      "paperId": "7de4b247132552fc98f7962bc6fa881862241add",
+      "title": "Visualizing Business Data with Generalized Treemaps"
+    },
+    {
+      "paperId": "7b58bfd90309bce62f0f9ef20549123f0db7d13d",
+      "title": "Visualizing Graphs - A Generalized View"
+    },
+    {
+      "paperId": "103b10f35b5baf56ca808cb26c069b2fd6c824ad",
+      "title": "Space-filling Techniques in Visualizing Output from Computer Based Economic Models"
+    },
+    {
+      "paperId": "e8463f0c84c52b446aeb5a6833abe70da50b1f73",
+      "title": "Visualization of Contents Archive by Contour Map Representation"
+    },
+    {
+      "paperId": "a5934b44763a9c3d4906e9ce0d118f31f51fac41",
+      "title": "Information Visualization: Beyond the Horizon"
+    },
+    {
+      "paperId": "f6708d19e6be014f8a049515323395351e97df91",
+      "title": "Visualization of large hierarchical data by circle packing"
+    },
+    {
+      "paperId": "75e1bf2c5d4b7bdffc002290262c2a12d3995e90",
+      "title": "Regular TreeMap layouts for visual analysis of hierarchical data"
+    },
+    {
+      "paperId": "f206e82be5e386cf068445d74533b9226e3c3b0a",
+      "title": "A note on space-filling visualizations and space-filling curves"
+    },
+    {
+      "paperId": "4c57a809daf308a909f167c629e4289cd47f7a9c",
+      "title": "Voronoi treemaps"
+    },
+    {
+      "paperId": "5e0b2e867dcaeb537e7f1a4393b7b1215151279c",
+      "title": "Visual Realism for the Visualization of Software Metrics"
+    },
+    {
+      "paperId": "75219893823d5d5f4242682ce1b3548b02c90044",
+      "title": "Framework for spatial visual design of abstract information"
+    },
+    {
+      "paperId": "64470e74df8625257d3d978f9d5fa7589e09d6e1",
+      "title": "Hierarchy Based 3D Visualization of Large Software Structures"
+    },
+    {
+      "paperId": "c8bd48703188ce8b3770ac1860b5ff7b85434120",
+      "title": "Evaluating spatial memory in two and three dimensions"
+    },
+    {
+      "paperId": "e8efc3baf8b6d9553478edd533fcb2130b5c2914",
+      "title": "Extending Tree-Maps to Three Dimensions: A Comparative Study"
+    },
+    {
+      "paperId": "60ffb59980969e72fd5e6fefb15e49ab3f1c9c27",
+      "title": "Hierarchical data visualization using a fast rectangle-packing algorithm"
+    },
+    {
+      "paperId": "a8b0972a6f98d26f7cc1d03bb7a12a60795399b0",
+      "title": "FundExplorer: supporting the diversification of mutual fund portfolios using context treemaps"
+    },
+    {
+      "paperId": "97e212fc6a1689739873da16bdc0635def29bdb5",
+      "title": "Treecube: visualization tool for browsing 3D multimedia data"
+    },
+    {
+      "paperId": "aea4003d3ed81c02c74a087431f420c5e419d554",
+      "title": "Comparison of 2D and 3D representations for visualising telecommunication usage"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "6aa08a7c0108346b5d0be3065e9718de08b70d14",
+      "title": "InterRing: an interactive tool for visually navigating and manipulating hierarchical structures"
+    },
+    {
+      "paperId": "2681b7adb8c5f6c97ac28e7955570d678677ae89",
+      "title": "Beamtrees: compact visualization of large hierarchies"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "fea4ae34b4a7086d1b36e17aed86ea6d24eb6eb4",
+      "title": "PhotoMesa: a zoomable image browser using quantum treemaps and bubblemaps"
+    },
+    {
+      "paperId": "95f036d664ac8c837f53fe23bea5d9889911b577",
+      "title": "2D vs 3D, implications on spatial memory"
+    },
+    {
+      "paperId": "6d9f7a384557a5d440064a20fa7f97d16bd8e622",
+      "title": "Information Availability in 2D and 3D Displays"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "9f608f5f66f3d5930adbe99cc0574caf5cc79f76",
+      "title": "Architectures to make simple visualisations using simple systems"
+    },
+    {
+      "paperId": "4a27786d31284d02a20f7b83b9e9707e8e63de00",
+      "title": "An algorithm for blob hierarchy layout"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "38595b3b57a341dae1c1bfa846669cf5a90df8aa",
+      "title": "Visualizing the stock market"
+    },
+    {
+      "paperId": "669282432d39d083cd072b636067e897f77fb85e",
+      "title": "Dynamic aggregation with circular visual designs"
+    },
+    {
+      "paperId": "7e2239e6c59efa179e20d23834a84a9f8cfa9329",
+      "title": "Effective visualization of hierarchical graphs with the cityscape metaphor"
+    },
+    {
+      "paperId": "8ab26aecd83c5c2259836a1ee7e8767fe79cddce",
+      "title": "Rapid prototyping of information visualizations using VANISH"
+    },
+    {
+      "paperId": "e8b0d63c3af6f3113422ab8b28134a31623a8103",
+      "title": "Cheops: a compact explorer for complex hierarchies"
+    },
+    {
+      "paperId": "4e8325462fa907c13e5be8dc4b5fe911f4e65f41",
+      "title": "Visual cues - practical data visualization"
+    },
+    {
+      "paperId": "011c0f37f9014ee6ef1057d0e1bebe0ae8f892d9",
+      "title": "Treemaps: Visualizing Hierarchical and Categorical Data"
+    },
+    {
+      "paperId": "b1c864ba463a9e2e9705963b0356f90322d53bff",
+      "title": "Improving the visualization of hierarchies with treemaps: design issues and experimentation"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "d8bb1c11a4eb5385a499591abcaae55cfabc9341",
+      "title": "Icicle Plots: Better Displays for Hierarchical Clustering"
+    },
+    {
+      "paperId": "7a23ad19ae1f551d6725fdf2283c643a727f4e33",
+      "title": "Representing Points in Many Dimensions by Trees and Castles"
+    },
+    {
+      "paperId": "a0924e4ed176eec97af3cda1bf2f99c98ca24622",
+      "title": "A Note on the Historical Development of Logic Diagrams: Leibniz, Euler and Venn"
+    },
+    {
+      "paperId": "50ba9a862432d0f1caae722d2710ba985510a191",
+      "title": "Filling Your Shelves: Synthesizing Diverse Style-Preserving Artifact Arrangements."
+    },
+    {
+      "paperId": "2f2e38d029c4219bb96eb78f308402ca2af7a3b8",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "11f42505787254b338a1bbf95ae73195a51c3773",
+      "title": "Exploring the PieTree for Representing Numerical Hierarchical Data"
+    },
+    {
+      "paperId": "9cdd651b3fdeeedb1073211404130d45bb4874fd",
+      "title": "Discovering the Covered : Ghost-Views in Information Visualization"
+    },
+    {
+      "paperId": "b2352147a4992807c1a3a1a7e037d0b4225731bb",
+      "title": "Browsing the Web Using Stacked Three-Dimensional Sunbursts to Visualize Term Co-Occurrences and Multimedia Content"
+    },
+    {
+      "paperId": "21798952a8f4c9e21b36532aa0791d041d55186a",
+      "title": "Exploration of the 3 D Treemap Design Space"
+    },
+    {
+      "paperId": "243a48faaed83d43b4e1e77a1c8c27e20fff744e",
+      "title": "New Strahler Numbers for Rooted Plane Trees"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cContainer Metaphor for Visualization of Complex Hierarchical Data Types,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cPebbles\u2014Using Circular Treemaps to Visualize Disk Usage,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cData Jewelry Box: A Graphics Showcase for Large-Scale Hierarchical Data Visualization,\u201d"
+    },
+    {
+      "paperId": "c0147b41048540b8cb461da8216cbc565dca050e",
+      "title": "Squarified Treemaps"
+    },
+    {
+      "paperId": "23db693566005092bf345c3ba3e992a14a32c116",
+      "title": "Virtual Worlds for Software Visualisation"
+    },
+    {
+      "paperId": "4f48a008c62a90fc376a41a0f1130feb28cdb112",
+      "title": "Skeletal Images as Visual Cues in Graph Visualization"
+    },
+    {
+      "paperId": "baa947a750b2d5714284386e2d7a2b7e838da7dc",
+      "title": "Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs"
+    },
+    {
+      "paperId": "c32b6e7953f3f11c0980f1ff2e56c914e3784df4",
+      "title": "Information Pyramids : A New Approach to Visualising Large Hierarchies"
+    },
+    {
+      "paperId": "223ab1e33a83643da25328c90362860f07a22346",
+      "title": "The Information Cube: Using Transparency in 3D Information Visualization"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    },
+    {
+      "paperId": "08421c787d9a9e2d9f5ba4bda1bfc9866fa4b04f",
+      "title": "Johnson: computers and intractability: a guide to the theory of np- completeness (freeman"
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www.computer.org/publications/dlib"
+    },
+    {
+      "paperId": null,
+      "title": "A SURVEY 409"
+    }
+  ]
+}

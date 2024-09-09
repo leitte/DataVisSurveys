@@ -1,0 +1,690 @@
+{
+  "paperId": "20cd40f3f17dc7d8f49d368c2efbc2e27b0f2b33",
+  "externalIds": {
+    "MAG": "2339562889",
+    "DBLP": "conf/vissym/JanickeFCS15",
+    "DOI": "10.2312/eurovisstar.20151113",
+    "CorpusId": 6563333
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/20cd40f3f17dc7d8f49d368c2efbc2e27b0f2b33",
+  "title": "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges",
+  "abstract": "We present an overview of the last ten years of research on visualizations that support close and distant reading of textual data in the digital humanities. We look at various works published within both the visualization and digital humanities communities. We provide a taxonomy of applied methods for close and distant reading, and illustrate approaches that combine both reading techniques to provide a multifaceted view of the data. Furthermore, we list toolkits and potentially bene\ufb01cial visualization approaches for research in the digital humanities. Finally, we summarize collaboration experiences when developing visualizations for close and distant reading, and give an outlook on future challenges in that research area.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2015,
+  "referenceCount": 153,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "History",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Linguistics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "pages": "83-103"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{J\u00e4nicke2015OnCA,\n author = {S. J\u00e4nicke and G. Franzini and M. F. Cheema and G. Scheuermann},\n booktitle = {Eurographics Conference on Visualization},\n pages = {83-103},\n title = {On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1762398",
+      "name": "S. J\u00e4nicke"
+    },
+    {
+      "authorId": "1690510",
+      "name": "G. Franzini"
+    },
+    {
+      "authorId": "34824871",
+      "name": "M. F. Cheema"
+    },
+    {
+      "authorId": "1810101",
+      "name": "G. Scheuermann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3785f256aa3f027ab02cbc6072ec5c0059a8a01d",
+      "title": "Comparative Visualization of Geospatial-temporal Data"
+    },
+    {
+      "paperId": "57a9754354857276ce9745761d4dc7d9c1b0c9ff",
+      "title": "ANNIS3: A new architecture for generic corpus query and visualization"
+    },
+    {
+      "paperId": "8a9376675d960ea76d5f8449f2871c4adf8854c9",
+      "title": "Visualizations for Text Re-use"
+    },
+    {
+      "paperId": "dcf20279e003ef36d8d18b2e2a0605c3a5402a01",
+      "title": "ShakerVis: Visual analysis of segment variation of German translations of Shakespeare\u2019s Othello"
+    },
+    {
+      "paperId": "dc3a0e45bddd8a4a650699780514e8d4b8065e72",
+      "title": "An NLP-based cross-document approach to narrative structure discovery"
+    },
+    {
+      "paperId": "803c269e6c00344c6278452a7d57f076681969f0",
+      "title": "VarifocalReader \u2014 In-Depth Visual Analysis of Large Text Documents"
+    },
+    {
+      "paperId": "cfb353785d6eb6049e772655553593d95fa090a3",
+      "title": "Exploring the Placement and Design of Word-Scale Visualizations"
+    },
+    {
+      "paperId": "bffe23d44eec0324f1be57877f05b06c379e77d5",
+      "title": "Overview: The Design, Adoption, and Analysis of a Visual Document Mining Tool for Investigative Journalists"
+    },
+    {
+      "paperId": "3a988347788f70de0298f812cbe027fc41d521a0",
+      "title": "How Hierarchical Topics Evolve in Large Text Corpora"
+    },
+    {
+      "paperId": "370d85b5994037adc8609f1b0eac267f4f624794",
+      "title": "Serendip: Topic model-driven visual exploration of text corpora"
+    },
+    {
+      "paperId": "609f37d54e4cd363de138b67190982fabf44851e",
+      "title": "Crowdsourcing individual interpretations: Between microtasking and macrotasking"
+    },
+    {
+      "paperId": "07cec27d3ee3c96c490d93de5dd06800c31ee829",
+      "title": "'The Sounds of the Psalter: Computational Analysis of Soundplay'"
+    },
+    {
+      "paperId": "0d6a467e16f5b24e7ef98584e454f4e884322bdd",
+      "title": "Visibility and meaning in topic models and 18th-century subject indexes"
+    },
+    {
+      "paperId": "7b3fa251e9884cd75dfdd48bbb2040197e979c96",
+      "title": "Mapping Homer's Catalogue of Ships"
+    },
+    {
+      "paperId": "dc28147b4b57613b38bd160e61a8ad852b4c0776",
+      "title": "Networks of Names: Visual Exploration and Semi\u2010Automatic Tagging of Social Networks from Newspaper Articles"
+    },
+    {
+      "paperId": "abd1fbd886e53d6a48a4cbb2d44c312cf1ab73cf",
+      "title": "Distant Listening to Gertrude Stein's 'Melanctha': Using Similarity Analysis in a Discovery Paradigm to Analyze Prosody and Author Influence"
+    },
+    {
+      "paperId": "8695530ef32fb633b3e194cee3257986eaa5efe0",
+      "title": "Geo-Temporal Interpretation of Archival Collections with Neatline"
+    },
+    {
+      "paperId": "1fdf9a918b8f549a30db2d191cb4796e6a67c99e",
+      "title": "StoryFlow: Tracking the Evolution of Stories"
+    },
+    {
+      "paperId": "808317b25b811751e3f23e85e4bda0ae40f111cf",
+      "title": "Computational analysis of the body in European fairy tales"
+    },
+    {
+      "paperId": "cf6c8dea1557373202f8484d53adb2ca6402799f",
+      "title": "The computer-assisted analysis of a medieval commonplace book and diary (MS Zibaldone Quaresimale by Giovanni Rucellai)"
+    },
+    {
+      "paperId": "e0a34aee9b142fa8ef0e54d5b098b6a3408ec232",
+      "title": "Rule\u2010based Visual Mappings \u2013 with a Case Study on Poetry Visualization"
+    },
+    {
+      "paperId": "9b74024e3f42971f5596ede0e5a4b736047e69fe",
+      "title": "Supporting exploratory text analysis in literature study"
+    },
+    {
+      "paperId": "2ee9ec236d0250101b0829a25a85bbc066ab5ef6",
+      "title": "Visualization of relationships among historical persons from Japanese historical documents"
+    },
+    {
+      "paperId": "d7814fbeb2302a8527242a4d90cb374384266b1b",
+      "title": "Fingerprint Matrices: Uncovering the dynamics of social networks in prose literature"
+    },
+    {
+      "paperId": "1e4e9dd6d11b0c7ec2f96f6fd0e7a9388c96d74d",
+      "title": "Visual Analysis of Set Relations in a Graph"
+    },
+    {
+      "paperId": "9fdd71913c16d2946599747e44aed1c792b9a51c",
+      "title": "Facilitating Discourse Analysis with Interactive Visualization"
+    },
+    {
+      "paperId": "18033f6e4e5aa70bfe64a720165f53846448e7ca",
+      "title": "Interactive Level-of-Detail Rendering of Large Graphs"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "50334619ec5b9fb38094146dd06eb91bff3078ae",
+      "title": "LeadLine: Interactive visual analysis of text data through event identification and exploration"
+    },
+    {
+      "paperId": "ce9e490b2653ae02df12113feb564f7ec61a868f",
+      "title": "WORDGRAPH: Keyword-in-Context Visualization for NETSPEAK's Wildcard Search"
+    },
+    {
+      "paperId": "e7a2d103f904e3552d174f780b331072a9867700",
+      "title": "DiaView: Visualise Cultural Change in Diachronic Corpora"
+    },
+    {
+      "paperId": "d05a24b676f69cd6c31ea171c12a843c2d28b23d",
+      "title": "HyperMachiavel: a translation comparison tool"
+    },
+    {
+      "paperId": "17220582db679a69e8e71f10116543900a6770f7",
+      "title": "Flow Map Layout via Spiral Trees"
+    },
+    {
+      "paperId": "4b0cc2e4c85a1bd54b52efe77686b048eb844cde",
+      "title": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series"
+    },
+    {
+      "paperId": "31598145ebe1f066c3ce773a6105ffd912ad98db",
+      "title": "Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "022deada7847fecaee9fb530c1e7c21eda9f96fd",
+      "title": "Exploring Uncertainty in Geodemographics with Interactive Graphics"
+    },
+    {
+      "paperId": "9daa9f0b88a55ad520f60db93f52412e5c2149b2",
+      "title": "Social network visualization from TEI data"
+    },
+    {
+      "paperId": "104581900fbd44d0f9b68c5bf26ebbc671472de0",
+      "title": "Visual GISting: bringing together corpus linguistics and Geographical Information Systems"
+    },
+    {
+      "paperId": "789d141104ca7cd1e5137afc9b1380be2b740e91",
+      "title": "Finding stories in the archive through paragraph alignment"
+    },
+    {
+      "paperId": "02e9999b1d355c595e7faf37c706d6003375b636",
+      "title": "ComPair: Compare and Visualise the Usage of Language"
+    },
+    {
+      "paperId": "91c4feed222413238c894553c2933c860d392427",
+      "title": "Exploring Collections of Tagged Text for Literary Scholarship"
+    },
+    {
+      "paperId": "61bc124f3d82a486ac516bab13c579219103378a",
+      "title": "Two-stage framework for a topology-based projection and visualization of classified document collections"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "ffa9c32f5961b4ce2e0685737d33a83a85cf76a2",
+      "title": "Untangling Euler Diagrams"
+    },
+    {
+      "paperId": "2a00ea0148c8d7f3aa79c70929ab4395ca5f1554",
+      "title": "GeneaQuilts: A System for Exploring Large Genealogies"
+    },
+    {
+      "paperId": "090c06bd0fd61c26907ce330b77e77ff47665954",
+      "title": "What's being said near \u201cMartha\u201d? Exploring name entities in literary text collections"
+    },
+    {
+      "paperId": "93c9010110d399d63c1dacb8dcf4aa75294230f5",
+      "title": "Parallel Tag Clouds to explore and analyze faceted text corpora"
+    },
+    {
+      "paperId": "b4d2bd6313d1575122f2a292455cc04e9cd608dc",
+      "title": "Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data"
+    },
+    {
+      "paperId": "91cba251832a4fa38765d127763fbbe5e34c3569",
+      "title": "Protovis: A Graphical Toolkit for Visualization"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "7472c904447935a896f112b2d60d3edca3cc10ae",
+      "title": "Mapping Text with Phrase Nets"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "14941da95f6b88a6b59fc45634904763ea4e882e",
+      "title": "DocuBurst: Visualizing Document Content using Language Structure"
+    },
+    {
+      "paperId": "748adf674826a69441a04facd8711d07fd55505a",
+      "title": "Exploring the biography and artworks of Picasso with interactive calendars and timelines"
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "e8996cad94fad9e1d93cf9b61751b0fc9f72942f",
+      "title": "Multidimensional visual analysis using cross-filtered views"
+    },
+    {
+      "paperId": "b607f972b674596d5d0127dac0c8388d124c67f2",
+      "title": "VisGets: Coordinated Visualizations for Web-based Information Exploration and Discovery"
+    },
+    {
+      "paperId": "5d1ab9b87dda77718c06c41d226133d4bc4d90ed",
+      "title": "The Word Tree, an Interactive Visual Concordance"
+    },
+    {
+      "paperId": "746a90962ed1555cae8d2580124c4445c00b42eb",
+      "title": "EMDialog: Bringing Information Visualization into the Museum"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "3908334d883161be6f22e09c30ed449764547c1b",
+      "title": "Expressing complex associations in medieval historical documents: the Henry III Fine Rolls Project"
+    },
+    {
+      "paperId": "79cbeaf231c5e09ab7ba20a9723ac7620e76cb40",
+      "title": "Glimpses through the clouds: collocates in a new light"
+    },
+    {
+      "paperId": "b83cb61abb089e8108ec23a8660cfb4dfa900f43",
+      "title": "The History of Humanities Computing"
+    },
+    {
+      "paperId": "e7f6132bb7c95b6552ccae8c00c255f27c035c88",
+      "title": "Discovering interesting usage patterns in text collections: integrating text mining with visualization"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "474178dae941d135190ba98cfb7c3aa67924b09b",
+      "title": "Literature Fingerprinting: A New Method for Visual Literary Analysis"
+    },
+    {
+      "paperId": "01c3c86c5d68765438c7e191c054c5f9750f4073",
+      "title": "Balancing Systematic and Flexible Exploration of Social Networks"
+    },
+    {
+      "paperId": "e1f3e56e1cdde9c11a6c8dc4a9b227e5c15bed99",
+      "title": "Spatial Analysis of News Sources"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "a76138efbbe0c4ae8bc6e6e0d24c3d2612285ca5",
+      "title": "Graphs, Maps, Trees: Abstract Models for a Literary History"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "bb90cf1a2fa6e6d083233b6b31ef775b9b1437e3",
+      "title": "The InfoVis Toolkit"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6fe0cd0c531ac2072826eed3be4a5a18d007987f",
+      "title": "Technology"
+    },
+    {
+      "paperId": "28821aa0608600d2be1ddb2fb75d576278225a74",
+      "title": "5 Design Rules for Visualizing Text Variant Graphs"
+    },
+    {
+      "paperId": "1d7802eac1588a4b536d7f94e63f1bbf42c005fb",
+      "title": "Z-Axis Scholarship: Modeling How Modernists Write the City"
+    },
+    {
+      "paperId": "564779877926c82486b236a64d7ce8910612fd5e",
+      "title": "Towards visualizing linguistic patterns of deliberation: a case study of the S21 arbitration"
+    },
+    {
+      "paperId": "68f93315afd73fb8b61981033865be1925e5c46b",
+      "title": "Visualizing and Analyzing the Hollywood Screenplay with ScripThreads"
+    },
+    {
+      "paperId": "caf5ff66a4c7a7318ac8e0fb57b5f9a9c004d2ea",
+      "title": "Design Rules for Visualizing Text Variant Graphs"
+    },
+    {
+      "paperId": "2df6b9f05063a788e7fbaf00b80d6149d8d2d806",
+      "title": "A Digital Humanities Approach to Narrative Voice in The Secret Scripture: Proposing a New Research Method"
+    },
+    {
+      "paperId": "d353fb7e51ec71e4f30c2b1417e90c3dae0c200d",
+      "title": "Combining Macro- and Microanalysis for Exploring the Construal of Scientific Disciplinarity"
+    },
+    {
+      "paperId": "a450fda8a554ada76820a96b9049028bc008f2e9",
+      "title": "Validating Computational Stylistics in Literary Interpretation"
+    },
+    {
+      "paperId": "2c7570f1c5afff9af1bbf6415cb3930d26d9755d",
+      "title": "Digital Yoknapatawpha: Interpreting a Palimpsest of Place"
+    },
+    {
+      "paperId": "f4b7ec22c3f54ef6a8ad32f79cd9f930a3edf7f2",
+      "title": "Stylometry, network analysis, and Latin literature"
+    },
+    {
+      "paperId": "ab418e5c1f2f24ab913bd887c55899d3465b4c6d",
+      "title": "A glimpse of the change of worldview between 7th and 10th century China through two leishu"
+    },
+    {
+      "paperId": "f594d6d0bfce23414bf641dc69c31ae6c99f6373",
+      "title": "On Metaphor in Text Visualization Prototypes"
+    },
+    {
+      "paperId": "f37ee666c2570a65a600188ab86d8b7b0c862a94",
+      "title": "Visualization As a Bridge to Close Reading: The Audience in The Castle of Perseverance"
+    },
+    {
+      "paperId": "b7f89fe8b8f0e498647f605a8058c2908daf0c7e",
+      "title": "Exploratory Thematic Analysis for Historical Newspaper Archives"
+    },
+    {
+      "paperId": "aff773bd7495563f0c1ab6ac595843356cd3fb6b",
+      "title": "The Layered Text. From Textual Zoom, Text Network Analysis and Text Summarisation to a Layered Interpretation of Meaning"
+    },
+    {
+      "paperId": "2a468899ba8a7ec14f41a32d10b24b1593a6026c",
+      "title": "Empowering Play, Experimenting with Poems: Disciplinary Values and Visualization Development"
+    },
+    {
+      "paperId": "d223a93266c3e186786ea5c330e1c1879be85fac",
+      "title": "Digital approaches to understanding the geographies in literary and historical texts"
+    },
+    {
+      "paperId": "22bfeeeced9257bc1e45d23e220e41abfb85146b",
+      "title": "Uncertain about Uncertainty: Different ways of processing fuzziness in digital humanities data"
+    },
+    {
+      "paperId": "ee8620c4dde61062944972f0e8ac1d6ee0c7ee4e",
+      "title": "The Problem of Time and Space: The Difficulties in Visualising Spatiotemporal Change in Historical Data"
+    },
+    {
+      "paperId": "ac93f6f77cae6f5098649336638d1d965c206eb4",
+      "title": "Trading Consequences: A Case Study of Combining Text Mining & Visualisation to Facilitate Document Exploration"
+    },
+    {
+      "paperId": null,
+      "title": "TEI for Close Reading: Can It Work for History?"
+    },
+    {
+      "paperId": null,
+      "title": "Minecraft Anyone? En-couraging A New Generation of Computer Sci-entists and Humanists"
+    },
+    {
+      "paperId": "7e1eeef20d2eef8d1be579356f4f42fe088ceb70",
+      "title": "Visualizing Uncertainty: How to Use the Fuzzy Data of 550 Medieval Texts?"
+    },
+    {
+      "paperId": "584270635f7ec4fce7bf126e0ca7dc67432e289c",
+      "title": "Ambiances: A Framework to Write and Visualize Poetry"
+    },
+    {
+      "paperId": "e0049f3ad81dd08f2af8b1949d9c0fdd4c8b785c",
+      "title": "Digging into Human Rights Violations: phrase mining and trigram visualization"
+    },
+    {
+      "paperId": "c92d4c831576a0b793b9b22dd9d1a22992117c40",
+      "title": "Taken Possession of: The Reprinting and Reauthorship of Hawthorne's \"Celestial Railroad\" in the Antebellum Religious Press"
+    },
+    {
+      "paperId": "921bdc0633c7247935fbd9b4294a049f1050efec",
+      "title": "Solitary Mind, Collaborative Mind: Close Reading and Interdisciplinary Research"
+    },
+    {
+      "paperId": "9b099ea4ee363ec3e20c587166b80da5be85e783",
+      "title": "Documentary Social Networks: Collective Biographies of Women"
+    },
+    {
+      "paperId": "86ebbb823b61482ad02e888acc24c9e61262a6d7",
+      "title": "Juxta Commons"
+    },
+    {
+      "paperId": "3e05e7641ab44c358886bd69d6435e5513356fe9",
+      "title": "Surveying a Corpus with Alignment Visualization and Topic Modeling"
+    },
+    {
+      "paperId": "b18247a32ddf7fda9f3e9d647a062c116242daee",
+      "title": "Theorizing Data Visualization: A Comparative Case-Study Approach"
+    },
+    {
+      "paperId": "5e85ed3aefcedb5991724fa22215c6e1e8a5ca9e",
+      "title": "eMargin: A Collaborative Textual Annotation Tool"
+    },
+    {
+      "paperId": "109c76dc49d13d4aac016b8169a8017edde1fe2e",
+      "title": "Markup Beyond XML"
+    },
+    {
+      "paperId": "3297be61b40c0603799bd19ecf422a372a7761fd",
+      "title": "Closing in on Close Reading."
+    },
+    {
+      "paperId": null,
+      "title": "Digital Close Reading: TEI for Teaching Poetic Vocabularies"
+    },
+    {
+      "paperId": null,
+      "title": "Macroanalysis: Digital Methods & Lit-erary History"
+    },
+    {
+      "paperId": null,
+      "title": "Distant reading"
+    },
+    {
+      "paperId": "ebfb2fea84b8351b8c67de47d82acb897d5eb955",
+      "title": "Computing and Visualizing the 19th-Century Literary Genome"
+    },
+    {
+      "paperId": "7384a7bf34aab72bcfe0d5886220a82bcc8369d7",
+      "title": "GeoTemCo: Comparative Visualization of Geospatial-Temporal Data with Clutter Removal Based on Dynamic Delaunay Triangulations"
+    },
+    {
+      "paperId": "6a27f93d4cfcc0f913d67dda52b3c78da93ca723",
+      "title": "Mapping the Information Science Domain"
+    },
+    {
+      "paperId": "513d7aea83d5f68f9173a85b18b5554fcf3ebfeb",
+      "title": "Building Better Digital Humanities Tools: Toward broader audiences and user-centered designs"
+    },
+    {
+      "paperId": "75fda6008e813f2c54a67a612ad657da49a5c2c2",
+      "title": "Violence and the Digital Humanities Text as Pharmakon"
+    },
+    {
+      "paperId": "c54d8caa78faa8b2b63ca227051e13e417ad1711",
+      "title": "Myopia: A Visualization Tool in Support of Close Reading"
+    },
+    {
+      "paperId": "0d3445ac1a2062e9872f76412e147622e49c52ff",
+      "title": "Social Network Analysis and Visualization in 'The Papers of Thomas Jefferson'"
+    },
+    {
+      "paperId": null,
+      "title": "Literature is not Data: Against Digital Hu-manities"
+    },
+    {
+      "paperId": "a9ceca5f93d6e1854815b86ae873beedcc2818cd",
+      "title": "Computational Discovery and Visualization of the Underlying Semantic Structure of Complicated Historical and Literary Corpora"
+    },
+    {
+      "paperId": "915ef1a8f5bc26d5e724a9623c016b28ba40a3c9",
+      "title": "Approaching the Coasts of Utopia: Visualization Strategies for Mapping Early Modern Paratexts"
+    },
+    {
+      "paperId": "b52e8a3a57b2286079271e4ac010778151992283",
+      "title": "Visualizing Sound as Functional N-Grams in Homeric Greek Poetry"
+    },
+    {
+      "paperId": "c0416aef273d7d25630b3c7c5f3911288e098ae1",
+      "title": "Trends 21 Corpus: A Large Annotated Korean Newspaper Corpus for Linguistic and Cultural Studies"
+    },
+    {
+      "paperId": "a72bdffd203cc53e6be55f4a46102669b3b4cfd8",
+      "title": "A Visual Interface for Exploring Language Use in Slave Narratives"
+    },
+    {
+      "paperId": "2c359dc02aaf8c94bcefe19851a03f74e3968300",
+      "title": "Reading graphs, maps, trees : responses to Franco Moretti"
+    },
+    {
+      "paperId": "cf08b50d4d5be1f1c4043aa1731af50d4694b3c9",
+      "title": "Mapping the World of an Ancient Greek Historian: The HESTIA Project"
+    },
+    {
+      "paperId": "639356fa96b721b0b0e8d2b8991bbd9a15fbd70d",
+      "title": "Towards Hermeneutic Markup: An architectural outline"
+    },
+    {
+      "paperId": "f5c129530967794e560c0ec13c23e59104d51fcc",
+      "title": "The Social Lives of Books: Mapping the Ideational Networks of Toni Morrison"
+    },
+    {
+      "paperId": "bcf587991df12948d54bd2ef0151aad1e9b466e9",
+      "title": "Detection of Citations and Textual Reuse on Ancient Greek Texts and its Applications in the Classical Studies: eAQUA Project"
+    },
+    {
+      "paperId": "3c25757ea01f47a03eb47a2e015da5e8f93c2eb3",
+      "title": "A Platform for Cultural Information Visualization Using Schematic Expressions of Cube"
+    },
+    {
+      "paperId": null,
+      "title": "He is currently working as a research assistant in the Image and Signal Processing Group at Leipzig University"
+    },
+    {
+      "paperId": null,
+      "title": "PEN B IBLE"
+    },
+    {
+      "paperId": null,
+      "title": "Patrick Kavanagh\u2019s Poetic Wordscapes: GIS, Literature and Ireland, 1922-1949"
+    },
+    {
+      "paperId": null,
+      "title": "WikiPhiloSofia: Extraction and Visualization of Facts, Relations, and Networks Concerning Philosophers Using Wikipedia"
+    },
+    {
+      "paperId": "1b3814c05801e885c9b6b05adb220e4f131effb4",
+      "title": "Interactive Exploration of Versions across Multiple Documents"
+    },
+    {
+      "paperId": "b2fe362c55db75ec93acafdfbbc079b6c1fb0820",
+      "title": "The Story of One: Humanity scholarship with visualization and text analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Information visualization and text mining: application to a corpus on posthumanism"
+    },
+    {
+      "paperId": "cca347f0ce607de285c550d4dc9ab73eaa72a030",
+      "title": "A Flexible System for Text Analysis with Semantic Networks"
+    },
+    {
+      "paperId": null,
+      "title": "\u2019Something that is interesting is interesting them\u2019: Using Text Mining and Visualizations to Aid Interpreting Repetition in Gertrude Stein\u2019s The Making of Americans"
+    },
+    {
+      "paperId": null,
+      "title": "Literary Organism"
+    },
+    {
+      "paperId": "c0ee87c3c553b2dfd8ea797ea49e30b90dbbc2e8",
+      "title": "SVG Visualization of TEI Texts"
+    },
+    {
+      "paperId": null,
+      "title": "A Revolutionary Approach to Humanities Computing?: Tools Development and the D2K DataMining Framework"
+    },
+    {
+      "paperId": "4aed8f0c29b321cf051d3f3e9fd650127d65c3e2",
+      "title": "TextArc: Showing Word Frequency and Distribution in Text"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "ee77bdaf484157d896ad85a14fa4938dbee7e10e",
+      "title": "Text Encoding Initiative"
+    },
+    {
+      "paperId": "da20a07cacdddf9fc75c32e8ac7b68075f0d4cf3",
+      "title": "A glossary of contemporary literary theory"
+    },
+    {
+      "paperId": "7cfb2fcd49124d66b031dff998fb42d899f71989",
+      "title": "Interface design"
+    },
+    {
+      "paperId": null,
+      "title": "Undiscovered Public Knowledge\": Mining for Patterns of Erotic Language in Emily Dickinson\u2019s Correspondence with Susan Huntington (Gilbert) Dickinson"
+    },
+    {
+      "paperId": null,
+      "title": "Rhetoric and Society: Sourcebook on Rhetoric: Key Concepts in Contemporary Rhetorical Studies , vol. 4"
+    }
+  ]
+}

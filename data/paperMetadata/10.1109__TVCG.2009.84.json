@@ -1,0 +1,449 @@
+{
+  "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ElmqvistF10",
+    "MAG": "2121418890",
+    "DOI": "10.1109/TVCG.2009.84",
+    "CorpusId": 2593345,
+    "PubMed": "20224139"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6a0879b7be55f163728bd780fd64d9471796d66e",
+  "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines",
+  "abstract": "We present a model for building, visualizing, and interacting with multiscale representations of information visualization techniques using hierarchical aggregation. The motivation for this work is to make visual representations more visually scalable and less cluttered. The model allows for augmenting existing techniques with multiscale functionality, as well as for designing new visualization and interaction techniques that conform to this new class of visual representations. We give some examples of how to use the model for standard information visualization techniques such as scatterplots, parallel coordinates, and node-link diagrams, and discuss existing techniques that are based on hierarchical aggregation. This yields a set of design guidelines for aggregated visualizations. We also present a basic vocabulary of interaction techniques suitable for navigating these multiscale visualizations.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2010,
+  "referenceCount": 94,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-00696751/file/hieragg.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-05-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "439-454",
+    "volume": "16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Elmqvist2010HierarchicalAF,\n author = {N. Elmqvist and Jean-Daniel Fekete},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {439-454},\n title = {Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines},\n volume = {16},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1722415",
+      "name": "N. Elmqvist"
+    },
+    {
+      "authorId": "144381703",
+      "name": "Jean-Daniel Fekete"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d",
+      "title": "Exploratory data analysis"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "a79bc9836516c337b108558d48ccf9a44b45638d",
+      "title": "Fully Automatic Visualisation of Overlapping Sets"
+    },
+    {
+      "paperId": "91a9ced79ffa0cdf5de28a1716ebc2fe79048f29",
+      "title": "Visualizing metrics on areas of interest in software architecture diagrams"
+    },
+    {
+      "paperId": "0f44c507de9bec171b126d0ef2cd802611b3fdb7",
+      "title": "TugGraph: Path-preserving hierarchies for browsing proximity and paths in graphs"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "aa60f3ea90f423cd06e523c57c38ba822bd13251",
+      "title": "ZAME: Interactive Large-Scale Graph Visualization"
+    },
+    {
+      "paperId": "cf1ce0765b766e24444554f1f75857bd58e6f883",
+      "title": "Browsing Zoomable Treemaps: Structure-Aware Multi-Scale Navigation Techniques"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "7ca9aaf0f560003226cf7dc0b2f7558325b40b6e",
+      "title": "CiteWiz: A Tool for the Visualization of Scientific Citation Networks"
+    },
+    {
+      "paperId": "785edbf729f6799954ee9ed2700d350312c3ce57",
+      "title": "Manual Clustering Refinement using Interaction with Blobs"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "2ca520c6045aa776e2f6694b207ba73ed8db3b48",
+      "title": "User Interfaces for the Exploration of Hierarchical Multi-dimensional Data"
+    },
+    {
+      "paperId": "c4d4e61da9ed1952598bb40f5dbfcbafac27d4f3",
+      "title": "Measuring Data Abstraction Quality in Multiresolution Visualizations"
+    },
+    {
+      "paperId": "01e3ca6d6bf1a040699d496aa0f4ab90ae7dd567",
+      "title": "ASK-GraphView: A Large Scale Graph Visualization System"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "2f10df959646fff9c5cf726a7399eec1b6b1d009",
+      "title": "Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color."
+    },
+    {
+      "paperId": "3242e9081a7870e292630d83520474082a099b14",
+      "title": "Visual exploration of multivariate graphs"
+    },
+    {
+      "paperId": "7dc82d7de25136e2903a57c9cd986d506b0638e2",
+      "title": "A fisheye follow-up: further reflections on focus + context"
+    },
+    {
+      "paperId": "6f447bf1c1dfc49a16a9893de7ce02a26c48ea20",
+      "title": "OrthoZoom scroller: 1D multi-scale navigation"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "4a2d856bf893f15c68c2f3664ae6790c722d3ed6",
+      "title": "Zliding: fluid zooming and sliding for high precision parameter manipulation"
+    },
+    {
+      "paperId": "38ce79c6dfc26b1f6c9b7f18a1c012428b3c70b0",
+      "title": "Parallel sets: visual analysis of categorical data"
+    },
+    {
+      "paperId": "f267c90705d2fe83d3bbe030a3b9d7941b2322fc",
+      "title": "Topological fisheye views for visualizing large graphs"
+    },
+    {
+      "paperId": "82038c93e6e803fad5804f2c82a8e74a657c4c31",
+      "title": "On the Readability of Graphs Using Node-Link and Matrix-Based Representations: A Controlled Experiment and Statistical Analysis"
+    },
+    {
+      "paperId": "6331351aa42eafc175f5df5ff4b96cbc50ffe7ab",
+      "title": "Target acquisition in multiscale electronic worlds"
+    },
+    {
+      "paperId": "aea3e7f04289a619f63927cd6764327b36b6326f",
+      "title": "Matrix Zoom: A Visual Interface to Semi-External Graphs"
+    },
+    {
+      "paperId": "d10bebd414e3d9bbc197deb904f94e561edc0069",
+      "title": "Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering"
+    },
+    {
+      "paperId": "84957ae07e64e02db819278c621458d371a7e28f",
+      "title": "Toolkit design for interactive structured graphics"
+    },
+    {
+      "paperId": "b1d4aac2f66042f596a1db109e5dcac887876bb2",
+      "title": "Smooth and efficient zooming and panning"
+    },
+    {
+      "paperId": "77d138208639a61a3fd8b52ea368c338f7e44b8b",
+      "title": "Causality visualization using animated growing polygons"
+    },
+    {
+      "paperId": "a8b0972a6f98d26f7cc1d03bb7a12a60795399b0",
+      "title": "FundExplorer: supporting the diversification of mutual fund portfolios using context treemaps"
+    },
+    {
+      "paperId": "38aa403e545b5c2965841e337e8d1d0c344cde79",
+      "title": "Multiscale visualization of small world networks"
+    },
+    {
+      "paperId": "30febe8b5ea6e6e55c545d5cc45d1ca437b0021f",
+      "title": "GGobi: evolving from XGobi into an extensible framework for interactive data visualization"
+    },
+    {
+      "paperId": "1e008a1f5484094eb5794672d7c7318dd86f4fb5",
+      "title": "From Visual Data Exploration to Visual Data Mining: A Survey"
+    },
+    {
+      "paperId": "a35650415c598f8c9d4cecac9e5e2ddebc961c3d",
+      "title": "Interactive hierarchical displays: a general framework for visualization and exploration of large multivariate data sets"
+    },
+    {
+      "paperId": "6aa08a7c0108346b5d0be3065e9718de08b70d14",
+      "title": "InterRing: an interactive tool for visually navigating and manipulating hierarchical structures"
+    },
+    {
+      "paperId": "2d8b151dc57b9af7d361c16d2589f9ab69d9d28a",
+      "title": "Interactive information visualization of a million items"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "b9dcb0d963892fbe325df775dc358cdef035a809",
+      "title": "Multiscale visualization using data cubes"
+    },
+    {
+      "paperId": "7922679e8e9430bc1c578ce70de98cd29a8a16db",
+      "title": "Degree-of-interest trees: a component of an attention-reactive user interface"
+    },
+    {
+      "paperId": "c4123c56a7c593a2e0b0fb051117e6df1e9bdad6",
+      "title": "An evaluation of space-filling information visualizations for depicting hierarchical structures"
+    },
+    {
+      "paperId": "a267e4429650df2900e403495ba1154305b190d0",
+      "title": "Speed-dependent automatic zooming for browsing large documents"
+    },
+    {
+      "paperId": "70defb99bd86d18394703aa92a6242898833e1c3",
+      "title": "Hierarchical parallel coordinates for exploration of large datasets"
+    },
+    {
+      "paperId": "78addbe6b56841efbaff30336edacd9e27810865",
+      "title": "Navigating hierarchies with structure-based brushes"
+    },
+    {
+      "paperId": "068adade71524f8fd393c72ebf95a9d8a3a648ee",
+      "title": "Cluster and Calendar Based Visualization of Time Series Data"
+    },
+    {
+      "paperId": "8ff7b7cf3849640b7cfb8f08e2946fd151fed34c",
+      "title": "Data clustering: a review"
+    },
+    {
+      "paperId": "1234ccd2a9e0575e1679218ce98c6351dcff7274",
+      "title": "Navigation as multiscale pointing: extending Fitts' model to very high precision tasks"
+    },
+    {
+      "paperId": "e4d3c233826a41c17b45184edd6972f8ba2c1383",
+      "title": "An interactive view for hierarchical clustering"
+    },
+    {
+      "paperId": "669282432d39d083cd072b636067e897f77fb85e",
+      "title": "Dynamic aggregation with circular visual designs"
+    },
+    {
+      "paperId": "18265c4cc434dfa9bbdb2a036fada79098fcf215",
+      "title": "Multilevel Visualization of Clustered Graphs"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "058e2e38420b61d8d870590d971d4e7d1cd078c2",
+      "title": "How not to lie with visualization"
+    },
+    {
+      "paperId": "e4494d89d576410b1740c1f20497d2aec22616c8",
+      "title": "Seeing Through Statistics"
+    },
+    {
+      "paperId": "a3a6beb326ccd78bb478bb82b750257f1b98554a",
+      "title": "Space-scale diagrams: understanding multiscale interfaces"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "0368a655b9e6aa34cee4c4d35e74f8efd454ee3e",
+      "title": "Pad: an alternative approach to the computer interface"
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "6daf826c2ec5fe299378838ef9fa7c3ea8092142",
+      "title": "Exploring N-dimensional databases"
+    },
+    {
+      "paperId": "6e0288e5ac1f9b62fe0f20834c1ab12134221e6e",
+      "title": "Dynamic Graphics for Statistics"
+    },
+    {
+      "paperId": "f919414f2a9ef69fb11aac6e6d1a26f1cd1ee7bc",
+      "title": "Simple Random Sampling from Relational Databases"
+    },
+    {
+      "paperId": "453ad9b414c1b35492e7b5b455cfca5684556e9c",
+      "title": "An Introduction to Multivariate Statistical Analysis"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "e0901821b2fa999903c5d89bfa735702bd237717",
+      "title": "The surgical implications of physiologic patterns in myocardial infarction shock."
+    },
+    {
+      "paperId": null,
+      "title": "For more information on this or any other computing topic, please visit our Digital Library at www.computer.org/publications/dlib"
+    },
+    {
+      "paperId": "bd2f11497b383dec818812d651434546a310e5be",
+      "title": "Feature-based graph visualization"
+    },
+    {
+      "paperId": "318918248d8dba73181f54b1f59ac1bfbec5c175",
+      "title": "Symbolic Data Analysis: Conceptual Statistics and Data Mining (Wiley Series in Computational Statistics)"
+    },
+    {
+      "paperId": "d5cec0208e211f2a9897ecea40e7d67c5ad64176",
+      "title": "VISUALIZATION AND COMPUTER GRAPHICS"
+    },
+    {
+      "paperId": "fd147ef9cce22609aec28e741f0dc8d844488a73",
+      "title": "Tulip - A Huge Graph Visualization Framework"
+    },
+    {
+      "paperId": "9ecae668ad78e5ab6ef099808fea219f815cf5c4",
+      "title": "An Introduction to Multivariate Statistical Analysis"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": null,
+      "title": "By Chance\u2014Enhancing Interaction with Large Data Sets through Statistical Sampling"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": "54ddbc9786b646ee648af116710577694186e87e",
+      "title": "The Bagplot: A Bivariate Boxplot"
+    },
+    {
+      "paperId": null,
+      "title": "Graph Drawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": "5b2cd69b1947ef99cf158ca7e007b2058452d43b",
+      "title": "Seeing through statistics"
+    },
+    {
+      "paperId": null,
+      "title": "ACM SIGGRAPH '93"
+    },
+    {
+      "paperId": "965ea5946708f0b669403a377c48e78e9326be61",
+      "title": "Finding Groups in Data: An Introduction to Cluster Analysis"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": null,
+      "title": "(left) and spatially aggregated at three different levels of detail"
+    },
+    {
+      "paperId": null,
+      "title": "research topics include network visualization, evaluation of visualization systems, and toolkits for user interfaces and visualization"
+    },
+    {
+      "paperId": null,
+      "title": "centers"
+    },
+    {
+      "paperId": null,
+      "title": "Jean-Daniel"
+    },
+    {
+      "paperId": null,
+      "title": "G4 Discriminability"
+    },
+    {
+      "paperId": null,
+      "title": "G5 Fidelity"
+    },
+    {
+      "paperId": null,
+      "title": "G2 Visual summary"
+    }
+  ]
+}

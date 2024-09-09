@@ -1,0 +1,475 @@
+{
+  "paperId": "7583a4bae785762f08a0d7edb0f12e4920f0e12e",
+  "externalIds": {
+    "MAG": "2176149189",
+    "DBLP": "journals/tits/ChenGW15",
+    "DOI": "10.1109/TITS.2015.2436897",
+    "CorpusId": 9913495
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/7583a4bae785762f08a0d7edb0f12e4920f0e12e",
+  "title": "A Survey of Traffic Data Visualization",
+  "abstract": "Data-driven intelligent transportation systems utilize data resources generated within intelligent systems to improve the performance of transportation systems and provide convenient and reliable services. Traffic data refer to datasets generated and collected on moving vehicles and objects. Data visualization is an efficient means to represent distributions and structures of datasets and reveal hidden patterns in the data. This paper introduces the basic concept and pipeline of traffic data visualization, provides an overview of related data processing techniques, and summarizes existing methods for depicting the temporal, spatial, numerical, and categorical properties of traffic data.",
+  "venue": "IEEE transactions on intelligent transportation systems (Print)",
+  "year": 2015,
+  "referenceCount": 102,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Environmental Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2015-06-10",
+  "journal": {
+    "name": "IEEE Transactions on Intelligent Transportation Systems",
+    "pages": "2970-2984",
+    "volume": "16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2015ASO,\n author = {Wei Chen and Fangzhou Guo and Feiyue Wang},\n booktitle = {IEEE transactions on intelligent transportation systems (Print)},\n journal = {IEEE Transactions on Intelligent Transportation Systems},\n pages = {2970-2984},\n title = {A Survey of Traffic Data Visualization},\n volume = {16},\n year = {2015}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "31888526",
+      "name": "Wei Chen"
+    },
+    {
+      "authorId": "2202198",
+      "name": "Fangzhou Guo"
+    },
+    {
+      "authorId": "143769760",
+      "name": "Feiyue Wang"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3bb54671edfaa95b4625dfb2697d26968db86429",
+      "title": "Analysis of movement data"
+    },
+    {
+      "paperId": "ef2532c3607e9ebfeb412ce99c4f7cd2f6527550",
+      "title": "Visualizing Mobility of Public Transportation System"
+    },
+    {
+      "paperId": "b211a711a9d79404052ad420db31452268ab3dd6",
+      "title": "Origin-Destination Flow Data Smoothing and Mapping"
+    },
+    {
+      "paperId": "cfb353785d6eb6049e772655553593d95fa090a3",
+      "title": "Exploring the Placement and Design of Word-Scale Visualizations"
+    },
+    {
+      "paperId": "d63138214ea69e8662c3678cd310fc93b3e9f753",
+      "title": "Visual Exploration of Sparse Traffic Trajectory Data"
+    },
+    {
+      "paperId": "b5d65e8790afa0fc9f678b9071a26988ea7f1dab",
+      "title": "A visual reasoning approach for data-driven transport assessment on urban roads"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "f9c747f4336c453580ecfe3d531c8067f5aafc63",
+      "title": "Visualizing Hidden Themes of Taxi Movement with Semantic Transformation"
+    },
+    {
+      "paperId": "8c65af2a2cb558c52ab0d216ca32e53e1f3be2b5",
+      "title": "Traffic Origins: A Simple Visualization Technique to Support Traffic Incident Analysis"
+    },
+    {
+      "paperId": "89067e65ca5cce1086b93e405ad6ea5c2e5eea15",
+      "title": "Visual Traffic Jam Analysis Based on Trajectory Data"
+    },
+    {
+      "paperId": "18f59c74b73b1bee76ec141e34511813f51ce953",
+      "title": "VAIT: A Visual Analytics System for Metropolitan Transportation"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "bd6b9bf3f19ecc79393451ca00ae8e7904e5c758",
+      "title": "Nanocubes for Real-Time Exploration of Spatiotemporal Datasets"
+    },
+    {
+      "paperId": "d46ef0b35415509d499553b1b007f9370de88b28",
+      "title": "Vulnerability Analysis and Passenger Source Prediction in Urban Rail Transit Networks"
+    },
+    {
+      "paperId": "92c412d74205d8e534b7e8f1ad97dc7fcf1e5b11",
+      "title": "A \u201csemi-lazy\u201d approach to probabilistic path prediction in dynamic environments"
+    },
+    {
+      "paperId": "433c93c3a920380649ba414983146b9958b354c7",
+      "title": "T-Watcher: A New Visual Analytic System for Effective Traffic Surveillance"
+    },
+    {
+      "paperId": "edd5f325dc5bc8a25bcb248ca17f25a8a41bcdcc",
+      "title": "Visualizing Interchange Patterns in Massive Movement Data"
+    },
+    {
+      "paperId": "2b763fbf3c37bdaa26f4d033e5e595edf6417cf3",
+      "title": "Edge bundling in information visualization"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "a88d7d5bed8f7b30b5ac50a1b250000ec4913f66",
+      "title": "Design Considerations for Optimizing Storyline Visualizations"
+    },
+    {
+      "paperId": "2b9d2186dc3e12fc53e593a041a6bc6e6223c183",
+      "title": "AlVis: Situation awareness in the surveillance of road tunnels"
+    },
+    {
+      "paperId": "ff6e6cfbd82f03cbaf0b99efa226d84d17a43cc1",
+      "title": "Online map-matching based on Hidden Markov model for real-time traffic sensing applications"
+    },
+    {
+      "paperId": "5f3f765e386665010bc70aa69c31f0f1ba438bc2",
+      "title": "Exploring spatiotemporal characteristics of intra-urban trips using metro smartcard records"
+    },
+    {
+      "paperId": "4ea599889da761c591c1c57d6a26d9790db067c9",
+      "title": "Understanding intra-urban trip patterns from taxi trajectory data"
+    },
+    {
+      "paperId": "ebf9bab6a5603cef4e0742b05400784e1b8b8b64",
+      "title": "Visual Analytics for Understanding Spatial Situations from Episodic Movement Data"
+    },
+    {
+      "paperId": "4b4c7c84c030f21bf1deeaff67e7b48034216b93",
+      "title": "Visual analysis of route diversity"
+    },
+    {
+      "paperId": "45a33bddf460554b7c1f550aa382d63345a20704",
+      "title": "Data-Driven Intelligent Transportation Systems: A Survey"
+    },
+    {
+      "paperId": "bd93ec086fbf2ace83828909c1c63293e720be67",
+      "title": "Composite Density Maps for Multivariate Trajectories"
+    },
+    {
+      "paperId": "0f1527b252bf7224ef7354b9f3697a56a8919aed",
+      "title": "Skeleton-Based Edge Bundling for Graph Visualization"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "33839bad9ca1afec12f5e9ac2eed2a434868d064",
+      "title": "The scaling of human mobility by taxis is exponential"
+    },
+    {
+      "paperId": "2492a4cb38d053e48545654358dc84777c87d00c",
+      "title": "Identifying shopping center attractiveness using taxi trajectory data"
+    },
+    {
+      "paperId": "e6e6655532a18f56e84b1a4611587ac046408bc1",
+      "title": "The Visualization Handbook"
+    },
+    {
+      "paperId": "f2ba775d0a4e198f08f90b266aced40fb45a6f9f",
+      "title": "Interactive visualization of streaming data with Kernel Density Estimation"
+    },
+    {
+      "paperId": "8a287d4c0d72b02f50584505bb1a09261d78bef0",
+      "title": "Interactive visualization of multivariate trajectory data with density maps"
+    },
+    {
+      "paperId": "f08daed90b01975f8f308c06c09721039427366e",
+      "title": "TripVista: Triple Perspective Visual Trajectory Analytics and its application on microscopic traffic data at a road intersection"
+    },
+    {
+      "paperId": "93b20637a8fb4ef3db785e8bc618bfe051c779eb",
+      "title": "Software evolution storylines"
+    },
+    {
+      "paperId": "03329fbf411b3de57c349a341b52b974fc9021f7",
+      "title": "An Interactive-Voting Based Map Matching Algorithm"
+    },
+    {
+      "paperId": "a7100f428b545d6b241b16c44c25aa8602e39305",
+      "title": "Developing an Enhanced Weight-Based Topological Map-Matching Algorithm for Intelligent Transport Systems"
+    },
+    {
+      "paperId": "3ddea2ac77160777f5006f61bdfc24f26a902d5c",
+      "title": "Proximity-based visualization of movement trace data"
+    },
+    {
+      "paperId": "06429d3d408cb4b08a95360730bceaeda9202cc3",
+      "title": "Interactive visual clustering of large collections of trajectories"
+    },
+    {
+      "paperId": "c57b90c5eedaf18813eb5441607aeaf71c7797d2",
+      "title": "MAP-MATCHING IN COMPLEX URBAN ROAD NETWORKS"
+    },
+    {
+      "paperId": "0e80a2bdc44f4b89747ad93709b52a611dbd5bbe",
+      "title": "Map-matching for low-sampling-rate GPS trajectories"
+    },
+    {
+      "paperId": "2cd44809e3df0054e55a703fd45ef236a4734f93",
+      "title": "FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries"
+    },
+    {
+      "paperId": "256fbae42786a07cd10b70763888531d87bafa0d",
+      "title": "Mining time-dependent attractive areas and movement patterns from taxi trajectory data"
+    },
+    {
+      "paperId": "0814831a8fa3025012b0f2cc367a7af86df0c368",
+      "title": "Unifying Runtime Adaptation and Design Evolution"
+    },
+    {
+      "paperId": "6802e782accc2455c19df6f60795f111c07c7902",
+      "title": "Multi-Hypothesis Map-Matching Using Particle Filtering"
+    },
+    {
+      "paperId": "015fada7fe5494d22d3cf3aaa53eb983b18f32c1",
+      "title": "An off-line map-matching algorithm for incomplete map databases"
+    },
+    {
+      "paperId": "d365232e913ecba4f6efb7df766c43f327466c4d",
+      "title": "ICE--visual analytics for transportation incident datasets"
+    },
+    {
+      "paperId": "3a356de36961973c98685eba82924215f00659cb",
+      "title": "Visualizing real-time and archived traffic incident data"
+    },
+    {
+      "paperId": "4d50c9641a2af66e07a101b9aca1c901e3997805",
+      "title": "Spatio-temporal aggregation for visual analysis of movements"
+    },
+    {
+      "paperId": "ad12cec5f6136e0708859d17bcda6df6dc01030f",
+      "title": "Map-Matching Integrity Using Multihypothesis Road-Tracking"
+    },
+    {
+      "paperId": "c1d68f9753a7541bd37bf0b1adeaef0ee3c4470b",
+      "title": "Geometry-Based Edge Clustering for Graph Visualization"
+    },
+    {
+      "paperId": "29a1b10bae922ccb6a2d3f40958bcc1b70c5fbc1",
+      "title": "Stacked Graphs \u2013 Geometry & Aesthetics"
+    },
+    {
+      "paperId": "06f87eff212706364b192a3b4310f3b9d1dd6dff",
+      "title": "Characterizing the human mobility pattern in a large street network."
+    },
+    {
+      "paperId": "323e58429445324df18dd1d1b84823a849a0659c",
+      "title": "Kernel Density Estimation of traffic accidents in a network space"
+    },
+    {
+      "paperId": "5bde069291e300f5347065b18189723128db88ae",
+      "title": "Network Density Estimation: A GIS Approach for Analysing Point Patterns in a Network Space"
+    },
+    {
+      "paperId": "1208d09d8a28867b0712ab5fc623fddf3a930fdb",
+      "title": "Visually driven analysis of movement data by progressive clustering"
+    },
+    {
+      "paperId": "427dff19514343af8a55482cbf0f6969015dff2e",
+      "title": "Using treemaps for variable selection in spatio-temporal visualisation"
+    },
+    {
+      "paperId": "7e782eb57c19622553bcfd9ac9e37d0d66274839",
+      "title": "On the Levy-Walk Nature of Human Mobility"
+    },
+    {
+      "paperId": "24170ddd15f6d0ad1b5d15fe9fcea2d4309c4d8b",
+      "title": "Visual analytics tools for analysis of movement data"
+    },
+    {
+      "paperId": "d11dfa1c5ae6c596cd3a67673ff30f6de431f7af",
+      "title": "Current map-matching algorithms for transport applications: State-of-the art and future research directions"
+    },
+    {
+      "paperId": "2c9ca05eb75f9a1c2f83e8bebf0d6d1ebdbaee8c",
+      "title": "Segment-Based Map Matching"
+    },
+    {
+      "paperId": "22384011438b9e35b32f65deef03cc9b37aeffaf",
+      "title": "Getting our head in the clouds: toward evaluation studies of tagclouds"
+    },
+    {
+      "paperId": "0b803b837f084579de9d6a19979e50834ed1f68b",
+      "title": "A Visualization System for Space-Time and Multivariate Patterns (VIS-STAMP)"
+    },
+    {
+      "paperId": "a723bd5967c8e44c79321ffe105c588bdf8d31aa",
+      "title": "Close pair queries in moving object databases"
+    },
+    {
+      "paperId": "7072ecbea329b17a4a1eb04e93094c1871152c0c",
+      "title": "GeoTime Information Visualization"
+    },
+    {
+      "paperId": "1126ceee34acd741396c493c84d8b6072a18bfd7",
+      "title": "Potter's Wheel: An Interactive Data Cleaning System"
+    },
+    {
+      "paperId": "eb90061ee5bc565a28ffdf7d98647c42edbc4a0d",
+      "title": "Towards the development of intelligent transportation systems"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "852b52037241179d7c0c10d1fe569730d6d1ca0f",
+      "title": "Temporal, geographical and categorical aggregations viewed through coordinated displays: a case study with highway incident data"
+    },
+    {
+      "paperId": "a19d65075f60b8088b959ca6c0cb179b9f17df4a",
+      "title": "Towards historical R-trees"
+    },
+    {
+      "paperId": "8693868e2f178f2b0ef2d3dbf711f31fb4905d0d",
+      "title": "Travel time studies with global positioning and geographic information systems: an integrated methodology"
+    },
+    {
+      "paperId": "151c32ecc501f1e99c9140c7f18648d0a705ad7e",
+      "title": "Spatio-temporal indexing for large multimedia applications"
+    },
+    {
+      "paperId": "8033c9c25c5658982e032ad670a0c525a5d6bbfa",
+      "title": "Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals"
+    },
+    {
+      "paperId": "b682b953c081e357324ffb415458b8415df7572d",
+      "title": "Parallel Coordinates"
+    },
+    {
+      "paperId": "cbeb975c849a6665ca8841145b539ee803db48ad",
+      "title": "User-Driven Predictive Visual Analytics on Multivariate, Spatio-Temporal Incident Reports"
+    },
+    {
+      "paperId": "9fdab208fd3a2b25b86327ed8c6d9eddd268ed36",
+      "title": "Experiences from Supporting Predictive Analytics of Vehicle Traffic"
+    },
+    {
+      "paperId": "2215cbf1bc188b581ec677a08973e3be9fbdabff",
+      "title": "A Probabilistic Map Matching Method for Smartphone GPS data"
+    },
+    {
+      "paperId": "79d5b45961af857b0a0f7232383dd17d7db693d8",
+      "title": "Trajectory Indexing and Retrieval"
+    },
+    {
+      "paperId": "26505150e33702a6bffb73f27fe4e599047dfac2",
+      "title": "Wordle"
+    },
+    {
+      "paperId": "2716ecc96daf5ac9dedd8805845a2691df968f92",
+      "title": "Visual Methods for Analyzing Time-Oriented Data"
+    },
+    {
+      "paperId": "b0ad80588a9da938a1daed8b30129359b5754e2e",
+      "title": "Basic Concepts of Movement Data"
+    },
+    {
+      "paperId": "6246571a1b404024b26f11cc35a4e0b9276155d6",
+      "title": "Visually \u2013 driven analysis of movement data by progressive clustering Extended"
+    },
+    {
+      "paperId": "bfbc5e956b2d18d9158c2e4342cb064a751c4354",
+      "title": "A practical map-matching algorithm for GPS-based vehicular networks in Shanghai urban area"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "477b93ca731660db9b91412143efec424d1d7bfa",
+      "title": "The space - time cube revisited from a geovisualization perspective"
+    },
+    {
+      "paperId": "a10f3a5e1fc4c607a4169442468c57ede8ffd370",
+      "title": "Indexing Large Trajectory Data Sets With SETI"
+    },
+    {
+      "paperId": "6a62c0f05abe0516dc4cf2af5bcc8c2583a6db92",
+      "title": "Data Cleaning: Problems and Current Approaches."
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Laboratory and the Program for Advanced Research in Complex Systems"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    },
+    {
+      "paperId": null,
+      "title": "Postgis . \u201d [ Online ] . Available : http : / / postgis . net / [ 66 ] \u201c Mysql Spatial . \u201d [ Online ]"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cMysql Spatial.\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTraf\ufb01c.\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cColorbrewer 2.0,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Europe 24\u2014An Air Traffic Data Visualisation Available: http://nats.aero/blog/2014/03/europe-24-air-traffic-data-visualisation"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cBoston\u2019s Massachusetts Bay Transit Authority (MBTA).\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Postgis Available: http://postgis"
+    },
+    {
+      "paperId": null,
+      "title": "Traffic . \u201d [ Online ]"
+    },
+    {
+      "paperId": null,
+      "title": "Europe 24 \u2014 An Air Traffic Data Visualisation . \u201d [ Online ]"
+    },
+    {
+      "paperId": null,
+      "title": "Trains of data"
+    }
+  ]
+}

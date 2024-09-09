@@ -1,0 +1,446 @@
+{
+  "paperId": "bedc4ee403e440d44e7231d79f7508c1dd53b2fb",
+  "externalIds": {
+    "MAG": "2149386833",
+    "DBLP": "journals/tvcg/DraperLR09",
+    "DOI": "10.1109/TVCG.2009.23",
+    "CorpusId": 9907884,
+    "PubMed": "19590103"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bedc4ee403e440d44e7231d79f7508c1dd53b2fb",
+  "title": "A Survey of Radial Methods for Information Visualization",
+  "abstract": "Radial visualization, or the practice of displaying data in a circular or elliptical pattern, is an increasingly common technique in information visualization research. In spite of its prevalence, little work has been done to study this visualization paradigm as a methodology in its own right. We provide a historical review of radial visualization, tracing it to its roots in centuries-old statistical graphics. We then identify the types of problem domains to which modern radial visualization techniques have been applied. A taxonomy for radial visualization is proposed in the form of seven design patterns encompassing nearly all recent works in this area. From an analysis of these patterns, we distill a series of design considerations that system builders can use to create new visualizations that address aspects of the design space that have not yet been explored. It is hoped that our taxonomy will provide a framework for facilitating discourse among researchers and stimulate the development of additional theories and systems involving radial visualization as a distinct design metaphor.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2009,
+  "referenceCount": 93,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2009-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "759-776",
+    "volume": "15"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Draper2009ASO,\n author = {Geoffrey M. Draper and Y. Livnat and R. Riesenfeld},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {759-776},\n title = {A Survey of Radial Methods for Information Visualization},\n volume = {15},\n year = {2009}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "40263408",
+      "name": "Geoffrey M. Draper"
+    },
+    {
+      "authorId": "3245095",
+      "name": "Y. Livnat"
+    },
+    {
+      "authorId": "1788199",
+      "name": "R. Riesenfeld"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8673b945b9496570b865cfaadb42cc3b71273a0f",
+      "title": "Who Votes For What? A Visual Query Language for Opinion Data"
+    },
+    {
+      "paperId": "d19c80acf70237a8f26a26a2efba900de5560818",
+      "title": "The Event Tunnel: Interactive Visualization of Complex Event Streams for Business Process Pattern Analysis"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "791bc336ed7beba5390d9ba06aaefb465fb5ed0d",
+      "title": "Interactive Tree Comparison for Co-located Collaborative Information Visualization"
+    },
+    {
+      "paperId": "00505afb06c21f5d6ff2b32e0a68a615532d4ae0",
+      "title": "SpiralView: Towards Security Policies Assessment through Visual Correlation of Network Resources with Evolution of Alarms"
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "20efc2e9c0e1b109fbca0c4e4661b123468044c4",
+      "title": "Monitoring Network Traffic with Radial Traffic Analyzer"
+    },
+    {
+      "paperId": "7a42aca3b887d5d51c80c88868b7bbeee208de7e",
+      "title": "SpiraList: a compact visualization technique for one-handed interaction with large lists on mobile devices"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "7de4b247132552fc98f7962bc6fa881862241add",
+      "title": "Visualizing Business Data with Generalized Treemaps"
+    },
+    {
+      "paperId": "c289b3bd951450c17b01aa85e10d61746dc5d6a6",
+      "title": "A taxonomy of ambient information systems: four patterns of design"
+    },
+    {
+      "paperId": "fc829470f15666dd43e5173ffdd81e8caf8ca6fc",
+      "title": "Visual correlation of network alerts"
+    },
+    {
+      "paperId": "abd524330475e53c2e2db0b7c6e8111dcf156150",
+      "title": "No Humble Pie: The Origins and Usage of a Statistical Chart"
+    },
+    {
+      "paperId": "5244c57b3af389cd08b160ac93e900f285e0411e",
+      "title": "Visual correlation for situational awareness"
+    },
+    {
+      "paperId": "f44c5d713af40e514b2f2cfb9c72a1589b96d813",
+      "title": "The Grammar of Graphics (Statistics and Computing)"
+    },
+    {
+      "paperId": "6a256d6aeddd83ab225ab8416b31f965bbfcc44d",
+      "title": "A visualization paradigm for network intrusion detection"
+    },
+    {
+      "paperId": "603ff7d2754eede7ca68df0f26837eaff320a513",
+      "title": "PhylloTrees: Harnessing Nature&#146;s Phyllotactic Patterns for Tree Layout"
+    },
+    {
+      "paperId": "a76077c1cc431081a4146d1b36d65f20d56a5a32",
+      "title": "RankSpiral: Toward Enhancing Search Results Visualizations"
+    },
+    {
+      "paperId": "2804edeb7f06e122832b779b8a8685ba3028de3b",
+      "title": "CircleView: a new approach for visualizing time-related multidimensional data sets"
+    },
+    {
+      "paperId": "9fefa063bc6c2ee611d2109f264dc472ba56e9df",
+      "title": "Axes-based visualizations with radial layouts"
+    },
+    {
+      "paperId": "a4ac0407738ef286b27d8af93e5229206b64c1fb",
+      "title": "Visual structures for image browsing"
+    },
+    {
+      "paperId": "d10139733f4dfa779593d2fba3e46ec71323eb09",
+      "title": "Tracking menus"
+    },
+    {
+      "paperId": "b1c5dca229915dc16acd9c70043fb7e4817f93bf",
+      "title": "MoireGraphs: radial focus+context visualization and interaction for graphs with visual nodes"
+    },
+    {
+      "paperId": "6aa08a7c0108346b5d0be3065e9718de08b70d14",
+      "title": "InterRing: an interactive tool for visually navigating and manipulating hierarchical structures"
+    },
+    {
+      "paperId": "2145407aa2e26e49712f2e746ef398b84a5f584c",
+      "title": "RINGS: A Technique for Visualizing Large Hierarchies"
+    },
+    {
+      "paperId": "3b6dfc7219201dff7c7dadf4e1dc072ee7cd66d7",
+      "title": "SpiraClock: a continuous and non-intrusive display for upcoming events"
+    },
+    {
+      "paperId": "47a754668bcff052baf14bbab39a337c9d120df1",
+      "title": "A comparison of 2-D visualizations of hierarchies"
+    },
+    {
+      "paperId": "c518352c6711ca3df41371eee10b80e14fc8863d",
+      "title": "Visualizing time-series on spirals"
+    },
+    {
+      "paperId": "95f036d664ac8c837f53fe23bea5d9889911b577",
+      "title": "2D vs 3D, implications on spatial memory"
+    },
+    {
+      "paperId": "a4d96c65252f2497280f29345b338df490367231",
+      "title": "Interactive visualization of multiple query results"
+    },
+    {
+      "paperId": "dac033dd807572623fb26c3782056004e802e120",
+      "title": "Animated exploration of dynamic graphs with radial layout"
+    },
+    {
+      "paperId": "3f607569450c7356ac49c29fea3817198a26a697",
+      "title": "Visualizing multi-dimensional clusters, trends, and outliers using star coordinates"
+    },
+    {
+      "paperId": "b9457013585a119f1b15a59a700bdf9fcf4d8efb",
+      "title": "Collaborative geographic visualization: enabling shared understanding of environmental processes"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "bfb1b7d0b7895cda296a78968b45cd0ae1b5ba27",
+      "title": "Communicating Centrality in Policy Network Drawings"
+    },
+    {
+      "paperId": "e53b74de851f5ce5657fd5303c606dc1c2ec42c9",
+      "title": "Interactive visualization of serial periodic data"
+    },
+    {
+      "paperId": "5f28ad23ffb67ba4f21aba853d397e1e22ec0ba5",
+      "title": "Reconfigurable disc trees for visualizing large hierarchical information space"
+    },
+    {
+      "paperId": "669282432d39d083cd072b636067e897f77fb85e",
+      "title": "Dynamic aggregation with circular visual designs"
+    },
+    {
+      "paperId": "9ce8903d523139e117061eed1b7a62f6fb367e68",
+      "title": "Multi-faceted insight through interoperable visual information analysis paradigms"
+    },
+    {
+      "paperId": "1c725da81c5720d066fa65ea180eb5164ffe7927",
+      "title": "Visualizing information on a sphere"
+    },
+    {
+      "paperId": "c5d2a7ddc8bd849f6c5e42965f3ce54ee85ca2f9",
+      "title": "H3: laying out large directed graphs in 3D hyperbolic space"
+    },
+    {
+      "paperId": "8e11c005dcfd213e01b9485932190a05f3b8e55b",
+      "title": "DNA visual and analytic data mining"
+    },
+    {
+      "paperId": "2093f880868776f3e5f89bf676771bec2356ffbf",
+      "title": "Which Aesthetic has the Greatest Effect on Human Understanding?"
+    },
+    {
+      "paperId": "5941abe345d4bd1a5f15d6ee9142a111e6b18a2a",
+      "title": "A focus+context technique based on hyperbolic geometry for visualizing large hierarchies"
+    },
+    {
+      "paperId": "611f388d87c1d9ef36ec243e151f7bee9954f8ad",
+      "title": "Laying out and visualizing large trees using a hyperbolic space"
+    },
+    {
+      "paperId": "88410bca4a85ed12c791b2751812606c94a20bd5",
+      "title": "Developing calendar visualizers for the information visualizer"
+    },
+    {
+      "paperId": "f492477752b88be89ab897907b18e68c881e6498",
+      "title": "Automatic Analysis, Theme Generation, and Summarization of Machine-Readable Texts"
+    },
+    {
+      "paperId": "74d3aebc7f5f52dfa561c43de01d01e24c2b07ae",
+      "title": "The limits of expert performance using hierarchic marking menus"
+    },
+    {
+      "paperId": "011c0f37f9014ee6ef1057d0e1bebe0ae8f892d9",
+      "title": "Treemaps: Visualizing Hierarchical and Categorical Data"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "96d2334958f55a9d2cbc8545325077e982176bb3",
+      "title": "Specifying gestures by example"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "598411c9fc2e0b798adc29e1608400fc745c67bc",
+      "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+    },
+    {
+      "paperId": "be639190844c2f0654563db3d0a7f166811dd645",
+      "title": "An empirical comparison of pie vs. linear menus"
+    },
+    {
+      "paperId": "a0cfa7b5df31e5b5b3ed58001f26b7010cef321e",
+      "title": "A proposed method for representing hierarchies"
+    },
+    {
+      "paperId": "f288f1f4064427213da06584896f0a68d9e618c2",
+      "title": "Automatic Display of Hierarchized Graphs for Computer-Aided Decision Analysis"
+    },
+    {
+      "paperId": "34d0e5af61c567be060841fbf39958c070edcdc9",
+      "title": "A better way to construct the sunflower head"
+    },
+    {
+      "paperId": "a0924e4ed176eec97af3cda1bf2f99c98ca24622",
+      "title": "A Note on the Historical Development of Logic Diagrams: Leibniz, Euler and Venn"
+    },
+    {
+      "paperId": "397a62e8d0238b40f7439a3ed93062dd441e86e7",
+      "title": "A Primer of Sociometry (Second Edition)."
+    },
+    {
+      "paperId": "634c9fde5f1c411e4487658ac738dcf18d98ea8d",
+      "title": "The information capacity of the human motor system in controlling the amplitude of movement."
+    },
+    {
+      "paperId": "a6031b69584ea005f69c3988b3760b85ff45cfb7",
+      "title": "A primer of sociometry"
+    },
+    {
+      "paperId": "3da412ee94006cff8409bc559b302212e6f454b4",
+      "title": "A Visual Query Language for Correlation Discovery and Management"
+    },
+    {
+      "paperId": "e8ebf4a2b3990198c6cf255346afbe2442d5d808",
+      "title": "Interactive Fan Charts: A Space-saving Technique for Genealogical Graph Exploration"
+    },
+    {
+      "paperId": null,
+      "title": "Daisy Analysis Ltd"
+    },
+    {
+      "paperId": null,
+      "title": "Filelight"
+    },
+    {
+      "paperId": null,
+      "title": "Merriam-Webster, Inc"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Thesaurus"
+    },
+    {
+      "paperId": "2ace85c19b09f853995a2debaafe2f675f2df595",
+      "title": "Network data mining: methods and techniques for discovering deep linkage between attributes"
+    },
+    {
+      "paperId": "75e0deca5214e5530159b8d39e0fe0b42e8c808c",
+      "title": "Visualizing multivariate network on the surface of a sphere"
+    },
+    {
+      "paperId": "e2383b8e594ad4df6d6923ed9fa002705a460b8a",
+      "title": "Ripple presentation for tree structures with historical information"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE Symp. Visual Analytics Science and Technology"
+    },
+    {
+      "paperId": "82ca1d9952e3b6193281a3be0fd77ea086fd40c9",
+      "title": "Visualising Internet Traffic Data with Three-Dimensional Spherical Display"
+    },
+    {
+      "paperId": "fbeee3bca95c80e56fde002257210ec17a528f19",
+      "title": "Revisiting 2D vs 3D Implications on Spatial Memory"
+    },
+    {
+      "paperId": "744091a7b31fadbce08e8a9bcce2d065c6ec8e9c",
+      "title": "Zoomology: ComparingTwo Large Hierarchical Trees"
+    },
+    {
+      "paperId": "e0403e6504c1f26dd57d9fa41254ce4b58347fbe",
+      "title": "Bubbleworld : A New Visual Information Retreival Technique"
+    },
+    {
+      "paperId": "e9b787933658ec526d7ff3360fffd328bab0177b",
+      "title": "The Bifocal Tree: a Technique for the Visualization of Hierarchical Information Structures"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "25caf4d9d30102bc59631a363c31390270fa4cc9",
+      "title": "Florence Nightingale : measuring hospital care outcomes : excerpts from the books Notes on matters affecting the health, efficiency, and hospital administration of the British Army founded chiefly on the experience of the late war and Notes on hospitals"
+    },
+    {
+      "paperId": "baa947a750b2d5714284386e2d7a2b7e838da7dc",
+      "title": "Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs"
+    },
+    {
+      "paperId": "bfed409d6a767d31c118ca0aac8af5360f26f78d",
+      "title": "The Hyperbolic Browser: A Focus + Context Technique for Visualizing Large Hierarchies"
+    },
+    {
+      "paperId": "b126ac0837bccf4710671c8a3c726491ab786caf",
+      "title": "'Circle Segments': A Technique for Visually Exploring Large Multidimensional Data Sets"
+    },
+    {
+      "paperId": null,
+      "title": "Drawing Free Trees"
+    },
+    {
+      "paperId": null,
+      "title": "Art and Science: Proceedings of the International Congress on M.C. Escher"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Riesenfeld received the PhD degree from the School of Computer and Information Science at Syracuse University in"
+    },
+    {
+      "paperId": "b83ac84394bc2658887872d3130e952ff003e201",
+      "title": "The statistical breviary : shewing, on a principle entirely new, the resources of every state and kingdom in Europe : illustrated with stained copper-plate charts, representing the physical powers of each distinct nation with ease and prespicuity"
+    },
+    {
+      "paperId": "2df59287150571e84ba679aaf0edccc2e57df9b0",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Moiretrees: Visualization and Interaction for Multi-hierarchical Data"
+    },
+    {
+      "paperId": null,
+      "title": "Principle Entirely New, the Resources of Every State and Kingdom in Europe"
+    },
+    {
+      "paperId": "4182c26de6480fa3adcfa90490b6347325896acc",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Timeradartrees: Visualizing Dynamic Compound Digraphs"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": null,
+      "title": "Riesenfeld is a professor of computer science at the University of Utah, where he joined the faculty in 1972. Computer-aided geometric design and computer graphics are his research specialties"
+    },
+    {
+      "paperId": null,
+      "title": "Mathematical Challenges in Escher\u2019s Geometry"
+    }
+  ]
+}

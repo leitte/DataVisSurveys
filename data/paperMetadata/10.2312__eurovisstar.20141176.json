@@ -1,0 +1,352 @@
+{
+  "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+  "externalIds": {
+    "DBLP": "conf/vissym/WannerSJKWK14",
+    "MAG": "1559945916",
+    "DOI": "10.2312/eurovisstar.20141176",
+    "CorpusId": 52029997
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+  "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams",
+  "abstract": "Event detection from text data streams has been a popular research area in the past decade. Recently, the evolution of microblogging and social network services opens up great opportunities for various kinds of knowledge-based intelligence activities which require tracking of real-time events. In a sense, visualizations in combination with analytical processes could be a viable method for such tasks because it can be used to analyze the sheer amounts of text streams. However, data analysts and visualization experts often face grand challenges stemming out of the ill-defined concept of event and various kinds of textual data. As a result, we have few guidelines on how to build successful visual analysis tools that can handle specific event types and diverse textual data sources. Our goal is to take the first step towards answering the question by organizing insights from prior research studies on event detection and visual analysis. In the scope of this report, we summarize the evolution of event detection in combination with visual analysis over the past 14 years and provide an overview of the state-of-the-art methods. Our investigation sheds light on various kinds of research areas that can be the most beneficial to the field of visual text event analytics.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2014,
+  "referenceCount": 68,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "",
+    "pages": "125-139",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wanner2014StateoftheArtRO,\n author = {Franz Wanner and A. Stoffel and Dominik J\u00e4ckle and Bum Chul Kwon and Andreas Weiler and D. Keim},\n booktitle = {Eurographics Conference on Visualization},\n pages = {125-139},\n title = {State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "26991028",
+      "name": "Franz Wanner"
+    },
+    {
+      "authorId": "144017549",
+      "name": "A. Stoffel"
+    },
+    {
+      "authorId": "2776637",
+      "name": "Dominik J\u00e4ckle"
+    },
+    {
+      "authorId": "145276140",
+      "name": "Bum Chul Kwon"
+    },
+    {
+      "authorId": "143637925",
+      "name": "Andreas Weiler"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "dd29adeb1628b10c9801062e77031483e7f7d670",
+      "title": "Relating interesting quantitative time series patterns with text events and text features"
+    },
+    {
+      "paperId": "e9aa6b08b99c9795f874c2c7de861eb8b289622b",
+      "title": "Less After-the-Fact: Investigative visual analysis of events from streaming twitter"
+    },
+    {
+      "paperId": "1721b72f2708aea261c26e76474d00b573119c04",
+      "title": "ScatterBlogs2: Real-Time Monitoring of Microblog Messages through User-Guided Filtering"
+    },
+    {
+      "paperId": "32cdbfb9d589dc5cb548e01093832e6609d6a7a9",
+      "title": "Visualizing Time-Varying Topics Via Images and Texts for Inter-Media Analysis"
+    },
+    {
+      "paperId": "f09a12de500f73e3a7a78cf40754ee1d52c0f562",
+      "title": "Visual event mining from geo-tweet photos"
+    },
+    {
+      "paperId": "bd542d4c3df806b7ae6b7b05dc53e49e0c0dbe20",
+      "title": "Event identification for local areas using social media streaming data"
+    },
+    {
+      "paperId": "59073128a432f15e5e2b968484410f3d6beb03bc",
+      "title": "TwitterCrowds: Techniques for Exploring Topic and Sentiment in Microblogging Data"
+    },
+    {
+      "paperId": "20d726108b9f6d9c275c18a98a6d8ec15bc11d50",
+      "title": "Visual Analysis of Social Media Data"
+    },
+    {
+      "paperId": "0e747a87e8700a25be06a354d3ad9e861f619403",
+      "title": "Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time"
+    },
+    {
+      "paperId": "df9e142d8e3602453a2dbe80d6c1b4a1bb910ff1",
+      "title": "Topic Tracker : Shape-based Visualization for Trend and Sentiment Tracking in Twitter"
+    },
+    {
+      "paperId": "50334619ec5b9fb38094146dd06eb91bff3078ae",
+      "title": "LeadLine: Interactive visual analysis of text data through event identification and exploration"
+    },
+    {
+      "paperId": "d721e3f495df8c7653a29b5ab193b9a433f5942f",
+      "title": "ChronoView: Visualization Technique for Many Temporal Data"
+    },
+    {
+      "paperId": "ff5d98bcf70f4ef8fa8869d1f5ff7612332a1582",
+      "title": "Feature-Based Visual Sentiment Analysis of Text Document Streams"
+    },
+    {
+      "paperId": "e7650b2cd8ffe1e73c306e61944d99b73b070e48",
+      "title": "SensePlace2: GeoTwitter analytics support for situational awareness"
+    },
+    {
+      "paperId": "f1c5b991e6b53d30853be37258cef491f2dcd2f6",
+      "title": "Visual analytics of terrorist activities related to epidemics"
+    },
+    {
+      "paperId": "218d3c3c67230d98c30f9ae964c58d23890a7c7a",
+      "title": "Deriving Insights from National Happiness Indices"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "a2a270e94740b1615672f3f89fcbd519b8286386",
+      "title": "Eventscapes: visualizing events over time with emotive facets"
+    },
+    {
+      "paperId": "a741294acc2573410d5148caa4ae086ecee0b5cd",
+      "title": "ThemeCrowds: multiresolution summaries of twitter usage"
+    },
+    {
+      "paperId": "a97c00c7ca5abd0a13ec4a413ba5409885f4adf3",
+      "title": "On the Way to a Science Intelligence: Visualizing TEL Tweets for Trend Detection"
+    },
+    {
+      "paperId": "acb24c9eb82311add41d5994fed519b622398b55",
+      "title": "ForAVis: explorative user forum analysis"
+    },
+    {
+      "paperId": "1cf2f8804eaa3050b6e8da58ed241eb490143f27",
+      "title": "Twitinfo: aggregating and visualizing microblogs for event exploration"
+    },
+    {
+      "paperId": "6bcc9dff9825b0995f101ede291d2e90686db535",
+      "title": "STREAMIT: Dynamic visualization and interactive exploration of text streams"
+    },
+    {
+      "paperId": "4e7d584f3d354d3296246095c105edc6e716cd6d",
+      "title": "Multi-modal summarization of key events and top players in sports tournament videos"
+    },
+    {
+      "paperId": "5f037dbfb295a1d93892d74e84ffe753bf10f5f6",
+      "title": "Diamonds in the rough: Social media visual analytics for journalistic inquiry"
+    },
+    {
+      "paperId": "bed02c1b5831c9abc93a1c87b956957eb3d515bd",
+      "title": "A Visual Backchannel for Large-Scale Events"
+    },
+    {
+      "paperId": "ffd1b459bd0813b92c11fa2e5499a9124862127b",
+      "title": "Eddi: interactive topic-based browsing of social status streams"
+    },
+    {
+      "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+      "title": "Visualization of Text Streams: A Survey"
+    },
+    {
+      "paperId": "5bde7726806b7418b0531f9152a3e920990f49d3",
+      "title": "Conversational Shadows: Describing Live Media Events Using Short Messages"
+    },
+    {
+      "paperId": "e0f246f277e7e47abe458c3f36264ae8ad5b47f5",
+      "title": "Earthquake shakes Twitter users: real-time event detection by social sensors"
+    },
+    {
+      "paperId": "e574aae5419633dc8d13dce447e576cc26d99e24",
+      "title": "Discovering hybrid temporal patterns from sequences consisting of point- and interval-based events"
+    },
+    {
+      "paperId": "046f184210359342ef188b8bdd31683aad930808",
+      "title": "STORIES in Time: A Graph-Based Interface for News Tracking and Discovery"
+    },
+    {
+      "paperId": "db12c246207464154f8ac24bc16633400e01c056",
+      "title": "Meme-tracking and the dynamics of the news cycle"
+    },
+    {
+      "paperId": "3627928810dd6be7dd35a0e9b1c8478de8815094",
+      "title": "Multiple coordinated views for searching and navigating Web content repositories"
+    },
+    {
+      "paperId": "224e457fde0e97a080ce2385496784ee9d193a02",
+      "title": "Event Detection and Tracking in Social Streams"
+    },
+    {
+      "paperId": "fb9cdd0e8524fe401561c5e9cf2976bde0189480",
+      "title": "Narratives: A visualization to track narrative events as they develop"
+    },
+    {
+      "paperId": "b769e4963d1131a4b0156d17e54434da00a15854",
+      "title": "Personal vs non-personal blogs: initial classification experiments"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "40276860174e3e8fc3abb894447fafb3c344bb5f",
+      "title": "NewsLab: Exploratory Broadcast News Video Analysis"
+    },
+    {
+      "paperId": "f56fa659906cb1cde958f054abe3fa85604c3e31",
+      "title": "FemaRepViz: Automatic Extraction and Geo-Temporal Visualization of FEMA National Situation Updates"
+    },
+    {
+      "paperId": "1f8bd13b367b7b3e5a0fc55781eceb346c46a314",
+      "title": "Visualizing tags over time"
+    },
+    {
+      "paperId": "eee8bf88a325761142af93a6ccdebb2187715821",
+      "title": "Deriving marketing intelligence from online discussion"
+    },
+    {
+      "paperId": "96430cc91ed91fd2d4042fa6fcb7ecf4005d77a7",
+      "title": "A Brief Survey of Text Mining"
+    },
+    {
+      "paperId": "daedb2a39cc641933bdf1b568e8ff2c3fa305f45",
+      "title": "Visualizing live text streams using motion and temporal pooling"
+    },
+    {
+      "paperId": "2d274a3cce4c81bd105ef6ef0127f372147fd672",
+      "title": "Survey of Text Mining"
+    },
+    {
+      "paperId": "a0e766325cf9616c69bd1c27b55c2f668526b747",
+      "title": "What Is News? Galtung and Ruge revisited"
+    },
+    {
+      "paperId": "efc273dec9d03d969e57fa9dd8023edf05e6094a",
+      "title": "ThemeRiver: visualizing theme changes over time"
+    },
+    {
+      "paperId": "f09c325c7e407899a926e22bc3238efa1f531bfd",
+      "title": "A study of retrospective and on-line event detection"
+    },
+    {
+      "paperId": "d6590674fe5fb16cf93c9ead436555d4d984d870",
+      "title": "Making sense of social media streams through semantics: A survey"
+    },
+    {
+      "paperId": null,
+      "title": "DETENBER B"
+    },
+    {
+      "paperId": null,
+      "title": "How twitter plans to make its 750M \u2019users\u2019 like its 250M real users"
+    },
+    {
+      "paperId": "99ecd29941f4c780f810302e28861f0b31e5e54c",
+      "title": "What\u2019s Going On? How Twitter and Online News Can Work in Synergy to Increase Situational Awareness"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": "e7801e890f940b8013b28c1bb9a34aa4b4367479",
+      "title": "Getting there first : real-time detection of real-world incidents on Twitter"
+    },
+    {
+      "paperId": null,
+      "title": "Selektion und Rezeption im Internet: Eine Metaanalyse zu Nachrichtenfaktoren im Online-Journalismus"
+    },
+    {
+      "paperId": "d513d05dffbb83dbe4d3a2f9d221eb81323e3466",
+      "title": "Event detection with social media data"
+    },
+    {
+      "paperId": "84d5a51b4f46b0cd87a888177c3b615b1e1b51b6",
+      "title": "Real-Time Visualization of Streaming Text Data: Tasks and Challenges"
+    },
+    {
+      "paperId": "c55542abd43ae91b9f9ecdd681701a739efea6e6",
+      "title": "TwitterReporter: Breaking News Detection and Visualization through the Geo-Tagged Twitter Network"
+    },
+    {
+      "paperId": "d05dfc9581a6b214546dc39ba285bce960646d28",
+      "title": "Identification and Characterization of Events in Social Media"
+    },
+    {
+      "paperId": null,
+      "title": "Tiara: a visual exploratory text analytic system"
+    },
+    {
+      "paperId": "8badb973a35f5efd505608adfeaf32bbbba602d0",
+      "title": "Visual Sentiment Analysis of RSS News Feeds Featuring the US Presidential Election in 2008"
+    },
+    {
+      "paperId": "78094768b375c973f4046a90c778fb321678b346",
+      "title": "Survey of Text Mining II"
+    },
+    {
+      "paperId": null,
+      "title": "KEIM D"
+    },
+    {
+      "paperId": "28da25f9e307b09f6cb4e3959fe860bdeef3b542",
+      "title": "Event Detection and Visualization for Social Text Streams"
+    },
+    {
+      "paperId": "a79e783a1495f50b0c6139df41658afb63467236",
+      "title": "BlogPulse: Automated Trend Discovery for Weblogs"
+    },
+    {
+      "paperId": "98add9ec396f6c7bc2295f0f1d35fa16b0a4a599",
+      "title": "Wie die Medien die Welt erschaffen und wie die Menschen darin leben"
+    },
+    {
+      "paperId": null,
+      "title": "The effects of wire news. Mass communication review yearbook"
+    },
+    {
+      "paperId": null,
+      "title": "The structure of foreign news the presentation of the congo, cuba and cyprus crises in four norwegian newspapers"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "paperId": "20e4ceabf686e56687f4c645abe320c236f7eab8",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2001-09399",
+    "ArXiv": "2001.09399",
+    "MAG": "3023413531",
+    "DOI": "10.1109/PacificVis48177.2020.9280",
+    "CorpusId": 210920367
+  },
+  "publicationVenue": {
+    "id": "5e8a55cb-fc9d-4567-be61-ca880f358422",
+    "name": "IEEE Pacific Visualization Symposium",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE Pac Vis Symp",
+      "PacificVis"
+    ],
+    "issn": "2165-8765",
+    "alternate_issns": [
+      "2165-8773"
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001657"
+  },
+  "url": "https://www.semanticscholar.org/paper/20e4ceabf686e56687f4c645abe320c236f7eab8",
+  "title": "A Visual Analytics Framework for Reviewing Streaming Performance Data",
+  "abstract": "Understanding and tuning the performance of extreme-scale parallel computing systems demands a streaming approach due to the computational cost of applying offline algorithms to vast amounts of performance log data. Analyzing large streaming data is challenging because the rate of receiving data and limited time to comprehend data make it difficult for the analysts to sufficiently examine the data without missing important changes or patterns. To support streaming data analysis, we introduce a visual analytic framework comprising of three modules: data management, analysis, and interactive visualization. The data management module collects various computing and communication performance metrics from the monitored system using streaming data processing techniques and feeds the data to the other two modules. The analysis module automatically identifies important changes and patterns at the required latency. In particular, we introduce a set of online and progressive analysis methods for not only controlling the computational costs but also helping analysts better follow the critical aspects of the analysis results. Finally, the interactive visualization module provides the analysts with a coherent view of the changes and patterns in the continuously captured performance data. Through a multi-faceted case study on performance analysis of parallel discrete-event simulation, we demonstrate the effectiveness of our framework for identifying bottlenecks and locating outliers.",
+  "venue": "IEEE Pacific Visualization Symposium",
+  "year": 2020,
+  "referenceCount": 44,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2001.09399",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-01-26",
+  "journal": {
+    "name": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+    "pages": "206-215"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kesavan2020AVA,\n author = {Suraj P. Kesavan and Takanori Fujiwara and J. Li and Caitlin J. Ross and Misbah Mubarak and C. Carothers and R. Ross and K. Ma},\n booktitle = {IEEE Pacific Visualization Symposium},\n journal = {2020 IEEE Pacific Visualization Symposium (PacificVis)},\n pages = {206-215},\n title = {A Visual Analytics Framework for Reviewing Streaming Performance Data},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1425114389",
+      "name": "Suraj P. Kesavan"
+    },
+    {
+      "authorId": "2070522051",
+      "name": "Takanori Fujiwara"
+    },
+    {
+      "authorId": "47786092",
+      "name": "J. Li"
+    },
+    {
+      "authorId": "50755814",
+      "name": "Caitlin J. Ross"
+    },
+    {
+      "authorId": "144928760",
+      "name": "Misbah Mubarak"
+    },
+    {
+      "authorId": "1759102",
+      "name": "C. Carothers"
+    },
+    {
+      "authorId": "145311475",
+      "name": "R. Ross"
+    },
+    {
+      "authorId": "1707383",
+      "name": "K. Ma"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a450a1fede3b9a56e070466e80d2f60991d6a0b4",
+      "title": "A Visual Analytics Framework for Analyzing Parallel and Distributed Computing Applications"
+    },
+    {
+      "paperId": "11e54eeb213e2d51be405455fcaf49909cdaf2d8",
+      "title": "An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data"
+    },
+    {
+      "paperId": "843793928e308b5414d2883ac869e813ec16f65d",
+      "title": "Progressive Data Science: Potential and Challenges"
+    },
+    {
+      "paperId": "e0750f3821d47375ec970f022b6583a2f541898a",
+      "title": "A Survey of Stream Clustering Algorithms"
+    },
+    {
+      "paperId": "967ea1c0a10f947fbe4e28a8ff251efd7597777a",
+      "title": "Coupling the Uintah Framework and the VisIt Toolkit for Parallel In Situ Data Analysis and Visualization and Computational Steering"
+    },
+    {
+      "paperId": "78fbba2fe03d8c3f15f7cd5d4e6d2c6ee8452267",
+      "title": "A visual analytics system for optimizing the performance of large-scale networks in supercomputing systems"
+    },
+    {
+      "paperId": "b079183f5ac71b0a1e75c0b2c0a35575cc5a508f",
+      "title": "The ALPINE In Situ Infrastructure: Ascending from the Ashes of Strawman"
+    },
+    {
+      "paperId": "c3c55852b5cb311ed32e0f7c57b4c3df9d9bf73d",
+      "title": "A Visual Analytics System for Optimizing Communications in Massively Parallel Applications"
+    },
+    {
+      "paperId": "4c0cd8796acd334a9ebe47c41dd2b88396d72d61",
+      "title": "Human Factors in Streaming Data Analysis: Challenges and Opportunities for Information Visualization"
+    },
+    {
+      "paperId": "e78059052e9e51a9c6fe92d0f70f940f7fbd078e",
+      "title": "Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks"
+    },
+    {
+      "paperId": "519ca9e3fae1b3c4160d42a368b595cda5f51a14",
+      "title": "A framework to visualize temporal behavioral relationships in streaming multivariate data"
+    },
+    {
+      "paperId": "3a3e62daf9333f06ce9b6fa26f24206fe6aa7e53",
+      "title": "Continuous monitoring for changepoints in data streams using adaptive estimation"
+    },
+    {
+      "paperId": "64d2e7b2178d2106b7274a6e1d0e6d456a36f222",
+      "title": "Visual Analysis of Cloud Computing Performance Using Behavioral Lines"
+    },
+    {
+      "paperId": "3c3fcd7a025f50bf598de03d41bc0fd00660f11f",
+      "title": "Analyzing Network Health and Congestion in Dragonfly-Based Supercomputers"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "19a2ae8c3568425fe4c4dc5b0eb07bd804404349",
+      "title": "Discovery of rating fraud with real-time streaming visual analytics"
+    },
+    {
+      "paperId": "11fa43540612e14085874f6012e281c09a39b237",
+      "title": "A PCA-Based Change Detection Framework for Multidimensional Data Streams: Change Detection in Multidimensional Data Streams"
+    },
+    {
+      "paperId": "f89f71ab33b66de55384d49d76c7add232ac6e7f",
+      "title": "Combing the Communication Hairball: Visualizing Parallel Execution Traces using Logical Time"
+    },
+    {
+      "paperId": "1573c5d12580286e3ba34185fbd25c8c043e2416",
+      "title": "Visualizing jobs with shared resources in distributed environments"
+    },
+    {
+      "paperId": "0e68954895eaa9572358d52923dd2d2b4ed12bb4",
+      "title": "Visualization of streaming data: Observing change and context in information visualization techniques"
+    },
+    {
+      "paperId": "bb192d3266bf60b07b1f17b16fac75d87d677178",
+      "title": "Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations"
+    },
+    {
+      "paperId": "b040e7de49f4b4e8e9e007d7e4149d7ef277c609",
+      "title": "Modeling a Million-Node Dragonfly Network Using Massively Parallel Discrete-Event Simulation"
+    },
+    {
+      "paperId": "7c5fbb7f07122cd414dd9314a5562a0cf63c5bfd",
+      "title": "Interpreting Performance Data across Intuitive Domains"
+    },
+    {
+      "paperId": "b452a856a3e3d4d37b1de837996aa6813bedfdcf",
+      "title": "Web-scale k-means clustering"
+    },
+    {
+      "paperId": "0043908e11a1a5b01697825edf880e1f0f4d8485",
+      "title": "Scalable Time Warp on Blue Gene Supercomputers"
+    },
+    {
+      "paperId": "b81350c2601441dcd526e656a590ff354dedb220",
+      "title": "Technology-Driven, Highly-Scalable Dragonfly Topology"
+    },
+    {
+      "paperId": "505f48d8236eb25f871da272c2ac2fe4b41ea289",
+      "title": "Incremental Learning for Robust Visual Tracking"
+    },
+    {
+      "paperId": "273f466fb13731d9447299923d3fe4388ca20d61",
+      "title": "In-situ processing and visualization for ultrascale simulations"
+    },
+    {
+      "paperId": "0285db69c4658ed0749ed943c81a27472148b1a5",
+      "title": "Time Dependent Processing in a Parallel Pipeline Architecture"
+    },
+    {
+      "paperId": "fce5b8a8403e6c4d93f644baca304af436b5a800",
+      "title": "Procrustes Problems"
+    },
+    {
+      "paperId": "f6e50fae23b0714e85bb08647cfea92fd09d9a0c",
+      "title": "PRINCIPAL COMPONENT ANALYSIS AND FACTOR ANALYSIS"
+    },
+    {
+      "paperId": "124aa6898432fe30e385b2fd995c71cb1c900b1c",
+      "title": "Time series analysis."
+    },
+    {
+      "paperId": "ff74cb9873e23f0c93db7ac279e6c31eb7e30b83",
+      "title": "Online algorithms: a survey"
+    },
+    {
+      "paperId": "23b5e588066a85d7df4e6171ad95823b1ba2ceb4",
+      "title": "ROSS: a high-performance, low memory, modular time warp system"
+    },
+    {
+      "paperId": "5d5ffe2b2b64852e725763df43a75bd9c332eea2",
+      "title": "Parallel Discrete Event Simulation"
+    },
+    {
+      "paperId": "770fdb91c74005c8b34a744c6b2188729b2a9c63",
+      "title": "Virtual time"
+    },
+    {
+      "paperId": "dda6cf9b0cbceb630f07b23983f2fe10883ae56b",
+      "title": "Causality in temporal systems: Characterization and a survey"
+    },
+    {
+      "paperId": null,
+      "title": "Machine learning for data streams: with practical examples in MOA"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "9964d3689324a2456611f34bcbef5681a9ba9330",
+      "title": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "paperId": "9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+      "title": "State of the Art of Performance Visualization"
+    },
+    {
+      "paperId": "d0c83e544e25ca9ad9322e7b33dfe72e1d71a8e1",
+      "title": "Supplementary Materials for"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "1c6039fbf697e07116620aad8da6a0347bbd91fe",
+      "title": "An Incremental Grid Density-Based Clustering Algorithm"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "paperId": "af6345aae6d0f159924732ea3ae6785351d4fafd",
+  "externalIds": {
+    "MAG": "2144070907",
+    "DBLP": "journals/tvcg/PreimOMGHB09",
+    "DOI": "10.1109/TVCG.2008.95",
+    "CorpusId": 371337,
+    "PubMed": "19147886"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/af6345aae6d0f159924732ea3ae6785351d4fafd",
+  "title": "Survey of the Visual Exploration and Analysis of Perfusion Data",
+  "abstract": "Dynamic contrast-enhanced image data (perfusion data) are used to characterize regional tissue perfusion. Perfusion data consist of a sequence of images, acquired after a contrast agent bolus is applied. Perfusion data are used for diagnostic purposes in oncology, ischemic stroke assessment or myocardial ischemia. The diagnostic evaluation of perfusion data is challenging, since the data is complex and exhibits various artifacts, e.g., motion artifacts. We provide an overview on existing methods to analyze, and visualize CT and MR perfusion data. The integrated visualization of several 2D parameter maps, the 3D visualization of parameter volumes and exploration techniques are discussed. An essential aspect in the diagnosis of perfusion data is the correlation between perfusion data and derived time-intensity curves as well as with other image data, in particular with high resolution morphologic image data. We discuss visualization support with respect to the three major application areas: ischemic stroke diagnosis, breast tumor diagnosis and the diagnosis of coronary heart disease.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2009,
+  "referenceCount": 70,
+  "openAccessPdf": {
+    "url": "http://www.cg.tuwien.ac.at/research/publications/2009/preim-2009-sve/preim-2009-sve-paper.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Medicine",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2009-03-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "205-220",
+    "volume": "15"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Preim2009SurveyOT,\n author = {B. Preim and S. Oeltze-Jafra and Matej Mlejnek and E. Gr\u00f6ller and A. Hennemuth and S. Behrens},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {205-220},\n title = {Survey of the Visual Exploration and Analysis of Perfusion Data},\n volume = {15},\n year = {2009}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1689519",
+      "name": "B. Preim"
+    },
+    {
+      "authorId": "1403400261",
+      "name": "S. Oeltze-Jafra"
+    },
+    {
+      "authorId": "46563705",
+      "name": "Matej Mlejnek"
+    },
+    {
+      "authorId": "1725803",
+      "name": "E. Gr\u00f6ller"
+    },
+    {
+      "authorId": "2880484",
+      "name": "A. Hennemuth"
+    },
+    {
+      "authorId": "40404020",
+      "name": "S. Behrens"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ebb3eea625ab67ee7f6879faed14e0099f2d81fe",
+      "title": "A Four\u2010level Focus+Context Approach to Interactive Visual Analysis of Temporal Features in Large Scientific Data"
+    },
+    {
+      "paperId": "4ebed612e9a035a6a3847e680b3bf51050d469f3",
+      "title": "Interactive Visual Analysis of Perfusion Data"
+    },
+    {
+      "paperId": "b2effcc2ffcdcd03a8fd49aefe70547df0bd2ed2",
+      "title": "Impact of Myocardial Perfusion Imaging with PET and 82Rb on Downstream Invasive Procedure Utilization, Costs, and Outcomes in Coronary Disease Management"
+    },
+    {
+      "paperId": "dea9769f5cb75cd669d2bbd58b95ca93c362ee44",
+      "title": "Novel methods for parameter-based analysis of myocardial tissue in MR images"
+    },
+    {
+      "paperId": "76eae151ead5fd82531cf0323a7d1646c8a7c1a3",
+      "title": "Reference tissue quantification of DCE-MRI data without a contrast agent calibration"
+    },
+    {
+      "paperId": "bc6cc47ae284be93a70643ddf935ca1f03dfeb8a",
+      "title": "Renal perfusion: Comparison of saturation\u2010recovery TurboFLASH measurements at 1.5T with saturation\u2010recovery TurboFLASH and time\u2010resolved echo\u2010shared angiographic technique (TREAT) at 3.0T"
+    },
+    {
+      "paperId": "411c6c55722bf997fa8e67caa714a83e1dabb0dc",
+      "title": "Nuclear cardiology: myocardial perfusion imaging with SPECT and PET"
+    },
+    {
+      "paperId": "a019ed011a24e96ed7bf33e95bf4ec4450c8eb45",
+      "title": "Automatic identification and classification of characteristic kinetic curves of breast lesions on DCE-MRI."
+    },
+    {
+      "paperId": "3ebec60c36cec8672635bbd92dc84bf067195092",
+      "title": "Magnetic resonance cardiac perfusion imaging\u2013a clinical perspective"
+    },
+    {
+      "paperId": "55deb719b1a47780c9a693b61e5223f1f599b9f5",
+      "title": "Profile Flags: a novel metaphor for probing of T/sub 2/ maps"
+    },
+    {
+      "paperId": "4767cda78c98f83a539831f76837bff3904826d9",
+      "title": "An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data"
+    },
+    {
+      "paperId": "69399581311941103ecf4e1b4d7f26ae56087bdc",
+      "title": "Comparative Overview of Brain Perfusion Imaging Techniques"
+    },
+    {
+      "paperId": "1d05ad49b4b79c7fab8bf1c227ad93b93e4b771f",
+      "title": "Tumor feature visualization with unsupervised learning"
+    },
+    {
+      "paperId": "e3c5751b3b020e8b5771aab5390d3073bd4c4325",
+      "title": "Assessment of suspected breast cancer by MRI: a prospective clinical trial using a combined kinetic and morphologic analysis."
+    },
+    {
+      "paperId": "cb07f3e2cd07f828d3b479b2599c11014f406ffa",
+      "title": "Computer Aided Detection (CAD) for Breast MRI"
+    },
+    {
+      "paperId": "70cc2097114f6563dacf65d362255fd58790bd47",
+      "title": "Contrast-enhanced MR imaging of the heart: overview of the literature."
+    },
+    {
+      "paperId": "5e7fff019961d7296e1883242e944ce1665712ff",
+      "title": "Quantification of Pulmonary Blood Flow and Volume in Healthy Volunteers by Dynamic Contrast-Enhanced Magnetic Resonance Imaging Using a Parallel Imaging Technique"
+    },
+    {
+      "paperId": "fc10abdee75c3330a9eeae46765d35836ef2ed25",
+      "title": "Analysis of Mice Tumor Models Using Dynamic MRI Data and a Dedicated Software Platform*"
+    },
+    {
+      "paperId": "b44707a665235c32b2da4c48f2bf487a30dfb88a",
+      "title": "Segmentation of the left ventricle in 4D-dSPECT data using free-form deformation of super quadrics"
+    },
+    {
+      "paperId": "3e55a57c1f367a0e4dd186e43d81576fccec3570",
+      "title": "Noise removal using fourth-order partial differential equation with applications to medical magnetic resonance images in space and time"
+    },
+    {
+      "paperId": "0d67fe1931e68a128f25efc693a1eaa7077cafdd",
+      "title": "Interactive Feature Specification for Focus+Context Visualization of Complex Simulation Data"
+    },
+    {
+      "paperId": "926339500985c79f0907bd1c9cd268d41a8aad75",
+      "title": "Functional tumor imaging with dynamic contrast\u2010enhanced magnetic resonance imaging"
+    },
+    {
+      "paperId": "f194fe536185f1a4e3450e47a88fbb7e57977112",
+      "title": "Visualizing Multiple Fields on the Same Surface"
+    },
+    {
+      "paperId": "5990e280f2ffe2b0c5fc605f6b973ed3e3d1afa3",
+      "title": "Dynamic MR mammography: multidimensional visualization of contrast enhancement in virtual reality"
+    },
+    {
+      "paperId": "8faf5d6385852ece551cd1ec6db10f570ed8f1b7",
+      "title": "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association."
+    },
+    {
+      "paperId": "a20a63b283ac8c044823cbc538e7729eca35ab8f",
+      "title": "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association."
+    },
+    {
+      "paperId": "5b4fdd885e98bf71839799cea296df259a722b26",
+      "title": "MRI based diffusion and perfusion predictive model to estimate stroke evolution."
+    },
+    {
+      "paperId": "2eebe134c0ae730609d7a4a3bfbef21969211ba0",
+      "title": "Assessment of Myocardial Perfusion in Coronary Artery Disease by Magnetic Resonance: A Comparison With Positron Emission Tomography and Coronary Angiography"
+    },
+    {
+      "paperId": "689c9c8da4984f596210fd1ab0cfb437345e1d93",
+      "title": "Echo\u2010planar magnetic resonance myocardial perfusion imaging: Parametric map analysis and comparison with thallium SPECT"
+    },
+    {
+      "paperId": "4c6b5ef753f30f1bdca14a382681613de4ff58d8",
+      "title": "Characterization of stroke lesions using a histogram-based data analysis including diffusion- and perfusion-weighted imaging"
+    },
+    {
+      "paperId": "d424c82be3d0ae1a4f9d2a7089563ff7e4ff931b",
+      "title": "Noninvasive detection of myocardial ischemia from perfusion reserve based on cardiovascular magnetic resonance."
+    },
+    {
+      "paperId": "77282b4292a6d557201e5480243130b7f78fdb05",
+      "title": "Noninvasive Detection of Myocardial Ischemia From Perfusion Reserve Based on Cardiovascular Magnetic Resonance"
+    },
+    {
+      "paperId": "960531e23bac068c2721a52338287efe1b052607",
+      "title": "Pathophysiologic basis of contrast enhancement in breast tumors"
+    },
+    {
+      "paperId": "186050bcbecc5a8f2caa76ae9d283bd7bb2c283d",
+      "title": "Nonrigid registration using free-form deformations: application to breast MR images"
+    },
+    {
+      "paperId": "349aa46ca52307310fa9d58b2d552d629ff7f001",
+      "title": "13N-ammonia myocardial blood flow and uptake: relation to functional outcome of asynergic regions after revascularization."
+    },
+    {
+      "paperId": "0436e37449d0631ea7d2145677da7b6529ef5ee8",
+      "title": "Hyperacute stroke: simultaneous measurement of relative cerebral blood volume, relative cerebral blood flow, and mean tissue transit time."
+    },
+    {
+      "paperId": "3cc150e24e848919de132638483828ea6620acd9",
+      "title": "Dynamic contrast-enhanced imaging and analysis at high spatial resolution of MCF7 human breast tumors."
+    },
+    {
+      "paperId": "ef086b069bfecdaebc73f3ef4bac28b326e72363",
+      "title": "Mapping pathophysiological features of breast tumors by MRI at high spatial resolution"
+    },
+    {
+      "paperId": "5bfcb54ccb87e9e7ada6789c8ff07fd86641413f",
+      "title": "Contrast-enhanced MRI of the breast: accuracy, value, controversies, solutions."
+    },
+    {
+      "paperId": "34ef2f013792e35228e81fedcd7a01330efd3fd8",
+      "title": "Multi-modal volume registration by maximization of mutual information"
+    },
+    {
+      "paperId": "133c558e3d38813b9bd03242682a3c4a6f6e0d66",
+      "title": "Analysis of fMRI Time-Series Revisited"
+    },
+    {
+      "paperId": "a76edf3b4b286e5b77617fe590047114b5f81cb2",
+      "title": "Acute human stroke studied by whole brain echo planar diffusion\u2010weighted magnetic resonance imaging"
+    },
+    {
+      "paperId": "0279216c77bcd61580555a1390a9f2364729b786",
+      "title": "STS-MIP: a new reconstruction technique for CT of the chest."
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "1bac05d782f317b235b9abcf03c0ef59dd3032f0",
+      "title": "Color icons-merging color and texture perception for integrated visualization of multiple parameters"
+    },
+    {
+      "paperId": "ce9fad60f5f4ee809a6f853689320d3e6478aa66",
+      "title": "Contrast-Enhanced MRI of the Breast"
+    },
+    {
+      "paperId": "df0cd8ef41fe291aa53ed2056a065de266e55923",
+      "title": "A prospective comparison of rubidium-82 PET and thallium-201 SPECT myocardial perfusion imaging utilizing a single dipyridamole stress in the diagnosis of coronary artery disease."
+    },
+    {
+      "paperId": "9d5a1bb231cf8551e5ea3f695788a49c9603e6e2",
+      "title": "MR imaging of the breast: fast imaging sequences with and without Gd-DTPA. Preliminary observations."
+    },
+    {
+      "paperId": "76b5d38174b1cda4a7aa7cc6ec8ff6b925bfbef1",
+      "title": "Measurement of absolute myocardial blood flow with H215O and dynamic positron-emission tomography. Strategy for quantification in relation to the partial-volume effect."
+    },
+    {
+      "paperId": "10481796e2dab961227c8d6b2a51eed76deaa1fd",
+      "title": "X-Ray Functional Imaging--evaluation Of The Properties Of Different Parameters"
+    },
+    {
+      "paperId": "5a17e76f145f5feae278c9b5c2441885f15fe6fa",
+      "title": "Cerebral blood flow determination by rapid-sequence computed tomography: theoretical analysis."
+    },
+    {
+      "paperId": null,
+      "title": "Authorized licensed use limited to: IEEE Xplore"
+    },
+    {
+      "paperId": "304a1a4608a0b56b26f3fe75f6f2197055ff0a63",
+      "title": "Intuitive Mapping of Perfusion Parameters to Glyph Shape"
+    },
+    {
+      "paperId": "2f2e38d029c4219bb96eb78f308402ca2af7a3b8",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "f912262e750150eafa3529b68024d847b6b66c4d",
+      "title": "Diagnostic architectural and dynamic features at breast MR imaging: multicenter study."
+    },
+    {
+      "paperId": "69849f73893818cba824641231a455d6c97155df",
+      "title": "MammoExplorer: An Advanced CAD Application for Breast DCE-MRI"
+    },
+    {
+      "paperId": "6809d1fe47f7de591382f255714f8dfa64d984cb",
+      "title": "Accuracy of dynamic perfusion CT with deconvolution in detecting acute hemispheric stroke."
+    },
+    {
+      "paperId": "00efd5f0c4db9fbd71f901b194b6ef3d29308f52",
+      "title": "Multiparametervisualisierung zur Exploration dynamischer Bilddaten"
+    },
+    {
+      "paperId": "84b97e30ba5671f0d71bd8f9c95ee0bbb93ddd53",
+      "title": "Profile Flags: a Novel Metaphor for Probing of T2 Maps"
+    },
+    {
+      "paperId": "a7f0856b27c3adbcf4295e30190bb197c2aa5960",
+      "title": "Perfusion CT with iodinated contrast material."
+    },
+    {
+      "paperId": "86765e783313dfbe2eef38f9bcb16fa8711a67e5",
+      "title": "Exploration of Time-Varying Data for Medical Diagnosis"
+    },
+    {
+      "paperId": "fa346244c57e6fee3c158d3ff497acb5e3d58642",
+      "title": "Classification of signal-time curves from dynamic MR mammography by neural networks."
+    },
+    {
+      "paperId": null,
+      "title": "The Visualisation Toolkit"
+    },
+    {
+      "paperId": null,
+      "title": "MT- DYNA: Computer Assistance for the Evaluation of Dynamic MR and CT Data in a Clinical Environment"
+    },
+    {
+      "paperId": null,
+      "title": "Perfusion CT in Acute Stroke: Characterization of Cerebral Ischemia using Parameter Images of Cerebral Blood Flow and their Therapeutic Relevance"
+    },
+    {
+      "paperId": "f72e329add804043a70245a961ba12cf845033c3",
+      "title": "MR perfusion and diffusion imaging in ischaemic brain disease"
+    },
+    {
+      "paperId": null,
+      "title": "Computer-Assisted Dynamic Evaluation of Contrast-Enhanced-MRI"
+    },
+    {
+      "paperId": null,
+      "title": "Perfusion Imaging Magn Reson Med"
+    },
+    {
+      "paperId": "8f118bc2bd0bb9ea3aba7f679bcc4f196e056e67",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Integrated Visualization of Morphologic and Perfusion Data for the Analysis of Coronary Artery Disease"
+    },
+    {
+      "paperId": "550d893d5b9412049f22927b9708f5b9f2c24051",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) Application-oriented Extensions of Profile Flags"
+    }
+  ]
+}

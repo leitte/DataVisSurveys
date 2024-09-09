@@ -1,0 +1,723 @@
+{
+  "paperId": "b7605d08490443dcc48e20f14e76d32c221adf58",
+  "externalIds": {
+    "DBLP": "conf/vissym/TominskiGKDS14",
+    "MAG": "2197138246",
+    "DOI": "10.2312/eurovisstar.20141172",
+    "CorpusId": 17629122
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/b7605d08490443dcc48e20f14e76d32c221adf58",
+  "title": "A Survey on Interactive Lenses in Visualization",
+  "abstract": "Since their introduction in the early nineties, Magic Lenses have attracted much interest. Especially in the realm of visualization, the elegance of using a virtual interactive lens to provide an alternative visual representation of a selected part of the data is highly valued. In this report, we survey the literature on interactive lenses in the context of visualization. Our survey (1) takes a look at how lenses are defined and what properties characterize them, (2) reviews existing lenses for different types of data and tasks, and (3) illustrates the technologies employed to display lenses and to interact with them. Based on our review, we identify challenges and unsolved problems to be addressed in future research.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2014,
+  "referenceCount": 162,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tominski2014ASO,\n author = {C. Tominski and Stefan Gladisch and Ulrike Kister and Raimund Dachselt and H. Schumann},\n booktitle = {Eurographics Conference on Visualization},\n title = {A Survey on Interactive Lenses in Visualization},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1718009",
+      "name": "C. Tominski"
+    },
+    {
+      "authorId": "2447772",
+      "name": "Stefan Gladisch"
+    },
+    {
+      "authorId": "2005952",
+      "name": "Ulrike Kister"
+    },
+    {
+      "authorId": "1724208",
+      "name": "Raimund Dachselt"
+    },
+    {
+      "authorId": "143789114",
+      "name": "H. Schumann"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "98b896f192da9ace6a550ab6657f5c68af320e51",
+      "title": "Semi\u2010Automatic Editing of Graphs with Customized Layouts"
+    },
+    {
+      "paperId": "194b9daab6544451774c17afb84a534f8a515704",
+      "title": "T4 - transparent and translucent tangibles on tabletops"
+    },
+    {
+      "paperId": "97fad2028048525f991a5c560c07f91231ff6ae9",
+      "title": "Kinetica: naturalistic multi-touch data visualization"
+    },
+    {
+      "paperId": "bad6697924a270f877a92fadd56af71c92299697",
+      "title": "Drilling into complex 3D models with gimlenses"
+    },
+    {
+      "paperId": "04578ac05defc05e7547a4411eade337cbbb828c",
+      "title": "Exploring entities in text with descriptive non-photorealistic rendering"
+    },
+    {
+      "paperId": "80c79e9908a037cd13aafa141eaffc81ce0487b4",
+      "title": "TrajectoryLenses \u2013 A Set\u2010based Filtering and Exploration Technique for Long\u2010term Trajectory Data"
+    },
+    {
+      "paperId": "cb3a3d20acbaf9ecb52b11c8554d429c7eb6877e",
+      "title": "TangibleRings: nestable circular tangibles"
+    },
+    {
+      "paperId": "76fc56444ba8d0f15c27f7dea326a27958f40379",
+      "title": "Still looking: investigating seamless gaze-supported selection, positioning, and manipulation of distant targets"
+    },
+    {
+      "paperId": "c61f7656b37ce3e669f4e454a71d70693fad4e9b",
+      "title": "Visual access to graph content using magic lenses and filtering"
+    },
+    {
+      "paperId": "1c48cdc2df4acae1b6bb547f88ef9eab0f78c834",
+      "title": "Data Visualization on Interactive Surfaces: A Research Agenda"
+    },
+    {
+      "paperId": "383440c0c0c4012f36f696285a5e69772e7df413",
+      "title": "Stacking-Based Visualization of Trajectory Attribute Data"
+    },
+    {
+      "paperId": "b1b235af1848258c969ebe22ac6188b23aa9a7e7",
+      "title": "TouchWave: kinetic multi-touch manipulation for hierarchical stacked graphs"
+    },
+    {
+      "paperId": "b68a6d6c1fc38ea3ec109ac14c2f230c5bbb7798",
+      "title": "Use your head: tangible windows for 3D information spaces in a tabletop environment"
+    },
+    {
+      "paperId": "a8062e26413f23e5ba4b41af4f60f70a30658d3c",
+      "title": "A hand-held AR magic lens with user-perspective rendering"
+    },
+    {
+      "paperId": "3cdbbebc11ac0030fe73c7205e3aa9b4fa197d2a",
+      "title": "Conformal Magnifier: A Focus+Context Technique with Local Shape Preservation"
+    },
+    {
+      "paperId": "e0aafd602c4b37b75ce7b6ad30909c000b0ae152",
+      "title": "JellyLens: content-aware adaptive lenses"
+    },
+    {
+      "paperId": "65b2d2c1b1187d29f4fc43b7a78d821f59b173d2",
+      "title": "Embodied lenses for collaborative visual queries on tabletop displays"
+    },
+    {
+      "paperId": "6dadbcc02452a586b03bcc5241c7fd0e73f05846",
+      "title": "Designing large high-resolution display workspaces"
+    },
+    {
+      "paperId": "74b1f90dd98ed1777890847f23ec9774782cdf47",
+      "title": "Augmented visualization with natural feature tracking"
+    },
+    {
+      "paperId": "0f9ae35a98069f5c95c7790536664b20a74e92e7",
+      "title": "MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots"
+    },
+    {
+      "paperId": "f93795470c4aa5dd31002890521dcd32f2d1e47e",
+      "title": "The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms"
+    },
+    {
+      "paperId": "2a6f78fa74d214debf9d2a0d4c9d007a02d1a38a",
+      "title": "Exploratory Analysis of Time-Series with ChronoLenses"
+    },
+    {
+      "paperId": "8ff99f5cedd0fe542942fa065d5c0b39d71916c8",
+      "title": "Facet lens: local exploration and discovery in globally faceted data sets"
+    },
+    {
+      "paperId": "e8c645fcb35640ad05ef2172760bb3b4d5974fe6",
+      "title": "Physical Navigation to Support Graph Exploration on a Large High-Resolution Display"
+    },
+    {
+      "paperId": "3f0bfc78e9fa507d306665613629ece88d4ff6fb",
+      "title": "SemLens: visual analysis of semantic data with scatter plots and semantic lenses"
+    },
+    {
+      "paperId": "bf485d1b8381c43548212d958ceb3979bc04915f",
+      "title": "The Undistort Lens"
+    },
+    {
+      "paperId": "380c6e943917c6ea7b6985b98448e2bdb9dfab4c",
+      "title": "Designing gaze-supported multimodal interactions for the exploration of large image collections"
+    },
+    {
+      "paperId": "23d9bfe3df3b89c3f1b2bcf6de5f973118bc5e9d",
+      "title": "KronoMiner: using multi-foci navigation for the visual exploration of time-series data"
+    },
+    {
+      "paperId": "642a1ab8631bb614d7d96a4c1fc28a84eb4acbba",
+      "title": "FingerGlass: efficient multiscale interaction on multitouch screens"
+    },
+    {
+      "paperId": "0b42820784ab8efc3c66499ee04dabb1232488ad",
+      "title": "EdgeAnalyzer: Exploratory Analysis through Advanced Edge Interaction"
+    },
+    {
+      "paperId": "8ac24fd7e191a15f54e2dd67b41109ddda4654dc",
+      "title": "Event-Based Concepts for User-Driven Visualization"
+    },
+    {
+      "paperId": "f4bf57292a4f8c61c2a69ac2b384af96b544a978",
+      "title": "A set of multi-touch graph interaction techniques"
+    },
+    {
+      "paperId": "837f1ba1d4a455eb89b2920aec273ab1778c95f3",
+      "title": "Tangible views for information visualization"
+    },
+    {
+      "paperId": "953581661ba232833cc68891253f53e075593710",
+      "title": "SignalLens: Focus+Context Applied to Electronic Time Series"
+    },
+    {
+      "paperId": "389c7e0df0a61592dd87eb54e737c19708ecf99c",
+      "title": "Representation-Independent In-Place Magnification with Sigma Lenses"
+    },
+    {
+      "paperId": "4a18205c6a998f95c5fc48e249945eb4634a2a64",
+      "title": "High-precision magnification lenses"
+    },
+    {
+      "paperId": "fe1254d5441118a3d094aa099b19dcad0ac6a846",
+      "title": "Route Visualization Using Detail Lenses"
+    },
+    {
+      "paperId": "2557f9553c12521323fd53d4154ce4a98c0d38fe",
+      "title": "Getting practical with interactive tabletop displays: designing for dense data, \"fat fingers,\" diverse interactions, and face-to-face collaboration"
+    },
+    {
+      "paperId": "0814831a8fa3025012b0f2cc367a7af86df0c368",
+      "title": "Unifying Runtime Adaptation and Design Evolution"
+    },
+    {
+      "paperId": "c99ad158075e06ace80d9cba3d887464aaffec5b",
+      "title": "Extended Excentric Labeling"
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "7446295df4e90a427edbfc8cbd789e27478fbc7e",
+      "title": "A review of overview+detail, zooming, and focus+context interfaces"
+    },
+    {
+      "paperId": "34241d4c3826fb25df6ea98f3919e4acde8494ea",
+      "title": "Multi-Focused Geospatial Analysis Using Probes"
+    },
+    {
+      "paperId": "61e0ef5493cfdcac406dcab302b4d23c5c53854f",
+      "title": "Smart Lenses"
+    },
+    {
+      "paperId": "0581d7e32f5dbd560965c216941ea22a9f50c62e",
+      "title": "3D Generalization Lenses for Interactive Focus + Context Visualization of Virtual City Models"
+    },
+    {
+      "paperId": "5d5b4fad45ed29a642e1c540ad4a89935fba969e",
+      "title": "Sigma lenses: focus-context transitions combining space, time and translucence"
+    },
+    {
+      "paperId": "0143d14568f571fe11b346618e7178985d74c7db",
+      "title": "A 3D Flexible and Tangible Magic Lens in Augmented Reality"
+    },
+    {
+      "paperId": "264efe89e9ceaef4276b8d69d9ffe3340f8216f5",
+      "title": "Interactive Focus and Context Visualization for Augmented Reality"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "161e6ff49e6ec696b3eddfff28f2423badafd101",
+      "title": "Interactive cutaway illustrations of complex 3D models"
+    },
+    {
+      "paperId": "a148a3d5b018d19e57e8bec9e5df856bdb211b76",
+      "title": "Optical magic lenses and polarization-based interaction techniques"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "c650672ac7ef5ecd3002555169973456935c5450",
+      "title": "NPR Lenses: Interactive Tools for Non-Photorealistic Line Drawings"
+    },
+    {
+      "paperId": "1fa02e8571c1f6e923fe0c25b1677d091dee5253",
+      "title": "EyePoint: practical pointing and selection using gaze and keyboard"
+    },
+    {
+      "paperId": "410abc0b662bf6a47687038c1e7b7b5f5116c6db",
+      "title": "Pointing lenses: facilitating stylus input through visual-and motor-space magnification"
+    },
+    {
+      "paperId": "34e6f2c359e82d5805f75df678aa08d09b37473c",
+      "title": "Enabling Automatic Clutter Reduction in Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "db6b4b9f27f9e3113c0bfa423fb848c934e2d651",
+      "title": "Fisheye Tree Views and Lenses for Graph Visualization"
+    },
+    {
+      "paperId": "11fc14426b382657811fa2fac864c645891e58d8",
+      "title": "The plot, the clutter, the sampling and its lens: occlusion measures for automatic clutter reduction"
+    },
+    {
+      "paperId": "624a251e6f53e872534a16dcd96b11315c25d165",
+      "title": "Precise selection techniques for multi-touch screens"
+    },
+    {
+      "paperId": "149ecad89e4f085e3a09437f8c2db79a6aba8858",
+      "title": "The magic volume lens: an interactive focus+context technique for volume rendering"
+    },
+    {
+      "paperId": "233a264e17fd7edc896bd5774991758802f74504",
+      "title": "DTLens: multi-user tabletop spatial data exploration"
+    },
+    {
+      "paperId": "455eff6d743e9c00d29235d2c29b68cc0cd47b54",
+      "title": "Temporal Magic Lens: Combined Spatial and Temporal Query and Presentation"
+    },
+    {
+      "paperId": "5cf3a8144d9cd8ed61e61617eabac1f85ff16232",
+      "title": "Efficient eye pointing with a fisheye lens"
+    },
+    {
+      "paperId": "65f8676b814ce6be03b6c734a5a29ede1550af31",
+      "title": "The sampling lens: making sense of saturated visualisations"
+    },
+    {
+      "paperId": "b570d0db551d850a97f0704fd0e5299016eaa1bb",
+      "title": "Achieving higher magnification in context"
+    },
+    {
+      "paperId": "edc07bc2e706f588079428fed0f23975ace4ccec",
+      "title": "A remote control interface for large displays"
+    },
+    {
+      "paperId": "c6ed53d8ecba6649419b954183c1f4f544c4887a",
+      "title": "Interactive Visualization of Small World Graphs"
+    },
+    {
+      "paperId": "3ae7ac85271a3e9257d3e560b830fd1d5997e53f",
+      "title": "Importance-driven volume rendering"
+    },
+    {
+      "paperId": "15636c62ca49e44e7dd1adf6bf1bcd2e36c30436",
+      "title": "Through the looking glass: the use of lenses as an interface tool for Augmented Reality interfaces"
+    },
+    {
+      "paperId": "e26f4028e79f00cb90ef748eef54a666892ebb48",
+      "title": "Dynamic Query Tools for Time Series Data Sets: Timebox Widgets for Interactive Exploration"
+    },
+    {
+      "paperId": "01f89eae942f1386c68fbf5d28a06bf0785e7197",
+      "title": "Taxonomy For Discrete Lenses"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "d634cbf0d6c8a4f0fb3750f85f3b421d2184c366",
+      "title": "Strategies for interactive exploration of 3D flow using evenly-spaced illuminated streamlines"
+    },
+    {
+      "paperId": "1266fe05adb4c35cd9762fdd4ddbe31558653b1b",
+      "title": "GeneVis: visualization tools for genetic regulatory network dynamics"
+    },
+    {
+      "paperId": "5c066922d880ac88172d1277801467da6eefd975",
+      "title": "Improving focus targeting in interactive fisheye views"
+    },
+    {
+      "paperId": "fc8861c27d8519113003cf98c5547399f79ffb66",
+      "title": "The through-the-lens metaphor: taxonomy and application"
+    },
+    {
+      "paperId": "7e64f539d7f525e0be1f16753532d3affca8b6fc",
+      "title": "Exploring the past: a toolset for visualization of historical events in virtual environments"
+    },
+    {
+      "paperId": "75931f1c24c3596cd89dc12e93582c2377424a5e",
+      "title": "A framework for unifying presentation space"
+    },
+    {
+      "paperId": "59d7b17d4a6421aa11cd5942a2b535d928f49be5",
+      "title": "A magnification lens for interactive volume visualization"
+    },
+    {
+      "paperId": "3c0713905c671643632c18b3b66805152157901f",
+      "title": "Effective eye-gaze input into Windows"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "504691cd4dcb4dd9028616bd5f68454b0cbadcc9",
+      "title": "Debugging lenses: a new class of transparent tools for user interface debugging"
+    },
+    {
+      "paperId": "904307d9d136945ba623f00076f3ac8994043329",
+      "title": "Extending Distortion Viewing from 2D to 3D"
+    },
+    {
+      "paperId": "50e3e1b34d6d2ba4ad958e39e2805d13274d9f05",
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms"
+    },
+    {
+      "paperId": "e39767c4d6cf8dabbab11242202b8d98581e4995",
+      "title": "Techniques for non-linear magnification transformations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "8dd6008a1fecd877825876264922d23d5b4ee668",
+      "title": "Graphical fisheye views"
+    },
+    {
+      "paperId": "212f73b617702bf8f6e55bd25e40e193cd304b1b",
+      "title": "Magicsphere: an insight tool for 3D data visualization"
+    },
+    {
+      "paperId": "2ef57952a80189d14a3d697d77a13b080917dbe0",
+      "title": "A review and taxonomy of distortion-oriented presentation techniques"
+    },
+    {
+      "paperId": "96d8707229de6694a0cb38b363aa7e33fe4f9cb0",
+      "title": "Toolglass and Magic Lenses: The See-Through Interface"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "b4842ed8336b888d39b3df5f62fddc3ebeaf9723",
+      "title": "A taxonomy of see-through tools"
+    },
+    {
+      "paperId": "21d3e6dcfb3ac93c1124f09118bb636e959728af",
+      "title": "Cutaways and ghosting: satisfying visibility constraints in dynamic 3D illustrations"
+    },
+    {
+      "paperId": "2bce3652255bbd533973626bd7cfde23a57bd6c0",
+      "title": "Graphical fisheye views of graphs"
+    },
+    {
+      "paperId": "ba1962830434448b3cc4fd63eb561fd3816febc5",
+      "title": "What you look at is what you get: eye movement-based interaction techniques"
+    },
+    {
+      "paperId": "ce0aaccdaee522962cea78e843d16b52e3b400e4",
+      "title": "CHI ' 95 MOSAIC OF CREATIVITY"
+    },
+    {
+      "paperId": "e4c461f5f37b93ea40eeea7a75d6ad6501793cea",
+      "title": "Illustrative Focus+Context Approaches in Interactive Volume Visualization"
+    },
+    {
+      "paperId": "41450f78132f6320e664b635ea29ce12c2f1914e",
+      "title": "3 D Magic Lenses"
+    },
+    {
+      "paperId": "c52d9c3d2689bd9ebbafc804292c497bf2e553ec",
+      "title": "Scientific Visualization: The Visual Extraction of Knowledge from Data"
+    },
+    {
+      "paperId": "c26209722d9e0f881eb3f4b90727ed4bf0e08350",
+      "title": "Nonlinear perspective projections and magic lenses: 3D view deformation"
+    },
+    {
+      "paperId": null,
+      "title": "Real-Time Rendering of 3D Magic Lenses Having Arbitrary Convex Shapes A Solution for the Focus and Context Problem in Geo-Virtual Environments"
+    },
+    {
+      "paperId": "17c43e616776a83b9f22eb7463e81e1bb50be05d",
+      "title": "Screen Magni\ufb01ers: Evolution and Evaluation"
+    },
+    {
+      "paperId": null,
+      "title": "The Generalized DetailInContext Prob"
+    },
+    {
+      "paperId": null,
+      "title": "EWCP13] TangibleRings as intuitive tangible interfaces for nestable lenses"
+    },
+    {
+      "paperId": null,
+      "title": "HS04] Timeboxes: Movable filter tools for querying time series"
+    },
+    {
+      "paperId": null,
+      "title": "VTS * 09] Design considerations for tabletop interaction tech- niques"
+    },
+    {
+      "paperId": null,
+      "title": "BWB06] Improved selection of small targets on multi-touch screens with dual finger interaction techniques"
+    },
+    {
+      "paperId": null,
+      "title": "BCN11] Undistort lens: Locally undistort representations that have been modified by global distortion techniques"
+    },
+    {
+      "paperId": null,
+      "title": "PA08, PBA10] Sigma lenses: Using space, translucence, and time for transitions between focus and context"
+    },
+    {
+      "paperId": null,
+      "title": "BLC12] Modern multi-touch techniques for interacting with stacked graphs of multivariate time-series"
+    },
+    {
+      "paperId": null,
+      "title": "Elm05] BalloonProbe: Interactive reduction of occlusion problems in 3D visualization scenes"
+    },
+    {
+      "paperId": null,
+      "title": "SSRG11] Feature tracking with lens-like handheld devices for large display walls. [SBD12] Head-coupled perspective with tangible views"
+    },
+    {
+      "paperId": null,
+      "title": "SSD09, SBWD13] PaperLens and tangible displays: passive and active tangible views tracked above the tabletop"
+    },
+    {
+      "paperId": null,
+      "title": "UvK13] Magic lenses for hypergraphs: Querying graph structures with hyperedges using interactive lenses"
+    },
+    {
+      "paperId": null,
+      "title": "SHER99] Interactive 3D lens: Enhancing 3D glyph-based visual representations"
+    },
+    {
+      "paperId": null,
+      "title": "MCH * 09] Bring & Go: Rearranging graph vertices for quick nav- igation"
+    },
+    {
+      "paperId": null,
+      "title": "SFR01] Time Lens: Comparing different points in time for understanding spatio-temporal data"
+    },
+    {
+      "paperId": null,
+      "title": "CLP04] Higher magnification: New functions that improve magnification while maintaining context"
+    },
+    {
+      "paperId": null,
+      "title": "HLTE11] SemLens: Analyzing scatter plots with combinable semantic lenses"
+    },
+    {
+      "paperId": null,
+      "title": "YKSJ07] Categorization of interaction techniques according to user intents"
+    },
+    {
+      "paperId": null,
+      "title": "TAvHS06, TAS09] Graph lenses: Supporting graph exploration through lens techniques"
+    },
+    {
+      "paperId": null,
+      "title": "TSAA12] Time Lens: Enhancing the visualization of spatial movements with temporal aspects"
+    },
+    {
+      "paperId": null,
+      "title": "Shn96] Taxonomy of visualization based on data types and tasks. [SSS02] Taxonomy of the through-the-lens metaphor"
+    },
+    {
+      "paperId": null,
+      "title": "Fur86] The theory behind degree of interest for focus+context ap- proaches"
+    },
+    {
+      "paperId": null,
+      "title": "WGK10] A textbook explaining foundations, techniques, and applications of visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Using tangibles as handles for virtual lenses in AR. [LGB07] Tangible lens with flexible bendable shape in AR. [RK14] Multi-touch interaction for data visualization"
+    },
+    {
+      "paperId": null,
+      "title": "STSD10] Tangible views: Interactive visualization lenses made tangible"
+    },
+    {
+      "paperId": null,
+      "title": "WKS07] Optical Magic Lenses: Using real lenses to control virtual lenses"
+    },
+    {
+      "paperId": null,
+      "title": "Fox98] A generic model for composing multiple lens functions via delegation, rather than inheritance"
+    },
+    {
+      "paperId": null,
+      "title": "MTHG03] Magic Volumes: Focus+context visualization of 3D flow data"
+    },
+    {
+      "paperId": null,
+      "title": "Tangible interaction to bridge the gap between cyberspace and physical world. [Jac90] Eye movement-based interaction techniques"
+    },
+    {
+      "paperId": null,
+      "title": "TFS08] Smart lenses: Integrating lenses into the data state reference model of visualization"
+    },
+    {
+      "paperId": null,
+      "title": "RCBBL07] Pointing Lenses: Easier selection of small targets"
+    },
+    {
+      "paperId": null,
+      "title": "SSND11] Multimodal gaze-supported interaction"
+    },
+    {
+      "paperId": null,
+      "title": "KE12] Embodied lenses: physical interaction with sheets of foil with applications to multi-dimensional data visualization"
+    },
+    {
+      "paperId": null,
+      "title": "FS95] Composing movable filters for enhanced dynamic query- ing"
+    },
+    {
+      "paperId": null,
+      "title": "SB92, SB94] Fisheye Views: Classic focus+context with application to visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Tom11] A model for event-based concepts and visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Analysis of transparent tangibles on tabletops and their advantages for precision"
+    },
+    {
+      "paperId": null,
+      "title": "Lens interaction"
+    },
+    {
+      "paperId": null,
+      "title": "PPCP12] JellyLens: Lens that adapts its shape to features in visual representations"
+    },
+    {
+      "paperId": null,
+      "title": "EBZ * 12] Design considerations for workspaces with large highresolution displays"
+    },
+    {
+      "paperId": null,
+      "title": "KAP11] FingerGlass: Interactive, bimanual touch-based lens interaction via ring objects"
+    },
+    {
+      "paperId": null,
+      "title": "Lan00] Magnification lenses in gaze-based interaction. [LSST11] Head-tracking for lens interactions in front of large high-resolution displays"
+    },
+    {
+      "paperId": null,
+      "title": "PPCP13] Gimlenses: Drilling holes into complex 3D models to uncover details"
+    },
+    {
+      "paperId": null,
+      "title": "BEK * 03] Screen magnifiers: A review of techniques for magnifying screen content"
+    },
+    {
+      "paperId": null,
+      "title": "Hau06] A generalized view on focus+context in visualization. [Kea98] Generalization of the focus within context problem"
+    },
+    {
+      "paperId": null,
+      "title": "IIH * 13] A research agenda for visualization on interactive sur- faces"
+    },
+    {
+      "paperId": null,
+      "title": "PBKE11] EdgeAnalyser: Support edge grouping and insight into properties of groups of edges"
+    },
+    {
+      "paperId": null,
+      "title": "FS05] DTLens: Multi-user, multi-lens magnification on tabletops. [Gut02] Speed-coupled flattening: Improving focus targeting in fisheye lenses"
+    },
+    {
+      "paperId": null,
+      "title": "YCB05] Models for nonlinear perspective distortion and lenses for 3D scenes"
+    },
+    {
+      "paperId": null,
+      "title": "VCWP96] 3D Magic lenses: Extending magic lenses to the third dimension. [vHvW04] Graph abstraction lens: Combining semantic and geometric distortion for analyzing hierarchical graphs"
+    },
+    {
+      "paperId": null,
+      "title": "LHJ01] Lenses for magnifying focus regions in volume data. [LWG11] Facet Lens: Exploration of document data with multiple facets"
+    },
+    {
+      "paperId": null,
+      "title": "HTE11] MoleView: Rearranging graphical primitives of multivariate relational data with lenses"
+    },
+    {
+      "paperId": null,
+      "title": "JDK10] Network Lens: Representing data attributes in network structures"
+    },
+    {
+      "paperId": null,
+      "title": "A unified model for presentation spaces allowing for different presentation methods in a single interface"
+    },
+    {
+      "paperId": null,
+      "title": "Detail Lenses: Facilitating the understanding of navigation directions via detail maps for points of interest. [Kin10] SignalLens: Analyzing details in signal traces with a focus+context approach"
+    },
+    {
+      "paperId": null,
+      "title": "RHS05] Lenses for focus+context in geo-virtual environments. [RLE05] Temporal Magic Lens: Combining spatial and temporal aspects for visual analysis of video data"
+    },
+    {
+      "paperId": null,
+      "title": "CMS99] Model of the visualization process as a pipeline of data transformation stages"
+    },
+    {
+      "paperId": null,
+      "title": "WCG03] EdgeLens: Bending graph edges around a lens to reduce ambiguities"
+    },
+    {
+      "paperId": null,
+      "title": "KPW07] Eyepoint: Gaze and keyboard interaction for magnification lenses"
+    },
+    {
+      "paperId": null,
+      "title": "ADS05] Improving gaze-based interaction with the help of a fisheye lens"
+    }
+  ]
+}

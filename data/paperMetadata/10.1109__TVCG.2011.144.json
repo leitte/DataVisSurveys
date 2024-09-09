@@ -1,0 +1,430 @@
+{
+  "paperId": "1e554a1894a9d7f887cc5be41b0c06c029948fb0",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ShiraviSG12",
+    "MAG": "2132068130",
+    "DOI": "10.1109/TVCG.2011.144",
+    "CorpusId": 8271414,
+    "PubMed": "21876227"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1e554a1894a9d7f887cc5be41b0c06c029948fb0",
+  "title": "A Survey of Visualization Systems for Network Security",
+  "abstract": "Security Visualization is a very young term. It expresses the idea that common visualization techniques have been designed for use cases that are not supportive of security-related data, demanding novel techniques fine tuned for the purpose of thorough analysis. Significant amount of work has been published in this area, but little work has been done to study this emerging visualization discipline. We offer a comprehensive review of network security visualization and provide a taxonomy in the form of five use-case classes encompassing nearly all recent works in this area. We outline the incorporated visualization techniques and data sources and provide an informative table to display our findings. From the analysis of these systems, we examine issues and concerns regarding network security visualization and provide guidelines and directions for future researchers and visual system developers.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 88,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-08-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1313-1329",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Shiravi2012ASO,\n author = {H. Shiravi and A. Shiravi and A. Ghorbani},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1313-1329},\n title = {A Survey of Visualization Systems for Network Security},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2222432",
+      "name": "H. Shiravi"
+    },
+    {
+      "authorId": "2654977",
+      "name": "A. Shiravi"
+    },
+    {
+      "authorId": "1698268",
+      "name": "A. Ghorbani"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "ab802abdab70f6bf152742a36b9724190700606b",
+      "title": "The Elements of User Experience: User-Centered Design for the Web and Beyond"
+    },
+    {
+      "paperId": "979893b195b13bb87d6e48c469b4800e38a5f970",
+      "title": "IDS Alert Visualization and Monitoring through Heuristic Host Selection"
+    },
+    {
+      "paperId": "b37ee839cc4e9da023c40a1d67d054686612403a",
+      "title": "Visualizing graph dynamics and similarity for enterprise network security and management"
+    },
+    {
+      "paperId": "88059e452336b64362177d2fdbd54bda5995dff3",
+      "title": "A Multi-Phase Network Situational Awareness Cognitive Task Analysis"
+    },
+    {
+      "paperId": "53b65dbcceb68f10166e9fef6ae75101bef378fe",
+      "title": "Beautiful Visualization - Looking at Data Through the Eyes of Experts"
+    },
+    {
+      "paperId": "dc7458d1c74039ee763e47b2fe35035ab51ad9f9",
+      "title": "Visualization of complex attacks and state of attacked network"
+    },
+    {
+      "paperId": "2427489b89f0cae37d117df4f5ae63f99061e791",
+      "title": "Visualization is better! A comparative evaluation"
+    },
+    {
+      "paperId": "a161064d6f8960c8d494edda719b9d9a4652cb92",
+      "title": "Security visualization tools and IPv6 addresses"
+    },
+    {
+      "paperId": "364143be49af4fb3a2ef39c2ef6dc12363c52f33",
+      "title": "NetViewer: A Visualization Tool for Network Security Events"
+    },
+    {
+      "paperId": "94dbe94090888c2283f5659ced84167909b9dbff",
+      "title": "Existence Plots: A Low-Resolution Time Series for Port Behavior Analysis"
+    },
+    {
+      "paperId": "f564f573f80bbf30b947cde6dd9c2cfb8bddb242",
+      "title": "Large-Scale Network Monitoring for Visual Analysis of Attacks"
+    },
+    {
+      "paperId": "a6a4cab92f8fd30b94ceb147055c72678fa4b5d9",
+      "title": "Applied Security Visualization"
+    },
+    {
+      "paperId": "c93c768cb774f91a8c09a392032926fc2f1753fb",
+      "title": "Visual Analysis of Network Traffic for Resource Planning, Interactive Monitoring, and Interpretation of Security Threats"
+    },
+    {
+      "paperId": "00505afb06c21f5d6ff2b32e0a68a615532d4ae0",
+      "title": "SpiralView: Towards Security Policies Assessment through Visual Correlation of Network Resources with Evolution of Alarms"
+    },
+    {
+      "paperId": "099a59024738930851e5164167aba3c128ec6cd6",
+      "title": "SVision: A novel visual network-anomaly identification technique"
+    },
+    {
+      "paperId": "20efc2e9c0e1b109fbca0c4e4661b123468044c4",
+      "title": "Monitoring Network Traffic with Radial Traffic Analyzer"
+    },
+    {
+      "paperId": "1d1635b0b89c25af54bddad5e02075074f36eca2",
+      "title": "Enhancing Visual Analysis of Network Traffic Using a Knowledge Representation"
+    },
+    {
+      "paperId": "38f7d7b5e857f57a9818333a341ef2b847779934",
+      "title": "Bridging the Host-Network Divide: Survey, Taxonomy, and Solution"
+    },
+    {
+      "paperId": "2165420781169b14ed37e913b0e5f6812c249933",
+      "title": "VAST: visualizing autonomous system topology"
+    },
+    {
+      "paperId": "10896e21197655ce546d360b8f2e18f8253db63b",
+      "title": "BGP eye: a new visualization tool for real-time detection and analysis of BGP anomalies"
+    },
+    {
+      "paperId": "44d3e9e36301da71f06a0dd916665e103ef51ef7",
+      "title": "Visualizing DNS traffic"
+    },
+    {
+      "paperId": "07b25f0828a03a1e0bae5a1e4705c3407eb653c6",
+      "title": "Visualizing Internet Routing Changes"
+    },
+    {
+      "paperId": "8489218a605ffd98a2cb832774985a99b4092b5c",
+      "title": "The Perceptual Scalability of Visualization"
+    },
+    {
+      "paperId": "01c3c86c5d68765438c7e191c054c5f9750f4073",
+      "title": "Balancing Systematic and Flexible Exploration of Social Networks"
+    },
+    {
+      "paperId": "fc829470f15666dd43e5173ffdd81e8caf8ca6fc",
+      "title": "Visual correlation of network alerts"
+    },
+    {
+      "paperId": "1f9fc47eaba3dce6b05163318ef48f0a8b6b2bfe",
+      "title": "Countering security information overload through alert and packet visualization"
+    },
+    {
+      "paperId": "2c02e57f98854442dff67736412a49c7c6fdad94",
+      "title": "Focus-based filtering + clustering technique for power-law networks with small world phenomenon"
+    },
+    {
+      "paperId": "f182797f7f81e066bde55c0bbd261f1e1bc7a186",
+      "title": "Visualizing cyber attacks using IP matrix"
+    },
+    {
+      "paperId": "dcbc50a23785a7e568d37e84f5cf3c53547dff16",
+      "title": "Preserving the big picture: visual network traffic analysis with TNV"
+    },
+    {
+      "paperId": "5d0d884351ad1f44e413e03cf03c2b8cda86ce16",
+      "title": "Designing visualization capabilities for IDS challenges"
+    },
+    {
+      "paperId": "609330700199b8bc14cffdd9c8f6f579c0a4b049",
+      "title": "Visual correlation of host processes and network traffic"
+    },
+    {
+      "paperId": "0b8651737442ec30052724a68e85fefc4c941970",
+      "title": "Visual firewall: real-time network security monitor"
+    },
+    {
+      "paperId": "9fe265de1cfab7a97b5efd81d7d42b386b15f2b9",
+      "title": "IDS rainStorm: visualizing IDS alarms"
+    },
+    {
+      "paperId": "f9138c2aaad3e28f31a786919553e8f6ce0d0d9e",
+      "title": "Exploring three-dimensional visualization for intrusion detection"
+    },
+    {
+      "paperId": "162c2dd9616f0d7f37b57f6ce2a1cd357bdf85a3",
+      "title": "Closing-the-loop in NVisionIP: integrating discovery and search in security visualizations"
+    },
+    {
+      "paperId": "35b2637dea348b9a909802367843540c6611bd8f",
+      "title": "IDGraphs: intrusion detection and analysis using histographs"
+    },
+    {
+      "paperId": "afd1df9fbdbcdc984f68371101e81b86137b4c1c",
+      "title": "A user-centered look at glyph-based security visualization"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "5244c57b3af389cd08b160ac93e900f285e0411e",
+      "title": "Visual correlation for situational awareness"
+    },
+    {
+      "paperId": "12ce61adeb1eea80ee00aea699e3957b9b210b87",
+      "title": "Internet routing anomaly detection and visualization"
+    },
+    {
+      "paperId": "6a256d6aeddd83ab225ab8416b31f965bbfcc44d",
+      "title": "A visualization paradigm for network intrusion detection"
+    },
+    {
+      "paperId": "98fbd72cfd519be7bdb4858516529019c97e597e",
+      "title": "Visualizing network data for intrusion detection"
+    },
+    {
+      "paperId": "fb5a77ba5c57a05809c8ea39b2fb680ac9b634ed",
+      "title": "Real-time and forensic network data analysis using animated and coordinated visualization"
+    },
+    {
+      "paperId": "24f387d38dc1e8228f565e9b7a66643a9ea283ed",
+      "title": "Combining visual and automated data mining for near-real-time anomaly detection and analysis in BGP"
+    },
+    {
+      "paperId": "35d973544be1254e1e98dbf39dd18ccd738d663e",
+      "title": "Home-centric visualization of network traffic for security administration"
+    },
+    {
+      "paperId": "1ce6b0501affd812900b8b9a6f95734ce5b4fd22",
+      "title": "PortVis: a tool for port-based detection of security events"
+    },
+    {
+      "paperId": "a8314053db7b10337f78bede7d4341be5de53090",
+      "title": "SnortView: visualization system of snort logs"
+    },
+    {
+      "paperId": "5967b4e0ec1c99f1ca10b79f25c301c1dc45d5c7",
+      "title": "NVisionIP: netflow visualizations of system state for security situational awareness"
+    },
+    {
+      "paperId": "2de6277ce607091dc8e9a814f599c75d68689917",
+      "title": "VisFlowConnect: netflow visualizations of link relationships for security situational awareness"
+    },
+    {
+      "paperId": "c6ed53d8ecba6649419b954183c1f4f544c4887a",
+      "title": "Interactive Visualization of Small World Graphs"
+    },
+    {
+      "paperId": "cf92429b3278850ec0c39792ba2c0d0d2a0d22c7",
+      "title": "Detecting flaws and intruders with visual data analysis"
+    },
+    {
+      "paperId": "6ebf42b9844fbec0fb75be1846e58e43752e206c",
+      "title": "False Alarm Classification Model for Network-Based Intrusion Detection System"
+    },
+    {
+      "paperId": "4506f9343ab688171bcb3a1818f132b3b91588a5",
+      "title": "Comprehensive approach to intrusion detection alert correlation"
+    },
+    {
+      "paperId": "80d174d7d392e8916ca4dcc4e8e3c1b1e55e7cd7",
+      "title": "The Spinning Cube of Potential Doom"
+    },
+    {
+      "paperId": "5e982655b2f5b392b70613375906ba74780927ec",
+      "title": "Intrusion behavior detection through visualization"
+    },
+    {
+      "paperId": "21f99fe8866984f3bab1fef187236b81d78c55f9",
+      "title": "A high-level programming environment for packet trace anonymization and transformation"
+    },
+    {
+      "paperId": "405a9b3b5ae3946a453b8490057497513647f7d7",
+      "title": "Tudumi: information visualization system for monitoring and auditing computer logs"
+    },
+    {
+      "paperId": "2d8b151dc57b9af7d361c16d2589f9ab69d9d28a",
+      "title": "Interactive information visualization of a million items"
+    },
+    {
+      "paperId": "54985b0b8e02e41c14b7a359c9b8d74305a5a83c",
+      "title": "M2D2: A Formal Data Model for IDS Alert Correlation"
+    },
+    {
+      "paperId": "05aefdb3799fac32076dcd89f9ec6cd468afd16d",
+      "title": "Alert correlation in a cooperative intrusion detection framework"
+    },
+    {
+      "paperId": "ed1ddfbad3197e7b7fb42de3eb5785ee22e206b8",
+      "title": "Evaluating the effectiveness of spatial memory in 2D and 3D physical and virtual environments"
+    },
+    {
+      "paperId": "d54312d7a66819ae67356c6ae54f16d8b2cd7e5e",
+      "title": "Network intrusion visualization with NIVA, an intrusion detection visual analyzer with haptic integration"
+    },
+    {
+      "paperId": "c9bcf0934c78a3952c93c0cf43acd4585ee4c62c",
+      "title": "On the design and performance of prefix-preserving IP traffic trace anonymization"
+    },
+    {
+      "paperId": "8b5400e3a7b1bce9986c62258761c201060066f7",
+      "title": "A method to compress and anonymize packet traces"
+    },
+    {
+      "paperId": "3c1f860a678f3f6f33f2cbfdfa7dfc7119a57a00",
+      "title": "Aggregation and Correlation of Intrusion-Detection Alerts"
+    },
+    {
+      "paperId": "753831976c896a28bbb44571276ba12b2393cc3a",
+      "title": "Internet Anonymity: Problems and Solutions"
+    },
+    {
+      "paperId": "0bbc806dca4cbfed91fdde403915a5186d96d951",
+      "title": "3D or not 3D?: evaluating the effect of the third dimension in a document management system"
+    },
+    {
+      "paperId": "87960b3e8a0804123b6ef9237fd8ebdc6872c363",
+      "title": "Mapping semantic information in virtual space: dimensions, variance and individual differences"
+    },
+    {
+      "paperId": "87baa720a6673942412ecbbf77a62f9c4a1fc71b",
+      "title": "Anomaly-based intrusion detection: privacy concerns and other problems"
+    },
+    {
+      "paperId": "2d4f10ccd2503c37ec32aa0033d3e5b3559f4404",
+      "title": "Toward a Theory of Situation Awareness in Dynamic Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Re-Inventing Network Security. Palo Alto Networks. http://www.paloaltonetworks.com/literature/whitepapers/ Re-inventing-Net work-Security"
+    },
+    {
+      "paperId": null,
+      "title": "USC/ISI Network Traces"
+    },
+    {
+      "paperId": null,
+      "title": "The PREDICT website"
+    },
+    {
+      "paperId": "8946c865296780e2f8d7b78810990e63a8696c48",
+      "title": "Measuring the Complexity of Computer Security Visualization Designs"
+    },
+    {
+      "paperId": "166c140584afb66c8ab72197ee30058587cbe21c",
+      "title": "Visualizing Network Security Events Using Compound Glyphs from a Service-Oriented Perspective"
+    },
+    {
+      "paperId": "d095478f98ddbf142856326ce1b6de6c773dcda4",
+      "title": "NetBytes Viewer: An Entity-Based NetFlow Visualization Utility for Identifying Intrusive Behavior"
+    },
+    {
+      "paperId": "4c6aba8438fa23db938b9589129f6aa37e6c8f27",
+      "title": "Visualization of Host Behavior for Network Security"
+    },
+    {
+      "paperId": "c5a96be1a4a77b07ea7b056948d0e7d1022edc22",
+      "title": "Security data visualization"
+    },
+    {
+      "paperId": "d143a75c834797a51d3946e0b514a39fdddcac2a",
+      "title": "\u7dcf\u8ad6;\u7dcf\u8ad6;Introduction"
+    },
+    {
+      "paperId": "6af632a80a427b2eb042a74c21d9fee0046624f1",
+      "title": "Intrusion and Misuse Detection in Large-Scale Systems"
+    },
+    {
+      "paperId": null,
+      "title": "User Issues in Visual Monitoring Environments"
+    },
+    {
+      "paperId": "f194179371aa37b0deca3b0ab8704823a31cee4e",
+      "title": "On Pseudonymization of Audit Data for Intrusion Detection"
+    },
+    {
+      "paperId": "8fcb6ecc38969c73f1bed862ad1675536ceaf423",
+      "title": "Pseudonymous audit for privacy enhanced intrusion detection"
+    },
+    {
+      "paperId": "7431c48e82b247ab0a45ba0f8fa804ceff1eac33",
+      "title": "Journal of Graph Algorithms and Applications Visualizing Interdomain Routing with Bgplay"
+    },
+    {
+      "paperId": "92f0e38ca94915a74f0dad0fe2fd4267d1e3cf65",
+      "title": "ABSTRACT Case Study: Interactive Visualization for Internet Security"
+    },
+    {
+      "paperId": "cc18339611802bb59e6f48c87cb67e77a8392afd",
+      "title": "Visualization Viewpoints Editor: Theresa-Marie Rhyne Why Not Make Interfaces Better than 3D Reality? ______"
+    },
+    {
+      "paperId": "2bbe7a6ef6d828002c31d02f7d6fbab0fc36caa9",
+      "title": "The Advanced Computing Systems Association Proceedings of the Workshop on Intrusion Detection and Network Monitoring an Eye on Network Intruder-administrator Shootouts an Eye on Network Intruder-administrator Shootouts"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "paperId": "12e5980d64c6532f09da34c3cdf40704a996092a",
+  "externalIds": {
+    "PubMedCentral": "9580861",
+    "DBLP": "journals/fbinf/Weiskopf22",
+    "DOI": "10.3389/fbinf.2022.793819",
+    "CorpusId": 246871295,
+    "PubMed": "36304261"
+  },
+  "publicationVenue": {
+    "id": "9b181043-c6ef-4dd7-bdbf-d8c5b29eba2b",
+    "name": "Frontiers in Bioinformatics",
+    "alternate_names": [
+      "Front Bioinform"
+    ],
+    "issn": "2673-7647",
+    "url": "https://www.frontiersin.org/journals/bioinformatics"
+  },
+  "url": "https://www.semanticscholar.org/paper/12e5980d64c6532f09da34c3cdf40704a996092a",
+  "title": "Uncertainty Visualization: Concepts, Methods, and Applications in Biological Data Visualization",
+  "abstract": "This paper provides an overview of uncertainty visualization in general, along with specific examples of applications in bioinformatics. Starting from a processing and interaction pipeline of visualization, components are discussed that are relevant for handling and visualizing uncertainty introduced with the original data and at later stages in the pipeline, which shows the importance of making the stages of the pipeline aware of uncertainty and allowing them to propagate uncertainty. We detail concepts and methods for visual mappings of uncertainty, distinguishing between explicit and implict representations of distributions, different ways to show summary statistics, and combined or hybrid visualizations. The basic concepts are illustrated for several examples of graph visualization under uncertainty. Finally, this review paper discusses implications for the visualization of biological data and future research directions.",
+  "venue": "Frontiers in Bioinformatics",
+  "year": 2022,
+  "referenceCount": 81,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fbinf.2022.793819/pdf",
+    "status": "GOLD"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "publicationDate": "2022-02-17",
+  "journal": {
+    "name": "Frontiers in Bioinformatics",
+    "volume": "2"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Weiskopf2022UncertaintyVC,\n author = {D. Weiskopf},\n booktitle = {Frontiers in Bioinformatics},\n journal = {Frontiers in Bioinformatics},\n title = {Uncertainty Visualization: Concepts, Methods, and Applications in Biological Data Visualization},\n volume = {2},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "69863469",
+      "name": "D. Weiskopf"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "11c732c9c054108dc7d5ee2304b8d45ce8da6e65",
+      "title": "Visualizing Uncertainty in Probabilistic Graphs with Network Hypothetical Outcome Plots (NetHOPs)"
+    },
+    {
+      "paperId": "c51d9f8d940a8517d9e23f90aaa391d1573dbac2",
+      "title": "A framework for uncertainty-aware visual analytics of proteins"
+    },
+    {
+      "paperId": "a57349375d053dc77172f130e59faf57a20c52fb",
+      "title": "Recent advances and challenges in uncertainty visualization: a survey"
+    },
+    {
+      "paperId": "0726d52570363d129ddafada4b81a6b3a7340c92",
+      "title": "Uncertain About Uncertainty: How Qualitative Expressions of Forecaster Confidence Impact Decision-Making With Uncertainty Visualizations"
+    },
+    {
+      "paperId": "fcbe8c1c50ca6bf868c791620b81cc2b2b3d65ea",
+      "title": "Uncertainty in Continuous Scatterplots, Continuous Parallel Coordinates, and Fibers"
+    },
+    {
+      "paperId": "80e4c5e8b9e2bf5de140c759975c6d0ba324a969",
+      "title": "Data-Driven Space-Filling Curves"
+    },
+    {
+      "paperId": "b7b0f5888cfb3f4f4cd7015214b1223670eb0e4a",
+      "title": "Uncertainty Visualisation: An Interactive Visual Survey"
+    },
+    {
+      "paperId": "6dcc2e58b53eeed2ea89433099192f8657b10fd1",
+      "title": "Uncertainty Visualization"
+    },
+    {
+      "paperId": "51f98a0d1fc6788d1ab46b1429b643e087b52d0f",
+      "title": "Visualization and Visual Analysis of Ensemble Data: A Survey"
+    },
+    {
+      "paperId": "99a48cf62b747e9ae2cb0239b1ad431d046943d8",
+      "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment"
+    },
+    {
+      "paperId": "4bf2c0ccd75be41d36455949eb8906910404fe1c",
+      "title": "Uncertainty-Aware Principal Component Analysis"
+    },
+    {
+      "paperId": "ec5a0718d3f820e73c7b51101c7e409a7f2edd11",
+      "title": "Hypothetical Outcome Plots Help Untrained Observers Judge Trends in Ambiguous Data"
+    },
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "565f606e5b39baf4295964014550a3f5ccad3656",
+      "title": "Uncertainty Visualization for Secondary Structures of Proteins"
+    },
+    {
+      "paperId": "9f24369ed71a9da8bff80bbf30c796daf9308c81",
+      "title": "Input Controls for Entering Uncertain Data: Probability Distribution Sliders"
+    },
+    {
+      "paperId": "e0d8aba53b7929bb400d997a69450bdd20b625a7",
+      "title": "A taxonomy of visualization tasks for the analysis of biological pathway data"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "5b74ebb02ca70d16d1c42f0a16bd56310fd87796",
+      "title": "Uncertainty in Phylogenetic Tree Estimates"
+    },
+    {
+      "paperId": "3236682d17ca396d9546c2c21cf8b6f75dcd5c8c",
+      "title": "muView: A Visual Analysis System for Exploring Uncertainty in Myocardial Ischemia Simulations"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "217e74e5e6c5378305d0e9956c839a4cd1ff16c7",
+      "title": "Multi-Charts for Comparative 3D Ensemble Visualization"
+    },
+    {
+      "paperId": "eb60688b48e142c96c1b957ae57210496ead7676",
+      "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves"
+    },
+    {
+      "paperId": "074ec716e8c481514f0c15e2714306b444dda0a1",
+      "title": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error"
+    },
+    {
+      "paperId": "83fed083fd5ca9c0e5fed1dae263cae4a45cf881",
+      "title": "The Perception of Visual UncertaintyRepresentation by Non-Experts"
+    },
+    {
+      "paperId": "dd5976c0c6818bda55e94be7a0494915248d5040",
+      "title": "Uncertainty in medical visualization: Towards a taxonomy"
+    },
+    {
+      "paperId": "e606c9b49a125f68bf688ce6e5f366c70c316b21",
+      "title": "Visualizing Fuzzy Overlapping Communities in Networks"
+    },
+    {
+      "paperId": "45405968bdd742978d71ada62e38523202bf44a8",
+      "title": "Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles"
+    },
+    {
+      "paperId": "032a5bea9bcbb10496b69d9613dc95badd4906b7",
+      "title": "HiFiVE: A Hilbert Space Embedding of Fiber Variability Estimates for Uncertainty Modeling and Visualization"
+    },
+    {
+      "paperId": "b4f8b6bff8ef2bee0f265065c692a648e6053f68",
+      "title": "Fighting against uncertainty: an essential issue in bioinformatics"
+    },
+    {
+      "paperId": "836b2ae1e8693b230cdd5fc7a15e2a809f278291",
+      "title": "Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "e0833220c257bdf31fd99261576cc7d4129adbc1",
+      "title": "Visualizing Flow of Uncertainty through Analytical Processes"
+    },
+    {
+      "paperId": "9b5a5039f74c4d49e802f851e23d98d438b1cd90",
+      "title": "Uncertainty-aware visual analysis of biochemical reaction networks"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "ca6a9e18f77526eab865a25bdcffe9528ed20f9d",
+      "title": "Illustrative uncertainty visualization of DTI fiber pathways"
+    },
+    {
+      "paperId": "3ebc551dfea6cf763721af47f0e4f590025c4ac3",
+      "title": "Expanding the Frontiers of Visual Analytics and Visualization"
+    },
+    {
+      "paperId": "5999da65c7138cdb41f880fc87e4ee13cd5de517",
+      "title": "Visualizing uncertainty in biological expression data"
+    },
+    {
+      "paperId": "c7b79cbb3cceffe7dc87c355097a82aefee6cd88",
+      "title": "Flow Radar Glyphs&#8212;Static Visualization of Unsteady Flow with Uncertainty"
+    },
+    {
+      "paperId": "0c515961c9b49c993c609b37ae1a242193706a7a",
+      "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures"
+    },
+    {
+      "paperId": "797398141e7061be5e834765733b8a7c1349b269",
+      "title": "Progressive Splatting of Continuous Scatterplots and Parallel Coordinates"
+    },
+    {
+      "paperId": "7a758dcc84c79d8bb9df85cff7ff098b0ddc3275",
+      "title": "Uncertainty-aware video visual analytics of tracked moving objects"
+    },
+    {
+      "paperId": "eee930533b539d872d7777aa6e7fa767b1fa6822",
+      "title": "Visual Analysis of Large Graphs: State\u2010of\u2010the\u2010Art and Future Research Challenges"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "c4b1ef4c1c04ba5240cfdfe189a90436bd81dca0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Visualizing Summary Statistics and Uncertainty"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "a04042b1c970c7ed6420b59ebb80018843891e3b",
+      "title": "A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets"
+    },
+    {
+      "paperId": "40c16c9fde25ef038e5f95b59a75aff11f64c962",
+      "title": "Continuous Parallel Coordinates"
+    },
+    {
+      "paperId": "4416182788c3f176bc25ecb388873a7d02870cb8",
+      "title": "Uncertainty visualization: why might it fail?"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "1516732f1bc51b26ca501fd5e692e0a80b0ddcb1",
+      "title": "Global topological features of cancer proteins in the human interactome"
+    },
+    {
+      "paperId": "5e33e59f05cc77e97195f1c0ec8dfdc10b9df8bd",
+      "title": "Theoretical analysis of uncertainty visualizations"
+    },
+    {
+      "paperId": "1102df06d8372cdceaa98ad835c72efcf6748f36",
+      "title": "Researchers misunderstand confidence intervals and standard error bars."
+    },
+    {
+      "paperId": "08b43d84e6747e370ef307e2ada50675b414514a",
+      "title": "Survey of clustering algorithms"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "b6e56c126729531a066ca51e402222e30c1269a3",
+      "title": "A survey of fuzzy clustering algorithms for pattern recognition. I"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "dbb7d0c31c5ba3d2e555c34a1d21edef235c3eae",
+      "title": "Visualizing spatial data uncertainty using animation"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "6b2a08d0085c5513c76fb110fb4c7b554eee9344",
+      "title": "30 Years of Multidimensional Multivariate Visualization"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "4dd421fed4c009bba72c821efb23730b26f82b16",
+      "title": "The plane with parallel coordinates"
+    },
+    {
+      "paperId": "50ffe37ee2882d9593d7f2b13464611a31c63377",
+      "title": "Quantitative Methods for Uncertainty Visualization"
+    },
+    {
+      "paperId": "6770dd8186625c228424a7bef3d8ceb051ec8218",
+      "title": "Uncertainty in the DTI Visualization Pipeline"
+    },
+    {
+      "paperId": "ae2dd12aecd2145ee80ff47dcc13eaf01177b47c",
+      "title": "Uncertainty-aware visualization techniques"
+    },
+    {
+      "paperId": "bcbfd96098803f3530779fbb9b7eba772d1fc24d",
+      "title": "Nonlinear Dimensionality Reduction"
+    },
+    {
+      "paperId": "26cb8e808ec4f9f116560efdf11a0499b198723c",
+      "title": "Nonlinear Dot Plots"
+    },
+    {
+      "paperId": "4c08ab49881e7f1ff5f77e6f52da58a424df133b",
+      "title": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "paperId": "53dd7149c2dc681823a7f9eb8598533a5dad3735",
+      "title": "Overview and State-of-the-Art of Uncertainty Visualization"
+    },
+    {
+      "paperId": "b85ccac3e7c217416263edcc6c55db508b5c4c0d",
+      "title": "State of the Art of Parallel Coordinates"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "0f8b881fb1810d80d7381e0c6f476316862376d1",
+      "title": "The Influence of Uncertainty Visualization on Decision Making: An Empirical Evaluation"
+    },
+    {
+      "paperId": null,
+      "title": "Dot Plots. The Am"
+    },
+    {
+      "paperId": null,
+      "title": "Graph Drawing: Algorithms for the Visualization of Graphs"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    }
+  ]
+}

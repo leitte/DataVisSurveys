@@ -1,0 +1,548 @@
+{
+  "paperId": "9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+  "externalIds": {
+    "MAG": "2149498749",
+    "DBLP": "conf/vissym/IsaacsGJGB0HB14",
+    "DOI": "10.2312/eurovisstar.20141177",
+    "CorpusId": 224946
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/9208eda379f2f11c2ed5643e4356d0e1d982a3a4",
+  "title": "State of the Art of Performance Visualization",
+  "abstract": "Performance visualization comprises techniques that aid developers and analysts in improving the time and energy efficiency of their software. In this work, we discuss performance as it relates to visualization and survey existing approaches in performance visualization. We present an overview of what types of performance data can be collected and a categorization of the types of goals that performance visualization techniques can address. We develop a taxonomy for the contexts in which different performance visualizations reside and describe the state of the art research pertaining to each. Finally, we discuss unaddressed and future challenges in performance visualization.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2014,
+  "referenceCount": 115,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "",
+    "pages": "141-160",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Isaacs2014StateOT,\n author = {Katherine E. Isaacs and Alfredo Gim\u00e9nez and Ilir Jusufi and T. Gamblin and A. Bhatele and M. Schulz and B. Hamann and P. Bremer},\n booktitle = {Eurographics Conference on Visualization},\n pages = {141-160},\n title = {State of the Art of Performance Visualization},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "39814985",
+      "name": "Katherine E. Isaacs"
+    },
+    {
+      "authorId": "31074563",
+      "name": "Alfredo Gim\u00e9nez"
+    },
+    {
+      "authorId": "2810989",
+      "name": "Ilir Jusufi"
+    },
+    {
+      "authorId": "144895818",
+      "name": "T. Gamblin"
+    },
+    {
+      "authorId": "1823585",
+      "name": "A. Bhatele"
+    },
+    {
+      "authorId": "1772965",
+      "name": "M. Schulz"
+    },
+    {
+      "authorId": "145187362",
+      "name": "B. Hamann"
+    },
+    {
+      "authorId": "145466013",
+      "name": "P. Bremer"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8477b4d9e90fc866818857ef2698813ad3e7de01",
+      "title": "Visualizing Request-Flow Comparison to Aid Performance Diagnosis in Distributed Systems"
+    },
+    {
+      "paperId": "630b40549e7b971ed006a2f93cb276ee707c2f41",
+      "title": "A data-centric profiler for parallel programs"
+    },
+    {
+      "paperId": "1573c5d12580286e3ba34185fbd25c8c043e2416",
+      "title": "Visualizing jobs with shared resources in distributed environments"
+    },
+    {
+      "paperId": "35bd15bb5eec71e5e7b9fdc525910d2fbcccb236",
+      "title": "SYNCTRACE: Visual thread-interplay analysis"
+    },
+    {
+      "paperId": "8b9ebf6e0b71256dcd317fc2db3d1c7dac88a001",
+      "title": "Synchrovis: 3D visualization of monitoring traces in the city metaphor for analyzing concurrency"
+    },
+    {
+      "paperId": "ece84a462853368c21a570a73707d857bf0e10b4",
+      "title": "Visualizing Large\u2010scale Parallel Communication Traces Using a Particle Animation Technique"
+    },
+    {
+      "paperId": "893ba38f3e8479c3abae2ff068ce1d6b21199d5e",
+      "title": "A Visual Approach to Investigating Shared and Global Memory Behavior of CUDA Kernels"
+    },
+    {
+      "paperId": "9a4e61ccaeea4f4b89172a07047445a4f6ae6efb",
+      "title": "A Visual Network Analysis Method for Large-Scale Parallel I/O Systems"
+    },
+    {
+      "paperId": "bb192d3266bf60b07b1f17b16fac75d87d677178",
+      "title": "Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations"
+    },
+    {
+      "paperId": "dffde2f5723937fb1b8712afcfbb9d747ec3cb71",
+      "title": "Abstract: Exploring Performance Data with Boxfish"
+    },
+    {
+      "paperId": "a58197e666f31006985d289198bbc8d39ff10960",
+      "title": "Novel views of performance data to analyze large-scale adaptive applications"
+    },
+    {
+      "paperId": "7463c5b4ff4d2d000c2b1edd4bb501018af2194f",
+      "title": "Enabling event tracing at leadership-class scale through I/O forwarding middleware"
+    },
+    {
+      "paperId": "28b85a154ed5d743e0fdd46f5971d16c35a1abbf",
+      "title": "Abstract visualization of runtime memory behavior"
+    },
+    {
+      "paperId": "7c5fbb7f07122cd414dd9314a5562a0cf63c5bfd",
+      "title": "Interpreting Performance Data across Intuitive Domains"
+    },
+    {
+      "paperId": "b35121069bbd6fded1d05cd0933bead4dd825ac0",
+      "title": "Anywhere, any-time binary instrumentation"
+    },
+    {
+      "paperId": "dbe3eacac3d70c0cc018ada9a82233a21908c3d6",
+      "title": "An Approach to Creating Performance Visualizations in a Parallel Profile Analysis Tool"
+    },
+    {
+      "paperId": "a2e21974e8117c80dfe026d65608754c2ba1ef14",
+      "title": "Visual analysis of I/O system behavior for high-end computing"
+    },
+    {
+      "paperId": "8ccc106372f3d16d307588872d825b280984a788",
+      "title": "Scalable fine-grained call path tracing"
+    },
+    {
+      "paperId": "04a89952a571d05aab5a212b7583cfa00f1634b8",
+      "title": "Visualizing windows system traces"
+    },
+    {
+      "paperId": "1ac71e1f7a721bc67f6a6ce860c1fc3793d980a5",
+      "title": "Understanding complex multithreaded software systems by using trace visualization"
+    },
+    {
+      "paperId": "efe0411f1492c6a3dce2b4bc1bc278340ca3608b",
+      "title": "Heapviz: Interactive heap visualization for program understanding and debugging"
+    },
+    {
+      "paperId": "973b1a241f92d78b9450f01b1878d3b1be899ea0",
+      "title": "Zinsight: a visual and analytic environment for exploring large event traces"
+    },
+    {
+      "paperId": "26a3bb1b0555e7b4459c4f8fe831b3f830fa6b3b",
+      "title": "Trevis: a context tree visualization & analysis framework and its use for classifying performance failure reports"
+    },
+    {
+      "paperId": "ec8b8146041ccf88ecceaff5cb52b3255066e0b2",
+      "title": "Towards anomaly comprehension: using structural compression to navigate profiling call-trees"
+    },
+    {
+      "paperId": "5a002f5a2a017cbefa16fc08a860d3966184b583",
+      "title": "Triva: Interactive 3D visualization for performance analysis of parallel applications"
+    },
+    {
+      "paperId": "1c7431cbd517c39a0c804cfe13fc69d469ff8840",
+      "title": "hwloc: A Generic Framework for Managing Hardware Affinities in HPC Applications"
+    },
+    {
+      "paperId": "490f09cb26a1d489ddeece7257327584e8f3bca9",
+      "title": "VAMPIR: Visualization and Analysis of MPI Resources"
+    },
+    {
+      "paperId": "3de8a8dd43a2c61562b62b6aba8042a426d0577d",
+      "title": "Visualizing massively multithreaded applications with ThreadScope"
+    },
+    {
+      "paperId": "08067057e84f8dff14d75d29b8e041f6a4cb7e54",
+      "title": "Scalable temporal order analysis for large scale debugging"
+    },
+    {
+      "paperId": "3c3abe3d8519b3637223ab9e518b459d5218a903",
+      "title": "Visual Analysis of Inter-Process Communication for Large-Scale Parallel Computing"
+    },
+    {
+      "paperId": "ec9367e849c2333484e28fe1b6fc7d990ac2a9f8",
+      "title": "Visualizing Large-Scale Streaming Applications"
+    },
+    {
+      "paperId": "fdb07cf00c649de44370978b74c66d62b31d57a1",
+      "title": "Stacked-widget visualization of scheduling-based algorithms"
+    },
+    {
+      "paperId": "05693811b9f93be0af71fb1bf75b3b74cb5687b9",
+      "title": "Towards scalable performance analysis and visualization through data reduction"
+    },
+    {
+      "paperId": "5a9922148d820c5c775a1d8d54906d273e671aa2",
+      "title": "Detecting Application Load Imbalance on High End Massively Parallel Systems"
+    },
+    {
+      "paperId": "7bfddeabd2d9c8e2fa6a3fe41780628ec800728a",
+      "title": "Understanding Execution Traces Using Massive Sequence and Circular Bundle Views"
+    },
+    {
+      "paperId": "95fb844804a63c14899aecab511bd545e334a9bf",
+      "title": "Visualizing Dynamic Memory Allocations"
+    },
+    {
+      "paperId": "112c4fa8a35d16b04831c43cdd19538249d0ecc1",
+      "title": "Valgrind: a framework for heavyweight dynamic binary instrumentation"
+    },
+    {
+      "paperId": "4ab8ed423e61c68c26d2fe3b506b61f78f03fe25",
+      "title": "Scalable Thread Visualization for Debugging Data Races in OpenMP Programs"
+    },
+    {
+      "paperId": "53101c5ca9365631dcb165e3f12e07bce8eade99",
+      "title": "Visualising dynamic memory allocators"
+    },
+    {
+      "paperId": "a90218cc063ec8f7213743d1089b118fc4f10eaf",
+      "title": "The Tau Parallel Performance System"
+    },
+    {
+      "paperId": "4b4206231c6e4ffc4dd4594ea0974556e55a8fd8",
+      "title": "Scaling applications to massively parallel machines using Projections performance analysis tool"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "6f82ed756c6d01373484ba9858dbd2f2badc0589",
+      "title": "Visualizing structural properties of irregular parallel computations"
+    },
+    {
+      "paperId": "8cf10c8b230cecca0c06dc968c19b96c2671d02b",
+      "title": "Visualization of mobile object environments"
+    },
+    {
+      "paperId": "1f0526247a8b393b981abbe539faf3e20390d860",
+      "title": "A Tool Suite for Simulation Based Analysis of Memory Access Behavior"
+    },
+    {
+      "paperId": "f6902d0248cf9d3eb6ea25468ea91597afba266e",
+      "title": "Event-based Program Analysis with DeWiz"
+    },
+    {
+      "paperId": "f0d8e1fbf7b91432d139515563421baac5a0f1a2",
+      "title": "KOJAK - A Tool Set for Automatic Performance Analysis of Parallel Programs"
+    },
+    {
+      "paperId": "f90b3311f55d10c6c9fa3771b1973c0d491ecaed",
+      "title": "Visualization of distributed processes using \"Data Jewelry Box\" algorithm"
+    },
+    {
+      "paperId": "bd6e790d0a37eae3c617e2bc1e1866bb7f3630eb",
+      "title": "Interactive locality optimization on NUMA architectures"
+    },
+    {
+      "paperId": "53a45b0c7792657f2d1e120f17fdd00c943e424b",
+      "title": "Growing squares: animated visualization of causal relations"
+    },
+    {
+      "paperId": "09ec25b52531e8d92f53f1b97d12bdb2f9433a61",
+      "title": "A task oriented view of software visualization"
+    },
+    {
+      "paperId": "24db1ba3e93f44f44d4dcec321adf097445402a8",
+      "title": "A visualization tool for analyzing cluster performance data"
+    },
+    {
+      "paperId": "c7787b57135635fac82c9d5468eb0bf95bf7dab3",
+      "title": "Visualizing the Memory Access Behavior of Shared Memory Applications on NUMA Architectures"
+    },
+    {
+      "paperId": "ca39868bb82ed84b7984a9625fb74c18bf1f6da6",
+      "title": "Visualizing Mobile Agent Executions"
+    },
+    {
+      "paperId": "a19e49c707ca49c6e3458aa21fcdb005894ca6e8",
+      "title": "Paj\u00e9, an interactive visualization tool for tuning multi-threaded parallel applications"
+    },
+    {
+      "paperId": "a9877f0db4c6052d62f9cf97bdd34639ce96cef2",
+      "title": "Virtue: Performance Visualization of Parallel and Distributed Applications"
+    },
+    {
+      "paperId": "8fc0623a28cc193927cd012bd8daac5e6cad75d3",
+      "title": "Toward Scalable Performance Visualization with Jumpshot"
+    },
+    {
+      "paperId": "98c7b6154ac274d0313c8de3d642542fd604a5ff",
+      "title": "SUIF Explorer: an interactive and interprocedural parallelizer"
+    },
+    {
+      "paperId": "92fc54cf497704bb8184faed0dbcfccbfadebf2b",
+      "title": "PVaniM: a tool for visualization in network computing environments"
+    },
+    {
+      "paperId": "8951f5bd0bee75e13ee9d8256f99a594cb539963",
+      "title": "Visualizing Interactions in Program Executions"
+    },
+    {
+      "paperId": "643619a3aa5b770dbee2ee837f3320922d232048",
+      "title": "VisuaLinda: a framework for visualizing parallel Linda programs"
+    },
+    {
+      "paperId": "f0949f88557bd072f739b42550d712e3e93632f0",
+      "title": "Integrated Visualization of Parallel Program Performance Data"
+    },
+    {
+      "paperId": "bea319a3ed0bc0eb96a6041ba116263c9c173817",
+      "title": "Displaying Trace Files"
+    },
+    {
+      "paperId": "1996ac019995e6056695eb8c0000c36ba8314cab",
+      "title": "The PVM 3.4 tracing facility and XPVM 1.1"
+    },
+    {
+      "paperId": "b3e355ab4092b10d6f6ba02a6c428a756b754fd0",
+      "title": "Performance measurement, visualization and modeling of parallel and distributed programs using the AIMS toolkit"
+    },
+    {
+      "paperId": "1d57bf18ced375b4967986decc6403a1f9198aca",
+      "title": "Falcon: on-line monitoring and steering of large-scale parallel programs"
+    },
+    {
+      "paperId": "4f5832dc79d50d72c02900cb3ba82075aeaf7588",
+      "title": "The Ariadne debugger: scalable application of event-based abstraction"
+    },
+    {
+      "paperId": "b780a38fe4f4237b2c788b110fbffc90e359cd27",
+      "title": "Scalable performance analysis: the Pablo performance analysis environment"
+    },
+    {
+      "paperId": "77d1a758b4536b46b2f64e5ca0e8b34adf74ddfc",
+      "title": "SIEVE: A Performance Debugging Environment for Parallel Programs"
+    },
+    {
+      "paperId": "d47eaceec0cbed9e6be518944581ae8413257d21",
+      "title": "A Methodology for Building Application-Specific Visualizations of Parallel Programs"
+    },
+    {
+      "paperId": "1aa9dfb2103575937c4865bb46ec82644fca6896",
+      "title": "The Visualization of Parallel Systems: An Overview"
+    },
+    {
+      "paperId": "91f62adb4f200d229c208f790c25562381611d3a",
+      "title": "Logical time in visualizations produced by parallel programs"
+    },
+    {
+      "paperId": "00725eab90c90f0330d663bb41d7270c6126fc6f",
+      "title": "Visualizing code profiling line oriented statistics"
+    },
+    {
+      "paperId": "32651a79c8f0d48fcdf9e14095a0ca6a9b24230b",
+      "title": "Visualization of Message Passing Parallel Programs"
+    },
+    {
+      "paperId": "e9d9f161cb126e9c31eec3b43be8c43852b534e7",
+      "title": "Using visualization tools to understand concurrency"
+    },
+    {
+      "paperId": "38279e92bf9591f907e30a33511d04f6e49f0992",
+      "title": "Animating work and time for debugging parallel programs foundation and experience"
+    },
+    {
+      "paperId": "c445ecbb7fc41275029be2decdd7d6da5769db69",
+      "title": "Debugging parallel programs using sound"
+    },
+    {
+      "paperId": "5192120731b6c3038302d1bc89a1230a80579a38",
+      "title": "Visualizing the performance of parallel programs"
+    },
+    {
+      "paperId": "90afb2c016f528bb595672584cb459525dfef898",
+      "title": "Traceview: A Trace Visualization Tool"
+    },
+    {
+      "paperId": "bedf896330cc906c1beab86e5a2fd39b9c6b944d",
+      "title": "Visualizing computer memory architectures"
+    },
+    {
+      "paperId": "a82ec06aafc026e58bc7a88fd4f0882a16b86362",
+      "title": "Real-time Visualization of Concurrent Processes"
+    },
+    {
+      "paperId": "16b00c87a1d86e728e15f8999f37c2bb3356985f",
+      "title": "Analyzing Parallel Program Executions Using Multiple Views"
+    },
+    {
+      "paperId": "300eb8882cc0470525c3b0d447535a89cf43ce65",
+      "title": "Presentation tools for performance visualization: the M31 instrumentation experience"
+    },
+    {
+      "paperId": "f220392a2cd3afc897692e3bacc4c89912aae3c6",
+      "title": "Visualizing performance debugging"
+    },
+    {
+      "paperId": "fbb8ea7b5bb5b07024e56a35b17d78bfc6801fbd",
+      "title": "The Programmer's Guide to Moviola: An Interactive Execution History Browser"
+    },
+    {
+      "paperId": "ec9f86253f6f6b1b2d81855a699e78da75399c7a",
+      "title": "A graphical representation of concurrent processes"
+    },
+    {
+      "paperId": "831b0fe8f1f2cbf696e72d51177dd03cc1a809ee",
+      "title": "Initial experiences with a pattern-oriented parallel debugger"
+    },
+    {
+      "paperId": "593619c2a69391454eae1f5ebe75fb8fc7e77e9d",
+      "title": "Time, clocks, and the ordering of events in a distributed system"
+    },
+    {
+      "paperId": null,
+      "title": "The Eurographics Association"
+    },
+    {
+      "paperId": null,
+      "title": "Kuck Outstanding PhD Thesis Award in 2011. Recently, a paper that he co-authored with LLNL and external collaborators was selected for a best paper award at IPDPS in"
+    },
+    {
+      "paperId": "b57e040ad12f78d38596da3e09b471d11e604bc9",
+      "title": "Custom Hot Spot Analysis of HPC Software with the Vampir Performance Tool Suite"
+    },
+    {
+      "paperId": "e782fa49d1172514f757f9333e2f35cca14d8813",
+      "title": "Large-scale performance analysis of PFLOTRAN with Scalasca"
+    },
+    {
+      "paperId": "b99af00327dcce8e6dbe06c0d3ac40304cbc4d33",
+      "title": "HPCTOOLKIT: tools for performance analysis of optimized parallel programs"
+    },
+    {
+      "paperId": "fc116a4d4cba1baa154d297930982b6b3c6ea6a8",
+      "title": "The Scalasca performance toolset architecture"
+    },
+    {
+      "paperId": "547abec6cff6b89559432af983642ea3e1002dcf",
+      "title": "Visualizing massively multithreaded applications with ThreadScope"
+    },
+    {
+      "paperId": null,
+      "title": "Optimizing Parallel Applications Using Concurrency Visualizer: A Case Study"
+    },
+    {
+      "paperId": null,
+      "title": "He has received several awards for his dissertation work including the David J"
+    },
+    {
+      "paperId": null,
+      "title": "Instruction-based sampling: A new performance analysis technique for amd family 10h processors"
+    },
+    {
+      "paperId": "a19dc85770c32e138aa8e0fb7e621f1c836421de",
+      "title": "PARAVER: A Tool to Visualize and Analyze Parallel Code"
+    },
+    {
+      "paperId": null,
+      "title": "Bremer / State of the Art of Performance Visualization Modeling and Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "VTune Performance Analyzer Essentials: Measurement and Tuning Techniques for Software Developers"
+    },
+    {
+      "paperId": "6380767cebfd1bc18bf9f3592ccb05bfd8d2d8cb",
+      "title": "TraceVis: An Execution Trace Visualization Tool"
+    },
+    {
+      "paperId": "dc144cc2ba7a1c0e357d41b8f045bdc68a8e24b8",
+      "title": "gprof: a call graph execution profiler"
+    },
+    {
+      "paperId": null,
+      "title": "EPILOG Binary Tracedata Format"
+    },
+    {
+      "paperId": null,
+      "title": "Int07] INTEL: Intel 64 and IA-32 Architectures Software Developer's Manual -Volume 3B. Intel Corporation"
+    },
+    {
+      "paperId": null,
+      "title": "Computer Scientist at the Center for Applied Scientific Computing (CASC) at Lawrence Livermore National Laboratory (LLNL)"
+    },
+    {
+      "paperId": "c44fe08db24dc683420e4629d093d642cc9a084f",
+      "title": "Using visualization to understand the behavior of computer systems"
+    },
+    {
+      "paperId": "d32d4ff33b1b2665d6081194eb6acdc3c7dd6891",
+      "title": "PAPI: A Portable Interface to Hardware Performance Counters"
+    },
+    {
+      "paperId": null,
+      "title": "Almost : Exploring Program Traces"
+    },
+    {
+      "paperId": "c31c7aa0fc09520ab09c23e1d79071d002c967d8",
+      "title": "Creating an accurate portrayal of concurrent executions"
+    },
+    {
+      "paperId": "55f89b9c52b46d28e0bc375b31182bd3156831e4",
+      "title": "VAMPIR: Visualization and Analysis of MPI Resources"
+    },
+    {
+      "paperId": "ecbec066c50ed1de6ba045e137b07fe5bf6949af",
+      "title": "The Visualization of Dynamic Memory Management in the Icon Programming Language"
+    },
+    {
+      "paperId": "92e3ac8e4450de764fac2a649fb3857c912173b6",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Interactive Visualization for Memory Reference Traces"
+    },
+    {
+      "paperId": "ca21f882f55f230b80a181398928105935edd4f3",
+      "title": "Los Alamos Title: Graph Visualization for the Analysis of the Structure and Dynamics of Extreme-scale Supercomputers Graph Visualization for the Analysis of the Structure and Dynamics of Extreme-scale Supercomputers"
+    },
+    {
+      "paperId": null,
+      "title": "She completed a B.S. in computer science and a B.A. in mathematics at San Jos\u00e9 State University and a B.S. in physics at the California Institute of Technology"
+    }
+  ]
+}

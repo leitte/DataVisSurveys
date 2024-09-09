@@ -1,0 +1,655 @@
+{
+  "paperId": "19506c84d8983ede6e783def5013c8bc463dd351",
+  "externalIds": {
+    "DBLP": "conf/vissym/BeyerHP14",
+    "MAG": "1145740201",
+    "DOI": "10.2312/eurovisstar.20141175",
+    "CorpusId": 8121483
+  },
+  "publicationVenue": {
+    "id": "fec1e1ad-3ba6-4f6f-96e5-c262ada5b009",
+    "name": "Eurographics Conference on Visualization",
+    "type": "conference",
+    "alternate_names": [
+      "EuroVis",
+      "Gr Conf Vis"
+    ],
+    "url": "https://diglib.eg.org/handle/10.2312/392"
+  },
+  "url": "https://www.semanticscholar.org/paper/19506c84d8983ede6e783def5013c8bc463dd351",
+  "title": "A Survey of GPU-Based Large-Scale Volume Visualization",
+  "abstract": "This survey gives an overview of the current state of the art in GPU techniques for interactive large-scale volume visualization. Modern techniques in this \ufb01eld have brought about a sea change in how interactive visualization and analysis of giga-, tera-, and petabytes of volume data can be enabled on GPUs. In addition to combining the parallel processing power of GPUs with out-of-core methods and data streaming, a major enabler for interactivity is making both the computational and the visualization effort proportional to the amount and resolution of data that is actually visible on screen, i.e., \u201coutput-sensitive\u201d algorithms and system designs. This leads to recent output-sensitive approaches that are \u201cray-guided,\u201d \u201cvisualization-driven,\u201d or \u201cdisplay-aware.\u201d In this survey, we focus on these characteristics and propose a new categorization of GPU-based large-scale volume visualization techniques based on the notions of actual output-resolution visibility and the current working set of volume bricks\u2014the current subset of data that is minimally required to produce an output image of the desired display resolution. For our purposes here, we view parallel (distributed) visualization using clusters as an orthogonal set of techniques that we do not discuss in detail but that can be used in conjunction with what we discuss in this survey.",
+  "venue": "Eurographics Conference on Visualization",
+  "year": 2014,
+  "referenceCount": 146,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "",
+    "volume": ""
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Beyer2014ASO,\n author = {Johanna Beyer and Markus Hadwiger and H. Pfister},\n booktitle = {Eurographics Conference on Visualization},\n title = {A Survey of GPU-Based Large-Scale Volume Visualization},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "47273741",
+      "name": "Johanna Beyer"
+    },
+    {
+      "authorId": "1761518",
+      "name": "Markus Hadwiger"
+    },
+    {
+      "authorId": "143758236",
+      "name": "H. Pfister"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1583030b5a9a7fcfc07d58a8ee53b60ea6357f56",
+      "title": "An analysis of scalable GPU-based ray-guided volume rendering"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "c2adb138674a7f75ade139d0e56d7a8e83f0803e",
+      "title": "Real-time 3D reconstruction at scale using voxel hashing"
+    },
+    {
+      "paperId": "d31e49826f582868b52aa1c8b35785f2deb22871",
+      "title": "Exploring the Connectome: Petascale Volume Visualization of Microscopy Data Streams"
+    },
+    {
+      "paperId": "55bc391c63412bb107ebecd3e25c552b70e78c4e",
+      "title": "VDB: High-resolution sparse volumes with dynamic topology"
+    },
+    {
+      "paperId": "0506a27b573c83cfea9223835c2190b455ce66b6",
+      "title": "Cellular-resolution connectomics: challenges of dense neural circuit reconstruction"
+    },
+    {
+      "paperId": "ad5751cb93af2d5ca6d82d413c69c80cbe070e09",
+      "title": "Why not connectomics?"
+    },
+    {
+      "paperId": "a8da840d0541ee532c8d7eb85ad00fa4f379a726",
+      "title": "A Survey of Visualization Pipelines"
+    },
+    {
+      "paperId": "01eaea75849646e34b05b44440420142c0e4b196",
+      "title": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach"
+    },
+    {
+      "paperId": "509f4a29499687ff1f0e3af5a00c0149aee66448",
+      "title": "An Adaptive Prediction-Based Approach to Lossless Compression of Floating-Point Volume Data"
+    },
+    {
+      "paperId": "99a8bf1a5a64dbfa5be0c9e10556e5bee0fc0a5d",
+      "title": "Oh, $#*@! Exascale! The Effect of Emerging Architectures on Scientific Discovery"
+    },
+    {
+      "paperId": "5010134d701ba63dc6a27ffcc4fd83b4d78876ad",
+      "title": "Sparse PDF maps for non-linear multi-resolution image operations"
+    },
+    {
+      "paperId": "94114d1004e0dc81988a5b8225702b0adeaaf259",
+      "title": "High Performance Visualization - Enabling Extreme-Scale Scientific Insight"
+    },
+    {
+      "paperId": "03f1ea03516749860856449a64e62def7ebf5e08",
+      "title": "Virtual texturing in software and hardware"
+    },
+    {
+      "paperId": "2b3311039a5c7fd63fed628c2a2faf1e5cf9ccf3",
+      "title": "Representing appearance and pre-filtering subpixel data in sparse voxel octrees"
+    },
+    {
+      "paperId": "53efa805f683a5dcbf4932524e7e5a0452e5978c",
+      "title": "CERA-TVR: A framework for interactive high-quality teravoxel volume visualization on standard PCs"
+    },
+    {
+      "paperId": "8541610a197a9e7edfae07f27ec3023e5d9367f2",
+      "title": "Examples of in transit visualization"
+    },
+    {
+      "paperId": "0fb6afe3655a7bd7c383ec58addf0b1474893b5f",
+      "title": "Demand-driven volume rendering of terascale EM data"
+    },
+    {
+      "paperId": "6a786cef580f565d42972c3e0a0adc7deb1afb7e",
+      "title": "Sort-First Parallel Volume Rendering"
+    },
+    {
+      "paperId": "5a1df60eb027944b04812f2a919295c9b4ea8619",
+      "title": "Interactive visualization of volumetric data with WebGL in real-time"
+    },
+    {
+      "paperId": "691d0afcaf5f6779a01830ae563aedb5bcab8d9a",
+      "title": "A preview and exploratory technique for large-scale scientific simulations"
+    },
+    {
+      "paperId": "247f830a308cbcfd4fe23e0674aa90ca8ac1115f",
+      "title": "Display-aware image editing"
+    },
+    {
+      "paperId": "1103f46b77bed0f597e7289ee54073d5190853a9",
+      "title": "Interactive editing of massive imagery made simple: Turning Atlanta into Atlantis"
+    },
+    {
+      "paperId": "124dabf0da002ec1aa44eabd3885cd80873d304c",
+      "title": "Network anatomy and in vivo physiology of visual cortical neurons"
+    },
+    {
+      "paperId": "d0dd588ae534beb74ebb4c3d441a24f29de3bd9f",
+      "title": "Full-resolution interactive CPU volume rendering with coherent BVH traversal"
+    },
+    {
+      "paperId": "e262b3b46edc4388e927482493bd30fcc582b338",
+      "title": "Interactive Histology of Large-Scale Biomedical Image Stacks"
+    },
+    {
+      "paperId": "ef60eb32b95ba07fd01fa62d1a5150a18ea9ce0d",
+      "title": "Large data visualization on distributed memory multi-GPU clusters"
+    },
+    {
+      "paperId": "3412d33a5c68501c6a2084c9156656f179691290",
+      "title": "Efficient Rendering of Highly Detailed Volumetric Scenes with Giga Voxels"
+    },
+    {
+      "paperId": "f2edcc0f651376f5acb80d282ed4887e55107b43",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Streaming-enabled Parallel Dataflow Architecture for Multicore Systems"
+    },
+    {
+      "paperId": "b648bd94707753eea794e7a00326dd39b7078045",
+      "title": "Cross-Node Occlusion in Sort-Last Volume Rendering"
+    },
+    {
+      "paperId": "3b639b6e5d93355db845a18ae0a181c0746b2c77",
+      "title": "Extreme Scaling of Production Visualization Software on Diverse Architectures"
+    },
+    {
+      "paperId": "72714fcb5a9018b4d3b9a49e1a4a4489fc351946",
+      "title": "Efficient Sparse Voxel Octrees"
+    },
+    {
+      "paperId": "efd558a2e0e03c2517d156496ab0fe85cb576ec8",
+      "title": "Ray casting of multiple volumetric datasets with polyhedral boundaries on manycore GPUs"
+    },
+    {
+      "paperId": "0891b8dccaf7eacab45653a5a69bf7b8c2270440",
+      "title": "Scalable and Interactive Segmentation and Visualization of Neural Processes in EM Datasets"
+    },
+    {
+      "paperId": "3f6e94751255c31b675910a8621ad88f49d0cd27",
+      "title": "BrainGazer - Visual Queries for Neurobiology Research"
+    },
+    {
+      "paperId": "25eb08e6985ded20ae723ec668014a2bad789e0f",
+      "title": "Kd-Jump: a Path-Preserving Stackless Traversal for Faster Isosurface Raytracing on GPUs"
+    },
+    {
+      "paperId": "69a4969bcc70811ce3d1a1eb665a3b2bdc47d993",
+      "title": "Beyond triangles: gigavoxels effects in video games"
+    },
+    {
+      "paperId": "1d05027ea16ce3ce6874a687f121a1409c1bfd30",
+      "title": "Accelerating Volume Raycasting using Proxy Spheres"
+    },
+    {
+      "paperId": "5b2ff5d88c87ac4af9dd18ef9bbcac4e0fa8ac09",
+      "title": "GigaVoxels: ray-guided streaming for efficient and detailed voxel rendering"
+    },
+    {
+      "paperId": "8f3c1bf9dfeddfafc689ec765e8382740a3f2daf",
+      "title": "Equalizer: A Scalable Parallel Rendering Framework"
+    },
+    {
+      "paperId": "4e377f3e6442f25bec34b3fa04c4473fc394aefe",
+      "title": "Petascale visualization: Approaches and initial results"
+    },
+    {
+      "paperId": "9b2a71c0b54ffaae89663ee11f065855826cd900",
+      "title": "An outlook into ultra-scale visualization of large-scale biological data"
+    },
+    {
+      "paperId": "7043fe4444efd11898fa867c6d4375e25e506381",
+      "title": "High-speed volume ray casting with CUDA"
+    },
+    {
+      "paperId": "c41d7eb6bf85b5c060ed07185f147b89d494b578",
+      "title": "Smooth Mixed-Resolution GPU Volume Rendering"
+    },
+    {
+      "paperId": "4d5a1d2b31e54fa64abdf2170e4e8b9a900af177",
+      "title": "Accelerating Volume Raycasting using Occlusion Frustums"
+    },
+    {
+      "paperId": "eeec367a1c7a04b4ec9ba66070beb3fc19245d72",
+      "title": "Output-Sensitive 3D Line Integral Convolution"
+    },
+    {
+      "paperId": "fbdfdb0e204c3d7fd43175cb2297c09280aaeab8",
+      "title": "Parallel and Streaming Generation of Ghost Data for Structured Grids"
+    },
+    {
+      "paperId": "6f40356a3c57f1f588b89de7be85a0e077d76bdf",
+      "title": "High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions"
+    },
+    {
+      "paperId": "36de2eb0d75a946b88cbfb343778a52a0e84e3be",
+      "title": "Stackless KD\u2010Tree Traversal for High Performance GPU Ray Tracing"
+    },
+    {
+      "paperId": "01d385ca1aa0e70be37d7c1c98a4cc72296a85e6",
+      "title": "Scalable sort-first parallel direct volume rendering with dynamic load balancing"
+    },
+    {
+      "paperId": "cd1dd45dcee7c44a513befd3e00b6dfc3b34ee95",
+      "title": "Interactive k-d tree GPU raytracing"
+    },
+    {
+      "paperId": "2bbf413f36f366fa73da4dc028a32131b5d205d6",
+      "title": "A Survey of General\u2010Purpose Computation on Graphics Hardware"
+    },
+    {
+      "paperId": "ab65d6b92b20e5ccad3d4191b66e8c6133cbe10f",
+      "title": "Remote runtime steering of integrated terascale simulation and visualization"
+    },
+    {
+      "paperId": "b1c88f180d30c793bdf7cce3cf81e6458f23c0d2",
+      "title": "Distributed Shared Memory for Roaming Large Volumes"
+    },
+    {
+      "paperId": "cb1c6837e93434cdaf4e9433ca201df1f33010ae",
+      "title": "Real-time volume graphics"
+    },
+    {
+      "paperId": "caf3c5b9e386fe757ab0bc1d71294fed8ca5733e",
+      "title": "Optimized volume raycasting for graphics-hardware-based cluster systems"
+    },
+    {
+      "paperId": "766f406d8d8263a6dab20351d522c425515b47b4",
+      "title": "Perspective Isosurface and Direct Volume Rendering for Virtual Endoscopy Applications"
+    },
+    {
+      "paperId": "01be280c5fb8bb472e2d77ee7ec19b9f2b1c48d6",
+      "title": "Improving the Quality of Multi-resolution Volume Rendering"
+    },
+    {
+      "paperId": "b7214be92538e0f52d2b440856bc2c10e8a97705",
+      "title": "Distributed volume rendering on a visualization cluster"
+    },
+    {
+      "paperId": "e469243712875c701f3da1dd9e0bc860e3d1676d",
+      "title": "OpenGL(R) Shading Language (2nd Edition)"
+    },
+    {
+      "paperId": "eb9e98e998778d5b5aaa62b3e3cde361012d5605",
+      "title": "Query-driven visualization of large data sets"
+    },
+    {
+      "paperId": "1d6473d2a6be62c8d7000f87f39d8e782b5222d9",
+      "title": "VolumeShop: an interactive system for direct volume illustration"
+    },
+    {
+      "paperId": "1a88656a4fdb9989b503a8622273b5d8b9c4b64b",
+      "title": "A contract based system for large data visualization"
+    },
+    {
+      "paperId": "45b47c1ee8a55f16530b5b146f5131f9a23f8b38",
+      "title": "Real\u2010Time Ray\u2010Casting and Advanced Shading of Discrete Isosurfaces"
+    },
+    {
+      "paperId": "e7f8e47c485d2a4bd4287807f20364f962e73318",
+      "title": "KD-tree acceleration structures for a GPU raytracer"
+    },
+    {
+      "paperId": "c8797708379cd4cadc8bc9523b74f3125d6d09b0",
+      "title": "GPU-based object-order ray-casting for large datasets"
+    },
+    {
+      "paperId": "66fc42ccc26ee2dce9dd3f4bbe4b054e0df1b537",
+      "title": "A multiresolution volume rendering framework for large-scale time-varying data visualization"
+    },
+    {
+      "paperId": "b62b4750caf21bade1e86c025ee80968e044af8a",
+      "title": "A simple and flexible volume rendering framework for graphics-hardware-based raycasting"
+    },
+    {
+      "paperId": "98a0902df436e3133293ef7ddd5867646660bb8d",
+      "title": "Survey of Parallel and Distributed Volume Rendering: Revisited"
+    },
+    {
+      "paperId": "4f9f88acd95433767e3e76d34ccc1a9f55e09d9c",
+      "title": "Visibility culling for time-varying volume rendering using temporal occlusion coherence"
+    },
+    {
+      "paperId": "35dc47a17fcee8c15dc1eb52d678ff8c66b301fa",
+      "title": "Interactive exploration of large remote micro-CT scans"
+    },
+    {
+      "paperId": "70f693e5105413aae5182b98cd3acc8e588a8df1",
+      "title": "An interactive out-of-core rendering framework for visualizing massively complex models"
+    },
+    {
+      "paperId": "62a1b0f82c46349be47accd966543c6ebb306343",
+      "title": "Advanced techniques for high-quality multi-resolution volume rendering"
+    },
+    {
+      "paperId": "5d59b9d5c43d302e5bd215427fcc16942de04246",
+      "title": "Visibility culling using plenoptic opacity functions for large volume visualization"
+    },
+    {
+      "paperId": "4fed3a2c382752cb7e594c253ab95a7d9cdd2e17",
+      "title": "Acceleration techniques for GPU-based volume rendering"
+    },
+    {
+      "paperId": "5a273c125cbd95b86e4107d09ccbcbfd7ccc4d9a",
+      "title": "High-quality two-level volume rendering of segmented data sets on consumer graphics hardware"
+    },
+    {
+      "paperId": "0155cc6d16914b5c59654434620a52bc26d7d26b",
+      "title": "Empty space skipping and occlusion clipping for texture-based volume rendering"
+    },
+    {
+      "paperId": "c8c2eba9147d22a9687ba741397cdcf21d1a9e3f",
+      "title": "Real-Time Scale Selection in Hybrid Multi-scale Representations"
+    },
+    {
+      "paperId": "acbbaab68cdabc6a672a08092776c13855467380",
+      "title": "Smart Hardware-Accelerated Volume Rendering"
+    },
+    {
+      "paperId": "0ed80af62b58972735bc2b519cdc05b728f99dec",
+      "title": "Interactive rendering of large volume data sets"
+    },
+    {
+      "paperId": "c082533eb3506a2914b572831a904642d2964fd1",
+      "title": "Adaptive texture maps"
+    },
+    {
+      "paperId": "eeaab06c6e214da614c85e978cc9221cfbaf1c51",
+      "title": "Parallel volume rendering using PC graphics hardware"
+    },
+    {
+      "paperId": "4e3b172f369a27fcbf9e153520c208088d9bd073",
+      "title": "New techniques for efficient sliding thin-slab volume visualization"
+    },
+    {
+      "paperId": "e3b3a763da03112947f362bd13ef9df2bc9c60c2",
+      "title": "Multiresolution volume visualization with a texture-based octree"
+    },
+    {
+      "paperId": "05e7d88387ac7484397e329456535b0c8c665a16",
+      "title": "Level-of-Detail Volume Rendering via 3D Textures"
+    },
+    {
+      "paperId": "77b8eccf4af1619c309fc2ce56690a8d2b4e236b",
+      "title": "Optimized View Frustum Culling Algorithms for Bounding Boxes"
+    },
+    {
+      "paperId": "1e7e0d21e73b08105b36057c70aa82eabe34bf61",
+      "title": "Multiresolution techniques for interactive texture-based volume visualization"
+    },
+    {
+      "paperId": "00da819af2720a13c4bd80a9eba1244fa2896efc",
+      "title": "Interactive ray tracing for isosurface rendering"
+    },
+    {
+      "paperId": "cc311f9dbc4ad7b81872196e74e77650eeaa6a65",
+      "title": "Efficiently using graphics hardware in volume rendering applications"
+    },
+    {
+      "paperId": "eb3a7e6a6d17526843c1fa746177f69de4e6a2b4",
+      "title": "The clipmap: a virtual mipmap"
+    },
+    {
+      "paperId": "d5df6dfe70aaa6a8cff48e2713bd4fc5de5a1094",
+      "title": "An interactive visual query environment for exploring data"
+    },
+    {
+      "paperId": "701bff25bfba883549d01b071cb715a53159a728",
+      "title": "Visibility culling using hierarchical occlusion maps"
+    },
+    {
+      "paperId": "56cc64d474dd9f3d87560a0db81d3e14e6146e54",
+      "title": "SCIRun: A Scientific Programming Environment for Computational Steering"
+    },
+    {
+      "paperId": "ff098c0199c5dc4fbc489881f1d334588e937f95",
+      "title": "High Dimensional Brushing for Interactive Exploration of Multivariate Data"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "29b20029c0cf16f0c5fe196ca2053a446dd8c8cf",
+      "title": "Accelerated volume rendering and tomographic reconstruction using texture mapping hardware"
+    },
+    {
+      "paperId": "6a22ddc3b7e1bdf806370c74720a94f150a212a4",
+      "title": "Communication costs for parallel volume-rendering algorithms"
+    },
+    {
+      "paperId": "8ca3e5ab1e7c6b7dbe0c34121e4fc356efe18144",
+      "title": "A sorting classification of parallel rendering"
+    },
+    {
+      "paperId": "6fd31e75f6248a6cef30fc5ef66ca5556bc24a62",
+      "title": "Accelerating Volume Reconstruction With 3D Texture Hardware"
+    },
+    {
+      "paperId": "cff4c0bf600d091701d2a48c4b6d633fc2686cea",
+      "title": "Hierarchical Z-buffer visibility"
+    },
+    {
+      "paperId": "07ad1c0ec4bb78ef4067139d8920cc399e00df9a",
+      "title": "Volume data and wavelet transforms"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "f5ec543d84bce8f553b3cf70f34d01160117aee0",
+      "title": "A simple output-sensitive algorithm for hidden surface removal"
+    },
+    {
+      "paperId": "ecea8cc9327866662856652c7ee623db5619a685",
+      "title": "Survey of Texture Mapping"
+    },
+    {
+      "paperId": "63ffc8b9e57ba55c4e4eb499c73b664238ff711f",
+      "title": "Pyramidal parametrics"
+    },
+    {
+      "paperId": "bccb4ff16f52113a93cde7025a82f581695beb19",
+      "title": "Computer Architecture - A Quantitative Approach, 5th Edition"
+    },
+    {
+      "paperId": "f5b516154907f65bcd92edf5e0bc4bedf8ede18b",
+      "title": "Ray Tracing with Rope Trees"
+    },
+    {
+      "paperId": "a7b22b28d707c1a4758e8b5c3d7ab0bc9b9dc8f5",
+      "title": "A Survey of Compressed GPU-Based Direct Volume Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "C ORPORATION : CUDA C Programming Guide"
+    },
+    {
+      "paperId": null,
+      "title": "Exascale! The Effect of Emerging Architectures on Scientific Discovery. 2012 SC Companion: High Performance Computing, Networking Storage and Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "AMD GPU Technical Publications: Partially Resident Textures (PRT) in the Graphics"
+    },
+    {
+      "paperId": "9e0e22ae4c7bc19a9128a93be9954f5b0e078791",
+      "title": "In situ data processing for extreme-scale computing"
+    },
+    {
+      "paperId": "5ca07a56725f8ae6c74778a86a4736ebaab6add6",
+      "title": "Efficient Sparse Voxel Octrees \u2013 Analysis, Extensions, and Implementation"
+    },
+    {
+      "paperId": null,
+      "title": "Report from the DOE ASCR 2011 Workshop on Exascale Data Management, Analysis, and Visualization"
+    },
+    {
+      "paperId": "931c53598f5f5fd3c184ef1652fda564c63b2362",
+      "title": "Tuvok, an Architecture for Large Scale Volume Rendering"
+    },
+    {
+      "paperId": "81d72a965dc7e48641ae8dc7e23249003cf93f71",
+      "title": "An Advanced Volume Raycasting Technique using GPU Stream Processing"
+    },
+    {
+      "paperId": "f95ca55b598d083bcfc31bf918b545e7c381bdba",
+      "title": "Ultrascale Visualization In Situ Visualization for Large-Scale Combustion Simulations"
+    },
+    {
+      "paperId": null,
+      "title": "GPU-based volume rendering for neuroscience and neurobiology She received a PhD in computer science from the Vienna University of Technology"
+    },
+    {
+      "paperId": "1b04e69630dc3767a34b4e1f167f48ef3aacd994",
+      "title": "OpenGL Shading Language"
+    },
+    {
+      "paperId": null,
+      "title": "id Tech 5 Challenges: From Texture Virtualization to Massive Parallelization"
+    },
+    {
+      "paperId": null,
+      "title": "Sparse Voxel Octree Ray Tracing on the GPU"
+    },
+    {
+      "paperId": null,
+      "title": "Next-Generation Visualization Technologies: Enabling Discoveries at Extreme Scale"
+    },
+    {
+      "paperId": "eea5787d6094c73db85ded57a058b94a7e08b8cc",
+      "title": "Real-time rendering, 3rd Edition"
+    },
+    {
+      "paperId": "08ac338c4c137a6b135dcba469851063fae6f3c2",
+      "title": "Optimization of Large-Scale , Real-Time Simulations by Spatial Hashing"
+    },
+    {
+      "paperId": "ba34a5452c9dbf096e20ec291ee8a996662b91dd",
+      "title": "Adaptive Sampling in Single Pass, GPU-based Raycasting of Multiresolution Volumes"
+    },
+    {
+      "paperId": "0a752a449a2e07a548c762f67264c91891b2e677",
+      "title": "Real Time Interactive Massive Model Visualization"
+    },
+    {
+      "paperId": "6cae86ee54f772cb76e5c3da03d306b52eabea17",
+      "title": "Optimizing GPU volume rendering"
+    },
+    {
+      "paperId": "62d11ce1844dee8ea1c11a6c1d74b4b221f63ff4",
+      "title": "A Survey of Octree Volume Rendering Methods"
+    },
+    {
+      "paperId": "cd5ad6e05e9e5c925b95b1e4c79927c48c8ef77e",
+      "title": "Efficient Methods for Direct Volume Rendering of Large Data Sets"
+    },
+    {
+      "paperId": "f0f25b7d2df2921c106884a0a74f8145c6e4b692",
+      "title": "Hierarchical Indexing for Out-of-Core Access to Multi-Resolution Data"
+    },
+    {
+      "paperId": null,
+      "title": "VisibilityBased Prefetching for Interactive Out-Of-Core Rendering"
+    },
+    {
+      "paperId": null,
+      "title": "Out-of-Core Algorithms for Scienti\ufb01c Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "50c16c9ecf11eaf11775e46bb880c595374f7d04",
+      "title": "Rendering and Visualization in Parallel Environments"
+    },
+    {
+      "paperId": "8b60ee0b50fd7fc23d1d62128fbe3e4bf10e0bd1",
+      "title": "A Framework for Interactive Hardware Accelerated Remote 3D-Visualization"
+    },
+    {
+      "paperId": "4ce063cd13b2c093c4d91142cf89fbc5052e5e52",
+      "title": "\u00c1\u00f2\u00f8\u00f8\u00f6\u00f6 Blockin\u00f8\u00f8\u00fa\u00fa \u00ce\u00f3\u00f0\u00f9\u00f1\u00f1 \u00ca\u00ea\u00f2\u00f2\u00f2\u00f6\u00f6\u00f2\u00f2 \u00d3\u00f2 \u00cb\u00f8\u00f8\u00f2\u00f2\u00f2\u00f6\u00f6 \u00c8\u00e8 \u00d6\u00f6\u00f4\u00f4\u00f4 Blockin\u00d7 \u00c0\u00e0\u00f6\u00f6\u00fb\u00f6\u00f6 \u00cd\u00d7\u00d7\u00f2\u00f2 \u00c5\u00f9\u00f0\u00f8\u00f8\u00b9\u00ec\u00fc\u00f8\u00f9\u00f6\u00f6\u00d7 \u00d2\u00f2 \u00c5\u00f9\u00f0\u00f8\u00f8\u00b9\u00eb\u00f8\u00f8\u00f8\u00f8 \u00ca\u00ea\u00d7\u00f8\u00f8\u00f6\u00f6\u00fe\u00fe\u00f8\u00f8\u00f3\u00f2"
+    },
+    {
+      "paperId": "012dd88d545011d56e7716678203c3c62b07b248",
+      "title": "Survey of Parallel Volume Rendering Algorithms"
+    },
+    {
+      "paperId": "7620a26cf2ffc6a4d634c7cde816d2f716904d26",
+      "title": "A Fast Voxel Traversal Algorithm for Ray Tracing"
+    },
+    {
+      "paperId": "6a303c536f82e7e54201b398ae53b13047460c1b",
+      "title": "Biography"
+    },
+    {
+      "paperId": null,
+      "title": "A Computer Oriented Geodetic Data Base and a New Technique in File Sequencing"
+    },
+    {
+      "paperId": "6a3b82b5464741c9b6b4852438278191cae9f9f0",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy Visualization and Visual Analysis of Multi-faceted Scientific Data: a Survey"
+    },
+    {
+      "paperId": null,
+      "title": "set determination: Ray-guided Volume representation: Multi-resolution grid Rendering: Multi-level virtual texture ray-casting"
+    },
+    {
+      "paperId": "d0d1999794f768a0aa38750dbae79fbd16bdfb19",
+      "title": ". Johanna,"
+    },
+    {
+      "paperId": null,
+      "title": "Hanspeter P\ufb01ster is An Wang Professor of Computer Science and Director of the Institute for Applied Computational"
+    },
+    {
+      "paperId": null,
+      "title": "Computational Science at the Harvard School of Engineering and Applied Sciences"
+    },
+    {
+      "paperId": "b481132d4a0b638aa0e228ed0d2a77e2b9acc748",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 2 a Streaming Narrow-band Algorithm: Interactive Computation and Visualization of Level Sets"
+    },
+    {
+      "paperId": null,
+      "title": "the Visual Computing Center at"
+    }
+  ]
+}
