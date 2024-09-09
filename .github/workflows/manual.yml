@@ -28,7 +28,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
     - name: Set up Python
@@ -49,4 +50,10 @@ jobs:
       with:
         name: posts
         path: posts
-        
+    - name: Deploy to Github Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./posts
+        destination_dir: ./docs/_posts
+        publish_branch: gh-pages
