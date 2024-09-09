@@ -41,7 +41,7 @@ for filename in os.listdir(directory):
                 authors = createAuthorsString(paperMetadata['authors'])
                 file.write(f"authors: {authors}\n")
                 file.write(f"venue: \"{paperMetadata['venue']}\"\n")
-                file.write(f"doi: {paperMetadata['externalIds']['DOI']}")
+                file.write(f"doi: {paperMetadata['externalIds']['DOI']}\n")
                 file.write('---\n')
                 abstract = paperMetadata.get('abstract','')
                 file.write(abstract.strip() if abstract else "")
