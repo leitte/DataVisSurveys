@@ -9,8 +9,13 @@ keywords_to_classes = {
     'taxonomy': ['taxonomy'],
     'survey': ['survey'],
     'review': ['review'],
-    'text and documents': ['text'],
-    'graph': ['graph', 'network', 'tree', 'edge']
+    'text and documents': [' text'],
+    'graph': ['graph', 'network', 'tree', 'edge', 'matrix', 'set'],
+    'software': ['algorithm', 'program', 'software'],
+    'high-dimensional': ['high-dimensional', 'dimension'],
+    'spatial data': ['volumne', 'surface', 'flow'],
+    'charts': ['task', 'chart', 'grammar', 'information visualization'],
+    'uncertainty': ['uncertain']
 }
 
 def loadPaperCategories (filepath):
