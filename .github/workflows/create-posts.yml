@@ -50,9 +50,9 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email {user.id}+{user.login}@users.noreply.github.com
-        git diff --quiet || echo "changes_detected"
+        git diff --quiet || echo "changes_detected=true" >> "$GITHUB_OUTPUT"
     - name: Commit and push changes
-      if: success() && steps.changes.outputs.changes_detected == 'true'
+      if: success() && ${{ steps.changes.outputs.changes_detected == 'true' }}
       run: |
         git add docs/_posts/*
         git commit -m "Add new files to gh-pages"
