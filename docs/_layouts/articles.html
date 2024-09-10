@@ -1,0 +1,16 @@
+---
+layout: framework
+sidebar: sidebar
+---
+
+<div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
+
+  <h1>Hello World</h1>
+  
+  {{ content }}
+
+  {% include views/pagination.html %}
+</div>
