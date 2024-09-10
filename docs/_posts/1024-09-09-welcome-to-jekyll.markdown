@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2024-09-09 09:37:32 +0200
+date:   1024-09-09 09:37:32 +0200
 categories: jekyll update
 tags: jekyll theme yat
 ---
