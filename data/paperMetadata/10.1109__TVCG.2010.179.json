@@ -1,0 +1,417 @@
+{
+  "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+  "externalIds": {
+    "MAG": "2157900633",
+    "DBLP": "journals/tvcg/SegelH10",
+    "DOI": "10.1109/TVCG.2010.179",
+    "CorpusId": 1603489,
+    "PubMed": "20975152"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+  "title": "Narrative Visualization: Telling Stories with Data",
+  "abstract": "Data visualization is regularly promoted for its ability to reveal stories within data, yet these \u201cdata stories\u201d differ in important ways from traditional forms of storytelling. Storytellers, especially online journalists, have increasingly been integrating visualizations into their narratives, in some cases allowing the visualization to function in place of a written story. In this paper, we systematically review the design space of this emerging class of visualizations. Drawing on case studies from news media to visualization research, we identify distinct genres of narrative visualization. We characterize these design differences, together with interactivity and messaging, in terms of the balance between the narrative flow intended by the author (imposed by graphical elements and the interface) and story discovery on the part of the reader (often through interactive exploration). Our framework suggests design strategies for narrative visualization, including promising under-explored approaches to journalistic storytelling and educational media.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2010,
+  "referenceCount": 86,
+  "openAccessPdf": {
+    "url": "http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1139-1148",
+    "volume": "16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Segel2010NarrativeVT,\n author = {E. Segel and Jeffrey Heer},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1139-1148},\n title = {Narrative Visualization: Telling Stories with Data},\n volume = {16},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "50652240",
+      "name": "E. Segel"
+    },
+    {
+      "authorId": "1803140",
+      "name": "Jeffrey Heer"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5619c926ca35b8fc9fd5852741b295bd5b18ccf4",
+      "title": "The Story Of Stuff"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "7f5608dd5b5f93fe682d305546797098d951771b",
+      "title": "Where did all the money go"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "59a3b7060e53d8cadf19e4e9301653302346bfa5",
+      "title": "Stories in GeoTime"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "d8d30ae096bf59dbc554f51cfa44f9e9efb2bba0",
+      "title": "The mind's eye: cognitive and applied aspects of eye movement research"
+    },
+    {
+      "paperId": "e8aad40212c41453d77ae471c4983373afcbb175",
+      "title": "Iran's nuclear programme"
+    },
+    {
+      "paperId": "c345f1a381f7dec616d346d90caf0b3329084ae9",
+      "title": "What storytelling can do for information visualization"
+    },
+    {
+      "paperId": "320b36777d57e772d88d278ceeccd1f5e746304c",
+      "title": "Computational modelling of visual attention"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "1605090de591c003d283de8602bbe3284d3c73b5",
+      "title": "Reading Images: The Grammar of Visual Design"
+    },
+    {
+      "paperId": "76361a44e145732a39dbc68d9418871038c83be2",
+      "title": "A feature-integration theory of attention"
+    },
+    {
+      "paperId": null,
+      "title": "Tableau Public. http://tableausoftware.com/public"
+    },
+    {
+      "paperId": null,
+      "title": "GDP Moves by Sector"
+    },
+    {
+      "paperId": null,
+      "title": "The Elements and Structure of Narrative"
+    },
+    {
+      "paperId": null,
+      "title": "Show Me: New ways of visualising data"
+    },
+    {
+      "paperId": null,
+      "title": "Shaun White\u2019s Double McTwist"
+    },
+    {
+      "paperId": null,
+      "title": "Guardian Science Team. Iran's Nuclear Programme. Guardian"
+    },
+    {
+      "paperId": null,
+      "title": "Formula One 2010: Driver's Rankings. Guardian, 2010. http://www.guardian.co.uk/sport/interactive"
+    },
+    {
+      "paperId": null,
+      "title": "The World Economy Turns the Corner"
+    },
+    {
+      "paperId": null,
+      "title": "Vancouver\u2019s Olympic Venue"
+    },
+    {
+      "paperId": null,
+      "title": "Budget Forecasts vs. Reality. The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "UK Voting Intentions. Guardian"
+    },
+    {
+      "paperId": null,
+      "title": "Oscars 2010: The Best Picture Nominees"
+    },
+    {
+      "paperId": null,
+      "title": "Toyota Timeline: A Company History. Fi- nancial Times"
+    },
+    {
+      "paperId": null,
+      "title": "Mapping Hydropower Hotspots across the UK. Guardian"
+    },
+    {
+      "paperId": null,
+      "title": "UK Economic Data. Financial Times"
+    },
+    {
+      "paperId": null,
+      "title": "Deadly Offensive : Taliban Attacks in Pakistan"
+    },
+    {
+      "paperId": null,
+      "title": "The Consumer and Retail Price Indices since 2006"
+    },
+    {
+      "paperId": null,
+      "title": "Lighting Up Hadrian's Wall. Guardian"
+    },
+    {
+      "paperId": null,
+      "title": "Alpine Skiing, from Technical Turns to Tucks and Speed"
+    },
+    {
+      "paperId": null,
+      "title": "Earthquakes: Why They Happen"
+    },
+    {
+      "paperId": null,
+      "title": "Toyota\u2019s Stick Accelerator Problem"
+    },
+    {
+      "paperId": null,
+      "title": "Analyzing Obama's Schedule. The Washington Post"
+    },
+    {
+      "paperId": null,
+      "title": "Net\ufb02ix Rentals"
+    },
+    {
+      "paperId": null,
+      "title": "Afghanistan: Behind the Front Line"
+    },
+    {
+      "paperId": null,
+      "title": "Banks \u2019 Earnings : How Compensation Relates to Performance"
+    },
+    {
+      "paperId": null,
+      "title": "When Did Your County's Jobs Disappear? The Washington Post/Slate"
+    },
+    {
+      "paperId": null,
+      "title": "The Jobless Rate for People Like You. The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "How the Government Dealt with Past Recessions"
+    },
+    {
+      "paperId": null,
+      "title": "Michelle Obama's Family Tree. The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "How Americans Spend their Day"
+    },
+    {
+      "paperId": null,
+      "title": "A Map of Olympic Medals"
+    },
+    {
+      "paperId": null,
+      "title": "Comparison of Bear Markets. The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "All of In\ufb02ation\u2019s Little Parts"
+    },
+    {
+      "paperId": null,
+      "title": "CNN hits the wall for the election. http://bit.ly/ cnn-wall"
+    },
+    {
+      "paperId": null,
+      "title": "The Ebb and Flow of Movies: Box Of\ufb01ce Receipts 1986-2008"
+    },
+    {
+      "paperId": null,
+      "title": "A Visual Guide to the Financial Crisis"
+    },
+    {
+      "paperId": null,
+      "title": "Economic Meltdown of 2008-2009. Flowing Data"
+    },
+    {
+      "paperId": null,
+      "title": "Telling stories using data: An interview with Jonathan Harris. http://bit.ly/jh-int"
+    },
+    {
+      "paperId": null,
+      "title": "En-riching animations"
+    },
+    {
+      "paperId": null,
+      "title": "Enriching animations Learning with animation"
+    },
+    {
+      "paperId": null,
+      "title": "Paths to the Top of the Home Run Charts"
+    },
+    {
+      "paperId": null,
+      "title": "Minnesota Employment Explorer. Minnesota Public Radio"
+    },
+    {
+      "paperId": null,
+      "title": "Virgin America Airplane Safety Video"
+    },
+    {
+      "paperId": null,
+      "title": "Making Comics"
+    },
+    {
+      "paperId": null,
+      "title": "Understanding Comics . Kitchen Sink Press, 1993."
+    },
+    {
+      "paperId": null,
+      "title": "Steroids or Not, the Pursuit is On"
+    },
+    {
+      "paperId": null,
+      "title": "http://www. gapminder.org/downloads/human-development-trends"
+    },
+    {
+      "paperId": null,
+      "title": "Pedestrians Crossing the Street. Unknown"
+    },
+    {
+      "paperId": null,
+      "title": "Spheres of Influence: The Bush Campaign Pioneers"
+    },
+    {
+      "paperId": "5d6931dd4b28cdf497dc79c010de21bda387f4bd",
+      "title": "Reading or scanning? A study of newspaper and net paper reading."
+    },
+    {
+      "paperId": "5cbe6291762f4a7fcc42f1365f1fa68ba3fd5cc9",
+      "title": "Where did all the money go"
+    },
+    {
+      "paperId": null,
+      "title": "JohnSnow\u2019sChartofDeathsfromCholera"
+    },
+    {
+      "paperId": null,
+      "title": "Politicians Abuse their Free-mailing Privileges before Elections. Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": null,
+      "title": "Life Cycle of a Beetle through a Year"
+    },
+    {
+      "paperId": "d6dd7a87c5640980874ab3365078a48d3f42368f",
+      "title": "Contextual design - defining customer-centered systems"
+    },
+    {
+      "paperId": null,
+      "title": "Eyes on the News"
+    },
+    {
+      "paperId": null,
+      "title": "The Art & Craft of Feature Writing"
+    },
+    {
+      "paperId": "38ddeca468d4e9131fa02a2da2c271c9bce87487",
+      "title": "Film Art: An Introduction"
+    },
+    {
+      "paperId": "b6febe49b42f0c1716cc709aa9cf08f3bdd1d721",
+      "title": "The Hero with a Thousand Faces"
+    },
+    {
+      "paperId": "b3e1ca582c448b605e739396e9dd3350fda0d8ab",
+      "title": "The Thirty-Six Dramatic Situations"
+    },
+    {
+      "paperId": null,
+      "title": "Football Drawings. Visual Complexity"
+    },
+    {
+      "paperId": null,
+      "title": "Mac Orientation Video"
+    },
+    {
+      "paperId": null,
+      "title": "Advertisement: Helicopter. United Technology"
+    },
+    {
+      "paperId": null,
+      "title": "Moscow Metro Bombs: Interactive Map. Guardian, 2010. http://www.guardian.co.uk/world/interactive/2010/mar/ 29/moscow-metro-bombs-terror-map"
+    },
+    {
+      "paperId": null,
+      "title": "http://www.guardian.co.uk/politics/interactive/2009/jan/26/icm-polls-uk-voting-intention"
+    },
+    {
+      "paperId": null,
+      "title": "Budget 2010 : Reaction from around the UK . Guardian , 2010"
+    },
+    {
+      "paperId": null,
+      "title": "Advertisement: Bus"
+    },
+    {
+      "paperId": null,
+      "title": "APPENDIX: NARRATIVE VISUALIZATION EXAMPLES"
+    },
+    {
+      "paperId": null,
+      "title": "Architecture and Justice"
+    },
+    {
+      "paperId": null,
+      "title": "Acadametrics House Price Index. Financial Times"
+    },
+    {
+      "paperId": null,
+      "title": "On the Map: Five Major North Korean Prison Camps. The Washington Post. http://www.washingtonpost.com/wp-srv/special/world/ north-korean-prison-camps-2009/?ad=inw"
+    },
+    {
+      "paperId": null,
+      "title": "The Climate Agenda"
+    }
+  ]
+}

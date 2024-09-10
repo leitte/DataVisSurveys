@@ -1,0 +1,348 @@
+{
+  "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+  "externalIds": {
+    "MAG": "2517066960",
+    "DBLP": "journals/tvcg/SachaZSLPWNK17",
+    "DOI": "10.1109/TVCG.2016.2598495",
+    "CorpusId": 7798441,
+    "PubMed": "27875141"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+  "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis",
+  "abstract": "Dimensionality Reduction (DR) is a core building block in visualizing multidimensional data. For DR techniques to be useful in exploratory data analysis, they need to be adapted to human needs and domain-specific problems, ideally, interactively, and on-the-fly. Many visual analytics systems have already demonstrated the benefits of tightly integrating DR with interactive visualizations. Nevertheless, a general, structured understanding of this integration is missing. To address this, we systematically studied the visual analytics and visualization literature to investigate how analysts interact with automatic DR techniques. The results reveal seven common interaction scenarios that are amenable to interactive control such as specifying algorithmic constraints, selecting relevant features, or choosing among several DR algorithms. We investigate specific implementations of visual analysis systems integrating DR, and analyze ways that other machine learning methods have been combined with DR. Summarizing the results in a \u201chuman in the loop\u201d process model provides a general lens for the evaluation of visual interactive DR systems. We apply the proposed model to study and classify several systems previously described in the literature, and to derive future research opportunities.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 63,
+  "openAccessPdf": {
+    "url": "https://kops.uni-konstanz.de/bitstreams/ff169f70-32f1-47e6-900b-faa5cc961066/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "241-250",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sacha2017VisualIW,\n author = {D. Sacha and Leishi Zhang and M. Sedlmair and J. Lee and J. Peltonen and D. Weiskopf and S. North and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {241-250},\n title = {Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2042948",
+      "name": "D. Sacha"
+    },
+    {
+      "authorId": "1562571406",
+      "name": "Leishi Zhang"
+    },
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "2144207625",
+      "name": "J. Lee"
+    },
+    {
+      "authorId": "36372133",
+      "name": "J. Peltonen"
+    },
+    {
+      "authorId": "69863469",
+      "name": "D. Weiskopf"
+    },
+    {
+      "authorId": "2885843",
+      "name": "S. North"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2f456ab2eb4945b7333bce952b4c18dc04873b43",
+      "title": "Visualizing High-Dimensional Data: Advances in the Past Decade"
+    },
+    {
+      "paperId": "fe8dc0b2afe806b6a81cf51f77c4a5ec2b288ef1",
+      "title": "HCI Research as Problem-Solving"
+    },
+    {
+      "paperId": "8b2224af1129dad01d4eed083e7bce4f97fc9af3",
+      "title": "Temporal MDS Plots for Analysis of Multivariate Data"
+    },
+    {
+      "paperId": "85c40d18d6f08b10ec65da0c3873a8b8c1656c68",
+      "title": "Optimal Sets of Projections of High-Dimensional Data"
+    },
+    {
+      "paperId": "b729ddb08866506b223cd022d6df674008aca11c",
+      "title": "Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions"
+    },
+    {
+      "paperId": "8ddad93a09b175ba5adbae4d9be58f0796548520",
+      "title": "Semantic Interaction: Coupling Cognition and Computation through Usable Interactive Analytics"
+    },
+    {
+      "paperId": "b1daa449c6e9881c64da4dacd1f72eb041d95bd9",
+      "title": "Persistent Homology for the Evaluation of Dimensionality Reduction Schemes"
+    },
+    {
+      "paperId": "2856696cf0bb309b4f4395f5e7d7d4bc8f6ad0cd",
+      "title": "Visual Exploration of High\u2010Dimensional Data through Subspace Analysis and Dynamic Projections"
+    },
+    {
+      "paperId": "da065f333e9204f0af37fc737168cab86cc442f0",
+      "title": "Uncovering Representative Groups in Multidimensional Projections"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "81fb38104594d0a90fb0effdfd5b58fc16efaebf",
+      "title": "Multi-model semantic interaction for text analytics"
+    },
+    {
+      "paperId": "599b73c2801eeb31e4fb4d468b5cffe06a9c1b26",
+      "title": "Distortion\u2010Guided Structure\u2010Driven Interactive Exploration of High\u2010Dimensional Data"
+    },
+    {
+      "paperId": "f840c119af9153780f9b5971415b9ed2a631bf36",
+      "title": "Constructing Grounded Theory"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "e99549886039616431a1d0f856016f37852aa514",
+      "title": "Type 1 and 2 mixtures of Kullback-Leibler divergences as cost functions in dimensionality reduction based on similarity preservation"
+    },
+    {
+      "paperId": "cf7eeb918ff94ea3daf3f0f9b701af9f416b57d1",
+      "title": "User\u2010driven Feature Space Transformation"
+    },
+    {
+      "paperId": "31cfef70ac1f758ee22c733de125e1de1d73f8c8",
+      "title": "TripAdvisor^{N-D}: A Tourism-Inspired High-Dimensional Space Exploration Framework with Overview and Detail"
+    },
+    {
+      "paperId": "25520b37a2fe9e52d1af7fc4211eadf6b30760b2",
+      "title": "An Affordance-Based Framework for Human Computation and Human-Computer Collaboration"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+      "title": "Representation Learning: A Review and New Perspectives"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "56a68aba63a7c3f2ebd8de243d64bb607d27b76c",
+      "title": "Observation-level interaction with statistical models for visual analytics"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "23b41a95efdbccccce9e8626942f9c2b9239b311",
+      "title": "A visual analytics approach to model learning"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "8fa964d55aa8c15d0f3055849c91d4c7293fdba1",
+      "title": "Information Retrieval Perspective to Nonlinear Dimensionality Reduction for Data Visualization"
+    },
+    {
+      "paperId": "3f6f4ab72a4d310400f2c4b82bd157d7b8f8f5ef",
+      "title": "Two-stage framework for visualization of clustered high dimensional data"
+    },
+    {
+      "paperId": "b310f95cf98f7ae9073d8c6450b284c156f57bf6",
+      "title": "Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "101f31ce2081557cab42a0297be4479815c6a977",
+      "title": "Computing galled networks from real data"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "785edbf729f6799954ee9ed2700d350312c3ce57",
+      "title": "Manual Clustering Refinement using Interaction with Blobs"
+    },
+    {
+      "paperId": "e48f03553d4c7f22d541201160df548e9ba75756",
+      "title": "Designing interactions"
+    },
+    {
+      "paperId": "78c100ea83b6b341408f05836d3e793a958a5572",
+      "title": "IPSep-CoLa: An Incremental Procedure for Separation Constraint Layout of Graphs"
+    },
+    {
+      "paperId": "8b3f1a417c76badd2893ee5a655b39cd7aecf5ac",
+      "title": "Current practice in measuring usability: Challenges to usability studies and research"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "a949757d5a1956100a783874d8f68494654569d1",
+      "title": "Information Visualization in Data Mining and Knowledge Discovery"
+    },
+    {
+      "paperId": "0299a2eb5fa80e98948fcba6b0810aa684692262",
+      "title": "A survey of visualizations for high-dimensional data mining"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "3538739741d7dd27788ef35d9f0900adb070d6f8",
+      "title": "The information visualizer, an information workspace"
+    },
+    {
+      "paperId": "fcdb2bdd94bce129a78680fa02580ee4b86482e8",
+      "title": "Reduction"
+    },
+    {
+      "paperId": "794b3ffd28d28606230efc975eeec9f0522fb139",
+      "title": "An Introduction to Machine Learning"
+    },
+    {
+      "paperId": "6213ea9a1de2be8c8ad9b4e1c7d197cdd3699f54",
+      "title": "Human-centered machine learning through interactive visualization: review and open challenges"
+    },
+    {
+      "paperId": "6cdcd22d69479c6c19f1583a281a95bc4029631e",
+      "title": "Independent Component Analysis"
+    },
+    {
+      "paperId": "ee53dd826af4a2abae486c637e3bee2aa93e4886",
+      "title": "Interactive Design of Multidimensional Data Projection Layout"
+    },
+    {
+      "paperId": "f4f3234cb6bd146872453d00e26a4741e216dc95",
+      "title": "Interaction Taxonomy for Tracking of User Actions in Visual Analytics Applications"
+    },
+    {
+      "paperId": "a6ab1e3a1788c9da243942838ebad9acb57616fb",
+      "title": "MLMD: Multi-Layered Visualization for Multi-Dimensional Data"
+    },
+    {
+      "paperId": "7d18d3ba96b57c05983d567b7834452fd7723800",
+      "title": "Visual Text Analytics using Semantic Networks and Interactive 3D Visualization"
+    },
+    {
+      "paperId": "c93e63eed07c779fc3b4eeb64387f1dcc413b88c",
+      "title": "Dimensionality Reduction in the Wild : Gaps and Guidance"
+    },
+    {
+      "paperId": "a01f7b90f77d60efcd9b9f0b0eece10aba9b049d",
+      "title": "Recent Advances in Nonlinear Dimensionality Reduction, Manifold and Topological Learning"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "2309f7c5dad934f2adc2c5a066eba8fc2d8071ec",
+      "title": "Dimensionality Reduction: A Comparative Review"
+    },
+    {
+      "paperId": "2f2e38d029c4219bb96eb78f308402ca2af7a3b8",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "bec4bc5cd3af67e1a62cffbd7e1c990d3ad028f9",
+      "title": "Designing for Interaction"
+    },
+    {
+      "paperId": "63c68278418b69f60b4814fae8dd15b1b1854295",
+      "title": "High-Dimensional Data Analysis: The Curses and Blessings of Dimensionality"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    }
+  ]
+}

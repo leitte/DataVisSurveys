@@ -1,0 +1,386 @@
+{
+  "paperId": "548aa59905693f84e95515c6134cd5352a97ca76",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SarikayaG18",
+    "MAG": "2752662042",
+    "DOI": "10.1109/TVCG.2017.2744184",
+    "CorpusId": 31076769,
+    "PubMed": "28866528"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/548aa59905693f84e95515c6134cd5352a97ca76",
+  "title": "Scatterplots: Tasks, Data, and Designs",
+  "abstract": "Traditional scatterplots fail to scale as the complexity and amount of data increases. In response, there exist many design options that modify or expand the traditional scatterplot design to meet these larger scales. This breadth of design options creates challenges for designers and practitioners who must select appropriate designs for particular analysis goals. In this paper, we help designers in making design choices for scatterplot visualizations. We survey the literature to catalog scatterplot-specific analysis tasks. We look at how data characteristics influence design decisions. We then survey scatterplot-like designs to understand the range of design options. Building upon these three organizations, we connect data characteristics, analysis tasks, and design choices in order to generate challenges, open questions, and example best practices for the effective design of scatterplots.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2018,
+  "referenceCount": 78,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "402-412",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sar\u0131kaya2018ScatterplotsTD,\n author = {Alper Sar\u0131kaya and Michael Gleicher},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {402-412},\n title = {Scatterplots: Tasks, Data, and Designs},\n volume = {24},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2031917",
+      "name": "Alper Sar\u0131kaya"
+    },
+    {
+      "authorId": "1776507",
+      "name": "Michael Gleicher"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e684fc96a0bff8e79594ed8ce4a1830d86c03c65",
+      "title": "Interactive Lenses for Visualization: An Extended Survey"
+    },
+    {
+      "paperId": "9eedd6e35ba56e58b84d29f469e45f14a9faf8ea",
+      "title": "Prediction of data visibility in two-dimensional scatterplots"
+    },
+    {
+      "paperId": "ad89d074b444951e173d2338259aba11fe879873",
+      "title": "The nature of correlation perception in scatterplots"
+    },
+    {
+      "paperId": "1a44d0c0527d129f07caad29a038b269e1ba5acc",
+      "title": "Task Cube: A three-dimensional conceptual space of user tasks in visualization design and evaluation"
+    },
+    {
+      "paperId": "1d9730b4c458ab9d33e57fc68f58dbcbd82cfc8a",
+      "title": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "paperId": "edc96d9d15ba940b011d9cf21de55f5d9fc9ff0d",
+      "title": "Enhancing Scatterplots with Multi\u2010Dimensional Focal Blur"
+    },
+    {
+      "paperId": "bb55809bfee34e6b2ca26186383df3971a4a867b",
+      "title": "InterAxis: Steering Scatterplot Axes via Observation-Level Interaction"
+    },
+    {
+      "paperId": "401e308fac9bbbef98af02b3a6810f267d4c2d05",
+      "title": "Task-Driven Comparison of Topic Models"
+    },
+    {
+      "paperId": "86a954a4d8f19f985a0d18ec7b102bae646f7e8a",
+      "title": "Interference in the Perception of Two-Population Scatterplots."
+    },
+    {
+      "paperId": "82e5b2ad7f571b1cfd3154115ee125b472b2b19f",
+      "title": "Visualnostics: Visual Guidance Pictograms for Analyzing Projections of High\u2010dimensional Data"
+    },
+    {
+      "paperId": "d41df5aabfa2142097428755d28132517d1272ab",
+      "title": "Dynamic Opacity Optimization for Scatter Plots"
+    },
+    {
+      "paperId": "0a4c78e6a6fb4c51266dd2842988f14a1ef39811",
+      "title": "Visualizing dimensionally-reduced data: interviews with analysts and a characterization of task sequences"
+    },
+    {
+      "paperId": "6982e46b5eab97a071c0b90bc3b5817a5ad979c9",
+      "title": "Visual Abstraction and Exploration of Multi-class Scatterplots"
+    },
+    {
+      "paperId": "b613ae966f6cc0e10a72804a83f90f176a9c6567",
+      "title": "The relation between visualization size, grouping, and user performance"
+    },
+    {
+      "paperId": "fbf7e8e8ecc47eceee4e3f86e3eecf5b489a350b",
+      "title": "An Engineering Model for Color Difference as a Function of Size"
+    },
+    {
+      "paperId": "23a49364f509f0f033a9fa1b81b7279db54511cc",
+      "title": "VisIRR: Visual analytics for information retrieval and recommendation with large-scale document data"
+    },
+    {
+      "paperId": "9d209712ea855130e5f5667e79bafcd9f9e1adef",
+      "title": "Visualizing Multidimensional Data with Glyph SPLOMs"
+    },
+    {
+      "paperId": "23ed273c84731755db3f8213dff9c72117b4be1b",
+      "title": "ScagExplorer: Exploring Scatterplots by Their Scagnostics"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "6e2d0e9897c7c5568fdd3788a78f3032fa28abc0",
+      "title": "Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices"
+    },
+    {
+      "paperId": "678c3e8c2ca983ee53107a4510aab7eba239d542",
+      "title": "Perception of Average Value in Multiclass Scatterplots"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "1ab210a6974b4a9e356636505a53cca624d129e3",
+      "title": "Orthographic Star Coordinates"
+    },
+    {
+      "paperId": "59cc66fe507543fcf17850156973cb40373e2e1e",
+      "title": "Selecting the Aspect Ratio of a Scatter Plot Based on Its Delaunay Triangulation"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "b1ddd6986673f3d86650124795d99a3afa2de95a",
+      "title": "Dimension Projection Matrix/Tree: Interactive Subspace Visual Exploration and Analysis of High Dimensional Data"
+    },
+    {
+      "paperId": "45a9e804c2da9f9bc4a6edb0472aedcbb26f85da",
+      "title": "Overplotting: Unified solutions under Abstract Rendering"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "23dc7cb30b7cbab1e6dcab49796f8b14fc304340",
+      "title": "A Taxonomy of Visual Cluster Separation Factors"
+    },
+    {
+      "paperId": "0f9ae35a98069f5c95c7790536664b20a74e92e7",
+      "title": "MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "2b4360b4f2067cc058d663d0050f39df9b0b8a12",
+      "title": "Arc Length-Based Aspect Ratio Selection"
+    },
+    {
+      "paperId": "e98e2828e12b26bfb848e35a10c268a301344a7c",
+      "title": "Flow-based scatterplots for sensitivity analysis"
+    },
+    {
+      "paperId": "0e5233211f0f06b17c1bb24a51f66ec0e53f5199",
+      "title": "Generalized Scatter Plots"
+    },
+    {
+      "paperId": "42390a25f9296a0d749aeded46c6a43ef7e74128",
+      "title": "Stacking Graphic Elements to Avoid Over-Plotting"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "0a0eaff3b398067e7addf149b1656ff1b0831e29",
+      "title": "Visual quality metrics and human perception: an initial study on 2D projections of large multidimensional data"
+    },
+    {
+      "paperId": "6a0879b7be55f163728bd780fd64d9471796d66e",
+      "title": "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
+    },
+    {
+      "paperId": "3fe76b54a6fd2b4bbdfdac10711e9ae857025dfa",
+      "title": "A model of symbol size discrimination in scatterplots"
+    },
+    {
+      "paperId": "11905dd75d52eccf2aa21c2d5be7ff618d490218",
+      "title": "A model of symbol lightness discrimination in sparse scatterplots"
+    },
+    {
+      "paperId": "059c163c15342240942987b035b8e7ca7c5829c3",
+      "title": "Judging Correlation from Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "9df63962e93ad27ba6213520a6b53ae2e89d2e91",
+      "title": "MassVis: Visual analysis of protein complexes using mass spectrometry"
+    },
+    {
+      "paperId": "58029798a1abd90a2338d109b1a6678cf7923813",
+      "title": "Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations"
+    },
+    {
+      "paperId": "f0d1d805fff8385dcea5e29d9efa05a875db6fc1",
+      "title": "Continuous Scatterplots"
+    },
+    {
+      "paperId": "23660cfbd69304d99d7f89e055851142d8886f45",
+      "title": "Kernel Density Estimators"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "d48a28cb9b85d749e421d059d01a33b067887b2b",
+      "title": "Spatialization Design: Comparing Points and Landscapes"
+    },
+    {
+      "paperId": "c4d4e61da9ed1952598bb40f5dbfcbafac27d4f3",
+      "title": "Measuring Data Abstraction Quality in Multiresolution Visualizations"
+    },
+    {
+      "paperId": "63fe1cf45afae35a9120d67e825fc11e893bfb64",
+      "title": "Multi-Scale Banking to 45 Degrees"
+    },
+    {
+      "paperId": "a3af8638bfc4304919981fd31a45621891615c4a",
+      "title": "Perceiving Relationships: A Physiological Examination of the Perception of Scatterplots"
+    },
+    {
+      "paperId": "f2f736529736ec7d6b6646c8f0ef5cfd04122c63",
+      "title": "Give Chance a Chance: Modeling Density to Enhance Scatter Plot Quality through Random Data Sampling"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "f44c5d713af40e514b2f2cfb9c72a1589b96d813",
+      "title": "The Grammar of Graphics (Statistics and Computing)"
+    },
+    {
+      "paperId": "b35cc4b4e67713b7c5c7d4949e4988b2e1a3bc82",
+      "title": "Testing the First Law of Cognitive Geography on Point-Display Spatializations"
+    },
+    {
+      "paperId": "2d8b151dc57b9af7d361c16d2589f9ab69d9d28a",
+      "title": "Interactive information visualization of a million items"
+    },
+    {
+      "paperId": "3f607569450c7356ac49c29fea3817198a26a697",
+      "title": "Visualizing multi-dimensional clusters, trends, and outliers using star coordinates"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "6e705e04cfc7f88839bec2a375538a45c81833f0",
+      "title": "High-speed visual estimation using preattentive processing"
+    },
+    {
+      "paperId": "6bb3a33f7a56b306e25705d09882def20b2aebc6",
+      "title": "How Maps Work - Representation, Visualization, and Design"
+    },
+    {
+      "paperId": "85d5164d33e47b744cece039c0e0bf54ca1cea9d",
+      "title": "Task-analytic approach to the automated design of graphic presentations"
+    },
+    {
+      "paperId": "3cce7292df500bd034d821936a8f4bc2bb7b51e9",
+      "title": "The Shape Parameter of a Two-Variable Graph"
+    },
+    {
+      "paperId": "47688303676928a32e8f4bd0a13ac05b12dd5e35",
+      "title": "Scatterplot matrix techniques for large N"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "19599e167b4b1c853b51c7edca842cee460763e5",
+      "title": "The Many Faces of a Scatterplot"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "5521849729aaa387cfeef0d12d3c91170d7bbfd0",
+      "title": "Visualization analysis & design"
+    },
+    {
+      "paperId": "21b5a39d1aff182916ccd3e792d6d697bf4b3a19",
+      "title": "Splatterplots: Overcoming Overdraw in Scatter Plots"
+    },
+    {
+      "paperId": "fcce4994944bdcda64d6b0b59d0c295833eb23f0",
+      "title": "What Shakespeare Taught Us About Text Visualization"
+    },
+    {
+      "paperId": "203017acc03091a9f357dcdd8faa6852b20c7b78",
+      "title": "Laws of Attraction: From Perceptual Forces to Conceptual Similarity"
+    },
+    {
+      "paperId": null,
+      "title": "Card Sorting: Designing Usable Categories"
+    },
+    {
+      "paperId": "83e49bba22e782d5c245e7eb6ecc3353f6c13f7a",
+      "title": "Multi-Scale Banking to 45\u00ba"
+    },
+    {
+      "paperId": "80e1b3691efb64233fa7c5e39f15f1eff7f14110",
+      "title": "The elements of graphing data"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "e1be1f8ceaf1a6457bc57aa89eee6e4b27486ba3",
+      "title": "Published online in Wiley Interscience (www.interscience.wiley.com). DOI 10.1002 /jhbs.20078 \u00a9 2005 Wiley Periodicals, Inc. THE EARLY ORIGINS AND DEVELOPMENT OF THE SCATTERPLOT"
+    },
+    {
+      "paperId": null,
+      "title": "SCATTERPLOTS: TASKS, DATA, AND DESIGNS"
+    }
+  ]
+}

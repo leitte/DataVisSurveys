@@ -1,0 +1,596 @@
+{
+  "paperId": "23fc2f69cb94858401a3eaecbd13471a8c6c7eb1",
+  "externalIds": {
+    "MAG": "2966541941",
+    "DBLP": "journals/tvcg/DimaraP20",
+    "DOI": "10.1109/TVCG.2019.2934283",
+    "CorpusId": 201099673,
+    "PubMed": "31425089"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/23fc2f69cb94858401a3eaecbd13471a8c6c7eb1",
+  "title": "What is Interaction for Data Visualization?",
+  "abstract": "Interaction is fundamental to data visualization, but what \u201cinteraction\u201d means in the context of visualization is ambiguous and confusing. We argue that this confusion is due to a lack of consensual definition. To tackle this problem, we start by synthesizing an inclusive view of interaction in the visualization community \u2013 including insights from information visualization, visual analytics and scientific visualization, as well as the input of both senior and junior visualization researchers. Once this view takes shape, we look at how interaction is defined in the field of human-computer interaction (HCI). By extracting commonalities and differences between the views of interaction in visualization and in HCI, we synthesize a definition of interaction for visualization. Our definition is meant to be a thinking tool and inspire novel and bolder interaction design practices. We hope that by better understanding what interaction in visualization is and what it can be, we will enrich the quality of interaction in visualization systems and empower those who use them.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 131,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-02197062/file/What_is_interaction_preprint%20%281%29.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2020-01-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "119-129",
+    "volume": "26"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Dimara2020WhatII,\n author = {Evanthia Dimara and Charles Perin},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {119-129},\n title = {What is Interaction for Data Visualization?},\n volume = {26},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2304083",
+      "name": "Evanthia Dimara"
+    },
+    {
+      "authorId": "35221881",
+      "name": "Charles Perin"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b2e9f35d60b00c7319a6763a477857e5215082f5",
+      "title": "A Task-Based Taxonomy of Cognitive Biases for Information Visualization"
+    },
+    {
+      "paperId": "a5d3fc38ca4b6b9fc9cb448504fa8c0488cf0c47",
+      "title": "A Model of Spatial Directness in Interactive Visualization"
+    },
+    {
+      "paperId": "f030fe541857e653de41c753b91a8ff671efcf14",
+      "title": "Mitigating the Attraction Effect with Visualizations"
+    },
+    {
+      "paperId": "c083bf338a3eba3db5ae6693618b2437b929a7d8",
+      "title": "A Framework for Externalizing Implicit Error Using Visualization"
+    },
+    {
+      "paperId": "8d6290cdec8c8318dba8e6a9278282e6b5349ec8",
+      "title": "Information Olfactation: Harnessing Scent to Convey Data"
+    },
+    {
+      "paperId": "0670b47127aeb70ecb52beb4559d5e3317204d34",
+      "title": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "679c780127ce31f2602c3cb5bb4c3ab93ff0eab8",
+      "title": "InfoNice: Easy Creation of Information Graphics"
+    },
+    {
+      "paperId": "24e81f87acdfb0fdf5aa0dfad2db889bc084cc5b",
+      "title": "DataInk: Direct and Creative Data-Oriented Drawing"
+    },
+    {
+      "paperId": "2ad89f859239fceec21ba417ab33378add9f61aa",
+      "title": "Evaluating Interactive Graphical Encodings for Data Visualization"
+    },
+    {
+      "paperId": "4b54f892ddf15f67390931123039919305db456c",
+      "title": "Visualization and Interaction with Multiple Devices. A Case Study on Reachability of Remote Areas for Emergency Management"
+    },
+    {
+      "paperId": "b04cdcd9d8d3ba4f0151a2579b53da21ee3a8019",
+      "title": "Assessing User Engagement in Information Visualization"
+    },
+    {
+      "paperId": "09b59577eeae2eb82f3fc8dc2a92a9dec5adacda",
+      "title": "What Is Interaction?"
+    },
+    {
+      "paperId": "c805b234ef25ff06ddc250c3652a53e5454716d8",
+      "title": "BIGnav: Bayesian Information Gain for Guiding Multiscale Navigation"
+    },
+    {
+      "paperId": "fa148b46ad5c93c581302348cec09a23c25770c9",
+      "title": "The Meaning of Interactivity\u2014Some Proposals for Definitions and Measures"
+    },
+    {
+      "paperId": "bc6360bf6cbdbfa4dbc4e6e178b12ea9dea15439",
+      "title": "Go and Grow: Mapping Personal Data to a Living Plant"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "0086a67895924c5fea6ca59c74c7323a1db97def",
+      "title": "Visual Mementos: Reflecting Memories with Personal Data"
+    },
+    {
+      "paperId": "944ddbef92f4099e474ac4ea80335f33c75c6d40",
+      "title": "Towards the Understanding of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "b5d87066973822d7e1ca124f43cc0404df7c7a45",
+      "title": "Gendered or neutral?: considering the language of HCI"
+    },
+    {
+      "paperId": "c51d1919c531f1cb94fc49df0f39cb54468601e1",
+      "title": "Query2Question: Translating Visualization Interaction into Natural Language"
+    },
+    {
+      "paperId": "b4db10fcc5513d6dcf51d894feffc47af02ab0f2",
+      "title": "Interaction for Visualization"
+    },
+    {
+      "paperId": "0756ccde47374f4e27c49bdf42cbfd4e13f2280d",
+      "title": "Opportunities and Challenges for Data Physicalization"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "0e5a4c05a11862818da10373f6c8f4c4905a95fe",
+      "title": "Supporting Novice to Expert Transitions in User Interfaces"
+    },
+    {
+      "paperId": "db4d3498dde5f88fc3e5e37159712197d81ee05e",
+      "title": "Supporting Communication and Coordination in Collaborative Sensemaking"
+    },
+    {
+      "paperId": "7abc19ae70673f1bfb0ebd7ab9aeb53c90da1e14",
+      "title": "MovExp: A Versatile Visualization Tool for Human-Computer Interaction Studies with 3D Performance and Biomechanical Data"
+    },
+    {
+      "paperId": "5b322c010b6f9766dde4525dd5b4be3161d1ed64",
+      "title": "Declarative interaction design for data visualization"
+    },
+    {
+      "paperId": "d1959999e38e79e960c75a818a97897566af50f6",
+      "title": "Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics"
+    },
+    {
+      "paperId": "d28644384fd646fbf5942b0e74d38d2f7394cfa5",
+      "title": "Constructive visualization"
+    },
+    {
+      "paperId": "471f25e4f83ea2dae6cfb95743d0913731478176",
+      "title": "Interaction in the Visualization of Multivariate Networks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+      "title": "An Interaction Model for Visualizations Beyond The Desktop"
+    },
+    {
+      "paperId": "bc93bfc83644e48a8d58208e31e5e605ccadf607",
+      "title": "SketchStory: Telling More Engaging Stories with Data through Freeform Sketching"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "03468c69eab0cdfe5def9bfbfa622e7552626a22",
+      "title": "Multilevel interaction model for hierarchical tasks in information visualization"
+    },
+    {
+      "paperId": "13aa2851992bc1b870dda331b6373ed4ddc35dc6",
+      "title": "Reimagining the Scientific Visualization Interaction Paradigm"
+    },
+    {
+      "paperId": "1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+      "title": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
+    },
+    {
+      "paperId": "405f960a999207e75acc3c039080bcd38fe38d37",
+      "title": "Cartographic Interaction Primitives: Framework and Synthesis"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "9b0d2ba949d4406f3b0305998079e40a9481914b",
+      "title": "Personas and decision making in the design process: an ethnographic case study"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "b370c035cedcbc6b0cdf61fd07aeb04c88e0ddb5",
+      "title": "Analysts aren't machines: Inferring frustration through visualization interaction"
+    },
+    {
+      "paperId": "2f89bf735e968ceaf0d99f8bd2155c4af1c73cfe",
+      "title": "Fluid interaction for information visualization"
+    },
+    {
+      "paperId": "921d45dfff493fe0e5e2598ad6ae4c059d883251",
+      "title": "User-centered System Design"
+    },
+    {
+      "paperId": "ed6bd1d920708cc664562a13bc66b91c4f138e36",
+      "title": "Variable property rapid prototyping"
+    },
+    {
+      "paperId": "837f1ba1d4a455eb89b2920aec273ab1778c95f3",
+      "title": "Tangible views for information visualization"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "695e08b28b112910b9c34e16cf1d77b53786f975",
+      "title": "FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces"
+    },
+    {
+      "paperId": "60faf5f41e566f0a091b9babdd78fa782904d5a9",
+      "title": "Data portraits"
+    },
+    {
+      "paperId": "17b9cf0c0cc8fd0da8b10aadcdfd0c93885973e6",
+      "title": "Exploring information visualization: describing different interaction patterns"
+    },
+    {
+      "paperId": "a294b1a0a261bbe2496753e4f33c80f1c2f19ed5",
+      "title": "Stack zooming for multi-focus interaction in time-series data visualization"
+    },
+    {
+      "paperId": "bfdf7ea82bd83907b839c7e70bdfcbf7dfb3130c",
+      "title": "Integrating Visualization and Interaction Research to Improve Scientific Workflows"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "b0b9ad392f34728f77cbefdada5727a49e83ccfe",
+      "title": "Knowledge Assisted Visualization: Defining and applying knowledge conversion processes to a visual analytics system"
+    },
+    {
+      "paperId": "bd5b9c8ef53bc8ff29441a0aa832851171c211bf",
+      "title": "A typology of reviews: an analysis of 14 review types and associated methodologies."
+    },
+    {
+      "paperId": "ba34fd133fb0fa36b50b5b8e71f08af71691a1b5",
+      "title": "Advanced Interaction for Information Visualization"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "33d0c4dd77288625923192e7c533def3c8b14edb",
+      "title": "The theory of affordances"
+    },
+    {
+      "paperId": "3df02b8c347b26480a75cecc5fc0a3b00653454a",
+      "title": "Spatial Reasoning With External Visualizations: What Matters Is What You See, Not Whether You Interact"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "ba95d61d26da82fe67a5e4b7a627014b603de703",
+      "title": "Casual Information Visualization: Depictions of Data in Everyday Life"
+    },
+    {
+      "paperId": "c41dfd6f69311e647e9a25018b7b0c918509b4b8",
+      "title": "Designing for appropriation"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "484f852a24dc6858230e6a415a1b82687509e159",
+      "title": "Rights of Non-Humans? Electronic Agents and Animals as New Actors in Politics and Law"
+    },
+    {
+      "paperId": "e48f03553d4c7f22d541201160df548e9ba75756",
+      "title": "Designing interactions"
+    },
+    {
+      "paperId": "c11202d0086e8082713259b1d7b759761c7f9a2d",
+      "title": "From information visualization to direct manipulation: extending a generic visualization framework for the interactive editing of large datasets"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "e4d1b878ad0df0016546e403fb4237590cc9951a",
+      "title": "User experience - a research agenda"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "a2af1f54e18f55b6df66f4940969ebabf7f6fa00",
+      "title": "Control Theory for Humans: Quantitative Approaches To Modeling Performance"
+    },
+    {
+      "paperId": "3d6e713d5cf65e66657b5af8a509a3df2f72cde3",
+      "title": "Promoting universal usability with multi-layer interface design"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "b5a4a11ff8a4fbc265e0f2cd2bee20193f42d3fd",
+      "title": "Instrumental interaction: an interaction model for designing post-WIMP user interfaces"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "388dfdcaebad041187291a54a46ae6643ffbd293",
+      "title": "ACT: A simple theory of complex cognition."
+    },
+    {
+      "paperId": "74d3aebc7f5f52dfa561c43de01d01e24c2b07ae",
+      "title": "The limits of expert performance using hierarchic marking menus"
+    },
+    {
+      "paperId": "3538739741d7dd27788ef35d9f0900adb070d6f8",
+      "title": "The information visualizer, an information workspace"
+    },
+    {
+      "paperId": "77dc0191ec59b1ce67c54af49c5e346c4e7235b1",
+      "title": "Through the Interface: A Human Activity Approach To User Interface Design"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "7338e01d16da94818739690b9646cb892fc2a51d",
+      "title": "Models of man"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "82f8fbc66004ac438ac742c1ad6016d07d1ae037",
+      "title": "The keystroke-level model for user performance time with interactive systems"
+    },
+    {
+      "paperId": "efad747e8231b5bb930b97fb1b3eb02eb89169bd",
+      "title": "Statistical methods for rates and proportions"
+    },
+    {
+      "paperId": "9e463eefadbcd336c69270a299666e4104d50159",
+      "title": "A Coefficient of Agreement for Nominal Scales"
+    },
+    {
+      "paperId": "1994763bb0f8d2fdd80a80f7270547c465c5ecae",
+      "title": "Models of Man."
+    },
+    {
+      "paperId": "634c9fde5f1c411e4487658ac738dcf18d98ea8d",
+      "title": "The information capacity of the human motor system in controlling the amplitude of movement."
+    },
+    {
+      "paperId": null,
+      "title": "Personas and Identity"
+    },
+    {
+      "paperId": "5e0ede4ea2d7941a2224647841108742bd9c186f",
+      "title": "Active Reading of Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "What does \u201dvisualization literacy\u201d mean, anyway? - Multiple Views: visualization research explained"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "b6e790fbcd570905b7b601463da71df990355543",
+      "title": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "paperId": "e16b4067eed3d2bd7c28518ded0177593eafc425",
+      "title": "Embedded Data Representations"
+    },
+    {
+      "paperId": "bf215d5f9657df932ef4f3d5119ee3ec8638804e",
+      "title": "Flexible Organization, Exploration, and Analysis of Visualization Application Interaction Events using Visual Analytics"
+    },
+    {
+      "paperId": "71d7716c1f1e273005f119268685e94f812aa69a",
+      "title": "Natural Interaction with Visualization Systems"
+    },
+    {
+      "paperId": "f6a76ef1f71ce9fd870ba8381816cbe9a8cbbc61",
+      "title": "Building Bridges: HCI, Visualization, and Non-formal Modeling"
+    },
+    {
+      "paperId": "6bd6cab75b2f0ae44cbe2bfe17db2218fab2cfc1",
+      "title": "Human-Centered Interactivity of Visualization Tools: Micro- and Macro-level Considerations"
+    },
+    {
+      "paperId": null,
+      "title": "Reimagining the scientific visualization inter- DIMARA AND PERIN: WHAT IS INTERACTION FOR DATA VISUALIZATION? 129 action paradigm"
+    },
+    {
+      "paperId": null,
+      "title": "The design of every day things"
+    },
+    {
+      "paperId": null,
+      "title": "Focused and casual interactions"
+    },
+    {
+      "paperId": "f9c57c1d4926f6adbaa0f1b13e5cbc87d13967c3",
+      "title": "An Exploratory Study of Interactivity in Visualization Tools: \u2018Flow\u2019 of Interaction"
+    },
+    {
+      "paperId": "4712fb45903920de3f351fbdde16092a221c944a",
+      "title": "The Pulse of Tidy Street : Measuring and Publicly Displaying Domestic Electricity Consumption"
+    },
+    {
+      "paperId": "5eb0ebaa4bc61a5df2d8337aa6df9030acf516aa",
+      "title": "Information Foraging"
+    },
+    {
+      "paperId": null,
+      "title": "Amant"
+    },
+    {
+      "paperId": "594a1abca5799e2a924edf6050d7c4f258dac3af",
+      "title": "Researching Information Systems and Computing"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "864c0bfd5e30959b41bfcca30099e97ca015e3f6",
+      "title": "A taxonomy of temporal data visualization techniques"
+    },
+    {
+      "paperId": "b595e75366db255dc6ac8e9d7545071ebc23c29d",
+      "title": "Where the Action Is - The Foundations of Embodied Interaction"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "bec4bc5cd3af67e1a62cffbd7e1c990d3ad028f9",
+      "title": "Designing for Interaction"
+    },
+    {
+      "paperId": "44dee6ef543361b7c0030b603839637edab03048",
+      "title": "Bounded rationality: The adaptive toolbox"
+    },
+    {
+      "paperId": null,
+      "title": "Reification, polymorphism and reuse"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "The dynamic HomeFinder"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: A conceptual model for scienti\ufb01c visualization systems"
+    },
+    {
+      "paperId": "5f05b9dcdc2bb7c3c45553e6f4f58c4342dad8d2",
+      "title": "The psychology of human-computer interaction"
+    },
+    {
+      "paperId": null,
+      "title": "The external validity of experiments"
+    },
+    {
+      "paperId": "9e07c9343f0f4a219714e77c7b59ef386043bc96",
+      "title": "Transactions on Human-computer Interaction Thci Design for Complex Cognitive Activities with Visual Representations: a Pattern-based Approach Sedig and Parsons Interaction Design for Complex Cognitive Activities with Visualizations"
+    },
+    {
+      "paperId": "eb880650a2e4864e576fd11102ef42fa45865c80",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Visual Perception and Mixed-initiative Interaction for Assisted Visualization Design"
+    },
+    {
+      "paperId": null,
+      "title": "The Fallen of World War II"
+    }
+  ]
+}

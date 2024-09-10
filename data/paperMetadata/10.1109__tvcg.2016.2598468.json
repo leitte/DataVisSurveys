@@ -1,0 +1,361 @@
+{
+  "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+  "externalIds": {
+    "MAG": "2488113179",
+    "DBLP": "journals/tvcg/CenedaGMMSST17",
+    "DOI": "10.1109/TVCG.2016.2598468",
+    "CorpusId": 2307186,
+    "PubMed": "27514054"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+  "title": "Characterizing Guidance in Visual Analytics",
+  "abstract": "Visual analytics (VA) is typically applied in scenarios where complex data has to be analyzed. Unfortunately, there is a natural correlation between the complexity of the data and the complexity of the tools to study them. An adverse effect of complicated tools is that analytical goals are more difficult to reach. Therefore, it makes sense to consider methods that guide or assist users in the visual analysis process. Several such methods already exist in the literature, yet we are lacking a general model that facilitates in-depth reasoning about guidance. We establish such a model by extending van Wijk's model of visualization with the fundamental components of guidance. Guidance is defined as a process that gradually narrows the gap that hinders effective continuation of the data analysis. We describe diverse inputs based on which guidance can be generated and discuss different degrees of guidance and means to incorporate guidance into VA tools. We use existing guidance approaches from the literature to illustrate the various aspects of our model. As a conclusion, we identify research challenges and suggest directions for future studies. With our work we take a necessary step to pave the way to a systematic development of guidance techniques that effectively support users in the context of VA.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2017,
+  "referenceCount": 68,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "111-120",
+    "volume": "23"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ceneda2017CharacterizingGI,\n author = {D. Ceneda and T. Gschwandtner and T. May and S. Miksch and Hans-J\u00f6rg Schulz and M. Streit and C. Tominski},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {111-120},\n title = {Characterizing Guidance in Visual Analytics},\n volume = {23},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3426586",
+      "name": "D. Ceneda"
+    },
+    {
+      "authorId": "2650477",
+      "name": "T. Gschwandtner"
+    },
+    {
+      "authorId": "35799576",
+      "name": "T. May"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    },
+    {
+      "authorId": "37120614",
+      "name": "Hans-J\u00f6rg Schulz"
+    },
+    {
+      "authorId": "1720261",
+      "name": "M. Streit"
+    },
+    {
+      "authorId": "1718009",
+      "name": "C. Tominski"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4973c9611b82bbc76ab5318708e054b3ecfdf817",
+      "title": "Directing"
+    },
+    {
+      "paperId": "a5af84ae7e1405a7982da598eaca98c281cef269",
+      "title": "Users"
+    },
+    {
+      "paperId": "f2c69c9822458d10bb8b623f8e98fd2f9c2f86ad",
+      "title": "VizAssist: an interactive user assistant for visual data mining"
+    },
+    {
+      "paperId": "8cdb7f94b4e32a84826a586298ab5d970a40d2ef",
+      "title": "AmbiguityVis: Visualization of Ambiguity in Graph Layouts"
+    },
+    {
+      "paperId": "2b90cf70c77d91cf3d736c609ea2e43a614fc4b5",
+      "title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
+    },
+    {
+      "paperId": "82e5b2ad7f571b1cfd3154115ee125b472b2b19f",
+      "title": "Visualnostics: Visual Guidance Pictograms for Analyzing Projections of High\u2010dimensional Data"
+    },
+    {
+      "paperId": "5e80e7131e77fecfc1cf6648f0f6b25e364c7e4d",
+      "title": "Human Computer Interaction"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "04898ad48340372c138e23184dfab892fb5d33bc",
+      "title": "Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets"
+    },
+    {
+      "paperId": "e34cea7beb885be40afa8cc033dbafb8908dd60c",
+      "title": "INFUSE: Interactive Feature Selection for Predictive Modeling of High Dimensional Data"
+    },
+    {
+      "paperId": "593e9f3085833d96cd3cb11cd61e4fd38b9abdd0",
+      "title": "Towards a Linked-Data based Visualization Wizard"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "9651572359e7a93f9efa0677b0988e6291ae044e",
+      "title": "Navigation Recommendations for Exploring Hierarchical Graphs"
+    },
+    {
+      "paperId": "5ec0c65a71f8e790ae9093f3f5997222d28efdf4",
+      "title": "Visual-Interactive Preprocessing of Time Series Data"
+    },
+    {
+      "paperId": "f443bad88b7b5cf8b1e44219823ae0d430bb83ee",
+      "title": "Heterogeneity-based guidance for exploring multiscale data in systems biology"
+    },
+    {
+      "paperId": "5ac7c4807aed8f054eab66a62367d681e8dcd0dd",
+      "title": "Interest Driven Navigation in Visualization"
+    },
+    {
+      "paperId": "1f2d508b51fce0868eef3dcd95aa1a4e3f880244",
+      "title": "Mental Map Preservation Helps User Orientation in Dynamic Graphs"
+    },
+    {
+      "paperId": "30b90c1f286bb0866b727291f66643f8af86e159",
+      "title": "StratomeX: Visual Analysis of Large\u2010Scale Heterogeneous Genomics Data for Cancer Subtype Characterization"
+    },
+    {
+      "paperId": "91f8994c6e7cd8c94134cccf6833bcd31f60c056",
+      "title": "Model-Driven Design for the Visual Analysis of Heterogeneous Data"
+    },
+    {
+      "paperId": "f42530099dd690c8ede9fc0e684e3efab776f9d2",
+      "title": "Using Signposts for Navigation in Large Graphs"
+    },
+    {
+      "paperId": "838bb8489c5cb1e1c5f4636ca0e3585f542eb978",
+      "title": "Automatic Animation for Time\u2010Varying Data Visualization"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "1cc85952c8588a17fa086d94ae1493a3b0413872",
+      "title": "VisComplete: Automating Suggestions for Visualization Pipelines"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "e4e024e785837fafd6c95a1b81d837b06a551c07",
+      "title": "Systematic yet flexible discovery: guiding domain experts through exploratory data analysis"
+    },
+    {
+      "paperId": "a2a8ce4738bf6ae950820b9dff322eb6fb762316",
+      "title": "Managing discoveries in the visual analytics process"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "507ed3c3ff46e651ed57b394c9d723fc449822e9",
+      "title": "Design Considerations for Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "aa461d4619d1f62a074201fb3a06cec2c56ab2b5",
+      "title": "Story Telling for Presentation in Volume Visualization"
+    },
+    {
+      "paperId": "0453a1285b6c0ef64e26b5b432bc1eb536db2343",
+      "title": "How Important Is the \"Mental Map\"? - An Empirical Investigation of a Dynamic Graph Layout Algorithm"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "0d6a24e662a510dc1ab8b75249b1860f5c114afa",
+      "title": "Toward intelligent assistance for a data mining process: an ontology-based approach for cost-sensitive classification"
+    },
+    {
+      "paperId": "cbf86122fa1b5d046a042e8cb5ff12480ca3d28e",
+      "title": "A History Mechanism for Visual Data Mining"
+    },
+    {
+      "paperId": "0955cedd49e5b211893a940cf84525e8459580bb",
+      "title": "Implicit user profiling for on demand relevance feedback"
+    },
+    {
+      "paperId": "5d1b3b78a8d017b38314a7ce14f9faf77cfc7bad",
+      "title": "Assisted navigation for large information spaces"
+    },
+    {
+      "paperId": "ba1b42b56ab687f40f321847d11a4250936d7585",
+      "title": "Expert Finding for Collaborative Virtual Environments"
+    },
+    {
+      "paperId": "c33a36793bd432c590e71f40b48ae8215b743045",
+      "title": "A spreadsheet interface for visualization exploration"
+    },
+    {
+      "paperId": "35a49e6c76bbd247999a92d34f96bc80e3b045de",
+      "title": "Data exploration across temporal contexts"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "31de9777a016296686b2819dc3c2a27d66d1b82d",
+      "title": "GADGET: goal-oriented application design guidance for modular visualization environments"
+    },
+    {
+      "paperId": "7b1d068b6e3bed5235586b34238ee1898ce41f73",
+      "title": "Why interaction is more powerful than algorithms"
+    },
+    {
+      "paperId": "f698d2c56765d9d704db5dfd3a9512337185d808",
+      "title": "Planning Tasks for Knowledge Discovery in Databases; Performing Task-Oriented User-Guidance"
+    },
+    {
+      "paperId": "85d5164d33e47b744cece039c0e0bf54ca1cea9d",
+      "title": "Task-analytic approach to the automated design of graphic presentations"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "70e5a870ca39e361acf2b02f487d2e3951392382",
+      "title": "Guidelines for Designing User Interface Software"
+    },
+    {
+      "paperId": "d6dd96e2495cb1f5928c68e9631110eb198ab332",
+      "title": "The grand tour: a tool for viewing multidimensional data"
+    },
+    {
+      "paperId": "0df96ac53bc351a1d422cd1cd972205f2222afe0",
+      "title": "Bread"
+    },
+    {
+      "paperId": null,
+      "title": "http://www.merriam-webster.com/dictionary/guidance"
+    },
+    {
+      "paperId": "0a5ec309fbfa3d2e9a9ae084449cabbc6a11d3e6",
+      "title": "Rethinking the First Look at Data by Framing It"
+    },
+    {
+      "paperId": "1f3d190d96bee3915d1bac640bc2a999e1fa0269",
+      "title": "Towards a Characterization of Guidance in Visualization"
+    },
+    {
+      "paperId": "7ff232dd8f61f9e4851b82e11bb70eb119c51e21",
+      "title": "A Study of Emotion-triggered Adaptation Methods for Interactive Visualization"
+    },
+    {
+      "paperId": "f9a9d320f079a747eedda6c625cff4a7d54be3fe",
+      "title": "Supporting Visual Analysis in Smart Meeting Rooms"
+    },
+    {
+      "paperId": "fb348bd9928e4e2292d6c48dfcbf16f0dbff665c",
+      "title": "Discovering Distributed Expertise"
+    },
+    {
+      "paperId": null,
+      "title": "Symposium on Regarding the Intelligence in"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "e501616f80bf743e3f85ef134ef234b6e8c22751",
+      "title": "Implicit Feedback for Recommender Systems"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": null,
+      "title": "Infrastructure: The user is unsure which infrastructure to employ. Guidance in this case means recommending hardware (e.g., display wall or touch-enable surface) and software"
+    },
+    {
+      "paperId": null,
+      "title": "VA Methods"
+    },
+    {
+      "paperId": null,
+      "title": "Domain Knowledge refers to information that originates from the application domain. This could be"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Images include the visual data representations and information about mapping parameters. They can be useful for understanding what the user is actually seeing"
+    },
+    {
+      "paperId": null,
+      "title": "History relates to keeping track of interactive changes"
+    },
+    {
+      "paperId": null,
+      "title": "These are, however, only of theoretical relevance"
+    },
+    {
+      "paperId": null,
+      "title": "Tasks: The user needs help in structuring a goal into a series of tasks that solve the goal. This is a high-level gap that guidance could narrow by hinting at what to do next"
+    },
+    {
+      "paperId": null,
+      "title": "User Knowledge is about information that users input to the system, including annotations or degree of interest (DOI) functions, or information that the system can infer from the user"
+    },
+    {
+      "paperId": null,
+      "title": "Orienting: Providing merely orientation is at the low end of the guidance degree. The main goal is to build or maintain the user\u2019s mental map"
+    },
+    {
+      "paperId": null,
+      "title": "Path unknown means that the user does not know how to reach the desired result"
+    }
+  ]
+}

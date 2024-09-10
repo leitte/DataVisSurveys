@@ -1,0 +1,328 @@
+{
+  "paperId": "6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+  "externalIds": {
+    "MAG": "2087878135",
+    "DBLP": "journals/tvcg/JansenD13",
+    "DOI": "10.1109/TVCG.2013.134",
+    "CorpusId": 1099740,
+    "PubMed": "24051806"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6681e034db259bcd373ee4ed47c1b24b5ec6c464",
+  "title": "An Interaction Model for Visualizations Beyond The Desktop",
+  "abstract": "We present an interaction model for beyond-desktop visualizations that combines the visualization reference model with the instrumental interaction paradigm. Beyond-desktop visualizations involve a wide range of emerging technologies such as wall-sized displays, 3D and shape-changing displays, touch and tangible input, and physical information visualizations. While these technologies allow for new forms of interaction, they are often studied in isolation. New conceptual models are needed to build a coherent picture of what has been done and what is possible. We describe a modified pipeline model where raw data is processed into a visualization and then rendered into the physical world. Users can explore or change data by directly manipulating visualizations or through the use of instruments. Interactions can also take place in the physical world outside the visualization system, such as when using locomotion to inspect a large scale visualization. Through case studies we illustrate how this model can be used to describe both conventional and unconventional interactive visualization systems, and compare different design alternatives.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2013,
+  "referenceCount": 64,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-00847218v2/file/An_Interaction_Model_for_Visualizations_Beyond_The_Desktop.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2013-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2396-2405",
+    "volume": "19"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Jansen2013AnIM,\n author = {Yvonne Jansen and Pierre Dragicevic},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2396-2405},\n title = {An Interaction Model for Visualizations Beyond The Desktop},\n volume = {19},\n year = {2013}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145952920",
+      "name": "Yvonne Jansen"
+    },
+    {
+      "authorId": "3297322",
+      "name": "Pierre Dragicevic"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "424d0d3d100201cb08d43d15610a99ac36414159",
+      "title": "Evaluating the efficiency of physical visualizations"
+    },
+    {
+      "paperId": "2a83d8e8920500ec1463e868f36e7a1a4ec85502",
+      "title": "Perception of Visual Variables on Tiled Wall-Sized Displays for Information Visualization Applications"
+    },
+    {
+      "paperId": "1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+      "title": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
+    },
+    {
+      "paperId": "79c994f292981e3369cfeda902bd9440b90598fa",
+      "title": "FatFonts: combining the symbolic and visual aspects of numbers"
+    },
+    {
+      "paperId": "84cfce3ccee7baaec365b30060cccce4f3ceeb4c",
+      "title": "Tangible remote controllers for wall-size displays"
+    },
+    {
+      "paperId": "8fd769f965c94533e4cc8a694e578b553c2af279",
+      "title": "Shape-changing interfaces: a review of the design space and open research questions"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "832cc86b886cafb3f3a95a80bf925a430c2ecb57",
+      "title": "Direct and gestural interaction with relief: a 2.5D shape display"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "2f89bf735e968ceaf0d99f8bd2155c4af1c73cfe",
+      "title": "Fluid interaction for information visualization"
+    },
+    {
+      "paperId": "d83cad67cba4b554c0cee119c185e5b311305b80",
+      "title": "The Cognitive Science of Visual-Spatial Displays: Implications for Design"
+    },
+    {
+      "paperId": "cc8a9f63d8ce9a8e0d7d7e995bc7648879f7fea3",
+      "title": "Mid-air pan-and-zoom on wall-sized displays"
+    },
+    {
+      "paperId": "8f2a9c08b5fa91fb11d54e2f396539b8d18ad279",
+      "title": "Improving usability of interactive graphics specification and implementation with picking views and inverse transformation"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "d2e2cb43d5c8dd3ce8401382147883ca89c4831f",
+      "title": "Everyday use of the computer mouse extends peripersonal space representation"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "54d6aac25c4590452cc79208dbf2244fb70765bb",
+      "title": "Tangible props for scientific visualization: concept, requirements, application"
+    },
+    {
+      "paperId": "68d14fea866beac28988541618d64bd5cc647d10",
+      "title": "Lark: Coordinating Co-located Collaboration with Information Visualization"
+    },
+    {
+      "paperId": "b1f2b9c69f56467e1b39086fb8809c19fe89d1a1",
+      "title": "Epistemic action: A measure for cognitive support in tangible user interfaces?"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "88fa9dda1aeb4e8673a2a9ed4b431c0195a1a728",
+      "title": "Visualization Criticism - The Missing Link Between Information Visualization and Art"
+    },
+    {
+      "paperId": "e9db31f804a3ec8cabf4be0fa7e50d9e1c45bbb3",
+      "title": "The design and evaluation of selection techniques for 3D volumetric displays"
+    },
+    {
+      "paperId": "c11202d0086e8082713259b1d7b759761c7f9a2d",
+      "title": "From information visualization to direct manipulation: extending a generic visualization framework for the interactive editing of large datasets"
+    },
+    {
+      "paperId": "bfafe31266b84f8f3a7bfd5e5beb60c81815ce36",
+      "title": "Software Design Patterns for Information Visualization"
+    },
+    {
+      "paperId": "642a72bab3b2695de23f0871bbf1cf51e3eadbd3",
+      "title": "How bodies matter: five themes for interaction design"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "e26f4028e79f00cb90ef748eef54a666892ebb48",
+      "title": "Dynamic Query Tools for Time Series Data Sets: Timebox Widgets for Interactive Exploration"
+    },
+    {
+      "paperId": "fae9fb4116f9ee1639d2e9c285701fc9eb78a2a3",
+      "title": "Tools for the body (schema)"
+    },
+    {
+      "paperId": "f07f9f426be86378689df7166d251bc788ee11b0",
+      "title": "Edgelens: an interactive method for managing edge congestion in graphs"
+    },
+    {
+      "paperId": "ebabe164f300eebf7eb714a71ef460d3665c1a0b",
+      "title": "What's So Special about Human Tool Use?"
+    },
+    {
+      "paperId": "24b2b62c9d76e09bf41021a34e25167648e78cc5",
+      "title": "Internal vs. external information in visual perception"
+    },
+    {
+      "paperId": "b5a4a11ff8a4fbc265e0f2cd2bee20193f42d3fd",
+      "title": "Instrumental interaction: an interaction model for designing post-WIMP user interfaces"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "50e3e1b34d6d2ba4ad958e39e2805d13274d9f05",
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "7bdd34fe955e8b908b8cf1e39d311beb29c881ff",
+      "title": "A guide to constructs of control."
+    },
+    {
+      "paperId": "83d9993d7b4981d721b2f6779fcdf5e38a0f6326",
+      "title": "The Anti-Mac interface"
+    },
+    {
+      "paperId": "fc1c9138dc593140988b124f11292db3db5890dd",
+      "title": "Passive real-world interface props for neurosurgical visualization"
+    },
+    {
+      "paperId": "26a25e3a7499be851a75d0e692ba199283f0a939",
+      "title": "Toolglass and magic lenses: the see-through interface"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "4bf58ea97792749fb40aa1eaf55f9f5301fd680c",
+      "title": "Direct Manipulation Interfaces"
+    },
+    {
+      "paperId": null,
+      "title": "List of physical visualizations. tinyurl.com/physvis"
+    },
+    {
+      "paperId": "254e7a35b9d55d77f80604f77afb81e84eb5c2a9",
+      "title": "Radical atoms: beyond tangible bits, toward transformable materials"
+    },
+    {
+      "paperId": null,
+      "title": "Emoto. tinyurl.com/emotovis"
+    },
+    {
+      "paperId": null,
+      "title": "Hans Rosling\u2019s Shortest TED talk"
+    },
+    {
+      "paperId": null,
+      "title": "Dailystack"
+    },
+    {
+      "paperId": "d31505d5b6d61ad75a5ae6ded8fa5b7202e66372",
+      "title": "40 years of boxplots"
+    },
+    {
+      "paperId": "a29e149d55a1d956dd140477e1dbfc57ed7fbac4",
+      "title": "Embedding Information Visualization within Visual Representation"
+    },
+    {
+      "paperId": "25b2a2c22e1de3e3df9814b4b5d2559f7df67239",
+      "title": "Interaction, External Representation and Sense Making"
+    },
+    {
+      "paperId": null,
+      "title": "CMU & Intel Research"
+    },
+    {
+      "paperId": null,
+      "title": "Claytronics video. tinyurl.com/claytronics"
+    },
+    {
+      "paperId": null,
+      "title": "Computer science handbook"
+    },
+    {
+      "paperId": "6dc905084264a4d937be81cccfa82e78535062fd",
+      "title": "Streaming Graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Understanding Interactivity: Steps to a Phenomenology of Human-Computer Interaction"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "d4ece2f2b1deb9b741c517a827bf0b94b51da1e2",
+      "title": "A framework for elastic presentation space"
+    },
+    {
+      "paperId": "2e7628b77f21baa18bc1d1b120c0ec0dfa29238a",
+      "title": "Designing the User Interface"
+    },
+    {
+      "paperId": null,
+      "title": "Tableau software. www.tableausoftware.com. [accessed 2013-03-30]"
+    }
+  ]
+}

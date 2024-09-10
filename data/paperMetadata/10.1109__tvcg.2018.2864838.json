@@ -1,0 +1,372 @@
+{
+  "paperId": "34f3071bbbb2be99d766c365c60cdbf190b9db8d",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SachaKKC19",
+    "MAG": "2896774728",
+    "DOI": "10.1109/TVCG.2018.2864838",
+    "CorpusId": 52057648,
+    "PubMed": "30130221"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/34f3071bbbb2be99d766c365c60cdbf190b9db8d",
+  "title": "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning",
+  "abstract": "While many VA workflows make use of machine-learned models to support analytical tasks, VA workflows have become increasingly important in understanding and improving Machine Learning (ML) processes. In this paper, we propose an ontology (VIS4ML) for a subarea of VA, namely \u201cVA-assisted ML\u201d. The purpose of VIS4ML is to describe and understand existing VA workflows used in ML as well as to detect gaps in ML processes and the potential of introducing advanced VA techniques to such processes. Ontologies have been widely used to map out the scope of a topic in biology, medicine, and many other disciplines. We adopt the scholarly methodologies for constructing VIS4ML, including the specification, conceptualization, formalization, implementation, and validation of ontologies. In particular, we reinterpret the traditional VA pipeline to encompass model-development workflows. We introduce necessary definitions, rules, syntaxes, and visual notations for formulating VIS4ML and make use of semantic web technologies for implementing it in the Web Ontology Language (OWL). VIS4ML captures the high-level knowledge about previous workflows where VA is used to assist in ML. It is consistent with the established VA concepts and will continue to evolve along with the future developments in VA and ML. While this ontology is an effort for building the theoretical foundation of VA, it can be used by practitioners in real-world applications to optimize model-development workflows by systematically examining the potential benefits that can be brought about by either machine or human capabilities. Meanwhile, VIS4ML is intended to be extensible and will continue to be updated to reflect future advancements in using VA for building high-quality data-analytical models or for building such models rapidly.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 73,
+  "openAccessPdf": {
+    "url": "https://ora.ox.ac.uk/objects/uuid:5568f4b5-952f-48c5-89e3-9ab10043a931/files/m34b45ad57dcc21cf5cb9b87d96672264",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2019-01-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "385-395",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sacha2019VIS4MLAO,\n author = {D. Sacha and Matthias Kraus and D. Keim and Min Chen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {385-395},\n title = {VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2042948",
+      "name": "D. Sacha"
+    },
+    {
+      "authorId": "1665220350",
+      "name": "Matthias Kraus"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    },
+    {
+      "authorId": "12134086",
+      "name": "Min Chen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "365e1e723a36ace41878a95d3847b0f976e96c53",
+      "title": "Visualizing Confidence in Cluster-Based Ensemble Weather Forecast Analyses"
+    },
+    {
+      "paperId": "1abec8d03b8d1435ae920edea9b437be913a30ca",
+      "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+    },
+    {
+      "paperId": "7ddc973a3243d6d6559c9aa5da976670552e2784",
+      "title": "Visual Analytics for Explainable Deep Learning"
+    },
+    {
+      "paperId": "21af4ed208ea3ecdb20b75aa27cddd0bfe683eec",
+      "title": "The Building Blocks of Interpretability"
+    },
+    {
+      "paperId": "c3ea8aa472ee33cfd5fa61093fbb8d0dd816d780",
+      "title": "Viewing Visual Analytics as Model Building"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "b71fe09f4077acdeae25681e8f0cc4483d56e4ec",
+      "title": "Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "e99d83db1c37f7393a3fc83a10d63a5f57ed24c9",
+      "title": "What you see is what you can change: Human-centered machine learning by interactive visualization"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "eb88646aeeb3ffc48566d7357495b12c035eccb9",
+      "title": "Do Convolutional Neural Networks Learn Class Hierarchy?"
+    },
+    {
+      "paperId": "78f05cbe614cfb8ab4aaebdda6701eb0eb5148ae",
+      "title": "A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations"
+    },
+    {
+      "paperId": "01c2c083906aa9deedbf213c548750d4405e39cf",
+      "title": "ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "8ee5058172ad9d256bfc531397dc512dad86f3d9",
+      "title": "Ontology knowledge-based framework for machine learning concept"
+    },
+    {
+      "paperId": "92c1f538613ff4923a8fa3407a16bed4aed361ac",
+      "title": "Progressive Analytics: A Computation Paradigm for Exploratory Data Analysis"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "9d52da7c616b5c5328190166c166a8a3fa193d41",
+      "title": "Ontology-assisted provenance visualization for supporting enterprise search of engineering and business files"
+    },
+    {
+      "paperId": "432af96270bf110fb8e62af00e6b4ccb7ba88d40",
+      "title": "The prot\u00e9g\u00e9 project: a look back and a look forward"
+    },
+    {
+      "paperId": "772968e4c83c6d1aa714de4fe2b2de2d93c3275f",
+      "title": "What May Visualization Processes Optimize?"
+    },
+    {
+      "paperId": "825ca26af5a2a510dbc1a7b97587212bc98ae968",
+      "title": "Power to the People: The Role of Humans in Interactive Machine Learning"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "623624468543f3f80cc495d457964b24b041d85f",
+      "title": "Modeling User Preferences in Recommender Systems"
+    },
+    {
+      "paperId": "11255299fa62f263422c3c9758bef36b9cb61405",
+      "title": "Ontologies in Biological Data Visualization"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "941328e86963bcec2d11a596bca0ffb4cb789b34",
+      "title": "OntoDM-KDD: Ontology for Representing the Knowledge Discovery Process"
+    },
+    {
+      "paperId": "2ae77d4e051dfab9aed4926928df6e54d2b8384f",
+      "title": "VISO: a shared, formal knowledge base as a foundation for semi-automatic infovis systems"
+    },
+    {
+      "paperId": "be921e6d9b3824c4bad331415445a8a8a6829d9c",
+      "title": "Active learning"
+    },
+    {
+      "paperId": "fbf9f8650c9521472f0297e7c82292235738449b",
+      "title": "Classification and regression trees"
+    },
+    {
+      "paperId": "31a816f4fef768f29772a003e534b1378611bfe6",
+      "title": "Wrangler: interactive visual specification of data transformation scripts"
+    },
+    {
+      "paperId": "de1dc293dc69ee2e1e68da3f5871046488762fce",
+      "title": "Towards a Unifying Visualization Ontology"
+    },
+    {
+      "paperId": "11aca623cd32539ea9f219072caecd04fdd70268",
+      "title": "An Enhanced Visualization Ontology for a Better Representation of the Visualization Process"
+    },
+    {
+      "paperId": "8530e1a78a85b2739bbb97d3d5cf68e3f8375f5e",
+      "title": "Towards an Ontology of Data Mining Investigations"
+    },
+    {
+      "paperId": "2d84f783b0d8dd1986d5254d1e1d29af3ac8835f",
+      "title": "Foundations of Semantic Web Technologies"
+    },
+    {
+      "paperId": "ce9b5fe03fe96848d4dc15eb9745a7a2faa16b03",
+      "title": "OntoDM: An Ontology of Data Mining"
+    },
+    {
+      "paperId": "141eb9bf9d2bca3498a500590bfabfebb8f78ff8",
+      "title": "Visual analytics for complex concepts using a human cognition model"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "3e5bc185a74d5cfc3e576d17a5d1b63b7593b82d",
+      "title": "Ontology visualization methods\u2014a survey"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "e2a95251c090861c6f12dd859fb770786b086ced",
+      "title": "Do you see what I mean? [Data visualization]"
+    },
+    {
+      "paperId": "36a740e7f7e4dad38705022bc4235bda1cd12b93",
+      "title": "Building an Ontology of Visualization"
+    },
+    {
+      "paperId": "08dc9c5f1e6c8546f3a6c29f54dd579d104bea2e",
+      "title": "Ontologies improve text document clustering"
+    },
+    {
+      "paperId": "a3db81e35f1890511c38d685a2f57de476820518",
+      "title": "Interactive machine learning"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "807c1f19047f96083e13614f7ce20f2ac98c239a",
+      "title": "C4.5: Programs for Machine Learning"
+    },
+    {
+      "paperId": "e01828e7b762257d70bc122e38d6b274e5d140cb",
+      "title": "The application visualization system: a computational environment for scientific visualization"
+    },
+    {
+      "paperId": "b544e7f4c580fd30e66c2fae8e94c87912d35e27",
+      "title": "SOMFlow: Guided Exploratory Cluster Analysis with Self-Organizing Maps and Analytic Provenance"
+    },
+    {
+      "paperId": "5cdc573036eac9c370e16291744b4595d4cf5e3f",
+      "title": "Clustervision: Visual Supervision of Unsupervised Clustering"
+    },
+    {
+      "paperId": "547711207f25deda86f5a079167c0916e6809ad5",
+      "title": "Analyzing the Training Processes of Deep Generative Models"
+    },
+    {
+      "paperId": "ec2c981fb43d5d284eafd76a8912810b2f8213c1",
+      "title": "Knowledge Generation in Visual Analytics: Integrating Human and Machine Intelligence for Exploration of Big Data"
+    },
+    {
+      "paperId": "5b20ab877b21d3d83251dd4d1fffbd848ffd1557",
+      "title": "Visual Diagnosis of Tree Boosting Methods"
+    },
+    {
+      "paperId": "d9deeff32c13b355a3cd7db484c348faecc05b67",
+      "title": "TreePOD: Sensitivity-Aware Selection of Pareto-Optimal Decision Trees"
+    },
+    {
+      "paperId": null,
+      "title": "Ontograf. Prot\u00e9g\u00e9 Wiki, accessed in June 2018"
+    },
+    {
+      "paperId": "34c3edb6bdd8d3022a4b3427e637c98fbe2e1220",
+      "title": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "paperId": "d667a041fb1118ccee46e699b320e047b634a516",
+      "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "paperId": "719e2d717c4954b058a32c609b8171319299f8fb",
+      "title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "paperId": "1554134e34366adcd69cd021a0b930a003ae789e",
+      "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "paperId": "590b1b9ed44afb2df6d102139cfb5f5e0c31f1dc",
+      "title": "Pathways for Theoretical Advances in Visualization"
+    },
+    {
+      "paperId": "b940dbda66d4911ab476345258b0ea7530fb5730",
+      "title": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "paperId": null,
+      "title": "Rnnbow: Visualizing learning via backpropagation gradients in recurrent neural networks"
+    },
+    {
+      "paperId": "bbf20de0567ea46b83854ed2e9c5181c39f99db1",
+      "title": "Expanding the OntoDM ontology with network analysis tasks and algorithms"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "bd3ea04bb4664424d1169b0977dd3b2318f86970",
+      "title": "Do You See What I Mean"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": "4c6a93bf6a75f0efce536560559f68d7128fa5dc",
+      "title": "Investigating visualization ontologies"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization ontologies : Report of a workshop held at the national e - science centre"
+    },
+    {
+      "paperId": "39d3c6d1e405fa695669fcd909eff77da192b232",
+      "title": "A Data Mining Ontology for Grid Programming"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "7feb0fc888cd55360949554db032d7d1cba9e947",
+      "title": "Programs for Machine Learning"
+    },
+    {
+      "paperId": "fab610330430149753247e24f5bf9893e21be108",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 from Web Data to Visualization via Ontology Mapping"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    }
+  ]
+}

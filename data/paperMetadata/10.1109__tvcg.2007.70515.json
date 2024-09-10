@@ -1,0 +1,329 @@
+{
+  "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+  "externalIds": {
+    "DBLP": "journals/tvcg/YiKSJ07",
+    "MAG": "2161133721",
+    "DOI": "10.1109/TVCG.2007.70515",
+    "CorpusId": 7103088,
+    "PubMed": "17968068"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/e30ecedc7f5fa639915e95f153d9561a3da0962f",
+  "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization",
+  "abstract": "Even though interaction is an important part of information visualization (Infovis), it has garnered a relatively low level of attention from the Infovis community. A few frameworks and taxonomies of Infovis interaction techniques exist, but they typically focus on low-level operations and do not address the variety of benefits interaction provides. After conducting an extensive review of Infovis systems and their interactive capabilities, we propose seven general categories of interaction techniques widely used in Infovis: 1) Select, 2) Explore, 3) Reconfigure, 4) Encode, 5) Abstract/Elaborate, 6) Filter, and 7) Connect. These categories are organized around a user's intent while interacting with a system rather than the low-level interaction techniques provided by a system. The categories can act as a framework to help discuss and evaluate interaction techniques and hopefully lay an initial foundation toward a deeper understanding and a science of interaction.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2007,
+  "referenceCount": 62,
+  "openAccessPdf": {
+    "url": "http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InfoVisTutorial2010/read_DeeperUnderstanding.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2007-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1224-1231",
+    "volume": "13"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Yi2007TowardAD,\n author = {Ji Soo Yi and Y. Kang and J. Stasko and J. Jacko},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1224-1231},\n title = {Toward a Deeper Understanding of the Role of Interaction in Information Visualization},\n volume = {13},\n year = {2007}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1681808",
+      "name": "Ji Soo Yi"
+    },
+    {
+      "authorId": "145015438",
+      "name": "Y. Kang"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    },
+    {
+      "authorId": "2184437",
+      "name": "J. Jacko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5e80e7131e77fecfc1cf6648f0f6b25e364c7e4d",
+      "title": "Human Computer Interaction"
+    },
+    {
+      "paperId": "49b3bd6c3d468022096b1654f80d8bfeedd75ca2",
+      "title": "Book Review: Information Visualization: Design for Interaction"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "7b8d86fcc8fcde959becdf698778d88d7cb28ddf",
+      "title": "Information Visualization: Design for Interaction (2nd Edition)"
+    },
+    {
+      "paperId": "30a609aa212644846e34f07603c4e2a516d83ec9",
+      "title": "Designing for social data analysis"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "f44c5d713af40e514b2f2cfb9c72a1589b96d813",
+      "title": "The Grammar of Graphics (Statistics and Computing)"
+    },
+    {
+      "paperId": "84957ae07e64e02db819278c621458d371a7e28f",
+      "title": "Toolkit design for interactive structured graphics"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "cf928e7b1247ad0e3bc5437a6778be625fa41c20",
+      "title": "Human-Computer Interaction (3rd Edition)"
+    },
+    {
+      "paperId": "1d1608441c3c1b6106bd022727011975aa9ff30f",
+      "title": "Sketching a graph to query a time-series database"
+    },
+    {
+      "paperId": "c5b692fee9d05317b306d953a3af62c95c21c00d",
+      "title": "The InfoCanvas: information conveyance through personalized, expressive art"
+    },
+    {
+      "paperId": "f5d3215d1261ad5e69714c89678205360a617a59",
+      "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "7153dbab1d2f19138eee35e819872e21c5f32c3c",
+      "title": "InfoZoom \u2212 Analysing Formula One racing results with an interactive data mining and visualisation tool"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "1bb0733b3d05f258a749d668fbd1b3d3dc47c642",
+      "title": "The Attribute Explorer: information synthesis via exploration"
+    },
+    {
+      "paperId": "792a3361cae567b8680bbc815d8239e41b9d3a6a",
+      "title": "Data mountain: using spatial memory for document management"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "319bef16b09502a4c6d374a947ad74006cc1cda2",
+      "title": "Computer graphics: Principles and practice"
+    },
+    {
+      "paperId": "16bd1d2716887808d8efc376ae08a7681b85c188",
+      "title": "Spotfire: an information exploration environment"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "424c46da5086dc08929a87cbdad1e987645881fb",
+      "title": "SDM: selective dynamic manipulation of visualizations"
+    },
+    {
+      "paperId": "45b95e5b43ce20f94d446a343bfa7d785769f566",
+      "title": "Computer graphics (2nd ed. in C): principles and practice"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "efdcd172075b6d5651356f6bb58912ecc4fef590",
+      "title": "The cost-of-knowledge characteristic function: display evaluation for direct-walk dynamic information visualizations"
+    },
+    {
+      "paperId": "0368a655b9e6aa34cee4c4d35e74f8efd454ee3e",
+      "title": "Pad: an alternative approach to the computer interface"
+    },
+    {
+      "paperId": "a963cc48a72d50e8e620410592e71dd49948058d",
+      "title": "Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "b13cfc15a298608a60fe32c3214cdf1956321997",
+      "title": "Interactive data visualization using focusing and linking"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "821a30dc1fe6da429fa234a2391731617f718285",
+      "title": "How Designers Think: The Design Process Demystified"
+    },
+    {
+      "paperId": "d0f550daa2f7b493abea1ce32f76ebc13a089ea8",
+      "title": "Dynamic Graphics for Data Analysis"
+    },
+    {
+      "paperId": "64dfdeb084481b5529166bfb96077e2f32d4cc55",
+      "title": "Generalized fisheye views"
+    },
+    {
+      "paperId": "86fa3f3d0b49829e3689b72e3fb85d1ba04f4e53",
+      "title": "How Designers Think"
+    },
+    {
+      "paperId": null,
+      "title": "Authorized licensed use limited to"
+    },
+    {
+      "paperId": "ca3892b1ec0d2e6a79e8494b35c25effa49b09f8",
+      "title": "Google Earth"
+    },
+    {
+      "paperId": null,
+      "title": "SeeIT"
+    },
+    {
+      "paperId": "43ac3fdb7c86ad2512a5c89443f689dbfb59e355",
+      "title": "Thank You for Your Attention"
+    },
+    {
+      "paperId": null,
+      "title": "Illuminating the Path"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "1291d96078bed9f7656004087b1b0e0767a72bed",
+      "title": "Virtual Reality Visualization of 3-D Electromagnetic Fields"
+    },
+    {
+      "paperId": null,
+      "title": "Enhanced dynamic queries via movable filters"
+    },
+    {
+      "paperId": null,
+      "title": "Things that make us smart . Reading, MA, USA"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": null,
+      "title": "Thinkmap Visual Thesaurus"
+    },
+    {
+      "paperId": null,
+      "title": "SemaSpace -Semantic Networks as Memory Theatre"
+    },
+    {
+      "paperId": null,
+      "title": "Table Lens"
+    },
+    {
+      "paperId": null,
+      "title": "InfoScope"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+  "externalIds": {
+    "MAG": "2090687959",
+    "DBLP": "journals/tvcg/SachaSSKEK14",
+    "DOI": "10.1109/TVCG.2014.2346481",
+    "CorpusId": 7341582,
+    "PubMed": "26356874"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+  "title": "Knowledge Generation Model for Visual Analytics",
+  "abstract": "Visual analytics enables us to analyze huge information spaces in order to support complex decision making and data exploration. Humans play a central role in generating knowledge from the snippets of evidence emerging from visual data analysis. Although prior research provides frameworks that generalize this process, their scope is often narrowly focused so they do not encompass different perspectives at different levels. This paper proposes a knowledge generation model for visual analytics that ties together these diverse frameworks, yet retains previously developed models (e.g., KDD process) to describe individual segments of the overall visual analytic processes. To test its utility, a real world visual analytics system is compared against the model, demonstrating that the knowledge generation process model provides a useful guideline when developing and evaluating such systems. The model is used to effectively compare different data analysis systems. Furthermore, the model provides a common language and description of visual analytic processes, which can be used for communication between researchers. At the end, our model reflects areas of research that future researchers can embark on.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 47,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-11-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1604-1613",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sacha2014KnowledgeGM,\n author = {D. Sacha and A. Stoffel and Florian Stoffel and Bum Chul Kwon and Geoffrey P. Ellis and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1604-1613},\n title = {Knowledge Generation Model for Visual Analytics},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2042948",
+      "name": "D. Sacha"
+    },
+    {
+      "authorId": "144017549",
+      "name": "A. Stoffel"
+    },
+    {
+      "authorId": "34817165",
+      "name": "Florian Stoffel"
+    },
+    {
+      "authorId": "145276140",
+      "name": "Bum Chul Kwon"
+    },
+    {
+      "authorId": "36877668",
+      "name": "Geoffrey P. Ellis"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "87c915e305e43c515b636c592a79b833763e80ba",
+      "title": "From Ill-defined Problems to Informed Decisions"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "31f1a77f563a59e06618da383ec22e2d06b936ed",
+      "title": "The User Puzzle&#8212;Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": "cef82c1cd9a68f89fa05fbda8074389c209e6dd1",
+      "title": "Facilitating the reuse process in distributed collaboration: a distributed cognition approach"
+    },
+    {
+      "paperId": "f36226b9ec870338f433380a4720626fcca1bbed",
+      "title": "Visual analytic roadblocks for novice investigators"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "a327ff9a45994a0e8ff49da44d6cd2e893ebe74b",
+      "title": "A closer look at note taking in the co-located collaborative visual analytics process"
+    },
+    {
+      "paperId": "beb6c63e85df7564ab596e9f86779c8d1d650484",
+      "title": "HARVEST: an intelligent visual analytic tool for the masses"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "d5ec4df65baa9b35cde29ce6a769bf6505ddfcaf",
+      "title": "KNIME - the Konstanz information miner: version 2.0 and beyond"
+    },
+    {
+      "paperId": "5082ba362b83821dd663de2d15eed205f46982b9",
+      "title": "Connecting the dots in visual analysis"
+    },
+    {
+      "paperId": "cecebaf692ef8729026b963d5db6e3fb6df08828",
+      "title": "Supporting Exploration Awareness in Information Visualization"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "141eb9bf9d2bca3498a500590bfabfebb8f78ff8",
+      "title": "Visual analytics for complex concepts using a human cognition model"
+    },
+    {
+      "paperId": "f7642e2794d6d26a968322ac6461c7d4d52d80d9",
+      "title": "Collaborative synthesis of visual analytic results"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "024144dfe9faacd35cf9f082766b732acda16de1",
+      "title": "Understanding and characterizing insights: how do people gain insights using information visualization?"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "853e1c477b291a50c08f122a0175bdf418044ff7",
+      "title": "The Sandbox for analysis: concepts and methods"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "2d6233cac139d17a09192ac1f84c73bbe8b7ac9c",
+      "title": "Data mining and knowledge discovery in databases"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "bd0dba264188ac02d523b362743725f65a7cf812",
+      "title": "Focussing in reasoning and decision making"
+    },
+    {
+      "paperId": "057e27a21d1118e5aab781be77839c24279a7826",
+      "title": "Abduction Reason And Science Processes Of Discovery And Explanation"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "f4f3234cb6bd146872453d00e26a4741e216dc95",
+      "title": "Interaction Taxonomy for Tracking of User Actions in Visual Analytics Applications"
+    },
+    {
+      "paperId": "489bb9b6953b863f850ca37d4e2e5a2a129d6cea",
+      "title": "Dynamic Visual Analytics - Facing the Real-Time Challenge"
+    },
+    {
+      "paperId": "0f5cdc3bfc6f7179c02d3ecd88c0f9541eb59f28",
+      "title": "The User Puzzle - Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": "818826f356444f3daa3447755bf63f171f39ec47",
+      "title": "Active Learning Literature Survey"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": null,
+      "title": "Collected papers: Elements of Logic"
+    },
+    {
+      "paperId": null,
+      "title": "KNOWLEDGE GENERATION MODEL FOR VISUAL ANALYTICS 1 SACHA 613"
+    }
+  ]
+}

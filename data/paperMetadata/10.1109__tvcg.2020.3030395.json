@@ -1,0 +1,602 @@
+{
+  "paperId": "9df799e6924523a9a5b1202ef4a64935af9824f1",
+  "externalIds": {
+    "MAG": "3093393391",
+    "DBLP": "journals/tvcg/Heine21",
+    "DOI": "10.1109/TVCG.2020.3030395",
+    "CorpusId": 224809902,
+    "PubMed": "33074817"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/9df799e6924523a9a5b1202ef4a64935af9824f1",
+  "title": "Towards Modeling Visualization Processes as Dynamic Bayesian Networks",
+  "abstract": "Visualization designs typically need to be evaluated with user studies, because their suitability for a particular task is hard to predict. What the field of visualization is currently lacking are theories and models that can be used to explain why certain designs work and others do not. This paper outlines a general framework for modeling visualization processes that can serve as the first step towards such a theory. It surveys related research in mathematical and computational psychology and argues for the use of dynamic Bayesian networks to describe these time-dependent, probabilistic processes. It is discussed how these models could be used to aid in design evaluation. The development of concrete models will be a long process. Thus, the paper outlines a research program sketching how to develop prototypes and their extensions from existing models, controlled experiments, and observational studies.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 133,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-10-19",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1000-1010",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Heine2020TowardsMV,\n author = {Christian Heine},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1000-1010},\n title = {Towards Modeling Visualization Processes as Dynamic Bayesian Networks},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145356585",
+      "name": "Christian Heine"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5b509ef90c801e18779f9cc849aa2732fc42a725",
+      "title": "If Anything on This Graphic Causes Confusion, Discard the Entire Product"
+    },
+    {
+      "paperId": "8e4bfe46f7f285ea166a780deeed22754eb4d57c",
+      "title": "ConceptGraph: A Formal Model for Interpretation and Reasoning During Visual Analysis"
+    },
+    {
+      "paperId": "2cbf892dbd7427187c387f4991538766fe087fa0",
+      "title": "Toward automatic comparison of visualization techniques: Application to graph visualization"
+    },
+    {
+      "paperId": "e50a284dd24b710eae209c3c5f3ebed5d238d6d3",
+      "title": "Perceptually guided contrast enhancement based on viewing distance"
+    },
+    {
+      "paperId": "cd2a3b3c1bde37160edcbce45052701a3525edd9",
+      "title": "An Emotional Response to the Value of Visualization"
+    },
+    {
+      "paperId": "d0a53e6ac969e853caaf6183b5f4e44aa6f93d9d",
+      "title": "A Case for Cognitive Models in Visualization Research"
+    },
+    {
+      "paperId": "ed8969173b9e23cc4bc891606f78514046ad2a28",
+      "title": "An automated approach for the recognition of intended messages in grouped bar charts"
+    },
+    {
+      "paperId": "de3e554526084fdc42aaf5c4dd8e8b7bd37c1ebd",
+      "title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"
+    },
+    {
+      "paperId": "54142bb2ad9ebd064b28501e899f1e80b309d720",
+      "title": "A Bayesian Cognition Approach to Improve Data Visualization"
+    },
+    {
+      "paperId": "bfc191e40902fe18432807f6c456c59fe78b2307",
+      "title": "Details-First, Show Context, Overview Last: Supporting Exploration of Viscous Fingers in Large-Scale Ensemble Simulations"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "a6714f3dbb048d481d3e945bdc42c9da9517c62a",
+      "title": "Evaluating \u2018Graphical Perception\u2019 with CNNs"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "421703f469c46e06bddf0642224e75189b208af6",
+      "title": "Cognitive Biases in Visualizations"
+    },
+    {
+      "paperId": "8195ab468c38c2a8181386417ea1d95d17e5278b",
+      "title": "Beyond Heuristics: Learning Visualization Design"
+    },
+    {
+      "paperId": "28a4db89125addb444c69c6336d379ee1eb9e9c7",
+      "title": "Decision making with visualizations: a cognitive framework across disciplines"
+    },
+    {
+      "paperId": "fe5451e7202c5cadf5ae6f2f3b5129b223d34254",
+      "title": "Quality Metrics for Information Visualization"
+    },
+    {
+      "paperId": "2289755d57df41a6974ef9cbc6f6c5e8b4460815",
+      "title": "Computational Modeling of Cognition and Behavior"
+    },
+    {
+      "paperId": "0fc748ab61c699c6a5649d472a0b1aa6d8c0a36f",
+      "title": "Warning, Bias May Occur: A Proposed Approach to Detecting Cognitive Bias in Interactive Visual Analytics"
+    },
+    {
+      "paperId": "1872ee3ba71eb886bb86ec289d28323d5f6e5f5f",
+      "title": "Task-Based Effectiveness of Basic Visualizations"
+    },
+    {
+      "paperId": "4c0cd8796acd334a9ebe47c41dd2b88396d72d61",
+      "title": "Human Factors in Streaming Data Analysis: Challenges and Opportunities for Information Visualization"
+    },
+    {
+      "paperId": "7e3ec3639951ed11418ca3596cb432f2e8a5c985",
+      "title": "Towards Perceptual Optimization of the Visual Design of Scatterplots"
+    },
+    {
+      "paperId": "e24aff005da4c0ecfb64eb3ec8bd9c9e7a1ea3b3",
+      "title": "Eye tracking evaluation of visual analytics"
+    },
+    {
+      "paperId": "1e685ce25c35fef280cae2d5397a41e4d6155c2a",
+      "title": "A Survey of Visual Analytic Pipelines"
+    },
+    {
+      "paperId": "a87d99345549e533619bb233845b6454ad3aa9ee",
+      "title": "An Enhanced Visualization Process Model for Incremental Visualization"
+    },
+    {
+      "paperId": "60941731b5b77cd329b5a3a3e9a088d61227d698",
+      "title": "Evaluating Information Visualization via the Interplay of Heuristic Evaluation and Question-Based Scoring"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "9fcc2e2314cdf713a3763c9288b1a8fff9b64873",
+      "title": "How do People Make Sense of Unfamiliar Visualizations?: A Grounded Model of Novice's Information Visualization Sensemaking"
+    },
+    {
+      "paperId": "cfdc4c1af6409f325f07e1c190e9ff38fd2f5c02",
+      "title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights"
+    },
+    {
+      "paperId": "772968e4c83c6d1aa714de4fe2b2de2d93c3275f",
+      "title": "What May Visualization Processes Optimize?"
+    },
+    {
+      "paperId": "7fa8a212ed7491a50825573bc8de9f0711164ff4",
+      "title": "The Oxford Handbook of Computational and Mathematical Psychology"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "9c9663c06c9f63b9079e689f920be8b5bceca0d3",
+      "title": "Toward visualization-specific heuristic evaluation"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "a52e3ca91f12c7144b23954bda615c78d6c78192",
+      "title": "An insight- and task-based methodology for evaluating spatiotemporal visual analytics"
+    },
+    {
+      "paperId": "b60d86e71b655e0622de1b9df307e9f4a3756d33",
+      "title": "Unifying the Mind: Cognitive Representations as Graphical Models"
+    },
+    {
+      "paperId": "957f6d67d133ccc870cdc454f2c22e8d33c62b54",
+      "title": "A human cognition framework for information visualization"
+    },
+    {
+      "paperId": "0fc001961fc4fa1f4010c3591ea819481667b9af",
+      "title": "The Persuasive Power of Data Visualization"
+    },
+    {
+      "paperId": "1ae1450ee3357ac7a55a0f7e2342c094ac016def",
+      "title": "Methods for Compensating Contrast Effects in Information Visualization"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "8c9fe711bdd1f33645bd1104e84c25c8a51e04c2",
+      "title": "The Predictive Mind"
+    },
+    {
+      "paperId": "8acd4ed4bb5b0926957d0218ae5cc16f4fbc60e5",
+      "title": "Handbook on Graph Drawing and Visualization"
+    },
+    {
+      "paperId": "a8da840d0541ee532c8d7eb85ad00fa4f379a726",
+      "title": "A Survey of Visualization Pipelines"
+    },
+    {
+      "paperId": "8c43cf12a46ec78e41a92d2f1f52564b5a9f7569",
+      "title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing"
+    },
+    {
+      "paperId": "4ebdbc6a0efd86610e8570ac70e4077a822e5f8e",
+      "title": "Understanding Visualization by Understanding Individual Users"
+    },
+    {
+      "paperId": "262b83a6eac93f14a6d391789b93cbf1e6b2050c",
+      "title": "The importance of tracing data through the visualization pipeline"
+    },
+    {
+      "paperId": "6aa52c988358d49da2bda1e9aa8dcd76cac40d94",
+      "title": "Evaluation in Information Visualization: Heuristic Evaluation"
+    },
+    {
+      "paperId": "17db372b3e9058e77ad40613cf3e0d61e25d52e3",
+      "title": "The Oxford handbook of thinking and reasoning"
+    },
+    {
+      "paperId": "08ea7fbf1bf3263c8df05be6d44a8fc5b090217a",
+      "title": "Data Visualization Optimization via Computational Modeling of Perception"
+    },
+    {
+      "paperId": "d83cad67cba4b554c0cee119c185e5b311305b80",
+      "title": "The Cognitive Science of Visual-Spatial Displays: Implications for Design"
+    },
+    {
+      "paperId": "556874d339b329dc7fe22ebc4e2548402998314e",
+      "title": "A comparison of benchmark task and insight evaluation methods for information visualization"
+    },
+    {
+      "paperId": "91983545ee73ec4510917c7adfae066a74a6dde0",
+      "title": "A User Study of Visualization Effectiveness Using EEG and Cognitive Load"
+    },
+    {
+      "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+      "title": "An Information-theoretic Framework for Visualization"
+    },
+    {
+      "paperId": "00317fc079136c11ca32768e934dc63840f8a36e",
+      "title": "Graphical inference for infovis"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "b0c7b282003ac26311ee6fd61bcfc1550e9c92f0",
+      "title": "\u201cSearch, Show Context, Expand on Demand\u201d: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+      "paperId": "36eb6fea39ce06e2807f074fa3d5e79ed0f2bcef",
+      "title": "Probabilistic Graphical Models - Principles and Techniques"
+    },
+    {
+      "paperId": "c19e83cebd29e24c56876bae2233d57840949f43",
+      "title": "The Cambridge Handbook of Computational Psychology"
+    },
+    {
+      "paperId": "32de398985422eff9f93652b7794b036fe518f87",
+      "title": "Toward a definition of visual complexity as an implicit measure of cognitive load"
+    },
+    {
+      "paperId": "40904fcc5d7238d72068397cc6d77d3013a5543c",
+      "title": "Connectionist models of cognition."
+    },
+    {
+      "paperId": "1a93d1d8961ec58d4c2a606d57fa746f34486c2c",
+      "title": "Bayesian models of cognition"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "1dccc2d2207d25b4d7bde33d74f33b9ec97f0eaf",
+      "title": "The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "81eb351c2c0ed8a4407db6e294eb0de904c5c85c",
+      "title": "Minimalism in information visualization: attitudes towards maximizing the data-ink ratio"
+    },
+    {
+      "paperId": "c112dca5c8fd4dbdc5f35d7fd427b95f335d26cf",
+      "title": "The Aesthetics of Graph Visualization"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "5c2dd14c18397c27d8d370194bf905c37ed1c42a",
+      "title": "Bayesian brain : probabilistic approaches to neural coding"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "8cd09f75e67bde23048aeae8eda3b5fa4f32c639",
+      "title": "The Cambridge Handbook of Visuospatial Thinking"
+    },
+    {
+      "paperId": "8af78f6f4fe2bdcd3c9d3bafc424b04a22d4e5ea",
+      "title": "An integrated theory of the mind."
+    },
+    {
+      "paperId": "0b4cdda45d1f2b17c92e510e92b46a8974982901",
+      "title": "Analyzing Perceptual Organization in Information Graphics"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "b1d4aac2f66042f596a1db109e5dcac887876bb2",
+      "title": "Smooth and efficient zooming and panning"
+    },
+    {
+      "paperId": "e7feec4824fde906564ea6eb20b0c1630487aa82",
+      "title": "A Next Step: Visualizing Errors and Uncertainty"
+    },
+    {
+      "paperId": "6d3ed6a902e1d0b57a1502cf822804b2ec827615",
+      "title": "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "fbc55681628ce834d3a6c15bd4c0cc842f47fc7e",
+      "title": "Cognitive Modeling"
+    },
+    {
+      "paperId": "38a44e179e2f093a3733b099cf8fd02f030a2580",
+      "title": "Supporting cognitive models as users"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "a4a88e7287c1d6d5982e7642b32503b97a37683f",
+      "title": "Task-Specific Visualization Design"
+    },
+    {
+      "paperId": "1bc42f3df7ac3315e1a95da1aef36941d89f95d4",
+      "title": "Learning Dynamic Bayesian Networks"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "305d24100a95c3981b2fa78abad4980fa830a2b6",
+      "title": "Computational steering"
+    },
+    {
+      "paperId": "64e222131ec0bca02b671b053ec8fc294336a603",
+      "title": "Validating Graph Drawing Aesthetics"
+    },
+    {
+      "paperId": "6bb3a33f7a56b306e25705d09882def20b2aebc6",
+      "title": "How Maps Work - Representation, Visualization, and Design"
+    },
+    {
+      "paperId": "7836ba1b612822be0a86c61249d53a1e9841b468",
+      "title": "Cognitive Tutors: Lessons Learned"
+    },
+    {
+      "paperId": "339dc012f448836baf3f01499a424973fdc2cdac",
+      "title": "Heuristic evaluation"
+    },
+    {
+      "paperId": "a833e02ef5c0b70b3671f643e31fe02738c7a35a",
+      "title": "Research issues in the foundations of visualization"
+    },
+    {
+      "paperId": "eea094ba215c5a6b1b178fd3190f4e10b5d5ca98",
+      "title": "Graph drawing by force\u2010directed placement"
+    },
+    {
+      "paperId": "27f1b54ee5c8e6afe0398486b2dcd1e1d779d76e",
+      "title": "Unified Theories of Cognition"
+    },
+    {
+      "paperId": "46a6a069023b5690b12b04157e9c60baff303538",
+      "title": "Spot noise texture synthesis for data visualization"
+    },
+    {
+      "paperId": "9822ca5463f1d8e025b878ec24244840d0a77132",
+      "title": "A cognitive model for the perception and understanding of graphs"
+    },
+    {
+      "paperId": "cdae21e4198989f417317c0836eb62ae9a9de2cb",
+      "title": "Some observations on mental models"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "9aa6443860ca7c8ab8dd642b4f948d99cf6e9f30",
+      "title": "Graphical Methods for Data Analysis"
+    },
+    {
+      "paperId": "2053c6bfd6ff3fc78eb08f82279b5596e2f37b36",
+      "title": "Computer Graphics"
+    },
+    {
+      "paperId": "86cf2b65599de56c60d87f2d8211f4bd5d100b07",
+      "title": "Warning"
+    },
+    {
+      "paperId": null,
+      "title": "ACT-R Research Group, Department of Psychology"
+    },
+    {
+      "paperId": "031b4611d3f56fa2e6704ba7f1a57be9a9a9a235",
+      "title": "Bridging from Goals to Tasks with Design Study Analysis Reports"
+    },
+    {
+      "paperId": "90dc5fa2f8f1f41c2e43f60ba9da5475c4165b8c",
+      "title": "Towards a Bayesian Model of Data Visualization Cognition"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Machinery, Paris, France"
+    },
+    {
+      "paperId": "d61435d38e02bdc35fdae7afd60f99eefd472306",
+      "title": "The Design of Everyday Things: Revised and Expanded Edition"
+    },
+    {
+      "paperId": "d6a07043575d263f26ae0eab90801394a4e8a1f9",
+      "title": "Cognitive architectures"
+    },
+    {
+      "paperId": "0f5cdc3bfc6f7179c02d3ecd88c0f9541eb59f28",
+      "title": "The User Puzzle - Explaining the Interaction with Visual Analytics Systems"
+    },
+    {
+      "paperId": "5ec8a0b2ec20811383fb80730461253607d1ce78",
+      "title": "Information Foraging Theory: Adaptive Interaction with Information"
+    },
+    {
+      "paperId": "3e1c0808abfc431d4e995947c7d7c9dcb7be5568",
+      "title": "Model-based Visualization - Computing Perceptually Optimal Visualizations"
+    },
+    {
+      "paperId": "17c2c4deca1f3743c657961638546ae447590081",
+      "title": "Cognitive task analysis"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": "29b44c461b36d8a1313a73261a2d25d7c3d3cc04",
+      "title": "Dynamical Systems Approaches to Cognition"
+    },
+    {
+      "paperId": "f66c958614b28956f424a3370b5d7f6ee0249863",
+      "title": "Constraints in Cognitive Architectures"
+    },
+    {
+      "paperId": "66d967237db7cf3deb8f4ccbd341e43491695dcf",
+      "title": "The interaction of the explicit and the implicit in skill learning: a dual-process approach."
+    },
+    {
+      "paperId": "23e909f3209248e681b872d7d82a14c2839864fb",
+      "title": "How to Solve It: A New Aspect of Mathematical Method"
+    },
+    {
+      "paperId": "0548d65862d2c1fb849d8feab11e58564ba749ec",
+      "title": "User interface evaluation: how cognitive models can help"
+    },
+    {
+      "paperId": null,
+      "title": "Can cognitive modeling improve usability testing and rapid prototyping"
+    },
+    {
+      "paperId": "ce19c8dcc5c9a61c925e8de52d4c2a49b4f7e5d2",
+      "title": "Authoring Intelligent Tutoring Systems: An analysis of the state of the art"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "5f05b9dcdc2bb7c3c45553e6f4f58c4342dad8d2",
+      "title": "The psychology of human-computer interaction"
+    },
+    {
+      "paperId": "8b8ba26fdc9b65567733c8568f182ae3dbf2773e",
+      "title": "Cognitive Psychology and Its Implications"
+    },
+    {
+      "paperId": "88b38b1c0cd490508f205776c9dc737fe42dfae1",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 a Salience-based Quality Metric for Visualization"
+    },
+    {
+      "paperId": "404d1df16b673659f52a8017bde4ba00f901e8bd",
+      "title": "Causality : Models , Reasoning , and Inference"
+    },
+    {
+      "paperId": "9e7176502b3f25ce57755661427988fe683bf992",
+      "title": "University of Huddersfield Repository A cognitive architecture-based model of graph comprehension"
+    },
+    {
+      "paperId": null,
+      "title": "C. M."
+    },
+    {
+      "paperId": null,
+      "title": "TOWARDS MODELING VISUALIZATION PROCESSES AS DYNAMIC BAYESIAN NETWORKS"
+    },
+    {
+      "paperId": null,
+      "title": "ACT-R graph comprehension model with spoken output V1 - YouTube"
+    }
+  ]
+}

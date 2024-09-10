@@ -1,0 +1,105 @@
+{
+  "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+  "externalIds": {
+    "MAG": "1512287614",
+    "DBLP": "conf/infovis/AmarES05",
+    "DOI": "10.1109/INFVIS.2005.1532136",
+    "CorpusId": 14217178
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/180e548520d2091beb8bb039473bd542e7de5aec",
+  "title": "Low-level components of analytic activity in information visualization",
+  "abstract": "Existing system level taxonomies of visualization tasks are geared more towards the design of particular representations than the facilitation of user analytic activity. We present a set of ten low level analysis tasks that largely capture people's activities while employing information visualization tools for understanding data. To help develop these tasks, we collected nearly 200 sample questions from students about how they would analyze five particular data sets from different domains. The questions, while not being totally comprehensive, illustrated the sheer variety of analytic questions typically posed by users when employing information visualization systems. We hope that the presented set of tasks is useful for information visualization system designers as a kind of common substrate to discuss the relative analytic capabilities of the systems. Further, the tasks may provide a form of checklist for system designers.",
+  "venue": "IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.",
+  "year": 2005,
+  "referenceCount": 12,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2005-10-23",
+  "journal": {
+    "name": "IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.",
+    "pages": "111-117"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Amar2005LowlevelCO,\n author = {R. Amar and James R. Eagan and J. Stasko},\n booktitle = {IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.},\n journal = {IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.},\n pages = {111-117},\n title = {Low-level components of analytic activity in information visualization},\n year = {2005}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1909986",
+      "name": "R. Amar"
+    },
+    {
+      "authorId": "2152856",
+      "name": "James R. Eagan"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "289f0356616f0af04a27a2dbcdf8ddcdc37ec95f",
+      "title": "An empirical comparison of three commercial information visualization systems"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "b5deb5077c095b5f337255846d7a97319e61a739",
+      "title": "A preliminary analysis of the products of HCI research, using pro forma abstracts"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": null,
+      "title": "Information visualization In Human-Computer Interaction Handbook: Fundamentals, Evolving Technologies and Emerging Applications"
+    },
+    {
+      "paperId": "2acf5ccd7b86b8841e1e679c9aaa1c3b8b2cd2d3",
+      "title": "Graphics and graphic information-processing"
+    }
+  ]
+}

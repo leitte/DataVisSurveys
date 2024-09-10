@@ -1,0 +1,453 @@
+{
+  "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+  "externalIds": {
+    "MAG": "1970569592",
+    "DBLP": "journals/tvcg/SedlmairMM12",
+    "DOI": "10.1109/TVCG.2012.213",
+    "CorpusId": 662339,
+    "PubMed": "26357151"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/48ac5c2bd0318b45621391f5a194b22030bb8989",
+  "title": "Design Study Methodology: Reflections from the Trenches and the Stacks",
+  "abstract": "Design studies are an increasingly popular form of problem-driven visualization research, yet there is little guidance available about how to do them effectively. In this paper we reflect on our combined experience of conducting twenty-one design studies, as well as reading and reviewing many more, and on an extensive literature review of other field work methods and methodologies. Based on this foundation we provide definitions, propose a methodological framework, and provide practical guidance for conducting design studies. We define a design study as a project in which visualization researchers analyze a specific real-world problem faced by domain experts, design a visualization system that supports solving this problem, validate the design, and reflect about lessons learned in order to refine visualization design guidelines. We characterize two axes - a task clarity axis from fuzzy to crisp and an information location axis from the domain expert's head to the computer - and use these axes to reason about design study contributions, their suitability, and uniqueness from other approaches. The proposed methodological framework consists of 9 stages: learn, winnow, cast, discover, design, implement, deploy, reflect, and write. For each stage we provide practical guidance and outline potential pitfalls. We also conducted an extensive literature survey of related methodological approaches that involve a significant amount of qualitative field work, and compare design study methodology to that of ethnography, grounded theory, and action research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 94,
+  "openAccessPdf": {
+    "url": "http://www.sci.utah.edu/publications/sedlmair12/Sedlmair_InfoVis2012.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2012-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2431-2440",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sedlmair2012DesignSM,\n author = {M. Sedlmair and Miriah D. Meyer and T. Munzner},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2431-2440},\n title = {Design Study Methodology: Reflections from the Trenches and the Stacks},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "145976609",
+      "name": "Miriah D. Meyer"
+    },
+    {
+      "authorId": "1732016",
+      "name": "T. Munzner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f840c119af9153780f9b5971415b9ed2a631bf36",
+      "title": "Constructing Grounded Theory"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "7fe7e80bf59a112386211b38ef2ea0b71ae76345",
+      "title": "Machine Learning that Matters"
+    },
+    {
+      "paperId": "3907cab797bab11cee1c42902525f85914eba3c3",
+      "title": "Vismon: Facilitating Analysis of Trade\u2010Offs, Uncertainty, and Sensitivity In Fisheries Management Decision Making"
+    },
+    {
+      "paperId": "89e434fd07177eb3ceba3b9f461b2f1be57462ee",
+      "title": "Visual social network analytics for relationship discovery in the enterprise"
+    },
+    {
+      "paperId": "33ee612edb580cf3d8141eae10c6ca5b9d66cb61",
+      "title": "Evaluation of Artery Visualizations for Heart Disease Diagnosis"
+    },
+    {
+      "paperId": "9b95908edba2e468968566b58b62d41d5d080f52",
+      "title": "Human-Centered Approaches in Geovisualization Design: Investigating Multiple Methods Through a Long-Term Case Study"
+    },
+    {
+      "paperId": "1f80a8df3ff79e63f6924da5b3a1ed6aec8a0e57",
+      "title": "BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers"
+    },
+    {
+      "paperId": "cf74a9948d26c2e4c9423c668130c6736353e57f",
+      "title": "Information visualization evaluation in large companies: Challenges, experiences and recommendations"
+    },
+    {
+      "paperId": "87623af4ede6d5c6aeb828534eac80c5176f63d2",
+      "title": "The relationship of action research to human-computer interaction"
+    },
+    {
+      "paperId": "52e6beef7687f38584ea1e37355a61c8705031ee",
+      "title": "Cardiogram: visual analytics for automotive engineers"
+    },
+    {
+      "paperId": "399f59b4d636980d02dac29096089e6d00b27d94",
+      "title": "Reflexivity in digital anthropology"
+    },
+    {
+      "paperId": "04c671b9fec766f898dca2bca0e0da342bdd82af",
+      "title": "Confessions from a grounded theory PhD: experiences and lessons learnt"
+    },
+    {
+      "paperId": "67fbacfa99690644329cda993fc729f6be5a3c32",
+      "title": "Into the wild: challenges and opportunities for field trial methods"
+    },
+    {
+      "paperId": "6924e291837efd61ef835e7ea2a61e56fb2e3017",
+      "title": "Design principles for visual communication"
+    },
+    {
+      "paperId": "da4d4ff7d995f1d2ec3b4090e5fe8aa1454c19b0",
+      "title": "A very short, fairly interesting and reasonably cheap book about qualitative research"
+    },
+    {
+      "paperId": "f2fcd6bfb53310076873fb5e7148604919b306f1",
+      "title": "Parallel prototyping leads to better design results, more divergence, and increased self-efficacy"
+    },
+    {
+      "paperId": "e529680057ed5bfdc45a217dd038dd215d450861",
+      "title": "The Streams of Our Lives: Visualizing Listening Histories in Context"
+    },
+    {
+      "paperId": "953581661ba232833cc68891253f53e075593710",
+      "title": "SignalLens: Focus+Context Applied to Electronic Time Series"
+    },
+    {
+      "paperId": "b56f337e3378dc3c91476ac324ebba9e377bed16",
+      "title": "MulteeSum: A Tool for Comparative Spatial and Temporal Gene Expression Data"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "e574a9781725bcd0f71e0e4d933f9dbc652664e1",
+      "title": "Interactive Coordinated Multiple-View Visualization of Biomechanical Motion Data"
+    },
+    {
+      "paperId": "768d4cb5a2546e0f233b43ad747091ba93ed24a8",
+      "title": "ABySS-Explorer: Visualizing Genome Sequence Assemblies"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "615aac6f5dfea3b93bfd601f53ddefec0bcf27f4",
+      "title": "Glaserian and Straussian grounded theory: similar or completely different?"
+    },
+    {
+      "paperId": "15d48e2e5a166fa24fb4b7a29762babf61e1d838",
+      "title": "MostVis: An Interactive Visualization Supporting Automotive Engineers in MOST Catalog Exploration"
+    },
+    {
+      "paperId": "c5000b0d1f5a675cc086fbb52f8d4e7539d9771c",
+      "title": "What Does the User Want to See? What do the Data Want to Be?"
+    },
+    {
+      "paperId": "d129968a805213abf8065cb6821a9d3865a61f0b",
+      "title": "User-Centered Development of a Visual Exploration System for In-Car Communication"
+    },
+    {
+      "paperId": "8fce25caddce972a933f2768b189593fbcdf5a0a",
+      "title": "Ethnography considered harmful"
+    },
+    {
+      "paperId": "a56250a2d8daf1dde5d0322b9ab36b4ee49eb6de",
+      "title": "LibViz: Data Visualisation of the Old Library"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "8520ad5025d4bc50d9db59c267d3a38ea1fab242",
+      "title": "A Dual-View Visualization of In-Car Communication Processes"
+    },
+    {
+      "paperId": "ad3fe16611312d4e58f7a7f90a21a7230f5ec6f6",
+      "title": "Usability evaluation considered harmful (some of the time)"
+    },
+    {
+      "paperId": "fa0987d1f32bfb88703d01d0b2f1613e27d76e47",
+      "title": "LiveRAC: interactive visual exploration of system management time-series data"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "2c9e07829d6096121236addb48004f9b4f66b897",
+      "title": "Responsibilities and implications: further thoughts on ethnography and design"
+    },
+    {
+      "paperId": "f9e65a13a71bdb7e2afcf32dcd32ba4bdce7ebba",
+      "title": "Session Viewer: Visual Exploratory Analysis of Web Session Logs"
+    },
+    {
+      "paperId": "264a649b3ccaa1fda5b912e5a614265b23fc5c02",
+      "title": "Why It's Worth the Hassle: The Value of In-Situ Studies When Designing Ubicomp"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "1a9def6f2fa632d4385c90e6efb3afcbb66db5a5",
+      "title": "Implications for design"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "57b89240ec2ba1eb867eaca6367262b6ab7c65d2",
+      "title": "Participatory IT Design: Designing for Business and Workplace Realities"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "4131bc7e8cc20607e38edc61d44e90d427b02f1a",
+      "title": "Coordinated graph and scatter-plot views for the visual exploration of microarray time-series data"
+    },
+    {
+      "paperId": "ad17c82ae6447979e31120de0eec921ec1595233",
+      "title": "Iterative and incremental developments. a brief history"
+    },
+    {
+      "paperId": "4f185156374677a03df874d34bbb60bd72bbc6d0",
+      "title": "Technology probes: inspiring design for and with families"
+    },
+    {
+      "paperId": "b6efc00a6cf2b3acea46085f1d10ef067a91bd35",
+      "title": "Observing the User Experience: A Practitioner's Guide to User Research (Morgan Kaufmann Series in Interactive Technologies) (The Morgan Kaufmann Series in Interactive Technologies)"
+    },
+    {
+      "paperId": "16745a8d0f353337a212e8a71405b0c4de32959e",
+      "title": "Rapid ethnography: time deepening strategies for HCI field research"
+    },
+    {
+      "paperId": "631b8ecb91442fecb78cb12f620cbe38d981eac8",
+      "title": "Guidelines for using multiple views in information visualization"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "f2c80eef3585e0569e93ace0b9770cf76c8ebabc",
+      "title": "Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments."
+    },
+    {
+      "paperId": "15af208227934b34ecf5dc99c6d2b6128d6271ad",
+      "title": "Constellation: a visualization tool for linguistic queries from MindNet"
+    },
+    {
+      "paperId": "57a045404334ee367a4d13be4ef6baa2bfad764b",
+      "title": "Designing with ethnography: a presentation framework for design"
+    },
+    {
+      "paperId": "0ecd7a7434819715b2cbe00b5e22c16b20ada6b5",
+      "title": "Visualizing the global topology of the MBone"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "058e2e38420b61d8d870590d971d4e7d1cd078c2",
+      "title": "How not to lie with visualization"
+    },
+    {
+      "paperId": "516028c46eb88b524f2d64ce8637b756a332cbf9",
+      "title": "Moving out from the control room: ethnography in system design"
+    },
+    {
+      "paperId": "20163950cf24bb799bed89fdf725585a18dc5920",
+      "title": "Ethnography: Step By Step"
+    },
+    {
+      "paperId": "18c50dc7ca4b426828d4ec1e04e596bc10e0744f",
+      "title": "Imagery paradigms: how vulnerable are they to experimenters' expectations?"
+    },
+    {
+      "paperId": "d54a2327555b776309d9e5e7a1be21f70e653be4",
+      "title": "Verbal reports as data."
+    },
+    {
+      "paperId": null,
+      "title": "RelEx: A design study of visual network analysis in the automotive domain"
+    },
+    {
+      "paperId": "c0f3196caaf47c417aed179d47b79cb8e6edc7bf",
+      "title": "Reflections on QuestVis: A Visualization System for an Environmental Sustainability Model"
+    },
+    {
+      "paperId": null,
+      "title": "ProgSpy2010: Visualizing Flash Activities"
+    },
+    {
+      "paperId": null,
+      "title": "Car-x-ray: Closely Integrating Both Worlds"
+    },
+    {
+      "paperId": null,
+      "title": "WiKeVis: Visualizing Functional Networks"
+    },
+    {
+      "paperId": null,
+      "title": "Mathematics and the Internet: A source ofenormousconfusionandgreatpotential"
+    },
+    {
+      "paperId": "e759f0bdcbb26a1f895de136b4dd94eb20c05124",
+      "title": "Theoretical analysis and theory creation"
+    },
+    {
+      "paperId": "870dd95840efea64c266f72f2497a50905f5f9c0",
+      "title": "Constructing grounded theory : a practical guide through qualitative analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Agile Software Development: The Cooperative Game"
+    },
+    {
+      "paperId": "f2ab3f41938c9f4ada95104c6b8a19b3c585dfcf",
+      "title": "Visual mining of power sets with large alphabets"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "a822ce93fa4d83f55929504115a7ef10eb7d2453",
+      "title": "NEW THEORETICAL APPROACHES FOR HCI"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": null,
+      "title": "InfoVis"
+    },
+    {
+      "paperId": "0d0c27078aecc568823041d902316e6db546cf95",
+      "title": "Interactive visualization of large graphs and networks"
+    },
+    {
+      "paperId": "c7ca40943255e793b804ea70afd3760ead288976",
+      "title": "Write! Now!"
+    },
+    {
+      "paperId": null,
+      "title": "Practical Sofware Requirements: A Manual of Content & Style. Manning"
+    },
+    {
+      "paperId": "a8bf7029f2c6282b7cec5f90c0a246abbfd0aba4",
+      "title": "The Foundations of Social Research: Meaning and Perspective in the Research Process"
+    },
+    {
+      "paperId": "d6dd7a87c5640980874ab3365078a48d3f42368f",
+      "title": "Contextual design - defining customer-centered systems"
+    },
+    {
+      "paperId": null,
+      "title": "Munzner and S . North . InfoVis 2003 Call for Participation : Papers"
+    },
+    {
+      "paperId": "fcad136957270b779d6f058eb7d9dd56f87f138d",
+      "title": "Guerrilla HCI: using discount usability engineering to penetrate the intimidation barrier"
+    },
+    {
+      "paperId": "d9aee15a9c8422df84d0bef2d182e44ef766277d",
+      "title": "Writing: A method of inquiry."
+    },
+    {
+      "paperId": "4016c3516275a0b301259f086414e60474e3e406",
+      "title": "Writing Up Qualitative Research"
+    },
+    {
+      "paperId": "ca7566005dad480b735e27beba6b798e4a25583b",
+      "title": "Research Methods in Anthropology: Qualitative and Quantitative Approaches"
+    },
+    {
+      "paperId": "1ea1cab0911207ec2fd8a10ce0c8b3814c3b9987",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Pathline: a Tool for Comparative Functional Genomics"
+    }
+  ]
+}

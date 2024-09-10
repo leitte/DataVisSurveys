@@ -1,0 +1,401 @@
+{
+  "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SedlmairHBPM14",
+    "MAG": "1964473154",
+    "DOI": "10.1109/TVCG.2014.2346321",
+    "CorpusId": 1360769,
+    "PubMed": "26356930"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+  "title": "Visual Parameter Space Analysis: A Conceptual Framework",
+  "abstract": "Various case studies in different application domains have shown the great potential of visual parameter space analysis to support validating and using simulation models. In order to guide and systematize research endeavors in this area, we provide a conceptual framework for visual parameter space analysis problems. The framework is based on our own experience and a structured analysis of the visualization literature. It contains three major components: (1) a data flow model that helps to abstractly describe visual parameter space analysis problems independent of their application domain; (2) a set of four navigation strategies of how parameter space analysis can be supported by visualization tools; and (3) a characterization of six analysis tasks. Based on our framework, we analyze and classify the current body of literature, and identify three open research gaps in visual parameter space analysis. The framework and its discussion are meant to support visualization designers and researchers in characterizing parameter space analysis problems and to guide their design and evaluation processes.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 80,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-11-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2161-2170",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sedlmair2014VisualPS,\n author = {M. Sedlmair and C. Heinzl and S. Bruckner and H. Piringer and Torsten M\u00f6ller},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2161-2170},\n title = {Visual Parameter Space Analysis: A Conceptual Framework},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "1894251",
+      "name": "C. Heinzl"
+    },
+    {
+      "authorId": "1772581",
+      "name": "S. Bruckner"
+    },
+    {
+      "authorId": "2289136",
+      "name": "H. Piringer"
+    },
+    {
+      "authorId": "2282477008",
+      "name": "Torsten M\u00f6ller"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "87693092a14f3e56015da013b1f6909a217d1d28",
+      "title": "The nested blocks and guidelines model"
+    },
+    {
+      "paperId": "f840c119af9153780f9b5971415b9ed2a631bf36",
+      "title": "Constructing Grounded Theory"
+    },
+    {
+      "paperId": "cb49fa9801a5974dd36c102e513e5d7e63afa458",
+      "title": "Supporting the integrated visual analysis of input parameters and simulation trajectories"
+    },
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "5fc5b0ef05b2225cbb9e6a061cdedcfc8dff349c",
+      "title": "Explainers: Expert Explorations with Crafted Projections"
+    },
+    {
+      "paperId": "16b9fcdb8b4d0a9d3b2c634fa5efe5b1e9f668da",
+      "title": "ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "57a2a62c779a13b8ad0c308a59b59119e5df481a",
+      "title": "Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "c9bb54273deed29a285c571c6db73f51327c1f54",
+      "title": "Examining the Use of a Visual Analytics System for Sensemaking Tasks: Case Studies with Domain Experts"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "50ccfa879d351556a2fb9dc3c5fc968d7e5f605e",
+      "title": "A Visual Analysis Concept for the Validation of Geoscientific Simulation Models"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "3907cab797bab11cee1c42902525f85914eba3c3",
+      "title": "Vismon: Facilitating Analysis of Trade\u2010Offs, Uncertainty, and Sensitivity In Fisheries Management Decision Making"
+    },
+    {
+      "paperId": "f5a0c5cdbcad1c59489e15045df128caa40a2d61",
+      "title": "Visual analytics decision support environment for epidemic modeling and response evaluation"
+    },
+    {
+      "paperId": "bcbccd8e20ba65dc8ba8997ef03dba9bb507d96f",
+      "title": "Pointwise local pattern exploration for sensitivity analysis"
+    },
+    {
+      "paperId": "4bd45f45817d58cc6d432a8b0724059d5d1e2f7f",
+      "title": "Visualization of Parameter Space for Image Analysis"
+    },
+    {
+      "paperId": "6caaf5b7083f32762dd03e81f68c4af35caf708b",
+      "title": "Tuner: Principled Parameter Finding for Image Segmentation Algorithms Using Visual Response Surface Exploration"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "568a72d513dd385ef158d7530483ebdc094a9513",
+      "title": "ParaGlide: Interactive Parameter Space Partitioning for Computer Simulations"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "cf74a9948d26c2e4c9423c668130c6736353e57f",
+      "title": "Information visualization evaluation in large companies: Challenges, experiences and recommendations"
+    },
+    {
+      "paperId": "60b004e05065e44c876a8da4867437d3d5d6ff6e",
+      "title": "Uncertainty\u2010Aware Exploration of Continuous Parameter Spaces Using Multivariate Prediction"
+    },
+    {
+      "paperId": "04c671b9fec766f898dca2bca0e0da342bdd82af",
+      "title": "Confessions from a grounded theory PhD: experiences and lessons learnt"
+    },
+    {
+      "paperId": "3f916c6fcee6d874105026474df936964cd87898",
+      "title": "DimStiller: Workflows for dimensional analysis and reduction"
+    },
+    {
+      "paperId": "134228e2b8bd4a65c7b32f7915d7324850feb4c6",
+      "title": "World Lines"
+    },
+    {
+      "paperId": "4030cdb5312e23da0ac8577cb994e611da666c1f",
+      "title": "Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design"
+    },
+    {
+      "paperId": "becf898e991114b0e068fae8a8225374f40e4a2e",
+      "title": "Visual Optimality and Stability Analysis of 3DCT Scan Positions"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "0b14178e7d79ac426d0a39700e1ac8b2c6f2e752",
+      "title": "Convex Optimization"
+    },
+    {
+      "paperId": "05b0d5e9141177ab8f1aa29820944cab072864a9",
+      "title": "Ensemble-Vis: A Framework for the Statistical Visualization of Ensemble Data"
+    },
+    {
+      "paperId": "7e173af5f1efa4193151f3216b5fe5e7e22369a0",
+      "title": "Model space visualization for multivariate linear trend discovery"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "5980209c4cf603008c123006b98fecd192bcc535",
+      "title": "Parameter Sensitivity Visualization for DTI Fiber Tracking"
+    },
+    {
+      "paperId": "f97307c8bc159af12e49c071a562380e2c22cc03",
+      "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces"
+    },
+    {
+      "paperId": "29a22f428ab79623fc7e869541ba7ef7a4c63655",
+      "title": "Visual support for the understanding of simulation processes"
+    },
+    {
+      "paperId": "c0aaf4735fca8b60ff755aacb64c8c437b674578",
+      "title": "Glimmer: Multilevel MDS on the GPU"
+    },
+    {
+      "paperId": "9727aeefff8cd06576c59106c8fa8e8ca615bd7c",
+      "title": "Interactive Visual Steering - Rapid Visual Prototyping of a Common Rail Injection System"
+    },
+    {
+      "paperId": "6561b6a55114cc1da9f0f09d0396bb6b508a6fe9",
+      "title": "Provenance for Computational Tasks: A Survey"
+    },
+    {
+      "paperId": "80c1561ea178251dcab1cb7fbc8820870fd19a88",
+      "title": "Qualitative analysis of visualization: a building design field study"
+    },
+    {
+      "paperId": "ebff84ea7e8ca0ee8d0af5ec78da96b821ee6ae6",
+      "title": "Global Sensitivity Analysis: The Primer"
+    },
+    {
+      "paperId": "70a495c2cc877839b910916533f8d90f32fb4ad2",
+      "title": "Visual exploration and evaluation of climate-related simulation data"
+    },
+    {
+      "paperId": "30ec54b8995fb4455f4c7cabe7fe466f7361c084",
+      "title": "Navigating in a Shape Space of Registered Models"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "5f5d9e4e3fba1927f52a0188f2b7a32e22de6dc9",
+      "title": "Interactive Visual Analysis of Families of Function Graphs"
+    },
+    {
+      "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+      "title": "Pattern Recognition and Machine Learning"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "bcc3c02af8efae5a710f4bb53dbdd6067237773a",
+      "title": "VisTrails: enabling interactive multiple-view visualizations"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "8bc9868fe6c936614f7f94b01757723e9ffaaa43",
+      "title": "Graph-theoretic scagnostics"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "19b2c13bb3ca30eb009667e2b63ec94058cca7c2",
+      "title": "The Craft of Information Visualization: Readings and Reflections"
+    },
+    {
+      "paperId": "da7c925be1d3d26c120a9d39465b110464d2d902",
+      "title": "Visualization Exploration and Encapsulation via a Spreadsheet-Like Interface"
+    },
+    {
+      "paperId": "f9f836d28f52ad260213d32224a6d227f8e8849a",
+      "title": "Object recognition from local scale-invariant features"
+    },
+    {
+      "paperId": "a8f5b83cb7b1096a804f23c2021d31b7cebab94f",
+      "title": "A course in approximation theory"
+    },
+    {
+      "paperId": "02b00a5fd5315e2aaa833f5ebed90ce5ca69c735",
+      "title": "A survey of computational steering environments"
+    },
+    {
+      "paperId": "a1190080c54ab6e9a88f45962b8a4780539ea260",
+      "title": "Design and analysis of computer experiments"
+    },
+    {
+      "paperId": "9d7285aeebabb2d63f724ac3e25a1e8813146060",
+      "title": "Design Galleries: A General Approach to Setting Parameters for Computer Graphics and Animation"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "1ba9a3743c7f981445a06d84d402c566c3d2a154",
+      "title": "Visualisation for functional design"
+    },
+    {
+      "paperId": "138fd07e7f59ac858a6f9450e3634cd057be93fa",
+      "title": "HyperSlice"
+    },
+    {
+      "paperId": "eef25ee9ef76c1e3ccce6a63c401998f3dbd5a47",
+      "title": "User Studies in Visualization: A Reflection on Methods"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Analysis and Design (Chapter 2)"
+    },
+    {
+      "paperId": "c93e63eed07c779fc3b4eeb64387f1dcc413b88c",
+      "title": "Dimensionality Reduction in the Wild : Gaps and Guidance"
+    },
+    {
+      "paperId": null,
+      "title": "Validation, and Uncertainty Quanti\ufb01cation"
+    },
+    {
+      "paperId": null,
+      "title": "HyperMoVal: Interactive visual validation of regression models for real-time simulation"
+    },
+    {
+      "paperId": null,
+      "title": "2170  IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL"
+    },
+    {
+      "paperId": "870dd95840efea64c266f72f2497a50905f5f9c0",
+      "title": "Constructing grounded theory : a practical guide through qualitative analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Informed trial"
+    },
+    {
+      "paperId": null,
+      "title": "Visual cues: practical data visualization (Appendix B)"
+    },
+    {
+      "paperId": "2454e846733f0f0d6ae98c489a632a7199d07ed6",
+      "title": "Random number generation and Quasi-Monte Carlo methods"
+    },
+    {
+      "paperId": "a15174ed603bae1b101c4655111bb511787b95b4",
+      "title": "The magical number seven plus or minus two: some limits on our capacity for processing information."
+    },
+    {
+      "paperId": "0067e2b48d9b75b59f5307492aac7808a21b27a0",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Estimation and Modeling of Actual Numerical Errors in Volume Rendering"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "3016ee968980ea62e0d24b7c9b67c08c0b509b02",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 a Parallel Coordinates Style Interface for Exploratory Volume Visualization"
+    }
+  ]
+}

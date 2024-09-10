@@ -1,0 +1,279 @@
+{
+  "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Munzner09",
+    "MAG": "2142493242",
+    "DOI": "10.1109/TVCG.2009.111",
+    "CorpusId": 206804420,
+    "PubMed": "19834155"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/e8cfef98279aabd43f65d465b304345aec15d9bb",
+  "title": "A Nested Model for Visualization Design and Validation",
+  "abstract": "We present a nested model for the visualization design and validation with four layers: characterize the task and data in the vocabulary of the problem domain, abstract into operations and data types, design visual encoding and interaction techniques, and create algorithms to execute techniques efficiently. The output from a level above is input to the level below, bringing attention to the design challenge that an upstream error inevitably cascades to all downstream levels. This model provides prescriptive guidance for determining appropriate evaluation approaches by identifying threats to validity unique to each level. We also provide three recommendations motivated by this model: authors should distinguish between these levels when claiming contributions at more than one of them, authors should explicitly state upstream assumptions at levels above the focus of a paper, and visualization venues should accept more papers on domain characterization.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2009,
+  "referenceCount": 53,
+  "openAccessPdf": {
+    "url": "http://www.cs.ubc.ca/labs/imager/tr/2009/NestedModel/NestedModel.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2009-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": "15"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Munzner2009ANM,\n author = {T. Munzner},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n title = {A Nested Model for Visualization Design and Validation},\n volume = {15},\n year = {2009}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1732016",
+      "name": "T. Munzner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "c5000b0d1f5a675cc086fbb52f8d4e7539d9771c",
+      "title": "What Does the User Want to See? What do the Data Want to Be?"
+    },
+    {
+      "paperId": "097ab740c8c6e3482bf39255e192894d12147f68",
+      "title": "Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "a715231247119678019f5f07cc47c8949c1a553f",
+      "title": "Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context"
+    },
+    {
+      "paperId": "c8810ca10bd3b2c42c257e44f969055b2357f500",
+      "title": "Physical and Digital Artifact-Mediated Coordination in Building Design"
+    },
+    {
+      "paperId": "fa0987d1f32bfb88703d01d0b2f1613e27d76e47",
+      "title": "LiveRAC: interactive visual exploration of system management time-series data"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "80c1561ea178251dcab1cb7fbc8820870fd19a88",
+      "title": "Qualitative analysis of visualization: a building design field study"
+    },
+    {
+      "paperId": "a2b7ffc3d8325eb81d005331d95521594d91cce7",
+      "title": "Internalization, qualitative methods, and evaluation"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "e2add84ee57a3252ced5f4aefae34b76a7c93304",
+      "title": "Theoretical Foundations of Information Visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "f9e65a13a71bdb7e2afcf32dcd32ba4bdce7ebba",
+      "title": "Session Viewer: Visual Exploratory Analysis of Web Session Logs"
+    },
+    {
+      "paperId": "ac765d12e845aa9ab728f5ad84c254372e12584c",
+      "title": "MatrixExplorer: a Dual-Representation System to Explore Social Networks"
+    },
+    {
+      "paperId": "5ed12a43dda308a89ac4d12ff8c08b3f5babacd5",
+      "title": "Views on Visualization"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "1ea117cbc6ddd3b5c072e5c1b071b4d9ed1e9b70",
+      "title": "An explorative analysis of user evaluation studies in information visualisation"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "4fdf98ca739598636fa9d65bed0fd6701d9fb7fe",
+      "title": "A taxonomy of tasks for guiding the evaluation of multidimensional visualizations"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "5aea8f3e229cbb9a8f1fd4746cec7a1c7e4fe4a9",
+      "title": "Interactive visualization of genealogical graphs"
+    },
+    {
+      "paperId": "8ff4ff5af717049373cd9aa3f5a8b0ff95c7bc57",
+      "title": "Wizard of Oz support throughout an iterative design process"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "2b389276f61582e66adae329f9997b1a4d78e3d7",
+      "title": "An Energy Model for Visual Graph Clustering"
+    },
+    {
+      "paperId": "4ad76bc6be0ca9fe26520195346ed67233433be9",
+      "title": "User Studies: Why, How, and When?"
+    },
+    {
+      "paperId": "fd14fd782fdb99522263f9db701831e8178b0dc5",
+      "title": "Cognitive Measurements of Graph Aesthetics"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "ff7cd57be96c4ce2d8e62bbe67a33a33eece1b9a",
+      "title": "Feature detection in linked derived spaces"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "f2c1830eedc095b92a78dc3afa39a36343ed81ad",
+      "title": "Introduction to algorithms"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "34c4e6af91b25f426fde84d1c4556256f07e6e81",
+      "title": "Methods for Visual Understanding of Hierarchical System Structures"
+    },
+    {
+      "paperId": "bb3295f52855f35a1cc6a029c8a999ea8743dd6e",
+      "title": "Evaluation Comes in Many Guises"
+    },
+    {
+      "paperId": null,
+      "title": "Process and pitfalls in writing infovis research papers Information Visualization: Human-Centered Issues and Perspectives"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "972e31f47c9efb8a1e7bdff296ff5ba9213fdf78",
+      "title": "A Workplace Study of the Adoption of Information Visualization Systems. Proceedings of I-KNOW'03: 3rd International Conference on Knowledge Management, Graz, Austria"
+    },
+    {
+      "paperId": null,
+      "title": "Transfer Functions in Direct Volume Rendering : Design , Interface , Interaction"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "6b55c1f575570b916cdf0b9d6e2129b7a66128bd",
+      "title": "Visualizing the structure of the World Wide Web in 3D hyperbolic space"
+    },
+    {
+      "paperId": "7440e08695998c6d3b29a32240b95373f5ee2a64",
+      "title": "Thoughts on User Studies: Why, How and When"
+    },
+    {
+      "paperId": "0b77e12759fb914b7f6ad51e5bfac3d799df141b",
+      "title": "Bridging the gaps."
+    },
+    {
+      "paperId": "00d0a7c656e7d73123d040c4a7c0fc246412690f",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Topolayout: Multi-level Graph Layout by Topological Features"
+    }
+  ]
+}

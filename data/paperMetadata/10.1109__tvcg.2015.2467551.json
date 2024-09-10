@@ -1,0 +1,477 @@
+{
+  "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+  "externalIds": {
+    "DBLP": "journals/tvcg/RaganESC16",
+    "MAG": "1959365993",
+    "DOI": "10.1109/TVCG.2015.2467551",
+    "CorpusId": 14481536,
+    "PubMed": "26340779"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+  "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes",
+  "abstract": "While the primary goal of visual analytics research is to improve the quality of insights and findings, a substantial amount of research in provenance has focused on the history of changes and advances throughout the analysis process. The term, provenance, has been used in a variety of ways to describe different types of records and histories related to visualization. The existing body of provenance research has grown to a point where the consolidation of design knowledge requires cross-referencing a variety of projects and studies spanning multiple domain areas. We present an organizational framework of the different types of provenance information and purposes for why they are desired in the field of visual analytics. Our organization is intended to serve as a framework to help researchers specify types of provenance and coordinate design knowledge across projects. We also discuss the relationships between these factors and the methods used to capture provenance information. In addition, our organization can be used to guide the selection of evaluation methodology and the comparison of study outcomes in provenance research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2016,
+  "referenceCount": 100,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2016-01-31",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "31-40",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Ragan2016CharacterizingPI,\n author = {E. Ragan and A. Endert and J. Sanyal and Jian Chen},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {31-40},\n title = {Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes},\n volume = {22},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1777991",
+      "name": "E. Ragan"
+    },
+    {
+      "authorId": "3200296",
+      "name": "A. Endert"
+    },
+    {
+      "authorId": "1751804",
+      "name": "J. Sanyal"
+    },
+    {
+      "authorId": null,
+      "name": "Jian Chen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8ba37203593f8f8d4816020f16fe06449c6de61a",
+      "title": "Exploiting analysis history to support collaborative data analysis"
+    },
+    {
+      "paperId": "0c9d9fe78738af1ac857fbe20dbb3f31e1124161",
+      "title": "Analytic Provenance for Sensemaking: A Research Agenda"
+    },
+    {
+      "paperId": "8aeec71805bc6a909dfd770e39b133532c5e31c5",
+      "title": "Evaluating How Level of Detail of Visual History Affects Process Memory"
+    },
+    {
+      "paperId": "bf10c7c8f4e8b47e498fc67de3ad7fdf60f2fe20",
+      "title": "Value-driven evaluation of visualizations"
+    },
+    {
+      "paperId": "4407c918fbbb21ad5f008bc30c3065467e447832",
+      "title": "Evaluation methodology for comparing memory and communication of analytic processes in visual analytics"
+    },
+    {
+      "paperId": "db4d3498dde5f88fc3e5e37159712197d81ee05e",
+      "title": "Supporting Communication and Coordination in Collaborative Sensemaking"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "b90bad831de7b112b6759fbdff00209fe6aa0320",
+      "title": "Authoring Narrative Visualizations with Ellipsis"
+    },
+    {
+      "paperId": "1f00b8d560e020853c89221bcc76225010044912",
+      "title": "3D Timeline: Reverse engineering of a part\u2010based provenance from consecutive 3D models"
+    },
+    {
+      "paperId": "f8cb37f533b57c2864bdb8605aba6410f18d2088",
+      "title": "Evaluation of Filesystem Provenance Visualization Tools"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "dda8b52dba2df3313e80a6765367cacb84a9e822",
+      "title": "Provenance in Sensor Data Management"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "d3115f188173121f736f959419da68c17729cb40",
+      "title": "Directing exploratory search with interactive intent modeling"
+    },
+    {
+      "paperId": "01e89b5454f8dc44502e33567e4166486269dfb5",
+      "title": "Hummod browser: An exploratory visualization tool for the analysis of whole-body physiology simulation data"
+    },
+    {
+      "paperId": "53c3f11a84c3c3d7284ab851db7b9b9a48e56fdb",
+      "title": "ExPlates: Spatializing Interactive Analysis to Scaffold Visual Exploration"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "fdad85e200e1300be1ffb1c9b4365e230e82dddd",
+      "title": "Patina: dynamic heatmaps for visualizing application usage"
+    },
+    {
+      "paperId": "e75134cde1477ac341c2197b1882191a972c2b60",
+      "title": "The W3C PROV family of specifications for modelling provenance metadata"
+    },
+    {
+      "paperId": "dace7c92c41644444c57196c49e8cc1e12b9efa3",
+      "title": "Hi-Fi: collecting high-fidelity whole-system provenance"
+    },
+    {
+      "paperId": "8d17f8f51084efe7628193cdc9d659834de78ff0",
+      "title": "Taxonomy-Based Glyph Design&#8212;with a Case Study on Visualizing Workflows of Biological Experiments"
+    },
+    {
+      "paperId": "b29b31d29f9868f3e45305438fe5a295059272fe",
+      "title": "Visualization of network data provenance"
+    },
+    {
+      "paperId": "aee14d656dd5161218957ffcbb7b36ae26e3c2b5",
+      "title": "Abstract: Visualizing Large Scale Scientific Data Provenance"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "6a83a285f260cdb6ecd4febe352cf9932257791a",
+      "title": "Towards Unified Provenance Granularities"
+    },
+    {
+      "paperId": "dd65d4d6d95c1b0428ced0cbd4ed24f23aaeedc4",
+      "title": "A General-Purpose Provenance Library"
+    },
+    {
+      "paperId": "38409cc45e0e6505fc43cbff76c759887a9a87ba",
+      "title": "Semantic interaction for visual text analytics"
+    },
+    {
+      "paperId": "c025ac6a6bd42f84e72667202a0d0e257228c8f7",
+      "title": "GraphTrail: analyzing large multivariate, heterogeneous networks while supporting exploration history"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "a07a47d93ccc362ce35ab7e90de9c0e04433c7ac",
+      "title": "VisBubbles: a workflow-driven framework for scientific data analysis of time-varying biological datasets"
+    },
+    {
+      "paperId": "9c2ff7c4992240c56afec5e24eaa7be12597052e",
+      "title": "CommentSpace: structured support for collaborative visual analysis"
+    },
+    {
+      "paperId": "9db0dc31063f67ca19a36c198ebb62902d56de42",
+      "title": "Analytic provenance: process+interaction+insight"
+    },
+    {
+      "paperId": "e03b70a933c4f4667a5db1d282b89ceabb508b4f",
+      "title": "Linking multiple workflow provenance traces for interoperable collaborative science"
+    },
+    {
+      "paperId": "8d38732c4bec239bd5f5db4fa8a1d102bc0e03f8",
+      "title": "VizCept: Supporting synchronous collaboration for constructing visualizations in intelligence analysis"
+    },
+    {
+      "paperId": "151d1dbf51f654bf73e97ced115ca05c55cdec0f",
+      "title": "Helping users recall their reasoning process"
+    },
+    {
+      "paperId": "86fef52a449efaa63c44ccef3b678efa66c9c511",
+      "title": "Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "23d4a61faa8928f535ffddb6ff8c4a05cd4c0457",
+      "title": "Real-Time EEG-Based Human Emotion Recognition and Visualization"
+    },
+    {
+      "paperId": "c64863301f4ae0ab4971c14d8bfb7591d3d885f4",
+      "title": "Space to think: large high-resolution displays for sensemaking"
+    },
+    {
+      "paperId": "47b3505248bf9b893533adcc946fcbad109a827d",
+      "title": "Global Earth Observation System of Systems"
+    },
+    {
+      "paperId": "ebd994d3c2c985ed405e67cd69e9bf704de4f6a7",
+      "title": "Provenance browser: Displaying and querying scientific workflow provenance graphs"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "184565b0d20f3dc8b6f3f948a00c135c38074794",
+      "title": "Capturing and supporting the analysis process"
+    },
+    {
+      "paperId": "2b0bfff8bd0e4b5a57c8a82d143b7c0dcae8a046",
+      "title": "Visualizing cyber security: Usable workspaces"
+    },
+    {
+      "paperId": "48bae156d3dfff23d5e96255c4839cf691343402",
+      "title": "Cross-application data provenance and policy enforcement"
+    },
+    {
+      "paperId": "66f4cbf1528d3aed13b005d526cafcecd0eddc3d",
+      "title": "Towards a Taxonomy of Provenance in Scientific Workflow Management Systems"
+    },
+    {
+      "paperId": "9dc394e89451394835b1ed8c44b0568d01da831b",
+      "title": "Collaborative Brushing and Linking for Co\u2010located Visual Analytics of Document Collections"
+    },
+    {
+      "paperId": "2b309cf37cc7aeb570963bba82f545112905d60f",
+      "title": "Recovering Reasoning Processes from User Interactions"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "131d11ce76a411f0bb07f7eaede9cfd465487910",
+      "title": "End-to-End eScience: Integrating Workflow, Query, Visualization, and Provenance at an Ocean Observatory"
+    },
+    {
+      "paperId": "b2af354df54ecc5227fb355a37df46f978b52e86",
+      "title": "Using Provenance to Support Real-Time Collaborative Design of Workflows"
+    },
+    {
+      "paperId": "674da55f23f6ccac6861af04f6b850db9180d468",
+      "title": "The Scalable Reasoning System: Lightweight Visualization for Distributed Analytics"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "fcd4fb921a70364390b42387da5de25d1deb7150",
+      "title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation"
+    },
+    {
+      "paperId": "235e275bed94964b532585ca4918a151165a2bb6",
+      "title": "Securing Provenance"
+    },
+    {
+      "paperId": "68f6f99a51d4fb4f4920a8187c576e569500f5af",
+      "title": "Semantic Provenance for eScience: Managing the Deluge of Scientific Data"
+    },
+    {
+      "paperId": "76cf9dfecfbdcff5cb20c7bc9b730b18c18d7f66",
+      "title": "Provenance and scientific workflows: challenges and opportunities"
+    },
+    {
+      "paperId": "6561b6a55114cc1da9f0f09d0396bb6b508a6fe9",
+      "title": "Provenance for Computational Tasks: A Survey"
+    },
+    {
+      "paperId": "d76161ad7565a83258493b0e6a16af5cd494b54e",
+      "title": "Querying and Managing Provenance through User Views in Scientific Workflows"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "603455af3c8088e0dc1df5e75db67864b88cb624",
+      "title": "The Value of Information Visualization"
+    },
+    {
+      "paperId": "29944a296152e714b7405702c3b99bba416aeb8d",
+      "title": "Probe-It! Visualization Support for Provenance"
+    },
+    {
+      "paperId": "a1e1c20b165c34680cb5e3ae5bd788c2f60acaa1",
+      "title": "Move to improve: promoting physical navigation to increase user performance with large displays"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "2acdd5b340ea3749f12a9224738a88a7da480bd0",
+      "title": "Provenance and Annotation for Visual Exploration Systems"
+    },
+    {
+      "paperId": "24d8a2c600076c878d05930b8501cf63d2100387",
+      "title": "VisTrails: visualization meets data management"
+    },
+    {
+      "paperId": "2c952a69c5be8cc6748c23fe93147f5fe867acf8",
+      "title": "Performance Evaluation of the Karma Provenance Framework for Scientific Workflows"
+    },
+    {
+      "paperId": "68ec98f20e359c2dfa14ef4c70edeb04ce7a80c3",
+      "title": "Managing Rapidly-Evolving Scientific Workflows"
+    },
+    {
+      "paperId": "c5d3c1cf5ba8035131c6c3803f5c3fc77fa6fdfe",
+      "title": "Applying the Virtual Data Provenance Model"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "bcc3c02af8efae5a710f4bb53dbdd6067237773a",
+      "title": "VisTrails: enabling interactive multiple-view visualizations"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "4410b0f05dfa410c28018942fc54d9eb5478b11d",
+      "title": "New approaches to demystifying insight"
+    },
+    {
+      "paperId": "01aea48b56fc53ded789bcc49c5b8177eecf942c",
+      "title": "Glass Box: An Instrumented Infrastructure for Supporting Human Interaction with Information"
+    },
+    {
+      "paperId": "1849fc6c55c19a212dc82649be63f33122ca6f43",
+      "title": "\u201cAha!\u201d effects in a guessing riddle task: An event\u2010related potential study"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "c345f1a381f7dec616d346d90caf0b3329084ae9",
+      "title": "What storytelling can do for information visualization"
+    },
+    {
+      "paperId": "2f859524cc56369458dd09d26fd4447e72e93dd0",
+      "title": "Enhancing data exploration with a branching history of user operations"
+    },
+    {
+      "paperId": "d644b0fe1c37f7f350fdf70d4d14505695dc2e93",
+      "title": "Thinking aloud: reconciling theory and practice"
+    },
+    {
+      "paperId": "7f5d58838a54670d2e86b64fb7a271b6301e86e7",
+      "title": "How to Study Thinking in Everyday Life: Contrasting Think-Aloud Protocols With Descriptions and Explanations of Thinking"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "56cc64d474dd9f3d87560a0db81d3e14e6146e54",
+      "title": "SCIRun: A Scientific Programming Environment for Computational Steering"
+    },
+    {
+      "paperId": "79329a2a784fa26c9e24ae413e325c765ccf4d23",
+      "title": "GRASPARC-A problem solving environment integrating computation and visualization"
+    },
+    {
+      "paperId": "f26ba88ebf7fa408aaa1bd2d51681a8e798f3f75",
+      "title": "The use of eye movements in human-computer interaction techniques: what you look at is what you get"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "4551f016f4dad887465c7b83839ed41ade8f49ca",
+      "title": "Editable graphical histories"
+    },
+    {
+      "paperId": "76b4b38919be6f9b57f69c4bd945934c8a7d827e",
+      "title": "Toward Usable Interactive Analytics : Coupling Cognition and Computation"
+    },
+    {
+      "paperId": "3295ee441c3500db7208346acc861216a456e4c4",
+      "title": "Usability Engineering"
+    },
+    {
+      "paperId": "4b67de04b1c7a6e71dee1d289fd488aef4b18538",
+      "title": "Provenance Map Orbiter: Interactive Exploration of Large Provenance Graphs"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "91355bb0c0de382976684863f80273c4b1aff914",
+      "title": "Recovering Reasoning Process From User Interactions"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": "48f7dfaafe60d40a115fda6bc143e3ca181e4657",
+      "title": "Tackling the Provenance Challenge one layer at a time"
+    },
+    {
+      "paperId": "4815775749f03ab53021feaad413feccdb01203a",
+      "title": "Concurrency and Computation: Practice and Experience"
+    },
+    {
+      "paperId": "f791c32a60c8ff9f3c1e70c8b09586461dfe61ef",
+      "title": "Semantic Provenance for eScience Managing the Deluge of Scientific Data"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Representing uncertainty: Does it help people make better decisions"
+    }
+  ]
+}

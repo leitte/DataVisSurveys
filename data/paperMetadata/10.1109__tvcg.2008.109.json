@@ -1,0 +1,396 @@
+{
+  "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Lam08",
+    "MAG": "2113386367",
+    "DOI": "10.1109/TVCG.2008.109",
+    "CorpusId": 16272591,
+    "PubMed": "18988958"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/592a2e669ad7e5d6ccb8096f767cba624e00d189",
+  "title": "A Framework of Interaction Costs in Information Visualization",
+  "abstract": "Interaction cost is an important but poorly understood factor in visualization design. We propose a framework of interaction costs inspired by Normanpsilas Seven Stages of Action to facilitate study. From 484 papers, we collected 61 interaction-related usability problems reported in 32 user studies and placed them into our framework of seven costs: (1) Decision costs to form goals; (2) system-power costs to form system operations; (3) Multiple input mode costs to form physical sequences; (4) Physical-motion costs to execute sequences; (5) Visual-cluttering costs to perceive state; (6) View-change costs to interpret perception; (7) State-change costs to evaluate interpretation. We also suggested ways to narrow the gulfs of execution (2-4) and evaluation (5-7) based on collected reports. Our framework suggests a need to consider decision costs (1) as the gulf of goal formation.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2008,
+  "referenceCount": 83,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2008-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": "14"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lam2008AFO,\n author = {Heidi Lam},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n title = {A Framework of Interaction Costs in Information Visualization},\n volume = {14},\n year = {2008}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "8358143",
+      "name": "Heidi Lam"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "75db6f5ccde811139932c58de3449dfd86ad71d0",
+      "title": "Practice"
+    },
+    {
+      "paperId": "9a0e9f73bd2f632cbc44a226300685595d165f5a",
+      "title": "Overview Use in Multiple Visual Information Resolution Interfaces"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "ba33d848d1b07424e8c5cc31fe14ecc7c755d914",
+      "title": "The re:search engine: simultaneous support for finding and re-finding"
+    },
+    {
+      "paperId": "dccb64e2da744e14b9922bf57d87663b27d2eb18",
+      "title": "Untangling the usability of fisheye menus"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "fd9b7a37922f929b68e186ba104b5d6d04dc9f13",
+      "title": "NetLens: Iterative Exploration of Content-Actor Network Data"
+    },
+    {
+      "paperId": "e48f03553d4c7f22d541201160df548e9ba75756",
+      "title": "Designing interactions"
+    },
+    {
+      "paperId": "df4694a60898d4f90ae46ce0628c51292ec3f3b0",
+      "title": "Studying information seeking on the non-English Web: An experiment on a Spanish business Web portal"
+    },
+    {
+      "paperId": "01e3ca6d6bf1a040699d496aa0f4ab90ae7dd567",
+      "title": "ASK-GraphView: A Large Scale Graph Visualization System"
+    },
+    {
+      "paperId": "0173f28f38454ae5b458f1b1f31202c0672c7dd5",
+      "title": "User Interaction with Scatterplots on Small Screens - A Comparative Evaluation of Geometric-Semantic Zoom and Fisheye Distortion"
+    },
+    {
+      "paperId": "647f26f1fd104c0b907428ab6c1c109185cb5fb7",
+      "title": "Concept Maps for Designing Adaptive Knowledge Maps"
+    },
+    {
+      "paperId": "8f69bd90150a3d727ec80d866d2011a105ae454d",
+      "title": "Zooming versus multiple window interfaces: Cognitive costs of visual comparisons"
+    },
+    {
+      "paperId": "8b3f1a417c76badd2893ee5a655b39cd7aecf5ac",
+      "title": "Current practice in measuring usability: Challenges to usability studies and research"
+    },
+    {
+      "paperId": "dfb2aa8b6a1ce2ff04fbbcb8657b20be15833afc",
+      "title": "Fitts' law and expanding targets: Experimental studies and designs for user interfaces"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "ea861083ae60c0410bf0de3b99846e71d0a92663",
+      "title": "An evaluation of content browsing techniques for hierarchical space-filling visualizations"
+    },
+    {
+      "paperId": "54c9911a37e11fb1239e7ea857f966777f09d1ed",
+      "title": "Visualization of graphs with associated timeseries data"
+    },
+    {
+      "paperId": "321581d7c5141b2722d401d09fc38bfedbfef71b",
+      "title": "Turning the bucket of text into a pipe"
+    },
+    {
+      "paperId": "f19423cb82c691dffaacc4a509fbe0412c8451dc",
+      "title": "Dust & Magnet: Multivariate Information Visualization Using a Magnet Metaphor"
+    },
+    {
+      "paperId": "37b48bbce4e66c55e598a3f4f78a237c7b604563",
+      "title": "Browsing a document collection represented in two- and three-dimensional virtual information space"
+    },
+    {
+      "paperId": "4cc6a0b82d6a79ea5cec16c5d0f6b0d10d4af0f7",
+      "title": "Improving drag-and-drop on wall-size displays"
+    },
+    {
+      "paperId": "df55ceb46c43ac3f38871cffd83399d96c6ff107",
+      "title": "Benefits of animated scrolling"
+    },
+    {
+      "paperId": "c6310f1a566c23c722ccbaf8bcef178d95d46643",
+      "title": "Constructing and Reconstructing the Reorderable Matrix"
+    },
+    {
+      "paperId": "b00e9ad6fa7b2196fcc005d40cd15e2e43035eb8",
+      "title": "Differences in pointing task performance between preschool children and adults using mice"
+    },
+    {
+      "paperId": "a9e1c167eb9d1634c013c668d6774d705f60c61e",
+      "title": "The Paradox of Choice: Why More Is Less"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "83ba5c0219736c2070c5c2c7e61271daedca811d",
+      "title": "Expand-Ahead: A Space-Filling Strategy for Browsing Trees"
+    },
+    {
+      "paperId": "d9c05cbdd2e9cb55b9d0cd9761e9ff6b6339e41c",
+      "title": "Evaluating a System for Interactive Exploration of Large, Hierarchically Structured Document Repositories"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "e5335b91482b26230571f74808e2923be0333340",
+      "title": "DateLens: A fisheye calendar interface for PDAs"
+    },
+    {
+      "paperId": "0ad4414e40a4980d672666f983d6a32983f1f6bb",
+      "title": "Empirical comparison of dynamic query sliders and brushing histograms"
+    },
+    {
+      "paperId": "e231922637b13338ea0045fbce23ec38e9f695a7",
+      "title": "Application of Information Visualization Techniques to the Design of a Mathematical Mindtool: A Usability Study"
+    },
+    {
+      "paperId": "109de71dd16e79e5cd283767737d4841afc3bd86",
+      "title": "ScentTrails: Integrating browsing and searching on the Web"
+    },
+    {
+      "paperId": "2eb78952ddf0d29c396781b49c77d43f1644772a",
+      "title": "Reading patterns and usability in visualizations of electronic documents"
+    },
+    {
+      "paperId": "c0e2cfd1c45bf277d7101c1f982b8b6e677eb123",
+      "title": "Navigation patterns and usability of zoomable user interfaces with and without an overview"
+    },
+    {
+      "paperId": "1b6b422764c12f5e22fb5c2c36b66ee4e32a50cd",
+      "title": "On the effects of viewing cues in comprehending distortions"
+    },
+    {
+      "paperId": "5c066922d880ac88172d1277801467da6eefd975",
+      "title": "Improving focus targeting in interactive fisheye views"
+    },
+    {
+      "paperId": "289f0356616f0af04a27a2dbcdf8ddcdc37ec95f",
+      "title": "An empirical comparison of three commercial information visualization systems"
+    },
+    {
+      "paperId": "cc0b5cf8c4efb446c0099b676af851789aba11a4",
+      "title": "Using information scent to model user information needs and actions and the Web"
+    },
+    {
+      "paperId": "c744b26838e9bef0d447b26b4574eb07eab7e9b4",
+      "title": "Fisheye menus"
+    },
+    {
+      "paperId": "8a14ca1d4004b7f03a1eabf70353a87bd7d1e10d",
+      "title": "Empirical studies of information visualization: a meta-analysis"
+    },
+    {
+      "paperId": "850cd481573926c4d018503edf17050af332067d",
+      "title": "Snap-together visualization: can users construct and operate coordinated visualizations?"
+    },
+    {
+      "paperId": "a94680671ff30c4d954392192c9e4c233d61ce77",
+      "title": "Evaluating the effectiveness of visual user interfaces for information retrieval"
+    },
+    {
+      "paperId": "602fcf74d03290ec7886349ed1c00f683e93869f",
+      "title": "Improving selection performance on pen-based systems: a study of pen-based interaction for selection tasks"
+    },
+    {
+      "paperId": "fd14b5731abaa518163e6a903d9443b238a4f11e",
+      "title": "Multiple view and multiform visualization"
+    },
+    {
+      "paperId": "a2e9d9229a61acbc6489f7e7267717c138c8068b",
+      "title": "A framework for navigation"
+    },
+    {
+      "paperId": "b346671e4870ed549a932188627770a911fc7ca9",
+      "title": "Aging, Motor Control, and the Performance of Computer Mouse Tasks"
+    },
+    {
+      "paperId": "ad0e622285032c18264bd81196f86e4a3b25df87",
+      "title": "Critical zones in desert fog: aids to multiscale navigation"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "539bb9ebc6dc3293d0b1ac4d97a77ab70978e25c",
+      "title": "The effects of motion and stereopsis on three-dimensional visualization"
+    },
+    {
+      "paperId": "ccd2f35c99b775da10425ace238964f53ae53817",
+      "title": "3-dimensional pliable surfaces: for the effective presentation of visual information"
+    },
+    {
+      "paperId": "8f3ea4c4374a59f2625a68e9498da03195f2efc0",
+      "title": "Layout Adjustment and the Mental Map"
+    },
+    {
+      "paperId": "293f09e1b8e5d01e0f3824355378aa908bbf884e",
+      "title": "XmdvTool: integrating multiple methods for visualizing multivariate data"
+    },
+    {
+      "paperId": "f76f162f6b158b58e5db91280c3740a13111d7dd",
+      "title": "The table lens: merging graphical and symbolic representations in an interactive focus + context visualization for tabular information"
+    },
+    {
+      "paperId": "7798bf37b2a7bc82c7cebb1d4dafdaf4cac91159",
+      "title": "Visual information seeking: tight coupling of dynamic query filters with starfield displays"
+    },
+    {
+      "paperId": "def0a18d3de27303c51ab40f923a7e9aef48a0ef",
+      "title": "Split menus: effectively using selection frequency to organize menus"
+    },
+    {
+      "paperId": "7990dbdf2588915193c793ac3cebfcad60c93379",
+      "title": "Integrality and separability of input devices"
+    },
+    {
+      "paperId": "bfde5190c5300e8b9b1c370efa8de96390144f96",
+      "title": "The cost structure of sensemaking"
+    },
+    {
+      "paperId": "01f4112e9ce1cca76c152ffd8836fcb18f7cfc63",
+      "title": "A morphological analysis of the design space of input devices"
+    },
+    {
+      "paperId": "324330e10e9164bf9ad8505d533bc5054eef404a",
+      "title": "The cognitive coprocessor architecture for interactive user interfaces"
+    },
+    {
+      "paperId": "0ee153002e00e9a52eadac3ab0c93a5bd0582a8f",
+      "title": "Understanding computers and cognition"
+    },
+    {
+      "paperId": "634c9fde5f1c411e4487658ac738dcf18d98ea8d",
+      "title": "The information capacity of the human motor system in controlling the amplitude of movement."
+    },
+    {
+      "paperId": "c4d273d7fd7e203b2be13563e2b628caddfedaec",
+      "title": "The Design of Future Things"
+    },
+    {
+      "paperId": "5eb0ebaa4bc61a5df2d8337aa6df9030acf516aa",
+      "title": "Information Foraging"
+    },
+    {
+      "paperId": null,
+      "title": "Sensemaking Processes of Intelligence Analysis and Possible Leverage Points as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "38c5e91a9317afb88787a4c0651c99e663e92ffc",
+      "title": "Reading patterns and usability in visualizations of electronic documents"
+    },
+    {
+      "paperId": "bec4bc5cd3af67e1a62cffbd7e1c990d3ad028f9",
+      "title": "Designing for Interaction"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "e8a2960fcc987e1fc65f69a92f09e70d4c48d60d",
+      "title": "Browsing hierarchical data with multi-level dynamic queries and pruning"
+    },
+    {
+      "paperId": null,
+      "title": "Things that Make Us Smart"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": null,
+      "title": "Since i]tems are moving, the number of pixels in the motor space from which an item must be selected is lower than that of the hierarchical menu"
+    },
+    {
+      "paperId": null,
+      "title": "found that users did not know where to go when exploring a large unknown dataset using ASK-Graph: Userswouldbeabletonavigatearoundjust\ufb01ne,buthadnoideawheretheyshouldstarttolookforinterestingfeatures"
+    },
+    {
+      "paperId": null,
+      "title": "* denotes publications with listed reports"
+    },
+    {
+      "paperId": null,
+      "title": "System-power costs to form system operations : Once users have a question in mind, they need to translate it into operations"
+    },
+    {
+      "paperId": null,
+      "title": "SevensubjectsmentionedthattheyhadproblemswiththeslidingtechniqueoftheZUI. [...] As a result some subjects accidentally triggered a zoom operation when"
+    },
+    {
+      "paperId": null,
+      "title": "users, especially with inadequate visual feedback. Hornb\u00e6k and Hertzum"
+    },
+    {
+      "paperId": null,
+      "title": "landmarks to aid navigation in temporal view changes: It is felt that this [navigation] problem can be signi\ufb01cantly alleviated by retaining the same current focus."
+    },
+    {
+      "paperId": null,
+      "title": "dif\ufb01-cult once users have lost association between local and global objects"
+    },
+    {
+      "paperId": null,
+      "title": "In addition to navigation simplicity, current focus can be used as landmarks 6.1 Narrowing the Gulf of Execution: Less is more Similarly to visual cluttering, complex interaction is detrimental"
+    }
+  ]
+}

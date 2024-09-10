@@ -1,0 +1,398 @@
+{
+  "paperId": "da0c519abefd1d749cdc2ae157010fafc2fa53a3",
+  "externalIds": {
+    "MAG": "2750871462",
+    "DBLP": "journals/tvcg/EdgeRLW18",
+    "DOI": "10.1109/TVCG.2017.2745180",
+    "CorpusId": 19529745,
+    "PubMed": "28866577"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/da0c519abefd1d749cdc2ae157010fafc2fa53a3",
+  "title": "Beyond Tasks: An Activity Typology for Visual Analytics",
+  "abstract": "As Visual Analytics (VA) research grows and diversifies to encompass new systems, techniques, and use contexts, gaining a holistic view of analytic practices is becoming ever more challenging. However, such a view is essential for researchers and practitioners seeking to develop systems for broad audiences that span multiple domains. In this paper, we interpret VA research through the lens of Activity Theory (AT)\u2014a framework for modelling human activities that has been influential in the field of Human-Computer Interaction. We first provide an overview of Activity Theory, showing its potential for thinking beyond tasks, representations, and interactions to the broader systems of activity in which interactive tools are embedded and used. Next, we describe how Activity Theory can be used as an organizing framework in the construction of activity typologies, building and expanding upon the tradition of abstract task taxonomies in the field of Information Visualization. We then apply the resulting process to create an activity typology for Visual Analytics, synthesizing a wide range of systems and activity concepts from the literature. Finally, we use this typology as the foundation of an activity-centered design process, highlighting both tensions and opportunities in the design space of VA systems.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2018,
+  "referenceCount": 80,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "267-277",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Edge2018BeyondTA,\n author = {D. Edge and N. Riche and Jonathan Larson and Christopher M. White},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {267-277},\n title = {Beyond Tasks: An Activity Typology for Visual Analytics},\n volume = {24},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144497921",
+      "name": "D. Edge"
+    },
+    {
+      "authorId": "1692395",
+      "name": "N. Riche"
+    },
+    {
+      "authorId": "143603672",
+      "name": "Jonathan Larson"
+    },
+    {
+      "authorId": "2087034820",
+      "name": "Christopher M. White"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "3bcde13df37bbe176b9b530a0df4b4feb09fa4d5",
+      "title": "Dark data"
+    },
+    {
+      "paperId": "fd7c9eda015c06741fbded0632f52372f5d8002f",
+      "title": "Making HCI theory work: an analysis of the use of activity theory in HCI research"
+    },
+    {
+      "paperId": "8a6cd175d77de2efc10840d2731a1071a1ccb952",
+      "title": "From Visual Exploration to Storytelling and Back Again"
+    },
+    {
+      "paperId": "e9288d1c1c0362b2b0b73d46e78faeb1f2512223",
+      "title": "SensePath: Understanding the Sensemaking Process Through Analytic Provenance"
+    },
+    {
+      "paperId": "77f7389a3e03fb0b0d5708badd55af5e2e383f21",
+      "title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+    },
+    {
+      "paperId": "cd109439a68c5bae86d92ceccbe4336b47437e1f",
+      "title": "Learning by expanding: An activity-theoretical approach to developmental research"
+    },
+    {
+      "paperId": "db4d3498dde5f88fc3e5e37159712197d81ee05e",
+      "title": "Supporting Communication and Coordination in Collaborative Sensemaking"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "4e6bba65f7636a655c778a3e54cc58e148468963",
+      "title": "CRITICAL QUESTIONS FOR BIG DATA"
+    },
+    {
+      "paperId": "7c3da93a1b6d4e496b325b991a5a51c9bd10a756",
+      "title": "Characterizing the intelligence analysis process: Informing visual analytics design through a longitudinal field study"
+    },
+    {
+      "paperId": "fde4067b7c024e2f718ed23509553491c820dfce",
+      "title": "Expanding the Scope: Interaction Design Perspectives for Visual Analytics"
+    },
+    {
+      "paperId": "8d38732c4bec239bd5f5db4fa8a1d102bc0e03f8",
+      "title": "VizCept: Supporting synchronous collaboration for constructing visualizations in intelligence analysis"
+    },
+    {
+      "paperId": "151d1dbf51f654bf73e97ced115ca05c55cdec0f",
+      "title": "Helping users recall their reasoning process"
+    },
+    {
+      "paperId": "0fcac1046a87715ff9129645c2bc08e740f81f2a",
+      "title": "Hugin: a framework for awareness and coordination in mixed-presence collaborative information visualization"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "68d14fea866beac28988541618d64bd5cc647d10",
+      "title": "Lark: Coordinating Co-located Collaboration with Information Visualization"
+    },
+    {
+      "paperId": "674da55f23f6ccac6861af04f6b850db9180d468",
+      "title": "The Scalable Reasoning System: Lightweight Visualization for Distributed Analytics"
+    },
+    {
+      "paperId": "92147b5c1f1d70546201a152e0ceebce94607978",
+      "title": "Entity-based collaboration tools for intelligence analysis"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "6bbe1d686263fee388c16ee6bb84b8f378e38e47",
+      "title": "Supporting the analytical reasoning process in information visualization"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "e5ae1111bc2dc0472b65d9cb62981a41f5a63a68",
+      "title": "The Design Tensions Framework"
+    },
+    {
+      "paperId": "507ed3c3ff46e651ed57b394c9d723fc449822e9",
+      "title": "Design Considerations for Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "59a3b7060e53d8cadf19e4e9301653302346bfa5",
+      "title": "Stories in GeoTime"
+    },
+    {
+      "paperId": "23184e62471f14150fe3025726fd4d9ec40ccf37",
+      "title": "A Layered Dempster-Shafer Approach to Scenario Construction and Analysis"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "12b5b00c293ce9e4c4458046f1f178ef858c7c35",
+      "title": "Interactive Visual Synthesis of Analytic Knowledge"
+    },
+    {
+      "paperId": "f6f50ff792a5c62856fd76111c43954be9fc040f",
+      "title": "Toward a Multi-Analyst, Collaborative Framework for Visual Analytics"
+    },
+    {
+      "paperId": "dedf80104c37f42b66b746ac216101cccffaf381",
+      "title": "When second wave HCI meets third wave challenges"
+    },
+    {
+      "paperId": "2d408ceadf2d019fe3b88d555b12ddfc4c6c4051",
+      "title": "Acting with technology: Activity theory and interaction design"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "2538b22f7f68c1d88ec6f347798ed89034a18f54",
+      "title": "Activity Theory and Expansive Design"
+    },
+    {
+      "paperId": "2713f1dc497af72e132fb2775c8322f1fa7ed714",
+      "title": "Entity Workspace: An Evidence File That Aids Memory, Inference, and Reading"
+    },
+    {
+      "paperId": "593594000d865a795aa98e5d40c707d4a52fdb08",
+      "title": "Support for activity-based computing in a personal computing operating system"
+    },
+    {
+      "paperId": "853e1c477b291a50c08f122a0175bdf418044ff7",
+      "title": "The Sandbox for analysis: concepts and methods"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "f10336ff1d391fe73a986ab2cfa959c668797f47",
+      "title": "Human-centered design considered harmful"
+    },
+    {
+      "paperId": "1acb1882a861f1856729ef70803f80f56e5018ea",
+      "title": "Territoriality in collaborative tabletop workspaces"
+    },
+    {
+      "paperId": "bf705315df92607e689b35531fb55d87272be12c",
+      "title": "The activity walkthrough: an expert review method based on activity theory"
+    },
+    {
+      "paperId": "7072ecbea329b17a4a1eb04e93094c1871152c0c",
+      "title": "GeoTime Information Visualization"
+    },
+    {
+      "paperId": "f9e83433c917650717c8ad43af19abbf608450a2",
+      "title": "Analysis experiences using information visualization"
+    },
+    {
+      "paperId": "49eb836f3c31132aafe6670d84484f931910fd17",
+      "title": "A document corpus browser for in-depth reading"
+    },
+    {
+      "paperId": "2628e9a53def288b4875f8ee8f68d7a515bffa69",
+      "title": "Activity-Centered Design: An Ecological Approach to Designing Smart Tools and Usable Systems"
+    },
+    {
+      "paperId": "13127a8b24c328f986598d5e06d1a477b34cf895",
+      "title": "HCI Models, Theories, and Frameworks: Toward a Multidisciplinary Science"
+    },
+    {
+      "paperId": "c680ea67dc9b6642635ce272950229e3f33f98a1",
+      "title": "A View of Software Development Environments Based on Activity Theory"
+    },
+    {
+      "paperId": "27f352bf80705d5337a9b0996dc697437ac58ffe",
+      "title": "Activity Theory and Distributed Cognition: Or What Does CSCW Need to DO with Theories?"
+    },
+    {
+      "paperId": "700b8331d9c2b880452723e5863343c8cee478f9",
+      "title": "Taking the 'No' out of Lotus Notes: activity theory, groupware, and student groupwork"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "f79d8162d2d7959a2526f83cd8cb35dfa0824956",
+      "title": "Methods & tools: The activity checklist: a tool for representing the \u201cspace\u201d of context"
+    },
+    {
+      "paperId": "0f920e8a279828a0836c6decfcf739422d73a838",
+      "title": "Designing for the dynamics of cooperative work activities"
+    },
+    {
+      "paperId": "1b42e2ba1c89e79e1660bbece686c3b25f13e7e5",
+      "title": "Typologies and taxonomies: An introduction to classification techniques"
+    },
+    {
+      "paperId": "eaced5b8ef0905dba452ac85253cae8c96d0b553",
+      "title": "Representing the user: notes on the disciplinary rhetoric of human-computer interaction"
+    },
+    {
+      "paperId": "c25cc60e8f6e7a3a98112e46491bc4a017f76fbb",
+      "title": "Portholes: supporting awareness in a distributed work group"
+    },
+    {
+      "paperId": "99ebd22468c6e1d6d74bf1cda0898fa1894e84b3",
+      "title": "From Human Factors to Human Actors: The Role of Psychology and Human-Computer Interaction Studies in System Design"
+    },
+    {
+      "paperId": "49882753f050b8d9f8fe256af9d8c0592912028e",
+      "title": "Panel"
+    },
+    {
+      "paperId": "5416463537f8c6be1199951b4fd6f8d5dae14920",
+      "title": "Plans and Situated Actions: The Problem of Human-Machine Communication (Learning in Doing: Social,"
+    },
+    {
+      "paperId": "c303be7db50e7995dbf6723ad02e2c66ee6a87ed",
+      "title": "The Problem of Activity in Psychology"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "57c18d115750541f115911fce6893500ade1c46e",
+      "title": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "paperId": null,
+      "title": "Microsoft Power BI visuals for text analysis, posted 11 July 2016"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "c02be9412064aaef159cc17d6f9e63d2be1dad91",
+      "title": "Visual Thinking Design Patterns"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "66daa47b4d512c12b8994950a158fa972375f520",
+      "title": "Activity Centered Design: An Ecological Approach to Designing Smart Tools and Usable Systems"
+    },
+    {
+      "paperId": "443478610456ed79567f52815d82f1be337ccdfc",
+      "title": "Building a Human Information Discourse Interface to Uncover Scenario Content"
+    },
+    {
+      "paperId": "d303485a51be915b7bcbf59492fdc72f7d14b9d0",
+      "title": "Information Triage with TRIST"
+    },
+    {
+      "paperId": "aa3017e02f2f8f31ddfd52c819a9f20df36e0d30",
+      "title": "CHAPTER 5 \u2013 Notational Systems\u2014The Cognitive Dimensions of Notations Framework"
+    },
+    {
+      "paperId": "11a4401589217f85bbb8136ebbe482dac69732ad",
+      "title": "Psychology of Intelligence Analysis"
+    },
+    {
+      "paperId": "c1f7645da17878ad14890bb47ef596e971897204",
+      "title": "Context and consciousness: Activity theory and human-computer interaction"
+    },
+    {
+      "paperId": null,
+      "title": "Contextual Design: A Customer-Centered Approach to Systems Designs"
+    },
+    {
+      "paperId": "3615cf3527779967c9f07f3a98190c315433ecb8",
+      "title": "Cognition in the wild"
+    },
+    {
+      "paperId": "7e7e01c2a9de6e59557a98cf213337b0ff85e751",
+      "title": "Typologies and taxonomies: An introduction to classification techniques."
+    },
+    {
+      "paperId": "8bbcd3d4d924dd8399818f5334c6651644008113",
+      "title": "Participatory Design: Principles and Practices"
+    },
+    {
+      "paperId": "48ad129ecf080164950f2663dc2d5dad06df9cf1",
+      "title": "Problems of the development of the mind"
+    },
+    {
+      "paperId": "846dcce4ea934d56c452cc2ae6a118f916d8902b",
+      "title": "Activity, consciousness, and personality"
+    },
+    {
+      "paperId": "17e5c3a1fb99b733cb0aa8ef420680b51803105e",
+      "title": "The Problem of Activity in Psychology"
+    },
+    {
+      "paperId": null,
+      "title": "BEYOND TASKS: AN ACTIVITY TYPOLOGY FOR VISUAL ANALYTICS"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "paperId": "bfafe31266b84f8f3a7bfd5e5beb60c81815ce36",
+  "externalIds": {
+    "MAG": "2147823926",
+    "DBLP": "journals/tvcg/HeerA06a",
+    "DOI": "10.1109/TVCG.2006.178",
+    "CorpusId": 11634997,
+    "PubMed": "17080809"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bfafe31266b84f8f3a7bfd5e5beb60c81815ce36",
+  "title": "Software Design Patterns for Information Visualization",
+  "abstract": "Despite a diversity of software architectures supporting information visualization, it is often difficult to identify, evaluate, and re-apply the design solutions implemented within such frameworks. One popular and effective approach for addressing such difficulties is to capture successful solutions in design patterns, abstract descriptions of interacting software components that can be customized to solve design problems within a particular context. Based upon a review of existing frameworks and our own experiences building visualization software, we present a series of design patterns for the domain of information visualization. We discuss the structure, context of use, and interrelations of patterns spanning data representation, graphics, and interaction. By representing design knowledge in a reusable form, these patterns can be used to facilitate software design, implementation, and evaluation, and improve developer education and communication",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2006,
+  "referenceCount": 23,
+  "openAccessPdf": {
+    "url": "http://www-static.cc.gatech.edu/~john.stasko/8001/heer06.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2006-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": "12"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Heer2006SoftwareDP,\n author = {Jeffrey Heer and Maneesh Agrawala},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n title = {Software Design Patterns for Information Visualization},\n volume = {12},\n year = {2006}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1803140",
+      "name": "Jeffrey Heer"
+    },
+    {
+      "authorId": "1820412",
+      "name": "Maneesh Agrawala"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "dcdf289ac9d447803067f098c3f7987e69e69063",
+      "title": "prefuse: a toolkit for interactive information visualization"
+    },
+    {
+      "paperId": "1007154e3408bcacb34165379fcdcd1a38298dd3",
+      "title": "Building Highly-Coordinated Visualizations in Improvise"
+    },
+    {
+      "paperId": "bb90cf1a2fa6e6d083233b6b31ef775b9b1437e3",
+      "title": "The InfoVis Toolkit"
+    },
+    {
+      "paperId": "84957ae07e64e02db819278c621458d371a7e28f",
+      "title": "Toolkit design for interactive structured graphics"
+    },
+    {
+      "paperId": "1fc936053b37ca01ce54e8737baf0cd44c71dbae",
+      "title": "Toward design patterns for dynamic analytical data visualization"
+    },
+    {
+      "paperId": "9f374dfa0e99d85dd3b464437b6c3e14c0ae1ddc",
+      "title": "Design Choices when Architecting Visualizations\u2020"
+    },
+    {
+      "paperId": "aab7e588d24b26bf3ba539353ce35216b711bfe2",
+      "title": "Multiscale Visualization Using Data Cubes InfoVis 2002 Best Paper"
+    },
+    {
+      "paperId": "b9dcb0d963892fbe325df775dc358cdef035a809",
+      "title": "Multiscale visualization using data cubes"
+    },
+    {
+      "paperId": "1e21c66b89c6724b87c2855354346ff27bb0b0ae",
+      "title": "Expressiveness of the data flow and data state models in visualization systems"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "f8e1b3bcee316203b4aa843efd5f581bc16849dc",
+      "title": "The Visualization Toolkit: An Object-Oriented Approach to 3-D Graphics"
+    },
+    {
+      "paperId": "977f7e201f6b778349d8c0ea846ddc1b2a1b551f",
+      "title": "Using design patterns to develop reusable object-oriented communication software"
+    },
+    {
+      "paperId": "10191e8214521593bb12a8792eb24ca587684e6a",
+      "title": "Animation support in a user interface toolkit: flexible, robust, and reusable abstractions"
+    },
+    {
+      "paperId": "128bfd21698dc6ae50773543ee484dff04691198",
+      "title": "Dynamic queries for information exploration: an implementation and evaluation"
+    },
+    {
+      "paperId": "3538739741d7dd27788ef35d9f0900adb070d6f8",
+      "title": "The information visualizer, an information workspace"
+    },
+    {
+      "paperId": "064076acd166fa77acf315ebacdbcc76dc87c42b",
+      "title": "A cookbook for using the model-view controller user interface paradigm in Smalltalk-80"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "cdaeebff8b8ed05d942b9a28d4fb53feb3f793ae",
+      "title": "A Pattern Language: Towns, Buildings, Construction"
+    },
+    {
+      "paperId": "6e5d04ca99748abb5c3ce32368d06e30daceb1c9",
+      "title": "Visual Discovery and Analysis"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "a5a717572be243e6ad1f874ba3567eb22c4026f9",
+      "title": "Design patterns: elements of reuseable object-oriented software"
+    }
+  ]
+}

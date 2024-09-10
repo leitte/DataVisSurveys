@@ -1,0 +1,353 @@
+{
+  "paperId": "847976a5526bbdf2f9995121e1d71de81edae776",
+  "externalIds": {
+    "DBLP": "journals/tvcg/KindlmannS14",
+    "MAG": "1987269142",
+    "DOI": "10.1109/TVCG.2014.2346325",
+    "CorpusId": 10535011,
+    "PubMed": "26356932"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/847976a5526bbdf2f9995121e1d71de81edae776",
+  "title": "An Algebraic Process for Visualization Design",
+  "abstract": "We present a model of visualization design based on algebraic considerations of the visualization process. The model helps characterize visual encodings, guide their design, evaluate their effectiveness, and highlight their shortcomings. The model has three components: the underlying mathematical structure of the data or object being visualized, the concrete representation of the data in a computer, and (to the extent possible) a mathematical description of how humans perceive the visualization. Because we believe the value of our model lies in its practical application, we propose three general principles for good visualization design. We work through a collection of examples where our model helps explain the known properties of existing visualizations methods, both good and not-so-good, as well as suggesting some novel methods. We describe how to use the model alongside experimental user studies, since it can help frame experiment outcomes in an actionable manner. Exploring the implications and applications of our model and its design principles should provide many directions for future visualization research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 70,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Mathematics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-11-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2181-2190",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kindlmann2014AnAP,\n author = {G. Kindlmann and C. Scheidegger},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2181-2190},\n title = {An Algebraic Process for Visualization Design},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1704822",
+      "name": "G. Kindlmann"
+    },
+    {
+      "authorId": "1786183",
+      "name": "C. Scheidegger"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "de5a1189daade237fc92d0ebb802242f53a9fe1c",
+      "title": "LineUp: Visual Analysis of Multi-Attribute Rankings"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "ef96938202d4b338b4b6b265c8305c7d056a5815",
+      "title": "A Deeper Understanding of Sequence in Narrative Visualization"
+    },
+    {
+      "paperId": "67b0101844cb3f2b34b05cc43037198ac15118e3",
+      "title": "Change Blindness Images"
+    },
+    {
+      "paperId": "040ad282a2596645cea974e7671fd2242b773cb3",
+      "title": "Selecting Semantically\u2010Resonant Colors for Data Visualization"
+    },
+    {
+      "paperId": "9ba7bb29f19527aeb7dc965c70b42a53e531dcca",
+      "title": "Graphical Tests for Power Comparison of Competing Designs"
+    },
+    {
+      "paperId": "f099042d531da712fd1d76c0a4acb7bf873292b1",
+      "title": "The four-level nested model revisited: blocks and guidelines"
+    },
+    {
+      "paperId": "1b9952ef34d8ff5b25da0d5dd9af44e015758eb3",
+      "title": "Representing Category and Continuum: Visualizing Thought"
+    },
+    {
+      "paperId": "00317fc079136c11ca32768e934dc63840f8a36e",
+      "title": "Graphical inference for infovis"
+    },
+    {
+      "paperId": "9014bc79259548e65d70aa3343b7db130efb2394",
+      "title": "Superquadric Glyphs for Symmetric Second-Order Tensors"
+    },
+    {
+      "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+      "title": "An Information-theoretic Framework for Visualization"
+    },
+    {
+      "paperId": "001c07aefcc186013184009e0c83847f28867e08",
+      "title": "ggplot2: Elegant Graphics for Data Analysis"
+    },
+    {
+      "paperId": "a06dcfdf08e830f7b89c23529ca2eea6b8094ced",
+      "title": "III.8 Categories"
+    },
+    {
+      "paperId": "88bc1111d63cc81c97cd74082c57735a6731e463",
+      "title": "Coloring 3D Line Fields Using Boy\u2019s Real Projective Plane Immersion"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "57697044a91d882ef44f3eb84919aeea6a89b00c",
+      "title": "Advances in Information and Intelligent Systems"
+    },
+    {
+      "paperId": "902702d8e3a5eed4617316e429255df7891a40e6",
+      "title": "A user study on visualizing directed edges in graphs"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "b66934c31fce54a7e782afb7bfecfc39e2dc73c9",
+      "title": "Toward a Perceptual Theory of Flow Visualization"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "ee792edccb2c88e927c81285344d2d88babfb86f",
+      "title": "Rainbow Color Map (Still) Considered Harmful"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "c15ccbf13403f0f0226ccdd75a844c61420f25be",
+      "title": "Superquadric tensor glyphs"
+    },
+    {
+      "paperId": "254d5852af2676b55272bf3c19e09515998bf185",
+      "title": "A model of multi-scale perceptual organization in information graphics"
+    },
+    {
+      "paperId": "2b389276f61582e66adae329f9997b1a4d78e3d7",
+      "title": "An Energy Model for Visual Graph Clustering"
+    },
+    {
+      "paperId": "faf75dbdd0825406d8480a28056ef7bd6e416987",
+      "title": "Using curves to enhance parallel coordinate visualisations"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "0e341b2a181f71dea088dbba800e70262f91a79e",
+      "title": "Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition"
+    },
+    {
+      "paperId": "855e2d9a955497c9f8c2526f39cdf9aa98666f38",
+      "title": "Cushion Treemaps: Visualization of Hierarchical Information"
+    },
+    {
+      "paperId": "f2db9c27ef09052606b331fb92c1911bfcc0a21b",
+      "title": "The Bas-Relief Ambiguity"
+    },
+    {
+      "paperId": "409570fa2d7cb540c07e1c3ea0cdaef4d9576f5e",
+      "title": "Evaluation and Design of Filters Using a Taylor Series Expansion"
+    },
+    {
+      "paperId": "7cde1f0409d88d512a2add6d1a87d19c87d799e6",
+      "title": "Multi-frequency noise for LIC"
+    },
+    {
+      "paperId": "e573253e95f4203d9e752fce5497914806c608a2",
+      "title": "Choosing effective colours for data visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "07387e35bfd5d3c4d3123b07528e71f89d95324a",
+      "title": "Image-guided streamline placement"
+    },
+    {
+      "paperId": "6e705e04cfc7f88839bec2a375538a45c81833f0",
+      "title": "High-speed visual estimation using preattentive processing"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "6853aa0188ec4e1b92fcad1c5426ea812199655f",
+      "title": "Categories"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "69a28cf71d454b06eed2aed3c7a48114ea969455",
+      "title": "Compositing digital images"
+    },
+    {
+      "paperId": "645c9bf8285ba71cf0d74b76767da1ddd4c140f2",
+      "title": "A Theory for Coloring Bivariate Statistical Maps"
+    },
+    {
+      "paperId": "f718309706172d6fb1e89f583927274f9a4cdf4f",
+      "title": "Features of Similarity"
+    },
+    {
+      "paperId": "9aad8a4c8a94209beb49d97a40c0e6deeffa50e7",
+      "title": "The psychology of computer vision"
+    },
+    {
+      "paperId": "894311cb5d357bd50abb812d941da3d9ffcd1ebf",
+      "title": "Semiologie graphique : les diagrammes les r\u00e9seaux, les cartes"
+    },
+    {
+      "paperId": "25e0d93ca47d86510d6a0f9cda9ae3594f3d05b2",
+      "title": "Color Science: Concepts and Methods, Quantitative Data and Formulas"
+    },
+    {
+      "paperId": "de28c165623adabcdba0fdb18b65eba685aaf31d",
+      "title": "On Estimation of a Probability Density Function and Mode"
+    },
+    {
+      "paperId": "25cb1c43983d7b0bdb2263472973dc008da135b7",
+      "title": "On the Theory of Scales of Measurement."
+    },
+    {
+      "paperId": "6e039447ef2ebd2e86e36c2bac27780328c6cfde",
+      "title": "Mental Images And Their Transformations"
+    },
+    {
+      "paperId": "58ca324a0046c14db9d2c74f830cb49a3fecfb81",
+      "title": "Visual Embedding: A Model for Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Cayley cubic. Wolfram Mathworld"
+    },
+    {
+      "paperId": "21b5a39d1aff182916ccd3e792d6d697bf4b3a19",
+      "title": "Splatterplots: Overcoming Overdraw in Scatter Plots"
+    },
+    {
+      "paperId": "eab2b1523b942ca7ae44e7495c496bc87628f9e1",
+      "title": "James J. Gibson From: the Ecological Approach to Visual Perception Chapter 8 the Theory of Affordances"
+    },
+    {
+      "paperId": null,
+      "title": "Mind the gap: An economic chart remake. http://thewhyaxis. info/gap-remake"
+    },
+    {
+      "paperId": null,
+      "title": "Comparing the world's glass ceilings. http://economix.blogs. nytimes.com/2013/04/02/comparing-the-worlds-glass-ceilings"
+    },
+    {
+      "paperId": "ee63b5190399c54c43e5f3b79802bc9e61ab88e3",
+      "title": "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
+    },
+    {
+      "paperId": "a29e149d55a1d956dd140477e1dbfc57ed7fbac4",
+      "title": "Embedding Information Visualization within Visual Representation"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": "a7bae89963046e83ddbcf8be38afee10135e1187",
+      "title": "Princeton companion to mathematics"
+    },
+    {
+      "paperId": "6b72add36525745572069669833174ff2916ebf7",
+      "title": "Map Warping for the Annotation of Metro Maps"
+    },
+    {
+      "paperId": null,
+      "title": "Oh no! One more method for color mapping of fiber tract direction using diffusion MRI data"
+    },
+    {
+      "paperId": "62003b171b30c3f05989fcce6b8462e0ca2a42d4",
+      "title": "Color Science Concepts and Methods"
+    },
+    {
+      "paperId": "4971bec3386a33fa6c3850abf3d358e7143dff8b",
+      "title": "The Ecological Approach to Visual Perception"
+    },
+    {
+      "paperId": null,
+      "title": "S\u00b4emiologie Graphique"
+    },
+    {
+      "paperId": "075a2b20b90162bf54785acb920caafcf722f0de",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Perceptually Based Depth-ordering Enhancement for Direct Volume Rendering"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "paperId": "537a94e3250153310f5920dce370df08612f7fa7",
+  "externalIds": {
+    "MAG": "2108982845",
+    "DBLP": "journals/tvcg/HullmanD11",
+    "DOI": "10.1109/TVCG.2011.255",
+    "CorpusId": 10436985,
+    "PubMed": "22034342"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/537a94e3250153310f5920dce370df08612f7fa7",
+  "title": "Visualization Rhetoric: Framing Effects in Narrative Visualization",
+  "abstract": "Narrative visualizations combine conventions of communicative and exploratory information visualization to convey an intended story. We demonstrate visualization rhetoric as an analytical framework for understanding how design techniques that prioritize particular interpretations in visualizations that \"tell a story\" can significantly affect end-user interpretation. We draw a parallel between narrative visualization interpretation and evidence from framing studies in political messaging, decision-making, and literary studies. Devices for understanding the rhetorical nature of narrative information visualizations are presented, informed by the rigorous application of concepts from critical theory, semiotics, journalism, and political theory. We draw attention to how design tactics represent additions or omissions of information at various levels-the data, visual representation, textual annotations, and interactivity-and how visualizations denote and connote phenomena with reference to unstated viewing conventions and codes. Classes of rhetorical techniques identified via a systematic analysis of recent narrative visualizations are presented, and characterized according to their rhetorical contribution to the visualization. We describe how designers and researchers can benefit from the potentially positive aspects of visualization rhetoric in designing engaging, layered narrative visualizations and how our framework can shed light on how a visualization design prioritizes specific interpretations. We identify areas where future inquiry into visualization rhetoric can improve understanding of visualization interpretation.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2011,
+  "referenceCount": 66,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Political Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Linguistics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2011-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2231-2240",
+    "volume": "17"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Hullman2011VisualizationRF,\n author = {J. Hullman and N. Diakopoulos},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2231-2240},\n title = {Visualization Rhetoric: Framing Effects in Narrative Visualization},\n volume = {17},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "3159918",
+      "name": "J. Hullman"
+    },
+    {
+      "authorId": "2943892",
+      "name": "N. Diakopoulos"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6a20c1345cc48ca6c047cc82fb23f31da160f803",
+      "title": "How to lie With Statistics"
+    },
+    {
+      "paperId": "9c2ff7c4992240c56afec5e24eaa7be12597052e",
+      "title": "CommentSpace: structured support for collaborative visual analysis"
+    },
+    {
+      "paperId": "dde9fc643169d4be2222dc9df00aea7977a1f459",
+      "title": "Playable data: characterizing the design space of game-y infographics"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "eec62ca266afa1be07505cdb640160d9e25c8cbf",
+      "title": "Preconceptions and Individual Differences in Understanding Visual Metaphors"
+    },
+    {
+      "paperId": "4dde85f9dc4a975c1d1e99c50f9ad2e702eefd39",
+      "title": "Picturing the Uncertain World"
+    },
+    {
+      "paperId": "0005f0a86656d0ec9100bdcaace2476df85ec0b0",
+      "title": "Exploring the role of individual differences in information visualization"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "ca72cba031a62827ce0543d2d13ca03300bdb1a2",
+      "title": "Visual Thinking for Design"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "9b82b48af2e688a228695e43e64b5c4ae249618f",
+      "title": "Persuasive Games: The Expressive Power of Videogames"
+    },
+    {
+      "paperId": "37a82487ef6a09391d0e4d9602ab4ec482aeb40e",
+      "title": "Technical forum: Communication-minded visualization: A call to action"
+    },
+    {
+      "paperId": "f224b064d07ee8aaefbd379b39c2ecb20bf1daf5",
+      "title": "When static media promote active learning: annotated illustrations versus narrated animations in multimedia instruction."
+    },
+    {
+      "paperId": "3bef4098ee920c13c4fd0c6d29a579def691e711",
+      "title": "The Semiotic Engineering of Human-Computer Interaction"
+    },
+    {
+      "paperId": "b66189b22dd1ae613fa3b473686d97728a04208b",
+      "title": "The Interface of Language, Vision, and Action: Eye Movements and the Visual World"
+    },
+    {
+      "paperId": "39a05307d03a528392be8f3c35c45265910579a5",
+      "title": "Mental models"
+    },
+    {
+      "paperId": "e2abb6daefe6289157f1ea889634a54f54d95d21",
+      "title": "Semiotics: The Basics"
+    },
+    {
+      "paperId": "942585feca2334bd011c3881b89dc3a5d432a52d",
+      "title": "What Semiotics can and cannot do for HCI"
+    },
+    {
+      "paperId": "467a337884e2efcc2253aa0e4adc1a7651ee97d5",
+      "title": "Bars and lines: A study of graphic communication"
+    },
+    {
+      "paperId": "aa6756edd3ba233b56f95a74a5dadc60e507cb8f",
+      "title": "Issue Framing Effects on Belief Importance and Opinion"
+    },
+    {
+      "paperId": "c9e06cd18712115abf1869b46dd56f03c0b1bb67",
+      "title": "The invisible computer: Why good products can fail, the personal computer is so complex, and information appliances are the solution"
+    },
+    {
+      "paperId": "d8a7c3f71f364f0b96deede8d14694438873d04c",
+      "title": "Human cognitive abilities: A survey of factor analytic studies"
+    },
+    {
+      "paperId": "3e137ca6040704135dc7fe8474df946dcce62a68",
+      "title": "Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis"
+    },
+    {
+      "paperId": "79aa6ec58d0c7e424258dc125aaefbd48645d6d3",
+      "title": "Understanding charts and graphs"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "122fc5b3709606eaa555d2dbfcff5a16acec7be3",
+      "title": "Response Scales: Effects of Category Range on Reported Behavior and Comparative Judgments"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "a15e5d4aaca9378ca89da1e0098cdcb19fa8bbcb",
+      "title": "Judgment Under Uncertainty: Heuristics and Biases."
+    },
+    {
+      "paperId": "e552054dbd030b8414058639389b4a63e727aedb",
+      "title": "The framing of decisions and the psychology of choice."
+    },
+    {
+      "paperId": "21d65cde77baa56fbc4e9c1b377cb2237950699f",
+      "title": "Women"
+    },
+    {
+      "paperId": null,
+      "title": "Poll Dancing: How Accurate are Poll Predictions?"
+    },
+    {
+      "paperId": "5f6ee756470c8a26a48e2fffc724176b4fbb8d4a",
+      "title": "Picturing the Uncertain World: How to Understand, Communicate, and Control Uncertainty Through Graphical Display"
+    },
+    {
+      "paperId": null,
+      "title": "F . Viegas and M . Wattenberg"
+    },
+    {
+      "paperId": "1853145560a044809924b1c22a67c4816b157a03",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": null,
+      "title": "Mapping America: Every City, Every Block The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "A Peek Into Netflix Queues The New York Times"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cBudget Forecasts, Compared With Reality\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cVehicle Sales,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "How the Recession Changed Us"
+    },
+    {
+      "paperId": "a29e149d55a1d956dd140477e1dbfc57ed7fbac4",
+      "title": "Embedding Information Visualization within Visual Representation"
+    },
+    {
+      "paperId": null,
+      "title": "Do Not Fuck with Graphic Designers,"
+    },
+    {
+      "paperId": null,
+      "title": "The Science of Analytic Reporting"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cOrganizational Chart of the Democrats\u2019 Health Plan,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "When Income Grows, Who Gains? Economic Policy Institute"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cSpeaker Pelosi's National Energy Tax: A Bureaucratic Nightmare,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "The Impact of the Spacing of the Scale Options in a Web Survey, Amer. Assoc. for AAPOR '08"
+    },
+    {
+      "paperId": null,
+      "title": "Ann. Rev. Polit. Sci. vol"
+    },
+    {
+      "paperId": null,
+      "title": "Framing Theory"
+    },
+    {
+      "paperId": "8ad3c378dc430ac4d258f915e0e2533c8f3d9cde",
+      "title": "Communication-minded visualization : A call to action"
+    },
+    {
+      "paperId": "b2c1cc037013fbbc8a0a4ed8f14de96ef698d6dc",
+      "title": "Beautiful Evidence"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "80e1b3691efb64233fa7c5e39f15f1eff7f14110",
+      "title": "The elements of graphing data"
+    },
+    {
+      "paperId": "b9e9c629c341caafeb5d040fce36b3a9ca06f1f2",
+      "title": "Studies in public opinion : attitudes, nonattitudes, measurement error, and change"
+    },
+    {
+      "paperId": "b51e0131753ff03f0e1f1788912417d01c228d12",
+      "title": "The Elements of Journalism: What Newspeople Should Know and the Public Should Expect"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "7291984c086fa4b8f429b661150555b0344da56f",
+      "title": "Physicians' recommendations for mammography: do tailored messages make a difference?"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "d03e21ac514278f6860908dacd133a2485c13cbc",
+      "title": "Women, Fire, and Dangerous Things"
+    },
+    {
+      "paperId": null,
+      "title": "VISUALIZATION RHETORIC : FRAMING EFFECTS IN NARRATIVE VISUALIZATION"
+    },
+    {
+      "paperId": "786593d3bff7483640c03c50421e1de68aff24d7",
+      "title": "Mental Models : Towards a Cognitive Science of Language"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "paperId": "1862194d5a5be5a424c66ac0d0450c4d4f47d500",
+  "externalIds": {
+    "DBLP": "journals/tvcg/KhayatKEG20",
+    "ArXiv": "1907.13314",
+    "MAG": "2965544063",
+    "DOI": "10.1109/TVCG.2019.2934264",
+    "CorpusId": 199000895,
+    "PubMed": "31425085"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1862194d5a5be5a424c66ac0d0450c4d4f47d500",
+  "title": "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics",
+  "abstract": "Many evaluation methods have been used to assess the usefulness of Visual Analytics (VA) solutions. These methods stem from a variety of origins with different assumptions and goals, which cause confusion about their proofing capabilities. Moreover, the lack of discussion about the evaluation processes may limit our potential to develop new evaluation methods specialized for VA. In this paper, we present an analysis of evaluation methods that have been used to summatively evaluate VA solutions. We provide a survey and taxonomy of the evaluation methods that have appeared in the VAST literature in the past two years. We then analyze these methods in terms of validity and generalizability of their findings, as well as the feasibility of using them. We propose a new metric called summative quality to compare evaluation methods according to their ability to prove usefulness, and make recommendations for selecting evaluation methods based on their summative quality in the VA domain.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 94,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1907.13314",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-07-31",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "353-363",
+    "volume": "26"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Khayat2019TheVG,\n author = {Mosab Khayat and M. Karimzadeh and D. Ebert and A. Ghafoor},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {353-363},\n title = {The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics},\n volume = {26},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "50642172",
+      "name": "Mosab Khayat"
+    },
+    {
+      "authorId": "2724570",
+      "name": "M. Karimzadeh"
+    },
+    {
+      "authorId": "33449182",
+      "name": "D. Ebert"
+    },
+    {
+      "authorId": "1696394",
+      "name": "A. Ghafoor"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "74ea2bacd1494110a4c40d17697d03244b1420f1",
+      "title": "An Ontological Framework for Supporting the Design and Evaluation of Visual Analytics Systems"
+    },
+    {
+      "paperId": "2a06257b81341e00aae8f4572b6bc7b6861abd01",
+      "title": "ViBr: Visualizing Bipartite Relations at Scale with the Minimum Description Length Principle"
+    },
+    {
+      "paperId": "314b0efe1aa77ee494b60d394883bd510fc1157b",
+      "title": "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Applications"
+    },
+    {
+      "paperId": "e9a9a7c6441e3f035efa651b17bb90d90b9bc5df",
+      "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer"
+    },
+    {
+      "paperId": "c941253210e358e286b60a29b1a8fd284e4762d5",
+      "title": "Analysis of Flight Variability: a Systematic Approach"
+    },
+    {
+      "paperId": "c3c728b9a12c59108493275a43dc64df619811e9",
+      "title": "Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters"
+    },
+    {
+      "paperId": "2bc964de46c4a2068ea5b11591c390f242672a5a",
+      "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks"
+    },
+    {
+      "paperId": "b4666d46cf006ec82e2643241c796fe79fff7693",
+      "title": "Drag and Track: A Direct Manipulation Interface for Contextualizing Data Instances within a Continuous Parameter Space"
+    },
+    {
+      "paperId": "1543ffcac50ee837494c077f88d8db92fa330be6",
+      "title": "Doccurate: A Curation-Based Approach for Clinical Text Visualization"
+    },
+    {
+      "paperId": "d0af153f4c07d7095788328c41f9e810ca340e96",
+      "title": "Identification of Temporally Varying Areas of Interest in Long-Duration Eye-Tracking Data Sets"
+    },
+    {
+      "paperId": "19e717002a56236052cb3c7f46bc46c284db9b88",
+      "title": "An Information-Theoretic Approach to the Cost-benefit Analysis of Visualization in Virtual Environments"
+    },
+    {
+      "paperId": "bf0881e9d3d6d0cf698ada72a42c257c7f8155aa",
+      "title": "Vulnus: Visual Vulnerability Analysis for Network Security"
+    },
+    {
+      "paperId": "5763935788a8ed009bb7c3fbffe64c582ea3fe12",
+      "title": "A Visual Analytics Framework for Spatiotemporal Trade Network Analysis"
+    },
+    {
+      "paperId": "d65cd3cbd0cc99c12d461bf5c6aa7752532e42b0",
+      "title": "An Interactive Method to Improve Crowdsourced Annotations"
+    },
+    {
+      "paperId": "4c0690560fc32d1d4e1e99c646e1294ce369e4a8",
+      "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification"
+    },
+    {
+      "paperId": "1a02cd67884c55d490328c0474274c8909d73a14",
+      "title": "MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration"
+    },
+    {
+      "paperId": "4010e9a26e3cb7de0c9c8e24b7f27c74fede4579",
+      "title": "How to Evaluate an Evaluation Study? Comparing and Contrasting Practices in Vis with Those of Other Disciplines : Position Paper"
+    },
+    {
+      "paperId": "8d904d49cb178def9a15fbea955d427d85cad2f5",
+      "title": "Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models"
+    },
+    {
+      "paperId": "a9b57247bfb912fa8919e8d87b68e09ad81d418a",
+      "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules"
+    },
+    {
+      "paperId": "ead0796ee7b0bac73181087910caf93e9ed86b65",
+      "title": "RCLens: Interactive Rare Category Exploration and Identification"
+    },
+    {
+      "paperId": "1abec8d03b8d1435ae920edea9b437be913a30ca",
+      "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "3161f692c61df9600b9ae9f22434253f166fa528",
+      "title": "VIGOR: Interactive Visual Exploration of Graph Query Results"
+    },
+    {
+      "paperId": "8a76c4f17d9b3c6a1ec489706cd495e93110db67",
+      "title": "User-Centered Evaluation of Visual Analytics"
+    },
+    {
+      "paperId": "bc020245f438cb0023f2caf2b193542f9f214c22",
+      "title": "CRICTO: Supporting Sensemaking through Crowdsourced Information Schematization"
+    },
+    {
+      "paperId": "b916d27090b2f8d31dfb5d72627c0e56a7f829ca",
+      "title": "Interactive Visual Alignment of Medieval Text Versions"
+    },
+    {
+      "paperId": "141f1ba6eedb82a0c3eb8a8eb8d117ce8c3231f2",
+      "title": "SkyLens: Visual Analysis of Skyline on Multi-Dimensional Data"
+    },
+    {
+      "paperId": "1701b1dcfcf93e320a4f98daf8551f94a54cf04d",
+      "title": "Design Study Contributions Come in Different Guises: Seven Guiding Scenarios"
+    },
+    {
+      "paperId": "8a5d58d9c5e9d6468952de3e7a7eb3e8f7075368",
+      "title": "Information Theory Tools for Visualization"
+    },
+    {
+      "paperId": "772968e4c83c6d1aa714de4fe2b2de2d93c3275f",
+      "title": "What May Visualization Processes Optimize?"
+    },
+    {
+      "paperId": "bf10c7c8f4e8b47e498fc67de3ad7fdf60f2fe20",
+      "title": "Value-driven evaluation of visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "Design Activity Framework for Visualization Design"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "f099042d531da712fd1d76c0a4acb7bf873292b1",
+      "title": "The four-level nested model revisited: blocks and guidelines"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "86da62682d256951735c5dab4139c42a3cdea10a",
+      "title": "Developing guidelines for assessing visual analytics environments"
+    },
+    {
+      "paperId": "8babf447a08019f40f4d6f99fb7dd60ca60ad720",
+      "title": "Pair Analytics: Capturing Reasoning Processes in Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+      "title": "An Information-theoretic Framework for Visualization"
+    },
+    {
+      "paperId": "49c5557a74eea6598516ebdd09d5719c656be00d",
+      "title": "Problems with scoring methods and ordinal scales in risk assessment"
+    },
+    {
+      "paperId": "9adfa58f9d2cbbb655f1f34eeb0b0b25c8611f71",
+      "title": "Powerful and consistent analysis of likert-type rating scales"
+    },
+    {
+      "paperId": "cf5384bd592fcb369c91d689836fe2f71665d35b",
+      "title": "Evaluating visual analytics systems for investigative analysis: Deriving design principles from a case study"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "591eaf6a53f97161887d0422a04d5cea7c241569",
+      "title": "To Score or Not to Score? Tripling Insights for Participatory Design"
+    },
+    {
+      "paperId": "055f9f70fa3c58a31e5ffe545345ab72426e1964",
+      "title": "Risk and risk management in software projects: A reassessment"
+    },
+    {
+      "paperId": "5418c3d0175cca0a65d3be53ca8274234853eeab",
+      "title": "Grounded evaluation of information visualizations"
+    },
+    {
+      "paperId": "a6a10974400a172534761021f6382ad5bd81c8e3",
+      "title": "Creating realistic, scenario-based synthetic data for test and evaluation of information analytics software"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "f5634975d919b869923b5745d17480755ef72aca",
+      "title": "The Essential Turing"
+    },
+    {
+      "paperId": "73a86c2be363ea9337d209cef6f98b01e63aac98",
+      "title": "Beyond Usability: Evaluation Aspects of Visual Analytic Environments"
+    },
+    {
+      "paperId": "42a7fcf118e133c64f298d9b234e45009a3800cb",
+      "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches"
+    },
+    {
+      "paperId": "09e0eaf1a4f2468606eabff027704fce2e6d5037",
+      "title": "An Insight-Based Longitudinal Study of Visual Analytics"
+    },
+    {
+      "paperId": "cd14d9e1adc5c9271d59783e5198d17195464bcc",
+      "title": "Designing and Conducting Mixed Methods Research"
+    },
+    {
+      "paperId": "1ea117cbc6ddd3b5c072e5c1b071b4d9ed1e9b70",
+      "title": "An explorative analysis of user evaluation studies in information visualisation"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "edb3e2e17b114e66b39856649b84dbfa4c044fe6",
+      "title": "ASSESSMENT \u2013 SUMMATIVE AND FORMATIVE \u2013 SOME THEORETICAL REFLECTIONS"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "b46e9569826b3b8d5fa35a73261dba31c42178fd",
+      "title": "Adapting the cognitive walkthrough method to assess the usability of a knowledge domain visualization"
+    },
+    {
+      "paperId": "21dcf2a158b05f24b48a3624fee46e8cea6d53c6",
+      "title": "Evaluating Visualizations: Do Expert Reviews Work?"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "d3cccc1f1d710c9accf4171fb7f3a7a95cd4c084",
+      "title": "Which comes first, usability or utility?"
+    },
+    {
+      "paperId": "c7cb719e3dba87c968404f8ebb2a2f9b978d4870",
+      "title": "Risk Modeling, Assessment, and Management"
+    },
+    {
+      "paperId": "5926d4020e9f35fdc8c0b345a2d89bb1c6d0bc89",
+      "title": "The relation between user satisfaction, usage of information systems and performance"
+    },
+    {
+      "paperId": "f2c1830eedc095b92a78dc3afa39a36343ed81ad",
+      "title": "Introduction to algorithms"
+    },
+    {
+      "paperId": "8c70a0a39a686bf80b76cb1b77f9eef156f6432d",
+      "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection"
+    },
+    {
+      "paperId": "d111e38699be2510e4f1d1ac647f3340e11cd5f1",
+      "title": "Methodology matters: doing research in the behavioral and social sciences"
+    },
+    {
+      "paperId": "666b5e762d91c4658bdbf826281774f1fd34f876",
+      "title": "Faster, cheaper!! Are usability inspection methods as effective as empirical testing?"
+    },
+    {
+      "paperId": "83af9a03ba6f9fea58640de9c29d4fb6a218adb5",
+      "title": "Basics of qualitative research: Grounded theory procedures and techniques"
+    },
+    {
+      "paperId": "49ddfea680cff732f9970cb9b7d60a982a134399",
+      "title": "Usability inspection methods"
+    },
+    {
+      "paperId": "eaafe22c97bac6f92481514ab36026654c9aa521",
+      "title": "Software testing based on formal specifications: a theory and a tool"
+    },
+    {
+      "paperId": "17675ead001861e436c988e984f09529290d42ac",
+      "title": "Introduction to Algorithms"
+    },
+    {
+      "paperId": "4f00eb4361df6ca6979bec12d83cdfe91fca5af0",
+      "title": "Understanding"
+    },
+    {
+      "paperId": "5186764bd5b4812c288a127e0c85d6eaedfc4878",
+      "title": "Naturalistic Inquiry"
+    },
+    {
+      "paperId": "0e702fa88d2edd13c20975b03bfae38b119ddc7c",
+      "title": "ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding"
+    },
+    {
+      "paperId": "bf6ff8f93a166f68ef72699540162bb51b99fa17",
+      "title": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs"
+    },
+    {
+      "paperId": "b750d76c6e8c652191d0d58945366bd27b985bf8",
+      "title": "How Do Ancestral Traits Shape Family Trees Over Generations?"
+    },
+    {
+      "paperId": "5ddd4a4dbc8c32734209ca4a074d6be551f87e89",
+      "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data"
+    },
+    {
+      "paperId": "55e2f55a0911071224866f7723fc2eaae44019ce",
+      "title": "Visualizing Big Data Outliers Through Distributed Aggregation"
+    },
+    {
+      "paperId": "8b4b027d79378c7c93290c739f4aec398fecdccb",
+      "title": "Comparing Visual-Interactive Labeling with Active Learning: An Experimental Study"
+    },
+    {
+      "paperId": "c49808c47643a815f98856189faf8879a2399b40",
+      "title": "EVA: Visual Analytics to Identify Fraudulent Events"
+    },
+    {
+      "paperId": "ec712b3abf46d24921c65df144ab661775bcdbc0",
+      "title": "Bring It to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis"
+    },
+    {
+      "paperId": "b68e71c17fe21928d935dbbf448aac9f81921298",
+      "title": "Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "a5607852850d1b2b8e927e8e9f56653f519bd405",
+      "title": "Experimental And Quasi Experimental Designs For Research"
+    },
+    {
+      "paperId": "914a9ddc03e6b20ae93806f6b21aaa87d04f5d4d",
+      "title": "Towards a Taxonomy for Evaluating User Engagement in Information Visualization"
+    },
+    {
+      "paperId": "9db6980f217c4108dc519f35f2d5a1642d3c1421",
+      "title": "Calculating Total System Availability"
+    },
+    {
+      "paperId": "4fcb2d8f7fb13d3f350b7e3e25d22f94b38c0f15",
+      "title": "The New Statistics Why and How"
+    },
+    {
+      "paperId": "0267a54606d17c33ad4acc23a8461dee5e0ab093",
+      "title": "The Essential Turing"
+    },
+    {
+      "paperId": "bb3295f52855f35a1cc6a029c8a999ea8743dd6e",
+      "title": "Evaluation Comes in Many Guises"
+    },
+    {
+      "paperId": "f9a9a4303fb01fe8c2dad62b40fdee0fd1f4e81a",
+      "title": "Essentials of research design and methodology"
+    },
+    {
+      "paperId": "361530b7b1438b3287cdef2a0b57f206ae9cf8e3",
+      "title": "Usability engineering"
+    },
+    {
+      "paperId": "c118b7427f22d9b6a86caf37d61948431be8c267",
+      "title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches"
+    },
+    {
+      "paperId": "d03bfc39641330ee51083fb05b98082cdca15e25",
+      "title": "GrADE: an emerging consensus on rating quality of evidence and strength of recommendations"
+    },
+    {
+      "paperId": null,
+      "title": "a ) quantities that represent the objective performance (measured or estimated by a method from THEO , QUT , AUTO , or INST )"
+    }
+  ]
+}

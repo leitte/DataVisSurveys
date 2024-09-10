@@ -1,0 +1,338 @@
+{
+  "paperId": "5ca9f988d3b3cbe037a841888e4f6985a24fcc35",
+  "externalIds": {
+    "MAG": "2888652842",
+    "DBLP": "journals/tvcg/SarikayaCBTF19",
+    "DOI": "10.1109/TVCG.2018.2864903",
+    "CorpusId": 52069873,
+    "PubMed": "30136958"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/5ca9f988d3b3cbe037a841888e4f6985a24fcc35",
+  "title": "What Do We Talk About When We Talk About Dashboards?",
+  "abstract": "Dashboards are one of the most common use cases for data visualization, and their design and contexts of use are considerably different from exploratory visualization tools. In this paper, we look at the broad scope of how dashboards are used in practice through an analysis of dashboard examples and documentation about their use. We systematically review the literature surrounding dashboard use, construct a design space for dashboards, and identify major dashboard types. We characterize dashboards by their design goals, levels of interaction, and the practices around them. Our framework and literature review suggest a number of fruitful research directions to better support dashboard design, implementation, and use.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "referenceCount": 64,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-01-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "682-692",
+    "volume": "25"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sar\u0131kaya2019WhatDW,\n author = {Alper Sar\u0131kaya and M. Correll and L. Bartram and Melanie Tory and Danyel Fisher},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {682-692},\n title = {What Do We Talk About When We Talk About Dashboards?},\n volume = {25},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2031917",
+      "name": "Alper Sar\u0131kaya"
+    },
+    {
+      "authorId": "11192438",
+      "name": "M. Correll"
+    },
+    {
+      "authorId": "1693758",
+      "name": "L. Bartram"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    },
+    {
+      "authorId": "2243968",
+      "name": "Danyel Fisher"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "5cd41d1c31395310c349923869792a5705502d9c",
+      "title": "Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring"
+    },
+    {
+      "paperId": "54573dba1a8b19cfbd53803e1192573b20530e9a",
+      "title": "Value creation from big data: Looking inside the black box"
+    },
+    {
+      "paperId": "a040cfc4a4ebe708d9bb818fc273f31799b16e91",
+      "title": "Big data dashboards as smart decision support tools for i-cities \u2013 An experiment on stockholm"
+    },
+    {
+      "paperId": "e4bd44924df95f3f5a83730506502216a39510da",
+      "title": "Representationalism at work: dashboards and data analytics in urban education"
+    },
+    {
+      "paperId": "5186ffc885b7a0beffe94e85e8aa441050aa8df8",
+      "title": "Give Me a Customizable Dashboard: Personalized Learning Analytics Dashboards in Higher Education"
+    },
+    {
+      "paperId": "870fd50f754fc84816624311a9b213aa5b75c5b8",
+      "title": "Police Reform Through Data-Driven Management"
+    },
+    {
+      "paperId": "4791d55845bc681faf1c481f590c7e7342a26666",
+      "title": "Understanding self-reflection: how people reflect on personal data through visual data exploration"
+    },
+    {
+      "paperId": "3f91e3fb01e261bf3c7d23d2dd9a0c01bc9b3e94",
+      "title": "The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios"
+    },
+    {
+      "paperId": "6c4b112f7db2f3e06aeb5eedbb187672fa9131b6",
+      "title": "Developing Knowledge-Based Citizen Participation Platform to Support Smart City Decision Making: The Smarticipate Case Study"
+    },
+    {
+      "paperId": "04bcdd801d4f84f9a5f6c73a867c3af2100f061d",
+      "title": "Systematizing game learning analytics for serious games"
+    },
+    {
+      "paperId": "fdf38a792ca7ac1eba6c3b6f98813e6fdf47b04f",
+      "title": "The Praxis and Politics of Building Urban Dashboards"
+    },
+    {
+      "paperId": "b3f50a41095eb1b0f82f017b00c3a92bea161e0e",
+      "title": "Making Public Safety Data Accessible in the Westside Atlanta Data Dashboard"
+    },
+    {
+      "paperId": "3b95b4050859be0b88fbd0fb879c96ccdbbadbc5",
+      "title": "THE DUBLIN DASHBOARD: DESIGN AND DEVELOPMENT OF A REAL-TIMEANALYTICAL URBAN DASHBOARD"
+    },
+    {
+      "paperId": "3bf0210fb0cd21c98c97285e6cf8590c7119fecf",
+      "title": "Urban data and city dashboards: Six key issues"
+    },
+    {
+      "paperId": "c8482ebc1cf3fcf8ee763b8a525564c5f4ed894f",
+      "title": "Collecting and Visualizing Real-Time Urban Data through City Dashboards"
+    },
+    {
+      "paperId": "51c6cd7cb92c7081e2a09373b773413fed825f44",
+      "title": "Data Visualization for Human Rights Advocacy"
+    },
+    {
+      "paperId": "8c8a437dd74b7c17bae0b5480ec2ec013d9067d5",
+      "title": "The work that visualisation conventions do"
+    },
+    {
+      "paperId": "93ca150178e8fb4d8c8596ab28cbdf1dbe7b72a6",
+      "title": "Ways of Seeing Data: Towards a Critical Literacy for Data Visualizations as Research Objects and Research Devices"
+    },
+    {
+      "paperId": "70f6e6ca98d4c9c745faeb1105ca8fecb89ec19b",
+      "title": "Digital education governance: data visualization, predictive analytics, and \u2018real-time\u2019 policy instruments"
+    },
+    {
+      "paperId": "c113b3f17d8f08bdaaa18ae88c24afd4d41cb543",
+      "title": "Big Data Research in Information Systems: Toward an Inclusive Research Agenda"
+    },
+    {
+      "paperId": "d7f82de1a26b719342c852f52a16eac9dcba5239",
+      "title": "Graph literacy and business intelligence: Investigating user understanding of dashboard data visualizations"
+    },
+    {
+      "paperId": "a9ae3c6f624fc5004d1066e7a698a7ab2353bb52",
+      "title": "Supporting Clinical Cognition: A Human-Centered Approach to a Novel ICU Information Visualization Dashboard"
+    },
+    {
+      "paperId": "588b4c7d479e8927e7fd1ea477699c31868a4fd1",
+      "title": "A ubiquitous situation-aware data visualization dashboard to reduce ICU clinician cognitive load"
+    },
+    {
+      "paperId": "5ba2731eae2f994d870c8a6172402b71c404ae68",
+      "title": "Dashboards for Excel"
+    },
+    {
+      "paperId": "85ad29c9c76585ad33b1a339ac96abe8230ef4ae",
+      "title": "Integrating Strategic and Operational Decision Making Using Data\u2010Driven Dashboards: The Case of St. Joseph Mercy Oakland Hospital"
+    },
+    {
+      "paperId": "7deaadbbaac9aa833d3d8a88da9c8ef754730639",
+      "title": "Ohmage"
+    },
+    {
+      "paperId": "8baf8f4323be27164f372b3bd855ec467e399262",
+      "title": "Mission Control: A History of the Urban Dashboard"
+    },
+    {
+      "paperId": "19f729ff22a166acec59239a25611f3ee9556fbf",
+      "title": "Making sense of smart cities: addressing present shortcomings"
+    },
+    {
+      "paperId": "41cf5779abf799582382fa1615c962332d38821d",
+      "title": "Personal Visualization and Personal Visual Analytics"
+    },
+    {
+      "paperId": "4d814bd2a50b7e12568b4ca63ec79d0a1f488354",
+      "title": "'Connecting the dots': leveraging visual analytics to make sense of patient safety event reports"
+    },
+    {
+      "paperId": "9bde54d3f412215234075e887963a6ca61e796df",
+      "title": "A Review of Dashboards for Data Analytics in Nursing"
+    },
+    {
+      "paperId": "bb2411549e89654c25ab3d37bb301e5ec1759747",
+      "title": "On the Integration of Self-tracking Data amongst Quantified Self Members"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "a9fddccdc03fcf578dbbb89820ab9f4890579bf5",
+      "title": "Learning dashboards: an overview and future research opportunities"
+    },
+    {
+      "paperId": "00db29a50efae19d8ab0fc73f338486072a84f00",
+      "title": "Usability of Performance Dashboards, Usefulness of Operational and Tactical Support, and Quality of Strategic Support: A Research Framework"
+    },
+    {
+      "paperId": "e862955fdeadc6ee81e41b37f65ca634308bfd63",
+      "title": "A Customisable Dashboard Display for Environmental Performance Visualisations"
+    },
+    {
+      "paperId": "b9a541fc69c4b6825aa9cf4b207e812c716b25fb",
+      "title": "Learning Analytics Dashboard Applications"
+    },
+    {
+      "paperId": "eec3d0450617c7332366eeeab02194a5e653c115",
+      "title": "Measuring the Networked Nonprofit: Using Data to Change the World"
+    },
+    {
+      "paperId": "e44d2da9cce669d83725bfe492933cc0f9bfbb1c",
+      "title": "Constructing a Design Framework for Performance Dashboards"
+    },
+    {
+      "paperId": "7115f61ef9db5bc4ace8bbc1a70811a1f7167eed",
+      "title": "Annotating BI visualization dashboards: needs & challenges"
+    },
+    {
+      "paperId": "91413a6ed961e49263de63cd678b0a4824fab7d4",
+      "title": "A review of dashboards in performance management: Implications for design and research"
+    },
+    {
+      "paperId": "e6e96b95a5610f403e27d051063d797377d8cd24",
+      "title": "The use of dashboards in performance management : evidence from sales managers"
+    },
+    {
+      "paperId": "2595baa027889141092b80f9b2ba46ee9a4be96c",
+      "title": "Six principles for redesigning executive information systems\u2014findings of a survey and evaluation of a prototype"
+    },
+    {
+      "paperId": "bc6dff14a130c57a91d5a21339c23471faf1d46f",
+      "title": "Et al"
+    },
+    {
+      "paperId": "9b2d2a0d7f5e96a9cee3bab23c885635155f5565",
+      "title": "Driving with Roadmaps and Dashboards: Using Information Resources to Structure the Decision Models in Service Organizations"
+    },
+    {
+      "paperId": "955805e8221c49c8a2a4056624aaab306fcdf06c",
+      "title": "Performance Dashboards: Measuring, Monitoring, and Managing Your Business"
+    },
+    {
+      "paperId": "7e3416db310b68df550cd13c517d20ef24b46eab",
+      "title": "Enterprise Dashboards: Design and Best Practices for IT"
+    },
+    {
+      "paperId": null,
+      "title": "13 tips on data dashboards for decision-making"
+    },
+    {
+      "paperId": "0029ef792e58d2fb47752c61eb1d686c67a42ecd",
+      "title": "Unintended and shadow practices of decision support system dashboards in higher education institutions"
+    },
+    {
+      "paperId": "34c1062a3c2c468223fd5efbe8e54c46d2bf4546",
+      "title": "Adopting Business Analytics to Leverage Enterprise Data Assets"
+    },
+    {
+      "paperId": null,
+      "title": "Blog post: There\u2019s nothing mere about semantics"
+    },
+    {
+      "paperId": "031cbbc628c6d83e977d24f05097130ee5ad945b",
+      "title": "HR and analytics: why HR is set to fail the big data challenge"
+    },
+    {
+      "paperId": "ec7c2f99afda7c857d3fc127cd09d10024a78a18",
+      "title": "Value and Events Approaches to Accounting: An Experimental Evaluation"
+    },
+    {
+      "paperId": "a7a052a4c00b1a911b83861569f1b7553b4fbca9",
+      "title": "Information Dashboard Design The Effective Visual Communication Of Data"
+    },
+    {
+      "paperId": null,
+      "title": "Discouraged by peer excellence: Exposure to exemplary peer performance causes quitting"
+    },
+    {
+      "paperId": "a4dab87acd3c4c8729845cafeaba3b8a56466a0b",
+      "title": "Use of Dashboards and Visualization Techniques to Support Teacher Decision Making"
+    },
+    {
+      "paperId": "571c98c2fe12d97866277bbe5cc09b46213ba57c",
+      "title": "Storytelling in Visual Analytics Tools for Business Intelligence"
+    },
+    {
+      "paperId": "231ae30e2cda732f503025bceb8a98c9515593a4",
+      "title": "Benchmarking Evaluation in Foundations: Do We Know What We Are Doing?"
+    },
+    {
+      "paperId": "c5740538f9c4014f3c7bf0edf18dc596035a0d5a",
+      "title": "SUPPORTING REFLECTIVE LEARNING FOR DAILY ACTIVITIES USING AN INTERACTIVE DASHBOARD"
+    },
+    {
+      "paperId": null,
+      "title": "Graph literacy: A cross-cultural comparison"
+    },
+    {
+      "paperId": null,
+      "title": "Dashboard confusion revisited"
+    },
+    {
+      "paperId": null,
+      "title": "How is your school doing? online dashboard gives parents new tool. https://www.sfgate.com/education/article/How-is-your-school-doing- California-School-11001927.php"
+    },
+    {
+      "paperId": "cf84439966c9e5b807710fe937718350fe474e5b",
+      "title": "International Journal of Geographical Information Science"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "paperId": "1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+  "externalIds": {
+    "DBLP": "journals/tvcg/LeeIRC12",
+    "MAG": "2037205988",
+    "DOI": "10.1109/TVCG.2012.204",
+    "CorpusId": 699722,
+    "PubMed": "26357178"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1ffea2418eb048a720307bbb70c96acd2bb5cb86",
+  "title": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions",
+  "abstract": "The importance of interaction to Information Visualization (InfoVis) and, in particular, of the interplay between interactivity and cognition is widely recognized [12, 15, 32, 55, 70]. This interplay, combined with the demands from increasingly large and complex datasets, is driving the increased significance of interaction in InfoVis. In parallel, there have been rapid advances in many facets of interaction technologies. However, InfoVis interactions have yet to take full advantage of these new possibilities in interaction technologies, as they largely still employ the traditional desktop, mouse, and keyboard setup of WIMP (Windows, Icons, Menus, and a Pointer) interfaces. In this paper, we reflect more broadly about the role of more \u201cnatural\u201d interactions for InfoVis and provide opportunities for future research. We discuss and relate general HCI interaction models to existing InfoVis interaction classifications by looking at interactions from a novel angle, taking into account the entire spectrum of interactions. Our discussion of InfoVis-specific interaction design considerations helps us identify a series of underexplored attributes of interaction that can lead to new, more \u201cnatural,\u201d interaction techniques for InfoVis.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2012,
+  "referenceCount": 87,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-00717203/file/Lee_2012_BMA.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2012-12-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "2689-2698",
+    "volume": "18"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Lee2012BeyondMA,\n author = {Bongshin Lee and Petra Isenberg and N. Riche and Sheelagh Carpendale},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {2689-2698},\n title = {Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions},\n volume = {18},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "49132427",
+      "name": "Bongshin Lee"
+    },
+    {
+      "authorId": "1767660",
+      "name": "Petra Isenberg"
+    },
+    {
+      "authorId": "1692395",
+      "name": "N. Riche"
+    },
+    {
+      "authorId": "96301418",
+      "name": "Sheelagh Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0ba17e5b65b49cae86ca6114c51df55649de0086",
+      "title": "Supporting asynchronous collaboration in visual analytics systems"
+    },
+    {
+      "paperId": "14d24a276907e977353bf15bb56e1cf90ae0e2e2",
+      "title": "Co-Located Collaborative Visual Analytics around a Tabletop Display"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "ed7d2f5d2ee053b69977f90837fe9f7c2eeb4601",
+      "title": "Brave NUI world"
+    },
+    {
+      "paperId": "2f89bf735e968ceaf0d99f8bd2155c4af1c73cfe",
+      "title": "Fluid interaction for information visualization"
+    },
+    {
+      "paperId": "91983545ee73ec4510917c7adfae066a74a6dde0",
+      "title": "A User Study of Visualization Effectiveness Using EEG and Cognitive Load"
+    },
+    {
+      "paperId": "92ab0960c8e46348491ae4958646062c28a5b2c0",
+      "title": "Direct manipulation through surrogate objects"
+    },
+    {
+      "paperId": "65771c7199c6b6922460342726309705b079febb",
+      "title": "Gestures in the wild: studying multi-touch gesture sequences on interactive tabletop exhibits"
+    },
+    {
+      "paperId": "45fd1f729fb2f393a982be519afe7e97704c19ee",
+      "title": "Materializing the query with facet-streams: a hybrid surface for collaborative search on tabletops"
+    },
+    {
+      "paperId": "837f1ba1d4a455eb89b2920aec273ab1778c95f3",
+      "title": "Tangible views for information visualization"
+    },
+    {
+      "paperId": "f4bf57292a4f8c61c2a69ac2b384af96b544a978",
+      "title": "A set of multi-touch graph interaction techniques"
+    },
+    {
+      "paperId": "cf2920d2fbc1021129eb88a46750c3a17166a85b",
+      "title": "ScatterTouch: a multi touch rubber sheet scatter plot visualization for co-located data exploration"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "e529680057ed5bfdc45a217dd038dd215d450861",
+      "title": "The Streams of Our Lives: Visualizing Listening Histories in Context"
+    },
+    {
+      "paperId": "2b25e6748cf8810111072253958ba59c1a6d8c65",
+      "title": "Pen + touch = new tools"
+    },
+    {
+      "paperId": "d5f14253ad8f31443698fd6dc70b02bf2e24ec8d",
+      "title": "Articulate: A Semi-automated Model for Translating Natural Language Queries into Meaningful Visualizations"
+    },
+    {
+      "paperId": "1f3861ed48b6d177fd8510a0d8229848267e9fbe",
+      "title": "NiCEBook: supporting natural note taking"
+    },
+    {
+      "paperId": "8504784fa6a1270295a7be081cc37436c9300ed5",
+      "title": "Touch projector: mobile interaction through video"
+    },
+    {
+      "paperId": "52dcdc46fd3d08949fbce8352f4a4b3e00754cfe",
+      "title": "The NiCE Discussion Room: Integrating Paper and Digital Media to Support Co-Located Group Meetings"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "dbfd40fb6e23183b4eb963fbbd58aac7928a8298",
+      "title": "Investigating multi-touch and pen gestures for diagram editing on interactive surfaces"
+    },
+    {
+      "paperId": "b10e615fb20a224ebbce77834765f96564e9285e",
+      "title": "Sticky tools: full 6DOF force-based interaction for multi-touch tables"
+    },
+    {
+      "paperId": "68d14fea866beac28988541618d64bd5cc647d10",
+      "title": "Lark: Coordinating Co-located Collaboration with Information Visualization"
+    },
+    {
+      "paperId": "c6ef51f33638de913545f8ae4f565b9edfd4fccf",
+      "title": "A Comparison of User-Generated and Automatic Graph Layouts"
+    },
+    {
+      "paperId": "f61ed852eca18bd3d99d68538b0234204eed314b",
+      "title": "Relaxed selection techniques for querying time-series graphs"
+    },
+    {
+      "paperId": "5776d126d4743723d75ba58efa862b095f2e061e",
+      "title": "CoCoNutTrix: Collaborative Retrofitting for Information Visualization"
+    },
+    {
+      "paperId": "1921b699c4c1b2a9bbc766c40a318ec253101b2a",
+      "title": "Understanding Multi-touch Manipulation for Surface Computing"
+    },
+    {
+      "paperId": "598923bd28da8caaf2cb3074bce4c790a10310fa",
+      "title": "User-defined gestures for surface computing"
+    },
+    {
+      "paperId": "8cf6c8201c1d1a4c06ea5dcdf9d8ed2b3b77768a",
+      "title": "VIGO: instrumental interaction in multi-surface environments"
+    },
+    {
+      "paperId": "5e5dcb968c1596133d8237c42b707d2604a78ac3",
+      "title": "Technical Section: Sketch-based modeling: A survey"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "0564c581517d6ca954635451d8d87150ba889242",
+      "title": "Bringing physics to the surface"
+    },
+    {
+      "paperId": "30623788b80db1f702d11a97c0e9993ca0a6e7f9",
+      "title": "An exploratory study of visual information analysis"
+    },
+    {
+      "paperId": "a2001bd39df0eac404a0391e0dd5df6fc77f719d",
+      "title": "Reality-based interaction: a framework for post-WIMP interfaces"
+    },
+    {
+      "paperId": "5f69b91aaa20af4d809af60f2126eaa4412d8fcd",
+      "title": "Harry Potter and the Meat-Filled Freezer: A Case Study of Spontaneous Usage\u00a0 of Visualization Tools"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "791bc336ed7beba5390d9ba06aaefb465fb5ed0d",
+      "title": "Interactive Tree Comparison for Co-located Collaborative Information Visualization"
+    },
+    {
+      "paperId": "19b34e069ad674060001e7bfaa2f2763be26645e",
+      "title": "NodeTrix: a Hybrid Visualization of Social Networks"
+    },
+    {
+      "paperId": "ea546e0a7ffe9323887c657579d695f68c26e816",
+      "title": "Realizing embodied interaction for visual analytics through large displays"
+    },
+    {
+      "paperId": "b5116712b5e8132125ff9ca08c15f04c9cd3b796",
+      "title": "Exploring affective design for physical controls"
+    },
+    {
+      "paperId": "7b8d86fcc8fcde959becdf698778d88d7cb28ddf",
+      "title": "Information Visualization: Design for Interaction (2nd Edition)"
+    },
+    {
+      "paperId": "e48f03553d4c7f22d541201160df548e9ba75756",
+      "title": "Designing interactions"
+    },
+    {
+      "paperId": "d95a3957308d7119040f62e0548efc927a1cf77a",
+      "title": "Baby names, visualization, and social data analysis"
+    },
+    {
+      "paperId": "2b2f598626c632039da11162d56c4e376ac7258e",
+      "title": "Force feedback slider (FFS): interactive device for learning system dynamics"
+    },
+    {
+      "paperId": "7aaa26b19dbb6defc2558b747fe0d77838674ec7",
+      "title": "\"I hear the pattern\": interactive sonification of geographical data patterns"
+    },
+    {
+      "paperId": "d51e46c317e4457cc7c6237a7cd667bd07bd1c02",
+      "title": "QueryLines: approximate query for visual browsing"
+    },
+    {
+      "paperId": "561c767a27fb396171b53fd3e12ee9b53f7f13d5",
+      "title": "TouchLight: an imaging touch screen and display for gesture-based interaction"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "727ae66ffe043482842a5e106c806b2acd2fbb3b",
+      "title": "Gummi: a bendable computer"
+    },
+    {
+      "paperId": "43bb91dc361264bc507ba34dcebe0c40e403f542",
+      "title": "A Descriptive Framework of Workspace Awareness for Real-Time Groupware"
+    },
+    {
+      "paperId": "d6723ab300288f594b0640b0e361deb93a6b7adc",
+      "title": "A Multi-Modal Natural Language Interface to an Information Visualization Environment"
+    },
+    {
+      "paperId": "1d1608441c3c1b6106bd022727011975aa9ff30f",
+      "title": "Sketching a graph to query a time-series database"
+    },
+    {
+      "paperId": "b5a4a11ff8a4fbc265e0f2cd2bee20193f42d3fd",
+      "title": "Instrumental interaction: an interaction model for designing post-WIMP user interfaces"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "2109f8f91301abec8497286160cd6b0f2e65ed05",
+      "title": "Maximum likelihood linear transformations for HMM-based speech recognition"
+    },
+    {
+      "paperId": "3e9dd45108bcb9801a392c1dcfbd03670a87d3d4",
+      "title": "Direct manipulation vs. interface agents"
+    },
+    {
+      "paperId": "9ba690d038ad8d8b30d3d15c672bf1fbcb9ef62f",
+      "title": "Post-WIMP user interfaces"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "295c1293f1b5c9fd2c1478f0c470e1997e687f26",
+      "title": "The history and future of direct manipulation"
+    },
+    {
+      "paperId": "6643ea2367df684c86a982d6a9897e82afc27af5",
+      "title": "Noncommand user interfaces"
+    },
+    {
+      "paperId": "0c85ee49fc5d1c9bc949ea502beb06d1ddc2cd19",
+      "title": "The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "0a8d6fdac533564e52baa53c8adb8db1dd2923c3",
+      "title": "The star user interface: an overview"
+    },
+    {
+      "paperId": "dce03d61f3838b173c24bf96bf123a2fdd7c8fef",
+      "title": "Sketchpad a Man-Machine Graphical Communication System"
+    },
+    {
+      "paperId": null,
+      "title": "Data Analysis on Interactive Whiteboards through Sketch-based Interaction"
+    },
+    {
+      "paperId": "d6f49dacedd562f5130d8fb1a9e30fda2c6a56d4",
+      "title": "Proxemic interactions: the new ubicomp?"
+    },
+    {
+      "paperId": null,
+      "title": "and M"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. UIST"
+    },
+    {
+      "paperId": null,
+      "title": "Poster: Rapid Pen- Centric Authoring of Improvisational Visualizations with NapkinVis"
+    },
+    {
+      "paperId": "526197c7ea01671a37ab1272a9b5bc52f5a72bb4",
+      "title": "PaperLens: advanced magic lens interaction above the tabletop"
+    },
+    {
+      "paperId": null,
+      "title": "Illuminating the Path"
+    },
+    {
+      "paperId": "98aa7cfc9b1efd016fb6da4e684f027d9fef6f15",
+      "title": "Statistical language model adaptation: review and perspectives"
+    },
+    {
+      "paperId": "b595e75366db255dc6ac8e9d7545071ebc23c29d",
+      "title": "Where the Action Is - The Foundations of Embodied Interaction"
+    },
+    {
+      "paperId": "6367424ec288b78f6e5b26bbef2f518a32d8abf5",
+      "title": "An Interaction View on Information Visualization"
+    },
+    {
+      "paperId": "bec4bc5cd3af67e1a62cffbd7e1c990d3ad028f9",
+      "title": "Designing for Interaction"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "d4ece2f2b1deb9b741c517a827bf0b94b51da1e2",
+      "title": "A framework for elastic presentation space"
+    },
+    {
+      "paperId": "8f197d3fe94d4a3365f931b00742f408972cb558",
+      "title": "Direct manipulation and other lessons"
+    },
+    {
+      "paperId": null,
+      "title": "Anoto \u2013 Start"
+    },
+    {
+      "paperId": null,
+      "title": "Microsoft Kinect for Windows | Develop for the Kinect | Kinect for Windows"
+    },
+    {
+      "paperId": null,
+      "title": "Wordle - Beautiful Word Clouds"
+    },
+    {
+      "paperId": null,
+      "title": "Nuance \u2013 Dragon Dictation: iPhone \u2013 Dragon Dictation for iPad TM , iPhone TM and iPod touch TM is an easy-to-use voice recognition application"
+    },
+    {
+      "paperId": null,
+      "title": "Apple \u2013 iPhone 4S \u2013 Ask Siri to help you get things done"
+    },
+    {
+      "paperId": null,
+      "title": "Perceptive Pixel"
+    },
+    {
+      "paperId": null,
+      "title": "c) InfoVis\u2013even if designed for a concise overview\u2013can quickly achieve a high-level of visual complexity which may further conflict with WIMP interfaces"
+    },
+    {
+      "paperId": null,
+      "title": "Many Eyes"
+    },
+    {
+      "paperId": null,
+      "title": "Data Science Revealed: A Data-Driven Glimpse into the Burgeoning New Field, http://www.emc.com/collateral/about/news/emc-datascience-study-wp .pdf"
+    }
+  ]
+}

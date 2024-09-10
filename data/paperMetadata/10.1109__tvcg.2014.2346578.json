@@ -1,0 +1,294 @@
+{
+  "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+  "externalIds": {
+    "DBLP": "journals/tvcg/MuhlbacherPGSS14",
+    "MAG": "2010058478",
+    "DOI": "10.1109/TVCG.2014.2346578",
+    "CorpusId": 5916437,
+    "PubMed": "26356878"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+  "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations",
+  "abstract": "An increasing number of interactive visualization tools stress the integration with computational software like MATLAB and R to access a variety of proven algorithms. In many cases, however, the algorithms are used as black boxes that run to completion in isolation which contradicts the needs of interactive data exploration. This paper structures, formalizes, and discusses possibilities to enable user involvement in ongoing computations. Based on a structured characterization of needs regarding intermediate feedback and control, the main contribution is a formalization and comparison of strategies for achieving user involvement for algorithms with different characteristics. In the context of integration, we describe considerations for implementing these strategies either as part of the visualization tool or as part of the algorithm, and we identify requirements and guidelines for the design of algorithmic APIs. To assess the practical applicability, we provide a survey of frequently used algorithm implementations within R regarding the fulfillment of these guidelines. While echoing previous calls for analysis modules which support data exploration more directly, we conclude that a range of pragmatic options for enabling user involvement in ongoing computations exists on both the visualization and algorithm side and should be used.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 53,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2014-11-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1643-1652",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{M\u00fchlbacher2014OpeningTB,\n author = {T. M\u00fchlbacher and H. Piringer and S. Gratzl and M. Sedlmair and M. Streit},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1643-1652},\n title = {Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2988074",
+      "name": "T. M\u00fchlbacher"
+    },
+    {
+      "authorId": "2289136",
+      "name": "H. Piringer"
+    },
+    {
+      "authorId": "1972759",
+      "name": "S. Gratzl"
+    },
+    {
+      "authorId": "3020591",
+      "name": "M. Sedlmair"
+    },
+    {
+      "authorId": "1720261",
+      "name": "M. Streit"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "34c3ef33062eb85f87d5d023711719f925b675f9",
+      "title": "Statistical"
+    },
+    {
+      "paperId": "7ca5756e93ac40b8cf853e040f2f38b31a25998a",
+      "title": "Visual Parameter Space Analysis: A Conceptual Framework"
+    },
+    {
+      "paperId": "3e02f29a28af37319f63ee91cd1ec97240118e80",
+      "title": "A Partition-Based Framework for Building and Validating Regression Models"
+    },
+    {
+      "paperId": "67c91611ab6fdac1fe3c85e9e90d4b726f9761c7",
+      "title": "UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization"
+    },
+    {
+      "paperId": "4e8d0bc039c71e0e7d7977b6855ff33f9cceb989",
+      "title": "Visual Analytics Infrastructures: From Data Management to Exploration"
+    },
+    {
+      "paperId": "27849c782c1be2a59db607c37e55d9d1976295d8",
+      "title": "Visual Analytics: Seeking the Unknown"
+    },
+    {
+      "paperId": "dc39c68a00e38f2993b450eb01c96e1d032ab850",
+      "title": "imMens: Real\u2010time Visual Querying of Big Data"
+    },
+    {
+      "paperId": "25520b37a2fe9e52d1af7fc4211eadf6b30760b2",
+      "title": "An Affordance-Based Framework for Human Computation and Human-Computer Collaboration"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "1445423f04c6d0f0aa4cb43afca6c4049c5b036a",
+      "title": "A generic model for the integration of interactive visualization and statistical computing using R"
+    },
+    {
+      "paperId": "5fc8884d44156a4e5cf722be90fcc00dd9e1f8b8",
+      "title": "Large complex data: divide and recombine (D&R) with RHIPE"
+    },
+    {
+      "paperId": "039ad7452f37223c07eaed19c7c692c0c755789a",
+      "title": "Linking Advanced Visualization and MATLAB for the Analysis of 3D Gene Expression Data"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "56a68aba63a7c3f2ebd8de243d64bb607d27b76c",
+      "title": "Observation-level interaction with statistical models for visual analytics"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "ee49991bf4ebc04e141a91aa5af91a0cb9c53ee8",
+      "title": "Incremental, approximate database queries and uncertainty for exploratory visualization"
+    },
+    {
+      "paperId": "eefbece1f585d65491dbb7a479e04d8523e9f992",
+      "title": "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "342d10b034cd3e658395e4a61955b618b1304cef",
+      "title": "Investigating and reflecting on the integration of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "3e326db0cd1fa3b83f9f63224f3440bc5723b417",
+      "title": "Visual analytics: how much visualization and how much analytics?"
+    },
+    {
+      "paperId": "ed12d49e1d5a77c6c3571eaec8fc6b63fd50fc36",
+      "title": "A Multi-Threading Architecture to Support Interactive Visual Exploration"
+    },
+    {
+      "paperId": "c756dffdfa900733a610540ec746420020da652e",
+      "title": "Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "308171d09e67b8827d5d0d8f914b96d025c19c52",
+      "title": "ClusterSculptor: A Visual Analytics Tool for High-Dimensional Data"
+    },
+    {
+      "paperId": "da1c03d649854b1a7d97da919983df4de6cda8af",
+      "title": "Progressive Volume Rendering of Large Unstructured Grids"
+    },
+    {
+      "paperId": "f2f736529736ec7d6b6646c8f0ef5cfd04122c63",
+      "title": "Give Chance a Chance: Modeling Density to Enhance Scatter Plot Quality through Random Data Sampling"
+    },
+    {
+      "paperId": "f10d32b741e910a5a55286a75167dc71f63fc049",
+      "title": "Steerable, Progressive Multidimensional Scaling"
+    },
+    {
+      "paperId": "a99edf4b20c50d1cf30965c12f75b8a1a3bf513f",
+      "title": "Dynamic visualization of transient data streams"
+    },
+    {
+      "paperId": "3ecfddefa7e62969e0a451b6599ea3e5dbc9d767",
+      "title": "Visualizing data with bounded uncertainty"
+    },
+    {
+      "paperId": "0ba2babcec50fe4ebefeda092a55b3faf09d5d9f",
+      "title": "Interactive data Analysis: The Control Project"
+    },
+    {
+      "paperId": "c923be743ee3990e1ac0f29bd53531a8d54832e1",
+      "title": "An optimal algorithm for approximate nearest neighbor searching fixed dimensions"
+    },
+    {
+      "paperId": "53fcc056f79e04daf11eb798a7238e93699665aa",
+      "title": "Sequential Minimal Optimization : A Fast Algorithm for Training Support Vector Machines"
+    },
+    {
+      "paperId": "f9cf9b6291aded2a82652002511aea36b6c5057c",
+      "title": "EM Algorithms for PCA and SPCA"
+    },
+    {
+      "paperId": "d97fb8e8382d018c15f8b8874ec925a3d09ec16a",
+      "title": "Approximation Algorithms"
+    },
+    {
+      "paperId": "2c2bb7cf0ebab54be049df03bc3594a0b6e9eaa0",
+      "title": "Dynamic queries for visual information seeking"
+    },
+    {
+      "paperId": "3538739741d7dd27788ef35d9f0900adb070d6f8",
+      "title": "The information visualizer, an information workspace"
+    },
+    {
+      "paperId": "833495624ddf0fa3d47b2433fc6f80c732441f29",
+      "title": "Random Sampling from Database Files: A Survey"
+    },
+    {
+      "paperId": "fe2ba3b511947e1042b87d2fd9d9ba6b756e77d3",
+      "title": "On Computationally-Enhanced Visual Analysis of Heterogeneous Data and Its Application in Biomedical Informatics"
+    },
+    {
+      "paperId": "3295ee441c3500db7208346acc861216a456e4c4",
+      "title": "Usability Engineering"
+    },
+    {
+      "paperId": "c49bead8335510cfbb98acd64fadea0cbe9316ce",
+      "title": "Modeling Incremental Visualizations"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "627be67feb084f1266cfc36e5aed3c3e7e6ce5f0",
+      "title": "MapReduce: simplified data processing on large clusters"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "19f6df266efb37f00ac25701155c21e9051f4293",
+      "title": "No need to talk to strangers Cooperation of Interactive Software with R as Moderator"
+    },
+    {
+      "paperId": "2eaf608fd45146d1ea49c76fb47344b265440820",
+      "title": "GGobi meets R: an extensible environment for interactive dynamic data visualization"
+    },
+    {
+      "paperId": "4cd4ccd9225f0a3c79cd4c72bd171039e28f2ab6",
+      "title": "The Elements of Statistical Learning"
+    },
+    {
+      "paperId": null,
+      "title": "Proc. of the Conference on Advances in Neural Information Processing Systems"
+    },
+    {
+      "paperId": "797c3e07399501daa99aa92b6ca0913b2f8ea155",
+      "title": "Fundamentals of Algorithmics"
+    },
+    {
+      "paperId": "a5a717572be243e6ad1f874ba3567eb22c4026f9",
+      "title": "Design patterns: elements of reuseable object-oriented software"
+    },
+    {
+      "paperId": "b154acf777a52db46263ae2b3bb827694226b23b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Hypermoval: Interactive Visual Validation of Regression Models for Real-time Simulation"
+    },
+    {
+      "paperId": "34f7424696639dd57b95484daead44c8bba9b8ab",
+      "title": "Interactive Graphics Systems Group"
+    }
+  ]
+}

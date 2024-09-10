@@ -1,0 +1,301 @@
+{
+  "paperId": "ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+  "externalIds": {
+    "DBLP": "journals/tvcg/ChenJ10",
+    "MAG": "2114651926",
+    "DOI": "10.1109/TVCG.2010.132",
+    "CorpusId": 11223121,
+    "PubMed": "20975160"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/ad5f75e812174561abd3c0b5e9b60c9e95e40b07",
+  "title": "An Information-theoretic Framework for Visualization",
+  "abstract": "In this paper, we examine whether or not information theory can be one of the theoretic frameworks for visualization. We formulate concepts and measurements for qualifying visual information. We illustrate these concepts with examples that manifest the intrinsic and implicit use of information theory in many existing visualization techniques. We outline the broad correlation between visualization and the major applications of information theory, while pointing out the difference in emphasis and some technical gaps. Our study provides compelling evidence that information theory can explain a significant number of phenomena or events in visualization, while no example has been found which is fundamentally in conflict with information theory. We also notice that the emphasis of some traditional applications of information theory, such as data compression or data communication, may not always suit visualization, as the former typically focuses on the efficient throughput of a communication channel, whilst the latter focuses on the effectiveness in aiding the perceptual and cognitive process for data understanding and knowledge discovery. These findings suggest that further theoretic developments are necessary for adopting and adapting information theory for visualization.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2010,
+  "referenceCount": 58,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2010-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1206-1215",
+    "volume": "16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2010AnIF,\n author = {Min Chen and H. Leitte},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1206-1215},\n title = {An Information-theoretic Framework for Visualization},\n volume = {16},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2108556790",
+      "name": "Min Chen"
+    },
+    {
+      "authorId": "2459145",
+      "name": "H. Leitte"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1bfcc0af57b449b99fd144f9663985e51f3d9c84",
+      "title": "Information Theory"
+    },
+    {
+      "paperId": "48c6b1d7fd3d9b5e170481c255aaab8bd66d40ab",
+      "title": "Information Theoretic Feature Extraction for Audio-Visual Speech Recognition"
+    },
+    {
+      "paperId": "fc8f1912cd696c4f22a26c6fc9af53d3d2f5e6da",
+      "title": "A unified information-theoretic framework for viewpoint selection and mesh saliency"
+    },
+    {
+      "paperId": "4b64b07aa5249d2436811050be5255c1c87da782",
+      "title": "Importance-Driven Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "e2add84ee57a3252ced5f4aefae34b76a7c93304",
+      "title": "Theoretical Foundations of Information Visualization"
+    },
+    {
+      "paperId": "6b5ded2c8c35df0d9ae381517af73508507c7fef",
+      "title": "Informational Aesthetics Measures"
+    },
+    {
+      "paperId": "7a2056e081c482a942ff332fdb06270db684c126",
+      "title": "Multifield visualization using local statistical complexity"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "87629d08aedda191b7dabb8e5b879c6dabac017e",
+      "title": "On the Bandwagon?"
+    },
+    {
+      "paperId": "d3bb2dc5fcce4cc29cad0287e1a2b3adc1be224f",
+      "title": "A Model and Framework for Visualization Exploration"
+    },
+    {
+      "paperId": "2acdd5b340ea3749f12a9224738a88a7da480bd0",
+      "title": "Provenance and Annotation for Visual Exploration Systems"
+    },
+    {
+      "paperId": "c497af40467aef6c5fb5a16aff32f4d5ceb73d77",
+      "title": "LOD Map - A Visual Interface for Navigating Multiresolution Volume Visualization"
+    },
+    {
+      "paperId": "848d219afc1067c43afda7c1697a4a98ae0555af",
+      "title": "Importance-Driven Focus of Attention"
+    },
+    {
+      "paperId": "2d601ce4cb19e1ac687f528162512a7485643368",
+      "title": "A feature-driven approach to locating optimal viewpoints for volume visualization"
+    },
+    {
+      "paperId": "b607c311f4540a8c11c4500059f66a92e2c50258",
+      "title": "View selection for volume rendering"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "7dbdb4209626fd92d2436a058663206216036e68",
+      "title": "Elements of Information Theory"
+    },
+    {
+      "paperId": "2dd9a8190dcb4cd3d7b8317a6dfa76eca66eaa15",
+      "title": "Shape complexity based on mutual information"
+    },
+    {
+      "paperId": "e2a95251c090861c6f12dd859fb770786b086ced",
+      "title": "Do you see what I mean? [Data visualization]"
+    },
+    {
+      "paperId": "7ee9bfcf8a3c8110cc8cf1779f2dc5d4ce3e316e",
+      "title": "Introduction to Data Compression"
+    },
+    {
+      "paperId": "23a317ae53e70094e849f836f9ec21e025903073",
+      "title": "Rethinking Visualization: A High-Level Taxonomy"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "44b8a3f81d01eb2f063d0daf5bcde8b534fff822",
+      "title": "Automatic View Selection Using Viewpoint Entropy and its Application to Image\u2010Based Modelling"
+    },
+    {
+      "paperId": "ff2c3513f58c3de74278430ebf5bdc31764b0f94",
+      "title": "Introduction to Information Theory and Data Compression"
+    },
+    {
+      "paperId": "d3ebe5525cfb404afcabe82974067780c4cd31ff",
+      "title": "Maximum entropy light source placement"
+    },
+    {
+      "paperId": "6330a1bfc0c4904a788800cb153ca3e6e7876c5a",
+      "title": "Information content measures of visual displays"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "99acce050f0b6b31da0fbb1b44d3971eeb531737",
+      "title": "Information theory: 50 years of discovery"
+    },
+    {
+      "paperId": "eb266a18c4390ec8d20a048bc39d6b77b76d0ff0",
+      "title": "An Information Theory Framework for the Analysis of Scene Complexity"
+    },
+    {
+      "paperId": "135919dda4cf841229414df53d8f5c4b25f58114",
+      "title": "Information-Theoretic Image Formation"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "e20e2f768f27dc35a14895b83ebaa3725f7f75ab",
+      "title": "Visualization Techniques for Mining Large Databases: A Comparison"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "e01828e7b762257d70bc122e38d6b274e5d140cb",
+      "title": "The application visualization system: a computational environment for scientific visualization"
+    },
+    {
+      "paperId": "20e4bd8c220ec5f221e163ddede95dd00f3b43d1",
+      "title": "Motion parallax and absolute distance."
+    },
+    {
+      "paperId": "11fbf06e4c1c4eddc91a68e434433a4fc5f7cfc4",
+      "title": "Information Theory and Statistics"
+    },
+    {
+      "paperId": "5632ee11aa35d740aaebc03d91a8a2311079a45f",
+      "title": "The bandwagon (Edtl.)"
+    },
+    {
+      "paperId": "63a405c862340fd818bf866c41b25da9dffc295d",
+      "title": "Visual Analysis of Flow Features Using Information Theory"
+    },
+    {
+      "paperId": "7a505219eda436d6bd1cbbab62a8c03221cf0dab",
+      "title": "An Information-Theoretic View of Visual Analytics"
+    },
+    {
+      "paperId": "6d12a1d23b21a9b170118a56386552bc5d4727de",
+      "title": "A Mathematical Theory of Communication"
+    },
+    {
+      "paperId": "80ddc6af54a6dc309d60f9b9de4552440fb7bb52",
+      "title": "A Unified Taxonomic Framework for Information Visualization"
+    },
+    {
+      "paperId": "7a92d576c0b00d5e441250525718e68ae5daeacf",
+      "title": "InformationTheoretic Image Formation"
+    },
+    {
+      "paperId": "e417eac5dcaf9e63dd3d809e6425036c85dd48c4",
+      "title": "Perceptual Principles for Effective Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "A classification scheme for scientific visualization"
+    },
+    {
+      "paperId": "8170d49444ed16ff9e4190ccd583a183ed8df351",
+      "title": "Information Theory for Information Technologists"
+    },
+    {
+      "paperId": "5f5006a792da9c9f38a089d8c28c76560cf8e4cf",
+      "title": "Information theory with applications"
+    },
+    {
+      "paperId": "36fca70bb3efcb6f8128017859ab059f4af371d1",
+      "title": "[Visual information]."
+    },
+    {
+      "paperId": "bb5cb06ffe0599b8b3775086e56aec152d4e431b",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Isosurface Similarity Maps"
+    },
+    {
+      "paperId": "a91685353fe9a34e75efcd5122653d9b7b5a88f8",
+      "title": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for"
+    },
+    {
+      "paperId": "d8ddea43e4933b4f6914df35be902ad08c850ee5",
+      "title": "Visualization Viewpoints Data, Information, and Knowledge in Visualization Defi Nitions of Data, Information, and Knowledge Perceptual and Cognitive Space"
+    },
+    {
+      "paperId": "c3cdf8581ca3617e4c2ed74ce713f83230c07f1c",
+      "title": "A Uni\ufb01ed Information-Theoretic Framework for Viewpoint Selection and Mesh Saliency"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "paperId": "d9f6565c8e65c295d1297bd46dbf7aceddaced07",
+  "externalIds": {
+    "ArXiv": "2009.00192",
+    "DBLP": "journals/tvcg/LYiJS21",
+    "MAG": "3088446169",
+    "DOI": "10.1109/TVCG.2020.3030419",
+    "CorpusId": 221397200,
+    "PubMed": "33052858"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/d9f6565c8e65c295d1297bd46dbf7aceddaced07",
+  "title": "Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions",
+  "abstract": "We present a systematic review on three comparative layouts-juxtaposition, superposition, and explicit-encoding-which are information visualization (InfoVis) layouts designed to support comparison tasks. For the last decade, these layouts have served as fundamental idioms in designing many visualization systems. However, we found that the layouts have been used with inconsistent terms and confusion, and the lessons from previous studies are fragmented. The goal of our research is to distill the results from previous studies into a consistent and reusable framework. We review 127 research papers, including 15 papers with quantitative user studies, which employed comparative layouts. We first alleviate the ambiguous boundaries in the design space of comparative layouts by suggesting lucid terminology (e.g., chart-wise and item-wise juxtaposition). We then identify the diverse aspects of comparative layouts, such as the advantages and concerns of using each layout in the real-world scenarios and researchers' approaches to overcome the concerns. Building our knowledge on top of the initial insights gained from the Gleicher et al.'s survey [19], we elaborate on relevant empirical evidence that we distilled from our survey (e.g., the actual effectiveness of the layouts in different study settings) and identify novel facets that the original work did not cover (e.g., the familiarity of the layouts to people). Finally, we show the consistent and contradictory results on the performance of comparative layouts and offer practical implications for using the layouts by suggesting trade-offs and seven actionable guidelines.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2020,
+  "referenceCount": 76,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2009.00192",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2020-09-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1525-1535",
+    "volume": "27"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{L\u2019Yi2020ComparativeLR,\n author = {S. L\u2019Yi and Jaemin Jo and Jinwook Seo},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1525-1535},\n title = {Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions},\n volume = {27},\n year = {2020}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1399263337",
+      "name": "S. L\u2019Yi"
+    },
+    {
+      "authorId": "1939362",
+      "name": "Jaemin Jo"
+    },
+    {
+      "authorId": "2016076",
+      "name": "Jinwook Seo"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "791b41165d3625710d8cf8e62386a99769212e61",
+      "title": "Interaction Techniques for Visual Exploration Using Embedded Word-Scale Visualizations"
+    },
+    {
+      "paperId": "2941f8c2cfca106d6e2a444ea01c6eccb99cb79c",
+      "title": "Perceptual Proxies of Visual Comparison"
+    },
+    {
+      "paperId": "3dd790eeaa8258a54051b36b892dfe970606944e",
+      "title": "Measures of the Benefit of Direct Encoding of Data Deltas for Data Pair Relation Perception"
+    },
+    {
+      "paperId": "ebbb7e55212476048de0fa2c089e881360232162",
+      "title": "Interactive and coordinated visualization approaches for biological data analysis"
+    },
+    {
+      "paperId": "5cd41d1c31395310c349923869792a5705502d9c",
+      "title": "Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring"
+    },
+    {
+      "paperId": "9b9226d0d105f7b0f5554ba2a3a9eaa88aa02ef9",
+      "title": "Face to Face: Evaluating Visual Comparison"
+    },
+    {
+      "paperId": "d7f0341e852f9a4812ba095f7c80ebf431b2ed33",
+      "title": "Dynamic Volume Lines: Visual Comparison of 3D Volumes through Space-filling Curves"
+    },
+    {
+      "paperId": "b5f3bc28aaf3d3e4ee7b73f857f872847d0b4280",
+      "title": "Visual Designs for Binned Aggregation of Multi-Class Scatterplots"
+    },
+    {
+      "paperId": "76082a00ed6f3e3828f78436723d7fde29faeed4",
+      "title": "Pondering the Concept of Abstraction in (Illustrative) Visualization"
+    },
+    {
+      "paperId": "8a0cda61d34c267fa9029b6a13e39508e473e92c",
+      "title": "EmbeddingVis: A Visual Analytics Approach to Comparative Network Embedding Inspection"
+    },
+    {
+      "paperId": "a886c77c49217a8536690b2c204b40d415bc6442",
+      "title": "Projected Field Similarity for Comparative Visualization of Multi\u2010Run Multi\u2010Field Time\u2010Varying Spatial Data"
+    },
+    {
+      "paperId": "304b415be2c25c90409d9ddb4b58a658b1477428",
+      "title": "Visual Analytics for Decomposing Temporal Event Series of Production Lines"
+    },
+    {
+      "paperId": "b63fcc87afd814db55518c2a8fda9a189bf4fc84",
+      "title": "Towards Easy Comparison of Local Businesses Using Online Reviews"
+    },
+    {
+      "paperId": "36a2aabffe33c0a2b4f4d41f58269ac1f8ca6056",
+      "title": "Insights by Visual Comparison: The State and Challenges"
+    },
+    {
+      "paperId": "3cf61d4e65b6c065dda9ccacc16d6e29333450b3",
+      "title": "What's the Difference?: Evaluating Variations of Multi-Series Bar Charts for Visual Comparison Tasks"
+    },
+    {
+      "paperId": "8477b1d6dc387baf92e9d3bc1afa0081fe641cb7",
+      "title": "Value-Suppressing Uncertainty Palettes"
+    },
+    {
+      "paperId": "c29b73034294ccbaca968087212fd299101a783f",
+      "title": "Animation Plans for Before-and-After Satellite Images"
+    },
+    {
+      "paperId": "fff31548617f208cd5ae5c32917afd48abc4ff6a",
+      "title": "Mobile situated analytics of ego-centric network data"
+    },
+    {
+      "paperId": "7b47ee7404e22629529691840e296c229f6535f1",
+      "title": "CNNComparator: Comparative Analytics of Convolutional Neural Networks"
+    },
+    {
+      "paperId": "eac090381f8514b9e14df8ad15ba722461cd477c",
+      "title": "Framing bias: The effect of figure presentation on seismic interpretation"
+    },
+    {
+      "paperId": "75cb746527d3b19af4bb1b41ef03a8797d3c0162",
+      "title": "Comparison techniques utilized in spatial 3D and 4D data visualizations: A survey and future directions"
+    },
+    {
+      "paperId": "ad2a14776c9a456403eeaf53bf89df401248b669",
+      "title": "MACE: A New Interface for Comparing and Editing of Multiple Alternative Documents for Generative Design"
+    },
+    {
+      "paperId": "00bae4ec57812c07a463b002b1c32137dfff590c",
+      "title": "Visualization Techniques for the Comparative Analysis of Weighted Free Trees"
+    },
+    {
+      "paperId": "b116a0f0909a61fa350e45500790616ec0b8c391",
+      "title": "egoComp: A node-link-based technique for visual comparison of ego-networks"
+    },
+    {
+      "paperId": "22d37247424e9a5fad56b36ca8d36591af6b01cb",
+      "title": "Empirical Analysis of the Subjective Impressions and Objective Measures of Domain Scientists' Visual Analytic Judgments"
+    },
+    {
+      "paperId": "6d51396fac69ac8eabe6ce8553ed0772673b679c",
+      "title": "Creating technology-enhanced scenarios to promote observation skills of fashion-design students"
+    },
+    {
+      "paperId": "0cd9b2ef1ead9bea120ac67503140df60b7d1cf6",
+      "title": "A Taxonomy and Survey of Dynamic Graph Visualization"
+    },
+    {
+      "paperId": "4d8466d29896ec0865efe12d7b6dfa6a455e0617",
+      "title": "CompaRing: Reducing Costs of Visual Comparison"
+    },
+    {
+      "paperId": "b3f640798075e69ce90419a3ab4f29ddd688edda",
+      "title": "TravelDiff: Visual comparison analytics for massive movement patterns derived from Twitter"
+    },
+    {
+      "paperId": "c9780c1c509d1fa2a5aa52864e26fae67d06010a",
+      "title": "TimeNotes: A Study on Effective Chart Visualization and Interaction Techniques for Time-Series Data"
+    },
+    {
+      "paperId": "8a39e68b0d4202abf7e29874bb40062ec212c216",
+      "title": "Bridging Theory with Practice: An Exploratory Study of Visualization Use and Design for Climate Model Comparison"
+    },
+    {
+      "paperId": "9a1824e0e735d5c3ea90230467848c8b037d7b65",
+      "title": "Visualization, interpretation, and cognitive cybernetics"
+    },
+    {
+      "paperId": "313a33bf118e470b1b484b6d5cffedd598e1353b",
+      "title": "HCMapper: An interactive visualization tool to compare partition-based flat clustering extracted from pairs of dendrograms"
+    },
+    {
+      "paperId": "6c6cd9bfc4db18c3b18b1f1d8b3de7b544717747",
+      "title": "MatrixWave: Visual Comparison of Event Sequence Data"
+    },
+    {
+      "paperId": "d28aab92c0c60211ea953160d9376c36bb961774",
+      "title": "An Evaluation of Interactive Map Comparison Techniques"
+    },
+    {
+      "paperId": "10c21274f3822dd245bd018c8601a635048f9db0",
+      "title": "The Effects of Representation and Juxtaposition on Graphical Perception of Matrix Visualization"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "52f556b99da76ca7c597d1a0b274805fa6314d8a",
+      "title": "Four Experiments on the Perception of Bar Charts"
+    },
+    {
+      "paperId": "9ee8395d1f0bff0373e0eb9ece2d64ddfb421abe",
+      "title": "Visual Multiplexing"
+    },
+    {
+      "paperId": "be3168293928d75d5b8fe0e7887891823725db9e",
+      "title": "Comparative Blood Flow Visualization for Cerebral Aneurysm Treatment Assessment"
+    },
+    {
+      "paperId": "3d6658efea8d45267a3bf92ea388ea126890c520",
+      "title": "Perceptually Uniform Motion Space"
+    },
+    {
+      "paperId": "9b5e84bf221137ece08be3679e21b71c09be60c1",
+      "title": "Highlighting interventions and user differences: informing adaptive information visualization support"
+    },
+    {
+      "paperId": "9293161e97678f64b1f00407eee6aea0895f2d97",
+      "title": "Visual analysis design to support research into movement and use of space in Tallinn: A case study"
+    },
+    {
+      "paperId": "8477b4d9e90fc866818857ef2698813ad3e7de01",
+      "title": "Visualizing Request-Flow Comparison to Aid Performance Diagnosis in Distributed Systems"
+    },
+    {
+      "paperId": "3e1e79e592b5b5a0730ce80dbc1c40afd4461f75",
+      "title": "GRACE: A Visual Comparison Framework for Integrated Spatial and Non-Spatial Geriatric Data"
+    },
+    {
+      "paperId": "bef52ce82c4ca05438acb27fc6dff737526d65ea",
+      "title": "DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation"
+    },
+    {
+      "paperId": "2322729e5ac1d45abad6e00b47a970b4025a61e0",
+      "title": "VAICo: Visual Analysis for Image Comparison"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "b37364e7d8a46478304a6c1b789bd3a78348472e",
+      "title": "Interaction Support for Visual Comparison Inspired by Natural Behavior"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "0fefb6c9d05e5cdec8ea737b9ce87c6b7db98062",
+      "title": "A new weaving technique for handling overlapping regions"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "2f10df959646fff9c5cf726a7399eec1b6b1d009",
+      "title": "Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color."
+    },
+    {
+      "paperId": "8f69bd90150a3d727ec80d866d2011a105ae454d",
+      "title": "Zooming versus multiple window interfaces: Cognitive costs of visual comparisons"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "3d2b00f9996ce57273a0569800ade4dfe8c5f6ac",
+      "title": "Human Symmetry Perception and Its Computational Analysis"
+    },
+    {
+      "paperId": "533d117ac38e5e66297e8e6dfedc044bfe83d3a0",
+      "title": "Effects of spatial separation in visual pattern matching: evidence on the role of mental translation."
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "ccd3887dc84a4e4ef72424fd478c071223e3afd4",
+      "title": "Exploring Visual Comparison of Multivariate Runtime Statistics"
+    },
+    {
+      "paperId": "915867ac9d17887e4a8379f94e2808f362c94ff2",
+      "title": "In-situ Comparison for 2.5D Treemaps"
+    },
+    {
+      "paperId": "9301b63e3d86f9a02a3d65b3e6d58d610b21656d",
+      "title": "Considerations for Visualizing Comparison"
+    },
+    {
+      "paperId": "db59b5b6bc4ec9cb057fc9c0e84c8c7119cdffeb",
+      "title": "State Transition Graphs for Semantic Analysis of Movement Behaviours"
+    },
+    {
+      "paperId": "807c7478b36ec597ff2ea21b8282214acbd66448",
+      "title": "DiffPin: Interactive Specification of References for Comparative Small-Multiple Displays"
+    },
+    {
+      "paperId": "8c6b570c0da2ee31ba8c646302b453688e229510",
+      "title": "TACO: Visualizing Changes in Tables Over Time"
+    },
+    {
+      "paperId": "af51815c63470b0e11edf5fb532335ef95d46539",
+      "title": "ARIES: Enabling Visual Exploration and Organization of Art Image Collections"
+    },
+    {
+      "paperId": null,
+      "title": "Visual version comparison of multidimensional data sets using glyphs"
+    },
+    {
+      "paperId": "2fed30e7e7c492b984a261d6a6cfc63ee4ab49d9",
+      "title": "Approaches and Challenges in the Visual-interactive Comparison of Human Motion Data"
+    },
+    {
+      "paperId": "025a24520be2c08bce8b4e69b2713555b50d16ed",
+      "title": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "421849e9f8e05c86f1a1fa11d6197d5241fca55f",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy a Model for Structure-based Comparison of Many Categories in Small-multiple Displays"
+    },
+    {
+      "paperId": null,
+      "title": "Bayespiles : visualisation support for bayesian network structure learning"
+    },
+    {
+      "paperId": null,
+      "title": "COMPARATIVE LAYOUTS REVISITED: DESIGN SPACE, GUIDELINES, AND FUTURE DIRECTIONS"
+    }
+  ]
+}

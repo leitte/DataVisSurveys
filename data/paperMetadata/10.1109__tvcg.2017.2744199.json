@@ -1,0 +1,393 @@
+{
+  "paperId": "9301b63e3d86f9a02a3d65b3e6d58d610b21656d",
+  "externalIds": {
+    "DBLP": "journals/tvcg/Gleicher18",
+    "MAG": "2751305043",
+    "DOI": "10.1109/TVCG.2017.2744199",
+    "CorpusId": 19107878,
+    "PubMed": "28866530"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/9301b63e3d86f9a02a3d65b3e6d58d610b21656d",
+  "title": "Considerations for Visualizing Comparison",
+  "abstract": "Supporting comparison is a common and diverse challenge in visualization. Such support is difficult to design because solutions must address both the specifics of their scenario as well as the general issues of comparison. This paper aids designers by providing a strategy for considering those general issues. It presents four considerations that abstract comparison. These considerations identify issues and categorize solutions in a domain independent manner. The first considers how the common elements of comparison\u2014a target set of items that are related and an action the user wants to perform on that relationship\u2014are present in an analysis problem. The second considers why these elements lead to challenges because of their scale, in number of items, complexity of items, or complexity of relationship. The third considers what strategies address the identified scaling challenges, grouping solutions into three broad categories. The fourth considers which visual designs map to these strategies to provide solutions for a comparison analysis problem. In sequence, these considerations provide a process for developers to consider support for comparison in the design of visualization tools. Case studies show how these considerations can help in the design and evaluation of visualization solutions for comparison problems.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2018,
+  "referenceCount": 82,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "413-423",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Gleicher2018ConsiderationsFV,\n author = {Michael Gleicher},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {413-423},\n title = {Considerations for Visualizing Comparison},\n volume = {24},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1776507",
+      "name": "Michael Gleicher"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "dd31d92bc9c73a39fea1119351a2441e8deda8c9",
+      "title": "A Framework for Considering Comprehensibility in Modeling"
+    },
+    {
+      "paperId": "561b8ba3551c6ff4298fa4d138a40b7e4eb14012",
+      "title": "TextDNA: Visualizing Word Usage with Configurable Colorfields"
+    },
+    {
+      "paperId": "ea84109bf3741f6c070f0603efce2e119f206162",
+      "title": "Visualizing Co\u2010occurrence of Events in Populations of Viral Genome Sequences"
+    },
+    {
+      "paperId": "12c4aa26fe219e10b660359392392a5083e5ec01",
+      "title": "Four types of ensemble coding in data visualizations."
+    },
+    {
+      "paperId": "06cd3a65228c3fd4e8cc60fbb7d0e909b7e605d1",
+      "title": "Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles"
+    },
+    {
+      "paperId": "401e308fac9bbbef98af02b3a6810f267d4c2d05",
+      "title": "Task-Driven Comparison of Topic Models"
+    },
+    {
+      "paperId": "c44d574ab9181c45cb99bc3abffc3016aae9205b",
+      "title": "NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+    },
+    {
+      "paperId": "3e625e668c007734c325878932b26bac0c57a7e9",
+      "title": "Comparative visual analysis of vector field ensembles"
+    },
+    {
+      "paperId": "8a39e68b0d4202abf7e29874bb40062ec212c216",
+      "title": "Bridging Theory with Practice: An Exploratory Study of Visualization Use and Design for Climate Model Comparison"
+    },
+    {
+      "paperId": "0737603c449fff239b84e28280a738c96a952b3a",
+      "title": "LayerCake: a tool for the visual comparison of viral deep sequencing data"
+    },
+    {
+      "paperId": "a4b0dc61fb7b382a86344aa61b59b377bcb175a2",
+      "title": "Visual Analytics for Correlation\u2010Based Comparison of Time Series Ensembles"
+    },
+    {
+      "paperId": "0fee3b6c72f7676b4934651e517d0a328048c600",
+      "title": "Certifying and Removing Disparate Impact"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "3b360b9f3825af1cab595d4f32ea07d64fa0c66c",
+      "title": "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+    },
+    {
+      "paperId": "074ec716e8c481514f0c15e2714306b444dda0a1",
+      "title": "Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error"
+    },
+    {
+      "paperId": "9bee764831c8e5ce00dd5d30a816810c4ec6e1f7",
+      "title": "The Influence of Contour on Similarity Perception of Star Glyphs"
+    },
+    {
+      "paperId": "6922d8ba0175fd71c5f6587f520e23a0d437a9e1",
+      "title": "Towards a user-defined visual-interactive definition of similarity functions for mixed data"
+    },
+    {
+      "paperId": "4bf1d18dbea77eb2a08d08823a0ec8686c066929",
+      "title": "YMCA \u2014 Your mesh comparison application"
+    },
+    {
+      "paperId": "7960cc8f8eb623ff431cd1978b5201ba47d2424b",
+      "title": "Comparative Visualization of Molecular Surfaces Using Deformable Models"
+    },
+    {
+      "paperId": "9ee8395d1f0bff0373e0eb9ece2d64ddfb421abe",
+      "title": "Visual Multiplexing"
+    },
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "2322729e5ac1d45abad6e00b47a970b4025a61e0",
+      "title": "VAICo: Visual Analysis for Image Comparison"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "678c3e8c2ca983ee53107a4510aab7eba239d542",
+      "title": "Perception of Average Value in Multiclass Scatterplots"
+    },
+    {
+      "paperId": "ee5979db0095c518c775f4dacaf987040a2e359a",
+      "title": "The \"Map\" in the mental map: Experimental results in dynamic graph drawing"
+    },
+    {
+      "paperId": "60428de1988c5ba27099c761303cd2ca825b130d",
+      "title": "Visual summaries for graph collections"
+    },
+    {
+      "paperId": "441a9511432a05a7cec7963b3ed949779dffa3a2",
+      "title": "One Graph, Multiple Drawings"
+    },
+    {
+      "paperId": "1aca75eadea464667e1b68fa3250640c43df84f4",
+      "title": "Weighted graph comparison techniques for brain connectivity analysis"
+    },
+    {
+      "paperId": "12b28ba9461b3e5ec95dbb9f8c42088f6b28cf31",
+      "title": "The Nature and Status of Visual Resources"
+    },
+    {
+      "paperId": "4c807cbfa2a08386a5d5d6eac96dfd8e538b36a9",
+      "title": "Visualization of Temporal Similarity in Field Data"
+    },
+    {
+      "paperId": "b37364e7d8a46478304a6c1b789bd3a78348472e",
+      "title": "Interaction Support for Visual Comparison Inspired by Natural Behavior"
+    },
+    {
+      "paperId": "7e63efd2614d72f1b0f019af4d5797d9fd113ee4",
+      "title": "Dis-function: Learning distance functions interactively"
+    },
+    {
+      "paperId": "470a32cdbb542f6318337cd73802898aa3c03ea5",
+      "title": "Visualizing Motion Data in Virtual Reality: Understanding the Roles of Animation, Interaction, and Static Presentation"
+    },
+    {
+      "paperId": "184add91604a2c574b685f59b89f33c757ea8055",
+      "title": "Comparative Visual Analysis of 2D Function Ensembles"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "31598145ebe1f066c3ce773a6105ffd912ad98db",
+      "title": "Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization"
+    },
+    {
+      "paperId": "f2477dd0981e5e4dff0119ad00e6654f50a4b9de",
+      "title": "Evaluation of Trend Localization with Multi-Variate Visualizations"
+    },
+    {
+      "paperId": "b2b9218e392bde71ba90aa0bdb08174ac539827a",
+      "title": "Visualizing virus population variability from next generation sequencing data"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "6e39f5899325fbd26b8dc2a2b6346f427a530c49",
+      "title": "Efficient Graph Comparison and Visualization Using GPU"
+    },
+    {
+      "paperId": "9fb20729699a7bf726cb4d8379972980757074ba",
+      "title": "Combined vs. Separate Views in Matrix-based Graph Analysis and Comparison"
+    },
+    {
+      "paperId": "bca260025c013aeb18624d667f47886e92b27531",
+      "title": "A Gradient\u2010Based Comparison Measure for Visual analysis of Multifield Data"
+    },
+    {
+      "paperId": "7fa0d8b0090289c00887ef4e66983ba6cfd3d2be",
+      "title": "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs"
+    },
+    {
+      "paperId": "30888222967a942a3af72ef135548ecc574b7c02",
+      "title": "A Survey of Multiple Tree Visualisation"
+    },
+    {
+      "paperId": "661b995aa75c61c1bc86479c6b6f6bd291c8bd3c",
+      "title": "Verifying Scientific Simulations via Comparative and Quantitative Visualization"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "af4665412e98bf02408743912427c944e2811655",
+      "title": "MizBee: A Multiscale Synteny Browser"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "f82f32b7c1d469e7c8b69e5b16fad57607b812ab",
+      "title": "Configuring Hierarchical Layouts to Address Research Questions"
+    },
+    {
+      "paperId": "3f5764890ab70a8be3d1cc9f3b7d52013176a337",
+      "title": "Visual Graph Comparison"
+    },
+    {
+      "paperId": "f3efcd2b1115773a69fce1519cb8f856f841a231",
+      "title": "Visualization Techniques for Schedule Comparison"
+    },
+    {
+      "paperId": "06c9e187e9efa35e21192ca1c46d24af28c161e1",
+      "title": "Spatially Ordered Treemaps"
+    },
+    {
+      "paperId": "7a2056e081c482a942ff332fdb06270db684c126",
+      "title": "Multifield visualization using local statistical complexity"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "5fabb8fe27edd41b61d6231318f5479f299c8388",
+      "title": "State of the Art: Coordinated & Multiple Views in Exploratory Visualization"
+    },
+    {
+      "paperId": "e6987da6dc412f22ca5dd62da2affdcdd8e51d8e",
+      "title": "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data"
+    },
+    {
+      "paperId": "bfcac98b1bbe04b081344c986c7df52a18cef1c3",
+      "title": "Combo: a whole genome comparative browser"
+    },
+    {
+      "paperId": "07f123fa297400c8ec9c8e06c1fde520fb550321",
+      "title": "Strategies for the visualization of multiple 2D vector fields"
+    },
+    {
+      "paperId": "f2f736529736ec7d6b6646c8f0ef5cfd04122c63",
+      "title": "Give Chance a Chance: Modeling Density to Enhance Scatter Plot Quality through Random Data Sampling"
+    },
+    {
+      "paperId": "a8fb11136d1a4587a050679158806c34fe33d216",
+      "title": "Preserving the mental map in interactive graph interfaces"
+    },
+    {
+      "paperId": "8ccb566b19ac073fc99c0dc7de266ee415f60525",
+      "title": "Inference by eye: confidence intervals and how to read pictures of data."
+    },
+    {
+      "paperId": "12d12737392094d031b1e760894655117684603a",
+      "title": "Comparative flow visualization"
+    },
+    {
+      "paperId": "0175958fd32239d92800ff2a769b9aedf5e4fc92",
+      "title": "Mauve: multiple alignment of conserved genomic sequence with rearrangements."
+    },
+    {
+      "paperId": "781db41425fdeb69bc108f709e8d294a44b90aa3",
+      "title": "TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility"
+    },
+    {
+      "paperId": "7f106fba89b812bd1a990a3069a2dee53698f6bf",
+      "title": "Representing Motion in a Static Image: Constraints and Parallels in Art, Science, and Popular Culture"
+    },
+    {
+      "paperId": "533d117ac38e5e66297e8e6dfedc044bfe83d3a0",
+      "title": "Effects of spatial separation in visual pattern matching: evidence on the role of mental translation."
+    },
+    {
+      "paperId": "1b42e2ba1c89e79e1660bbece686c3b25f13e7e5",
+      "title": "Typologies and taxonomies: An introduction to classification techniques"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "a7a7dc1a1b3e1ce3ea18f27cdca6f9a2588d4b2d",
+      "title": "William Playfair (1759-1823)"
+    },
+    {
+      "paperId": "587e7f2bd2b2d4d43e1eb47f4742c2f71ae32d71",
+      "title": "Classification, typology, taxonomy"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "c42808469839b08d27f59fb9b42868c2621711ff",
+      "title": "Same-different judgments: a review of current controversies in perceptual comparisons."
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "e442304fa2917dff84964d8b414928711c9c8ef1",
+      "title": "Size scaling in visual pattern recognition."
+    },
+    {
+      "paperId": null,
+      "title": "45 ways to communicate two quantities"
+    },
+    {
+      "paperId": "6b7cdb0035347e8db8c504ed05d9bec9a1725aa3",
+      "title": "Comparative Visualization - Approaches and Examples"
+    },
+    {
+      "paperId": "657b913ba12dd55ac51b4aa53c932b516e817135",
+      "title": "Envisioning Information"
+    },
+    {
+      "paperId": "5c6b7b39f0ea433116f81cb7a3372684e6697b4a",
+      "title": "The semiology of graphics"
+    },
+    {
+      "paperId": "421849e9f8e05c86f1a1fa11d6197d5241fca55f",
+      "title": "Accepted for Publication in Ieee Transactions on Visualization and Computer Graphics, Authors' Personal Copy a Model for Structure-based Comparison of Many Categories in Small-multiple Displays"
+    },
+    {
+      "paperId": "292ff9521454fd9b409b93ad790937fa35ab7165",
+      "title": "Strategies for the Visualization of Multiple 2 D Vector Fields"
+    }
+  ]
+}

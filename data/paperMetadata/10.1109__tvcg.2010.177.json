@@ -1,0 +1,352 @@
+{
+  "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+  "externalIds": {
+    "MAG": "2129815685",
+    "DBLP": "journals/tvcg/LiuS10",
+    "DOI": "10.1109/TVCG.2010.177",
+    "CorpusId": 7341775,
+    "PubMed": "20975137"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+  "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective",
+  "abstract": "Although previous research has suggested that examining the interplay between internal and external representations can benefit our understanding of the role of information visualization (InfoVis) in human cognitive activities, there has been little work detailing the nature of internal representations, the relationship between internal and external representations and how interaction is related to these representations. In this paper, we identify and illustrate a specific kind of internal representation, mental models, and outline the high-level relationships between mental models and external visualizations. We present a top-down perspective of reasoning as model construction and simulation, and discuss the role of visualization in model based reasoning. From this perspective, interaction can be understood as active modeling for three primary purposes: external anchoring, information foraging, and cognitive offloading. Finally we discuss the implications of our approach for design, evaluation and theory development.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2010,
+  "referenceCount": 69,
+  "openAccessPdf": {
+    "url": "http://www.cc.gatech.edu/%7Ejohn.stasko/papers/infovis10-model.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2010-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "999-1008",
+    "volume": "16"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Liu2010MentalMV,\n author = {Zhicheng Liu and J. Stasko},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {999-1008},\n title = {Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective},\n volume = {16},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1666598447",
+      "name": "Zhicheng Liu"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "d5f88524224c74d72e6ff1d33474db3ec4ed9c42",
+      "title": "SellTrend: Inter-Attribute Visual Analysis of Temporal Transaction Data"
+    },
+    {
+      "paperId": "c6ef51f33638de913545f8ae4f565b9edfd4fccf",
+      "title": "A Comparison of User-Generated and Automatic Graph Layouts"
+    },
+    {
+      "paperId": "62e8cfa2334e4d698c1dcfa82324fe65b58ca20e",
+      "title": "Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "31435e2ed9b48e1659786d51594ea713f2135c84",
+      "title": "Perceptual Organization in User-Generated Graph Layouts"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "59cf698630a4aa25e5772a199a5d4745eae48156",
+      "title": "The Continuity Of Mind"
+    },
+    {
+      "paperId": "0005f0a86656d0ec9100bdcaace2476df85ec0b0",
+      "title": "Exploring the role of individual differences in information visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "e6eca296673d226d9a8ec050b922ef82fcc6dbea",
+      "title": "A Data\u2013Frame Theory of Sensemaking"
+    },
+    {
+      "paperId": "9eb8499c38a439d08b1640765fe3687fcb0aa0d3",
+      "title": "The Grammar of Graphics"
+    },
+    {
+      "paperId": "7b8d86fcc8fcde959becdf698778d88d7cb28ddf",
+      "title": "Information Visualization: Design for Interaction (2nd Edition)"
+    },
+    {
+      "paperId": "0453a1285b6c0ef64e26b5b432bc1eb536db2343",
+      "title": "How Important Is the \"Mental Map\"? - An Empirical Investigation of a Dynamic Graph Layout Algorithm"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "471ae1ae068f855dbf363887dd091517360a34a1",
+      "title": "Material anchors for conceptual blends"
+    },
+    {
+      "paperId": "94e83dbc5786988c1b798ac69ce8d610e00a5824",
+      "title": "Connecting Internal and External Representations: Spatial Transformations of Scientific Visualizations"
+    },
+    {
+      "paperId": "8e9d1f0957f73e22ba2f8cccb9187a16d4b6a22b",
+      "title": "Diagrams in the Mind and in the World: Relations between Internal and External Visualizations"
+    },
+    {
+      "paperId": "13127a8b24c328f986598d5e06d1a477b34cf895",
+      "title": "HCI Models, Theories, and Frameworks: Toward a Multidisciplinary Science"
+    },
+    {
+      "paperId": "ab8bcffb5179235ad0e566205a406035ef7be287",
+      "title": "Visual imagery can impede reasoning"
+    },
+    {
+      "paperId": "289f0356616f0af04a27a2dbcdf8ddcdc37ec95f",
+      "title": "An empirical comparison of three commercial information visualization systems"
+    },
+    {
+      "paperId": "850cd481573926c4d018503edf17050af332067d",
+      "title": "Snap-together visualization: can users construct and operate coordinated visualizations?"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "1274c1f7a556f968cec299b8b8ba279e46e6f8eb",
+      "title": "Snap-together visualization: a user interface for coordinating visualizations via relational schemata"
+    },
+    {
+      "paperId": "1f424e20ae4b5bcaa301a3c0c056956e973e5a1d",
+      "title": "Visual explanations: Images and quantities, evidence and narrative"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "e2c34f6ed94661448bdc392fa9b86fb15ab6ccfe",
+      "title": "Culture in Mind: Cognition, Culture, and the Problem of Meaning"
+    },
+    {
+      "paperId": "5e8e37fd21958fc7f7a339fffc01f8f3899749a8",
+      "title": "Visual Explanations: Images and Quantities, Evidence and Narrative"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "f6f3dd6f68d5bcf66f940e7af1b63ebde730bc81",
+      "title": "External cognition: how do graphical representations work?"
+    },
+    {
+      "paperId": "62275f3c9af12ab6d9bea83b92c5b4d1ffc845c8",
+      "title": "Engineering and the Mind's Eye"
+    },
+    {
+      "paperId": "d3dc3e5e5e6b011347a2774cf8d159391de04256",
+      "title": "Intelligence Without Reason"
+    },
+    {
+      "paperId": "0186d1a735315cc9e5f3ab7bf304aeabf0941999",
+      "title": "Beyond models and metaphors: visual formalisms in user interface design"
+    },
+    {
+      "paperId": "2bb0900a46b68f3a36175830959a17194d6f64db",
+      "title": "The Role of a Mental Model in Learning to Operate a Device"
+    },
+    {
+      "paperId": "cdae21e4198989f417317c0836eb62ae9a9de2cb",
+      "title": "Some observations on mental models"
+    },
+    {
+      "paperId": "b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7",
+      "title": "Why a Diagram is (Sometimes) Worth Ten Thousand Words"
+    },
+    {
+      "paperId": "4f2c2f567100e5faeeda626624c3f7093134aa90",
+      "title": "On Looking into the Black Box: Prospects and Limits in the Search for Mental Models"
+    },
+    {
+      "paperId": "1e8817b3efd3f5ca8b16d0cc2930b4d0821a8c44",
+      "title": "Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness"
+    },
+    {
+      "paperId": "4bf58ea97792749fb40aa1eaf55f9f5301fd680c",
+      "title": "Direct Manipulation Interfaces"
+    },
+    {
+      "paperId": "94bff6b6d3c7ece674e86f765bd19d466ad3b298",
+      "title": "Vygotsky and the Social Formation of Mind"
+    },
+    {
+      "paperId": "fb92c47472012ba63f6c3345707f9df6eab4456d",
+      "title": "Anthropology and Psychology: Towards an Epidemiology of Representations"
+    },
+    {
+      "paperId": "0a1033f0652621df8e5606495c1982a2fbfc43df",
+      "title": "Protocol Analysis: Verbal Reports as Data"
+    },
+    {
+      "paperId": "1456fba651c261326d8cbec451aca4925092141f",
+      "title": "Metaphors We Live by"
+    },
+    {
+      "paperId": "d09e73d42f2aa42a0abc4aa27d84e72faf712cc7",
+      "title": "What the Mind\u2019s Eye Tells the Mind\u2019s Brain: A Critique of Mental Imagery"
+    },
+    {
+      "paperId": "ee66f87c06337fb430a90897112de06fb61f6a9f",
+      "title": "The Nature of Explanation"
+    },
+    {
+      "paperId": "d7eeee41738a97b0b8a230e2039307bea0edbfb7",
+      "title": "Projection, Problem Space and Anchoring"
+    },
+    {
+      "paperId": "b122af84a04ca43b4bd783158ebd026cd2f63765",
+      "title": "Proceedings of the 31st Annual Conference of the Cognitive Science Society."
+    },
+    {
+      "paperId": "94eb9df454da49f0af5c2fcd6779f753a0b93cdd",
+      "title": "Creating Scientific Concepts"
+    },
+    {
+      "paperId": "984113ed83a98527210114221c8f4ddccb5c34ac",
+      "title": "Visual Imagery, Mental Models, and Reasoning"
+    },
+    {
+      "paperId": "dd845163c2386d6e83c6378605821eef58d11fcc",
+      "title": "Action in Perception"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Card . The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis"
+    },
+    {
+      "paperId": "a91bf967a3cb961f1919708b8fe00ff8768d2602",
+      "title": "Query, analysis, and visualization of multidimensional databases"
+    },
+    {
+      "paperId": "f98111360a6be35854ac5012f9e3f7be195295d2",
+      "title": "CHAPTER 6 \u2013 Users' Mental Models: The Very Ideas"
+    },
+    {
+      "paperId": "155e44a1a310c0b4ce07b1b58ecd53d02472c07c",
+      "title": "Model-Based Reasoning"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "8551093dc1821574e6890b08d3c9bd14276dee90",
+      "title": "Imagery, Visualization, and Thinking"
+    },
+    {
+      "paperId": "12f93dab957b919e17bb457e4a1645e5949b89f0",
+      "title": "Spatial Information Theory A Theoretical Basis for GIS"
+    },
+    {
+      "paperId": "8b8bfbf265bc4404132b63a4826de6530f3d74b9",
+      "title": "Deictic Codes for the Embodiment of CognitionDana"
+    },
+    {
+      "paperId": "f2bb477868cf41a71db56ef45039bd660f351efa",
+      "title": "Thought and language."
+    },
+    {
+      "paperId": "c88ff19eacd1e8f6ff7b2ccc566e1841499a39b5",
+      "title": "Visuo-spatial working memory"
+    },
+    {
+      "paperId": "8a4b4697b61a347e3f192a560d31564f6af98052",
+      "title": "Notebooks of the Mind : Explorations of Thinking"
+    },
+    {
+      "paperId": "e7f6fd94614bd5c10d8789bf879935fad476fa3b",
+      "title": "Stories, Scripts, and Scenes: Aspects of Schema Theory"
+    },
+    {
+      "paperId": "4971bec3386a33fa6c3850abf3d358e7143dff8b",
+      "title": "The Ecological Approach to Visual Perception"
+    },
+    {
+      "paperId": null,
+      "title": "Gapminder"
+    }
+  ]
+}

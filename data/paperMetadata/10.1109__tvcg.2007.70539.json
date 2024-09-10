@@ -1,0 +1,173 @@
+{
+  "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+  "externalIds": {
+    "DBLP": "journals/tvcg/HeerR07",
+    "MAG": "2125215841",
+    "DOI": "10.1109/TVCG.2007.70539",
+    "CorpusId": 1872562,
+    "PubMed": "17968070"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+  "title": "Animated Transitions in Statistical Data Graphics",
+  "abstract": "In this paper we investigate the effectiveness of animated transitions between common statistical data graphics such as bar charts, pie charts, and scatter plots. We extend theoretical models of data graphics to include such transitions, introducing a taxonomy of transition types. We then propose design principles for creating effective transitions and illustrate the application of these principles in DynaVis, a visualization system featuring animated data graphics. Two controlled experiments were conducted to assess the efficacy of various transition types, finding that animated transitions can significantly improve graphical perception.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2007,
+  "referenceCount": 26,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2007-11-01",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1240-1247",
+    "volume": "13"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Heer2007AnimatedTI,\n author = {Jeffrey Heer and G. Robertson},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1240-1247},\n title = {Animated Transitions in Statistical Data Graphics},\n volume = {13},\n year = {2007}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1803140",
+      "name": "Jeffrey Heer"
+    },
+    {
+      "authorId": "1699184",
+      "name": "G. Robertson"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "b42741e55087c2aac177292eb513e44267dc4d5a",
+      "title": "Phosphor: explaining transitions in the user interface using afterglow effects"
+    },
+    {
+      "paperId": "30a609aa212644846e34f07603c4e2a516d83ec9",
+      "title": "Designing for social data analysis"
+    },
+    {
+      "paperId": "8450dfc8ffb4dacd62d5928fbfeab1de008fb38a",
+      "title": "The effect of animated transitions on user navigation in 3D tree-maps"
+    },
+    {
+      "paperId": "a2105bb4f14fb27c43d9b130d0c582c460060165",
+      "title": "DOITrees revisited: scalable, space-constrained visualization of hierarchical data"
+    },
+    {
+      "paperId": "e6be82a23d19074b02450ad3c980dccb5b0e1c62",
+      "title": "On creating animated presentations"
+    },
+    {
+      "paperId": "3816ccd8bd26db5d30adcc5b74607575d2966f50",
+      "title": "SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "66d72e81be44dade1cd3ae9bee87a1df6a562ba8",
+      "title": "Animated Visualization of Multiple Intersecting Hierarchies"
+    },
+    {
+      "paperId": "dac033dd807572623fb26c3782056004e802e120",
+      "title": "Animated exploration of dynamic graphs with radial layout"
+    },
+    {
+      "paperId": "3f12f4f50fee5c3ab27ff2435d271b59c7f372f4",
+      "title": "Hierarchical motion organization in random dot configurations."
+    },
+    {
+      "paperId": "741967344707fcc665061bd62d1e6b0763ebc5e2",
+      "title": "Does animation help users build mental maps of spatial information?"
+    },
+    {
+      "paperId": "76ba6c51c840019f93680ed2bbc4975dcb1db77a",
+      "title": "Does animation in user interfaces improve decision making?"
+    },
+    {
+      "paperId": "10191e8214521593bb12a8792eb24ca587684e6a",
+      "title": "Animation support in a user interface toolkit: flexible, robust, and reusable abstractions"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "324330e10e9164bf9ad8505d533bc5054eef404a",
+      "title": "The cognitive coprocessor architecture for interactive user interfaces"
+    },
+    {
+      "paperId": "79aa6ec58d0c7e424258dc125aaefbd48645d6d3",
+      "title": "Understanding charts and graphs"
+    },
+    {
+      "paperId": "fce3c119ef190fca49c054afb1c0a5e5f9de52fa",
+      "title": "Principles of traditional animation applied to 3D computer animation"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "31ba4781ba6af63435a6326a88ab15d66a045b50",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "565d843c2c0e60915709268ac4224894469d82d5",
+      "title": "Graphical Perception and Graphical Methods for Analyzing Scientific Data"
+    },
+    {
+      "paperId": "c39a447740133f471c5cb038da2cc9d54ddd72d6",
+      "title": "The visual display of quantitative information"
+    },
+    {
+      "paperId": "28fb25837f91a55cff51ba8c0f7149c3cca93a82",
+      "title": "Animated Exploration of Graphs with Radial Layout"
+    },
+    {
+      "paperId": null,
+      "title": "Enhancing Visualizations with Motion"
+    },
+    {
+      "paperId": "292b2fa1bbb7373679882439c35353e64ee52337",
+      "title": "Displaying proportions and percentages"
+    },
+    {
+      "paperId": "d8a4775fde74beedd932d58158185a98d9fab31a",
+      "title": "The Visual Display of Quantitative Information"
+    },
+    {
+      "paperId": "fe5fac6d480b1f97beac0515782d29c398c816ff",
+      "title": "The perception of causality"
+    }
+  ]
+}

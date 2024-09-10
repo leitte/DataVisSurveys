@@ -22,8 +22,8 @@
 10.1007/978-3-642-32677-6_15:
   title: "From Quantification to Visualization: A Taxonomy of Uncertainty Visualization Approaches"
   categories:
-    - uncertainty
     - taxonomy
+    - uncertainty
 10.1007/978-1-4614-6170-8_382:
   title: "Analysis and Visualization of Dynamic Networks"
   categories:
@@ -53,6 +53,9 @@
   categories:
     - taxonomy
     - survey
+10.1109/TVCG.2020.3030419:
+  title: "Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions"
+  categories:
 10.1002/sam.10071:
   title: "Seriation and matrix reordering methods: An historical overview"
   categories:
@@ -74,6 +77,10 @@
   categories:
     - graph
     - survey
+10.1109/TVCG.2017.2744184:
+  title: "Scatterplots: Tasks, Data, and Designs"
+  categories:
+    - charts
 10.1109/TVCG.2013.124:
   title: "A Multi-Level Typology of Abstract Visualization Tasks"
   categories:
@@ -115,8 +122,8 @@
 10.1145/2994310.2994327:
   title: "Software visualization today: systematic literature review"
   categories:
-    - review
     - software
+    - review
 10.1111/cgf.12280:
   title: "State-of-the-Art in Compressed GPU-Based Direct Volume Rendering"
   categories:
@@ -137,6 +144,10 @@
   title: "A Survey of Geometric Analysis in Cultural Heritage"
   categories:
     - survey
+10.1109/TVCG.2020.3030395:
+  title: "Towards Modeling Visualization Processes as Dynamic Bayesian Networks"
+  categories:
+    - graph
 10.1111/cgf.13595:
   title: "A Survey of Information Visualization Books"
   categories:
@@ -145,8 +156,8 @@
 10.1109/VISSOFT.2019.00013:
   title: "A Tertiary Systematic Literature Review on Software Visualization"
   categories:
-    - review
     - software
+    - review
 10.1109/TVCG.2018.2834341:
   title: "Bridging Text Visualization and Mining: A Task-Driven Survey"
   categories:
@@ -164,8 +175,8 @@
 10.1109/TVCG.2018.2872577:
   title: "A Task-Based Taxonomy of Cognitive Biases for Information Visualization"
   categories:
-    - taxonomy
     - charts
+    - taxonomy
 10.1109/TVCG.2011.229:
   title: "Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization"
   categories:
@@ -197,10 +208,13 @@
 10.1177/1473871611424815:
   title: "Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees"
   categories:
-    - graph
     - charts
+    - graph
 10.2139/ssrn.2438194:
   title: "The Application of Visual Analytics to Financial Stability Monitoring"
+  categories:
+10.1109/TVCG.2016.2598468:
+  title: "Characterizing Guidance in Visual Analytics"
   categories:
 10.2312/eurovisstar.20151113:
   title: "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges"
@@ -220,8 +234,8 @@
 10.1007/s12650-021-00755-1:
   title: "Recent advances and challenges in uncertainty visualization: a survey"
   categories:
-    - uncertainty
     - survey
+    - uncertainty
 10.1145/22627.22349:
   title: "Visual programming, programming by example, and program visualization: a taxonomy"
   categories:
@@ -234,8 +248,12 @@
 10.1145/180171.180173:
   title: "A review and taxonomy of distortion-oriented presentation techniques"
   categories:
-    - review
     - taxonomy
+    - review
+10.1109/TVCG.2017.2745258:
+  title: "Towards a Systematic Combination of Dimension Reduction and Clustering in Visual Analytics"
+  categories:
+    - high-dimensional
 10.2312/eurovisstar.20141172:
   title: "A Survey on Interactive Lenses in Visualization"
   categories:
@@ -258,6 +276,10 @@
   categories:
     - graph
     - survey
+10.1109/TVCG.2010.177:
+  title: "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+  categories:
+    - charts
 10.1111/cgf.14733:
   title: "State of the Art of Visual Analytics for eXplainable Deep Learning"
   categories:
@@ -266,6 +288,10 @@
   title: "A Survey of Visualization Systems for Malware Analysis"
   categories:
     - survey
+10.1109/TVCG.2007.70515:
+  title: "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+  categories:
+    - charts
 10.1111/cgf.13803:
   title: "A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving"
   categories:
@@ -274,6 +300,9 @@
   title: "A Survey of Designs for Combined 2D+3D Visual Representations"
   categories:
     - survey
+10.1109/TVCG.2011.255:
+  title: "Visualization Rhetoric: Framing Effects in Narrative Visualization"
+  categories:
 10.1111/cgf.14738:
   title: "State of the Art of Molecular Visualization in Immersive Virtual Environments"
   categories:
@@ -291,6 +320,10 @@
   categories:
     - spatial data
     - uncertainty
+10.1109/TVCG.2015.2467591:
+  title: "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+  categories:
+    - uncertainty
 10.1109/TVCG.2006.50:
   title: "Knowledge discovery in high-dimensional data: case studies and a user survey for the rank-by-feature framework"
   categories:
@@ -301,6 +334,9 @@
   title: "A Survey of Human-Centered Evaluations in Human-Centered Machine Learning"
   categories:
     - survey
+10.1109/TVCG.2013.134:
+  title: "An Interaction Model for Visualizations Beyond The Desktop"
+  categories:
 10.2312/eurovisshort.20171146:
   title: "Molecular Visualization of Computational Biology Data: A Survey of Surveys"
   categories:
@@ -315,10 +351,21 @@
   categories:
     - graph
     - survey
+10.1109/TVCG.2014.2346481:
+  title: "Knowledge Generation Model for Visual Analytics"
+  categories:
+    - graph
 10.1109/TVCG.2020.2986247:
   title: "Visualization Techniques in Augmented Reality: A Taxonomy, Methods and Patterns"
   categories:
     - taxonomy
+10.1109/TVCG.2007.70539:
+  title: "Animated Transitions in Statistical Data Graphics"
+  categories:
+    - graph
+10.1109/TVCG.2023.3327378:
+  title: "Challenges and Opportunities in Data Visualization Education: A Call to Action"
+  categories:
 10.1109/TVCG.2019.2963018:
   title: "Visualization of Blockchain Data: A Systematic Review"
   categories:
@@ -330,8 +377,8 @@
 10.1111/cgf.14333:
   title: "Uncertainty-aware Visualization in Medical Imaging - A Survey"
   categories:
-    - uncertainty
     - survey
+    - uncertainty
 10.1111/CGF.13730:
   title: "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective"
   categories:
@@ -340,14 +387,24 @@
   title: "Towards a taxonomy of movement patterns"
   categories:
     - taxonomy
+10.1109/TVCG.2019.2934264:
+  title: "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics"
+  categories:
+10.1109/TVCG.2014.2346321:
+  title: "Visual Parameter Space Analysis: A Conceptual Framework"
+  categories:
 10.1111/cgf.13726:
   title: "State-of-the-Art Report: Visual Computing in Radiation Therapy Planning"
   categories:
 10.1016/j.visinf.2018.12.004:
   title: "A comprehensive review of tools for exploratory analysis of tabular industrial datasets"
   categories:
-    - review
     - graph
+    - review
+10.1109/TVCG.2021.3114813:
+  title: "A Critical Reflection on Visualization Research: Where Do Decision Making Tasks Hide?"
+  categories:
+    - charts
 10.2312/eurovisstar.20141175:
   title: "A Survey of GPU-Based Large-Scale Volume Visualization"
   categories:
@@ -383,8 +440,8 @@
 10.1111/cgf.14037:
   title: "State of the Art in Time-Dependent Flow Topology: Interpreting Physical Meaningfulness Through Mathematical Properties"
   categories:
-    - spatial data
     - survey
+    - spatial data
 10.1109/TVCG.2020.3028891:
   title: "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
   categories:
@@ -393,6 +450,9 @@
   title: "Visualization of Biomolecular Structures: State of the Art Revisited"
   categories:
     - survey
+10.1109/TVCG.2018.2864903:
+  title: "What Do We Talk About When We Talk About Dashboards?"
+  categories:
 10.1109/PacificVis.2014.34:
   title: "Visualization of Building Performance Simulation Results: State-of-the-Art and Future Directions"
   categories:
@@ -422,6 +482,9 @@
   title: "State of the Art in Dense Monocular Non-Rigid 3D Reconstruction"
   categories:
     - survey
+10.1109/TVCG.2017.2744199:
+  title: "Considerations for Visualizing Comparison"
+  categories:
 10.1111/cgf.12927:
   title: "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data"
   categories:
@@ -451,15 +514,22 @@
   title: "A Survey of Visualization for Live Cell Imaging"
   categories:
     - survey
+10.1109/TVCG.2008.109:
+  title: "A Framework of Interaction Costs in Information Visualization"
+  categories:
+    - charts
 10.1109/TVCG.2012.271:
   title: "Taxonomy-Based Glyph Design&#8212;with a Case Study on Visualizing Workflows of Biological Experiments"
   categories:
-    - spatial data
     - taxonomy
+    - spatial data
 10.1109/TVCG.2018.2843369:
   title: "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
   categories:
     - survey
+10.1109/VAST.2011.6102435:
+  title: "Visual analytic roadblocks for novice investigators"
+  categories:
 10.2312/PE/VAST/VAST10S/095-099:
   title: "ICT in Japanese Museums: a Strategic and Contextual Survey"
   categories:
@@ -500,6 +570,9 @@
   categories:
     - charts
     - survey
+10.1109/TVCG.2023.3326591:
+  title: "Are We Closing the Loop Yet? Gaps in the Generalizability of VIS4ML Research"
+  categories:
 10.1109/38.708564:
   title: "Ten More Unsolved Problems in Computer Graphics"
   categories:
@@ -507,13 +580,13 @@
 10.1109/TVCG.2018.2864889:
   title: "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
   categories:
-    - uncertainty
     - survey
+    - uncertainty
 10.1109/TST.2013.6509098:
   title: "Edge bundling in information visualization"
   categories:
-    - graph
     - charts
+    - graph
 10.1145/2993901.2993906:
   title: "Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space"
   categories:
@@ -521,8 +594,8 @@
 10.1111/cgf.13394:
   title: "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges"
   categories:
-    - spatial data
     - survey
+    - spatial data
 10.1057/PALGRAVE.IVS.9500025:
   title: "A Taxonomy of Glyph Placement Strategies for Multidimensional Data Visualization"
   categories:
@@ -540,6 +613,10 @@
   title: "A Survey on Cross-Virtuality Analytics"
   categories:
     - survey
+10.1109/INFVIS.2005.1532136:
+  title: "Low-level components of analytic activity in information visualization"
+  categories:
+    - charts
 10.1111/cgf.13678:
   title: "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
   categories:
@@ -552,12 +629,15 @@
   categories:
     - survey
     - software
+10.1109/VAST.2008.4677356:
+  title: "Spatio-temporal aggregation for visual analysis of movements"
+  categories:
 10.1109/TVCG.2022.3209444:
   title: ": Navigating large collections of text notes in electronic health records for clinical chart review"
   categories:
-    - review
     - charts
     - text and documents
+    - review
 10.1109/TVCG.2015.2466992:
   title: "Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research"
   categories:
@@ -586,8 +666,8 @@
 10.1111/cgf.12791:
   title: "A Taxonomy and Survey of Dynamic Graph Visualization"
   categories:
-    - taxonomy
     - graph
+    - taxonomy
     - survey
 10.1109/TVCG.2020.3028975:
   title: "A Survey of Text Alignment Visualization"
@@ -606,9 +686,9 @@
 10.1109/TVCG.2015.2424889:
   title: "A Task Taxonomy for Temporal Graph Visualisation"
   categories:
-    - taxonomy
-    - graph
     - charts
+    - graph
+    - taxonomy
 10.1111/cgf.14794:
   title: "Are We There Yet? A Roadmap of Network Visualization from Surveys to Task Taxonomies"
   categories:
@@ -707,11 +787,14 @@
   title: "A Survey of Traffic Data Visualization"
   categories:
     - survey
+10.1109/TVCG.2012.213:
+  title: "Design Study Methodology: Reflections from the Trenches and the Stacks"
+  categories:
 10.3145/EPI.2014.MAY.02:
   title: "How we draw texts: a review of approaches to text visualization and exploration"
   categories:
-    - review
     - text and documents
+    - review
 10.1109/VIS54172.2023.00027:
   title: "What Exactly is an Insight? A Literature Review"
   categories:
@@ -741,12 +824,16 @@
   title: "Visualizing High-Dimensional Data: Advances in the Past Decade"
   categories:
     - high-dimensional
+10.1109/TVCG.2012.204:
+  title: "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
+  categories:
+    - charts
 10.1111/cgf.13158:
   title: "Geometric Detection Algorithms for Cavities on Protein Surfaces in Molecular Graphics: A Survey"
   categories:
-    - spatial data
     - graph
     - survey
+    - spatial data
     - software
 10.1109/TVCG.2022.3227999:
   title: "Visual Cue Based Corrective Feedback for Motor Skill Training in Mixed Reality: A Survey"
@@ -763,18 +850,21 @@
 10.1007/978-1-4471-6497-5_1:
   title: "Overview and State-of-the-Art of Uncertainty Visualization"
   categories:
-    - uncertainty
     - survey
+    - uncertainty
 10.1111/cgf.13322:
   title: "A Survey of Surface-Based Illustrative Rendering for Visualization"
   categories:
-    - spatial data
     - survey
+    - spatial data
 10.1136/amiajnl-2014-002955:
   title: "Innovative information visualization of electronic health record data: a systematic review"
   categories:
-    - review
     - charts
+    - review
+10.1109/TVCG.2010.132:
+  title: "An Information-theoretic Framework for Visualization"
+  categories:
 10.2312/eurovisstar.20141176:
   title: "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
   categories:
@@ -782,6 +872,9 @@
     - text and documents
 10.1111/cgf.14424:
   title: "EHR STAR: The State-Of-the-Art in Interactive EHR Visualization"
+  categories:
+10.1109/TVCG.2009.111:
+  title: "A Nested Model for Visualization Design and Validation"
   categories:
 10.1109/TVCG.2018.2853721:
   title: "Visualization and Visual Analysis of Ensemble Data: A Survey"
@@ -807,9 +900,17 @@
   title: "The Use of Traditional and Computer-based Visualization in Archaeology: a User Survey"
   categories:
     - survey
+10.1109/TVCG.2007.70541:
+  title: "Casual Information Visualization: Depictions of Data in Everyday Life"
+  categories:
+    - charts
 10.1111/cgf.12929:
   title: "State-of-the-Art Report in Web-based Visualization"
   categories:
+10.1109/TVCG.2016.2598495:
+  title: "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+  categories:
+    - high-dimensional
 10.1111/cgf.13729:
   title: "External Labeling Techniques: A Taxonomy and Survey"
   categories:
@@ -819,6 +920,9 @@
   title: "The Reality of the Situation: A Survey of Situated Analytics"
   categories:
     - survey
+10.1109/TVCG.2023.3326593:
+  title: "From Information to Choice: A Critical Inquiry Into Visualization Tools for Decision Making"
+  categories:
 10.1007/s11390-013-1383-8:
   title: "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
   categories:
@@ -826,11 +930,18 @@
 10.1111/cgf.13210:
   title: "The State-of-the-Art in Predictive Visual Analytics"
   categories:
+10.1109/TVCG.2015.2467551:
+  title: "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
+  categories:
 10.1109/TVCG.2020.3028889:
   title: "A Visual Analytics Framework for Reviewing Multivariate Time-Series Data with Dimensionality Reduction"
   categories:
-    - review
     - high-dimensional
+    - review
+10.1109/TVCG.2017.2745180:
+  title: "Beyond Tasks: An Activity Typology for Visual Analytics"
+  categories:
+    - charts
 10.1109/TVCG.2019.2929033:
   title: "Survey of Immersive Analytics"
   categories:
@@ -838,12 +949,18 @@
 10.1109/vast.2012.6400554:
   title: "Visual analytics for the big data era — A comparative review of state-of-the-art commercial systems"
   categories:
-    - review
     - survey
+    - review
 10.1109/TVCG.2022.3209412:
   title: "The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types"
   categories:
     - survey
+10.1109/TVCG.2022.3209360:
+  title: "In Defence of Visual Analytics Systems: Replies to Critics"
+  categories:
+10.1109/VISUAL.1990.146375:
+  title: "A problem-oriented classification of visualization techniques"
+  categories:
 10.1111/cgf.14032:
   title: "Privacy-Preserving Data Visualization: Reflections on the State of the Art and Research Opportunities"
   categories:
@@ -872,6 +989,9 @@
   title: "DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization"
   categories:
     - survey
+10.1109/TVCG.2014.2346325:
+  title: "An Algebraic Process for Visualization Design"
+  categories:
 10.1109/TVCG.2009.84:
   title: "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
   categories:
@@ -894,6 +1014,9 @@
   categories:
     - graph
     - survey
+10.1109/TVCG.2018.2864838:
+  title: "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
+  categories:
 10.1111/cgf.12871:
   title: "Interactive Lenses for Visualization: An Extended Survey"
   categories:
@@ -902,6 +1025,10 @@
   title: "State of the Art in Transfer Functions for Direct Volume Rendering"
   categories:
     - survey
+10.1109/VAST.2017.8585498:
+  title: "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics"
+  categories:
+    - graph
 10.1109/VISUAL.2019.8933773:
   title: "Thumbnails for Data Stories: A Survey of Current Practices"
   categories:
@@ -910,6 +1037,10 @@
   title: "Digital Fabrication Techniques for Cultural Heritage: A Survey"
   categories:
     - survey
+10.1109/TVCG.2014.2346578:
+  title: "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
+  categories:
+    - software
 10.1016/S1045-926X(05)80036-9:
   title: "Taxonomies of visual programming and program visualization"
   categories:
@@ -924,8 +1055,8 @@
 10.1109/PacificVis48177.2020.1014:
   title: "Uncertainty Visualisation: An Interactive Visual Survey"
   categories:
-    - uncertainty
     - survey
+    - uncertainty
 10.1109/TVCG.2021.3085751:
   title: "Deconstructing Categorization in Visualization Recommendation: A Taxonomy and Comparative Study"
   categories:
@@ -938,8 +1069,11 @@
 10.1109/TVCG.2013.130:
   title: "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
   categories:
-    - taxonomy
     - graph
+    - taxonomy
+10.1109/TVCG.2019.2934283:
+  title: "What is Interaction for Data Visualization?"
+  categories:
 10.1007/s00371-013-0892-3:
   title: "A survey on information visualization: recent advances and challenges"
   categories:
@@ -976,8 +1110,8 @@
 10.2312/eurovisshort.20151126:
   title: "Task Taxonomy for Cartograms"
   categories:
-    - taxonomy
     - charts
+    - taxonomy
 10.1111/cgf.14855:
   title: "The State of the Art in Creating Visualization Corpora for Automated Chart Analysis"
   categories:
@@ -1006,6 +1140,9 @@
   title: "A survey on goal-oriented visualization of clone data"
   categories:
     - survey
+10.1109/TVCG.2010.179:
+  title: "Narrative Visualization: Telling Stories with Data"
+  categories:
 10.1111/cgf.13447:
   title: "State of the Art of Sports Data Visualization"
   categories:
@@ -1052,8 +1189,11 @@
 10.1007/978-1-4471-2804-5_6:
   title: "A Review of Uncertainty in Data Visualization"
   categories:
-    - review
     - uncertainty
+    - review
+10.1109/TVCG.2022.3209398:
+  title: "Multi-View Design Patterns and Responsive Visualization for Genomics Data"
+  categories:
 10.1016/j.visinf.2024.04.003:
   title: "Generative AI for Visualization: State of the Art and Future Directions"
   categories:
@@ -1071,6 +1211,11 @@
   title: "VizSnippets: Compressing Visualization Bundles Into Representative Previews for Browsing Visualization Collections"
   categories:
     - review
+10.1109/TVCG.2006.178:
+  title: "Software Design Patterns for Information Visualization"
+  categories:
+    - charts
+    - software
 10.1111/cgf.12722:
   title: "The State-of-the-Art of Set Visualization"
   categories:
@@ -1078,9 +1223,9 @@
 10.1109/TVCG.2013.238:
   title: "A Task Taxonomy for Network Evolution Analysis"
   categories:
-    - taxonomy
-    - graph
     - charts
+    - graph
+    - taxonomy
 10.1016/j.visinf.2020.07.002:
   title: "A survey on automatic infographics and visualization recommendations"
   categories:

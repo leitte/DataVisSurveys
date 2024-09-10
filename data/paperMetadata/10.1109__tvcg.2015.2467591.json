@@ -1,0 +1,497 @@
+{
+  "paperId": "465c02104d8129e394711142202310f3a7e70928",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SachaSKEK16",
+    "MAG": "1914475855",
+    "DOI": "10.1109/TVCG.2015.2467591",
+    "CorpusId": 10673012,
+    "PubMed": "26529704"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/465c02104d8129e394711142202310f3a7e70928",
+  "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics",
+  "abstract": "Visual analytics supports humans in generating knowledge from large and often complex datasets. Evidence is collected, collated and cross-linked with our existing knowledge. In the process, a myriad of analytical and visualisation techniques are employed to generate a visual representation of the data. These often introduce their own uncertainties, in addition to the ones inherent in the data, and these propagated and compounded uncertainties can result in impaired decision making. The user's confidence or trust in the results depends on the extent of user's awareness of the underlying uncertainties generated on the system side. This paper unpacks the uncertainties that propagate through visual analytics systems, illustrates how human's perceptual and cognitive biases influence the user's awareness of such uncertainties, and how this affects the user's trust building. The knowledge generation model for visual analytics is used to provide a terminology and framework to discuss the consequences of these aspects in knowledge construction and though examples, machine uncertainty is compared to human trust measures with provenance. Furthermore, guidelines for the design of uncertainty-aware systems are presented that can aid the user in better decision making.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2016,
+  "referenceCount": 103,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2016-01-31",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "240-249",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Sacha2016TheRO,\n author = {D. Sacha and Hansi Senaratne and Bum Chul Kwon and Geoffrey P. Ellis and D. Keim},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {240-249},\n title = {The Role of Uncertainty, Awareness, and Trust in Visual Analytics},\n volume = {22},\n year = {2016}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2042948",
+      "name": "D. Sacha"
+    },
+    {
+      "authorId": "2063725",
+      "name": "Hansi Senaratne"
+    },
+    {
+      "authorId": "145276140",
+      "name": "Bum Chul Kwon"
+    },
+    {
+      "authorId": "36877668",
+      "name": "Geoffrey P. Ellis"
+    },
+    {
+      "authorId": "9106757",
+      "name": "D. Keim"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "7902f378eebe2109ddecd4ed939b1a920d7f5a40",
+      "title": "Suggested Interactivity: Seeking Perceived Affordances for Information Visualization"
+    },
+    {
+      "paperId": "6c5dfd353d9b050b25a54260afeb457532db4d9d",
+      "title": "Approximated and User Steerable tSNE for Progressive Visual Analytics"
+    },
+    {
+      "paperId": "772968e4c83c6d1aa714de4fe2b2de2d93c3275f",
+      "title": "What May Visualization Processes Optimize?"
+    },
+    {
+      "paperId": "0c9d9fe78738af1ac857fbe20dbb3f31e1124161",
+      "title": "Analytic Provenance for Sensemaking: A Research Agenda"
+    },
+    {
+      "paperId": "f6f121544eef59ee757dbcc2e10a8bac3a229001",
+      "title": "How Polymorphic Warnings Reduce Habituation in the Brain: Insights from an fMRI Study"
+    },
+    {
+      "paperId": "825ca26af5a2a510dbc1a7b97587212bc98ae968",
+      "title": "Power to the People: The Role of Humans in Interactive Machine Learning"
+    },
+    {
+      "paperId": "2f2961362355e45fa014ca0bb8ce4495aedf8824",
+      "title": "Thinking fast and slow."
+    },
+    {
+      "paperId": "4407c918fbbb21ad5f008bc30c3065467e447832",
+      "title": "Evaluation methodology for comparing memory and communication of analytic processes in visual analytics"
+    },
+    {
+      "paperId": "de8335a834362c50de9075ccebc20605aa326545",
+      "title": "Evaluating visual analytics with eye tracking"
+    },
+    {
+      "paperId": "3d227d3da37d9b6c7ed5b1b776bcf619512400df",
+      "title": "Considerations for characterizing domain problems"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "b0e8d6411a680ab567e47045252d4b0865d5743a",
+      "title": "Cognitive Discourse Analysis: accessing cognitive representations and processes through language data*"
+    },
+    {
+      "paperId": "32caf7c3d23790a98b43a3c69021c9cbcc3bdfe9",
+      "title": "A Design Methodology for Trust Cue Calibration in Cognitive Agents"
+    },
+    {
+      "paperId": "346c73fc76cb5106a89d17646ab45ae1aa900ce5",
+      "title": "Automation bias: Empirical results assessing influencing factors"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "4ba59013b4f93050f9fd0c422f6710b937707a7d",
+      "title": "Developing a GEO label: providing the GIS community with quality metadata visualisation tools"
+    },
+    {
+      "paperId": "467c001675b560224bd5ec2a5bd6f5212d1663dd",
+      "title": "The Effect of Information Analysis Automation Display Content on Human Judgment Performance in Noisy Environments"
+    },
+    {
+      "paperId": "67d9fb60bae2268aca9da5a4d52d11a5a8bc09bf",
+      "title": "A Role for Reasoning in Visual Analytics"
+    },
+    {
+      "paperId": "9faae5d91c4371543ad671c1750b5344f56d88eb",
+      "title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering"
+    },
+    {
+      "paperId": "03df4d2a186b8b8ff57e4b4005879267f0158989",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study"
+    },
+    {
+      "paperId": "9cf596cdab10e3a3a86ea87397a61df61648624b",
+      "title": "A game-based experimental protocol for identifying and overcoming judgment biases in forensic decision analysis"
+    },
+    {
+      "paperId": "13f46390f10bc33205a00b7180b4f46dc00d3372",
+      "title": "Exploratory Visualization Involving Incremental, Approximate Database Queries and Uncertainty"
+    },
+    {
+      "paperId": "98e3e60d90d421c1c29018911d6ede0160d68fcc",
+      "title": "Interpretation and trust: designing model-driven visualizations for text analysis"
+    },
+    {
+      "paperId": "2741eeda6093375522acd78367289682d795ddbd",
+      "title": "Limited Rank Matrix Learning, discriminative dimension reduction and visualization"
+    },
+    {
+      "paperId": "016713b7943309c35813499a3fcfdf05d3189508",
+      "title": "Human Performance Consequences of Automated Decision Aids"
+    },
+    {
+      "paperId": "f36226b9ec870338f433380a4720626fcca1bbed",
+      "title": "Visual analytic roadblocks for novice investigators"
+    },
+    {
+      "paperId": "b370c035cedcbc6b0cdf61fd07aeb04c88e0ddb5",
+      "title": "Analysts aren't machines: Inferring frustration through visualization interaction"
+    },
+    {
+      "paperId": "0e9c41ebc5086b8b9d7004a68d6637e4940f03c9",
+      "title": "Research directions in data wrangling: Visualizations and transformations for usable and credible data"
+    },
+    {
+      "paperId": "53295bc919e02289b78918b07d1252b3e4c5e3ca",
+      "title": "Information credibility on twitter"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "557ecc59a30c8f5619f5fc07dca3d0ef2e3a600e",
+      "title": "Tuning Trust Using Cognitive Cues for Better Human-Machine Collaboration"
+    },
+    {
+      "paperId": "dc2d5599de8f633233c6af8ea81e6f64cefa027a",
+      "title": "A framework for uncertainty-aware visual analytics"
+    },
+    {
+      "paperId": "184565b0d20f3dc8b6f3f948a00c135c38074794",
+      "title": "Capturing and supporting the analysis process"
+    },
+    {
+      "paperId": "1b95578b8b50d5de940f2e85a6126f63c6c04ff0",
+      "title": "iPCA: An Interactive System for PCA\u2010based Visual Analytics"
+    },
+    {
+      "paperId": "81a4e4b9bd9b79e8f849affeb849cefc9d14a800",
+      "title": "Grand challenge award 2008: Support for diverse analytic techniques - nSpace2 and GeoTime visual analytics"
+    },
+    {
+      "paperId": "78edf53204beec5b77b2f895719d354cf1f5065f",
+      "title": "The credibility of volunteered geographic information"
+    },
+    {
+      "paperId": "4837f5c9177ca782b80593f508a654b101cedf6f",
+      "title": "Revealing Uncertainty for Information Visualization"
+    },
+    {
+      "paperId": "ef603701794e6abd79e75ae0f521e15e1f7d05ca",
+      "title": "Visualization of Uncertainty and Reasoning"
+    },
+    {
+      "paperId": "7562638b702db2f1b96be148182a81328c8cbb74",
+      "title": "Disruption and recovery of computing tasks: field study, analysis, and directions"
+    },
+    {
+      "paperId": "73a86c2be363ea9337d209cef6f98b01e63aac98",
+      "title": "Beyond Usability: Evaluation Aspects of Visual Analytic Environments"
+    },
+    {
+      "paperId": "853e1c477b291a50c08f122a0175bdf418044ff7",
+      "title": "The Sandbox for analysis: concepts and methods"
+    },
+    {
+      "paperId": "e9d7ec2022d7f2337b244246fe26d5c75983cd1e",
+      "title": "Cognitive biases and decision support systems development: a design science approach"
+    },
+    {
+      "paperId": "03de0b6cb973fc6d7f32a0a38de5deb2db3420c3",
+      "title": "Thinking movement and the creation of dance through numbers"
+    },
+    {
+      "paperId": "03daa7c5f7ddf2b1422137f59956ff4cb0a38937",
+      "title": "A typology for visualizing uncertainty"
+    },
+    {
+      "paperId": "53a19efce568a86608a476a9a0a33462d94fcbab",
+      "title": "Visualizing Geospatial Information Uncertainty: What We Know and What We Need to Know"
+    },
+    {
+      "paperId": "9a61c558729a044e3895b19f02457a767f1a1709",
+      "title": "Multidimensional visual representations for underwater environmental uncertainty"
+    },
+    {
+      "paperId": "3a0f0ac68161b6784e7eca22a8d214bdc7068219",
+      "title": "Measurement of trust in complex and dynamic systems using a quantitative approach"
+    },
+    {
+      "paperId": "d8a2d9ea1e29bf6f9a9d2fb384386dd2c2067004",
+      "title": "Trust Mediation in Knowledge Management and Sharing"
+    },
+    {
+      "paperId": "b0e89da3eb67767b63ca5c23c233238f70263ae7",
+      "title": "The role of trust in automation reliance"
+    },
+    {
+      "paperId": "81fbe62645bc8b90c346fb245b18f6a730f60366",
+      "title": "Where do web sites come from?: capturing and interacting with design history"
+    },
+    {
+      "paperId": "a5343d4c11456efdbefabf50ec8986cb4ca7625a",
+      "title": "Developments in statistical approaches to spatial uncertainty and its propagation"
+    },
+    {
+      "paperId": "83fc55554908b5f45d4e075daec2d6dbc31d1ff9",
+      "title": "Model uncertainty in cross-country growth regressions"
+    },
+    {
+      "paperId": "7a62c48187e926c895f7ff36d1f3c6d498f435ab",
+      "title": "Procedural annotation of uncertain information"
+    },
+    {
+      "paperId": "4cece3972628d0ce5384a5fe2ef5ceb964cba0d8",
+      "title": "Information Visualization: Perception for Design"
+    },
+    {
+      "paperId": "e66b37fd356f47f593755ad33d9ebffd69e22b2b",
+      "title": "Probabilistic Techniques in Exposure Assessment: A Handbook for Dealing with Variability and Uncertainty in Models and Inputs"
+    },
+    {
+      "paperId": "935096a7de14adc22ef5ff155129a6d4513f91f3",
+      "title": "Visual exploration of uncertainty in remote-sensing classification"
+    },
+    {
+      "paperId": "a25ced4ba1001a406df00a30bd05e9db0d5c49f9",
+      "title": "Uncertainty-based information: Elements of generalized information theory (studies in fuzziness and soft computing)."
+    },
+    {
+      "paperId": "8e30f02d667163ff52223efd57c0b48a0a9a7873",
+      "title": "Improvements on Cross-Validation: The 632+ Bootstrap Method"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "a513c767fd669818df6147e6726568263ce08358",
+      "title": "Approaches to uncertainty visualization"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "f89c70913c39be1b56445ccb5e11785eea010ec3",
+      "title": "VISUALIZING UNCERTAIN INFORMATION"
+    },
+    {
+      "paperId": "841c9c8f25b26b990938f1b24bd2a308bdabe5d4",
+      "title": "NCGIA Research Initiative 7 Visualization of Spatial Data Quality: Scientific Report for the Specialist Meeting (91-26)"
+    },
+    {
+      "paperId": "c58081eec27d282757efbb35b023d9c81c699a5e",
+      "title": "Trust Between Humans and Machines, and the Design of Decision Aids"
+    },
+    {
+      "paperId": "50d0956efba1532c370ef56f605dba5defffe91e",
+      "title": "Direct Manipulation: A Step Beyond Programming Languages"
+    },
+    {
+      "paperId": "ac3042751ea3c718e7f1e96d89c427431a4bee8a",
+      "title": "The Logic and Limits of Trust"
+    },
+    {
+      "paperId": "188022ac15cc7e9d375b5b019af8c6ff119f80a8",
+      "title": "Subjective Probability: A Judgment of Representativeness"
+    },
+    {
+      "paperId": "f08a6eab3653f9e404fe9a5d4471f4fb72958811",
+      "title": "Visual Analytics and Uncertainty: Its Not About the Data"
+    },
+    {
+      "paperId": "0a9f5b8223a1b78ef9c414cb7bf6bf95fc1f3c99",
+      "title": "Color and Uncertainty: It is not always Black and White"
+    },
+    {
+      "paperId": null,
+      "title": "Weibel . Visualizing the quality of cartographic data"
+    },
+    {
+      "paperId": "a15402513f444c2be1a2150f8cfbe46bb010d38b",
+      "title": "A Review of Uncertainty in Data Visualization"
+    },
+    {
+      "paperId": "4d998c40166334ecc7c1a93cc3c0936d1d379f04",
+      "title": "Usability of Spatio-Temporal Uncertainty Visualisation Methods"
+    },
+    {
+      "paperId": "d5526d24ac8dd900576ea7b310a4317339b53717",
+      "title": "Protocol Analysis"
+    },
+    {
+      "paperId": "fae9e39cd7c163625b8fb96607c7434719b4068b",
+      "title": "An Assessment and Categorisation of Quantitative Uncertainty Visualisation Methods for Geospatial Data"
+    },
+    {
+      "paperId": "c4aa20c129a4667b1cff1725d277648dd996d889",
+      "title": "Can we Trust Information ?-The Case of Volunteered Geographic Information"
+    },
+    {
+      "paperId": "62763659aeb742131ce3596e8a1063591da61266",
+      "title": "Capturing Reasoning Process through User Interaction"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": "54fc4cc47b1ca5ac51f2f4e28387b67ad4093962",
+      "title": "A comparative study of uncertainty propagation methods for black-box-type problems"
+    },
+    {
+      "paperId": "e759f0bdcbb26a1f895de136b4dd94eb20c05124",
+      "title": "Theoretical analysis and theory creation"
+    },
+    {
+      "paperId": null,
+      "title": "Reputation as tool to ensure validity of vgi"
+    },
+    {
+      "paperId": "6bd1011380a7a2b90c93bd28b7f3914191e70bd5",
+      "title": "The Visualization of Uncertain Data: Methods and Problems"
+    },
+    {
+      "paperId": "54c2b2f2a709f5c14d0f46265729a06e69f1955f",
+      "title": "A survey of data provenance techniques"
+    },
+    {
+      "paperId": "2e9a91c12d067f17b73896cfa455d6eaa0313353",
+      "title": "Beyond Tools: Visual Support for the Entire Process of GIScience"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "86b69472fea2e2b8462a3ca35ddd0b2f2ce72146",
+      "title": "Automating Linguistics-Based Cues for Detecting Deception in Text-Based Asynchronous Computer-Mediated Communications"
+    },
+    {
+      "paperId": "176aaeb5393b363e8a6e378aafb0fd3cb62f2c82",
+      "title": "Model Uncertainty"
+    },
+    {
+      "paperId": "2c8060a5c48f544cb507f9b6dbb62bf7d29a581d",
+      "title": "Visualisation of uncertainty using the HSI colour model : computations with colours"
+    },
+    {
+      "paperId": "c67ff56d0f5d252e80b48de917e3fc71e47d13a0",
+      "title": "Bayesian calibration of computer models"
+    },
+    {
+      "paperId": "6665886d12cf3f809b139d4a7a0c504e654f1123",
+      "title": "Visualizing Uncertainty in Geospatial Data"
+    },
+    {
+      "paperId": "e5372e8737c0d6ff537b01d57033f8b67c31e815",
+      "title": "Visualizing Uncertainty in Geo-spatial Data"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "4921335d6788ebb0c2476830634bbe0e27f9458b",
+      "title": "Uncertainty-Based Information"
+    },
+    {
+      "paperId": "cf61034f4ddf83826f55d4a57b011b3fd6e0a819",
+      "title": "Interface Design for Geographic Visualization: Tools for Representing Reliability"
+    },
+    {
+      "paperId": "60aea8a338428f68b54bf3d6279d5bb369810d33",
+      "title": "A PATTERN IDENTIFICATION APPROACH TO CARTOGRAPHIC VISUALIZATION"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization idioms: A conceptual model for scientific visualization systems"
+    },
+    {
+      "paperId": "66de365a8475968897dda4885472c36c5d5e524c",
+      "title": "Design of Everyday Things"
+    },
+    {
+      "paperId": "e96d38ebd7f68fb643b72e19d72cd77e5e7269be",
+      "title": "The Logic and Limits of Trust"
+    },
+    {
+      "paperId": "a5d6c9a198c1825406f48363fa382962acc94882",
+      "title": "Informing Science: the International Journal of an Emerging Transdiscipline Decision Confidence, Information Usefulness, and Information Seeking Intention in the Presence of Disconfirming Information"
+    },
+    {
+      "paperId": "c12da50e858db4482181cd0d3e0b6ffbf9e4a44a",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Selecting Good Views of High-dimensional Data Using Class Consistency"
+    },
+    {
+      "paperId": "3703462f6b503dd3e60b9d032593dc83355db61e",
+      "title": "Ieee Transactions on Visualization and Computer Graphics 1 Automated Analytical Methods to Support Visual Exploration of High-dimensional Data"
+    }
+  ]
+}

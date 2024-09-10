@@ -1,0 +1,60 @@
+{
+  "paperId": "bbf89818159bae3f47aa927e71302f61b62057ec",
+  "externalIds": {
+    "DBLP": "journals/tvcg/WenskovitchCRHL18",
+    "MAG": "2753396776",
+    "DOI": "10.1109/TVCG.2017.2745258",
+    "CorpusId": 28273842,
+    "PubMed": "28866581"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bbf89818159bae3f47aa927e71302f61b62057ec",
+  "title": "Towards a Systematic Combination of Dimension Reduction and Clustering in Visual Analytics",
+  "abstract": "Dimension reduction algorithms and clustering algorithms are both frequently used techniques in visual analytics. Both families of algorithms assist analysts in performing related tasks regarding the similarity of observations and finding groups in datasets. Though initially used independently, recent works have incorporated algorithms from each family into the same visualization systems. However, these algorithmic combinations are often ad hoc or disconnected, working independently and in parallel rather than integrating some degree of interdependence. A number of design decisions must be addressed when employing dimension reduction and clustering algorithms concurrently in a visualization system, including the selection of each algorithm, the order in which they are processed, and how to present and interact with the resulting projection. This paper contributes an overview of combining dimension reduction and clustering into a visualization system, discussing the challenges inherent in developing a visualization system that makes use of both families of algorithms.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2018,
+  "referenceCount": 0,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "131-141",
+    "volume": "24"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{None,\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {131-141},\n title = {Towards a Systematic Combination of Dimension Reduction and Clustering in Visual Analytics},\n volume = {24},\n year = {2018}\n}\n"
+  },
+  "authors": [],
+  "references": []
+}
