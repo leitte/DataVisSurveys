@@ -27,8 +27,8 @@ jobs:
     - name: Archive posts
       uses: actions/upload-artifact@v4
       with:
-        name: posts
-        path: posts
+        name: posts-artifact
+        path: posts/
   deploy-posts:
     runs-on: ubuntu-latest
     needs: create-posts
@@ -43,14 +43,14 @@ jobs:
     - name: Copy posts
       uses: actions/download-artifact@v4
       with:
-        name: posts
+        name: posts-artifact
         path: docs/_posts
     - name: Check for changes
       id: changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email {user.id}+{user.login}@users.noreply.github.com
-        git diff --quiet || echo "changes detected"
+        git diff --quiet || echo "changes_detected"
     - name: Commit and push changes
       if: success() && steps.changes.outputs.changes_detected == 'true'
       run: |
