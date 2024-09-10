@@ -1,0 +1,10 @@
+---
+layout: post
+excerpt_image: NO_EXCERPT_IMAGE
+title: "A Nested Model for Visualization Design and Validation"
+date: 2009-11-01
+authors: 
+venue: "IEEE Transactions on Visualization and Computer Graphics"
+doi: 10.1109/TVCG.2009.111
+---
+We present a nested model for the visualization design and validation with four layers: characterize the task and data in the vocabulary of the problem domain, abstract into operations and data types, design visual encoding and interaction techniques, and create algorithms to execute techniques efficiently. The output from a level above is input to the level below, bringing attention to the design challenge that an upstream error inevitably cascades to all downstream levels. This model provides prescriptive guidance for determining appropriate evaluation approaches by identifying threats to validity unique to each level. We also provide three recommendations motivated by this model: authors should distinguish between these levels when claiming contributions at more than one of them, authors should explicitly state upstream assumptions at levels above the focus of a paper, and visualization venues should accept more papers on domain characterization.

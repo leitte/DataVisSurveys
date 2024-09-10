@@ -1,0 +1,10 @@
+---
+layout: post
+excerpt_image: NO_EXCERPT_IMAGE
+title: "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
+date: 2019-01-01
+authors: D. Sacha, M. Kraus, D. Keim & M. Chen
+venue: "IEEE Transactions on Visualization and Computer Graphics"
+doi: 10.1109/TVCG.2018.2864838
+---
+While many VA workflows make use of machine-learned models to support analytical tasks, VA workflows have become increasingly important in understanding and improving Machine Learning (ML) processes. In this paper, we propose an ontology (VIS4ML) for a subarea of VA, namely “VA-assisted ML”. The purpose of VIS4ML is to describe and understand existing VA workflows used in ML as well as to detect gaps in ML processes and the potential of introducing advanced VA techniques to such processes. Ontologies have been widely used to map out the scope of a topic in biology, medicine, and many other disciplines. We adopt the scholarly methodologies for constructing VIS4ML, including the specification, conceptualization, formalization, implementation, and validation of ontologies. In particular, we reinterpret the traditional VA pipeline to encompass model-development workflows. We introduce necessary definitions, rules, syntaxes, and visual notations for formulating VIS4ML and make use of semantic web technologies for implementing it in the Web Ontology Language (OWL). VIS4ML captures the high-level knowledge about previous workflows where VA is used to assist in ML. It is consistent with the established VA concepts and will continue to evolve along with the future developments in VA and ML. While this ontology is an effort for building the theoretical foundation of VA, it can be used by practitioners in real-world applications to optimize model-development workflows by systematically examining the potential benefits that can be brought about by either machine or human capabilities. Meanwhile, VIS4ML is intended to be extensible and will continue to be updated to reflect future advancements in using VA for building high-quality data-analytical models or for building such models rapidly.
