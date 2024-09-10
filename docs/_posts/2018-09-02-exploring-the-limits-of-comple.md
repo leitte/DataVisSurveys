@@ -10,4 +10,4 @@ categories:
   - graph
   - survey
 ---
-
+For decades, researchers in information visualisation and graph drawing have focused on developing techniques for the layout and display of very large and complex networks. Experiments involving human participants have also explored the readability of different styles of layout and representations for such networks. In both bodies of literature, networks are frequently referred to as being ‘large’ or ‘complex’, yet these terms are relative. From a human-centred, experiment point-of-view, what constitutes ‘large’ (for example) depends on several factors, such as data complexity, visual complexity, and the technology used. In this paper, we survey the literature on human-centred experiments to understand how, in practice, different features and characteristics of node–link diagrams affect visual complexity.
