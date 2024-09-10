@@ -7,7 +7,7 @@ authors: S. Zhu, G. Sun, Q. Jiang, M. Zha & R. Liang
 venue: "Visual Informatics"
 doi: 10.1016/j.visinf.2020.07.002
 categories:
-  - survey
   - graph
+  - survey
 ---
 

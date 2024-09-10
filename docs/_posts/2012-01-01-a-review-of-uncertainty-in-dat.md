@@ -7,7 +7,7 @@ authors: K. Brodlie, R. S. A. Osorio & A. Lopes
 venue: "Expanding the Frontiers of Visual Analytics and Visualization"
 doi: 10.1007/978-1-4471-2804-5_6
 categories:
-  - uncertainty
   - review
+  - uncertainty
 ---
 

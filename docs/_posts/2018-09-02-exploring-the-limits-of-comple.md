@@ -7,7 +7,7 @@ authors: V. Yoghourdjian, D. Archambault, S. Diehl, T. Dwyer, K. Klein, H. Purch
 venue: "Visual Informatics"
 doi: 10.1016/J.VISINF.2018.12.006
 categories:
-  - survey
   - graph
+  - survey
 ---
 

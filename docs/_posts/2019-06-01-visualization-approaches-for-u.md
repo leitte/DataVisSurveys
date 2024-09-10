@@ -7,7 +7,7 @@ authors: Z. Vosough, D. Kammer, M. Keck & R. Groh
 venue: "Journal of Computer Languages"
 doi: 10.1016/J.COLA.2019.03.002
 categories:
-  - uncertainty
   - spatial data
+  - uncertainty
 ---
 
