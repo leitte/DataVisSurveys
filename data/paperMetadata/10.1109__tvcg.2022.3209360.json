@@ -1,0 +1,473 @@
+{
+  "paperId": "515bb785969354ccff8258f7001609db2392ba02",
+  "externalIds": {
+    "DBLP": "journals/tvcg/WuDCWLQ23",
+    "ArXiv": "2201.09772",
+    "DOI": "10.1109/TVCG.2022.3209360",
+    "CorpusId": 246240065,
+    "PubMed": "36179000"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/515bb785969354ccff8258f7001609db2392ba02",
+  "title": "In Defence of Visual Analytics Systems: Replies to Critics",
+  "abstract": "The last decade has witnessed many visual analytics (VA) systems that make successful applications to wide-ranging domains like urban analytics and explainable AI. However, their research rigor and contributions have been extensively challenged within the visualization community. We come in defence of VA systems by contributing two interview studies for gathering critics and responses to those criticisms. First, we interview 24 researchers to collect criticisms the review comments on their VA work. Through an iterative coding and refinement process, the interview feedback is summarized into a list of 36 common criticisms. Second, we interview 17 researchers to validate our list and collect their responses, thereby discussing implications for defending and improving the scientific values and rigor of VA systems. We highlight that the presented knowledge is deep, extensive, but also imperfect, provocative, and controversial, and thus recommend reading with an inclusive and critical eye. We hope our work can provide thoughts and foundations for conducting VA research and spark discussions to promote the research field forward more rigorously and vibrantly.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 95,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2201.09772",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Sociology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-01-24",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1026-1036",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wu2022InDO,\n author = {Aoyu Wu and Dazhen Deng and Furui Cheng and Yingcai Wu and Shixia Liu and Huamin Qu},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1026-1036},\n title = {In Defence of Visual Analytics Systems: Replies to Critics},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "66348205",
+      "name": "Aoyu Wu"
+    },
+    {
+      "authorId": "51213188",
+      "name": "Dazhen Deng"
+    },
+    {
+      "authorId": "79493779",
+      "name": "Furui Cheng"
+    },
+    {
+      "authorId": "121962020",
+      "name": "Yingcai Wu"
+    },
+    {
+      "authorId": "48641970",
+      "name": "Shixia Liu"
+    },
+    {
+      "authorId": "2064924230",
+      "name": "Huamin Qu"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "bb61eeca3359cc0de40c0b3dced1c57c7e7cf1ea",
+      "title": "Explaining with Examples Lessons Learned from Crowdsourced Introductory Description of Information Visualizations"
+    },
+    {
+      "paperId": "dd9221c5071e59200e2ea48e9319478a408fcf43",
+      "title": "MiningVis: Visual Analytics of the Bitcoin Mining Economy"
+    },
+    {
+      "paperId": "64d7a221556b67731f7707909ed581cabc88df6e",
+      "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse"
+    },
+    {
+      "paperId": "64c945e1f1f730c97bfc7dc9cd2babac9998f5c4",
+      "title": "E-ffective: A Visual Analytic System for Exploring the Emotion and Effectiveness of Inspirational Speeches"
+    },
+    {
+      "paperId": "83042afb64a9589899de4e5b39938dc682b2011d",
+      "title": "Where Can We Help? A Visual Analytics Approach to Diagnosing and Improving Semantic Segmentation of Movable Objects"
+    },
+    {
+      "paperId": "b8e1bb5fab2760c238c2e11de7c765392dc06fd5",
+      "title": "Gender in 30 Years of IEEE Visualization"
+    },
+    {
+      "paperId": "a181d24c3629c1815be117b44dd2c2f630f5e1c6",
+      "title": "IRVINE: A Design Study on Analyzing Correlation Patterns of Electrical Engines"
+    },
+    {
+      "paperId": "773d84dd22fe191dd2d1760df361db307f78e232",
+      "title": "Interactive Visual Pattern Search on Graph Data via Graph Representation Learning"
+    },
+    {
+      "paperId": "61c599dcbea48b383712ce29ff97af26183fb5a4",
+      "title": "matExplorer: Visual Exploration on Predicting Ionic Conductivity for Solid-state Electrolytes"
+    },
+    {
+      "paperId": "138643076fa3765604b93df051139b58f94668e5",
+      "title": "VideoModerator: A Risk-aware Framework for Multimodal Video Moderation in E-Commerce"
+    },
+    {
+      "paperId": "5a4d66f718964c39b62e1661ba05a741889a1dca",
+      "title": "NeuroCartography: Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks"
+    },
+    {
+      "paperId": "7038b12e06a18fcbc079b68895e5ba4cccb44119",
+      "title": "Understanding Data Visualization Design Practice"
+    },
+    {
+      "paperId": "deff3dfea871ae5d948fe04aa482c953faf61c5d",
+      "title": "VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics"
+    },
+    {
+      "paperId": "1475e2f3084c05587c4004716031363281ad6c27",
+      "title": "Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers"
+    },
+    {
+      "paperId": "9f931edd7395043a2992830679d46db86fd1e46c",
+      "title": "Lumos: Increasing Awareness of Analytic Behavior during Visual Data Analysis"
+    },
+    {
+      "paperId": "e30a6f7cf79517e84f796600cb17e0811b0c0558",
+      "title": "Real-Time Visual Analysis of High-Volume Social Media Posts"
+    },
+    {
+      "paperId": "56fc23a8591ab7039a998ca07c6f4c891700d251",
+      "title": "THALIS: Human-Machine Analysis of Longitudinal Symptoms in Cancer Therapy"
+    },
+    {
+      "paperId": "524c900caff1e16a1f0944446e533fdebf7a1ec1",
+      "title": "VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Models"
+    },
+    {
+      "paperId": "0746153f09154d1a4d778a803eb2c2168e56132d",
+      "title": "KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation"
+    },
+    {
+      "paperId": "d7b8014c2a348a631ed466c6fba3825330b2f195",
+      "title": "M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis"
+    },
+    {
+      "paperId": "a0593d33c973b424e8167e6260054172ef0dfb33",
+      "title": "MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "e0bec79f0a822a761d2239056e00b31333c909b0",
+      "title": "Loon: Using Exemplars to Visualize Large-Scale Microscopy Data"
+    },
+    {
+      "paperId": "4b4c81bb2abb048dede7816ee3c8f0da80d618ca",
+      "title": "ThreadStates: State-based Visual Analysis of Disease Progression"
+    },
+    {
+      "paperId": "11993832e79b684e2c2c7f2cf1d20a3b9286629b",
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics"
+    },
+    {
+      "paperId": "fe44f4471e0e774bf173c03697e85843a886ed33",
+      "title": "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
+    },
+    {
+      "paperId": "9cb2877a74a51ee9f7d757ab87d3182e1f1322ad",
+      "title": "Learning to Automate Chart Layout Configurations Using Crowdsourced Paired Comparison"
+    },
+    {
+      "paperId": "7699389c6d4c94e578f3fe8f2fec0974fe39eb4e",
+      "title": "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
+    },
+    {
+      "paperId": "1d926855fe85771932393dafa1ba6f5342233cfd",
+      "title": "Data-First Visualization Design Studies"
+    },
+    {
+      "paperId": "e91de3c57f352dcdb314fc0c9c1ee4414eff15cc",
+      "title": "Exploring Reproducibility in Visualization"
+    },
+    {
+      "paperId": "855ead416697e84a586631b63b8c2a86a2bcb780",
+      "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "6a972409645c7b66e592c787e83fa0692a0746a8",
+      "title": "VIS30K: A Collection of Figures and Tables From IEEE Visualization Conference Publications"
+    },
+    {
+      "paperId": "fe515deb0a82ef97960ccee3ef32ea212271244e",
+      "title": "Design Study \"Lite\" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good"
+    },
+    {
+      "paperId": "0111233df5706d338aceab3b17d0293e9c291e6b",
+      "title": "EmotionCues: Emotion-Oriented Visual Summarization of Classroom Videos"
+    },
+    {
+      "paperId": "c0ec6c0548a3b754d0e750702b58fe15ddcf525f",
+      "title": "Understanding the Role of Alternatives in Data Analysis Practices"
+    },
+    {
+      "paperId": "1f6b71f88bc53093e4a58bd17ed5b0f075a67084",
+      "title": "Constructing Spaces and Times for Tactical Analysis in Football"
+    },
+    {
+      "paperId": "8edadbefe9b7e515ab9cea1304e9b9fbd4e61818",
+      "title": "The Curse of Knowledge in Visual Data Communication"
+    },
+    {
+      "paperId": "1269756c084a8f48f7ddce1682633e158b9d6a71",
+      "title": "Why Visualize? Untangling a Large Network of Arguments"
+    },
+    {
+      "paperId": "dee4bbb446810c7bf8620ada208eb1a032112adf",
+      "title": "Design by Immersion: A Transdisciplinary Approach to Problem-Driven Visualizations"
+    },
+    {
+      "paperId": "1862194d5a5be5a424c66ac0d0450c4d4f47d500",
+      "title": "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics"
+    },
+    {
+      "paperId": "49a47dcf875c8d76b0fd592eda1c3cdad8fe2087",
+      "title": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "paperId": "07568eed2ebda4cc5d8cda27632434c02bcd5a44",
+      "title": "Criteria for Rigor in Visualization Design Study"
+    },
+    {
+      "paperId": "e5166997957a19044aa7cc0d48413d2eda4e15e4",
+      "title": "Broadening Intellectual Diversity in Visualization Research Papers"
+    },
+    {
+      "paperId": "74ea2bacd1494110a4c40d17697d03244b1420f1",
+      "title": "An Ontological Framework for Supporting the Design and Evaluation of Visual Analytics Systems"
+    },
+    {
+      "paperId": "78037b8a758df9a066bb8ec71ba37cd7e2269de0",
+      "title": "VIS Author Profiles: Interactive Descriptions of Publication Records Combining Text and Visualization"
+    },
+    {
+      "paperId": "e9a9a7c6441e3f035efa651b17bb90d90b9bc5df",
+      "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer"
+    },
+    {
+      "paperId": "b0c9e5aec967b4f8a4afc5c52dee142651809697",
+      "title": "Reflection on Reflection in Applied Visualization Research"
+    },
+    {
+      "paperId": "a9b57247bfb912fa8919e8d87b68e09ad81d418a",
+      "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "9d7a5c1b30287666109d2bf33cf59cb98543bdb5",
+      "title": "Apply or Die: On the Role and Assessment of Application Papers in Visualization"
+    },
+    {
+      "paperId": "1701b1dcfcf93e320a4f98daf8551f94a54cf04d",
+      "title": "Design Study Contributions Come in Different Guises: Seven Guiding Scenarios"
+    },
+    {
+      "paperId": "4f8a99d529efb520f65eca47e401f953178f1bf4",
+      "title": "The Curse of Expertise: When More Knowledge Leads to Miscalibrated Explanatory Insight"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "9c997e8b403c5ea902246be61b0be0c57b0d551d",
+      "title": "Validity, reliability, and generalizability in qualitative research"
+    },
+    {
+      "paperId": "b8930022e174935cc3b307fee26e5b9a59400375",
+      "title": "Design Activity Framework for Visualization Design"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "3c7b2c5174cc338a60ac892ba721c3bb9f5ffac2",
+      "title": "Evaluation of visual analytics environments: The road to the Visual Analytics Science and Technology challenge evaluation methodology"
+    },
+    {
+      "paperId": "7c82f42b67532a860f03354d7d1d60cc7a109ef6",
+      "title": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "b7c895d487c60290420a70502fe142c43014b5e6",
+      "title": "Big-Data Visualization"
+    },
+    {
+      "paperId": "97c26eb48666594aee02827badf49eb737e0799c",
+      "title": "What is Visualization Really for?"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "86da62682d256951735c5dab4139c42a3cdea10a",
+      "title": "Developing guidelines for assessing visual analytics environments"
+    },
+    {
+      "paperId": "cb193deea212c00ff7429bb8cfc7e701343a3b04",
+      "title": "Achievements and challenges in software reverse engineering"
+    },
+    {
+      "paperId": "cca8f1a6bb6057cf5c13a2bce63136393b8645c2",
+      "title": "Scale and Complexity in Visual Analytics"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "bc6dff14a130c57a91d5a21339c23471faf1d46f",
+      "title": "Et al"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "28d63b0a44ad4fa462795137c67175decd9bf160",
+      "title": "Evaluating Information Visualizations"
+    },
+    {
+      "paperId": "785e3bcd1dcc286ad3216621acf56f7c28f65eec",
+      "title": "Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+      "paperId": "e6fb078e9cb47691f57efad87b9a530047a6ab96",
+      "title": "A survey of coverage based testing tools"
+    },
+    {
+      "paperId": "9ff1b2d73fcf4899fe32725efb98a9160d7e5f18",
+      "title": "The Unified Modeling Language User Guide"
+    },
+    {
+      "paperId": "ea5c41458d102e108613687484635a5886f87244",
+      "title": "Software unit test coverage and adequacy"
+    },
+    {
+      "paperId": "5d93846ca4b7ffa1838b2a8d3cd77bdc7249e828",
+      "title": "On Validity"
+    },
+    {
+      "paperId": "29b1f96fa5b2e1ca7273d4e4ae1c37a4c56150a1",
+      "title": "Validity"
+    },
+    {
+      "paperId": "549e56eef69522a288c42c01cb1f0e9344a112d5",
+      "title": "VisImages: A Corpus of Visualizations in the Images of Visualization Publications"
+    },
+    {
+      "paperId": null,
+      "title": "and 1036 IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS"
+    },
+    {
+      "paperId": "d20bf7aab7512ca164a03fe35991058676036f9e",
+      "title": "Big Data Visualization and Analytics: Future Research Challenges and Emerging Applications"
+    },
+    {
+      "paperId": "f2d84a169bd03ad6f32b0d4d0ddde6ec3ef35b9f",
+      "title": "Mistakes Reviewers Make"
+    },
+    {
+      "paperId": null,
+      "title": "Beyond paper types: How to evaluate and communicate vis research"
+    },
+    {
+      "paperId": "031b4611d3f56fa2e6704ba7f1a57be9a9a9a235",
+      "title": "Bridging from Goals to Tasks with Design Study Analysis Reports"
+    },
+    {
+      "paperId": "7e0ead3d4149f0c5c0c27b429ebc8424ef981472",
+      "title": "Challenges for Visual Analytics"
+    },
+    {
+      "paperId": "590b1b9ed44afb2df6d102139cfb5f5e0c31f1dc",
+      "title": "Pathways for Theoretical Advances in Visualization"
+    },
+    {
+      "paperId": "719e2d717c4954b058a32c609b8171319299f8fb",
+      "title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "paperId": "5782b23f0cd6f2c39607ef8699aa773c0489b9aa",
+      "title": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "paperId": "3295ee441c3500db7208346acc861216a456e4c4",
+      "title": "Usability Engineering"
+    },
+    {
+      "paperId": "3d2218b17e7898a222e5fc2079a3f1531990708f",
+      "title": "I and J"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "title": "Visualizing Data using t-SNE"
+    },
+    {
+      "paperId": null,
+      "title": "Tips for being a good visualization paper reviewer"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+  "externalIds": {
+    "MAG": "2093772787",
+    "DBLP": "conf/visualization/WehrendL90",
+    "DOI": "10.1109/VISUAL.1990.146375",
+    "CorpusId": 22529699
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/6d7a058a1be288de36a2c462b902506b320f5034",
+  "title": "A problem-oriented classification of visualization techniques",
+  "abstract": "Progress in scientific visualization could be accelerated if workers could more readily find visualization techniques relevant to a given problem. The authors describe an approach to this problem, based on a classification of visualization techniques, that is independent of particular application domains. A user breaks up a problem into subproblems, describes these subproblems in terms of the objects to be represented and the operations to be supported by a representation, locates applicable visualization techniques in a catalog, and combines these representations into a composite representation for the original problem. The catalog and its underlying classification provide a way for workers in different application disciplines to share methods.<<ETX>>",
+  "venue": "Proceedings of the First IEEE Conference on Visualization: Visualization `90",
+  "year": 1990,
+  "referenceCount": 7,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "publicationDate": "1990-10-23",
+  "journal": {
+    "name": "Proceedings of the First IEEE Conference on Visualization: Visualization `90",
+    "pages": "139-143"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Wehrend1990APC,\n author = {Stephen Wehrend and C. Lewis},\n booktitle = {Proceedings of the First IEEE Conference on Visualization: Visualization `90},\n journal = {Proceedings of the First IEEE Conference on Visualization: Visualization `90},\n pages = {139-143},\n title = {A problem-oriented classification of visualization techniques},\n year = {1990}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1890288",
+      "name": "Stephen Wehrend"
+    },
+    {
+      "authorId": "145961032",
+      "name": "C. Lewis"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "f03eb469a1c83d97559960f8c4509423e4481b68",
+      "title": "Automating the design of graphical presentations of relational information"
+    },
+    {
+      "paperId": "65b7ed4766c4baa73323acdf10b4d92a126fc6c6",
+      "title": "Expressiveness and Language Choice"
+    },
+    {
+      "paperId": "a511ece962015019c36e7d66626ecb9cf7256ddf",
+      "title": "Visual Languages and Visual Programming"
+    },
+    {
+      "paperId": null,
+      "title": "A categorization of scientific visualization techniques"
+    },
+    {
+      "paperId": "e3d3bf0f1bb395776c6e28e162609873a644464a",
+      "title": "Foundations of measurement"
+    },
+    {
+      "paperId": null,
+      "title": "Building customized diagramming languages"
+    }
+  ]
+}

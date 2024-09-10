@@ -1,0 +1,128 @@
+{
+  "paperId": "4d50c9641a2af66e07a101b9aca1c901e3997805",
+  "externalIds": {
+    "DBLP": "conf/ieeevast/AndrienkoA08",
+    "MAG": "2069469539",
+    "DOI": "10.1109/VAST.2008.4677356",
+    "CorpusId": 18499092
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/4d50c9641a2af66e07a101b9aca1c901e3997805",
+  "title": "Spatio-temporal aggregation for visual analysis of movements",
+  "abstract": "Data about movements of various objects are collected in growing amounts by means of current tracking technologies. Traditional approaches to visualization and interactive exploration of movement data cannot cope with data of such sizes. In this research paper we investigate the ways of using aggregation for visual analysis of movement data. We define aggregation methods suitable for movement data and find visualization and interaction techniques to represent results of aggregations and enable comprehensive exploration of the data. We consider two possible views of movement, traffic-oriented and trajectory-oriented. Each view requires different methods of analysis and of data aggregation. We illustrate our argument with example data resulting from tracking multiple cars in Milan and example analysis tasks from the domain of city traffic management.",
+  "venue": "2008 IEEE Symposium on Visual Analytics Science and Technology",
+  "year": 2008,
+  "referenceCount": 18,
+  "openAccessPdf": {
+    "url": "http://publica.fraunhofer.de/bitstreams/df469aa3-3f92-42dc-9817-2b17ad652716/download",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2008-11-18",
+  "journal": {
+    "name": "2008 IEEE Symposium on Visual Analytics Science and Technology",
+    "pages": "51-58"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Andrienko2008SpatiotemporalAF,\n author = {G. Andrienko and N. Andrienko},\n booktitle = {2008 IEEE Symposium on Visual Analytics Science and Technology},\n journal = {2008 IEEE Symposium on Visual Analytics Science and Technology},\n pages = {51-58},\n title = {Spatio-temporal aggregation for visual analysis of movements},\n year = {2008}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "50663909",
+      "name": "G. Andrienko"
+    },
+    {
+      "authorId": "1780833",
+      "name": "N. Andrienko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1208d09d8a28867b0712ab5fc623fddf3a930fdb",
+      "title": "Visually driven analysis of movement data by progressive clustering"
+    },
+    {
+      "paperId": "427dff19514343af8a55482cbf0f6969015dff2e",
+      "title": "Using treemaps for variable selection in spatio-temporal visualisation"
+    },
+    {
+      "paperId": "7cb511dca30193ec8aa2657d0ae4d569b0412177",
+      "title": "Traffic mining in a road-network: How does the traffic flow?"
+    },
+    {
+      "paperId": "24170ddd15f6d0ad1b5d15fe9fcea2d4309c4d8b",
+      "title": "Visual analytics tools for analysis of movement data"
+    },
+    {
+      "paperId": "66975386bc8a1822059a87fc10cc891f91c4a4d6",
+      "title": "Designing Visual Analytics Methods for Massive Collections of Movement Data"
+    },
+    {
+      "paperId": "0b803b837f084579de9d6a19979e50834ed1f68b",
+      "title": "A Visualization System for Space-Time and Multivariate Patterns (VIS-STAMP)"
+    },
+    {
+      "paperId": "b44d91a466ab86afa175ec06573a2bdc1e5af8c1",
+      "title": "Seeking structure in records of spatio-temporal behaviour: visualization issues, efforts and applications"
+    },
+    {
+      "paperId": "852b52037241179d7c0c10d1fe569730d6d1ca0f",
+      "title": "Temporal, geographical and categorical aggregations viewed through coordinated displays: a case study with highway incident data"
+    },
+    {
+      "paperId": "0d2d0c959674f9ca6dc623cd98a3469f97075242",
+      "title": "Tree visualization with tree-maps: 2-d space-filling approach"
+    },
+    {
+      "paperId": "0ea33341d346bd1720b263d337b6ae1ba0e0d408",
+      "title": "Tourism in New Zealand"
+    },
+    {
+      "paperId": "a16794d97ca1b76c57df590858541ceff633b938",
+      "title": "Exploration of Massive Movement Data: a Visual Analytics Approach"
+    },
+    {
+      "paperId": "b0ad80588a9da938a1daed8b30129359b5754e2e",
+      "title": "Basic Concepts of Movement Data"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "3c8cc28309c486d1941ad7274d23139b5127bfe3",
+      "title": "Visualizing, Querying and Summarizing Individual Spatio-Temporal Behaviour"
+    },
+    {
+      "paperId": null,
+      "title": "Display and Analysis of Migration Tables"
+    },
+    {
+      "paperId": "27a3c439f8c27b50727f3a233d5f72c0a18d70f8",
+      "title": "Space, Time and Sequencing: Substitution at the Physical/ Virtual Interface"
+    },
+    {
+      "paperId": "58f8f9201c05469937d71a5522c1c4f0f1c29504",
+      "title": "Tourism in New Zealand: International visitors on the move"
+    },
+    {
+      "paperId": "2fee31a8dbb41fd16dcbb927ad2bf63512eeb8ba",
+      "title": "Experiments In Migration Mapping By Computer"
+    }
+  ]
+}

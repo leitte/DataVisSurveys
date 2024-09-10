@@ -1,0 +1,701 @@
+{
+  "paperId": "464f0aa6d7867646f1237257f87bb08dc222954f",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2308-07703",
+    "ArXiv": "2308.07703",
+    "DOI": "10.1109/TVCG.2023.3327378",
+    "CorpusId": 260900382,
+    "PubMed": "37934634"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/464f0aa6d7867646f1237257f87bb08dc222954f",
+  "title": "Challenges and Opportunities in Data Visualization Education: A Call to Action",
+  "abstract": "This paper is a call to action for research and discussion on data visualization education. As visualization evolves and spreads through our professional and personal lives, we need to understand how to support and empower a broad and diverse community of learners in visualization. Data Visualization is a diverse and dynamic discipline that combines knowledge from different fields, is tailored to suit diverse audiences and contexts, and frequently incorporates tacit knowledge. This complex nature leads to a series of interrelated challenges for data visualization education. Driven by a lack of consolidated knowledge, overview, and orientation for visualization education, the 21 authors of this paper\u2014educators and researchers in data visualization\u2014identify and describe 19 challenges informed by our collective practical experience. We organize these challenges around seven themes People, Goals & Assessment, Environment, Motivation, Methods, Materials, and Change. Across these themes, we formulate 43 research questions to address these challenges. As part of our call to action, we then conclude with 5 cross-cutting opportunities and respective action items: embrace DIVERSITY+INCLUSION, build COMMUNITIES, conduct RESEARCH, act AGILE, and relish RESPONSIBILITY. We aim to inspire researchers, educators and learners to drive visualization education forward and discuss why, how, who and where we educate, as we learn to use visualization to address challenges across many scales and many domains in a rapidly changing world: viseducationchallenges.github.io.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 137,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2308.07703.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-08-15",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "649-660",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Bach2023ChallengesAO,\n author = {B. Bach and Mandy Keck and Fateme Rajabiyazdi and Tatiana Losev and Isabel Meirelles and J. Dykes and R. Laramee and Mashael AlKadi and C. Stoiber and Samuel Huron and Charles Perin and Luiz Morais and W. Aigner and Doris Kosminsky and Magdalena Boucher and S. Knudsen and A. Manataki and J. Aerts and Uta Hinrichs and J. C. Roberts and Sheelagh Carpendale},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {649-660},\n title = {Challenges and Opportunities in Data Visualization Education: A Call to Action},\n volume = {30},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1666563942",
+      "name": "B. Bach"
+    },
+    {
+      "authorId": "4537902",
+      "name": "Mandy Keck"
+    },
+    {
+      "authorId": "2643794",
+      "name": "Fateme Rajabiyazdi"
+    },
+    {
+      "authorId": "2104753100",
+      "name": "Tatiana Losev"
+    },
+    {
+      "authorId": "2936086",
+      "name": "Isabel Meirelles"
+    },
+    {
+      "authorId": "144601540",
+      "name": "J. Dykes"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "2186178742",
+      "name": "Mashael AlKadi"
+    },
+    {
+      "authorId": "51259832",
+      "name": "C. Stoiber"
+    },
+    {
+      "authorId": "1813823",
+      "name": "Samuel Huron"
+    },
+    {
+      "authorId": "35221881",
+      "name": "Charles Perin"
+    },
+    {
+      "authorId": "69964035",
+      "name": "Luiz Morais"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    },
+    {
+      "authorId": "2384475",
+      "name": "Doris Kosminsky"
+    },
+    {
+      "authorId": "2049424393",
+      "name": "Magdalena Boucher"
+    },
+    {
+      "authorId": "144200535",
+      "name": "S. Knudsen"
+    },
+    {
+      "authorId": "2386614",
+      "name": "A. Manataki"
+    },
+    {
+      "authorId": "47327032",
+      "name": "J. Aerts"
+    },
+    {
+      "authorId": "2942092",
+      "name": "Uta Hinrichs"
+    },
+    {
+      "authorId": "2107418478",
+      "name": "J. C. Roberts"
+    },
+    {
+      "authorId": "96301418",
+      "name": "Sheelagh Carpendale"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2f609099c16f84861bb18bdedf784d13d9610cc1",
+      "title": "Climate Change 2022 \u2013 Impacts, Adaptation and Vulnerability"
+    },
+    {
+      "paperId": "182ff9b860b1113651798d6a925a6da4cda312d8",
+      "title": "CALVI: Critical Thinking Assessment for Literacy in Visualizations"
+    },
+    {
+      "paperId": "afed305e59e6a89784c7ca56338a5e51b9d1cf55",
+      "title": "Mini\u2010VLAT: A Short and Effective Measure of Visualization Literacy"
+    },
+    {
+      "paperId": "3c45b799aec4aa741787177eb3662eaf49578c49",
+      "title": "EduVis: Workshop on Visualization Education, Literacy, and Activities"
+    },
+    {
+      "paperId": "6a65e11ea6c8c6484c41257a4aface24a799a754",
+      "title": "Visualization Resources: A Survey"
+    },
+    {
+      "paperId": "47080ca60b3165e83eca8579338713c953dcc191",
+      "title": "Embracing Disciplinary Diversity in Visualization"
+    },
+    {
+      "paperId": "904214db8f7dee2524c114d4427b6f52633fbe91",
+      "title": "KiriPhys: Exploring New Data Physicalization Opportunities"
+    },
+    {
+      "paperId": "5b45b80621b087663122538ff44e5bdb23706005",
+      "title": "Understanding Barriers to Network Exploration with Visualization: A Report from the Trenches"
+    },
+    {
+      "paperId": "b5db8464d02f0427c050619716837f9fec578ac6",
+      "title": "Reflections and Considerations on Running Creative Visualization Learning Activities"
+    },
+    {
+      "paperId": "6f63179ff6b5ce96debb8d5fbbe951be599b0d53",
+      "title": "Roboviz: A Game-Centered Project for Information Visualization Education"
+    },
+    {
+      "paperId": "4df8705f0b6dabb472bd1cefcab7250faae6fc02",
+      "title": "Affective Learning Objectives for Communicative Visualizations"
+    },
+    {
+      "paperId": "5976ce55527ff28de15c0f8cbdf77633ad997667",
+      "title": "Dashboard Design Patterns"
+    },
+    {
+      "paperId": "a0e72ff7d3612a1b48bd1e0cea52257e50d1ddf3",
+      "title": "Grand Theories or Design Guidelines? Perspectives on the Role of Theory in Computing Education Research"
+    },
+    {
+      "paperId": "b7fb013c81a05bddc9e30fce231582096cf49c7b",
+      "title": "Exploring Uncertainty in Digital Scheduling, and The Wider Implications of Unrepresented Temporalities in HCI"
+    },
+    {
+      "paperId": "9c8f76f66690ac22c42db4b6f2319b9e16c0fe09",
+      "title": "Interactive visualization literacy: The state-of-the-art"
+    },
+    {
+      "paperId": "b838b5102a35a87cecac8e34fbc33a9cc62d3500",
+      "title": "Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health"
+    },
+    {
+      "paperId": "09e526de2808c193bb157fd84d3d15a34bc29406",
+      "title": "Special Issue on Visualization Teaching and Literacy"
+    },
+    {
+      "paperId": "77973c238788ed4e3b4b860ebdc609da7dd9bfdf",
+      "title": "Experience of Teaching Data Visualization using Project-based Learning"
+    },
+    {
+      "paperId": "eaf1a3125a11ad27db42dc46d9e0d3431bf318a7",
+      "title": "A Taxonomy-Driven Model for Designing Educational Games in Visualization"
+    },
+    {
+      "paperId": "a0002c3a6111b78cc8cb8a73f2981f11f8148e15",
+      "title": "A Didactic Framework for Analyzing Learning Activities to Design InfoVis Courses"
+    },
+    {
+      "paperId": "92242d3e02ea2a268551c9cf78db53945d02f7b0",
+      "title": "Remote Instruction for Data Visualization Design\u2014A Report From the Trenches"
+    },
+    {
+      "paperId": "45412ab1397b6109c02a7caf29ea9dbf53cc6f08",
+      "title": "Activity Worksheets for Teaching and Learning Data Visualization"
+    },
+    {
+      "paperId": "a81445e8098448926f4fd3e4a0f1b5dd09deaa6d",
+      "title": "What Students Learn With Personal Data Physicalization"
+    },
+    {
+      "paperId": "cfa1153a412b77524a45f945c8d6cf83ad0697ad",
+      "title": "Visualization Design Sprints for Online and On-Campus Courses"
+    },
+    {
+      "paperId": "d9968a31d40ef125072328b44d75505e9e6d384b",
+      "title": "EXPLORING FIRST YEAR UNIVERSITY STUDENTS\u2019 STATISTICAL LITERACY: A CASE ON DESCRIBING AND VISUALIZING DATA"
+    },
+    {
+      "paperId": "7038b12e06a18fcbc079b68895e5ba4cccb44119",
+      "title": "Understanding Data Visualization Design Practice"
+    },
+    {
+      "paperId": "c94fa5ea111846f4212836ca507f278569f8791e",
+      "title": "Through the Looking Glass: Insights Into Visualization Pedagogy Through Sentiment Analysis of Peer Review Text"
+    },
+    {
+      "paperId": "68c8f7682b002e5a47ffe2f31362ec631c96e4df",
+      "title": "Towards Culturally Relevant Personalization at Scale: Experiments with Data Science Learners"
+    },
+    {
+      "paperId": "155dd39fbe3129a972cea05f895859085d720a91",
+      "title": "Grand Challenges in Immersive Analytics"
+    },
+    {
+      "paperId": "6ca36de54626bd3492f3dd94ee6fab1b00a167c9",
+      "title": "The Case for Data Visualization in the Art Classroom"
+    },
+    {
+      "paperId": "acbeada51f9beb8fbe3bfa46a89c76b6eba8b71f",
+      "title": "Interleaving Computational and Inferential Thinking: Data Science for Undergraduates at Berkeley"
+    },
+    {
+      "paperId": "cdefd1cc2e6392b9b1333dfa377d162679f8d853",
+      "title": "Leveraging Peer Review in Visualization Education: A Proposal for a New Model"
+    },
+    {
+      "paperId": "c2f1f27801498f2b4c4ad3439cd8afe60df1251e",
+      "title": "Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments"
+    },
+    {
+      "paperId": "9440eb1df2fa38643e26eee9cbe2eba57f1d5e32",
+      "title": "13. Data visualization literacy: A feminist starting point"
+    },
+    {
+      "paperId": "a200eae1ba5b66be48ee296b522ac76ef89be7d6",
+      "title": "Literature Review on Work-Based Learning"
+    },
+    {
+      "paperId": "65e6c78fd53ebf07a6b44bfb34284d90b7481d66",
+      "title": "Learning with large, complex data and visualizations: youth data wrangling in modeling family migration"
+    },
+    {
+      "paperId": "342536c7d1d0369dff1e5e0f1d5876a8dc63042c",
+      "title": "Lyra 2: Designing Interactive Visualizations by Demonstration"
+    },
+    {
+      "paperId": "ebe9b34dbbc15da1254b582895e883e0edc39b8e",
+      "title": "What more than a hundred project groups reveal about teaching visualization"
+    },
+    {
+      "paperId": "5e0a659418aeb21ef34e0220f06ada4846769713",
+      "title": "Teachers' capacity to create inclusive learning environments"
+    },
+    {
+      "paperId": "2247b3cb46f3b434c8018fdf71ec8c9f780d7239",
+      "title": "Dziban: Balancing Agency & Automation in Visualization Design via Anchored Recommendations"
+    },
+    {
+      "paperId": "fe515deb0a82ef97960ccee3ef32ea212271244e",
+      "title": "Design Study \"Lite\" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good"
+    },
+    {
+      "paperId": "0526ef6bcc9d42c4b5d2a901b662bf70664235de",
+      "title": "Cheat Sheets for Data Visualization Techniques"
+    },
+    {
+      "paperId": "5304bc037914249a04dd12b477ea5b35ff93751f",
+      "title": "Construct-A-Vis: Exploring the Free-Form Visualization Processes of Children"
+    },
+    {
+      "paperId": "9cd6cfc3099aa486a0cc1ba90665205d62a2dc8d",
+      "title": "Inclusivity for visualization education: a brief History, investigation, and guidelines"
+    },
+    {
+      "paperId": "0bd2aecd16e07de5734f10817426dffc07573d77",
+      "title": "Empowering learners with personalised learning approaches? Agency, equity and transparency in the context of learning analytics"
+    },
+    {
+      "paperId": "1d14acd52b03a472eea04bbd1f9d1552bf6c5399",
+      "title": "Experience and education"
+    },
+    {
+      "paperId": "2f1e7e9196749646728bfcc5dbc62877b6ef5d2f",
+      "title": "Investigating Direct Manipulation of Graphical Encodings as a Method for User Interaction"
+    },
+    {
+      "paperId": "dee4bbb446810c7bf8620ada208eb1a032112adf",
+      "title": "Design by Immersion: A Transdisciplinary Approach to Problem-Driven Visualizations"
+    },
+    {
+      "paperId": "18417a253f333a17bac4f91b7273958c71eeeceb",
+      "title": "Teaching Data Visualization and Storytelling with Data Comic Workshops"
+    },
+    {
+      "paperId": "1bcdaaa039ea4a02d5837d3b7246498e21c6c862",
+      "title": "Teaching Data Visualization as a Skill"
+    },
+    {
+      "paperId": "de3e554526084fdc42aaf5c4dd8e8b7bd37c1ebd",
+      "title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"
+    },
+    {
+      "paperId": "aec9d604a09d519d54132f1edd367393e5eff2f6",
+      "title": "Exploration Strategies for Discovery of Interactivity in Visualizations"
+    },
+    {
+      "paperId": "e4d1197b051de8724a1fe53dcb72eaf65538d8e8",
+      "title": "Diversity management at the tertiary level: an attempt to extend existing paradigms"
+    },
+    {
+      "paperId": "35f6af6839f15c0ec2efdff28345aeee220119c2",
+      "title": "Supporting Data Science in the Statistics Curriculum"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "8db0faf2764f8b578c5d702989d437ff8bea9f14",
+      "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco"
+    },
+    {
+      "paperId": "40c603f0e8b114262d774fb5d4f42c22ccb63647",
+      "title": "Ethnography for a data-saturated world"
+    },
+    {
+      "paperId": "e6cbac27697559d441636c7a03bfe6a3f623ab61",
+      "title": "A Framework for Creative Visualization-Opportunities Workshops"
+    },
+    {
+      "paperId": "0c5e4af3e0cadad553bc9103c3d1cdadb7e77449",
+      "title": "VisGuides: A Forum for Discussing Visualization Guidelines"
+    },
+    {
+      "paperId": "49e2bbc3e5fb62d38c83083079314cb34cfc4bf5",
+      "title": "Observations and Reflections on Visualization Literacy in Elementary School"
+    },
+    {
+      "paperId": "74de92aa4f74a305ba7ab965fe4fd9ba1bdfde76",
+      "title": "Towards Open-World Scenarios: Teaching the Social Side of Data Science"
+    },
+    {
+      "paperId": "819c78732731337860f54b08fb19cb38858733b8",
+      "title": "Data Analysis and Data Visualization as Active Learning in Political Science"
+    },
+    {
+      "paperId": "452c844dff804f04004efd5ad63ddb59fb6bd21c",
+      "title": "On the Challenges and Opportunities in Visualization for Machine Learning and Knowledge Extraction: A Research Agenda"
+    },
+    {
+      "paperId": "e94c7bf8944b625c7e2f0b439a6ab068c21cc658",
+      "title": "Objectives, Competencies and Learning Outcomes: Developing Instructional Materials in Open and Distance Learning"
+    },
+    {
+      "paperId": "feebcd1b2648c71e354b8e9fd24c45986511293e",
+      "title": "Let's Get Physical: Promoting Data Physicalization in Workshop Formats"
+    },
+    {
+      "paperId": "283c74e73f039e2276773d11f2159d2a3fed99fa",
+      "title": "Visualization Literacy at Elementary School"
+    },
+    {
+      "paperId": "ca71db24d1443df61ec62cc77efba7d2330a5a2f",
+      "title": "Assessment revisited: a review of research in Assessment and Evaluation in Higher Education"
+    },
+    {
+      "paperId": "9342d7ed0450c3ed29d0ef32337524e30052cf0a",
+      "title": "Investigating aspects of data visualization literacy using 20 information visualizations and 273 science museum visitors"
+    },
+    {
+      "paperId": "629373b735326df73c28364118d28e66689de3b6",
+      "title": "Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles"
+    },
+    {
+      "paperId": "e75957f41a092a1a7b436375b949d205972d3474",
+      "title": "When (ish) is My Bus?: User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"
+    },
+    {
+      "paperId": "73c9593b084d1ec1dfb81024546653398534aaa8",
+      "title": "Sketching Designs Using the Five Design-Sheet Methodology"
+    },
+    {
+      "paperId": "ceb012bddf494d082b5a93b67c605dce30dbd4e8",
+      "title": "Learning Visualizations by Analogy: Promoting Visual Literacy through Visualization Morphing"
+    },
+    {
+      "paperId": "cd65f73d92984c04258b562093353c908f8f26f5",
+      "title": "Thinking collaboratively: Learning in a community of inquiry"
+    },
+    {
+      "paperId": "acc395bf1ffb02141c10870fc2fed82bef0bdf45",
+      "title": "How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques"
+    },
+    {
+      "paperId": "6010391a847386dcad7959680d358de5bd4e8ce1",
+      "title": "Direct Manipulation for Information Visualization"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "e3641e5cc3392f84999ef633cf5548b2b30cbc6b",
+      "title": "Scientific Visualization: Uncertainty, Multifield, Biomedical, and Scalable Visualization"
+    },
+    {
+      "paperId": "d28644384fd646fbf5942b0e74d38d2f7394cfa5",
+      "title": "Constructive visualization"
+    },
+    {
+      "paperId": "fb4a9659ff9a772e34cebcafbcab300b3707eed5",
+      "title": "How Visualization Courses Have Changed over the Past 10 Years"
+    },
+    {
+      "paperId": "c7d5f554ada1d14a59226e8a71ca718a69ee1045",
+      "title": "Indexicality and visualization: exploring analogies with art, cinema and photography"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "0bb1c78f75c231a84039a89f39b8b88b4e673c79",
+      "title": "Leveraging Multidisciplinarity in a Visual Analytics Graduate Course"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "85824aacdd6d3135411347278c8e11e74d3e50db",
+      "title": "Learning styles: a review of theory, application, and best practices."
+    },
+    {
+      "paperId": "fe5f0c72be175806ded808a4db63ea27448f1f16",
+      "title": "Revisiting the Need for Formal Education in Visualization"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "43d61d2c1331160ef3f4c52ffbf7ce1e2ea31e4a",
+      "title": "Aesthetic Data Visualization as a Resource for Educating Creative Design"
+    },
+    {
+      "paperId": "891d1dee9eea56fe3f0c197a14de81d82480d9b2",
+      "title": "The Essentials of Instructional Design: Connecting Fundamental Principles with Process and Practice"
+    },
+    {
+      "paperId": "31f8135d57de768fec15596147dc82396ae6e70d",
+      "title": "Top 10 Unsolved Information Visualization Problems"
+    },
+    {
+      "paperId": "af719b0a47980249d5bf87b7f803ccca8f77783a",
+      "title": "Panel 3: The Future Visualization Platform"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "75fa0ea886167a1660339f08181975e42f949572",
+      "title": "Considering Visual Variables as a Basis for Information Visualisation"
+    },
+    {
+      "paperId": "93c7232b15a84f2d37a5184a65d13a22fc15df31",
+      "title": "A Revision of Bloom's Taxonomy: An Overview"
+    },
+    {
+      "paperId": "b3dfe81cca4e9f595c1f448970cdece3a7796fbf",
+      "title": "Do We Need Formal Education in Visualization?"
+    },
+    {
+      "paperId": "2ca11541c0ed6793e5da067a67b6746db3d2b8dd",
+      "title": "Motivation in Education: Theory, Research, and Applications"
+    },
+    {
+      "paperId": "394290a6e8970a0a93bb3579c724e64df05d6891",
+      "title": "Taxonomy of Educational Objectives. Handbook I: Cognitive Domain"
+    },
+    {
+      "paperId": "bee58ad6890e0c464dcd5039ad3b5c32c155b83e",
+      "title": "The Teaching of Design"
+    },
+    {
+      "paperId": "bfb5f4faa9eb2a2a0a226da41c7d72038e287fff",
+      "title": "Visualization Empowerment: How to Teach and Learn Data Visualization"
+    },
+    {
+      "paperId": "fac5d2d65a292304965b4ef66953946eca032d9c",
+      "title": "IEEE VIS Workshop on Data Vis Activities to Facilitate Learning, Reflecting, Discussing, and Designing"
+    },
+    {
+      "paperId": null,
+      "title": "How Charts Lie"
+    },
+    {
+      "paperId": "025d50b07fba4cb848eb4b6c17040143e7b91937",
+      "title": "Linting for Visualization: Towards a Practical Automated Visualization Guidance System"
+    },
+    {
+      "paperId": "12b005aadd9f9ac93a569dd715b7b532984f5f0b",
+      "title": "Creative Data Literacy: A Constructionist Approach to Teaching Information Visualization"
+    },
+    {
+      "paperId": "5da91f300cf6d1791da46621c634ecffa5a08921",
+      "title": "Ceci n'est pas la data: Towards a Notion of Interaction Literacy for Data Visualization"
+    },
+    {
+      "paperId": "811d3e7bbbea05a8954c09823629e81819554382",
+      "title": "Data Use by Middle and Secondary Students in the Digital Age: A Status Report and Future Prospects"
+    },
+    {
+      "paperId": "e215760e9f4e1fbac2435ff9181d7aefaebe7c81",
+      "title": "Data-Driven Storytelling"
+    },
+    {
+      "paperId": "65fca8255dce532f647064f67967aff59cfa04ad",
+      "title": "VizItCards: A Card-Based Toolkit for Infovis Design Education"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "ee7228a307bed93677040896fb13d7ed9da482fc",
+      "title": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "paperId": "8eedde0f891e9ab93a8759dabe265ffc6e393cb1",
+      "title": "Contributions of Paulo Freire to a Critical Data Literacy: a Popular Education Approach"
+    },
+    {
+      "paperId": null,
+      "title": "Panel: Vis, the next generation: Teaching across the researcherpractitioner gap"
+    },
+    {
+      "paperId": "2a4fb206f68f2a2673ec9380ad3925b5f1a73dcd",
+      "title": "Future Challenges and Unsolved Problems in Multi-field Visualization"
+    },
+    {
+      "paperId": "e19c4efd3587a9a2269a722e4aa15f812d92e5fa",
+      "title": "The Replication Recipe: What Makes for a Convincing Replication?"
+    },
+    {
+      "paperId": "92072d446adb5cd4e0cb4e2637c0d3af0e0ad39c",
+      "title": "Fostering Collaboration and Self-Motivated Learning: Best Practices in a One-Semester Visualization Course"
+    },
+    {
+      "paperId": "e0fe227ff7a3822f5c0bd41cc566f1a472cc22f2",
+      "title": "Humanities Approaches to Graphical Display"
+    },
+    {
+      "paperId": "736141d2e8f19ce3dbfb4038132e5d50205bec11",
+      "title": "Panel: Perspectives on Teaching Data Visualization (Best Panel Award)"
+    },
+    {
+      "paperId": null,
+      "title": "The Classroom as Stage: Impression Management in Collaborative Teaching"
+    },
+    {
+      "paperId": "ca72f9f4e6a72abbc73ff5deaf327a706e8f494d",
+      "title": "Teaching for quality learning at university"
+    },
+    {
+      "paperId": "cb5d10ab6237ccb75cdc139f14a73847ae109110",
+      "title": "Is Bloom \u2019 s Taxonomy Appropriate for Computer Science ?"
+    },
+    {
+      "paperId": "44c618f55b6fb25131af2a03a13b3e88fe081636",
+      "title": "Course: Information Visualization"
+    },
+    {
+      "paperId": "d7d0dcc7d26c3d9a3c998f174efd7caa3229986a",
+      "title": "NHI-NSF Visualization Research Challenges Report"
+    },
+    {
+      "paperId": "35d8bdf1a3909e98b150c5b199af0e2280a1e4fc",
+      "title": "Grand Challenges in Computing: Education - A Summary"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "d838d5f8057ec987f33d81d646acf49385f505bc",
+      "title": "Communities of Practice: Learning, Meaning, and Identity"
+    },
+    {
+      "paperId": null,
+      "title": "Visual Communicating"
+    },
+    {
+      "paperId": "110609371c1c877bd7352fa04c32ba65c8cc33f6",
+      "title": "Situated Learning: Legitimate Peripheral Participation"
+    },
+    {
+      "paperId": null,
+      "title": "The American Cartographer"
+    },
+    {
+      "paperId": null,
+      "title": "Graphicacy"
+    },
+    {
+      "paperId": null,
+      "title": "1 Impact of educators\u2019 diverse backgrounds on visualization teaching"
+    },
+    {
+      "paperId": null,
+      "title": "Me-ifestos for visualization empowerment in teaching (and learning?)"
+    },
+    {
+      "paperId": null,
+      "title": "Acknowledging and embracing diversity to allow for mutual learning"
+    },
+    {
+      "paperId": null,
+      "title": "Beyond the walled garden: A visual essay in five chapters"
+    },
+    {
+      "paperId": null,
+      "title": "Digital humanities and technical communication pedagogy: a case and a course for cross-program opportunities"
+    },
+    {
+      "paperId": null,
+      "title": "GA1 Identifying learning goals and designing objectives tailored to specific groups of learners"
+    },
+    {
+      "paperId": null,
+      "title": "license agreement with IEEE. Restrictions apply"
+    }
+  ]
+}

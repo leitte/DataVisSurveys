@@ -1,0 +1,396 @@
+{
+  "paperId": "b4816e53ae9176b7f9f1d70ddfe055ec6e060483",
+  "externalIds": {
+    "DBLP": "conf/ieeevast/00010RAMA17",
+    "MAG": "2905763413",
+    "DOI": "10.1109/VAST.2017.8585498",
+    "CorpusId": 11622826
+  },
+  "publicationVenue": {
+    "id": "fb46f230-8676-408e-abe1-5460c6bcbb37",
+    "name": "IEEE Conference on Visual Analytics Science and Technology",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Anal Sci Technol",
+      "IEEE Conf Vis Anal Sci Technol",
+      "Visual Analytics Science and Technology",
+      "VAST"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/b4816e53ae9176b7f9f1d70ddfe055ec6e060483",
+  "title": "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics",
+  "abstract": "Visual Analytics (VA) aims to combine the strengths of humans and computers for effective data analysis. In this endeavor, humans\u2019 tacit knowledge from prior experience is an important asset that can be leveraged by both human and computer to improve the analytic process. While VA environments are starting to include features to formalize, store, and utilize such knowledge, the mechanisms and degree in which these environments integrate explicit knowledge varies widely. Additionally, this important class of VA environments has never been elaborated on by existing work on VA theory. This paper proposes a conceptual model of Knowledge-assisted VA conceptually grounded on the visualization model by van Wijk. We apply the model to describe various examples of knowledge-assisted VA from the literature and elaborate on three of them in finer detail. Moreover, we illustrate the utilization of the model to compare different design alternatives and to evaluate existing approaches with respect to their use of knowledge. Finally, the model can inspire designers to generate novel VA environments using explicit knowledge effectively.",
+  "venue": "IEEE Conference on Visual Analytics Science and Technology",
+  "year": 2017,
+  "referenceCount": 79,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "publicationDate": "2017-10-01",
+  "journal": {
+    "name": "2017 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "pages": "92-103"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Federico2017TheRO,\n author = {P. Federico and Markus Wagner and A. Rind and Albert Amor-Amoros and S. Miksch and W. Aigner},\n booktitle = {IEEE Conference on Visual Analytics Science and Technology},\n journal = {2017 IEEE Conference on Visual Analytics Science and Technology (VAST)},\n pages = {92-103},\n title = {The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145674284",
+      "name": "P. Federico"
+    },
+    {
+      "authorId": "2114341915",
+      "name": "Markus Wagner"
+    },
+    {
+      "authorId": "2941639",
+      "name": "A. Rind"
+    },
+    {
+      "authorId": "1403867408",
+      "name": "Albert Amor-Amoros"
+    },
+    {
+      "authorId": "1692521",
+      "name": "S. Miksch"
+    },
+    {
+      "authorId": "1696098",
+      "name": "W. Aigner"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "42123b6e80d16eb80f737d8cb59a3cb92d528a50",
+      "title": "KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis"
+    },
+    {
+      "paperId": "92e42c94eca32b1e109937766ad5b20114334b91",
+      "title": "Empirically Measuring Soft Knowledge in Visualization"
+    },
+    {
+      "paperId": "3c9cb34788e3947d4b0fffe4e19af9ed5ffeb16b",
+      "title": "A knowledge-assisted visual malware analysis system: Design, validation, and reflection of KAMAS"
+    },
+    {
+      "paperId": "f2c69c9822458d10bb8b623f8e98fd2f9c2f86ad",
+      "title": "VizAssist: an interactive user assistant for visual data mining"
+    },
+    {
+      "paperId": "ab82a1506b2c589fb89e5c457a65380408838481",
+      "title": "A Nested Workflow Model for Visual Analytics Design and Validation"
+    },
+    {
+      "paperId": "28ab4108d5e9ccc57b5156cfedffc1442d5ed10c",
+      "title": "The Human-Computer System: Towards an Operational Model for Problem Solving"
+    },
+    {
+      "paperId": "c777334eb0573255002f239af24ea027cd501c33",
+      "title": "A visual analytics approach to understanding care process variation and conformance"
+    },
+    {
+      "paperId": "772968e4c83c6d1aa714de4fe2b2de2d93c3275f",
+      "title": "What May Visualization Processes Optimize?"
+    },
+    {
+      "paperId": "a83ded3c3543554415c6aa964bb917a64179e8f9",
+      "title": "Graphical Representation of Life Paths to Better Convey Results of Decision Models to Patients"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "e95243c04cc61c37ec58851f7d5491e69038b0f3",
+      "title": "Finding Waldo: Learning about Users from their Interactions"
+    },
+    {
+      "paperId": "fc2ccb0e8aafaefbbae4a444af5099046b49cc63",
+      "title": "Progressive Visual Analytics: User-Driven Visual Exploration of In-Progress Analytics"
+    },
+    {
+      "paperId": "68b4df0178d8735e2fcf797ef681dff435258534",
+      "title": "Studying propagation dynamics in networks through rule-based modeling"
+    },
+    {
+      "paperId": "9414ffdebbd3787e0ba612cf0cfb69dfa32544df",
+      "title": "Semantic Interaction for Visual Analytics: Toward Coupling Cognition and Computation"
+    },
+    {
+      "paperId": "dd8fe50d6b5a21b1e82d06120118b2e6b2466491",
+      "title": "Knowledge-assisted BIM-based visual analytics for failure root cause detection in facilities management"
+    },
+    {
+      "paperId": "7e11107ee730e2473f12650f4d3675366254eae6",
+      "title": "Qualizon graphs: space-efficient time-series visualization with qualitative abstractions"
+    },
+    {
+      "paperId": "11255299fa62f263422c3c9758bef36b9cb61405",
+      "title": "Ontologies in Biological Data Visualization"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "4312f2303c0348b8748374e344f25cc4ead100ca",
+      "title": "Decision Exploration Lab: A Visual Analytics Solution for Decision Management"
+    },
+    {
+      "paperId": "2ff38cb4b00648a6c0a96e88e5d2b54e914b1342",
+      "title": "Visual Analysis of Compliance with Clinical Guidelines"
+    },
+    {
+      "paperId": "133a44f589349442ac7bda91fc3b52758d2c6358",
+      "title": "Evolutionary Visual Exploration: Evaluation With Expert Users"
+    },
+    {
+      "paperId": "02ad7eb241ebd6152e17b6aabbbf5432715df0f1",
+      "title": "User-centered visual analysis using a hybrid reasoning architecture for intensive care units"
+    },
+    {
+      "paperId": "06315cbae298a10806e0804d39401cda33ce0e70",
+      "title": "Smart super views \u2014 A knowledge-assisted interface for medical visualization"
+    },
+    {
+      "paperId": "ac4cc9e2eb93d4da7655069312f5f7ffd47d8943",
+      "title": "Comparative Evaluation of an Interactive Time\u2010Series Visualization that Combines Quantitative Data with Qualitative Abstractions"
+    },
+    {
+      "paperId": "112a63fb34569ff035b866d39f256fde6aaf0780",
+      "title": "RuleBender: integrated modeling, simulation and visualization for rule-based intracellular biochemistry"
+    },
+    {
+      "paperId": "f04ff25b1c3cd51e507dfe527a5ef0c936a2ab67",
+      "title": "Collaborative visualization: Definition, challenges, and research agenda"
+    },
+    {
+      "paperId": "90a9fceb113a1125442217693c0e7dc01f9a7eeb",
+      "title": "CareCruiser: Exploring and visualizing plans, events, and effects interactively"
+    },
+    {
+      "paperId": "5d475c6e5b6153bd648d9bcf4fb12e629daafd67",
+      "title": "Visual tools for dynamic analysis of complex situations"
+    },
+    {
+      "paperId": "3e326db0cd1fa3b83f9f63224f3440bc5723b417",
+      "title": "Visual analytics: how much visualization and how much analytics?"
+    },
+    {
+      "paperId": "064d7416e52db8176979811a07e87cd09c600334",
+      "title": "Intelligent visualization and exploration of time-oriented data of multiple patients"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "b0b9ad392f34728f77cbefdada5727a49e83ccfe",
+      "title": "Knowledge Assisted Visualization: Defining and applying knowledge conversion processes to a visual analytics system"
+    },
+    {
+      "paperId": "c3fd5f755da43b52a1393b369e9fb918caae6e81",
+      "title": "Knowledge Assisted Visualization: A high-dimensional feature clustering approach to support knowledge-assisted visualization"
+    },
+    {
+      "paperId": "9ccae18d8776e85cedde151a0b02bd37aadcebe3",
+      "title": "Surveying the complementary role of automatic data analysis and visualization in knowledge discovery"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "4caf28975d0fd8bf6f7356ce2f6706e1101d3612",
+      "title": "Visual Analytics: Scope and Challenges"
+    },
+    {
+      "paperId": "2f6b3e39ef3e15b4692850dd657cffbeb24c6fc2",
+      "title": "VisPad: Integrating Visualization, Navigation and Synthesis"
+    },
+    {
+      "paperId": "bdf94027d5410b211411157ad7aacfca05aea53d",
+      "title": "The wisdom hierarchy: representations of the DIKW hierarchy"
+    },
+    {
+      "paperId": "e4352c390079c210c3f2d0d31907fb76895e76ce",
+      "title": "An exploratory study of cognitive load in diagnosing patient conditions."
+    },
+    {
+      "paperId": "92a7048a3da5724a5ed355f4d743e35edbd8da16",
+      "title": "CareVis: Integrated visualization of computerized protocols and temporal patient data"
+    },
+    {
+      "paperId": "a91e1d90ef7404963fad24da4cac4458fe91013c",
+      "title": "Knowledge-based data analysis and interpretation"
+    },
+    {
+      "paperId": "4561cf34fe1e2b4acc15c0c463cc0c20679233ae",
+      "title": "Intelligent data analysis in medicine - Recent advances"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "31f8135d57de768fec15596147dc82396ae6e70d",
+      "title": "Top 10 Unsolved Information Visualization Problems"
+    },
+    {
+      "paperId": "409388ab6a828604784d1c14454dc9ad7a87ff9d",
+      "title": "Designing interaction, not interfaces"
+    },
+    {
+      "paperId": "99d8775d1aa6c7c3ed9c332a6393943ed031a35c",
+      "title": "Connecting time-oriented data and information to a coherent interactive visualization"
+    },
+    {
+      "paperId": "cbfcc7d67b61b93014cf542a8a8b940fe7370e04",
+      "title": "A Visualization Model of Interactive Knowledge Discovery Systems and Its Implementations"
+    },
+    {
+      "paperId": "1e21c66b89c6724b87c2855354346ff27bb0b0ae",
+      "title": "Expressiveness of the data flow and data state models in visualization systems"
+    },
+    {
+      "paperId": "caacee1bd480726b4d995926d395fce40a77f56a",
+      "title": "A taxonomy of visualization techniques using the data state reference model"
+    },
+    {
+      "paperId": "5df85ae89af55c6d82a1a14836ea6bcfbfc2c0ec",
+      "title": "Principles of mixed-initiative user interfaces"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "e9fe918a9b528920aa8112ab66950b9fc5eeeb08",
+      "title": "Intelligent Data Analysis: Issues and Opportunities"
+    },
+    {
+      "paperId": "be57c79fa1d8391a0545cf04f25c6c874ab65fd1",
+      "title": "The structure of the information visualization design space"
+    },
+    {
+      "paperId": "034c09d382143cc392071ff2d47d2e95438d0bb4",
+      "title": "A Framework for Knowledge-Based Temporal Abstraction"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "a1874aafa8730bdd4b28f29d025141c13ee28b58",
+      "title": "From Data Mining to Knowledge Discovery in Databases"
+    },
+    {
+      "paperId": "ede2bf33eb9d986e1495246a7ff87a58fa217bb1",
+      "title": "Human-computer interaction using eye-gaze input"
+    },
+    {
+      "paperId": "5fbe875fff0f24532d4db5ab0b5fd0c13d741b5f",
+      "title": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "paperId": "d80f0183a0d1798b891d9044fa8761b9353acf69",
+      "title": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "paperId": "b1bc6c23c2156e9215cb18fdc39d1188c2a15317",
+      "title": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "paperId": "07bb73de9b6acbfb8eb9ca29a7fb38256764eb6d",
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "paperId": "b940dbda66d4911ab476345258b0ea7530fb5730",
+      "title": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "paperId": "4e6423ebb44e09aa1ffe61afe963c881c216977e",
+      "title": "Gnaeus: Utilizing Clinical Guidelines for Knowledge-assisted Visualisation of EHR Cohorts"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "2088af241ed77d15766b6f93269f4f21ef483109",
+      "title": "Knowledge-Assisted Ranking: A Visual Analytic Application for Sport Event Data"
+    },
+    {
+      "paperId": "ea36744970968bc18f9cd89592a86c6d2a366ba7",
+      "title": "From Data to Wisdom"
+    },
+    {
+      "paperId": "1cb1a1e0a933005054bc2267205414a11c39c4f6",
+      "title": "Knowledge Visualization Currents"
+    },
+    {
+      "paperId": "e7146537dbe9797b12a52035cb65c8535b7783ee",
+      "title": "Visual Analysis of Expert Systems for Smart Grid Monitoring"
+    },
+    {
+      "paperId": "1e4f9d7a52620d7655670a5d96f5bc23ac6108ff",
+      "title": "Towards a Concept how the Structure of Time can Support the Visual Analytics Process"
+    },
+    {
+      "paperId": "972dad8ec30ec926ba8762f0f86f36771c9ac783",
+      "title": "KAV-DB : Towards a Framework for the Capture and Retrieval of Visualization Knowledge over the Web"
+    },
+    {
+      "paperId": "273555807671e587f33fa617244bc9020a5c64d6",
+      "title": "Prajna: Adding Automated Reasoning to the Visual- Analysis Process"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "c4f353b96221300c573ff94ae3b2f61233985434",
+      "title": "Building and Applying a Human Cognition Model for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Modeldriven visual analytics"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "cabc0f3a49b767ce5be65e75c8de8a2d1a8eaab6",
+      "title": "Management support systems: Towards integrated knowledge management"
+    },
+    {
+      "paperId": "fab610330430149753247e24f5bf9893e21be108",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 from Web Data to Visualization via Ontology Mapping"
+    },
+    {
+      "paperId": "d8ddea43e4933b4f6914df35be902ad08c850ee5",
+      "title": "Visualization Viewpoints Data, Information, and Knowledge in Visualization Defi Nitions of Data, Information, and Knowledge Perceptual and Cognitive Space"
+    },
+    {
+      "paperId": "1cae393807d3212d81a9c086511b9eb7c2f8f14e",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2010 an Interactive Visual Analytics System for Bridge Management"
+    }
+  ]
+}

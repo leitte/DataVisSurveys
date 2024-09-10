@@ -1,7 +1,7 @@
 from semanticScholarMetadataDownload import downloadPaperMetadata
 import os
 
-with open('dois.txt', 'r') as file:
+with open('data/includedPapersDOIs.txt', 'r') as file:
     dois = file.readlines()
 
 dois = [doi.strip() for doi in dois]

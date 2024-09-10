@@ -1,0 +1,349 @@
+{
+  "paperId": "bffd0c0c6516f711ae3165c46922bad78821832a",
+  "externalIds": {
+    "PubMedCentral": "10040461",
+    "DBLP": "journals/tvcg/LYiG23",
+    "DOI": "10.1109/TVCG.2022.3209398",
+    "CorpusId": 252566567,
+    "PubMed": "36166553"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/bffd0c0c6516f711ae3165c46922bad78821832a",
+  "title": "Multi-View Design Patterns and Responsive Visualization for Genomics Data",
+  "abstract": "A series of recent studies has focused on designing cross-resolution and cross-device visualizations, i.e., responsive visualization, a concept adopted from responsive web design. However, these studies mainly focused on visualizations with a single view to a small number of views, and there are still unresolved questions about how to design responsive multi-view visualizations. In this paper, we present a reusable and generalizable framework for designing responsive multi-view visualizations focused on genomics data. To gain a better understanding of existing design challenges, we review web-based genomics visualization tools in the wild. By characterizing tools based on a taxonomy of responsive designs, we find that responsiveness is rarely supported in existing tools. To distill insights from the survey results in a systematic way, we classify typical view composition patterns, such as \u201cvertically long,\u201d \u201chorizontally wide,\u201d \u201ccircular,\u201d and \u201ccross-shaped\u201d compositions. We then identify their usability issues in different resolutions that stem from the composition patterns, as well as discussing approaches to address the issues and to make genomics visualizations responsive. By extending the Gosling visualization grammar to support responsive constructs, we show how these approaches can be supported. A valuable follow-up study would be taking different input modalities into account, such as mouse and touch interactions, which was not considered in our study.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "referenceCount": 68,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/2945/9991003/09904451.pdf",
+    "status": "HYBRID"
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Biology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-09-27",
+  "journal": {
+    "name": "IEEE transactions on visualization and computer graphics",
+    "pages": "559 - 569",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{L\u2019Yi2022MultiViewDP,\n author = {S. L\u2019Yi and Nils Gehlenborg},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE transactions on visualization and computer graphics},\n pages = {559 - 569},\n title = {Multi-View Design Patterns and Responsive Visualization for Genomics Data},\n volume = {29},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1399263337",
+      "name": "S. L\u2019Yi"
+    },
+    {
+      "authorId": "1896974",
+      "name": "Nils Gehlenborg"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6c530ac4a006e48f35b134d04a67729fe830ddc6",
+      "title": "Gos: a declarative library for interactive genomics visualization in Python"
+    },
+    {
+      "paperId": "13d8935b240fabcb087c106f82a1e0ea3eb61ff5",
+      "title": "GenoREC: A Recommendation System for Interactive Genomics Data Visualization"
+    },
+    {
+      "paperId": "e6cf057db59751fd4eaee21af0616a11d9632024",
+      "title": "Revisiting the Design Patterns of Composite Visualizations"
+    },
+    {
+      "paperId": "8053cf91e3eda8b000d776cd66ffdc04c1989d52",
+      "title": "Cicero: A Declarative Grammar for Responsive Visualization"
+    },
+    {
+      "paperId": "fcf5b446b1833c7d40644483fdc14efdfcbb9c9d",
+      "title": "Responsive Visualization Design for Mobile Devices"
+    },
+    {
+      "paperId": "aa84b0ce050b95cfb9bcaede6ae790f1cbcc0b36",
+      "title": "Gosling: A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization"
+    },
+    {
+      "paperId": "e9aa01ea86699a4f5f72e5b4ee28c08289fa9dae",
+      "title": "Effects of screen-responsive visualization on data comprehension"
+    },
+    {
+      "paperId": "fcf5a45cedd7eb58235a72180c91a3e9a56993fc",
+      "title": "An Automated Approach to Reasoning About Task-Oriented Insights in Responsive Visualization"
+    },
+    {
+      "paperId": "9571ddde3319e31a39c8471aea9e4723817b1ee2",
+      "title": "Design Patterns and Trade\u2010Offs in Responsive Visualization for Communication"
+    },
+    {
+      "paperId": "c49365296ce81015366e0da13336fadfb59e123f",
+      "title": "A cell atlas of chromatin accessibility across 25 adult human tissues"
+    },
+    {
+      "paperId": "fb0d0f04ff48d929aa4313bddbeee89920df1fa0",
+      "title": "Accessing NCBI data using the NCBI Sequence Viewer and Genome Data Viewer (GDV)"
+    },
+    {
+      "paperId": "0f18da54d3179e689a516b52de07972ff3168196",
+      "title": "Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs"
+    },
+    {
+      "paperId": "d9f6565c8e65c295d1297bd46dbf7aceddaced07",
+      "title": "Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions"
+    },
+    {
+      "paperId": "4d2791ceec299a5b8ada189066406616d9ed937c",
+      "title": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "paperId": "accb208b964f3b1c984abcb8d58592c709af1a8f",
+      "title": "Composition and Configuration Patterns in Multiple-View Visualizations"
+    },
+    {
+      "paperId": "8b81ddbc457189c793feec802374f4d8160199d2",
+      "title": "Techniques for Flexible Responsive Visualization Design"
+    },
+    {
+      "paperId": "35c586d94587427991b11356f9a5832f6a2bcd25",
+      "title": "The JAX Synteny Browser for mouse-human comparative genomics"
+    },
+    {
+      "paperId": "ceb03a229088540a3512d2c77ec193d4c754cb76",
+      "title": "ggplot2"
+    },
+    {
+      "paperId": "2941f8c2cfca106d6e2a444ea01c6eccb99cb79c",
+      "title": "Perceptual Proxies of Visual Comparison"
+    },
+    {
+      "paperId": "e254b0ff90ed6992dbfbf63970552d29cde8efc8",
+      "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues"
+    },
+    {
+      "paperId": "36ee6757e8f1a8f53d7506190ad305fd3b67a9b6",
+      "title": "WashU Epigenome Browser update 2019"
+    },
+    {
+      "paperId": "569f06e2b6c72553373b118bf186da6b0de0b70c",
+      "title": "Tasks, Techniques, and Tools for Genomic Data Visualization"
+    },
+    {
+      "paperId": "5cd41d1c31395310c349923869792a5705502d9c",
+      "title": "Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring"
+    },
+    {
+      "paperId": "9b9226d0d105f7b0f5554ba2a3a9eaa88aa02ef9",
+      "title": "Face to Face: Evaluating Visual Comparison"
+    },
+    {
+      "paperId": "d7045d3d7c6afa9e54fc9e8bd42f12321e5d17f2",
+      "title": "Cistrome Data Browser: expanded datasets and new tools for gene regulatory analysis"
+    },
+    {
+      "paperId": "f3b851991e3490384100a2743aa800606990daeb",
+      "title": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "paperId": "457d7ccecbe2d001e9a983cb5ef593f1f9d85c51",
+      "title": "Juicebox.js Provides a Cloud-Based Visualization System for Hi-C Data"
+    },
+    {
+      "paperId": "9d20600184c305f25f7e13c935fd15337cc0d483",
+      "title": "Responsive Data Visualisation"
+    },
+    {
+      "paperId": "29921bd69e7e2bfe3f8ac1f6bc5167af01e04311",
+      "title": "Tiling algebra for constraint-based layout editing"
+    },
+    {
+      "paperId": "255901fe84770bb2b372829302caa979668c8534",
+      "title": "Metaviz: interactive statistical and visual analysis of metagenomic data"
+    },
+    {
+      "paperId": "26f23d451337c961e0e65a19602508f2729172d6",
+      "title": "ThermalPlot: Visualizing Multi-Attribute Time-Series Data Using a Thermal Metaphor"
+    },
+    {
+      "paperId": "8ff5726d3d654909badff34748408b3a3ebf4810",
+      "title": "Synteny Portal: a web-based application portal for synteny block analysis"
+    },
+    {
+      "paperId": "c152e41b1f9a450ca9424b0b73c09fb14bfabac1",
+      "title": "JBrowse: a dynamic web platform for genome visualization and analysis"
+    },
+    {
+      "paperId": "f5ad13fc5e4c11c244305163c21779c20305b3c0",
+      "title": "TRAViz: A Visualization for Variant Graphs"
+    },
+    {
+      "paperId": "754bf4a9af3c88261f99572777db3ebcf3ecea69",
+      "title": "BactoGeNIE: a large-scale comparative genome visualization for big displays"
+    },
+    {
+      "paperId": "10c21274f3822dd245bd018c8601a635048f9db0",
+      "title": "The Effects of Representation and Juxtaposition on Graphical Perception of Matrix Visualization"
+    },
+    {
+      "paperId": "15e62698b8e1d5eefcd9d5c3d93829c26567c6bd",
+      "title": "TenniVis: Visualization for Tennis Match Analysis"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "9e207d3f9d2618ba1f8216d541ba9afe126d4c02",
+      "title": "Enabling interspecies epigenomic comparison with CEpBrowser"
+    },
+    {
+      "paperId": "bcce7708d7638fa0e39738444c42d244ef9f1c90",
+      "title": "Exploring the design space of composite visualization"
+    },
+    {
+      "paperId": "4b0cc2e4c85a1bd54b52efe77686b048eb844cde",
+      "title": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series"
+    },
+    {
+      "paperId": "a5e3cf9f7bfdbc227673a6d8f4d59112f1b5bb3a",
+      "title": "Visual comparison for information visualization"
+    },
+    {
+      "paperId": "04663461cf3677b737fe64858f681b5f5c662adc",
+      "title": "Graphical Perception of Multiple Time Series"
+    },
+    {
+      "paperId": "88c9a6d0e5ed5d9543f9dbe1abba7db12256bee2",
+      "title": "Gremlin: An Interactive Visualization Model for Analyzing Genomic Rearrangements"
+    },
+    {
+      "paperId": "c4b4e0bd2eb57d7fdc0c5fa77fd1b5985c908e5c",
+      "title": "A new sociotechnical model for studying health information technology in complex adaptive healthcare systems"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b",
+      "title": "Circos: an information aesthetic for comparative genomics."
+    },
+    {
+      "paperId": "67fe902b37a787ea61358fd02edbe7ab84a480bf",
+      "title": "Topology-aware navigation in large networks"
+    },
+    {
+      "paperId": "259babfafffc21ed5fbe43d7ff34f4c68ce6d546",
+      "title": "The CGView Server: a comparative genomics tool for circular genomes"
+    },
+    {
+      "paperId": "adf9af14eff4d3117cfb0f8646be1ee07db2f644",
+      "title": "The Vertebrate Genome Annotation (Vega) database"
+    },
+    {
+      "paperId": "0cb85c72ea11c067adbdf47e006cd51bd3065ea5",
+      "title": "Past, present, and future of user interface software tools"
+    },
+    {
+      "paperId": "e52243084bae4bdbead1395a5ae01c33b6750d13",
+      "title": "User interface software tools"
+    },
+    {
+      "paperId": "0368a655b9e6aa34cee4c4d35e74f8efd454ee3e",
+      "title": "Pad: an alternative approach to the computer interface"
+    },
+    {
+      "paperId": "630bbaed718a018b30c42eee1e80fda00e5e289f",
+      "title": "Sequence logos: a new way to display consensus sequences."
+    },
+    {
+      "paperId": null,
+      "title": "Google Spreadsheet"
+    },
+    {
+      "paperId": "aa8af27e31379f508d8af0600fe1ddcf89474101",
+      "title": "High-dimensional data analysis with subspace comparison using matrix visualization"
+    },
+    {
+      "paperId": null,
+      "title": "The UCSC Xena platform for public and private cancer genomics data visualization and interpretation. biorxiv"
+    },
+    {
+      "paperId": "9301b63e3d86f9a02a3d65b3e6d58d610b21656d",
+      "title": "Considerations for Visualizing Comparison"
+    },
+    {
+      "paperId": "338ad2465d00c381b1e12b6f8c75e2eb9d173e25",
+      "title": "MyBrush: Brushing and Linking with Personal Agency"
+    },
+    {
+      "paperId": "4d0c54fafe4cfa17b2e5203434d2a34b424589aa",
+      "title": "Responsive Visualisation"
+    },
+    {
+      "paperId": "025a24520be2c08bce8b4e69b2713555b50d16ed",
+      "title": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "paperId": "b95481ed6fae5fca40900de60f93023ab0b11b63",
+      "title": "HiGlass: Web-based visual comparison and exploration of genome interaction maps"
+    },
+    {
+      "paperId": null,
+      "title": "Responsive web design: Enriching the user experience"
+    },
+    {
+      "paperId": null,
+      "title": "H . Wickham . ggplot 2"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Genocat: The database of genomic visualization tools. Website"
+    },
+    {
+      "paperId": null,
+      "title": "A list of interesting genome visualizers, genome browsers, or genome-browser-like implementations. Website"
+    },
+    {
+      "paperId": null,
+      "title": "Why do cats"
+    }
+  ]
+}

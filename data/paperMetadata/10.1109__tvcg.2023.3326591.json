@@ -1,0 +1,453 @@
+{
+  "paperId": "554642e4191207b0a767dce7c5031749cafa8c75",
+  "externalIds": {
+    "DBLP": "journals/tvcg/SubramonyamH24",
+    "ArXiv": "2308.06290",
+    "DOI": "10.1109/TVCG.2023.3326591",
+    "CorpusId": 260887326,
+    "PubMed": "37871059"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/554642e4191207b0a767dce7c5031749cafa8c75",
+  "title": "Are We Closing the Loop Yet? Gaps in the Generalizability of VIS4ML Research",
+  "abstract": "Visualization for machine learning (VIS4ML) research aims to help experts apply their prior knowledge to develop, understand, and improve the performance of machine learning models. In conceiving VIS4ML systems, researchers characterize the nature of human knowledge to support human-in-the-loop tasks, design interactive visualizations to make ML components interpretable and elicit knowledge, and evaluate the effectiveness of human-model interchange. We survey recent VIS4ML papers to assess the generalizability of research contributions and claims in enabling human-in-the-loop ML. Our results show potential gaps between the current scope of VIS4ML research and aspirations for its use in practice. We find that while papers motivate that VIS4ML systems are applicable beyond the specific conditions studied, conclusions are often overfitted to non-representative scenarios, are based on interactions with a small set of ML experts and well-understood datasets, fail to acknowledge crucial dependencies, and hinge on decisions that lack justification. We discuss approaches to close the gap between aspirations and research claims and suggest documentation practices to report generality constraints that better acknowledge the exploratory nature of VIS4ML research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "referenceCount": 95,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2308.06290",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2023-08-10",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "672-682",
+    "volume": "30"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Subramonyam2023AreWC,\n author = {Hariharan Subramonyam and J. Hullman},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {672-682},\n title = {Are We Closing the Loop Yet? Gaps in the Generalizability of VIS4ML Research},\n volume = {30},\n year = {2023}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2985239",
+      "name": "Hariharan Subramonyam"
+    },
+    {
+      "authorId": "3159918",
+      "name": "J. Hullman"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "429a524ed2b24c6b142694032e8b8202d5d054f6",
+      "title": "Troubling Collaboration: Matters of Care for Visualization Design Study"
+    },
+    {
+      "paperId": "7a5117e7c0906ac67d69093c5b8d0ad631392da4",
+      "title": "SliceTeller: A Data Slice-Driven Approach for Machine Learning Model Validation"
+    },
+    {
+      "paperId": "c22806e859c9f555e5d4edb9f91c229ef8b16949",
+      "title": "HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning"
+    },
+    {
+      "paperId": "b4da59eeba97310182e66f35a6cb72c4f7e5b8e8",
+      "title": "Diagnosing Ensemble Few-Shot Classifiers"
+    },
+    {
+      "paperId": "8abc6d86a5e86a3b176f14590ac7d67decc3e507",
+      "title": "ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective"
+    },
+    {
+      "paperId": "eac72e00d077a21099487f0f58d03cd5462beefd",
+      "title": "HardVis: Visual Analytics to Handle Instance Hardness Using Undersampling and Oversampling Techniques"
+    },
+    {
+      "paperId": "cb20d389dd4c68fc4d124165adc1598e0377c472",
+      "title": "The Worst of Both Worlds: A Comparative Analysis of Errors in Learning from Data in Psychology and Machine Learning"
+    },
+    {
+      "paperId": "3dfcc1e1e62fb2d43e5e18109cdb2ae598acb54c",
+      "title": "A Survey of Domain Knowledge Elicitation in Applied Machine Learning"
+    },
+    {
+      "paperId": "682c4e5fda78c99c3a481d6457216ea65d61f296",
+      "title": "AdViCE: Aggregated Visual Counterfactual Explanations for Machine Learning Model Validation"
+    },
+    {
+      "paperId": "5a4d66f718964c39b62e1661ba05a741889a1dca",
+      "title": "NeuroCartography: Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks"
+    },
+    {
+      "paperId": "fd676b0058d5d83e588e0bb1ed5c67a866f4891c",
+      "title": "Towards Visual Explainable Active Learning for Zero-Shot Classification"
+    },
+    {
+      "paperId": "76dc15232628e3b5e3ddd5dc8a1b5ad1ef2bf4f6",
+      "title": "A Survey of Human\u2010Centered Evaluations in Human\u2010Centered Machine Learning"
+    },
+    {
+      "paperId": "5c32ea42cd96d7635e98f82c90e9af926a723898",
+      "title": "A Visual Designer of Layer\u2010wise Relevance Propagation Models"
+    },
+    {
+      "paperId": "20f9c6bc12ddba9d0148e1845c0b88696e17e884",
+      "title": "Visual Analytics for RNN-Based Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "96ff35d34df2ffd019172e7daefff3a13e67bf0d",
+      "title": "FeatureEnVi: Visual Analytics for Feature Engineering Using Stepwise Selection and Semi-Automatic Extraction Approaches"
+    },
+    {
+      "paperId": "efb83ebfeb33bd724f223182fbeea0da46d33f3d",
+      "title": "VisEvol: Visual Analytics to Support Hyperparameter Search through Evolutionary Optimization"
+    },
+    {
+      "paperId": "c55816d23b979d99a7590dc592432a407c49221b",
+      "title": "GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks"
+    },
+    {
+      "paperId": "0fab49ffddb292ab2842d29258cf8fa77700434a",
+      "title": "Challenges in Evaluating Interactive Visual Machine Learning Systems"
+    },
+    {
+      "paperId": "3025d34a8439ae92baca3f071d92a14f460ce8c4",
+      "title": "Transparency and reproducibility in artificial intelligence"
+    },
+    {
+      "paperId": "7cb4b322ff3953a521af72e10e9d8b20e7105949",
+      "title": "NAS-Navigator: Visual Steering for Explainable One-Shot Deep Neural Network Synthesis"
+    },
+    {
+      "paperId": "33b298b9a5d4ea81255c7fbdef9ff9c2a0bb081f",
+      "title": "Should We Trust (X)AI? Design Dimensions for Structured Experimental Evaluations"
+    },
+    {
+      "paperId": "deeb1258396d281bdcdaded26f1f1a19973f2ad2",
+      "title": "A survey of visual analytics techniques for machine learning"
+    },
+    {
+      "paperId": "855ead416697e84a586631b63b8c2a86a2bcb780",
+      "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "paperId": "6047ee05b1507ac6309b679551ed76c1a0ee4483",
+      "title": "SCANViz: Interpreting the Symbol-Concept Association Captured by Deep Neural Networks through Visual Analytics"
+    },
+    {
+      "paperId": "091e87aa9100c719c48e5d1d3f965b6119c37828",
+      "title": "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization"
+    },
+    {
+      "paperId": "40b7dd2527aeaacbe36189cdff489b92a66dcbf0",
+      "title": "The case for formal methodology in scientific reform"
+    },
+    {
+      "paperId": "95a48aa25a6f735df13b3c63ba36ad1bb983972e",
+      "title": "Human Factors in Model Interpretability: Industry Practices, Challenges, and Needs"
+    },
+    {
+      "paperId": "030331c3c68cac3e1497b516392e9cdef82ef77f",
+      "title": "Boxer: Interactive Comparison of Classifier Results"
+    },
+    {
+      "paperId": "91cfedb038f2671ce5862c8a5bcd8190b4fc426f",
+      "title": "Analyzing the Noise Robustness of Deep Neural Networks"
+    },
+    {
+      "paperId": "f6dcb40cd150b8fa95873bf2ac82c67d3bed3ee4",
+      "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "paperId": "f49d5e25919cb9c8cacb6216d5dd2ffc41031c87",
+      "title": "TopoAct: Visually Exploring the Shape of Activations in Deep Learning"
+    },
+    {
+      "paperId": "5507c138d662191f0c26f16ea1485069ffe0f4c0",
+      "title": "Interactive Correction of Mislabeled Training Data"
+    },
+    {
+      "paperId": "78a0c951706c88901c45fa1ee5709160beb7032b",
+      "title": "DRLViz: Understanding Decisions and Memory in Deep Reinforcement Learning"
+    },
+    {
+      "paperId": "b2d85ca8a24ee8d0aaba07ba7a92c477777833c5",
+      "title": "BEAMES: Interactive Multimodel Steering, Selection, and Inspection for Regression Tasks"
+    },
+    {
+      "paperId": "9c009390ef45542925940e12629b62b084f41251",
+      "title": "Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections"
+    },
+    {
+      "paperId": "dfc1eca39d165ebf8e9a82fd18da2419f5a2b5c9",
+      "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures"
+    },
+    {
+      "paperId": "07568eed2ebda4cc5d8cda27632434c02bcd5a44",
+      "title": "Criteria for Rigor in Visualization Design Study"
+    },
+    {
+      "paperId": "1f6b9766374d14d81c225c2ced5bb02fe0bccd43",
+      "title": "The What-If Tool: Interactive Probing of Machine Learning Models"
+    },
+    {
+      "paperId": "61c3c1d251c8d00a76c7513e06b24692d0b74284",
+      "title": "Errudite: Scalable, Reproducible, and Testable Error Analysis"
+    },
+    {
+      "paperId": "99550cbf48c0eab75cb66594d2feff56b5f5510e",
+      "title": "DeepVID: Deep Visual Interpretation and Diagnosis for Image Classifiers via Knowledge Distillation"
+    },
+    {
+      "paperId": "cd8b77d0cedfc1507939b74457f59b6ce5279bac",
+      "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+    },
+    {
+      "paperId": "2b49156cf855dbb39768ae0ba7d7cb9263d17e5c",
+      "title": "Informed Machine Learning \u2013 A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems"
+    },
+    {
+      "paperId": "b9518627db25f05930e931f56497602363a75491",
+      "title": "Definitions, methods, and applications in interpretable machine learning"
+    },
+    {
+      "paperId": "2bc964de46c4a2068ea5b11591c390f242672a5a",
+      "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks"
+    },
+    {
+      "paperId": "34f3071bbbb2be99d766c365c60cdbf190b9db8d",
+      "title": "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
+    },
+    {
+      "paperId": "566c27b85669268a4d4a2e5fa899a8099adeceac",
+      "title": "Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution"
+    },
+    {
+      "paperId": "9eabb111aa1a4045c11c408bbd82753abc56ef8a",
+      "title": "iForest: Interpreting Random Forests via Visual Analytics"
+    },
+    {
+      "paperId": "df5d893638a668dda246e6bad9a5387f86f74bb6",
+      "title": "A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems"
+    },
+    {
+      "paperId": "98689eb943f20e58296cb4f4c15f702ce7041121",
+      "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation"
+    },
+    {
+      "paperId": "a9b57247bfb912fa8919e8d87b68e09ad81d418a",
+      "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules"
+    },
+    {
+      "paperId": "03ba846189120b760b1af518c36a323a1f3ab86d",
+      "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
+    },
+    {
+      "paperId": "1abec8d03b8d1435ae920edea9b437be913a30ca",
+      "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+    },
+    {
+      "paperId": "92d7848fe040eaa633d287aba9e25edd2abfc015",
+      "title": "Visualizing Deep Neural Networks for Text Analytics"
+    },
+    {
+      "paperId": "3fe7b3d353ae8e709c95842cd94531748933e426",
+      "title": "An Analysis of the t-SNE Algorithm for Data Visualization"
+    },
+    {
+      "paperId": "44cc9fa35da326ecafb02e9bfbd2fbd593b5a43b",
+      "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+    },
+    {
+      "paperId": "cb71ba3eaa45a489f86923abc017061c05f2b470",
+      "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks"
+    },
+    {
+      "paperId": "b71fe09f4077acdeae25681e8f0cc4483d56e4ec",
+      "title": "Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow"
+    },
+    {
+      "paperId": "a422a47a657e345a3be37b5669e4144fed5224ae",
+      "title": "Understanding Hidden Memories of Recurrent Neural Networks"
+    },
+    {
+      "paperId": "eb88646aeeb3ffc48566d7357495b12c035eccb9",
+      "title": "Do Convolutional Neural Networks Learn Class Hierarchy?"
+    },
+    {
+      "paperId": "b4816e53ae9176b7f9f1d70ddfe055ec6e060483",
+      "title": "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics"
+    },
+    {
+      "paperId": "56b4b04e13911edf1bfec00b45febef168425181",
+      "title": "Constraints on Generality (COG): A Proposed Addition to All Empirical Papers"
+    },
+    {
+      "paperId": "6988851089eaa95d1f76526a3e3841534313cd98",
+      "title": "The State of the Art in Integrating Machine Learning into Visual Analytics"
+    },
+    {
+      "paperId": "9d0ad8d05ad1e0f5d018cc1e17fc2dd27685039b",
+      "title": "Embedding Projector: Interactive Visualization and Interpretation of Embeddings"
+    },
+    {
+      "paperId": "5999079be4ed40b65b0957c442230bf2e61b9dae",
+      "title": "How to Use t-SNE Effectively"
+    },
+    {
+      "paperId": "7d8891a6a7a8049a97ddc3e72ab2fcb2bfd31c03",
+      "title": "Human-centered machine learning through interactive visualization"
+    },
+    {
+      "paperId": "a798c13da2d500dd76c4ff76f18ded43df0d59bc",
+      "title": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+    },
+    {
+      "paperId": "bfb2c95a46149dff6f03e0869393b15d316d2071",
+      "title": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "paperId": "87693092a14f3e56015da013b1f6909a217d1d28",
+      "title": "The nested blocks and guidelines model"
+    },
+    {
+      "paperId": "64c66fb39a964e17ef3f936782062e07184c9736",
+      "title": "Visual Methods for Analyzing Probabilistic Classification Data"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "e34cea7beb885be40afa8cc033dbafb8908dd60c",
+      "title": "INFUSE: Interactive Feature Selection for Predictive Modeling of High Dimensional Data"
+    },
+    {
+      "paperId": null,
+      "title": "Design Activity Framework for Visualization Design"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108",
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+    },
+    {
+      "paperId": "17d7f8378fc2de1b482524675985b8440e94cd1d",
+      "title": "The human is the loop: new directions for visual analytics"
+    },
+    {
+      "paperId": "678308404c590cf6ed4e190d7fa895398af7e7a1",
+      "title": "A Systematic Review on the Practice of Evaluating Visualization"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "e8cfef98279aabd43f65d465b304345aec15d9bb",
+      "title": "A Nested Model for Visualization Design and Validation"
+    },
+    {
+      "paperId": "bc6dff14a130c57a91d5a21339c23471faf1d46f",
+      "title": "Et al"
+    },
+    {
+      "paperId": "024144dfe9faacd35cf9f082766b732acda16de1",
+      "title": "Understanding and characterizing insights: how do people gain insights using information visualization?"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "4c5ff573f89e62e7112b1a1ef06e7a2cdc1681ff",
+      "title": "Interactive Foundations of Computing"
+    },
+    {
+      "paperId": "ff88cc5e63cb22fef2fd074eea91d9cf1889277b",
+      "title": "Why Summaries of Research on Psychological Theories are Often Uninterpretable"
+    },
+    {
+      "paperId": "89acb9ad4f9db212be535e22197b368c34a74afd",
+      "title": "Definitions"
+    },
+    {
+      "paperId": "131c722acc1170805e2b9ca48b0202f56b661a05",
+      "title": "VATUN: Visual Analytics for Testing and Understanding Convolutional Neural Networks"
+    },
+    {
+      "paperId": "3797db0472220535fb16d0b6f213cce6d5f3da42",
+      "title": "From Cleaning before ML to Cleaning for ML"
+    },
+    {
+      "paperId": "1bbf8e4af901a1ab9dffe47cc3e41b1e667ec255",
+      "title": "Are We Learning Yet? A Meta Review of Evaluation Failures Across Machine Learning"
+    },
+    {
+      "paperId": "dcfe79de30d5732145aef00e366a08eefa924367",
+      "title": "\"Isms\" in Visualization"
+    },
+    {
+      "paperId": "547711207f25deda86f5a079167c0916e6809ad5",
+      "title": "Analyzing the Training Processes of Deep Generative Models"
+    },
+    {
+      "paperId": "5b20ab877b21d3d83251dd4d1fffbd848ffd1557",
+      "title": "Visual Diagnosis of Tree Boosting Methods"
+    },
+    {
+      "paperId": null,
+      "title": "A cti v is: Visual exploration of industry-scale deep neural network models"
+    },
+    {
+      "paperId": "9bffd9f29b874e00478124eeefe7f7d2368ea6cf",
+      "title": "Human-Machine-Learner Interaction : The Best of Both Worlds"
+    },
+    {
+      "paperId": "f1753bffa7ef504b1f4b15581187b10193cf6b33",
+      "title": "Data Debugger: An Operator-Centric Approach for Data Quality Solutions"
+    },
+    {
+      "paperId": null,
+      "title": "are We CLosing tHe Loop yet? gaps in tHe generaLizabiLity of Vis4mL."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "paperId": "f36226b9ec870338f433380a4720626fcca1bbed",
+  "externalIds": {
+    "MAG": "2080752813",
+    "DBLP": "conf/ieeevast/KwonFY11",
+    "DOI": "10.1109/VAST.2011.6102435",
+    "CorpusId": 8617319
+  },
+  "publicationVenue": {
+    "id": "fb46f230-8676-408e-abe1-5460c6bcbb37",
+    "name": "IEEE Conference on Visual Analytics Science and Technology",
+    "type": "conference",
+    "alternate_names": [
+      "Vis Anal Sci Technol",
+      "IEEE Conf Vis Anal Sci Technol",
+      "Visual Analytics Science and Technology",
+      "VAST"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/f36226b9ec870338f433380a4720626fcca1bbed",
+  "title": "Visual analytic roadblocks for novice investigators",
+  "abstract": "We have observed increasing interest in visual analytics tools and their applications in investigative analysis. Despite the growing interest and substantial studies regarding the topic, understanding the major roadblocks of using such tools from novice users' perspectives is still limited. Therefore, we attempted to identify such \u201cvisual analytic roadblocks\u201d for novice users in an investigative analysis scenario. To achieve this goal, we reviewed the existing models, theories, and frameworks that could explain the cognitive processes of human-visualization interaction in investigative analysis. Then, we conducted a qualitative experiment with six novice participants, using a slightly modified version of pair analytics, and analyzed the results through the open-coding method. As a result, we came up with four visual analytic roadblocks and explained these roadblocks using existing cognitive models and theories. We also provided design suggestions to overcome these roadblocks.",
+  "venue": "IEEE Conference on Visual Analytics Science and Technology",
+  "year": 2011,
+  "referenceCount": 29,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Psychology",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2011-12-15",
+  "journal": {
+    "name": "2011 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "pages": "3-11"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Kwon2011VisualAR,\n author = {Bum Chul Kwon and Brian D. Fisher and Ji Soo Yi},\n booktitle = {IEEE Conference on Visual Analytics Science and Technology},\n journal = {2011 IEEE Conference on Visual Analytics Science and Technology (VAST)},\n pages = {3-11},\n title = {Visual analytic roadblocks for novice investigators},\n year = {2011}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "145276140",
+      "name": "Bum Chul Kwon"
+    },
+    {
+      "authorId": "145340091",
+      "name": "Brian D. Fisher"
+    },
+    {
+      "authorId": "1681808",
+      "name": "Ji Soo Yi"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8babf447a08019f40f4d6f99fb7dd60ca60ad720",
+      "title": "Pair Analytics: Capturing Reasoning Processes in Collaborative Visual Analytics"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "cf5384bd592fcb369c91d689836fe2f71665d35b",
+      "title": "Evaluating visual analytics systems for investigative analysis: Deriving design principles from a case study"
+    },
+    {
+      "paperId": "141eb9bf9d2bca3498a500590bfabfebb8f78ff8",
+      "title": "Visual analytics for complex concepts using a human cognition model"
+    },
+    {
+      "paperId": "4813f728ea296de4b2e232e9dc1340685b235e02",
+      "title": "Distributed Cognition as a Theoretical Framework for Information Visualization"
+    },
+    {
+      "paperId": "9d40e522c03e878c235b7ac9662f7560418d0f0f",
+      "title": "The Shaping of Information by Visual Metaphors"
+    },
+    {
+      "paperId": "592a2e669ad7e5d6ccb8096f767cba624e00d189",
+      "title": "A Framework of Interaction Costs in Information Visualization"
+    },
+    {
+      "paperId": "788c74adcf51c74a92cf4fed44a8dad81f9e8ce7",
+      "title": "A Taxonomy of Clutter Reduction for Information Visualisation"
+    },
+    {
+      "paperId": "a66b19219b522efe7aa2225acf8bf7828305fdd7",
+      "title": "Show Me: Automatic Presentation for Visual Analysis"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "338c927420fc70ae0d36afe328ba92ff271a0ee9",
+      "title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations"
+    },
+    {
+      "paperId": "4995fca834e5ab141f76c2d5e84b3b454e7b9d2e",
+      "title": "Jigsaw: Supporting Investigative Analysis through Interactive Visualization"
+    },
+    {
+      "paperId": "73a86c2be363ea9337d209cef6f98b01e63aac98",
+      "title": "Beyond Usability: Evaluation Aspects of Visual Analytic Environments"
+    },
+    {
+      "paperId": "69441f971efcf25c26d2d1ced6e127c7821c7cfe",
+      "title": "BEST PAPER: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "86966b9cb6cb23342c4917c880608921617cec67",
+      "title": "An Evaluation of Microarray Visualization Tools for Biological Insight"
+    },
+    {
+      "paperId": "8e9d1f0957f73e22ba2f8cccb9187a16d4b6a22b",
+      "title": "Diagrams in the Mind and in the World: Relations between Internal and External Visualizations"
+    },
+    {
+      "paperId": "eb29fd9befb530c8d7602eac7f09800087ceb4c3",
+      "title": "CaMeRa: A Computational Model of Multiple Representations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "54f8ae5828615d1fe7d61c0038cc1ec77f4697b0",
+      "title": "Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework"
+    },
+    {
+      "paperId": "6b91d6e985f269ab7ebe3c7c78d0f6a8791455a5",
+      "title": "Human cognitive abilities. A survey of factoranalytic studies: John B. Carroll, Cambridge University Press, 1993. Pp. 819. ISBN-0-521-38712-4 paperback"
+    },
+    {
+      "paperId": "8095774afc686f90e093f090208545081e34ff90",
+      "title": "Human cognitive abilities: Name Index"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Available: http://www.atlasti.com/. [Accessed: 23-Mar"
+    },
+    {
+      "paperId": "6a15c57a98654d70132c2a4cc388a0abc7838378",
+      "title": "Visual Analytics"
+    },
+    {
+      "paperId": "cd3929c6e994a712739b907f06622eb814e18881",
+      "title": "A theory of graph comprehension."
+    },
+    {
+      "paperId": "3c5e615683f99cf47690273ccb704e64140ac725",
+      "title": "Verbalizer-visualizer: A cognitive style dimension."
+    },
+    {
+      "paperId": null,
+      "title": "This paper is conditionally accepted and under revision. This copy should not be redistributed beyond fulfilling the DHS requirements"
+    }
+  ]
+}

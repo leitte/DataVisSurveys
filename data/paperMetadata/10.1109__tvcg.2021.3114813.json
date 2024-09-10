@@ -1,0 +1,851 @@
+{
+  "paperId": "1ca938e6ee602731c91a97c23884251478ab608a",
+  "externalIds": {
+    "DBLP": "journals/tvcg/DimaraS22",
+    "DOI": "10.1109/TVCG.2021.3114813",
+    "CorpusId": 238230272,
+    "PubMed": "34587049"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1ca938e6ee602731c91a97c23884251478ab608a",
+  "title": "A Critical Reflection on Visualization Research: Where Do Decision Making Tasks Hide?",
+  "abstract": "It has been widely suggested that a key goal of visualization systems is to assist decision making, but is this true? We conduct a critical investigation on whether the activity of decision making is indeed central to the visualization domain. By approaching decision making as a user task, we explore the degree to which decision tasks are evident in visualization research and user studies. Our analysis suggests that decision tasks are not commonly found in current visualization task taxonomies and that the visualization field has yet to leverage guidance from decision theory domains on how to study such tasks. We further found that the majority of visualizations addressing decision making were not evaluated based on their ability to assist decision tasks. Finally, to help expand the impact of visual analytics in organizational as well as casual decision making activities, we initiate a research agenda on how decision making assistance could be elevated throughout visualization research.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "referenceCount": 194,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-03289180/file/DimaraStasko2021_DecisionMakingTasks.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2021-09-29",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1128-1138",
+    "volume": "28"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Dimara2021ACR,\n author = {Evanthia Dimara and J. Stasko},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1128-1138},\n title = {A Critical Reflection on Visualization Research: Where Do Decision Making Tasks Hide?},\n volume = {28},\n year = {2021}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2304083",
+      "name": "Evanthia Dimara"
+    },
+    {
+      "authorId": "1691661",
+      "name": "J. Stasko"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "1601539aa75e3c309a4981360f09509074ca845f",
+      "title": "The Unmet Data Visualization Needs of Decision Makers Within Organizations"
+    },
+    {
+      "paperId": "0726d52570363d129ddafada4b81a6b3a7340c92",
+      "title": "Uncertain About Uncertainty: How Qualitative Expressions of Forecaster Confidence Impact Decision-Making With Uncertainty Visualizations"
+    },
+    {
+      "paperId": "9640686a3b1fc26722ff53be90ad566ac7690b80",
+      "title": "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
+    },
+    {
+      "paperId": "b3d3995aae1ae04215d12cc2f22b5a6dc8f7ef6f",
+      "title": "A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications"
+    },
+    {
+      "paperId": "1705424c0c5c46722eba65a27742832eb2b6dc30",
+      "title": "Towards Better Bus Networks: A Visual Analytics Approach"
+    },
+    {
+      "paperId": "855ead416697e84a586631b63b8c2a86a2bcb780",
+      "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "paperId": "e81bedfa18f6bb659406db8af615d28a0fda03cc",
+      "title": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "paperId": "0989c9590171975065dbb9b712bc2b7aee61908c",
+      "title": "Selection-Bias-Corrected Visualization via Dynamic Reweighting"
+    },
+    {
+      "paperId": "9c96aa9abf5fb1b84df64682ca1ab40e5fda8582",
+      "title": "Visual Reasoning Strategies for Effect Size Judgments and Decisions"
+    },
+    {
+      "paperId": "3be2bd86c399e5fdc2dd64662c52ee46443ca758",
+      "title": "Boba: Authoring and Visualizing Multiverse Analyses"
+    },
+    {
+      "paperId": "046cf306c356eaefc20b9eb92be70881579aed74",
+      "title": "A journey around decision-making: Searching for the \u201cbig picture\u201d across disciplines"
+    },
+    {
+      "paperId": "6cf760db60aeb70e4dffd9a88cd29388d40779f5",
+      "title": "TRACTUS: Understanding and Supporting Source Code Experimentation in Hypothesis-Driven Data Science"
+    },
+    {
+      "paperId": "7b792b6158d412d7351ebf947719cfe3b6bdd770",
+      "title": "MaraVis: Representation and Coordinated Intervention of Medical Encounters in Urban Marathon"
+    },
+    {
+      "paperId": "666ee9fe09ce777ab9e9940ee465c8349d7ac43e",
+      "title": "Synthesized Social Signals: Computationally-Derived Social Signals from Account Histories"
+    },
+    {
+      "paperId": "7ce084200a2ce6880b26f8b13bba7871390c7f5d",
+      "title": "Interactive Visual Data Analysis"
+    },
+    {
+      "paperId": "a1afa9b855238c5d8e188cd85f7a8ab19f67977f",
+      "title": "PeckVis: A Visual Analytics Tool to Analyze Dominance Hierarchies in Small Groups"
+    },
+    {
+      "paperId": "b2e9f35d60b00c7319a6763a477857e5215082f5",
+      "title": "A Task-Based Taxonomy of Cognitive Biases for Information Visualization"
+    },
+    {
+      "paperId": "23fc2f69cb94858401a3eaecbd13471a8c6c7eb1",
+      "title": "What is Interaction for Data Visualization?"
+    },
+    {
+      "paperId": "37c3728d48ae85247a31137714236ec3c8e69012",
+      "title": "Paths Explored, Paths Omitted, Paths Obscured: Decision Points & Selective Reporting in End-to-End Data Analysis"
+    },
+    {
+      "paperId": "423daf5966b115eecb79f94ce9678c2532224917",
+      "title": "MineTime Insight: Visualizing Meeting Habits to Promote Informed Scheduling Decisions"
+    },
+    {
+      "paperId": "d1d66be989e8f83732457229ea1ed2431a2d7cdb",
+      "title": "Understanding User Behaviour through Action Sequences: From the Usual to the Unusual"
+    },
+    {
+      "paperId": "c1992c7750c97413f550624ab0298f0b810c610b",
+      "title": "FairSight: Visual Analytics for Fairness in Decision Making"
+    },
+    {
+      "paperId": "42305dfdda2aab2e2bd884e80180827996010cc0",
+      "title": "Visual Exploration of Neural Document Embedding in Information Retrieval: Semantics and Feature Selection"
+    },
+    {
+      "paperId": "d2f18e0675d86e64fdc6e8beaa83c2b74f6a81b6",
+      "title": "Visualizing Uncertainty and Alternatives in Event Sequence Predictions"
+    },
+    {
+      "paperId": "d16ab449161d9a96647ede04b5549d0f6b29f61d",
+      "title": "Towards Effective Foraging by Data Scientists to Find Past Analysis Choices"
+    },
+    {
+      "paperId": "d1177fed35f70e0442faed7f79433ce426de7a06",
+      "title": "Communicating Uncertainty in Fertility Prognosis"
+    },
+    {
+      "paperId": "cd8b77d0cedfc1507939b74457f59b6ce5279bac",
+      "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+    },
+    {
+      "paperId": "e4b1eb38fe15f1125dcc48d10fcc21be63c2cac5",
+      "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
+    },
+    {
+      "paperId": "f030fe541857e653de41c753b91a8ff671efcf14",
+      "title": "Mitigating the Attraction Effect with Visualizations"
+    },
+    {
+      "paperId": "ec5a0718d3f820e73c7b51101c7e409a7f2edd11",
+      "title": "Hypothetical Outcome Plots Help Untrained Observers Judge Trends in Ambiguous Data"
+    },
+    {
+      "paperId": "9b09c402c4fd15abbadd83349dcd8d3f88df99df",
+      "title": "IDMVis: Temporal Event Sequence Visualization for Type 1 Diabetes Treatment Decision Support"
+    },
+    {
+      "paperId": "0670b47127aeb70ecb52beb4559d5e3317204d34",
+      "title": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots"
+    },
+    {
+      "paperId": "d1e13daa79a0e55c2ceb0fb7694e8c4e208a570f",
+      "title": "SRVis: Towards Better Spatial Integration in Ranking Visualization"
+    },
+    {
+      "paperId": "69b2495fe5093ae56a1ccbf9a9e55b87d677fec9",
+      "title": "Ethical Dimensions of Visualization Research"
+    },
+    {
+      "paperId": "c078dea32ee3404a5e1eeb82f84f708aeadd1e05",
+      "title": "Correction to: Decision making with visualizations: a cognitive framework across disciplines"
+    },
+    {
+      "paperId": "28a4db89125addb444c69c6336d379ee1eb9e9c7",
+      "title": "Decision making with visualizations: a cognitive framework across disciplines"
+    },
+    {
+      "paperId": "0161546f86c8fdf93bcb213ebb1af11004247bc1",
+      "title": "HomeFinder Revisited: Finding Ideal Homes with Reachability-Centric Multi-Criteria Decision Making"
+    },
+    {
+      "paperId": "825ae04b67cd58951cdb115978e9fba6a1d5f5d9",
+      "title": "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making"
+    },
+    {
+      "paperId": "b6284b2883074fed354448f0f8ebac4398fa3d3a",
+      "title": "The Anchoring Effect in Decision-Making with Visual Analytics"
+    },
+    {
+      "paperId": "141f1ba6eedb82a0c3eb8a8eb8d117ce8c3231f2",
+      "title": "SkyLens: Visual Analysis of Skyline on Multi-Dimensional Data"
+    },
+    {
+      "paperId": "42123b6e80d16eb80f737d8cb59a3cb92d528a50",
+      "title": "KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis"
+    },
+    {
+      "paperId": "71f8d627fd6762030d9152b68f398fb160f1bb1d",
+      "title": "Constructing and Evaluating Visualisation Task Classifications: Process and Considerations"
+    },
+    {
+      "paperId": "b215301ab193b8e918e4a01cd9e01c58fab1af67",
+      "title": "Narratives in Crowdsourced Evaluation of Visualizations: A Double-Edged Sword?"
+    },
+    {
+      "paperId": "8e5e232c19306359dd5db01207607e0977f6e3fb",
+      "title": "Information Visualization"
+    },
+    {
+      "paperId": "e9946d487e20abc7282ade84076db8e55cbd183b",
+      "title": "Cognitive Stages in Visual Data Exploration"
+    },
+    {
+      "paperId": "62b8d556b65be47d3a03798c4abcf5fbfe9558cb",
+      "title": "Why Evaluating Uncertainty Visualization is Error Prone"
+    },
+    {
+      "paperId": "82a4e526effca95bbda2d6ec94784d7389af3486",
+      "title": "Towards Quantitative Visual Analytics with Structured Brushing and Linked Statistics"
+    },
+    {
+      "paperId": "2888d59d68aa4ddb527be98e19edfe1d76c829ac",
+      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation"
+    },
+    {
+      "paperId": "7fa46421352eaffed77ea452d629ae3ddbd3cf8d",
+      "title": "Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday."
+    },
+    {
+      "paperId": "a0e833912ff3cedfff101fa66bf928885ac3ecce",
+      "title": "MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering"
+    },
+    {
+      "paperId": "465c02104d8129e394711142202310f3a7e70928",
+      "title": "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
+    },
+    {
+      "paperId": "0a227a19cd2c8d5ad6a2eaa815c80795711adbbe",
+      "title": "Visually Comparing Weather Features in Forecasts"
+    },
+    {
+      "paperId": "3a94d4f65fb994806ef233a9abee766b692015c9",
+      "title": "LiteVis: Integrated Visualization for Simulation-Based Decision Support in Lighting Design"
+    },
+    {
+      "paperId": "89fbac376e60d9fa9c8df34856e6cf1bc07b7d08",
+      "title": "Urbane: A 3D framework to support data driven decision making in urban development"
+    },
+    {
+      "paperId": "f61464a7a24a61b57e2c9378600b286c03550345",
+      "title": "Rationale Visualization for Safety and Security"
+    },
+    {
+      "paperId": "b71f69f394da5537c717e95fafa3d04b60b0fd7c",
+      "title": "Exploring Traffic Dynamics in Urban Environments Using Vector\u2010Valued Functions"
+    },
+    {
+      "paperId": "021239f38085dd02e6f107b02788a02921f9ab53",
+      "title": "Designing Information for Remediating Cognitive Biases in Decision-Making"
+    },
+    {
+      "paperId": "d2f1d6312cdcbde7d8ca2a041d844c38eb609793",
+      "title": "STRATOS: Using Visualization to Support Decisions in Strategic Software Release Planning"
+    },
+    {
+      "paperId": "0fd6737370e2fa8484969d1d5784a7e244964e32",
+      "title": "Statsplorer: Guiding Novices in Statistical Analysis"
+    },
+    {
+      "paperId": "65187a20b6f2f687a96184a8eb65a7498069e9e2",
+      "title": "Visualization Analysis and Design"
+    },
+    {
+      "paperId": "0d5911fa0218e44dc1246f5f43d174b9e5589c0b",
+      "title": "Field experiment methodology for pair analytics"
+    },
+    {
+      "paperId": "2d58434a5a5c92033d5c479f7ffa22822e3b9e0d",
+      "title": "Proactive Spatiotemporal Resource Allocation and Predictive Visual Analytics for Community Policing and Law Enforcement"
+    },
+    {
+      "paperId": "d67f7f1a7019e7731faf021c619d38e934b0208f",
+      "title": "Visual Analysis of Public Utility Service Problems in a Metropolis"
+    },
+    {
+      "paperId": "a8a647af5d14f548b94ae460cd462dd1b69d9f8b",
+      "title": "Run Watchers: Automatic Simulation-Based Decision Support in Flood Management"
+    },
+    {
+      "paperId": "f31c3bc7c2d63b28ee53b807ee9cffcbc6208901",
+      "title": "Knowledge Generation Model for Visual Analytics"
+    },
+    {
+      "paperId": "0287be7421722b2fb940370b7bdcfabcd46f5367",
+      "title": "#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media"
+    },
+    {
+      "paperId": "7cef7d21d0d91b597c9ea1893f4fefdb2efea3df",
+      "title": "Many Plans: Multidimensional Ensembles for Visual Decision Support in Flood Management"
+    },
+    {
+      "paperId": "da9655f13a1296e142fe8484341b61330f7ea63f",
+      "title": "Evaluating the Impact of User Characteristics and Different Layouts on an Interactive Visualization for Decision Making"
+    },
+    {
+      "paperId": "be3168293928d75d5b8fe0e7887891823725db9e",
+      "title": "Comparative Blood Flow Visualization for Cerebral Aneurysm Treatment Assessment"
+    },
+    {
+      "paperId": "ca23dd4e9ab32bc29b79a4aa30f71ee6580a9f1c",
+      "title": "Information visualization: perception for design by Colin Ware"
+    },
+    {
+      "paperId": "4da773d12ae4e208bf1ddee13958f829a2383e53",
+      "title": "Exploratory analysis of spatial and temporal data"
+    },
+    {
+      "paperId": "3ae8c3c0f79aa27ed491a486a16cd28cd006aed6",
+      "title": "A Multi-Level Typology of Abstract Visualization Tasks"
+    },
+    {
+      "paperId": "de5a1189daade237fc92d0ebb802242f53a9fe1c",
+      "title": "LineUp: Visual Analysis of Multi-Attribute Rankings"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "4312f2303c0348b8748374e344f25cc4ead100ca",
+      "title": "Decision Exploration Lab: A Visual Analytics Solution for Decision Management"
+    },
+    {
+      "paperId": "1721b72f2708aea261c26e76474d00b573119c04",
+      "title": "ScatterBlogs2: Real-Time Monitoring of Microblog Messages through User-Guided Filtering"
+    },
+    {
+      "paperId": "3d4267cdfe13635483fca43aa7043b76434cb2b8",
+      "title": "Characterizing and Visualizing Predictive Uncertainty in Numerical Ensembles Through Bayesian Model Averaging"
+    },
+    {
+      "paperId": "adf0564e6039e8c2c95d4972fcfa01eed40d2fd3",
+      "title": "An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "bf3854e9a3358262e34b191b425f3f512f788a7b",
+      "title": "Human Decision Making and Recommender Systems"
+    },
+    {
+      "paperId": "b8f4c8b5035cf2ad35ea0ece8a7f1be48fa72003",
+      "title": "Combining Computational Analyses and Interactive Visualization for Document Exploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "637bc6e2898fa3abf6b70d2bd220b78cc28319d1",
+      "title": "Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making"
+    },
+    {
+      "paperId": "8434e2949d8165b78957c35324d4b377788f9586",
+      "title": "Sketching Uncertainty into Simulations"
+    },
+    {
+      "paperId": "3bd75ee9d63b82614c07f824eb4962d5cc2ca351",
+      "title": "Visual Data Analysis as an Integral Part of Environmental Management"
+    },
+    {
+      "paperId": "48ac5c2bd0318b45621391f5a194b22030bb8989",
+      "title": "Design Study Methodology: Reflections from the Trenches and the Stacks"
+    },
+    {
+      "paperId": "3876353dfad99b3175c124b9c746fad32f735413",
+      "title": "Interaction junk: user interaction-based evaluation of visual analytic systems"
+    },
+    {
+      "paperId": "3907cab797bab11cee1c42902525f85914eba3c3",
+      "title": "Vismon: Facilitating Analysis of Trade\u2010Offs, Uncertainty, and Sensitivity In Fisheries Management Decision Making"
+    },
+    {
+      "paperId": "f4bde10c6f471a5ad1a8d4851326c4cb576614fd",
+      "title": "MatchPad: Interactive Glyph\u2010Based Visualization for Real\u2010Time Sports Performance Analysis"
+    },
+    {
+      "paperId": "635b9e0b519898d691172e6fb81225c3b90e2508",
+      "title": "MarketAnalyzer: An Interactive Visual Analytics System for Analyzing Competitive Advantage Using Point of Sale Data"
+    },
+    {
+      "paperId": "08fe2997d24d4273b5e45608f5a464922db674ad",
+      "title": "Trust me, i'm partially right: incremental visualization lets analysts explore large datasets faster"
+    },
+    {
+      "paperId": "8a436ddb6060c95799d979aaffd021dbdc9d1f9c",
+      "title": "Supporting improvisation work in inter-organizational crisis management"
+    },
+    {
+      "paperId": "5165892db17e11e588f90c2851a20eaa4be36371",
+      "title": "Interactive dynamics for visual analysis"
+    },
+    {
+      "paperId": "2ff947d6b3239f6fcd4d8beb8a3b2111964f4df4",
+      "title": "BaobabView: Interactive construction and analysis of decision trees"
+    },
+    {
+      "paperId": "f5a0c5cdbcad1c59489e15045df128caa40a2d61",
+      "title": "Visual analytics decision support environment for epidemic modeling and response evaluation"
+    },
+    {
+      "paperId": "0554014148b18892490e26581b9c1319adc9d56a",
+      "title": "Interactive decision making using dissimilarity to visually represented prototypes"
+    },
+    {
+      "paperId": "14649bc7a45078da2a72a0c3995e7a2a38b7123e",
+      "title": "Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback"
+    },
+    {
+      "paperId": "537a94e3250153310f5920dce370df08612f7fa7",
+      "title": "Visualization Rhetoric: Framing Effects in Narrative Visualization"
+    },
+    {
+      "paperId": "879cea58f1713660b8e4fde0a4d9b84613f6ee70",
+      "title": "Visual Recommendations for Network Navigation"
+    },
+    {
+      "paperId": "05d0f1a165636e7878a9f75579775c05cc6bd635",
+      "title": "A Visual Analytics Approach for Peak\u2010Preserving Prediction of Large Seasonal Time Series"
+    },
+    {
+      "paperId": "5daca58997b15a5f98a6e5ad04a8a4f38eb6edfc",
+      "title": "Augmenting web pages and search results to support credibility assessment"
+    },
+    {
+      "paperId": "ae482f37e77922ae6ce8c37fde59078a6ddcf9d4",
+      "title": "Hi-Trees and Their Layout"
+    },
+    {
+      "paperId": "7c308bc72e93974fde9185f6e4e3e0e542f7aeda",
+      "title": "Enhancing text-based chat with visuals for hazardous weather decision making"
+    },
+    {
+      "paperId": "f9d0aac7254414d201b10d2f023aacb9755a6b35",
+      "title": "Herbert Simon's Decision-Making Approach: Investigation of Cognitive Processes in Experts"
+    },
+    {
+      "paperId": "162bd6eadcdebdbc76c39a78c39333b6d763f31f",
+      "title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective"
+    },
+    {
+      "paperId": "134228e2b8bd4a65c7b32f7915d7324850feb4c6",
+      "title": "World Lines"
+    },
+    {
+      "paperId": "22be1cebc94d9eedc2cc6c000bee5222a37a9fd0",
+      "title": "Semiology of Graphics - Diagrams, Networks, Maps"
+    },
+    {
+      "paperId": "5df8836e53e9c312c74ec10f0a2e9601edc91cef",
+      "title": "Using Cognitive Fit Theory to Evaluate the Effectiveness of Information Visualizations: An Example Using Quality Assurance Data"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "bde464c8719ca9608b2e0a5b809f7fc178594cbe",
+      "title": "A Visual Analytics Approach to Understanding Spatiotemporal Hotspots"
+    },
+    {
+      "paperId": "20661ae29f30f0c9a7675397673d33030d4d85a7",
+      "title": "The Science of Interaction"
+    },
+    {
+      "paperId": "b3754b67f12a9f0fdeb440f45df70454773ad636",
+      "title": "FinVis: Applied visual analytics for personal financial planning"
+    },
+    {
+      "paperId": "3e3826606f1a0c70ba1d03a1b7b7515ef5922942",
+      "title": "What's next?: emergent storytelling from video collection"
+    },
+    {
+      "paperId": "b28ccb88c5fe7d728b0d7e5e426c9cf55ca26667",
+      "title": "Defining Insight for Visual Analytics"
+    },
+    {
+      "paperId": "79e7b81378ea609a78f73255d40b8f6ac9a9f3f6",
+      "title": "Applied visual analytics for economic decision-making"
+    },
+    {
+      "paperId": "420029a760af3387b0491c8aabd439d62a604a5c",
+      "title": "Characterizing Users' Visual Analytic Activity for Insight Provenance"
+    },
+    {
+      "paperId": "067bacd962affda26c18755e73d3b5fcb80e369a",
+      "title": "Sesame: informing user security decisions with system visualization"
+    },
+    {
+      "paperId": "edc62dd7276e23c81219678ae7f3ea6bf3e19e24",
+      "title": "Visual Analytics: Definition, Process, and Challenges"
+    },
+    {
+      "paperId": "603455af3c8088e0dc1df5e75db67864b88cb624",
+      "title": "The Value of Information Visualization"
+    },
+    {
+      "paperId": "e30ecedc7f5fa639915e95f153d9561a3da0962f",
+      "title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
+    },
+    {
+      "paperId": "e58fb7c8d309101ed47a8d903563cbeb4c201788",
+      "title": "Visual Analytics Approach to User-Controlled Evacuation Scheduling\u2217"
+    },
+    {
+      "paperId": "34c41ad01df6eb7ea3b83ea4e3d1d095ff934706",
+      "title": "Visual Analytics on Mobile Devices for Emergency Response"
+    },
+    {
+      "paperId": "e6c1619a81ad0e7ee2f32cd4fb29d9819ae6fae3",
+      "title": "Interactive Visualization and Analysis of Network and Sensor Data on Mobile Devices"
+    },
+    {
+      "paperId": "051026bd9523e48c82c4b1c2b0500f1dc4d6d346",
+      "title": "Visual Analysis of Conflicting Opinions"
+    },
+    {
+      "paperId": "bc678e53ebd728f1bfd6d1f1ace0ee78eb9d3c6b",
+      "title": "Interactive Exploration of Data Traffic with Hierarchical Network Maps"
+    },
+    {
+      "paperId": "4efdc2b503e6188d7839bb8cba84d5c5726d0ec8",
+      "title": "Making Sense of Sensemaking 2: A Macrocognitive Model"
+    },
+    {
+      "paperId": "61dd71f9c2c877651a50a5422f23739aef42f09f",
+      "title": "Challenges in Visual Data Analysis"
+    },
+    {
+      "paperId": "695317f69c53eb4a418667e75c9f8f43b89d7e61",
+      "title": "Task taxonomy for graph visualization"
+    },
+    {
+      "paperId": "4fdf98ca739598636fa9d65bed0fd6701d9fb7fe",
+      "title": "A taxonomy of tasks for guiding the evaluation of multidimensional visualizations"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "3b4700859c370c8a065f7019987b097ba06eec25",
+      "title": "The value of visualization"
+    },
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "a36e10546866fc8da83f1e308442cb3a8f7d5d68",
+      "title": "Knowledge precepts for design and evaluation of information visualizations"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "2e51c5821311ffdc9471709e0fd1cb61bf42bbbf",
+      "title": "Interaction spaces in data and information visualization"
+    },
+    {
+      "paperId": "674aae795b11a895e5fc2699a5b97fcb725cedfa",
+      "title": "Maps of Bounded Rationality: Psychology for Behavioral Economics"
+    },
+    {
+      "paperId": "efb038baed734c3afd062c6093afb9f9d2c6fdf3",
+      "title": "Voter Decision Making in Election 2000: Campaign Effects, Partisan Activation, and the Clinton Legacy"
+    },
+    {
+      "paperId": "a7cfd3c748c74bf2923f6b81e58e2b2149c5e386",
+      "title": "Acquisition and Display of Real-Time Atmospheric Data on Terrain"
+    },
+    {
+      "paperId": "6763821aa72aa198220526bd93e338a15910fcf3",
+      "title": "The reader's helper: a personalized document reading environment"
+    },
+    {
+      "paperId": "a7031cd14ba08f096674f0629cef65a2f6809545",
+      "title": "An operator interaction framework for visualization systems"
+    },
+    {
+      "paperId": "5d593b6fa351d12fd2d84b6aa2be4a9a400608d2",
+      "title": "Starting simple: adding value to static visualisation through simple interaction"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "44262de899cdc93b01935d38357d9b2b2543f1b8",
+      "title": "Multidimensional detective"
+    },
+    {
+      "paperId": "b4990cc6460c5696379303575f4232a9d7ec00b1",
+      "title": "Characterizing interactive externalizations"
+    },
+    {
+      "paperId": "de4af9603fddd7365933c9d1564bf23a36a01de9",
+      "title": "On the semantics of interactive visualizations"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "0b34163fbfbc372ab6d1fea80be651523fb1ed96",
+      "title": "Using Treemaps to Visualize the Analytic Hierarchy Process"
+    },
+    {
+      "paperId": "c37500005eda09049f1da867d39ffeb4ce3703fb",
+      "title": "Research report: information animation applications in the capital markets"
+    },
+    {
+      "paperId": "c208009e90e8cfafd31df97aba4166d801fb5682",
+      "title": "A Task-Based Cognitive Model for User-Network Interaction: Defining a Task Taxonomy to Guide the Interface Designer"
+    },
+    {
+      "paperId": "f35f1c75dddf26d0cda6820b0cc4461ec1b656a0",
+      "title": "A characterization of the scientific data analysis process"
+    },
+    {
+      "paperId": "85d5164d33e47b744cece039c0e0bf54ca1cea9d",
+      "title": "Task-analytic approach to the automated design of graphic presentations"
+    },
+    {
+      "paperId": "6d7a058a1be288de36a2c462b902506b320f5034",
+      "title": "A problem-oriented classification of visualization techniques"
+    },
+    {
+      "paperId": "1a0669e9b2274343484c78182b8aa958a146d9a5",
+      "title": "Data characterization for intelligent graphics presentation"
+    },
+    {
+      "paperId": "741be2886b90746b08cac5edb17e581a878bda56",
+      "title": "Human Nature in Politics: The Dialogue of Psychology with Political Science"
+    },
+    {
+      "paperId": "02fe115e148f42097804774aa4dbedb4b8bb3e37",
+      "title": "A Contingency Model for the Selection of Decision Strategies"
+    },
+    {
+      "paperId": "547a664cf042af7ce4f171a65577441833ba673e",
+      "title": "Human Problem Solving."
+    },
+    {
+      "paperId": "d8237600841361f7811f5fd9effaed9d2e6e34b0",
+      "title": "A Behavioral Model of Rational Choice"
+    },
+    {
+      "paperId": null,
+      "title": "This is the author\u2019s version of the article that has been published in IEEE Transactions Computer Graphics. The \ufb01nal version of this record is available at: xx.xxxx/TVCG.201x.xxxxxxx/ 2005"
+    },
+    {
+      "paperId": null,
+      "title": "PeckVis: A Visual Analytics 8 \u00a9 2021 IEEE"
+    },
+    {
+      "paperId": "69353143b97355c954f132d6c723002842cf2d37",
+      "title": "Podium: Ranking Data Using Mixed-Initiative Visual Analytics"
+    },
+    {
+      "paperId": "26948ffe1ac693fd7c3f723c3908f03b41ba52e7",
+      "title": "Conceptual and Methodological Issues in Evaluating Multidimensional Visualizations for Decision Support"
+    },
+    {
+      "paperId": "8ea4934894df841f32efbc72adf4cf5b8dfde405",
+      "title": "Decision Graph Embedding for High-Resolution Manometry Diagnosis"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": "388e8591cb089392f2677f0353d716cf0f9e7b27",
+      "title": "Familiarity Vs Trust: A Comparative Study of Domain Scientists' Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "paperId": "ac21ccc426b3dcf7e608fa78b915a70830ae2c8a",
+      "title": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "paperId": "7b05e91e1c8a3a41c30300ced7587798ab0009c0",
+      "title": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "paperId": "365383980d5fc88f5d372517b20d90a0dc353bfb",
+      "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "paperId": "03b42237e0018d69e85f8e1b236eec3963bec2e8",
+      "title": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "paperId": "9c0af605281b329d15372d0e9af6752cc52630df",
+      "title": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "cb4cc213e2ab38da84d7038e192c0e9757733270",
+      "title": "Evaluation of Interactive Visualization on Mobile Computing Platforms for Selection of Deep Brain Stimulation Parameters"
+    },
+    {
+      "paperId": null,
+      "title": "Ex-ploration and Sensemaking in Jigsaw"
+    },
+    {
+      "paperId": "296fb991b2a9ed03d38c43c1d313adca853b8241",
+      "title": "Towards a Characterization of Interactivity in Visual Analytics"
+    },
+    {
+      "paperId": "24f1a3ec9d02abcd3b5ed7f511b9d8017213954a",
+      "title": "Introduction to Recommender Systems Handbook"
+    },
+    {
+      "paperId": "b4ea6c9465c823d21d1a8a7d36f027b2126d20d3",
+      "title": "Tiled++: An Enhanced Tiled Hi-Res Display Wall"
+    },
+    {
+      "paperId": "e07f75496155cf1d57338abce44ec85198c07a22",
+      "title": "Defi ning Insight for Visual Analytics"
+    },
+    {
+      "paperId": null,
+      "title": "Effective implementation of the \u03b5 -constraint method in Multi-Objective Mathematical Programming problems"
+    },
+    {
+      "paperId": "3b28faf85a8f47672e6ada797f094a915d5683b7",
+      "title": "Organizing and the Process of Sensemaking"
+    },
+    {
+      "paperId": "e0d3ea6f33a2712b9f33707fd33443c1df354ecc",
+      "title": "Illuminating the Path: The Research and Development Agenda for Visual Analytics"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": "b54e09c0b4a8f74be0001d481b34b35b38b7473a",
+      "title": "A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "575c552081fe84efd36323e31c30ce0f9eeeecb1",
+      "title": "Problems for judgment and decision making."
+    },
+    {
+      "paperId": "44dee6ef543361b7c0030b603839637edab03048",
+      "title": "Bounded rationality: The adaptive toolbox"
+    },
+    {
+      "paperId": null,
+      "title": "Enriching buyers\u2019 experiences"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": "d1e4a2b01cad4e0d8cc3780e718acc71467156dd",
+      "title": "A WWW Viewpoint on Scientific Visualization: An EPA Case Study for TechnoIogy Transfer"
+    },
+    {
+      "paperId": "476a740ca1c10df04b4a4602ef852002e9993ec8",
+      "title": "Invariants of human behavior."
+    },
+    {
+      "paperId": "7ca2f194856e80387ab6a66014d1b2025afe12db",
+      "title": "The new science of management decision"
+    },
+    {
+      "paperId": "3538d05c04ce1818fc1252507c97b562ccc9a5b7",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2009 Visualization of Vessel Movements"
+    },
+    {
+      "paperId": "f526ab97665ea1dd9140fc0f098b995234c9d3a8",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Relevance Driven Visualization of Financial Performance Measures"
+    },
+    {
+      "paperId": "8f7536e7b2735181c8d0d09e1e6ab16df9d3da24",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Visualization of Uncertainty in Lattices to Support Decision-making"
+    },
+    {
+      "paperId": "223d0a25fd13902c14d08e6ad82cd5d4887759b6",
+      "title": "Eurographics -ieee Vgtc Symposium on Visualization (2005) Interactive Visualization for Neck-dissection Planning"
+    }
+  ]
+}
