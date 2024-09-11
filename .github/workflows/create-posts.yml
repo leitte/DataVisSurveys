@@ -29,6 +29,11 @@ jobs:
       with:
         name: posts-artifact
         path: posts/
+    - name: Archive taxonomy
+      uses: actions/upload-artifact@v4
+      with:
+        name: taxonomy-artifact
+        path: data/taxonomy.yml
   deploy-posts:
     runs-on: ubuntu-latest
     needs: create-posts
@@ -45,6 +50,11 @@ jobs:
       with:
         name: posts-artifact
         path: docs/_posts
+    - name: Copy taxonomy
+      uses: actions/download-artifact@v4
+      with:
+        name: taxonomy-artifact
+        path: docs/_data/
     - name: Check for changes
       id: changes
       run: |
