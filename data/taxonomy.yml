@@ -25,6 +25,8 @@
   children:
     - id: UncertaintyMethod
       label: uncertainty
+    - id: MachineLearningMethod
+      label: machine learning
 - id: Other
   label: Other
   children:
