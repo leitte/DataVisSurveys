@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_image: NO_EXCERPT_IMAGE
-title: "Whole field modelling. Effective real-time and post-survey visualization of underwater pipelines"
+title: ""Whole field modelling". Effective real-time and post-survey visualization of underwater pipelines"
 date: 1999-10-25
 authors: P. Chapman, D. Wills, P. Stevens & G. Brookes
 venue: "Proceedings Visualization '99 (Cat. No.99CB37067)"
