@@ -64,7 +64,7 @@ jobs:
     - name: Commit and push changes
       if: success() && ${{ steps.changes.outputs.changes_detected == 'true' }}
       run: |
-        git add docs/_posts/*
+        git add docs/_posts/* docs/_data/*
         git commit -m "Add new files to gh-pages"
         git push origin gh-pages
     
