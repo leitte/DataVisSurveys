@@ -3,19 +3,19 @@ import yaml
 import json
 
 directory = 'data/paperMetadata'
-filepath_paperCategories = 'data/paperClassification/paperCategories.yaml'
+filepath_paperCategories = 'data/paperClassification/paperCategories2.yaml'
 
 keywords_to_classes = {
-    'taxonomy': ['taxonomy'],
-    'survey': ['survey', 'state of', 'state-of'],
-    'review': ['review'],
-    'text and documents': [' text'],
-    'graph': ['graph', 'network', 'tree', 'edge', 'matrix', 'set'],
-    'software': ['algorithm', 'program', 'software'],
-    'high-dimensional': ['high-dimensional', 'dimension'],
-    'spatial data': ['volumne', 'surface', 'flow'],
-    'charts': ['task', 'chart', 'grammar', 'information visualization'],
-    'uncertainty': ['uncertain']
+    'Taxonomy': ['taxonomy'],
+    'Survey': ['survey', 'state of', 'state-of'],
+    'Review': ['review'],
+    'TextData': [' text'],
+    'GraphData': ['graph', 'network', 'tree', 'edge', 'matrix', 'set'],
+    'SoftwareDomain': ['algorithm', 'program', 'software'],
+    'HighDimensionalData': ['high-dimensional', 'dimension'],
+    'SpatialData': ['volumne', 'surface', 'flow'],
+    'Charts': ['task', 'chart', 'grammar', 'information visualization'],
+    'UncertaintyMethod': ['uncertain']
 }
 
 def loadPaperCategories (filepath):
@@ -46,23 +46,36 @@ def extractCategories (paperMetadata):
     categories = classifyTitle(paperMetadata['title'], keywords_to_classes)
     return categories
 
-
-
-paper_classes = loadPaperCategories(filepath_paperCategories)
-
-with open(filepath_paperCategories, 'w+') as file:
+def loadAllMetadata (directory):
+    paperMetadata = []
     for filename in os.listdir(directory):
         filepath = os.path.join(directory, filename)
 
         if os.path.isfile(filepath):
-            paperMetadata = loadPaperMetadata(filepath)
-            doi = paperMetadata['externalIds']['DOI']
-            if doi not in paper_classes:
-                file.write(f'{doi}:\n')
-                title_clean = paperMetadata["title"].replace('"','').replace("\u2010","-")
-                print(title_clean)
-                file.write(f'  title: \"{title_clean}\"\n')
-                file.write(f'  categories:\n')
-                categories = extractCategories(paperMetadata)
-                for category in categories:
-                    file.write(f'    - {category}\n')
+            paperMetadata.append(loadPaperMetadata(filepath))
+
+    return paperMetadata
+
+
+
+paper_classes = loadPaperCategories(filepath_paperCategories)
+paper_metadata = loadAllMetadata(directory)
+paper_metadata_sortedYear = sorted(paper_metadata, key=lambda x: x['publicationDate'] if ('publicationDate' in x) and (x['publicationDate']) else str(x['year']), reverse=True)
+
+with open(filepath_paperCategories, 'w') as file:
+    for paperMetadata in paper_metadata_sortedYear:
+        doi = paperMetadata['externalIds']['DOI']
+        file.write(f'{doi}:\n')
+        title_clean = paperMetadata["title"].replace('"','').replace("\u2010","-")
+        file.write(f'  title: \"{title_clean}\"\n')
+        file.write(f'  categories:\n')
+        print(title_clean)
+        
+        if doi not in paper_classes:
+            categories = extractCategories(paperMetadata)
+        else:
+            categories = paper_classes[doi]['categories']
+
+        if categories:
+            for category in categories:
+                file.write(f'    - {category}\n')
