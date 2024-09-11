@@ -7,7 +7,7 @@ authors:
 venue: "Information Visualization"
 doi: 10.1057/PALGRAVE.IVS.9500025
 categories:
-  - Taxonomy
-  - HighDimensionalData
+  - taxonomy
+  - high-dimensional
 ---
 

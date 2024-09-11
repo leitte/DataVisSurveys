@@ -7,7 +7,7 @@ authors: K. C. Potter, P. Rosen & C. R. Johnson
 venue: "WoCoUQ"
 doi: 10.1007/978-3-642-32677-6_15
 categories:
-  - UncertaintyMethod
-  - Taxonomy
+  - uncertainty
+  - taxonomy
 ---
 

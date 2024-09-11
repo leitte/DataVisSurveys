@@ -7,6 +7,6 @@ authors: B. Lee, P. Isenberg, N. Riche & S. Carpendale
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 doi: 10.1109/TVCG.2012.204
 categories:
-  - Charts
+  - charts
 ---
 The importance of interaction to Information Visualization (InfoVis) and, in particular, of the interplay between interactivity and cognition is widely recognized [12, 15, 32, 55, 70]. This interplay, combined with the demands from increasingly large and complex datasets, is driving the increased significance of interaction in InfoVis. In parallel, there have been rapid advances in many facets of interaction technologies. However, InfoVis interactions have yet to take full advantage of these new possibilities in interaction technologies, as they largely still employ the traditional desktop, mouse, and keyboard setup of WIMP (Windows, Icons, Menus, and a Pointer) interfaces. In this paper, we reflect more broadly about the role of more “natural” interactions for InfoVis and provide opportunities for future research. We discuss and relate general HCI interaction models to existing InfoVis interaction classifications by looking at interactions from a novel angle, taking into account the entire spectrum of interactions. Our discussion of InfoVis-specific interaction design considerations helps us identify a series of underexplored attributes of interaction that can lead to new, more “natural,” interaction techniques for InfoVis.

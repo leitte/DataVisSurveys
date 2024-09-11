@@ -7,7 +7,7 @@ authors: S. Liu, W. Cui, Y. Wu & M. Liu
 venue: "The Visual Computer"
 doi: 10.1007/s00371-013-0892-3
 categories:
-  - Survey
-  - Charts
+  - survey
+  - charts
 ---
 

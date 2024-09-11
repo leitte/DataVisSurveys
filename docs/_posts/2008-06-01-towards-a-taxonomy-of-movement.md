@@ -7,6 +7,6 @@ authors: S. Dodge, R. Weibel & A. Lautenschütz
 venue: "Information Visualization"
 doi: 10.1057/PALGRAVE.IVS.9500182
 categories:
-  - Taxonomy
+  - taxonomy
 ---
 

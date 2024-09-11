@@ -7,6 +7,6 @@ authors:
 venue: "IEEE Symposium on Information Visualization 2000. INFOVIS 2000. Proceedings"
 doi: 10.1109/INFVIS.2000.885092
 categories:
-  - Taxonomy
+  - taxonomy
 ---
 In previous work, researchers have attempted to construct taxonomies of information visualization techniques by examining the data domains that are compatible with these techniques. This is useful because implementers can quickly identify various techniques that can be applied to their domain of interest. However, these taxonomies do not help the implementers understand how to apply and implement these techniques. The author extends and proposes a new way to taxonomize information visualization techniques by using the Data State Model (E.H. Chi and J.T. Reidl, 1998). In fact, as the taxonomic analysis in the paper will show, many of the techniques share similar operating steps that can easily be reused. The paper shows that the Data State Model not only helps researchers understand the space of design, but also helps implementers understand how information visualization techniques can be applied more broadly.
