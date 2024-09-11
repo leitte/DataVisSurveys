@@ -1,0 +1,32 @@
+
+.common-list {
+    li.l1 {
+        
+    }
+
+    ul.sublist {
+        border-left: solid 1px #00000018;
+        padding-left: 10px;
+    }
+
+    ul.sublist li {
+        
+    }
+
+    .filter-link {
+        padding: 5px 12px 5px 0px;
+    }
+
+    .list-item {
+        padding: 5px 0px;
+        font-weight: 600;
+    }
+
+    a.active span {
+        background: #ff5100;
+    }
+
+    .normal-text {
+        font-style: normal;
+    }
+}

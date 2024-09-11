@@ -1,0 +1,106 @@
+{% assign keys = site.data.taxonomy %}
+{% assign field = 'categories' %}
+
+<div class="common-list">
+  <ul>
+    <li><a href="#" data-category="all" class="filter-link">All <span>{{ site.posts | size }}</span></a></li>
+    {% for entry in keys %}
+      <li> <div class="list-item">{{ entry.label}} </div>
+        {% if entry.children %}
+          <ul class="sublist">
+            {% for childentry in entry.children %}
+              {% assign key = childentry.label %}
+              <li><a href="#" data-category="{{childentry.label}}" class="filter-link"> {{ childentry.label}} <span><var class="counter normal-text">XX</var> | {{ site.posts | where: field, key | size }}</span></a>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+  function updateURLParameter(key, value) {
+    const url = new URL(window.location.href);
+    let existingParams = url.searchParams.get(key);
+    if (value === "all") {
+      url.search = '';
+    } 
+    else if (existingParams) {
+      let values = existingParams.split('+');
+      if (!values.includes(value)) {
+        values.push(value);
+      } else {
+        values = values.filter( item => item !== value);
+      }
+      url.searchParams.set(key, values.join('+'));
+    } 
+    else {
+      url.searchParams.set(key, value);
+    }
+    
+    history.pushState({}, '', url);
+    window.dispatchEvent(new Event('queryChanged'));
+  }
+
+  function applyFilterFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const filterClass = urlParams.get('category') || 'all';  // Default to showing all if no param
+    filterItems(filterClass);
+    updateCounts();
+  }
+
+  function filterItems (filterClass) {
+    const posts = document.querySelectorAll('li.post-item');
+    const requiredTags = filterClass.split('+');
+    console.log("filter", requiredTags)
+    posts.forEach( post => {
+      const labels = Array.from(post.querySelectorAll('a.post-category,a.post-tag'))
+                          .map(element => element.dataset.label);
+      const hasAllTags = requiredTags.every( tag => labels.includes(tag))
+      if (hasAllTags || filterClass === "all") {
+        post.style.display = "";
+      }
+      else {
+        post.style.display = "none";
+      }
+    });
+  }
+
+  function updateCounts () {
+    const counters = document.querySelectorAll('.filter-link');
+    const allTags = Array.from(document.querySelectorAll('a.post-category,a.post-tag'))
+                         .filter( item => {
+                            const post = item.closest('li');
+                            const isVisible = window.getComputedStyle(post).display !== 'none';
+                            return isVisible;
+                          })
+                         .map( item => item.dataset.label);
+    counters.forEach( counterElem => {
+      const counter = counterElem.querySelector('.counter');
+      if (counter) {
+        const counterTag = counterElem.getAttribute('data-category');
+        const count = allTags.filter(tag => counterTag === tag).length;
+        counterElem.querySelector('var').innerText = count;
+      }
+    })
+  }
+
+  document.querySelectorAll('.filter-link').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      link.classList.toggle('active');
+      const category = e.target.getAttribute('data-category');
+      updateURLParameter('category', category);
+    })
+  });
+
+  window.addEventListener('queryChanged', () => {
+    applyFilterFromURL();
+  });
+
+  window.addEventListener('load', () => {
+    updateURLParameter('categories', 'all')
+  });
+  
+</script>
