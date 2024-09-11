@@ -12,18 +12,18 @@
 - id: DataType
   label: Data type
   children:
-    - id: Table
+    - id: HighDimensionalData
       label: high-dimensional 
-    - id: Graph
+    - id: GraphData
       label: graph
-    - id: Text
+    - id: TextData
       label: text and documents
     - id: SpatialData
       label: spatial data
 - id: Method
   label: Method
   children:
-    - id: Uncertainty
+    - id: UncertaintyMethod
       label: uncertainty
 - id: Other
   label: Other
@@ -33,9 +33,9 @@
 - id: Domain
   label: Domain
   children:
-    - id: Finance
+    - id: FinanceDomain
       label: finance
-    - id: Healthcare
+    - id: HealthcareDomain
       label: healthcare
-    - id: Software
+    - id: SoftwareDomain
       label: software
