@@ -4,7 +4,7 @@ import json
 import yaml
 
 directory = 'data/paperMetadata'
-filepath_paperClasses = 'data/paperClassification/paperCategories.yaml'
+filepath_paperClasses = 'data/paperClassification/paperCategories2.yaml'
 
 def loadPaperMetadata (filepath):
     with open(filepath, 'r') as file:
