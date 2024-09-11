@@ -7,6 +7,6 @@ authors: H. Liu, X. Chen, Y. Wang, B. Zhang, Y. Chen, Y. Zhao & F. Zhou
 venue: "Visual Informatics"
 doi: 10.1016/j.visinf.2021.10.002
 categories:
-  - survey
+  - Survey
 ---
 
