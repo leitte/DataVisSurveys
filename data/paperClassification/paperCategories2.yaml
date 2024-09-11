@@ -35,6 +35,7 @@
   title: "A Survey on Progressive Visualization"
   categories:
     - Survey
+    - Taxonomy
 10.1016/j.visinf.2023.10.003:
   title: "A survey of immersive visualization: Focus on perception and interaction"
   categories:
@@ -61,10 +62,12 @@
   title: "The Reality of the Situation: A Survey of Situated Analytics"
   categories:
     - Survey
+    - Taxonomy
 10.1111/cgf.14856:
   title: "The State of the Art in Visualizing Dynamic Multivariate Networks"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.1111/cgf.14857:
   title: "State-of-the-art in Large-Scale Volume Visualization Beyond Structured Data"
@@ -76,6 +79,7 @@
   title: "The State of the Art in Creating Visualization Corpora for Automated Chart Analysis"
   categories:
     - Survey
+    - Taxonomy
     - Charts
 10.1111/cgf.14794:
   title: "Are We There Yet? A Roadmap of Network Visualization from Surveys to Task Taxonomies"
@@ -121,6 +125,8 @@
 10.1109/TVCG.2022.3209398:
   title: "Multi-View Design Patterns and Responsive Visualization for Genomics Data"
   categories:
+    - Taxonomy
+    - Model
 10.1016/j.visinf.2022.09.001:
   title: "Visualization and visual analysis of multimedia data in manufacturing: A survey"
   categories:
@@ -129,10 +135,13 @@
   title: "Towards a better understanding of the role of visualization in online learning: A review"
   categories:
     - Review
+    - Taxonomy
+    - EducationDomain
 10.1016/j.visinf.2022.07.004:
   title: "A survey of visual analytics techniques for online education"
   categories:
     - Survey
+    - Taxonomy
     - EducationDomain
 10.1109/TVCG.2022.3209460:
   title: "No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization"
@@ -159,6 +168,7 @@
   title: "Chart Question Answering: State of the Art and Future Directions"
   categories:
     - Survey
+    - Taxonomy
     - Charts
 10.1109/TVCG.2022.3167896:
   title: "DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization"
@@ -273,6 +283,7 @@
   title: "AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization"
   categories:
     - Survey
+    - Taxonomy
 10.1111/cgf.14198:
   title: "Visualizing and Interacting with Geospatial Networks: A Survey and Design Space"
   categories:
@@ -282,6 +293,7 @@
   title: "The State of the Art of Spatial Interfaces for 3D Visualization"
   categories:
     - Survey
+    - Taxonomy
 10.1109/TVCG.2021.3106142:
   title: "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
   categories:
@@ -301,10 +313,12 @@
   title: "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
   categories:
     - Review
+    - Taxonomy
 10.1109/TVCG.2019.2907583:
   title: "A Systematic Review of Visualization in Building Information Modeling"
   categories:
     - Review
+    - Taxonomy
 10.1109/VIS47514.2020.00017:
   title: "A Review of Geospatial Content in IEEE Visualization Publications"
   categories:
@@ -316,6 +330,7 @@
   title: "A Survey of Image Synthesis Methods for Visual Machine Learning"
   categories:
     - Survey
+    - Taxonomy
     - MachineLearningMethod
 10.1109/VIS47514.2020.00038:
   title: "Visualizing Information on Watch Faces: A Survey with Smartwatch Users"
@@ -346,8 +361,9 @@
 10.1111/cgf.14037:
   title: "State of the Art in Time-Dependent Flow Topology: Interpreting Physical Meaningfulness Through Mathematical Properties"
   categories:
+    - Surey
+    - Taxonomy
     - SpatialData
-    - Survey
 10.1111/cgf.14034:
   title: "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
   categories:
@@ -432,6 +448,7 @@
 10.1109/TVCG.2019.2934264:
   title: "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics"
   categories:
+    - Taxonomy
 10.1111/cgf.13803:
   title: "A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving"
   categories:
@@ -439,8 +456,9 @@
 10.1109/TVCG.2018.2834341:
   title: "Bridging Text Visualization and Mining: A Task-Driven Survey"
   categories:
-    - TextData
     - Survey
+    - Taxonomy
+    - TextData
     - Charts
 10.1016/J.COLA.2019.03.002:
   title: "Visualization approaches for understanding uncertainty in flow diagrams"
@@ -486,8 +504,9 @@
 10.1111/cgf.13394:
   title: "Generation and Visual Exploration of Medical Flow Data: Survey, Research Trends and Future Challenges"
   categories:
-    - SpatialData
     - Survey
+    - Taxonomy
+    - SpatialData
     - HealthcareDomain
 10.1111/cgf.13595:
   title: "A Survey of Information Visualization Books"
@@ -500,8 +519,9 @@
 10.1109/TVCG.2018.2864889:
   title: "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation"
   categories:
-    - UncertaintyMethod
     - Survey
+    - Taxonomy
+    - UncertaintyMethod
 10.1109/TVCG.2018.2864838:
   title: "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
   categories:
@@ -543,6 +563,7 @@
   title: "A Survey on Multimodal Medical Data Visualization"
   categories:
     - Survey
+    - Taxonomy
     - HealthcareDomain
 10.1111/cgf.13217:
   title: "The State of the Art in Sentiment Visualization"
@@ -577,12 +598,14 @@
   title: "Visualization of Biomolecular Structures: State of the Art Revisited"
   categories:
     - Survey
+    - Taxonomy
 10.1111/cgf.13158:
   title: "Geometric Detection Algorithms for Cavities on Protein Surfaces in Molecular Graphics: A Survey"
   categories:
+    - Survey
+    - Taxonomy
     - SpatialData
     - SoftwareDomain
-    - Survey
     - GraphData
 10.1109/VAST.2017.8585498:
   title: "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics"
@@ -591,6 +614,8 @@
 10.1111/cgf.12873:
   title: "Visual Text Analysis in Digital Humanities"
   categories:
+    - Survey
+    - Taxonomy
     - TextData
     - HumanitiesDomain
 10.1109/TVCG.2016.2610422:
@@ -601,14 +626,17 @@
   title: "Visualizing Group Structures in Graphs: A Survey"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.1109/TVCG.2016.2615308:
   title: "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
   categories:
+    - Survey
 10.1111/cgf.12871:
   title: "Interactive Lenses for Visualization: An Extended Survey"
   categories:
     - Survey
+    - Taxonomy
 10.1080/15230406.2016.1154804:
   title: "Domains of uncertainty visualization research: a visual summary approach"
   categories:
@@ -621,6 +649,7 @@
   title: "State of the Art in Edge and Trail Bundling Techniques"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.1111/cgf.13212:
   title: "Survey of Surveys (SoS) - Mapping The Landscape of Survey Papers in Information Visualization"
@@ -689,6 +718,7 @@
   title: "A Survey of Colormaps in Visualization"
   categories:
     - Survey
+    - Taxonomy
 10.1007/s11390-016-1663-1:
   title: "A Survey of Visual Analytic Pipelines"
   categories:
@@ -788,6 +818,7 @@
   title: "Visualization of Biomolecular Structures: State of the Art"
   categories:
     - Survey
+    - Taxonomy
 10.1109/PACIFICVIS.2015.7156366:
   title: "Text visualization techniques: Taxonomy, visual survey, and community insights"
   categories:
@@ -797,6 +828,7 @@
   title: "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges"
   categories:
     - Survey
+    - Taxonomy
     - HumanitiesDomain
 10.2312/eurovisstar.20151109:
   title: "A Survey of Multi-faceted Graph Visualization"
@@ -816,6 +848,7 @@
   title: "The State of the Art in Visualizing Group Structures in Graphs"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.2312/eurovisshort.20151126:
   title: "Task Taxonomy for Cartograms"
@@ -865,10 +898,13 @@
 10.1109/TVCG.2016.2598827:
   title: "Visualization as Seen through its Research Paper Keywords"
   categories:
+    - Survey
+    - Taxonomy
 10.2312/eurovisstar.20141171:
   title: "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations"
   categories:
     - Review
+    - Taxonomy
     - Model
 10.3145/EPI.2014.MAY.02:
   title: "How we draw texts: a review of approaches to text visualization and exploration"
@@ -906,11 +942,13 @@
   title: "The State of the Art in Visualizing Dynamic Graphs"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.2312/eurovisstar.20141177:
   title: "State of the Art of Performance Visualization"
   categories:
     - Survey
+    - Taxonomy
 10.1007/978-1-4471-6497-5_1:
   title: "Overview and State-of-the-Art of Uncertainty Visualization"
   categories:
@@ -961,6 +999,8 @@
 10.1109/TST.2013.6509098:
   title: "Edge bundling in information visualization"
   categories:
+    - Survey
+    - Taxonomy
     - Charts
     - GraphData
 10.1109/TVCG.2012.133:
@@ -971,6 +1011,7 @@
   title: "State of the Art of Parallel Coordinates"
   categories:
     - Survey
+    - Taxonomy
 10.2312/PE.EuroVisShort.EuroVisShort2013.019-023:
   title: "A Survey of Visualization Construction User Interfaces"
   categories:
@@ -1016,6 +1057,7 @@
   title: "A Survey of Visualization Systems for Network Security"
   categories:
     - Survey
+    - Taxonomy
     - GraphData
 10.1111/j.1467-8659.2012.03125.x:
   title: "A Taxonomy of Visual Cluster Separation Factors"
@@ -1024,6 +1066,8 @@
 10.1111/j.1467-8659.2012.03094.x:
   title: "Conceptualizing Visual Uncertainty in Parallel Coordinates"
   categories:
+    - Survey
+    - Taxonomy
     - UncertaintyMethod
 10.1177/1473871611424815:
   title: "Innovation trajectories for information visualizations: Comparing treemaps, cone trees, and hyperbolic trees"
@@ -1059,6 +1103,7 @@
 10.1177/1473871611416549:
   title: "Visual comparison for information visualization"
   categories:
+    - Taxonomy
     - Charts
 10.1007/978-3-642-21602-2_49:
   title: "Performance Visualization for Large-Scale Computing Systems: A Literature Review"
@@ -1134,6 +1179,7 @@
   title: "A Survey of Radial Methods for Information Visualization"
   categories:
     - Survey
+    - Taxonomy
     - Charts
 10.1109/TVCG.2008.95:
   title: "Survey of the Visual Exploration and Analysis of Perfusion Data"
@@ -1160,6 +1206,7 @@
 10.1109/TVCG.2007.70539:
   title: "Animated Transitions in Statistical Data Graphics"
   categories:
+    - Taxonomy
     - GraphData
 10.1109/TVCG.2007.70535:
   title: "A Taxonomy of Clutter Reduction for Information Visualisation"
@@ -1241,10 +1288,12 @@
 10.1007/s003710050111:
   title: "Approaches to uncertainty visualization"
   categories:
+    - Taxonomy
     - UncertaintyMethod
 10.1080/10618600.1996.10474696:
   title: "Interactive High-Dimensional Data Visualization"
   categories:
+    - Taxonomy
     - HighDimensionalData
 10.1145/180171.180173:
   title: "A review and taxonomy of distortion-oriented presentation techniques"
