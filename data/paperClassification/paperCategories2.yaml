@@ -16,6 +16,8 @@
   title: "Generative AI for Visualization: State of the Art and Future Directions"
   categories:
     - Survey
+    - MachineLearningMethod
+    - Charts
 10.1111/cgf.15112:
   title: "The State of the Art in Visual Analytics for 3D Urban Data"
   categories:
@@ -23,10 +25,13 @@
 10.1111/cgf.15114:
   title: "Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization"
   categories:
+    - Survey
+    - SpatialData
 10.1109/TVCG.2024.3388516:
   title: "A Survey of Designs for Combined 2D+3D Visual Representations"
   categories:
     - Survey
+    - Guidelines
 10.1016/j.visinf.2024.01.002:
   title: "A survey on automatic dashboard recommendation systems"
   categories:
@@ -63,6 +68,7 @@
   categories:
     - Survey
     - Taxonomy
+    - Guidelines
 10.1111/cgf.14856:
   title: "The State of the Art in Visualizing Dynamic Multivariate Networks"
   categories:
@@ -95,6 +101,7 @@
   title: "A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays"
   categories:
     - Review
+    - Guidelines
 10.1111/cgf.14733:
   title: "State of the Art of Visual Analytics for eXplainable Deep Learning"
   categories:
@@ -326,6 +333,8 @@
 10.1109/TVCG.2020.3030419:
   title: "Comparative Layouts Revisited: Design Space, Guidelines, and Future Directions"
   categories:
+    - Review
+    - Guidelines
 10.1111/cgf.14047:
   title: "A Survey of Image Synthesis Methods for Visual Machine Learning"
   categories:
@@ -390,6 +399,7 @@
   title: "Survey on the Analysis of User Interactions and Visualization Provenance"
   categories:
     - Survey
+    - Guidelines
 10.1111/cgf.13905:
   title: "A Survey on Visualizations for Musical Data"
   categories:
@@ -554,6 +564,7 @@
   title: "A Survey of Flattening-Based Medical Visualization Techniques"
   categories:
     - Survey
+    - Guidelines
     - HealthcareDomain
 10.1111/cgf.13447:
   title: "State of the Art of Sports Data Visualization"
@@ -761,6 +772,7 @@
   title: "The State of the Art in Cartograms"
   categories:
     - Survey
+    - Guidelines
 10.1007/978-3-031-02602-7:
   title: "Design of Visualizations for Human-Information Interaction: A Pattern-Based Framework"
   categories:
@@ -779,10 +791,13 @@
 10.1109/TVCG.2015.2467591:
   title: "The Role of Uncertainty, Awareness, and Trust in Visual Analytics"
   categories:
+    - Guidelines
     - UncertaintyMethod
 10.1109/TVCG.2015.2466992:
   title: "Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research"
   categories:
+    - Survey
+    - Guidelines
 10.1109/TVCG.2015.2467551:
   title: "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes"
   categories:
@@ -875,6 +890,7 @@
 10.1109/TVCG.2014.2346578:
   title: "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
   categories:
+    - Guidelines
     - SoftwareDomain
 10.1109/3DVis.2014.7160094:
   title: "2D and 3D presentation of spatial data: A systematic review"
@@ -952,8 +968,9 @@
 10.1007/978-1-4471-6497-5_1:
   title: "Overview and State-of-the-Art of Uncertainty Visualization"
   categories:
-    - UncertaintyMethod
     - Survey
+    - Guidelines
+    - UncertaintyMethod
 10.2312/eurovisstar.20141176:
   title: "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
   categories:
@@ -1024,6 +1041,8 @@
 10.1109/TVCG.2012.213:
   title: "Design Study Methodology: Reflections from the Trenches and the Stacks"
   categories:
+    - Guidelines
+    - Model
 10.1109/TVCG.2012.204:
   title: "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions"
   categories:
@@ -1058,6 +1077,7 @@
   categories:
     - Survey
     - Taxonomy
+    - Guidelines
     - GraphData
 10.1111/j.1467-8659.2012.03125.x:
   title: "A Taxonomy of Visual Cluster Separation Factors"
@@ -1167,6 +1187,8 @@
 10.1109/TVCG.2009.84:
   title: "Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines"
   categories:
+    - Taxonomy
+    - Guidelines
     - Charts
 10.1002/sam.10071:
   title: "Seriation and matrix reordering methods: An historical overview"
