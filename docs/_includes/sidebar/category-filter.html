@@ -25,6 +25,7 @@
     let existingParams = url.searchParams.get(key);
     if (value === "all") {
       url.search = '';
+      document.querySelectorAll('.filter-link').forEach( item => item.classList.remove('active'));
     } 
     else if (existingParams) {
       let values = existingParams.split('+');
