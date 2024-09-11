@@ -1,0 +1,183 @@
+{
+  "paperId": "590b1b9ed44afb2df6d102139cfb5f5e0c31f1dc",
+  "externalIds": {
+    "DBLP": "journals/cga/ChenGJKT17",
+    "MAG": "2750322846",
+    "DOI": "10.1109/MCG.2017.3271463",
+    "CorpusId": 2234553,
+    "PubMed": "28829298"
+  },
+  "publicationVenue": {
+    "id": "0bf2c493-a93b-464a-b3d9-e18fbb4a7965",
+    "name": "IEEE Computer Graphics and Applications",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Comput Graph Appl"
+    ],
+    "issn": "0272-1716",
+    "url": "http://www.computer.org/cga/",
+    "alternate_urls": [
+      "https://ieeexplore.ieee.org/servlet/opac?punumber=38"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/590b1b9ed44afb2df6d102139cfb5f5e0c31f1dc",
+  "title": "Pathways for Theoretical Advances in Visualization",
+  "abstract": "There is little doubt that having a theoretic foundation will benefit the field of visualization, including its main subfields. Because there has been a substantial amount of work on taxonomies and conceptual models in the visualization literature and some recent work on theoretic frameworks, such a theoretic foundation is not a foolish or impractical ambition. This article asks, \u201cHow can we build a theoretic foundation for visualization collectively as a community?\u201d The authors envision the pathways for four different aspects of a theoretic foundation: taxonomies and ontologies, principles and guidelines, conceptual models and theoretic frameworks, and quantitative laws and theoretic systems.",
+  "venue": "IEEE Computer Graphics and Applications",
+  "year": 2017,
+  "referenceCount": 24,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc5819994?pdf=render",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": null,
+  "journal": {
+    "name": "IEEE Computer Graphics and Applications",
+    "pages": "103-112",
+    "volume": "37"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2017PathwaysFT,\n author = {Min Chen and G. Grinstein and Chris R. Johnson and J. Kennedy and Melanie Tory},\n booktitle = {IEEE Computer Graphics and Applications},\n journal = {IEEE Computer Graphics and Applications},\n pages = {103-112},\n title = {Pathways for Theoretical Advances in Visualization},\n volume = {37},\n year = {2017}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "12134086",
+      "name": "Min Chen"
+    },
+    {
+      "authorId": "48590079",
+      "name": "G. Grinstein"
+    },
+    {
+      "authorId": "145120439",
+      "name": "Chris R. Johnson"
+    },
+    {
+      "authorId": "1977511",
+      "name": "J. Kennedy"
+    },
+    {
+      "authorId": "2441204",
+      "name": "Melanie Tory"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "8a5d58d9c5e9d6468952de3e7a7eb3e8f7075368",
+      "title": "Information Theory Tools for Visualization"
+    },
+    {
+      "paperId": "b4993a539bcdfddffa42082ae4743c03c6dec6cd",
+      "title": "A Field Study of On-Calendar Visualizations"
+    },
+    {
+      "paperId": "87693092a14f3e56015da013b1f6909a217d1d28",
+      "title": "The nested blocks and guidelines model"
+    },
+    {
+      "paperId": "847976a5526bbdf2f9995121e1d71de81edae776",
+      "title": "An Algebraic Process for Visualization Design"
+    },
+    {
+      "paperId": "957f6d67d133ccc870cdc454f2c22e8d33c62b54",
+      "title": "A human cognition framework for information visualization"
+    },
+    {
+      "paperId": "11255299fa62f263422c3c9758bef36b9cb61405",
+      "title": "Ontologies in Biological Data Visualization"
+    },
+    {
+      "paperId": "966f1485f34e48b3531bf9092bde884bcef56cb0",
+      "title": "A Design Space of Visualization Tasks"
+    },
+    {
+      "paperId": "529a1526a856229d05160b9d48f1de0f2127a775",
+      "title": "From Data Analysis and Visualization to Causality Discovery"
+    },
+    {
+      "paperId": "6584be2c6c09a4a44cdbbceb57792985c6bb359c",
+      "title": "Heuristics for information visualization evaluation"
+    },
+    {
+      "paperId": "1cde9f9d6b4ab63ec6804479cdc7e9f9a2e55884",
+      "title": "Top Scientific Visualization Research Problems"
+    },
+    {
+      "paperId": "172c6ad67c02b6d22a1f23a678583d547cffd4e8",
+      "title": "Conceptual Structures: Information Processing in Mind and Machine"
+    },
+    {
+      "paperId": "e890a12f7daaea0f23d189acb61e2eda160d5c42",
+      "title": "The Discovery of Grounded Theory: Strategies for Qualitative Research"
+    },
+    {
+      "paperId": "6c5ae854864c91033537d38e9de3fd1af0261925",
+      "title": "On the Early History of `Ontology'"
+    },
+    {
+      "paperId": "62aa06f03b74157a2ab2ab7abd16b388bcbb8436",
+      "title": "Massachusetts"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cReferences for Theoretic Researches in Visualization,\u201d"
+    },
+    {
+      "paperId": "19d844b368e075ac9bdb3686f07bfd7047667875",
+      "title": "The Perfect Theory"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "390b46be044676d723283f77101eb1232b647236",
+      "title": "Verifying Volume Rendering Using Discretization Error Analysis."
+    },
+    {
+      "paperId": null,
+      "title": "Drawing Theories Apart"
+    },
+    {
+      "paperId": null,
+      "title": "The Development of Biological Systematics"
+    },
+    {
+      "paperId": "fab610330430149753247e24f5bf9893e21be108",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization 2008 from Web Data to Visualization via Ontology Mapping"
+    },
+    {
+      "paperId": null,
+      "title": "\u201cTRM Glossary,\u201d"
+    },
+    {
+      "paperId": null,
+      "title": "Jessie Kennedy is a professor at Edinburgh"
+    },
+    {
+      "paperId": null,
+      "title": "Read your subscriptions through the myCS publications portal"
+    }
+  ]
+}

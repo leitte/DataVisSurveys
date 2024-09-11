@@ -1,0 +1,360 @@
+{
+  "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+  "externalIds": {
+    "MAG": "2050674259",
+    "DBLP": "journals/tvcg/BoyRBF14",
+    "DOI": "10.1109/TVCG.2014.2346984",
+    "CorpusId": 18041674,
+    "PubMed": "26356910"
+  },
+  "publicationVenue": {
+    "id": "5e1f6444-5d03-48c7-b202-7f47d492aeae",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Trans Vis Comput Graph"
+    ],
+    "issn": "1077-2626",
+    "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=2945"
+  },
+  "url": "https://www.semanticscholar.org/paper/7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+  "title": "A Principled Way of Assessing Visualization Literacy",
+  "abstract": "We describe a method for assessing the visualization literacy (VL) of a user. Assessing how well people understand visualizations has great value for research (e. g., to avoid confounds), for design (e. g., to best determine the capabilities of an audience), for teaching (e. g., to assess the level of new students), and for recruiting (e. g., to assess the level of interviewees). This paper proposes a method for assessing VL based on Item Response Theory. It describes the design and evaluation of two VL tests for line graphs, and presents the extension of the method to bar charts and scatterplots. Finally, it discusses the reimplementation of these tests for fast, effective, and scalable web-based use.",
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2014,
+  "referenceCount": 69,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01027582/file/vLiteracy.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2014-11-06",
+  "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "pages": "1963-1972",
+    "volume": "20"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Boy2014APW,\n author = {Jeremy Boy and Ronald A. Rensink and E. Bertini and Jean-Daniel Fekete},\n booktitle = {IEEE Transactions on Visualization and Computer Graphics},\n journal = {IEEE Transactions on Visualization and Computer Graphics},\n pages = {1963-1972},\n title = {A Principled Way of Assessing Visualization Literacy},\n volume = {20},\n year = {2014}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "48857747",
+      "name": "Jeremy Boy"
+    },
+    {
+      "authorId": "2653462",
+      "name": "Ronald A. Rensink"
+    },
+    {
+      "authorId": "1519978914",
+      "name": "E. Bertini"
+    },
+    {
+      "authorId": "144381703",
+      "name": "Jean-Daniel Fekete"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2fd52598e51a4c12f53dff085c8f87e87d81086b",
+      "title": "Semantics"
+    },
+    {
+      "paperId": "ec0077ecfe26c7bfdd358445a73df4ac645203ff",
+      "title": "New Models of Deep Comprehension"
+    },
+    {
+      "paperId": "e250c61ed60db08b8c545bdf9f8f80b96a20a903",
+      "title": "Comparing averages in time series data"
+    },
+    {
+      "paperId": "83958447ec28261c1f9ecc09887b10e12226b296",
+      "title": "A Study on Dual-Scale Data Charts"
+    },
+    {
+      "paperId": "1a5255c3567a89ed13514490fcce3ee6a6724d2f",
+      "title": "Applying the Rasch Model to Measure First-Year Students\u2019 Perceptions of College Academic Readiness"
+    },
+    {
+      "paperId": "69feaf368666804f3f2bb9a121dd070a981966db",
+      "title": "The Perception of Correlation in Scatterplots"
+    },
+    {
+      "paperId": "95c3091d06b1543567441bd6f18c828421f43c08",
+      "title": "Item Response Theory"
+    },
+    {
+      "paperId": "55d3281f6b34c50df975b7261044689bf73ec610",
+      "title": "Crowdsourcing graphical perception: using mechanical turk to assess visualization design"
+    },
+    {
+      "paperId": "dea5b93411684033dfae48c9c3682bc6ec640660",
+      "title": "Basic Reading Skills and the Literacy of America's Least Literate Adults: Results from the 2003 National Assessment of Adult Literacy (NAAL) Supplemental Studies. NCES 2009-481."
+    },
+    {
+      "paperId": "a76d84cf886dcc2a8dedb72a9281fe35741c88b2",
+      "title": "Shedding light on the graph schema: Perceptual features versus invariant structure"
+    },
+    {
+      "paperId": "f00cdbd27e0898a4c78077ad6c7be52c208c3b54",
+      "title": "ltm: An R Package for Latent Variable Modeling and Item Response Analysis"
+    },
+    {
+      "paperId": "64a0a254d5e179b72f9da0117dba54c15dfa868e",
+      "title": "Toward a Comprehensive Model of Graph Comprehension: Making the Case for Spatial Cognition"
+    },
+    {
+      "paperId": "36fcd0b4b2d5036b7972904cc71fdd1d22b4c79c",
+      "title": "Toward a Model of Knowledge-Based Graph Comprehension"
+    },
+    {
+      "paperId": "a1fc6e559f09eb4e6ebdf158c62763131dc7bd4b",
+      "title": "Extracting Explicit and Implict Information from Complex Visualizations"
+    },
+    {
+      "paperId": "126bdd6de37eafc8615f716257cf352335374949",
+      "title": "THE INTERNATIONAL ADULT LITERACY SURVEY (IALS): UNDERSTANDING WHAT WAS MEASURED"
+    },
+    {
+      "paperId": "5c59c684260130d4fd435b0da729e01a13358c75",
+      "title": "Making sense of graphs: Critical factors influencing comprehension and instructional implications."
+    },
+    {
+      "paperId": "dcbe13ac07fd3ac276a2821b71f56be7de7deed0",
+      "title": "An item response theory analysis of self-report measures of adult attachment."
+    },
+    {
+      "paperId": "f3c1c43a17bad0d0892f170a91ce247224c3517c",
+      "title": "Experimental components for the evaluation of interactive information retrieval systems"
+    },
+    {
+      "paperId": "192c4cf1c836853f1f8eb1eb9669346f9124bb06",
+      "title": "Correlation estimates as perceptual judgments."
+    },
+    {
+      "paperId": "b8910ec98f9dbf85f4163fa2b34246ab532ace16",
+      "title": "Linking the Language Arts and Content Areas through Visual Technology"
+    },
+    {
+      "paperId": "82ea482291025ac78047c417fffcfd1c0cb07037",
+      "title": "Scientific Diagrams: How Well Can Students Read Them? What Research Says to the Science and Mathematics Teacher. Number 3."
+    },
+    {
+      "paperId": "6cb107f17df5d7136693bb770d619440b8e5992f",
+      "title": "\u201cReading\u201d scientific diagrams: Characterising components of skilled performance"
+    },
+    {
+      "paperId": "4ae3d432d59020c85fc4edd4c0365ac76bdd8c9c",
+      "title": "Comprehension of Mathematical Relationships Expressed in Graphs."
+    },
+    {
+      "paperId": "005358e0e57fb76972a68631a16b1013df99c31b",
+      "title": "Computerized Manufacturing Automation: Employment, Education, and the Workplace Office of Technology Assessment"
+    },
+    {
+      "paperId": "94f10b37b7dcf6c735e8fcc2c5ea7fceb24eb210",
+      "title": "Item Response Theory"
+    },
+    {
+      "paperId": "ffb9ad67fc6a13a744baf27e3248e3829934c2b5",
+      "title": "Variables on Scatterplots Look More Highly Correlated When the Scales Are Increased"
+    },
+    {
+      "paperId": "f12e5c4f13472872be33c173a5c42d7ee825e160",
+      "title": "A Test of Graphicacy in Children"
+    },
+    {
+      "paperId": "b35bd2ba05ba36e6c54ff615827f4935c5fd4cb3",
+      "title": "THE PERCEPTION OF PEARSON PRODUCT MOMENT CORRELATIONS FROM BIVARIATE SCATTERPLOTS"
+    },
+    {
+      "paperId": "ecb488a15c707a2468d501a617a0c42f1c33c8d8",
+      "title": "Identification of visual correlational scatterplots."
+    },
+    {
+      "paperId": null,
+      "title": "Numeracy skills tests: Bar charts"
+    },
+    {
+      "paperId": null,
+      "title": "Department for Education. Numeracy skills tests: Bar charts. http://www.education.gov.uk/schools/careers/ traininganddevelopment/professional/b00211213/ numeracy/areas/barcharts"
+    },
+    {
+      "paperId": null,
+      "title": "Pisa 2012 assessment and analytical framework"
+    },
+    {
+      "paperId": null,
+      "title": "Why two charts make me feel like an expert on Portugal . http://tiny.cc/ujgjdx"
+    },
+    {
+      "paperId": null,
+      "title": "A study on dualscale data charts. Visualization and Computer Graphics"
+    },
+    {
+      "paperId": "841940250cc7910bf33279b7373715f553cc4211",
+      "title": "Visual Information Literacy: Reading a Documentary Photograph."
+    },
+    {
+      "paperId": "95d00cb0514fab64c09b8e99caf48a7475f87148",
+      "title": "APPLYING THE RASCH MODEL TO PSYCHO-SOCIAL MEASUREMENT A PRACTICAL APPROACH"
+    },
+    {
+      "paperId": null,
+      "title": "New kinds of literacy, and the world of visual information Literacy"
+    },
+    {
+      "paperId": "cb111e9c6e57cf055e18ef9701da2696a6b2657c",
+      "title": "A Model of the Perceptual and Conceptual Processes in Graph Comprehension"
+    },
+    {
+      "paperId": "6954f022d9e51cf411e609a35f241db97ee63ee8",
+      "title": "NATIONAL CENTER FOR EDUCATION STATISTICS"
+    },
+    {
+      "paperId": "a25a0a17153ae8022be387240f720bb5b0e006b3",
+      "title": "A Model of the Cognitive and Perceptual Processes in Graphical Display Comprehension"
+    },
+    {
+      "paperId": null,
+      "title": "The Miller word-identification assessment"
+    },
+    {
+      "paperId": "cd3929c6e994a712739b907f06622eb814e18881",
+      "title": "A theory of graph comprehension."
+    },
+    {
+      "paperId": null,
+      "title": "Presidential committee on information literacy: Final report"
+    },
+    {
+      "paperId": null,
+      "title": "Semiologie Graphique"
+    },
+    {
+      "paperId": null,
+      "title": "The Crowther Report , volume 1"
+    },
+    {
+      "paperId": "47aa8cc92baf1d7a72d70be55acc4931236a7172",
+      "title": "HER MAJESTY'S STATIONERY OFFICE"
+    },
+    {
+      "paperId": null,
+      "title": "National Cancer Institute. Item response theory modeling"
+    },
+    {
+      "paperId": null,
+      "title": "For more information, refer to"
+    },
+    {
+      "paperId": null,
+      "title": "How to read a bar chart"
+    },
+    {
+      "paperId": null,
+      "title": "Randomize the order of items and of repetitions . This is common practice in experiment design, having the bene\ufb01t of preventing carryover effects"
+    },
+    {
+      "paperId": null,
+      "title": "Rasch analysis. http://www. rasch-analysis.com/rasch-models.htm"
+    },
+    {
+      "paperId": null,
+      "title": "Generate all 2 n i \u2212 1 possible score patterns , where n i is the number of retained items in the test"
+    },
+    {
+      "paperId": null,
+      "title": "1] https://github.com/INRIA/Visualization-Literacy-101"
+    },
+    {
+      "paperId": null,
+      "title": "Fit the original constrained version of the Rasch model to the data"
+    },
+    {
+      "paperId": null,
+      "title": "Randomize order of items and of repetitions"
+    },
+    {
+      "paperId": null,
+      "title": "Identify overlapping items and remove them. If the goal is to design a short test, such items can safely be removed, as they provide only redundant information (see Sect. 6.1)"
+    },
+    {
+      "paperId": null,
+      "title": "nee\u2019s ability since it erases one-time errors which may be due to lack of attention or to clicking on the wrong answer by mistake"
+    },
+    {
+      "paperId": null,
+      "title": "Determine which IRT model variant best \ufb01ts the data"
+    },
+    {
+      "paperId": null,
+      "title": "Cognitive testing interview guide"
+    },
+    {
+      "paperId": null,
+      "title": "Adult literacy and lifeskills survey"
+    },
+    {
+      "paperId": null,
+      "title": "Once the results are in, sort the data according to item and repetition ID, remove the data for the question comprehension condition, and encode examinees\u2019 scores in a dichotomous way ,"
+    },
+    {
+      "paperId": null,
+      "title": "RUMMLaboratory"
+    },
+    {
+      "paperId": null,
+      "title": "Check the \ufb01t of the model"
+    },
+    {
+      "paperId": null,
+      "title": "Derive the ability scores from the model , using the patterns of responses generated in step 11. These scores represent the range of visualization literacy levels that the test can assess"
+    },
+    {
+      "paperId": null,
+      "title": "Numerical reasoning online"
+    },
+    {
+      "paperId": null,
+      "title": "What is media literacy? a definition"
+    },
+    {
+      "paperId": null,
+      "title": "Literacy assessment and monitoring programme"
+    },
+    {
+      "paperId": null,
+      "title": "Graph design i.q"
+    },
+    {
+      "paperId": null,
+      "title": "Identify potentially useless items"
+    }
+  ]
+}

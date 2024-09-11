@@ -1,0 +1,232 @@
+{
+  "paperId": "773bc22c13ec5c66b255cf743920f1248bcd0219",
+  "externalIds": {
+    "MAG": "2904653167",
+    "DBLP": "conf/iv/Figueiras18",
+    "DOI": "10.1109/iV.2018.00035",
+    "CorpusId": 54454582
+  },
+  "publicationVenue": {
+    "id": "72c05183-0dc0-4677-a987-a1d6a8691b97",
+    "name": "International Conference on Information Visualisation",
+    "type": "conference",
+    "alternate_names": [
+      "IEEE International Conference on Information Visualization",
+      "Intell Veh Symp",
+      "IEEE Int Conf Inf Vis",
+      "IV",
+      "Int Conf Inf Vis",
+      "Intelligent Vehicles Symposium"
+    ],
+    "url": "http://www.wikicfp.com/cfp/program?id=1803"
+  },
+  "url": "https://www.semanticscholar.org/paper/773bc22c13ec5c66b255cf743920f1248bcd0219",
+  "title": "A Review of Visualization Assessment in Terms of User Performance and Experience",
+  "abstract": "Traditionally, information visualization research tends to focus only on performance related metrics such as task completion time and correctness. However, a recent interest on goals such as memorability, engagement, and fun has also sparked. We propose a reflection on visualization assessment supported by a profound analysis of research that includes user studies of visualization tools and techniques. The motivation for this study is to explore the possible benefits of having a unified standardized metric for usability and user experience that can become a clearer quantitative model of both. Such a metric can provide visualization researchers and practitioners a more succinct and accurate way to assess their visualizations.",
+  "venue": "International Conference on Information Visualisation",
+  "year": 2018,
+  "referenceCount": 42,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "publicationDate": "2018-07-01",
+  "journal": {
+    "name": "2018 22nd International Conference Information Visualisation (IV)",
+    "pages": "145-152"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Figueiras2018ARO,\n author = {A. Figueiras},\n booktitle = {International Conference on Information Visualisation},\n journal = {2018 22nd International Conference Information Visualisation (IV)},\n pages = {145-152},\n title = {A Review of Visualization Assessment in Terms of User Performance and Experience},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "144979568",
+      "name": "A. Figueiras"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0b0d051715078288d5356013707445a53f0edfa9",
+      "title": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "paperId": "9dd441d6cdd76095489bfedee3adc29bc693e3d0",
+      "title": "Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps"
+    },
+    {
+      "paperId": "b04cdcd9d8d3ba4f0151a2579b53da21ee3a8019",
+      "title": "Assessing User Engagement in Information Visualization"
+    },
+    {
+      "paperId": "bff62af95d0cb27c92df4c9ef31324d156f1c705",
+      "title": "Eye tracking the user experience - An evaluation of ontology visualization techniques"
+    },
+    {
+      "paperId": "9a73df466315fb5449413dd126dd600b34775c2f",
+      "title": "Beyond Usability and Performance: A Review of User Experience-focused Evaluations in Visualization"
+    },
+    {
+      "paperId": "9c0102f06ad701227121cb55a7ec4dcf52d78525",
+      "title": "Using Gap Charts to Visualize the Temporal Evolution of Ranks and Scores"
+    },
+    {
+      "paperId": "8cdb7f94b4e32a84826a586298ab5d970a40d2ef",
+      "title": "AmbiguityVis: Visualization of Ambiguity in Graph Layouts"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "59e84821ee1e7b5f8369f192b8e6f05b150714f2",
+      "title": "Map\u2010based Visualizations Increase Recall Accuracy of Data"
+    },
+    {
+      "paperId": "9e43e9f2d19f25ad43f84bb5fefff9ca7bac492c",
+      "title": "ISOTYPE Visualization: Working Memory, Performance, and Engagement with Pictographs"
+    },
+    {
+      "paperId": "73a9e37e6fe9586982d041f2d5999d41affe9398",
+      "title": "Storytelling in Information Visualizations: Does it Engage Users to Explore Data?"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "0b954026b40001ead505eced1ef72b1aa43fa29c",
+      "title": "Visual task solution strategies in tree diagrams"
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "f3c18847346af335ba75f4bc1fa8cdab49840994",
+      "title": "Perception of Animated Node\u2010Link Diagrams for Dynamic Graphs"
+    },
+    {
+      "paperId": "ee68c113def84b847c41be19294cc2f05f821889",
+      "title": "Tracing Tuples Across Dimensions: A Comparison of Scatterplots and Parallel Coordinate Plots"
+    },
+    {
+      "paperId": "a974cd39dc5ef1e39eba60ceacd818626bdc8958",
+      "title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "26a745453e0b1eda30e40db15314fdb9219c15b9",
+      "title": "DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data"
+    },
+    {
+      "paperId": "6e77a3fce66982106066636634549ea219450d78",
+      "title": "Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies"
+    },
+    {
+      "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+      "title": "Toward measuring visualization insight"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "31f8135d57de768fec15596147dc82396ae6e70d",
+      "title": "Top 10 Unsolved Information Visualization Problems"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "09ce71ed1c4aa4a7ea2f81875f2f5c007be91b8e",
+      "title": "Contextual design"
+    },
+    {
+      "paperId": "c6ad98f44d12fc07cf99dd3570e0de7a72fd4913",
+      "title": "A Practical Guide to Usability Testing"
+    },
+    {
+      "paperId": "0e702fa88d2edd13c20975b03bfae38b119ddc7c",
+      "title": "ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding"
+    },
+    {
+      "paperId": "f0dfedc63598f532827a40b532bb3ff2e870bffb",
+      "title": "CyteGuide: Visual Guidance for Hierarchical Single-Cell Analysis"
+    },
+    {
+      "paperId": "bf6ff8f93a166f68ef72699540162bb51b99fa17",
+      "title": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs"
+    },
+    {
+      "paperId": "558f4f6683dcdc6959818e6cbc228e31b931bcec",
+      "title": "iTTVis: Interactive Visualization of Table Tennis Data"
+    },
+    {
+      "paperId": "590b1b9ed44afb2df6d102139cfb5f5e0c31f1dc",
+      "title": "Pathways for Theoretical Advances in Visualization"
+    },
+    {
+      "paperId": "575b2c7efaf66291ad5dff011e978417e3727ef3",
+      "title": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": "b931ea54f29f754816799512c2fc38685c10e947",
+      "title": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "paperId": "1de90476e9c4f016ed9a68a7653bb35fcc41aefc",
+      "title": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "paperId": "eef25ee9ef76c1e3ccce6a63c401998f3dbd5a47",
+      "title": "User Studies in Visualization: A Reflection on Methods"
+    },
+    {
+      "paperId": null,
+      "title": "visualizations\u201d, in Information Visualization: Human-Centered Issues and Perspectives"
+    },
+    {
+      "paperId": "2c6899f6612da7f334c703c33a2f4d204d012464",
+      "title": "Tube Map Visualization: Evaluation of a Novel Knowledge Visualization Application for the Transfer of Knowledge in Long-Term Projects"
+    },
+    {
+      "paperId": "10e308117fe4936d9cd4d33339d13fd7b0385365",
+      "title": "Emotional design : why we love (or hate) everyday things"
+    },
+    {
+      "paperId": "c0ca690b908ef945f5be33de199c67a9bc61b741",
+      "title": "Ergonomic requirements for office work with visual display terminals (VDTs) \u2014"
+    },
+    {
+      "paperId": "a1f70de54f1f81fdea3db3651b43c6e8e3b2a423",
+      "title": "A Practical Guide to Usability Testing"
+    }
+  ]
+}

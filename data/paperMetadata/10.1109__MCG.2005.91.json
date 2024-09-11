@@ -1,0 +1,116 @@
+{
+  "paperId": "31f8135d57de768fec15596147dc82396ae6e70d",
+  "externalIds": {
+    "MAG": "2162147429",
+    "DBLP": "journals/cga/Chen05",
+    "DOI": "10.1109/MCG.2005.91",
+    "CorpusId": 20325790,
+    "PubMed": "16060568"
+  },
+  "publicationVenue": {
+    "id": "0bf2c493-a93b-464a-b3d9-e18fbb4a7965",
+    "name": "IEEE Computer Graphics and Applications",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Comput Graph Appl"
+    ],
+    "issn": "0272-1716",
+    "url": "http://www.computer.org/cga/",
+    "alternate_urls": [
+      "https://ieeexplore.ieee.org/servlet/opac?punumber=38"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/31f8135d57de768fec15596147dc82396ae6e70d",
+  "title": "Top 10 Unsolved Information Visualization Problems",
+  "abstract": "The top 10 unsolved problems list described in this article is a revised and extended version of information visualization problems. These problems are not necessarily imposed by technical barriers, rather, they are problems that might hinder the growth of information visualization as a field. The first three problems highlight issues from a user-centered perspective. The fifth, sixth, and seventh problems are technical challenges in nature. The last three are the ones that need tackling at the disciplinary level. The author broadly defines information visualization as visual representations of the semantics, or meaning, of information. In contrast to scientific visualization, information visualization typically deals with nonnumeric, nonspatial, and high-dimensional data.",
+  "venue": "IEEE Computer Graphics and Applications",
+  "year": 2005,
+  "referenceCount": 12,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2005-07-01",
+  "journal": {
+    "name": "IEEE computer graphics and applications",
+    "pages": "\n          12-6\n        ",
+    "volume": "25 4"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Chen2005Top1U,\n author = {Chaomei Chen},\n booktitle = {IEEE Computer Graphics and Applications},\n journal = {IEEE computer graphics and applications},\n pages = {\n          12-6\n        },\n title = {Top 10 Unsolved Information Visualization Problems},\n volume = {25 4},\n year = {2005}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "11699416",
+      "name": "Chaomei Chen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "a5934b44763a9c3d4906e9ce0d118f31f51fac41",
+      "title": "Information Visualization: Beyond the Horizon"
+    },
+    {
+      "paperId": "ae527e9bfe9f72a1bad6103e7862c531c324cd37",
+      "title": "Panel 1: Can We Determine the Top Unresolved Problems of Visualization?"
+    },
+    {
+      "paperId": "1903c8b9dc5a32646f2b7aec3c96bb9aca09c805",
+      "title": "Searching for intellectual turning points: Progressive knowledge domain visualization"
+    },
+    {
+      "paperId": "a99edf4b20c50d1cf30965c12f75b8a1a3bf513f",
+      "title": "Dynamic visualization of transient data streams"
+    },
+    {
+      "paperId": "0e10a17a2e8d0b56989c5b2e1e6e881e885ac6c6",
+      "title": "Empirical evaluation of information visualizations: an introduction"
+    },
+    {
+      "paperId": "bfd0a98893e5b405d43668a2e39f28901b9fdd82",
+      "title": "Finite Mixture Models"
+    },
+    {
+      "paperId": "de3ec11fe51e9abc6a6c1a639044ae5a70c43e72",
+      "title": "A Hierarchical Latent Variable Model for Data Visualization"
+    },
+    {
+      "paperId": "77f3da5da09923ad44e225f75c0aa6b5e946d534",
+      "title": "Preattentive processing in vision"
+    },
+    {
+      "paperId": "fa459de6552f5cd0cbe28539c0c7c65bc112a164",
+      "title": "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods"
+    },
+    {
+      "paperId": "a3f90bba46f707c04fba2c30c98ddc3ecdef8613",
+      "title": "Visualizing the Evolution of HCI"
+    },
+    {
+      "paperId": "4867438e85c7fce829e543418f5b5a3bbe003aee",
+      "title": "Visual Explanations"
+    },
+    {
+      "paperId": "4f2c9aa56a82e89081c5f6d40a9c4c39a3888b8f",
+      "title": "Journal of Graph Algorithms and Applications a Fast Multi-scale Method for Drawing Large Graphs"
+    }
+  ]
+}
