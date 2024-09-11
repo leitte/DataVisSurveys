@@ -1,0 +1,41 @@
+- id: PaperType
+  label: Paper type
+  children:
+    - id: Survey
+      label: survey
+    - id: Review
+      label: review
+    - id: Taxonomy
+      label: taxonomy
+    - id: Model
+      label: model
+- id: DataType
+  label: Data type
+  children:
+    - id: HighDimensionalData
+      label: high-dimensional 
+    - id: GraphData
+      label: graph
+    - id: TextData
+      label: text and documents
+    - id: SpatialData
+      label: spatial data
+- id: Method
+  label: Method
+  children:
+    - id: UncertaintyMethod
+      label: uncertainty
+- id: Other
+  label: Other
+  children:
+    - id: Charts
+      label: charts
+- id: Domain
+  label: Domain
+  children:
+    - id: FinanceDomain
+      label: finance
+    - id: HealthcareDomain
+      label: healthcare
+    - id: SoftwareDomain
+      label: software

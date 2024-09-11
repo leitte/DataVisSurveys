@@ -26,8 +26,25 @@ def loadPaperTags (filepath):
         tags = yaml.safe_load(file)
         return tags
     
+def createIdToLabelMapping ():
+    def extractMapping (items, result):
+        for item in items:
+            result[item['id']] = item['label']
+            if 'children' in item:
+                extractMapping( item['children'], result)
+
+    with open('data/taxonomy.yml', 'r') as file:
+        taxonomy = yaml.safe_load(file)
+
+        id_to_label = {}
+        extractMapping(taxonomy, id_to_label)
+        return id_to_label
+
+
+    
 npapers = 0
 paper_categories = loadPaperTags(filepath_paperClasses)
+id_to_label = createIdToLabelMapping()
 
 for filename in os.listdir(directory):
     filepath = os.path.join(directory, filename)
@@ -46,7 +63,8 @@ for filename in os.listdir(directory):
                 #yaml.dump(data, file)
                 file.write(f"layout: post\n")
                 file.write("excerpt_image: NO_EXCERPT_IMAGE\n")
-                file.write(f"title: \"{paperMetadata['title']}\"\n")
+                title_clean = paperMetadata['title'].replace('"','')
+                file.write(f"title: \"{title_clean}\"\n")
                 file.write(f"date: {date}\n")
                 authors = createAuthorsString(paperMetadata['authors'])
                 file.write(f"authors: {authors}\n")
@@ -57,7 +75,7 @@ for filename in os.listdir(directory):
                 if ('categories' in tags) and (tags['categories']):
                     file.write("categories:\n")
                     for tag in tags['categories']:
-                        file.write(f"  - {tag}\n")
+                        file.write(f"  - {id_to_label[tag]}\n")
                 file.write('---\n')
                 abstract = paperMetadata.get('abstract','')
                 file.write(abstract.strip() if abstract else "")
