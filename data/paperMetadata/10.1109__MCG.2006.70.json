@@ -1,0 +1,96 @@
+{
+  "paperId": "16ba2a31e479bf7a72137c9194f7961dd249e52b",
+  "externalIds": {
+    "MAG": "1987135115",
+    "DBLP": "journals/cga/North06",
+    "DOI": "10.1109/MCG.2006.70",
+    "CorpusId": 261663093,
+    "PubMed": "16711210"
+  },
+  "publicationVenue": {
+    "id": "0bf2c493-a93b-464a-b3d9-e18fbb4a7965",
+    "name": "IEEE Computer Graphics and Applications",
+    "type": "journal",
+    "alternate_names": [
+      "IEEE Comput Graph Appl"
+    ],
+    "issn": "0272-1716",
+    "url": "http://www.computer.org/cga/",
+    "alternate_urls": [
+      "https://ieeexplore.ieee.org/servlet/opac?punumber=38"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/16ba2a31e479bf7a72137c9194f7961dd249e52b",
+  "title": "Toward measuring visualization insight",
+  "abstract": "Recent visualization research literature has paid an increasing amount of attention to evaluating visualizations. It seems an appropriate time to reopen the question about what the ultimate purpose of visualization is and how it should be evaluated. One potential claim is: the purpose of visualization is insight. The purpose of visualization evaluation is to determine to what degree visualizations achieve this purpose. If this claim is true, then evaluating visualizations should seek to determine how well visualizations generate insight. Measuring insight would enable the direct comparison of visualization design alternatives, or the comparison against an insight goal. This article examines the capability of the controlled experiment method to measure insight",
+  "venue": "IEEE Computer Graphics and Applications",
+  "year": 2006,
+  "referenceCount": 7,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Medicine",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2006-05-01",
+  "journal": {
+    "name": "IEEE Computer Graphics and Applications",
+    "pages": "6-9",
+    "volume": "26"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{North2006TowardMV,\n author = {Chris North},\n booktitle = {IEEE Computer Graphics and Applications},\n journal = {IEEE Computer Graphics and Applications},\n pages = {6-9},\n title = {Toward measuring visualization insight},\n volume = {26},\n year = {2006}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "2238818343",
+      "name": "Chris North"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "180e548520d2091beb8bb039473bd542e7de5aec",
+      "title": "Low-level components of analytic activity in information visualization"
+    },
+    {
+      "paperId": "b450dedf0079b80c490e57fd9a20464351e5cbf3",
+      "title": "An insight-based methodology for evaluating bioinformatics visualizations"
+    },
+    {
+      "paperId": "63938bfa8147f17265ec20073bc07f9eee371d5a",
+      "title": "The challenge of information visualization evaluation"
+    },
+    {
+      "paperId": "8a14ca1d4004b7f03a1eabf70353a87bd7d1e10d",
+      "title": "Empirical studies of information visualization: a meta-analysis"
+    },
+    {
+      "paperId": "df2bbe74a7d66e4ac488c444a42428dc288ac569",
+      "title": "Human factors in visualization research"
+    },
+    {
+      "paperId": null,
+      "title": "Contact Chris North at north@cs.vt.edu"
+    },
+    {
+      "paperId": null,
+      "title": "Contact editor Theresa-Marie Rhyne at tmrhyne@ ncsu.edu"
+    }
+  ]
+}
