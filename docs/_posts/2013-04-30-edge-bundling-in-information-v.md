@@ -7,6 +7,8 @@ authors: H. Zhou, P. Xu, X. Yuan & H. Qu
 venue: ""
 doi: 10.1109/TST.2013.6509098
 categories:
+  - survey
+  - taxonomy
   - charts
   - graph
 ---

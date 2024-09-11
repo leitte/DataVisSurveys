@@ -7,6 +7,8 @@ authors: S. Jänicke, G. Franzini, M. F. Cheema & G. Scheuermann
 venue: "Computer graphics forum (Print)"
 doi: 10.1111/cgf.12873
 categories:
+  - survey
+  - taxonomy
   - text and documents
   - digital humanities
 ---
