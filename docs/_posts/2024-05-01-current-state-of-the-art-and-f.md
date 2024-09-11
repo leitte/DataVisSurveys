@@ -9,6 +9,7 @@ doi: 10.1016/j.visinf.2024.05.001
 categories:
   - survey
   - taxonomy
+  - devices
 ---
 Augmented Reality (AR), as a novel data visualization tool, is advantageous in revealing spatial data patterns and data-context associations. Accordingly, recent research has identified AR data visualization as a promising approach to increasing decision-making efficiency and effectiveness. As a result, AR has been applied in various decision support systems to enhance knowledge conveying and comprehension, in which the different data-reality associations have been constructed to aid decision-making.
 However, how these AR visualization strategies can enhance different decision support datasets has not been reviewed thoroughly. Especially given the rise of big data in the modern world, this support is critical to decision-making in the coming years. Using AR to embed the decision support data and explanation data into the end user’s physical surroundings and focal contexts avoids isolating the human decision-maker from the relevant data. Integrating the decision-maker’s contexts and the DSS support in AR is a difficult challenge. This paper outlines the current state of the art through a literature review in allowing AR data visualization to support decision-making.
