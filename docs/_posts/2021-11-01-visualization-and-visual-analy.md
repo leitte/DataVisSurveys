@@ -8,6 +8,7 @@ venue: "Visual Informatics"
 doi: 10.1016/j.visinf.2021.10.002
 categories:
   - survey
+  - geospatial data
   - domain-focused
 ---
 

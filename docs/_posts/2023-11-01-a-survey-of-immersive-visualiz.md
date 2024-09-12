@@ -8,6 +8,7 @@ venue: "Visual Informatics"
 doi: 10.1016/j.visinf.2023.10.003
 categories:
   - survey
+  - evaluation
   - interaction
   - devices
 ---
