@@ -1,0 +1,477 @@
+{
+  "paperId": "58a88178df5a73f0313f2ab56ae043760155e2b8",
+  "externalIds": {
+    "DBLP": "journals/cgf/McLoughlinLPPC10",
+    "MAG": "2139892394",
+    "DOI": "10.1111/j.1467-8659.2010.01650.x",
+    "CorpusId": 3074580
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/58a88178df5a73f0313f2ab56ae043760155e2b8",
+  "title": "Over Two Decades of Integration\u2010Based, Geometric Flow Visualization",
+  "abstract": "With ever increasing computing power, it is possible to process ever more complex fluid simulations. However, a gap between data set sizes and our ability to visualize them remains. This is especially true for the field of flow visualization, which deals with large, time\u2010dependent, multivariate simulation data sets. In this paper, geometry\u2010based flow visualization techniques form the focus of discussion. Geometric flow visualization methods place discrete objects in the velocity field whose characteristics reflect the underlying properties of the flow. A great amount of progress has been made in this field over the last two decades. However, a number of challenges remain, including placement, speed of computation and perception. In this survey, we review and classify geometric flow visualization literature according to the most important challenges when considering such a visualization, a central theme being the seeding algorithm upon which they are based. This paper details our investigation into these techniques with discussions on their applicability and their relative merits and drawbacks. The result is an up\u2010to\u2010date overview of the current state\u2010of\u2010the\u2010art that highlights both solved and unsolved problems in this rapidly evolving branch of research. It also serves as a concise introduction to the field of flow visualization research.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2010,
+  "referenceCount": 100,
+  "openAccessPdf": {
+    "url": "https://cronfa.swan.ac.uk/Record/cronfa7688/Download/0007688-09122015104530.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2010-09-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "29"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{McLoughlin2010OverTD,\n author = {Tony McLoughlin and R. Laramee and R. Peikert and F. Post and Min Chen},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {Over Two Decades of Integration\u2010Based, Geometric Flow Visualization},\n volume = {29},\n year = {2010}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "9764094",
+      "name": "Tony McLoughlin"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "2044073",
+      "name": "R. Peikert"
+    },
+    {
+      "authorId": "1779003",
+      "name": "F. Post"
+    },
+    {
+      "authorId": "2108556790",
+      "name": "Min Chen"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "6b9ab52160281523932a0e46576e458b7b387255",
+      "title": "Constructing streak surfaces for 3D unsteady vector fields"
+    },
+    {
+      "paperId": "38f8e083892a78820f77fb341c34ffdc5c472ffb",
+      "title": "Time and Streak Surfaces for Flow Visualization in Large Time-Varying Data Sets"
+    },
+    {
+      "paperId": "06cd7ddba233b52973d965ac6174708534ddcb40",
+      "title": "Interactive Streak Surface Visualization on the GPU"
+    },
+    {
+      "paperId": "522a569490b6d47a23084785dde03d905a324810",
+      "title": "Evenly Spaced Streamlines for Surfaces: An Image\u2010Based Approach"
+    },
+    {
+      "paperId": "e63a556e603e676fe613f9a5c7bbc194eb7ce86a",
+      "title": "Easy integral surfaces: a fast, quad-based stream and path surface algorithm"
+    },
+    {
+      "paperId": "9f7471214e9bf9188dd5c9b1475b7f8e74ce254a",
+      "title": "Topologically relevant stream surfaces for flow visualization"
+    },
+    {
+      "paperId": "ef40483c7201acc2364e6c336944c66d9946a656",
+      "title": "Dual streamline seeding"
+    },
+    {
+      "paperId": "5bbca005befd3b680a52252b1e23cd49caa204cb",
+      "title": "Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments"
+    },
+    {
+      "paperId": "9aea251795ca614845339b02e68561ad4ac7eb12",
+      "title": "Generation of Accurate Integral Surfaces in Time-Dependent Vector Fields"
+    },
+    {
+      "paperId": "4adb5861585f34308af91599ffe07d613c7a9bfb",
+      "title": "Illustrative Streamline Placement and Visualization"
+    },
+    {
+      "paperId": "4d31100649b68c8fd02c8d66948372931c8224d5",
+      "title": "Similarity-Guided Streamline Placement with Error Evaluation"
+    },
+    {
+      "paperId": "54f01fbc6a182ae6962c34515397271ea7e781ec",
+      "title": "Point-based stream surfaces and path surfaces"
+    },
+    {
+      "paperId": "348bb23a619f2f311d0235c41105cfadf01adb55",
+      "title": "Image-based streamline generation and rendering"
+    },
+    {
+      "paperId": "8b29dec37957c339e0695ffff23a360597995542",
+      "title": "High-Quality and Interactive Animations of 3D Time-Varying Vector Fields"
+    },
+    {
+      "paperId": "3962b23fce9beba0589ff3fb4b3385408f9b9a6e",
+      "title": "An Advanced Evenly-Spaced Streamline Placement Algorithm"
+    },
+    {
+      "paperId": "f7c042d5159037ed5b875e8df4950c5d487a97dd",
+      "title": "Strategy for seeding 3D streamlines"
+    },
+    {
+      "paperId": "bed8b6ad21bea4f15da9784795b8490e44b366e5",
+      "title": "Eyelet particle tracing - steady visualization of unsteady flow"
+    },
+    {
+      "paperId": "3b5890e3ae3a868d1e5ca510c34b194659902ce4",
+      "title": "Illuminated lines revisited"
+    },
+    {
+      "paperId": "b5db21ebd43c047483a43cb41a97492b211a3349",
+      "title": "Visual analysis and exploration of fluid flow in a cooling jacket"
+    },
+    {
+      "paperId": "309c281b033c9e3f5860d5fd4565bc0ca6eec14e",
+      "title": "Farthest point seeding for efficient placement of streamlines"
+    },
+    {
+      "paperId": "bdd7b325f7a2ae0e5f7a896e6259580347b45b60",
+      "title": "A particle system for interactive visualization of 3D flows"
+    },
+    {
+      "paperId": "a97c65e9cac71714037b19cf4ce4af99835fc20b",
+      "title": "Geometric flow visualization techniques for CFD simulation data"
+    },
+    {
+      "paperId": "5f0b053dd93dd50f048bb375073deeb0926c54b8",
+      "title": "Proceedings of the 21st Spring Conference on Computer Graphics"
+    },
+    {
+      "paperId": "4e65f8e20a13fb90028b3dfeaf7b7af83f814b70",
+      "title": "A Survey of Methods for Computing (un)Stable Manifolds of Vector Fields"
+    },
+    {
+      "paperId": "12d12737392094d031b1e760894655117684603a",
+      "title": "Comparative flow visualization"
+    },
+    {
+      "paperId": "f14f92b90703f0ac74affbfe8157f93a23e08004",
+      "title": "Rendering implicit flow volumes"
+    },
+    {
+      "paperId": "5df75d762b64dadfa71df21487c037de5a6c8d9d",
+      "title": "Anisotropic volume rendering for extremely dense, thin line data"
+    },
+    {
+      "paperId": "8ff295ac3dd10e1a9f9e7267e9019a366afac421",
+      "title": "Investigating swirl and tumble flow with a comparison of visualization techniques"
+    },
+    {
+      "paperId": "b58877949ca50f508a706af5c18dbb8881fdce4d",
+      "title": "The State of the Art in Flow Visualization: Dense and Texture\u2010Based Techniques"
+    },
+    {
+      "paperId": "d9fc856341cd7d0e126e1943586161d972a8f00d",
+      "title": "Surface techniques for vortex visualization"
+    },
+    {
+      "paperId": "4cfe1a327672d26e980bc6240d144d5a5d78aff7",
+      "title": "Texture-based flow visualization on isosurfaces from computational fluid dynamics"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "05a898a524d456a67357f6ce6c79e2fa2a1cff77",
+      "title": "Coherent structures in a transitional flow around a backward-facing step"
+    },
+    {
+      "paperId": "f4e1c27993ad912c892f7b0f81af737988fcdd9d",
+      "title": "ViSTA FlowLib - framework for interactive visualization and exploration of unsteady flows in virtual environments"
+    },
+    {
+      "paperId": "d634cbf0d6c8a4f0fb3750f85f3b421d2184c366",
+      "title": "Strategies for interactive exploration of 3D flow using evenly-spaced illuminated streamlines"
+    },
+    {
+      "paperId": "0cb30e082ffd7936c327dd84d3fd6ed45cdd3b0a",
+      "title": "Interactive 3D flow visualization using a streamrunner"
+    },
+    {
+      "paperId": "3cf0255475d61a45ca03b112e2019abbbed87f01",
+      "title": "A tetrahedra-based stream surface algorithm"
+    },
+    {
+      "paperId": "d49c79a1645be239ad28ffcd659794c9aed5fc49",
+      "title": "A level-set method for flow visualization"
+    },
+    {
+      "paperId": "672f6ade7e413713019987285d755187ee8b4571",
+      "title": "A flow-guided streamline seeding strategy"
+    },
+    {
+      "paperId": "0ad6793477ceb2fa2c0b97859a6f015e873bf3af",
+      "title": "Unsteady Flow Visualization by Animating Evenly\u2010Spaced Streamlines"
+    },
+    {
+      "paperId": "bfbf95cc88ce48e9a7bd7b22974a87f8067de282",
+      "title": "Interactive visualization of fluid dynamics simulations in locally refined cartesian grids"
+    },
+    {
+      "paperId": "bbb5a1b7b4c27ff92f8f81d95fe3ea3d2d6a37b3",
+      "title": "Tools for Computing Tangent Curves for Linearly Varying Vector Fields over Tetrahedral Domains"
+    },
+    {
+      "paperId": "5fbb16e5f904555bb822aa28a05a3f348a004f58",
+      "title": "Image-guided streamline placement on curvilinear grid surfaces"
+    },
+    {
+      "paperId": "c94ccc8bdbeac534b834d93810024b5718abeb11",
+      "title": "Real-time techniques for 3D flow visualization"
+    },
+    {
+      "paperId": "31d56352c78b05e030ea4ca11617a8f87ce0ac03",
+      "title": "The motion map: efficient computation of steady flow animations"
+    },
+    {
+      "paperId": "9184637e17c3ce8b55a95c2338dddf711db42c3d",
+      "title": "Scientific Visualization: Overviews, Methodologies, and Techniques"
+    },
+    {
+      "paperId": "72a01d2db8c5bf022a87d6c4060d9617e4a5da41",
+      "title": "Interactive visualization of 3D-vector fields using illuminated stream lines"
+    },
+    {
+      "paperId": "064419c16051255d3e6b7d1e36d1fed3a524bf4e",
+      "title": "UFLOW: visualizing uncertainty in fluid flow"
+    },
+    {
+      "paperId": "07387e35bfd5d3c4d3123b07528e71f89d95324a",
+      "title": "Image-guided streamline placement"
+    },
+    {
+      "paperId": "4303d8e7b435999c6b1e6803186f48f9e9f82b41",
+      "title": "Efficient Streamline, Streamribbon, and Streamtube Constructions on Unstructured Grids"
+    },
+    {
+      "paperId": "753bfd3f0a3980cd961d16478b91be28e9e559f8",
+      "title": "Interactive Time-Dependent Particle Tracing Using Tetrahedral Decomposition"
+    },
+    {
+      "paperId": "25ac496bc07c2961860542c83abbc14b26cf42f4",
+      "title": "Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator"
+    },
+    {
+      "paperId": "33d982d412b9321f5ab0c3c0396dd2d0d333ee94",
+      "title": "Optimization of time-dependent particle tracing using tetrahedral decomposition"
+    },
+    {
+      "paperId": "9441cb0364ad279e74c8c4524e0c3c823e1d0cde",
+      "title": "Unsteady flow volumes"
+    },
+    {
+      "paperId": "dd9619ccb219e6a8aba1d7e96fc60c92cb9c6b95",
+      "title": "On the dynamical theory of incompressible viscous fluids and the determination of the criterion"
+    },
+    {
+      "paperId": "89e7fcf6617ec50111e80492b3543c858c932cd4",
+      "title": "UFAT-a particle tracer for time-dependent flow fields"
+    },
+    {
+      "paperId": "c01c27f06e57eaf3ab22f305be714da7eb2a7b9f",
+      "title": "Streamball techniques for flow visualization"
+    },
+    {
+      "paperId": "7cf31171d69602415d4e7702cb7b136bac5b6cb3",
+      "title": "pV3 - A distributed system for large-scale unsteady CFD visualization"
+    },
+    {
+      "paperId": "436d68baa6530bd79dfc22c9020d9ae27568f350",
+      "title": "Visualization of time-dependent flow fields"
+    },
+    {
+      "paperId": "0f9e4a258cf3e639c812a6333e1771a0c811a512",
+      "title": "Flow volumes for interactive vector field visualization"
+    },
+    {
+      "paperId": "f3e842a534f7e0e7da685d95077eb073e6a09514",
+      "title": "Visualization of turbulent flow with particles"
+    },
+    {
+      "paperId": "a6f1834cd32454af91e84d8c81ad8aca52ee79c8",
+      "title": "Constructing stream surfaces in steady 3D vector fields"
+    },
+    {
+      "paperId": "11a7ae8f262333fb6ac60b36e38f7397b0c9056e",
+      "title": "A 3-D streamline tracking algorithm using dual stream functions"
+    },
+    {
+      "paperId": "eccf6174c6877c2a00b83f7190524f70ebf91d8f",
+      "title": "Rendering Surface Particles"
+    },
+    {
+      "paperId": "1236b471663eafe5ec960069551df502ff72acea",
+      "title": "The virtual wind tunnel"
+    },
+    {
+      "paperId": "da50a7d10d41f93378b04387b1c395637d69ae84",
+      "title": "The stream polygon-a technique for 3D vector field visualization"
+    },
+    {
+      "paperId": "0f0f0338af7f0e1de7a2b5f11f1edd8b2c38495b",
+      "title": "Visual3 - Interactive unsteady unstructured 3D visualization"
+    },
+    {
+      "paperId": "1f3fd8a3be072914bb91b52a6be9409d5b4904a1",
+      "title": "FAST - A multiprocessed environment for visualization of computational fluid dynamics"
+    },
+    {
+      "paperId": "3dc93c2da49c49ab450f413276eb9597d06defbf",
+      "title": "FAST: a multi-processed environment for visualization of computational fluid dynamics"
+    },
+    {
+      "paperId": "80b849799aa46fb484ebd8ae5eba79888f794fe8",
+      "title": "Advanced interactive visualization for CFD"
+    },
+    {
+      "paperId": "5f38d3eadc74bf6132af525b5c0af6e205a97555",
+      "title": "PLOT3D user's manual"
+    },
+    {
+      "paperId": "c9ac402173d99e9a91d514f86a5037a4aa4224c7",
+      "title": "A rendering algorithm for visualizing 3D scalar fields"
+    },
+    {
+      "paperId": "c3fe4bf224f5913541d8a1c38ce721178037f50e",
+      "title": "Distributed Interactive Graphics Applications in Computational Fluid Dynamics"
+    },
+    {
+      "paperId": null,
+      "title": "The Eurographics Association"
+    },
+    {
+      "paperId": null,
+      "title": "Interactive Particle Tracing for Visualizing Large, TimeVarying"
+    },
+    {
+      "paperId": null,
+      "title": "Generation of accurate integral surfaces in c 2010 The Authors Journal compilation c 2010 The Eurographics Association and Blackwell Publishing Ltd. time-dependent vector fields"
+    },
+    {
+      "paperId": null,
+      "title": "Texture-advection on stream surfaces: a novel hybrid visualization applied to CFD results. In Data Visualization, The Joint Eurographics-IEEE VGTC Symposium on Visualization (EuroVis"
+    },
+    {
+      "paperId": "061f9d58c7872384cce00a6db715ae2dd746a43f",
+      "title": "High-quality animation of 2D steady vector fields"
+    },
+    {
+      "paperId": "2ea9a631563554591dac4639aaffe157d775a150",
+      "title": "Curvature Measures of 3D Vector Fields and their Applications"
+    },
+    {
+      "paperId": "a8bcfd170ff3361598aa6b2dd55ce21e2a53106e",
+      "title": "Multiresolution Flow Visualization"
+    },
+    {
+      "paperId": "40d78237b7cb989bc4bfcfa215b53ae00a955409",
+      "title": "New Approaches for Particle Tracing on Sparse Grids"
+    },
+    {
+      "paperId": "c6ba4fb04089e2bf2eb85f9cd3f399fcbe569ac8",
+      "title": "Particle Tracing in \u03c3-Transformed Grids using Tetrahedral 6-Decomposition"
+    },
+    {
+      "paperId": "f5e8f4656dadaa794b775af5dafcf3122bdd18d5",
+      "title": "Visualizing Local Properties and Characteristic Structures of Dynamical Systems"
+    },
+    {
+      "paperId": "620ea500e3ec3d458989b35bf65212aba6759340",
+      "title": "Particle Tracing on Sparse Grids"
+    },
+    {
+      "paperId": "13801d3f1e4a531bcf6da40987876e41907023e4",
+      "title": "Efficient and Reliable Integration Methods for Particle Tracing in Unsteady Flows on Discrete Meshes"
+    },
+    {
+      "paperId": "8b15ba829f82787a92c97026d41a925e9d33a027",
+      "title": "Creating Evenly-Spaced Streamlines of Arbitrary Density"
+    },
+    {
+      "paperId": "308ac42301595151e44bedfc59548ff323697f53",
+      "title": "Hierarchical Streamarrows for the Visualization of Dynamical Systems"
+    },
+    {
+      "paperId": "868d792e190342a89b0aea660291d594c018a950",
+      "title": "Flow visualization with surface particles"
+    },
+    {
+      "paperId": "b4c33aaa0c641937751fa4f66f065932bc4c8804",
+      "title": "Implicit stream surfaces"
+    },
+    {
+      "paperId": "1027760127dde14e6fd9297b83cea32a45602c1e",
+      "title": "Visualizing functions over a sphere"
+    },
+    {
+      "paperId": null,
+      "title": "Interactive Visual Exploration of Unsteady 3 D Flows Numerical Algorithms for CFD Post - Processing . van Karman Inst"
+    },
+    {
+      "paperId": null,
+      "title": "Numerical algorithms in CFD postprocessing . Van Karman Inst. for Fluid Dynamics"
+    },
+    {
+      "paperId": null,
+      "title": "Numerical Algorithms for CFD Post-Processing"
+    },
+    {
+      "paperId": null,
+      "title": "Data Structure for soft Objects. The Visual Computer"
+    },
+    {
+      "paperId": "1963c17500a37ba6476dad05c55b7878317f1472",
+      "title": "Graphics and flow visualization in computational fluid dynamics"
+    },
+    {
+      "paperId": "e38bcbe6420a737b901dd0cf3f2e602007514d9d",
+      "title": "Finite element methods and Navier-Stokes equations"
+    },
+    {
+      "paperId": "c1f2022e0e71e3d43f1dab9f34c5a97c7b034670",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2007) Interactive Visual Exploration of Unsteady 3d Flows"
+    },
+    {
+      "paperId": "f010c5bad03df20902786bf25232496a5f29c525",
+      "title": "Strategy for Seeding 3 D Streamlines"
+    },
+    {
+      "paperId": null,
+      "title": "Topology based flow visualization : the state of the art"
+    },
+    {
+      "paperId": null,
+      "title": "Data Structure for soft Objects Eyelet Particle Tracing - Steady Visualization of Unsteady Flow Curvature measures of 3 d vector fields and their applications"
+    }
+  ]
+}

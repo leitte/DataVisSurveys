@@ -1,0 +1,148 @@
+{
+  "paperId": "bd10ee531a6a8ef38d1daacb6ae3f20660f458ce",
+  "externalIds": {
+    "DBLP": "conf/visualization/LarameeJH03",
+    "MAG": "2104832179",
+    "DOI": "10.1109/VISUAL.2003.1250364",
+    "CorpusId": 811356
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/bd10ee531a6a8ef38d1daacb6ae3f20660f458ce",
+  "title": "Image space based visualization of unsteady flow on surfaces",
+  "abstract": "We present a technique for direct visualization of unsteady flow on surfaces from computational fluid dynamics. The method generates dense representations of time-dependent vector fields with high spatio-temporal correlation using both Lagrangian-Eulerian advection and image based flow visualization as its foundation. While the 3D vector fields are associated with arbitrary triangular surface meshes, the generation and advection of texture properties is confined to image space. Frame rates of up to 20 frames per second are realized by exploiting graphics card hardware. We apply this algorithm to unsteady flow on boundary surfaces of, large, complex meshes from computational fluid dynamics composed of more than 250,000 polygons, dynamic meshes with time-dependent geometry and topology, as well as medical data.",
+  "venue": "IEEE Visualization, 2003. VIS 2003.",
+  "year": 2003,
+  "referenceCount": 20,
+  "openAccessPdf": {
+    "url": "https://cronfa.swan.ac.uk/Record/cronfa24693/Download/0024693-11122015103217.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Physics",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2003-10-22",
+  "journal": {
+    "name": "IEEE Visualization, 2003. VIS 2003.",
+    "pages": "131-138"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Laramee2003ImageSB,\n author = {R. Laramee and B. Jobard and H. Hauser},\n booktitle = {IEEE Visualization, 2003. VIS 2003.},\n journal = {IEEE Visualization, 2003. VIS 2003.},\n pages = {131-138},\n title = {Image space based visualization of unsteady flow on surfaces},\n year = {2003}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "1749279",
+      "name": "B. Jobard"
+    },
+    {
+      "authorId": "145693817",
+      "name": "H. Hauser"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "143ae102080623943984c7fcd3273e2ed742b880",
+      "title": "Lagrangian-Eulerian Advection of Noise and Dye Textures for Unsteady Flow Visualization"
+    },
+    {
+      "paperId": "09e76fb61218130187fb8fb54b6d8090a971ddf4",
+      "title": "Least squares conformal maps for automatic texture atlas generation"
+    },
+    {
+      "paperId": "6cbce689ac193bc11553940c77b15ea05549e0fc",
+      "title": "Image based flow visualization"
+    },
+    {
+      "paperId": "75b57c85d88d4798fd0cc354e3afd7f8f978aaa7",
+      "title": "Meshed atlases for real-time procedural solid texturing"
+    },
+    {
+      "paperId": "2e3d7635b27744c0672e575d9647810ae3d180de",
+      "title": "Hardware-Accelerated High-Quality Reconstruction on PC Hardware"
+    },
+    {
+      "paperId": "1108e408d0349d8c9461af73907123000c1f8ae3",
+      "title": "Hardware-Accelerated Visualization of Time-Varying 2D and 3D Vector Fields by Texture Advection via Programmable Per-Pixel Operations"
+    },
+    {
+      "paperId": "c8af54529d674fb464a52fe6ab489b9f05068985",
+      "title": "Lagrangian-Eulerian advection for unsteady flow visualization"
+    },
+    {
+      "paperId": "ac35d129b155158ffdc081f75fe28a92eaca2f10",
+      "title": "Applications of pixel textures in visualization and realistic image synthesis"
+    },
+    {
+      "paperId": "64542826459b8fb406cf57f54c2189225fd8cf13",
+      "title": "Fast Line Integral Convolution for Arbitrary Surfaces in 3D"
+    },
+    {
+      "paperId": "7dbcbaa748295a910594c5436c8923188a5e2cf3",
+      "title": "Feature Extraction and Iconic Visualization"
+    },
+    {
+      "paperId": "98a5b156fde236ca8fbaac3c34dc557243eecf40",
+      "title": "Enhanced Spot Noise for Vector Field Visualization"
+    },
+    {
+      "paperId": "73d5208c7d0ca3828738246314eb1670936fbf7e",
+      "title": "Using Line Integral Convolution for Flow Visualization: Curvilinear Grids, Variable-Speed Animation, and Unsteady Flows"
+    },
+    {
+      "paperId": "7fadda9cf32c4ec649554f56693bf754fd9a992b",
+      "title": "Flow visualization using moving textures"
+    },
+    {
+      "paperId": "9c6272fbd87b3d58a9d2d942b0c3a7416ca5fcc6",
+      "title": "Visualizing flow over curvilinear grid surfaces using line integral convolution"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "46a6a069023b5690b12b04157e9c60baff303538",
+      "title": "Spot noise texture synthesis for data visualization"
+    },
+    {
+      "paperId": "853a8943872a37790df1e603bf66a67b85b57d0f",
+      "title": "Hardware-Accelerated Lagrangian-Eulerian Texture Advection for 2D Flow Visualization"
+    },
+    {
+      "paperId": "057c5691f113b6fa146726ab0c78c8fe4168f5c9",
+      "title": "Feature Extraction and Visualization of Flow Fields"
+    },
+    {
+      "paperId": "a736d760cfdf870f1372984daa4924119855b68c",
+      "title": "LIC on Surfaces"
+    },
+    {
+      "paperId": "15d58ccfb780b65d6e97c9b7bc23266f6969b045",
+      "title": "Line Integral Convolution for 3D Surfaces"
+    }
+  ]
+}

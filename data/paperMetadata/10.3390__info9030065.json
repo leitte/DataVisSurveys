@@ -1,0 +1,562 @@
+{
+  "paperId": "2f0682809a7b717501950b97e7039751af6b5651",
+  "externalIds": {
+    "MAG": "2792416149",
+    "DBLP": "journals/information/TongRBWLWLWQLM18",
+    "DOI": "10.3390/info9030065",
+    "CorpusId": 4945422
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/2f0682809a7b717501950b97e7039751af6b5651",
+  "title": "Storytelling and Visualization: An Extended Survey",
+  "abstract": "Throughout history, storytelling has been an effective way of conveying information and knowledge. In the field of visualization, storytelling is rapidly gaining momentum and evolving cutting-edge techniques that enhance understanding. Many communities have commented on the importance of storytelling in data visualization. Storytellers tend to be integrating complex visualizations into their narratives in growing numbers. In this paper, we present a survey of storytelling literature in visualization and present an overview of the common and important elements in storytelling visualization. We also describe the challenges in this field as well as a novel classification of the literature on storytelling in visualization. Our classification scheme highlights the open and unsolved problems in this field as well as the more mature storytelling sub-fields. The benefits offer a concise overview and a starting point into this rapidly evolving research trend and provide a deeper understanding of this topic.",
+  "venue": "Inf.",
+  "year": 2018,
+  "referenceCount": 117,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/9/3/65/pdf?version=1521046201",
+    "status": "GOLD"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-03-14",
+  "journal": {
+    "name": "Inf.",
+    "pages": "65",
+    "volume": "9"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Tong2018StorytellingAV,\n author = {Chao Tong and Richard C. Roberts and R. Borgo and S. Walton and R. Laramee and Kodzo Wegba and Aidong Lu and Yun Wang and Huamin Qu and Qiong Luo and Xiaojuan Ma},\n booktitle = {Inf.},\n journal = {Inf.},\n pages = {65},\n title = {Storytelling and Visualization: An Extended Survey},\n volume = {9},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "152416419",
+      "name": "Chao Tong"
+    },
+    {
+      "authorId": "31798161",
+      "name": "Richard C. Roberts"
+    },
+    {
+      "authorId": "2093523",
+      "name": "R. Borgo"
+    },
+    {
+      "authorId": "7763734",
+      "name": "S. Walton"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "8794574",
+      "name": "Kodzo Wegba"
+    },
+    {
+      "authorId": "49783579",
+      "name": "Aidong Lu"
+    },
+    {
+      "authorId": "2118375601",
+      "name": "Yun Wang"
+    },
+    {
+      "authorId": "2300486168",
+      "name": "Huamin Qu"
+    },
+    {
+      "authorId": "153889459",
+      "name": "Qiong Luo"
+    },
+    {
+      "authorId": "3230330",
+      "name": "Xiaojuan Ma"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "d5e6e9c58d04a042a3a313d50300ab7c5832063b",
+      "title": "The Art of Game Design: A book of lenses"
+    },
+    {
+      "paperId": "5da7c45592c7a4aa1a2f31cb54c99d5fc56144fe",
+      "title": "Staged analysis: From evocative to comparative visualizations of Urban mobility"
+    },
+    {
+      "paperId": "bb302681d13c14d3a7d2065d56c3ec4e4d8237a2",
+      "title": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "paperId": "8a71441d1d040c53a3c3eec3f10c5aedd22cedb2",
+      "title": "Telling Stories about Dynamic Networks with Graph Comics"
+    },
+    {
+      "paperId": "8a6cd175d77de2efc10840d2731a1071a1ccb952",
+      "title": "From Visual Exploration to Storytelling and Back Again"
+    },
+    {
+      "paperId": "00a176e6dd7fdcea0a1b55f574048994724dfa32",
+      "title": "Beyond Memorability: Visualization Recognition and Recall"
+    },
+    {
+      "paperId": "d70226265a1e2530db39b56fe83d9af452564f89",
+      "title": "TimeLineCurator: Interactive Authoring of Visual Timelines from Unstructured Text"
+    },
+    {
+      "paperId": "fe0d5a2f6d5ba13906ac5ed2e82817986e9c4106",
+      "title": "More Than Telling a Story: Transforming Data into Visually Shared Stories"
+    },
+    {
+      "paperId": "59e84821ee1e7b5f8369f192b8e6f05b150714f2",
+      "title": "Map\u2010based Visualizations Increase Recall Accuracy of Data"
+    },
+    {
+      "paperId": "485531afcff73f2f961a15a9eee6fc06b6150c0b",
+      "title": "Understanding Data Videos: Looking at Narrative Visualization through the Cinematography Lens"
+    },
+    {
+      "paperId": "9b8c2508add2314a6fda75973b19437db4b489ba",
+      "title": "Scientific Storytelling: From up in the clouds to down to earth\u2026 A new approach to mentoring"
+    },
+    {
+      "paperId": "84a1c29833ef6f7529c966d8b7820ce846245ea1",
+      "title": "Optimized Comics-Based Storytelling for Temporal Image Sequences"
+    },
+    {
+      "paperId": "e6028b4a291282ef25a1bb76bb1059f697c88657",
+      "title": "Storytelling via Navigation: A Novel Approach to Animation for Scientific Visualization"
+    },
+    {
+      "paperId": "4c953bb8e8277a8bed949ef03922b3bff0dd7bf5",
+      "title": "Narrative Visualization: A Case Study of How to Incorporate Narrative Elements in Existing Visualizations"
+    },
+    {
+      "paperId": "0bb338284587c145aac62485b15e4a82d6992ded",
+      "title": "How to Tell Stories Using Visualization"
+    },
+    {
+      "paperId": "8de9ecbcc09c752e533e02339f53d536c5b5c4f2",
+      "title": "SchemaLine: Timeline Visualization for Sensemaking"
+    },
+    {
+      "paperId": "995fc87fd4bce52bd2dcdc08df2563dabbec6c8a",
+      "title": "MOGRE-Storytelling: Interactive Creation of 3D Stories"
+    },
+    {
+      "paperId": "b90bad831de7b112b6759fbdff00209fe6aa0320",
+      "title": "Authoring Narrative Visualizations with Ellipsis"
+    },
+    {
+      "paperId": "df69a5099fc88102643f8fbeeee639072b7fdc2d",
+      "title": "NewsViews: an automated pipeline for creating custom geovisualizations for news"
+    },
+    {
+      "paperId": "bc93bfc83644e48a8d58208e31e5e605ccadf607",
+      "title": "SketchStory: Telling More Engaging Stories with Data through Freeform Sketching"
+    },
+    {
+      "paperId": "1fdf9a918b8f549a30db2d191cb4796e6a67c99e",
+      "title": "StoryFlow: Tracking the Evolution of Stories"
+    },
+    {
+      "paperId": "ef96938202d4b338b4b6b265c8305c7d056a5815",
+      "title": "A Deeper Understanding of Sequence in Narrative Visualization"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "1febc55512d2f33686a626402145e602de2bcfdf",
+      "title": "What Makes a Visualization Memorable?"
+    },
+    {
+      "paperId": "76287cb198df52011f5a43a7fa1a17054522de45",
+      "title": "Combining Storytelling Tradition and Pervasive Gaming"
+    },
+    {
+      "paperId": "ae50ca52b944d1e90d501cd8dbb63f97fa450fd0",
+      "title": "Geological storytelling"
+    },
+    {
+      "paperId": "a95bc4108f9a7d7bb3f55d9b2d6d8013f3737d25",
+      "title": "Geovisual Analytics and Storytelling Using HTML5"
+    },
+    {
+      "paperId": "b7a7717d09deb7606758a27fbde49f77f92c7982",
+      "title": "Storytelling: The Next Step for Visualization"
+    },
+    {
+      "paperId": "c9ad3344c3f109d62cfcafacece402bc1a3d1deb",
+      "title": "Contextifier: automatic generation of annotated stock visualizations"
+    },
+    {
+      "paperId": "a88d7d5bed8f7b30b5ac50a1b250000ec4913f66",
+      "title": "Design Considerations for Optimizing Storyline Visualizations"
+    },
+    {
+      "paperId": "7a807a71cfba96f65625e5e8ac67db30b3892c95",
+      "title": "Just-in-time annotation of clusters, outliers, and trends in point-based data visualizations"
+    },
+    {
+      "paperId": "d36fea88c0fab361e2cd5d10c9eaba7bb5d78cbb",
+      "title": "Geological storytelling: graphically exploring and communicating geological sketches"
+    },
+    {
+      "paperId": "3935cba45e88f96e3cb693973718b27ea8608492",
+      "title": "CodeTimeline: Storytelling with versioning data"
+    },
+    {
+      "paperId": "0b06ed76b67ebb393c88536ea3b45186e23e727a",
+      "title": "SketchComm: a tool to support rich and flexible asynchronous communication of early design ideas"
+    },
+    {
+      "paperId": "028916e62ddc516ff4e64fb0eb1e058eded48fcb",
+      "title": "Understanding the Intrinsic Memorability of Images"
+    },
+    {
+      "paperId": "537a94e3250153310f5920dce370df08612f7fa7",
+      "title": "Visualization Rhetoric: Framing Effects in Narrative Visualization"
+    },
+    {
+      "paperId": "e73d385b598f7898435e233a0d53c8485af262b5",
+      "title": "Urban mobility study using taxi traces"
+    },
+    {
+      "paperId": "e6e6655532a18f56e84b1a4611587ac046408bc1",
+      "title": "The Visualization Handbook"
+    },
+    {
+      "paperId": "64c7a32334eab3df946eeb1390dac274e276def9",
+      "title": "How to Read a Visualization Research Paper: Extracting the Essentials"
+    },
+    {
+      "paperId": "ae29f13f5f1bda7853b4788eb5dcb7c478bd46b7",
+      "title": "Generative Storytelling for Information Visualization"
+    },
+    {
+      "paperId": "f18c1a01125c448b489c487f8386c81c1485b357",
+      "title": "Anomaly detection in GPS data based on visual analytics"
+    },
+    {
+      "paperId": "7b2972e2bdd6944338a895c97eecbd12725fdcd8",
+      "title": "Narrative Visualization: Telling Stories with Data"
+    },
+    {
+      "paperId": "93b20637a8fb4ef3db785e8bc618bfe051c779eb",
+      "title": "Software evolution storylines"
+    },
+    {
+      "paperId": "bf49993508814f1d9fdbb7cee76a8fa9c82486b4",
+      "title": "AniViz: A Template-Based Animation Tool for Volume Visualization"
+    },
+    {
+      "paperId": "eff5419ac16a0395aa37d7129648bf0ba1a2f088",
+      "title": "Dynamic video narratives"
+    },
+    {
+      "paperId": "e226f622ee283ae76e318346d7b516fcfb3a984f",
+      "title": "Interactive Data Visualization: Foundations, Techniques, and Applications"
+    },
+    {
+      "paperId": "378ae7e8a502e4306da0e520d464a876df9413be",
+      "title": "Codebook: discovering and exploiting relationships in software repositories"
+    },
+    {
+      "paperId": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+      "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts"
+    },
+    {
+      "paperId": "25e7ca0e7342c2c7a8d1ba29cf008f9d3b4c7dae",
+      "title": "code_swarm: A Design Study in Organic Software Visualization"
+    },
+    {
+      "paperId": "c174e7929d52ee9153a2252b1d5e3c370cb919c8",
+      "title": "Behavior-driven visualization recommendation"
+    },
+    {
+      "paperId": "fb9cdd0e8524fe401561c5e9cf2976bde0189480",
+      "title": "Narratives: A visualization to track narrative events as they develop"
+    },
+    {
+      "paperId": "7a5f745b8f162fa5a2a25acafc4845b65d3f6410",
+      "title": "Effectiveness of Animation in Trend Visualization"
+    },
+    {
+      "paperId": "6ff6268fc6e19c4bfbbedb66d6eeb8d0cf70b477",
+      "title": "Interactive Storyboard for Overall Time-Varying Data Visualization"
+    },
+    {
+      "paperId": "6a0d5f734223e6cb159c1bf4d56d47cfb0d1629a",
+      "title": "Animated Transitions in Statistical Data Graphics"
+    },
+    {
+      "paperId": "59a3b7060e53d8cadf19e4e9301653302346bfa5",
+      "title": "Stories in GeoTime"
+    },
+    {
+      "paperId": "c16a5488d6106743255850ae40cf987417b33ca4",
+      "title": "Narrative based Topic Visualization for Chronological Data"
+    },
+    {
+      "paperId": "aa461d4619d1f62a074201fb3a06cec2c56ab2b5",
+      "title": "Story Telling for Presentation in Volume Visualization"
+    },
+    {
+      "paperId": "4630fd699591c03e31ece839aef2d496b7ea301d",
+      "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization"
+    },
+    {
+      "paperId": "b42741e55087c2aac177292eb513e44267dc4d5a",
+      "title": "Phosphor: explaining transitions in the user interface using afterglow effects"
+    },
+    {
+      "paperId": "aa75d6c0ce54bae6351477cc93fa67b4fd86b0f8",
+      "title": "Generating expressive speech for storytelling applications"
+    },
+    {
+      "paperId": "1f8bd13b367b7b3e5a0fc55781eceb346c46a314",
+      "title": "Visualizing tags over time"
+    },
+    {
+      "paperId": "1a88656a4fdb9989b503a8622273b5d8b9c4b64b",
+      "title": "A contract based system for large data visualization"
+    },
+    {
+      "paperId": "adc4a270456e11f5219ac1ea13556eaf45c37795",
+      "title": "Dataset traversal with motion-controlled transfer functions"
+    },
+    {
+      "paperId": "07dd9d4cbececa2157b6d9181927c65a78a72ff0",
+      "title": "Automatic video summarization based on MPEG-7 descriptions"
+    },
+    {
+      "paperId": "c1fc4e1bc1075b8a83297276126dbcc53906c033",
+      "title": "Digital artifacts for remembering and storytelling: posthistory and social network fragments"
+    },
+    {
+      "paperId": "2786061c9d7e0e16621a66caf7fc305cf2c8f89a",
+      "title": "Animation: can it facilitate?"
+    },
+    {
+      "paperId": "e4c4b557ffaf3dfdf8e708e05ab71aa9c18d42a0",
+      "title": "A comparison of the effects of data\u2013ink ratio on performance with dynamic displays in a monitoring task"
+    },
+    {
+      "paperId": "fe1311146b7e06aa037d89744671e4bf4cf8e2e9",
+      "title": "Developing legible visualizations for online social spaces"
+    },
+    {
+      "paperId": "5f1b1dc602672646b8ad3e9362aee7622b2f0e34",
+      "title": "The Springboard: How Storytelling Ignites Action in Knowledge\u2010era Organizations"
+    },
+    {
+      "paperId": "301f3747c28207c6ed425d58848ada2b17d9a9bf",
+      "title": "RTVR-a flexible Java library for interactive volume rendering"
+    },
+    {
+      "paperId": "c345f1a381f7dec616d346d90caf0b3329084ae9",
+      "title": "What storytelling can do for information visualization"
+    },
+    {
+      "paperId": "741967344707fcc665061bd62d1e6b0763ebc5e2",
+      "title": "Does animation help users build mental maps of spatial information?"
+    },
+    {
+      "paperId": "98796da6450741b56d1840c5cf0dc520402fd105",
+      "title": "Designing multimedia for learning: narrative guidance and narrative construction"
+    },
+    {
+      "paperId": "7137dff1545ad120a2cd46d3a49c6b634e773e8d",
+      "title": "A non-photorealistic lighting model for automatic technical illustration"
+    },
+    {
+      "paperId": "70a642854d117e2738c9b4f94a2c6cb5ddae2ad2",
+      "title": "Window navigation with and without animation: a comparison of scroll bars, zoom, and fisheye view"
+    },
+    {
+      "paperId": "76ba6c51c840019f93680ed2bbc4975dcb1db77a",
+      "title": "Does animation in user interfaces improve decision making?"
+    },
+    {
+      "paperId": "fd0f181ab143db1586a4ae976b46fbcf70b5d102",
+      "title": "Creative Storytelling: Building Community/Changing Lives"
+    },
+    {
+      "paperId": "87fccc77de26e5fba15f57afb2ad1b7093284eb9",
+      "title": "Pr\u00e9cis of Origins of the modern mind: Three stages in the evolution of culture and cognition"
+    },
+    {
+      "paperId": "be38e42c05b033fa85594e2e60fc4d5f87fe3e17",
+      "title": "Mental imagery, text illustrations, and children's story comprehension and recall."
+    },
+    {
+      "paperId": "0a98620bba9052b335aa9ab3d153361802cb6143",
+      "title": "Designer's Guide to Creating Charts and Diagrams"
+    },
+    {
+      "paperId": "bcb31e6e1c52522ab518309117c7e6b1dae09d10",
+      "title": "Episodes as chunks in narrative memory."
+    },
+    {
+      "paperId": "4f96a5591230f1154cb907b73267fe845fb92897",
+      "title": "Book Reviews : Taxonomy of Educational Objectives, The Classification of Educational Goals, Handbook II: Affective Domain by David R. Krathwohl, Benjamin S. Bloom, and Bertram B. Masia. New York: David McKay Company, 1964. Pp. vii + 196"
+    },
+    {
+      "paperId": "59200768e4316ab899523161c4552e005e10688c",
+      "title": "Storytelling and Visualization: A Survey"
+    },
+    {
+      "paperId": null,
+      "title": "Steroids or Not, the Pursuit Is On"
+    },
+    {
+      "paperId": null,
+      "title": "Behind the Front Line"
+    },
+    {
+      "paperId": null,
+      "title": "Budget Forecasts VS"
+    },
+    {
+      "paperId": null,
+      "title": "http://minnesota"
+    },
+    {
+      "paperId": null,
+      "title": "Oxford Living Dictionaries. Available online: http://www.oxforddictionaries.com/ definition/english/transition (accessed on 13 March 2018)"
+    },
+    {
+      "paperId": "e7d90bd8ce5b8bbdad294a27ac64dbd918d93861",
+      "title": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "paperId": "914a9ddc03e6b20ae93806f6b21aaa87d04f5d4d",
+      "title": "Towards a Taxonomy for Evaluating User Engagement in Information Visualization"
+    },
+    {
+      "paperId": "3c00e0ad1b8f7d88a85491962e69a12361d78180",
+      "title": "Can Initial Narrative VisualizationTechniques and Storytelling help Engage Online-Users with Exploratory Information Visualizations?"
+    },
+    {
+      "paperId": "f6b54379043d0ee28bea45555f481af1a693c16c",
+      "title": "The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis"
+    },
+    {
+      "paperId": "7638c0dd4dbc791ec64b009467db7733ecf19d98",
+      "title": "State-of-the-Art of Visualization for Eye Tracking Data"
+    },
+    {
+      "paperId": null,
+      "title": "Dictionary Reference Oxford English Dictionary"
+    },
+    {
+      "paperId": "e403f0912674191f40423655ed87b13c9ac6f920",
+      "title": "Scientific Storytelling Using Visualization"
+    },
+    {
+      "paperId": "81acde6e9a56e350cbe2d4b504958e18da33a06e",
+      "title": "Defining and Experiencing Authorship(s) in the Composition Classroom: Findings from a Qualitative Study of Undergraduate Writing Students at the City University of New York"
+    },
+    {
+      "paperId": "3c55a5f1845aaf1be4ffc8fb961c17119da99168",
+      "title": "Exploratory Study of Urban Flow using Taxi Traces"
+    },
+    {
+      "paperId": null,
+      "title": "Plotweaver Xkcd/657 Creation Tool"
+    },
+    {
+      "paperId": null,
+      "title": "Available online: http://www.gapminder.org/video/talks/ted-2007--the-seeminglyimpossible-is-possible.html (accessed on 13 March 2018)"
+    },
+    {
+      "paperId": "b5d0bef946ef184800a8bd6eb62ed3565a523a50",
+      "title": "Story Telling Aspects in Medical Applications"
+    },
+    {
+      "paperId": "607545d1d7f54cba8deeb044468c0d64cded2294",
+      "title": "Automatic video summarization"
+    },
+    {
+      "paperId": "c52a659476e68fac6ed38b11f0681cdf5c48a567",
+      "title": "Importance-Driven Expressive Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Afghanistan : Behind the Front Line Human Development Trends"
+    },
+    {
+      "paperId": "9cd0f13e8305660f392210c3dab7561be918825a",
+      "title": "Graph Visualization and Navigation in Information Visualization: A Survey"
+    },
+    {
+      "paperId": "ee1a2310d5134f61f11d6b9618f1d210b1b64a9a",
+      "title": "TimeMines: Constructing Timelines with Statistical Models of Word Usage"
+    },
+    {
+      "paperId": "46c7c4a8646a9ea31cf11cd44f349b957a2bc0ee",
+      "title": "Cluster and calendar based visualization of time series data"
+    },
+    {
+      "paperId": "a880dfc5abadca425cd1f2b9b0d4bb91db37b615",
+      "title": "Visual Who: animating the affinities and activities of an electronic community"
+    },
+    {
+      "paperId": "acb78f7c937558b4085b377e7d8a45c71c2721fe",
+      "title": "Animation in user interface design for decision making: A research framework and empirical analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Idioms: A Conceptual Model for Scientific Visualization Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Envisioning Information; Graphics Press: Cheshire"
+    },
+    {
+      "paperId": "94a3b9a5f6f349d4c57195a7ac0dad8c2ac2868d",
+      "title": "Narratology: Introduction to the Theory of Narrative"
+    },
+    {
+      "paperId": "1b91e32a2d3fac994701a1f46a1dbc5f01960fc7",
+      "title": "Blue Noise Sampling of Surfaces"
+    },
+    {
+      "paperId": null,
+      "title": "The Free Dictionary"
+    },
+    {
+      "paperId": null,
+      "title": "Data Visualization : Your Secret Weapon in Storytelling and Persuasion"
+    },
+    {
+      "paperId": null,
+      "title": "NASA Science Missions NASA Scientific Visualization Studio"
+    },
+    {
+      "paperId": null,
+      "title": "Mapping America : Every City , Every Block"
+    },
+    {
+      "paperId": null,
+      "title": "Poll Dancing : How Accurate are Poll Predictions"
+    }
+  ]
+}

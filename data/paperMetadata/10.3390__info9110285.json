@@ -1,0 +1,890 @@
+{
+  "paperId": "c4a71905e8175e661dd93b21e63e8a112c20ec01",
+  "externalIds": {
+    "MAG": "2901188679",
+    "DBLP": "journals/information/RobertsL18",
+    "DOI": "10.3390/info9110285",
+    "CorpusId": 53965663
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/c4a71905e8175e661dd93b21e63e8a112c20ec01",
+  "title": "Visualising Business Data: A Survey",
+  "abstract": "A rapidly increasing number of businesses rely on visualisation solutions for their data management challenges. This demand stems from an industry-wide shift towards data-driven approaches to decision making and problem-solving. However, there is an overwhelming mass of heterogeneous data collected as a result. The analysis of these data become a critical and challenging part of the business process. Employing visual analysis increases data comprehension thus enabling a wider range of users to interpret the underlying behaviour, as opposed to skilled but expensive data analysts. Widening the reach to an audience with a broader range of backgrounds creates new opportunities for decision making, problem-solving, trend identification, and creative thinking. In this survey, we identify trends in business visualisation and visual analytic literature where visualisation is used to address data challenges and identify areas in which industries use visual design to develop their understanding of the business environment. Our novel classification of literature includes the topics of businesses intelligence, business ecosystem, customer-centric. This survey provides a valuable overview and insight into the business visualisation literature with a novel classification that highlights both mature and less developed research directions.",
+  "venue": "Inf.",
+  "year": 2018,
+  "referenceCount": 207,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/9/11/285/pdf?version=1542857507",
+    "status": "GOLD"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Business",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2018-11-17",
+  "journal": {
+    "name": "Inf.",
+    "pages": "285",
+    "volume": "9"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Roberts2018VisualisingBD,\n author = {Richard C. Roberts and R. Laramee},\n booktitle = {Inf.},\n journal = {Inf.},\n pages = {285},\n title = {Visualising Business Data: A Survey},\n volume = {9},\n year = {2018}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "31798161",
+      "name": "Richard C. Roberts"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "80069f11c7dcb29f342c1f74a5903eea44f33412",
+      "title": "From business intelligence to analytics"
+    },
+    {
+      "paperId": "595cb1395e5e4bfc9a879c90378bd7bcd697d4b8",
+      "title": "Smart Brushing for Parallel Coordinates"
+    },
+    {
+      "paperId": "26bf2982f4361c9a43bebaa24f2ac35c80de3b62",
+      "title": "Technical Analysis of Stock Trends"
+    },
+    {
+      "paperId": "2067187069b7f0a8985e4c6ef041744c6b215bd4",
+      "title": "Data visualization for assessing the biofuel commercialization potential within the business intelligence framework"
+    },
+    {
+      "paperId": "c887f5c50969363d897ca4273da66252fc994b0c",
+      "title": "ecoxight"
+    },
+    {
+      "paperId": "457ec85f2d9eb0fef9400d2af32197dac9f65ed3",
+      "title": "Design and implementation of small multiples matrix-based visualisation to monitor and compare email socio-organisational relationships"
+    },
+    {
+      "paperId": "06c2171cba431665a9ca714d82a7262b37a7aec7",
+      "title": "Network visualization of customer expectation using Web in coffee service"
+    },
+    {
+      "paperId": "71798932d3ef47064d64c031a230cf1fb7490bdc",
+      "title": "Visualisation of Compliant Declarative Business Processes"
+    },
+    {
+      "paperId": "83f07b82820f38ea980f8655097a14011bc99648",
+      "title": "Performance dashboard: Cutting-edge business intelligence and data visualization"
+    },
+    {
+      "paperId": "906e69cefee1af5e17a9c2d66ed317dc05a29967",
+      "title": "Towards a Multi-parametric Visualisation Approach for Business Process Analytics"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "bbc8d4e673b4b95bebf064b5615015a63e615cb1",
+      "title": "Mining the relationship between production and customer service data for failure analysis of industrial products"
+    },
+    {
+      "paperId": "1e4f371c0031a66033887b8991ed8268e1cbcf9e",
+      "title": "What they are Tweeting about me?:social media data analytics with geographical visualisation"
+    },
+    {
+      "paperId": "2a4f8f722ce1b11bdd3c70884549da0c1f7a0ac7",
+      "title": "Interactive visualization for research contextualization in international business"
+    },
+    {
+      "paperId": "5178bd2c29d771e331cf5ccb711d57aeee9fa5ae",
+      "title": "Visual decision support for business ecosystem analysis"
+    },
+    {
+      "paperId": "f1ea1bf8293a9335bc97fc1134ad0279c759368b",
+      "title": "Visualization to understand ecosystems"
+    },
+    {
+      "paperId": "be24b82278bae1eee9c77b805428c8c8a3144a25",
+      "title": "Interactive Analytical Treemaps for Visualisation of Call Centre Data"
+    },
+    {
+      "paperId": "3877efef94abb4818890c0cf71de7ebee72c6af4",
+      "title": "Tweetviz: Visualizing Tweets for Business Intelligence"
+    },
+    {
+      "paperId": "a1bed5a7d137d41538f57562b6d14dbd8e9af2d0",
+      "title": "A Survey on Visual Analysis Approaches for Financial Data"
+    },
+    {
+      "paperId": "a4df15854565a3f2358e1300cfa052a0dc39f914",
+      "title": "Visualizing Financial Data"
+    },
+    {
+      "paperId": "32326ec1d2f154482d45b5a24756e786b1a558a2",
+      "title": "TelCoVis: Visual Exploration of Co-occurrence in Urban Human Mobility Based on Telco Data"
+    },
+    {
+      "paperId": "ea1bf0396c697e339fc95670a0fc2bf676b3ee53",
+      "title": "TrajGraph: A Graph-Based Visual Analytics Approach to Studying Urban Network Centralities Using Taxi Trajectory Data"
+    },
+    {
+      "paperId": "38f46ed878f68263f549cab0e16b7bd7ff078973",
+      "title": "DemographicVis: Analyzing demographic information based on user generated content"
+    },
+    {
+      "paperId": "2153d2827714f5d4868c730e3abb9268fbe76f2c",
+      "title": "Customer segmentation and visualization by combination of self-organizing map and cluster analysis"
+    },
+    {
+      "paperId": "57510b0e549be16a9070d35f4dd8402ca1a2ac4c",
+      "title": "Visualizations-based analysis of Telco data for business intelligence"
+    },
+    {
+      "paperId": "6abc2432b5564834fff4c710064a714ca4824586",
+      "title": "Understanding Business Ecosystem Dynamics: A Data-Driven Approach"
+    },
+    {
+      "paperId": "377ce6f56331119df19c35767901bc9b09fa283e",
+      "title": "Fundamentals of Business Intelligence"
+    },
+    {
+      "paperId": "7583a4bae785762f08a0d7edb0f12e4920f0e12e",
+      "title": "A Survey of Traffic Data Visualization"
+    },
+    {
+      "paperId": "d507e1d011c3510704321db5bda863831c47ddf0",
+      "title": "Understanding customer behavior using indoor location analysis and visualization"
+    },
+    {
+      "paperId": "726afd2de22fb8bb3d1ab0c0f98d66a9c8f6e7da",
+      "title": "LoyalTracker: Visualizing Loyalty Dynamics in Search Engines"
+    },
+    {
+      "paperId": "471a4247ab306675e5150b527b784addd38497e1",
+      "title": "OpinionFlow: Visual Analysis of Opinion Diffusion on Social Media"
+    },
+    {
+      "paperId": "aaa54f181cb5e4ce981bf514a0e9832b2791044c",
+      "title": "Visual analysis of supply network risks: Insights from the electronics industry"
+    },
+    {
+      "paperId": "1d2f34e85ff39d601227dc7d98ab11b92b3e74b7",
+      "title": "Dynamic population mapping using mobile phone data"
+    },
+    {
+      "paperId": "481de0f7d9170a05691b0ad883e7e2859c09dff1",
+      "title": "Visualization of online customer reviews and evaluations based on Self-organizing Map"
+    },
+    {
+      "paperId": "632af647c9a3210f7938c443e990d0d4bd41389f",
+      "title": "Visual Business Ecosystem Intelligence: Lessons from the Field"
+    },
+    {
+      "paperId": "089e53bf12f55118038f996e9378e1c703a4a623",
+      "title": "Applying a Sunburst Visualization to Summarize User Navigation Sequences"
+    },
+    {
+      "paperId": "5f5ea11ad683364c656e20355ccd6855761ab655",
+      "title": "Business Intelligence from Social Media: A Study from the VAST Box Office Challenge"
+    },
+    {
+      "paperId": "9b2aa82789fda92a4fa0ca089d7950c8b68bde4e",
+      "title": "The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions"
+    },
+    {
+      "paperId": "c8738e37ff1e4cc2b5235a84c439eabeaa6e5719",
+      "title": "Understanding Interfirm Relationships in Business Ecosystems with Interactive Visualization"
+    },
+    {
+      "paperId": "4312f2303c0348b8748374e344f25cc4ead100ca",
+      "title": "Decision Exploration Lab: A Visual Analytics Solution for Decision Management"
+    },
+    {
+      "paperId": "89067e65ca5cce1086b93e405ad6ea5c2e5eea15",
+      "title": "Visual Traffic Jam Analysis Based on Trajectory Data"
+    },
+    {
+      "paperId": "3dedf02916f9cb39ae60b7c9983519b47be8348a",
+      "title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips"
+    },
+    {
+      "paperId": "5f1941be9c4fa18a3ae0c0dc107d6de2e7c1bc8c",
+      "title": "Tableau Your Data!: Fast and Easy Visual Analysis with Tableau Software"
+    },
+    {
+      "paperId": "69d07d41b812ef87c3e816dada465c01c3522f93",
+      "title": "Context adaptive visualization for effective business intelligence"
+    },
+    {
+      "paperId": "5f41bdd17f150734e0ed1e1c5e5eb358f1f3fcd8",
+      "title": "A framework for analysis of the effect of time on shopping behavior"
+    },
+    {
+      "paperId": "a57c82fa4bd59118bf043b55c1ae5fc56f6135ae",
+      "title": "Current Work Practice and Users' Perspectives on Visualization and Interactivity in Business Intelligence"
+    },
+    {
+      "paperId": "b97ec6921dbfc0a6389b801dbf8883c24bdc4c91",
+      "title": "3D and Immersive Interfaces for Business Intelligence: The Case of OLAP"
+    },
+    {
+      "paperId": "91e64d191d13bcb5f7728861216cb1027eaeb233",
+      "title": "Visual sentiment analysis of customer feedback streams using geo-temporal term associations"
+    },
+    {
+      "paperId": "a9a84242cf78a9b277fce869f8bbfa7bfacfbc38",
+      "title": "Big Data: Issues and Challenges Moving Forward"
+    },
+    {
+      "paperId": "c17ab721e6821d4ffea47a61e51635173be0b3da",
+      "title": "Prototype of New Business Process Visualization Tool"
+    },
+    {
+      "paperId": "74cfdf198265ed2e953cfc185d3ba1aeb8e4e8b5",
+      "title": "Enterprise Data Analysis and Visualization: An Interview Study"
+    },
+    {
+      "paperId": "f117c6f12d067bd66dad40996b3931c069daa2da",
+      "title": "Business Intelligence and Analytics: From Big Data to Big Impact"
+    },
+    {
+      "paperId": "e920a4a474dcf62dec0a2d79ae408c3f9e192bc0",
+      "title": "Visual analytics for the big data era \u2014 A comparative review of state-of-the-art commercial systems"
+    },
+    {
+      "paperId": "93bdb67231804284e5bb17219d55af2b8204fdb5",
+      "title": "Initial test on the use of GPS and sensor data of modern smartphones for vehicle tracking in dense high rise environments"
+    },
+    {
+      "paperId": "bf5a42b53d156c0811e88e60d2a49f9fd9367cae",
+      "title": "Big data: the management revolution."
+    },
+    {
+      "paperId": "6916a69fcd47a97e861c8ff8309cf5f61f68ee88",
+      "title": "Empirical Studies in Information Visualization: Seven Scenarios"
+    },
+    {
+      "paperId": "86082b4aa61f82e2649c42d891da8a39c1baa0ff",
+      "title": "Global Supply Network Health: Analysis and Visualization"
+    },
+    {
+      "paperId": "761489f44ba119c2abd132880707add738129ac5",
+      "title": "A survey of business process simulation visualization"
+    },
+    {
+      "paperId": "635b9e0b519898d691172e6fb81225c3b90e2508",
+      "title": "MarketAnalyzer: An Interactive Visual Analytics System for Analyzing Competitive Advantage Using Point of Sale Data"
+    },
+    {
+      "paperId": "1ce5fbc2e1ba1784d81ac6e24d424d08e3afae0f",
+      "title": "Collective Human Mobility Pattern from Taxi Trips in Urban Area"
+    },
+    {
+      "paperId": "ff5d98bcf70f4ef8fa8869d1f5ff7612332a1582",
+      "title": "Feature-Based Visual Sentiment Analysis of Text Document Streams"
+    },
+    {
+      "paperId": "f36226b9ec870338f433380a4720626fcca1bbed",
+      "title": "Visual analytic roadblocks for novice investigators"
+    },
+    {
+      "paperId": "4b4c7c84c030f21bf1deeaff67e7b48034216b93",
+      "title": "Visual analysis of route diversity"
+    },
+    {
+      "paperId": "8df85054bc99278c835a7e7556dbd1ff37dc29d8",
+      "title": "ParallelTopics: A probabilistic approach to exploring document collections"
+    },
+    {
+      "paperId": "ef05628ed2f8068246e837ae20991bbf0c78fc42",
+      "title": "D\u00b3 Data-Driven Documents"
+    },
+    {
+      "paperId": "990308e6e844b20a2a2913251cf26cf103d7f886",
+      "title": "Why searchers switch: understanding and predicting engine switching rationales"
+    },
+    {
+      "paperId": "cf74a9948d26c2e4c9423c668130c6736353e57f",
+      "title": "Information visualization evaluation in large companies: Challenges, experiences and recommendations"
+    },
+    {
+      "paperId": "3588c525d080107933bbdca85ee96128ffa1cd95",
+      "title": "Network sampling and classification: An investigation of network model representations"
+    },
+    {
+      "paperId": "e544a18b60563f8ac34e872a7efc5557a1d0f61e",
+      "title": "String analysis technique for shopping path in a supermarket"
+    },
+    {
+      "paperId": "64c7a32334eab3df946eeb1390dac274e276def9",
+      "title": "How to Read a Visualization Research Paper: Extracting the Essentials"
+    },
+    {
+      "paperId": "64455a166143c76c2af4c4b3d219742b681b1ea3",
+      "title": "An Experimental Study of Financial Portfolio Selection with Visual Analytics for Decision Support"
+    },
+    {
+      "paperId": "5f037dbfb295a1d93892d74e84ffe753bf10f5f6",
+      "title": "Diamonds in the rough: Social media visual analytics for journalistic inquiry"
+    },
+    {
+      "paperId": "71364562961c3f173b898d37af7e426a355d17a2",
+      "title": "AWSM: Allocation of workflows utilizing social network metrics"
+    },
+    {
+      "paperId": "9afe81e3a498bc31cb749e7d7972ff319a730961",
+      "title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback"
+    },
+    {
+      "paperId": "5866dab66f77340e7619b71684ea158cd6cfdbce",
+      "title": "Evaluating the impact of task demands and block resolution on the effectiveness of pixel-based visualization"
+    },
+    {
+      "paperId": "f234c3aab4e3817cafa44051d7bd1aebc9cd394b",
+      "title": "Sentiment Knowledge Discovery in Twitter Streaming Data"
+    },
+    {
+      "paperId": "dddf8f0251e054425ed0825470d67a364c38e090",
+      "title": "\u201cBeautiful picture of an ugly place\u201d. Exploring photo collections using opinion and sentiment analysis of user comments"
+    },
+    {
+      "paperId": "d0b01a77e7bde2390f34e83850bad1095ecf53fd",
+      "title": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks"
+    },
+    {
+      "paperId": "12a710c108d8f843df1ce3b766ed157cc905e3c2",
+      "title": "An energy-efficient mobile recommender system"
+    },
+    {
+      "paperId": "3331ca9af07782eff482e4f7f10cdb0e0c6f1eb7",
+      "title": "Modeling Long-Term Search Engine Usage"
+    },
+    {
+      "paperId": "3ffcf77dcc584567becdaab22806adb0a35bf50c",
+      "title": "Impact of emotional intelligence and work attitude on quality of service in the Call Centre industry of Pakistan"
+    },
+    {
+      "paperId": "9fae0f18e23db076e27b23f17a417f3149f63e2e",
+      "title": "TweetMotif: Exploratory Search and Topic Summarization for Twitter"
+    },
+    {
+      "paperId": "b242f5981535ac4918819d7b8ee60363108bec63",
+      "title": "Planning Fire and Rescue Services by Visualizing Mobile Phone Density"
+    },
+    {
+      "paperId": "07e97dbf061556b9bd78e3bdb51c5720f94b3636",
+      "title": "Predicting the Future with Social Media"
+    },
+    {
+      "paperId": "38df4fe2bc318706cd106ee7db46f1f794b644bf",
+      "title": "Visual opinion analysis of customer feedback data"
+    },
+    {
+      "paperId": "cf5384bd592fcb369c91d689836fe2f71665d35b",
+      "title": "Evaluating visual analytics systems for investigative analysis: Deriving design principles from a case study"
+    },
+    {
+      "paperId": "57f1c73fcac9e6fe405501a5706c2e683d0c6af4",
+      "title": "Improving Movie Gross Prediction through News Analysis"
+    },
+    {
+      "paperId": "ff1763c81819b1c799e4db8791c3d03d7c23ed0f",
+      "title": "Beyond Knowledge Visualization Usability: Toward a Better Understanding of Business Diagram Adoption"
+    },
+    {
+      "paperId": "520a1702193679c84979d8268d1d4877c61866a1",
+      "title": "Using Ellimaps to Visualize Business Data in a Local Administration"
+    },
+    {
+      "paperId": "e995da0a7b1bf5f6f77964d20104308c97b40222",
+      "title": "Knowledge Visualization and Business Analysis: Meaning as Media"
+    },
+    {
+      "paperId": "86e49e4f7b4d00a0bb8c02de42e51786f2d05cd6",
+      "title": "An organization topographic map for visualizing business hierarchical relationships"
+    },
+    {
+      "paperId": "18ab0bac8dae56f91f05380c54962ac21d081e35",
+      "title": "Exploring the analytical processes of intelligence analysts"
+    },
+    {
+      "paperId": "3149a915f738f044778e3decdb4278e2bad17808",
+      "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks"
+    },
+    {
+      "paperId": "60534dff3f7cd13dbf8b1a6a1fb70e3ff5958561",
+      "title": "Mining and Exploring Unstructured Customer Feedback Data Using Language Models and Treemap Visualizations"
+    },
+    {
+      "paperId": "6a0b64f80adbf0e34bfa72b057662a635f791dc2",
+      "title": "Identification of influencers - Measuring influence in customer networks"
+    },
+    {
+      "paperId": "79e7b81378ea609a78f73255d40b8f6ac9a9f3f6",
+      "title": "Applied visual analytics for economic decision-making"
+    },
+    {
+      "paperId": "80c1561ea178251dcab1cb7fbc8820870fd19a88",
+      "title": "Qualitative analysis of visualization: a building design field study"
+    },
+    {
+      "paperId": "d19c80acf70237a8f26a26a2efba900de5560818",
+      "title": "The Event Tunnel: Interactive Visualization of Complex Event Streams for Business Process Pattern Analysis"
+    },
+    {
+      "paperId": "4582dbb28c052eaa0ac92d9fe61a69bd5b4a94ae",
+      "title": "Business intelligence: an analysis of the literature"
+    },
+    {
+      "paperId": "3d4391bbafea96b6d7b44cd41b64a5314b94137e",
+      "title": "A holistic lexicon-based approach to opinion mining"
+    },
+    {
+      "paperId": "7cb01d32e4d4201093c41135b301296e433a3d25",
+      "title": "ManyEyes: a Site for Visualization at Internet Scale"
+    },
+    {
+      "paperId": "cf1ce0765b766e24444554f1f75857bd58e6f883",
+      "title": "Browsing Zoomable Treemaps: Structure-Aware Multi-Scale Navigation Techniques"
+    },
+    {
+      "paperId": "62b1a8c70ffc034f055cc63b604663c4f83add98",
+      "title": "Value-Cell Bar Charts for Visualizing Large Transaction Data Sets"
+    },
+    {
+      "paperId": "051026bd9523e48c82c4b1c2b0500f1dc4d6d346",
+      "title": "Visual Analysis of Conflicting Opinions"
+    },
+    {
+      "paperId": "7de4b247132552fc98f7962bc6fa881862241add",
+      "title": "Visualizing Business Data with Generalized Treemaps"
+    },
+    {
+      "paperId": "a62b4d158a5ee722646f0e711944a1865155940c",
+      "title": "GIS\u2010based multicriteria decision analysis: a survey of the literature"
+    },
+    {
+      "paperId": "b309e5ba5dd1e4b1ec0d445449cce130f534e208",
+      "title": "User-directed Sentiment Analysis: Visualizing the Affective Content of Documents"
+    },
+    {
+      "paperId": "658e4cca762ef94bcf5c79416d13ce5ecc58b76e",
+      "title": "Examining the Role of Linguistic Knowledge Sources in the Automatic Identification and Classification of Reviews"
+    },
+    {
+      "paperId": "05ace99fb93ff3bd0df447b622e7ac6d55b1e77b",
+      "title": "Parallel Sets: interactive exploration and visual analysis of categorical data"
+    },
+    {
+      "paperId": "3e699cf091d75dc64ea4278a56d71859a163924b",
+      "title": "Task-at-hand interface for change detection in stock market data"
+    },
+    {
+      "paperId": "6460f3de32b55fa1b7258edfbee6994b6fa7b50e",
+      "title": "GUESS: a language and interface for graph exploration"
+    },
+    {
+      "paperId": "2783eb70e712b00222184ab44b88d2d85255d8ff",
+      "title": "Business Process Impact Visualization and Anomaly Detection"
+    },
+    {
+      "paperId": "6023f394d236dd54ee49c98021b659f17b585c60",
+      "title": "Business Ecosystems and the View from the Firm"
+    },
+    {
+      "paperId": "84e9041e77ee9cbca1a2e4f841fc23804f4e5b48",
+      "title": "Vizster: visualizing online social networks"
+    },
+    {
+      "paperId": "dc2ee6f90162ec35ef2b5ed876f0bb24137adcee",
+      "title": "Flow map layout"
+    },
+    {
+      "paperId": "ff75055d4e47737702d3b550879d6128cec13233",
+      "title": "Extracting Product Features and Opinions from Reviews"
+    },
+    {
+      "paperId": "b61edf6d800e8e4f9285f0fb3707938ce9c03661",
+      "title": "Pulse: Mining Customer Opinions from Free Text"
+    },
+    {
+      "paperId": "c472aa2bba5434e5eb59701548bf8f76bff96d78",
+      "title": "Model of Adoption and Technology in Households: A Baseline Model Test and Extension Incorporating Household Life Cycle"
+    },
+    {
+      "paperId": "f86ecd61172c64856d57b0b439f6a653ccfee3c8",
+      "title": "Voronoi treemaps for the visualization of software metrics"
+    },
+    {
+      "paperId": "2671e9ff0eb68739d6610cf67937e6b34a2fcf10",
+      "title": "Opinion observer: analyzing and comparing opinions on the Web"
+    },
+    {
+      "paperId": "b053e56f5f10e003e13f0888be5033824efa3702",
+      "title": "Visualization method for customer targeting using customer map"
+    },
+    {
+      "paperId": "89b3bd6e83e936b25c7c08a28b84ae6dc7e83ff8",
+      "title": "A Visual Framework for Knowledge Discovery on the Web: An Empirical Study of Business Intelligence Exploration"
+    },
+    {
+      "paperId": "276bf13795305fbe1cd9e5d886d9e413ac8a3fc4",
+      "title": "The Delphi method as a research tool: an example, design considerations and applications"
+    },
+    {
+      "paperId": "562b6974880b169b3b1a9a77581e3cc7639a4677",
+      "title": "VisBiz: A Simplified Visualization of Business Operation"
+    },
+    {
+      "paperId": "f99a8b0c33ebfe9ac61f4b37f88f2106c521dfcc",
+      "title": "Online Data Collection: Strategies for Research."
+    },
+    {
+      "paperId": "f480245bd06b73c639b7e38394e213e97bbc48c2",
+      "title": "Strategy Maps: Converting Intangible Assets into Tangible Outcomes"
+    },
+    {
+      "paperId": "c902e36af449a9f3a956f5ae622c7db0cca5c57c",
+      "title": "Visualization, optimization, business strategy: a case study"
+    },
+    {
+      "paperId": "f21f0a5bafad2878504fbf6d3c39d158c1214e01",
+      "title": "Visualization of large-scale customer satisfaction surveys using a parallel coordinate tree"
+    },
+    {
+      "paperId": "b1c5dca229915dc16acd9c70043fb7e4817f93bf",
+      "title": "MoireGraphs: radial focus+context visualization and interaction for graphs with visual nodes"
+    },
+    {
+      "paperId": "209da7383f6ad9e902eda28049c419c2a1cad163",
+      "title": "Benefits of information visualization systems for administrative data analysts"
+    },
+    {
+      "paperId": "54f63c5a38b06588939503ca501475b3e6cd7d5f",
+      "title": "Data quality and data cleaning: an overview"
+    },
+    {
+      "paperId": "8d7cf286f41aff026ce529333a4a7a50220b8f04",
+      "title": "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies"
+    },
+    {
+      "paperId": "364a564aefbc068668c9e57e6a7826a64b024186",
+      "title": "What did they do? understanding clickstreams with the WebQuilt visualization system"
+    },
+    {
+      "paperId": "fdccde9d4fae5f126b4acd7239fc43e948041a66",
+      "title": "Pixel bar charts: a new technique for visualizing large multi-attribute data sets without aggregation"
+    },
+    {
+      "paperId": "4dc06a7fb3208d240f34138174254f526facc89e",
+      "title": "Botanical visualization of huge hierarchies"
+    },
+    {
+      "paperId": "8d0a38f85168dbfb5cfd0b9e9ed231679da6a28b",
+      "title": "Information scent as a driver of Web behavior graphs: results of a protocol analysis method for Web usability"
+    },
+    {
+      "paperId": "1386888295419e1141a766fceb9c77c13d6d1a76",
+      "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+    },
+    {
+      "paperId": "2e09c27951f9a9717750090d086594951ee21475",
+      "title": "Fundamental changes in marketing organization: The movement toward a customer-focused organizational structure"
+    },
+    {
+      "paperId": "00304916af461705a924e7eb280e8f5d52380108",
+      "title": "Predicting Movie Grosses: Winners and Losers, Blockbusters and Sleepers"
+    },
+    {
+      "paperId": "b785a2e49ffc699f1085b58a868bdea624a8e178",
+      "title": "Customer satisfaction and call centers: an Australian study"
+    },
+    {
+      "paperId": "bb04af66a7de112aa0f9b6b82fa075aa97e653e0",
+      "title": "Rivet"
+    },
+    {
+      "paperId": "38595b3b57a341dae1c1bfa846669cf5a90df8aa",
+      "title": "Visualizing the stock market"
+    },
+    {
+      "paperId": "c2f2c0d12583bf493a490bbfd9d38afc6f49e88c",
+      "title": "Capitalizing knowledge: new intersections of industry and academia"
+    },
+    {
+      "paperId": "4eafbddeabb3c1f4143b8ee190680d0bdcd398f3",
+      "title": "Visual task characterization for automated visual discourse synthesis"
+    },
+    {
+      "paperId": "cef9594c6e018ef852df287de8c590907a240292",
+      "title": "Visualization of financial information"
+    },
+    {
+      "paperId": "e7152b83bc7d3afd4fbe847f08029e4ef5777f19",
+      "title": "Business Visualization Applications"
+    },
+    {
+      "paperId": "02398749f7fb8b4083e1a8f6bd67bf2821a733b9",
+      "title": "Seeing The Big Picture: The Influence Of Industry, Diversification, And Business Strategy On Performance"
+    },
+    {
+      "paperId": "62f78a7ceb32194aad0cab80371d75b98357a6c1",
+      "title": "The Death of Competition: Leadership and Strategy in the Age of Business Ecosystems"
+    },
+    {
+      "paperId": "6a7cb2f68f088b6b265dea866f4596af72c235be",
+      "title": "Interactive High-Dimensional Data Visualization"
+    },
+    {
+      "paperId": "10fc3842af5d06bb2aa89436f3bac0148f862e17",
+      "title": "Accessing hyperdocuments through interactive dynamic maps"
+    },
+    {
+      "paperId": "e4afcd6af26a9bd971521209348130f5cd22158c",
+      "title": "VisDB: database exploration using multidimensional visualization"
+    },
+    {
+      "paperId": "5f8b89f7edd78551ed745ca93f31292a125586fc",
+      "title": "Evaluating the influence of interface styles and multiple access paths in hypertext"
+    },
+    {
+      "paperId": "72f224cdfeb7346105573b06b0999b3281b2ec1a",
+      "title": "Tree-maps: a space-filling approach to the visualization of hierarchical information structures"
+    },
+    {
+      "paperId": "8a61f398b9c5075ab26db9a5fd69f1d5da87d17d",
+      "title": "Cone Trees: animated 3D visualizations of hierarchical information"
+    },
+    {
+      "paperId": "e160974f1408349a34e48acb2542e08133f74a52",
+      "title": "Brushing scatterplots"
+    },
+    {
+      "paperId": "7acbad202131e86841a46a0b40922e65c4ea462d",
+      "title": "A Tale of Two Visions - Exploring the Dichotomy of Interest between Academia and Industry in Visualisation"
+    },
+    {
+      "paperId": null,
+      "title": "https://www"
+    },
+    {
+      "paperId": "92e0516a1d17c58e3c0bb156440561fe4e6898ab",
+      "title": "Explorative Data Visualization Using Business Intelligence and Data Mining Techniques"
+    },
+    {
+      "paperId": "297d01ff6731c3bd917ede3d378c94cb84650e8f",
+      "title": "Opinion Mining and Sentiment Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Building a Digital Business Technology Platform; Technical Report"
+    },
+    {
+      "paperId": "5782b23f0cd6f2c39607ef8699aa773c0489b9aa",
+      "title": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "paperId": "b0f6fa115f0116baa7003755cde08bcf8c8b2500",
+      "title": "An Automated Cloud-Based Big Data Analytics Platform for Customer Insights"
+    },
+    {
+      "paperId": "66656056c5af6775454b73e069fd3a3e5caaf89c",
+      "title": "Development of Methods for Visualizing Customer Value in Terms of People and Management"
+    },
+    {
+      "paperId": "f6391204d679ee7b1d5231f2d1140b9fc37c9f41",
+      "title": "The Business Demand for Data, Information, and Analytics"
+    },
+    {
+      "paperId": "962003fb1f7cdf932043045204006d208e1eb74e",
+      "title": "Measure Customer Behaviour using C4.5 Decision Tree Map Reduce Implementation in Big Data Analytics and Data Visualization"
+    },
+    {
+      "paperId": "b0b2b1decae4e1fb0c7a9c0dbfe0bf4c6c5327e3",
+      "title": "Interactive Visualization of Business Births and Deaths in the U . S . Economy using a Novel Visualization Technique Called HiFi Pie"
+    },
+    {
+      "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+      "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
+    },
+    {
+      "paperId": "279b6f213cfa897c6d738b7406fb111eef81da7f",
+      "title": "Interactive Visualisation of Automotive Warranty Data Using Novel Extensions of Chord Diagrams"
+    },
+    {
+      "paperId": null,
+      "title": "New Department: Art on Graphics - IEEE CGA Call for Articles"
+    },
+    {
+      "paperId": null,
+      "title": "The Top 5 Business Benefits of Using Data Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "2D vs 3D [Panel"
+    },
+    {
+      "paperId": "adf1609b3377b760375cb7c1f4ea59fdbae9cfa0",
+      "title": "A Novel Radial Visualization Approach for Undirected Hypergraphs"
+    },
+    {
+      "paperId": "1830fcc00befe4bcd651b403198aae19d43c7789",
+      "title": "Visual Analytics for Converging-Business-Ecosystem Intelligence"
+    },
+    {
+      "paperId": "ece000ee42cdb188a4546e1c4d92d5ac97085aaa",
+      "title": "Localization Improvement of Smartphones Using Built-in Sensors"
+    },
+    {
+      "paperId": "d438c4d1da6c4b0bc9b2f57060054dc2cfc690c9",
+      "title": "Visualizing market segmentation using self-organizing maps and Fuzzy Delphi method - ADSL market of a telecommunication company"
+    },
+    {
+      "paperId": "e053588239b7484952963b2a63d5cfc7938695da",
+      "title": "International Conference on Computational Science , ICCS 2010 Financial Markets in Motion : Visualising stock price and news interactions during the 2008 global financial crisis"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "5090d2b6f82339d0b821f1ada996d2ee104a95ae",
+      "title": "Business Artifacts: A Data-centric Approach to Modeling Business Operations and Processes"
+    },
+    {
+      "paperId": "c03e4035f59dd16e780ff99daa973f4dbe11d158",
+      "title": "KELLOGG ON INTEGRATED MARKETING"
+    },
+    {
+      "paperId": "4f8955174b2eda3c69b56bf74cdb683cc8a870a1",
+      "title": "Strategy Visualization : A New Research Focus in Knowledge Visualization and a Case Study"
+    },
+    {
+      "paperId": "d43effd4782055e7957beb401c2a86c16432ff31",
+      "title": "Towards a Framework and a Model for Knowledge Visualization: Synergies Between Information and Knowledge Visualization"
+    },
+    {
+      "paperId": "6ab963529afac6455f56c21da141062eedce05f4",
+      "title": "Data collection, primary versus secondary"
+    },
+    {
+      "paperId": "51bc6bacc1b22d4de6fb70c0da4e767e25c80965",
+      "title": "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management"
+    },
+    {
+      "paperId": "3bd14b435399ef4c41ee3499e8cbd4b475daff4e",
+      "title": "Self-organized formation of topologically correct feature maps"
+    },
+    {
+      "paperId": "9be5534bb76f5c9be1410142d81ba079410fe331",
+      "title": "eBusiness Click Stream Analysis"
+    },
+    {
+      "paperId": "972e31f47c9efb8a1e7bdff296ff5ba9213fdf78",
+      "title": "A Workplace Study of the Adoption of Information Visualization Systems. Proceedings of I-KNOW'03: 3rd International Conference on Knowledge Management, Graz, Austria"
+    },
+    {
+      "paperId": "75a6fe7a278ff0c60343af9ed5228b5f4cf38bed",
+      "title": "Information Visualization and Visual Data Mining"
+    },
+    {
+      "paperId": "1e190415f17b195cfdcfdd168c13836672ea11fa",
+      "title": "Visualization Viewpoints"
+    },
+    {
+      "paperId": "e686aec1794516d1402994e6712d39298613b3b9",
+      "title": "Data Mining Explained: A Manager's Guide to Customer-Centric Business Intelligence"
+    },
+    {
+      "paperId": "1af08944ccddf031bcbec9befb251cb62a30b162",
+      "title": "Designing Pixel-Oriented Visualization Techniques: Theory and Applications"
+    },
+    {
+      "paperId": "c0147b41048540b8cb461da8216cbc565dca050e",
+      "title": "Squarified Treemaps"
+    },
+    {
+      "paperId": "e507ad65b2a3b8370687e1c6eac0f1bebc34bb83",
+      "title": "Technical Analysis of the Financial Markets"
+    },
+    {
+      "paperId": "73a76dd71abfbd29dbba4ea034ab52284626aa71",
+      "title": "A language modeling approach to information retrieval"
+    },
+    {
+      "paperId": "783206832b83a9f6c4a0d3fb38af5341fa5e8e03",
+      "title": "Visual Explorations in Finance with Self-Organizing Maps"
+    },
+    {
+      "paperId": "f4f51dd24b0d8ac7b9684be3fc092adf7cd5872b",
+      "title": "Information Graphics: A Comprehensive Illustrated Reference"
+    },
+    {
+      "paperId": "49f600b9178468161653050c0658c05c1ea0623e",
+      "title": "WEBVIZ: A Tool for World Wide Web Access Log Analysis"
+    },
+    {
+      "paperId": null,
+      "title": "Parallel coordinates. In Human-Machine Interactive Systems"
+    },
+    {
+      "paperId": "5e48ed2b2091bf7c039d475a10b1ba2a60f35332",
+      "title": "Bionomics: Economy As Ecosystem"
+    },
+    {
+      "paperId": "3c26347f3c6b2b403eda930c3396a8457f5591f5",
+      "title": "Eurographics/ Ieee-vgtc Symposium on Visualization (2006) a Spectral Visualization System for Analyzing Financial Time Series Data"
+    },
+    {
+      "paperId": "47f3bb7b21350596d92ede8eb220fd92133de485",
+      "title": "City Research Online"
+    },
+    {
+      "paperId": null,
+      "title": "IMDb-Internet Movie Database"
+    },
+    {
+      "paperId": null,
+      "title": "Charting Performance. NZ Business"
+    },
+    {
+      "paperId": null,
+      "title": "Feeding the Needs of Diverse Stakeholders for Enterprise Visualisation Systems"
+    },
+    {
+      "paperId": null,
+      "title": "Gartner Says Business Intelligence and Analytics Need to Scale up to Support Explosive Growth in Data Sources"
+    },
+    {
+      "paperId": null,
+      "title": "A History of United States Congress"
+    },
+    {
+      "paperId": null,
+      "title": "From Data to Actionable Business Insights. IEEE VIS"
+    },
+    {
+      "paperId": null,
+      "title": "How Companies Are Using Big Data and Analytics"
+    }
+  ]
+}

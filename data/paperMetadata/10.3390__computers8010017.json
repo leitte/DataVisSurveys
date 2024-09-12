@@ -1,0 +1,315 @@
+{
+  "paperId": "2ea5f71a4524885d537db0875b5df797f6d55586",
+  "externalIds": {
+    "MAG": "2916580714",
+    "DBLP": "journals/computers/AlharbiL19",
+    "DOI": "10.3390/COMPUTERS8010017",
+    "CorpusId": 86433885
+  },
+  "publicationVenue": {
+    "id": "38e26272-f1d7-470a-a99f-0b5884c9df6e",
+    "name": "De Computis",
+    "alternate_names": [
+      "Comput"
+    ],
+    "issn": "1886-1881",
+    "url": "https://dialnet.unirioja.es/servlet/revista?clave_revista=6205&tipo_busqueda=CODIGO",
+    "alternate_urls": [
+      "http://decomputis.org/ojs/",
+      "https://ideas.repec.org/s/dec/articl.html",
+      "http://www.decomputis.org/"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/2ea5f71a4524885d537db0875b5df797f6d55586",
+  "title": "SoS TextVis: An Extended Survey of Surveys on Text Visualization",
+  "abstract": "Text visualization is a rapidly growing sub-field of information visualization and visual analytics. There are many approaches and techniques introduced every year to address a wide range of challenges and analysis tasks, enabling researchers from different disciplines to obtain leading-edge knowledge from digitized collections of text. This can be challenging particularly when the data is massive. Additionally, the sources of digital text have spread substantially in the last decades in various forms, such as web pages, blogs, twitter, email, electronic publications, and digitized books. In response to the explosion of text visualization research literature, the first text visualization survey article was published in 2010. Furthermore, there are a growing number of surveys that review existing techniques and classify them based on text research methodology. In this work, we aim to present the first Survey of Surveys (SoS) that review all of the surveys and state-of-the-art papers on text visualization techniques and provide an SoS classification. We study and compare the 14 surveys, and categorize them into five groups: (1) Document-centered, (2) user task analysis, (3) cross-disciplinary, (4) multi-faceted, and (5) satellite-themed. We provide survey recommendations for researchers in the field of text visualization. The result is a very unique, valuable starting point and overview of the current state-of-the-art in text visualization research literature.",
+  "venue": "De Computis",
+  "year": 2019,
+  "referenceCount": 61,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2073-431X/8/1/17/pdf?version=1550650873",
+    "status": "GOLD"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2019-02-20",
+  "journal": {
+    "name": "Comput.",
+    "pages": "17",
+    "volume": "8"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Alharbi2019SoSTA,\n author = {Mohammad Alharbi and R. Laramee},\n booktitle = {De Computis},\n journal = {Comput.},\n pages = {17},\n title = {SoS TextVis: An Extended Survey of Surveys on Text Visualization},\n volume = {8},\n year = {2019}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1857550905",
+      "name": "Mohammad Alharbi"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "4dda7bc50fca88643973c39428fbcb0261a3e3a2",
+      "title": "Digital Library"
+    },
+    {
+      "paperId": "05271ef13a79f2efc8f5206ecf41194b410d77f6",
+      "title": "Bridging Text Visualization and Mining: A Task-Driven Survey"
+    },
+    {
+      "paperId": "fa1bae20da8d592f20d20349e909d39837a504f8",
+      "title": "A Survey of Information Visualization Books"
+    },
+    {
+      "paperId": "bf6d18bbbfe7a4d96292618bf4a9b8c33e423303",
+      "title": "Scholar"
+    },
+    {
+      "paperId": "2af1587a1f2b0b03e1a17d6a17cc4ef7b1d07c95",
+      "title": "The State of the Art in Sentiment Visualization"
+    },
+    {
+      "paperId": "50f2f7166a89e1ef628ab372edc53df77109b9fa",
+      "title": "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents"
+    },
+    {
+      "paperId": "b17195fa5e4d38f056affd451c0af022424419a4",
+      "title": "Visual Text Analysis in Digital Humanities"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "58cc0ac446d7c835074a44ed5d4d74e947f305ac",
+      "title": "Text visualization techniques: Taxonomy, visual survey, and community insights"
+    },
+    {
+      "paperId": "72e8b9953d44c02c51a876ba13745e29471c9a62",
+      "title": "A survey on information visualization: recent advances and challenges"
+    },
+    {
+      "paperId": "434ac6b3c4802695ac63f7b10b46c9ebb5052d3a",
+      "title": "The Albert Einstein archives digitization project: opening hidden treasures"
+    },
+    {
+      "paperId": "28e711ceca52596963927d626dedee2f63b28f85",
+      "title": "Sets of Globally Optimal Stream Surfaces for Flow Visualization"
+    },
+    {
+      "paperId": "72b250b7141c9d0d30bb700b77551b8e50b59a3d",
+      "title": "How we draw texts: a review of approaches to text visualization and exploration"
+    },
+    {
+      "paperId": "45826cc20af40f1662e6a9282f3d1c23972a992d",
+      "title": "A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges"
+    },
+    {
+      "paperId": "6137ce581d6f3d3b20dc255e295fd71f7aceeb91",
+      "title": "Seeing beyond reading: a survey on visual text analytics"
+    },
+    {
+      "paperId": "48d277cf8e9b50e53bfcacd535bf834199e976f0",
+      "title": "A Survey of Text Clustering Algorithms"
+    },
+    {
+      "paperId": "219313411422c9bb2e7cd02ccf5046e5732d9272",
+      "title": "TextFlow: Towards Better Understanding of Evolving Topics in Text"
+    },
+    {
+      "paperId": "ae8d3fb5b1f8b677922ab7a4c21a7c0b6323e3d9",
+      "title": "SparkClouds: Visualizing Trends in Tag Clouds"
+    },
+    {
+      "paperId": "cea549a90221b2bc3dab0297d1453d0bd8c9d353",
+      "title": "FacetAtlas: Multifaceted Visualization for Rich Text Corpora"
+    },
+    {
+      "paperId": "4e35f2a50cc1cd108491866e485ca165efa793bd",
+      "title": "Visualization of Text Streams: A Survey"
+    },
+    {
+      "paperId": "54ca0e824cb87d2ec1505983ba0ba7dbaf151c2c",
+      "title": "A Survey of Text Summarization Extractive Techniques"
+    },
+    {
+      "paperId": "c93e259a77b7b68a8f9a71dd634ece7ecd60ce5a",
+      "title": "Participatory Visualization with Wordle"
+    },
+    {
+      "paperId": "de5fd926f312faad3d95092d1b4f4e0250115476",
+      "title": "Document Cards: A Top Trumps Visualization for Documents"
+    },
+    {
+      "paperId": "6dd112bffaff2cc163830938f4f63a9b5c480e87",
+      "title": "Detecting and Visualizing Emerging Trends and Transient Patterns in Fuel Cell Scientific Literature"
+    },
+    {
+      "paperId": "37316a323a2808f3d4dd6a5086e72b56ba960a96",
+      "title": "Exploratory analysis of spatial and temporal data - a systematic approach"
+    },
+    {
+      "paperId": "a76138efbbe0c4ae8bc6e6e0d24c3d2612285ca5",
+      "title": "Graphs, Maps, Trees: Abstract Models for a Literary History"
+    },
+    {
+      "paperId": "cedf72be1fe814ef2ee9d65633dc3226f80f0785",
+      "title": "Text information extraction in images and video: a survey"
+    },
+    {
+      "paperId": "5244bcdce26e05ae7fd40f43d53059aa1e607281",
+      "title": "The InfoSky visual explorer: Exploiting Hierarchical Structure and Document Similarities"
+    },
+    {
+      "paperId": "bfd8fc760b243d206213342fa17028413099636b",
+      "title": "The Ecological Approach to Text Visualization"
+    },
+    {
+      "paperId": "1ca641a3ec2cb3445fd62a4350a73401485603fb",
+      "title": "The eyes have it: a task by data type taxonomy for information visualizations"
+    },
+    {
+      "paperId": "4bc2d01056336caee7fecb3230f38b6bec7ce591",
+      "title": "TileBars: visualization of term distribution information in full text information access"
+    },
+    {
+      "paperId": "f87e03c67af5f3f21495e4ebcc28eeac0063c77f",
+      "title": "National agricultural text digitizing project"
+    },
+    {
+      "paperId": "d5f169880e30e1f76827d72f862555d00b01bed9",
+      "title": "A vector space model for automatic indexing"
+    },
+    {
+      "paperId": "c25db6867db5a0e2a0910bd9e71a81aa2fd651e2",
+      "title": "TagCrowd"
+    },
+    {
+      "paperId": "e884efa6bb81694022b53b7f1a33d1964c14503f",
+      "title": "SoS TextVis: A Survey of Surveys on Text Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Parallel Coordinates of SoS"
+    },
+    {
+      "paperId": null,
+      "title": "A Little Word Cloud Generator in Python"
+    },
+    {
+      "paperId": "5ca29b172af1a39a0b3d269b056a8f3193910986",
+      "title": "Overview of Text Visualization Techniques"
+    },
+    {
+      "paperId": "20cd40f3f17dc7d8f49d368c2efbc2e27b0f2b33",
+      "title": "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges"
+    },
+    {
+      "paperId": "c91817fcbde7006b3cbc993a3a6db81928ce40f8",
+      "title": "Document visualization: an overview of current research"
+    },
+    {
+      "paperId": "dc54b4272e56e4a25308a59e557d30b53d1a9b8a",
+      "title": "State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams"
+    },
+    {
+      "paperId": "31b52afe4db00f97a703d534803165bbd55359c2",
+      "title": "EventRiver: Visually Exploring Text Collections with Temporal References"
+    },
+    {
+      "paperId": "ad4cb896a2803136df0821a86ff187c4f47656e0",
+      "title": "Mastering the Information Age - Solving Problems with Visual Analytics"
+    },
+    {
+      "paperId": "56b68ce5c1a00aeeda9965ac8e0b69ed9d9fa7b3",
+      "title": "The Million Book Digital Library Project: Research Problems in Data Mining and Discovery"
+    },
+    {
+      "paperId": "c9ebf0d7ba518f835b57eace8374dc448e062ea1",
+      "title": "A cartographic approach to visualizing conference abstracts"
+    },
+    {
+      "paperId": "bf81aff7e1b1294e9ed53c991fbcfed2d4c7c5e0",
+      "title": "Readings in information visualization - using vision to think"
+    },
+    {
+      "paperId": null,
+      "title": "Cross-disciplinary"
+    },
+    {
+      "paperId": null,
+      "title": "Sentiment and affect analysis is used to identify and quantify the emotional aspects of the text"
+    },
+    {
+      "paperId": null,
+      "title": "Task analysis: We group surveys that mainly categorize their related literature based on the task analysis; e.g., showing similarities between texts"
+    },
+    {
+      "paperId": null,
+      "title": "Text characteristics depicted as word concordances, semantic relations, contents, or document relations"
+    },
+    {
+      "paperId": null,
+      "title": "Design principles satis\ufb01ed, which refers to the Type by Task Taxonomy (TTT) that Shneiderman proposes [37]"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization contains three subcategories to describe the properties of visual representations, dimensionality, representation, and alignment"
+    },
+    {
+      "paperId": null,
+      "title": "Requirements for a document to suit this visual design, such as arbitrary text documents or sequence-based documents"
+    },
+    {
+      "paperId": null,
+      "title": "Summarization methods shorten the text and present only the most relevant information"
+    },
+    {
+      "paperId": null,
+      "title": "Main features such as interactivity and versatility (designing general visualization models for different tasks)"
+    },
+    {
+      "paperId": null,
+      "title": "Data consists of two subcategories, source and properties, that describe the data source and the special properties of data used by the techniques"
+    },
+    {
+      "paperId": null,
+      "title": "Entity recognition aims to extract proper name of entities, such as the names of persons, organizations, places, or countries"
+    },
+    {
+      "paperId": null,
+      "title": "Multi-faceted: Here are surveys that categorize related literature into multi-faceted classi\ufb01cations. In this case"
+    },
+    {
+      "paperId": null,
+      "title": "Bag-of-words methods extract text features by counting the term occurrences in the text"
+    },
+    {
+      "paperId": null,
+      "title": "Term trend approaches are based on the term frequency in the text"
+    },
+    {
+      "paperId": null,
+      "title": "Document structure parsing extracts structural information from text, such as titles, authors names, and publication dates"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "paperId": "78defc7ed82587fedc917cd59dd895b3b8183325",
+  "externalIds": {
+    "MAG": "2058938615",
+    "DOI": "10.1016/J.CAG.2012.07.006",
+    "CorpusId": 11477983
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/78defc7ed82587fedc917cd59dd895b3b8183325",
+  "title": "Technical Section: Surface-based flow visualization",
+  "abstract": null,
+  "venue": "",
+  "year": 2012,
+  "referenceCount": 85,
+  "openAccessPdf": {
+    "url": "https://cronfa.swan.ac.uk/Record/cronfa24675/Download/0024675-09122015102050.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Engineering",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "publicationDate": "2012-12-01",
+  "journal": {
+    "name": "Computers & Graphics",
+    "pages": "974-990",
+    "volume": "36"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Edmunds2012TechnicalSS,\n author = {M. Edmunds and R. Laramee and Guoning Chen and N. Max and E. Zhang and C. Ware},\n journal = {Computers & Graphics},\n pages = {974-990},\n title = {Technical Section: Surface-based flow visualization},\n volume = {36},\n year = {2012}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "48706303",
+      "name": "M. Edmunds"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "1861830",
+      "name": "Guoning Chen"
+    },
+    {
+      "authorId": "1744909",
+      "name": "N. Max"
+    },
+    {
+      "authorId": "143647807",
+      "name": "E. Zhang"
+    },
+    {
+      "authorId": "145457561",
+      "name": "C. Ware"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "2182b5778bfd91df1f0d77a3baf0513b6ccf4036",
+      "title": "Space-time Visualization of Dynamics in Lagrangian Coherent Structures of Time-dependent 2D Vector Fields"
+    },
+    {
+      "paperId": "301b608879d7310aa32adea19c5ebed5b3ce2155",
+      "title": "Automatic Stream Surface Seeding: A Feature Centered Approach"
+    },
+    {
+      "paperId": "c0a79ca5a96041e22892569960e7c1bc14d3708e",
+      "title": "A 2D Flow Visualization User Study Using Explicit Flow Synthesis and Implicit Task Design"
+    },
+    {
+      "paperId": "a5deca6cbc95cce75a54b6dea3340dc0cdb86e71",
+      "title": "Mesh-Driven Vector Field Clustering and Visualization: An Image-Based Approach"
+    },
+    {
+      "paperId": "d09d3a306169db4b10e945ccd9e376b2e38fe0a4",
+      "title": "Interactive Visualization of Rotational Symmetry Fields on Surfaces"
+    },
+    {
+      "paperId": "7976c3f75f451a473beb4c55e9e6cf6910c7cdd6",
+      "title": "Visualization and Mathematics III"
+    },
+    {
+      "paperId": "daf9e11c4a08c6ede199915d004c16ad19231fd7",
+      "title": "Interactive Separating Streak Surfaces"
+    },
+    {
+      "paperId": "d777079811cb42631a3ba864e7bd8ac709031c0f",
+      "title": "Illustrative Stream Surfaces"
+    },
+    {
+      "paperId": "4da781282dc64ae921e774a7282327058568bc6c",
+      "title": "IRIS: Illustrative Rendering for Integral Surfaces"
+    },
+    {
+      "paperId": "5d210d7f6097ae17c40c8e506269df5267f44388",
+      "title": "Polygonal Surface Advection applied to Strange Attractors"
+    },
+    {
+      "paperId": "1b6ab170fcbf192abfdd5837d1e0ef202ac0bc97",
+      "title": "Topology Aware Stream Surfaces"
+    },
+    {
+      "paperId": "6b9ab52160281523932a0e46576e458b7b387255",
+      "title": "Constructing streak surfaces for 3D unsteady vector fields"
+    },
+    {
+      "paperId": "38f8e083892a78820f77fb341c34ffdc5c472ffb",
+      "title": "Time and Streak Surfaces for Flow Visualization in Large Time-Varying Data Sets"
+    },
+    {
+      "paperId": "06cd7ddba233b52973d965ac6174708534ddcb40",
+      "title": "Interactive Streak Surface Visualization on the GPU"
+    },
+    {
+      "paperId": "346aa6083439d38f29349126b52f7a0d40faacfe",
+      "title": "Comparing 3D Vector Field Visualization Methods: A User Study"
+    },
+    {
+      "paperId": "522a569490b6d47a23084785dde03d905a324810",
+      "title": "Evenly Spaced Streamlines for Surfaces: An Image\u2010Based Approach"
+    },
+    {
+      "paperId": "1f7f303bed7648321196dfc23471a88da444b80a",
+      "title": "Smooth Stream Surfaces of Fourth Order Precision"
+    },
+    {
+      "paperId": "e63a556e603e676fe613f9a5c7bbc194eb7ce86a",
+      "title": "Easy integral surfaces: a fast, quad-based stream and path surface algorithm"
+    },
+    {
+      "paperId": "9f7471214e9bf9188dd5c9b1475b7f8e74ce254a",
+      "title": "Topologically relevant stream surfaces for flow visualization"
+    },
+    {
+      "paperId": "0913a845d8c5343c819b42571db77194d2872139",
+      "title": "Flow field visualization using vector field perpendicular surfaces"
+    },
+    {
+      "paperId": "ef40483c7201acc2364e6c336944c66d9946a656",
+      "title": "Dual streamline seeding"
+    },
+    {
+      "paperId": "5bbca005befd3b680a52252b1e23cd49caa204cb",
+      "title": "Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments"
+    },
+    {
+      "paperId": "9aea251795ca614845339b02e68561ad4ac7eb12",
+      "title": "Generation of Accurate Integral Surfaces in Time-Dependent Vector Fields"
+    },
+    {
+      "paperId": "d3830ab28697998bbd3e5a332e36858cf76eb91b",
+      "title": "Flow Charts: Visualization of Vector Fields on Arbitrary Surfaces"
+    },
+    {
+      "paperId": "46b00df80d34df8237fc8653997c3e1f96729c60",
+      "title": "Animation of Orthogonal Texture Patterns for Vector Field Visualization"
+    },
+    {
+      "paperId": "acc1571b82f0f210435ae94b01e3deea93a73139",
+      "title": "Applications of Texture-Based Flow Visualization"
+    },
+    {
+      "paperId": "5298fcd227c49f275ad28dad172e4cfbf7455a34",
+      "title": "Efficient Visualization of Lagrangian Coherent Structures by Filtered AMR Ridge Extraction"
+    },
+    {
+      "paperId": "54f01fbc6a182ae6962c34515397271ea7e781ec",
+      "title": "Point-based stream surfaces and path surfaces"
+    },
+    {
+      "paperId": "7e8b4e2d609067cd5a3de1ff520fd827ce0e2871",
+      "title": "Cycle shading for the assessment and visualization of shape in one and two codimensions"
+    },
+    {
+      "paperId": "35a2d9eee78fb3163d03715ef4034d3341b6895a",
+      "title": "Parallel texture-based vector field visualization on curved surfaces using GPU cluster computers"
+    },
+    {
+      "paperId": "8db263c0a7a44d794c28b7f4f7c90f573f6d6560",
+      "title": "Texture Advection on Stream Surfaces: A Novel Hybrid Visualization Applied to CFD Simulation Results"
+    },
+    {
+      "paperId": "bca9f123636bc1cf14198e875d8a2d64b4d7d620",
+      "title": "Extraction of parallel vector surfaces in 3D time-dependent fields and application to vortex core line tracking"
+    },
+    {
+      "paperId": "b5db21ebd43c047483a43cb41a97492b211a3349",
+      "title": "Visual analysis and exploration of fluid flow in a cooling jacket"
+    },
+    {
+      "paperId": "8ff295ac3dd10e1a9f9e7267e9019a366afac421",
+      "title": "Investigating swirl and tumble flow with a comparison of visualization techniques"
+    },
+    {
+      "paperId": "b58877949ca50f508a706af5c18dbb8881fdce4d",
+      "title": "The State of the Art in Flow Visualization: Dense and Texture\u2010Based Techniques"
+    },
+    {
+      "paperId": "d9fc856341cd7d0e126e1943586161d972a8f00d",
+      "title": "Surface techniques for vortex visualization"
+    },
+    {
+      "paperId": "d5fa39d94d5eccb3b06133041bda186ef3007cda",
+      "title": "Boundary switch connectors for topological visualization of complex 3D vector fields"
+    },
+    {
+      "paperId": "4cfe1a327672d26e980bc6240d144d5a5d78aff7",
+      "title": "Texture-based flow visualization on isosurfaces from computational fluid dynamics"
+    },
+    {
+      "paperId": "c60305477c8a43135bea18eabcdb8ba9203891a6",
+      "title": "A Hybrid Physical/Device-Space Approach for Spatio-Temporally Coherent Interactive Texture Advection on Curved Surfaces"
+    },
+    {
+      "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+      "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking"
+    },
+    {
+      "paperId": "0410b8fcc578b88170069351df42669fb747786f",
+      "title": "FIRST: a flexible and interactive resampling tool for CFD simulation data"
+    },
+    {
+      "paperId": "44b1b3b74b6db52d6b86c5f3cb14d051497a3f14",
+      "title": "Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields"
+    },
+    {
+      "paperId": "324623e0635318547b7cb7d1cc578f2e883a2be8",
+      "title": "Image based flow visualization for curved surfaces"
+    },
+    {
+      "paperId": "bd10ee531a6a8ef38d1daacb6ae3f20660f458ce",
+      "title": "Image space based visualization of unsteady flow on surfaces"
+    },
+    {
+      "paperId": "cb33fa0e8dd8082bceae25a39caedec93765b15e",
+      "title": "Feature Flow Fields"
+    },
+    {
+      "paperId": "9985597eba20ee8c6ca55e9f7d67a0ebddfbbd30",
+      "title": "Pointshop 3D: an interactive system for point-based surface editing"
+    },
+    {
+      "paperId": "6cbce689ac193bc11553940c77b15ea05549e0fc",
+      "title": "Image based flow visualization"
+    },
+    {
+      "paperId": "c8af54529d674fb464a52fe6ab489b9f05068985",
+      "title": "Lagrangian-Eulerian advection for unsteady flow visualization"
+    },
+    {
+      "paperId": "e673d0c1b4795855b4a1b03a26a309919a5048d7",
+      "title": "Stream Surface Generation for Fluid Flow Solutions on Curvilinear Grids"
+    },
+    {
+      "paperId": "36c2496415b1a487f6aed4eeb403b9056c0c4ad1",
+      "title": "Distinguished material surfaces and coherent structures in three-dimensional fluid flows"
+    },
+    {
+      "paperId": "d49c79a1645be239ad28ffcd659794c9aed5fc49",
+      "title": "A level-set method for flow visualization"
+    },
+    {
+      "paperId": "42bd953ac43e1d10826242a11e5a6af89a5a8b98",
+      "title": "The \"Parallel Vectors\" operator-a vector field visualization primitive"
+    },
+    {
+      "paperId": "1f6570fd723823d379a46350e2657d0ef328228f",
+      "title": "A New Line Integral Convolution Algorithm for Visualizing Time-Varying Flow Fields"
+    },
+    {
+      "paperId": "34b5e3e70328f1a21dd1d113e6cf0fd1926aeed7",
+      "title": "Stream arrows: enhancing the use of stream surfaces for the visualization of dynamical systems"
+    },
+    {
+      "paperId": "64542826459b8fb406cf57f54c2189225fd8cf13",
+      "title": "Fast Line Integral Convolution for Arbitrary Surfaces in 3D"
+    },
+    {
+      "paperId": "ec8218a3f7c400f5669e3df53a54764ba9653cc9",
+      "title": "Flow visualization for turbomachinery design"
+    },
+    {
+      "paperId": "32e67cf9257afe4f7aa3fd33a30823e93dac8c9a",
+      "title": "Visualizing vector fields using line integral convolution and dye advection"
+    },
+    {
+      "paperId": "4303d8e7b435999c6b1e6803186f48f9e9f82b41",
+      "title": "Efficient Streamline, Streamribbon, and Streamtube Constructions on Unstructured Grids"
+    },
+    {
+      "paperId": "98a5b156fde236ca8fbaac3c34dc557243eecf40",
+      "title": "Enhanced Spot Noise for Vector Field Visualization"
+    },
+    {
+      "paperId": "73d5208c7d0ca3828738246314eb1670936fbf7e",
+      "title": "Using Line Integral Convolution for Flow Visualization: Curvilinear Grids, Variable-Speed Animation, and Unsteady Flows"
+    },
+    {
+      "paperId": "f17c052e9d130c7d8755f248e93e691fd6d1accf",
+      "title": "Feature detection from vector quantities in a numerically simulated hypersonic flow field in combination with experimental flow visualization"
+    },
+    {
+      "paperId": "9c6272fbd87b3d58a9d2d942b0c3a7416ca5fcc6",
+      "title": "Visualizing flow over curvilinear grid surfaces using line integral convolution"
+    },
+    {
+      "paperId": "c4d6857c25fc519364d236e365f08be522c01933",
+      "title": "Cloud tracing in convection-diffusion systems"
+    },
+    {
+      "paperId": "614cee5240b4b069b0fd50b1c02c90a23dfd02c6",
+      "title": "Implicit Stream Surfaces"
+    },
+    {
+      "paperId": "cb3580bd73c3d4cd790df4fa52bf2e782189a89a",
+      "title": "Imaging vector fields using line integral convolution"
+    },
+    {
+      "paperId": "a6f1834cd32454af91e84d8c81ad8aca52ee79c8",
+      "title": "Constructing stream surfaces in steady 3D vector fields"
+    },
+    {
+      "paperId": "87782888e393c201fc11d052b5867069bab28d58",
+      "title": "Visualization of 3-D vector fields - Variations on a stream"
+    },
+    {
+      "paperId": "45a5f79e4e76f05e450f892eb90e81a6d5f03576",
+      "title": "Continuum Mechanics for Engineers"
+    },
+    {
+      "paperId": "da50a7d10d41f93378b04387b1c395637d69ae84",
+      "title": "The stream polygon-a technique for 3D vector field visualization"
+    },
+    {
+      "paperId": "46a6a069023b5690b12b04157e9c60baff303538",
+      "title": "Spot noise texture synthesis for data visualization"
+    },
+    {
+      "paperId": "8ea4d538dc93f1d07552533e8083a91b018b1e94",
+      "title": "Moving iconic objects in scientific visualization"
+    },
+    {
+      "paperId": "1f0f9a2ee14450f010803aff192d0dda003141c9",
+      "title": "Visualization in scientific computing"
+    },
+    {
+      "paperId": "ef92edad4532fe2fd33dd0cfdeee661be2e6351e",
+      "title": "Solid texturing of complex surfaces"
+    },
+    {
+      "paperId": "4d2efe231bff041e3ec41f32a8e061c9d999b2af",
+      "title": "Dynamics--the geometry of behavior"
+    },
+    {
+      "paperId": "5b42a3cfdb1288bbf9c297b871b2c4599f396f65",
+      "title": "Advanced, Automatic Stream Surface Seeding and Filtering"
+    },
+    {
+      "paperId": "c8a371c963644229a6c2015a63639c9c70184a9e",
+      "title": "Iterative Twofold Line Integral Convolution for Texture-Based Vector Field Visualization"
+    },
+    {
+      "paperId": "411c1ef03a63341597e5bbff06553682c684772d",
+      "title": "Vector Glyphs for Surfaces: A Fast and Simple Glyph Placement Algorithm for Adaptive Resolution Meshes"
+    },
+    {
+      "paperId": "783f86793bce07a9a8cc4d2849fe7e11f3b85c65",
+      "title": "Simulation of the three-dimensional flow around a square cylinder between parallel walls at moderate Reynolds numbers"
+    },
+    {
+      "paperId": "6ba706f609a39ad91dd63a03b3d1d165c45d3afb",
+      "title": "Comparing 2D vector field visualization methods: a user study"
+    },
+    {
+      "paperId": "dc636c74ea14e4479f4af4bc6cd3798e8230b9a1",
+      "title": "Computational aspects of dynamic surfaces"
+    },
+    {
+      "paperId": "308ac42301595151e44bedfc59548ff323697f53",
+      "title": "Hierarchical Streamarrows for the Visualization of Dynamical Systems"
+    },
+    {
+      "paperId": "15d58ccfb780b65d6e97c9b7bc23266f6969b045",
+      "title": "Line Integral Convolution for 3D Surfaces"
+    },
+    {
+      "paperId": "8b15ba829f82787a92c97026d41a925e9d33a027",
+      "title": "Creating Evenly-Spaced Streamlines of Arbitrary Density"
+    },
+    {
+      "paperId": "6440def2e69ef8215b1171286128c04ded111d33",
+      "title": "Some advances in digital flow visualization"
+    },
+    {
+      "paperId": "2064ee91e98030f38d66a5d4f22ade2aa0729848",
+      "title": "Ieee Transactions on Visualization and Computer Graphics Isa and Ibfvs: Image Space Based Visualization of Flow on Surfaces"
+    }
+  ]
+}

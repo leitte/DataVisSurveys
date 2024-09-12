@@ -5,7 +5,7 @@
 1. Add the doi to the file [includedPapersDOIs.txt](data/includedPapersDOIs.txt).
 1. Add the paper metadata from semanticscholar using the script [downloadScholarMetadataFromList.py](scripts/downloadScholarMetadataFromList.py)
     ```
-    python scripts/scripts/downloadScholarMetadataFromList.py
+    python scripts/downloadScholarMetadataFromList.py
     ```
     The script only adds missing metadata.
 2. Validate all new metadata in directory [data/paperMetadataNew/](data/paperMetadataNew/)

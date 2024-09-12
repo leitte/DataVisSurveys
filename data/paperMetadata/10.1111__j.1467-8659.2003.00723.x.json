@@ -1,0 +1,316 @@
+{
+  "paperId": "ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+  "externalIds": {
+    "MAG": "2137748495",
+    "DBLP": "journals/cgf/PostVHLD03",
+    "DOI": "10.1111/j.1467-8659.2003.00723.x",
+    "CorpusId": 2833150
+  },
+  "publicationVenue": null,
+  "url": "https://www.semanticscholar.org/paper/ee8f43eb2f5ee7cd565d5358992a1977b54cc74a",
+  "title": "The State of the Art in Flow Visualisation: Feature Extraction and Tracking",
+  "abstract": "Flow visualisation is an attractive topic in data visualisation, offering great challenges for research. Very large data sets must be processed, consisting of multivariate data at large numbers of grid points, often arranged in many time steps. Recently, the steadily increasing performance of computers again has become a driving force for new advances in flow visualisation, especially in techniques based on texturing, feature extraction, vector field clustering, and topology extraction.",
+  "venue": "Computer graphics forum (Print)",
+  "year": 2003,
+  "referenceCount": 62,
+  "openAccessPdf": {
+    "url": "https://cronfa.swan.ac.uk/Record/cronfa24692/Download/0024692-11122015103137.pdf",
+    "status": "GREEN"
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "publicationDate": "2003-12-01",
+  "journal": {
+    "name": "Computer Graphics Forum",
+    "volume": "22"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Post2003TheSO,\n author = {F. Post and B. Vrolijk and H. Hauser and R. Laramee and H. Doleisch},\n booktitle = {Computer graphics forum (Print)},\n journal = {Computer Graphics Forum},\n title = {The State of the Art in Flow Visualisation: Feature Extraction and Tracking},\n volume = {22},\n year = {2003}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "1779003",
+      "name": "F. Post"
+    },
+    {
+      "authorId": "1760705",
+      "name": "B. Vrolijk"
+    },
+    {
+      "authorId": "145693817",
+      "name": "H. Hauser"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    },
+    {
+      "authorId": "1916681",
+      "name": "H. Doleisch"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "0d67fe1931e68a128f25efc693a1eaa7077cafdd",
+      "title": "Interactive Feature Specification for Focus+Context Visualization of Complex Simulation Data"
+    },
+    {
+      "paperId": "3b74ea53cec804dc2261732a1ce808150cbcb31c",
+      "title": "Vortex Tracking and Visualisation in a Flow Past a Tapered Cylinder"
+    },
+    {
+      "paperId": "400a6e9baa00707c71a0731ae24ba691ebc4fe43",
+      "title": "A Novel Approach To Vortex Core Region Detection"
+    },
+    {
+      "paperId": "2d0a14b751f083cbe52c18e7a7f8609b7f4a73dd",
+      "title": "Vortex Tracking in Scale-Space"
+    },
+    {
+      "paperId": "c38ef430ea8f0d9ce4129bf598289374b8ae1e9d",
+      "title": "Topology tracking for the visualization of time-dependent two-dimensional flows"
+    },
+    {
+      "paperId": "ca705388cae6023ecab59ab359b76c8d611ec188",
+      "title": "Continuous topology simplification of planar vector fields"
+    },
+    {
+      "paperId": "e6cae9021f7d53e7570cda539d52726a14faae06",
+      "title": "Feature-Based Visualization of Time-Dependent Data"
+    },
+    {
+      "paperId": "c4fc165995e744e5fc9fe472dc3d0475a3d6d5a4",
+      "title": "Visualization of time-dependent data with feature tracking and event detection"
+    },
+    {
+      "paperId": "cf0211567b1b6ec9ef6f744df03eb877801c5020",
+      "title": "Detection, quantification, and tracking of vortices using streamline geometry"
+    },
+    {
+      "paperId": "3dd92fc4b6b7ed2336a7822ade79bae914489125",
+      "title": "Shock detection from computational fluid dynamics results"
+    },
+    {
+      "paperId": "42bd953ac43e1d10826242a11e5a6af89a5a8b98",
+      "title": "The \"Parallel Vectors\" operator-a vector field visualization primitive"
+    },
+    {
+      "paperId": "45477255196eb6de423d961b96671895f223fb19",
+      "title": "Level Set Methods and Fast Marching Methods/ J. A. Sethian"
+    },
+    {
+      "paperId": "7d8683c57ce15604a942480a81f215853fce619c",
+      "title": "Feature Extraction of Separation and Attachment Lines"
+    },
+    {
+      "paperId": "5c5011299a41bbf562ca288ae73d63be55b048c4",
+      "title": "Visualizing evolving scalar phenomena"
+    },
+    {
+      "paperId": "cc56dfad8018d130e301fd9de1c19382e2749d3b",
+      "title": "A higher-order method for finding vortex core lines"
+    },
+    {
+      "paperId": "a02d286cd802b8b0178d0584882934a36a724dc5",
+      "title": "Automatic detection of open and closed separation and attachment lines"
+    },
+    {
+      "paperId": "faae5a8247f1300d375e0220848f9c1b581daf01",
+      "title": "Hypervolume visualization: a challenge in simplicity"
+    },
+    {
+      "paperId": "ffb76c1a425c21d415faead9d363e6588e1cea2a",
+      "title": "Extracting iso-valued features in 4-dimensional scalar fields"
+    },
+    {
+      "paperId": "58dd685457a8c306131dec576eb27eb08ec149be",
+      "title": "Automatic Vortex Core Detection"
+    },
+    {
+      "paperId": "8f2486cf9cc168f3e4b08ec34de99237739d427b",
+      "title": "Effect of Tip Vortex Resolution on UH-60A Rotor-Blade Hover Performance Calculations"
+    },
+    {
+      "paperId": "745c07291390ad937b7ea7fd59c4d78d6c0fe867",
+      "title": "Visualizing Nonlinear Vector Field Topology"
+    },
+    {
+      "paperId": "5289cd935315b520565c7054858a52a8a00731a2",
+      "title": "Techniques and Applications of Deformable Surfaces"
+    },
+    {
+      "paperId": "aa782291810836b3f597be94f6746f0e6cb0f0fe",
+      "title": "Tracking and Visualizing Turbulent 3D Features"
+    },
+    {
+      "paperId": "0323020ce330a27f584c4fced2a44271dce95250",
+      "title": "Presentation and exploration of flow data"
+    },
+    {
+      "paperId": "ec8218a3f7c400f5669e3df53a54764ba9653cc9",
+      "title": "Flow visualization for turbomachinery design"
+    },
+    {
+      "paperId": "14390e71ac159978d0302b10fc489c52e075f039",
+      "title": "3D shock wave visualization on unstructured grids"
+    },
+    {
+      "paperId": "7dbcbaa748295a910594c5436c8923188a5e2cf3",
+      "title": "Feature Extraction and Iconic Visualization"
+    },
+    {
+      "paperId": "f9634ae51b078771f965e41bef652cacd33cd48e",
+      "title": "Selective visualization on curvilinear grids"
+    },
+    {
+      "paperId": "abb4ff1191b4c65b48fcff20b8c4701a87d96dee",
+      "title": "Floating shock fitting via Lagrangian adaptive meshes"
+    },
+    {
+      "paperId": "93c477c45336617562a0103d9e213e2de7a6afc9",
+      "title": "Identification of Swirling Flow in 3-D Vector Fields"
+    },
+    {
+      "paperId": "daab6d0d63dad5543c4b3338ff9926f22d2d2f03",
+      "title": "Floating shock fitting via Lagrangian adaptive meshes"
+    },
+    {
+      "paperId": "645534c45ebb679ea44b456a006d35d8e114a254",
+      "title": "A Predictor-Corrector Technique for Visualizing Unsteady Flow"
+    },
+    {
+      "paperId": "83257ffd0352c0e7e3185278acdd923f35158830",
+      "title": "On the identification of a vortex"
+    },
+    {
+      "paperId": "f17c052e9d130c7d8755f248e93e691fd6d1accf",
+      "title": "Feature detection from vector quantities in a numerically simulated hypersonic flow field in combination with experimental flow visualization"
+    },
+    {
+      "paperId": "c4ee4f7a2342ae1adf7b5f2f48fe9251f8677dd5",
+      "title": "Visualizing features and tracking their evolution"
+    },
+    {
+      "paperId": "ed225b2ef1cce4c2e0c05f2e158ab726a109b6a6",
+      "title": "Emergence of coherent patterns of vortex stretching during reconnection: A scattering paradigm."
+    },
+    {
+      "paperId": "1c90f1c63b47230569209011e1e4bccbbc9cf73b",
+      "title": "A tool for visualizing the topology of three-dimensional vector fields"
+    },
+    {
+      "paperId": "01bda691e7f4c3fd5a51e14c63c28a1c2fcaf721",
+      "title": "Visualization in computational fluid dynamics: a case study"
+    },
+    {
+      "paperId": "c276376932b12b2c00b3bb69605ece3888085d0f",
+      "title": "A region matching motion estimation algorithm"
+    },
+    {
+      "paperId": "2f69ed0491813482acd491d661faba67ae8008b0",
+      "title": "Visualizing vector field topology in fluid flows"
+    },
+    {
+      "paperId": "8a973bd53aefba85dc311cd37fdbe197e8c600f9",
+      "title": "Ellipsoidal quantification of evolving phenomena"
+    },
+    {
+      "paperId": "006f7f3bfe16fa5fb7cf29c8335356fc04c85712",
+      "title": "Graphical visualization of vortical flows by means of helicity"
+    },
+    {
+      "paperId": "594d6e744c4b5b7c507e1f6ddf03912b4b06ff96",
+      "title": "Representation and display of vector field topology in fluid flow data sets"
+    },
+    {
+      "paperId": null,
+      "title": "c The Eurographics Association and Blackwell Publishers"
+    },
+    {
+      "paperId": "7b68f5eb499234fda2f36c6b0b76e95a65cb8b5a",
+      "title": "Automatic extraction of vortex core lines and other line type features for scientific visualization"
+    },
+    {
+      "paperId": "2d6f82c6b5e82300b16cacd347edbed6862e15c5",
+      "title": "Skeleton Graph Generation for Feature Shape Description"
+    },
+    {
+      "paperId": "237d34301958cff75dee053d91f45e18f3dd5782",
+      "title": "Visualization of Global Flow Structures Using Multiple Levels of Topology"
+    },
+    {
+      "paperId": "3033a693185d7f384aedfe5ab078ccc45a89baaa",
+      "title": "Visualization of Time-Dependent Data using Feature Tracking"
+    },
+    {
+      "paperId": "d3a6f69325b62eb2983acd6231c2ee86a982b690",
+      "title": "Attribute-Based Feature Tracking"
+    },
+    {
+      "paperId": "7387b29bf7e4e1b4787a078a76c03146988d4b25",
+      "title": "Experiments on the Accuracy of Feature Extraction"
+    },
+    {
+      "paperId": null,
+      "title": "On the Identification and Classification of Vortices, Stanford University"
+    },
+    {
+      "paperId": "1ede28382949ea44ffd1a2e5ae95130144846453",
+      "title": "Visual Simulation of Experimental Oil-Flow Visualization by Spot Noise Images from Numerical Flow Simulation"
+    },
+    {
+      "paperId": "3ed676d391b81d089cbcc1e5469de73acd33c545",
+      "title": "Visual Representation of Vector Fields Recent Developments and Research Directions"
+    },
+    {
+      "paperId": "7f4799b6c93fa5d620fc535e4469995818890448",
+      "title": "An algorithm for space recognition and time tracking of vorticity tubes in turbulence"
+    },
+    {
+      "paperId": "52ef3596ff2e458101afe58eb51ddf5be1c507f2",
+      "title": "An Algorithm for Detection and Visualization of Discontinuities in Scientific Data Fields Applied to Flow Data with Shock Waves"
+    },
+    {
+      "paperId": null,
+      "title": "Matching of Images by Using Automatically Selected Regions of Interest"
+    },
+    {
+      "paperId": "bff11f3eb6232dedb0ec30d00ab91eab886ecf5e",
+      "title": "Coherent Motions in the Turbulent Boundary Layer"
+    },
+    {
+      "paperId": "904a24864aa521acc8391d7f4d6ffda328004486",
+      "title": "Streamlines, vorticity lines, and vortices"
+    },
+    {
+      "paperId": null,
+      "title": "Visualization Idioms: A Conceptual Model for Scientific Visualization Systems"
+    },
+    {
+      "paperId": "ba7e1add01ba2105bcf33c8264eb3d5db00242ea",
+      "title": "The Computation of Steady Solutions to the Euler Equations: A Perspective"
+    },
+    {
+      "paperId": "dce50de839c643e01216e234143f3df0133032b7",
+      "title": "Shock recovery and the cell vertex scheme for the steady Euler equations"
+    },
+    {
+      "paperId": "85c98e113c8af919d76e9a7a5358dc7e653cede8",
+      "title": "CAMBRIDGE MONOGRAPHS ON APPLIED AND COMPUTATIONAL MATHEMATICS"
+    }
+  ]
+}

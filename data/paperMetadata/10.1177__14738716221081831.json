@@ -1,0 +1,361 @@
+{
+  "paperId": "9c8f76f66690ac22c42db4b6f2319b9e16c0fe09",
+  "externalIds": {
+    "DBLP": "journals/ivs/FiratJL22",
+    "DOI": "10.1177/14738716221081831",
+    "CorpusId": 247393935
+  },
+  "publicationVenue": {
+    "id": "0fd8155f-f062-4fd5-b087-891322d6f705",
+    "name": "Information Visualization",
+    "type": "journal",
+    "alternate_names": [
+      "Information Visualisation",
+      "Inf Vis"
+    ],
+    "issn": "1473-8716",
+    "alternate_issns": [
+      "1550-6037"
+    ],
+    "url": "http://www.palgrave-journals.com/ivs/index.html",
+    "alternate_urls": [
+      "http://ivi.sagepub.com/",
+      "http://csdl2.computer.org/persagen/DLPublication.jsp?acronym=IV&pubtype=p",
+      "https://journals.sagepub.com/home/ivi",
+      "http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000370"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/9c8f76f66690ac22c42db4b6f2319b9e16c0fe09",
+  "title": "Interactive visualization literacy: The state-of-the-art",
+  "abstract": "With the advent of novel visualization techniques to convey complex information, data visualization literacy is growing in importance. Two facets of literacy are user understanding and the discovery of visual patterns with the help of graphical representations. The research literature on visualization literacy provides useful guidance and important opportunities for further studies in this field. This survey examines and classifies prior research on visualization literacy that analyzes how well users understand novel data representations. To our knowledge, this is the first comprehensive survey paper with a focus on interactive visualization literacy. We categorize existing relevant research into unique subject groups that facilitate and inform comparisons of related literature and provide an overview of the same. Additionally, the survey/classification also provides an overview of the various evaluation techniques used in this field of research due to their challenging nature. Our novel classification enables researchers to find both mature and unexplored directions that may lead to future work. This survey serves as a valuable resource for both beginners and experienced researchers interested in the topic of visualization literacy.",
+  "venue": "Information Visualization",
+  "year": 2022,
+  "referenceCount": 70,
+  "openAccessPdf": null,
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "s2FieldsOfStudy": [
+    {
+      "category": "Computer Science",
+      "source": "external"
+    },
+    {
+      "category": "Computer Science",
+      "source": "s2-fos-model"
+    },
+    {
+      "category": "Education",
+      "source": "s2-fos-model"
+    }
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "publicationDate": "2022-03-10",
+  "journal": {
+    "name": "Information Visualization",
+    "pages": "285 - 310",
+    "volume": "21"
+  },
+  "citationStyles": {
+    "bibtex": "@Article{Firat2022InteractiveVL,\n author = {Elif E. Firat and Alark Joshi and R. Laramee},\n booktitle = {Information Visualization},\n journal = {Information Visualization},\n pages = {285 - 310},\n title = {Interactive visualization literacy: The state-of-the-art},\n volume = {21},\n year = {2022}\n}\n"
+  },
+  "authors": [
+    {
+      "authorId": "93745278",
+      "name": "Elif E. Firat"
+    },
+    {
+      "authorId": "2366248",
+      "name": "Alark Joshi"
+    },
+    {
+      "authorId": "1703037",
+      "name": "R. Laramee"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "f1a451ec81147ea54cebeba89a8006f623e1a769",
+      "title": "Effect of Adaptive Guidance and Visualization Literacy on Gaze Attentive Behaviors and Sequential Patterns on Magazine-Style Narrative Visualizations"
+    },
+    {
+      "paperId": "a4239fb2317f85f0fd045aa2c5e6b306ff9520dc",
+      "title": "Cultivating data visualization literacy in museums"
+    },
+    {
+      "paperId": "6a078ef94a52f1965ee6bd2c231cb73eae6e8f5e",
+      "title": "What questions reveal about novices' attempts to make sense of data visualizations: Patterns and misconceptions"
+    },
+    {
+      "paperId": "9440eb1df2fa38643e26eee9cbe2eba57f1d5e32",
+      "title": "13. Data visualization literacy: A feminist starting point"
+    },
+    {
+      "paperId": "d51fd5680b9d5d33361b091dba7c9922c32deae4",
+      "title": "Data Visualisation Literacy in Higher Education: An Exploratory Study of Understanding of a Learning Dashboard Tool"
+    },
+    {
+      "paperId": "4dda7bc50fca88643973c39428fbcb0261a3e3a2",
+      "title": "Digital Library"
+    },
+    {
+      "paperId": "0cb18371b019c77fa37ab6a6df12c86ae7e3cd4a",
+      "title": "Designing Narrative-Focused Role-Playing Games for Visualization Literacy in Young Children"
+    },
+    {
+      "paperId": "58f9d7ab79745258ee3f01abc2a93129bdb35273",
+      "title": "Treemap Literacy: A Classroom-Based Investigation"
+    },
+    {
+      "paperId": "61504896d91faf5d9a9835a4f7939650bd1ae17b",
+      "title": "Understanding the effectiveness of adaptive guidance for narrative visualization: a gaze-based analysis"
+    },
+    {
+      "paperId": "0526ef6bcc9d42c4b5d2a901b662bf70664235de",
+      "title": "Cheat Sheets for Data Visualization Techniques"
+    },
+    {
+      "paperId": "5304bc037914249a04dd12b477ea5b35ff93751f",
+      "title": "Construct-A-Vis: Exploring the Free-Form Visualization Processes of Children"
+    },
+    {
+      "paperId": "9cd6cfc3099aa486a0cc1ba90665205d62a2dc8d",
+      "title": "Inclusivity for visualization education: a brief History, investigation, and guidelines"
+    },
+    {
+      "paperId": "ad963f8492c2cc67d3bdf521c88506701752ba87",
+      "title": "Diagram Safari: A Visualization Literacy Game for Young Children"
+    },
+    {
+      "paperId": "863248657dbf43d89fc971dc24f2b8847372e874",
+      "title": "Gaze-Driven Adaptive Interventions for Magazine-Style Narrative Visualizations"
+    },
+    {
+      "paperId": "d34ad507bc7205d061d08ccde623bedc8d7b9d50",
+      "title": "Gaze analysis of user characteristics in magazine style narrative visualizations"
+    },
+    {
+      "paperId": "9c32244fa37479f7ddbfd88e814f53e0c1e8ffa9",
+      "title": "Integrating Visualization Literacy into Computer Graphics Education Using the Example of Dear Data"
+    },
+    {
+      "paperId": "a90fdc2b0250d84ec0f9e4bcc4569ca76749d6d8",
+      "title": "EduClust - A Visualization Application for Teaching Clustering Algorithms"
+    },
+    {
+      "paperId": "de3e554526084fdc42aaf5c4dd8e8b7bd37c1ebd",
+      "title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"
+    },
+    {
+      "paperId": "ad2de153f296b2ffd14ccb1bb19c6793506ea645",
+      "title": "The Correlation between Users\u2019 Cognitive Characteristics and Visualization Literacy"
+    },
+    {
+      "paperId": "fa1bae20da8d592f20d20349e909d39837a504f8",
+      "title": "A Survey of Information Visualization Books"
+    },
+    {
+      "paperId": "1aca880dfddf213b46e89665e2860fc46f8ae459",
+      "title": "Begin at the Beginning: A Constructionist Model for Interpreting Data Visualizations"
+    },
+    {
+      "paperId": "a03b6dbb48e7910ba16afc8b520f3a7e1a954f94",
+      "title": "IEEE Xplore"
+    },
+    {
+      "paperId": "49e2bbc3e5fb62d38c83083079314cb34cfc4bf5",
+      "title": "Observations and Reflections on Visualization Literacy in Elementary School"
+    },
+    {
+      "paperId": "20ec2287410ff6209b30f5c0f1fc31e0cc39c10e",
+      "title": "Vispubdata.org: A Metadata Collection About IEEE Visualization (VIS) Publications"
+    },
+    {
+      "paperId": "1c1dbbecb8531faed0f5ed1ec8de944acef024f9",
+      "title": "A Systematic Review of Experimental Studies on Data Glyphs"
+    },
+    {
+      "paperId": "382627dec97849c8a7427772b5ae5c12769c3f05",
+      "title": "Survey of Surveys (SoS) \u2010 Mapping The Landscape of Survey Papers in Information Visualization"
+    },
+    {
+      "paperId": "283c74e73f039e2276773d11f2159d2a3fed99fa",
+      "title": "Visualization Literacy at Elementary School"
+    },
+    {
+      "paperId": "8ab0f3ec6619f8be1f5639b8eb9afd4682f1332c",
+      "title": "Accounting for Availability Biases in Information Visualization"
+    },
+    {
+      "paperId": "d3932025fcad0f6ebfbd7f3fa613ca00b1974e06",
+      "title": "Data Visualization Literacy"
+    },
+    {
+      "paperId": "9342d7ed0450c3ed29d0ef32337524e30052cf0a",
+      "title": "Investigating aspects of data visualization literacy using 20 information visualizations and 273 science museum visitors"
+    },
+    {
+      "paperId": "9f3448f1d1947140ecfe39ba56622738c575cbcc",
+      "title": "A Comparative Evaluation on Online Learning Approaches using Parallel Coordinate Visualization"
+    },
+    {
+      "paperId": "695df5787a48097acc4447d4aa0c78137bdeca3b",
+      "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis"
+    },
+    {
+      "paperId": "bdbc9d4c28db711aa308a3cb5a0fd5a6acafa8fc",
+      "title": "Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research"
+    },
+    {
+      "paperId": "49cfeeb23e9c458f70b3525ce001ab3fb9c4bf7d",
+      "title": "A Discussion of the Practicality of the Visual Literacy Competency Standards for Higher Education"
+    },
+    {
+      "paperId": "de7b26c04ec68530a6ab72d1032556854b9d1ca3",
+      "title": "Data Visualization Literacy: Investigating Data Interpretation along the Novice-Expert Continuum"
+    },
+    {
+      "paperId": "ceb012bddf494d082b5a93b67c605dce30dbd4e8",
+      "title": "Learning Visualizations by Analogy: Promoting Visual Literacy through Visualization Morphing"
+    },
+    {
+      "paperId": "f71ab3771ad8b3ce3bc69c88fb1cca49e6515142",
+      "title": "Research and Teaching: Data Visualization Literacy: Investigating Data Interpretation along the Novice-Expert Continuum."
+    },
+    {
+      "paperId": "ff40c4162173d327479397d2e41df5dfcfaf10a2",
+      "title": "Visualization-Mediated Alleviation of the Planning Fallacy"
+    },
+    {
+      "paperId": "7eb1c896a7823c4e3354e603cb46273cbb6ba03f",
+      "title": "A Principled Way of Assessing Visualization Literacy"
+    },
+    {
+      "paperId": "3076a44e352050e548127d10a64c7cab3082c748",
+      "title": "Constructing Visual Representations: Investigating the Use of Tangible Tokens"
+    },
+    {
+      "paperId": "88268dfb9dec4f9761e24dd39fde5ca4ff126084",
+      "title": "Visual Insights: A Practical Guide to Making Sense of Data"
+    },
+    {
+      "paperId": "4c455b9a0a48bb22abea3361ba5c8a971d207d07",
+      "title": "Research in the wild: understanding 'in the wild' approaches to design and development"
+    },
+    {
+      "paperId": "5db1e88529ad22f03d41b6d7ec7483d6bb17aa0d",
+      "title": "Interactive visualization for low literacy users: from lessons learnt to design"
+    },
+    {
+      "paperId": "64c7a32334eab3df946eeb1390dac274e276def9",
+      "title": "How to Read a Visualization Research Paper: Extracting the Essentials"
+    },
+    {
+      "paperId": "4f26628002cd2fc6784ce01849e195b6cc2d3366",
+      "title": "How Information Visualization Novices Construct Visualizations"
+    },
+    {
+      "paperId": "35a1ecf54f6e097fc81d2e10ec1c8ca149f8d6b8",
+      "title": "Research in the wild"
+    },
+    {
+      "paperId": "e9a37e772c1743933fce8025ddca3ea2854fccf5",
+      "title": "Less Is More in Presenting Quality Information to Consumers"
+    },
+    {
+      "paperId": "64ae7dba5ee0e656ff2cd9ac6d49862d98273e17",
+      "title": "The importance of visual literacy in the education of biochemists *"
+    },
+    {
+      "paperId": "758d848b4e24cf91fb41db95f2c0ccf494e77113",
+      "title": "Multidimensional Item Response Theory Models"
+    },
+    {
+      "paperId": "e3b253c3fd53ffbe75b5175e51417faa4e512efc",
+      "title": "Students' reading of innovative images of energy at secondary school level"
+    },
+    {
+      "paperId": "b8910ec98f9dbf85f4163fa2b34246ab532ace16",
+      "title": "Linking the Language Arts and Content Areas through Visual Technology"
+    },
+    {
+      "paperId": "ba0644aa7569f33194090ade9f8f91fa51968b18",
+      "title": "User Acceptance of Computer Technology: A Comparison of Two Theoretical Models"
+    },
+    {
+      "paperId": "ee377861c23e83a4822d7b4d886f7773b4924c58",
+      "title": "Verbal and visual learning styles"
+    },
+    {
+      "paperId": "4e74ba8af86ab76a57c540877136cddc74fc9028",
+      "title": "The efficient assessment of need for cognition."
+    },
+    {
+      "paperId": "dc37457e56b06db0bd03a945e8850967decbb53d",
+      "title": "Visualization"
+    },
+    {
+      "paperId": "b7d985cd3569064524268fa67d8c0d042e1c8c24",
+      "title": "Visualization Onboarding: Learning How to Read and Use Visualizations"
+    },
+    {
+      "paperId": null,
+      "title": "IEEE Vis"
+    },
+    {
+      "paperId": "c3003b28d60d0bc56ad173bf7ca81dbf9fa999dc",
+      "title": "Network Visualization Literacy: Novel Approaches to Measurement and Instruction"
+    },
+    {
+      "paperId": "20fa253047d2619c2ae1430ca16a9f19176f5844",
+      "title": "Data Visualization Literacy and Visualization Biases: Cases for Merging Parallel Threads"
+    },
+    {
+      "paperId": "69723b1a167d3b729de5664483a87b036f4748ef",
+      "title": "Towards a Survey of Interactive Visualization for Education"
+    },
+    {
+      "paperId": "ee7228a307bed93677040896fb13d7ed9da482fc",
+      "title": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "paperId": "4e4479340434e42dd72bee5a652b6b6ab3633538",
+      "title": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "paperId": null,
+      "title": "Electronic discovery systems and workflow management method"
+    },
+    {
+      "paperId": "cabaf38b2f2cc72f47c98ca3fcb44294eeb75bc7",
+      "title": "\u83b7\u53d6\u5b66\u672f\u4fe1\u606f\u65b0\u9014\u5f84--Google Scholar"
+    },
+    {
+      "paperId": null,
+      "title": "On the relative independence of thinking biases and cognitive ability."
+    },
+    {
+      "paperId": null,
+      "title": "Dear data, Penguin Press, the UK"
+    },
+    {
+      "paperId": "6ebe91afd4f8d3bd3a5b8af616d15cac7183eca3",
+      "title": "Using assessment items to study students' difficulty reading and interpreting graphical representations of distributions"
+    },
+    {
+      "paperId": null,
+      "title": "The assessment resource tools for improving statistical thinking (ARTIST), Symposium of Assessment of Statistical Reasoning to Enhance Educational Quality,Chicago"
+    },
+    {
+      "paperId": "b4351f68dd787b8da0a4b648b75e4ef4e769acec",
+      "title": "Toward a Model of Learning Data Representations"
+    },
+    {
+      "paperId": "bf05cf692ddd81d78ff27f117f6d9f7ebb715e0f",
+      "title": "Identifying the Theoretical Foundations of Visual Literacy."
+    }
+  ]
+}
