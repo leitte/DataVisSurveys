@@ -148,15 +148,18 @@
   title: "The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types"
   categories:
     - Survey
+    - OtherDomain
 10.1109/TVCG.2022.3209398:
   title: "Multi-View Design Patterns and Responsive Visualization for Genomics Data"
   categories:
     - Taxonomy
     - Model
+    - BioMedicalDomain
 10.1016/j.visinf.2022.09.001:
   title: "Visualization and visual analysis of multimedia data in manufacturing: A survey"
   categories:
     - Survey
+    - OtherDomain
 10.1016/j.visinf.2022.09.002:
   title: "Towards a better understanding of the role of visualization in online learning: A review"
   categories:
@@ -182,10 +185,13 @@
   title: "A Survey of Visualization and Analysis in High-Resolution Connectomics"
   categories:
     - Survey
+    - BioMedicalDomain
 10.1111/cgf.14576:
   title: "Vessel Maps: A Survey of Map-Like Visualizations of the Cardiovascular System"
   categories:
     - Survey
+    - HealthcareDomain
+    - BioMedicalDomain
 10.1111/cgf.14521:
   title: "Effective Use of Likert Scales in Visualization Evaluations: A Systematic Review"
   categories:
@@ -222,6 +228,7 @@
   categories:
     - Survey
     - Charts
+    - TimeOriented
 10.1109/TVCG.2023.3261944:
   title: "SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling"
   categories:
@@ -244,12 +251,9 @@
   title: "Visualization and visual analysis of vessel trajectory data: A survey"
   categories:
     - Survey
+    - OtherDomain
 10.1109/VIS49827.2021.9623268:
   title: "“Why did my AI agent lose?”: Visual Analytics for Scaling Up After-Action Review"
-  categories:
-    - Review
-10.1109/TVCG.2021.3114841:
-  title: "VizSnippets: Compressing Visualization Bundles Into Representative Previews for Browsing Visualization Collections"
   categories:
     - Review
 10.1109/TVCG.2021.3114835:
@@ -358,6 +362,7 @@
   categories:
     - Review
     - Taxonomy
+    - OtherDomain
 10.1109/VIS47514.2020.00017:
   title: "A Review of Geospatial Content in IEEE Visualization Publications"
   categories:
@@ -401,6 +406,8 @@
   title: "A Survey of Seed Placement and Streamline Selection Techniques"
   categories:
     - Survey
+    - SpatialData
+    - TimeOriented
 10.1111/cgf.14037:
   title: "State of the Art in Time-Dependent Flow Topology: Interpreting Physical Meaningfulness Through Mathematical Properties"
   categories:
@@ -442,6 +449,7 @@
   title: "A Survey on Visualizations for Musical Data"
   categories:
     - Survey
+    - HumanitiesDomain
 10.1111/cgf.14033:
   title: "Survey on Individual Differences in Visualization"
   categories:
@@ -463,6 +471,7 @@
   title: "Visualization of Blockchain Data: A Systematic Review"
   categories:
     - Review
+    - OtherDomain
 10.1111/cgf.13891:
   title: "A Survey of Visual Analytics for Public Health"
   categories:
@@ -477,6 +486,8 @@
   title: "A survey on visual analysis of ocean data"
   categories:
     - Survey
+    - SpatialData
+    - OtherDomain
 10.1109/VISSOFT.2019.00013:
   title: "A Tertiary Systematic Literature Review on Software Visualization"
   categories:
@@ -490,7 +501,7 @@
   title: "A Survey of Multi-Space Techniques in Spatio-Temporal Simulation Data Visualization"
   categories:
     - Survey
-    - GeoSpatialData
+    - SpatialData
     - TimeOriented
 10.1109/VISUAL.2019.8933773:
   title: "Thumbnails for Data Stories: A Survey of Current Practices"
@@ -505,6 +516,8 @@
   title: "A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving"
   categories:
     - Survey
+    - GeoSpatialDAta
+    - OtherDomain
 10.1109/TVCG.2018.2834341:
   title: "Bridging Text Visualization and Mining: A Task-Driven Survey"
   categories:
@@ -524,15 +537,19 @@
 10.1111/cgf.13726:
   title: "State-of-the-Art Report: Visual Computing in Radiation Therapy Planning"
   categories:
+    - Survey
+    - HealthcareDomain
 10.1109/TVCG.2018.2830759:
   title: "Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges"
   categories:
     - Survey
+    - HumanitiesDomain
 10.1111/cgf.13731:
   title: "The State of the Art in Visual Analysis Approaches for Ocean and Atmospheric Datasets"
   categories:
     - Survey
     - GraphData
+    - OtherDomain
 10.1111/cgf.13678:
   title: "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
   categories:
@@ -578,17 +595,20 @@
 10.1109/TVCG.2018.2864838:
   title: "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning"
   categories:
+    - Taxonomy
     - MachineLearningMethod
 10.1016/j.visinf.2018.12.004:
   title: "A comprehensive review of tools for exploratory analysis of tabular industrial datasets"
   categories:
     - Review
     - GraphData
+    - OtherDomain
 10.1109/TVCG.2017.2779501:
   title: "Visualization in Meteorology—A Survey of Techniques and Tools for Data Analysis Tasks"
   categories:
     - Survey
     - Charts
+    - OtherDomain
 10.1016/J.VISINF.2018.12.006:
   title: "Exploring the Limits of Complexity: A Survey of Empirical Studies on Graph Visualisation"
   categories:
@@ -598,6 +618,8 @@
   title: "The State of the Art in Vortex Extraction"
   categories:
     - Survey
+    - SpatialData
+    - TimeOriented
 10.1111/cgf.13322:
   title: "A Survey of Surface-Based Illustrative Rendering for Visualization"
   categories:
@@ -617,6 +639,7 @@
   title: "State of the Art of Sports Data Visualization"
   categories:
     - Survey
+    - OtherDomain
 10.1111/cgf.13306:
   title: "A Survey on Multimodal Medical Data Visualization"
   categories:
@@ -627,6 +650,7 @@
   title: "The State of the Art in Sentiment Visualization"
   categories:
     - Survey
+    - OtherDomain
 10.1109/TVCG.2018.2843369:
   title: "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
   categories:
@@ -682,6 +706,8 @@
   title: "A Survey on Visual Approaches for Analyzing Scientific Literature and Patents"
   categories:
     - Survey
+    - TextData
+    - OtherDomain
 10.1111/cgf.12872:
   title: "Visualizing Group Structures in Graphs: A Survey"
   categories:
@@ -737,6 +763,7 @@
   title: "A Survey of Visualization for Live Cell Imaging"
   categories:
     - Survey
+    - BioMedicalDomain
 10.1111/cgf.12800:
   title: "Graphs in Scientific Visualization: A Survey"
   categories:
@@ -752,6 +779,7 @@
   title: "Digital Fabrication Techniques for Cultural Heritage: A Survey"
   categories:
     - Survey
+    - HumanitiesDomain
 10.1109/MCG.2017.3271463:
   title: "Pathways for Theoretical Advances in Visualization"
   categories:
@@ -794,6 +822,7 @@
   title: "A Survey of Visual Analytic Pipelines"
   categories:
     - Survey
+    - Model
 10.1111/cgf.12936:
   title: "Formalizing Emphasis in Information Visualization"
   categories:
@@ -822,6 +851,7 @@
 10.1111/cgf.12929:
   title: "State-of-the-Art Report in Web-based Visualization"
   categories:
+    - OtherDomain
 10.1111/cgf.12934:
   title: "State of the Art in Transfer Functions for Direct Volume Rendering"
   categories:
@@ -831,6 +861,7 @@
   title: "Matrix Reordering Methods for Table and Network Visualization"
   categories:
     - GraphData
+    - Interaction
 10.1111/cgf.12932:
   title: "The State of the Art in Cartograms"
   categories:
@@ -844,6 +875,7 @@
   title: "A Survey of Geometric Analysis in Cultural Heritage"
   categories:
     - Survey
+    - HumanitiesDomain
 10.1111/cgf.12722:
   title: "The State-of-the-Art of Set Visualization"
   categories:
@@ -892,6 +924,8 @@
   title: "A Survey of Traffic Data Visualization"
   categories:
     - Survey
+    - GeoSpatialData
+    - OtherDomain
 10.2312/eurovisshort.20151133:
   title: "Visual Techniques to Support Exploratory Analysis of Temporal Graph Data"
   categories:
@@ -923,6 +957,7 @@
   title: "A Survey of Visualization Systems for Malware Analysis"
   categories:
     - Survey
+    - OtherDomain
 10.2312/eurovisshort.20151139:
   title: "State of the Art in Mobile Volume Rendering on iOS Devices"
   categories:
@@ -940,6 +975,7 @@
   categories:
     - Taxonomy
     - Charts
+    - GeoSpatialData
 10.2312/eurovisstar.20151111:
   title: "A Survey of Graph-Based Representations and Techniques for Scientific Visualization"
   categories:
@@ -1084,6 +1120,7 @@
     - Taxonomy
     - GraphData
     - Interaction
+    - OtherDomain
 10.1109/TVCG.2013.126:
   title: "A Systematic Review on the Practice of Evaluating Visualization"
   categories:
@@ -1097,6 +1134,7 @@
   title: "The Helmholtz-Hodge Decomposition&#x2014;A Survey"
   categories:
     - Survey
+    - SpatialData
 10.1109/TST.2013.6509098:
   title: "Edge bundling in information visualization"
   categories:
@@ -1136,10 +1174,12 @@
 10.1111/j.1467-8659.2012.03184.x:
   title: "Visualization for the Physical Sciences"
   categories:
+    - OtherDomain
 10.2312/PE/VAST/VAST12S/013-016:
   title: "The Use of Traditional and Computer-based Visualization in Archaeology: a User Survey"
   categories:
     - Survey
+    - HumanitiesDomain
 10.1002/widm.1071:
   title: "Seeing beyond reading: a survey on visual text analytics"
   categories:
@@ -1165,6 +1205,7 @@
     - Taxonomy
     - Guidelines
     - GraphData
+    - OtherDomain
 10.1111/j.1467-8659.2012.03125.x:
   title: "A Taxonomy of Visual Cluster Separation Factors"
   categories:
@@ -1187,6 +1228,7 @@
   title: "DVV: A Taxonomy for Mixed Reality Visualization in Image Guided Surgery"
   categories:
     - Taxonomy
+    - HealthcareDomain
     - VisualizationDevices
 10.1007/978-1-4471-2804-5_6:
   title: "A Review of Uncertainty in Data Visualization"
@@ -1207,6 +1249,7 @@
   title: "Critical Review of 3d Digitization Methods and Techniques Applied to the Field of Architectural Heritage: Methodological and Cognitive Issues"
   categories:
     - Review
+    - HumanitiesDomain
 10.1177/1473871611416549:
   title: "Visual comparison for information visualization"
   categories:
@@ -1264,6 +1307,7 @@
   title: "ICT in Japanese Museums: a Strategic and Contextual Survey"
   categories:
     - Survey
+    - OtherDomain
 10.1145/1821996.1821997:
   title: "Algorithm Visualization: The State of the Field"
   categories:
@@ -1284,6 +1328,7 @@
   title: "Seriation and matrix reordering methods: An historical overview"
   categories:
     - GraphData
+    - Interaction
 10.1109/TVCG.2009.111:
   title: "A Nested Model for Visualization Design and Validation"
   categories:
@@ -1297,6 +1342,7 @@
   title: "Survey of the Visual Exploration and Analysis of Perfusion Data"
   categories:
     - Survey
+    - OtherDomain
 10.1109/VAST.2008.4677356:
   title: "Spatio-temporal aggregation for visual analysis of movements"
   categories:
@@ -1314,6 +1360,8 @@
   title: "Towards a taxonomy of movement patterns"
   categories:
     - Taxonomy
+    - GeoSpatialData
+    - TimeOriented
 10.1109/TVCG.2007.70515:
   title: "Toward a Deeper Understanding of the Role of Interaction in Information Visualization"
   categories:
