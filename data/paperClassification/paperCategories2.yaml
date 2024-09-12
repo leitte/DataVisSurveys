@@ -25,6 +25,8 @@
   title: "The State of the Art in Visual Analytics for 3D Urban Data"
   categories:
     - Survey
+    - GeoSpatialData
+    - OtherDomain
 10.1111/cgf.15114:
   title: "Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization"
   categories:
@@ -46,6 +48,7 @@
   categories:
     - Survey
     - Taxonomy
+    - Performance
 10.1016/j.visinf.2023.10.003:
   title: "A survey of immersive visualization: Focus on perception and interaction"
   categories:
@@ -228,14 +231,9 @@
   title: "A Survey on Cross-Virtuality Analytics"
   categories:
     - Survey
+    - VisualizationDevices
 10.1111/cgf.14443:
   title: "A Survey of Tasks and Visualizations in Multiverse Analysis Reports"
-  categories:
-    - Survey
-    - Charts
-    - TimeOriented
-10.1109/TVCG.2023.3261944:
-  title: "SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling"
   categories:
     - Survey
 10.1109/TVCG.2022.3209360:
@@ -274,6 +272,7 @@
   title: "Towards Natural Language Interfaces for Data Visualization: A Survey"
   categories:
     - Survey
+    - MachineLearningMethod
 10.1016/j.visinf.2021.08.001:
   title: "A survey of volume visualization techniques for feature enhancement"
   categories:
@@ -344,6 +343,8 @@
   categories:
     - Survey
     - Taxonomy
+    - Interaction
+    - VisualizationDevices
 10.1109/TVCG.2021.3106142:
   title: "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
   categories:
@@ -352,7 +353,9 @@
 10.1109/TVCG.2020.3030395:
   title: "Towards Modeling Visualization Processes as Dynamic Bayesian Networks"
   categories:
-    - GraphData
+    - Survey
+    - Model
+    - Evaluation
 10.1109/TVCG.2020.3028975:
   title: "A Survey of Text Alignment Visualization"
   categories:
