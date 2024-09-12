@@ -9,7 +9,7 @@ doi: 10.1111/cgf.13158
 categories:
   - survey
   - taxonomy
-  - spatial data
+  - field data
   - life sciences
   - graph
 ---

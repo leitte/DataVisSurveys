@@ -23,7 +23,7 @@
     - id: TextData
       label: text and documents
     - id: SpatialData
-      label: spatial data
+      label: field data
     - id: GeoSpatialData
       label: geospatial data
     - id: TimeOriented
@@ -63,8 +63,8 @@
       label: life sciences
     - id: EarthDomain
       label: earth sciences
-    - id: ITDomain
-      label: IT
+    - id: CSDomain
+      label: computer science
     - id: HumanitiesDomain
       label: digital humanities
     - id: EducationDomain

@@ -8,7 +8,7 @@ venue: "Journal of Computer Languages"
 doi: 10.1016/J.COLA.2019.03.002
 categories:
   - uncertainty
-  - spatial data
+  - field data
 ---
 Business Intelligence applications often handle data sets that contain uncertain values. In this contribution, we focus on product costing, which deals with the average costs of product components – that vary significantly based on many factors such as inflation, exchange rates, and commodity prices. After experts estimate the uncertainty information for single items, decision makers need to quickly ascertain the cost uncertainties within the hierarchical data structure of the complete product.
 We propose that only a holistic visualization containing both data and uncertainty can provide this kind of quick overview. Such a visualization must be able to visualize tree data structures associated with value attributes. After conducting interviews with product costing experts, we focused on Flow diagrams, which fulfill this basic requirement. However, they need to be extended in order to directly incorporate uncertainty information.

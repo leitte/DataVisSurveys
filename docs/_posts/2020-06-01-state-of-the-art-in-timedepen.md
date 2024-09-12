@@ -9,7 +9,7 @@ doi: 10.1111/cgf.14037
 categories:
   - survey
   - taxonomy
-  - spatial data
+  - field data
   - topology
   - time-oriented
 ---

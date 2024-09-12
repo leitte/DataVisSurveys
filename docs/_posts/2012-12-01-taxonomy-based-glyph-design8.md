@@ -7,7 +7,7 @@ authors: E. Maguire, P. Rocca-Serra, S. Sansone, J. Davies & M. Chen
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 doi: 10.1109/TVCG.2012.271
 categories:
-  - spatial data
+  - field data
   - taxonomy
   - life sciences
 ---
