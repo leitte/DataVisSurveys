@@ -58,10 +58,14 @@
     - id: HealthcareDomain
       label: healthcare
     - id: BioMedicalDomain
-      label: biomedical
-    - id: SoftwareDomain
-      label: software
+      label: life sciences
+    - id: EarthDomain
+      label: earth sciences
+    - id: ITDomain
+      label: IT
     - id: HumanitiesDomain
       label: digital humanities
     - id: EducationDomain
       label: education and learning
+    - id: OtherDomain
+      label: domain-focused

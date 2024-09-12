@@ -8,5 +8,7 @@ venue: "Information Visualization"
 doi: 10.1057/PALGRAVE.IVS.9500182
 categories:
   - taxonomy
+  - geospatial data
+  - time-oriented
 ---
 

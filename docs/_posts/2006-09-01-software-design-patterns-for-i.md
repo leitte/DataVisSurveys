@@ -7,7 +7,7 @@ authors: J. Heer & M. Agrawala
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 doi: 10.1109/TVCG.2006.178
 categories:
-  - software
+  - IT
   - charts
 ---
 Despite a diversity of software architectures supporting information visualization, it is often difficult to identify, evaluate, and re-apply the design solutions implemented within such frameworks. One popular and effective approach for addressing such difficulties is to capture successful solutions in design patterns, abstract descriptions of interacting software components that can be customized to solve design problems within a particular context. Based upon a review of existing frameworks and our own experiences building visualization software, we present a series of design patterns for the domain of information visualization. We discuss the structure, context of use, and interrelations of patterns spanning data representation, graphics, and interaction. By representing design knowledge in a reusable form, these patterns can be used to facilitate software design, implementation, and evaluation, and improve developer education and communication
