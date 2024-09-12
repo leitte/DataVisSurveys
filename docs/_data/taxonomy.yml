@@ -17,7 +17,9 @@
   label: Data type
   children:
     - id: HighDimensionalData
-      label: high-dimensional 
+      label: high-dimensional
+    - id: TabularData
+      label: tabular
     - id: GraphData
       label: graph
     - id: TextData
