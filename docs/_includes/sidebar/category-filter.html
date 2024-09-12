@@ -1,7 +1,7 @@
 {% assign keys = site.data.taxonomy %}
 {% assign field = 'categories' %}
 
-<div class="common-list">
+<div class="common-list" style="height: 93vh; overflow: scroll;">
   <ul>
     <li><a href="#" data-category="all" class="filter-link">All <span>{{ site.posts | size }}</span></a></li>
     {% for entry in keys %}
