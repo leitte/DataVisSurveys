@@ -26,6 +26,8 @@
       label: spatial data
     - id: GeoSpatialData
       label: geospatial data
+    - id: TimeOriented
+      label: time-oriented
 - id: Method
   label: Method
   children:
@@ -46,8 +48,6 @@
       label: evaluation
     - id: VisualizationDevices
       label: devices
-    - id: TimeOriented
-      label: time-oriented
     - id: Performance
       label: performance
 - id: Domain
