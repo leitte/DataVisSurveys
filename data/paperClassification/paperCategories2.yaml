@@ -19,40 +19,68 @@
   title: "Generative AI for Visualization: State of the Art and Future Directions"
   categories:
     - Survey
+    - HighDimensionalData
+    - GraphData
+    - SpatialData
+    - GeoSpatialData
+    - TextData
     - MachineLearningMethod
-    - Charts
+    - Interaction
+    - VisualDesign
 10.1111/cgf.15112:
   title: "The State of the Art in Visual Analytics for 3D Urban Data"
   categories:
     - Survey
     - GeoSpatialData
+    - VisualDesign
+    - Interaction
+    - MachineLearningMethod
     - OtherDomain
 10.1111/cgf.15114:
   title: "Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization"
   categories:
     - Survey
-    - SpatialData
 10.1109/TVCG.2024.3388516:
   title: "A Survey of Designs for Combined 2D+3D Visual Representations"
   categories:
     - Survey
     - Guidelines
+    - SpatialData
+    - GeoSpatialData
+    - TimeOriented
+    - HighDimensionalData
     - VisualDesign
+    - Interaction
+    - VisualizationDevices
 10.1016/j.visinf.2024.01.002:
   title: "A survey on automatic dashboard recommendation systems"
   categories:
     - Survey
+    - TabularData
+    - TimeOriented
     - VisualDesign
+    - Interaction
 10.1109/TVCG.2023.3346641:
   title: "A Survey on Progressive Visualization"
   categories:
     - Survey
     - Taxonomy
+    - TimeOriented
+    - GeoSpatialData
+    - GraphData
+    - HighDimensionalData
+    - TabularData
+    - SpatialData
     - Performance
 10.1016/j.visinf.2023.10.003:
   title: "A survey of immersive visualization: Focus on perception and interaction"
   categories:
     - Survey
+    - HighDimensionalData
+    - TabularData
+    - GraphData
+    - SpatialData
+    - GeoSpatialData
     - Evaluation
     - Interaction
     - VisualizationDevices
@@ -60,7 +88,14 @@
   title: "Unraveling the Design Space of Immersive Analytics: A Systematic Review"
   categories:
     - Review
+    - HighDimensionalData
+    - TabularData
+    - GraphData
+    - SpatialData
+    - GeoSpatialData
+    - Interaction
     - VisualizationDevices
+    - VisualDesign
 10.1109/TVCG.2023.3327378:
   title: "Challenges and Opportunities in Data Visualization Education: A Call to Action"
   categories:
