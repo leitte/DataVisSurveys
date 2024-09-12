@@ -24,6 +24,8 @@
       label: text and documents
     - id: SpatialData
       label: spatial data
+    - id: GeoSpatialData
+      label: geospatial data
 - id: Method
   label: Method
   children:
@@ -31,6 +33,8 @@
       label: uncertainty
     - id: MachineLearningMethod
       label: machine learning
+    - id: TopologyMethod
+      label: topology
 - id: Other
   label: Other
   children:
@@ -42,6 +46,10 @@
       label: evaluation
     - id: VisualizationDevices
       label: devices
+    - id: TimeOriented
+      label: time-oriented
+    - id: Performance
+      label: performance
 - id: Domain
   label: Domain
   children:
@@ -49,6 +57,8 @@
       label: finance
     - id: HealthcareDomain
       label: healthcare
+    - id: BioMedicalDomain
+      label: biomedical
     - id: SoftwareDomain
       label: software
     - id: HumanitiesDomain

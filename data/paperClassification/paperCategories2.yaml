@@ -89,6 +89,7 @@
   categories:
     - Survey
     - SpatialData
+    - Performance
 10.1111/cgf.14859:
   title: "VA + Embeddings STAR: A State-of-the-Art Report on the Use of Embeddings in Visual Analytics"
   categories:
@@ -112,6 +113,7 @@
   categories:
     - Survey
     - VisualizationDevices
+    - BioMedicalDomain
 10.1109/TVCG.2023.3247072:
   title: "A Systematic Review on the Visualization of Avatars and Agents in AR & VR displayed using Head-Mounted Displays"
   categories:
@@ -210,6 +212,7 @@
   title: "Uncertainty Visualization: Concepts, Methods, and Applications in Biological Data Visualization"
   categories:
     - UncertaintyMethod
+    - BioMedicalDomain
 10.1111/cgf.14447:
   title: "A Survey on Cross-Virtuality Analytics"
   categories:
@@ -385,6 +388,7 @@
   categories:
     - Review
     - HighDimensionalData
+    - TimeOriented
 10.1109/TVCG.2021.3100413:
   title: "Survey on Visual Analysis of Event Sequence Data"
   categories:
@@ -403,6 +407,8 @@
     - Survey
     - Taxonomy
     - SpatialData
+    - TopologyMethod
+    - TimeOriented
 10.1111/cgf.14034:
   title: "The State of the Art in Enhancing Trust in Machine Learning Models with the Use of Visualizations"
   categories:
@@ -484,6 +490,8 @@
   title: "A Survey of Multi-Space Techniques in Spatio-Temporal Simulation Data Visualization"
   categories:
     - Survey
+    - GeoSpatialData
+    - TimeOriented
 10.1109/VISUAL.2019.8933773:
   title: "Thumbnails for Data Stories: A Survey of Current Practices"
   categories:
@@ -650,13 +658,14 @@
   categories:
     - Survey
     - Taxonomy
+    - BioMedicalDomain
 10.1111/cgf.13158:
   title: "Geometric Detection Algorithms for Cavities on Protein Surfaces in Molecular Graphics: A Survey"
   categories:
     - Survey
     - Taxonomy
     - SpatialData
-    - SoftwareDomain
+    - BioMedicalDomain
     - GraphData
 10.1109/VAST.2017.8585498:
   title: "The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics"
@@ -753,6 +762,7 @@
   title: "Molecular Visualization of Computational Biology Data: A Survey of Surveys"
   categories:
     - Survey
+    - BioMedicalDomain
 10.1109/TVCG.2016.2598495:
   title: "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
   categories:
@@ -803,10 +813,12 @@
   title: "Visual Analysis of Biomolecular Cavities: State of the Art"
   categories:
     - Survey
+    - BioMedicalDomain
 10.1111/cgf.12933:
   title: "A Survey of Topology-based Methods in Visualization"
   categories:
     - Survey
+    - TopologyMethod
 10.1111/cgf.12929:
   title: "State-of-the-Art Report in Web-based Visualization"
   categories:
@@ -867,6 +879,7 @@
     - Charts
     - Taxonomy
     - GraphData
+    - TimeOriented
 10.1109/VISSOFT.2015.7332414:
   title: "A survey on goal-oriented visualization of clone data"
   categories:
@@ -883,11 +896,13 @@
   title: "Visual Techniques to Support Exploratory Analysis of Temporal Graph Data"
   categories:
     - GraphData
+    - TimeOriented
 10.2312/eurovisstar.20151112:
   title: "Visualization of Biomolecular Structures: State of the Art"
   categories:
     - Survey
     - Taxonomy
+    - BioMedicalDomain
 10.1109/PACIFICVIS.2015.7156366:
   title: "Text visualization techniques: Taxonomy, visual survey, and community insights"
   categories:
@@ -980,6 +995,7 @@
     - Review
     - Taxonomy
     - Model
+    - TimeOriented
 10.3145/EPI.2014.MAY.02:
   title: "How we draw texts: a review of approaches to text visualization and exploration"
   categories:
@@ -1015,6 +1031,7 @@
   categories:
     - Survey
     - SpatialData
+    - Performance
 10.2312/eurovisstar.20141174:
   title: "The State of the Art in Visualizing Dynamic Graphs"
   categories:
@@ -1105,6 +1122,7 @@
   categories:
     - SpatialData
     - Taxonomy
+    - BioMedicalDomain
 10.1109/TVCG.2012.213:
   title: "Design Study Methodology: Reflections from the Trenches and the Stacks"
   categories:
@@ -1198,6 +1216,7 @@
   title: "Performance Visualization for Large-Scale Computing Systems: A Literature Review"
   categories:
     - Review
+    - Performance
 10.1109/TVCG.2010.110:
   title: "Visualization of the Static Aspects of Software: A Survey"
   categories:
@@ -1207,6 +1226,7 @@
   title: "Visual Analysis of Large Graphs: State-of-the-Art and Future Research Challenges"
   categories:
     - GraphData
+    - Performance
 10.1109/TVCG.2010.79:
   title: "The Design Space of Implicit Hierarchy Visualization: A Survey"
   categories:
@@ -1280,6 +1300,8 @@
 10.1109/VAST.2008.4677356:
   title: "Spatio-temporal aggregation for visual analysis of movements"
   categories:
+    - GeoSpatialData
+    - TimeOriented
 10.1057/ivs.2008.31:
   title: "Characterizing Users' Visual Analytic Activity for Insight Provenance"
   categories:
@@ -1347,6 +1369,8 @@
 10.1007/3-540-31190-4:
   title: "Exploratory analysis of spatial and temporal data - a systematic approach"
   categories:
+    - GeoSpatialData
+    - TimeOriented
 10.1109/VIS.2005.102:
   title: "The value of visualization"
   categories:
@@ -1396,6 +1420,7 @@
   title: "Whole field modelling. Effective real-time and post-survey visualization of underwater pipelines"
   categories:
     - Survey
+    - Performance
 10.1109/38.708564:
   title: "Ten More Unsolved Problems in Computer Graphics"
   categories:
